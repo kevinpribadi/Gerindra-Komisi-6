@@ -1,4 +1,4 @@
-name: Auto Update Komisi IV Data
+name: Auto Update Komisi VI Data
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Run automation engine
         env:
-          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}   # opsional; kalau kosong, NTP pakai fallback
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}   # opsional; kalau kosong, neraca perdagangan pakai fallback
         run: python engine.py
 
       - name: Commit and push changes
@@ -37,5 +37,5 @@ jobs:
           git add live_data.json
           # engine TIDAK menulis ulang file kalau konten (tanpa timestamp) sama,
           # jadi 'nothing to commit' di sini = memang tidak ada perubahan berarti.
-          git commit -m "Auto-update Komisi IV data" || echo "Tidak ada perubahan, lewati commit."
+          git commit -m "Auto-update Komisi VI data" || echo "Tidak ada perubahan, lewati commit."
           git push
