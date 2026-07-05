@@ -1353,15 +1353,15 @@
     <div class="ticker-label">&#9654; LIVE DATA</div>
     <div class="ticker-items">
       <div class="ticker-item">
-        <span class="ticker-symbol">Harga Beras Nasional</span>
-        <span class="ticker-value" id="beras-ticker">---</span>
-        <span class="ticker-unit">/ Kg</span>
+        <span class="ticker-symbol">Kurs USD/IDR</span>
+        <span class="ticker-value" id="kurs-ticker">---</span>
+        <span class="ticker-unit">Rupiah</span>
       </div>
       <span class="ticker-sep">|</span>
       <div class="ticker-item">
-        <span class="ticker-symbol">Stok Beras Bulog</span>
-        <span class="ticker-value" id="bulog-ticker">---</span>
-        <span class="ticker-unit">Ton</span>
+        <span class="ticker-symbol">IHSG</span>
+        <span class="ticker-value" id="ihsg-ticker">---</span>
+        <span class="ticker-unit">poin</span>
       </div>
       <span class="ticker-sep">|</span>
       <div class="ticker-item">
@@ -1371,12 +1371,12 @@
     </div>
   </div>
 
-  <!-- SECTION: STATISTIK KETAHANAN PANGAN & PERTANIAN -->
+  <!-- SECTION: STATISTIK EKONOMI, INVESTASI & KOPERASI -->
   <div class="section-header">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 008 20C19 20 22 3 22 3c-1 2-8 2-8 2 1.66-1.09 3.76-1.8 6-2-2.88 1.14-5.39 4.42-6.12 6.13C14 6.13 17 8 17 8z"/></svg>
     </div>
-    <div class="section-title">Statistik Ketahanan Pangan &amp; Pertanian (BPS · KKP · BAPANAS)</div>
+    <div class="section-title">Statistik Ekonomi, Investasi &amp; Koperasi (BKPM · BPS · KEMENKOP)</div>
     <div class="section-line"></div>
     <div class="section-badge">MAKRO DATA</div>
   </div>
@@ -1389,58 +1389,28 @@
     <div class="panel-body">
       <div class="macro-grid">
         <div class="stat-card">
-          <div class="stat-label">Nilai Tukar Petani (NTP)</div>
-          <div class="stat-value" id="ntp-display" style="font-size:24px">---</div>
-          <div class="stat-unit">BPS · Indeks Kemakmuran</div>
-          <div id="ntp-conf" class="stat-confidence fallback">MEMUAT</div>
+          <div class="stat-label">Realisasi Investasi</div>
+          <div class="stat-value" id="investasi-display" style="font-size:20px">---</div>
+          <div class="stat-unit">Kementerian Investasi/BKPM · Kumulatif Tahunan</div>
+          <div id="investasi-conf" class="stat-confidence fallback">MEMUAT</div>
         </div>
         <div class="stat-card">
-          <div class="stat-label">Luas Panen Padi</div>
-          <div class="stat-value" id="luas-padi-display" style="font-size:22px">---</div>
-          <div class="stat-unit">BPS · Est. Luas Lahan</div>
-          <div id="luas-padi-conf" class="stat-confidence fallback">MEMUAT</div>
+          <div class="stat-label">Neraca Perdagangan</div>
+          <div class="stat-value green" id="neraca-display" style="font-size:20px">---</div>
+          <div class="stat-unit">BPS · Ekspor-Impor</div>
+          <div id="neraca-conf" class="stat-confidence fallback">MEMUAT</div>
         </div>
         <div class="stat-card">
-          <div class="stat-label">Produksi Beras Nasional</div>
-          <div class="stat-value green" id="prod-beras-display" style="font-size:22px">---</div>
-          <div class="stat-unit">BPS · Hasil Gilingan</div>
-          <div id="prod-beras-conf" class="stat-confidence fallback">MEMUAT</div>
+          <div class="stat-label">Jumlah Koperasi Aktif</div>
+          <div class="stat-value" id="koperasi-display" style="font-size:20px">---</div>
+          <div class="stat-unit">KEMENKOP · Unit</div>
+          <div id="koperasi-conf" class="stat-confidence fallback">MEMUAT</div>
         </div>
         <div class="stat-card">
-          <div class="stat-label">Luas Panen Jagung</div>
-          <div class="stat-value" id="luas-jagung-display" style="font-size:22px">---</div>
-          <div class="stat-unit">BPS · Est. Luas Lahan</div>
-          <div id="luas-jagung-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Produksi Jagung Nasional</div>
-          <div class="stat-value green" id="prod-jagung-display" style="font-size:22px">---</div>
-          <div class="stat-unit">BPS · Pipilan Kering</div>
-          <div id="prod-jagung-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Kampung Nelayan Modern</div>
-          <div class="stat-value" id="nelayan-display" style="font-size:20px">---</div>
-          <div class="stat-unit">KKP · Program Merah Putih</div>
-          <div id="nelayan-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Rata-Rata Harga Pangan</div>
-          <div class="stat-value green" id="harga-pangan-display" style="font-size:18px">---</div>
-          <div class="stat-unit">BAPANAS · Indeks Perkembangan</div>
-          <div id="harga-pangan-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Bantuan Pangan Beras</div>
-          <div class="stat-value" id="bantuan-pangan-display" style="font-size:20px">---</div>
-          <div class="stat-unit">BAPANAS · Penyaluran CPP</div>
-          <div id="bantuan-pangan-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Realisasi SPHP Bulog</div>
-          <div class="stat-value" id="sphp-display" style="font-size:20px">---</div>
-          <div class="stat-unit">BULOG · Operasi Pasar</div>
-          <div id="sphp-conf" class="stat-confidence fallback">MEMUAT</div>
+          <div class="stat-label">Jumlah UMKM</div>
+          <div class="stat-value" id="umkm-display" style="font-size:20px">---</div>
+          <div class="stat-unit">KEMENKOP/BPS · Unit Usaha</div>
+          <div id="umkm-conf" class="stat-confidence fallback">MEMUAT</div>
         </div>
       </div>
     </div>
@@ -1639,16 +1609,16 @@
         <div class="panel-body">
           <div class="market-stats">
             <div class="stat-card">
-              <div class="stat-label">Harga Beras Nasional</div>
-              <div class="stat-value" id="beras-display">---</div>
-              <div class="stat-unit">Rupiah per Kg</div>
-              <div id="beras-conf" class="stat-confidence fallback">MEMUAT</div>
+              <div class="stat-label">Kurs USD/IDR</div>
+              <div class="stat-value" id="kurs-display">---</div>
+              <div class="stat-unit">Rupiah per USD</div>
+              <div id="kurs-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
             <div class="stat-card">
-              <div class="stat-label">Stok Beras Bulog</div>
-              <div class="stat-value green" id="bulog-display">---</div>
-              <div class="stat-unit">Ton</div>
-              <div id="bulog-conf" class="stat-confidence fallback">MEMUAT</div>
+              <div class="stat-label">IHSG</div>
+              <div class="stat-value green" id="ihsg-display">---</div>
+              <div class="stat-unit">Indeks Harga Saham Gabungan · poin</div>
+              <div id="ihsg-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
           </div>
         </div>
@@ -1798,22 +1768,22 @@
 "use strict";
 
 const PARTY_MAP = {
+  // Gerindra (7 — fraksigerindra.id per 5 Jul 2026; Mulyadi tambahan vs daftar lama)
+  "Andre Rosiade": "Gerindra", "Khilmi": "Gerindra", "Muhammad Husein Fadlulloh": "Gerindra", "Mulan Jameela": "Gerindra", "Kawendra Lukistian": "Gerindra", "Unru Baso": "Gerindra", "Mulyadi": "Gerindra",
   // PDI-P
-  "Alex Indra Lukman": "PDI-P", "Sonny T. Danaparamita": "PDI-P", "Mayjen TNI (Purn) Sturman Panjaitan": "PDI-P", "Rokhmin Dahuri": "PDI-P", "I Nyoman Adi Wiryatama": "PDI-P", "Paolus Hadi": "PDI-P", "Agus Ambo Djiwa": "PDI-P", "I Ketut Suwendra": "PDI-P", "Edoardus Kaize": "PDI-P",
-  // Golkar
-  "Panggah Susanto": "Golkar", "Robert Joppy Kardinal": "Golkar", "Adrianus Asia Sidot": "Golkar", "Eko Wahyudi": "Golkar", "Firman Subagyo": "Golkar", "Alien Mus": "Golkar", "Dadang M Naser": "Golkar", "Ilham Pangestu": "Golkar",
-  // Gerindra
-  "Siti Hediati Soeharto": "Gerindra", "Darori Wonodipuro": "Gerindra", "Dwita Ria Gunadi": "Gerindra", "Endang Setyawati Thohari": "Gerindra", "TA Khalid": "Gerindra", "Sumail Abdullah": "Gerindra", "Melati": "Gerindra",
+  "Adisatrya Suryo Sulisto": "PDI-P", "Mufti Anam": "PDI-P", "Darmadi Durianto": "PDI-P", "Rieke Diah Pitaloka": "PDI-P", "I Gusti Ngurah Kesuma Kelakan": "PDI-P", "Sadarestuwati": "PDI-P", "Ida Nurlaela": "PDI-P", "Budi Sulistyono": "PDI-P", "Totok Hedi Santosa": "PDI-P",
+  // Golkar (sumber bertentangan — daftar lama dipertahankan, owner konfirmasi)
+  "Nurdin Halid": "Golkar", "Gde Sumarjaya Linggih": "Golkar", "Ahmad Labib": "Golkar", "Sarifah Suraidah": "Golkar", "Doni Akbar": "Golkar", "Firnando Hadityo Ganinduto": "Golkar", "Rizki Faisal": "Golkar", "Muhammad Sarmuji": "Golkar",
   // NasDem
-  "Sulaeman L Hamzah": "NasDem", "Ananda Tohpati": "NasDem", "Cindy Monica Salsabila Setiawan": "NasDem", "Rajiv": "NasDem", "Arief Rahman": "NasDem", "Muhammad Habibur Rochman": "NasDem",
+  "Rachmat Gobel": "NasDem", "Asep Wahyuwijaya": "NasDem", "I Nengah Senantara": "NasDem", "Randi Zulmariadi": "NasDem", "Rudi Hartono Bangun": "NasDem", "Subardi": "NasDem",
   // PKB
-  "Jaelani": "PKB", "Daniel Johan": "PKB", "Hindun Anisah": "PKB", "Usman Husin": "PKB", "Rina Sa'adah": "PKB",
+  "Anggia Erma Rini": "PKB", "Rivqy Abdul Halim": "PKB", "Nasim Khan": "PKB", "Ida Fauziyah": "PKB", "Imas Aan Ubudiah": "PKB",
   // PKS
-  "Abdul Kharis": "PKS", "Slamet": "PKS", "Johan Rosihan": "PKS", "Riyono": "PKS", "Rahmat Saleh": "PKS",
+  "Amin Ak.": "PKS", "Rizal Bawazier": "PKS", "Ghufran": "PKS", "Ismail": "PKS",
   // PAN
-  "Ahmad Yohan": "PAN", "Herry Dermawan": "PAN", "Irham Jafar Lan Putra": "PAN", "Ajbar": "PAN",
-  // Demokrat
-  "Bambang Purwanto": "Demokrat", "Ellen Esther Pelealu": "Demokrat", "Hasan Saleh": "Demokrat", "Muhammad Zulfikar Suhardi": "Demokrat"
+  "Eko Patrio": "PAN", "Nasril Bahar": "PAN", "Abdul Hakim Bafagih": "PAN", "Iskandar": "PAN",
+  // Demokrat (Tutik Kusuma Wardhani pindah Komisi IX Feb 2025 -> dikeluarkan)
+  "Sartono": "Demokrat", "Herman Khaeron": "Demokrat", "Faujia Helga": "Demokrat"
 };
 
 const PARTY_CSS = {
@@ -2155,9 +2125,10 @@ function bindTimeline() {
    Semua dari arsip berita — statistik FALLBACK tidak pernah disentuh.
    ============================================================ */
 const AGENCY_ABBREV = {
-  "Kementerian Pertanian": "Kementan", "Kementerian Kehutanan": "Kemenhut",
-  "Kementerian Kelautan dan Perikanan": "KKP", "Badan Karantina Indonesia": "Barantin",
-  "Badan Pangan Nasional": "Bapanas", "Perum Bulog": "Bulog"
+  "Kementerian BUMN": "Kem.BUMN", "Kementerian Perdagangan": "Kemendag",
+  "Kementerian Koperasi": "Kemenkop", "Danantara": "Danantara",
+  "BPKN": "BPKN", "KPPU": "KPPU", "BP Batam": "BP Batam",
+  "BPK Sabang": "BPKS", "Dekopin": "Dekopin", "Badan Pengaturan BUMN": "BP-BUMN"
 };
 function dayKey(d) {
   return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
@@ -2688,15 +2659,15 @@ async function loadData() {
     buildAnalysis();
     applyHashState();
 
-    const berasRaw = data.harga_beras && typeof data.harga_beras === 'object' ? data.harga_beras.value : data.harga_beras;
-    const berasVal = berasRaw ? "Rp " + Number(berasRaw).toLocaleString("id-ID") : 'Data tidak tersedia';
-    document.getElementById("beras-display").textContent = berasVal;
-    document.getElementById("beras-ticker").textContent = berasVal;
+    const kursRaw = data.kurs_usd_idr && typeof data.kurs_usd_idr === 'object' ? data.kurs_usd_idr.value : data.kurs_usd_idr;
+    const kursVal = kursRaw ? "Rp " + Number(kursRaw).toLocaleString("id-ID") : 'Data tidak tersedia';
+    document.getElementById("kurs-display").textContent = kursVal;
+    document.getElementById("kurs-ticker").textContent = kursVal;
 
-    const bulogRaw = data.stok_bulog && typeof data.stok_bulog === 'object' ? data.stok_bulog.value : data.stok_bulog;
-    const bulogVal = bulogRaw ? Number(bulogRaw).toLocaleString("id-ID") + " Ton" : 'Data tidak tersedia';
-    document.getElementById("bulog-display").textContent = bulogVal;
-    document.getElementById("bulog-ticker").textContent = bulogVal;
+    const ihsgRaw = data.ihsg && typeof data.ihsg === 'object' ? data.ihsg.value : data.ihsg;
+    const ihsgVal = ihsgRaw ? Number(ihsgRaw).toLocaleString("id-ID") + " poin" : 'Data tidak tersedia';
+    document.getElementById("ihsg-display").textContent = ihsgVal;
+    document.getElementById("ihsg-ticker").textContent = ihsgVal;
 
     const ts = data.last_updated ? fmtDate(data.last_updated) : 'Data tidak tersedia';
     document.getElementById("last-updated-time").textContent = ts;
@@ -2730,17 +2701,12 @@ async function loadData() {
       renderConfBadge(confId, stat);
     }
     window.__confBadgeInnerHTML = confBadgeInnerHTML;   // ekspos untuk verifikasi
-    if (data.harga_beras && typeof data.harga_beras === 'object') renderConfBadge('beras-conf', data.harga_beras);
-    if (data.stok_bulog && typeof data.stok_bulog === 'object') renderConfBadge('bulog-conf', data.stok_bulog);
-    setStatCard("ntp-display",           "ntp-conf",           stats.ntp);
-    setStatCard("luas-padi-display",     "luas-padi-conf",     stats.luas_panen_padi);
-    setStatCard("prod-beras-display",    "prod-beras-conf",    stats.produksi_beras);
-    setStatCard("luas-jagung-display",   "luas-jagung-conf",   stats.luas_panen_jagung);
-    setStatCard("prod-jagung-display",   "prod-jagung-conf",   stats.produksi_jagung);
-    setStatCard("nelayan-display",       "nelayan-conf",       stats.kampung_nelayan);
-    setStatCard("harga-pangan-display",  "harga-pangan-conf",  stats.harga_pangan_avg);
-    setStatCard("bantuan-pangan-display","bantuan-pangan-conf",stats.bantuan_pangan);
-    setStatCard("sphp-display",          "sphp-conf",          stats.realisasi_sphp);
+    if (data.kurs_usd_idr && typeof data.kurs_usd_idr === 'object') renderConfBadge('kurs-conf', data.kurs_usd_idr);
+    if (data.ihsg && typeof data.ihsg === 'object') renderConfBadge('ihsg-conf', data.ihsg);
+    setStatCard("investasi-display", "investasi-conf", stats.realisasi_investasi);
+    setStatCard("neraca-display",    "neraca-conf",    stats.neraca_perdagangan);
+    setStatCard("koperasi-display",  "koperasi-conf",  stats.jumlah_koperasi);
+    setStatCard("umkm-display",      "umkm-conf",      stats.jumlah_umkm);
 
     // Scrape status banner
     const ss = data.scrape_status;
@@ -2861,30 +2827,32 @@ function buildWAFocusBriefing(agency) {
    FOKUS MITRA (P4): berita + statistik terkait + cetak
    ============================================================ */
 const FOCUS_STATS = {
-  "Kementerian Pertanian":               ["ntp", "luas_panen_padi", "produksi_beras", "luas_panen_jagung", "produksi_jagung"],
-  "Kementerian Kehutanan":               [],
-  "Kementerian Kelautan dan Perikanan":  ["kampung_nelayan"],
-  "Badan Karantina Indonesia":           [],
-  "Badan Pangan Nasional":               ["@harga_beras", "harga_pangan_avg", "bantuan_pangan"],
-  "Perum Bulog":                         ["@stok_bulog", "realisasi_sphp"]
+  "Kementerian BUMN":        ["@ihsg"],
+  "Kementerian Perdagangan": ["@kurs_usd_idr", "neraca_perdagangan"],
+  "Kementerian Koperasi":    ["jumlah_koperasi", "jumlah_umkm"],
+  "Danantara":               [],
+  "BPKN":                    [],
+  "KPPU":                    [],
+  "BP Batam":                [],
+  "BPK Sabang":              [],
+  "Dekopin":                 ["jumlah_koperasi"],
+  "Badan Pengaturan BUMN":   []
 };
 const STAT_LABELS = {
-  ntp: "Nilai Tukar Petani (NTP)", luas_panen_padi: "Luas Panen Padi",
-  produksi_beras: "Produksi Beras", luas_panen_jagung: "Luas Panen Jagung",
-  produksi_jagung: "Produksi Jagung", kampung_nelayan: "Kampung Nelayan Modern",
-  harga_pangan_avg: "Rata-rata Harga Pangan", bantuan_pangan: "Bantuan Pangan Beras",
-  realisasi_sphp: "Realisasi SPHP", "@harga_beras": "Harga Beras Nasional", "@stok_bulog": "Stok Beras Bulog"
+  realisasi_investasi: "Realisasi Investasi", neraca_perdagangan: "Neraca Perdagangan",
+  jumlah_koperasi: "Jumlah Koperasi Aktif", jumlah_umkm: "Jumlah UMKM",
+  "@kurs_usd_idr": "Kurs USD/IDR", "@ihsg": "IHSG"
 };
 
 function focusStatHTML(key) {
-  var s = key === "@harga_beras" ? liveData.harga_beras
-        : key === "@stok_bulog"  ? liveData.stok_bulog
+  var s = key === "@kurs_usd_idr" ? liveData.kurs_usd_idr
+        : key === "@ihsg"          ? liveData.ihsg
         : (liveData.macro_stats || {})[key];
   if (!s || typeof s !== "object") return "";
   var v = s.value;
   if (v == null || v === "") v = "Data tidak tersedia";
-  else if (key === "@harga_beras") v = "Rp " + Number(v).toLocaleString("id-ID");
-  else if (key === "@stok_bulog" && typeof v === "number") v = Number(v).toLocaleString("id-ID") + " Ton";
+  else if (key === "@kurs_usd_idr") v = "Rp " + Number(v).toLocaleString("id-ID");
+  else if (key === "@ihsg" && typeof v === "number") v = Number(v).toLocaleString("id-ID") + " poin";
   return '<div class="focus-stat">' +
     '<div class="focus-stat-label">' + esc(STAT_LABELS[key] || key) + '</div>' +
     '<div class="focus-stat-value">' + esc(String(v)) + '</div>' +
@@ -3074,25 +3042,24 @@ function astGreet() {
 }
 
 const AST_INDICATORS = [
-  { keys:["harga beras"], label:"Harga Beras Nasional", get:function(d){ return d.harga_beras; }, money:true },
-  { keys:["stok bulog","stok beras"], label:"Stok Beras Bulog", get:function(d){ return d.stok_bulog; }, ton:true },
-  { keys:["ntp","nilai tukar petani","nilai tukar"], label:"Nilai Tukar Petani (NTP)", get:function(d){ return d.macro_stats && d.macro_stats.ntp; } },
-  { keys:["produksi beras"], label:"Produksi Beras Nasional", get:function(d){ return d.macro_stats && d.macro_stats.produksi_beras; } },
-  { keys:["luas panen padi"], label:"Luas Panen Padi", get:function(d){ return d.macro_stats && d.macro_stats.luas_panen_padi; } },
-  { keys:["produksi jagung"], label:"Produksi Jagung Nasional", get:function(d){ return d.macro_stats && d.macro_stats.produksi_jagung; } },
-  { keys:["luas panen jagung"], label:"Luas Panen Jagung", get:function(d){ return d.macro_stats && d.macro_stats.luas_panen_jagung; } },
-  { keys:["kampung nelayan"], label:"Kampung Nelayan Modern", get:function(d){ return d.macro_stats && d.macro_stats.kampung_nelayan; } },
-  { keys:["harga pangan"], label:"Rata-rata Harga Pangan", get:function(d){ return d.macro_stats && d.macro_stats.harga_pangan_avg; } },
-  { keys:["bantuan pangan"], label:"Bantuan Pangan Beras", get:function(d){ return d.macro_stats && d.macro_stats.bantuan_pangan; } },
-  { keys:["sphp","realisasi sphp"], label:"Realisasi SPHP Bulog", get:function(d){ return d.macro_stats && d.macro_stats.realisasi_sphp; } },
+  { keys:["kurs","usd/idr","dolar","rupiah"], label:"Kurs USD/IDR", get:function(d){ return d.kurs_usd_idr; }, money:true },
+  { keys:["ihsg","indeks saham","saham gabungan"], label:"IHSG", get:function(d){ return d.ihsg; } },
+  { keys:["realisasi investasi","investasi"], label:"Realisasi Investasi", get:function(d){ return d.macro_stats && d.macro_stats.realisasi_investasi; } },
+  { keys:["neraca","surplus","defisit"], label:"Neraca Perdagangan", get:function(d){ return d.macro_stats && d.macro_stats.neraca_perdagangan; } },
+  { keys:["jumlah koperasi"], label:"Jumlah Koperasi Aktif", get:function(d){ return d.macro_stats && d.macro_stats.jumlah_koperasi; } },
+  { keys:["umkm","usaha mikro"], label:"Jumlah UMKM", get:function(d){ return d.macro_stats && d.macro_stats.jumlah_umkm; } },
 ];
 const AST_AGENCIES = [
-  { keys:["kementan","kementerian pertanian"], name:"Kementerian Pertanian" },
-  { keys:["kehutanan","kemenhut"], name:"Kementerian Kehutanan" },
-  { keys:["kkp","kelautan","perikanan"], name:"Kementerian Kelautan dan Perikanan" },
-  { keys:["karantina","barantin"], name:"Badan Karantina Indonesia" },
-  { keys:["bapanas","badan pangan"], name:"Badan Pangan Nasional" },
-  { keys:["bulog"], name:"Perum Bulog" },
+  { keys:["badan pengaturan"], name:"Badan Pengaturan BUMN" },
+  { keys:["kementerian bumn","kemen bumn","bumn"], name:"Kementerian BUMN" },
+  { keys:["kemendag","perdagangan"], name:"Kementerian Perdagangan" },
+  { keys:["kemenkop","koperasi"], name:"Kementerian Koperasi" },
+  { keys:["danantara"], name:"Danantara" },
+  { keys:["bpkn","konsumen"], name:"BPKN" },
+  { keys:["kppu","persaingan"], name:"KPPU" },
+  { keys:["batam"], name:"BP Batam" },
+  { keys:["sabang"], name:"BPK Sabang" },
+  { keys:["dekopin"], name:"Dekopin" },
 ];
 
 function fmtStatVal(ind, s) {
@@ -3279,12 +3246,12 @@ function buildPDF() {
 
   const ms = liveData.macro_stats || {};
   const picks = [
-    ["Harga Beras Nasional", liveData.harga_beras, true, false],
-    ["Nilai Tukar Petani (NTP)", ms.ntp, false, false],
-    ["Produksi Beras Nasional", ms.produksi_beras, false, false],
-    ["Stok Beras Bulog", liveData.stok_bulog, false, true],
-    ["Luas Panen Padi", ms.luas_panen_padi, false, false],
-    ["Bantuan Pangan Beras", ms.bantuan_pangan, false, false],
+    ["Kurs USD/IDR", liveData.kurs_usd_idr, true, false],
+    ["IHSG", liveData.ihsg, false, false],
+    ["Realisasi Investasi", ms.realisasi_investasi, false, false],
+    ["Neraca Perdagangan", ms.neraca_perdagangan, false, false],
+    ["Jumlah Koperasi Aktif", ms.jumlah_koperasi, false, false],
+    ["Jumlah UMKM", ms.jumlah_umkm, false, false],
   ];
   doc.setFontSize(9.5);
   picks.forEach(function(p) {
