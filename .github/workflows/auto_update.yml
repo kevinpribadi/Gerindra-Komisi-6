@@ -1,0 +1,41 @@
+name: Auto Update Komisi IV Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write          # wajib agar git push dari Action diizinkan
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt      # satu sumber dependency
+
+      - name: Run automation engine
+        env:
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}   # opsional; kalau kosong, NTP pakai fallback
+        run: python engine.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add live_data.json
+          # engine TIDAK menulis ulang file kalau konten (tanpa timestamp) sama,
+          # jadi 'nothing to commit' di sini = memang tidak ada perubahan berarti.
+          git commit -m "Auto-update Komisi IV data" || echo "Tidak ada perubahan, lewati commit."
+          git push

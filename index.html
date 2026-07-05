@@ -3,231 +3,1609 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>NPCC - National Political Command Center</title>
-  <meta name="description" content="Dasbor pemantauan intelijen nasional: data pasar, berita lembaga, dan aktivitas legislatif Komisi VI DPR RI." />
+  <title>Dasbor Intelijen – Komisi IV DPR RI (Fraksi Gerindra)</title>
+  <meta name="description" content="Dasbor pemantauan intelijen nasional: data pasar, berita lembaga, dan aktivitas legislatif Komisi IV DPR RI (Pertanian, Kehutanan, Kelautan) – Fraksi Gerindra." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;600;700&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Montserrat:wght@600;700;800;900&display=swap" rel="stylesheet" />
+  <!-- jsPDF dimuat lazy saat tombol "Unduh Ringkasan" diklik (lihat ensureJsPDF) -->
+
   <style>
+    /* ============================================================
+       DESIGN TOKENS – Fraksi Gerindra Official Theme
+       ============================================================ */
     :root {
-      --bg-primary:#04080f; --bg-secondary:#080e1a; --bg-panel:#0b1222; --bg-card:#0d1629;
-      --border-dim:#1a2840; --border-glow:#1e3a5f;
-      --accent-cyan:#00d4ff; --accent-green:#00ff88; --accent-amber:#ffb300;
-      --accent-red:#ff3860; --accent-blue:#2979ff;
-      --text-primary:#e8f4fd; --text-secondary:#7a9cbf; --text-muted:#3d5a7a;
-      --font-mono:"Share Tech Mono",monospace; --font-ui:"Rajdhani",sans-serif; --font-hud:"Orbitron",sans-serif;
+      /* Core palette */
+      --red-primary:   #b91c1c;  /* Gerindra Red */
+      --red-dark:      #991b1b;
+      --red-light:     #fee2e2;
+      --red-mid:       #fca5a5;
+      --gold:          #b45309;  /* Gerindra Gold accent */
+      --gold-light:    #fef3c7;
+      --gold-border:   #f59e0b;
+
+      /* Neutrals */
+      --bg-page:       #f1f5f9;  /* slate-100 */
+      --bg-white:      #ffffff;
+      --bg-header:     #b91c1c;
+      --bg-topbar:     #7f1d1d;  /* deeper red for utility bar */
+
+      --text-primary:  #111827;  /* gray-900 */
+      --text-secondary:#374151;  /* gray-700 */
+      --text-muted:    #6b7280;  /* gray-500 */
+      --text-white:    #ffffff;
+      --text-red:      #b91c1c;
+
+      --border-light:  #e5e7eb;  /* gray-200 */
+      --border-mid:    #d1d5db;  /* gray-300 */
+
+      /* Status */
+      --green:         #16a34a;
+      --green-bg:      #dcfce7;
+      --amber:         #d97706;
+      --amber-bg:      #fef3c7;
+      --blue:          #1d4ed8;
+      --blue-bg:       #dbeafe;
+
+      /* Typography */
+      --font-main: 'Inter', system-ui, sans-serif;
+      --font-heading: 'Montserrat', 'Inter', sans-serif;
+
+      /* Shadows */
+      --shadow-sm: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.05);
+      --shadow-md: 0 4px 6px rgba(0,0,0,.07), 0 2px 4px rgba(0,0,0,.05);
+      --shadow-lg: 0 10px 15px rgba(0,0,0,.08), 0 4px 6px rgba(0,0,0,.04);
+      --shadow-red: 0 4px 14px rgba(185,28,28,.18);
     }
-    *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
-    html { scroll-behavior:smooth; }
+
+    /* ============================================================
+       RESET & BASE
+       ============================================================ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
-      background:var(--bg-primary); color:var(--text-primary);
-      font-family:var(--font-ui); font-size:14px; min-height:100vh; overflow-x:hidden;
-      background-image:
-        radial-gradient(ellipse at 20% 0%, rgba(0,100,200,.08) 0%, transparent 60%),
-        radial-gradient(ellipse at 80% 100%, rgba(0,212,255,.05) 0%, transparent 60%);
+      background: var(--bg-page);
+      color: var(--text-primary);
+      font-family: var(--font-main);
+      font-size: 14px;
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.6;
     }
-    body::before {
-      content:""; position:fixed; top:0; left:0; width:100%; height:100%;
-      background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.03) 2px,rgba(0,0,0,.03) 4px);
-      pointer-events:none; z-index:9999;
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #f1f5f9; }
+    ::-webkit-scrollbar-thumb { background: var(--red-primary); border-radius: 3px; }
+    a { text-decoration: none; }
+
+    /* ============================================================
+       TOP UTILITY BAR
+       ============================================================ */
+    .top-utility-bar {
+      background: var(--bg-topbar);
+      padding: 5px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
     }
-    ::-webkit-scrollbar { width:4px; }
-    ::-webkit-scrollbar-track { background:var(--bg-primary); }
-    ::-webkit-scrollbar-thumb { background:var(--border-glow); border-radius:2px; }
+    .utility-bar-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .utility-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .utility-link {
+      font-size: 11px;
+      color: rgba(255,255,255,.75);
+      font-weight: 500;
+      letter-spacing: .3px;
+      transition: color .2s;
+    }
+    .utility-link:hover { color: #fff; }
+    .utility-sep { color: rgba(255,255,255,.3); font-size: 10px; }
+    .utility-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .status-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 600;
+      color: rgba(255,255,255,.85);
+      letter-spacing: .4px;
+    }
+    .status-dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: #4ade80;
+      box-shadow: 0 0 0 2px rgba(74,222,128,.3);
+      animation: pulse-dot 2s infinite;
+    }
+    .status-dot.amber { background: #fbbf24; box-shadow: 0 0 0 2px rgba(251,191,36,.3); }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; }
+      50% { opacity: .5; }
+    }
 
-    /* HEADER */
-    header { position:sticky; top:0; z-index:100; background:rgba(4,8,15,.93); backdrop-filter:blur(12px); border-bottom:1px solid var(--border-dim); padding:0 24px; }
-    .header-inner { max-width:1600px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; height:56px; gap:24px; }
-    .logo { display:flex; align-items:center; gap:12px; }
-    .logo-icon { width:36px; height:36px; border:2px solid var(--accent-cyan); border-radius:4px; display:flex; align-items:center; justify-content:center; color:var(--accent-cyan); font-family:var(--font-hud); font-size:11px; font-weight:700; letter-spacing:1px; animation:pulse-border 3s infinite; }
-    @keyframes pulse-border { 0%,100% { box-shadow:0 0 12px rgba(0,212,255,.3); } 50% { box-shadow:0 0 24px rgba(0,212,255,.7); } }
-    .logo-text { font-family:var(--font-hud); font-size:15px; font-weight:700; letter-spacing:2px; }
-    .logo-sub { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); letter-spacing:3px; margin-top:1px; }
-    .header-status { display:flex; align-items:center; gap:20px; }
-    .status-chip { display:flex; align-items:center; gap:6px; font-family:var(--font-mono); font-size:10px; color:var(--text-secondary); letter-spacing:1px; }
-    .status-dot { width:6px; height:6px; border-radius:50%; background:var(--accent-green); box-shadow:0 0 6px var(--accent-green); animation:blink 2s infinite; }
-    .status-dot.amber { background:var(--accent-amber); box-shadow:0 0 6px var(--accent-amber); }
-    @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:.3; } }
-    #clock { font-family:var(--font-hud); font-size:13px; color:var(--accent-cyan); letter-spacing:2px; min-width:90px; text-align:right; }
+    /* ============================================================
+       HEADER
+       ============================================================ */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 200;
+      background: var(--bg-header);
+      box-shadow: 0 2px 12px rgba(185,28,28,.35);
+    }
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 68px;
+      gap: 24px;
+    }
 
-    /* MAIN */
-    main { max-width:1600px; margin:0 auto; padding:20px 24px 40px; }
+    /* Logo area */
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .logo-emblem {
+      width: 46px; height: 46px;
+      background: rgba(255,255,255,.15);
+      border: 2px solid rgba(255,255,255,.4);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .logo-emblem svg {
+      width: 28px; height: 28px;
+      fill: white;
+    }
+    .logo-text-wrap { display: flex; flex-direction: column; gap: 1px; }
+    .logo-title {
+      font-family: var(--font-heading);
+      font-size: 17px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: .5px;
+      line-height: 1.2;
+    }
+    .logo-subtitle {
+      font-size: 10px;
+      font-weight: 500;
+      color: rgba(255,255,255,.7);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
 
-    /* TICKER */
-    .ticker-bar { background:var(--bg-secondary); border:1px solid var(--border-dim); border-radius:6px; padding:10px 16px; display:flex; align-items:center; gap:32px; margin-bottom:20px; }
-    .ticker-label { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); letter-spacing:2px; white-space:nowrap; flex-shrink:0; }
-    .ticker-items { display:flex; gap:32px; align-items:center; flex:1; }
-    .ticker-item { display:flex; align-items:center; gap:8px; white-space:nowrap; }
-    .ticker-symbol { font-family:var(--font-mono); font-size:11px; color:var(--text-muted); letter-spacing:1px; }
-    .ticker-value { font-family:var(--font-hud); font-size:14px; font-weight:700; color:var(--accent-cyan); }
-    .ticker-unit { font-family:var(--font-mono); font-size:10px; color:var(--text-muted); }
-    .ticker-sep { color:var(--border-glow); font-size:18px; }
+    /* Header divider */
+    .header-divider {
+      width: 1px;
+      height: 36px;
+      background: rgba(255,255,255,.25);
+      flex-shrink: 0;
+    }
 
-    /* SECTION */
-    .section-header { display:flex; align-items:center; gap:10px; margin-bottom:16px; }
-    .section-line { flex:1; height:1px; background:linear-gradient(90deg,var(--border-glow),transparent); }
-    .section-title { font-family:var(--font-hud); font-size:11px; font-weight:700; letter-spacing:3px; color:var(--text-secondary); white-space:nowrap; }
-    .section-count { font-family:var(--font-mono); font-size:10px; color:var(--accent-cyan); background:rgba(0,212,255,.08); border:1px solid rgba(0,212,255,.2); padding:2px 8px; border-radius:3px; }
+    /* Commission label */
+    .commission-label {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .commission-label .badge-komisi {
+      font-size: 10px;
+      font-weight: 700;
+      color: rgba(255,255,255,.6);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+    }
+    .commission-label .badge-name {
+      font-family: var(--font-heading);
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+    }
 
-    /* GRID */
-    .two-col { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:24px; }
-    @media(max-width:1100px) { .two-col { grid-template-columns:1fr; } }
+    /* Header right */
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-left: auto;
+    }
+    #clock {
+      font-family: var(--font-heading);
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 2px;
+      min-width: 100px;
+      text-align: right;
+    }
+    .gerindra-badge {
+      background: rgba(255,255,255,.15);
+      border: 1px solid rgba(255,255,255,.3);
+      border-radius: 6px;
+      padding: 5px 12px;
+      font-family: var(--font-heading);
+      font-size: 11px;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 1px;
+      white-space: nowrap;
+    }
 
-    /* PANEL */
-    .panel { background:var(--bg-panel); border:1px solid var(--border-dim); border-radius:8px; overflow:hidden; position:relative; transition:border-color .3s; }
-    .panel:hover { border-color:var(--border-glow); }
-    .panel::before { content:""; position:absolute; top:0; left:0; right:0; height:2px; background:linear-gradient(90deg,transparent,var(--accent-cyan),transparent); opacity:0; transition:opacity .3s; }
-    .panel:hover::before { opacity:1; }
-    .panel-header { display:flex; align-items:center; justify-content:space-between; padding:12px 16px; border-bottom:1px solid var(--border-dim); background:rgba(0,0,0,.2); }
-    .panel-title { font-family:var(--font-hud); font-size:10px; font-weight:700; letter-spacing:2px; color:var(--text-secondary); }
-    .panel-badge { font-family:var(--font-mono); font-size:9px; padding:2px 6px; border-radius:2px; }
-    .panel-badge.green { color:var(--accent-green); background:rgba(0,255,136,.08); border:1px solid rgba(0,255,136,.2); }
-    .panel-badge.amber { color:var(--accent-amber); background:rgba(255,179,0,.08); border:1px solid rgba(255,179,0,.2); }
-    .panel-badge.cyan { color:var(--accent-cyan); background:rgba(0,212,255,.08); border:1px solid rgba(0,212,255,.2); }
-    .panel-body { padding:16px; }
+    /* ============================================================
+       MAIN WRAPPER
+       ============================================================ */
+    main {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 24px 24px 48px;
+    }
 
-    /* NEWS */
-    .news-list { display:flex; flex-direction:column; gap:12px; }
-    .news-card { background:var(--bg-card); border:1px solid var(--border-dim); border-left:3px solid var(--accent-cyan); border-radius:4px; padding:12px 14px; transition:all .2s; animation:fadeInUp .4s ease forwards; opacity:0; }
-    .news-card:hover { border-color:var(--accent-cyan); border-left-color:var(--accent-green); background:rgba(0,212,255,.04); transform:translateX(3px); }
-    .news-card.red-accent { border-left-color:var(--accent-red); }
-    .news-card.amber-accent { border-left-color:var(--accent-amber); }
-    .news-card.green-accent { border-left-color:var(--accent-green); }
-    .news-card.blue-accent { border-left-color:var(--accent-blue); }
-    @keyframes fadeInUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
-    .news-agency { font-family:var(--font-mono); font-size:9px; color:var(--accent-cyan); letter-spacing:2px; margin-bottom:5px; text-transform:uppercase; }
-    .news-title { font-size:13px; font-weight:600; color:var(--text-primary); line-height:1.5; margin-bottom:6px; text-decoration:none; display:block; }
-    .news-title:hover { color:var(--accent-cyan); }
-    .news-date { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); }
-    .analysis-tags { display:flex; gap:6px; margin-top:8px; flex-wrap:wrap; }
-    .tag { font-family:var(--font-mono); font-size:9px; padding:2px 6px; border-radius:2px; letter-spacing:1px; }
-    .tag-pro { color:var(--accent-green); background:rgba(0,255,136,.06); border:1px solid rgba(0,255,136,.15); }
-    .tag-kontra { color:var(--accent-red); background:rgba(255,56,96,.06); border:1px solid rgba(255,56,96,.15); }
+    /* ============================================================
+       TICKER BAR
+       ============================================================ */
+    .ticker-bar {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-left: 4px solid var(--red-primary);
+      border-radius: 10px;
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow-sm);
+    }
+    .ticker-label {
+      font-family: var(--font-heading);
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--red-primary);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      white-space: nowrap;
+      flex-shrink: 0;
+      border-right: 1px solid var(--border-light);
+      padding-right: 20px;
+    }
+    .ticker-items {
+      display: flex;
+      gap: 28px;
+      align-items: center;
+      flex: 1;
+      flex-wrap: wrap;
+    }
+    .ticker-item { display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+    .ticker-symbol { font-size: 11px; font-weight: 600; color: var(--text-muted); letter-spacing: .5px; }
+    .ticker-value { font-family: var(--font-heading); font-size: 15px; font-weight: 700; color: var(--red-primary); }
+    .ticker-unit { font-size: 10px; color: var(--text-muted); }
+    .ticker-sep { color: var(--border-mid); font-size: 16px; }
 
-    /* MARKET */
-    .market-stats { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
-    .stat-card { background:var(--bg-card); border:1px solid var(--border-dim); border-radius:6px; padding:20px; text-align:center; transition:all .3s; }
-    .stat-card:hover { border-color:var(--accent-cyan); box-shadow:0 0 20px rgba(0,212,255,.08); }
-    .stat-label { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); letter-spacing:2px; margin-bottom:10px; }
-    .stat-value { font-family:var(--font-hud); font-size:28px; font-weight:900; color:var(--accent-cyan); line-height:1; margin-bottom:6px; }
-    .stat-value.green { color:var(--accent-green); }
-    .stat-unit { font-family:var(--font-mono); font-size:10px; color:var(--text-secondary); }
+    /* ============================================================
+       SECTION HEADER
+       ============================================================ */
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .section-icon {
+      width: 28px; height: 28px;
+      background: var(--red-primary);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .section-icon svg { width: 14px; height: 14px; fill: white; }
+    .section-title {
+      font-family: var(--font-heading);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: .3px;
+      white-space: nowrap;
+    }
+    .section-line {
+      flex: 1;
+      height: 2px;
+      background: linear-gradient(90deg, var(--border-light), transparent);
+      border-radius: 1px;
+    }
+    .section-count {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--red-primary);
+      background: var(--red-light);
+      border: 1px solid var(--red-mid);
+      padding: 2px 10px;
+      border-radius: 20px;
+    }
+    .section-badge {
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--gold);
+      background: var(--gold-light);
+      border: 1px solid var(--gold-border);
+      padding: 2px 8px;
+      border-radius: 20px;
+      letter-spacing: .5px;
+    }
 
-    /* MEMBERS */
-    .member-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:10px; }
-    .member-card { background:var(--bg-card); border:1px solid var(--border-dim); border-radius:5px; padding:10px 12px; transition:all .2s; animation:fadeInUp .4s ease forwards; opacity:0; }
-    .member-card:hover { border-color:var(--border-glow); background:rgba(0,212,255,.03); }
-    .member-name { font-size:12px; font-weight:600; color:var(--text-primary); margin-bottom:3px; }
-    .member-party { font-family:var(--font-mono); font-size:9px; letter-spacing:1px; margin-bottom:6px; }
-    .member-party.gerindra { color:#e74c3c; }
-    .member-party.pdip { color:#c0392b; }
-    .member-party.golkar { color:#f39c12; }
-    .member-party.pkb { color:#27ae60; }
-    .member-party.nasdem { color:#3498db; }
-    .member-party.pks { color:#1abc9c; }
-    .member-party.pan { color:#2980b9; }
-    .member-party.demokrat { color:#95a5a6; }
-    .member-news-title { font-size:11px; color:var(--text-secondary); line-height:1.45; }
-    .member-news-title a { color:inherit; text-decoration:none; }
-    .member-news-title a:hover { color:var(--accent-cyan); }
-    .member-news-date { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); margin-top:4px; }
-    .no-news { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); letter-spacing:1px; }
+    /* ============================================================
+       LAYOUT GRIDS
+       ============================================================ */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 28px;
+    }
+    @media(max-width: 1100px) { .two-col { grid-template-columns: 1fr; } }
 
-    /* FILTER */
-    .filter-bar { display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap; }
-    .filter-btn { font-family:var(--font-mono); font-size:10px; letter-spacing:1px; padding:4px 10px; border-radius:3px; border:1px solid var(--border-dim); background:transparent; color:var(--text-muted); cursor:pointer; transition:all .2s; }
-    .filter-btn:hover,.filter-btn.active { border-color:var(--accent-cyan); color:var(--accent-cyan); background:rgba(0,212,255,.05); }
+    .macro-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+    @media(max-width: 1000px) { .macro-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media(max-width: 600px) { .macro-grid { grid-template-columns: 1fr; } }
 
-    /* LOADER */
-    .loader-wrap { display:flex; align-items:center; justify-content:center; gap:10px; padding:40px; font-family:var(--font-mono); font-size:11px; color:var(--text-muted); letter-spacing:2px; }
-    .loader-dot { width:6px; height:6px; border-radius:50%; background:var(--accent-cyan); animation:loader 1.2s infinite; }
-    .loader-dot:nth-child(2) { animation-delay:.2s; }
-    .loader-dot:nth-child(3) { animation-delay:.4s; }
-    @keyframes loader { 0%,100% { opacity:.2; transform:scale(.8); } 50% { opacity:1; transform:scale(1.2); } }
+    .market-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
 
-    /* MISC */
-    .update-bar { display:flex; align-items:center; justify-content:center; gap:10px; padding:14px; margin-top:24px; border-top:1px solid var(--border-dim); }
-    .update-text { font-family:var(--font-mono); font-size:10px; color:var(--text-muted); letter-spacing:1px; }
-    #last-updated-time { color:var(--accent-cyan); }
-    .error-state { padding:20px; text-align:center; font-family:var(--font-mono); font-size:11px; color:var(--accent-red); background:rgba(255,56,96,.05); border:1px solid rgba(255,56,96,.15); border-radius:5px; margin:10px; line-height:1.8; }
-    .empty-state { padding:30px; text-align:center; font-family:var(--font-mono); font-size:11px; color:var(--text-muted); letter-spacing:2px; }
-    footer { border-top:1px solid var(--border-dim); padding:16px 24px; }
-    .footer-inner { max-width:1600px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; gap:16px; }
-    .footer-text { font-family:var(--font-mono); font-size:9px; color:var(--text-muted); letter-spacing:2px; }
-    .corner-deco { position:fixed; width:60px; height:60px; opacity:.1; pointer-events:none; }
-    .corner-deco.tl { top:60px; left:0; border-top:1px solid var(--accent-cyan); border-left:1px solid var(--accent-cyan); }
-    .corner-deco.tr { top:60px; right:0; border-top:1px solid var(--accent-cyan); border-right:1px solid var(--accent-cyan); }
-    .corner-deco.bl { bottom:0; left:0; border-bottom:1px solid var(--accent-cyan); border-left:1px solid var(--accent-cyan); }
-    .corner-deco.br { bottom:0; right:0; border-bottom:1px solid var(--accent-cyan); border-right:1px solid var(--accent-cyan); }
+    /* ============================================================
+       PANEL / CARD CONTAINER
+       ============================================================ */
+    .panel {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: var(--shadow-md);
+      transition: box-shadow .25s, transform .25s;
+    }
+    .panel:hover {
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-1px);
+    }
+    .panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      background: #fafafa;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .panel-title {
+      font-family: var(--font-heading);
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .panel-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 20px;
+      letter-spacing: .5px;
+    }
+    .panel-badge.green  { color: var(--green);  background: var(--green-bg);  }
+    .panel-badge.amber  { color: var(--amber);  background: var(--amber-bg);  }
+    .panel-badge.red    { color: var(--red-primary); background: var(--red-light); }
+    .panel-badge.blue   { color: var(--blue);   background: var(--blue-bg);   }
+    .panel-body { padding: 20px; }
+
+    /* ============================================================
+       STAT CARDS (macro indicators)
+       ============================================================ */
+    .stat-card {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-radius: 12px;
+      padding: 20px 18px;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+      transition: all .25s;
+      position: relative;
+      overflow: hidden;
+    }
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--red-primary), #ef4444);
+    }
+    .stat-card:hover {
+      box-shadow: var(--shadow-red);
+      border-color: var(--red-mid);
+      transform: translateY(-2px);
+    }
+    .stat-card a {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+    }
+    .stat-label {
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--text-muted);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .stat-value {
+      font-family: var(--font-heading);
+      font-size: 26px;
+      font-weight: 800;
+      color: var(--red-primary);
+      line-height: 1.1;
+      margin-bottom: 6px;
+    }
+    .stat-value.green { color: var(--green); }
+    .stat-value.gold  { color: var(--gold); }
+    .stat-unit {
+      font-size: 10px;
+      font-weight: 500;
+      color: var(--text-muted);
+    }
+
+    /* ============================================================
+       NEWS CARDS
+       ============================================================ */
+    .news-list { display: flex; flex-direction: column; gap: 12px; }
+
+    .news-card {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-left: 4px solid var(--red-primary);
+      border-radius: 8px;
+      padding: 14px 16px;
+      transition: all .2s;
+      animation: fadeInUp .35s ease forwards;
+      opacity: 0;
+    }
+    .news-card:hover {
+      border-left-color: var(--red-dark);
+      box-shadow: var(--shadow-md);
+      transform: translateX(2px);
+    }
+    .news-card.red-accent    { border-left-color: var(--red-primary); }
+    .news-card.amber-accent  { border-left-color: var(--gold-border); }
+    .news-card.green-accent  { border-left-color: var(--green); }
+    .news-card.blue-accent   { border-left-color: var(--blue); }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .news-agency {
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--red-primary);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+    }
+    .news-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.55;
+      margin-bottom: 6px;
+      display: block;
+      transition: color .2s;
+    }
+    .news-title:hover { color: var(--red-primary); }
+    .news-date {
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+    /* confidence badge on stat cards */
+    .stat-confidence {
+      display: inline-block;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: .5px;
+      padding: 2px 7px;
+      border-radius: 20px;
+      margin-top: 5px;
+      text-transform: uppercase;
+    }
+    .stat-confidence.fallback  { color: #6b7280; background: #f3f4f6; border: 1px solid #e5e7eb; }
+    .stat-confidence.unaudited { color: #b45309; background: #fef3c7; border: 1px solid #f59e0b; }
+    .stat-confidence.audited   { color: #15803d; background: #dcfce7; border: 1px solid #86efac; }
+    .stat-confidence a.src-link { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+    .stat-confidence a.src-link:hover { color: var(--red-primary); }
+
+    /* scrape-status banner */
+    .status-banner {
+      display: none;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 18px;
+      margin-bottom: 18px;
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid;
+    }
+    .status-banner.warn  { background: #fef3c7; color: #92400e; border-color: #fcd34d; }
+    .status-banner.error { background: var(--red-light); color: var(--red-dark); border-color: var(--red-mid); }
+    .status-banner.show  { display: flex; }
+
+    /* ============================================================
+       MEMBER CARDS
+       ============================================================ */
+    .member-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 12px;
+    }
+    .member-card {
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-radius: 10px;
+      padding: 14px 16px;
+      box-shadow: var(--shadow-sm);
+      transition: all .2s;
+      animation: fadeInUp .35s ease forwards;
+      opacity: 0;
+    }
+    .member-card:hover {
+      border-color: var(--red-mid);
+      box-shadow: var(--shadow-md);
+    }
+    .member-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+    .member-party {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 20px;
+    }
+    .member-party.gerindra { color: #b91c1c; background: #fee2e2; }
+    .member-party.pdip     { color: #be123c; background: #ffe4e6; }
+    .member-party.golkar   { color: #b45309; background: #fef3c7; }
+    .member-party.pkb      { color: #15803d; background: #dcfce7; }
+    .member-party.nasdem   { color: #1d4ed8; background: #dbeafe; }
+    .member-party.pks      { color: #0f766e; background: #ccfbf1; }
+    .member-party.pan      { color: #7c3aed; background: #ede9fe; }
+    .member-party.demokrat { color: #475569; background: #f1f5f9; }
+    .member-news-title {
+      font-size: 12px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+    .member-news-title a {
+      color: inherit;
+      transition: color .2s;
+    }
+    .member-news-title a:hover { color: var(--red-primary); }
+    .member-news-date {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 5px;
+    }
+    .no-news {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    /* ============================================================
+       FILTER BUTTONS
+       ============================================================ */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .filter-btn {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .5px;
+      padding: 5px 14px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border-mid);
+      background: var(--bg-white);
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all .2s;
+    }
+    .filter-btn:hover,
+    .filter-btn.active {
+      border-color: var(--red-primary);
+      color: var(--red-primary);
+      background: var(--red-light);
+    }
+
+    /* ============================================================
+       LOADER
+       ============================================================ */
+    .loader-wrap {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 40px;
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+      letter-spacing: 1px;
+    }
+    .loader-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--red-primary);
+      animation: loader 1.2s infinite;
+    }
+    .loader-dot:nth-child(2) { animation-delay: .2s; }
+    .loader-dot:nth-child(3) { animation-delay: .4s; }
+    @keyframes loader {
+      0%, 100% { opacity: .2; transform: scale(.7); }
+      50%       { opacity: 1;  transform: scale(1.2); }
+    }
+
+    /* ============================================================
+       MISC
+       ============================================================ */
+    .update-bar {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 14px;
+      margin-top: 24px;
+      border-top: 1px solid var(--border-light);
+    }
+    .update-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      flex-shrink: 0;
+    }
+    .update-text {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+    #last-updated-time { color: var(--red-primary); font-weight: 700; }
+
+    .error-state {
+      padding: 24px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--red-primary);
+      background: var(--red-light);
+      border: 1px solid var(--red-mid);
+      border-radius: 8px;
+      margin: 10px;
+      line-height: 1.8;
+    }
+    .empty-state {
+      padding: 32px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    /* ============================================================
+       FOOTER
+       ============================================================ */
+    footer {
+      background: var(--red-primary);
+      margin-top: 0;
+    }
+    .footer-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .footer-text {
+      font-size: 11px;
+      font-weight: 500;
+      color: rgba(255,255,255,.75);
+      letter-spacing: .5px;
+    }
+    .footer-brand {
+      font-family: var(--font-heading);
+      font-size: 12px;
+      font-weight: 700;
+      color: rgba(255,255,255,.9);
+      letter-spacing: 1px;
+    }
+
+    /* ============================================================
+       PAGE HERO STRIP (below header)
+       ============================================================ */
+    .page-hero {
+      background: linear-gradient(135deg, #7f1d1d 0%, var(--red-primary) 50%, #dc2626 100%);
+      padding: 20px 24px;
+    }
+    .page-hero-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .hero-title {
+      font-family: var(--font-heading);
+      font-size: 15px;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 3px;
+    }
+    .hero-sub {
+      font-size: 12px;
+      color: rgba(255,255,255,.75);
+      font-weight: 500;
+    }
+    .hero-stats {
+      display: flex;
+      gap: 20px;
+    }
+    .hero-stat {
+      text-align: center;
+    }
+    .hero-stat-num {
+      font-family: var(--font-heading);
+      font-size: 22px;
+      font-weight: 800;
+      color: #fff;
+    }
+    .hero-stat-lbl {
+      font-size: 10px;
+      color: rgba(255,255,255,.65);
+      font-weight: 600;
+      letter-spacing: .5px;
+      text-transform: uppercase;
+    }
+
+    /* ============================================================
+       RESPONSIVE
+       ============================================================ */
+    @media(max-width: 900px) {
+      .top-utility-bar { padding: 5px 14px; }
+      .utility-link { font-size: 10px; }
+    }
+
+    @media(max-width: 768px) {
+      .header-inner { height: 58px; gap: 10px; padding: 0 16px; }
+      .logo-title { font-size: 14px; }
+      .logo-subtitle { font-size: 9px; }
+      .hero-stats { display: none; }
+      .market-stats { grid-template-columns: 1fr; }
+      #clock { min-width: auto; font-size: 16px; }
+      .page-hero { padding: 14px 16px; }
+      .hero-title { font-size: 13.5px; }
+      .hero-sub { font-size: 11px; }
+      /* judul section boleh turun baris; sembunyikan garis dekoratif agar tak meluap */
+      .section-header { flex-wrap: wrap; gap: 8px; }
+      .section-title { white-space: normal; font-size: 12.5px; }
+      .section-line { display: none; }
+      .panel-body { padding: 16px; }
+      .panel-header { padding: 12px 16px; }
+    }
+
+    @media(max-width: 600px) {
+      /* utility bar: ringkas, sisakan indikator status saja */
+      .utility-left { display: none; }
+      .utility-bar-inner { justify-content: center; }
+      .utility-right { gap: 8px; }
+      .status-pill { font-size: 10px; }
+      /* ticker: tumpuk label di atas daftar item */
+      .ticker-bar { flex-direction: column; align-items: flex-start; gap: 10px; padding: 12px 16px; }
+      .ticker-label { border-right: none; border-bottom: 1px solid var(--border-light); padding-right: 0; padding-bottom: 8px; width: 100%; }
+      .ticker-items { gap: 12px 20px; }
+    }
+
+    @media(max-width: 480px) {
+      main { padding: 14px 12px 32px; }
+      .commission-label { display: none; }
+      .header-divider { display: none; }
+      .gerindra-badge { display: none; }
+      .logo-emblem { width: 40px; height: 40px; }
+      .logo-emblem svg { width: 24px; height: 24px; }
+      .stat-value { font-size: 22px; }
+      .filter-btn { padding: 6px 12px; }
+    }
+
+    /* ============================================================
+       TOOLBAR: SEARCH + STATUS WIDGET (fitur baru)
+       ============================================================ */
+    .toolbar {
+      display: flex;
+      gap: 16px;
+      align-items: stretch;
+      margin-bottom: 22px;
+      flex-wrap: wrap;
+    }
+    .search-wrap { flex: 1 1 360px; display: flex; flex-direction: column; gap: 6px; }
+    .search-box { position: relative; display: flex; align-items: center; }
+    .search-box svg { position: absolute; left: 14px; width: 16px; height: 16px; fill: var(--text-muted); pointer-events: none; }
+    .search-input {
+      width: 100%;
+      font-family: var(--font-main);
+      font-size: 13px;
+      padding: 12px 38px 12px 40px;
+      border: 1.5px solid var(--border-mid);
+      border-radius: 10px;
+      background: var(--bg-white);
+      color: var(--text-primary);
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .search-input:focus { outline: none; border-color: var(--red-primary); box-shadow: 0 0 0 3px rgba(185,28,28,.12); }
+    .search-clear {
+      position: absolute; right: 10px;
+      width: 22px; height: 22px;
+      border: none; border-radius: 50%;
+      background: var(--border-light); color: var(--text-secondary);
+      cursor: pointer; font-size: 14px; line-height: 1;
+      display: none; align-items: center; justify-content: center;
+    }
+    .search-clear.show { display: flex; }
+    .search-meta { font-size: 11px; color: var(--text-muted); min-height: 14px; padding-left: 2px; }
+    .search-meta strong { color: var(--red-primary); }
+
+    .status-widget {
+      flex: 0 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-left: 4px solid var(--red-primary);
+      border-radius: 10px;
+      padding: 10px 16px;
+      box-shadow: var(--shadow-sm);
+    }
+    .sw-info { display: flex; flex-direction: column; gap: 3px; }
+    .sw-line { display: flex; align-items: center; gap: 7px; font-size: 12px; color: var(--text-secondary); }
+    .sw-label { font-size: 10px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase; color: var(--text-muted); }
+    .sw-time { font-size: 12px; color: var(--text-primary); }
+    .sw-age-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+    .sw-age-dot.green { background: var(--green); }
+    .sw-age-dot.amber { background: var(--amber); }
+    .sw-age-dot.red   { background: #ef4444; }
+    .sw-age { font-size: 11px; font-weight: 600; }
+    .sw-actions { display: flex; flex-direction: column; gap: 6px; }
+    .btn-refresh, .btn-pdf {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-family: var(--font-heading);
+      font-size: 11px; font-weight: 700; letter-spacing: .4px;
+      padding: 7px 12px; border-radius: 8px; cursor: pointer;
+      border: 1.5px solid var(--red-primary);
+      white-space: nowrap; transition: all .2s;
+    }
+    .btn-refresh { background: var(--red-primary); color: #fff; }
+    .btn-refresh:hover { background: var(--red-dark); }
+    .btn-pdf { background: var(--bg-white); color: var(--red-primary); }
+    .btn-pdf:hover { background: var(--red-light); }
+    .btn-refresh svg, .btn-pdf svg { width: 13px; height: 13px; fill: currentColor; }
+    .btn-wa {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-family: var(--font-heading);
+      font-size: 11px; font-weight: 700; letter-spacing: .4px;
+      padding: 7px 12px; border-radius: 8px; cursor: pointer;
+      border: 1.5px solid #16a34a; background: var(--bg-white); color: #15803d;
+      white-space: nowrap; transition: all .2s;
+    }
+    .btn-wa:hover { background: var(--green-bg); }
+    .btn-wa svg { width: 13px; height: 13px; fill: currentColor; }
+
+    /* ============================================================
+       ISU PANAS (volume pemberitaan 7 hari)
+       ============================================================ */
+    .hot-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+    @media(max-width: 900px) { .hot-grid { grid-template-columns: 1fr; } }
+    .hot-grid > div { min-width: 0; }   /* grid item boleh menyusut di bawah min-content */
+    .hot-col-title {
+      font-size: 10px; font-weight: 700; letter-spacing: 1px;
+      text-transform: uppercase; color: var(--text-muted);
+      margin-bottom: 10px; padding-bottom: 6px;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .hot-item { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+    .hot-rank {
+      font-family: var(--font-heading); font-size: 11px; font-weight: 800;
+      color: var(--red-primary); width: 16px; flex-shrink: 0;
+    }
+    .hot-name { flex: 1; min-width: 0; font-size: 12px; color: var(--text-primary); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hot-bar-wrap { flex: 0 0 70px; height: 6px; background: var(--border-light); border-radius: 3px; overflow: hidden; }
+    .hot-bar { height: 100%; background: linear-gradient(90deg, var(--red-primary), #ef4444); border-radius: 3px; }
+    .hot-count { font-family: var(--font-heading); font-size: 12px; font-weight: 800; color: var(--red-primary); width: 24px; text-align: right; flex-shrink: 0; }
+    .hot-note { font-size: 10.5px; color: var(--text-muted); font-style: italic; margin-top: 12px; }
+    .hot-empty { font-size: 11px; color: var(--text-muted); font-style: italic; }
+
+    /* ============================================================
+       SHARE OF VOICE FRAKSI (F2)
+       ============================================================ */
+    .sov-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 24px; }
+    @media(max-width: 800px) { .sov-grid { grid-template-columns: 1fr; } }
+    .sov-grid > div { min-width: 0; }
+    .sov-toggle { display: flex; gap: 6px; }
+    .sov-row.gerindra .hot-name { color: var(--red-primary); font-weight: 800; }
+    .sov-row.gerindra { background: var(--red-light); border-radius: 6px; padding: 3px 6px; margin-left: -6px; }
+
+    /* ============================================================
+       SOROTAN GERINDRA + WATCHLIST (F3)
+       ============================================================ */
+    .g-badge {
+      display: inline-block; font-size: 9px; font-weight: 800; letter-spacing: .5px;
+      padding: 2px 8px; border-radius: 20px;
+      color: #fff; background: var(--red-primary);
+    }
+    .wl-star {
+      display: inline-block; font-size: 9px; font-weight: 700; letter-spacing: .3px;
+      padding: 2px 8px; border-radius: 20px;
+      color: var(--gold); background: var(--gold-light); border: 1px solid var(--gold-border);
+    }
+    .wl-form { display: flex; gap: 8px; margin-bottom: 12px; }
+    .wl-input {
+      flex: 1; font-family: var(--font-main); font-size: 12px;
+      padding: 8px 12px; border: 1.5px solid var(--border-mid); border-radius: 8px;
+    }
+    .wl-input:focus { outline: none; border-color: var(--red-primary); }
+    .wl-add {
+      background: var(--red-primary); color: #fff; border: none; border-radius: 8px;
+      padding: 0 16px; font-weight: 700; font-size: 12px; cursor: pointer;
+    }
+    .wl-add:hover { background: var(--red-dark); }
+    .wl-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+    .wl-chip {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 11px; font-weight: 600; padding: 4px 10px; border-radius: 20px;
+      background: var(--gold-light); color: var(--gold); border: 1px solid var(--gold-border);
+    }
+    .wl-chip .wl-x { cursor: pointer; font-weight: 800; font-size: 13px; line-height: 1; }
+    .wl-chip .wl-x:hover { color: var(--red-primary); }
+    .wl-count-badge {
+      font-family: var(--font-heading); font-size: 10px; font-weight: 800;
+      background: var(--red-primary); color: #fff; border-radius: 20px; padding: 1px 7px;
+    }
+    .wl-match { border-left: 3px solid var(--gold-border); padding: 6px 10px; margin-bottom: 8px; }
+    .wl-match-title { font-size: 12px; font-weight: 600; color: var(--text-primary); }
+    .wl-match-title a { color: inherit; }
+    .wl-match-title a:hover { color: var(--red-primary); }
+    .wl-match-meta { font-size: 10.5px; color: var(--text-muted); margin-top: 2px; }
+    .wl-kw-head { display: flex; align-items: center; gap: 8px; margin: 12px 0 8px; font-size: 12px; font-weight: 700; color: var(--text-secondary); }
+    .wl-tl-btn { cursor: pointer; font-size: 11px; color: var(--blue); font-weight: 600; }
+    .wl-tl-btn:hover { text-decoration: underline; }
+
+    /* ============================================================
+       PANEL ANALISIS (Fitur B): tren, delta, matriks, CSV
+       ============================================================ */
+    .an-mandate {
+      font-size: 11.5px; font-weight: 600; color: var(--text-secondary);
+      background: var(--gold-light); border: 1px solid var(--gold-border);
+      border-radius: 8px; padding: 8px 12px; margin-bottom: 14px;
+    }
+    .an-controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+    .an-total { font-size: 11px; font-weight: 700; color: var(--red-primary); }
+    .an-chart-wrap { border: 1px solid var(--border-light); border-radius: 10px; padding: 8px; margin-bottom: 16px; background: #fcfcfc; }
+    .an-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    @media(max-width: 800px) { .an-grid { grid-template-columns: 1fr; } }
+    .an-grid > div { min-width: 0; }
+    .an-row {
+      display: grid; grid-template-columns: minmax(0,1fr) 44px 44px 76px;
+      gap: 6px; align-items: center; font-size: 12px; padding: 4px 0;
+      border-bottom: 1px dashed var(--border-light);
+    }
+    .an-row.head { font-size: 9.5px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; border-bottom: 1px solid var(--border-mid); }
+    .an-row .an-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 600; }
+    .an-row .an-num { text-align: right; font-family: var(--font-heading); font-weight: 700; }
+    .an-delta { text-align: right; font-weight: 700; font-size: 11px; }
+    .an-delta.up { color: var(--red-primary); }
+    .an-delta.down { color: var(--text-muted); }
+    .an-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .an-matrix { border-collapse: collapse; font-size: 11px; min-width: 480px; }
+    .an-matrix th, .an-matrix td { border: 1px solid var(--border-light); padding: 5px 8px; text-align: center; }
+    .an-matrix th { background: #fafafa; font-size: 10px; text-transform: uppercase; letter-spacing: .3px; color: var(--text-secondary); }
+    .an-matrix td.tag-name { text-align: left; font-weight: 600; background: #fafafa; }
+
+    /* ============================================================
+       TIMELINE ISU (F5)
+       ============================================================ */
+    .tl-overlay {
+      position: fixed; inset: 0; z-index: 600;
+      background: rgba(17,24,39,.55);
+      display: none; align-items: center; justify-content: center; padding: 20px;
+    }
+    .tl-overlay.show { display: flex; }
+    .tl-panel {
+      background: var(--bg-white); border-radius: 14px; box-shadow: 0 16px 48px rgba(0,0,0,.3);
+      width: 100%; max-width: 600px; max-height: 84vh;
+      display: flex; flex-direction: column; overflow: hidden;
+    }
+    .tl-head {
+      background: var(--red-primary); color: #fff; padding: 14px 18px;
+      display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    }
+    .tl-title { font-family: var(--font-heading); font-size: 14px; font-weight: 800; }
+    .tl-sub { font-size: 10.5px; color: rgba(255,255,255,.85); margin-top: 2px; }
+    .tl-close { background: none; border: none; color: #fff; font-size: 22px; cursor: pointer; line-height: 1; }
+    .tl-body { overflow-y: auto; padding: 18px 18px 18px 24px; }
+    .tl-item {
+      position: relative; padding: 0 0 16px 22px;
+      border-left: 2px solid var(--red-mid);
+    }
+    .tl-item:last-child { border-left-color: transparent; }
+    .tl-item::before {
+      content: ''; position: absolute; left: -6px; top: 2px;
+      width: 10px; height: 10px; border-radius: 50%;
+      background: var(--red-primary); border: 2px solid #fff; box-shadow: 0 0 0 1px var(--red-mid);
+    }
+    .tl-date { font-family: var(--font-heading); font-size: 10.5px; font-weight: 800; color: var(--red-primary); letter-spacing: .5px; }
+    .tl-item-title { font-size: 12.5px; font-weight: 600; color: var(--text-primary); line-height: 1.5; margin: 3px 0 2px; }
+    .tl-item-title a { color: inherit; }
+    .tl-item-title a:hover { color: var(--red-primary); }
+    .tl-entity { font-size: 10.5px; color: var(--text-muted); }
+    .tl-note { font-size: 10.5px; color: var(--text-muted); font-style: italic; padding: 10px 18px; border-top: 1px solid var(--border-light); }
+    @media(max-width: 480px) {
+      .tl-overlay { padding: 10px; }
+      .tl-panel { max-height: 92vh; }
+    }
+
+    /* ============================================================
+       KONTROL BERITA: filter, tanggal, sort, tag (P3)
+       ============================================================ */
+    .news-controls {
+      display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+      background: var(--bg-white); border: 1px solid var(--border-light);
+      border-radius: 10px; padding: 10px 12px; margin-bottom: 12px;
+      box-shadow: var(--shadow-sm);
+    }
+    .nc-select, .nc-date {
+      font-family: var(--font-main); font-size: 11.5px;
+      padding: 6px 8px; border: 1.5px solid var(--border-mid);
+      border-radius: 7px; background: var(--bg-white); color: var(--text-primary);
+    }
+    .nc-select:focus, .nc-date:focus { outline: none; border-color: var(--red-primary); }
+    .nc-label { font-size: 10px; font-weight: 700; color: var(--text-muted); letter-spacing: .4px; }
+    .nc-reset {
+      font-size: 11px; font-weight: 600; padding: 6px 12px;
+      border: 1.5px solid var(--border-mid); border-radius: 7px;
+      background: var(--bg-white); color: var(--text-muted); cursor: pointer;
+    }
+    .nc-reset:hover { border-color: var(--red-primary); color: var(--red-primary); }
+    .tag-row { display: flex; flex-wrap: wrap; gap: 6px; width: 100%; padding-top: 8px; border-top: 1px dashed var(--border-light); }
+    .tag-chip {
+      font-size: 10px; font-weight: 600; letter-spacing: .3px;
+      padding: 3px 10px; border-radius: 20px; cursor: pointer;
+      border: 1px solid var(--border-mid); background: var(--bg-white); color: var(--text-muted);
+      transition: all .15s;
+    }
+    .tag-chip:hover, .tag-chip.active { border-color: var(--red-primary); color: var(--red-primary); background: var(--red-light); }
+    .card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+    .card-tags .tag-chip { font-size: 9px; padding: 2px 8px; }
+
+    /* ============================================================
+       FOKUS MITRA + CETAK (P4)
+       ============================================================ */
+    .focus-controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .focus-stats { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; }
+    .focus-stat {
+      flex: 1 1 180px; border: 1px solid var(--border-light); border-radius: 10px;
+      padding: 12px 14px; background: #fafafa;
+    }
+    .focus-stat-label { font-size: 10px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; }
+    .focus-stat-value { font-family: var(--font-heading); font-size: 18px; font-weight: 800; color: var(--red-primary); margin-bottom: 4px; }
+    .focus-placeholder { padding: 28px; text-align: center; font-size: 12px; color: var(--text-muted); font-style: italic; }
+    .focus-news-note { font-size: 10.5px; color: var(--text-muted); font-style: italic; margin-top: 10px; }
+
+    @media print {
+      /* mode cetak fokus: hanya panel fokus yang tampil */
+      body.print-focus .top-utility-bar,
+      body.print-focus header,
+      body.print-focus .page-hero,
+      body.print-focus footer,
+      body.print-focus .ast-fab,
+      body.print-focus .ast-panel,
+      body.print-focus #scrape-banner,
+      body.print-focus main > :not(#focus-block) { display: none !important; }
+      body.print-focus #focus-block { margin: 0; }
+      body.print-focus .panel { box-shadow: none; border: none; }
+      body.print-focus .focus-controls select,
+      body.print-focus .focus-controls button { display: none !important; }
+      body.print-focus .news-card { break-inside: avoid; animation: none; opacity: 1; }
+      body.print-focus .card-tags { display: none; }
+    }
+
+    /* ============================================================
+       ASISTEN DATA (floating, deterministik)
+       ============================================================ */
+    .ast-fab {
+      position: fixed; right: 22px; bottom: 22px; z-index: 500;
+      width: 56px; height: 56px; border-radius: 50%;
+      background: var(--red-primary); color: #fff; border: none;
+      box-shadow: 0 6px 20px rgba(185,28,28,.4);
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      transition: transform .2s, background .2s;
+    }
+    .ast-fab:hover { background: var(--red-dark); transform: scale(1.05); }
+    .ast-fab svg { width: 26px; height: 26px; fill: #fff; }
+    .ast-panel {
+      position: fixed; right: 22px; bottom: 88px; z-index: 500;
+      width: 360px; max-width: calc(100vw - 44px);
+      height: 480px; max-height: calc(100vh - 130px);
+      background: var(--bg-white);
+      border: 1px solid var(--border-light);
+      border-radius: 14px;
+      box-shadow: 0 12px 40px rgba(0,0,0,.22);
+      display: none; flex-direction: column; overflow: hidden;
+    }
+    .ast-panel.show { display: flex; }
+    .ast-head {
+      background: var(--red-primary); color: #fff;
+      padding: 12px 16px; display: flex; align-items: center; justify-content: space-between;
+    }
+    .ast-head-title { font-family: var(--font-heading); font-size: 13px; font-weight: 800; }
+    .ast-head-sub { font-size: 10px; color: rgba(255,255,255,.85); margin-top: 1px; }
+    .ast-close { background: none; border: none; color: #fff; font-size: 20px; cursor: pointer; line-height: 1; }
+    .ast-log { flex: 1; overflow-y: auto; padding: 14px; display: flex; flex-direction: column; gap: 10px; background: var(--bg-page); }
+    .ast-msg { font-size: 12.5px; line-height: 1.55; padding: 10px 12px; border-radius: 10px; max-width: 90%; word-wrap: break-word; }
+    .ast-msg.user { align-self: flex-end; background: var(--red-primary); color: #fff; }
+    .ast-msg.bot { align-self: flex-start; background: var(--bg-white); border: 1px solid var(--border-light); color: var(--text-primary); }
+    .ast-msg.bot a { color: var(--red-primary); font-weight: 600; }
+    .ast-badge { display: inline-block; font-size: 9px; font-weight: 700; padding: 1px 6px; border-radius: 10px; letter-spacing: .3px; vertical-align: middle; }
+    .ast-badge.fallback  { color: #6b7280; background: #f3f4f6; border: 1px solid #e5e7eb; }
+    .ast-badge.unaudited { color: #b45309; background: #fef3c7; border: 1px solid #f59e0b; }
+    .ast-badge.audited   { color: #15803d; background: #dcfce7; border: 1px solid #86efac; }
+    .ast-note { font-size: 10.5px; color: var(--text-muted); font-style: italic; }
+    .ast-src { font-size: 10.5px; color: var(--text-muted); }
+    .ast-form { display: flex; gap: 8px; padding: 12px; border-top: 1px solid var(--border-light); background: var(--bg-white); }
+    .ast-input { flex: 1; font-family: var(--font-main); font-size: 12.5px; padding: 9px 12px; border: 1.5px solid var(--border-mid); border-radius: 8px; }
+    .ast-input:focus { outline: none; border-color: var(--red-primary); }
+    .ast-send { background: var(--red-primary); color: #fff; border: none; border-radius: 8px; padding: 0 14px; font-weight: 700; cursor: pointer; }
+    .ast-send:hover { background: var(--red-dark); }
+
+    @media(max-width: 768px) {
+      .toolbar { gap: 12px; }
+      .status-widget { flex: 1 1 100%; flex-direction: column; align-items: stretch; gap: 10px; }
+      .sw-actions { flex-direction: row; flex-wrap: wrap; gap: 8px; }
+      .btn-refresh, .btn-pdf { flex: 1 1 40%; justify-content: center; padding: 10px 8px; }
+      .btn-wa { flex: 1 1 100%; justify-content: center; padding: 10px 8px; }
+      /* font-size 16px: cegah auto-zoom iOS saat fokus input (ditaruh setelah rule dasar agar menang) */
+      .search-input, .ast-input { font-size: 16px; }
+    }
+
+    @media(max-width: 480px) {
+      /* asisten: panel hampir penuh layar agar nyaman dibaca & diketik */
+      .ast-fab { width: 50px; height: 50px; right: 16px; bottom: 16px; }
+      .ast-fab svg { width: 23px; height: 23px; }
+      .ast-panel {
+        left: 12px; right: 12px; top: 64px; bottom: 80px;
+        width: auto; max-width: none; height: auto; max-height: none;
+      }
+    }
   </style>
 </head>
 <body>
 
-<div class="corner-deco tl"></div>
-<div class="corner-deco tr"></div>
-<div class="corner-deco bl"></div>
-<div class="corner-deco br"></div>
-
-<header>
-  <div class="header-inner">
-    <div class="logo">
-      <div class="logo-icon">NPC</div>
-      <div>
-        <div class="logo-text">NPCC</div>
-        <div class="logo-sub">NATIONAL POLITICAL COMMAND CENTER</div>
+<!-- TOP UTILITY BAR -->
+<div class="top-utility-bar">
+  <div class="utility-bar-inner">
+    <div class="utility-left">
+      <a href="https://www.fraksigerindra.id/" target="_blank" rel="noopener" class="utility-link">Fraksi Gerindra DPR-RI</a>
+      <span class="utility-sep">|</span>
+      <a href="https://dpr.go.id/" target="_blank" rel="noopener" class="utility-link">DPR RI</a>
+      <span class="utility-sep">|</span>
+      <a href="https://pertanian.go.id/" target="_blank" rel="noopener" class="utility-link">Kementan</a>
+    </div>
+    <div class="utility-right">
+      <div class="status-pill">
+        <div class="status-dot" id="feed-status-dot"></div>
+        <span id="feed-status-text">MEMUAT...</span>
+      </div>
+      <div class="status-pill">
+        <div class="status-dot amber"></div>
+        <span>KOMISI IV DPR RI</span>
       </div>
     </div>
-    <div class="header-status">
-      <div class="status-chip">
-        <div class="status-dot" id="feed-status-dot"></div>
-        <span id="feed-status-text">LOADING</span>
+  </div>
+</div>
+
+<!-- MAIN HEADER -->
+<header>
+  <div class="header-inner">
+    <!-- Logo / Branding -->
+    <div class="logo">
+      <div class="logo-emblem">
+        <!-- Simple garuda/shield icon -->
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 2L3 6v6c0 5.25 3.75 10.15 9 11.35C17.25 22.15 21 17.25 21 12V6L12 2zm-1 13.5l-3-3 1.41-1.41L11 12.67l4.59-4.58L17 9.5l-6 6z"/>
+        </svg>
       </div>
-      <div class="status-chip">
-        <div class="status-dot amber"></div>
-        <span>KOMISI VI DPR RI</span>
+      <div class="logo-text-wrap">
+        <div class="logo-title">FRAKSI GERINDRA</div>
+        <div class="logo-subtitle">Dasbor Intelijen Legislatif</div>
       </div>
+    </div>
+
+    <div class="header-divider"></div>
+
+    <!-- Commission Info -->
+    <div class="commission-label">
+      <div class="badge-komisi">Komisi IV DPR RI</div>
+      <div class="badge-name">Pertanian · Kehutanan · Kelautan</div>
+    </div>
+
+    <!-- Right side -->
+    <div class="header-right">
+      <div class="gerindra-badge">GERINDRA</div>
       <div id="clock">--:--:--</div>
     </div>
   </div>
 </header>
 
+<!-- PAGE HERO STRIP -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div>
+      <div class="hero-title">Dasbor Pemantauan Intelijen – Komisi IV DPR RI 2024/2029</div>
+      <div class="hero-sub">Pertanian &bull; Kehutanan &bull; Kelautan &bull; Data Pasar &bull; Aktivitas Legislatif</div>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-num" id="hero-member-count">—</div>
+        <div class="hero-stat-lbl">Anggota</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num" id="hero-agency-count">—</div>
+        <div class="hero-stat-lbl">Berita Lembaga</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SCRAPE STATUS BANNER -->
+<div id="scrape-banner" class="status-banner" style="max-width:1600px;margin:12px auto 0;padding-left:24px;padding-right:24px;box-sizing:border-box"></div>
+
+<!-- MAIN CONTENT -->
 <main>
 
-  <!-- TICKER BAR -->
-  <div class="ticker-bar">
-    <div class="ticker-label">MARKET // LIVE</div>
-    <div class="ticker-items">
-      <div class="ticker-item">
-        <span class="ticker-symbol">USD/IDR</span>
-        <span class="ticker-value" id="kurs-ticker">---</span>
-        <span class="ticker-unit">IDR</span>
+  <!-- TOOLBAR: SEARCH + STATUS WIDGET (fitur baru) -->
+  <div class="toolbar">
+    <div class="search-wrap">
+      <div class="search-box">
+        <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 10-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1114 9.5 4.5 4.5 0 019.5 14z"/></svg>
+        <input id="search-input" class="search-input" type="text" placeholder="Cari berita, anggota, atau indikator..." autocomplete="off" />
+        <button id="search-clear" class="search-clear" title="Bersihkan pencarian" aria-label="Bersihkan pencarian">&times;</button>
       </div>
-      <span class="ticker-sep">|</span>
-      <div class="ticker-item">
-        <span class="ticker-symbol">CRUDE OIL WTI</span>
-        <span class="ticker-value" id="oil-ticker">---</span>
-        <span class="ticker-unit">USD/BBL</span>
+      <div id="search-meta" class="search-meta"></div>
+    </div>
+
+    <div class="status-widget">
+      <div class="sw-info">
+        <span class="sw-label">Status Data</span>
+        <div class="sw-line"><span class="sw-time" id="sw-time">&mdash;</span></div>
+        <div class="sw-line"><span class="sw-age-dot" id="sw-dot"></span><span class="sw-age" id="sw-age">&mdash;</span></div>
       </div>
-      <span class="ticker-sep">|</span>
-      <div class="ticker-item">
-        <span class="ticker-symbol">UPDATED</span>
-        <span class="ticker-value" id="update-ticker" style="font-size:11px; color:var(--text-secondary)">---</span>
+      <div class="sw-actions">
+        <button class="btn-refresh" id="btn-refresh" title="Pembaruan dijalankan di server GitHub demi keamanan; tombol ini membuka pemicunya.">
+          <svg viewBox="0 0 24 24"><path d="M17.65 6.35A7.95 7.95 0 0012 4a8 8 0 108 8h-2a6 6 0 11-1.76-4.24L13 11h7V4l-2.35 2.35z"/></svg>
+          Perbarui Data
+        </button>
+        <button class="btn-pdf" id="btn-pdf" title="Unduh ringkasan eksekutif 1 halaman (PDF)">
+          <svg viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+          Unduh Ringkasan
+        </button>
+        <button class="btn-wa" id="btn-wa" title="Salin briefing siap-tempel ke WhatsApp (hanya berita + volume; tanpa angka statistik acuan)">
+          <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12.004 2c-5.514 0-9.998 4.484-9.998 9.997 0 1.762.46 3.484 1.333 5.001L2 22l5.128-1.318a9.95 9.95 0 004.876 1.241c5.514 0 9.998-4.484 9.998-9.997C22.002 6.484 17.518 2 12.004 2zm0 18.242a8.28 8.28 0 01-4.22-1.155l-.303-.18-3.043.782.813-2.966-.198-.312a8.226 8.226 0 01-1.267-4.414c0-4.575 3.723-8.297 8.218-8.297 4.575 0 8.298 3.722 8.298 8.297 0 4.575-3.723 8.245-8.298 8.245z"/></svg>
+          Salin Briefing WA
+        </button>
       </div>
     </div>
   </div>
 
-  <!-- TWO COLUMN: Agency News + Market/Headline -->
+  <!-- TICKER BAR -->
+  <div class="ticker-bar">
+    <div class="ticker-label">&#9654; LIVE DATA</div>
+    <div class="ticker-items">
+      <div class="ticker-item">
+        <span class="ticker-symbol">Harga Beras Nasional</span>
+        <span class="ticker-value" id="beras-ticker">---</span>
+        <span class="ticker-unit">/ Kg</span>
+      </div>
+      <span class="ticker-sep">|</span>
+      <div class="ticker-item">
+        <span class="ticker-symbol">Stok Beras Bulog</span>
+        <span class="ticker-value" id="bulog-ticker">---</span>
+        <span class="ticker-unit">Ton</span>
+      </div>
+      <span class="ticker-sep">|</span>
+      <div class="ticker-item">
+        <span class="ticker-symbol">Diperbarui</span>
+        <span class="ticker-value" id="update-ticker" style="font-size:12px; color:var(--text-muted); font-weight:600">---</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION: STATISTIK KETAHANAN PANGAN & PERTANIAN -->
+  <div class="section-header">
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 008 20C19 20 22 3 22 3c-1 2-8 2-8 2 1.66-1.09 3.76-1.8 6-2-2.88 1.14-5.39 4.42-6.12 6.13C14 6.13 17 8 17 8z"/></svg>
+    </div>
+    <div class="section-title">Statistik Ketahanan Pangan &amp; Pertanian (BPS · KKP · BAPANAS)</div>
+    <div class="section-line"></div>
+    <div class="section-badge">MAKRO DATA</div>
+  </div>
+
+  <div class="panel" style="margin-bottom:28px">
+    <div class="panel-header">
+      <div class="panel-title">Indikator Utama Sektoral</div>
+      <div class="panel-badge red">REALTIME</div>
+    </div>
+    <div class="panel-body">
+      <div class="macro-grid">
+        <div class="stat-card">
+          <div class="stat-label">Nilai Tukar Petani (NTP)</div>
+          <div class="stat-value" id="ntp-display" style="font-size:24px">---</div>
+          <div class="stat-unit">BPS · Indeks Kemakmuran</div>
+          <div id="ntp-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Luas Panen Padi</div>
+          <div class="stat-value" id="luas-padi-display" style="font-size:22px">---</div>
+          <div class="stat-unit">BPS · Est. Luas Lahan</div>
+          <div id="luas-padi-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Produksi Beras Nasional</div>
+          <div class="stat-value green" id="prod-beras-display" style="font-size:22px">---</div>
+          <div class="stat-unit">BPS · Hasil Gilingan</div>
+          <div id="prod-beras-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Luas Panen Jagung</div>
+          <div class="stat-value" id="luas-jagung-display" style="font-size:22px">---</div>
+          <div class="stat-unit">BPS · Est. Luas Lahan</div>
+          <div id="luas-jagung-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Produksi Jagung Nasional</div>
+          <div class="stat-value green" id="prod-jagung-display" style="font-size:22px">---</div>
+          <div class="stat-unit">BPS · Pipilan Kering</div>
+          <div id="prod-jagung-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Kampung Nelayan Modern</div>
+          <div class="stat-value" id="nelayan-display" style="font-size:20px">---</div>
+          <div class="stat-unit">KKP · Program Merah Putih</div>
+          <div id="nelayan-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Rata-Rata Harga Pangan</div>
+          <div class="stat-value green" id="harga-pangan-display" style="font-size:18px">---</div>
+          <div class="stat-unit">BAPANAS · Indeks Perkembangan</div>
+          <div id="harga-pangan-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Bantuan Pangan Beras</div>
+          <div class="stat-value" id="bantuan-pangan-display" style="font-size:20px">---</div>
+          <div class="stat-unit">BAPANAS · Penyaluran CPP</div>
+          <div id="bantuan-pangan-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Realisasi SPHP Bulog</div>
+          <div class="stat-value" id="sphp-display" style="font-size:20px">---</div>
+          <div class="stat-unit">BULOG · Operasi Pasar</div>
+          <div id="sphp-conf" class="stat-confidence fallback">MEMUAT</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION: ISU PANAS (volume pemberitaan, bukan analisis) -->
+  <div class="section-header">
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67z"/></svg>
+    </div>
+    <div class="section-title">Isu Panas &mdash; Volume Pemberitaan 7 Hari Terakhir</div>
+    <div class="section-line"></div>
+    <div class="section-badge">SPOTTING</div>
+  </div>
+
+  <div class="panel" style="margin-bottom:28px">
+    <div class="panel-header">
+      <div class="panel-title">Ranking Volume (bukan analisis sentimen)</div>
+      <div class="panel-badge amber" id="hot-total">&mdash;</div>
+    </div>
+    <div class="panel-body">
+      <div class="hot-grid">
+        <div><div class="hot-col-title">Mitra Kerja</div><div id="hot-agencies"></div></div>
+        <div><div class="hot-col-title">Anggota</div><div id="hot-members"></div></div>
+        <div><div class="hot-col-title">Topik</div><div id="hot-topics"></div></div>
+      </div>
+      <div class="hot-note">Alat pemantauan volume pemberitaan &mdash; angka = jumlah artikel 7 hari terakhir di arsip. Bukan analisis sentimen, tidak menyimpulkan positif/negatif.</div>
+    </div>
+  </div>
+
+  <!-- SECTION: SHARE OF VOICE FRAKSI (F2) -->
+  <div class="section-header">
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5C15 14.17 10.33 13 8 13zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+    </div>
+    <div class="section-title">Share of Voice Fraksi</div>
+    <div class="section-line"></div>
+    <div class="section-badge">VOLUME</div>
+  </div>
+
+  <div class="panel" style="margin-bottom:28px">
+    <div class="panel-header">
+      <div class="panel-title">Volume Pemberitaan Anggota per Fraksi</div>
+      <div class="sov-toggle">
+        <button class="filter-btn active" id="sov-7" data-days="7">7 HARI</button>
+        <button class="filter-btn" id="sov-30" data-days="30">30 HARI</button>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="sov-grid">
+        <div><div class="hot-col-title">Per Fraksi</div><div id="sov-parties"></div></div>
+        <div><div class="hot-col-title">5 Anggota Paling Banyak Diberitakan</div><div id="sov-members"></div></div>
+      </div>
+      <div class="hot-note">Volume pemberitaan, bukan analisis sentimen. Angka = jumlah artikel anggota fraksi tsb dalam jendela terpilih.</div>
+    </div>
+  </div>
+
+  <!-- SECTION: WATCHLIST SAYA (F3) -->
+  <div class="section-header">
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+    </div>
+    <div class="section-title">Watchlist Saya</div>
+    <div class="section-line"></div>
+    <div class="section-count" id="wl-total">0</div>
+  </div>
+
+  <div class="panel" style="margin-bottom:28px">
+    <div class="panel-header">
+      <div class="panel-title">Keyword Pantauan Pribadi (tersimpan di perangkat ini)</div>
+      <div class="panel-badge amber">LOKAL</div>
+    </div>
+    <div class="panel-body">
+      <div class="wl-form">
+        <input id="wl-input" class="wl-input" type="text" placeholder="Tambah keyword, mis. pupuk subsidi, impor beras..." maxlength="40" />
+        <button id="wl-add" class="wl-add">Tambah</button>
+      </div>
+      <div class="wl-chips" id="wl-chips"></div>
+      <div id="wl-matches"><div class="hot-empty">Belum ada keyword. Tambahkan untuk memantau isu spesifik; kecocokan 7 hari terakhir muncul di sini dan berbintang di feed.</div></div>
+    </div>
+  </div>
+
+  <!-- SECTION: ANALISIS (Fitur B) -->
+  <div class="section-header">
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M5 9.2h3V19H5V9.2zM10.6 5h2.8v14h-2.8V5zm5.6 8H19v6h-2.8v-6z"/></svg>
+    </div>
+    <div class="section-title">Analisis Volume Pemberitaan</div>
+    <div class="section-line"></div>
+    <div class="section-badge">30 HARI</div>
+  </div>
+
+  <div class="panel" style="margin-bottom:28px" id="analysis-section">
+    <div class="panel-header">
+      <div class="panel-title">Agregat Deterministik dari Arsip Berita</div>
+      <div class="panel-badge blue">DATA NYATA</div>
+    </div>
+    <div class="panel-body">
+      <div class="an-mandate">Analisis volume pemberitaan (30 hari). Bukan analisis sentimen. Statistik sektoral tidak termasuk hingga sumber resmi tersambung.</div>
+
+      <!-- B1: tren harian + B4: ekspor -->
+      <div class="an-controls">
+        <select id="an-dim" class="nc-select" title="Filter dimensi tren"></select>
+        <span class="an-total" id="an-total"></span>
+        <span style="flex:1"></span>
+        <button id="an-csv-full" class="nc-reset" title="Semua artikel arsip sebagai CSV (untuk AI/spreadsheet)">&#11015; Unduh Data (CSV)</button>
+        <button id="an-csv-agg" class="nc-reset" title="Volume harian per entitas, format long">&#11015; Unduh Agregat (CSV)</button>
+      </div>
+      <div class="an-chart-wrap" id="an-chart"></div>
+
+      <!-- B2: perbandingan periode -->
+      <div class="an-grid">
+        <div>
+          <div class="hot-col-title">Mitra &mdash; 7 Hari vs 7 Hari Sebelumnya</div>
+          <div id="an-delta-ag"></div>
+        </div>
+        <div>
+          <div class="hot-col-title">Fraksi &mdash; 7 Hari vs 7 Hari Sebelumnya</div>
+          <div id="an-delta-fr"></div>
+        </div>
+      </div>
+
+      <!-- B3: matriks tag x mitra -->
+      <div class="hot-col-title" style="margin-top:18px">Matriks Tag Topik &times; Mitra (30 hari, artikel lembaga)</div>
+      <div class="an-scroll"><table class="an-matrix" id="an-matrix"></table></div>
+      <div class="hot-note">Semua angka dihitung deterministik dari arsip berita di live_data.json dan dapat direkonsiliasi manual. Satu artikel dapat memiliki lebih dari satu tag.</div>
+    </div>
+  </div>
+
+  <!-- TWO COLUMN: Agency News + Market / Headline -->
   <div class="two-col">
 
     <!-- LEFT: Agency News -->
     <div>
       <div class="section-header">
-        <div class="section-title">&#9651; INTEL LEMBAGA</div>
+        <div class="section-icon">
+          <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-1 14H5c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h14c.55 0 1 .45 1 1v10c0 .55-.45 1-1 1zm-5-9H7v2h7v-2zm3 4H7v2h10v-2z"/></svg>
+        </div>
+        <div class="section-title">Intel Lembaga</div>
         <div class="section-line"></div>
         <div class="section-count" id="agency-count">0</div>
       </div>
+
+      <!-- KONTROL: filter mitra, tanggal, sort, tag (P3) -->
+      <div class="news-controls">
+        <select id="nf-agency" class="nc-select" title="Filter per mitra">
+          <option value="ALL">Semua Mitra</option>
+        </select>
+        <span class="nc-label">DARI</span>
+        <input type="date" id="nf-from" class="nc-date" />
+        <span class="nc-label">S.D.</span>
+        <input type="date" id="nf-to" class="nc-date" />
+        <select id="nf-sort" class="nc-select" title="Urutkan by tanggal">
+          <option value="desc">Terbaru dulu</option>
+          <option value="asc">Terlama dulu</option>
+        </select>
+        <button id="nf-reset" class="nc-reset">Reset</button>
+        <button id="nf-share" class="nc-reset" title="Salin tautan yang membuka dashboard langsung dengan filter ini">&#128279; Salin Tautan Tampilan Ini</button>
+        <button id="nf-timeline" class="nc-reset" title="Kronologi 30 hari untuk tag topik yang sedang aktif">&#9202; Timeline Tag</button>
+        <div class="tag-row" id="nf-tags"></div>
+      </div>
+
       <div class="panel">
         <div class="panel-header">
-          <div class="panel-title">BERITA LEMBAGA STRATEGIS</div>
+          <div class="panel-title">Berita Lembaga Strategis</div>
           <div class="panel-badge green">LIVE FEED</div>
         </div>
         <div class="panel-body">
@@ -236,7 +1614,7 @@
               <div class="loader-dot"></div>
               <div class="loader-dot"></div>
               <div class="loader-dot"></div>
-              MEMUAT DATA...
+              Memuat data...
             </div>
           </div>
         </div>
@@ -246,39 +1624,47 @@
     <!-- RIGHT: Market + Headline -->
     <div>
       <div class="section-header">
-        <div class="section-title">&#9651; DATA PASAR</div>
+        <div class="section-icon">
+          <svg viewBox="0 0 24 24"><path d="M3.5 18.49l6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99l1.5 1.5z"/></svg>
+        </div>
+        <div class="section-title">Data Pasar</div>
         <div class="section-line"></div>
-        <div class="section-count">REALTIME</div>
+        <div class="section-badge">REALTIME</div>
       </div>
-      <div class="panel" style="margin-bottom:16px">
+      <div class="panel" style="margin-bottom:20px">
         <div class="panel-header">
-          <div class="panel-title">INDIKATOR EKONOMI MAKRO</div>
-          <div class="panel-badge cyan">YFINANCE</div>
+          <div class="panel-title">Indikator Ekonomi Makro</div>
+          <div class="panel-badge blue">YFINANCE</div>
         </div>
         <div class="panel-body">
           <div class="market-stats">
             <div class="stat-card">
-              <div class="stat-label">USD / IDR</div>
-              <div class="stat-value" id="kurs-display">---</div>
-              <div class="stat-unit">Rupiah per Dollar</div>
+              <div class="stat-label">Harga Beras Nasional</div>
+              <div class="stat-value" id="beras-display">---</div>
+              <div class="stat-unit">Rupiah per Kg</div>
+              <div id="beras-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
             <div class="stat-card">
-              <div class="stat-label">CRUDE OIL WTI</div>
-              <div class="stat-value green" id="oil-display">---</div>
-              <div class="stat-unit">USD per Barel</div>
+              <div class="stat-label">Stok Beras Bulog</div>
+              <div class="stat-value green" id="bulog-display">---</div>
+              <div class="stat-unit">Ton</div>
+              <div id="bulog-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
           </div>
         </div>
       </div>
 
       <div class="section-header">
-        <div class="section-title">&#9651; HEADLINE POLITIK</div>
+        <div class="section-icon">
+          <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"/></svg>
+        </div>
+        <div class="section-title">Headline Politik</div>
         <div class="section-line"></div>
       </div>
       <div class="panel">
         <div class="panel-header">
-          <div class="panel-title">SOROTAN UTAMA</div>
-          <div class="panel-badge amber">PRIORITY</div>
+          <div class="panel-title">Sorotan Utama</div>
+          <div class="panel-badge amber">PRIORITAS</div>
         </div>
         <div class="panel-body">
           <div id="headline-list" class="news-list">
@@ -293,47 +1679,116 @@
     </div>
   </div>
 
+  <!-- FOKUS MITRA (P4) -->
+  <div id="focus-block">
+    <div class="section-header">
+      <div class="section-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </div>
+      <div class="section-title">Fokus Mitra</div>
+      <div class="section-line"></div>
+    </div>
+    <div class="panel" style="margin-bottom:28px">
+      <div class="panel-header">
+        <div class="focus-controls">
+          <select id="focus-select" class="nc-select">
+            <option value="">Pilih mitra kerja...</option>
+          </select>
+          <button id="focus-print" class="btn-pdf" style="display:none">
+            <svg viewBox="0 0 24 24"><path d="M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm-1-9H6v4h12V3z"/></svg>
+            Cetak
+          </button>
+          <button id="focus-wa" class="btn-wa" style="display:none" title="Salin briefing mitra ini untuk WhatsApp">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/></svg>
+            Briefing WA
+          </button>
+        </div>
+        <div class="panel-badge blue">FOKUS</div>
+      </div>
+      <div class="panel-body" id="focus-body">
+        <div class="focus-placeholder">Pilih satu mitra kerja untuk melihat berita terbaru + statistik terkaitnya dalam satu panel (bisa dicetak).</div>
+      </div>
+    </div>
+  </div>
+
   <!-- MEMBER NEWS -->
   <div class="section-header">
-    <div class="section-title">&#9651; AKTIVITAS LEGISLATIF - KOMISI VI DPR RI</div>
+    <div class="section-icon">
+      <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5C15 14.17 10.33 13 8 13zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+    </div>
+    <div class="section-title">Aktivitas Legislatif – Komisi IV DPR RI (Pertanian, Kehutanan, Kelautan)</div>
     <div class="section-line"></div>
     <div class="section-count" id="member-count">0</div>
   </div>
 
   <div class="filter-bar" id="party-filters">
-    <button class="filter-btn active" data-party="ALL" id="filter-all">SEMUA</button>
+    <button class="filter-btn active" data-party="ALL" id="filter-all">Semua Fraksi</button>
   </div>
 
   <div class="panel">
     <div class="panel-header">
-      <div class="panel-title">BERITA ANGGOTA KOMISI VI 2024/2029</div>
+      <div class="panel-title">Berita Anggota Komisi IV 2024/2029 (Pertanian, Kehutanan, Kelautan)</div>
       <div class="panel-badge green">DPR RI</div>
     </div>
     <div class="panel-body">
       <div id="member-news-grid" class="member-grid">
-        <div class="loader-wrap">
+        <div class="loader-wrap" style="grid-column:1/-1">
           <div class="loader-dot"></div>
           <div class="loader-dot"></div>
           <div class="loader-dot"></div>
-          MEMUAT DATA ANGGOTA...
+          Memuat data anggota...
         </div>
       </div>
     </div>
   </div>
 
   <div class="update-bar">
-    <div class="status-dot"></div>
-    <div class="update-text">DATA TERAKHIR DIPERBARUI: <span id="last-updated-time">---</span></div>
+    <div class="update-dot"></div>
+    <div class="update-text">Data terakhir diperbarui: <span id="last-updated-time">---</span></div>
   </div>
 
 </main>
 
 <footer>
   <div class="footer-inner">
-    <div class="footer-text">NPCC // CLASSIFIED - FOR AUTHORIZED PERSONNEL ONLY</div>
-    <div class="footer-text">KOMISI VI DPR RI 2024-2029 // ENGINE: engine.py (LOCAL)</div>
+    <div class="footer-brand">FRAKSI GERINDRA // KOMISI IV DPR RI</div>
+    <div class="footer-text">Pertanian &bull; Kehutanan &bull; Kelautan &bull; 2024–2029 &bull; ENGINE: engine.py</div>
   </div>
 </footer>
+
+<!-- TIMELINE ISU (F5) -->
+<div class="tl-overlay" id="tl-overlay" role="dialog" aria-label="Timeline Isu">
+  <div class="tl-panel">
+    <div class="tl-head">
+      <div>
+        <div class="tl-title" id="tl-title">Timeline</div>
+        <div class="tl-sub" id="tl-sub">&mdash;</div>
+      </div>
+      <button class="tl-close" id="tl-close" aria-label="Tutup">&times;</button>
+    </div>
+    <div class="tl-body" id="tl-body"></div>
+    <div class="tl-note">Kronologi disusun ulang dari arsip 30 hari (urut waktu naik). Murni penyajian data, tanpa ringkasan otomatis.</div>
+  </div>
+</div>
+
+<!-- ASISTEN DATA (deterministik, bukan AI generatif) -->
+<button class="ast-fab" id="ast-fab" title="Asisten Data" aria-label="Buka Asisten Data">
+  <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 9h-2V9h2v2zm0-4h-2V5h2v2z"/></svg>
+</button>
+<div class="ast-panel" id="ast-panel" role="dialog" aria-label="Asisten Data">
+  <div class="ast-head">
+    <div>
+      <div class="ast-head-title">Asisten Data</div>
+      <div class="ast-head-sub">Menjawab dari data dashboard (bukan AI generatif)</div>
+    </div>
+    <button class="ast-close" id="ast-close" aria-label="Tutup">&times;</button>
+  </div>
+  <div class="ast-log" id="ast-log"></div>
+  <form class="ast-form" id="ast-form">
+    <input class="ast-input" id="ast-input" type="text" placeholder="Tanya: harga beras, status, atau nama anggota..." autocomplete="off" />
+    <button class="ast-send" type="submit">Kirim</button>
+  </form>
+</div>
 
 <script>
 // ====================================================
@@ -343,22 +1798,22 @@
 "use strict";
 
 const PARTY_MAP = {
-  "Andre Rosiade":"Gerindra","Khilmi":"Gerindra","Muhammad Husein Fadlulloh":"Gerindra",
-  "Mulan Jameela":"Gerindra","Kawendra Lukistian":"Gerindra","Unru Baso":"Gerindra",
-  "Adisatrya Suryo Sulisto":"PDI-P","Mufti Anam":"PDI-P","Darmadi Durianto":"PDI-P",
-  "Rieke Diah Pitaloka":"PDI-P","I Gusti Ngurah Kesuma Kelakan":"PDI-P",
-  "Sadarestuwati":"PDI-P","Ida Nurlaela":"PDI-P","Budi Sulistyono":"PDI-P",
-  "G. M. Totok Hedi Santosa":"PDI-P",
-  "Nurdin Halid":"Golkar","Gde Sumarjaya Linggih":"Golkar","Ahmad Labib":"Golkar",
-  "Sarifah Suraidah":"Golkar","Doni Akbar":"Golkar","Firnando Hadityo Ganinduto":"Golkar",
-  "Rizki Faisal":"Golkar","Muhammad Sarmuji":"Golkar",
-  "Anggia Erma Rini":"PKB","Rivqy Abdul Halim":"PKB","M. Nasim Khan":"PKB",
-  "Ida Fauziyah":"PKB","Imas Aan Ubudiah":"PKB",
-  "Rachmad Gobel":"NasDem","Asep Wahyuwijaya":"NasDem","I Nengah Senantara":"NasDem",
-  "Randi Zulmariadi":"NasDem","Rudi Hartono Bangun":"NasDem","Subardi":"NasDem",
-  "Amin Ak.":"PKS","Rizal Bawazier":"PKS","Ghufran":"PKS","Ismail":"PKS",
-  "Eko Patrio":"PAN","Nasril Bahar":"PAN","Abdul Hakim Bafagih":"PAN","Iskandar":"PAN",
-  "Sartono":"Demokrat","Ni Putu Tutik":"Demokrat","Herman Khaeron":"Demokrat","Faujia Helga":"Demokrat"
+  // PDI-P
+  "Alex Indra Lukman": "PDI-P", "Sonny T. Danaparamita": "PDI-P", "Mayjen TNI (Purn) Sturman Panjaitan": "PDI-P", "Rokhmin Dahuri": "PDI-P", "I Nyoman Adi Wiryatama": "PDI-P", "Paolus Hadi": "PDI-P", "Agus Ambo Djiwa": "PDI-P", "I Ketut Suwendra": "PDI-P", "Edoardus Kaize": "PDI-P",
+  // Golkar
+  "Panggah Susanto": "Golkar", "Robert Joppy Kardinal": "Golkar", "Adrianus Asia Sidot": "Golkar", "Eko Wahyudi": "Golkar", "Firman Subagyo": "Golkar", "Alien Mus": "Golkar", "Dadang M Naser": "Golkar", "Ilham Pangestu": "Golkar",
+  // Gerindra
+  "Siti Hediati Soeharto": "Gerindra", "Darori Wonodipuro": "Gerindra", "Dwita Ria Gunadi": "Gerindra", "Endang Setyawati Thohari": "Gerindra", "TA Khalid": "Gerindra", "Sumail Abdullah": "Gerindra", "Melati": "Gerindra",
+  // NasDem
+  "Sulaeman L Hamzah": "NasDem", "Ananda Tohpati": "NasDem", "Cindy Monica Salsabila Setiawan": "NasDem", "Rajiv": "NasDem", "Arief Rahman": "NasDem", "Muhammad Habibur Rochman": "NasDem",
+  // PKB
+  "Jaelani": "PKB", "Daniel Johan": "PKB", "Hindun Anisah": "PKB", "Usman Husin": "PKB", "Rina Sa'adah": "PKB",
+  // PKS
+  "Abdul Kharis": "PKS", "Slamet": "PKS", "Johan Rosihan": "PKS", "Riyono": "PKS", "Rahmat Saleh": "PKS",
+  // PAN
+  "Ahmad Yohan": "PAN", "Herry Dermawan": "PAN", "Irham Jafar Lan Putra": "PAN", "Ajbar": "PAN",
+  // Demokrat
+  "Bambang Purwanto": "Demokrat", "Ellen Esther Pelealu": "Demokrat", "Hasan Saleh": "Demokrat", "Muhammad Zulfikar Suhardi": "Demokrat"
 };
 
 const PARTY_CSS = {
@@ -366,8 +1821,92 @@ const PARTY_CSS = {
   "NasDem":"nasdem","PKS":"pks","PAN":"pan","Demokrat":"demokrat"
 };
 
+/* ============================================================
+   KONFIGURASI TAG TOPIK (deterministik, berbasis keyword)
+   ------------------------------------------------------------
+   EDIT DI SINI untuk menambah/mengubah topik. Format:
+   "nama-tag": ["keyword1", "keyword2", ...]
+   Pencocokan: substring case-insensitive pada judul berita.
+   Judul tanpa keyword cocok otomatis diberi tag "lainnya".
+   ============================================================ */
+const TOPIC_TAGS = {
+  "impor":    ["impor"],
+  "ekspor":   ["ekspor"],
+  "harga":    ["harga", "hpp", "hap", "inflasi", "mahal", "anjlok"],
+  "subsidi":  ["subsidi", "bansos", "bantuan pangan", "blt"],
+  "produksi": ["produksi", "panen", "swasembada", "tanam", "gabah"],
+  "pupuk":    ["pupuk"],
+  "bencana":  ["banjir", "kekeringan", "bencana", "wabah", "kebakaran", "el nino"],
+  "nelayan":  ["nelayan", "ikan", "perikanan", "lobster", "tambak"],
+  "pangan":   ["pangan", "beras", "jagung", "sphp", "bulog", "stok"],
+  "hutan":    ["hutan", "kehutanan", "deforestasi", "reboisasi"]
+};
+function tagsFor(title) {
+  const t = String(title || "").toLowerCase();
+  const tags = [];
+  Object.keys(TOPIC_TAGS).forEach(function(tag) {
+    for (var i = 0; i < TOPIC_TAGS[tag].length; i++) {
+      if (t.indexOf(TOPIC_TAGS[tag][i]) !== -1) { tags.push(tag); break; }
+    }
+  });
+  return tags.length ? tags : ["lainnya"];
+}
+
 const ACCENTS = ["","red-accent","amber-accent","green-accent","blue-accent"];
 let allMembers = [];
+let liveData = null;
+let uiBound = false;
+let astGreeted = false;
+const REPO_ACTIONS_URL = "https://github.com/kevinpribadi/Gerindra-Komisi-4/actions/workflows/auto_update.yml";
+
+/* ============================================================
+   ARSIP BERITA (P1): normalisasi skema array + kompatibel lama
+   ============================================================ */
+let agencyArch = {};   // { lembaga: [artikel, terbaru dulu] }
+let memberArch = {};   // { anggota: [artikel, terbaru dulu] }
+
+function artDate(a) {
+  if (!a) return null;
+  var d = new Date(a.published);
+  if (!isNaN(d)) return d;
+  d = new Date(a.fetched_at);
+  return isNaN(d) ? null : d;
+}
+function toArtArray(v) {
+  if (Array.isArray(v)) return v;
+  if (v && typeof v === "object" && v.title) return [v];   // skema lama: objek tunggal
+  return [];
+}
+function sortArtsDesc(arr) {
+  arr.sort(function(x, y) {
+    var dx = artDate(x), dy = artDate(y);
+    return (dy ? dy.getTime() : 0) - (dx ? dx.getTime() : 0);
+  });
+  return arr;
+}
+function normalizeArchives(data) {
+  agencyArch = {}; memberArch = {};
+  var rawA = data.agency_news;
+  if (Array.isArray(rawA)) {           // skema lama: [{agency, title, ...}]
+    rawA.forEach(function(it) {
+      if (it && it.agency) (agencyArch[it.agency] = agencyArch[it.agency] || []).push(it);
+    });
+  } else if (rawA && typeof rawA === "object") {   // skema baru: { lembaga: [...] }
+    Object.keys(rawA).forEach(function(k) { agencyArch[k] = toArtArray(rawA[k]); });
+  }
+  Object.keys(agencyArch).forEach(function(k) { sortArtsDesc(agencyArch[k]); });
+  var rawM = data.member_news || {};
+  Object.keys(rawM).forEach(function(k) { memberArch[k] = sortArtsDesc(toArtArray(rawM[k])); });
+}
+function flatAgencyArticles() {
+  var out = [];
+  Object.keys(agencyArch).forEach(function(ag) {
+    agencyArch[ag].forEach(function(a) {
+      out.push({ agency: ag, title: a.title, link: a.link, link_resolved: a.link_resolved, published: a.published, fetched_at: a.fetched_at });
+    });
+  });
+  return sortArtsDesc(out);
+}
 
 /* --- CLOCK --- */
 function updateClock() {
@@ -399,59 +1938,623 @@ function esc(s) {
     .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
-/* --- RENDER AGENCY NEWS --- */
-function renderAgency(news) {
-  const el = document.getElementById("agency-news-list");
-  const hl = document.getElementById("headline-list");
-  document.getElementById("agency-count").textContent = news.length;
+/* ============================================================
+   ISU PANAS (P2): volume pemberitaan 7 hari dari arsip
+   ============================================================ */
+function articlesLastNDays(days) {
+  const cut = Date.now() - days * 864e5;
+  const list = [];
+  Object.keys(agencyArch).forEach(function(ag) {
+    agencyArch[ag].forEach(function(a) {
+      var d = artDate(a);
+      if (d && d.getTime() >= cut) list.push({ entity: ag, kind: "agency", title: a.title, link: a.link, link_resolved: a.link_resolved, published: a.published });
+    });
+  });
+  Object.keys(memberArch).forEach(function(nm) {
+    memberArch[nm].forEach(function(a) {
+      var d = artDate(a);
+      if (d && d.getTime() >= cut) list.push({ entity: nm, kind: "member", party: PARTY_MAP[nm] || "", title: a.title, link: a.link, link_resolved: a.link_resolved, published: a.published });
+    });
+  });
+  return list;
+}
 
-  if (!news.length) {
-    el.innerHTML = '<div class="empty-state">[ TIDAK ADA DATA LEMBAGA ]</div>';
-    hl.innerHTML = '<div class="empty-state">[ TIDAK ADA HEADLINE ]</div>';
+/* ============================================================
+   SOROTAN GERINDRA + WATCHLIST (F3)
+   ============================================================ */
+const GERINDRA_NAMES = Object.keys(PARTY_MAP).filter(function(n) { return PARTY_MAP[n] === "Gerindra"; });
+
+/* aliases.json = satu sumber kebenaran alias nama anggota (dimuat di loadData).
+   Kunci berawalan '_' adalah catatan owner, diabaikan. */
+let ALIASES = {};
+function gerindraMatchTerms() {
+  const terms = [];
+  GERINDRA_NAMES.forEach(function(n) {
+    terms.push(n.toLowerCase());
+    (ALIASES[n] || []).forEach(function(a) { terms.push(String(a).toLowerCase()); });
+  });
+  return terms;
+}
+function titleMentionsGerindra(title) {
+  const t = String(title || "").toLowerCase();
+  const terms = gerindraMatchTerms();
+  for (var i = 0; i < terms.length; i++) {
+    if (terms[i] && t.indexOf(terms[i]) !== -1) return true;
+  }
+  return false;
+}
+
+let watchlist = [];
+try { watchlist = JSON.parse(localStorage.getItem("k4_watchlist") || "[]"); } catch (e) { watchlist = []; }
+if (!Array.isArray(watchlist)) watchlist = [];
+function saveWatchlist() { try { localStorage.setItem("k4_watchlist", JSON.stringify(watchlist)); } catch (e) {} }
+function watchlistHits(title) {
+  const t = String(title || "").toLowerCase();
+  return watchlist.filter(function(kw) { return t.indexOf(kw.toLowerCase()) !== -1; });
+}
+
+function renderWatchlist() {
+  const chips = document.getElementById("wl-chips");
+  const box = document.getElementById("wl-matches");
+  const total = document.getElementById("wl-total");
+  if (!chips) return;
+  chips.innerHTML = watchlist.map(function(kw) {
+    return '<span class="wl-chip" data-kw="' + esc(kw) + '">&#9733; ' + esc(kw) +
+      ' <span class="wl-tl-btn" title="Lihat kronologi 30 hari">&#9202;</span>' +
+      ' <span class="wl-x" title="Hapus">&times;</span></span>';
+  }).join("");
+  if (!watchlist.length) {
+    box.innerHTML = '<div class="hot-empty">Belum ada keyword. Tambahkan untuk memantau isu spesifik; kecocokan 7 hari terakhir muncul di sini dan berbintang di feed.</div>';
+    if (total) total.textContent = "0";
     return;
   }
-
-  el.innerHTML = news.map(function(item, i) {
-    const a = item.analysis || {};
-    const pro = (a.pro || [])[0] || "";
-    const kontra = (a.kontra || [])[0] || "";
-    return '<div class="news-card ' + ACCENTS[i % ACCENTS.length] + '" style="animation-delay:' + (i*60) + 'ms">' +
-      '<div class="news-agency">' + esc(item.agency || "") + '</div>' +
-      '<a class="news-title" href="' + esc(item.link || "#") + '" target="_blank" rel="noopener">' + esc(item.title || "") + '</a>' +
-      '<div class="news-date">' + fmtDate(item.published) + '</div>' +
-      (pro || kontra
-        ? '<div class="analysis-tags">' +
-          (pro ? '<span class="tag tag-pro">OK: ' + esc(pro) + '</span>' : '') +
-          (kontra ? '<span class="tag tag-kontra">RISK: ' + esc(kontra) + '</span>' : '') +
-          '</div>'
-        : '') +
-      '</div>';
+  const arts = articlesLastNDays(7);
+  let grand = 0;
+  box.innerHTML = watchlist.map(function(kw) {
+    const hits = arts.filter(function(a) { return String(a.title).toLowerCase().indexOf(kw.toLowerCase()) !== -1; });
+    grand += hits.length;
+    let h = '<div class="wl-kw-head">&#9733; ' + esc(kw) + ' <span class="wl-count-badge">' + hits.length + '</span> <span style="font-weight:400;color:var(--text-muted)">/ 7 hari</span></div>';
+    h += hits.slice(0, 4).map(function(a) {
+      const who = a.kind === "member" ? esc(a.entity) + (a.party ? " (" + esc(a.party) + ")" : "") : esc(a.entity);
+      return '<div class="wl-match">' +
+        '<div class="wl-match-title"><a href="' + esc(a.link_resolved || a.link || "#") + '" target="_blank" rel="noopener">' + esc(a.title) + '</a></div>' +
+        '<div class="wl-match-meta">' + who + ' &middot; ' + fmtDate(a.published) + '</div>' +
+        '</div>';
+    }).join("");
+    if (!hits.length) h += '<div class="hot-empty">Tidak ada kecocokan 7 hari terakhir.</div>';
+    if (hits.length > 4) h += '<div class="hot-empty">+' + (hits.length - 4) + ' kecocokan lain.</div>';
+    return h;
   }).join("");
+  if (total) total.textContent = String(grand);
+}
 
-  hl.innerHTML = news.slice(0, 3).map(function(item, i) {
-    return '<div class="news-card amber-accent" style="animation-delay:' + (i*80) + 'ms">' +
-      '<div class="news-agency">' + esc(item.agency || "") + '</div>' +
-      '<a class="news-title" href="' + esc(item.link || "#") + '" target="_blank" rel="noopener">' + esc(item.title || "") + '</a>' +
-      '<div class="news-date">' + fmtDate(item.published) + '</div>' +
+function bindWatchlist() {
+  const inp = document.getElementById("wl-input");
+  const add = document.getElementById("wl-add");
+  const chips = document.getElementById("wl-chips");
+  if (!inp || inp.dataset.bound) return;
+  inp.dataset.bound = "1";
+  function addKw() {
+    const kw = inp.value.trim();
+    if (!kw) return;
+    if (watchlist.some(function(k) { return k.toLowerCase() === kw.toLowerCase(); })) { inp.value = ""; return; }
+    watchlist.push(kw);
+    saveWatchlist();
+    inp.value = "";
+    renderWatchlist();
+    renderAgency();   // perbarui bintang di feed
+  }
+  add.addEventListener("click", addKw);
+  inp.addEventListener("keydown", function(e) { if (e.key === "Enter") { e.preventDefault(); addKw(); } });
+  chips.addEventListener("click", function(e) {
+    if (!e.target.classList.contains("wl-x")) return;
+    const kw = e.target.closest(".wl-chip").dataset.kw;
+    watchlist = watchlist.filter(function(k) { return k !== kw; });
+    saveWatchlist();
+    renderWatchlist();
+    renderAgency();
+  });
+}
+function topCounts(items, keyFn, topN) {
+  const counts = {};
+  items.forEach(function(it) {
+    var keys = keyFn(it);
+    (Array.isArray(keys) ? keys : [keys]).forEach(function(k) {
+      if (k) counts[k] = (counts[k] || 0) + 1;
+    });
+  });
+  return Object.keys(counts)
+    .map(function(k) { return { name: k, count: counts[k] }; })
+    .sort(function(a, b) { return b.count - a.count || a.name.localeCompare(b.name); })
+    .slice(0, topN);
+}
+function hotListHTML(rows) {
+  if (!rows.length) return '<div class="hot-empty">Tidak ada artikel 7 hari terakhir.</div>';
+  const max = rows[0].count;
+  return rows.map(function(r, i) {
+    var pct = Math.max(8, Math.round(r.count / max * 100));
+    return '<div class="hot-item">' +
+      '<span class="hot-rank">' + (i + 1) + '</span>' +
+      '<span class="hot-name" title="' + esc(r.name) + '">' + esc(r.name) + '</span>' +
+      '<span class="hot-bar-wrap"><span class="hot-bar" style="width:' + pct + '%"></span></span>' +
+      '<span class="hot-count">' + r.count + '</span>' +
       '</div>';
   }).join("");
 }
+function renderHot() {
+  const arts = articlesLastNDays(7);
+  const agEl = document.getElementById("hot-agencies");
+  const memEl = document.getElementById("hot-members");
+  const topEl = document.getElementById("hot-topics");
+  const totEl = document.getElementById("hot-total");
+  if (!agEl) return;
+  agEl.innerHTML = hotListHTML(topCounts(arts.filter(function(a){ return a.kind === "agency"; }), function(a){ return a.entity; }, 5));
+  memEl.innerHTML = hotListHTML(topCounts(arts.filter(function(a){ return a.kind === "member"; }), function(a){ return a.entity; }, 5));
+  topEl.innerHTML = hotListHTML(topCounts(arts, function(a){ return tagsFor(a.title); }, 5));
+  if (totEl) totEl.textContent = arts.length + " ARTIKEL / 7 HARI";
+}
 
-/* --- RENDER MEMBER NEWS --- */
-function renderMembers(memberNews) {
+/* ============================================================
+   TIMELINE ISU (F5): kronologi per tag / keyword dari arsip 30 hari
+   ============================================================ */
+function collectTimeline(term, mode) {
+  const arts = articlesLastNDays(30).filter(function(a) {
+    return mode === "tag"
+      ? tagsFor(a.title).indexOf(term) !== -1
+      : String(a.title).toLowerCase().indexOf(term.toLowerCase()) !== -1;
+  });
+  arts.sort(function(x, y) {
+    var dx = artDate(x), dy = artDate(y);
+    return (dx ? dx.getTime() : 0) - (dy ? dy.getTime() : 0);   // urut naik (lama -> baru)
+  });
+  return arts;
+}
+function openTimeline(term, mode) {
+  const items = collectTimeline(term, mode);
+  document.getElementById("tl-title").innerHTML = "&#9202; Timeline: " + esc(term);
+  document.getElementById("tl-sub").textContent =
+    items.length + " artikel / 30 hari — " + (mode === "tag" ? "tag topik" : "keyword watchlist");
+  document.getElementById("tl-body").innerHTML = items.length
+    ? items.map(function(a) {
+        const d = artDate(a);
+        const who = a.kind === "member"
+          ? esc(a.entity) + (a.party ? " (" + esc(a.party) + ")" : "") + " — anggota"
+          : esc(a.entity) + " — lembaga";
+        return '<div class="tl-item">' +
+          '<div class="tl-date">' + (d ? d.toLocaleDateString("id-ID", { day: "2-digit", month: "short", year: "numeric" }) : "?") + '</div>' +
+          '<div class="tl-item-title"><a href="' + esc(a.link_resolved || a.link || "#") + '" target="_blank" rel="noopener">' + esc(a.title) + '</a></div>' +
+          '<div class="tl-entity">' + who + (titleMentionsGerindra(a.title) ? ' &nbsp;<span class="g-badge">MENYEBUT GERINDRA</span>' : '') + '</div>' +
+          '</div>';
+      }).join("")
+    : '<div class="hot-empty">Tidak ada artikel yang cocok dalam arsip 30 hari.</div>';
+  document.getElementById("tl-overlay").classList.add("show");
+}
+function closeTimeline() { document.getElementById("tl-overlay").classList.remove("show"); }
+function bindTimeline() {
+  const btn = document.getElementById("nf-timeline");
+  if (!btn || btn.dataset.bound) return;
+  btn.dataset.bound = "1";
+  btn.addEventListener("click", function() {
+    if (newsFilter.tag === "ALL") { openTimeline("pangan", "tag"); return; }   // default contoh bila belum ada tag aktif
+    openTimeline(newsFilter.tag, "tag");
+  });
+  document.getElementById("tl-close").addEventListener("click", closeTimeline);
+  document.getElementById("tl-overlay").addEventListener("click", function(e) {
+    if (e.target === this) closeTimeline();
+  });
+  document.addEventListener("keydown", function(e) { if (e.key === "Escape") closeTimeline(); });
+  // delegasi: tombol timeline pada chip watchlist
+  document.getElementById("wl-chips").addEventListener("click", function(e) {
+    if (!e.target.classList.contains("wl-tl-btn")) return;
+    openTimeline(e.target.closest(".wl-chip").dataset.kw, "keyword");
+  });
+}
+
+/* ============================================================
+   PANEL ANALISIS (Fitur B): tren harian, delta periode, matriks, CSV
+   Semua dari arsip berita — statistik FALLBACK tidak pernah disentuh.
+   ============================================================ */
+const AGENCY_ABBREV = {
+  "Kementerian Pertanian": "Kementan", "Kementerian Kehutanan": "Kemenhut",
+  "Kementerian Kelautan dan Perikanan": "KKP", "Badan Karantina Indonesia": "Barantin",
+  "Badan Pangan Nasional": "Bapanas", "Perum Bulog": "Bulog"
+};
+function dayKey(d) {
+  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+}
+function dimFilter(sel) {
+  if (sel === "ALL") return function() { return true; };
+  const i = sel.indexOf(":"), kind = sel.slice(0, i), val = sel.slice(i + 1);
+  if (kind === "ag") return function(a) { return a.kind === "agency" && a.entity === val; };
+  if (kind === "fr") return function(a) { return a.kind === "member" && a.party === val; };
+  if (kind === "tag") return function(a) { return tagsFor(a.title).indexOf(val) !== -1; };
+  return function() { return true; };
+}
+
+/* chart garis SVG manual — tanpa library */
+function svgLine(labels, values) {
+  const W = 680, H = 190, L = 34, R = 10, T = 12, B = 26;
+  const n = values.length, max = Math.max(1, Math.max.apply(null, values));
+  const iw = W - L - R, ih = H - T - B;
+  function X(i) { return L + iw * (n < 2 ? 0.5 : i / (n - 1)); }
+  function Y(v) { return T + ih * (1 - v / max); }
+  const pts = values.map(function(v, i) { return X(i).toFixed(1) + "," + Y(v).toFixed(1); }).join(" ");
+  let ticks = "";
+  for (let i = 0; i < n; i += 7) {
+    ticks += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 8) + '" font-size="9" text-anchor="middle" fill="#6b7280">' + labels[i].slice(5).split("-").reverse().join("/") + "</text>";
+  }
+  const dots = values.map(function(v, i) {
+    return '<circle cx="' + X(i).toFixed(1) + '" cy="' + Y(v).toFixed(1) + '" r="2.5" fill="#b91c1c"><title>' + labels[i] + ": " + v + " artikel</title></circle>";
+  }).join("");
+  return '<svg viewBox="0 0 ' + W + " " + H + '" style="width:100%;height:auto;display:block" xmlns="http://www.w3.org/2000/svg">' +
+    '<text x="4" y="' + (T + 8) + '" font-size="9" fill="#6b7280">' + max + "</text>" +
+    '<text x="8" y="' + (T + ih) + '" font-size="9" fill="#6b7280">0</text>' +
+    '<line x1="' + L + '" y1="' + (T + ih) + '" x2="' + (W - R) + '" y2="' + (T + ih) + '" stroke="#e5e7eb"/>' +
+    '<polygon points="' + pts + " " + X(n - 1).toFixed(1) + "," + (T + ih) + " " + X(0).toFixed(1) + "," + (T + ih) + '" fill="rgba(185,28,28,.08)"/>' +
+    '<polyline points="' + pts + '" fill="none" stroke="#b91c1c" stroke-width="2"/>' + dots + ticks + "</svg>";
+}
+
+/* B1: tren volume harian */
+function renderTrend() {
+  const sel = document.getElementById("an-dim");
+  if (!sel) return;
+  const f = dimFilter(sel.value);
+  const arts = articlesLastNDays(30).filter(f);
+  const keys = [];
+  for (let i = 30; i >= 0; i--) keys.push(dayKey(new Date(Date.now() - i * 864e5)));   // 31 bucket: tutup hari batas
+  const map = {};
+  keys.forEach(function(k) { map[k] = 0; });
+  arts.forEach(function(a) { const d = artDate(a); if (d) { const k = dayKey(d); if (k in map) map[k]++; } });
+  const vals = keys.map(function(k) { return map[k]; });
+  document.getElementById("an-total").textContent = "Total: " + arts.length + " artikel";
+  document.getElementById("an-chart").innerHTML = svgLine(keys, vals);
+}
+
+/* B2: perbandingan 7 hari vs 7 hari sebelumnya */
+function windowCount(filterFn, fromDaysAgo, toDaysAgo) {
+  const now = Date.now(), lo = now - fromDaysAgo * 864e5, hi = now - toDaysAgo * 864e5;
+  return articlesLastNDays(30).filter(function(a) {
+    const d = artDate(a); if (!d) return false;
+    const t = d.getTime();
+    return t >= lo && t < hi && filterFn(a);
+  }).length;
+}
+function deltaRowsHTML(rows) {
+  let h = '<div class="an-row head"><span class="an-name">Nama</span><span class="an-num">7 hr</span><span class="an-num">Seb.</span><span class="an-delta">&Delta;</span></div>';
+  h += rows.map(function(r) {
+    let d, cls;
+    if (r.p7 === 0) { d = r.c7 > 0 ? "BARU" : "&mdash;"; cls = r.c7 > 0 ? "up" : "down"; }
+    else {
+      const pct = Math.round((r.c7 - r.p7) / r.p7 * 100);
+      d = (r.c7 > r.p7 ? "&#9650; +" : r.c7 < r.p7 ? "&#9660; " : "&#8226; ") + pct + "%";
+      cls = r.c7 > r.p7 ? "up" : "down";
+    }
+    return '<div class="an-row"><span class="an-name" title="' + esc(r.name) + '">' + esc(r.name) + '</span>' +
+      '<span class="an-num">' + r.c7 + '</span><span class="an-num">' + r.p7 + '</span>' +
+      '<span class="an-delta ' + cls + '">' + d + "</span></div>";
+  }).join("");
+  return h;
+}
+function renderDeltas() {
+  const agEl = document.getElementById("an-delta-ag");
+  if (!agEl) return;
+  const agRows = Object.keys(agencyArch).map(function(ag) {
+    function f(a) { return a.kind === "agency" && a.entity === ag; }
+    return { name: AGENCY_ABBREV[ag] || ag, c7: windowCount(f, 7, 0), p7: windowCount(f, 14, 7) };
+  }).sort(function(a, b) { return b.c7 - a.c7 || a.name.localeCompare(b.name); });
+  agEl.innerHTML = deltaRowsHTML(agRows);
+  const frRows = Object.keys(PARTY_CSS).map(function(p) {
+    function f(a) { return a.kind === "member" && a.party === p; }
+    return { name: p, c7: windowCount(f, 7, 0), p7: windowCount(f, 14, 7) };
+  }).sort(function(a, b) { return b.c7 - a.c7 || a.name.localeCompare(b.name); });
+  document.getElementById("an-delta-fr").innerHTML = deltaRowsHTML(frRows);
+}
+
+/* B3: matriks tag x mitra (artikel lembaga, 30 hari) */
+function renderMatrix() {
+  const tbl = document.getElementById("an-matrix");
+  if (!tbl) return;
+  const ags = Object.keys(agencyArch);
+  const tags = Object.keys(TOPIC_TAGS).concat(["lainnya"]);
+  const m = {}; let max = 1;
+  articlesLastNDays(30).forEach(function(a) {
+    if (a.kind !== "agency") return;
+    tagsFor(a.title).forEach(function(t) {
+      const k = t + "|" + a.entity;
+      m[k] = (m[k] || 0) + 1;
+      if (m[k] > max) max = m[k];
+    });
+  });
+  let h = "<tr><th style='text-align:left'>Tag</th>" + ags.map(function(ag) { return "<th>" + esc(AGENCY_ABBREV[ag] || ag) + "</th>"; }).join("") + "</tr>";
+  tags.forEach(function(t) {
+    h += '<tr><td class="tag-name">' + esc(t) + "</td>" + ags.map(function(ag) {
+      const c = m[t + "|" + ag] || 0;
+      if (!c) return "<td></td>";
+      const alpha = Math.min(0.85, c / max * 0.85);
+      const fg = alpha > 0.45 ? "#fff" : "inherit";
+      return '<td style="background:rgba(185,28,28,' + alpha.toFixed(2) + ');color:' + fg + '">' + c + "</td>";
+    }).join("") + "</tr>";
+  });
+  tbl.innerHTML = h;
+}
+
+/* B4: ekspor CSV (client-side, UTF-8 BOM, escape kutip) */
+function csvCell(v) { return '"' + String(v == null ? "" : v).replace(/"/g, '""') + '"'; }
+function csvString(rows) { return "\uFEFF" + rows.map(function(r) { return r.map(csvCell).join(","); }).join("\r\n"); }
+function buildArticlesCSV() {
+  const rows = [["tanggal", "entitas", "jenis", "fraksi", "judul", "tag", "link"]];
+  Object.keys(agencyArch).forEach(function(ag) {
+    agencyArch[ag].forEach(function(a) {
+      const d = artDate(a);
+      rows.push([d ? dayKey(d) : "", ag, "lembaga", "", a.title, tagsFor(a.title).join(";"), a.link_resolved || a.link || ""]);
+    });
+  });
+  Object.keys(memberArch).forEach(function(nm) {
+    memberArch[nm].forEach(function(a) {
+      const d = artDate(a);
+      rows.push([d ? dayKey(d) : "", nm, "anggota", PARTY_MAP[nm] || "", a.title, tagsFor(a.title).join(";"), a.link_resolved || a.link || ""]);
+    });
+  });
+  return csvString(rows);
+}
+function buildAggregateCSV() {
+  const counts = {};
+  function add(ent, a) { const d = artDate(a); if (d) { const k = dayKey(d) + "|" + ent; counts[k] = (counts[k] || 0) + 1; } }
+  Object.keys(agencyArch).forEach(function(ag) { agencyArch[ag].forEach(function(a) { add(ag, a); }); });
+  Object.keys(memberArch).forEach(function(nm) { memberArch[nm].forEach(function(a) { add(nm, a); }); });
+  const rows = [["tanggal", "entitas", "jumlah"]];
+  Object.keys(counts).sort().forEach(function(k) {
+    const i = k.indexOf("|");
+    rows.push([k.slice(0, i), k.slice(i + 1), counts[k]]);
+  });
+  return csvString(rows);
+}
+function downloadCSV(name, txt) {
+  const b = new Blob([txt], { type: "text/csv;charset=utf-8;" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(b);
+  a.download = name;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(function() { URL.revokeObjectURL(a.href); }, 2000);
+}
+
+function buildAnalysis() {
+  const sel = document.getElementById("an-dim");
+  if (!sel || sel.dataset.built) { renderTrend(); renderDeltas(); renderMatrix(); return; }
+  sel.dataset.built = "1";
+  let h = '<option value="ALL">Semua artikel</option><optgroup label="Mitra">';
+  Object.keys(agencyArch).forEach(function(ag) { h += '<option value="ag:' + esc(ag) + '">' + esc(AGENCY_ABBREV[ag] || ag) + "</option>"; });
+  h += '</optgroup><optgroup label="Fraksi">';
+  Object.keys(PARTY_CSS).forEach(function(p) { h += '<option value="fr:' + esc(p) + '">' + esc(p) + "</option>"; });
+  h += '</optgroup><optgroup label="Tag">';
+  Object.keys(TOPIC_TAGS).concat(["lainnya"]).forEach(function(t) { h += '<option value="tag:' + esc(t) + '">' + esc(t) + "</option>"; });
+  h += "</optgroup>";
+  sel.innerHTML = h;
+  sel.addEventListener("change", renderTrend);
+  const ymd = dayKey(new Date());
+  document.getElementById("an-csv-full").addEventListener("click", function() {
+    downloadCSV("Data_Berita_Komisi_IV_" + ymd + ".csv", buildArticlesCSV());
+  });
+  document.getElementById("an-csv-agg").addEventListener("click", function() {
+    downloadCSV("Agregat_Harian_Komisi_IV_" + ymd + ".csv", buildAggregateCSV());
+  });
+  renderTrend(); renderDeltas(); renderMatrix();
+}
+
+/* ============================================================
+   SHARE OF VOICE FRAKSI (F2): volume per fraksi + top anggota
+   ============================================================ */
+let sovWindow = 7;
+function computeSOV(days) {
+  const cut = Date.now() - days * 864e5;
+  const parties = {}; const members = {};
+  Object.keys(PARTY_CSS).forEach(function(p) { parties[p] = 0; });   // semua 8 fraksi tampil walau 0
+  Object.keys(memberArch).forEach(function(nm) {
+    const p = PARTY_MAP[nm] || "Lainnya";
+    memberArch[nm].forEach(function(a) {
+      const d = artDate(a);
+      if (d && d.getTime() >= cut) {
+        parties[p] = (parties[p] || 0) + 1;
+        members[nm] = (members[nm] || 0) + 1;
+      }
+    });
+  });
+  return { parties: parties, members: members };
+}
+function renderSOV() {
+  const el = document.getElementById("sov-parties");
+  if (!el) return;
+  const sov = computeSOV(sovWindow);
+  const rows = Object.keys(sov.parties)
+    .map(function(p) { return { name: p, count: sov.parties[p] }; })
+    .sort(function(a, b) { return b.count - a.count || a.name.localeCompare(b.name); });
+  const max = Math.max(1, rows[0] ? rows[0].count : 1);
+  el.innerHTML = rows.map(function(r, i) {
+    const pct = Math.max(4, Math.round(r.count / max * 100));
+    return '<div class="hot-item sov-row' + (r.name === "Gerindra" ? " gerindra" : "") + '">' +
+      '<span class="hot-rank">' + (i + 1) + '</span>' +
+      '<span class="hot-name">' + esc(r.name) + '</span>' +
+      '<span class="hot-bar-wrap"><span class="hot-bar" style="width:' + pct + '%"></span></span>' +
+      '<span class="hot-count">' + r.count + '</span>' +
+      '</div>';
+  }).join("");
+  const mEl = document.getElementById("sov-members");
+  const mRows = Object.keys(sov.members)
+    .map(function(n) { return { name: n, count: sov.members[n] }; })
+    .sort(function(a, b) { return b.count - a.count || a.name.localeCompare(b.name); })
+    .slice(0, 5);
+  mEl.innerHTML = hotListHTML(mRows) || '<div class="hot-empty">Tidak ada artikel.</div>';
+  // penanda fraksi kecil di bawah nama top anggota
+  mEl.querySelectorAll(".hot-item").forEach(function(item) {
+    const nm = item.querySelector(".hot-name").textContent;
+    const p = PARTY_MAP[nm];
+    if (p) item.querySelector(".hot-name").innerHTML = esc(nm) + ' <span style="font-size:9px;color:var(--text-muted)">(' + esc(p) + ')</span>';
+  });
+}
+function bindSOV() {
+  ["sov-7", "sov-30"].forEach(function(id) {
+    const b = document.getElementById(id);
+    if (!b || b.dataset.bound) return;
+    b.dataset.bound = "1";
+    b.addEventListener("click", function() {
+      sovWindow = parseInt(b.dataset.days, 10);
+      document.getElementById("sov-7").classList.toggle("active", sovWindow === 7);
+      document.getElementById("sov-30").classList.toggle("active", sovWindow === 30);
+      renderSOV();
+    });
+  });
+}
+
+/* --- RENDER AGENCY NEWS (arsip bergulir + filter/sort/tag P3) --- */
+const AGENCY_LIST_LIMIT = 30;   // maksimal artikel tampil di feed utama
+
+let newsFilter = { agency: "ALL", tag: "ALL", from: "", to: "", sort: "desc" };
+
+function newsCardHTML(item, i, accent) {
+  const tags = tagsFor(item.title);
+  let marks = "";
+  if (titleMentionsGerindra(item.title)) marks += '<span class="g-badge">MENYEBUT GERINDRA</span>';
+  watchlistHits(item.title).forEach(function(kw) {
+    marks += '<span class="wl-star">&#9733; ' + esc(kw) + '</span>';
+  });
+  return '<div class="news-card ' + (accent || ACCENTS[i % ACCENTS.length]) + '" style="animation-delay:' + (Math.min(i, 15) * 50) + 'ms">' +
+    '<div class="news-agency">' + esc(item.agency || "") + '</div>' +
+    '<a class="news-title" href="' + esc(item.link_resolved || item.link || "#") + '" target="_blank" rel="noopener">' + esc(item.title || "") + '</a>' +
+    '<div class="news-date">' + fmtDate(item.published) + '</div>' +
+    '<div class="card-tags">' + marks + tags.map(function(t) {
+      return '<span class="tag-chip" data-tag="' + esc(t) + '">' + esc(t) + '</span>';
+    }).join("") + '</div>' +
+    '</div>';
+}
+
+function applyNewsFilter(flat) {
+  let arts = flat;
+  if (newsFilter.agency !== "ALL") arts = arts.filter(function(a) { return a.agency === newsFilter.agency; });
+  if (newsFilter.tag !== "ALL") arts = arts.filter(function(a) { return tagsFor(a.title).indexOf(newsFilter.tag) !== -1; });
+  if (newsFilter.from) {
+    var fromT = new Date(newsFilter.from + "T00:00:00").getTime();
+    arts = arts.filter(function(a) { var d = artDate(a); return d && d.getTime() >= fromT; });
+  }
+  if (newsFilter.to) {
+    var toT = new Date(newsFilter.to + "T23:59:59").getTime();
+    arts = arts.filter(function(a) { var d = artDate(a); return d && d.getTime() <= toT; });
+  }
+  if (newsFilter.sort === "asc") arts = arts.slice().reverse();
+  return arts;
+}
+
+function renderAgency() {
+  const el = document.getElementById("agency-news-list");
+  const hl = document.getElementById("headline-list");
+  const flat = flatAgencyArticles();
+  const filtered = applyNewsFilter(flat);
+
+  document.getElementById("agency-count").textContent = filtered.length;
+  const heroAgency = document.getElementById("hero-agency-count");
+  if (heroAgency) heroAgency.textContent = flat.length;
+
+  if (!flat.length) {
+    el.innerHTML = '<div class="empty-state">[ Tidak ada data lembaga ]</div>';
+    hl.innerHTML = '<div class="empty-state">[ Tidak ada headline ]</div>';
+    return;
+  }
+  if (!filtered.length) {
+    el.innerHTML = '<div class="empty-state">Tidak ada artikel yang cocok dengan filter.</div>';
+  } else {
+    const shown = filtered.slice(0, AGENCY_LIST_LIMIT);
+    let html = shown.map(function(item, i) { return newsCardHTML(item, i); }).join("");
+    if (filtered.length > shown.length) {
+      html += '<div class="empty-state">Menampilkan ' + shown.length + ' dari ' + filtered.length + ' artikel.</div>';
+    }
+    el.innerHTML = html;
+  }
+
+  hl.innerHTML = flat.slice(0, 3).map(function(item, i) { return newsCardHTML(item, i, "amber-accent"); }).join("");
+}
+
+/* --- KONTROL BERITA (P3): isi opsi, sinkronkan state, delegasi klik tag --- */
+function buildNewsControls() {
+  const selA = document.getElementById("nf-agency");
+  if (!selA || selA.dataset.built) return;
+  selA.dataset.built = "1";
+
+  Object.keys(agencyArch).forEach(function(ag) {
+    const o = document.createElement("option");
+    o.value = ag; o.textContent = ag;
+    selA.appendChild(o);
+  });
+
+  const tagRow = document.getElementById("nf-tags");
+  const allTags = ["ALL"].concat(Object.keys(TOPIC_TAGS)).concat(["lainnya"]);
+  tagRow.innerHTML = allTags.map(function(t) {
+    return '<span class="tag-chip' + (t === "ALL" ? " active" : "") + '" data-tag="' + esc(t) + '">' +
+      (t === "ALL" ? "semua topik" : esc(t)) + '</span>';
+  }).join("");
+
+  function syncTagChips() {
+    tagRow.querySelectorAll(".tag-chip").forEach(function(c) {
+      c.classList.toggle("active", c.dataset.tag === newsFilter.tag);
+    });
+  }
+
+  selA.addEventListener("change", function() { newsFilter.agency = selA.value; renderAgency(); });
+  document.getElementById("nf-from").addEventListener("change", function() { newsFilter.from = this.value; renderAgency(); });
+  document.getElementById("nf-to").addEventListener("change", function() { newsFilter.to = this.value; renderAgency(); });
+  document.getElementById("nf-sort").addEventListener("change", function() { newsFilter.sort = this.value; renderAgency(); });
+  document.getElementById("nf-reset").addEventListener("click", function() {
+    newsFilter = { agency: "ALL", tag: "ALL", from: "", to: "", sort: "desc" };
+    selA.value = "ALL";
+    document.getElementById("nf-from").value = "";
+    document.getElementById("nf-to").value = "";
+    document.getElementById("nf-sort").value = "desc";
+    syncTagChips();
+    renderAgency();
+  });
+  document.getElementById("nf-share").addEventListener("click", function() {
+    const hash = buildHashFromState();
+    history.replaceState(null, "", hash ? "#" + hash : location.pathname + location.search);
+    copyText(location.href, document.getElementById("nf-share"));
+  });
+  tagRow.addEventListener("click", function(e) {
+    const chip = e.target.closest(".tag-chip");
+    if (!chip) return;
+    newsFilter.tag = chip.dataset.tag;
+    syncTagChips();
+    renderAgency();
+  });
+  // klik tag pada kartu berita -> aktifkan filter tag yang sama
+  document.getElementById("agency-news-list").addEventListener("click", function(e) {
+    const chip = e.target.closest(".tag-chip");
+    if (!chip) return;
+    e.preventDefault();
+    newsFilter.tag = chip.dataset.tag;
+    syncTagChips();
+    renderAgency();
+  });
+}
+
+/* --- RENDER MEMBER NEWS (roster penuh + arsip per anggota) --- */
+function renderMembers() {
   allMembers = [];
   const parties = new Set();
-  const names = Object.keys(memberNews);
 
-  names.forEach(function(name) {
-    const party = PARTY_MAP[name] || "Lainnya";
+  // roster penuh dari PARTY_MAP, bukan hanya yang punya berita
+  Object.keys(PARTY_MAP).forEach(function(name) {
+    const party = PARTY_MAP[name];
     parties.add(party);
-    allMembers.push({ name: name, party: party, news: memberNews[name] });
+    allMembers.push({ name: name, party: party, news: memberArch[name] || [] });
   });
 
   document.getElementById("member-count").textContent = allMembers.length;
+  const heroMember = document.getElementById("hero-member-count");
+  if (heroMember) heroMember.textContent = allMembers.length;
 
   const fb = document.getElementById("party-filters");
+  const filterBtns = fb.querySelectorAll(".filter-btn:not(#filter-all)");
+  filterBtns.forEach(function(btn) { btn.remove(); });
+
   document.getElementById("filter-all").onclick = function() { filterParty(this, "ALL"); };
 
   Array.from(parties).sort().forEach(function(p) {
@@ -469,28 +2572,81 @@ function renderMembers(memberNews) {
 function showMembers(members) {
   const g = document.getElementById("member-news-grid");
   if (!members.length) {
-    g.innerHTML = '<div class="empty-state">[ TIDAK ADA DATA ]</div>';
+    g.innerHTML = '<div class="empty-state">[ Tidak ada data ]</div>';
     return;
   }
   g.innerHTML = members.map(function(m, i) {
     const pc = PARTY_CSS[m.party] || "";
-    const n = m.news;
-    const hasN = n && n.title;
+    const n = (m.news && m.news.length) ? m.news[0] : null;
     return '<div class="member-card" style="animation-delay:' + (i % 20 * 40) + 'ms">' +
       '<div class="member-name">' + esc(m.name) + '</div>' +
       '<div class="member-party ' + pc + '">' + esc(m.party || "") + '</div>' +
-      (hasN
-        ? '<div class="member-news-title"><a href="' + esc(n.link || "#") + '" target="_blank" rel="noopener">' + esc(n.title) + '</a></div>' +
-          '<div class="member-news-date">' + fmtDate(n.published) + '</div>'
-        : '<div class="no-news">[ NO SIGNAL ]</div>') +
+      (n
+        ? '<div class="member-news-title"><a href="' + esc(n.link_resolved || n.link || "#") + '" target="_blank" rel="noopener">' + esc(n.title) + '</a></div>' +
+          '<div class="member-news-date">' + fmtDate(n.published) +
+            (m.news.length > 1 ? ' &middot; +' + (m.news.length - 1) + ' artikel/30 hari' : '') + '</div>' +
+          (titleMentionsGerindra(n.title) ? '<div style="margin-top:5px"><span class="g-badge">MENYEBUT GERINDRA</span></div>' : '') +
+          (watchlistHits(n.title).length ? '<div style="margin-top:5px"><span class="wl-star">&#9733; ' + esc(watchlistHits(n.title).join(", ")) + '</span></div>' : '')
+        : '<div class="no-news">[ Tidak ada berita 30 hari terakhir ]</div>') +
       '</div>';
   }).join("");
 }
 
+let currentParty = "ALL";
 function filterParty(btn, party) {
-  document.querySelectorAll(".filter-btn").forEach(function(b) { b.classList.remove("active"); });
+  currentParty = party;
+  document.querySelectorAll("#party-filters .filter-btn").forEach(function(b) { b.classList.remove("active"); });
   btn.classList.add("active");
   showMembers(party === "ALL" ? allMembers : allMembers.filter(function(m) { return m.party === party; }));
+}
+
+/* ============================================================
+   DEEP-LINK BERBAGI (F4): state filter <-> URL hash
+   ============================================================ */
+function buildHashFromState() {
+  const p = new URLSearchParams();
+  if (newsFilter.agency !== "ALL") p.set("mitra", newsFilter.agency);
+  if (newsFilter.tag !== "ALL") p.set("tag", newsFilter.tag);
+  if (newsFilter.from) p.set("dari", newsFilter.from);
+  if (newsFilter.to) p.set("sd", newsFilter.to);
+  if (newsFilter.sort !== "desc") p.set("sort", newsFilter.sort);
+  if (currentParty !== "ALL") p.set("fraksi", currentParty);
+  const f = document.getElementById("focus-select");
+  if (f && f.value) p.set("fokus", f.value);
+  return p.toString();
+}
+function syncFilterControls() {
+  const selA = document.getElementById("nf-agency");
+  if (selA) selA.value = newsFilter.agency;
+  document.getElementById("nf-from").value = newsFilter.from || "";
+  document.getElementById("nf-to").value = newsFilter.to || "";
+  document.getElementById("nf-sort").value = newsFilter.sort;
+  document.querySelectorAll("#nf-tags .tag-chip").forEach(function(c) {
+    c.classList.toggle("active", c.dataset.tag === newsFilter.tag);
+  });
+}
+function applyHashState() {
+  const h = location.hash.replace(/^#/, "");
+  if (!h) return;
+  const p = new URLSearchParams(h);
+  if (p.get("mitra") && agencyArch[p.get("mitra")]) newsFilter.agency = p.get("mitra");
+  if (p.get("tag")) newsFilter.tag = p.get("tag");
+  if (p.get("dari")) newsFilter.from = p.get("dari");
+  if (p.get("sd")) newsFilter.to = p.get("sd");
+  if (p.get("sort") === "asc") newsFilter.sort = "asc";
+  syncFilterControls();
+  renderAgency();
+  const fr = p.get("fraksi");
+  if (fr) {
+    const btn = document.querySelector('#party-filters .filter-btn[data-party="' + CSS.escape(fr) + '"]');
+    if (btn) filterParty(btn, fr);
+  }
+  const fk = p.get("fokus");
+  if (fk && agencyArch[fk]) {
+    const sel = document.getElementById("focus-select");
+    sel.value = fk;
+    renderFocus(fk);
+  }
 }
 
 /* --- MAIN FETCH --- */
@@ -499,38 +2655,121 @@ async function loadData() {
     const res = await fetch("./live_data.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
+    liveData = data;
+
+    // aliases.json opsional; gagal muat -> lanjut tanpa alias (aman-gagal)
+    try {
+      const ra = await fetch("./aliases.json", { cache: "no-store" });
+      if (ra.ok) {
+        const rawAl = await ra.json();
+        ALIASES = {};
+        Object.keys(rawAl).forEach(function(k) {
+          if (k.charAt(0) !== "_" && Array.isArray(rawAl[k])) ALIASES[k] = rawAl[k];
+        });
+      }
+    } catch (e) { ALIASES = {}; }
 
     const dot = document.getElementById("feed-status-dot");
-    dot.style.background = "var(--accent-green)";
-    dot.style.boxShadow = "0 0 6px var(--accent-green)";
+    dot.style.background = "#4ade80";
+    dot.style.boxShadow = "0 0 0 2px rgba(74,222,128,.3)";
     document.getElementById("feed-status-text").textContent = "ONLINE";
 
-    renderAgency(data.agency_news || []);
-    renderMembers(data.member_news || {});
+    normalizeArchives(data);
+    buildNewsControls();
+    buildFocusControls();
+    renderAgency();
+    renderMembers();
+    renderHot();
+    bindSOV();
+    renderSOV();
+    bindWatchlist();
+    renderWatchlist();
+    bindTimeline();
+    buildAnalysis();
+    applyHashState();
 
-    if (data.live_kurs) {
-      const kf = Number(data.live_kurs).toLocaleString("id-ID");
-      document.getElementById("kurs-display").textContent = kf;
-      document.getElementById("kurs-ticker").textContent = kf;
+    const berasRaw = data.harga_beras && typeof data.harga_beras === 'object' ? data.harga_beras.value : data.harga_beras;
+    const berasVal = berasRaw ? "Rp " + Number(berasRaw).toLocaleString("id-ID") : 'Data tidak tersedia';
+    document.getElementById("beras-display").textContent = berasVal;
+    document.getElementById("beras-ticker").textContent = berasVal;
+
+    const bulogRaw = data.stok_bulog && typeof data.stok_bulog === 'object' ? data.stok_bulog.value : data.stok_bulog;
+    const bulogVal = bulogRaw ? Number(bulogRaw).toLocaleString("id-ID") + " Ton" : 'Data tidak tersedia';
+    document.getElementById("bulog-display").textContent = bulogVal;
+    document.getElementById("bulog-ticker").textContent = bulogVal;
+
+    const ts = data.last_updated ? fmtDate(data.last_updated) : 'Data tidak tersedia';
+    document.getElementById("last-updated-time").textContent = ts;
+    document.getElementById("update-ticker").textContent = ts;
+
+    // Macro stats — support both new object schema {value,confidence,source} and old flat string
+    const stats = data.macro_stats || {};
+    // Badge confidence + tautan sumber. Teks tautan jujur:
+    // FALLBACK -> "sumber acuan" (tautan ke situs sumber, BUKAN bukti angka benar);
+    // UNAUDITED/AUDITED -> "lihat sumber". Tanpa source_url -> teks polos, tanpa <a>.
+    function confBadgeInnerHTML(stat) {
+      const label = stat.confidence || 'FALLBACK';
+      const src = stat.source || '';
+      const url = stat.source_url || '';
+      let html = esc(label) + (src ? ' · ' + esc(src) : '');
+      if (url) {
+        const linkTxt = label === 'FALLBACK' ? 'sumber acuan &#8599;' : 'lihat sumber &#8599;';
+        html += ' · <a class="src-link" href="' + esc(url) + '" target="_blank" rel="noopener">' + linkTxt + '</a>';
+      }
+      return html;
     }
-    if (data.live_minyak) {
-      document.getElementById("oil-display").textContent = data.live_minyak;
-      document.getElementById("oil-ticker").textContent = data.live_minyak;
+    function renderConfBadge(confId, stat) {
+      const confEl = confId && document.getElementById(confId);
+      if (!confEl || !stat || typeof stat !== 'object') return;
+      confEl.className = 'stat-confidence ' + (stat.confidence || 'FALLBACK').toLowerCase();
+      confEl.innerHTML = confBadgeInnerHTML(stat);
     }
-    if (data.last_updated) {
-      const ts = fmtDate(data.last_updated);
-      document.getElementById("last-updated-time").textContent = ts;
-      document.getElementById("update-ticker").textContent = ts;
+    function setStatCard(valId, confId, stat) {
+      const val = stat && typeof stat === 'object' ? stat.value : stat;
+      document.getElementById(valId).textContent = (val != null && val !== '') ? val : 'Data tidak tersedia';
+      renderConfBadge(confId, stat);
     }
+    window.__confBadgeInnerHTML = confBadgeInnerHTML;   // ekspos untuk verifikasi
+    if (data.harga_beras && typeof data.harga_beras === 'object') renderConfBadge('beras-conf', data.harga_beras);
+    if (data.stok_bulog && typeof data.stok_bulog === 'object') renderConfBadge('bulog-conf', data.stok_bulog);
+    setStatCard("ntp-display",           "ntp-conf",           stats.ntp);
+    setStatCard("luas-padi-display",     "luas-padi-conf",     stats.luas_panen_padi);
+    setStatCard("prod-beras-display",    "prod-beras-conf",    stats.produksi_beras);
+    setStatCard("luas-jagung-display",   "luas-jagung-conf",   stats.luas_panen_jagung);
+    setStatCard("prod-jagung-display",   "prod-jagung-conf",   stats.produksi_jagung);
+    setStatCard("nelayan-display",       "nelayan-conf",       stats.kampung_nelayan);
+    setStatCard("harga-pangan-display",  "harga-pangan-conf",  stats.harga_pangan_avg);
+    setStatCard("bantuan-pangan-display","bantuan-pangan-conf",stats.bantuan_pangan);
+    setStatCard("sphp-display",          "sphp-conf",          stats.realisasi_sphp);
+
+    // Scrape status banner
+    const ss = data.scrape_status;
+    if (ss) {
+      const hasError = ss.phase_1_agency === 'failed' || ss.phase_2_members === 'failed' || ss.phase_3_macro === 'failed';
+      const hasWarn  = ss.phase_1_agency === 'partial' || ss.phase_2_members === 'partial' || ss.phase_3_macro === 'partial';
+      const banner = document.getElementById('scrape-banner');
+      if (banner && (hasError || hasWarn)) {
+        banner.className = 'status-banner show ' + (hasError ? 'error' : 'warn');
+        const phases = [
+          ss.phase_1_agency  !== 'ok' ? 'Lembaga: ' + ss.phase_1_agency  : '',
+          ss.phase_2_members !== 'ok' ? 'Anggota: ' + ss.phase_2_members : '',
+          ss.phase_3_macro   !== 'ok' ? 'Makro: '   + ss.phase_3_macro   : '',
+        ].filter(Boolean).join(' | ');
+        banner.innerHTML = '&#9888; Sebagian data mungkin tidak terkini &mdash; ' + esc(phases);
+      }
+    }
+
+    initStatusWidget(data);
+    bindUI();
 
   } catch(err) {
     const dot = document.getElementById("feed-status-dot");
-    dot.style.background = "var(--accent-red)";
-    dot.style.boxShadow = "0 0 6px var(--accent-red)";
+    dot.style.background = "#f87171";
+    dot.style.boxShadow = "0 0 0 2px rgba(248,113,113,.3)";
     document.getElementById("feed-status-text").textContent = "OFFLINE";
 
     const errHtml = '<div class="error-state">' +
-      'GAGAL MEMUAT DATA<br/>' +
+      'Gagal memuat data<br/>' +
       '<small>Jalankan di terminal lokal: <strong>python engine.py</strong></small><br/>' +
       '<small style="color:var(--text-muted)">' + esc(err.message) + '</small>' +
       '</div>';
@@ -538,6 +2777,541 @@ async function loadData() {
       document.getElementById(id).innerHTML = errHtml;
     });
   }
+}
+
+/* ============================================================
+   BRIEFING WHATSAPP (F1): teks siap-tempel, TANPA statistik FALLBACK
+   ============================================================ */
+function copyText(txt, btn) {
+  function feedback(ok) {
+    if (!btn) return;
+    var orig = btn.innerHTML;
+    btn.innerHTML = ok ? "&#10003; Tersalin" : "Gagal salin";
+    setTimeout(function() { btn.innerHTML = orig; }, 1600);
+  }
+  function legacy() {
+    var ta = document.createElement("textarea");
+    ta.value = txt; ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.appendChild(ta); ta.select();
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) {}
+    ta.remove(); feedback(ok);
+  }
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(txt).then(function() { feedback(true); }, legacy);
+  } else legacy();
+}
+
+function waDate(d) {
+  return d.toLocaleString("id-ID", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" }).replace(/\./g, ":").replace(/:(?=\d{2}\b)/, ".") + " WIB";
+}
+function waShortDate(pub) {
+  var d = new Date(pub);
+  return isNaN(d) ? "" : d.toLocaleDateString("id-ID", { day: "numeric", month: "short" });
+}
+function waCleanTitle(t) {
+  return String(t || "").replace(/\s*-\s*[^-]+$/, "").trim();
+}
+var WA_DISCLAIMER = "_Data berita otomatis dari pemantauan media. Angka statistik TIDAK disertakan kecuali berlabel resmi._";
+
+function buildWABriefing() {
+  var now = liveData && liveData.last_updated ? new Date(liveData.last_updated) : new Date();
+  var lines = [];
+  lines.push("*BRIEFING KOMISI IV* — " + waDate(now));
+  lines.push("_Sumber: Dashboard Intelijen Fraksi Gerindra_");
+  lines.push("");
+  var vol = topCounts(
+    articlesLastNDays(7).filter(function(a) { return a.kind === "agency"; }),
+    function(a) { return a.entity; }, 5);
+  lines.push("*ISU TERAKTIF (7 HARI):*");
+  if (vol.length) vol.forEach(function(v, i) { lines.push((i + 1) + ". " + v.name + " — " + v.count + " berita"); });
+  else lines.push("(tidak ada artikel 7 hari terakhir)");
+  lines.push("");
+  lines.push("*SOROTAN TERBARU:*");
+  flatAgencyArticles().slice(0, 5).forEach(function(a) {
+    lines.push("📰 " + waCleanTitle(a.title) + " — " + a.agency + ", " + waShortDate(a.published));
+  });
+  lines.push("");
+  lines.push(WA_DISCLAIMER);
+  return lines.join("\n");
+}
+
+function buildWAFocusBriefing(agency) {
+  var now = liveData && liveData.last_updated ? new Date(liveData.last_updated) : new Date();
+  var arts = agencyArch[agency] || [];
+  var cut = Date.now() - 7 * 864e5;
+  var vol7 = arts.filter(function(a) { var d = artDate(a); return d && d.getTime() >= cut; }).length;
+  var lines = [];
+  lines.push("*BRIEFING MITRA: " + agency.toUpperCase() + "* — " + waDate(now));
+  lines.push("_Sumber: Dashboard Intelijen Fraksi Gerindra_");
+  lines.push("");
+  lines.push("*VOLUME:* " + vol7 + " berita dalam 7 hari, " + arts.length + " dalam 30 hari.");
+  lines.push("");
+  lines.push("*BERITA TERBARU:*");
+  arts.slice(0, 7).forEach(function(a) {
+    lines.push("📰 " + waCleanTitle(a.title) + " — " + waShortDate(a.published));
+  });
+  if (!arts.length) lines.push("(tidak ada berita 30 hari terakhir)");
+  lines.push("");
+  lines.push(WA_DISCLAIMER);
+  return lines.join("\n");
+}
+
+/* ============================================================
+   FOKUS MITRA (P4): berita + statistik terkait + cetak
+   ============================================================ */
+const FOCUS_STATS = {
+  "Kementerian Pertanian":               ["ntp", "luas_panen_padi", "produksi_beras", "luas_panen_jagung", "produksi_jagung"],
+  "Kementerian Kehutanan":               [],
+  "Kementerian Kelautan dan Perikanan":  ["kampung_nelayan"],
+  "Badan Karantina Indonesia":           [],
+  "Badan Pangan Nasional":               ["@harga_beras", "harga_pangan_avg", "bantuan_pangan"],
+  "Perum Bulog":                         ["@stok_bulog", "realisasi_sphp"]
+};
+const STAT_LABELS = {
+  ntp: "Nilai Tukar Petani (NTP)", luas_panen_padi: "Luas Panen Padi",
+  produksi_beras: "Produksi Beras", luas_panen_jagung: "Luas Panen Jagung",
+  produksi_jagung: "Produksi Jagung", kampung_nelayan: "Kampung Nelayan Modern",
+  harga_pangan_avg: "Rata-rata Harga Pangan", bantuan_pangan: "Bantuan Pangan Beras",
+  realisasi_sphp: "Realisasi SPHP", "@harga_beras": "Harga Beras Nasional", "@stok_bulog": "Stok Beras Bulog"
+};
+
+function focusStatHTML(key) {
+  var s = key === "@harga_beras" ? liveData.harga_beras
+        : key === "@stok_bulog"  ? liveData.stok_bulog
+        : (liveData.macro_stats || {})[key];
+  if (!s || typeof s !== "object") return "";
+  var v = s.value;
+  if (v == null || v === "") v = "Data tidak tersedia";
+  else if (key === "@harga_beras") v = "Rp " + Number(v).toLocaleString("id-ID");
+  else if (key === "@stok_bulog" && typeof v === "number") v = Number(v).toLocaleString("id-ID") + " Ton";
+  return '<div class="focus-stat">' +
+    '<div class="focus-stat-label">' + esc(STAT_LABELS[key] || key) + '</div>' +
+    '<div class="focus-stat-value">' + esc(String(v)) + '</div>' +
+    confBadge(s.confidence) +
+    ((s.confidence || "FALLBACK") === "FALLBACK" ? ' <span class="ast-note">(acuan statis)</span>' : '') +
+    '</div>';
+}
+
+function renderFocus(agency) {
+  const body = document.getElementById("focus-body");
+  const printBtn = document.getElementById("focus-print");
+  const waBtn = document.getElementById("focus-wa");
+  if (!agency) {
+    body.innerHTML = '<div class="focus-placeholder">Pilih satu mitra kerja untuk melihat berita terbaru + statistik terkaitnya dalam satu panel (bisa dicetak).</div>';
+    printBtn.style.display = "none";
+    if (waBtn) waBtn.style.display = "none";
+    return;
+  }
+  if (waBtn) waBtn.style.display = "";
+  const arts = (agencyArch[agency] || []).slice(0, 10);
+  const statKeys = FOCUS_STATS[agency] || [];
+  const statsHtml = statKeys.map(focusStatHTML).filter(Boolean).join("");
+
+  let html = '<h3 style="font-family:var(--font-heading);font-size:15px;margin-bottom:12px">' + esc(agency) + '</h3>';
+  html += statsHtml
+    ? '<div class="focus-stats">' + statsHtml + '</div>'
+    : '<div class="focus-news-note">Tidak ada indikator statistik yang terkait langsung dengan mitra ini di dashboard.</div>';
+  html += arts.length
+    ? '<div class="news-list">' + arts.map(function(a, i) {
+        return newsCardHTML({ agency: agency, title: a.title, link: a.link, link_resolved: a.link_resolved, published: a.published }, i);
+      }).join("") + '</div>'
+    : '<div class="empty-state">Tidak ada berita 30 hari terakhir.</div>';
+  html += '<div class="focus-news-note">Statistik ditampilkan apa adanya dengan label confidence; nilai FALLBACK adalah acuan statis, bukan data resmi terkini. Berita: ' + arts.length + ' artikel terbaru dari arsip 30 hari.</div>';
+  body.innerHTML = html;
+  printBtn.style.display = "";
+}
+
+function buildFocusControls() {
+  const sel = document.getElementById("focus-select");
+  if (!sel || sel.dataset.built) return;
+  sel.dataset.built = "1";
+  Object.keys(agencyArch).forEach(function(ag) {
+    const o = document.createElement("option");
+    o.value = ag; o.textContent = ag;
+    sel.appendChild(o);
+  });
+  sel.addEventListener("change", function() { renderFocus(sel.value); });
+  document.getElementById("focus-wa").addEventListener("click", function() {
+    if (sel.value) copyText(buildWAFocusBriefing(sel.value), document.getElementById("focus-wa"));
+  });
+  document.getElementById("focus-print").addEventListener("click", function() {
+    document.body.classList.add("print-focus");
+    window.print();
+  });
+  window.addEventListener("afterprint", function() {
+    document.body.classList.remove("print-focus");
+  });
+}
+
+/* ============================================================
+   FITUR BARU: bind UI (search, refresh, pdf, asisten)
+   ============================================================ */
+function bindUI() {
+  if (uiBound) return;
+  uiBound = true;
+
+  // SEARCH
+  const si = document.getElementById("search-input");
+  const sc = document.getElementById("search-clear");
+  if (si) {
+    si.addEventListener("input", function() { runSearch(si.value); });
+    sc.addEventListener("click", function() { si.value = ""; runSearch(""); si.focus(); });
+  }
+
+  // REFRESH (buka halaman GitHub Actions; tidak ada token di client)
+  const br = document.getElementById("btn-refresh");
+  if (br) br.addEventListener("click", function() { window.open(REPO_ACTIONS_URL, "_blank", "noopener"); });
+
+  // PDF
+  const bp = document.getElementById("btn-pdf");
+  if (bp) bp.addEventListener("click", generatePDF);
+
+  // BRIEFING WA (global)
+  const bw = document.getElementById("btn-wa");
+  if (bw) bw.addEventListener("click", function() { copyText(buildWABriefing(), bw); });
+
+  // ASISTEN
+  const fab = document.getElementById("ast-fab");
+  const panel = document.getElementById("ast-panel");
+  const close = document.getElementById("ast-close");
+  const form = document.getElementById("ast-form");
+  const input = document.getElementById("ast-input");
+  if (fab) {
+    fab.addEventListener("click", function() {
+      panel.classList.toggle("show");
+      if (panel.classList.contains("show")) {
+        if (!astGreeted) { astGreet(); astGreeted = true; }
+        input.focus();
+      }
+    });
+    close.addEventListener("click", function() { panel.classList.remove("show"); });
+    form.addEventListener("submit", function(e) {
+      e.preventDefault();
+      const q = input.value.trim();
+      if (!q) return;
+      astAppend("user", esc(q));
+      astAppend("bot", askAssistant(q));
+      input.value = "";
+    });
+  }
+}
+
+/* ============================================================
+   FITUR 1: SEARCH (operasi pada data yang sudah di-render)
+   ============================================================ */
+function runSearch(rawq) {
+  const q = (rawq || "").trim().toLowerCase();
+  const clear = document.getElementById("search-clear");
+  const meta = document.getElementById("search-meta");
+  if (clear) clear.classList.toggle("show", q.length > 0);
+
+  const groups = [
+    document.querySelectorAll("#agency-news-list .news-card"),
+    document.querySelectorAll("#member-news-grid .member-card"),
+    document.querySelectorAll(".macro-grid .stat-card"),
+  ];
+
+  if (!q) {
+    groups.forEach(function(nl) { nl.forEach(function(el) { el.style.display = ""; }); });
+    if (meta) meta.textContent = "";
+    return;
+  }
+
+  let matches = 0;
+  groups.forEach(function(nl) {
+    nl.forEach(function(el) {
+      const hit = el.textContent.toLowerCase().indexOf(q) !== -1;
+      el.style.display = hit ? "" : "none";
+      if (hit) matches++;
+    });
+  });
+  if (meta) meta.innerHTML = "<strong>" + matches + "</strong> hasil ditemukan untuk &ldquo;" + esc(q) + "&rdquo;";
+}
+
+/* ============================================================
+   FITUR 4: STATUS WIDGET (umur data + warna)
+   ============================================================ */
+function ageText(hrs) {
+  if (hrs < 1) return Math.max(1, Math.round(hrs * 60)) + " menit yang lalu";
+  if (hrs < 48) return Math.round(hrs) + " jam yang lalu";
+  return Math.round(hrs / 24) + " hari yang lalu";
+}
+function initStatusWidget(data) {
+  const iso = data.last_updated;
+  const timeEl = document.getElementById("sw-time");
+  const ageEl = document.getElementById("sw-age");
+  const dot = document.getElementById("sw-dot");
+  if (!iso) { if (timeEl) timeEl.textContent = "Tidak diketahui"; return; }
+  const d = new Date(iso);
+  if (timeEl) timeEl.textContent = "Diperbarui: " + (isNaN(d) ? iso :
+    d.toLocaleString("id-ID", { day:"2-digit", month:"short", year:"numeric", hour:"2-digit", minute:"2-digit" }));
+  const hrs = (Date.now() - d.getTime()) / 3600000;
+  let cls, txt;
+  if (isNaN(hrs) || hrs < 0) { cls = "amber"; txt = "umur tidak diketahui"; }
+  else if (hrs < 2)  { cls = "green"; txt = ageText(hrs); }
+  else if (hrs < 12) { cls = "amber"; txt = ageText(hrs); }
+  else               { cls = "red";   txt = ageText(hrs); }
+  if (dot) dot.className = "sw-age-dot " + cls;
+  if (ageEl) ageEl.textContent = txt;
+}
+
+/* ============================================================
+   FITUR 2: ASISTEN DATA (deterministik, dari live_data.json)
+   ============================================================ */
+function astAppend(role, html) {
+  const log = document.getElementById("ast-log");
+  const div = document.createElement("div");
+  div.className = "ast-msg " + role;
+  div.innerHTML = html;
+  log.appendChild(div);
+  log.scrollTop = log.scrollHeight;
+}
+function astGreet() {
+  astAppend("bot",
+    "Halo! Aku <strong>Asisten Data</strong> yang menjawab <em>hanya</em> dari data dashboard ini (bukan AI generatif). " +
+    "Coba tanya: <em>harga beras</em>, <em>ntp</em>, <em>status</em>, nama lembaga (mis. <em>kementan</em>), atau nama anggota.");
+}
+
+const AST_INDICATORS = [
+  { keys:["harga beras"], label:"Harga Beras Nasional", get:function(d){ return d.harga_beras; }, money:true },
+  { keys:["stok bulog","stok beras"], label:"Stok Beras Bulog", get:function(d){ return d.stok_bulog; }, ton:true },
+  { keys:["ntp","nilai tukar petani","nilai tukar"], label:"Nilai Tukar Petani (NTP)", get:function(d){ return d.macro_stats && d.macro_stats.ntp; } },
+  { keys:["produksi beras"], label:"Produksi Beras Nasional", get:function(d){ return d.macro_stats && d.macro_stats.produksi_beras; } },
+  { keys:["luas panen padi"], label:"Luas Panen Padi", get:function(d){ return d.macro_stats && d.macro_stats.luas_panen_padi; } },
+  { keys:["produksi jagung"], label:"Produksi Jagung Nasional", get:function(d){ return d.macro_stats && d.macro_stats.produksi_jagung; } },
+  { keys:["luas panen jagung"], label:"Luas Panen Jagung", get:function(d){ return d.macro_stats && d.macro_stats.luas_panen_jagung; } },
+  { keys:["kampung nelayan"], label:"Kampung Nelayan Modern", get:function(d){ return d.macro_stats && d.macro_stats.kampung_nelayan; } },
+  { keys:["harga pangan"], label:"Rata-rata Harga Pangan", get:function(d){ return d.macro_stats && d.macro_stats.harga_pangan_avg; } },
+  { keys:["bantuan pangan"], label:"Bantuan Pangan Beras", get:function(d){ return d.macro_stats && d.macro_stats.bantuan_pangan; } },
+  { keys:["sphp","realisasi sphp"], label:"Realisasi SPHP Bulog", get:function(d){ return d.macro_stats && d.macro_stats.realisasi_sphp; } },
+];
+const AST_AGENCIES = [
+  { keys:["kementan","kementerian pertanian"], name:"Kementerian Pertanian" },
+  { keys:["kehutanan","kemenhut"], name:"Kementerian Kehutanan" },
+  { keys:["kkp","kelautan","perikanan"], name:"Kementerian Kelautan dan Perikanan" },
+  { keys:["karantina","barantin"], name:"Badan Karantina Indonesia" },
+  { keys:["bapanas","badan pangan"], name:"Badan Pangan Nasional" },
+  { keys:["bulog"], name:"Perum Bulog" },
+];
+
+function fmtStatVal(ind, s) {
+  let v = s.value;
+  if (v == null || v === "") return "tidak tersedia";
+  if (ind.money) return "Rp " + Number(v).toLocaleString("id-ID");
+  if (ind.ton && typeof v === "number") return Number(v).toLocaleString("id-ID") + " Ton";
+  return String(v);
+}
+function confBadge(conf) {
+  const c = conf || "FALLBACK";
+  return '<span class="ast-badge ' + c.toLowerCase() + '">' + esc(c) + "</span>";
+}
+function answerIndicator(ind) {
+  const s = ind.get(liveData);
+  if (!s || typeof s !== "object" || s.value == null || s.value === "")
+    return "Data <strong>" + esc(ind.label) + "</strong> tidak tersedia.";
+  const conf = s.confidence || "FALLBACK";
+  let html = "<strong>" + esc(ind.label) + ":</strong> " + esc(fmtStatVal(ind, s)) + " " + confBadge(conf);
+  if (conf === "FALLBACK") html += ' <span class="ast-note">(nilai acuan statis, bukan data resmi terkini)</span>';
+  html += '<br><span class="ast-src">Sumber: ' + esc(s.source || "-") + "</span>";
+  return html;
+}
+function answerAgency(name) {
+  const arts = agencyArch[name] || [];
+  if (!arts.length) return "Belum ada berita untuk <strong>" + esc(name) + "</strong>.";
+  const item = arts[0];
+  return "<strong>" + esc(name) + '</strong> <span class="ast-src">(' + arts.length + " artikel / 30 hari)</span><br>" +
+    '<a href="' + esc(item.link_resolved || item.link || "#") + '" target="_blank" rel="noopener">' + esc(item.title) + "</a>" +
+    '<br><span class="ast-src">' + esc(fmtDate(item.published)) + "</span>";
+}
+function findMemberName(q) {
+  const roster = Object.keys(PARTY_MAP);
+  for (var i = 0; i < roster.length; i++) {
+    if (roster[i].toLowerCase().indexOf(q) !== -1) return roster[i];
+  }
+  for (var j = 0; j < roster.length; j++) {
+    var toks = roster[j].toLowerCase().split(/\s+/).filter(function(t) { return t.length >= 4; });
+    for (var k = 0; k < toks.length; k++) { if (q.indexOf(toks[k]) !== -1) return roster[j]; }
+  }
+  return null;
+}
+function answerMember(name) {
+  const party = PARTY_MAP[name] || "Lainnya";
+  const arts = memberArch[name] || [];
+  const head = "<strong>" + esc(name) + '</strong> <span class="ast-src">(' + esc(party) +
+    (arts.length ? " &middot; " + arts.length + " artikel / 30 hari" : "") + ")</span><br>";
+  if (arts.length) {
+    const news = arts[0];
+    return head + '<a href="' + esc(news.link_resolved || news.link || "#") + '" target="_blank" rel="noopener">' + esc(news.title) + "</a>" +
+      '<br><span class="ast-src">' + esc(fmtDate(news.published)) + "</span>";
+  }
+  return head + '<span class="ast-note">Belum ada berita 30 hari terakhir untuk anggota ini.</span>';
+}
+function answerStatus() {
+  const ss = liveData.scrape_status || {};
+  const map = { ok:"Sehat", partial:"Sebagian", failed:"Bermasalah" };
+  function lbl(v) { return map[v] || v || "-"; }
+  const upd = liveData.last_updated ? fmtDate(liveData.last_updated) : "tidak diketahui";
+  return "<strong>Kesehatan Data</strong><br>" +
+    "&bull; Berita Lembaga: " + esc(lbl(ss.phase_1_agency)) + "<br>" +
+    "&bull; Berita Anggota: " + esc(lbl(ss.phase_2_members)) + "<br>" +
+    "&bull; Data Makro: " + esc(lbl(ss.phase_3_macro)) + "<br>" +
+    '<span class="ast-src">Terakhir diperbarui: ' + esc(upd) + "</span>";
+}
+function askAssistant(rawq) {
+  if (!liveData) return "Data belum termuat, coba lagi sebentar.";
+  const q = rawq.toLowerCase();
+
+  // 1. status / kesehatan data
+  if (q.indexOf("status") !== -1 || q.indexOf("kesehatan") !== -1 || q.indexOf("sehat") !== -1)
+    return answerStatus();
+
+  // 2. indikator (frasa spesifik dulu)
+  for (var i = 0; i < AST_INDICATORS.length; i++) {
+    var ind = AST_INDICATORS[i];
+    for (var j = 0; j < ind.keys.length; j++) {
+      if (q.indexOf(ind.keys[j]) !== -1) return answerIndicator(ind);
+    }
+  }
+
+  // 3. lembaga
+  for (var a = 0; a < AST_AGENCIES.length; a++) {
+    var ag = AST_AGENCIES[a];
+    for (var b = 0; b < ag.keys.length; b++) {
+      if (q.indexOf(ag.keys[b]) !== -1) return answerAgency(ag.name);
+    }
+  }
+
+  // 4. anggota
+  var mem = findMemberName(q);
+  if (mem) return answerMember(mem);
+
+  // 5. fallback (tidak mengarang)
+  return "Aku hanya bisa menjawab dari data dashboard: berita lembaga, berita anggota, dan indikator statistik. " +
+    "Coba sebut nama lembaga (mis. <em>kementan</em>, <em>bulog</em>), nama anggota, atau indikator (mis. <em>harga beras</em>, <em>ntp</em>).";
+}
+
+/* ============================================================
+   FITUR 3: PDF RINGKASAN 1-HALAMAN (jsPDF)
+   ============================================================ */
+const JSPDF_CDN = "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
+let jspdfLoading = false;
+function ensureJsPDF(cb) {
+  if (window.jspdf && window.jspdf.jsPDF) { cb(); return; }
+  if (jspdfLoading) return;
+  jspdfLoading = true;
+  const s = document.createElement("script");
+  s.src = JSPDF_CDN;
+  s.onload = function() { jspdfLoading = false; cb(); };
+  s.onerror = function() { jspdfLoading = false; alert("Gagal memuat pustaka PDF. Periksa koneksi internet lalu coba lagi."); };
+  document.head.appendChild(s);
+}
+
+function generatePDF() {
+  if (!liveData) { alert("Data belum termuat."); return; }
+  ensureJsPDF(buildPDF);
+}
+
+function buildPDF() {
+  const jsPDFCtor = window.jspdf && window.jspdf.jsPDF;
+  if (!jsPDFCtor) { alert("Pustaka PDF belum termuat. Coba sesaat lagi."); return; }
+
+  const doc = new jsPDFCtor({ unit:"mm", format:"a4" });
+  const RED = [200,16,46], DARK = [17,24,39], GREY = [120,120,120], GREEN = [21,128,61];
+  const M = 15, pageW = 210;
+  let y;
+
+  // Header band
+  doc.setFillColor(RED[0], RED[1], RED[2]);
+  doc.rect(0, 0, pageW, 22, "F");
+  doc.setTextColor(255,255,255);
+  doc.setFont("helvetica","bold"); doc.setFontSize(15);
+  doc.text("RINGKASAN INTELIJEN KOMISI IV DPR RI", M, 12);
+  doc.setFont("helvetica","normal"); doc.setFontSize(9);
+  doc.text("Fraksi Gerindra  |  Pertanian - Kehutanan - Kelautan", M, 18);
+  y = 31;
+
+  // Tanggal
+  const upd = liveData.last_updated ? new Date(liveData.last_updated) : null;
+  const updTxt = upd && !isNaN(upd)
+    ? upd.toLocaleString("id-ID", { day:"2-digit", month:"long", year:"numeric", hour:"2-digit", minute:"2-digit" })
+    : "-";
+  doc.setTextColor(DARK[0], DARK[1], DARK[2]); doc.setFont("helvetica","bold"); doc.setFontSize(10);
+  doc.text("Per " + updTxt, M, y);
+  y += 9;
+
+  // Status data
+  const ss = liveData.scrape_status || {};
+  const arr = [ss.phase_1_agency, ss.phase_2_members, ss.phase_3_macro];
+  let stxt, scol;
+  if (arr.indexOf("failed") !== -1) { stxt = "Bermasalah"; scol = [200,16,46]; }
+  else if (arr.indexOf("partial") !== -1) { stxt = "Sebagian terkini"; scol = [180,83,9]; }
+  else { stxt = "Sehat"; scol = [21,128,61]; }
+  doc.setFontSize(9.5); doc.setTextColor(90,90,90); doc.setFont("helvetica","bold");
+  doc.text("STATUS DATA:", M, y);
+  doc.setTextColor(scol[0], scol[1], scol[2]); doc.text(stxt, M + 27, y);
+  y += 8;
+
+  // Sorotan berita
+  doc.setDrawColor(220,220,220); doc.line(M, y - 2, pageW - M, y - 2);
+  doc.setTextColor(RED[0], RED[1], RED[2]); doc.setFont("helvetica","bold"); doc.setFontSize(11);
+  doc.text("SOROTAN BERITA LEMBAGA", M, y + 3); y += 10;
+  // 1 headline terbaru per lembaga (maks 6)
+  const news = Object.keys(agencyArch).map(function(ag) {
+    var arts = agencyArch[ag];
+    return arts.length ? { agency: ag, title: arts[0].title } : null;
+  }).filter(Boolean).slice(0, 6);
+  news.forEach(function(it) {
+    let title = String(it.title || "").replace(/\s*-\s*[^-]+$/, "");
+    if (title.length > 92) title = title.slice(0, 89) + "...";
+    doc.setFont("helvetica","bold"); doc.setTextColor(RED[0], RED[1], RED[2]); doc.setFontSize(7.5);
+    doc.text(String(it.agency || ""), M, y);
+    doc.setFont("helvetica","normal"); doc.setTextColor(DARK[0], DARK[1], DARK[2]); doc.setFontSize(9);
+    doc.text(title, M, y + 4.2);
+    y += 9.5;
+  });
+  y += 2;
+
+  // Indikator kunci
+  doc.setDrawColor(220,220,220); doc.line(M, y - 2, pageW - M, y - 2);
+  doc.setTextColor(RED[0], RED[1], RED[2]); doc.setFont("helvetica","bold"); doc.setFontSize(11);
+  doc.text("INDIKATOR KUNCI", M, y + 3); y += 10;
+
+  const ms = liveData.macro_stats || {};
+  const picks = [
+    ["Harga Beras Nasional", liveData.harga_beras, true, false],
+    ["Nilai Tukar Petani (NTP)", ms.ntp, false, false],
+    ["Produksi Beras Nasional", ms.produksi_beras, false, false],
+    ["Stok Beras Bulog", liveData.stok_bulog, false, true],
+    ["Luas Panen Padi", ms.luas_panen_padi, false, false],
+    ["Bantuan Pangan Beras", ms.bantuan_pangan, false, false],
+  ];
+  doc.setFontSize(9.5);
+  picks.forEach(function(p) {
+    const label = p[0], s = p[1], money = p[2], ton = p[3];
+    if (!s || typeof s !== "object") return;
+    let v = s.value;
+    if (v == null || v === "") v = "tidak tersedia";
+    else if (money) v = "Rp " + Number(v).toLocaleString("id-ID");
+    else if (ton && typeof v === "number") v = Number(v).toLocaleString("id-ID") + " Ton";
+    const isFb = (s.confidence || "FALLBACK") === "FALLBACK";
+    doc.setFont("helvetica","normal"); doc.setTextColor(DARK[0], DARK[1], DARK[2]);
+    doc.text(label, M, y);
+    doc.setFont("helvetica","bold");
+    if (isFb) doc.setTextColor(GREY[0], GREY[1], GREY[2]); else doc.setTextColor(GREEN[0], GREEN[1], GREEN[2]);
+    doc.text(String(v) + (isFb ? "  (acuan)" : ""), pageW - M, y, { align:"right" });
+    y += 7.5;
+  });
+
+  // Catatan integritas + footer
+  y += 2;
+  doc.setFont("helvetica","italic"); doc.setFontSize(7.5); doc.setTextColor(GREY[0], GREY[1], GREY[2]);
+  doc.text('Angka berlabel "(acuan)" = nilai acuan statis (FALLBACK), bukan data resmi terkini.', M, y);
+  doc.setFont("helvetica","normal"); doc.setTextColor(150,150,150);
+  doc.text("Dasbor Intelijen Komisi IV DPR RI - Fraksi Gerindra - dihasilkan otomatis di browser.", M, 290);
+
+  const ymd = (upd && !isNaN(upd) ? upd : new Date()).toISOString().slice(0, 10);
+  doc.save("Ringkasan_Komisi_IV_" + ymd + ".pdf");
 }
 
 loadData();
