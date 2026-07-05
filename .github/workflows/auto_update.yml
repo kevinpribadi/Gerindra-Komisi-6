@@ -35,6 +35,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add live_data.json
+          # snapshot bulanan hanya ditulis engine saat live_data.json ikut berubah
+          if [ -d archive ]; then git add archive; fi
           # engine TIDAK menulis ulang file kalau konten (tanpa timestamp) sama,
           # jadi 'nothing to commit' di sini = memang tidak ada perubahan berarti.
           git commit -m "Auto-update Komisi VI data" || echo "Tidak ada perubahan, lewati commit."

@@ -516,6 +516,118 @@ def build_macro_stats(now, invest_stat, neraca_stat, koperasi_stat, umkm_stat):
     }
 
 # ============================================================
+# 5d. SNAPSHOT ARSIP BULANAN — archive/monthly/YYYY-MM.json
+# ------------------------------------------------------------
+# Aset data jangka panjang untuk lapisan "Intelijen Bulanan Fraksi":
+# AGREGAT (hitungan) + 15 headline teratas, BUKAN duplikasi arsip penuh.
+# Skema live_data.json TIDAK berubah.
+#
+# COMMIT-ON-DIFF AMAN: snapshot HANYA ditulis pada jalur ketika
+# live_data.json juga ditulis (konten berubah). Saat [SKIP], snapshot
+# tidak disentuh, jadi tidak pernah memicu commit sendiri walau
+# hitungan jendela 7/30 hari bergeser karena waktu berjalan.
+#
+# JAGA SINKRON MANUAL dengan TOPIC_TAGS dan EW_KEYWORDS di index.html
+# (keduanya owner-tunable). Drift hanya memengaruhi isi snapshot,
+# tidak memengaruhi UI dashboard.
+# ============================================================
+ARCHIVE_DIR = os.path.join(os.path.dirname(__file__), "archive", "monthly")
+
+SNAPSHOT_TOPIC_TAGS = {
+    "danantara":       ["danantara"],
+    "bumn":            ["bumn", "badan usaha milik negara"],
+    "merger-akuisisi": ["merger", "akuisisi"],
+    "dividen":         ["dividen"],
+    "ipo":             ["ipo"],
+    "kartel-monopoli": ["kartel", "monopoli", "persaingan usaha"],
+    "koperasi":        ["koperasi", "kopdes"],
+    "umkm":            ["umkm", "usaha mikro", "usaha kecil"],
+    "investasi":       ["investasi", "penanaman modal", "investor"],
+    "ekspor":          ["ekspor"],
+    "impor":           ["impor"],
+    "perdagangan":     ["perdagangan", "tarif", "ritel"],
+}
+SNAPSHOT_EW_KEYWORDS = {
+    "Hukum/Audit":    ["korupsi", "kpk", "audit", "bpk", "penyidikan", "tersangka", "dugaan", "gratifikasi"],
+    "Konflik Publik": ["demo", "protes", "tuntut", "tolak", "polemik", "kisruh", "ricuh"],
+    "Kinerja BUMN":   ["rugi", "kerugian", "utang", "restrukturisasi", "efisiensi", "phk", "komisaris"],
+    "Perdagangan":    ["impor", "ekspor", "harga", "minyakita", "surplus", "defisit", "bea masuk"],
+    "Koperasi/UMKM":  ["koperasi", "umkm", "pembiayaan", "kredit", "kur"],
+}
+# Kata pendek/ambigu dicocokkan per-kata utuh agar tidak false-positive:
+# 'demo' ~ "Demokrat", 'kur' ~ "kurs", 'bpk' ~ "BPKN", dst.
+EW_WORD_ONLY = {"demo", "kur", "bpk", "phk", "kpk"}
+
+def _kw_match(title_lower, kw):
+    if kw in EW_WORD_ONLY:
+        return re.search(r"\b" + re.escape(kw) + r"\b", title_lower) is not None
+    return kw in title_lower
+
+def build_monthly_snapshot(agency_news, member_news, now_iso):
+    now = datetime.now(timezone.utc)
+    party_of = {m: p for p, members in KOMISI6_MEMBERS.items() for m in members}
+    def within(a, days):
+        d = _article_dt(a)
+        return d is not None and d >= now - timedelta(days=days)
+    mem_arts = [(nm, a) for nm, arts in (member_news or {}).items() for a in (arts or [])]
+    ag_arts = [(ag, a) for ag, arts in (agency_news or {}).items() for a in (arts or [])]
+    party7, party30, member30, agency30 = {}, {}, {}, {}
+    for nm, a in mem_arts:
+        if within(a, 30):
+            p = party_of.get(nm, "Lainnya")
+            party30[p] = party30.get(p, 0) + 1
+            member30[nm] = member30.get(nm, 0) + 1
+            if within(a, 7):
+                party7[p] = party7.get(p, 0) + 1
+    for ag, a in ag_arts:
+        if within(a, 30):
+            agency30[ag] = agency30.get(ag, 0) + 1
+    topic30, ew30 = {}, {}
+    all30 = [(ent, a) for ent, a in ag_arts + mem_arts if within(a, 30)]
+    for _, a in all30:
+        t = str(a.get("title", "")).lower()
+        for tag, kws in SNAPSHOT_TOPIC_TAGS.items():
+            if any(k in t for k in kws):
+                topic30[tag] = topic30.get(tag, 0) + 1
+        for grp, kws in SNAPSHOT_EW_KEYWORDS.items():
+            if any(_kw_match(t, k) for k in kws):
+                ew30[grp] = ew30.get(grp, 0) + 1
+    latest = sorted(
+        all30,
+        key=lambda ea: ((_article_dt(ea[1]) or datetime.min.replace(tzinfo=timezone.utc)).isoformat(),
+                        str(ea[1].get("link", ""))),
+        reverse=True)[:15]
+    return {
+        "period": date.today().strftime("%Y-%m"),
+        "generated_at": now_iso,
+        "party_counts_7d": party7,
+        "party_counts_30d": party30,
+        "agency_counts_30d": agency30,
+        "topic_counts_30d": topic30,
+        "member_counts_30d": member30,
+        "early_warning_counts": ew30,
+        "top_headlines": [
+            {"title": a.get("title"), "entity": ent,
+             "kind": "anggota" if ent in party_of else "lembaga",
+             "published": a.get("published"),
+             "link": a.get("link_resolved") or a.get("link")}
+            for ent, a in latest
+        ],
+    }
+
+def write_monthly_snapshot(snap):
+    """Aman-gagal: kegagalan apa pun dicatat tapi tidak menghentikan engine
+    dan tidak memengaruhi live_data.json."""
+    try:
+        os.makedirs(ARCHIVE_DIR, exist_ok=True)
+        path = os.path.join(ARCHIVE_DIR, snap["period"] + ".json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(snap, f, ensure_ascii=False, indent=2)
+        print(f"[ARSIP] Snapshot bulanan ditulis: archive/monthly/{snap['period']}.json")
+    except Exception as e:
+        safe_print(f"[WARN] Gagal tulis snapshot bulanan: {e} (live_data.json tidak terpengaruh)")
+
+# ============================================================
 # 6. COMMIT-ON-DIFF: skip tulis kalau konten (tanpa timestamp) sama
 # ============================================================
 def _strip_volatile(obj):
@@ -630,6 +742,9 @@ def fetch_data():
         size_kb = os.path.getsize(output_path) / 1024
         print(f"\n[SUKSES] live_data.json diperbarui {datetime.now().strftime('%H:%M:%S')} "
               f"({size_kb:.0f} KB, {total_ag_arts + total_mem_arts} artikel)")
+        # Snapshot bulanan HANYA di jalur ini (live_data.json baru saja ditulis)
+        # sehingga tidak pernah memicu commit sendirian (commit-on-diff utuh).
+        write_monthly_snapshot(build_monthly_snapshot(agency_news, member_news, now))
     except Exception as e:
         print(f"[GAGAL] Simpan data: {e}")
 
