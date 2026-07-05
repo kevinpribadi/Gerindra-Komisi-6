@@ -12,35 +12,48 @@ import requests
 # ============================================================
 # 0. KONFIGURASI ARSIP BERITA (anti-bloat)
 # ============================================================
-MAX_ARTICLES_PER_ENTITY = 20   # cap keras per lembaga / per anggota (jaga ukuran file; worst-case 54x20=1080 artikel)
+MAX_ARTICLES_PER_ENTITY = 20   # cap keras per lembaga / per anggota (jaga ukuran file; worst-case 56x20=1120 artikel)
 MAX_AGE_DAYS = 30              # rolling window: buang artikel lebih tua dari ini
 AGENCY_FETCH_LIMIT = 10        # artikel baru maksimal per lembaga per run
 MEMBER_FETCH_LIMIT = 5         # artikel baru maksimal per anggota per run
 
 # ============================================================
-# 1. DATA SUMBER: LEMBAGA & KEYWORD (KOMISI IV DPR RI PARTNERS)
+# 1. DATA SUMBER: LEMBAGA & KEYWORD (KOMISI VI DPR RI PARTNERS)
+#    Bidang: BUMN, Perdagangan, Investasi, Koperasi/UMKM,
+#    Persaingan Usaha, Kawasan Perdagangan Bebas.
 # ============================================================
 AGENCIES = {
-    "Kementerian Pertanian": "Kementerian Pertanian OR Kementan",
-    "Kementerian Kehutanan": "Kementerian Kehutanan OR Kemenhut",
-    "Kementerian Kelautan dan Perikanan": "Kementerian Kelautan dan Perikanan OR KKP",
-    "Badan Karantina Indonesia": "Badan Karantina Indonesia OR Barantin",
-    "Badan Pangan Nasional": "Badan Pangan Nasional OR Bapanas",
-    "Perum Bulog": "Perum Bulog OR Bulog"
+    "Kementerian BUMN": "Kementerian BUMN",
+    "Kementerian Perdagangan": "Kementerian Perdagangan OR Kemendag",
+    "Kementerian Koperasi": "Kementerian Koperasi OR Kemenkop",
+    "Danantara": "Badan Pengelola Investasi Daya Anagata Nusantara OR Danantara",
+    "BPKN": "Badan Perlindungan Konsumen Nasional OR BPKN",
+    "KPPU": "Komisi Pengawas Persaingan Usaha OR KPPU",
+    "BP Batam": "BP Batam OR Badan Pengusahaan Kawasan Perdagangan Bebas",
+    "BPK Sabang": "Badan Pengusahaan Kawasan Sabang OR BPK Sabang",
+    "Dekopin": "Dewan Koperasi Indonesia OR Dekopin",
+    "Badan Pengaturan BUMN": "Badan Pengaturan BUMN"
 }
 
 # ============================================================
-# 2. DATA ANGGOTA KOMISI IV DPR RI (2024-2029)
+# 2. DATA ANGGOTA KOMISI VI DPR RI (2024-2029)
+# ------------------------------------------------------------
+# Divalidasi 5 Jul 2026: fraksigerindra.id (Gerindra, 7 anggota —
+# Mulyadi TAMBAHAN dari daftar lama), nasdemdprri.id (NasDem, cocok),
+# fpd-dpr.com (Demokrat: Tutik Kusuma Wardhani PINDAH ke Komisi IX
+# Feb 2025 -> dikeluarkan, pengganti belum terkonfirmasi), Wikipedia.
+# Golkar: sumber bertentangan -> daftar lama dipertahankan, MERAGUKAN.
+# Owner (TA Komisi VI) mengonfirmasi final — lihat laporan port.
 # ============================================================
-KOMISI4_MEMBERS = {
-    "PDI-P": ["Alex Indra Lukman", "Sonny T. Danaparamita", "Mayjen TNI (Purn) Sturman Panjaitan", "Rokhmin Dahuri", "I Nyoman Adi Wiryatama", "Paolus Hadi", "Agus Ambo Djiwa", "I Ketut Suwendra", "Edoardus Kaize"],
-    "Golkar": ["Panggah Susanto", "Robert Joppy Kardinal", "Adrianus Asia Sidot", "Eko Wahyudi", "Firman Subagyo", "Alien Mus", "Dadang M Naser", "Ilham Pangestu"],
-    "Gerindra": ["Siti Hediati Soeharto", "Darori Wonodipuro", "Dwita Ria Gunadi", "Endang Setyawati Thohari", "TA Khalid", "Sumail Abdullah", "Melati"],
-    "NasDem": ["Sulaeman L Hamzah", "Ananda Tohpati", "Cindy Monica Salsabila Setiawan", "Rajiv", "Arief Rahman", "Muhammad Habibur Rochman"],
-    "PKB": ["Jaelani", "Daniel Johan", "Hindun Anisah", "Usman Husin", "Rina Sa'adah"],
-    "PKS": ["Abdul Kharis", "Slamet", "Johan Rosihan", "Riyono", "Rahmat Saleh"],
-    "PAN": ["Ahmad Yohan", "Herry Dermawan", "Irham Jafar Lan Putra", "Ajbar"],
-    "Demokrat": ["Bambang Purwanto", "Ellen Esther Pelealu", "Hasan Saleh", "Muhammad Zulfikar Suhardi"]
+KOMISI6_MEMBERS = {
+    "Gerindra": ["Andre Rosiade", "Khilmi", "Muhammad Husein Fadlulloh", "Mulan Jameela", "Kawendra Lukistian", "Unru Baso", "Mulyadi"],
+    "PDI-P": ["Adisatrya Suryo Sulisto", "Mufti Anam", "Darmadi Durianto", "Rieke Diah Pitaloka", "I Gusti Ngurah Kesuma Kelakan", "Sadarestuwati", "Ida Nurlaela", "Budi Sulistyono", "Totok Hedi Santosa"],
+    "Golkar": ["Nurdin Halid", "Gde Sumarjaya Linggih", "Ahmad Labib", "Sarifah Suraidah", "Doni Akbar", "Firnando Hadityo Ganinduto", "Rizki Faisal", "Muhammad Sarmuji"],
+    "NasDem": ["Rachmat Gobel", "Asep Wahyuwijaya", "I Nengah Senantara", "Randi Zulmariadi", "Rudi Hartono Bangun", "Subardi"],
+    "PKB": ["Anggia Erma Rini", "Rivqy Abdul Halim", "Nasim Khan", "Ida Fauziyah", "Imas Aan Ubudiah"],
+    "PKS": ["Amin Ak.", "Rizal Bawazier", "Ghufran", "Ismail"],
+    "PAN": ["Eko Patrio", "Nasril Bahar", "Abdul Hakim Bafagih", "Iskandar"],
+    "Demokrat": ["Sartono", "Herman Khaeron", "Faujia Helga"]
 }
 
 HEADERS = {
@@ -197,8 +210,8 @@ def fetch_member_news(prev_archive):
     errors = []
     ok_count = 0
     aliases = load_aliases()
-    all_members = [m for members in KOMISI4_MEMBERS.values() for m in members]
-    print(f"  Memproses {len(all_members)} anggota Komisi IV...")
+    all_members = [m for members in KOMISI6_MEMBERS.values() for m in members]
+    print(f"  Memproses {len(all_members)} anggota Komisi VI...")
     for member in all_members:
         new_arts = []
         try:
@@ -324,92 +337,90 @@ def resolve_links(agency_arch, member_arch):
     return ok, len(todo)
 
 # ============================================================
-# 5. FASE 3: DATA MAKRO (API resmi + FALLBACK jujur)
+# 5. FASE 3: STATISTIK (data pasar live + FALLBACK jujur)
 # ============================================================
 #
-# Prinsip: hanya angka yang punya sumber API beneran yang jadi live.
+# Prinsip: hanya angka yang punya sumber live beneran yang jadi live.
 # Sisanya FALLBACK berlabel, BUKAN scrape regex yang menebak.
 #
 # Confidence:
-#   AUDITED         -> rilis resmi BPS (WebAPI)
-#   UNAUDITED       -> data operasional harian (Panel Harga Bapanas)
-#   FALLBACK        -> nilai statis manual, belum/ tidak ada API
+#   AUDITED         -> rilis resmi (BPS WebAPI, dst.)
+#   UNAUDITED       -> data operasional/pasar (Yahoo Finance)
+#   FALLBACK        -> nilai statis manual, belum/tidak ada API
 #
 # ------------------------------------------------------------
-# 5a. PANEL HARGA BAPANAS (harga beras) — API harian, tanpa auth
+# 5a. DATA PASAR (yfinance) — Kurs USD/IDR + IHSG
 # ------------------------------------------------------------
-# >>> KONFIRMASI ENDPOINT (2 menit, wajib sebelum deploy):
-#     1. Buka https://panelharga.badanpangan.go.id  -> menu Harga Eceran.
-#     2. DevTools (F12) > tab Network > filter "Fetch/XHR".
-#     3. Ganti tanggal/komoditas; lihat request yang muncul (biasanya ke
-#        host api-panelhargav2.badanpangan.go.id). Salin URL + parameternya.
-#     4. Tempel URL itu ke PANELHARGA_URL, sesuaikan PANELHARGA_PARAMS, dan
-#        sesuaikan _parse_panelharga_beras() dengan bentuk JSON response asli.
-#   Sampai dikonfirmasi, fungsi ini aman gagal -> harga_beras tetap FALLBACK.
-# >>> SAKLAR: integrasi API yang belum dikonfirmasi dimatikan dulu (mode statis jujur).
-#     Flip ke True setelah endpoint/credential dikonfirmasi (lihat report untuk atasan).
-ENABLE_PANELHARGA_API = False
-PANELHARGA_URL = "https://api-panelhargav2.badanpangan.go.id/api/front/harga-pangan-table"
+# Data pasar Yahoo Finance = indikatif, BUKAN rilis resmi BI/BEI,
+# karena itu labelnya UNAUDITED (tidak pernah AUDITED).
+# Gagal fetch (rate limit / jaringan / pustaka berubah) -> nilai
+# FALLBACK statis ber-label; TIDAK PERNAH tampil seolah live.
+# (Perbaikan bug versi pra-kerja: live_kurs=15500 tanpa label.)
+# Matikan seluruh lapisan pasar dengan ENABLE_MARKET_DATA = False.
+ENABLE_MARKET_DATA = True
+MARKET_TICKERS = {
+    # kunci output: (ticker Yahoo, desimal, nilai fallback statis, label tampil)
+    "kurs_usd_idr": ("IDR=X", 0, 16000, "Kurs USD/IDR"),
+    "ihsg":         ("^JKSE", 2, 7000,  "IHSG"),
+    # Opsional (keputusan owner, belum diaktifkan):
+    # "brent":      ("BZ=F",  2, 80,    "Minyak Brent"),
+}
 
-def _parse_panelharga_beras(data):
-    """Best-effort: telusuri JSON cari komoditas 'Beras' -> harga rata-rata nasional.
-    SESUAIKAN dengan struktur response asli setelah cek DevTools."""
-    candidates = []
-    if isinstance(data, dict):
-        candidates = data.get("data") or data.get("result") or data.get("list") or []
-    elif isinstance(data, list):
-        candidates = data
-    for item in candidates:
-        if not isinstance(item, dict):
-            continue
-        name = str(item.get("name") or item.get("nama") or item.get("komoditas") or "").lower()
-        if "beras" in name:
-            for k in ("today", "harga", "price", "value", "gridharga", "harga_today"):
-                v = item.get(k)
-                if isinstance(v, (int, float)) and v > 0:
-                    return int(v)
-                if isinstance(v, str):
-                    digits = re.sub(r"[^\d]", "", v)
-                    if digits:
-                        return int(digits)
-    return None
-
-def fetch_food_prices(now):
+def fetch_market_data(now):
+    """Tarik data pasar via yfinance. Sukses -> UNAUDITED + sumber Yahoo
+    Finance; kegagalan APA PUN -> FALLBACK statis ber-label (aman-gagal)."""
+    stats = {}
     errors = []
-    harga_beras = _stat(15500, "BAPANAS, nilai fallback statis",
-                        "https://panelharga.badanpangan.go.id/", "FALLBACK", now)
-    if not ENABLE_PANELHARGA_API:
-        return harga_beras, []   # mode statis disengaja, bukan kegagalan
-    today = date.today().strftime("%d/%m/%Y")
-    params = {"level_harga_id": 3, "period_date": f"{today} - {today}", "province_id": ""}
-    print("  [STATS] Panel Harga Bapanas (harga beras)...")
+    live_ok = 0
+    def _fallback(key, tick, fb, note):
+        return _stat(fb, f"Nilai acuan statis ({note}; bukan data live)",
+                     f"https://finance.yahoo.com/quote/{urllib.parse.quote(tick)}/",
+                     "FALLBACK", now)
+    if not ENABLE_MARKET_DATA:
+        for key, (tick, nd, fb, label) in MARKET_TICKERS.items():
+            stats[key] = _fallback(key, tick, fb, "lapisan pasar dimatikan")
+        return stats, errors, live_ok
     try:
-        data = fetch_json(PANELHARGA_URL, params=params)
-        val = _parse_panelharga_beras(data)
-        if val:
-            harga_beras = _stat(val, "BAPANAS Panel Harga (API)",
-                                "https://panelharga.badanpangan.go.id/", "UNAUDITED", now)
-            print(f"  [STATS] Harga beras (API): Rp {val}")
-        else:
-            errors.append("panelharga: komoditas 'beras' tidak ditemukan / parser belum disesuaikan")
+        import yfinance as yf
     except Exception as e:
-        errors.append(f"panelharga gagal: {e}")
-        print(f"  [WARN] panelharga gagal: {e}")
-    return harga_beras, errors
+        errors.append(f"yfinance import gagal: {e}")
+        for key, (tick, nd, fb, label) in MARKET_TICKERS.items():
+            stats[key] = _fallback(key, tick, fb, "yfinance tidak tersedia")
+        return stats, errors, live_ok
+    for key, (tick, nd, fb, label) in MARKET_TICKERS.items():
+        print(f"  [PASAR] {label} ({tick})...")
+        try:
+            hist = yf.Ticker(tick).history(period="5d")
+            val = float(hist["Close"].dropna().iloc[-1])
+            val = round(val, nd) if nd else int(round(val))
+            stats[key] = _stat(val, "Yahoo Finance (data pasar, bukan rilis resmi)",
+                               f"https://finance.yahoo.com/quote/{urllib.parse.quote(tick)}/",
+                               "UNAUDITED", now)
+            live_ok += 1
+            print(f"  [PASAR] {label}: {val} (UNAUDITED)")
+        except Exception as e:
+            msg = f"yfinance {label} ({tick}) gagal: {e}"
+            errors.append(msg)
+            safe_print(f"  [WARN] {msg} -> FALLBACK statis ber-label")
+            stats[key] = _fallback(key, tick, fb, "yfinance gagal")
+    return stats, errors, live_ok
 
 # ------------------------------------------------------------
-# 5b. BPS WebAPI (NTP) — data resmi, BUTUH API KEY GRATIS
+# 5b. STATISTIK RESMI — scaffold, MENUNGGU KEPUTUSAN PIMPINAN
 # ------------------------------------------------------------
-# >>> SETUP (sekali):
+# Pola sama dengan Komisi IV: flag False -> nilai FALLBACK ber-label.
+# JANGAN diaktifkan tanpa instruksi owner.
+#
+# >>> BPS WebAPI (neraca perdagangan) — BUTUH API KEY GRATIS:
 #     1. Daftar di https://webapi.bps.go.id, buat aplikasi -> dapat API key.
 #     2. Simpan key sebagai GitHub Secret bernama BPS_API_KEY
 #        (Settings > Secrets and variables > Actions).
-#     3. Cari variable ID untuk "Nilai Tukar Petani" di katalog WebAPI,
-#        isi NTP_VAR_ID di bawah.
-#   Tanpa key/var_id, NTP aman jatuh ke FALLBACK.
+#     3. Cari variable ID "Neraca Perdagangan" di katalog WebAPI,
+#        isi NERACA_VAR_ID di bawah, lalu ENABLE_BPS_API = True.
+#   Tanpa key/var_id, neraca aman jatuh ke FALLBACK.
 ENABLE_BPS_API = False
 BPS_KEY = os.environ.get("BPS_API_KEY", "").strip()
-NTP_VAR_ID = ""  # << isi var id NTP dari katalog BPS WebAPI
+NERACA_VAR_ID = ""  # << isi var id neraca perdagangan dari katalog BPS WebAPI
 
 def _parse_bps_latest(data):
     """Ambil nilai periode terbaru dari response 'dynamic data' BPS.
@@ -424,42 +435,84 @@ def _parse_bps_latest(data):
     except Exception:
         return None
 
-def fetch_bps_ntp(now):
+def fetch_bps_neraca(now):
     errors = []
-    ntp = _stat(110.5, "BPS, nilai fallback statis", "https://www.bps.go.id/", "FALLBACK", now)
-    if not ENABLE_BPS_API or not BPS_KEY or not NTP_VAR_ID:
-        return ntp, errors   # mode statis disengaja, bukan kegagalan
+    neraca = _stat("Surplus US$ 31,04 M (2024)", "BPS, nilai fallback statis",
+                   "https://www.bps.go.id/", "FALLBACK", now)
+    if not ENABLE_BPS_API or not BPS_KEY or not NERACA_VAR_ID:
+        return neraca, errors   # mode statis disengaja, bukan kegagalan
     url = (f"https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/"
-           f"domain/0000/var/{NTP_VAR_ID}/key/{BPS_KEY}/")
-    print("  [STATS] BPS WebAPI (NTP)...")
+           f"domain/0000/var/{NERACA_VAR_ID}/key/{BPS_KEY}/")
+    print("  [STATS] BPS WebAPI (neraca perdagangan)...")
     try:
         data = fetch_json(url)
         val = _parse_bps_latest(data)
         if val is not None:
-            ntp = _stat(round(val, 2), "BPS WebAPI", "https://www.bps.go.id/", "AUDITED", now)
-            print(f"  [STATS] NTP (BPS API): {val}")
+            neraca = _stat(val, "BPS WebAPI", "https://www.bps.go.id/", "AUDITED", now)
+            print(f"  [STATS] Neraca perdagangan (BPS API): {val}")
         else:
             errors.append("BPS: datacontent kosong / format tak terduga")
     except Exception as e:
-        errors.append(f"BPS NTP gagal: {e}")
-        print(f"  [WARN] BPS NTP gagal: {e}")
-    return ntp, errors
+        errors.append(f"BPS neraca gagal: {e}")
+        print(f"  [WARN] BPS neraca gagal: {e}")
+    return neraca, errors
+
+# >>> BKPM / Kementerian Investasi (realisasi investasi):
+#     Belum ada API publik bersih. Bila pimpinan setuju: konfirmasi
+#     endpoint via DevTools (F12 > Network > Fetch/XHR) di situs BKPM,
+#     isi BKPM_API_URL + sesuaikan parser, baru flip flag ke True.
+ENABLE_BKPM_API = False
+BKPM_API_URL = ""  # << isi setelah endpoint dikonfirmasi owner
+
+def fetch_bkpm_investasi(now):
+    errors = []
+    inv = _stat("Rp 1.714 Triliun (2024)", "Kementerian Investasi/BKPM, nilai fallback statis",
+                "https://www.bkpm.go.id/", "FALLBACK", now)
+    if not ENABLE_BKPM_API or not BKPM_API_URL:
+        return inv, errors   # mode statis disengaja, bukan kegagalan
+    print("  [STATS] BKPM (realisasi investasi)...")
+    try:
+        data = fetch_json(BKPM_API_URL)
+        # << SESUAIKAN parser dengan bentuk response asli, lalu set:
+        # inv = _stat(val, "BKPM (API)", "https://www.bkpm.go.id/", "UNAUDITED", now)
+        errors.append("BKPM: parser belum disesuaikan dengan response asli")
+    except Exception as e:
+        errors.append(f"BKPM gagal: {e}")
+        print(f"  [WARN] BKPM gagal: {e}")
+    return inv, errors
+
+# >>> Kemenkop (jumlah koperasi aktif / UMKM): belum ada API publik
+#     bersih (ODS Kemenkop butuh konfirmasi endpoint). Pola sama.
+ENABLE_KEMENKOP_API = False
+KEMENKOP_API_URL = ""  # << isi setelah endpoint dikonfirmasi owner
+
+def fetch_kemenkop_stats(now):
+    errors = []
+    koperasi = _stat("±130 Ribu Unit Aktif", "Kemenkop, nilai fallback statis",
+                     "https://kemenkop.go.id/", "FALLBACK", now)
+    umkm = _stat("±65 Juta Unit", "Kemenkop/BPS, nilai fallback statis",
+                 "https://kemenkop.go.id/", "FALLBACK", now)
+    if not ENABLE_KEMENKOP_API or not KEMENKOP_API_URL:
+        return koperasi, umkm, errors   # mode statis disengaja, bukan kegagalan
+    print("  [STATS] Kemenkop (koperasi/UMKM)...")
+    try:
+        data = fetch_json(KEMENKOP_API_URL)
+        # << SESUAIKAN parser dengan bentuk response asli, lalu set koperasi/umkm
+        errors.append("Kemenkop: parser belum disesuaikan dengan response asli")
+    except Exception as e:
+        errors.append(f"Kemenkop gagal: {e}")
+        print(f"  [WARN] Kemenkop gagal: {e}")
+    return koperasi, umkm, errors
 
 # ------------------------------------------------------------
-# 5c. STAT FALLBACK JUJUR (belum ada API publik bersih)
-#     Update manual berkala. Label tetap FALLBACK -> UI menandai abu-abu.
+# 5c. KOMPILASI STAT RESMI (semua FALLBACK sampai flag diaktifkan)
 # ------------------------------------------------------------
-def build_macro_stats(now, ntp_stat):
+def build_macro_stats(now, invest_stat, neraca_stat, koperasi_stat, umkm_stat):
     return {
-        "ntp":               ntp_stat,
-        "luas_panen_padi":   _stat("10.2 Juta Ha",        "BPS, fallback statis",     "https://www.bps.go.id/",        "FALLBACK", now),
-        "produksi_beras":    _stat("31.5 Juta Ton",       "BPS, fallback statis",     "https://www.bps.go.id/",        "FALLBACK", now),
-        "luas_panen_jagung": _stat("4.1 Juta Ha",         "BPS, fallback statis",     "https://www.bps.go.id/",        "FALLBACK", now),
-        "produksi_jagung":   _stat("14.4 Juta Ton",       "BPS, fallback statis",     "https://www.bps.go.id/",        "FALLBACK", now),
-        "kampung_nelayan":   _stat("12 Lokasi Selesai",   "KKP, fallback statis",     "https://kkp.go.id/",            "FALLBACK", now),
-        "harga_pangan_avg":  _stat("Stabil (Inflasi 0.2%)","BAPANAS, fallback statis","https://badanpangan.go.id/",    "FALLBACK", now),
-        "bantuan_pangan":    _stat("85% Tersalurkan",     "BAPANAS, fallback statis", "https://badanpangan.go.id/",    "FALLBACK", now),
-        "realisasi_sphp":    _stat("750.000 Ton",         "Bulog, fallback statis",   "https://www.bulog.co.id/",      "FALLBACK", now),
+        "realisasi_investasi": invest_stat,
+        "neraca_perdagangan":  neraca_stat,
+        "jumlah_koperasi":     koperasi_stat,
+        "jumlah_umkm":         umkm_stat,
     }
 
 # ============================================================
@@ -483,7 +536,7 @@ def _fingerprint(output):
 # ============================================================
 def fetch_data():
     print("=" * 50)
-    print("ENGINE KOMISI IV DIMULAI")
+    print("ENGINE KOMISI VI DIMULAI")
     print("=" * 50)
     now = datetime.now().isoformat()
     all_errors = []
@@ -501,7 +554,7 @@ def fetch_data():
     print("\n>>> FASE 2: Berita Anggota (arsip bergulir)...")
     member_news, e2, mem_ok = fetch_member_news(prev_member)
     all_errors += e2
-    total_members = sum(len(v) for v in KOMISI4_MEMBERS.values())
+    total_members = sum(len(v) for v in KOMISI6_MEMBERS.values())
     phase2 = "failed" if len(member_news) == 0 else (
         "partial" if (e2 or mem_ok < total_members * 0.5) else "ok")
     total_mem_arts = sum(len(v) for v in member_news.values())
@@ -512,33 +565,41 @@ def fetch_data():
     if dec_try > 0 and dec_ok == 0:
         all_errors.append(f"decode link gagal massal (0/{dec_try}); link_resolved tetap null, berita tidak terdampak")
 
-    print("\n>>> FASE 3: Data Makro (API + fallback)...")
-    harga_beras, e3a = fetch_food_prices(now)
-    ntp_stat, e3b = fetch_bps_ntp(now)
-    all_errors += e3a + e3b
-    macro_stats = build_macro_stats(now, ntp_stat)
-    stok_bulog = _stat(1250000, "Bulog, nilai fallback statis", "https://www.bulog.co.id/", "FALLBACK", now)
+    print("\n>>> FASE 3: Statistik (data pasar live + fallback)...")
+    market_stats, e3a, market_ok = fetch_market_data(now)
+    invest_stat, e3b = fetch_bkpm_investasi(now)
+    neraca_stat, e3c = fetch_bps_neraca(now)
+    koperasi_stat, umkm_stat, e3d = fetch_kemenkop_stats(now)
+    all_errors += e3a + e3b + e3c + e3d
+    macro_stats = build_macro_stats(now, invest_stat, neraca_stat, koperasi_stat, umkm_stat)
 
-    # status fase 3 = berapa target API aktif yang benar-benar live.
-    # Kalau semua API dimatikan (mode statis disengaja), itu bukan kegagalan -> "ok".
+    # status fase 3 = berapa target live aktif yang benar-benar live.
+    # Data pasar (yfinance) aktif default; API resmi menunggu approval pimpinan.
+    # Kalau semua dimatikan (mode statis disengaja), itu bukan kegagalan -> "ok".
     live_targets = []
-    if ENABLE_PANELHARGA_API:
-        live_targets.append(harga_beras)
-    if ENABLE_BPS_API and BPS_KEY and NTP_VAR_ID:
-        live_targets.append(ntp_stat)
+    if ENABLE_MARKET_DATA:
+        live_targets += list(market_stats.values())
+    if ENABLE_BPS_API and BPS_KEY and NERACA_VAR_ID:
+        live_targets.append(neraca_stat)
+    if ENABLE_BKPM_API and BKPM_API_URL:
+        live_targets.append(invest_stat)
+    if ENABLE_KEMENKOP_API and KEMENKOP_API_URL:
+        live_targets += [koperasi_stat, umkm_stat]
     if not live_targets:
         phase3 = "ok"
-        print("[FASE 3] Mode statis (FALLBACK), tidak ada target API aktif.")
+        print("[FASE 3] Mode statis (FALLBACK), tidak ada target live aktif.")
     else:
         live_ok = sum(1 for s in live_targets if s["confidence"] in ("UNAUDITED", "AUDITED"))
         phase3 = "failed" if live_ok == 0 else ("partial" if live_ok < len(live_targets) else "ok")
-        print(f"[FASE 3] {live_ok}/{len(live_targets)} target API live.")
+        print(f"[FASE 3] {live_ok}/{len(live_targets)} target live.")
 
     output = {
         "agency_news": agency_news,
         "member_news": member_news,
-        "harga_beras": harga_beras,
-        "stok_bulog":  stok_bulog,
+        # dua indikator pasar utama di top-level (pola harga_beras/stok_bulog
+        # Komisi IV); ticker tambahan (mis. brent) tinggal diwire bila owner setuju
+        "kurs_usd_idr": market_stats.get("kurs_usd_idr"),
+        "ihsg":         market_stats.get("ihsg"),
         "macro_stats": macro_stats,
         "scrape_status": {
             "phase_1_agency":  phase1,
