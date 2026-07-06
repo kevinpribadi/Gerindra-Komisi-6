@@ -1410,48 +1410,31 @@
     </div>
   </div>
 
-  <!-- SECTION: STATISTIK EKONOMI, INVESTASI & KOPERASI -->
+  <!-- SECTION: SAHAM BUMN UTAMA (DATA PASAR) -->
   <div class="section-header">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 008 20C19 20 22 3 22 3c-1 2-8 2-8 2 1.66-1.09 3.76-1.8 6-2-2.88 1.14-5.39 4.42-6.12 6.13C14 6.13 17 8 17 8z"/></svg>
     </div>
-    <div class="section-title">Statistik Ekonomi, Investasi &amp; Koperasi (BKPM · BPS · KEMENKOP)</div>
+    <div class="section-title">Saham BUMN Utama &mdash; Data Pasar IDX (10 Emiten)</div>
     <div class="section-line"></div>
-    <div class="section-badge">MAKRO DATA</div>
+    <div class="section-badge">DATA PASAR</div>
   </div>
 
   <div class="panel" style="margin-bottom:28px">
     <div class="panel-header">
-      <div class="panel-title">Indikator Utama Sektoral</div>
-      <div class="panel-badge red">REALTIME</div>
+      <div class="panel-title">Harga Saham 10 BUMN Utama (Rupiah, harga terakhir)</div>
+      <div class="panel-badge blue">YFINANCE</div>
     </div>
     <div class="panel-body">
-      <div class="macro-grid">
-        <div class="stat-card">
-          <div class="stat-label">Realisasi Investasi</div>
-          <div class="stat-value" id="investasi-display" style="font-size:20px">---</div>
-          <div class="stat-unit">Kementerian Investasi/BKPM · Kumulatif Tahunan</div>
-          <div id="investasi-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Neraca Perdagangan</div>
-          <div class="stat-value green" id="neraca-display" style="font-size:20px">---</div>
-          <div class="stat-unit">BPS · Ekspor-Impor</div>
-          <div id="neraca-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Jumlah Koperasi Aktif</div>
-          <div class="stat-value" id="koperasi-display" style="font-size:20px">---</div>
-          <div class="stat-unit">KEMENKOP · Unit</div>
-          <div id="koperasi-conf" class="stat-confidence fallback">MEMUAT</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-label">Jumlah UMKM</div>
-          <div class="stat-value" id="umkm-display" style="font-size:20px">---</div>
-          <div class="stat-unit">KEMENKOP/BPS · Unit Usaha</div>
-          <div id="umkm-conf" class="stat-confidence fallback">MEMUAT</div>
+      <div class="macro-grid" id="bumn-grid">
+        <div class="loader-wrap" style="grid-column:1/-1">
+          <div class="loader-dot"></div>
+          <div class="loader-dot"></div>
+          <div class="loader-dot"></div>
+          Memuat data saham...
         </div>
       </div>
+      <div class="hot-note">Daftar emiten mengacu papan IDXBUMN20 di <a href="https://bumn.go.id/portofolio/informasi-saham" target="_blank" rel="noopener">bumn.go.id/portofolio/informasi-saham</a> (dapat diubah owner di engine.py). Harga dari Yahoo Finance &mdash; UNAUDITED, bukan rilis resmi BEI; tautan &ldquo;lihat sumber&rdquo; tiap kartu membuka Google Finance emiten untuk data pasar live.</div>
     </div>
   </div>
 
@@ -2773,8 +2756,6 @@ async function loadData() {
     document.getElementById("last-updated-time").textContent = ts;
     document.getElementById("update-ticker").textContent = ts;
 
-    // Macro stats — support both new object schema {value,confidence,source} and old flat string
-    const stats = data.macro_stats || {};
     // Badge confidence + tautan sumber. Teks tautan jujur:
     // FALLBACK -> "sumber acuan" (tautan ke situs sumber, BUKAN bukti angka benar);
     // UNAUDITED/AUDITED -> "lihat sumber". Tanpa source_url -> teks polos, tanpa <a>.
@@ -2803,10 +2784,23 @@ async function loadData() {
     window.__confBadgeInnerHTML = confBadgeInnerHTML;   // ekspos untuk verifikasi
     if (data.kurs_usd_idr && typeof data.kurs_usd_idr === 'object') renderConfBadge('kurs-conf', data.kurs_usd_idr);
     if (data.ihsg && typeof data.ihsg === 'object') renderConfBadge('ihsg-conf', data.ihsg);
-    setStatCard("investasi-display", "investasi-conf", stats.realisasi_investasi);
-    setStatCard("neraca-display",    "neraca-conf",    stats.neraca_perdagangan);
-    setStatCard("koperasi-display",  "koperasi-conf",  stats.jumlah_koperasi);
-    setStatCard("umkm-display",      "umkm-conf",      stats.jumlah_umkm);
+    // Saham BUMN: kartu dinamis dari data.bumn_stocks. Nilai live = UNAUDITED;
+    // gagal fetch -> "Data tidak tersedia" + badge FALLBACK (tanpa angka statis).
+    const bumnGrid = document.getElementById("bumn-grid");
+    if (bumnGrid) {
+      const stocks = data.bumn_stocks || {};
+      const kodes = Object.keys(stocks);
+      bumnGrid.innerHTML = kodes.length ? kodes.map(function(k) {
+        const s = stocks[k] || {};
+        const v = (s.value != null && s.value !== "") ? "Rp " + Number(s.value).toLocaleString("id-ID") : "Data tidak tersedia";
+        return '<div class="stat-card">' +
+          '<div class="stat-label">' + esc(k) + ' &middot; IDX</div>' +
+          '<div class="stat-value" style="font-size:20px">' + esc(v) + '</div>' +
+          '<div class="stat-unit">' + esc(s.name || "") + '</div>' +
+          '<div class="stat-confidence ' + String(s.confidence || "FALLBACK").toLowerCase() + '">' + confBadgeInnerHTML(s) + '</div>' +
+          '</div>';
+      }).join("") : '<div class="empty-state" style="grid-column:1/-1">Data saham BUMN belum tersedia &mdash; jalankan engine terbaru (python engine.py).</div>';
+    }
 
     // Scrape status banner
     const ss = data.scrape_status;
@@ -2896,6 +2890,8 @@ function buildWABriefing() {
   lines.push("*SOROTAN TERBARU:*");
   flatAgencyArticles().slice(0, 5).forEach(function(a) {
     lines.push("📰 " + waCleanTitle(a.title) + " — " + a.agency + ", " + waShortDate(a.published));
+    var wl = a.link_resolved || a.link;
+    if (wl && wl !== "#") lines.push(wl);
   });
   lines.push("");
   lines.push(WA_DISCLAIMER);
@@ -2916,6 +2912,8 @@ function buildWAFocusBriefing(agency) {
   lines.push("*BERITA TERBARU:*");
   arts.slice(0, 7).forEach(function(a) {
     lines.push("📰 " + waCleanTitle(a.title) + " — " + waShortDate(a.published));
+    var wl = a.link_resolved || a.link;
+    if (wl && wl !== "#") lines.push(wl);
   });
   if (!arts.length) lines.push("(tidak ada berita 30 hari terakhir)");
   lines.push("");
@@ -2928,19 +2926,17 @@ function buildWAFocusBriefing(agency) {
    ============================================================ */
 const FOCUS_STATS = {
   "Kementerian BUMN":        ["@ihsg"],
-  "Kementerian Perdagangan": ["@kurs_usd_idr", "neraca_perdagangan"],
-  "Kementerian Koperasi":    ["jumlah_koperasi", "jumlah_umkm"],
+  "Kementerian Perdagangan": ["@kurs_usd_idr"],
+  "Kementerian Koperasi":    [],
   "Danantara":               [],
   "BPKN":                    [],
   "KPPU":                    [],
   "BP Batam":                [],
   "BPK Sabang":              [],
-  "Dekopin":                 ["jumlah_koperasi"],
+  "Dekopin":                 [],
   "Badan Pengaturan BUMN":   []
 };
 const STAT_LABELS = {
-  realisasi_investasi: "Realisasi Investasi", neraca_perdagangan: "Neraca Perdagangan",
-  jumlah_koperasi: "Jumlah Koperasi Aktif", jumlah_umkm: "Jumlah UMKM",
   "@kurs_usd_idr": "Kurs USD/IDR", "@ihsg": "IHSG"
 };
 
@@ -3144,10 +3140,6 @@ function astGreet() {
 const AST_INDICATORS = [
   { keys:["kurs","usd/idr","dolar","rupiah"], label:"Kurs USD/IDR", get:function(d){ return d.kurs_usd_idr; }, money:true },
   { keys:["ihsg","indeks saham","saham gabungan"], label:"IHSG", get:function(d){ return d.ihsg; } },
-  { keys:["realisasi investasi","investasi"], label:"Realisasi Investasi", get:function(d){ return d.macro_stats && d.macro_stats.realisasi_investasi; } },
-  { keys:["neraca","surplus","defisit"], label:"Neraca Perdagangan", get:function(d){ return d.macro_stats && d.macro_stats.neraca_perdagangan; } },
-  { keys:["jumlah koperasi"], label:"Jumlah Koperasi Aktif", get:function(d){ return d.macro_stats && d.macro_stats.jumlah_koperasi; } },
-  { keys:["umkm","usaha mikro"], label:"Jumlah UMKM", get:function(d){ return d.macro_stats && d.macro_stats.jumlah_umkm; } },
 ];
 const AST_AGENCIES = [
   { keys:["badan pengaturan"], name:"Badan Pengaturan BUMN" },
@@ -3344,14 +3336,14 @@ function buildPDF() {
   doc.setTextColor(RED[0], RED[1], RED[2]); doc.setFont("helvetica","bold"); doc.setFontSize(11);
   doc.text("INDIKATOR KUNCI", M, y + 3); y += 10;
 
-  const ms = liveData.macro_stats || {};
+  const bs = liveData.bumn_stocks || {};
   const picks = [
     ["Kurs USD/IDR", liveData.kurs_usd_idr, true, false],
     ["IHSG", liveData.ihsg, false, false],
-    ["Realisasi Investasi", ms.realisasi_investasi, false, false],
-    ["Neraca Perdagangan", ms.neraca_perdagangan, false, false],
-    ["Jumlah Koperasi Aktif", ms.jumlah_koperasi, false, false],
-    ["Jumlah UMKM", ms.jumlah_umkm, false, false],
+    ["Saham BBRI", bs.BBRI, true, false],
+    ["Saham BMRI", bs.BMRI, true, false],
+    ["Saham TLKM", bs.TLKM, true, false],
+    ["Saham BBNI", bs.BBNI, true, false],
   ];
   doc.setFontSize(9.5);
   picks.forEach(function(p) {
