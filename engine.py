@@ -406,114 +406,72 @@ def fetch_market_data(now):
     return stats, errors, live_ok
 
 # ------------------------------------------------------------
-# 5b. STATISTIK RESMI — scaffold, MENUNGGU KEPUTUSAN PIMPINAN
+# 5b. SAHAM 10 BUMN UTAMA (yfinance) — keputusan owner 6 Jul 2026
 # ------------------------------------------------------------
-# Pola sama dengan Komisi IV: flag False -> nilai FALLBACK ber-label.
-# JANGAN diaktifkan tanpa instruksi owner.
+# Menggantikan indikator makro lama (realisasi investasi BKPM = bukan
+# mitra Komisi VI; neraca/koperasi/UMKM dicabut owner). Scaffold API
+# resmi lama dihapus — bila dibutuhkan lagi, pulihkan dari git
+# (commit 4fed607).
 #
-# >>> BPS WebAPI (neraca perdagangan) — BUTUH API KEY GRATIS:
-#     1. Daftar di https://webapi.bps.go.id, buat aplikasi -> dapat API key.
-#     2. Simpan key sebagai GitHub Secret bernama BPS_API_KEY
-#        (Settings > Secrets and variables > Actions).
-#     3. Cari variable ID "Neraca Perdagangan" di katalog WebAPI,
-#        isi NERACA_VAR_ID di bawah, lalu ENABLE_BPS_API = True.
-#   Tanpa key/var_id, neraca aman jatuh ke FALLBACK.
-ENABLE_BPS_API = False
-BPS_KEY = os.environ.get("BPS_API_KEY", "").strip()
-NERACA_VAR_ID = ""  # << isi var id neraca perdagangan dari katalog BPS WebAPI
+# Daftar emiten mengacu papan IDXBUMN20 di
+# https://bumn.go.id/portofolio/informasi-saham (owner-tunable).
+# source_url tiap saham -> halaman Google Finance emiten agar pembaca
+# bisa melihat data pasar live; nilai di dashboard tetap dari yfinance
+# ber-label UNAUDITED (bukan rilis resmi BEI).
+# Gagal fetch -> value None ("Data tidak tersedia") + FALLBACK; TIDAK
+# PERNAH menampilkan harga statis seolah live.
+BUMN_TICKERS = {
+    # kode IDX: (ticker Yahoo, nama tampil)
+    "BBRI": ("BBRI.JK", "Bank Rakyat Indonesia"),
+    "BMRI": ("BMRI.JK", "Bank Mandiri"),
+    "BBNI": ("BBNI.JK", "Bank Negara Indonesia"),
+    "BBTN": ("BBTN.JK", "Bank Tabungan Negara"),
+    "TLKM": ("TLKM.JK", "Telkom Indonesia"),
+    "SMGR": ("SMGR.JK", "Semen Indonesia"),
+    "ANTM": ("ANTM.JK", "Aneka Tambang"),
+    "PGAS": ("PGAS.JK", "Perusahaan Gas Negara"),
+    "PTBA": ("PTBA.JK", "Bukit Asam"),
+    "JSMR": ("JSMR.JK", "Jasa Marga"),
+}
 
-def _parse_bps_latest(data):
-    """Ambil nilai periode terbaru dari response 'dynamic data' BPS.
-    Struktur BPS rumit (datacontent ber-key gabungan id); VERIFIKASI dengan
-    response asli. Heuristik: ambil value pada key dengan tahun/periode terbesar."""
-    dc = data.get("datacontent") if isinstance(data, dict) else None
-    if not isinstance(dc, dict) or not dc:
-        return None
-    try:
-        latest_key = sorted(dc.keys())[-1]   # heuristik kasar: key terbesar = periode terbaru
-        return float(dc[latest_key])
-    except Exception:
-        return None
-
-def fetch_bps_neraca(now):
+def fetch_bumn_stocks(now):
+    """Harga terakhir 10 saham BUMN. Sukses -> UNAUDITED + link Google
+    Finance; gagal -> value None + FALLBACK (aman-gagal, tanpa angka statis)."""
+    stocks = {}
     errors = []
-    neraca = _stat("Surplus US$ 31,04 M (2024)", "BPS, nilai fallback statis",
-                   "https://www.bps.go.id/", "FALLBACK", now)
-    if not ENABLE_BPS_API or not BPS_KEY or not NERACA_VAR_ID:
-        return neraca, errors   # mode statis disengaja, bukan kegagalan
-    url = (f"https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/"
-           f"domain/0000/var/{NERACA_VAR_ID}/key/{BPS_KEY}/")
-    print("  [STATS] BPS WebAPI (neraca perdagangan)...")
+    live_ok = 0
+    def _gf(kode):
+        return f"https://www.google.com/finance/quote/{kode}:IDX"
+    if not ENABLE_MARKET_DATA:
+        for kode, (tick, name) in BUMN_TICKERS.items():
+            stocks[kode] = dict(_stat(None, "Lapisan pasar dimatikan; nilai tidak ditampilkan",
+                                      _gf(kode), "FALLBACK", now), name=name)
+        return stocks, errors, live_ok
     try:
-        data = fetch_json(url)
-        val = _parse_bps_latest(data)
-        if val is not None:
-            neraca = _stat(val, "BPS WebAPI", "https://www.bps.go.id/", "AUDITED", now)
-            print(f"  [STATS] Neraca perdagangan (BPS API): {val}")
-        else:
-            errors.append("BPS: datacontent kosong / format tak terduga")
+        import yfinance as yf
     except Exception as e:
-        errors.append(f"BPS neraca gagal: {e}")
-        print(f"  [WARN] BPS neraca gagal: {e}")
-    return neraca, errors
-
-# >>> BKPM / Kementerian Investasi (realisasi investasi):
-#     Belum ada API publik bersih. Bila pimpinan setuju: konfirmasi
-#     endpoint via DevTools (F12 > Network > Fetch/XHR) di situs BKPM,
-#     isi BKPM_API_URL + sesuaikan parser, baru flip flag ke True.
-ENABLE_BKPM_API = False
-BKPM_API_URL = ""  # << isi setelah endpoint dikonfirmasi owner
-
-def fetch_bkpm_investasi(now):
-    errors = []
-    inv = _stat("Rp 1.714 Triliun (2024)", "Kementerian Investasi/BKPM, nilai fallback statis",
-                "https://www.bkpm.go.id/", "FALLBACK", now)
-    if not ENABLE_BKPM_API or not BKPM_API_URL:
-        return inv, errors   # mode statis disengaja, bukan kegagalan
-    print("  [STATS] BKPM (realisasi investasi)...")
-    try:
-        data = fetch_json(BKPM_API_URL)
-        # << SESUAIKAN parser dengan bentuk response asli, lalu set:
-        # inv = _stat(val, "BKPM (API)", "https://www.bkpm.go.id/", "UNAUDITED", now)
-        errors.append("BKPM: parser belum disesuaikan dengan response asli")
-    except Exception as e:
-        errors.append(f"BKPM gagal: {e}")
-        print(f"  [WARN] BKPM gagal: {e}")
-    return inv, errors
-
-# >>> Kemenkop (jumlah koperasi aktif / UMKM): belum ada API publik
-#     bersih (ODS Kemenkop butuh konfirmasi endpoint). Pola sama.
-ENABLE_KEMENKOP_API = False
-KEMENKOP_API_URL = ""  # << isi setelah endpoint dikonfirmasi owner
-
-def fetch_kemenkop_stats(now):
-    errors = []
-    koperasi = _stat("±130 Ribu Unit Aktif", "Kemenkop, nilai fallback statis",
-                     "https://kemenkop.go.id/", "FALLBACK", now)
-    umkm = _stat("±65 Juta Unit", "Kemenkop/BPS, nilai fallback statis",
-                 "https://kemenkop.go.id/", "FALLBACK", now)
-    if not ENABLE_KEMENKOP_API or not KEMENKOP_API_URL:
-        return koperasi, umkm, errors   # mode statis disengaja, bukan kegagalan
-    print("  [STATS] Kemenkop (koperasi/UMKM)...")
-    try:
-        data = fetch_json(KEMENKOP_API_URL)
-        # << SESUAIKAN parser dengan bentuk response asli, lalu set koperasi/umkm
-        errors.append("Kemenkop: parser belum disesuaikan dengan response asli")
-    except Exception as e:
-        errors.append(f"Kemenkop gagal: {e}")
-        print(f"  [WARN] Kemenkop gagal: {e}")
-    return koperasi, umkm, errors
-
-# ------------------------------------------------------------
-# 5c. KOMPILASI STAT RESMI (semua FALLBACK sampai flag diaktifkan)
-# ------------------------------------------------------------
-def build_macro_stats(now, invest_stat, neraca_stat, koperasi_stat, umkm_stat):
-    return {
-        "realisasi_investasi": invest_stat,
-        "neraca_perdagangan":  neraca_stat,
-        "jumlah_koperasi":     koperasi_stat,
-        "jumlah_umkm":         umkm_stat,
-    }
+        errors.append(f"yfinance import gagal (saham BUMN): {e}")
+        for kode, (tick, name) in BUMN_TICKERS.items():
+            stocks[kode] = dict(_stat(None, "yfinance tidak tersedia; nilai tidak ditampilkan",
+                                      _gf(kode), "FALLBACK", now), name=name)
+        return stocks, errors, live_ok
+    print(f"  [PASAR] Saham BUMN ({len(BUMN_TICKERS)} emiten)...")
+    for kode, (tick, name) in BUMN_TICKERS.items():
+        try:
+            hist = yf.Ticker(tick).history(period="5d")
+            val = int(round(float(hist["Close"].dropna().iloc[-1])))
+            stocks[kode] = dict(_stat(val, "Yahoo Finance (data pasar, bukan rilis resmi)",
+                                      _gf(kode), "UNAUDITED", now), name=name)
+            live_ok += 1
+        except Exception as e:
+            msg = f"yfinance saham {kode} ({tick}) gagal: {e}"
+            errors.append(msg)
+            safe_print(f"  [WARN] {msg} -> nilai tidak ditampilkan (FALLBACK)")
+            stocks[kode] = dict(_stat(None, "yfinance gagal; nilai tidak ditampilkan (bukan angka statis)",
+                                      _gf(kode), "FALLBACK", now), name=name)
+        time.sleep(0.2)
+    print(f"  [PASAR] Saham BUMN: {live_ok}/{len(BUMN_TICKERS)} live (UNAUDITED)")
+    return stocks, errors, live_ok
 
 # ============================================================
 # 5d. SNAPSHOT ARSIP BULANAN — archive/monthly/YYYY-MM.json
@@ -679,24 +637,16 @@ def fetch_data():
 
     print("\n>>> FASE 3: Statistik (data pasar live + fallback)...")
     market_stats, e3a, market_ok = fetch_market_data(now)
-    invest_stat, e3b = fetch_bkpm_investasi(now)
-    neraca_stat, e3c = fetch_bps_neraca(now)
-    koperasi_stat, umkm_stat, e3d = fetch_kemenkop_stats(now)
-    all_errors += e3a + e3b + e3c + e3d
-    macro_stats = build_macro_stats(now, invest_stat, neraca_stat, koperasi_stat, umkm_stat)
+    bumn_stocks, e3b, bumn_ok = fetch_bumn_stocks(now)
+    all_errors += e3a + e3b
 
     # status fase 3 = berapa target live aktif yang benar-benar live.
-    # Data pasar (yfinance) aktif default; API resmi menunggu approval pimpinan.
-    # Kalau semua dimatikan (mode statis disengaja), itu bukan kegagalan -> "ok".
+    # Semua target = data pasar yfinance (kurs, IHSG, 10 saham BUMN).
+    # Kalau lapisan pasar dimatikan (mode statis disengaja) -> "ok".
     live_targets = []
     if ENABLE_MARKET_DATA:
         live_targets += list(market_stats.values())
-    if ENABLE_BPS_API and BPS_KEY and NERACA_VAR_ID:
-        live_targets.append(neraca_stat)
-    if ENABLE_BKPM_API and BKPM_API_URL:
-        live_targets.append(invest_stat)
-    if ENABLE_KEMENKOP_API and KEMENKOP_API_URL:
-        live_targets += [koperasi_stat, umkm_stat]
+        live_targets += list(bumn_stocks.values())
     if not live_targets:
         phase3 = "ok"
         print("[FASE 3] Mode statis (FALLBACK), tidak ada target live aktif.")
@@ -712,7 +662,9 @@ def fetch_data():
         # Komisi IV); ticker tambahan (mis. brent) tinggal diwire bila owner setuju
         "kurs_usd_idr": market_stats.get("kurs_usd_idr"),
         "ihsg":         market_stats.get("ihsg"),
-        "macro_stats": macro_stats,
+        # harga saham 10 BUMN utama (menggantikan macro_stats lama per
+        # keputusan owner 6 Jul 2026; realisasi investasi bukan ranah Komisi VI)
+        "bumn_stocks": bumn_stocks,
         "scrape_status": {
             "phase_1_agency":  phase1,
             "phase_2_members": phase2,

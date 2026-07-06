@@ -36,13 +36,16 @@ data domain.
 3. FASE 2b — decode link Google News → `link_resolved` (aman-gagal, budget
    30/run, env `GNEWS_DECODE_BUDGET` untuk override; artikel ter-resolve tidak
    di-decode ulang).
-4. FASE 3 — statistik: (a) DATA PASAR yfinance AKTIF — Kurs USD/IDR (IDR=X) +
-   IHSG (^JKSE): sukses → `UNAUDITED` + sumber "Yahoo Finance (data pasar,
-   bukan rilis resmi)"; gagal → `FALLBACK` statis ber-label (TIDAK PERNAH
-   tampil seolah live). Saklar: `ENABLE_MARKET_DATA`. (b) Scaffold API resmi
-   **dimatikan** (`ENABLE_BPS_API = ENABLE_BKPM_API = ENABLE_KEMENKOP_API =
-   False`); neraca perdagangan/realisasi investasi/koperasi-UMKM = FALLBACK
-   statis ber-label. JANGAN diaktifkan tanpa instruksi owner.
+4. FASE 3 — statistik (SEMUA data pasar yfinance, saklar `ENABLE_MARKET_DATA`):
+   (a) Kurs USD/IDR (IDR=X) + IHSG (^JKSE): sukses → `UNAUDITED` + sumber
+   "Yahoo Finance (data pasar, bukan rilis resmi)"; gagal → `FALLBACK` statis
+   ber-label. (b) SAHAM 10 BUMN (`BUMN_TICKERS`, acuan papan IDXBUMN20 di
+   bumn.go.id/portofolio/informasi-saham; keputusan owner 6 Jul 2026
+   menggantikan indikator makro lama — realisasi investasi bukan ranah
+   Komisi VI): sukses → `UNAUDITED` + `source_url` Google Finance emiten;
+   gagal → value null ("Data tidak tersedia") + `FALLBACK`, TANPA harga
+   statis. Scaffold API resmi BPS/BKPM/Kemenkop DIHAPUS (pulihkan dari
+   commit 4fed607 bila dibutuhkan lagi).
 5. Kompilasi + commit-on-diff → tulis `live_data.json` hanya bila fingerprint
    konten (tanpa `fetched_at`/`last_updated`) berubah; jika sama → log
    `[SKIP]` dan file tidak ditulis (cegah commit kosong tiap jam).
@@ -61,7 +64,7 @@ data domain.
   "member_news":  { "<nama kanonik>": [ {artikel...} ] },
   "kurs_usd_idr": { "value", "source", "source_url", "confidence", "fetched_at" },
   "ihsg":         { ...sama... },
-  "macro_stats":  { "realisasi_investasi" | "neraca_perdagangan" | "jumlah_koperasi" | "jumlah_umkm": {value, source, source_url, confidence, fetched_at} },
+  "bumn_stocks":  { "<KODE IDX>": {name, value, source, source_url(Google Finance), confidence, fetched_at} },
   "scrape_status": { "phase_1_agency" | "phase_2_members" | "phase_3_macro": "ok|partial|failed", "errors": [...] },
   "last_updated": "ISO-8601"
 }
@@ -133,11 +136,10 @@ bukan pro/kontra — hanya hitungan volume + bukti headline.
   anggota termasuk Mulyadi; Demokrat: Tutik Kusuma Wardhani pindah Komisi IX
   Feb 2025, pengganti belum terkonfirmasi; Golkar: sumber bertentangan).
   Owner konfirmasi final.
-- **Indikator pasar**: default kurs USD/IDR + IHSG; CPO/Brent tersedia sebagai
-  opsi (`MARKET_TICKERS` di engine.py) menunggu keputusan owner.
-- **API resmi BPS (neraca) / BKPM (investasi) / Kemenkop (koperasi-UMKM)**:
-  scaffold siap, flags False. Menunggu approval pimpinan + konfirmasi endpoint
-  (instruksi setup di komentar engine.py). Sampai itu, FALLBACK ber-label.
+- **Indikator pasar**: kurs USD/IDR + IHSG + saham 10 BUMN (`BUMN_TICKERS`,
+  owner boleh ganti daftar emiten); CPO/Brent tersedia sebagai opsi
+  (`MARKET_TICKERS`). Indikator makro lama (investasi/neraca/koperasi/UMKM)
+  DICABUT owner 6 Jul 2026 — scaffold API resminya dihapus dari kode.
 - **Alias anggota**: 45/46 entri kosong menunggu owner (lihat §5).
 - **Keyword topik** (`TOPIC_TAGS`): seed domain BUMN/dagang/investasi/koperasi;
   owner boleh tambah/ubah.
@@ -165,5 +167,5 @@ engine.py → picu `workflow_dispatch` dan verifikasi skema dari commit bot
 
 Vanilla JS (tanpa React/Vue/framework); tanpa backend/DB/login/LLM/secret di
 client; `live_data.json` tetap single source of truth; requirements tetap
-`feedparser`+`requests`+`yfinance`; jangan aktifkan flags API resmi; jangan
+`feedparser`+`requests`+`yfinance`; data pasar maksimal `UNAUDITED`; jangan
 hidupkan pro/kontra maupun `ai_briefing`.

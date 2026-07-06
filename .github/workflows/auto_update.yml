@@ -26,8 +26,6 @@ jobs:
           pip install -r requirements.txt      # satu sumber dependency
 
       - name: Run automation engine
-        env:
-          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}   # opsional; kalau kosong, neraca perdagangan pakai fallback
         run: python engine.py
 
       - name: Commit and push changes
