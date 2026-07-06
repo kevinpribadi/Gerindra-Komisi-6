@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T10:06:45.036340",
+  "generated_at": "2026-07-06T03:10:25.619037",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 17,
@@ -15,14 +15,14 @@
     "Gerindra": 21,
     "PDI-P": 37,
     "Golkar": 31,
-    "NasDem": 10,
+    "NasDem": 13,
     "PKB": 13,
     "PKS": 20,
     "PAN": 10,
     "Demokrat": 10
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 11,
+    "Kementerian BUMN": 12,
     "Kementerian Perdagangan": 18,
     "Kementerian Koperasi": 20,
     "Danantara": 14,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 14
   },
   "topic_counts_30d": {
-    "bumn": 43,
+    "bumn": 44,
     "danantara": 15,
     "impor": 1,
     "ekspor": 6,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 4,
-    "Rachmat Gobel": 4,
+    "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 1,
@@ -84,7 +84,7 @@
     "Herman Khaeron": 6
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 19,
     "Hukum/Audit": 13,
     "Perdagangan": 24,
     "Koperasi/UMKM": 55
@@ -95,28 +95,35 @@
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 03:03:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUhTUTNyQXBpcHQ4aTR6YjV0NkxsN19MT3lkRjJ2akgyY3JPYzhPTzY4WGpFLWlkSEhJQUx2ZmlfQkt0QzRpSFZHenU4S3FMd3FOT1BSMFAyWTM0cm1saTdOQWFsWmdxbXVISTJJOVpMc0NhUHlLRmJ4ZWk1Q0lKQlJKNDNWNF9aMEdNVE9jS1FTQ1JRRHFsMVJYT0kwOXJvYmdWRkZwZEh4QXVPYms4dzhfREdydFhGSVVpOFkxVQ?oc=5"
+      "link": "https://beritanasionalupdate.com/news/details/1404/kementerian-koperasi-akselerasi-transformasi-pokdarwis-menjadi-koperasi"
+    },
+    {
+      "title": "Niat Baik dan Akal Sehat Modal Dasar Jadi Komisaris BUMN - detikcom",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 03:00:45 GMT",
+      "link": "https://www.detik.com/sumut/berita/d-8561432/niat-baik-dan-akal-sehat-modal-dasar-jadi-komisaris-bumn"
     },
     {
       "title": "Bupati Welly Lepas Haryadi Mengabdi di Kementerian Koperasi RI - HarianHaluan.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 02:50:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXI2aWdmTmhBNG5xVk1Ub2VwLXYzN05MZnIybTVIUS1KbDBxUEVhaUV3OURWUzJaQl9hc1pxSmZ0RTBJMU9Yanl3NDhDMTNnMGVmbEZwd2FpLVVidG9zaHZ2a2dUd2M1TVBJUFExVy1pbTREQTFleURYVGh0NlI4VkU3UEFGR2wyaTFxLUFGZm9oanE0N01ZckpB?oc=5"
+      "link": "https://harianhaluan.id/bupati-welly-lepas-haryadi-mengabdi-di-kementerian-koperasi-ri-173001/"
     },
     {
       "title": "Hari Koperasi 2026, Dedie Rachim Tegaskan Peran Koperasi Perkuat UMKM dan Ekonomi Rakyat - Suara Pemerintah",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 02:31:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEtmc192YlpsdzRtTV9saWgxWk5KZmV6VmVFUDlGYmx6dnVQSkN6ZzhIYnNUaDJuZDZMWUFpemJ6bFdYMHVkQzFzUzJCdFZCNTlXeVVmSGZyNkR6VVlTVHEyVnJteU5ES2RqUEI1Tm9xRnNsdktIWmNtX1JmZGtvRHc5T1Nqd2tlQXMxdnJMRG9Oc0pYTGZTZUFWLV9EUG1mRENjak9PTERLandNS1gyUjFKRUdyZmhKT2pzbWl1VVg?oc=5"
+      "link": "https://suarapemerintah.id/2026/07/hari-koperasi-2026-dedie-rachim-tegaskan-peran-koperasi-perkuat-umkm-dan-ekonomi-rakyat/"
     },
     {
       "title": "Kejagung hingga BPK Kawal Restrukturisasi BUMN - MetroTVNews.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 02:24:32 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFB6SWk5RzVHcDcxeHVVeEVFNGdDUUZzTUw0akNab0JpTVRmWUJFanllX0k5aWdFX2VGTHM4OTMwX19wakowbUtpR1kyMjFQRm9veXdrSDVpcnFhRXV3a0RwZVI2R3ZOTHE2TVJ4S3gwd2ZUUnNvY3pOcVBXcXpuV2ZWcFUzQzNHdlFoNWRvNTJPQQ?oc=5"
+      "link": "https://www.metrotvnews.com/read/b3JC5L8Q-kejagung-hingga-bpk-kawal-restrukturisasi-bumn"
     },
     {
       "title": "Rizal Bawazier Kawal Percepatan Penanganan Sungai Bremi-Meduri - Pemerintah Kota Pekalongan",
@@ -187,13 +194,6 @@
       "kind": "lembaga",
       "published": "Sun, 05 Jul 2026 21:05:33 GMT",
       "link": "https://www.validnews.id/ekonomi/2026/07/06/jumlah-desa-bisa-ekspor-terus-tumbuh-kemendag-catat-kini-2616-titik-083000831"
-    },
-    {
-      "title": "Belitung Jadi Pilot Project Transformasi Pokdarwis Lewat Koperasi - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 21:00:36 GMT",
-      "link": "https://www.detik.com/sumbagsel/berita/d-8561209/belitung-jadi-pilot-project-transformasi-pokdarwis-lewat-koperasi"
     }
   ]
 }
