@@ -46,6 +46,12 @@ data domain.
 5. Kompilasi + commit-on-diff → tulis `live_data.json` hanya bila fingerprint
    konten (tanpa `fetched_at`/`last_updated`) berubah; jika sama → log
    `[SKIP]` dan file tidak ditulis (cegah commit kosong tiap jam).
+6. SNAPSHOT BULANAN — `archive/monthly/YYYY-MM.json`: agregat hitungan
+   (party/agency/topic/member/early-warning counts + 15 top_headlines),
+   BUKAN duplikasi arsip. Ditulis HANYA saat `live_data.json` ikut ditulis
+   → tidak pernah memicu commit sendiri (commit-on-diff utuh). Aman-gagal.
+   `SNAPSHOT_TOPIC_TAGS`/`SNAPSHOT_EW_KEYWORDS` di engine.py WAJIB dijaga
+   sinkron manual dengan `TOPIC_TAGS`/`EW_KEYWORDS` di index.html.
 
 ## 3. SKEMA `live_data.json` (aktual)
 
@@ -109,6 +115,17 @@ Identik dengan Komisi IV (diporting verbatim):
   owner-tunable) + deep-link hash + salin tautan; Timeline isu; Fokus Mitra +
   cetak; Panel Analisis (tren SVG, delta 7v7, matriks tag×mitra, ekspor CSV);
   Sumber statistik dapat diklik; Responsif mobile 375px.
+
+Tambahan Komisi VI — **Intelijen Bulanan Fraksi** (`#intel-block`, lapisan
+internal "bahan pimpinan/bahan rapat", SEMUA deterministik dari arsip berita,
+TANPA statistik FALLBACK, data kurang → "data tidak cukup"):
+Scorecard fraksi (SoV/peringkat/volume/delta Naik-Turun-Stabil); Pembanding
+antarfraksi (baris Gerindra disorot); Peta paparan isu tag×fraksi (toggle
+7/30/bulan berjalan); Sinyal Perhatian 5 grup keyword judul (`EW_KEYWORDS`
+owner-tunable; kata pendek ambigu demo/kur/bpk/phk/kpk match per-kata utuh);
+Buat Brief Rapat (Salin/WA/TXT/Cetak, bank pertanyaan RDP template);
+Unduh Laporan Bulanan TXT ber-disclaimer. Bukan sentimen, bukan LLM,
+bukan pro/kontra — hanya hitungan volume + bukti headline.
 
 ## 7. STATUS & KEPUTUSAN TERTUNDA (butuh owner)
 

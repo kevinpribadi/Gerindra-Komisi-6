@@ -1,0 +1,198 @@
+{
+  "period": "2026-07",
+  "generated_at": "2026-07-06T08:56:26.451436",
+  "party_counts_7d": {
+    "Gerindra": 11,
+    "PDI-P": 17,
+    "Golkar": 17,
+    "NasDem": 4,
+    "PKB": 8,
+    "PKS": 16,
+    "PAN": 3,
+    "Demokrat": 4
+  },
+  "party_counts_30d": {
+    "Gerindra": 22,
+    "PDI-P": 37,
+    "Golkar": 30,
+    "NasDem": 10,
+    "PKB": 12,
+    "PKS": 20,
+    "PAN": 10,
+    "Demokrat": 10
+  },
+  "agency_counts_30d": {
+    "Kementerian BUMN": 8,
+    "Kementerian Perdagangan": 17,
+    "Kementerian Koperasi": 20,
+    "Danantara": 14,
+    "BPKN": 11,
+    "KPPU": 12,
+    "BP Batam": 15,
+    "BPK Sabang": 5,
+    "Dekopin": 13,
+    "Badan Pengaturan BUMN": 11
+  },
+  "topic_counts_30d": {
+    "bumn": 38,
+    "danantara": 15,
+    "ekspor": 6,
+    "umkm": 7,
+    "perdagangan": 5,
+    "koperasi": 50,
+    "dividen": 1,
+    "kartel-monopoli": 10,
+    "investasi": 5,
+    "merger-akuisisi": 2
+  },
+  "member_counts_30d": {
+    "Andre Rosiade": 10,
+    "Khilmi": 1,
+    "Muhammad Husein Fadlulloh": 5,
+    "Kawendra Lukistian": 6,
+    "Adisatrya Suryo Sulisto": 5,
+    "Mufti Anam": 6,
+    "Darmadi Durianto": 4,
+    "Rieke Diah Pitaloka": 8,
+    "Sadarestuwati": 4,
+    "Ida Nurlaela": 5,
+    "Budi Sulistyono": 3,
+    "Totok Hedi Santosa": 2,
+    "Nurdin Halid": 6,
+    "Gde Sumarjaya Linggih": 5,
+    "Doni Akbar": 6,
+    "Firnando Hadityo Ganinduto": 4,
+    "Rizki Faisal": 5,
+    "Muhammad Sarmuji": 4,
+    "Rachmat Gobel": 4,
+    "Asep Wahyuwijaya": 3,
+    "I Nengah Senantara": 2,
+    "Randi Zulmariadi": 1,
+    "Anggia Erma Rini": 2,
+    "Rivqy Abdul Halim": 5,
+    "Nasim Khan": 5,
+    "Amin Ak.": 5,
+    "Rizal Bawazier": 7,
+    "Ghufran": 2,
+    "Ismail": 6,
+    "Eko Patrio": 3,
+    "Nasril Bahar": 4,
+    "Abdul Hakim Bafagih": 1,
+    "Iskandar": 2,
+    "Sartono": 4,
+    "Herman Khaeron": 6
+  },
+  "early_warning_counts": {
+    "Hukum/Audit": 11,
+    "Kinerja BUMN": 15,
+    "Perdagangan": 23,
+    "Koperasi/UMKM": 53
+  },
+  "top_headlines": [
+    {
+      "title": "Rizal Bawazier Kawal Percepatan Penanganan Sungai Bremi-Meduri - Pemerintah Kota Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 01:02:12 GMT",
+      "link": "https://pekalongankota.go.id/berita/rizal-bawazier-kawal-percepatan-penanganan-sungai-bremimeduri-.html"
+    },
+    {
+      "title": "| Anggota DPR Dorong Perpres Tata Kelola Terpadu Koperasi Merah Putih - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 00:43:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661445/anggota-dpr-dorong-perpres-tata-kelola-terpadu-koperasi-merah-putih/"
+    },
+    {
+      "title": "Dua Menteri ke Belitung Launching Integrasi Pokdarwis ke Koperasi - TrawangNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 00:38:43 GMT",
+      "link": "https://www.trawangnews.com/dua-menteri-ke-belitung-launching-integrasi-pokdarwis-ke-koperasi/"
+    },
+    {
+      "title": "Kemendag rangkum transaksi 135 juta dolar AS dari \"business matching \" - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 00:28:04 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/412339/kemendag-rangkum-transaksi-135-juta-dolar-as-dari-business-matching-"
+    },
+    {
+      "title": "Kemendag Tarik Minyakita Beraroma Solar di Jawa Tengah - publika.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 00:08:21 GMT",
+      "link": "https://www.publika.id/kemendag-tarik-minyakita-bau-solar"
+    },
+    {
+      "title": "Produsen Minyakita Bau Solar Terancam Sanksi Berat - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 00:00:46 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8561199/produsen-minyakita-bau-solar-terancam-sanksi-berat"
+    },
+    {
+      "title": "Pokdarwis Desa Keciput dan Desa Pulau Seliu Diintegrasikan Dengan Koperasi Desa Merah Putih - Kominfo Belitung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 23:36:30 GMT",
+      "link": "https://kominfo.belitung.go.id/2026/07/06/pokdarwis-desa-keciput-dan-desa-pulau-seliu-diintegrasikan-dengan-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "Sinergi Kemenkop-Kemenpar transformasi Pokdarwis melalui koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 23:30:51 GMT",
+      "link": "https://elshinta.com/kategori/1/pembangunan/sinergi-kemenkop-kemenpar-transformasi-pokdarwis-melalui-koperasi-169406"
+    },
+    {
+      "title": "Koperasi Sawit Bisa Mengelola Lahan Milik Agrinas Palma - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 22:20:27 GMT",
+      "link": "https://insight.kontan.co.id/news/koperasi-sawit-bisa-mengelola-lahan-milik-agrinas-palma"
+    },
+    {
+      "title": "Siaran Pers: Menpar: Integrasi Pokdarwis dan Koperasi Perkuat Ekonomi Desa Wisata Belitung - Kementerian Pariwisata",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 21:09:44 GMT",
+      "link": "https://kemenpar.go.id/berita/siaran-pers-menpar-integrasi-pokdarwis-dan-koperasi-perkuat-ekonomi-desa-wisata-belitung"
+    },
+    {
+      "title": "Jumlah Desa Bisa Ekspor Terus Tumbuh, Kemendag Catat Kini 2.616 Titik - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 21:05:33 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/07/06/jumlah-desa-bisa-ekspor-terus-tumbuh-kemendag-catat-kini-2616-titik-083000831"
+    },
+    {
+      "title": "Belitung Jadi Pilot Project Transformasi Pokdarwis Lewat Koperasi - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 21:00:36 GMT",
+      "link": "https://www.detik.com/sumbagsel/berita/d-8561209/belitung-jadi-pilot-project-transformasi-pokdarwis-lewat-koperasi"
+    },
+    {
+      "title": "KPPU Gandeng MUI Kawal Kemitraan UMKM dan Persaingan Usaha di... - SINDOmakassar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 17:01:20 GMT",
+      "link": "https://sindomakassar.com/read/sulsel/26587/kppu-gandeng-mui-kawal-kemitraan-umkm-dan-persaingan-usaha-di-sektor-syariah-1783267677"
+    },
+    {
+      "title": "RIEKE DIAH PITALOKA Bawa Semangat Literasi ke Dunia Sinema - Epaper Media Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 05 Jul 2026 17:00:00 GMT",
+      "link": "https://epaper.mediaindonesia.com/detail/rieke-diah-pitaloka-bawa-semangat-literasi-ke-dunia-sinema"
+    },
+    {
+      "title": "Bidik DPR RI, Erwin Ismail Beberkan Alasan Tinggalkan Ambisi Kepala Daerah - Tatiye.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Sun, 05 Jul 2026 16:47:32 GMT",
+      "link": "https://tatiye.id/bidik-dpr-ri-erwin-ismail-beberkan-alasan-tinggalkan-ambisi-kepala-daerah/"
+    }
+  ]
+}
