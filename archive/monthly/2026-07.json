@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T17:41:18.768064",
+  "generated_at": "2026-07-06T19:52:53.554115",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 19,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "danantara": 25,
+    "bumn": 48,
+    "danantara": 27,
     "impor": 1,
     "ekspor": 12,
     "perdagangan": 11,
@@ -93,6 +93,20 @@
   },
   "top_headlines": [
     {
+      "title": "2.616 Desa Berpotensi Ekspor: Kemendag Andalkan AI untuk Optimalkan Rantai Pasok Pertanian - BERNAS.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 17:42:02 GMT",
+      "link": "https://bernas.id/nasional/news/2616-desa-berpotensi-ekspor-kemendag-andalkan-ai-untuk-optimalkan-rantai-pasok-p-2026-07-06"
+    },
+    {
+      "title": "Kemendag Terbitkan Permendag 20/2026 soal Minyak Goreng - Koma.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 16:42:26 GMT",
+      "link": "https://koma.id/2026/07/06/kemendag-terbitkan-permendag-20-2026-soal-minyak-goreng/"
+    },
+    {
       "title": "Komisi VI usulkan PTPN kembangkan bioetanol dari sorgum - ANTARA News",
       "entity": "Ida Nurlaela",
       "kind": "anggota",
@@ -135,6 +149,13 @@
       "link": "https://www.vibizmedia.com/index.php/2026/07/06/tei-ke-41-siap-digelar-kemendag-dorong-pelaku-usaha-tembus-pasar-dunia/"
     },
     {
+      "title": "Indonesia-Singapura Perkuat Kerja Sama Listrik, Prabowo Tunjuk BPI Danantara - BorneoFlash.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 13:49:00 GMT",
+      "link": "https://borneoflash.com/2026/07/06/indonesia-singapura-perkuat-kerja-sama-listrik-prabowo-tunjuk-bpi-danantara"
+    },
+    {
       "title": "2.106 Koperasi Desa Merah Putih di Lampung miliki NIB - ANTARA News Lampung",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -156,6 +177,13 @@
       "link": "https://sawitindonesia.com/i-nengah-senantara-minta-agrinas-percepat-hilirisasi-sawit/"
     },
     {
+      "title": "Konsolidasi Laporan Keuangan Dinilai Bisa Perkuat Fondasi Tata Kelola Danantara Indonesia - olenka.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 12:10:00 GMT",
+      "link": "https://olenka.id/konsolidasi-laporan-keuangan-dinilai-bisa-perkuat-fondasi-tata-kelola-danantara-indonesia"
+    },
+    {
       "title": "Bupati Welly Lepas Haryadi Mengabdi di Kementerian Koperasi RI - Hantaran.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 11:29:30 GMT",
       "link": "https://suarantb.com/2026/07/06/dekopinwil-ntb-siapkan-langkah-besar-perkuat-koperasi-produktif/"
-    },
-    {
-      "title": "Rudi Hartono Bangun Beri Masukan Ke PTPN III Terkait Kinerja Keuangan - waspada.id",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 11:29:00 GMT",
-      "link": "https://www.waspada.id/berita/rudi-hartono-bangun-beri-masukan-ke-ptpn-iii-terkait-kinerja-keuangan"
-    },
-    {
-      "title": "Kementerian Perdagangan Ajak Pelaku Usaha Jawa Tengah Perluas Pasar Ekspor melalui Trade Expo Indonesia 2026 - pontianakinfo.disway.id - Pontianak Info",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 11:05:00 GMT",
-      "link": "https://pontianakinfo.disway.id/news/read/26952/kementerian-perdagangan-ajak-pelaku-usaha-jawa-tengah-perluas-pasar-ekspor-melalui-trade-expo-indonesia-2026"
-    },
-    {
-      "title": "Danantara Kebut Perampingan BUMN, Libatkan Kejagung hingga BPK - NusantaraTV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 10:52:22 GMT",
-      "link": "https://www.nusantaratv.com/finance/danantara-kebut-perampingan-bumn-libatkan-kejagung-hingga-bpk"
-    },
-    {
-      "title": "Pemerintah akan Jadikan Danantara Modal Awal Pusat Finansial Internasional Indonesia - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 10:19:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/06/171911626/pemerintah-akan-jadikan-danantara-modal-awal-pusat-finansial-internasional"
     }
   ]
 }
