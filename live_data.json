@@ -1041,7 +1041,7 @@
             {
                 "title": "Andre Rosiade Yakin Target Produksi Minyak Rokan 400 Ribu Barel per Hari pada 2034 Tercapai - fraksi gerindra dpr-ri",
                 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejdFWVlhZl9uU0ZxRkl6Ym1QckpIbl9ycDVrN0JYQVRFRHpXbHA5eTZiSURCRHBRU0dEUFZtZUhOLVdMMUdHSVZwQi12bTJxYThTRnFCR0l0NXZXOWkwektrbFJnWXZvRVRuU2wtTWxreDY3TWpvc1l5XzJncER4Q0ZnV0dRbEZxYXVsdFNNRkRaa0JkRFEzLXZTdHBqV0JmdXJYRnlxQ0lyQlBvQjdHcXdyQUozMlVRaUpxZUwwZw?oc=5",
-                "link_resolved": null,
+                "link_resolved": "https://www.fraksigerindra.id/andre-rosiade-yakin-target-produksi-minyak-rokan-400-ribu-barel-per-hari-pada-2034-tercapai/",
                 "published": "Fri, 19 Jun 2026 08:12:49 GMT",
                 "fetched_at": "2026-07-06T10:26:42.367220"
             },
@@ -1323,7 +1323,7 @@
             {
                 "title": "Sadarestuwati Ingatkan Alih Fungsi Lahan Seluas 1,1 Juta Hektare di Area Hutan di Jawa - gesuri.id",
                 "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1JuWnJ6U0lJWkpsQ3RBNXZBcWxpeDB6YjdNNThNNzB6VU93bW81SGNzTEgtNzlRZWgySnY5VUoxTmNIOGNsZUs5Wng3aFFqdG1YY05aNG9UREsxWjVUWTRxN19oU1dKTGZqS1g0S18yRVFORTA2MmdaeGRIOW0wazVKUzlDMm5YMUFKbWoxZTJ1VFAxQ2g2SklQSGRoaU52UmN1RkdvMnFkU0hTcHJVSm9SOWNvNUZTQVdNMVdCZ2RvcFVwd292ZHVFVG4?oc=5",
-                "link_resolved": null,
+                "link_resolved": "https://www.gesuri.id/pemerintahan/sadarestuwati-ingatkan-alih-fungsi-lahan-seluas-1-1-juta-hektare-di-area-hutan-di-jawa-b2pV2ZbggW",
                 "published": "Tue, 30 Jun 2026 13:00:00 GMT",
                 "fetched_at": "2026-07-06T10:26:55.861938"
             },
@@ -2159,80 +2159,80 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17955,
+        "value": 17985,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-06T10:26:35.004806",
+        "fetched_at": "2026-07-06T03:30:45.602612",
         "prev_close": 17788,
-        "change_pct": 0.94
+        "change_pct": 1.11
     },
     "ihsg": {
-        "value": 5891.89,
+        "value": 5878.0,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-06T10:26:35.004806",
+        "fetched_at": "2026-07-06T03:30:45.602612",
         "prev_close": 5875.78,
-        "change_pct": 0.27
+        "change_pct": 0.04
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 2710,
+            "value": 2700,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 2710,
-            "change_pct": 0.0
+            "change_pct": -0.37
         },
         "BMRI": {
             "value": 3970,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Bank Mandiri",
             "prev_close": 4010,
             "change_pct": -1.0
         },
         "BBNI": {
-            "value": 3240,
+            "value": 3250,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Bank Negara Indonesia",
             "prev_close": 3250,
-            "change_pct": -0.31
+            "change_pct": 0.0
         },
         "BBTN": {
             "value": 1150,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Bank Tabungan Negara",
             "prev_close": 1160,
             "change_pct": -0.86
         },
         "TLKM": {
-            "value": 2480,
+            "value": 2470,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Telkom Indonesia",
             "prev_close": 2520,
-            "change_pct": -1.59
+            "change_pct": -1.98
         },
         "SMGR": {
             "value": 1390,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Semen Indonesia",
             "prev_close": 1425,
             "change_pct": -2.46
@@ -2242,27 +2242,27 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Aneka Tambang",
             "prev_close": 2930,
             "change_pct": 1.02
         },
         "PGAS": {
-            "value": 1405,
+            "value": 1395,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1390,
-            "change_pct": 1.08
+            "change_pct": 0.36
         },
         "PTBA": {
             "value": 2330,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Bukit Asam",
             "prev_close": 2310,
             "change_pct": 0.87
@@ -2272,7 +2272,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T10:26:35.004806",
+            "fetched_at": "2026-07-06T03:30:45.602612",
             "name": "Jasa Marga",
             "prev_close": 2740,
             "change_pct": 0.73
@@ -2284,5 +2284,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-07-06T10:26:35.004806"
+    "last_updated": "2026-07-06T03:30:45.602612"
 }
