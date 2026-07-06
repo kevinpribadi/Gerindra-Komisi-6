@@ -1,50 +1,50 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T05:08:59.827192",
+  "generated_at": "2026-07-06T10:15:06.176641",
   "party_counts_7d": {
     "Gerindra": 14,
-    "PDI-P": 18,
+    "PDI-P": 17,
     "Golkar": 20,
-    "NasDem": 4,
-    "PKB": 9,
+    "NasDem": 5,
+    "PKB": 11,
     "PKS": 16,
-    "PAN": 3,
+    "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 27,
-    "PDI-P": 38,
-    "Golkar": 33,
-    "NasDem": 13,
-    "PKB": 13,
-    "PKS": 20,
+    "PDI-P": 39,
+    "Golkar": 34,
+    "NasDem": 12,
+    "PKB": 15,
+    "PKS": 19,
     "PAN": 12,
-    "Demokrat": 10
+    "Demokrat": 11
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 14,
+    "Kementerian BUMN": 15,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
-    "Danantara": 16,
+    "Danantara": 20,
     "BPKN": 12,
-    "KPPU": 13,
-    "BP Batam": 16,
+    "KPPU": 14,
+    "BP Batam": 17,
     "BPK Sabang": 5,
     "Dekopin": 14,
-    "Badan Pengaturan BUMN": 14
+    "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 17,
+    "bumn": 52,
+    "danantara": 24,
     "impor": 1,
-    "ekspor": 7,
-    "umkm": 9,
-    "perdagangan": 5,
-    "koperasi": 53,
+    "ekspor": 10,
+    "perdagangan": 10,
+    "umkm": 11,
+    "koperasi": 56,
     "dividen": 1,
-    "kartel-monopoli": 11,
-    "investasi": 5,
-    "merger-akuisisi": 2
+    "kartel-monopoli": 12,
+    "investasi": 6,
+    "merger-akuisisi": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 14,
@@ -54,7 +54,7 @@
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 6,
     "Darmadi Durianto": 4,
-    "Rieke Diah Pitaloka": 8,
+    "Rieke Diah Pitaloka": 9,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
@@ -62,138 +62,139 @@
     "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 5,
     "Doni Akbar": 6,
-    "Firnando Hadityo Ganinduto": 5,
+    "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 6,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 7,
-    "Asep Wahyuwijaya": 3,
+    "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 6,
+    "Rivqy Abdul Halim": 7,
     "Nasim Khan": 5,
+    "Ida Fauziyah": 1,
     "Amin Ak.": 5,
     "Rizal Bawazier": 7,
-    "Ghufran": 2,
+    "Ghufran": 1,
     "Ismail": 6,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 2,
     "Sartono": 4,
-    "Herman Khaeron": 6
+    "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
-    "Kinerja BUMN": 19,
-    "Perdagangan": 26,
-    "Koperasi/UMKM": 55
+    "Hukum/Audit": 19,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 28,
+    "Koperasi/UMKM": 59
   },
   "top_headlines": [
     {
-      "title": "Menpar nilai integrasi pokdarwis dan kopdes sejalan dengan KDKMP - ANTARA News",
+      "title": "Kementerian Perdagangan Ajak Pelaku Usaha Jawa Tengah Perluas Pasar Ekspor melalui Trade Expo Indonesia 2026 - analisnews.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 09:57:51 GMT",
+      "link": "https://analisnews.co.id/index.php/2026/07/06/kementerian-perdagangan-ajak-pelaku-usaha-jawa-tengah-perluas-pasar-ekspor-melalui-trade-expo-indonesia-2026/"
+    },
+    {
+      "title": "Djoni: Tonggak Kolaborasi Pariwisata dan Koperasi - Tribunnews.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:57:05 GMT",
-      "link": "https://www.antaranews.com/berita/5636708/menpar-nilai-integrasi-pokdarwis-dan-kopdes-sejalan-dengan-kdkmp"
+      "published": "Mon, 06 Jul 2026 09:50:17 GMT",
+      "link": "https://babel.tribunnews.com/lokal/19580/djoni-tonggak-kolaborasi-pariwisata-dan-koperasi"
     },
     {
-      "title": "Streamlining BUMN, pemerintah libatkan Kejagung hingga BPK - Elshinta",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:50:56 GMT",
-      "link": "https://elshinta.com/indeks/dalam-negeri/streamlining-bumn-pemerintah-libatkan-kejagung-hingga-bpk-169428"
-    },
-    {
-      "title": "Dugaan Penyelewengan Keuangan PT Pos, DPR Minta Danantara Periksa Seluruh BUMN - Inilah.com",
+      "title": "Prabowo tunjuk Danantara laksanakan perdagangan listrik dengan Singapura - ANTARA News Kepri",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:45:00 GMT",
-      "link": "https://www.inilah.com/dugaan-penyelewengan-keuangan-pt-pos-dpr-minta-danantara-periksa-seluruh-bumn"
+      "published": "Mon, 06 Jul 2026 09:41:08 GMT",
+      "link": "https://kepri.antaranews.com/berita/261853/prabowo-tunjuk-danantara-laksanakan-perdagangan-listrik-dengan-singapura"
     },
     {
-      "title": "Dugaan Penyelewengan Keuangan PT Pos, DPR Minta Danantara Periksa Seluruh BUMN - Inilah.com",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 03:45:00 GMT",
-      "link": "https://www.inilah.com/dugaan-penyelewengan-keuangan-pt-pos-dpr-minta-danantara-periksa-seluruh-bumn"
-    },
-    {
-      "title": "EDITORIAL: MESIN CUCI KEJAHATAN CAP NKRI - Betahita",
+      "title": "Prabowo Tunjuk Danantara Kelola Perdagangan Listrik ke Singapura, Target 3,4 GW pada 2035 - arahkita.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:30:22 GMT",
-      "link": "https://www.betahita.id/opini/12172/editorial-mesin-cuci-kejahatan-cap-nkri"
+      "published": "Mon, 06 Jul 2026 09:30:00 GMT",
+      "link": "https://arahkita.com/ekonomi/116727_prabowo-tunjuk-danantara-kelola-perdagangan-listrik-ke-singapura-target-34-gw-pada-2035"
     },
     {
-      "title": "Kementerian Koperasi Akselerasi Transformasi Pokdarwis Menjadi Koperasi - beritanasionalupdate.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:03:33 GMT",
-      "link": "https://beritanasionalupdate.com/news/details/1404/kementerian-koperasi-akselerasi-transformasi-pokdarwis-menjadi-koperasi"
-    },
-    {
-      "title": "Niat Baik dan Akal Sehat Modal Dasar Jadi Komisaris BUMN - detikcom",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 03:00:45 GMT",
-      "link": "https://www.detik.com/sumut/berita/d-8561432/niat-baik-dan-akal-sehat-modal-dasar-jadi-komisaris-bumn"
-    },
-    {
-      "title": "Bupati Welly Lepas Haryadi Mengabdi di Kementerian Koperasi RI - HarianHaluan.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 02:50:00 GMT",
-      "link": "https://harianhaluan.id/bupati-welly-lepas-haryadi-mengabdi-di-kementerian-koperasi-ri-173001/"
-    },
-    {
-      "title": "Hari Koperasi 2026, Dedie Rachim Tegaskan Peran Koperasi Perkuat UMKM dan Ekonomi Rakyat - Suara Pemerintah",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 02:31:27 GMT",
-      "link": "https://suarapemerintah.id/2026/07/hari-koperasi-2026-dedie-rachim-tegaskan-peran-koperasi-perkuat-umkm-dan-ekonomi-rakyat/"
-    },
-    {
-      "title": "Kejagung hingga BPK Kawal Restrukturisasi BUMN - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 02:24:32 GMT",
-      "link": "https://www.metrotvnews.com/read/b3JC5L8Q-kejagung-hingga-bpk-kawal-restrukturisasi-bumn"
-    },
-    {
-      "title": "Rizal Bawazier Kawal Percepatan Penanganan Sungai Bremi-Meduri - Pemerintah Kota Pekalongan",
-      "entity": "Rizal Bawazier",
+      "title": "Nengah Senantara Minta Agrinas Percepat Hilirisasi Sawit - Partai NasDem",
+      "entity": "I Nengah Senantara",
       "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 01:02:12 GMT",
-      "link": "https://pekalongankota.go.id/berita/rizal-bawazier-kawal-percepatan-penanganan-sungai-bremimeduri-.html"
+      "published": "Mon, 06 Jul 2026 09:21:58 GMT",
+      "link": "https://partainasdem.id/2026/07/06/nengah-senantara-minta-agrinas-percepat-hilirisasi-sawit/"
     },
     {
-      "title": "| Anggota DPR Dorong Perpres Tata Kelola Terpadu Koperasi Merah Putih - jurnas.com",
+      "title": "Rieke Dorong Prabowo Buat Perpres Tata Kelola Kopdes Merah Putih, Ini Alasannya - Infobanknews",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 00:43:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661445/anggota-dpr-dorong-perpres-tata-kelola-terpadu-koperasi-merah-putih/"
+      "published": "Mon, 06 Jul 2026 08:58:01 GMT",
+      "link": "https://infobanknews.com/rieke-dorong-prabowo-buat-perpres-tata-kelola-kopdes-merah-putih-ini-alasannya"
     },
     {
-      "title": "Dua Menteri ke Belitung Launching Integrasi Pokdarwis ke Koperasi - TrawangNews.com",
+      "title": "Perkuat Fondasi Bangsa dari Jantung Ibu Kota, Ida Fauziyah Sosialisi 4 Pilar di Jakarta Selatan - FPKB DPR RI",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 08:47:58 GMT",
+      "link": "https://www.fraksipkb.com/2026/07/06/perkuat-fondasi-bangsa-dari-jantung-ibu-kota-ida-fauziyah-sosialisi-4-pilar-di-jakarta-selatan/"
+    },
+    {
+      "title": "Trade Expo Indonesia 2026 Digelar Oktober, Kemendag Optimistis Dongkrak Ekspor Nasional - Info Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 08:01:39 GMT",
+      "link": "https://infoekonomi.id/2026/07/trade-expo-indonesia-2026-digelar-oktober-kemendag-optimistis-dongkrak-ekspor-nasional/"
+    },
+    {
+      "title": "Kemendag Catat Potensi Transaksi Ekspor UMKM Capai 135 Juta Dolar AS Sepanjang 2025 - Towa.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 07:55:05 GMT",
+      "link": "https://towa.co.id/postingan/kemendag-catat-potensi-transaksi-ekspor-umkm-capai-135-juta-dolar-as-sepanjang-2025"
+    },
+    {
+      "title": "Danantara Bakal Danai Pembentukan Pusat Finansial Internasional Indonesia - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 07:40:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/inews/5421775/danantara-bakal-danai-pembentukan-pusat-finansial-internasional-indonesia"
+    },
+    {
+      "title": "Pelatihan Calon Manajer Koperasi Merah Putih Difokuskan pada Manajemen Perkoperasian - PT Suara Dewata Media",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 00:38:43 GMT",
-      "link": "https://www.trawangnews.com/dua-menteri-ke-belitung-launching-integrasi-pokdarwis-ke-koperasi/"
+      "published": "Mon, 06 Jul 2026 07:05:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405215987/pelatihan-calon-manajer-koperasi-merah-putih-difokuskan-pada-manajemen-perkoperasian%7D"
     },
     {
-      "title": "Kemendag rangkum transaksi 135 juta dolar AS dari \"business matching \" - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pemerintah Libatkan Danantara Jadi Sumber Permodalan Awal Pembentukan PFII - kontan.co.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 00:28:04 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/412339/kemendag-rangkum-transaksi-135-juta-dolar-as-dari-business-matching-"
+      "published": "Mon, 06 Jul 2026 06:10:57 GMT",
+      "link": "https://nasional.kontan.co.id/news/pemerintah-libatkan-danantara-jadi-sumber-permodalan-awal-pembentukan-pfii"
     },
     {
-      "title": "Kemendag Tarik Minyakita Beraroma Solar di Jawa Tengah - publika.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pemerintah Gandeng Kejagung, BPK, BPKP Kawal PerampinganBUMN - LIDIK ID",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 00:08:21 GMT",
-      "link": "https://www.publika.id/kemendag-tarik-minyakita-bau-solar"
+      "published": "Mon, 06 Jul 2026 05:56:00 GMT",
+      "link": "https://lidik.id/pemerintah-libatkan-kejagung-bpk-dan-bpkp-kawal-perampingan-bumn"
+    },
+    {
+      "title": "Lolos Seleksi Nasional, Haryadi Resmi Bergabung ke Kementerian Koperasi RI - SigapNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 05:40:32 GMT",
+      "link": "https://sumbar.sigapnews.co.id/daerah/sn-113041/lolos-seleksi-nasional-haryadi-resmi-bergabung-ke-kementerian-koperasi-ri"
+    },
+    {
+      "title": "Menkop Dorong Mahasiswa Manfaatkan Koperasi sebagai Wadah Berwirausaha dan Berinovasi - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 05:37:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-dorong-mahasiswa-manfaatkan-koperasi-sebagai-wadah-berwirausaha-dan-berinovasi/"
     }
   ]
 }
