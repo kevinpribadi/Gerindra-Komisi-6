@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T04:16:58.128050",
+  "generated_at": "2026-07-06T05:08:59.827192",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 18,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 4,
     "PKB": 9,
     "PKS": 16,
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 27,
     "PDI-P": 38,
-    "Golkar": 32,
+    "Golkar": 33,
     "NasDem": 13,
     "PKB": 13,
     "PKS": 20,
-    "PAN": 10,
+    "PAN": 12,
     "Demokrat": 10
   },
   "agency_counts_30d": {
@@ -40,7 +40,7 @@
     "ekspor": 7,
     "umkm": 9,
     "perdagangan": 5,
-    "koperasi": 52,
+    "koperasi": 53,
     "dividen": 1,
     "kartel-monopoli": 11,
     "investasi": 5,
@@ -63,7 +63,7 @@
     "Gde Sumarjaya Linggih": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 5,
-    "Rizki Faisal": 5,
+    "Rizki Faisal": 6,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 3,
@@ -76,7 +76,7 @@
     "Rizal Bawazier": 7,
     "Ghufran": 2,
     "Ismail": 6,
-    "Eko Patrio": 3,
+    "Eko Patrio": 5,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 2,
@@ -90,6 +90,13 @@
     "Koperasi/UMKM": 55
   },
   "top_headlines": [
+    {
+      "title": "Menpar nilai integrasi pokdarwis dan kopdes sejalan dengan KDKMP - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 03:57:05 GMT",
+      "link": "https://www.antaranews.com/berita/5636708/menpar-nilai-integrasi-pokdarwis-dan-kopdes-sejalan-dengan-kdkmp"
+    },
     {
       "title": "Streamlining BUMN, pemerintah libatkan Kejagung hingga BPK - Elshinta",
       "entity": "Kementerian BUMN",
@@ -187,13 +194,6 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:08:21 GMT",
       "link": "https://www.publika.id/kemendag-tarik-minyakita-bau-solar"
-    },
-    {
-      "title": "Produsen Minyakita Bau Solar Terancam Sanksi Berat - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 00:00:46 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8561199/produsen-minyakita-bau-solar-terancam-sanksi-berat"
     }
   ]
 }
