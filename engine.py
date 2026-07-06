@@ -390,12 +390,18 @@ def fetch_market_data(now):
     for key, (tick, nd, fb, label) in MARKET_TICKERS.items():
         print(f"  [PASAR] {label} ({tick})...")
         try:
-            hist = yf.Ticker(tick).history(period="5d")
-            val = float(hist["Close"].dropna().iloc[-1])
-            val = round(val, nd) if nd else int(round(val))
-            stats[key] = _stat(val, "Yahoo Finance (data pasar, bukan rilis resmi)",
-                               f"https://finance.yahoo.com/quote/{urllib.parse.quote(tick)}/",
-                               "UNAUDITED", now)
+            closes = yf.Ticker(tick).history(period="5d")["Close"].dropna()
+            raw = float(closes.iloc[-1])
+            val = round(raw, nd) if nd else int(round(raw))
+            s = _stat(val, "Yahoo Finance (data pasar, bukan rilis resmi)",
+                      f"https://finance.yahoo.com/quote/{urllib.parse.quote(tick)}/",
+                      "UNAUDITED", now)
+            # delta 1 hari vs penutupan sebelumnya (aritmetika murni, bukan penilaian)
+            if len(closes) >= 2 and float(closes.iloc[-2]) != 0:
+                prev = float(closes.iloc[-2])
+                s["prev_close"] = round(prev, nd) if nd else int(round(prev))
+                s["change_pct"] = round((raw - prev) / prev * 100, 2)
+            stats[key] = s
             live_ok += 1
             print(f"  [PASAR] {label}: {val} (UNAUDITED)")
         except Exception as e:
@@ -458,10 +464,16 @@ def fetch_bumn_stocks(now):
     print(f"  [PASAR] Saham BUMN ({len(BUMN_TICKERS)} emiten)...")
     for kode, (tick, name) in BUMN_TICKERS.items():
         try:
-            hist = yf.Ticker(tick).history(period="5d")
-            val = int(round(float(hist["Close"].dropna().iloc[-1])))
-            stocks[kode] = dict(_stat(val, "Yahoo Finance (data pasar, bukan rilis resmi)",
-                                      _gf(kode), "UNAUDITED", now), name=name)
+            closes = yf.Ticker(tick).history(period="5d")["Close"].dropna()
+            raw = float(closes.iloc[-1])
+            s = dict(_stat(int(round(raw)), "Yahoo Finance (data pasar, bukan rilis resmi)",
+                           _gf(kode), "UNAUDITED", now), name=name)
+            # delta 1 hari vs penutupan sebelumnya (aritmetika murni, bukan penilaian)
+            if len(closes) >= 2 and float(closes.iloc[-2]) != 0:
+                prev = float(closes.iloc[-2])
+                s["prev_close"] = int(round(prev))
+                s["change_pct"] = round((raw - prev) / prev * 100, 2)
+            stocks[kode] = s
             live_ok += 1
         except Exception as e:
             msg = f"yfinance saham {kode} ({tick}) gagal: {e}"
