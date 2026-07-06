@@ -1267,6 +1267,35 @@
       body.print-brief #ib-brief-text { max-height: none; overflow: visible; border: none; }
       body.print-brief .an-controls button, body.print-brief .filter-btn { display: none !important; }
     }
+    /* ============================================================
+       UPGRADE UX: navigasi seksi + pulse 24 jam + delta + BARU
+       ============================================================ */
+    .secnav {
+      position: sticky; top: 68px; z-index: 150;
+      background: rgba(241,245,249,.96); backdrop-filter: blur(6px);
+      display: flex; gap: 8px; overflow-x: auto;
+      padding: 10px 2px; margin-bottom: 14px;
+      -webkit-overflow-scrolling: touch; scrollbar-width: none;
+    }
+    .secnav::-webkit-scrollbar { display: none; }
+    .secnav a {
+      flex: 0 0 auto; font-size: 11px; font-weight: 700; letter-spacing: .4px;
+      padding: 6px 14px; border-radius: 20px; border: 1.5px solid var(--border-mid);
+      background: var(--bg-white); color: var(--text-secondary); white-space: nowrap;
+      transition: all .15s;
+    }
+    .secnav a:hover { border-color: var(--red-primary); color: var(--red-primary); background: var(--red-light); }
+    @media(max-width: 768px) { .secnav { top: 58px; } }
+    #sec-saham, #sec-isu, #sec-sov, #sec-watchlist, #sec-analisis,
+    #sec-berita, #sec-anggota, #intel-block, #focus-block { scroll-margin-top: 124px; }
+    .stat-delta { font-size: 11px; font-weight: 800; margin-top: 3px; }
+    .stat-delta.up { color: var(--green); }
+    .stat-delta.down { color: #dc2626; }
+    .stat-delta.flat { color: var(--text-muted); }
+    .baru-chip {
+      display: inline-block; font-size: 9px; font-weight: 800; letter-spacing: .5px;
+      padding: 2px 7px; border-radius: 20px; color: #fff; background: var(--blue);
+    }
   </style>
 </head>
 <body>
@@ -1353,6 +1382,19 @@
 <!-- MAIN CONTENT -->
 <main>
 
+  <!-- NAVIGASI CEPAT SEKSI (upgrade UX; anchor murni, tanpa JS) -->
+  <nav class="secnav" aria-label="Navigasi bagian dashboard">
+    <a href="#sec-saham">Saham BUMN</a>
+    <a href="#sec-isu">Isu Panas</a>
+    <a href="#sec-sov">Share of Voice</a>
+    <a href="#sec-watchlist">Watchlist</a>
+    <a href="#sec-analisis">Analisis</a>
+    <a href="#intel-block">Intelijen Bulanan</a>
+    <a href="#sec-berita">Berita Mitra</a>
+    <a href="#focus-block">Fokus Mitra</a>
+    <a href="#sec-anggota">Anggota</a>
+  </nav>
+
   <!-- TOOLBAR: SEARCH + STATUS WIDGET (fitur baru) -->
   <div class="toolbar">
     <div class="search-wrap">
@@ -1410,8 +1452,14 @@
     </div>
   </div>
 
+  <!-- PULSE 24 JAM (ringkas harian, deterministik dari arsip) -->
+  <div class="ticker-bar" id="pulse-bar" style="border-left-color:var(--gold-border)">
+    <div class="ticker-label" style="color:var(--gold)">&#9889; PULSE 24 JAM</div>
+    <div class="ticker-items" id="pulse-items"><span class="hot-empty">Memuat...</span></div>
+  </div>
+
   <!-- SECTION: SAHAM BUMN UTAMA (DATA PASAR) -->
-  <div class="section-header">
+  <div class="section-header" id="sec-saham">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 008 20C19 20 22 3 22 3c-1 2-8 2-8 2 1.66-1.09 3.76-1.8 6-2-2.88 1.14-5.39 4.42-6.12 6.13C14 6.13 17 8 17 8z"/></svg>
     </div>
@@ -1439,7 +1487,7 @@
   </div>
 
   <!-- SECTION: ISU PANAS (volume pemberitaan, bukan analisis) -->
-  <div class="section-header">
+  <div class="section-header" id="sec-isu">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67z"/></svg>
     </div>
@@ -1464,7 +1512,7 @@
   </div>
 
   <!-- SECTION: SHARE OF VOICE FRAKSI (F2) -->
-  <div class="section-header">
+  <div class="section-header" id="sec-sov">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5C15 14.17 10.33 13 8 13zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
     </div>
@@ -1491,7 +1539,7 @@
   </div>
 
   <!-- SECTION: WATCHLIST SAYA (F3) -->
-  <div class="section-header">
+  <div class="section-header" id="sec-watchlist">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
     </div>
@@ -1516,7 +1564,7 @@
   </div>
 
   <!-- SECTION: ANALISIS (Fitur B) -->
-  <div class="section-header">
+  <div class="section-header" id="sec-analisis">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M5 9.2h3V19H5V9.2zM10.6 5h2.8v14h-2.8V5zm5.6 8H19v6h-2.8v-6z"/></svg>
     </div>
@@ -1621,7 +1669,7 @@
   </div>
 
   <!-- TWO COLUMN: Agency News + Market / Headline -->
-  <div class="two-col">
+  <div class="two-col" id="sec-berita">
 
     <!-- LEFT: Agency News -->
     <div>
@@ -1691,12 +1739,14 @@
             <div class="stat-card">
               <div class="stat-label">Kurs USD/IDR</div>
               <div class="stat-value" id="kurs-display">---</div>
+              <div id="kurs-delta" class="stat-delta"></div>
               <div class="stat-unit">Rupiah per USD</div>
               <div id="kurs-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
             <div class="stat-card">
               <div class="stat-label">IHSG</div>
               <div class="stat-value green" id="ihsg-display">---</div>
+              <div id="ihsg-delta" class="stat-delta"></div>
               <div class="stat-unit">Indeks Harga Saham Gabungan · poin</div>
               <div id="ihsg-conf" class="stat-confidence fallback">MEMUAT</div>
             </div>
@@ -1762,7 +1812,7 @@
   </div>
 
   <!-- MEMBER NEWS -->
-  <div class="section-header">
+  <div class="section-header" id="sec-anggota">
     <div class="section-icon">
       <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5C15 14.17 10.33 13 8 13zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
     </div>
@@ -2034,6 +2084,17 @@ function titleMentionsGerindra(title) {
     if (terms[i] && t.indexOf(terms[i]) !== -1) return true;
   }
   return false;
+}
+
+/* BADGE "BARU": tandai artikel yang masuk arsip setelah kunjungan terakhir
+   perangkat ini (localStorage k6_last_visit; murni fetched_at, deterministik). */
+let lastVisitTs = 0;
+try { lastVisitTs = parseInt(localStorage.getItem("k6_last_visit") || "0", 10) || 0; } catch (e) {}
+try { localStorage.setItem("k6_last_visit", String(Date.now())); } catch (e) {}
+function isNewSinceVisit(a) {
+  if (!lastVisitTs || !a || !a.fetched_at) return false;
+  const d = new Date(a.fetched_at);
+  return !isNaN(d) && d.getTime() > lastVisitTs;
 }
 
 let watchlist = [];
@@ -2468,6 +2529,7 @@ let newsFilter = { agency: "ALL", tag: "ALL", from: "", to: "", sort: "desc" };
 function newsCardHTML(item, i, accent) {
   const tags = tagsFor(item.title);
   let marks = "";
+  if (isNewSinceVisit(item)) marks += '<span class="baru-chip">BARU</span>';
   if (titleMentionsGerindra(item.title)) marks += '<span class="g-badge">MENYEBUT GERINDRA</span>';
   watchlistHits(item.title).forEach(function(kw) {
     marks += '<span class="wl-star">&#9733; ' + esc(kw) + '</span>';
@@ -2740,6 +2802,7 @@ async function loadData() {
     bindTimeline();
     buildAnalysis();
     renderIntel();
+    renderPulse();
     applyHashState();
 
     const kursRaw = data.kurs_usd_idr && typeof data.kurs_usd_idr === 'object' ? data.kurs_usd_idr.value : data.kurs_usd_idr;
@@ -2751,6 +2814,17 @@ async function loadData() {
     const ihsgVal = ihsgRaw ? Number(ihsgRaw).toLocaleString("id-ID") : 'Data tidak tersedia';
     document.getElementById("ihsg-display").textContent = ihsgVal;
     document.getElementById("ihsg-ticker").textContent = ihsgVal;
+
+    // delta 1 hari (change_pct dari engine; aritmetika, bukan penilaian)
+    function setDelta(id, stat) {
+      const el = document.getElementById(id);
+      if (!el || !stat || typeof stat.change_pct !== "number") return;
+      const c = stat.change_pct;
+      el.className = "stat-delta " + (c > 0 ? "up" : c < 0 ? "down" : "flat");
+      el.textContent = (c > 0 ? "▲ +" : c < 0 ? "▼ " : "• ") + c.toLocaleString("id-ID") + "% (1 hari)";
+    }
+    setDelta("kurs-delta", data.kurs_usd_idr);
+    setDelta("ihsg-delta", data.ihsg);
 
     const ts = data.last_updated ? fmtDate(data.last_updated) : 'Data tidak tersedia';
     document.getElementById("last-updated-time").textContent = ts;
@@ -2793,9 +2867,16 @@ async function loadData() {
       bumnGrid.innerHTML = kodes.length ? kodes.map(function(k) {
         const s = stocks[k] || {};
         const v = (s.value != null && s.value !== "") ? "Rp " + Number(s.value).toLocaleString("id-ID") : "Data tidak tersedia";
+        let dHtml = "";
+        if (typeof s.change_pct === "number") {
+          const c = s.change_pct;
+          const cls = c > 0 ? "up" : (c < 0 ? "down" : "flat");
+          const sym = c > 0 ? "&#9650; +" : (c < 0 ? "&#9660; " : "&#8226; ");
+          dHtml = '<div class="stat-delta ' + cls + '">' + sym + c.toLocaleString("id-ID") + '% (1 hari)</div>';
+        }
         return '<div class="stat-card">' +
           '<div class="stat-label">' + esc(k) + ' &middot; IDX</div>' +
-          '<div class="stat-value" style="font-size:20px">' + esc(v) + '</div>' +
+          '<div class="stat-value" style="font-size:20px">' + esc(v) + '</div>' + dHtml +
           '<div class="stat-unit">' + esc(s.name || "") + '</div>' +
           '<div class="stat-confidence ' + String(s.confidence || "FALLBACK").toLowerCase() + '">' + confBadgeInnerHTML(s) + '</div>' +
           '</div>';
@@ -3781,6 +3862,35 @@ function renderIntel() {
   renderIBHeatmap();
   renderIBWarnings();
   bindIntel();
+}
+
+/* PULSE 24 JAM: ringkasan harian deterministik dari arsip berita */
+function renderPulse() {
+  const el = document.getElementById("pulse-items");
+  if (!el) return;
+  const arts = articlesLastNDays(1);
+  function item(lbl, val) {
+    return '<div class="ticker-item"><span class="ticker-symbol">' + lbl + '</span>' +
+      '<span class="ticker-value" style="font-size:13px">' + val + '</span></div>';
+  }
+  if (!arts.length) {
+    el.innerHTML = '<span class="hot-empty">Belum ada artikel dalam 24 jam terakhir.</span>';
+    return;
+  }
+  const ag = topCounts(arts.filter(function(a) { return a.kind === "agency"; }), function(a) { return a.entity; }, 1);
+  const tg = topCounts(arts, function(a) { return tagsFor(a.title).filter(function(t) { return t !== "lainnya"; }); }, 1);
+  const ger = arts.filter(function(a) { return a.kind === "member" && a.party === "Gerindra"; }).length;
+  let ewTop = null, ewN = 0;
+  Object.keys(EW_KEYWORDS).forEach(function(g) {
+    const n = ewGroupHits(arts, g).length;
+    if (n > ewN) { ewN = n; ewTop = g; }
+  });
+  el.innerHTML =
+    item("Artikel 24 jam", arts.length) +
+    item("Menyebut Gerindra", ger) +
+    (ag[0] ? item("Mitra teraktif", esc(ag[0].name) + " (" + ag[0].count + ")") : "") +
+    (tg[0] ? item("Isu teratas", esc(tg[0].name) + " (" + tg[0].count + ")") : "") +
+    (ewTop ? item("Sinyal perhatian", esc(ewTop) + " (" + ewN + ")") : "");
 }
 
 loadData();
