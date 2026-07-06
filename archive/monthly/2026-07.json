@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T03:30:45.602612",
+  "generated_at": "2026-07-06T04:16:58.128050",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 18,
-    "Golkar": 18,
+    "Golkar": 19,
     "NasDem": 4,
     "PKB": 9,
     "PKS": 16,
@@ -12,9 +12,9 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 22,
+    "Gerindra": 27,
     "PDI-P": 38,
-    "Golkar": 31,
+    "Golkar": 32,
     "NasDem": 13,
     "PKB": 13,
     "PKS": 20,
@@ -22,10 +22,10 @@
     "Demokrat": 10
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 12,
-    "Kementerian Perdagangan": 18,
+    "Kementerian BUMN": 14,
+    "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
-    "Danantara": 14,
+    "Danantara": 16,
     "BPKN": 12,
     "KPPU": 13,
     "BP Batam": 16,
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 14
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "danantara": 15,
+    "bumn": 49,
+    "danantara": 17,
     "impor": 1,
-    "ekspor": 6,
+    "ekspor": 7,
     "umkm": 9,
     "perdagangan": 5,
     "koperasi": 52,
@@ -47,7 +47,7 @@
     "merger-akuisisi": 2
   },
   "member_counts_30d": {
-    "Andre Rosiade": 9,
+    "Andre Rosiade": 14,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
     "Kawendra Lukistian": 7,
@@ -62,7 +62,7 @@
     "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 5,
     "Doni Akbar": 6,
-    "Firnando Hadityo Ganinduto": 4,
+    "Firnando Hadityo Ganinduto": 5,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 7,
@@ -84,12 +84,40 @@
     "Herman Khaeron": 6
   },
   "early_warning_counts": {
+    "Hukum/Audit": 17,
     "Kinerja BUMN": 19,
-    "Hukum/Audit": 13,
-    "Perdagangan": 24,
+    "Perdagangan": 26,
     "Koperasi/UMKM": 55
   },
   "top_headlines": [
+    {
+      "title": "Streamlining BUMN, pemerintah libatkan Kejagung hingga BPK - Elshinta",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 03:50:56 GMT",
+      "link": "https://elshinta.com/indeks/dalam-negeri/streamlining-bumn-pemerintah-libatkan-kejagung-hingga-bpk-169428"
+    },
+    {
+      "title": "Dugaan Penyelewengan Keuangan PT Pos, DPR Minta Danantara Periksa Seluruh BUMN - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 03:45:00 GMT",
+      "link": "https://www.inilah.com/dugaan-penyelewengan-keuangan-pt-pos-dpr-minta-danantara-periksa-seluruh-bumn"
+    },
+    {
+      "title": "Dugaan Penyelewengan Keuangan PT Pos, DPR Minta Danantara Periksa Seluruh BUMN - Inilah.com",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 03:45:00 GMT",
+      "link": "https://www.inilah.com/dugaan-penyelewengan-keuangan-pt-pos-dpr-minta-danantara-periksa-seluruh-bumn"
+    },
+    {
+      "title": "EDITORIAL: MESIN CUCI KEJAHATAN CAP NKRI - Betahita",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 03:30:22 GMT",
+      "link": "https://www.betahita.id/opini/12172/editorial-mesin-cuci-kejahatan-cap-nkri"
+    },
     {
       "title": "Kementerian Koperasi Akselerasi Transformasi Pokdarwis Menjadi Koperasi - beritanasionalupdate.com",
       "entity": "Kementerian Koperasi",
@@ -166,34 +194,6 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:00:46 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8561199/produsen-minyakita-bau-solar-terancam-sanksi-berat"
-    },
-    {
-      "title": "Pokdarwis Desa Keciput dan Desa Pulau Seliu Diintegrasikan Dengan Koperasi Desa Merah Putih - Kominfo Belitung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 23:36:30 GMT",
-      "link": "https://kominfo.belitung.go.id/2026/07/06/pokdarwis-desa-keciput-dan-desa-pulau-seliu-diintegrasikan-dengan-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Sinergi Kemenkop-Kemenpar transformasi Pokdarwis melalui koperasi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 23:30:51 GMT",
-      "link": "https://elshinta.com/kategori/1/pembangunan/sinergi-kemenkop-kemenpar-transformasi-pokdarwis-melalui-koperasi-169406"
-    },
-    {
-      "title": "Koperasi Sawit Bisa Mengelola Lahan Milik Agrinas Palma - KONTAN",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 22:20:27 GMT",
-      "link": "https://insight.kontan.co.id/news/koperasi-sawit-bisa-mengelola-lahan-milik-agrinas-palma"
-    },
-    {
-      "title": "Jumlah Desa Bisa Ekspor Terus Tumbuh, Kemendag Catat Kini 2.616 Titik - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 21:05:33 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/07/06/jumlah-desa-bisa-ekspor-terus-tumbuh-kemendag-catat-kini-2616-titik-083000831"
     }
   ]
 }
