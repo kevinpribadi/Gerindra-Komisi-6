@@ -1228,6 +1228,45 @@
         width: auto; max-width: none; height: auto; max-height: none;
       }
     }
+    /* ============================================================
+       INTELIJEN BULANAN FRAKSI (lapisan internal — bahan pimpinan)
+       ============================================================ */
+    .ib-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+    @media(max-width: 900px) { .ib-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media(max-width: 480px) { .ib-grid { grid-template-columns: 1fr; } }
+    .ib-card { border: 1px solid var(--border-light); border-left: 3px solid var(--red-primary); border-radius: 10px; padding: 12px 14px; background: #fafafa; min-width: 0; }
+    .ib-lbl { font-size: 9.5px; font-weight: 700; letter-spacing: .6px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 5px; }
+    .ib-num { font-family: var(--font-heading); font-size: 21px; font-weight: 800; color: var(--red-primary); line-height: 1.1; }
+    .ib-sub { font-size: 10.5px; color: var(--text-muted); margin-top: 4px; }
+    .ib-delta { font-size: 11px; font-weight: 800; }
+    .ib-delta.naik { color: var(--red-primary); }
+    .ib-delta.turun { color: var(--text-muted); }
+    .ib-delta.stabil { color: var(--gold); }
+    .ib-note { font-size: 10.5px; color: var(--text-muted); font-style: italic; margin-top: 10px; }
+    .ib-warn-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    @media(max-width: 800px) { .ib-warn-grid { grid-template-columns: 1fr; } }
+    .ib-warn-card { border: 1px solid var(--gold-border); border-left: 4px solid var(--gold-border); background: var(--gold-light); border-radius: 10px; padding: 12px 14px; min-width: 0; }
+    .ib-warn-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; }
+    .ib-warn-title { font-size: 12px; font-weight: 800; color: var(--gold); }
+    .ib-warn-count { font-family: var(--font-heading); font-size: 13px; font-weight: 800; color: var(--gold); background: #fff; border: 1px solid var(--gold-border); border-radius: 20px; padding: 1px 9px; flex-shrink: 0; }
+    .ib-ev { font-size: 11.5px; line-height: 1.5; margin-top: 5px; border-top: 1px dashed var(--gold-border); padding-top: 5px; }
+    .ib-ev a { color: var(--text-primary); font-weight: 600; }
+    .ib-ev a:hover { color: var(--red-primary); }
+    .ib-ev-meta { font-size: 10px; color: var(--text-muted); }
+    .ib-table td { text-align: left; }
+    .ib-table td.num, .ib-table th.num { text-align: center; }
+    .ib-table tr.gerindra-row td { background: var(--red-light); font-weight: 700; }
+    #ib-brief-box { display: none; margin-top: 14px; border: 1px solid var(--border-mid); border-radius: 10px; padding: 12px; background: #fff; }
+    #ib-brief-text { width: 100%; max-height: 340px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; font-family: var(--font-main); font-size: 12px; line-height: 1.55; border: 1px solid var(--border-light); border-radius: 8px; padding: 10px; background: #fcfcfc; }
+    @media print {
+      body.print-brief .top-utility-bar, body.print-brief header, body.print-brief .page-hero,
+      body.print-brief footer, body.print-brief .ast-fab, body.print-brief .ast-panel,
+      body.print-brief #scrape-banner, body.print-brief main > :not(#intel-block) { display: none !important; }
+      body.print-brief #intel-block { margin: 0; }
+      body.print-brief .panel { box-shadow: none; border: none; }
+      body.print-brief #ib-brief-text { max-height: none; overflow: visible; border: none; }
+      body.print-brief .an-controls button, body.print-brief .filter-btn { display: none !important; }
+    }
   </style>
 </head>
 <body>
@@ -1537,6 +1576,64 @@
       <div class="hot-col-title" style="margin-top:18px">Matriks Tag Topik &times; Mitra (30 hari, artikel lembaga)</div>
       <div class="an-scroll"><table class="an-matrix" id="an-matrix"></table></div>
       <div class="hot-note">Semua angka dihitung deterministik dari arsip berita di live_data.json dan dapat direkonsiliasi manual. Satu artikel dapat memiliki lebih dari satu tag.</div>
+    </div>
+  </div>
+
+  <!-- SECTION: INTELIJEN BULANAN FRAKSI (lapisan internal) -->
+  <div id="intel-block">
+    <div class="section-header">
+      <div class="section-icon">
+        <svg viewBox="0 0 24 24"><path d="M12 2l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.5-4.8 2.5.9-5.4L4.2 7.7l5.4-.8L12 2z"/></svg>
+      </div>
+      <div class="section-title">Intelijen Bulanan Fraksi &mdash; Bahan Pimpinan &amp; Bahan Rapat</div>
+      <div class="section-line"></div>
+      <div class="section-badge">INTERNAL</div>
+    </div>
+    <div class="panel" style="margin-bottom:28px">
+      <div class="panel-header">
+        <div class="panel-title">Posisi Fraksi &middot; Sinyal Isu &middot; Pembanding Antarfraksi</div>
+        <div class="panel-badge blue">DETERMINISTIK</div>
+      </div>
+      <div class="panel-body">
+        <div class="an-mandate">Seluruh angka pada lapisan ini adalah hitungan artikel dari arsip berita publik (live_data.json) dan dapat direkonsiliasi manual. Bukan sentimen, bukan penilaian kinerja, bukan verifikasi substansi berita, bukan kesimpulan hukum. Statistik FALLBACK tidak pernah dipakai di lapisan ini. Data kurang &rarr; &ldquo;data tidak cukup&rdquo;.</div>
+
+        <div class="hot-col-title">A. Scorecard Fraksi (volume pemberitaan anggota)</div>
+        <div class="ib-grid" id="ib-scorecard"><div class="hot-empty">data tidak cukup</div></div>
+        <div class="hot-grid" id="ib-toplists" style="margin-top:14px"></div>
+
+        <div class="hot-col-title" style="margin-top:20px">B. Pembanding Antarfraksi (volume 7 &amp; 30 hari)</div>
+        <div class="an-scroll"><table class="an-matrix ib-table" id="ib-benchmark"></table></div>
+
+        <div class="an-controls" style="margin-top:20px">
+          <span class="nc-label">PERIODE PETA ISU &amp; SINYAL:</span>
+          <button class="filter-btn active" id="ibp-7" data-ibp="7">7 HARI</button>
+          <button class="filter-btn" id="ibp-30" data-ibp="30">30 HARI</button>
+          <button class="filter-btn" id="ibp-mtd" data-ibp="mtd">BULAN BERJALAN</button>
+        </div>
+
+        <div class="hot-col-title">C. Peta Paparan Isu per Fraksi (jumlah judul cocok &mdash; bukan sentimen)</div>
+        <div class="an-scroll"><table class="an-matrix" id="ib-heatmap"></table></div>
+
+        <div class="hot-col-title" style="margin-top:20px">D. Sinyal Perhatian (kata kunci deterministik pada judul berita)</div>
+        <div class="ib-warn-grid" id="ib-warnings"></div>
+        <div class="ib-note">&ldquo;Sinyal perhatian&rdquo; = jumlah judul yang memuat kata kunci grup terkait pada periode terpilih, disertai judul sebagai bukti. Tidak menyimpulkan kesalahan, kebenaran, maupun status hukum pihak mana pun.</div>
+
+        <div class="an-controls" style="margin-top:18px">
+          <button id="ib-brief-btn" class="btn-refresh" title="Susun brief rapat deterministik dari arsip berita">&#128203; Buat Brief Rapat</button>
+          <button id="ib-monthly-btn" class="btn-pdf" title="Unduh laporan bulanan (TXT) berbasis arsip berita">&#11015; Unduh Laporan Bulanan</button>
+        </div>
+        <div id="ib-brief-box">
+          <div class="an-controls">
+            <span class="an-total">Brief Rapat (siap salin / bagikan)</span>
+            <span style="flex:1"></span>
+            <button id="ib-brief-copy" class="nc-reset">Salin</button>
+            <button id="ib-brief-wa" class="nc-reset">WhatsApp</button>
+            <button id="ib-brief-txt" class="nc-reset">Unduh TXT</button>
+            <button id="ib-brief-print" class="nc-reset">Cetak</button>
+          </div>
+          <pre id="ib-brief-text"></pre>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2659,6 +2756,7 @@ async function loadData() {
     renderWatchlist();
     bindTimeline();
     buildAnalysis();
+    renderIntel();
     applyHashState();
 
     const kursRaw = data.kurs_usd_idr && typeof data.kurs_usd_idr === 'object' ? data.kurs_usd_idr.value : data.kurs_usd_idr;
@@ -2667,7 +2765,7 @@ async function loadData() {
     document.getElementById("kurs-ticker").textContent = kursVal;
 
     const ihsgRaw = data.ihsg && typeof data.ihsg === 'object' ? data.ihsg.value : data.ihsg;
-    const ihsgVal = ihsgRaw ? Number(ihsgRaw).toLocaleString("id-ID") + " poin" : 'Data tidak tersedia';
+    const ihsgVal = ihsgRaw ? Number(ihsgRaw).toLocaleString("id-ID") : 'Data tidak tersedia';
     document.getElementById("ihsg-display").textContent = ihsgVal;
     document.getElementById("ihsg-ticker").textContent = ihsgVal;
 
@@ -3281,6 +3379,416 @@ function buildPDF() {
 
   const ymd = (upd && !isNaN(upd) ? upd : new Date()).toISOString().slice(0, 10);
   doc.save("Ringkasan_Komisi_VI_" + ymd + ".pdf");
+}
+
+
+/* ============================================================
+   INTELIJEN BULANAN FRAKSI — lapisan internal (bahan pimpinan)
+   Semua angka deterministik dari arsip berita live_data.json;
+   statistik FALLBACK TIDAK PERNAH dipakai di lapisan ini.
+   EDIT KATA KUNCI SINYAL DI SINI (owner-tunable). Jaga sinkron
+   dengan SNAPSHOT_EW_KEYWORDS di engine.py (arsip bulanan).
+   ============================================================ */
+const EW_KEYWORDS = {
+  "Hukum/Audit":    ["korupsi", "kpk", "audit", "bpk", "penyidikan", "tersangka", "dugaan", "gratifikasi"],
+  "Konflik Publik": ["demo", "protes", "tuntut", "tolak", "polemik", "kisruh", "ricuh"],
+  "Kinerja BUMN":   ["rugi", "kerugian", "utang", "restrukturisasi", "efisiensi", "phk", "komisaris"],
+  "Perdagangan":    ["impor", "ekspor", "harga", "minyakita", "surplus", "defisit", "bea masuk"],
+  "Koperasi/UMKM":  ["koperasi", "umkm", "pembiayaan", "kredit", "kur"]
+};
+/* kata pendek/ambigu dicocokkan per-kata utuh: 'demo' jangan kena "Demokrat",
+   'kur' jangan kena "kurs", 'bpk' jangan kena "BPKN", dst. */
+const EW_WORD_ONLY = { "demo": 1, "kur": 1, "bpk": 1, "phk": 1, "kpk": 1 };
+function ewMatch(titleLower, kw) {
+  if (EW_WORD_ONLY[kw]) return new RegExp("\\b" + kw + "\\b").test(titleLower);
+  return titleLower.indexOf(kw) !== -1;
+}
+function ewGroupHits(arts, grp) {
+  const kws = EW_KEYWORDS[grp] || [];
+  return arts.filter(function(a) {
+    const t = String(a.title || "").toLowerCase();
+    for (var i = 0; i < kws.length; i++) { if (ewMatch(t, kws[i])) return true; }
+    return false;
+  });
+}
+
+let ibPeriod = "7";   // "7" | "30" | "mtd" (bulan berjalan)
+function ibPeriodArts() {
+  if (ibPeriod === "mtd") {
+    const nowd = new Date();
+    return articlesLastNDays(31).filter(function(a) {
+      const d = artDate(a);
+      return d && d.getMonth() === nowd.getMonth() && d.getFullYear() === nowd.getFullYear();
+    });
+  }
+  return articlesLastNDays(parseInt(ibPeriod, 10));
+}
+function ibPeriodLabel() {
+  if (ibPeriod === "mtd") return "bulan berjalan (" + new Date().toLocaleDateString("id-ID", { month: "long", year: "numeric" }) + ")";
+  return ibPeriod + " hari terakhir";
+}
+function ibDeltaHTML(c, p) {
+  if (c > p) return '<span class="ib-delta naik">&#9650; Naik</span>';
+  if (c < p) return '<span class="ib-delta turun">&#9660; Turun</span>';
+  return '<span class="ib-delta stabil">&#8226; Stabil</span>';
+}
+function ibDeltaWord(c, p) { return c > p ? "Naik" : (c < p ? "Turun" : "Stabil"); }
+function ibPartyRows(days) {
+  const sov = computeSOV(days);
+  return Object.keys(sov.parties)
+    .map(function(p) { return { name: p, count: sov.parties[p] }; })
+    .sort(function(a, b) { return b.count - a.count || a.name.localeCompare(b.name); });
+}
+function ibSum(obj) { return Object.keys(obj).reduce(function(n, k) { return n + obj[k]; }, 0); }
+function ibGerPrev7() {
+  return windowCount(function(a) { return a.kind === "member" && a.party === "Gerindra"; }, 14, 7);
+}
+
+/* A. Scorecard bulanan fraksi */
+function renderIBScorecard() {
+  const el = document.getElementById("ib-scorecard");
+  const lists = document.getElementById("ib-toplists");
+  if (!el) return;
+  const s30 = computeSOV(30), s7 = computeSOV(7);
+  const tot30 = ibSum(s30.parties);
+  function card(lbl, num, sub) {
+    return '<div class="ib-card"><div class="ib-lbl">' + lbl + '</div><div class="ib-num">' + num + '</div><div class="ib-sub">' + sub + '</div></div>';
+  }
+  if (!tot30) {
+    el.innerHTML = '<div class="hot-empty">data tidak cukup &mdash; belum ada artikel anggota dalam 30 hari.</div>';
+    if (lists) lists.innerHTML = "";
+    return;
+  }
+  const ger30 = s30.parties["Gerindra"] || 0;
+  const ger7 = s7.parties["Gerindra"] || 0;
+  const gerPrev7 = ibGerPrev7();
+  const rows30 = ibPartyRows(30);
+  const rank = rows30.map(function(r) { return r.name; }).indexOf("Gerindra") + 1;
+  const share = Math.round(ger30 / tot30 * 1000) / 10;
+  el.innerHTML =
+    card("Share of Voice 30 Hari", share + "%", ger30 + " dari " + tot30 + " artikel anggota") +
+    card("Posisi Fraksi (Volume)", rank + " / " + rows30.length, "urutan jumlah artikel 30 hari") +
+    card("Volume 7 Hari", ger7, ibDeltaHTML(ger7, gerPrev7) + " vs 7 hari sebelumnya (" + gerPrev7 + ")") +
+    card("Volume 30 Hari", ger30, "artikel anggota Gerindra");
+  const gerRows = [], nonRows = [];
+  Object.keys(s30.members).forEach(function(nm) {
+    const row = { name: nm, count: s30.members[nm] };
+    if (PARTY_MAP[nm] === "Gerindra") gerRows.push(row); else nonRows.push(row);
+  });
+  function top5(rows) {
+    rows.sort(function(a, b) { return b.count - a.count || a.name.localeCompare(b.name); });
+    return rows.length ? hotListHTML(rows.slice(0, 5)) : '<div class="hot-empty">data tidak cukup</div>';
+  }
+  if (lists) lists.innerHTML =
+    '<div><div class="hot-col-title">Top 5 Fraksi (30 hari)</div>' + hotListHTML(rows30.slice(0, 5)) + '</div>' +
+    '<div><div class="hot-col-title">Top 5 Anggota Gerindra (30 hari)</div>' + top5(gerRows) + '</div>' +
+    '<div><div class="hot-col-title">Top 5 Anggota Non-Gerindra (30 hari)</div>' + top5(nonRows) + '</div>';
+}
+
+/* B. Pembanding antarfraksi */
+function ibPartyTopTag(arts) {
+  const counts = {};
+  arts.forEach(function(a) {
+    tagsFor(a.title).forEach(function(t) { if (t !== "lainnya") counts[t] = (counts[t] || 0) + 1; });
+  });
+  const keys = Object.keys(counts).sort(function(x, y) { return counts[y] - counts[x] || x.localeCompare(y); });
+  return keys.length ? esc(keys[0]) + " (" + counts[keys[0]] + ")" : "&mdash;";
+}
+function renderIBBenchmark() {
+  const tbl = document.getElementById("ib-benchmark");
+  if (!tbl) return;
+  const s7 = computeSOV(7), s30 = computeSOV(30);
+  const tot30 = ibSum(s30.parties);
+  const arts30 = articlesLastNDays(30).filter(function(a) { return a.kind === "member"; });
+  let h = '<tr><th style="text-align:left">Fraksi</th><th class="num">7 hari</th><th class="num">30 hari</th><th class="num">SoV 30 hari</th><th style="text-align:left">Anggota Teratas</th><th style="text-align:left">Tag Teratas</th><th style="text-align:left">Headline Terbaru</th></tr>';
+  ibPartyRows(30).forEach(function(r) {
+    const p = r.name;
+    const partyArts = sortArtsDesc(arts30.filter(function(a) { return a.party === p; }).slice());
+    const mems = Object.keys(s30.members).filter(function(nm) { return PARTY_MAP[nm] === p; })
+      .sort(function(x, y) { return s30.members[y] - s30.members[x] || x.localeCompare(y); });
+    const topMember = mems.length ? esc(mems[0]) + " (" + s30.members[mems[0]] + ")" : "&mdash;";
+    const latest = partyArts[0];
+    const lt = latest ? String(latest.title || "") : "";
+    const latestHtml = latest
+      ? '<a href="' + esc(latest.link_resolved || latest.link || "#") + '" target="_blank" rel="noopener">' +
+        esc(lt.slice(0, 70)) + (lt.length > 70 ? "&hellip;" : "") + '</a>'
+      : '<span class="hot-empty">data tidak cukup</span>';
+    h += '<tr' + (p === "Gerindra" ? ' class="gerindra-row"' : '') + '>' +
+      '<td>' + esc(p) + '</td>' +
+      '<td class="num">' + (s7.parties[p] || 0) + '</td>' +
+      '<td class="num">' + r.count + '</td>' +
+      '<td class="num">' + (tot30 ? Math.round(r.count / tot30 * 1000) / 10 + "%" : "&mdash;") + '</td>' +
+      '<td>' + topMember + '</td>' +
+      '<td>' + ibPartyTopTag(partyArts) + '</td>' +
+      '<td>' + latestHtml + '</td></tr>';
+  });
+  tbl.innerHTML = h;
+}
+
+/* C. Peta paparan isu per fraksi (volume, bukan sentimen) */
+function renderIBHeatmap() {
+  const tbl = document.getElementById("ib-heatmap");
+  if (!tbl) return;
+  const arts = ibPeriodArts().filter(function(a) { return a.kind === "member"; });
+  if (!arts.length) {
+    tbl.innerHTML = '<tr><td style="text-align:left">data tidak cukup &mdash; tidak ada artikel anggota pada ' + esc(ibPeriodLabel()) + '.</td></tr>';
+    return;
+  }
+  const parties = Object.keys(PARTY_CSS);
+  const m = {}; let max = 1;
+  arts.forEach(function(a) {
+    tagsFor(a.title).forEach(function(t) {
+      if (t === "lainnya") return;
+      const k = t + "|" + a.party;
+      m[k] = (m[k] || 0) + 1;
+      if (m[k] > max) max = m[k];
+    });
+  });
+  let h = "<tr><th style='text-align:left'>Tag Isu</th>" + parties.map(function(p) { return "<th>" + esc(p) + "</th>"; }).join("") + "</tr>";
+  Object.keys(TOPIC_TAGS).forEach(function(t) {
+    h += '<tr><td class="tag-name">' + esc(t) + "</td>" + parties.map(function(p) {
+      const c = m[t + "|" + p] || 0;
+      if (!c) return "<td></td>";
+      const alpha = Math.min(0.85, c / max * 0.85);
+      const fg = alpha > 0.45 ? "#fff" : "inherit";
+      return '<td style="background:rgba(185,28,28,' + alpha.toFixed(2) + ');color:' + fg + '">' + c + "</td>";
+    }).join("") + "</tr>";
+  });
+  tbl.innerHTML = h;
+}
+
+/* D. Sinyal perhatian (kata kunci pada judul; bukan kesimpulan) */
+function renderIBWarnings() {
+  const el = document.getElementById("ib-warnings");
+  if (!el) return;
+  const arts = sortArtsDesc(ibPeriodArts().slice());
+  el.innerHTML = Object.keys(EW_KEYWORDS).map(function(grp) {
+    const hits = ewGroupHits(arts, grp);
+    let h = '<div class="ib-warn-card"><div class="ib-warn-head">' +
+      '<span class="ib-warn-title">&#9888; Sinyal Perhatian &mdash; ' + esc(grp) + '</span>' +
+      '<span class="ib-warn-count">' + hits.length + '</span></div>';
+    if (!hits.length) {
+      h += '<div class="hot-empty">tidak ada judul cocok pada ' + esc(ibPeriodLabel()) + '.</div>';
+    } else {
+      h += hits.slice(0, 4).map(function(a) {
+        const who = a.kind === "member" ? a.entity + (a.party ? " (" + a.party + ")" : "") : a.entity;
+        return '<div class="ib-ev"><a href="' + esc(a.link_resolved || a.link || "#") + '" target="_blank" rel="noopener">' + esc(a.title) + '</a>' +
+          '<div class="ib-ev-meta">' + esc(who) + ' &middot; ' + fmtDate(a.published) + '</div></div>';
+      }).join("");
+      if (hits.length > 4) h += '<div class="ib-ev-meta" style="margin-top:5px">+' + (hits.length - 4) + ' judul lain pada periode ini.</div>';
+    }
+    return h + '</div>';
+  }).join("");
+}
+
+/* E. Brief rapat + F. Laporan bulanan (teks deterministik) */
+function ibEvidenceLines(arts, n) {
+  return sortArtsDesc(arts.slice()).slice(0, n).map(function(a) {
+    const who = a.kind === "member" ? a.entity + (a.party ? " (" + a.party + ")" : "") : a.entity;
+    return "• " + waCleanTitle(a.title) + " — " + who + ", " + waShortDate(a.published) + "\n  " + (a.link_resolved || a.link || "-");
+  });
+}
+const IB_QBANK = [
+  { tags: ["bumn", "danantara", "dividen", "ipo", "merger-akuisisi", "kartel-monopoli"],
+    q: 'Bagaimana penjelasan mitra atas perkembangan isu "[T]" dan langkah mitigasi yang telah dilakukan?' },
+  { tags: ["perdagangan", "ekspor", "impor"],
+    q: 'Bagaimana dampak isu "[T]" terhadap stabilitas harga, konsumen, dan pelaku usaha?' },
+  { tags: ["koperasi", "umkm"],
+    q: 'Apa tindak lanjut program mitra terhadap penguatan koperasi/UMKM pada isu "[T]"?' },
+  { tags: ["investasi"],
+    q: 'Bagaimana penjelasan mitra atas perkembangan isu "[T]" dan implikasinya bagi iklim investasi?' }
+];
+function ibQuestionFor(tag, contoh) {
+  let tpl = 'Bagaimana penjelasan mitra atas perkembangan isu "[T]" dan langkah yang telah dilakukan?';
+  for (var i = 0; i < IB_QBANK.length; i++) {
+    if (IB_QBANK[i].tags.indexOf(tag) !== -1) { tpl = IB_QBANK[i].q; break; }
+  }
+  return tpl.replace("[T]", contoh || tag);
+}
+
+function buildMeetingBrief() {
+  const upd = liveData && liveData.last_updated ? new Date(liveData.last_updated) : new Date();
+  const s7 = computeSOV(7), s30 = computeSOV(30);
+  const tot30 = ibSum(s30.parties);
+  const ger7 = s7.parties["Gerindra"] || 0, ger30 = s30.parties["Gerindra"] || 0;
+  const gerPrev7 = ibGerPrev7();
+  const rows30 = ibPartyRows(30);
+  const rank = rows30.map(function(r) { return r.name; }).indexOf("Gerindra") + 1;
+  const arts7 = articlesLastNDays(7);
+  const agTop = topCounts(arts7.filter(function(a) { return a.kind === "agency"; }), function(a) { return a.entity; }, 5);
+  const tagTop = topCounts(arts7, function(a) { return tagsFor(a.title).filter(function(t) { return t !== "lainnya"; }); }, 5);
+  const ewRows = Object.keys(EW_KEYWORDS).map(function(g) { return { g: g, hits: sortArtsDesc(ewGroupHits(arts7, g).slice()) }; })
+    .sort(function(x, y) { return y.hits.length - x.hits.length || x.g.localeCompare(y.g); });
+  const L = [];
+  L.push("BRIEF RAPAT — INTERNAL FRAKSI GERINDRA / KOMISI VI DPR RI");
+  L.push("Disusun otomatis " + waDate(new Date()) + " | Data per " + waDate(upd));
+  L.push("");
+  L.push("RINGKASAN EKSEKUTIF");
+  var n = 1;
+  if (tot30) {
+    L.push(n++ + ". Posisi fraksi: peringkat " + rank + " dari " + rows30.length + " fraksi berdasarkan volume pemberitaan anggota 30 hari (" + ger30 + " artikel, " + (Math.round(ger30 / tot30 * 1000) / 10) + "% share of voice).");
+    L.push(n++ + ". Volume 7 hari Gerindra: " + ger7 + " artikel — " + ibDeltaWord(ger7, gerPrev7) + " dibanding 7 hari sebelumnya (" + gerPrev7 + ").");
+  } else {
+    L.push(n++ + ". Posisi fraksi: data tidak cukup (belum ada artikel anggota 30 hari).");
+  }
+  if (agTop.length) L.push(n++ + ". Mitra kerja paling aktif diberitakan: " + agTop[0].name + " (" + agTop[0].count + " artikel/7 hari) — kandidat utama bahan rapat.");
+  if (tagTop.length) L.push(n++ + ". Sinyal isu teratas: tag \"" + tagTop[0].name + "\" (" + tagTop[0].count + " judul/7 hari).");
+  if (ewRows[0] && ewRows[0].hits.length) L.push(n++ + ". Sinyal perhatian tertinggi: " + ewRows[0].g + " (" + ewRows[0].hits.length + " judul cocok/7 hari) — antisipasi pertanyaan pada rapat berikutnya.");
+  else L.push(n++ + ". Tidak ada sinyal perhatian menonjol pada 7 hari terakhir.");
+  L.push("");
+  L.push("TOP 5 MITRA KERJA (volume 7 hari)");
+  if (agTop.length) agTop.forEach(function(r, i) { L.push((i + 1) + ". " + r.name + " — " + r.count + " artikel"); });
+  else L.push("(data tidak cukup)");
+  L.push("");
+  L.push("TOP 5 TAG ISU (7 hari)");
+  if (tagTop.length) tagTop.forEach(function(r, i) { L.push((i + 1) + ". " + r.name + " — " + r.count + " judul"); });
+  else L.push("(data tidak cukup)");
+  L.push("");
+  L.push("POSISI FRAKSI (volume anggota 30 hari)");
+  if (tot30) rows30.forEach(function(r, i) {
+    L.push((i + 1) + ". " + r.name + " — " + r.count + " artikel" + (r.name === "Gerindra" ? "  << GERINDRA" : ""));
+  });
+  else L.push("(data tidak cukup)");
+  L.push("");
+  L.push("SINYAL PERHATIAN (7 hari, hitungan judul cocok kata kunci)");
+  ewRows.forEach(function(rw) {
+    L.push("- " + rw.g + ": " + rw.hits.length + " judul" + (rw.hits.length ? " | contoh: " + waCleanTitle(rw.hits[0].title) : ""));
+  });
+  L.push("");
+  L.push("10 HEADLINE BUKTI TERBARU (30 hari)");
+  const evid = ibEvidenceLines(articlesLastNDays(30), 10);
+  if (evid.length) evid.forEach(function(x) { L.push(x); });
+  else L.push("(data tidak cukup)");
+  L.push("");
+  L.push("BANK PERTANYAAN RDP/RAKER (template deterministik, bukan kesimpulan)");
+  if (tagTop.length) tagTop.slice(0, 3).forEach(function(r, i) {
+    const contohArt = sortArtsDesc(arts7.filter(function(a) { return tagsFor(a.title).indexOf(r.name) !== -1; }).slice())[0];
+    L.push((i + 1) + ". " + ibQuestionFor(r.name, contohArt ? waCleanTitle(contohArt.title) : r.name));
+  });
+  else L.push("(data tidak cukup untuk menyusun pertanyaan)");
+  L.push("");
+  L.push("Catatan: brief ini dihitung otomatis dan deterministik dari arsip berita publik (live_data.json). Bukan analisis sentimen, bukan verifikasi kebenaran substansi berita, bukan kesimpulan hukum. Statistik FALLBACK tidak disertakan.");
+  return L.join("\n");
+}
+
+function buildMonthlyReport() {
+  const upd = liveData && liveData.last_updated ? new Date(liveData.last_updated) : null;
+  const ss = (liveData && liveData.scrape_status) || {};
+  const s7 = computeSOV(7), s30 = computeSOV(30);
+  const tot30 = ibSum(s30.parties);
+  const rows30 = ibPartyRows(30);
+  const arts30 = articlesLastNDays(30);
+  const arts30mem = arts30.filter(function(a) { return a.kind === "member"; });
+  const monthLbl = new Date().toLocaleDateString("id-ID", { month: "long", year: "numeric" });
+  const L = [];
+  L.push("LAPORAN BULANAN — INTELIJEN MEDIA KOMISI VI DPR RI");
+  L.push("Internal Fraksi Gerindra — bahan pimpinan");
+  L.push("");
+  L.push("PERIODE: " + monthLbl + " (jendela data bergulir 30 hari)");
+  L.push("KESEGARAN DATA: " + (upd ? waDate(upd) : "tidak diketahui") +
+    " | Status: lembaga=" + (ss.phase_1_agency || "-") + ", anggota=" + (ss.phase_2_members || "-") + ", statistik=" + (ss.phase_3_macro || "-"));
+  L.push("");
+  L.push("SCORECARD FRAKSI GERINDRA");
+  if (tot30) {
+    const ger30 = s30.parties["Gerindra"] || 0, ger7 = s7.parties["Gerindra"] || 0;
+    const gerPrev7 = ibGerPrev7();
+    L.push("- Share of Voice 30 hari: " + (Math.round(ger30 / tot30 * 1000) / 10) + "% (" + ger30 + "/" + tot30 + " artikel anggota)");
+    L.push("- Posisi volume antarfraksi: " + (rows30.map(function(r) { return r.name; }).indexOf("Gerindra") + 1) + " dari " + rows30.length);
+    L.push("- Volume 7 hari: " + ger7 + " (" + ibDeltaWord(ger7, gerPrev7) + " vs 7 hari sebelumnya: " + gerPrev7 + ")");
+    L.push("- Volume 30 hari: " + ger30);
+  } else L.push("- data tidak cukup");
+  L.push("");
+  L.push("PEMBANDING ANTARFRAKSI (7 hari | 30 hari | SoV 30 hari)");
+  rows30.forEach(function(r) {
+    L.push("- " + r.name + ": " + (s7.parties[r.name] || 0) + " | " + r.count + " | " +
+      (tot30 ? Math.round(r.count / tot30 * 1000) / 10 + "%" : "-") + (r.name === "Gerindra" ? "  << GERINDRA" : ""));
+  });
+  L.push("");
+  L.push("RINGKASAN PETA ISU (tag pada judul artikel anggota, 30 hari)");
+  const tagRows = topCounts(arts30mem, function(a) { return tagsFor(a.title).filter(function(t) { return t !== "lainnya"; }); }, 5);
+  if (tagRows.length) tagRows.forEach(function(r) {
+    const per = {};
+    arts30mem.forEach(function(a) { if (tagsFor(a.title).indexOf(r.name) !== -1) per[a.party] = (per[a.party] || 0) + 1; });
+    const top = Object.keys(per).sort(function(x, y) { return per[y] - per[x] || x.localeCompare(y); })[0];
+    L.push("- " + r.name + ": " + r.count + " judul (paparan tertinggi: " + top + " " + per[top] + ")");
+  });
+  else L.push("- data tidak cukup");
+  L.push("");
+  L.push("SINYAL PERHATIAN (30 hari)");
+  Object.keys(EW_KEYWORDS).forEach(function(g) {
+    const hits = sortArtsDesc(ewGroupHits(arts30, g).slice());
+    L.push("- " + g + ": " + hits.length + " judul" + (hits.length ? " | contoh: " + waCleanTitle(hits[0].title) : ""));
+  });
+  L.push("");
+  L.push("HEADLINE BUKTI (10 terbaru, 30 hari)");
+  const evid = ibEvidenceLines(arts30, 10);
+  if (evid.length) evid.forEach(function(x) { L.push(x); });
+  else L.push("(data tidak cukup)");
+  L.push("");
+  L.push("DISCLAIMER: Laporan ini adalah ringkasan otomatis berbasis arsip berita publik dan perhitungan deterministik. Bukan penilaian sentimen, bukan verifikasi kebenaran substansi berita, dan bukan kesimpulan hukum.");
+  return L.join("\n");
+}
+
+function ibDownloadTXT(name, txt) {
+  const b = new Blob(["\uFEFF" + txt.replace(/\n/g, "\r\n")], { type: "text/plain;charset=utf-8;" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(b);
+  a.download = name;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(function() { URL.revokeObjectURL(a.href); }, 2000);
+}
+
+let ibBound = false;
+function bindIntel() {
+  if (ibBound) return;
+  ibBound = true;
+  ["ibp-7", "ibp-30", "ibp-mtd"].forEach(function(id) {
+    const b = document.getElementById(id);
+    if (!b) return;
+    b.addEventListener("click", function() {
+      ibPeriod = b.dataset.ibp;
+      ["ibp-7", "ibp-30", "ibp-mtd"].forEach(function(x) {
+        document.getElementById(x).classList.toggle("active", x === "ibp-" + ibPeriod);
+      });
+      renderIBHeatmap();
+      renderIBWarnings();
+    });
+  });
+  const box = document.getElementById("ib-brief-box");
+  const pre = document.getElementById("ib-brief-text");
+  document.getElementById("ib-brief-btn").addEventListener("click", function() {
+    pre.textContent = buildMeetingBrief();
+    box.style.display = "block";
+    box.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+  document.getElementById("ib-brief-copy").addEventListener("click", function() { copyText(pre.textContent, this); });
+  document.getElementById("ib-brief-wa").addEventListener("click", function() {
+    if (!pre.textContent) pre.textContent = buildMeetingBrief();
+    window.open("https://wa.me/?text=" + encodeURIComponent(pre.textContent.slice(0, 3500)), "_blank", "noopener");
+  });
+  document.getElementById("ib-brief-txt").addEventListener("click", function() {
+    if (!pre.textContent) pre.textContent = buildMeetingBrief();
+    ibDownloadTXT("Brief_Rapat_Komisi_VI_" + dayKey(new Date()) + ".txt", pre.textContent);
+  });
+  document.getElementById("ib-brief-print").addEventListener("click", function() {
+    if (!pre.textContent) pre.textContent = buildMeetingBrief();
+    box.style.display = "block";
+    document.body.classList.add("print-brief");
+    window.print();
+  });
+  window.addEventListener("afterprint", function() { document.body.classList.remove("print-brief"); });
+  document.getElementById("ib-monthly-btn").addEventListener("click", function() {
+    ibDownloadTXT("Laporan_Bulanan_Komisi_VI_" + new Date().toISOString().slice(0, 7) + ".txt", buildMonthlyReport());
+  });
+}
+function renderIntel() {
+  renderIBScorecard();
+  renderIBBenchmark();
+  renderIBHeatmap();
+  renderIBWarnings();
+  bindIntel();
 }
 
 loadData();
