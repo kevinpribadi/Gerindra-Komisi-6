@@ -2422,123 +2422,123 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17994,
+        "value": 17998,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-06T21:27:08.172048",
+        "fetched_at": "2026-07-06T23:04:56.761182",
         "prev_close": 17788,
-        "change_pct": 1.16
+        "change_pct": 1.18
     },
     "ihsg": {
         "value": 5875.78,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-06T21:27:08.172048",
+        "fetched_at": "2026-07-06T23:04:56.761182",
         "prev_close": 5744.56,
         "change_pct": 2.28
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 2710,
+            "value": 2790,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 2690,
-            "change_pct": 0.74
+            "prev_close": 2710,
+            "change_pct": 2.95
         },
         "BMRI": {
-            "value": 4010,
+            "value": 4030,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Bank Mandiri",
-            "prev_close": 3900,
-            "change_pct": 2.82
+            "prev_close": 4010,
+            "change_pct": 0.5
         },
         "BBNI": {
-            "value": 3250,
+            "value": 3280,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3170,
-            "change_pct": 2.52
+            "prev_close": 3250,
+            "change_pct": 0.92
         },
         "BBTN": {
-            "value": 1160,
+            "value": 1165,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Bank Tabungan Negara",
-            "prev_close": 1090,
-            "change_pct": 6.42
+            "prev_close": 1160,
+            "change_pct": 0.43
         },
         "TLKM": {
-            "value": 2520,
+            "value": 2480,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Telkom Indonesia",
-            "prev_close": 2450,
-            "change_pct": 2.86
+            "prev_close": 2520,
+            "change_pct": -1.59
         },
         "SMGR": {
-            "value": 1425,
+            "value": 1405,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Semen Indonesia",
-            "prev_close": 1395,
-            "change_pct": 2.15
+            "prev_close": 1425,
+            "change_pct": -1.4
         },
         "ANTM": {
-            "value": 2930,
+            "value": 2940,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Aneka Tambang",
-            "prev_close": 2760,
-            "change_pct": 6.16
+            "prev_close": 2930,
+            "change_pct": 0.34
         },
         "PGAS": {
-            "value": 1390,
+            "value": 1405,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Perusahaan Gas Negara",
-            "prev_close": 1365,
-            "change_pct": 1.83
+            "prev_close": 1390,
+            "change_pct": 1.08
         },
         "PTBA": {
-            "value": 2310,
+            "value": 2330,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Bukit Asam",
-            "prev_close": 2270,
-            "change_pct": 1.76
+            "prev_close": 2310,
+            "change_pct": 0.87
         },
         "JSMR": {
-            "value": 2740,
+            "value": 2760,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-06T21:27:08.172048",
+            "fetched_at": "2026-07-06T23:04:56.761182",
             "name": "Jasa Marga",
-            "prev_close": 2700,
-            "change_pct": 1.48
+            "prev_close": 2740,
+            "change_pct": 0.73
         }
     },
     "scrape_status": {
@@ -2547,5 +2547,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-07-06T21:27:08.172048"
+    "last_updated": "2026-07-06T23:04:56.761182"
 }
