@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T14:23:12.745824",
+  "generated_at": "2026-07-06T17:41:18.768064",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 18,
-    "Golkar": 20,
+    "Gerindra": 15,
+    "PDI-P": 19,
+    "Golkar": 19,
     "NasDem": 7,
     "PKB": 11,
-    "PKS": 19,
+    "PKS": 20,
     "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 27,
-    "PDI-P": 40,
+    "Gerindra": 28,
+    "PDI-P": 41,
     "Golkar": 34,
     "NasDem": 14,
     "PKB": 15,
-    "PKS": 22,
+    "PKS": 23,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
-    "bumn": 51,
+    "bumn": 50,
     "danantara": 25,
     "impor": 1,
-    "ekspor": 11,
+    "ekspor": 12,
     "perdagangan": 11,
     "umkm": 11,
     "koperasi": 57,
@@ -50,13 +50,13 @@
     "Andre Rosiade": 14,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
-    "Kawendra Lukistian": 7,
+    "Kawendra Lukistian": 8,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 6,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 9,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 5,
+    "Ida Nurlaela": 6,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 7,
@@ -77,7 +77,7 @@
     "Amin Ak.": 5,
     "Rizal Bawazier": 7,
     "Ghufran": 1,
-    "Ismail": 9,
+    "Ismail": 10,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
@@ -86,12 +86,47 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 20,
+    "Hukum/Audit": 19,
     "Kinerja BUMN": 20,
-    "Perdagangan": 29,
+    "Perdagangan": 30,
     "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "Komisi VI usulkan PTPN kembangkan bioetanol dari sorgum - ANTARA News",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 15:48:08 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5637957/komisi-vi-usulkan-ptpn-kembangkan-bioetanol-dari-sorgum"
+    },
+    {
+      "title": "Menkop: Koperasi buka akses pembiayaan bagi pengelola desa wisata - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 15:24:21 GMT",
+      "link": "https://www.antaranews.com/berita/5637923/menkop-koperasi-buka-akses-pembiayaan-bagi-pengelola-desa-wisata"
+    },
+    {
+      "title": "Danantara dan Perusahaan Singapura MoU untuk Ekspor Listrik - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 14:30:36 GMT",
+      "link": "https://bisnis.tempo.co/read/2112201/danantara-dan-perusahaan-singapura-mou-untuk-ekspor-listrik"
+    },
+    {
+      "title": "Pusat Finansial RI Bakal Punya Lembaga Pengelola, Modal Awal Bisa dari Danantara - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 14:25:55 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260706/9/1986006/pusat-finansial-ri-bakal-punya-lembaga-pengelola-modal-awal-bisa-dari-danantara"
+    },
+    {
+      "title": "Komisi VI DPR RI ingatkan PTPN III utamakan penciptaan lapangan kerja - ANTARA News",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 14:23:09 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5637844/komisi-vi-dpr-ri-ingatkan-ptpn-iii-utamakan-penciptaan-lapangan-kerja"
+    },
     {
       "title": "TEI ke-41 Siap Digelar, Kemendag Dorong Pelaku Usaha Tembus Pasar Dunia - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 10:19:00 GMT",
       "link": "https://money.kompas.com/read/2026/07/06/171911626/pemerintah-akan-jadikan-danantara-modal-awal-pusat-finansial-internasional"
-    },
-    {
-      "title": "Modal Awal Lembaga Pengelola PFII dari Danantara-Barang Milik Negara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 10:10:30 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260706163856-17-748450/modal-awal-lembaga-pengelola-pfii-dari-danantara-barang-milik-negara"
-    },
-    {
-      "title": "Kementerian Perdagangan Ajak Pelaku Usaha Jawa Tengah Perluas Pasar Ekspor melalui Trade Expo Indonesia 2026 - analisnews.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 09:57:51 GMT",
-      "link": "https://analisnews.co.id/index.php/2026/07/06/kementerian-perdagangan-ajak-pelaku-usaha-jawa-tengah-perluas-pasar-ekspor-melalui-trade-expo-indonesia-2026/"
-    },
-    {
-      "title": "Djoni: Tonggak Kolaborasi Pariwisata dan Koperasi - Tribunnews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 09:50:17 GMT",
-      "link": "https://babel.tribunnews.com/lokal/19580/djoni-tonggak-kolaborasi-pariwisata-dan-koperasi"
-    },
-    {
-      "title": "Prabowo tunjuk Danantara laksanakan perdagangan listrik dengan Singapura - ANTARA News Kepri",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 09:41:08 GMT",
-      "link": "https://kepri.antaranews.com/berita/261853/prabowo-tunjuk-danantara-laksanakan-perdagangan-listrik-dengan-singapura"
-    },
-    {
-      "title": "Prabowo Tunjuk Danantara Kelola Perdagangan Listrik ke Singapura, Target 3,4 GW pada 2035 - arahkita.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 09:30:00 GMT",
-      "link": "https://arahkita.com/ekonomi/116727_prabowo-tunjuk-danantara-kelola-perdagangan-listrik-ke-singapura-target-34-gw-pada-2035"
     }
   ]
 }
