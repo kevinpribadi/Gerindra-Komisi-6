@@ -1,52 +1,53 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T08:56:26.451436",
+  "generated_at": "2026-07-06T09:00:54.124719",
   "party_counts_7d": {
-    "Gerindra": 11,
+    "Gerindra": 13,
     "PDI-P": 17,
     "Golkar": 17,
     "NasDem": 4,
-    "PKB": 8,
+    "PKB": 9,
     "PKS": 16,
     "PAN": 3,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 22,
+    "Gerindra": 20,
     "PDI-P": 37,
     "Golkar": 30,
     "NasDem": 10,
-    "PKB": 12,
+    "PKB": 13,
     "PKS": 20,
     "PAN": 10,
     "Demokrat": 10
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 8,
-    "Kementerian Perdagangan": 17,
+    "Kementerian BUMN": 11,
+    "Kementerian Perdagangan": 18,
     "Kementerian Koperasi": 20,
     "Danantara": 14,
-    "BPKN": 11,
-    "KPPU": 12,
-    "BP Batam": 15,
+    "BPKN": 12,
+    "KPPU": 13,
+    "BP Batam": 16,
     "BPK Sabang": 5,
     "Dekopin": 13,
-    "Badan Pengaturan BUMN": 11
+    "Badan Pengaturan BUMN": 13
   },
   "topic_counts_30d": {
-    "bumn": 38,
+    "bumn": 42,
     "danantara": 15,
+    "impor": 1,
     "ekspor": 6,
-    "umkm": 7,
+    "umkm": 8,
     "perdagangan": 5,
     "koperasi": 50,
     "dividen": 1,
-    "kartel-monopoli": 10,
+    "kartel-monopoli": 11,
     "investasi": 5,
     "merger-akuisisi": 2
   },
   "member_counts_30d": {
-    "Andre Rosiade": 10,
+    "Andre Rosiade": 8,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
     "Kawendra Lukistian": 6,
@@ -69,7 +70,7 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 5,
+    "Rivqy Abdul Halim": 6,
     "Nasim Khan": 5,
     "Amin Ak.": 5,
     "Rizal Bawazier": 7,
@@ -83,10 +84,10 @@
     "Herman Khaeron": 6
   },
   "early_warning_counts": {
-    "Hukum/Audit": 11,
-    "Kinerja BUMN": 15,
-    "Perdagangan": 23,
-    "Koperasi/UMKM": 53
+    "Kinerja BUMN": 17,
+    "Hukum/Audit": 12,
+    "Perdagangan": 24,
+    "Koperasi/UMKM": 54
   },
   "top_headlines": [
     {
@@ -94,42 +95,42 @@
       "entity": "Rizal Bawazier",
       "kind": "anggota",
       "published": "Mon, 06 Jul 2026 01:02:12 GMT",
-      "link": "https://pekalongankota.go.id/berita/rizal-bawazier-kawal-percepatan-penanganan-sungai-bremimeduri-.html"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEttMGl1RGQyOVBfTFFtVllsME1jMW1DWDB2VnhuTWxOR1BLdEIzNHhYM2JuMFdNWTdJc0lrOGNSMTVmSTZJRW9fQnpMT0xxdkxwWDl5YzZmYXp6MDlNMGthRURPNVZDOGlQRjFKbFRueExsS2FqN2ItNm1HNkowQTZ0VXRCNGd1cVZjRjFoUGFvYV80S3Y3UXE3S25KT0lkQkJRZnp3?oc=5"
     },
     {
       "title": "| Anggota DPR Dorong Perpres Tata Kelola Terpadu Koperasi Merah Putih - jurnas.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Mon, 06 Jul 2026 00:43:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661445/anggota-dpr-dorong-perpres-tata-kelola-terpadu-koperasi-merah-putih/"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcU1HTWRMN3FQTUpVbFFVaTBOWnZnS19MX0ZfQ2IzZndDVF95dEY1RU04aEFCQmh4Mkg3bVBHVi1UX0cxc1QxcFpvVkxtVFdoYWtUZVlLV0VEQ3FBTEhES01XSjdDZWhlYjhqOWxtX1FVbVhoZmNPZXpsQ21fUUZpbHlHeDdVUHJaRGlMdFBlZzVBYWVVRW55MHlzZnJodEhtN2NnZzF0RmRHdHM?oc=5"
     },
     {
       "title": "Dua Menteri ke Belitung Launching Integrasi Pokdarwis ke Koperasi - TrawangNews.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:38:43 GMT",
-      "link": "https://www.trawangnews.com/dua-menteri-ke-belitung-launching-integrasi-pokdarwis-ke-koperasi/"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXRHbzNNN3ZzQzVYSXF0bVJSdmtLbUV0MWh0WTQ2UUV1TzdxNUNEVFhzRkphdnZIS3ZvenNMSGtTQkJaZ3p3Qms1RHdXWTBzZDBrUUtqSDdZN2JoWlhNUFdlOTlWanNmS0tKeHg5cGN5SGlzRHVmcF9JVXB6OFVwN2RiZHJBb0FTLVd4b25jQlVNSmVubG9RVWJB?oc=5"
     },
     {
       "title": "Kemendag rangkum transaksi 135 juta dolar AS dari \"business matching \" - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:28:04 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/412339/kemendag-rangkum-transaksi-135-juta-dolar-as-dari-business-matching-"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeW94el9CYUdrWEhxWVQtanJYUHdYdFZOZWcxX1JiajRvVV8yWHhMbHB5ZXFIZ1oxTXVOT2t0ZkRndWFHeGtuLUVEMWxIMHlIdWN5T0x3RV9veFZyTTFPTGpxWHZCSjBnT21uTl9SUmZ5WEhqdnZzTWl3endpS3NZSDB6Ynp6WjlKeFFndFNlM1VOampObWtWV0o0Vk0yQ1BPME1FZDFxZmdrcll0dDhEUFNtaTd5dw?oc=5"
     },
     {
       "title": "Kemendag Tarik Minyakita Beraroma Solar di Jawa Tengah - publika.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:08:21 GMT",
-      "link": "https://www.publika.id/kemendag-tarik-minyakita-bau-solar"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SUVJpazBoWEl3eW1qQVZCRnYxektrNjd1Nm5qMGdSd0FLVFBwOXc3UXdRaEg3dW5DSFp5MGRrS2xzNG5YTUxVc1pubVdrWnVNVWh5dHFQTFRuSVFHVUFCdjFaQWZTTXF3?oc=5"
     },
     {
       "title": "Produsen Minyakita Bau Solar Terancam Sanksi Berat - detikFinance",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 00:00:46 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8561199/produsen-minyakita-bau-solar-terancam-sanksi-berat"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONF9yakhYTm5heVFIY2wyUXdsRHQ5VUJkdl9rXy0xMi1OTmt0dTV4MVBIU1pVYjVHbmhZTlJ3ZGNDRjFGVDdKcW5ya05rOGRBUW43RFRid3FMSjBZTlg2T0dpTjRhMGpIWFdIdGtUWWpOVHpTMW1pSkFoZjludlBIQkU3ZUJNZWtRQmc3NEJZckpXX1F5VUJfQXRvcDkyaDQtMXBSdS1YUm9tcmFk0gGyAUFVX3lxTE5xQmFLUDltZW9vUURXWUQ1MFZDNFRwOGNoVThwaE40ZWVBanlmU2EwUGVOUlFjR2c4ZGtEUHlna19UY3V0eWgyQ19XZ2YxMGQzYUtMRExHZnBhQ3hGOWVIYlY4eG5zXzFFdFJGS0JiTm4zVTUxSDVEdHBfN3kwOGFlZno1UnRyOWFvcEdBVGlkckdUcjZjVXlKc18zNDJvbXJVYVlacW9QM1g4LXphWVY2bGc?oc=5"
     },
     {
       "title": "Pokdarwis Desa Keciput dan Desa Pulau Seliu Diintegrasikan Dengan Koperasi Desa Merah Putih - Kominfo Belitung",
@@ -153,25 +154,18 @@
       "link": "https://insight.kontan.co.id/news/koperasi-sawit-bisa-mengelola-lahan-milik-agrinas-palma"
     },
     {
-      "title": "Siaran Pers: Menpar: Integrasi Pokdarwis dan Koperasi Perkuat Ekonomi Desa Wisata Belitung - Kementerian Pariwisata",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 05 Jul 2026 21:09:44 GMT",
-      "link": "https://kemenpar.go.id/berita/siaran-pers-menpar-integrasi-pokdarwis-dan-koperasi-perkuat-ekonomi-desa-wisata-belitung"
-    },
-    {
       "title": "Jumlah Desa Bisa Ekspor Terus Tumbuh, Kemendag Catat Kini 2.616 Titik - Validnews.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sun, 05 Jul 2026 21:05:33 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/07/06/jumlah-desa-bisa-ekspor-terus-tumbuh-kemendag-catat-kini-2616-titik-083000831"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU5IVVZMY2tiUU13SU9aM0NqX052TkpBLUNRR3BOU29pbG9rQ3BWbEJBV3dTVkE2RThXbkh4Q1dyRFVBWjNFYWdFb2Fab2t1RGNXRHV2Q09aaFliM05YLW1TQ2tHSkZSdXFjcnozR0FmMkZWWFBWaTdqV2JoeWxNZEVVWGRJMXdudjNsZ3dJM2I0RDZJdnRGVGc3SUtiOGVERHhUOEgtNllvdXJZSHZpdk85bm5kU3BOV2Z0M1BR?oc=5"
     },
     {
       "title": "Belitung Jadi Pilot Project Transformasi Pokdarwis Lewat Koperasi - detikcom",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 05 Jul 2026 21:00:36 GMT",
-      "link": "https://www.detik.com/sumbagsel/berita/d-8561209/belitung-jadi-pilot-project-transformasi-pokdarwis-lewat-koperasi"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVNiX1ktZjExejJNNUpHeGNoT2s5VmZOQ2lHVEx6YXlpNzBFdFBVeXVSVmxQbXJJa1hOZUZ0cTVvNUxrUGRhTE50YUpTM0ttLWZ2bndZZGRMYlJTakx2VkFQMG5YRThPSm5iUE54czRlYkdEdHhKbUtCNzUwOXB0T0FIelRQT2hLNUQ5aEVoRGN2SnpsdDNRcW9aU1g1QVNqNzBWVVNDaGJ0ZUxTbF9oMnJld2nSAboBQVVfeXFMTTdEUnZqOU1vdjFIYlpzZG13b3JUd3ltM0I5dDZrVDlhVTZ4T3B4d1BYdXhXakFwb0kzeDB2aEtDbVVnQ0pmS08zMmpCVjZNMUI4OUYyRnZ6azVIOGZLOFpHVkxGZFQ1TDNSUkdKTktKOTdrdDBheXYtRElkVnNkVEVqbHFvT1RMUHU2VlVFVy00Q1ZKOE84NHdkMHlLZmJhdC02VXRzNm4tYW4wN1ZnZWowV251YXo2MUpB?oc=5"
     },
     {
       "title": "KPPU Gandeng MUI Kawal Kemitraan UMKM dan Persaingan Usaha di... - SINDOmakassar",
@@ -179,6 +173,13 @@
       "kind": "lembaga",
       "published": "Sun, 05 Jul 2026 17:01:20 GMT",
       "link": "https://sindomakassar.com/read/sulsel/26587/kppu-gandeng-mui-kawal-kemitraan-umkm-dan-persaingan-usaha-di-sektor-syariah-1783267677"
+    },
+    {
+      "title": "KPPU Gandeng MUI Kawal Kemitraan UMKM dan Persaingan Usaha di... - SINDOmakassar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 05 Jul 2026 17:01:20 GMT",
+      "link": "https://sindomakassar.com/beritaamp/sulsel/26587/kppu-gandeng-mui-kawal-kemitraan-umkm-dan-persaingan-usaha-di-sektor-syariah-1783267677"
     },
     {
       "title": "RIEKE DIAH PITALOKA Bawa Semangat Literasi ke Dunia Sinema - Epaper Media Indonesia",
