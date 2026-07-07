@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T16:28:39.270667",
+  "generated_at": "2026-07-07T19:00:40.951461",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 14,
     "PDI-P": 21,
     "Golkar": 15,
     "NasDem": 11,
@@ -16,8 +16,8 @@
     "PDI-P": 48,
     "Golkar": 37,
     "NasDem": 18,
-    "PKB": 19,
-    "PKS": 27,
+    "PKB": 21,
+    "PKS": 28,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -40,9 +40,9 @@
     "perdagangan": 16,
     "ekspor": 10,
     "umkm": 6,
-    "koperasi": 61,
+    "koperasi": 60,
     "ipo": 1,
-    "investasi": 9,
+    "investasi": 10,
     "kartel-monopoli": 12,
     "merger-akuisisi": 2
   },
@@ -72,10 +72,10 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 9,
-    "Nasim Khan": 7,
+    "Rivqy Abdul Halim": 10,
+    "Nasim Khan": 8,
     "Ida Fauziyah": 1,
-    "Amin Ak.": 5,
+    "Amin Ak.": 6,
     "Rizal Bawazier": 8,
     "Ghufran": 2,
     "Ismail": 12,
@@ -88,11 +88,32 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 21,
-    "Kinerja BUMN": 18,
-    "Perdagangan": 30,
-    "Koperasi/UMKM": 58
+    "Kinerja BUMN": 19,
+    "Perdagangan": 32,
+    "Koperasi/UMKM": 57
   },
   "top_headlines": [
+    {
+      "title": "Video KDMP Banyak Diparodikan, Menkop akan Evaluasi dan Cari Solusi - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 18:10:00 GMT",
+      "link": "https://www.inilah.com/viral-video-kdmp-diparodikan-menkop-janji-bakal-evaluasi-dan-cari-solusi"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 17:21:00 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260708/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 17:15:43 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260708/MTEyNg%3D%3D"
+    },
     {
       "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan pengenaan tarif listrik per jam untuk rumah tangga. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -176,27 +197,6 @@
       "kind": "anggota",
       "published": "Tue, 07 Jul 2026 10:37:52 GMT",
       "link": "https://www.suarainvestor.com/ptpn-iii-diminta-jangan-hanya-andalkan-kenaikkan-harga-cpo/"
-    },
-    {
-      "title": "Harga CPO Melemah, Kemendag Sesuaikan Tarif Bea Keluar Juli 2026 - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 10:23:15 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/07/harga-cpo-melemah-kemendag-sesuaikan-tarif-bea-keluar-juli-2026/"
-    },
-    {
-      "title": "OJK dan KPPU Perkuat Sinergi, Hasilkan Sejumlah Ruang Lingkup Kerja Sama Baru - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 10:03:32 GMT",
-      "link": "https://nasional.kontan.co.id/news/ojk-dan-kppu-perkuat-sinergi-hasilkan-sejumlah-ruang-lingkup-kerja-sama-baru"
-    },
-    {
-      "title": "KPPU-OJK Teken MoU, Perkuat Pengawasan Persaingan di Sektor Jasa Keuangan - Bengkulu News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 09:59:45 GMT",
-      "link": "https://www.bengkulunews.co.id/kppu-ojk-teken-mou-perkuat-pengawasan-persaingan-di-sektor-jasa-keuangan"
     }
   ]
 }
