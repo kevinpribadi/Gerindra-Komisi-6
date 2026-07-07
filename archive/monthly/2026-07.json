@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T06:44:33.131255",
+  "generated_at": "2026-07-07T10:24:36.922580",
   "party_counts_7d": {
-    "Gerindra": 16,
-    "PDI-P": 20,
+    "Gerindra": 15,
+    "PDI-P": 23,
     "Golkar": 15,
-    "NasDem": 8,
-    "PKB": 10,
+    "NasDem": 10,
+    "PKB": 7,
     "PKS": 22,
     "PAN": 1,
-    "Demokrat": 4
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 30,
-    "PDI-P": 43,
+    "PDI-P": 46,
     "Golkar": 35,
-    "NasDem": 15,
-    "PKB": 17,
+    "NasDem": 17,
+    "PKB": 18,
     "PKS": 25,
     "PAN": 12,
     "Demokrat": 11
@@ -28,22 +28,23 @@
     "Danantara": 20,
     "BPKN": 13,
     "KPPU": 20,
-    "BP Batam": 17,
+    "BP Batam": 18,
     "BPK Sabang": 5,
-    "Dekopin": 17,
+    "Dekopin": 18,
     "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
     "bumn": 48,
     "danantara": 27,
     "impor": 1,
-    "ekspor": 13,
-    "perdagangan": 10,
-    "umkm": 11,
-    "koperasi": 58,
-    "kartel-monopoli": 14,
-    "investasi": 6,
-    "merger-akuisisi": 1
+    "perdagangan": 12,
+    "ekspor": 11,
+    "umkm": 10,
+    "ipo": 1,
+    "koperasi": 60,
+    "kartel-monopoli": 12,
+    "investasi": 7,
+    "merger-akuisisi": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 14,
@@ -53,10 +54,10 @@
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 6,
-    "Darmadi Durianto": 4,
-    "Rieke Diah Pitaloka": 10,
+    "Darmadi Durianto": 5,
+    "Rieke Diah Pitaloka": 11,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 7,
+    "Ida Nurlaela": 8,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 8,
@@ -66,12 +67,12 @@
     "Rizki Faisal": 6,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 7,
-    "Asep Wahyuwijaya": 3,
-    "I Nengah Senantara": 3,
+    "Asep Wahyuwijaya": 4,
+    "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 8,
+    "Rivqy Abdul Halim": 9,
     "Nasim Khan": 6,
     "Ida Fauziyah": 1,
     "Amin Ak.": 5,
@@ -86,12 +87,103 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
-    "Kinerja BUMN": 19,
+    "Hukum/Audit": 20,
+    "Kinerja BUMN": 18,
     "Perdagangan": 32,
-    "Koperasi/UMKM": 60
+    "Koperasi/UMKM": 61
   },
   "top_headlines": [
+    {
+      "title": "Harga CPO Melemah, Kemendag Sesuaikan Tarif Bea Keluar Juli 2026 - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 10:23:15 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/07/harga-cpo-melemah-kemendag-sesuaikan-tarif-bea-keluar-juli-2026/"
+    },
+    {
+      "title": "OJK dan KPPU Perkuat Sinergi, Hasilkan Sejumlah Ruang Lingkup Kerja Sama Baru - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 10:03:32 GMT",
+      "link": "https://nasional.kontan.co.id/news/ojk-dan-kppu-perkuat-sinergi-hasilkan-sejumlah-ruang-lingkup-kerja-sama-baru"
+    },
+    {
+      "title": "KPPU-OJK Teken MoU, Perkuat Pengawasan Persaingan di Sektor Jasa Keuangan - Bengkulu News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 09:59:45 GMT",
+      "link": "https://www.bengkulunews.co.id/kppu-ojk-teken-mou-perkuat-pengawasan-persaingan-di-sektor-jasa-keuangan"
+    },
+    {
+      "title": "Menteri Koperasi Akui Evaluasi Pelatihan Kopdes Merah Putih usai 5 Calon Manajer Meninggal | DIPO - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 09:09:00 GMT",
+      "link": "https://www.kompas.tv/video/679213/menteri-koperasi-akui-evaluasi-pelatihan-kopdes-merah-putih-usai-5-calon-manajer-meninggal-dipo"
+    },
+    {
+      "title": "Komisi VI Akan Panggil Danantara soal Dugaan Rekayasa Laporan Keuangan di PT Pos Indonesia - Herald ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 09:05:00 GMT",
+      "link": "https://herald.id/2026/07/07/komisi-vi-akan-panggil-danantara-soal-dugaan-rekayasa-laporan-keuangan-di-pt-pos-indonesia/"
+    },
+    {
+      "title": "Legislator I Nengah Desak Agrinas Palma Hitung Nilai Aset 4,1 Juta... - Telusur.co.id",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 08:33:29 GMT",
+      "link": "https://telusur.co.id/detail/legislator-i-nengah-desak-agrinas-palma-hitung-nilai-aset-41-juta-hektare-sawit-dorong-hilirisasi-hingga-produksi-minyak-goreng"
+    },
+    {
+      "title": "Jadi Fondasi Masa Depan, Kebijakan Hilirisasi Untungkan Bisnis Antam - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 08:11:04 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260707145718-17-748804/jadi-fondasi-masa-depan-kebijakan-hilirisasi-untungkan-bisnis-antam"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Usulkan Pengauatan Penerapan Pasal 3 UU Tipikor - Harian Jogja",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 08:07:13 GMT",
+      "link": "https://news.harianjogja.com/r-1262520/rieke-diah-pitaloka-usulkan-pengauatan-penerapan-pasal-3-uu-tipikor"
+    },
+    {
+      "title": "Prabowo arahkan Batam jadi gerbang maritim dan investasi global - ANTARA News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 07:50:57 GMT",
+      "link": "https://www.antaranews.com/berita/5638672/prabowo-arahkan-batam-jadi-gerbang-maritim-dan-investasi-global"
+    },
+    {
+      "title": "Kemendag RI Ajak Pelaku Usaha Jateng Perluas Pasar Ekspor Lewat TEI 2026 - katakabar.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 07:06:00 GMT",
+      "link": "https://katakabar.com/berita/baca/kemendag-ri-ajak-pelaku-usaha-jateng-perluas-pasar-ekspor-lewat-tei-2026"
+    },
+    {
+      "title": "Anggota Komisi VI DPR RI Asep Wahyuwijaya, Ingatkan PTPN III Tidak Terlena Dengan Lonjakan Laba dan Kenaikan Harga Komoditas - Kantor Berita Sawit",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 07:00:47 GMT",
+      "link": "https://sawitindonesia.com/anggota-komisi-vi-dpr-ri-asep-wahyuwijaya-ingatkan-ptpn-iii-tidak-terlena-dengan-lonjakan-laba-dan-kenaikan-harga-komoditas/"
+    },
+    {
+      "title": "Ida Nurlaela Wiradinata Minta Roadmap Rinci, Target Terukur, Mekanisme Evaluasi Merger Tujuh BUMN Logistik - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-wiradinata-minta-roadmap-rinci-target-terukur-mekanisme-evaluasi-merger-tujuh-bumn-logistik-b2pWHZbgoe"
+    },
+    {
+      "title": "Zulhas Minta Kementerian Lain Percepat Aturan Perdagangan Karbon - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 06:32:35 GMT",
+      "link": "https://finance.detik.com/ekonomi-hijau/d-8563472/zulhas-minta-kementerian-lain-percepat-aturan-perdagangan-karbon"
+    },
     {
       "title": "DPR Ikut Kaji Usul Dedi Mulyadi Ubah Nama Jawa Barat Jadi Tatar Sunda - CNN Indonesia",
       "entity": "Mulyadi",
@@ -105,97 +197,6 @@
       "kind": "anggota",
       "published": "Tue, 07 Jul 2026 06:01:18 GMT",
       "link": "https://telusur.co.id/detail/ida-nurlaela-dorong-ptpn-iii-kembangkan-sorgum-untuk-bioetanol"
-    },
-    {
-      "title": "Babak Baru Kasus Kartel Pinjol, AFTECH Pastikan Mayoritas Perusahaan Gugat Putusan KPPU - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 05:54:00 GMT",
-      "link": "https://wartaekonomi.co.id/read621072/babak-baru-kasus-kartel-pinjol-aftech-pastikan-mayoritas-perusahaan-gugat-putusan-kppu"
-    },
-    {
-      "title": "| Legislator PDIP Soroti Konsistensi Penegakan Pasal 3 UU Tipikor - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 05:42:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661517/legislator-pdip-soroti-konsistensi-penegakan-pasal-3-uu-tipikor/"
-    },
-    {
-      "title": "Kemendag Terbitkan Aturan Baru Minyak Goreng, Produsen Kini Wajib Pasok Kemasan - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 05:36:33 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-terbitkan-aturan-baru-minyak-goreng-produsen-kini-wajib-pasok-kemasan"
-    },
-    {
-      "title": "OJK dan KPPU teken MoU untuk perkuat sinergi antarlembaga - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 05:06:30 GMT",
-      "link": "https://www.antaranews.com/berita/5638395/ojk-dan-kppu-teken-mou-untuk-perkuat-sinergi-antarlembaga"
-    },
-    {
-      "title": "Kemenkop dan PT Agrinas Palma Nusantara Perkuat Ekosistem Sawit Melalui Kemitraan Berbasis Koperasi - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 04:10:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-dan-pt-agrinas-palma-nusantara-perkuat-ekosistem-sawit-melalui-kemitraan-berbasis-koperasi/"
-    },
-    {
-      "title": "KPPU dan OJK Perkuat Sinergi, Dorong Persaingan Sehat di Sektor Jasa Keuangan - Infobanknews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 04:09:09 GMT",
-      "link": "https://infobanknews.com/kppu-dan-ojk-perkuat-sinergi-dorong-persaingan-sehat-di-sektor-jasa-keuangan"
-    },
-    {
-      "title": "Siaran Pers: OJK dan KPPU Sepakat Tingkatkan Sinergi dan Koordinasi dalam Pelaksanaan Tugas dan Fungsi - OJK",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 03:43:54 GMT",
-      "link": "https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-dan-KPPU-Sepakat-Tingkatkan-Sinergi-dan-Koordinasi-dalam-Pelaksanaan-Tugas-dan-Fungsi.aspx"
-    },
-    {
-      "title": "Asep Wahyuwijaya Ingatkan PTPN III Tak Terlena Lonjakan Laba,... - Telusur.co.id",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 03:37:21 GMT",
-      "link": "https://telusur.co.id/detail/asep-wahyuwijaya-ingatkan-ptpn-iii-tak-terlena-lonjakan-laba-soroti-efisiensi-hingga-anak-usaha-yang-masih-merugi"
-    },
-    {
-      "title": "OJK-KPPU Perkuat Aliansi, Pengawasan Persaingan di Sektor Keuangan Makin Diperketat! - pasardana.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 03:22:00 GMT",
-      "link": "https://pasardana.id/news/2026/7/7/ojk-kppu-perkuat-aliansi-pengawasan-persaingan-di-sektor-keuangan-makin-diperketat"
-    },
-    {
-      "title": "Menkop Gandeng Agrinas Palma Bangun Ekosistem Sawit Berbasis Koperasi, Petani Siap Naik Kelas - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 03:01:03 GMT",
-      "link": "https://suarapemerintah.id/2026/07/menkop-gandeng-agrinas-palma-bangun-ekosistem-sawit-berbasis-koperasi-petani-siap-naik-kelas/"
-    },
-    {
-      "title": "OJK dan KPPU Perkuat Sinergi Persaingan Usaha Sehat di Sektor Keuangan - Media Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 02:58:31 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/908248/ojk-dan-kppu-perkuat-sinergi-persaingan-usaha-sehat-di-sektor-keuangan"
-    },
-    {
-      "title": "Pemerintah Libatkan Danantara untuk Modal Awal Financial Center - Ikatan Konsultan Pajak Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 02:04:43 GMT",
-      "link": "https://ikpi.or.id/pemerintah-libatkan-danantara-untuk-modal-awal-financial-center/"
-    },
-    {
-      "title": "OJK dan KPPU Sepakat untuk Bersinergi di Bidang Ini - SWA.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 02:00:00 GMT",
-      "link": "https://swa.co.id/read/474635/ojk-dan-kppu-sepakat-untuk-bersinergi-di-bidang-ini"
     }
   ]
 }
