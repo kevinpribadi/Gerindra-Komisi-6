@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T10:24:36.922580",
+  "generated_at": "2026-07-07T13:18:17.268778",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 23,
+    "PDI-P": 21,
     "Golkar": 15,
-    "NasDem": 10,
-    "PKB": 7,
-    "PKS": 22,
+    "NasDem": 11,
+    "PKB": 8,
+    "PKS": 23,
     "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 30,
-    "PDI-P": 46,
-    "Golkar": 35,
-    "NasDem": 17,
-    "PKB": 18,
-    "PKS": 25,
+    "PDI-P": 48,
+    "Golkar": 37,
+    "NasDem": 18,
+    "PKB": 19,
+    "PKS": 26,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -28,22 +28,22 @@
     "Danantara": 20,
     "BPKN": 13,
     "KPPU": 20,
-    "BP Batam": 18,
+    "BP Batam": 19,
     "BPK Sabang": 5,
-    "Dekopin": 18,
-    "Badan Pengaturan BUMN": 15
+    "Dekopin": 20,
+    "Badan Pengaturan BUMN": 16
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "danantara": 27,
+    "danantara": 28,
     "impor": 1,
-    "perdagangan": 12,
-    "ekspor": 11,
-    "umkm": 10,
+    "ekspor": 10,
+    "perdagangan": 14,
+    "umkm": 8,
+    "koperasi": 62,
     "ipo": 1,
-    "koperasi": 60,
-    "kartel-monopoli": 12,
-    "investasi": 7,
+    "kartel-monopoli": 11,
+    "investasi": 8,
     "merger-akuisisi": 2
   },
   "member_counts_30d": {
@@ -52,9 +52,9 @@
     "Muhammad Husein Fadlulloh": 5,
     "Kawendra Lukistian": 8,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 5,
+    "Adisatrya Suryo Sulisto": 6,
     "Mufti Anam": 6,
-    "Darmadi Durianto": 5,
+    "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 11,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
@@ -62,22 +62,22 @@
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 8,
     "Gde Sumarjaya Linggih": 5,
-    "Doni Akbar": 6,
+    "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 6,
-    "Muhammad Sarmuji": 4,
+    "Muhammad Sarmuji": 5,
     "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
-    "Rudi Hartono Bangun": 1,
+    "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 9,
-    "Nasim Khan": 6,
+    "Nasim Khan": 7,
     "Ida Fauziyah": 1,
     "Amin Ak.": 5,
     "Rizal Bawazier": 8,
-    "Ghufran": 1,
+    "Ghufran": 2,
     "Ismail": 11,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
@@ -87,12 +87,75 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 20,
+    "Hukum/Audit": 22,
     "Kinerja BUMN": 18,
     "Perdagangan": 32,
     "Koperasi/UMKM": 61
   },
   "top_headlines": [
+    {
+      "title": "Rangkaian Peringatan Hari Koperasi Ke 79 , Dekopinda Kabupaten Kendal Berikan Sosialisasi Terkait Pelatihan Peningkatan Mitigasi Resiko Tata Kelola Koperasi - Kicaunews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 13:04:05 GMT",
+      "link": "https://kicaunews.com/2026/07/07/rangkaian-peringatan-hari-koperasi-ke-79-dekopinda-kabupaten-kendal-berikan-sosialisasi-terkait-pelatihan-peningkatan-mitigasi-resiko-tata-kelola-koperasi/"
+    },
+    {
+      "title": "KPPU & OJK Sinergi Jaga Persaingan Usaha Sehat di Sektor Jasa Keuangan - detikNews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 13:03:19 GMT",
+      "link": "https://news.detik.com/berita/d-8564220/kppu-ojk-sinergi-jaga-persaingan-usaha-sehat-di-sektor-jasa-keuangan"
+    },
+    {
+      "title": "Soroti Dugaan Fraud di PT Pos, DPR Bakal Panggil Danantara - politikindonesia.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 12:18:46 GMT",
+      "link": "https://www.politikindonesia.id/soroti-dugaan-fraud-di-pt-pos-dpr-bakal-panggil-danantara"
+    },
+    {
+      "title": "Tragedi KMP Aceh Hebat 2, Ghufran Desak Investigasi Menyeluruh dan Perlindungan Korban - harianrakyataceh.com",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 11:32:00 GMT",
+      "link": "https://harianrakyataceh.com/news/tragedi-kmp-aceh-hebat-2-ghufran-desak-investigasi-menyeluruh-dan-perlindungan-korban/index.html"
+    },
+    {
+      "title": "Lokasi KDMP Viral Dinilai Tak Strategis, Menteri Koperasi Sebut Akan Evaluasi - VOI.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 11:20:00 GMT",
+      "link": "https://voi.id/ekonomi/583642/lokasi-kdmp-viral-dinilai-tak-strategis-menteri-koperasi-sebut-akan-evaluasi"
+    },
+    {
+      "title": "Barantin Integrasikan Layanan Karantina demi Pangkas Hambatan Ekspor dan Tingkatkan Efesiensi Arus Keluar Masuk Komoditas - Aktual.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 11:06:08 GMT",
+      "link": "https://aktual.com/barantin-integrasikan-layanan-karantina-demi-pangkas-hambatan-ekspor-dan-tingkatkan-efesiensi-arus-keluar-masuk-komoditas/"
+    },
+    {
+      "title": "Menkop: Koperasi Perkuat Pembiayaan dan Pengelolaan Desa Wisata - NusantaraTV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 10:49:10 GMT",
+      "link": "https://www.nusantaratv.com/finance/menkop-koperasi-perkuat-pembiayaan-dan-pengelolaan-desa-wisata"
+    },
+    {
+      "title": "Nasim Khan Minta Transformasi PTPN Tak Korbankan Karyawan, Dorong Hilirisasi Perkuat Swasembada Pangan - Telusur.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 10:47:23 GMT",
+      "link": "https://telusur.co.id/detail/nasim-khan-minta-transformasi-ptpn-tak-korbankan-karyawan-dorong-hilirisasi-perkuat-swasembada-pangan"
+    },
+    {
+      "title": "Soroti Produktivitas Kebun, PTPN III Diminta Jangan Hanya Andalkan Kenaikkan Harga CPO - Suara Investor",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 10:37:52 GMT",
+      "link": "https://www.suarainvestor.com/ptpn-iii-diminta-jangan-hanya-andalkan-kenaikkan-harga-cpo/"
+    },
     {
       "title": "Harga CPO Melemah, Kemendag Sesuaikan Tarif Bea Keluar Juli 2026 - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -115,88 +178,25 @@
       "link": "https://www.bengkulunews.co.id/kppu-ojk-teken-mou-perkuat-pengawasan-persaingan-di-sektor-jasa-keuangan"
     },
     {
+      "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan penerapan tarif listrik jam sibuk untuk rumah tangga. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 09:59:18 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-noi-ve-de-xuat-ap-dung-gia-dien-gio-cao-diem-voi-ho-gia-dinh"
+    },
+    {
+      "title": "DPR Akan Panggil Danantara Buntut Dugaan Fraud PT Pos Indonesia - Infobanknews",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 09:19:00 GMT",
+      "link": "https://infobanknews.com/dpr-akan-panggil-danantara-buntut-dugaan-fraud-pt-pos-indonesia"
+    },
+    {
       "title": "Menteri Koperasi Akui Evaluasi Pelatihan Kopdes Merah Putih usai 5 Calon Manajer Meninggal | DIPO - Kompas.tv",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 07 Jul 2026 09:09:00 GMT",
       "link": "https://www.kompas.tv/video/679213/menteri-koperasi-akui-evaluasi-pelatihan-kopdes-merah-putih-usai-5-calon-manajer-meninggal-dipo"
-    },
-    {
-      "title": "Komisi VI Akan Panggil Danantara soal Dugaan Rekayasa Laporan Keuangan di PT Pos Indonesia - Herald ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 09:05:00 GMT",
-      "link": "https://herald.id/2026/07/07/komisi-vi-akan-panggil-danantara-soal-dugaan-rekayasa-laporan-keuangan-di-pt-pos-indonesia/"
-    },
-    {
-      "title": "Legislator I Nengah Desak Agrinas Palma Hitung Nilai Aset 4,1 Juta... - Telusur.co.id",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 08:33:29 GMT",
-      "link": "https://telusur.co.id/detail/legislator-i-nengah-desak-agrinas-palma-hitung-nilai-aset-41-juta-hektare-sawit-dorong-hilirisasi-hingga-produksi-minyak-goreng"
-    },
-    {
-      "title": "Jadi Fondasi Masa Depan, Kebijakan Hilirisasi Untungkan Bisnis Antam - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 08:11:04 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260707145718-17-748804/jadi-fondasi-masa-depan-kebijakan-hilirisasi-untungkan-bisnis-antam"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Usulkan Pengauatan Penerapan Pasal 3 UU Tipikor - Harian Jogja",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 08:07:13 GMT",
-      "link": "https://news.harianjogja.com/r-1262520/rieke-diah-pitaloka-usulkan-pengauatan-penerapan-pasal-3-uu-tipikor"
-    },
-    {
-      "title": "Prabowo arahkan Batam jadi gerbang maritim dan investasi global - ANTARA News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 07:50:57 GMT",
-      "link": "https://www.antaranews.com/berita/5638672/prabowo-arahkan-batam-jadi-gerbang-maritim-dan-investasi-global"
-    },
-    {
-      "title": "Kemendag RI Ajak Pelaku Usaha Jateng Perluas Pasar Ekspor Lewat TEI 2026 - katakabar.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 07:06:00 GMT",
-      "link": "https://katakabar.com/berita/baca/kemendag-ri-ajak-pelaku-usaha-jateng-perluas-pasar-ekspor-lewat-tei-2026"
-    },
-    {
-      "title": "Anggota Komisi VI DPR RI Asep Wahyuwijaya, Ingatkan PTPN III Tidak Terlena Dengan Lonjakan Laba dan Kenaikan Harga Komoditas - Kantor Berita Sawit",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 07:00:47 GMT",
-      "link": "https://sawitindonesia.com/anggota-komisi-vi-dpr-ri-asep-wahyuwijaya-ingatkan-ptpn-iii-tidak-terlena-dengan-lonjakan-laba-dan-kenaikan-harga-komoditas/"
-    },
-    {
-      "title": "Ida Nurlaela Wiradinata Minta Roadmap Rinci, Target Terukur, Mekanisme Evaluasi Merger Tujuh BUMN Logistik - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-wiradinata-minta-roadmap-rinci-target-terukur-mekanisme-evaluasi-merger-tujuh-bumn-logistik-b2pWHZbgoe"
-    },
-    {
-      "title": "Zulhas Minta Kementerian Lain Percepat Aturan Perdagangan Karbon - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 06:32:35 GMT",
-      "link": "https://finance.detik.com/ekonomi-hijau/d-8563472/zulhas-minta-kementerian-lain-percepat-aturan-perdagangan-karbon"
-    },
-    {
-      "title": "DPR Ikut Kaji Usul Dedi Mulyadi Ubah Nama Jawa Barat Jadi Tatar Sunda - CNN Indonesia",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 06:02:10 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260707125119-32-1377820/dpr-ikut-kaji-usul-dedi-mulyadi-ubah-nama-jawa-barat-jadi-tatar-sunda"
-    },
-    {
-      "title": "Ida Nurlaela Dorong PTPN III Kembangkan Sorgum untuk Bioetanol - - Telusur.co.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 06:01:18 GMT",
-      "link": "https://telusur.co.id/detail/ida-nurlaela-dorong-ptpn-iii-kembangkan-sorgum-untuk-bioetanol"
     }
   ]
 }
