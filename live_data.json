@@ -1416,6 +1416,13 @@
                 "fetched_at": "2026-07-05T23:51:05.049661"
             },
             {
+                "title": "DPR: OTT Global Harus Berkontribusi Lebih Adil Bagi Indonesia - CNBC Indonesia",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnBXSHJ2RWpXYWpEVklSS2xaQnlUNm44OWNYMFZFajYyQy1EM2I5SmppUXhFOXpXMGpmTkRLMVpIUTlBb1N1NDAyMTFLbFNRc3IxQjZkYjBfS1VXOWZ4NkZVdHVsRV9yaGdLd0xxVEE2eG5Mc1JzRnlvWnEtOGtTanAxNEJOT3hNbHIzc2xDMU5DajExVGxVOGZYR0o0ay1RVVdkc1FKTGZqcWd0bmdVS2hSbGJCOFBMVnB30gHAAUFVX3lxTFA3VVZGQ2d1cnh1MjJZVHpkRkNlUmdSUTQ1Njl0TXJEWTdsV2Fob0F2aTdwVnFJZnNKYTV5cU9Sd2FER3N1cVJRb1kyeDlRUXhSa0dDZm5lUU4xQXVOOUdqVjk1M2tqOWlydWllM3VyQjFseUJJc1VRWjdMSGdfb1FRWm1XODhsOTQtd2t2YzNHOVVxSnVUaHM1bWVzU1NodjUwUXloVldaMFkxY29BN19xdjgwUzFoSEY4YTdfTXZHcw?oc=5",
+                "link_resolved": "https://www.cnbcindonesia.com/news/20260626124625-4-745959/dpr-ott-global-harus-berkontribusi-lebih-adil-bagi-indonesia",
+                "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+                "fetched_at": "2026-07-07T22:59:11.700050"
+            },
+            {
                 "title": "Kawendra Lukistian: OTT Global Harus Punya Kontribusi Lebih Adil bagi Indonesia - Klikwarta.com",
                 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3VwSFRaVjVXTEt6ZlQ3NnVKTHJmbmF6R19xVXd5dFJYU0VURDdjbk9YLXMyQjl5TkZ5UHlUOVBUY0JnTWI3di0wbXhQTURqdmVLbmh3aThGWFVhRGQxWDVIX1lMR2hacDNKbk91b19WZ040ZVFIMFZFeW5PZHVZYzI2WTFzTEtLWXllc2R0Zk1pSzRBUGdwazdRZUk5LW5Yb0JOemk2UQ?oc=5",
                 "link_resolved": "https://www.klikwarta.com/kawendra-lukistian-ott-global-harus-punya-kontribusi-lebih-adil-bagi-indonesia",
@@ -2764,7 +2771,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-07T21:22:13.871897",
+        "fetched_at": "2026-07-07T22:59:01.320146",
         "prev_close": 17998,
         "change_pct": -0.08
     },
@@ -2773,110 +2780,110 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-07T21:22:13.871897",
+        "fetched_at": "2026-07-07T22:59:01.320146",
         "prev_close": 5875.78,
         "change_pct": 0.69
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 2790,
+            "value": 2860,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 2710,
-            "change_pct": 2.95
+            "prev_close": 2790,
+            "change_pct": 2.51
         },
         "BMRI": {
-            "value": 4030,
+            "value": 4070,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Bank Mandiri",
-            "prev_close": 4010,
-            "change_pct": 0.5
+            "prev_close": 4030,
+            "change_pct": 0.99
         },
         "BBNI": {
-            "value": 3280,
+            "value": 3470,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3250,
-            "change_pct": 0.92
+            "prev_close": 3280,
+            "change_pct": 5.79
         },
         "BBTN": {
-            "value": 1165,
+            "value": 1220,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Bank Tabungan Negara",
-            "prev_close": 1160,
-            "change_pct": 0.43
+            "prev_close": 1165,
+            "change_pct": 4.72
         },
         "TLKM": {
             "value": 2480,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Telkom Indonesia",
-            "prev_close": 2520,
-            "change_pct": -1.59
+            "prev_close": 2480,
+            "change_pct": 0.0
         },
         "SMGR": {
-            "value": 1405,
+            "value": 1520,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Semen Indonesia",
-            "prev_close": 1425,
-            "change_pct": -1.4
+            "prev_close": 1405,
+            "change_pct": 8.19
         },
         "ANTM": {
-            "value": 2940,
+            "value": 2930,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Aneka Tambang",
-            "prev_close": 2930,
-            "change_pct": 0.34
+            "prev_close": 2940,
+            "change_pct": -0.34
         },
         "PGAS": {
             "value": 1405,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Perusahaan Gas Negara",
-            "prev_close": 1390,
-            "change_pct": 1.08
+            "prev_close": 1405,
+            "change_pct": 0.0
         },
         "PTBA": {
-            "value": 2330,
+            "value": 2370,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Bukit Asam",
-            "prev_close": 2310,
-            "change_pct": 0.87
+            "prev_close": 2330,
+            "change_pct": 1.72
         },
         "JSMR": {
-            "value": 2760,
+            "value": 2780,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-07T21:22:13.871897",
+            "fetched_at": "2026-07-07T22:59:01.320146",
             "name": "Jasa Marga",
-            "prev_close": 2740,
-            "change_pct": 0.73
+            "prev_close": 2760,
+            "change_pct": 0.72
         }
     },
     "scrape_status": {
@@ -2885,5 +2892,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-07-07T21:22:13.871897"
+    "last_updated": "2026-07-07T22:59:01.320146"
 }
