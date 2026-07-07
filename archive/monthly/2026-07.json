@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T19:00:40.951461",
+  "generated_at": "2026-07-07T21:22:13.871897",
   "party_counts_7d": {
     "Gerindra": 14,
-    "PDI-P": 21,
+    "PDI-P": 22,
     "Golkar": 15,
     "NasDem": 11,
     "PKB": 8,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 30,
-    "PDI-P": 48,
+    "PDI-P": 50,
     "Golkar": 37,
     "NasDem": 18,
     "PKB": 21,
-    "PKS": 28,
+    "PKS": 29,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -31,11 +31,11 @@
     "BP Batam": 20,
     "BPK Sabang": 5,
     "Dekopin": 20,
-    "Badan Pengaturan BUMN": 16
+    "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "danantara": 28,
+    "bumn": 49,
+    "danantara": 29,
     "impor": 1,
     "perdagangan": 16,
     "ekspor": 10,
@@ -52,10 +52,10 @@
     "Muhammad Husein Fadlulloh": 5,
     "Kawendra Lukistian": 8,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 6,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 6,
     "Darmadi Durianto": 6,
-    "Rieke Diah Pitaloka": 11,
+    "Rieke Diah Pitaloka": 12,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 4,
@@ -75,7 +75,7 @@
     "Rivqy Abdul Halim": 10,
     "Nasim Khan": 8,
     "Ida Fauziyah": 1,
-    "Amin Ak.": 6,
+    "Amin Ak.": 7,
     "Rizal Bawazier": 8,
     "Ghufran": 2,
     "Ismail": 12,
@@ -89,7 +89,7 @@
   "early_warning_counts": {
     "Hukum/Audit": 21,
     "Kinerja BUMN": 19,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Koperasi/UMKM": 57
   },
   "top_headlines": [
@@ -113,6 +113,13 @@
       "kind": "lembaga",
       "published": "Tue, 07 Jul 2026 17:15:43 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260708/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Minta Pengawasan Ketat Sidang PK Nikita Mirzani, Soroti Integritas Peradilan - Koma.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 16:03:11 GMT",
+      "link": "https://koma.id/2026/07/07/rieke-diah-pitaloka-minta-pengawasan-ketat-sidang-pk-nikita-mirzani-soroti-integritas-peradilan/"
     },
     {
       "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan pengenaan tarif listrik per jam untuk rumah tangga. - Vietnam.vn",
@@ -185,18 +192,11 @@
       "link": "https://www.nusantaratv.com/finance/menkop-koperasi-perkuat-pembiayaan-dan-pengelolaan-desa-wisata"
     },
     {
-      "title": "Nasim Khan Minta Transformasi PTPN Tak Korbankan Karyawan, Dorong Hilirisasi Perkuat Swasembada Pangan - Telusur.co.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 10:47:23 GMT",
-      "link": "https://telusur.co.id/detail/nasim-khan-minta-transformasi-ptpn-tak-korbankan-karyawan-dorong-hilirisasi-perkuat-swasembada-pangan"
-    },
-    {
-      "title": "Soroti Produktivitas Kebun, PTPN III Diminta Jangan Hanya Andalkan Kenaikkan Harga CPO - Suara Investor",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 10:37:52 GMT",
-      "link": "https://www.suarainvestor.com/ptpn-iii-diminta-jangan-hanya-andalkan-kenaikkan-harga-cpo/"
+      "title": "Menkop: Koperasi Perkuat Pembiayaan dan Pengelolaan Desa Wisata - NusantaraTV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 10:49:10 GMT",
+      "link": "https://www.nusantaratv.com/berita/menkop-koperasi-perkuat-pembiayaan-dan-pengelolaan-desa-wisata"
     }
   ]
 }
