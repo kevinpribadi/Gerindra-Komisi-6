@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T02:52:11.091259",
+  "generated_at": "2026-07-07T06:44:33.131255",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 19,
-    "Golkar": 18,
-    "NasDem": 7,
-    "PKB": 11,
+    "Gerindra": 16,
+    "PDI-P": 20,
+    "Golkar": 15,
+    "NasDem": 8,
+    "PKB": 10,
     "PKS": 22,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 28,
-    "PDI-P": 41,
+    "Gerindra": 30,
+    "PDI-P": 43,
     "Golkar": 35,
-    "NasDem": 14,
-    "PKB": 16,
+    "NasDem": 15,
+    "PKB": 17,
     "PKS": 25,
     "PAN": 12,
     "Demokrat": 11
@@ -26,11 +26,11 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 12,
-    "KPPU": 16,
+    "BPKN": 13,
+    "KPPU": 20,
     "BP Batam": 17,
     "BPK Sabang": 5,
-    "Dekopin": 16,
+    "Dekopin": 17,
     "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
@@ -38,10 +38,10 @@
     "danantara": 27,
     "impor": 1,
     "ekspor": 13,
-    "perdagangan": 11,
+    "perdagangan": 10,
     "umkm": 11,
-    "koperasi": 57,
-    "kartel-monopoli": 13,
+    "koperasi": 58,
+    "kartel-monopoli": 14,
     "investasi": 6,
     "merger-akuisisi": 1
   },
@@ -50,12 +50,13 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
     "Kawendra Lukistian": 8,
+    "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 6,
     "Darmadi Durianto": 4,
-    "Rieke Diah Pitaloka": 9,
+    "Rieke Diah Pitaloka": 10,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 6,
+    "Ida Nurlaela": 7,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 8,
@@ -65,12 +66,12 @@
     "Rizki Faisal": 6,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 7,
-    "Asep Wahyuwijaya": 2,
+    "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 7,
+    "Rivqy Abdul Halim": 8,
     "Nasim Khan": 6,
     "Ida Fauziyah": 1,
     "Amin Ak.": 5,
@@ -88,9 +89,100 @@
     "Hukum/Audit": 19,
     "Kinerja BUMN": 19,
     "Perdagangan": 32,
-    "Koperasi/UMKM": 59
+    "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "DPR Ikut Kaji Usul Dedi Mulyadi Ubah Nama Jawa Barat Jadi Tatar Sunda - CNN Indonesia",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 06:02:10 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260707125119-32-1377820/dpr-ikut-kaji-usul-dedi-mulyadi-ubah-nama-jawa-barat-jadi-tatar-sunda"
+    },
+    {
+      "title": "Ida Nurlaela Dorong PTPN III Kembangkan Sorgum untuk Bioetanol - - Telusur.co.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 06:01:18 GMT",
+      "link": "https://telusur.co.id/detail/ida-nurlaela-dorong-ptpn-iii-kembangkan-sorgum-untuk-bioetanol"
+    },
+    {
+      "title": "Babak Baru Kasus Kartel Pinjol, AFTECH Pastikan Mayoritas Perusahaan Gugat Putusan KPPU - Warta Ekonomi",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 05:54:00 GMT",
+      "link": "https://wartaekonomi.co.id/read621072/babak-baru-kasus-kartel-pinjol-aftech-pastikan-mayoritas-perusahaan-gugat-putusan-kppu"
+    },
+    {
+      "title": "| Legislator PDIP Soroti Konsistensi Penegakan Pasal 3 UU Tipikor - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 05:42:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661517/legislator-pdip-soroti-konsistensi-penegakan-pasal-3-uu-tipikor/"
+    },
+    {
+      "title": "Kemendag Terbitkan Aturan Baru Minyak Goreng, Produsen Kini Wajib Pasok Kemasan - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 05:36:33 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-terbitkan-aturan-baru-minyak-goreng-produsen-kini-wajib-pasok-kemasan"
+    },
+    {
+      "title": "OJK dan KPPU teken MoU untuk perkuat sinergi antarlembaga - ANTARA News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 05:06:30 GMT",
+      "link": "https://www.antaranews.com/berita/5638395/ojk-dan-kppu-teken-mou-untuk-perkuat-sinergi-antarlembaga"
+    },
+    {
+      "title": "Kemenkop dan PT Agrinas Palma Nusantara Perkuat Ekosistem Sawit Melalui Kemitraan Berbasis Koperasi - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 04:10:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-dan-pt-agrinas-palma-nusantara-perkuat-ekosistem-sawit-melalui-kemitraan-berbasis-koperasi/"
+    },
+    {
+      "title": "KPPU dan OJK Perkuat Sinergi, Dorong Persaingan Sehat di Sektor Jasa Keuangan - Infobanknews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 04:09:09 GMT",
+      "link": "https://infobanknews.com/kppu-dan-ojk-perkuat-sinergi-dorong-persaingan-sehat-di-sektor-jasa-keuangan"
+    },
+    {
+      "title": "Siaran Pers: OJK dan KPPU Sepakat Tingkatkan Sinergi dan Koordinasi dalam Pelaksanaan Tugas dan Fungsi - OJK",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 03:43:54 GMT",
+      "link": "https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-dan-KPPU-Sepakat-Tingkatkan-Sinergi-dan-Koordinasi-dalam-Pelaksanaan-Tugas-dan-Fungsi.aspx"
+    },
+    {
+      "title": "Asep Wahyuwijaya Ingatkan PTPN III Tak Terlena Lonjakan Laba,... - Telusur.co.id",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 03:37:21 GMT",
+      "link": "https://telusur.co.id/detail/asep-wahyuwijaya-ingatkan-ptpn-iii-tak-terlena-lonjakan-laba-soroti-efisiensi-hingga-anak-usaha-yang-masih-merugi"
+    },
+    {
+      "title": "OJK-KPPU Perkuat Aliansi, Pengawasan Persaingan di Sektor Keuangan Makin Diperketat! - pasardana.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 03:22:00 GMT",
+      "link": "https://pasardana.id/news/2026/7/7/ojk-kppu-perkuat-aliansi-pengawasan-persaingan-di-sektor-keuangan-makin-diperketat"
+    },
+    {
+      "title": "Menkop Gandeng Agrinas Palma Bangun Ekosistem Sawit Berbasis Koperasi, Petani Siap Naik Kelas - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 03:01:03 GMT",
+      "link": "https://suarapemerintah.id/2026/07/menkop-gandeng-agrinas-palma-bangun-ekosistem-sawit-berbasis-koperasi-petani-siap-naik-kelas/"
+    },
+    {
+      "title": "OJK dan KPPU Perkuat Sinergi Persaingan Usaha Sehat di Sektor Keuangan - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 02:58:31 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/908248/ojk-dan-kppu-perkuat-sinergi-persaingan-usaha-sehat-di-sektor-keuangan"
+    },
     {
       "title": "Pemerintah Libatkan Danantara untuk Modal Awal Financial Center - Ikatan Konsultan Pajak Indonesia",
       "entity": "Danantara",
@@ -104,97 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 07 Jul 2026 02:00:00 GMT",
       "link": "https://swa.co.id/read/474635/ojk-dan-kppu-sepakat-untuk-bersinergi-di-bidang-ini"
-    },
-    {
-      "title": "Gandeng Kemenkop, Agrinas Palma Dorong Koperasi Sawit Masuk Industri Hilir - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 01:57:44 GMT",
-      "link": "https://haisawit.co.id/news/detail/gandeng-kemenkop-agrinas-palma-dorong-koperasi-sawit-masuk-industri-hilir"
-    },
-    {
-      "title": "Antisipasi Monopoli Finansial Digital, OJK dan KPPU Pertegas Aturan Main Persaingan Usaha - Stabilitas.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 01:45:06 GMT",
-      "link": "https://www.stabilitas.id/antisipasi-monopoli-finansial-digital-ojk-dan-kppu-pertegas-aturan-main-persaingan-usaha/"
-    },
-    {
-      "title": "Menkop: Koperasi buka akses pembiayaan bagi pengelola desa wisata - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 00:31:50 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/412555/menkop-koperasi-buka-akses-pembiayaan-bagi-pengelola-desa-wisata"
-    },
-    {
-      "title": "Kementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 00:11:18 GMT",
-      "link": "https://www.komdigi.go.id/berita/berita-hoaks/detail/hoaks-tautan-pendaftaran-loker-koperasi-merah-putih-2026"
-    },
-    {
-      "title": "Danantara Kebut Proyek Ekspor Listrik ke Singapura, Bidik Kapasitas 3,4 GW - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 23:18:13 GMT",
-      "link": "https://industri.kontan.co.id/news/danantara-kebut-proyek-ekspor-listrik-ke-singapura-bidik-kapasitas-34-gw"
-    },
-    {
-      "title": "Dekopinda Maros Miliki Kepengurusan Baru - Berita Kota Makassar",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 23:00:20 GMT",
-      "link": "https://beritakotamakassar.com/2026/07/07/dekopinda-maros-miliki-kepengurusan-baru/amp/"
-    },
-    {
-      "title": "Demokrat Siapkan Erwin Ismail Rebut Kursi DPR RI Dapil Gorontalo - Hulondalo - Hulondalo",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 21:16:05 GMT",
-      "link": "https://www.hulondalo.id/politik/96417339084/demokrat-siapkan-erwin-ismail-rebut-kursi-dpr-ri-dapil-gorontalo"
-    },
-    {
-      "title": "2.616 Desa Berpotensi Ekspor: Kemendag Andalkan AI untuk Optimalkan Rantai Pasok Pertanian - BERNAS.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 17:42:02 GMT",
-      "link": "https://bernas.id/nasional/news/2616-desa-berpotensi-ekspor-kemendag-andalkan-ai-untuk-optimalkan-rantai-pasok-p-2026-07-06"
-    },
-    {
-      "title": "Kemendag Terbitkan Permendag 20/2026 soal Minyak Goreng - Koma.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 16:42:26 GMT",
-      "link": "https://koma.id/2026/07/06/kemendag-terbitkan-permendag-20-2026-soal-minyak-goreng/"
-    },
-    {
-      "title": "Proses Streamlining BUMN Libatkan Kejaksaan Agung hingga BPK - olenka.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 16:05:00 GMT",
-      "link": "https://olenka.id/proses-streamlining-bumn-libatkan-kejaksaan-agung-hingga-bpk"
-    },
-    {
-      "title": "Komisi VI usulkan PTPN kembangkan bioetanol dari sorgum - ANTARA News",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 15:48:08 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5637957/komisi-vi-usulkan-ptpn-kembangkan-bioetanol-dari-sorgum"
-    },
-    {
-      "title": "Menkop: Koperasi buka akses pembiayaan bagi pengelola desa wisata - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 15:24:21 GMT",
-      "link": "https://www.antaranews.com/berita/5637923/menkop-koperasi-buka-akses-pembiayaan-bagi-pengelola-desa-wisata"
-    },
-    {
-      "title": "Danantara dan Perusahaan Singapura MoU untuk Ekspor Listrik - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 14:30:36 GMT",
-      "link": "https://bisnis.tempo.co/read/2112201/danantara-dan-perusahaan-singapura-mou-untuk-ekspor-listrik"
     }
   ]
 }
