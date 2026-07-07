@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-07T13:18:17.268778",
+  "generated_at": "2026-07-07T16:28:39.270667",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 21,
     "Golkar": 15,
     "NasDem": 11,
     "PKB": 8,
-    "PKS": 23,
+    "PKS": 22,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -17,7 +17,7 @@
     "Golkar": 37,
     "NasDem": 18,
     "PKB": 19,
-    "PKS": 26,
+    "PKS": 27,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -26,9 +26,9 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 13,
+    "BPKN": 14,
     "KPPU": 20,
-    "BP Batam": 19,
+    "BP Batam": 20,
     "BPK Sabang": 5,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 16
@@ -37,13 +37,13 @@
     "bumn": 48,
     "danantara": 28,
     "impor": 1,
+    "perdagangan": 16,
     "ekspor": 10,
-    "perdagangan": 14,
-    "umkm": 8,
-    "koperasi": 62,
+    "umkm": 6,
+    "koperasi": 61,
     "ipo": 1,
-    "kartel-monopoli": 11,
-    "investasi": 8,
+    "investasi": 9,
+    "kartel-monopoli": 12,
     "merger-akuisisi": 2
   },
   "member_counts_30d": {
@@ -78,7 +78,7 @@
     "Amin Ak.": 5,
     "Rizal Bawazier": 8,
     "Ghufran": 2,
-    "Ismail": 11,
+    "Ismail": 12,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
@@ -87,12 +87,33 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 22,
+    "Hukum/Audit": 21,
     "Kinerja BUMN": 18,
-    "Perdagangan": 32,
-    "Koperasi/UMKM": 61
+    "Perdagangan": 30,
+    "Koperasi/UMKM": 58
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan pengenaan tarif listrik per jam untuk rumah tangga. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 14:51:05 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-noi-ve-de-xuat-tinh-gia-dien-theo-gio-voi-ho-sinh-hoat"
+    },
+    {
+      "title": "Danantara Gabungkan 4 Manajer Investasi BUMN Jadi Raksasa Baru - Harian Jogja",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 14:07:27 GMT",
+      "link": "https://ekbis.harianjogja.com/r-1262553/danantara-gabungkan-4-manajer-investasi-bumn-jadi-raksasa-baru"
+    },
+    {
+      "title": "RI kembangkan sistem peringatan dini cegah peredaran produk berbahaya - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 13:54:19 GMT",
+      "link": "https://www.antaranews.com/berita/5639477/ri-kembangkan-sistem-peringatan-dini-cegah-peredaran-produk-berbahaya"
+    },
     {
       "title": "Rangkaian Peringatan Hari Koperasi Ke 79 , Dekopinda Kabupaten Kendal Berikan Sosialisasi Terkait Pelatihan Peningkatan Mitigasi Resiko Tata Kelola Koperasi - Kicaunews",
       "entity": "Dekopin",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 07 Jul 2026 09:59:45 GMT",
       "link": "https://www.bengkulunews.co.id/kppu-ojk-teken-mou-perkuat-pengawasan-persaingan-di-sektor-jasa-keuangan"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan penerapan tarif listrik jam sibuk untuk rumah tangga. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 09:59:18 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-noi-ve-de-xuat-ap-dung-gia-dien-gio-cao-diem-voi-ho-gia-dinh"
-    },
-    {
-      "title": "DPR Akan Panggil Danantara Buntut Dugaan Fraud PT Pos Indonesia - Infobanknews",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 09:19:00 GMT",
-      "link": "https://infobanknews.com/dpr-akan-panggil-danantara-buntut-dugaan-fraud-pt-pos-indonesia"
-    },
-    {
-      "title": "Menteri Koperasi Akui Evaluasi Pelatihan Kopdes Merah Putih usai 5 Calon Manajer Meninggal | DIPO - Kompas.tv",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 09:09:00 GMT",
-      "link": "https://www.kompas.tv/video/679213/menteri-koperasi-akui-evaluasi-pelatihan-kopdes-merah-putih-usai-5-calon-manajer-meninggal-dipo"
     }
   ]
 }
