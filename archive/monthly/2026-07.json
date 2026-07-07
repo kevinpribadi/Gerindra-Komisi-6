@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-06T23:04:56.761182",
+  "generated_at": "2026-07-07T02:52:11.091259",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 14,
     "PDI-P": 19,
-    "Golkar": 19,
+    "Golkar": 18,
     "NasDem": 7,
     "PKB": 11,
-    "PKS": 20,
+    "PKS": 22,
     "PAN": 2,
     "Demokrat": 4
   },
@@ -16,33 +16,32 @@
     "PDI-P": 41,
     "Golkar": 35,
     "NasDem": 14,
-    "PKB": 15,
-    "PKS": 23,
+    "PKB": 16,
+    "PKS": 25,
     "PAN": 12,
     "Demokrat": 11
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 15,
+    "Kementerian BUMN": 16,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
     "BPKN": 12,
-    "KPPU": 14,
+    "KPPU": 16,
     "BP Batam": 17,
     "BPK Sabang": 5,
-    "Dekopin": 15,
+    "Dekopin": 16,
     "Badan Pengaturan BUMN": 15
   },
   "topic_counts_30d": {
     "bumn": 48,
     "danantara": 27,
     "impor": 1,
-    "ekspor": 12,
+    "ekspor": 13,
     "perdagangan": 11,
     "umkm": 11,
-    "koperasi": 58,
-    "dividen": 1,
-    "kartel-monopoli": 12,
+    "koperasi": 57,
+    "kartel-monopoli": 13,
     "investasi": 6,
     "merger-akuisisi": 1
   },
@@ -72,12 +71,12 @@
     "Rudi Hartono Bangun": 1,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 7,
-    "Nasim Khan": 5,
+    "Nasim Khan": 6,
     "Ida Fauziyah": 1,
     "Amin Ak.": 5,
-    "Rizal Bawazier": 7,
+    "Rizal Bawazier": 8,
     "Ghufran": 1,
-    "Ismail": 10,
+    "Ismail": 11,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
@@ -87,11 +86,74 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
-    "Kinerja BUMN": 20,
-    "Perdagangan": 30,
-    "Koperasi/UMKM": 60
+    "Kinerja BUMN": 19,
+    "Perdagangan": 32,
+    "Koperasi/UMKM": 59
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah Libatkan Danantara untuk Modal Awal Financial Center - Ikatan Konsultan Pajak Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 02:04:43 GMT",
+      "link": "https://ikpi.or.id/pemerintah-libatkan-danantara-untuk-modal-awal-financial-center/"
+    },
+    {
+      "title": "OJK dan KPPU Sepakat untuk Bersinergi di Bidang Ini - SWA.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 02:00:00 GMT",
+      "link": "https://swa.co.id/read/474635/ojk-dan-kppu-sepakat-untuk-bersinergi-di-bidang-ini"
+    },
+    {
+      "title": "Gandeng Kemenkop, Agrinas Palma Dorong Koperasi Sawit Masuk Industri Hilir - HaiSawit",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 01:57:44 GMT",
+      "link": "https://haisawit.co.id/news/detail/gandeng-kemenkop-agrinas-palma-dorong-koperasi-sawit-masuk-industri-hilir"
+    },
+    {
+      "title": "Antisipasi Monopoli Finansial Digital, OJK dan KPPU Pertegas Aturan Main Persaingan Usaha - Stabilitas.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 01:45:06 GMT",
+      "link": "https://www.stabilitas.id/antisipasi-monopoli-finansial-digital-ojk-dan-kppu-pertegas-aturan-main-persaingan-usaha/"
+    },
+    {
+      "title": "Menkop: Koperasi buka akses pembiayaan bagi pengelola desa wisata - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 00:31:50 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/412555/menkop-koperasi-buka-akses-pembiayaan-bagi-pengelola-desa-wisata"
+    },
+    {
+      "title": "Kementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 00:11:18 GMT",
+      "link": "https://www.komdigi.go.id/berita/berita-hoaks/detail/hoaks-tautan-pendaftaran-loker-koperasi-merah-putih-2026"
+    },
+    {
+      "title": "Danantara Kebut Proyek Ekspor Listrik ke Singapura, Bidik Kapasitas 3,4 GW - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 23:18:13 GMT",
+      "link": "https://industri.kontan.co.id/news/danantara-kebut-proyek-ekspor-listrik-ke-singapura-bidik-kapasitas-34-gw"
+    },
+    {
+      "title": "Dekopinda Maros Miliki Kepengurusan Baru - Berita Kota Makassar",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 23:00:20 GMT",
+      "link": "https://beritakotamakassar.com/2026/07/07/dekopinda-maros-miliki-kepengurusan-baru/amp/"
+    },
+    {
+      "title": "Demokrat Siapkan Erwin Ismail Rebut Kursi DPR RI Dapil Gorontalo - Hulondalo - Hulondalo",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Mon, 06 Jul 2026 21:16:05 GMT",
+      "link": "https://www.hulondalo.id/politik/96417339084/demokrat-siapkan-erwin-ismail-rebut-kursi-dpr-ri-dapil-gorontalo"
+    },
     {
       "title": "2.616 Desa Berpotensi Ekspor: Kemendag Andalkan AI untuk Optimalkan Rantai Pasok Pertanian - BERNAS.id",
       "entity": "Kementerian Perdagangan",
@@ -105,6 +167,13 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 16:42:26 GMT",
       "link": "https://koma.id/2026/07/06/kemendag-terbitkan-permendag-20-2026-soal-minyak-goreng/"
+    },
+    {
+      "title": "Proses Streamlining BUMN Libatkan Kejaksaan Agung hingga BPK - olenka.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 06 Jul 2026 16:05:00 GMT",
+      "link": "https://olenka.id/proses-streamlining-bumn-libatkan-kejaksaan-agung-hingga-bpk"
     },
     {
       "title": "Komisi VI usulkan PTPN kembangkan bioetanol dari sorgum - ANTARA News",
@@ -126,76 +195,6 @@
       "kind": "lembaga",
       "published": "Mon, 06 Jul 2026 14:30:36 GMT",
       "link": "https://bisnis.tempo.co/read/2112201/danantara-dan-perusahaan-singapura-mou-untuk-ekspor-listrik"
-    },
-    {
-      "title": "Pusat Finansial RI Bakal Punya Lembaga Pengelola, Modal Awal Bisa dari Danantara - Bisnis.com - Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 14:25:55 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260706/9/1986006/pusat-finansial-ri-bakal-punya-lembaga-pengelola-modal-awal-bisa-dari-danantara"
-    },
-    {
-      "title": "Komisi VI DPR RI ingatkan PTPN III utamakan penciptaan lapangan kerja - ANTARA News",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 14:23:09 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5637844/komisi-vi-dpr-ri-ingatkan-ptpn-iii-utamakan-penciptaan-lapangan-kerja"
-    },
-    {
-      "title": "TEI ke-41 Siap Digelar, Kemendag Dorong Pelaku Usaha Tembus Pasar Dunia - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 14:05:57 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/06/tei-ke-41-siap-digelar-kemendag-dorong-pelaku-usaha-tembus-pasar-dunia/"
-    },
-    {
-      "title": "Indonesia-Singapura Perkuat Kerja Sama Listrik, Prabowo Tunjuk BPI Danantara - BorneoFlash.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 13:49:00 GMT",
-      "link": "https://borneoflash.com/2026/07/06/indonesia-singapura-perkuat-kerja-sama-listrik-prabowo-tunjuk-bpi-danantara"
-    },
-    {
-      "title": "2.106 Koperasi Desa Merah Putih di Lampung miliki NIB - ANTARA News Lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 13:34:17 GMT",
-      "link": "https://lampung.antaranews.com/berita/825653/2106-koperasi-desa-merah-putih-di-lampung-miliki-nib"
-    },
-    {
-      "title": "Budi Sulistyono Desak Agrinas Palma Susun Action Plan Swasembada Energi - DPR RI",
-      "entity": "Budi Sulistyono",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 12:27:17 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Budi-Sulistyono-Desak-Agrinas-Palma-Susun-Action-Plan-Swasembada-Energi-66821"
-    },
-    {
-      "title": "I Nengah Senantara Minta Agrinas Percepat Hilirisasi Sawit - Kantor Berita Sawit",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Mon, 06 Jul 2026 12:21:58 GMT",
-      "link": "https://sawitindonesia.com/i-nengah-senantara-minta-agrinas-percepat-hilirisasi-sawit/"
-    },
-    {
-      "title": "Konsolidasi Laporan Keuangan Dinilai Bisa Perkuat Fondasi Tata Kelola Danantara Indonesia - olenka.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 12:10:00 GMT",
-      "link": "https://olenka.id/konsolidasi-laporan-keuangan-dinilai-bisa-perkuat-fondasi-tata-kelola-danantara-indonesia"
-    },
-    {
-      "title": "Bupati Welly Lepas Haryadi Mengabdi di Kementerian Koperasi RI - Hantaran.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 12:04:23 GMT",
-      "link": "https://hantaran.co/bupati-welly-lepas-haryadi-mengabdi-di-kementerian-koperasi-ri-72445/"
-    },
-    {
-      "title": "Dekopinwil NTB Siapkan Langkah Besar Perkuat Koperasi Produktif - SUARANTB.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 06 Jul 2026 11:29:30 GMT",
-      "link": "https://suarantb.com/2026/07/06/dekopinwil-ntb-siapkan-langkah-besar-perkuat-koperasi-produktif/"
     }
   ]
 }
