@@ -1,32 +1,32 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T00:05:52.522293",
+  "generated_at": "2026-07-08T04:12:53.536328",
   "party_counts_7d": {
-    "Gerindra": 14,
+    "Gerindra": 15,
     "PDI-P": 22,
     "Golkar": 15,
-    "NasDem": 11,
+    "NasDem": 12,
     "PKB": 8,
     "PKS": 22,
     "PAN": 1,
-    "Demokrat": 3
+    "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 31,
+    "Gerindra": 32,
     "PDI-P": 50,
-    "Golkar": 37,
-    "NasDem": 18,
+    "Golkar": 38,
+    "NasDem": 19,
     "PKB": 21,
-    "PKS": 29,
+    "PKS": 31,
     "PAN": 12,
     "Demokrat": 11
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 16,
+    "Kementerian BUMN": 18,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 14,
+    "BPKN": 15,
     "KPPU": 20,
     "BP Batam": 20,
     "BPK Sabang": 5,
@@ -34,22 +34,23 @@
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 29,
+    "danantara": 31,
+    "bumn": 53,
     "impor": 1,
     "perdagangan": 16,
     "ekspor": 10,
-    "umkm": 6,
-    "koperasi": 60,
+    "umkm": 5,
+    "koperasi": 61,
     "ipo": 1,
-    "investasi": 10,
-    "kartel-monopoli": 12,
-    "merger-akuisisi": 2
+    "merger-akuisisi": 5,
+    "investasi": 12,
+    "kartel-monopoli": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 14,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
+    "Mulan Jameela": 1,
     "Kawendra Lukistian": 9,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 7,
@@ -61,7 +62,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 8,
-    "Gde Sumarjaya Linggih": 5,
+    "Gde Sumarjaya Linggih": 6,
     "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 6,
@@ -70,12 +71,12 @@
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
-    "Rudi Hartono Bangun": 2,
+    "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 10,
     "Nasim Khan": 8,
     "Ida Fauziyah": 1,
-    "Amin Ak.": 7,
+    "Amin Ak.": 9,
     "Rizal Bawazier": 8,
     "Ghufran": 2,
     "Ismail": 12,
@@ -87,12 +88,89 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 21,
+    "Hukum/Audit": 19,
     "Kinerja BUMN": 19,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Koperasi/UMKM": 57
   },
   "top_headlines": [
+    {
+      "title": "Danantara Merger 4 BUMN Asset Management, MI Ini Jadi Surviving Entity - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 03:25:14 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260708095112-17-749047/danantara-merger-4-bumn-asset-management-mi-ini-jadi-surviving-entity"
+    },
+    {
+      "title": "Kemendag Ancam Sanksi Produsen yang Tak Penuhi Pasokan Minyak Goreng - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 03:07:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260708/12/1986461/kemendag-ancam-sanksi-produsen-yang-tak-penuhi-pasokan-minyak-goreng"
+    },
+    {
+      "title": "Kemendag: HPE dan HR Emas Turun Dipicu Kenaikan Imbal Hasil Obligasi AS - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 02:27:19 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/08/kemendag-hpe-dan-hr-emas-turun-dipicu-kenaikan-imbal-hasil-obligasi-as/"
+    },
+    {
+      "title": "Danantara Merger 4 BUMN di Bawah Mandiri Manajemen Investasi, Terbesar di Indonesia - merahputih.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 02:16:22 GMT",
+      "link": "https://www.merahputih.com/post/read/danantara-merger-4-bumn-di-bawah-mandiri-manajemen-investasi-terbesar-di-indonesia"
+    },
+    {
+      "title": "Menteri Koperasi Respons Video Parodi Kopdes Merah Putih - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 01:44:00 GMT",
+      "link": "https://www.tempo.co/politik/menteri-koperasi-respons-video-parodi-kopdes-merah-putih-2274276"
+    },
+    {
+      "title": "Bakal Jadi Terbesar, Danantara Merger 4 BUMN Manajemen Investasi - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 00:30:10 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260708071125-92-1378167/bakal-jadi-terbesar-danantara-merger-4-bumn-manajemen-investasi/amp"
+    },
+    {
+      "title": "Hadiri Sidang IGE ke-9 UNCTAD di Jenewa, BPKN RI Dorong Penguatan Perlindungan Konsumen Berbasis Teknologi - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "link": "https://www.mediakarya.id/hadiri-sidang-ige-ke-9-unctad-di-jenewa-bpkn-ri-dorong-penguatan-perlindungan-konsumen-berbasis-teknologi/"
+    },
+    {
+      "title": "Seperti Apa Kinerja BUMN Setahun di Bawah Danantara - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 23:10:00 GMT",
+      "link": "https://koran.tempo.co/read/ekonomi-dan-bisnis/499345/seperti-apa-kinerja-bumn-setahun-di-bawah-danantara"
+    },
+    {
+      "title": "Seperti Apa Kinerja BUMN Setahun di Bawah Danantara - Tempo.co",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 23:10:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/kinerja-bumn-di-bawah-danantara-2274247"
+    },
+    {
+      "title": "DPR Dorong Perbanyak Pelaku Usaha Digital Demi Dongkrak Penerimaan Negara - Kedai Pena",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 07 Jul 2026 23:09:46 GMT",
+      "link": "https://www.kedaipena.com/dpr-dorong-perbanyak-pelaku-usaha-digital-demi-dongkrak-penerimaan-negara/"
+    },
+    {
+      "title": "Mengapa Perusahaan BUMN Kerap Memoles Laporan Keuangan - Tempo.co",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 07 Jul 2026 23:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/rekayasa-laporan-keuangan-bumn-2274245"
+    },
     {
       "title": "Video KDMP Banyak Diparodikan, Menkop akan Evaluasi dan Cari Solusi - Inilah.com",
       "entity": "Kementerian Koperasi",
@@ -120,83 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 07 Jul 2026 16:03:11 GMT",
       "link": "https://koma.id/2026/07/07/rieke-diah-pitaloka-minta-pengawasan-ketat-sidang-pk-nikita-mirzani-soroti-integritas-peradilan/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan memberikan komentar mengenai usulan pengenaan tarif listrik per jam untuk rumah tangga. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 14:51:05 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-noi-ve-de-xuat-tinh-gia-dien-theo-gio-voi-ho-sinh-hoat"
-    },
-    {
-      "title": "Danantara Gabungkan 4 Manajer Investasi BUMN Jadi Raksasa Baru - Harian Jogja",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 14:07:27 GMT",
-      "link": "https://ekbis.harianjogja.com/r-1262553/danantara-gabungkan-4-manajer-investasi-bumn-jadi-raksasa-baru"
-    },
-    {
-      "title": "RI kembangkan sistem peringatan dini cegah peredaran produk berbahaya - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 13:54:19 GMT",
-      "link": "https://www.antaranews.com/berita/5639477/ri-kembangkan-sistem-peringatan-dini-cegah-peredaran-produk-berbahaya"
-    },
-    {
-      "title": "Rangkaian Peringatan Hari Koperasi Ke 79 , Dekopinda Kabupaten Kendal Berikan Sosialisasi Terkait Pelatihan Peningkatan Mitigasi Resiko Tata Kelola Koperasi - Kicaunews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 13:04:05 GMT",
-      "link": "https://kicaunews.com/2026/07/07/rangkaian-peringatan-hari-koperasi-ke-79-dekopinda-kabupaten-kendal-berikan-sosialisasi-terkait-pelatihan-peningkatan-mitigasi-resiko-tata-kelola-koperasi/"
-    },
-    {
-      "title": "KPPU & OJK Sinergi Jaga Persaingan Usaha Sehat di Sektor Jasa Keuangan - detikNews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 13:03:19 GMT",
-      "link": "https://news.detik.com/berita/d-8564220/kppu-ojk-sinergi-jaga-persaingan-usaha-sehat-di-sektor-jasa-keuangan"
-    },
-    {
-      "title": "Soroti Dugaan Fraud di PT Pos, DPR Bakal Panggil Danantara - politikindonesia.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 12:18:46 GMT",
-      "link": "https://www.politikindonesia.id/soroti-dugaan-fraud-di-pt-pos-dpr-bakal-panggil-danantara"
-    },
-    {
-      "title": "Tragedi KMP Aceh Hebat 2, Ghufran Desak Investigasi Menyeluruh dan Perlindungan Korban - harianrakyataceh.com",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 11:32:00 GMT",
-      "link": "https://harianrakyataceh.com/news/tragedi-kmp-aceh-hebat-2-ghufran-desak-investigasi-menyeluruh-dan-perlindungan-korban/index.html"
-    },
-    {
-      "title": "Lokasi KDMP Viral Dinilai Tak Strategis, Menteri Koperasi Sebut Akan Evaluasi - VOI.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 11:20:00 GMT",
-      "link": "https://voi.id/ekonomi/583642/lokasi-kdmp-viral-dinilai-tak-strategis-menteri-koperasi-sebut-akan-evaluasi"
-    },
-    {
-      "title": "Barantin Integrasikan Layanan Karantina demi Pangkas Hambatan Ekspor dan Tingkatkan Efesiensi Arus Keluar Masuk Komoditas - Aktual.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 11:06:08 GMT",
-      "link": "https://aktual.com/barantin-integrasikan-layanan-karantina-demi-pangkas-hambatan-ekspor-dan-tingkatkan-efesiensi-arus-keluar-masuk-komoditas/"
-    },
-    {
-      "title": "Menkop: Koperasi Perkuat Pembiayaan dan Pengelolaan Desa Wisata - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 10:49:10 GMT",
-      "link": "https://www.nusantaratv.com/finance/menkop-koperasi-perkuat-pembiayaan-dan-pengelolaan-desa-wisata"
-    },
-    {
-      "title": "Menkop: Koperasi Perkuat Pembiayaan dan Pengelolaan Desa Wisata - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 10:49:10 GMT",
-      "link": "https://www.nusantaratv.com/berita/menkop-koperasi-perkuat-pembiayaan-dan-pengelolaan-desa-wisata"
     }
   ]
 }
