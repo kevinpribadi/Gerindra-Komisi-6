@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T04:12:53.536328",
+  "generated_at": "2026-07-08T07:26:52.070268",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 22,
-    "Golkar": 15,
-    "NasDem": 12,
-    "PKB": 8,
-    "PKS": 22,
+    "PDI-P": 24,
+    "Golkar": 14,
+    "NasDem": 13,
+    "PKB": 10,
+    "PKS": 23,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 32,
-    "PDI-P": 50,
+    "Gerindra": 31,
+    "PDI-P": 52,
     "Golkar": 38,
-    "NasDem": 19,
-    "PKB": 21,
-    "PKS": 31,
+    "NasDem": 20,
+    "PKB": 24,
+    "PKS": 32,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -26,7 +26,7 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 15,
+    "BPKN": 13,
     "KPPU": 20,
     "BP Batam": 20,
     "BPK Sabang": 5,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "danantara": 31,
-    "bumn": 53,
+    "danantara": 34,
+    "bumn": 54,
     "impor": 1,
     "perdagangan": 16,
     "ekspor": 10,
@@ -43,20 +43,21 @@
     "koperasi": 61,
     "ipo": 1,
     "merger-akuisisi": 5,
-    "investasi": 12,
-    "kartel-monopoli": 12
+    "investasi": 14,
+    "kartel-monopoli": 12,
+    "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 14,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 5,
+    "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 9,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 6,
     "Darmadi Durianto": 6,
-    "Rieke Diah Pitaloka": 12,
+    "Rieke Diah Pitaloka": 13,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 4,
@@ -68,16 +69,16 @@
     "Rizki Faisal": 6,
     "Muhammad Sarmuji": 5,
     "Rachmat Gobel": 7,
-    "Asep Wahyuwijaya": 4,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 10,
+    "Rivqy Abdul Halim": 13,
     "Nasim Khan": 8,
     "Ida Fauziyah": 1,
     "Amin Ak.": 9,
-    "Rizal Bawazier": 8,
+    "Rizal Bawazier": 9,
     "Ghufran": 2,
     "Ismail": 12,
     "Eko Patrio": 5,
@@ -88,12 +89,61 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
-    "Kinerja BUMN": 19,
+    "Hukum/Audit": 23,
+    "Kinerja BUMN": 20,
     "Perdagangan": 32,
     "Koperasi/UMKM": 57
   },
   "top_headlines": [
+    {
+      "title": "Komisi VI DPR Desak TASPEN Kawal Pensiunan Korban Dugaan Investasi Bodong, Soroti Lemahnya Tata Kelola - sudut kota",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 07:16:19 GMT",
+      "link": "https://sudutkota.id/komisi-vi-dpr-desak-taspen-kawal-pensiunan-korban-dugaan-investasi-bodong-soroti-lemahnya-tata-kelola/"
+    },
+    {
+      "title": "Berpotensi Merugikan, Rizal Bawazier Minta Taspen Tidak Alokasikan Dana Investasi - DPR RI",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 07:09:55 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Berpotensi-Merugikan-Rizal-Bawazier-Minta-Taspen-Tidak-Alokasikan-Dana-Investasi-66904"
+    },
+    {
+      "title": "Asep Wahyuwijaya Sebut Perubahan Arus Setoran Dividen BUMN Berpotensi Persempit Ruang Fiskal - Telusur.co.id",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 07:03:10 GMT",
+      "link": "https://telusur.co.id/detail/asep-wahyuwijaya-sebut-perubahan-arus-setoran-dividen-bumn-berpotensi-persempit-ruang-fiskal"
+    },
+    {
+      "title": "DPR Dukung Danantara Usut Dugaan Fraud di PT POS Indonesia - beritabuana.co",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 06:14:46 GMT",
+      "link": "https://beritabuana.co/2026/07/08/dpr-dukung-danantara-usut-dugaan-fraud-di-pt-pos-indonesia/"
+    },
+    {
+      "title": "Legislator dukung Danantara bongkar dugaan fraud di PT Pos Indonesia - ANTARA News Yogyakarta",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 05:23:50 GMT",
+      "link": "https://jogja.antaranews.com/berita/840536/legislator-dukung-danantara-bongkar-dugaan-fraud-di-pt-pos-indonesia"
+    },
+    {
+      "title": "Jelang Sidang PK Nikita Mirzani, Rieke Diah Pitaloka Desak Akuntabilitas Peradilan dan Soroti Etika Hakim - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 05:00:50 GMT",
+      "link": "https://aktual.com/jelang-sidang-pk-nikita-mirzani-rieke-diah-pitaloka-desak-akuntabilitas-peradilan-dan-soroti-etika-hakim/"
+    },
+    {
+      "title": "Gus Rivqy Dukung Danantara Bongkar Dugaan Fraud Bertahun-tahun di PT Pos Indonesia - FPKB DPR RI",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 04:23:55 GMT",
+      "link": "https://www.fraksipkb.com/2026/07/08/gus-rivqy-dukung-danantara-bongkar-dugaan-fraud-bertahun-tahun-di-pt-pos-indonesia/"
+    },
     {
       "title": "Danantara Merger 4 BUMN Asset Management, MI Ini Jadi Surviving Entity - CNBC Indonesia",
       "entity": "Danantara",
@@ -149,55 +199,6 @@
       "kind": "lembaga",
       "published": "Tue, 07 Jul 2026 23:10:00 GMT",
       "link": "https://koran.tempo.co/read/ekonomi-dan-bisnis/499345/seperti-apa-kinerja-bumn-setahun-di-bawah-danantara"
-    },
-    {
-      "title": "Seperti Apa Kinerja BUMN Setahun di Bawah Danantara - Tempo.co",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 23:10:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/kinerja-bumn-di-bawah-danantara-2274247"
-    },
-    {
-      "title": "DPR Dorong Perbanyak Pelaku Usaha Digital Demi Dongkrak Penerimaan Negara - Kedai Pena",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 23:09:46 GMT",
-      "link": "https://www.kedaipena.com/dpr-dorong-perbanyak-pelaku-usaha-digital-demi-dongkrak-penerimaan-negara/"
-    },
-    {
-      "title": "Mengapa Perusahaan BUMN Kerap Memoles Laporan Keuangan - Tempo.co",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 23:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/rekayasa-laporan-keuangan-bumn-2274245"
-    },
-    {
-      "title": "Video KDMP Banyak Diparodikan, Menkop akan Evaluasi dan Cari Solusi - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 18:10:00 GMT",
-      "link": "https://www.inilah.com/viral-video-kdmp-diparodikan-menkop-janji-bakal-evaluasi-dan-cari-solusi"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 17:21:00 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260708/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 17:15:43 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260708/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Minta Pengawasan Ketat Sidang PK Nikita Mirzani, Soroti Integritas Peradilan - Koma.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 07 Jul 2026 16:03:11 GMT",
-      "link": "https://koma.id/2026/07/07/rieke-diah-pitaloka-minta-pengawasan-ketat-sidang-pk-nikita-mirzani-soroti-integritas-peradilan/"
     }
   ]
 }
