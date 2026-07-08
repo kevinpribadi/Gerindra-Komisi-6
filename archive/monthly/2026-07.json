@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T17:27:00.039241",
+  "generated_at": "2026-07-08T19:21:42.249450",
   "party_counts_7d": {
     "Gerindra": 18,
-    "PDI-P": 26,
+    "PDI-P": 27,
     "Golkar": 14,
     "NasDem": 13,
     "PKB": 15,
     "PKS": 25,
     "PAN": 1,
-    "Demokrat": 2
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 38,
-    "PDI-P": 56,
+    "PDI-P": 57,
     "Golkar": 38,
     "NasDem": 21,
     "PKB": 31,
-    "PKS": 34,
+    "PKS": 35,
     "PAN": 12,
-    "Demokrat": 11
+    "Demokrat": 13
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "bumn": 62,
+    "bumn": 63,
     "danantara": 37,
     "umkm": 3,
     "ekspor": 11,
     "perdagangan": 9,
-    "koperasi": 60,
+    "koperasi": 61,
     "ipo": 1,
     "investasi": 22,
     "merger-akuisisi": 7,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 11,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 8,
-    "Mufti Anam": 6,
+    "Mufti Anam": 7,
     "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 15,
     "Sadarestuwati": 5,
@@ -78,7 +78,7 @@
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 2,
-    "Amin Ak.": 9,
+    "Amin Ak.": 10,
     "Rizal Bawazier": 11,
     "Ghufran": 2,
     "Ismail": 12,
@@ -87,16 +87,37 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 2,
     "Sartono": 4,
-    "Herman Khaeron": 7
+    "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Hukum/Audit": 28,
-    "Kinerja BUMN": 21,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 31,
+    "Kinerja BUMN": 22,
+    "Koperasi/UMKM": 56,
+    "Perdagangan": 32,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Demokrat Minta Pembahasan Revisi UU Pemilu Segera Dimulai - publika.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 18:52:00 GMT",
+      "link": "https://www.publika.id/demokrat-minta-revisi-uu-pemilu"
+    },
+    {
+      "title": "Demokrat Ingin RUU Pemilu Segera Dibahas: Supaya Ada Sosialisasi - detikNews",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 18:41:27 GMT",
+      "link": "https://news.detik.com/berita/d-8566051/demokrat-ingin-ruu-pemilu-segera-dibahas-supaya-ada-sosialisasi"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 17:37:27 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260709/MTEyNg%3D%3D"
+    },
     {
       "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
       "entity": "Kementerian Koperasi",
@@ -110,6 +131,13 @@
       "kind": "lembaga",
       "published": "Wed, 08 Jul 2026 16:32:04 GMT",
       "link": "https://www.metrotvnews.com/play/K5nCRE80-danantara-resmikan-pembangunan-psel-di-bali-nilai-investasi-capai-rp3-triliun"
+    },
+    {
+      "title": "Mufti Anam: Jabatan Komisaris di BUMN Bukan Hadiah Politik, Penilaian Pada Hasil Kerja - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 15:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-jabatan-komisaris-di-bumn-bukan-hadiah-politik-penilaian-pada-hasil-kerja-b2pWIZbgph"
     },
     {
       "title": "Anggota DPRA Nilai Dukungan Prabowo Buka Peluang Pengembangan Pelabuhan Sabang - ACEH BISNIS",
@@ -173,34 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 08 Jul 2026 12:42:27 GMT",
       "link": "https://sumbar.antaranews.com/berita/769229/wagub-vasko-pengurus-baru-dekopinwil-sumbar-harus-jadi-motor-transformasi-koperasi-modern"
-    },
-    {
-      "title": "Fanshurullah Asa Akhiri Masa Jabatan di KPPU, Berikut Capaiannya - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 12:34:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/08/19342381/fanshurullah-asa-akhiri-masa-jabatan-di-kppu-berikut-capaiannya"
-    },
-    {
-      "title": "Soroti Kasus Isa Rachmatarwata dan Nadiem Makarim, Rieke Diah Pitaloka Usulkan Penguatan Pasal 3 UU Tipikor - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 12:23:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/soroti-kasus-isa-rachmatarwata-dan-nadiem-makarim-rieke-diah-pitaloka-usulkan-penguatan-pasal-3-uu-tipikor-b2pWKZbgs6"
-    },
-    {
-      "title": "Darmadi: Komisi VI Akan Panggil Danantara Bahas Kasus PT Pos - Tirto.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 12:15:00 GMT",
-      "link": "https://tirto.id/darmadi-komisi-vi-akan-panggil-danantara-bahas-kasus-pt-pos-hzo5"
-    },
-    {
-      "title": "Akom VI Minta Investasi PT Taspen Senilai Rp1,8 Triliun Diawasi Ketat - Kedai Pena",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 11:52:26 GMT",
-      "link": "https://www.kedaipena.com/akom-vi-minta-investasi-pt-taspen-senilai-rp18-triliun-diawasi-ketat/"
     }
   ]
 }
