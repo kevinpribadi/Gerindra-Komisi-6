@@ -1,50 +1,50 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T07:26:52.070268",
+  "generated_at": "2026-07-08T10:14:20.459860",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 24,
+    "PDI-P": 23,
     "Golkar": 14,
     "NasDem": 13,
-    "PKB": 10,
-    "PKS": 23,
+    "PKB": 12,
+    "PKS": 24,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 31,
+    "Gerindra": 34,
     "PDI-P": 52,
     "Golkar": 38,
     "NasDem": 20,
-    "PKB": 24,
-    "PKS": 32,
+    "PKB": 27,
+    "PKS": 33,
     "PAN": 12,
     "Demokrat": 11
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 20,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 13,
+    "BPKN": 15,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 5,
+    "BPK Sabang": 7,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "danantara": 34,
-    "bumn": 54,
+    "danantara": 35,
+    "bumn": 60,
     "impor": 1,
-    "perdagangan": 16,
     "ekspor": 10,
-    "umkm": 5,
-    "koperasi": 61,
+    "perdagangan": 12,
+    "koperasi": 60,
     "ipo": 1,
-    "merger-akuisisi": 5,
-    "investasi": 14,
-    "kartel-monopoli": 12,
+    "merger-akuisisi": 7,
+    "investasi": 17,
+    "kartel-monopoli": 9,
+    "umkm": 1,
     "dividen": 1
   },
   "member_counts_30d": {
@@ -52,8 +52,8 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 1,
-    "Kawendra Lukistian": 9,
-    "Mulyadi": 2,
+    "Kawendra Lukistian": 11,
+    "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 6,
     "Darmadi Durianto": 6,
@@ -74,11 +74,12 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 13,
+    "Rivqy Abdul Halim": 15,
     "Nasim Khan": 8,
     "Ida Fauziyah": 1,
+    "Imas Aan Ubudiah": 1,
     "Amin Ak.": 9,
-    "Rizal Bawazier": 9,
+    "Rizal Bawazier": 10,
     "Ghufran": 2,
     "Ismail": 12,
     "Eko Patrio": 5,
@@ -89,116 +90,117 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 23,
-    "Kinerja BUMN": 20,
+    "Hukum/Audit": 24,
+    "Kinerja BUMN": 22,
     "Perdagangan": 32,
-    "Koperasi/UMKM": 57
+    "Koperasi/UMKM": 53,
+    "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Gopprera Panggabean Resmi Pimpin KPPU, Hilman Pujana Jadi Wakil Ketua hingga 2029 - KaltimKita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 10:01:52 GMT",
+      "link": "https://kaltimkita.com/detailpost/gopprera-panggabean-resmi-pimpin-kppu-hilman-pujana-jadi-wakil-ketua-hingga-2029"
+    },
+    {
+      "title": "Matangkan Persiapan Hari Koperasi Nasional ke-79, Walkot Tasik dan Menkop RI Revitalisasi Kawasan Bersejarah jadi Agenda Strategis - Wartatasik.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:53:32 GMT",
+      "link": "https://www.wartatasik.com/matangkan-persiapan-hari-koperasi-nasional-ke-79-walkot-tasik-dan-menkop-ri-revitalisasi-kawasan-bersejarah-jadi-agenda-strategis/"
+    },
+    {
+      "title": "Matangkan Persiapan Hari Koperasi Nasional ke-79, Walkot Tasik dan Menkop RI Revitalisasi Kawasan Bersejarah jadi Agenda Strategis - Wartatasik.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:53:32 GMT",
+      "link": "https://www.wartatasik.com/matangkan-persiapan-hari-koperasi-nasional-ke-79-walkot-tasik-dan-menkop-ri-revitalisasi-kawasan-bersejarah-jadi-agenda-strategis/"
+    },
+    {
+      "title": "Strategi Baru Kemendag, Ekspor Produk Olahan Jadi Andalan Pertumbuhan Ekonomi - Kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:22:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/08/162256626/strategi-baru-kemendag-ekspor-produk-olahan-jadi-andalan-pertumbuhan-ekonomi"
+    },
+    {
+      "title": "Danantara Mulai Bangun PSEL Bali, Target Beroperasi pada 2028 - SinPo.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:07:19 GMT",
+      "link": "https://sinpo.id/detail/123886/danantara-mulai-bangun-psel-bali-target-beroperasi-pada-2028"
+    },
+    {
+      "title": "Kemendag Terbitkan Aturan Baru demi Jamin Pasokan Minyak Goreng - publika.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:03:23 GMT",
+      "link": "https://www.publika.id/kemendag-terbitkan-aturan-baru-minyak-goreng"
+    },
+    {
+      "title": "Danantara Targetkan PLTSa Bali Rampung Akhir 2027 - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 09:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/114311/danantara-targetkan-pltsa-bali-rampung-akhir-2027"
+    },
+    {
+      "title": "Legislator Minta Investasi Obligasi Rp1,8 Triliun Taspen Diawasi Ketat, Ini Alasannya - Infobanknews",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 08:35:58 GMT",
+      "link": "https://infobanknews.com/legislator-minta-investasi-obligasi-rp18-triliun-taspen-diawasi-ketat-ini-alasannya"
+    },
+    {
+      "title": "BPI Danantara Akan Merger 4 BUMN Asset Management, Diharapkan Jadi yang Terbesar di RI - mitrapost.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 08:17:34 GMT",
+      "link": "https://mitrapost.com/2026/07/08/bpi-danantara-akan-merger-4-bumn-asset-management-diharapkan-jadi-yang-terbesar-di-ri/"
+    },
+    {
+      "title": "BPKS: Konektivitas Sabang-India jadi pusat pertumbuhan ekonomi baru - ANTARA News",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 08:14:21 GMT",
+      "link": "https://aceh.antaranews.com/berita/407991/bpks-konektivitas-sabang-india-jadi-pusat-pertumbuhan-ekonomi-baru"
+    },
+    {
+      "title": "RI Punya 224.256 Koperasi, KopDes Merah Putih Mendominasi Juli 2026 - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 08:10:38 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260708/12/1986551/ri-punya-224256-koperasi-kopdes-merah-putih-mendominasi-juli-2026"
+    },
+    {
+      "title": "Rencana Ekspor Listrik ke Singapura, Prabowo Panggil Jajaran BP Batam - Batamnews",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 07:38:00 GMT",
+      "link": "https://www.batamnews.co.id/berita-128582-rencana-ekspor-listrik-ke-singapura-prabowo-panggil-jajaran-bp-batam.html"
+    },
+    {
+      "title": "| Legislator PKB Dukung Langkah Danantara Benahi Tata Kelola PT Pos Indonesia - jurnas.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 07:33:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661584/legislator-pkb-dukung-langkah-danantara-benahi-tata-kelola-pt-pos-indonesia/"
+    },
+    {
+      "title": "Kemendag andalkan tiga strategi dongkrak ekspor nasional - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 07:27:56 GMT",
+      "link": "https://www.antaranews.com/berita/5640387/kemendag-andalkan-tiga-strategi-dongkrak-ekspor-nasional"
+    },
     {
       "title": "Komisi VI DPR Desak TASPEN Kawal Pensiunan Korban Dugaan Investasi Bodong, Soroti Lemahnya Tata Kelola - sudut kota",
       "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
       "published": "Wed, 08 Jul 2026 07:16:19 GMT",
       "link": "https://sudutkota.id/komisi-vi-dpr-desak-taspen-kawal-pensiunan-korban-dugaan-investasi-bodong-soroti-lemahnya-tata-kelola/"
-    },
-    {
-      "title": "Berpotensi Merugikan, Rizal Bawazier Minta Taspen Tidak Alokasikan Dana Investasi - DPR RI",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 07:09:55 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Berpotensi-Merugikan-Rizal-Bawazier-Minta-Taspen-Tidak-Alokasikan-Dana-Investasi-66904"
-    },
-    {
-      "title": "Asep Wahyuwijaya Sebut Perubahan Arus Setoran Dividen BUMN Berpotensi Persempit Ruang Fiskal - Telusur.co.id",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 07:03:10 GMT",
-      "link": "https://telusur.co.id/detail/asep-wahyuwijaya-sebut-perubahan-arus-setoran-dividen-bumn-berpotensi-persempit-ruang-fiskal"
-    },
-    {
-      "title": "DPR Dukung Danantara Usut Dugaan Fraud di PT POS Indonesia - beritabuana.co",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 06:14:46 GMT",
-      "link": "https://beritabuana.co/2026/07/08/dpr-dukung-danantara-usut-dugaan-fraud-di-pt-pos-indonesia/"
-    },
-    {
-      "title": "Legislator dukung Danantara bongkar dugaan fraud di PT Pos Indonesia - ANTARA News Yogyakarta",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 05:23:50 GMT",
-      "link": "https://jogja.antaranews.com/berita/840536/legislator-dukung-danantara-bongkar-dugaan-fraud-di-pt-pos-indonesia"
-    },
-    {
-      "title": "Jelang Sidang PK Nikita Mirzani, Rieke Diah Pitaloka Desak Akuntabilitas Peradilan dan Soroti Etika Hakim - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 05:00:50 GMT",
-      "link": "https://aktual.com/jelang-sidang-pk-nikita-mirzani-rieke-diah-pitaloka-desak-akuntabilitas-peradilan-dan-soroti-etika-hakim/"
-    },
-    {
-      "title": "Gus Rivqy Dukung Danantara Bongkar Dugaan Fraud Bertahun-tahun di PT Pos Indonesia - FPKB DPR RI",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 04:23:55 GMT",
-      "link": "https://www.fraksipkb.com/2026/07/08/gus-rivqy-dukung-danantara-bongkar-dugaan-fraud-bertahun-tahun-di-pt-pos-indonesia/"
-    },
-    {
-      "title": "Danantara Merger 4 BUMN Asset Management, MI Ini Jadi Surviving Entity - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 03:25:14 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260708095112-17-749047/danantara-merger-4-bumn-asset-management-mi-ini-jadi-surviving-entity"
-    },
-    {
-      "title": "Kemendag Ancam Sanksi Produsen yang Tak Penuhi Pasokan Minyak Goreng - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 03:07:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260708/12/1986461/kemendag-ancam-sanksi-produsen-yang-tak-penuhi-pasokan-minyak-goreng"
-    },
-    {
-      "title": "Kemendag: HPE dan HR Emas Turun Dipicu Kenaikan Imbal Hasil Obligasi AS - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 02:27:19 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/08/kemendag-hpe-dan-hr-emas-turun-dipicu-kenaikan-imbal-hasil-obligasi-as/"
-    },
-    {
-      "title": "Danantara Merger 4 BUMN di Bawah Mandiri Manajemen Investasi, Terbesar di Indonesia - merahputih.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 02:16:22 GMT",
-      "link": "https://www.merahputih.com/post/read/danantara-merger-4-bumn-di-bawah-mandiri-manajemen-investasi-terbesar-di-indonesia"
-    },
-    {
-      "title": "Menteri Koperasi Respons Video Parodi Kopdes Merah Putih - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 01:44:00 GMT",
-      "link": "https://www.tempo.co/politik/menteri-koperasi-respons-video-parodi-kopdes-merah-putih-2274276"
-    },
-    {
-      "title": "Bakal Jadi Terbesar, Danantara Merger 4 BUMN Manajemen Investasi - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 00:30:10 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260708071125-92-1378167/bakal-jadi-terbesar-danantara-merger-4-bumn-manajemen-investasi/amp"
-    },
-    {
-      "title": "Hadiri Sidang IGE ke-9 UNCTAD di Jenewa, BPKN RI Dorong Penguatan Perlindungan Konsumen Berbasis Teknologi - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "link": "https://www.mediakarya.id/hadiri-sidang-ige-ke-9-unctad-di-jenewa-bpkn-ri-dorong-penguatan-perlindungan-konsumen-berbasis-teknologi/"
-    },
-    {
-      "title": "Seperti Apa Kinerja BUMN Setahun di Bawah Danantara - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 07 Jul 2026 23:10:00 GMT",
-      "link": "https://koran.tempo.co/read/ekonomi-dan-bisnis/499345/seperti-apa-kinerja-bumn-setahun-di-bawah-danantara"
     }
   ]
 }
