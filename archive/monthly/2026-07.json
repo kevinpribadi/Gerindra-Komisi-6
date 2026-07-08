@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T15:19:51.849360",
+  "generated_at": "2026-07-08T17:27:00.039241",
   "party_counts_7d": {
     "Gerindra": 18,
-    "PDI-P": 24,
+    "PDI-P": 26,
     "Golkar": 14,
     "NasDem": 13,
     "PKB": 15,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 38,
-    "PDI-P": 54,
+    "PDI-P": 56,
     "Golkar": 38,
     "NasDem": 21,
     "PKB": 31,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 62,
     "danantara": 37,
-    "umkm": 2,
+    "umkm": 3,
     "ekspor": 11,
     "perdagangan": 9,
     "koperasi": 60,
     "ipo": 1,
-    "investasi": 21,
+    "investasi": 22,
     "merger-akuisisi": 7,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "dividen": 1
   },
   "member_counts_30d": {
@@ -55,8 +55,8 @@
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 6,
-    "Darmadi Durianto": 7,
-    "Rieke Diah Pitaloka": 14,
+    "Darmadi Durianto": 8,
+    "Rieke Diah Pitaloka": 15,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 4,
@@ -91,12 +91,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 28,
-    "Kinerja BUMN": 22,
-    "Koperasi/UMKM": 54,
+    "Kinerja BUMN": 21,
+    "Koperasi/UMKM": 55,
     "Perdagangan": 31,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 17:21:32 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260709/OTYy"
+    },
+    {
+      "title": "Danantara Resmikan Pembangunan PSEL di Bali, Nilai Investasi Capai Rp3 Triliun - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 16:32:04 GMT",
+      "link": "https://www.metrotvnews.com/play/K5nCRE80-danantara-resmikan-pembangunan-psel-di-bali-nilai-investasi-capai-rp3-triliun"
+    },
     {
       "title": "Anggota DPRA Nilai Dukungan Prabowo Buka Peluang Pengembangan Pelabuhan Sabang - ACEH BISNIS",
       "entity": "BPK Sabang",
@@ -140,6 +154,13 @@
       "link": "https://bernas.id/nasional/news/meta-kemendag-pelatihan-ai-150-umkm-indonesia"
     },
     {
+      "title": "Darmadi Durianto: Perampingan BUMN Harus Didasarkan Pada Indikator Kinerja, Bukan Jumlah Perusahaan - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-perampingan-bumn-harus-didasarkan-pada-indikator-kinerja-bukan-jumlah-perusahaan-b2pWIZbgpl"
+    },
+    {
       "title": "Modal Awal PFII dari Danantara, Peluang Gunakan APBN Masih Dibuka - investor.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -161,6 +182,13 @@
       "link": "https://nasional.kompas.com/read/2026/07/08/19342381/fanshurullah-asa-akhiri-masa-jabatan-di-kppu-berikut-capaiannya"
     },
     {
+      "title": "Soroti Kasus Isa Rachmatarwata dan Nadiem Makarim, Rieke Diah Pitaloka Usulkan Penguatan Pasal 3 UU Tipikor - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 12:23:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/soroti-kasus-isa-rachmatarwata-dan-nadiem-makarim-rieke-diah-pitaloka-usulkan-penguatan-pasal-3-uu-tipikor-b2pWKZbgs6"
+    },
+    {
       "title": "Darmadi: Komisi VI Akan Panggil Danantara Bahas Kasus PT Pos - Tirto.id",
       "entity": "Darmadi Durianto",
       "kind": "anggota",
@@ -173,34 +201,6 @@
       "kind": "anggota",
       "published": "Wed, 08 Jul 2026 11:52:26 GMT",
       "link": "https://www.kedaipena.com/akom-vi-minta-investasi-pt-taspen-senilai-rp18-triliun-diawasi-ketat/"
-    },
-    {
-      "title": "Kemenkop dan Kemenpar Perkuat Sektor Pariwisata melalui Transformasi Pokdarwis Menjadi Koperasi - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 11:52:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-dan-kemenpar-perkuat-sektor-pariwisata-melalui-transformasi-pokdarwis-menjadi-koperasi/"
-    },
-    {
-      "title": "Sikapi Isu Dugaan Korupsi Pengadaan Batu Bara PLTU, Legislator PKB Desak PLN Lakukan Audit Menyeluruh - Kedai Pena",
-      "entity": "Imas Aan Ubudiah",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 11:39:53 GMT",
-      "link": "https://www.kedaipena.com/sikapi-isu-dugaan-korupsi-pengadaan-batu-bara-pltu-legislator-pkb-desak-pln-lakukan-audit-menyeluruh/"
-    },
-    {
-      "title": "Dugaan Fraud di PT Pos Indonesia Diungkap Danantara, DPR: Bongkar hingga Tuntas - IndonesiaInside",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 11:24:49 GMT",
-      "link": "https://indonesiainside.id/news/nasional/2026/07/08/dugaan-fraud-di-pt-pos-indonesia-diungkap-danantara-dpr-bongkar-hingga-tuntas"
-    },
-    {
-      "title": "Rieke DP: Saatnya Benahi Total Tata Kelola Pemasyarakatan - GoNews.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 11:24:00 GMT",
-      "link": "https://www.gonews.co/berita/baca/2026/07/08/rieke-dp-saatnya-benahi-total-tata-kelola-pemasyarakatan"
     }
   ]
 }
