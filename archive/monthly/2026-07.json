@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T12:19:44.734798",
+  "generated_at": "2026-07-08T15:19:51.849360",
   "party_counts_7d": {
     "Gerindra": 18,
-    "PDI-P": 23,
+    "PDI-P": 24,
     "Golkar": 14,
-    "NasDem": 12,
-    "PKB": 16,
-    "PKS": 24,
+    "NasDem": 13,
+    "PKB": 15,
+    "PKS": 25,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 38,
-    "PDI-P": 53,
+    "PDI-P": 54,
     "Golkar": 38,
-    "NasDem": 20,
+    "NasDem": 21,
     "PKB": 31,
-    "PKS": 33,
+    "PKS": 34,
     "PAN": 12,
     "Demokrat": 11
   },
@@ -29,22 +29,21 @@
     "BPKN": 15,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 7,
+    "BPK Sabang": 8,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 17
   },
   "topic_counts_30d": {
-    "danantara": 36,
-    "bumn": 60,
-    "impor": 1,
-    "ekspor": 10,
-    "perdagangan": 11,
+    "bumn": 61,
+    "danantara": 37,
+    "umkm": 2,
+    "ekspor": 11,
+    "perdagangan": 9,
     "koperasi": 60,
     "ipo": 1,
-    "investasi": 19,
+    "investasi": 21,
     "merger-akuisisi": 7,
-    "kartel-monopoli": 8,
-    "umkm": 1,
+    "kartel-monopoli": 7,
     "dividen": 1
   },
   "member_counts_30d": {
@@ -56,7 +55,7 @@
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 6,
-    "Darmadi Durianto": 6,
+    "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 14,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
@@ -73,13 +72,14 @@
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
+    "Subardi": 1,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 17,
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 2,
     "Amin Ak.": 9,
-    "Rizal Bawazier": 10,
+    "Rizal Bawazier": 11,
     "Ghufran": 2,
     "Ismail": 12,
     "Eko Patrio": 5,
@@ -90,13 +90,90 @@
     "Herman Khaeron": 7
   },
   "early_warning_counts": {
-    "Hukum/Audit": 27,
+    "Hukum/Audit": 28,
     "Kinerja BUMN": 22,
-    "Perdagangan": 32,
-    "Koperasi/UMKM": 53,
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 31,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPRA Nilai Dukungan Prabowo Buka Peluang Pengembangan Pelabuhan Sabang - ACEH BISNIS",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 14:54:45 GMT",
+      "link": "https://www.acehbisnis.com/news/anggota-dpra-nilai-dukungan-prabowo-buka-peluang-pengembangan-pelabuhan-sabang/index.html"
+    },
+    {
+      "title": "Wagub Vasko Ingin Dekopinwil Sumbar Jadi Motor Koperasi Modern dan Berdaya Saing - Langgam.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 14:25:30 GMT",
+      "link": "https://langgam.id/wagub-vasko-ingin-dekopinwil-sumbar-jadi-motor-koperasi-modern-dan-berdaya-saing/"
+    },
+    {
+      "title": "Kemendag Lantik Irjen Baru, Mendag Busan Tekankan Pengawasan Program Prioritas - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 14:19:03 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-lantik-irjen-baru-mendag-busan-tekankan-pengawasan-program-prioritas"
+    },
+    {
+      "title": "Akom VI Dorong Penerbitan Regulasi Terkait Pengelolaan Iuran PPPK - Kedai Pena",
+      "entity": "Subardi",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 13:32:52 GMT",
+      "link": "https://www.kedaipena.com/akom-vi-dorong-penerbitan-regulasi-terkait-pengelolaan-iuran-pppk/"
+    },
+    {
+      "title": "Peserta Sesko TNI Diajak Perkuat Koperasi sebagai Motor Ekonomi - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 13:22:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/08/713756/peserta-sesko-tni-diajak-perkuat-koperasi-sebagai-motor-ekonomi-"
+    },
+    {
+      "title": "Meta dan Kemendag Luncurkan Program Pelatihan AI untuk 150 UMKM di Indonesia - BERNAS.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 13:02:25 GMT",
+      "link": "https://bernas.id/nasional/news/meta-kemendag-pelatihan-ai-150-umkm-indonesia"
+    },
+    {
+      "title": "Modal Awal PFII dari Danantara, Peluang Gunakan APBN Masih Dibuka - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 12:44:20 GMT",
+      "link": "https://investor.id/macroeconomy/445766/modal-awal-pfii-dari-danantara-peluang-gunakan-apbn-masih-dibuka"
+    },
+    {
+      "title": "Wagub Vasko : Pengurus baru Dekopinwil Sumbar harus jadi motor transformasi koperasi modern - ANTARA News Sumbar",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 12:42:27 GMT",
+      "link": "https://sumbar.antaranews.com/berita/769229/wagub-vasko-pengurus-baru-dekopinwil-sumbar-harus-jadi-motor-transformasi-koperasi-modern"
+    },
+    {
+      "title": "Fanshurullah Asa Akhiri Masa Jabatan di KPPU, Berikut Capaiannya - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 12:34:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/07/08/19342381/fanshurullah-asa-akhiri-masa-jabatan-di-kppu-berikut-capaiannya"
+    },
+    {
+      "title": "Darmadi: Komisi VI Akan Panggil Danantara Bahas Kasus PT Pos - Tirto.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 12:15:00 GMT",
+      "link": "https://tirto.id/darmadi-komisi-vi-akan-panggil-danantara-bahas-kasus-pt-pos-hzo5"
+    },
+    {
+      "title": "Akom VI Minta Investasi PT Taspen Senilai Rp1,8 Triliun Diawasi Ketat - Kedai Pena",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 08 Jul 2026 11:52:26 GMT",
+      "link": "https://www.kedaipena.com/akom-vi-minta-investasi-pt-taspen-senilai-rp18-triliun-diawasi-ketat/"
+    },
     {
       "title": "Kemenkop dan Kemenpar Perkuat Sektor Pariwisata melalui Transformasi Pokdarwis Menjadi Koperasi - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -124,83 +201,6 @@
       "kind": "anggota",
       "published": "Wed, 08 Jul 2026 11:24:00 GMT",
       "link": "https://www.gonews.co/berita/baca/2026/07/08/rieke-dp-saatnya-benahi-total-tata-kelola-pemasyarakatan"
-    },
-    {
-      "title": "Investor Global Lirik Peluang Emas di RI, Ini Buktinya! - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 11:08:27 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260708175834-17-749256/investor-global-lirik-peluang-emas-di-ri-ini-buktinya"
-    },
-    {
-      "title": "Batam Menuju Gerbang Maritim dan Investasi Global. Ini Arahan Presiden - Emitennews.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 11:01:00 GMT",
-      "link": "https://www.emitennews.com/news/batam-menuju-gerbang-maritim-dan-investasi-global-ini-arahan-presiden"
-    },
-    {
-      "title": "Soroti Kualitas Air PDAM, Mulyadi Dorong Standardisasi Lewat RUU Pengelolaan Air Minum - DPR RI",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 10:29:55 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-Kualitas-Air-PDAM-Mulyadi-Dorong-Standardisasi-Lewat-RUU-Pengelolaan-Air-Minum-66917"
-    },
-    {
-      "title": "Profil Gopprera Panggabean dan Hilman Pujana, Pimpinan Baru KPPU Periode 2026–2029 - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 10:21:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/08/172123826/profil-gopprera-panggabean-dan-hilman-pujana-pimpinan-baru-kppu-periode"
-    },
-    {
-      "title": "Transformasi PTPN, Haji Nasim minta memperhatikan hak pekerja - Elshinta",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 10:20:58 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/transformasi-ptpn-haji-nasim-minta-memperhatikan-hak-pekerja-169645"
-    },
-    {
-      "title": "Gus Rivqy Dukung Danantara Bongkar Dugaan Fraud Bertahun-tahun di PT Pos Indonesia - PKB.ID",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 10:13:00 GMT",
-      "link": "https://pkb.id/read/13107/gus-rivqy-dukung-danantara-bongkar-dugaan-fraud-bertahun-tahun-di-pt-pos-indonesia/"
-    },
-    {
-      "title": "Kemendag Siapkan 3 Strategi Dongkrak Ekspor di Tengah Ketidakpastian Global - Infobanknews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 10:13:00 GMT",
-      "link": "https://infobanknews.com/kemendag-siapkan-3-strategi-dongkrak-ekspor-di-tengah-ketidakpastian-global"
-    },
-    {
-      "title": "KPPU Tunjuk Gopprera Panggabean sebagai Ketua, Hilman Pujana Jadi Wakil Ketua 2026-2029 - Infobanknews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 10:07:44 GMT",
-      "link": "https://infobanknews.com/kppu-tunjuk-gopprera-panggabean-sebagai-ketua-hilman-pujana-jadi-wakil-ketua-2026-2029"
-    },
-    {
-      "title": "Gopprera Panggabean Resmi Pimpin KPPU, Hilman Pujana Jadi Wakil Ketua hingga 2029 - KaltimKita.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 10:01:52 GMT",
-      "link": "https://kaltimkita.com/detailpost/gopprera-panggabean-resmi-pimpin-kppu-hilman-pujana-jadi-wakil-ketua-hingga-2029"
-    },
-    {
-      "title": "Dekopinda Kudus Ungkap 3 Masalah Besar yang Ancam Perkembangan Koperasi - Betanews.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 10:01:00 GMT",
-      "link": "https://betanews.id/2026/07/dekopinda-kudus-ungkap-3-masalah-besar-yang-ancam-perkembangan-koperasi.html"
-    },
-    {
-      "title": "Matangkan Persiapan Hari Koperasi Nasional ke-79, Walkot Tasik dan Menkop RI Revitalisasi Kawasan Bersejarah jadi Agenda Strategis - Wartatasik.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 09:53:32 GMT",
-      "link": "https://www.wartatasik.com/matangkan-persiapan-hari-koperasi-nasional-ke-79-walkot-tasik-dan-menkop-ri-revitalisasi-kawasan-bersejarah-jadi-agenda-strategis/"
     }
   ]
 }
