@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T21:05:08.225467",
+  "generated_at": "2026-07-08T23:04:16.405939",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 27,
     "Golkar": 14,
     "NasDem": 13,
-    "PKB": 15,
+    "PKB": 16,
     "PKS": 25,
     "PAN": 1,
     "Demokrat": 5
@@ -16,7 +16,7 @@
     "PDI-P": 57,
     "Golkar": 38,
     "NasDem": 21,
-    "PKB": 32,
+    "PKB": 33,
     "PKS": 35,
     "PAN": 12,
     "Demokrat": 14
@@ -29,19 +29,19 @@
     "BPKN": 15,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 8,
+    "BPK Sabang": 9,
     "Dekopin": 20,
-    "Badan Pengaturan BUMN": 17
+    "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
+    "bumn": 66,
     "danantara": 38,
     "umkm": 3,
-    "ekspor": 11,
+    "ekspor": 10,
     "perdagangan": 9,
     "koperasi": 61,
     "ipo": 1,
-    "investasi": 22,
+    "investasi": 23,
     "merger-akuisisi": 7,
     "kartel-monopoli": 8,
     "dividen": 1
@@ -74,7 +74,7 @@
     "Rudi Hartono Bangun": 3,
     "Subardi": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 18,
+    "Rivqy Abdul Halim": 19,
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 2,
@@ -90,13 +90,27 @@
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Hukum/Audit": 29,
-    "Kinerja BUMN": 22,
+    "Hukum/Audit": 30,
+    "Kinerja BUMN": 23,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 32,
+    "Perdagangan": 31,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Percepat Investasi, Ancam Cabut Alokasi 'Lahan Tidur' Dua Tahun - Bisnis.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 22:40:35 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260709/534/1986714/bp-batam-percepat-investasi-ancam-cabut-alokasi-lahan-tidur-dua-tahun"
+    },
+    {
+      "title": "Danantara Memulai Proyek PSEL Bali - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 22:35:59 GMT",
+      "link": "https://insight.kontan.co.id/news/danantara-memulai-proyek-psel-bali"
+    },
     {
       "title": "Demokrat Minta Pembahasan Revisi UU Pemilu Segera Dimulai - publika.id",
       "entity": "Herman Khaeron",
@@ -161,6 +175,13 @@
       "link": "https://industri.kontan.co.id/news/kemendag-lantik-irjen-baru-mendag-busan-tekankan-pengawasan-program-prioritas"
     },
     {
+      "title": "PSEL di Bali Olah Lebih dari 500 Ribu Ton Sampah Per Tahun - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 14:01:35 GMT",
+      "link": "https://bisnis.tempo.co/read/2112632/psel-di-bali-olah-lebih-dari-500-ribu-ton-sampah-per-tahun?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
       "title": "Akom VI Dorong Penerbitan Regulasi Terkait Pengelolaan Iuran PPPK - Kedai Pena",
       "entity": "Subardi",
       "kind": "anggota",
@@ -180,27 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 08 Jul 2026 13:02:25 GMT",
       "link": "https://bernas.id/nasional/news/meta-kemendag-pelatihan-ai-150-umkm-indonesia"
-    },
-    {
-      "title": "Darmadi Durianto: Perampingan BUMN Harus Didasarkan Pada Indikator Kinerja, Bukan Jumlah Perusahaan - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-perampingan-bumn-harus-didasarkan-pada-indikator-kinerja-bukan-jumlah-perusahaan-b2pWIZbgpl"
-    },
-    {
-      "title": "Modal Awal PFII dari Danantara, Peluang Gunakan APBN Masih Dibuka - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 12:44:20 GMT",
-      "link": "https://investor.id/macroeconomy/445766/modal-awal-pfii-dari-danantara-peluang-gunakan-apbn-masih-dibuka"
-    },
-    {
-      "title": "Wagub Vasko : Pengurus baru Dekopinwil Sumbar harus jadi motor transformasi koperasi modern - ANTARA News Sumbar",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 12:42:27 GMT",
-      "link": "https://sumbar.antaranews.com/berita/769229/wagub-vasko-pengurus-baru-dekopinwil-sumbar-harus-jadi-motor-transformasi-koperasi-modern"
     }
   ]
 }
