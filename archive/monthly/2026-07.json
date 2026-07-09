@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-08T23:04:16.405939",
+  "generated_at": "2026-07-09T02:45:27.761591",
   "party_counts_7d": {
     "Gerindra": 18,
-    "PDI-P": 27,
-    "Golkar": 14,
+    "PDI-P": 26,
+    "Golkar": 13,
     "NasDem": 13,
-    "PKB": 16,
+    "PKB": 17,
     "PKS": 25,
     "PAN": 1,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 38,
+    "Gerindra": 39,
     "PDI-P": 57,
     "Golkar": 38,
     "NasDem": 21,
-    "PKB": 33,
-    "PKS": 35,
+    "PKB": 34,
+    "PKS": 36,
     "PAN": 12,
     "Demokrat": 14
   },
@@ -26,28 +26,28 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 15,
+    "BPKN": 16,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 9,
+    "BPK Sabang": 10,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 66,
-    "danantara": 38,
-    "umkm": 3,
+    "danantara": 37,
+    "umkm": 5,
     "ekspor": 10,
     "perdagangan": 9,
     "koperasi": 61,
     "ipo": 1,
-    "investasi": 23,
+    "investasi": 24,
     "merger-akuisisi": 7,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 6,
     "dividen": 1
   },
   "member_counts_30d": {
-    "Andre Rosiade": 15,
+    "Andre Rosiade": 16,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
@@ -77,8 +77,8 @@
     "Rivqy Abdul Halim": 19,
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
-    "Imas Aan Ubudiah": 2,
-    "Amin Ak.": 10,
+    "Imas Aan Ubudiah": 3,
+    "Amin Ak.": 11,
     "Rizal Bawazier": 11,
     "Ghufran": 2,
     "Ismail": 12,
@@ -90,13 +90,76 @@
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Hukum/Audit": 30,
+    "Hukum/Audit": 32,
     "Kinerja BUMN": 23,
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 58,
     "Perdagangan": 31,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Purna Tugas, Ini Capaian Fanshurullah Asa & Aru Armando Pimpin KPPU - detikNews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 02:28:23 GMT",
+      "link": "https://news.detik.com/berita/d-8566210/purna-tugas-ini-capaian-fanshurullah-asa-aru-armando-pimpin-kppu"
+    },
+    {
+      "title": "Dana UMKM Diduga Tertahan Rp3 Triliun di TikTok Shop, DPR Desak Audit Independen dan Penelusuran Menyeluruh - Aktual.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 02:00:40 GMT",
+      "link": "https://aktual.com/dana-umkm-diduga-tertahan-rp3-triliun-di-tiktok-shop-dpr-desak-audit-independen-dan-penelusuran-menyeluruh/"
+    },
+    {
+      "title": "Gopprera dan Hilman resmi ditetapkan sebagai ketua dan wakil ketua KPPU - Kabar24",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 02:00:00 GMT",
+      "link": "https://kabar24.bisnis.com/read/20260709/15/1986751/gopprera-dan-hilman-resmi-ditetapkan-sebagai-ketua-dan-wakil-ketua-kppu"
+    },
+    {
+      "title": "Gopprera Panggabean Terpilih Sebagai Ketua KPPU Periode 2026-2029 - detikNews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 01:34:36 GMT",
+      "link": "https://news.detik.com/berita/d-8566147/gopprera-panggabean-terpilih-sebagai-ketua-kppu-periode-2026-2029"
+    },
+    {
+      "title": "Sabang Jangan Lagi Terperangkap Janji Geostrategis - waspada.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 00:48:00 GMT",
+      "link": "https://www.waspada.id/artikel/sabang-jangan-lagi-terperangkap-janji-geostrategis"
+    },
+    {
+      "title": "Kemendag Andalkan Tiga Strategi Genjot Ekspor Nasional - NUSABALI.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 00:47:13 GMT",
+      "link": "https://www.nusabali.com/berita/225061/kemendag-andalkan-tiga-strategi-genjot-ekspor-nasional"
+    },
+    {
+      "title": "Pemilihan Lokasi Kopdes Merah Putih Jadi Sorotan, Menteri Koperasi Bilang Begini - d-onenews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 00:01:41 GMT",
+      "link": "https://d-onenews.com/pemilihan-lokasi-kopdes-merah-putih-jadi-sorotan-menteri-koperasi-bilang-begini/"
+    },
+    {
+      "title": "Hari Kedua The 9th Intergovernmental Group og Exoert on Consumer Protection Law and Policy, BPKN RI Sampaikan Sejumlah Poin Penting Tentang Perlindungan Konsumen - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 23:32:00 GMT",
+      "link": "https://www.mediakarya.id/hari-kedua-the-9th-intergovernmental-group-og-exoert-on-consumer-protection-law-and-policy-bpkn-ri-sampaikan-sejumlah-poin-penting-tentang-perlindungan-konsumen/"
+    },
+    {
+      "title": "Jawa Timur Pusat Ekonomi Kerakyatan, Punya 4,59 Juta UMKM - Bacaini.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 08 Jul 2026 23:05:00 GMT",
+      "link": "https://bacaini.id/jawa-timur-459-juta-umkm-terbanyak-kedua-indonesia/"
+    },
     {
       "title": "BP Batam Percepat Investasi, Ancam Cabut Alokasi 'Lahan Tidur' Dua Tahun - Bisnis.com",
       "entity": "BP Batam",
@@ -138,69 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 08 Jul 2026 17:21:32 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260709/OTYy"
-    },
-    {
-      "title": "Danantara Resmikan Pembangunan PSEL di Bali, Nilai Investasi Capai Rp3 Triliun - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 16:32:04 GMT",
-      "link": "https://www.metrotvnews.com/play/K5nCRE80-danantara-resmikan-pembangunan-psel-di-bali-nilai-investasi-capai-rp3-triliun"
-    },
-    {
-      "title": "Mufti Anam: Jabatan Komisaris di BUMN Bukan Hadiah Politik, Penilaian Pada Hasil Kerja - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-jabatan-komisaris-di-bumn-bukan-hadiah-politik-penilaian-pada-hasil-kerja-b2pWIZbgph"
-    },
-    {
-      "title": "Anggota DPRA Nilai Dukungan Prabowo Buka Peluang Pengembangan Pelabuhan Sabang - ACEH BISNIS",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 14:54:45 GMT",
-      "link": "https://www.acehbisnis.com/news/anggota-dpra-nilai-dukungan-prabowo-buka-peluang-pengembangan-pelabuhan-sabang/index.html"
-    },
-    {
-      "title": "Wagub Vasko Ingin Dekopinwil Sumbar Jadi Motor Koperasi Modern dan Berdaya Saing - Langgam.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 14:25:30 GMT",
-      "link": "https://langgam.id/wagub-vasko-ingin-dekopinwil-sumbar-jadi-motor-koperasi-modern-dan-berdaya-saing/"
-    },
-    {
-      "title": "Kemendag Lantik Irjen Baru, Mendag Busan Tekankan Pengawasan Program Prioritas - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 14:19:03 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-lantik-irjen-baru-mendag-busan-tekankan-pengawasan-program-prioritas"
-    },
-    {
-      "title": "PSEL di Bali Olah Lebih dari 500 Ribu Ton Sampah Per Tahun - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 14:01:35 GMT",
-      "link": "https://bisnis.tempo.co/read/2112632/psel-di-bali-olah-lebih-dari-500-ribu-ton-sampah-per-tahun?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Akom VI Dorong Penerbitan Regulasi Terkait Pengelolaan Iuran PPPK - Kedai Pena",
-      "entity": "Subardi",
-      "kind": "anggota",
-      "published": "Wed, 08 Jul 2026 13:32:52 GMT",
-      "link": "https://www.kedaipena.com/akom-vi-dorong-penerbitan-regulasi-terkait-pengelolaan-iuran-pppk/"
-    },
-    {
-      "title": "Peserta Sesko TNI Diajak Perkuat Koperasi sebagai Motor Ekonomi - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 13:22:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/08/713756/peserta-sesko-tni-diajak-perkuat-koperasi-sebagai-motor-ekonomi-"
-    },
-    {
-      "title": "Meta dan Kemendag Luncurkan Program Pelatihan AI untuk 150 UMKM di Indonesia - BERNAS.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 08 Jul 2026 13:02:25 GMT",
-      "link": "https://bernas.id/nasional/news/meta-kemendag-pelatihan-ai-150-umkm-indonesia"
     }
   ]
 }
