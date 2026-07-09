@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T20:45:36.700344",
+  "generated_at": "2026-07-09T22:20:20.218567",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 41,
     "Golkar": 13,
-    "NasDem": 13,
+    "NasDem": 18,
     "PKB": 16,
     "PKS": 29,
     "PAN": 2,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 41,
-    "PDI-P": 72,
+    "PDI-P": 73,
     "Golkar": 40,
-    "NasDem": 22,
+    "NasDem": 27,
     "PKB": 34,
     "PKS": 40,
     "PAN": 13,
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 11,
     "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 12,
-    "Mufti Anam": 9,
+    "Mufti Anam": 10,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
@@ -66,7 +66,7 @@
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 5,
-    "Rachmat Gobel": 7,
+    "Rachmat Gobel": 12,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
@@ -90,11 +90,46 @@
   "early_warning_counts": {
     "Hukum/Audit": 36,
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 29,
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 28,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - Lentera.co",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 22:15:23 GMT",
+      "link": "https://lentera.co/post/item/235725/Anggota-DPR-Fraksi-NasDem-Rachmat-Gobel-Meninggal"
+    },
+    {
+      "title": "Breaking News: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - CNBC Indonesia",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 21:55:24 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260710044038-4-749631/breaking-news-anggota-dpr-fraksi-nasdem-rachmat-gobel-meninggal"
+    },
+    {
+      "title": "Politikus Nasdem Rachmat Gobel Tutup Usia di RS Brawijaya Tebet - Rmol.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 21:53:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/10/713967/politikus-nasdem-rachmat-gobel-tutup-usia-di-rs-brawijaya-tebet-"
+    },
+    {
+      "title": "BREAKING NEWS: Anggota DPR RI Rachmat Gobel Meninggal Dunia - Tatiye.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 21:48:01 GMT",
+      "link": "https://tatiye.id/breaking-news-anggota-dpr-ri-rachmat-gobel-meninggal-dunia/"
+    },
+    {
+      "title": "Chairman Panasonic Gobel dan Anggota DPR Rachmat Gobel Wafat - kumparan.com - Kumparan",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 21:47:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/chairman-panasonic-gobel-dan-anggota-dpr-rachmat-gobel-wafat-27l3aw5c7FO"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -164,41 +199,6 @@
       "kind": "anggota",
       "published": "Thu, 09 Jul 2026 13:25:00 GMT",
       "link": "https://www.kapanlagi.com/foto/berita-foto/indonesia/rieke-diah-pitaloka-tegaskan-kehadirannya-dampingi-herawati-bukan-untuk-intervensi-hukum.html"
-    },
-    {
-      "title": "KSP Masih Jadi Penopang Bisnis Koperasi, Pengamat: Kopdes Perlu Buktikan Kontribusi - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 13:02:00 GMT",
-      "link": "https://keuangan.kontan.co.id/news/ksp-masih-jadi-penopang-bisnis-koperasi-pengamat-kopdes-perlu-buktikan-kontribusi"
-    },
-    {
-      "title": "Kemendag tetap kawal kualitas produk UMKM yang berhasil masuk ritel modern - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 12:36:41 GMT",
-      "link": "https://www.antaranews.com/berita/5642803/kemendag-tetap-kawal-kualitas-produk-umkm-yang-berhasil-masuk-ritel-modern"
-    },
-    {
-      "title": "Kemendag Usulkan Bapanas Serap Ayam dan Telur saat Harga Turun - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 11:02:00 GMT",
-      "link": "https://tirto.id/kemendag-usulkan-bapanas-serap-ayam-dan-telur-saat-harga-turun-hzsL"
-    },
-    {
-      "title": "Budi Sulistyono Dorong PT PTPN III Beserta Subholding Perkuat Keterlibatan Masyarakat - gesuri.id",
-      "entity": "Budi Sulistyono",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/budi-sulistyono-dorong-pt-ptpn-iii-beserta-subholding-perkuat-keterlibatan-masyarakat-b2pWJZbgrd"
-    },
-    {
-      "title": "Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Pekan Depan - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 10:33:11 GMT",
-      "link": "https://www.nusantaratv.com/finance/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
     }
   ]
 }
