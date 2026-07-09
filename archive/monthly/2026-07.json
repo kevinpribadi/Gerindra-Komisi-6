@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T13:48:29.982471",
+  "generated_at": "2026-07-09T14:44:02.472735",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 38,
@@ -26,19 +26,19 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 17,
+    "BPKN": 18,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 12,
+    "BPK Sabang": 13,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 66,
-    "danantara": 38,
+    "danantara": 39,
     "umkm": 7,
-    "perdagangan": 6,
-    "ekspor": 8,
+    "ekspor": 4,
+    "perdagangan": 8,
     "koperasi": 63,
     "investasi": 27,
     "merger-akuisisi": 7,
@@ -89,12 +89,61 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 36,
-    "Kinerja BUMN": 25,
+    "Kinerja BUMN": 26,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 31,
+    "Perdagangan": 27,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Pelaku UMKM Fashion Sambut Positif Kolaborasi METRO dan Kemendag - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:30:30 GMT",
+      "link": "https://www.cnnindonesia.com/gaya-hidup/20260709210401-284-1378936/pelaku-umkm-fashion-sambut-positif-kolaborasi-metro-dan-kemendag"
+    },
+    {
+      "title": "Rangsang Warga Belanja, Kemendag Sediakan Program Diskon di Pusat Perbelanjaan - merahputih.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:25:56 GMT",
+      "link": "https://www.merahputih.com/post/read/rangsang-warga-belanja-kemendag-sediakan-program-diskon-di-pusat-perbelanjaan"
+    },
+    {
+      "title": "Kemendag Sediakan Program Diskon Dongkrak Daya Beli - Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:23:19 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/909330/kemendag-sediakan-program-diskon-dongkrak-daya-beli"
+    },
+    {
+      "title": "Kementerian Perdagangan Dorong Pelaku Usaha Jawa Timur Perluas Pasar Ekspor melalui Trade Expo Indonesia Ke-41 - pontianakinfo.disway.id - Pontianak Info",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:09:00 GMT",
+      "link": "https://pontianakinfo.disway.id/news/read/27103/kementerian-perdagangan-dorong-pelaku-usaha-jawa-timur-perluas-pasar-ekspor-melalui-trade-expo-indonesia-ke-41"
+    },
+    {
+      "title": "Dominasi Iklan Digital Global Ancam Keberlanjutan Media Nasional - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:01:24 GMT",
+      "link": "https://mediaindonesia.com/humaniora/909316/dominasi-iklan-digital-global-ancam-keberlanjutan-media-nasional"
+    },
+    {
+      "title": "Kemendag sediakan program diskon ritel untuk jaga daya beli - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:00:59 GMT",
+      "link": "https://www.antaranews.com/berita/5642980/kemendag-sediakan-program-diskon-ritel-untuk-jaga-daya-beli"
+    },
+    {
+      "title": "Danantara memperkuat kepercayaan global kepada perekonomian Indonesia - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 13:39:00 GMT",
+      "link": "https://www.antaranews.com/berita/5642913/danantara-memperkuat-kepercayaan-global-kepada-perekonomian-indonesia"
+    },
     {
       "title": "Rieke Diah Pitaloka Tegaskan Kehadirannya Dampingi Herawati Bukan untuk Intervensi Hukum - KapanLagi.com",
       "entity": "Rieke Diah Pitaloka",
@@ -150,55 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 09:48:48 GMT",
       "link": "https://www.kpk.go.id/id/ruang-informasi/berita/tutup-celah-korupsi-kpk-kppu-dorong-integrasi-sistem-elektronik-demi-iklim-usaha-sehat"
-    },
-    {
-      "title": "Pertemuan Wamendag RI dengan Menteri Besar Selangor - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 09:08:45 GMT",
-      "link": "https://www.hetanews.com/article/309169/pertemuan-wamendag-ri-dengan-menteri-besar-selangor"
-    },
-    {
-      "title": "Komisi VI DPR RI Terkejut Dirut PT Pos Mundur Usai 3 Bulan Menjabat - - Telusur.co.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 09:03:07 GMT",
-      "link": "https://telusur.co.id/detail/komisi-vi-dpr-ri-terkejut-dirut-pt-pos-mundur-usai-3-bulan-menjabat"
-    },
-    {
-      "title": "Eks Kapolda Lampung Resmi Jabat Irjen Kemendag, Mendag Titip Pesan Ini - Aspek.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 08:57:34 GMT",
-      "link": "https://aspek.id/eks-kapolda-lampung-resmi-jabat-irjen-kemendag-mendag-titip-pesan-ini/"
-    },
-    {
-      "title": "Wali Kota Tasikmalaya Matangkan Persiapan Rencana Penyelenggaraan Harkopnas di Tasikmalaya, Revitalisasi Sejarah Koperasi Segera Dimulai | Website Resmi Kota Tasikmalaya - Portal Tasikmalaya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 08:44:55 GMT",
-      "link": "https://portal.tasikmalayakota.go.id/index.php/q/berita_detail/2109"
-    },
-    {
-      "title": "Mendag Budi Santoso Melantik Helmy Santika Jadi Irjen Kemendag - publika.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 08:37:17 GMT",
-      "link": "https://www.publika.id/mendag-lantik-helmy-santika-irjen-kemendag"
-    },
-    {
-      "title": "Picu Kerugian, Rizal Bawazier Tegur Taspen soal Alokasi Dana Investasi - VIVA.co.id",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 08:36:08 GMT",
-      "link": "https://www.viva.co.id/video/1912039-picu-kerugian-rizal-bawazier-tegur-taspen-soal-alokasi-dana-investasi"
-    },
-    {
-      "title": "Eks Kapolda Lampung Helmy Santika Diangkat Jadi Irjen Kemendag - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 08:34:06 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8566853/eks-kapolda-lampung-helmy-santika-diangkat-jadi-irjen-kemendag"
     }
   ]
 }
