@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T18:49:12.286176",
+  "generated_at": "2026-07-09T20:45:36.700344",
   "party_counts_7d": {
     "Gerindra": 16,
-    "PDI-P": 39,
+    "PDI-P": 41,
     "Golkar": 13,
     "NasDem": 13,
     "PKB": 16,
-    "PKS": 28,
+    "PKS": 29,
     "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 41,
-    "PDI-P": 70,
+    "PDI-P": 72,
     "Golkar": 40,
     "NasDem": 22,
     "PKB": 34,
-    "PKS": 39,
+    "PKS": 40,
     "PAN": 13,
     "Demokrat": 16
   },
@@ -29,12 +29,12 @@
     "BPKN": 18,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 13,
+    "BPK Sabang": 14,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
+    "bumn": 68,
     "danantara": 38,
     "umkm": 7,
     "ekspor": 5,
@@ -53,8 +53,8 @@
     "Kawendra Lukistian": 11,
     "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 12,
-    "Mufti Anam": 8,
-    "Darmadi Durianto": 9,
+    "Mufti Anam": 9,
+    "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
     "Ida Nurlaela": 8,
@@ -80,7 +80,7 @@
     "Amin Ak.": 13,
     "Rizal Bawazier": 12,
     "Ghufran": 2,
-    "Ismail": 12,
+    "Ismail": 13,
     "Eko Patrio": 6,
     "Nasril Bahar": 4,
     "Iskandar": 3,
@@ -89,8 +89,8 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 36,
-    "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 56,
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 55,
     "Perdagangan": 29,
     "Konflik Publik": 1
   },
@@ -101,6 +101,13 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 18:04:37 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260710/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Fachrul Razi: Sabang-Andaman jadi Potensi Geoekonomi dan Geostrategi Indonesia Wilayah Barat » - dialeksis.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 14:39:27 GMT",
+      "link": "https://amp.dialeksis.com/Ekonomi/fachrul-razi-sabang-andaman-jadi-potensi-geoekonomi-dan-geostrategi-indonesia-wilayah-barat/"
     },
     {
       "title": "Pelaku UMKM Fashion Sambut Positif Kolaborasi METRO dan Kemendag - CNN Indonesia",
@@ -192,13 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 10:33:11 GMT",
       "link": "https://www.nusantaratv.com/finance/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
-    },
-    {
-      "title": "Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Pekan Depan - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 10:33:11 GMT",
-      "link": "https://www.nusantaratv.com/berita/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
     }
   ]
 }
