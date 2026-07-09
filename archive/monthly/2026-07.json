@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T16:26:06.794335",
+  "generated_at": "2026-07-09T18:49:12.286176",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 38,
-    "Golkar": 15,
+    "Gerindra": 16,
+    "PDI-P": 39,
+    "Golkar": 13,
     "NasDem": 13,
     "PKB": 16,
     "PKS": 28,
@@ -12,8 +12,8 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 40,
-    "PDI-P": 69,
+    "Gerindra": 41,
+    "PDI-P": 70,
     "Golkar": 40,
     "NasDem": 22,
     "PKB": 34,
@@ -40,7 +40,7 @@
     "ekspor": 5,
     "perdagangan": 8,
     "koperasi": 63,
-    "investasi": 28,
+    "investasi": 29,
     "merger-akuisisi": 8,
     "kartel-monopoli": 6,
     "dividen": 1
@@ -51,8 +51,8 @@
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 11,
-    "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 11,
+    "Mulyadi": 6,
+    "Adisatrya Suryo Sulisto": 12,
     "Mufti Anam": 8,
     "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
@@ -90,11 +90,18 @@
   "early_warning_counts": {
     "Hukum/Audit": 36,
     "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 28,
+    "Koperasi/UMKM": 56,
+    "Perdagangan": 29,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 18:04:37 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260710/MTEyNg%3D%3D"
+    },
     {
       "title": "Pelaku UMKM Fashion Sambut Positif Kolaborasi METRO dan Kemendag - CNN Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -187,18 +194,11 @@
       "link": "https://www.nusantaratv.com/finance/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
     },
     {
-      "title": "Kolaborasi METRO dan Kemendag Antar Produk UMKM Tembus Ritel Modern - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Pekan Depan - NusantaraTV",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 10:00:20 GMT",
-      "link": "https://www.cnnindonesia.com/gaya-hidup/20260709164808-284-1378825/kolaborasi-metro-dan-kemendag-antar-produk-umkm-tembus-ritel-modern"
-    },
-    {
-      "title": "Tutup Celah Korupsi, KPK-KPPU Dorong Integrasi Sistem Elektronik Demi Iklim Usaha Sehat - kpk.go.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 09:48:48 GMT",
-      "link": "https://www.kpk.go.id/id/ruang-informasi/berita/tutup-celah-korupsi-kpk-kppu-dorong-integrasi-sistem-elektronik-demi-iklim-usaha-sehat"
+      "published": "Thu, 09 Jul 2026 10:33:11 GMT",
+      "link": "https://www.nusantaratv.com/berita/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
     }
   ]
 }
