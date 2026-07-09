@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T06:51:48.753532",
+  "generated_at": "2026-07-09T10:22:59.800656",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 32,
-    "Golkar": 14,
+    "PDI-P": 36,
+    "Golkar": 15,
     "NasDem": 13,
     "PKB": 17,
-    "PKS": 26,
+    "PKS": 28,
     "PAN": 1,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 40,
-    "PDI-P": 63,
-    "Golkar": 39,
+    "PDI-P": 66,
+    "Golkar": 40,
     "NasDem": 22,
     "PKB": 34,
-    "PKS": 37,
-    "PAN": 12,
-    "Demokrat": 15
+    "PKS": 39,
+    "PAN": 11,
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -29,19 +29,18 @@
     "BPKN": 17,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 10,
+    "BPK Sabang": 12,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 66,
     "danantara": 38,
-    "umkm": 5,
-    "ekspor": 9,
-    "perdagangan": 8,
-    "koperasi": 61,
-    "ipo": 1,
-    "investasi": 24,
+    "umkm": 6,
+    "perdagangan": 5,
+    "ekspor": 8,
+    "koperasi": 62,
+    "investasi": 27,
     "merger-akuisisi": 7,
     "kartel-monopoli": 6,
     "dividen": 1
@@ -53,11 +52,11 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 11,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 11,
+    "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 7,
-    "Darmadi Durianto": 8,
-    "Rieke Diah Pitaloka": 18,
-    "Sadarestuwati": 5,
+    "Darmadi Durianto": 9,
+    "Rieke Diah Pitaloka": 20,
+    "Sadarestuwati": 6,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
@@ -65,7 +64,7 @@
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 6,
+    "Rizki Faisal": 7,
     "Muhammad Sarmuji": 5,
     "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 6,
@@ -78,25 +77,101 @@
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 12,
-    "Rizal Bawazier": 11,
+    "Amin Ak.": 13,
+    "Rizal Bawazier": 12,
     "Ghufran": 2,
     "Ismail": 12,
     "Eko Patrio": 5,
     "Nasril Bahar": 4,
-    "Abdul Hakim Bafagih": 1,
     "Iskandar": 2,
     "Sartono": 5,
-    "Herman Khaeron": 10
+    "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Hukum/Audit": 33,
-    "Kinerja BUMN": 23,
+    "Hukum/Audit": 36,
+    "Kinerja BUMN": 25,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 31,
+    "Perdagangan": 30,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Kolaborasi METRO dan Kemendag Antar Produk UMKM Tembus Ritel Modern - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 10:00:20 GMT",
+      "link": "https://www.cnnindonesia.com/gaya-hidup/20260709164808-284-1378825/kolaborasi-metro-dan-kemendag-antar-produk-umkm-tembus-ritel-modern"
+    },
+    {
+      "title": "Tutup Celah Korupsi, KPK-KPPU Dorong Integrasi Sistem Elektronik Demi Iklim Usaha Sehat - kpk.go.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 09:48:48 GMT",
+      "link": "https://www.kpk.go.id/id/ruang-informasi/berita/tutup-celah-korupsi-kpk-kppu-dorong-integrasi-sistem-elektronik-demi-iklim-usaha-sehat"
+    },
+    {
+      "title": "Pertemuan Wamendag RI dengan Menteri Besar Selangor - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 09:08:45 GMT",
+      "link": "https://www.hetanews.com/article/309169/pertemuan-wamendag-ri-dengan-menteri-besar-selangor"
+    },
+    {
+      "title": "Wali Kota Tasikmalaya Matangkan Persiapan Rencana Penyelenggaraan Harkopnas di Tasikmalaya, Revitalisasi Sejarah Koperasi Segera Dimulai | Website Resmi Kota Tasikmalaya - Portal Tasikmalaya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 08:44:55 GMT",
+      "link": "https://portal.tasikmalayakota.go.id/index.php/q/berita_detail/2109"
+    },
+    {
+      "title": "Mendag Budi Santoso Melantik Helmy Santika Jadi Irjen Kemendag - publika.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 08:37:17 GMT",
+      "link": "https://www.publika.id/mendag-lantik-helmy-santika-irjen-kemendag"
+    },
+    {
+      "title": "Picu Kerugian, Rizal Bawazier Tegur Taspen soal Alokasi Dana Investasi - VIVA.co.id",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 08:36:08 GMT",
+      "link": "https://www.viva.co.id/video/1912039-picu-kerugian-rizal-bawazier-tegur-taspen-soal-alokasi-dana-investasi"
+    },
+    {
+      "title": "Eks Kapolda Lampung Helmy Santika Diangkat Jadi Irjen Kemendag - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 08:34:06 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8566853/eks-kapolda-lampung-helmy-santika-diangkat-jadi-irjen-kemendag"
+    },
+    {
+      "title": "Wamenkop: Kopdes Merah Putih Bangun Ekosistem Desa yang Berkeadilan - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 07:47:46 GMT",
+      "link": "https://suarapemerintah.id/2026/07/wamenkop-kopdes-merah-putih-bangun-ekosistem-desa-yang-berkeadilan/"
+    },
+    {
+      "title": "Dicap Ikut Campur dalam Kasus Eks ART Erin Wartia, Rieke Diah Pitaloka: Tak Ada Normalisasi Kekerasan! - celebrity.okezone.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 07:01:58 GMT",
+      "link": "https://celebrity.okezone.com/read/2026/07/09/33/3229102/dicap-ikut-campur-dalam-kasus-eks-art-erin-wartia-rieke-diah-pitaloka-tak-ada-normalisasi-kekerasan"
+    },
+    {
+      "title": "Menkop: Pelatihan 30 Ribu Calon Manajer Kopdes Merah Putih Rampung pada Awal Agustus - Tribrata News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "link": "https://tribratanews.polri.go.id/blog/nasional-3/post/menkop-pelatihan-30-ribu-calon-manajer-kopdes-merah-putih-rampung-pada-awal-agustus-103476"
+    },
+    {
+      "title": "Anggota Komisi XI DPR RI Amin Ak: Bursa Mineral Harus Menjadi Instrumen Kedaulatan Harga, Bukan Sekadar Lembaga Baru - Bela Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 06:22:50 GMT",
+      "link": "https://belarakyat.com/anggota-komisi-xi-dpr-ri-amin-ak-bursa-mineral-harus-menjadi-instrumen-kedaulatan-harga-bukan-sekadar-lembaga-baru/"
+    },
     {
       "title": "Regulasi Jaminan Pensiun dan JHT bagi ASN PPPK Harus Segera Diselesaikan - Inilah.com",
       "entity": "Adisatrya Suryo Sulisto",
@@ -112,95 +187,18 @@
       "link": "https://gorontalo.antaranews.com/berita/413001/menkop-pelatihan-30-ribu-manajer-kopdes-rampung-awal-agustus"
     },
     {
+      "title": "Rieke Diah Pitaloka Kawal Kasus Dugaan Kekerasan ART Erin Wartia, Ternyata Ini Alasannya - SINDOnews Lifestyle",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 06:09:01 GMT",
+      "link": "https://lifestyle.sindonews.com/read/1726503/187/rieke-diah-pitaloka-kawal-kasus-dugaan-kekerasan-art-erin-wartia-ternyata-ini-alasannya-1783577252"
+    },
+    {
       "title": "Menkop: Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Awal Agustus - MetroTVNews.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 06:02:22 GMT",
       "link": "https://www.metrotvnews.com/read/NOlC9vVB-menkop-pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-awal-agustus"
-    },
-    {
-      "title": "Tasikmalaya Siap Jadi Tuan Rumah Harkopnas ke-79, Revitalisasi Situs Kongres Koperasi Dimulai Juli - Inilah Tasik -",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 05:56:11 GMT",
-      "link": "https://inilahtasik.com/tasikmalaya-siap-jadi-tuan-rumah-harkopnas-ke-79-revitalisasi-situs-kongres-koperasi-dimulai-juli/"
-    },
-    {
-      "title": "Anggota DPR RI Mulyadi Kritik Kualitas Air PDAM Tak Bisa Langsung Diminum - Langgam.id",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 05:31:47 GMT",
-      "link": "https://langgam.id/anggota-dpr-ri-mulyadi-kritik-kualitas-air-pdam-tak-bisa-langsung-diminum/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Tegaskan Kawal Penganiayaan Mantan Istri Andre Taulany Terhadap ART - Kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 05:26:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/09/12260881/rieke-diah-pitaloka-tegaskan-kawal-penganiayaan-mantan-istri-andre-taulany"
-    },
-    {
-      "title": "Geger! Eks ART Erin Dapat Dukungan Penuh Rieke Diah Pitaloka di Kasus Dugaan Penganiayaan - RCTI+",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 05:22:00 GMT",
-      "link": "https://m.rctiplus.com/news/detail/gaya-hidup/5424214/geger-eks-art-erin-dapat-dukungan-penuh-rieke-diah-pitaloka-di-kasus-dugaan-penganiayaan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5424214"
-    },
-    {
-      "title": "DPR Dorong Kepastian Regulasi JHT dan JP untuk ASN PPPK - beritabuana.co",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 05:09:36 GMT",
-      "link": "https://beritabuana.co/2026/07/09/dpr-dorong-kepastian-regulasi-jht-dan-jp-untuk-asn-pppk/"
-    },
-    {
-      "title": "ASN PPPK Layak Peroleh Jaminan Pensiun - Rmol.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 05:09:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/07/09/713832/asn-pppk-layak-peroleh-jaminan-pensiun"
-    },
-    {
-      "title": "Anggota Komisi XI DPR RI Amin Ak: Bursa Mineral Harus Menjadi Instrumen Kedaulatan Harga, Bukan Sekadar Lembaga Baru - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 04:30:42 GMT",
-      "link": "https://fraksi.pks.id/2026/07/09/anggota-komisi-xi-dpr-ri-amin-ak-bursa-mineral-harus-menjadi-instrumen-kedaulatan-harga-bukan-sekadar-lembaga-baru/"
-    },
-    {
-      "title": "Desain Indonesia Mendunia, 10 Produk Terbaik GDI 2026 Melaju ke Ajang Internasional - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 04:30:19 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/09/desain-indonesia-mendunia-10-produk-terbaik-gdi-2026-melaju-ke-ajang-internasional/"
-    },
-    {
-      "title": "| Legislator PDIP: Kasus Herawati Ujian Perdana Tegaknya UU PPRT - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 04:06:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661644/legislator-pdip-kasus-herawati-ujian-perdana-tegaknya-uu-pprt/"
-    },
-    {
-      "title": "Menkop sebut bangunan Koperasi Merah Putih bakal jadi milik aset desa - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 03:30:25 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-sebut-bangunan-koperasi-merah-putih-bakal-jadi-milik-aset-desa-169691"
-    },
-    {
-      "title": "Purna Tugas, Ini Capaian Fanshurullah Asa & Aru Armando Pimpin KPPU - detikNews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 02:28:23 GMT",
-      "link": "https://news.detik.com/berita/d-8566210/purna-tugas-ini-capaian-fanshurullah-asa-aru-armando-pimpin-kppu"
-    },
-    {
-      "title": "Dana UMKM Diduga Tertahan Rp3 Triliun di TikTok Shop, DPR Desak Audit Independen dan Penelusuran Menyeluruh - Aktual.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 02:00:40 GMT",
-      "link": "https://aktual.com/dana-umkm-diduga-tertahan-rp3-triliun-di-tiktok-shop-dpr-desak-audit-independen-dan-penelusuran-menyeluruh/"
     }
   ]
 }
