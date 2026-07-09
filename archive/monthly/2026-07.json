@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T10:22:59.800656",
+  "generated_at": "2026-07-09T13:48:29.982471",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 36,
+    "Gerindra": 16,
+    "PDI-P": 38,
     "Golkar": 15,
     "NasDem": 13,
     "PKB": 17,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 40,
-    "PDI-P": 66,
+    "PDI-P": 68,
     "Golkar": 40,
     "NasDem": 22,
     "PKB": 34,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 66,
     "danantara": 38,
-    "umkm": 6,
-    "perdagangan": 5,
+    "umkm": 7,
+    "perdagangan": 6,
     "ekspor": 8,
-    "koperasi": 62,
+    "koperasi": 63,
     "investasi": 27,
     "merger-akuisisi": 7,
     "kartel-monopoli": 6,
@@ -52,13 +52,13 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 11,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 10,
+    "Adisatrya Suryo Sulisto": 11,
     "Mufti Anam": 7,
     "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
     "Ida Nurlaela": 8,
-    "Budi Sulistyono": 4,
+    "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 8,
     "Gde Sumarjaya Linggih": 7,
@@ -90,11 +90,53 @@
   "early_warning_counts": {
     "Hukum/Audit": 36,
     "Kinerja BUMN": 25,
-    "Koperasi/UMKM": 56,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 57,
+    "Perdagangan": 31,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Tegaskan Kehadirannya Dampingi Herawati Bukan untuk Intervensi Hukum - KapanLagi.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 13:25:00 GMT",
+      "link": "https://www.kapanlagi.com/foto/berita-foto/indonesia/rieke-diah-pitaloka-tegaskan-kehadirannya-dampingi-herawati-bukan-untuk-intervensi-hukum.html"
+    },
+    {
+      "title": "KSP Masih Jadi Penopang Bisnis Koperasi, Pengamat: Kopdes Perlu Buktikan Kontribusi - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 13:02:00 GMT",
+      "link": "https://keuangan.kontan.co.id/news/ksp-masih-jadi-penopang-bisnis-koperasi-pengamat-kopdes-perlu-buktikan-kontribusi"
+    },
+    {
+      "title": "Kemendag tetap kawal kualitas produk UMKM yang berhasil masuk ritel modern - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 12:36:41 GMT",
+      "link": "https://www.antaranews.com/berita/5642803/kemendag-tetap-kawal-kualitas-produk-umkm-yang-berhasil-masuk-ritel-modern"
+    },
+    {
+      "title": "Kemendag Usulkan Bapanas Serap Ayam dan Telur saat Harga Turun - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 11:02:00 GMT",
+      "link": "https://tirto.id/kemendag-usulkan-bapanas-serap-ayam-dan-telur-saat-harga-turun-hzsL"
+    },
+    {
+      "title": "Budi Sulistyono Dorong PT PTPN III Beserta Subholding Perkuat Keterlibatan Masyarakat - gesuri.id",
+      "entity": "Budi Sulistyono",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/budi-sulistyono-dorong-pt-ptpn-iii-beserta-subholding-perkuat-keterlibatan-masyarakat-b2pWJZbgrd"
+    },
+    {
+      "title": "Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Pekan Depan - NusantaraTV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 10:33:11 GMT",
+      "link": "https://www.nusantaratv.com/finance/pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-pekan-depan"
+    },
     {
       "title": "Kolaborasi METRO dan Kemendag Antar Produk UMKM Tembus Ritel Modern - CNN Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -115,6 +157,20 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 09:08:45 GMT",
       "link": "https://www.hetanews.com/article/309169/pertemuan-wamendag-ri-dengan-menteri-besar-selangor"
+    },
+    {
+      "title": "Komisi VI DPR RI Terkejut Dirut PT Pos Mundur Usai 3 Bulan Menjabat - - Telusur.co.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 09:03:07 GMT",
+      "link": "https://telusur.co.id/detail/komisi-vi-dpr-ri-terkejut-dirut-pt-pos-mundur-usai-3-bulan-menjabat"
+    },
+    {
+      "title": "Eks Kapolda Lampung Resmi Jabat Irjen Kemendag, Mendag Titip Pesan Ini - Aspek.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 08:57:34 GMT",
+      "link": "https://aspek.id/eks-kapolda-lampung-resmi-jabat-irjen-kemendag-mendag-titip-pesan-ini/"
     },
     {
       "title": "Wali Kota Tasikmalaya Matangkan Persiapan Rencana Penyelenggaraan Harkopnas di Tasikmalaya, Revitalisasi Sejarah Koperasi Segera Dimulai | Website Resmi Kota Tasikmalaya - Portal Tasikmalaya",
@@ -143,62 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 08:34:06 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8566853/eks-kapolda-lampung-helmy-santika-diangkat-jadi-irjen-kemendag"
-    },
-    {
-      "title": "Wamenkop: Kopdes Merah Putih Bangun Ekosistem Desa yang Berkeadilan - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 07:47:46 GMT",
-      "link": "https://suarapemerintah.id/2026/07/wamenkop-kopdes-merah-putih-bangun-ekosistem-desa-yang-berkeadilan/"
-    },
-    {
-      "title": "Dicap Ikut Campur dalam Kasus Eks ART Erin Wartia, Rieke Diah Pitaloka: Tak Ada Normalisasi Kekerasan! - celebrity.okezone.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 07:01:58 GMT",
-      "link": "https://celebrity.okezone.com/read/2026/07/09/33/3229102/dicap-ikut-campur-dalam-kasus-eks-art-erin-wartia-rieke-diah-pitaloka-tak-ada-normalisasi-kekerasan"
-    },
-    {
-      "title": "Menkop: Pelatihan 30 Ribu Calon Manajer Kopdes Merah Putih Rampung pada Awal Agustus - Tribrata News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "link": "https://tribratanews.polri.go.id/blog/nasional-3/post/menkop-pelatihan-30-ribu-calon-manajer-kopdes-merah-putih-rampung-pada-awal-agustus-103476"
-    },
-    {
-      "title": "Anggota Komisi XI DPR RI Amin Ak: Bursa Mineral Harus Menjadi Instrumen Kedaulatan Harga, Bukan Sekadar Lembaga Baru - Bela Rakyat",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 06:22:50 GMT",
-      "link": "https://belarakyat.com/anggota-komisi-xi-dpr-ri-amin-ak-bursa-mineral-harus-menjadi-instrumen-kedaulatan-harga-bukan-sekadar-lembaga-baru/"
-    },
-    {
-      "title": "Regulasi Jaminan Pensiun dan JHT bagi ASN PPPK Harus Segera Diselesaikan - Inilah.com",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 06:17:00 GMT",
-      "link": "https://www.inilah.com/regulasi-jaminan-pensiun-dan-jht-bagi-asn-pppk-harus-segera-diselesaikan"
-    },
-    {
-      "title": "Menkop: Pelatihan 30 ribu manajer Kopdes rampung awal Agustus - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 06:13:29 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/413001/menkop-pelatihan-30-ribu-manajer-kopdes-rampung-awal-agustus"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Kawal Kasus Dugaan Kekerasan ART Erin Wartia, Ternyata Ini Alasannya - SINDOnews Lifestyle",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 06:09:01 GMT",
-      "link": "https://lifestyle.sindonews.com/read/1726503/187/rieke-diah-pitaloka-kawal-kasus-dugaan-kekerasan-art-erin-wartia-ternyata-ini-alasannya-1783577252"
-    },
-    {
-      "title": "Menkop: Pelatihan 30 Ribu Manajer Kopdes Merah Putih Rampung Awal Agustus - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 06:02:22 GMT",
-      "link": "https://www.metrotvnews.com/read/NOlC9vVB-menkop-pelatihan-30-ribu-manajer-kopdes-merah-putih-rampung-awal-agustus"
     }
   ]
 }
