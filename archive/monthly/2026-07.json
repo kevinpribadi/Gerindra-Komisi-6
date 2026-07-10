@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T16:54:29.970672",
+  "generated_at": "2026-07-10T18:21:53.235493",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 42,
@@ -42,7 +42,7 @@
     "ekspor": 4,
     "koperasi": 60,
     "merger-akuisisi": 3,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 6,
     "ipo": 1,
     "dividen": 1
   },
@@ -92,10 +92,24 @@
   "early_warning_counts": {
     "Hukum/Audit": 35,
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 53,
+    "Koperasi/UMKM": 54,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 17:25:56 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260711/OTYy"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 17:24:48 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260711/MTEyNg%3D%3D"
+    },
     {
       "title": "Rieke Diah Pitaloka Siap Kawal Kasus Dugaan Penganiayaan ART oleh Erin - Sudutpandang.id",
       "entity": "Rieke Diah Pitaloka",
@@ -160,6 +174,13 @@
       "link": "https://mediaindonesia.com/humaniora/909686/harkopnas-ke-79-dekopin-ziarah-ke-makam-bung-hatta-dan-gandeng-gen-z"
     },
     {
+      "title": "Menjaga Stabilitas Tanpa Membunuh Kompetisi: Menakar Urgensi Sinergi OJK-KPPU - kumparan.com - Kumparan.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 13:17:17 GMT",
+      "link": "https://kumparan.com/ahmad-kaylani-1715352847197941354/menjaga-stabilitas-tanpa-membunuh-kompetisi-menakar-urgensi-sinergi-ojk-kppu-27ktF2rJ3RD"
+    },
+    {
       "title": "Soroti Beban Aset Perumnas, Darmadi Durianto Tekankan Standarisasi Proyek TOD - DPR RI",
       "entity": "Darmadi Durianto",
       "kind": "anggota",
@@ -179,27 +200,6 @@
       "kind": "lembaga",
       "published": "Fri, 10 Jul 2026 13:00:04 GMT",
       "link": "https://elshinta.com/kategori/1/pembangunan/jelang-hari-koperasi-nasional-menteri-ferry-juliantono-ungkap-harapan-ke-depan-169936"
-    },
-    {
-      "title": "Keluarga Ungkap Rachmat Gobel Meninggal dalam Keadaan Tak Sakit - Kompas.com",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 12:34:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/10/19340181/keluarga-ungkap-rachmat-gobel-meninggal-dalam-keadaan-tak-sakit"
-    },
-    {
-      "title": "DPR RI Kehilangan Sosok Berdedikasi, Saan: Rachmat Gobel Teladan Integritas - DPR RI",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 12:08:39 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/DPR-RI-Kehilangan-Sosok-Berdedikasi-Saan-Rachmat-Gobel-Teladan-Integritas-67044"
-    },
-    {
-      "title": "Masa Depan Koperasi di Era Digital Kini di Tangan Gen Z - Suara.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 12:07:26 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/10/190726/masa-depan-koperasi-di-era-digital-kini-di-tangan-gen-z"
     }
   ]
 }
