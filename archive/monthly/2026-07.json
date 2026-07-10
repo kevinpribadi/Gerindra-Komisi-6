@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-09T22:20:20.218567",
+  "generated_at": "2026-07-10T00:02:25.054099",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 41,
-    "Golkar": 13,
-    "NasDem": 18,
+    "Golkar": 12,
+    "NasDem": 21,
     "PKB": 16,
-    "PKS": 29,
+    "PKS": 30,
     "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 41,
+    "Gerindra": 42,
     "PDI-P": 73,
     "Golkar": 40,
-    "NasDem": 27,
+    "NasDem": 30,
     "PKB": 34,
-    "PKS": 40,
+    "PKS": 41,
     "PAN": 13,
     "Demokrat": 16
   },
@@ -39,7 +39,7 @@
     "umkm": 7,
     "ekspor": 5,
     "perdagangan": 8,
-    "koperasi": 63,
+    "koperasi": 64,
     "investasi": 29,
     "merger-akuisisi": 8,
     "kartel-monopoli": 6,
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 11,
-    "Mulyadi": 6,
+    "Mulyadi": 7,
     "Adisatrya Suryo Sulisto": 12,
     "Mufti Anam": 10,
     "Darmadi Durianto": 10,
@@ -66,7 +66,7 @@
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 5,
-    "Rachmat Gobel": 12,
+    "Rachmat Gobel": 15,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
@@ -77,7 +77,7 @@
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 13,
+    "Amin Ak.": 14,
     "Rizal Bawazier": 12,
     "Ghufran": 2,
     "Ismail": 13,
@@ -88,19 +88,46 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 35,
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 54,
-    "Perdagangan": 28,
-    "Konflik Publik": 1
+    "Koperasi/UMKM": 55,
+    "Perdagangan": 30
   },
   "top_headlines": [
+    {
+      "title": "Profil Rachmat Gobel Anggota DPR yang Meninggal Dunia Hari Ini - detikNews",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 23:35:08 GMT",
+      "link": "https://news.detik.com/berita/d-8567614/profil-rachmat-gobel-anggota-dpr-yang-meninggal-dunia-hari-ini"
+    },
+    {
+      "title": "Anggota DPR RI Rachmat Gobel Meninggal Dunia - CNN Indonesia",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 22:31:24 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260710052019-20-1378960/anggota-dpr-ri-rachmat-gobel-meninggal-dunia"
+    },
+    {
+      "title": "Berita Lelayu, Pengusaha Rachmat Gobel Tutup Usia di Jakarta - Kompas.com",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 22:31:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/10/053127626/berita-lelayu-pengusaha-rachmat-gobel-tutup-usia-di-jakarta"
+    },
     {
       "title": "Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - Lentera.co",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
       "published": "Thu, 09 Jul 2026 22:15:23 GMT",
       "link": "https://lentera.co/post/item/235725/Anggota-DPR-Fraksi-NasDem-Rachmat-Gobel-Meninggal"
+    },
+    {
+      "title": "Gubernur Dedi.Mulyadi Akui Pemerintah Provinsi Jawa Barat Mengalami Defisit Rp 5,7 Triliun - Pikiran Rakyat Koran",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Thu, 09 Jul 2026 22:00:00 GMT",
+      "link": "https://koran.pikiran-rakyat.com/news/pr-30310324635/gubernur-dedimulyadi-akui-pemerintah-provinsi-jawa-barat-mengalami-defisit-rp-57-triliun"
     },
     {
       "title": "Breaking News: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - CNBC Indonesia",
@@ -129,6 +156,13 @@
       "kind": "anggota",
       "published": "Thu, 09 Jul 2026 21:47:00 GMT",
       "link": "https://kumparan.com/kumparanbisnis/chairman-panasonic-gobel-dan-anggota-dpr-rachmat-gobel-wafat-27l3aw5c7FO"
+    },
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 09 Jul 2026 21:26:47 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260710/OTYy"
     },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
@@ -164,41 +198,6 @@
       "kind": "lembaga",
       "published": "Thu, 09 Jul 2026 14:23:19 GMT",
       "link": "https://mediaindonesia.com/ekonomi/909330/kemendag-sediakan-program-diskon-dongkrak-daya-beli"
-    },
-    {
-      "title": "Kementerian Perdagangan Dorong Pelaku Usaha Jawa Timur Perluas Pasar Ekspor melalui Trade Expo Indonesia Ke-41 - pontianakinfo.disway.id - Pontianak Info",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:09:00 GMT",
-      "link": "https://pontianakinfo.disway.id/news/read/27103/kementerian-perdagangan-dorong-pelaku-usaha-jawa-timur-perluas-pasar-ekspor-melalui-trade-expo-indonesia-ke-41"
-    },
-    {
-      "title": "Dominasi Iklan Digital Global Ancam Keberlanjutan Media Nasional - Media Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:01:24 GMT",
-      "link": "https://mediaindonesia.com/humaniora/909316/dominasi-iklan-digital-global-ancam-keberlanjutan-media-nasional"
-    },
-    {
-      "title": "Kemendag sediakan program diskon ritel untuk jaga daya beli - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:00:59 GMT",
-      "link": "https://www.antaranews.com/berita/5642980/kemendag-sediakan-program-diskon-ritel-untuk-jaga-daya-beli"
-    },
-    {
-      "title": "Danantara memperkuat kepercayaan global kepada perekonomian Indonesia - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 13:39:00 GMT",
-      "link": "https://www.antaranews.com/berita/5642913/danantara-memperkuat-kepercayaan-global-kepada-perekonomian-indonesia"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Tegaskan Kehadirannya Dampingi Herawati Bukan untuk Intervensi Hukum - KapanLagi.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 13:25:00 GMT",
-      "link": "https://www.kapanlagi.com/foto/berita-foto/indonesia/rieke-diah-pitaloka-tegaskan-kehadirannya-dampingi-herawati-bukan-untuk-intervensi-hukum.html"
     }
   ]
 }
