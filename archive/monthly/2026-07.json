@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T14:20:37.096563",
+  "generated_at": "2026-07-10T16:54:29.970672",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 18,
     "PDI-P": 42,
     "Golkar": 10,
-    "NasDem": 32,
-    "PKB": 16,
+    "NasDem": 33,
+    "PKB": 17,
     "PKS": 31,
     "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 77,
+    "PDI-P": 78,
     "Golkar": 41,
-    "NasDem": 36,
-    "PKB": 35,
+    "NasDem": 37,
+    "PKB": 36,
     "PKS": 44,
     "PAN": 16,
     "Demokrat": 16
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 62,
-    "danantara": 36,
-    "umkm": 5,
+    "danantara": 35,
     "perdagangan": 16,
+    "umkm": 5,
     "investasi": 31,
     "ekspor": 4,
-    "koperasi": 62,
+    "koperasi": 60,
     "merger-akuisisi": 3,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 7,
     "ipo": 1,
     "dividen": 1
   },
@@ -58,7 +58,7 @@
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 5,
+    "Sadarestuwati": 6,
     "Ida Nurlaela": 9,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
@@ -73,10 +73,10 @@
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 2,
+    "Subardi": 3,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 9,
+    "Nasim Khan": 10,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 15,
@@ -90,12 +90,75 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 34,
+    "Hukum/Audit": 35,
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 53,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Siap Kawal Kasus Dugaan Penganiayaan ART oleh Erin - Sudutpandang.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 15:41:50 GMT",
+      "link": "https://sudutpandang.id/rieke-diah-pitaloka-siap-kawal-kasus-dugaan-penganiayaan-art-oleh-erin/"
+    },
+    {
+      "title": "Nasim Khan Kawal Usulan 5 Bupati, Tol Prosiwangi Besuki Dibuka Atasi Kemacetan Pantura - Penarakyat.Com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 15:38:56 GMT",
+      "link": "https://penarakyat.com/nasim-khan-kawal-usulan-5-bupati-tol-prosiwangi-besuki-dibuka-atasi-kemacetan-pantura/"
+    },
+    {
+      "title": "Mengenang Kiprah Rachmat Gobel, dari Pengusaha hingga Menteri Perdagangan - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 15:30:57 GMT",
+      "link": "https://www.metrotvnews.com/play/N6GCVBg5-mengenang-kiprah-rachmat-gobel-dari-pengusaha-hingga-menteri-perdagangan"
+    },
+    {
+      "title": "Peringati Hari Koperasi ke-79, Ketum Inkowapi Sharmila Ziarah ke Makam Bung Hatta Bersama Menteri Koperasi - Bela Rakyat",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 15:19:45 GMT",
+      "link": "https://belarakyat.com/peringati-hari-koperasi-ke-79-ketum-inkowapi-sharmila-ziarah-ke-makam-bung-hatta-bersama-menteri-koperasi/"
+    },
+    {
+      "title": "Peringati Hari Koperasi ke-79, Ketum Inkowapi Sharmila Ziarah ke Makam Bung Hatta Bersama Menteri Koperasi - Bela Rakyat",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 15:19:45 GMT",
+      "link": "https://belarakyat.com/peringati-hari-koperasi-ke-79-ketum-inkowapi-sharmila-ziarah-ke-makam-bung-hatta-bersama-menteri-koperasi/"
+    },
+    {
+      "title": "Cerita Prabowo Tentang BUMN Pernah Mau Dijual ke Asing - Tempo.co",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 15:09:04 GMT",
+      "link": "https://www.tempo.co/politik/cerita-prabowo-tentang-bumn-pernah-mau-dijual-ke-asing-2275035"
+    },
+    {
+      "title": "OJK dan KPPU Perkuat Sinergi Awasi Persaingan Usaha - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 15:04:00 GMT",
+      "link": "https://rri.co.id/medan/ekonomi/keuangan/2558139/ojk-dan-kppu-perkuat-sinergi-awasi-persaingan-usaha"
+    },
+    {
+      "title": "ABDSI dan Kementerian Koperasi Perkuat Sinergi Pengembangan SDM Koperasi Merah Putih - Mediasulsel.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 14:29:35 GMT",
+      "link": "https://www.mediasulsel.com/abdsi-dan-kementerian-koperasi-perkuat-sinergi-pengembangan-sdm-koperasi-merah-putih/"
+    },
+    {
+      "title": "Harkopnas ke-79: DEKOPIN Ziarah ke Makam Bung Hatta dan Gandeng Gen Z - Media Indonesia",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 14:15:20 GMT",
+      "link": "https://mediaindonesia.com/humaniora/909686/harkopnas-ke-79-dekopin-ziarah-ke-makam-bung-hatta-dan-gandeng-gen-z"
+    },
     {
       "title": "Soroti Beban Aset Perumnas, Darmadi Durianto Tekankan Standarisasi Proyek TOD - DPR RI",
       "entity": "Darmadi Durianto",
@@ -137,69 +200,6 @@
       "kind": "lembaga",
       "published": "Fri, 10 Jul 2026 12:07:26 GMT",
       "link": "https://www.suara.com/bisnis/2026/07/10/190726/masa-depan-koperasi-di-era-digital-kini-di-tangan-gen-z"
-    },
-    {
-      "title": "BPKN Didorong ‘Naik Kelas’ Jadi Hub Perlindungan Konsumen Nasional - Bisnis.com - Ekonomi",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 11:55:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260710/12/1987224/bpkn-didorong-naik-kelas-jadi-hub-perlindungan-konsumen-nasional"
-    },
-    {
-      "title": "Menkop Ferry Ziarah ke Makam Bung Hatta, Tegaskan Koperasi Harus Kembali Jadi Soko Guru Ekonomi - DelikAsia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 11:44:00 GMT",
-      "link": "https://www.delikasia.com/ragam-berita/menkop-ferry-ziarah-ke-makam-bung-hatta-tegaskan-koperasi-harus-kembali-jadi-soko-guru-ekonomi"
-    },
-    {
-      "title": "Menkop Ferry Ziarah ke Makam Bung Hatta, Tegaskan Koperasi Harus Kembali Jadi Soko Guru Ekonomi - DelikAsia.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 11:44:00 GMT",
-      "link": "https://www.delikasia.com/ragam-berita/menkop-ferry-ziarah-ke-makam-bung-hatta-tegaskan-koperasi-harus-kembali-jadi-soko-guru-ekonomi"
-    },
-    {
-      "title": "Mendag Busan Dukung Sinergi UMKM Fesyen dan Ritel Modern - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 11:37:20 GMT",
-      "link": "https://www.tempo.co/info-tempo/mendag-busan-dukung-sinergi-umkm-fesyen-dan-ritel-modern-2274987"
-    },
-    {
-      "title": "Negara Wajib Menghadirkan Keadilan bagi Korban Pembakaran Santri di Lombok - SinPo.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 11:28:22 GMT",
-      "link": "https://sinpo.id/detail/124053/negara-wajib-menghadirkan-keadilan-bagi-korban-pembakaran-santri-di-lombok"
-    },
-    {
-      "title": "Saan Mustopa Kenang Dedikasi dan Integritas Rachmat Gobel dalam Mengabdi kepada Bangsa - DPR RI",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 11:08:46 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Saan-Mustopa-Kenang-Dedikasi-dan-Integritas-Rachmat-Gobel-dalam-Mengabdi-kepada-Bangsa-67042"
-    },
-    {
-      "title": "Presiden Dijadwalkan Hadiri Puncak Hari Koperasi Nasional - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 10:29:50 GMT",
-      "link": "https://www.metrotvnews.com/read/NLMC81RX-presiden-dijadwalkan-hadiri-puncak-hari-koperasi-nasional"
-    },
-    {
-      "title": "Danantara-AS Jajaki Proyek Gasifikasi Batu Bara Jadi Gas Sintetis - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 10:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/114641/danantara-as-jajaki-proyek-gasifikasi-batu-bara-jadi-gas-sintetis"
-    },
-    {
-      "title": "Menkop Ziarah ke Makam Bung Hatta dalam Rangkaian Menuju Puncak Harkopnas ke-79 - indoposco.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 09:02:36 GMT",
-      "link": "https://indoposco.id/2026/07/10/menkop-ziarah-ke-makam-bung-hatta-dalam-rangkaian-menuju-puncak-harkopnas-ke-79/"
     }
   ]
 }
