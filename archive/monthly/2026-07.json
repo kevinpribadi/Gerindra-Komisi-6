@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T18:21:53.235493",
+  "generated_at": "2026-07-10T20:21:03.857639",
   "party_counts_7d": {
     "Gerindra": 18,
-    "PDI-P": 42,
+    "PDI-P": 43,
     "Golkar": 10,
-    "NasDem": 33,
+    "NasDem": 34,
     "PKB": 17,
     "PKS": 31,
     "PAN": 4,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 78,
+    "PDI-P": 79,
     "Golkar": 41,
-    "NasDem": 37,
+    "NasDem": 38,
     "PKB": 36,
     "PKS": 44,
     "PAN": 16,
@@ -37,7 +37,7 @@
     "bumn": 62,
     "danantara": 35,
     "perdagangan": 16,
-    "umkm": 5,
+    "umkm": 6,
     "investasi": 31,
     "ekspor": 4,
     "koperasi": 60,
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 9,
+    "Ida Nurlaela": 10,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 7,
@@ -73,7 +73,7 @@
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 3,
+    "Subardi": 4,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 10,
@@ -92,10 +92,17 @@
   "early_warning_counts": {
     "Hukum/Audit": 35,
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 54,
+    "Koperasi/UMKM": 55,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Rachmat Gobel Meninggal Dunia, Indonesia Kehilangan Tokoh Pengusaha dan Politikus Nasional - MataKita",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 17:40:48 GMT",
+      "link": "https://matakita.co/2026/07/10/rachmat-gobel-meninggal-dunia-indonesia-kehilangan-tokoh-pengusaha-dan-politikus-nasional/"
+    },
     {
       "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
       "entity": "Kementerian Koperasi",
@@ -192,14 +199,7 @@
       "entity": "Ida Nurlaela",
       "kind": "anggota",
       "published": "Fri, 10 Jul 2026 13:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/alternatif-hilirisasi-pangan-dan-energi-ida-nurlaela-usulkan-ptpn-kembangkan-bioetanol-berbasis-sorgum-b2pWKZbgsk"
-    },
-    {
-      "title": "Jelang Hari Koperasi Nasional, Menteri Ferry Juliantono ungkap harapan ke depan - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 13:00:04 GMT",
-      "link": "https://elshinta.com/kategori/1/pembangunan/jelang-hari-koperasi-nasional-menteri-ferry-juliantono-ungkap-harapan-ke-depan-169936"
+      "link": "https://www.gesuri.id/amp/pemerintahan/alternatif-hilirisasi-pangan-dan-energi-ida-nurlaela-usulkan-ptpn-kembangkan-bioetanol-berbasis-sorgum-b2pWKZbgsk"
     }
   ]
 }
