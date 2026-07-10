@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T20:21:03.857639",
+  "generated_at": "2026-07-10T21:59:45.288372",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 43,
-    "Golkar": 10,
+    "Golkar": 11,
     "NasDem": 34,
     "PKB": 17,
     "PKS": 31,
@@ -12,9 +12,9 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 44,
+    "Gerindra": 45,
     "PDI-P": 79,
-    "Golkar": 41,
+    "Golkar": 42,
     "NasDem": 38,
     "PKB": 36,
     "PKS": 44,
@@ -37,8 +37,8 @@
     "bumn": 62,
     "danantara": 35,
     "perdagangan": 16,
-    "umkm": 6,
-    "investasi": 31,
+    "umkm": 7,
+    "investasi": 32,
     "ekspor": 4,
     "koperasi": 60,
     "merger-akuisisi": 3,
@@ -51,7 +51,7 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
-    "Kawendra Lukistian": 11,
+    "Kawendra Lukistian": 12,
     "Mulyadi": 7,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 10,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 10,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
-    "Nurdin Halid": 7,
+    "Nurdin Halid": 8,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 6,
@@ -91,11 +91,18 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 35,
-    "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 55,
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 56,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Sekda Sulsel Sambut Kunker Komisi VI DPR RI, Perkuat Dialog Industri Semen dan Iklim Investasi Berkelanjutan - sulselprov.go.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 18:06:26 GMT",
+      "link": "https://sulselprov.go.id/berita/sekda-sulsel-sambut-kunker-komisi-vi-dpr-ri-perkuat-dialog-industri-semen-dan-iklim-investasi-berkelanjutan"
+    },
     {
       "title": "Rachmat Gobel Meninggal Dunia, Indonesia Kehilangan Tokoh Pengusaha dan Politikus Nasional - MataKita",
       "entity": "Rachmat Gobel",
@@ -193,13 +200,6 @@
       "kind": "anggota",
       "published": "Fri, 10 Jul 2026 13:05:42 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-Beban-Aset-Perumnas-Darmadi-Durianto-Tekankan-Standarisasi-Proyek-TOD-67047"
-    },
-    {
-      "title": "Alternatif Hilirisasi Pangan dan Energi, Ida Nurlaela Usulkan PTPN Kembangkan Bioetanol Berbasis Sorgum - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 13:01:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/alternatif-hilirisasi-pangan-dan-energi-ida-nurlaela-usulkan-ptpn-kembangkan-bioetanol-berbasis-sorgum-b2pWKZbgsk"
     }
   ]
 }
