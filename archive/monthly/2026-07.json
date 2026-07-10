@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T00:02:25.054099",
+  "generated_at": "2026-07-10T04:49:42.596425",
   "party_counts_7d": {
-    "Gerindra": 17,
+    "Gerindra": 18,
     "PDI-P": 41,
     "Golkar": 12,
-    "NasDem": 21,
-    "PKB": 16,
+    "NasDem": 25,
+    "PKB": 15,
     "PKS": 30,
-    "PAN": 2,
+    "PAN": 5,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 42,
-    "PDI-P": 73,
-    "Golkar": 40,
-    "NasDem": 30,
+    "Gerindra": 43,
+    "PDI-P": 74,
+    "Golkar": 41,
+    "NasDem": 35,
     "PKB": 34,
-    "PKS": 41,
-    "PAN": 13,
+    "PKS": 42,
+    "PAN": 16,
     "Demokrat": 16
   },
   "agency_counts_30d": {
@@ -26,27 +26,27 @@
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
-    "BPKN": 18,
+    "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 14,
+    "BPK Sabang": 17,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
+    "bumn": 67,
     "danantara": 38,
-    "umkm": 7,
-    "ekspor": 5,
-    "perdagangan": 8,
+    "umkm": 6,
+    "perdagangan": 14,
+    "investasi": 32,
+    "ekspor": 4,
     "koperasi": 64,
-    "investasi": 29,
-    "merger-akuisisi": 8,
+    "merger-akuisisi": 7,
     "kartel-monopoli": 6,
     "dividen": 1
   },
   "member_counts_30d": {
-    "Andre Rosiade": 16,
+    "Andre Rosiade": 17,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
@@ -59,16 +59,16 @@
     "Sadarestuwati": 6,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 5,
-    "Totok Hedi Santosa": 2,
+    "Totok Hedi Santosa": 3,
     "Nurdin Halid": 8,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 7,
+    "Rizki Faisal": 8,
     "Muhammad Sarmuji": 5,
-    "Rachmat Gobel": 15,
+    "Rachmat Gobel": 19,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 4,
+    "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 1,
@@ -80,124 +80,124 @@
     "Amin Ak.": 14,
     "Rizal Bawazier": 12,
     "Ghufran": 2,
-    "Ismail": 13,
-    "Eko Patrio": 6,
+    "Ismail": 14,
+    "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 5,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Hukum/Audit": 35,
+    "Hukum/Audit": 34,
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 55,
+    "Koperasi/UMKM": 54,
     "Perdagangan": 30
   },
   "top_headlines": [
     {
-      "title": "Profil Rachmat Gobel Anggota DPR yang Meninggal Dunia Hari Ini - detikNews",
+      "title": "Video: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal Dunia - 20detik",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 23:35:08 GMT",
-      "link": "https://news.detik.com/berita/d-8567614/profil-rachmat-gobel-anggota-dpr-yang-meninggal-dunia-hari-ini"
+      "published": "Fri, 10 Jul 2026 04:46:56 GMT",
+      "link": "https://20.detik.com/detikupdate/20260710-260710052/video-anggota-dpr-fraksi-nasdem-rachmat-gobel-meninggal-dunia"
     },
     {
-      "title": "Anggota DPR RI Rachmat Gobel Meninggal Dunia - CNN Indonesia",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 22:31:24 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260710052019-20-1378960/anggota-dpr-ri-rachmat-gobel-meninggal-dunia"
-    },
-    {
-      "title": "Berita Lelayu, Pengusaha Rachmat Gobel Tutup Usia di Jakarta - Kompas.com",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 22:31:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/10/053127626/berita-lelayu-pengusaha-rachmat-gobel-tutup-usia-di-jakarta"
-    },
-    {
-      "title": "Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - Lentera.co",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 22:15:23 GMT",
-      "link": "https://lentera.co/post/item/235725/Anggota-DPR-Fraksi-NasDem-Rachmat-Gobel-Meninggal"
-    },
-    {
-      "title": "Gubernur Dedi.Mulyadi Akui Pemerintah Provinsi Jawa Barat Mengalami Defisit Rp 5,7 Triliun - Pikiran Rakyat Koran",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 22:00:00 GMT",
-      "link": "https://koran.pikiran-rakyat.com/news/pr-30310324635/gubernur-dedimulyadi-akui-pemerintah-provinsi-jawa-barat-mengalami-defisit-rp-57-triliun"
-    },
-    {
-      "title": "Breaking News: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal - CNBC Indonesia",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 21:55:24 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260710044038-4-749631/breaking-news-anggota-dpr-fraksi-nasdem-rachmat-gobel-meninggal"
-    },
-    {
-      "title": "Politikus Nasdem Rachmat Gobel Tutup Usia di RS Brawijaya Tebet - Rmol.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 21:53:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/10/713967/politikus-nasdem-rachmat-gobel-tutup-usia-di-rs-brawijaya-tebet-"
-    },
-    {
-      "title": "BREAKING NEWS: Anggota DPR RI Rachmat Gobel Meninggal Dunia - Tatiye.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 21:48:01 GMT",
-      "link": "https://tatiye.id/breaking-news-anggota-dpr-ri-rachmat-gobel-meninggal-dunia/"
-    },
-    {
-      "title": "Chairman Panasonic Gobel dan Anggota DPR Rachmat Gobel Wafat - kumparan.com - Kumparan",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 09 Jul 2026 21:47:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/chairman-panasonic-gobel-dan-anggota-dpr-rachmat-gobel-wafat-27l3aw5c7FO"
-    },
-    {
-      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Perkuat Sinergi UMKM dan Ritel Modern, 11 Jenama Lokal Jadi Mitra Metro Department Store - Kompas.com",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 21:26:47 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260710/OTYy"
+      "published": "Fri, 10 Jul 2026 04:39:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/07/10/11392051/kemendag-perkuat-sinergi-umkm-dan-ritel-modern-11-jenama-lokal-jadi-mitra"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Platform E-Commerce Beralih ke Profitabilitas, Kemendag: Dinamika yang Wajar - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 18:04:37 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260710/MTEyNg%3D%3D"
+      "published": "Fri, 10 Jul 2026 04:30:27 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260710/12/1987073/platform-e-commerce-beralih-ke-profitabilitas-kemendag-dinamika-yang-wajar"
     },
     {
-      "title": "Fachrul Razi: Sabang-Andaman jadi Potensi Geoekonomi dan Geostrategi Indonesia Wilayah Barat » - dialeksis.com",
+      "title": "Guru Besar USK: Konektivitas Sabang-Andaman Buka Peluang Baru bagi Ekonomi Aceh - Waspada Aceh",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:39:27 GMT",
-      "link": "https://amp.dialeksis.com/Ekonomi/fachrul-razi-sabang-andaman-jadi-potensi-geoekonomi-dan-geostrategi-indonesia-wilayah-barat/"
+      "published": "Fri, 10 Jul 2026 04:19:23 GMT",
+      "link": "https://waspadaaceh.com/guru-besar-usk-konektivitas-sabang-andaman-buka-peluang-baru-bagi-ekonomi-aceh/"
     },
     {
-      "title": "Pelaku UMKM Fashion Sambut Positif Kolaborasi METRO dan Kemendag - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:30:30 GMT",
-      "link": "https://www.cnnindonesia.com/gaya-hidup/20260709210401-284-1378936/pelaku-umkm-fashion-sambut-positif-kolaborasi-metro-dan-kemendag"
+      "title": "Eko Patrio Kenang Almarhum Rachmat Gobel Sebagai Mentor yang Baik - investor.id",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 04:09:22 GMT",
+      "link": "https://investor.id/national/445998/eko-patrio-kenang-almarhum-rachmat-gobel-sebagai-mentor-yang-baik"
     },
     {
-      "title": "Rangsang Warga Belanja, Kemendag Sediakan Program Diskon di Pusat Perbelanjaan - merahputih.com",
+      "title": "Konektivitas Sabang-India Dinilai Bisa Hidupkan Perdagangan dan Investasi - Waspada Aceh",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:25:56 GMT",
-      "link": "https://www.merahputih.com/post/read/rangsang-warga-belanja-kemendag-sediakan-program-diskon-di-pusat-perbelanjaan"
+      "published": "Fri, 10 Jul 2026 03:54:17 GMT",
+      "link": "https://waspadaaceh.com/konektivitas-sabang-india-dinilai-bisa-hidupkan-perdagangan-dan-investasi/"
     },
     {
-      "title": "Kemendag Sediakan Program Diskon Dongkrak Daya Beli - Media Indonesia",
+      "title": "Konektivitas Sabang-India Dinilai Bisa Hidupkan Perdagangan dan Investasi - Waspada Aceh",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 03:54:17 GMT",
+      "link": "https://waspadaaceh.com/konektivitas-sabang-india-dinilai-bisa-hidupkan-perdagangan-dan-investasi/"
+    },
+    {
+      "title": "Menuju Danantara 2030: Cetak Biru Transformasi BUMN sebagai Pilar Kedaulatan Ekonomi dan Mesin Pertumbuhan Indonesia - Kedai Pena",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 03:51:31 GMT",
+      "link": "https://www.kedaipena.com/menuju-danantara-2030-cetak-biru-transformasi-bumn-sebagai-pilar-kedaulatan-ekonomi-dan-mesin-pertumbuhan-indonesia/"
+    },
+    {
+      "title": "Rosan: Danantara Jadi Mitra Strategis yang 'Diburu' Investor Asing - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 03:45:57 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCPmAE-rosan-danantara-jadi-mitra-strategis-yang-diburu-investor-asing"
+    },
+    {
+      "title": "Rachmat Gobel Wafat, Partai NasDem Berduka Kehilangan Tokoh Restorasi Bangsa - Partai NasDem",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 03:11:15 GMT",
+      "link": "https://partainasdem.id/2026/07/09/rachmat-gobel-wafat-partai-nasdem-berduka-kehilangan-tokoh-restorasi-bangsa/"
+    },
+    {
+      "title": "Foto : Eko Patrio Kenang Rachmat Gobel yang Mendukungnya di DPR dan Dunia Hiburan Halaman 1 - Kompas.com",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 03:05:16 GMT",
+      "link": "https://nasional.kompas.com/image/2026/07/10/09545421/eko-patrio-kenang-rachmat-gobel-yang-mendukungnya-di-dpr-dan-dunia-hiburan?page=1"
+    },
+    {
+      "title": "Meta Gandeng Kemendag Luncurkan Small Business Growth Academy untuk 150 UMKM Indonesia - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 09 Jul 2026 14:23:19 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/909330/kemendag-sediakan-program-diskon-dongkrak-daya-beli"
+      "published": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "link": "https://swa.co.id/read/474769/meta-gandeng-kemendag-luncurkan-small-business-growth-academy-untuk-150-umkm-indonesia"
+    },
+    {
+      "title": "Neraca Dagang Mei Defisit Dipicu Harga Minyak, Mendag Berharap Bulan Depan Membaik - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 02:59:34 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/neraca-dagang-mei-defisit-dipicu-harga-minyak-mendag-berharap-bulan-depan-membaik/"
+    },
+    {
+      "title": "Kemenkop Gandeng Unpad, Generasi Muda Diajak Bangun Kewirausahaan Berbasis Koperasi - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 02:58:24 GMT",
+      "link": "https://suarapemerintah.id/2026/07/kemenkop-gandeng-unpad-generasi-muda-diajak-bangun-kewirausahaan-berbasis-koperasi/"
+    },
+    {
+      "title": "Eko Patrio Kenang Rachmat Gobel yang Mendukungnya di DPR dan Dunia Hiburan - Kompas.com",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 02:54:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/07/10/09545421/eko-patrio-kenang-rachmat-gobel-yang-mendukungnya-di-dpr-dan-dunia-hiburan"
     }
   ]
 }
