@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T04:49:42.596425",
+  "generated_at": "2026-07-10T08:20:39.936286",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 41,
+    "Gerindra": 19,
+    "PDI-P": 42,
     "Golkar": 12,
-    "NasDem": 25,
-    "PKB": 15,
+    "NasDem": 29,
+    "PKB": 16,
     "PKS": 30,
-    "PAN": 5,
-    "Demokrat": 5
+    "PAN": 4,
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 43,
-    "PDI-P": 74,
-    "Golkar": 41,
+    "Gerindra": 44,
+    "PDI-P": 73,
+    "Golkar": 40,
     "NasDem": 35,
-    "PKB": 34,
-    "PKS": 42,
+    "PKB": 35,
+    "PKS": 43,
     "PAN": 16,
-    "Demokrat": 16
+    "Demokrat": 15
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,72 +34,149 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
-    "danantara": 38,
-    "umkm": 6,
-    "perdagangan": 14,
-    "investasi": 32,
+    "bumn": 65,
+    "danantara": 37,
+    "umkm": 7,
+    "perdagangan": 16,
+    "investasi": 31,
     "ekspor": 4,
-    "koperasi": 64,
-    "merger-akuisisi": 7,
+    "koperasi": 62,
+    "merger-akuisisi": 6,
     "kartel-monopoli": 6,
     "dividen": 1
   },
   "member_counts_30d": {
-    "Andre Rosiade": 17,
+    "Andre Rosiade": 18,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 11,
     "Mulyadi": 7,
-    "Adisatrya Suryo Sulisto": 12,
-    "Mufti Anam": 10,
+    "Adisatrya Suryo Sulisto": 13,
+    "Mufti Anam": 9,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 6,
+    "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
-    "Nurdin Halid": 8,
+    "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 8,
     "Muhammad Sarmuji": 5,
-    "Rachmat Gobel": 19,
-    "Asep Wahyuwijaya": 6,
+    "Rachmat Gobel": 20,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 1,
     "Anggia Erma Rini": 2,
-    "Rivqy Abdul Halim": 19,
+    "Rivqy Abdul Halim": 20,
     "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 14,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 12,
     "Ghufran": 2,
     "Ismail": 14,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Iskandar": 3,
-    "Sartono": 5,
+    "Sartono": 4,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Hukum/Audit": 34,
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 54,
-    "Perdagangan": 30
+    "Koperasi/UMKM": 55,
+    "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Ekonomi Digital RI Capai Rp 1.654 Triliun, DPR Soroti Pajaknya Masih Minim - Ikatan Konsultan Pajak Indonesia",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 08:16:43 GMT",
+      "link": "https://ikpi.or.id/ekonomi-digital-ri-capai-rp-1-654-triliun-dpr-soroti-pajaknya-masih-minim/"
+    },
+    {
+      "title": "Rieke dorong reformasi perlindungan anak usai kasus santri di Lombok - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 08:12:55 GMT",
+      "link": "https://www.antaranews.com/berita/5644063/rieke-dorong-reformasi-perlindungan-anak-usai-kasus-santri-di-lombok"
+    },
+    {
+      "title": "Patriot dan Merah Putih Bond: Antara Kebutuhan Modal atau Ladang “Pencucian Uang” - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 08:08:10 GMT",
+      "link": "https://infobanknews.com/patriot-dan-merah-putih-bond-antara-kebutuhan-modal-atau-ladang-pencucian-uang"
+    },
+    {
+      "title": "Pemakaman Rachmat Gobel Digelar Secara Militer - Tempo.co",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 07:24:00 GMT",
+      "link": "https://nasional.tempo.co/read/2112958/pemakaman-rachmat-gobel-digelar-secara-militer?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "| Legislator PDIP Desak Pengusutan Tuntas Kasus Pembakaran Santri di Lombok - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 07:20:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661718/legislator-pdip-desak-pengusutan-tuntas-kasus-pembakaran-santri-di-lombok/"
+    },
+    {
+      "title": "Sebelas Jenama Lokal Jalin Kemitraan dengan Metro Department Store - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 06:39:52 GMT",
+      "link": "https://www.niaga.asia/sebelas-jenama-lokal-jalin-kemitraan-dengan-metro-department-store/"
+    },
+    {
+      "title": "Rachmat Gobel tutup usia, sejumlah tokoh datangi rumah duka - ANTARA News Jambi",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 06:30:51 GMT",
+      "link": "https://jambi.antaranews.com/video/5643781/rachmat-gobel-tutup-usia-sejumlah-tokoh-datangi-rumah-duka"
+    },
+    {
+      "title": "Menteri Koperasi: Rachmat Gobel Dimakamkan di TMP Kalibata usai Salat Jumat - Koran Jakarta ®",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 06:20:00 GMT",
+      "link": "https://koran-jakarta.com/2026-07-10/menteri-koperasi-rachmat-gobel-dimakamkan-di-tmp-kalibata-usai-salat-jumat"
+    },
+    {
+      "title": "Kasus Dugaan KUR Fiktif BNI Jember, Gus Rivqy: Ini Alarm Serius bagi Himbara - Radarbangsa.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 06:01:00 GMT",
+      "link": "https://www.radarbangsa.com/news/61424/kasus-dugaan-kur-fiktif-bni-jember-gus-rivqy-ini-alarm-serius-bagi-himbara"
+    },
+    {
+      "title": "Mendag Dorong Perluasan Akses Pasar Produk UMKM di Retail Modern - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 05:33:23 GMT",
+      "link": "https://www.metrotvnews.com/play/KYVCewrA-mendag-dorong-perluasan-akses-pasar-produk-umkm-di-retail-modern"
+    },
     {
       "title": "Video: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal Dunia - 20detik",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
       "published": "Fri, 10 Jul 2026 04:46:56 GMT",
       "link": "https://20.detik.com/detikupdate/20260710-260710052/video-anggota-dpr-fraksi-nasdem-rachmat-gobel-meninggal-dunia"
+    },
+    {
+      "title": "Perkuat Kemitraan Strategis, Indonesia dan Selangor Jalin Kolaborasi Perdagangan dan Industri - VIVA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 04:42:04 GMT",
+      "link": "https://www.viva.co.id/bisnis/1912455-perkuat-kemitraan-strategis-indonesia-dan-selangor-jalin-kolaborasi-perdagangan-dan-industri"
     },
     {
       "title": "Kemendag Perkuat Sinergi UMKM dan Ritel Modern, 11 Jenama Lokal Jadi Mitra Metro Department Store - Kompas.com",
@@ -121,83 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 10 Jul 2026 04:19:23 GMT",
       "link": "https://waspadaaceh.com/guru-besar-usk-konektivitas-sabang-andaman-buka-peluang-baru-bagi-ekonomi-aceh/"
-    },
-    {
-      "title": "Eko Patrio Kenang Almarhum Rachmat Gobel Sebagai Mentor yang Baik - investor.id",
-      "entity": "Eko Patrio",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 04:09:22 GMT",
-      "link": "https://investor.id/national/445998/eko-patrio-kenang-almarhum-rachmat-gobel-sebagai-mentor-yang-baik"
-    },
-    {
-      "title": "Konektivitas Sabang-India Dinilai Bisa Hidupkan Perdagangan dan Investasi - Waspada Aceh",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 03:54:17 GMT",
-      "link": "https://waspadaaceh.com/konektivitas-sabang-india-dinilai-bisa-hidupkan-perdagangan-dan-investasi/"
-    },
-    {
-      "title": "Konektivitas Sabang-India Dinilai Bisa Hidupkan Perdagangan dan Investasi - Waspada Aceh",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 03:54:17 GMT",
-      "link": "https://waspadaaceh.com/konektivitas-sabang-india-dinilai-bisa-hidupkan-perdagangan-dan-investasi/"
-    },
-    {
-      "title": "Menuju Danantara 2030: Cetak Biru Transformasi BUMN sebagai Pilar Kedaulatan Ekonomi dan Mesin Pertumbuhan Indonesia - Kedai Pena",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 03:51:31 GMT",
-      "link": "https://www.kedaipena.com/menuju-danantara-2030-cetak-biru-transformasi-bumn-sebagai-pilar-kedaulatan-ekonomi-dan-mesin-pertumbuhan-indonesia/"
-    },
-    {
-      "title": "Rosan: Danantara Jadi Mitra Strategis yang 'Diburu' Investor Asing - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 03:45:57 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCPmAE-rosan-danantara-jadi-mitra-strategis-yang-diburu-investor-asing"
-    },
-    {
-      "title": "Rachmat Gobel Wafat, Partai NasDem Berduka Kehilangan Tokoh Restorasi Bangsa - Partai NasDem",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 03:11:15 GMT",
-      "link": "https://partainasdem.id/2026/07/09/rachmat-gobel-wafat-partai-nasdem-berduka-kehilangan-tokoh-restorasi-bangsa/"
-    },
-    {
-      "title": "Foto : Eko Patrio Kenang Rachmat Gobel yang Mendukungnya di DPR dan Dunia Hiburan Halaman 1 - Kompas.com",
-      "entity": "Eko Patrio",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 03:05:16 GMT",
-      "link": "https://nasional.kompas.com/image/2026/07/10/09545421/eko-patrio-kenang-rachmat-gobel-yang-mendukungnya-di-dpr-dan-dunia-hiburan?page=1"
-    },
-    {
-      "title": "Meta Gandeng Kemendag Luncurkan Small Business Growth Academy untuk 150 UMKM Indonesia - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 03:00:00 GMT",
-      "link": "https://swa.co.id/read/474769/meta-gandeng-kemendag-luncurkan-small-business-growth-academy-untuk-150-umkm-indonesia"
-    },
-    {
-      "title": "Neraca Dagang Mei Defisit Dipicu Harga Minyak, Mendag Berharap Bulan Depan Membaik - Suara Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 02:59:34 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/neraca-dagang-mei-defisit-dipicu-harga-minyak-mendag-berharap-bulan-depan-membaik/"
-    },
-    {
-      "title": "Kemenkop Gandeng Unpad, Generasi Muda Diajak Bangun Kewirausahaan Berbasis Koperasi - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 02:58:24 GMT",
-      "link": "https://suarapemerintah.id/2026/07/kemenkop-gandeng-unpad-generasi-muda-diajak-bangun-kewirausahaan-berbasis-koperasi/"
-    },
-    {
-      "title": "Eko Patrio Kenang Rachmat Gobel yang Mendukungnya di DPR dan Dunia Hiburan - Kompas.com",
-      "entity": "Eko Patrio",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 02:54:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/10/09545421/eko-patrio-kenang-rachmat-gobel-yang-mendukungnya-di-dpr-dan-dunia-hiburan"
     }
   ]
 }
