@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T08:20:39.936286",
+  "generated_at": "2026-07-10T11:49:39.299857",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 42,
-    "Golkar": 12,
-    "NasDem": 29,
+    "PDI-P": 40,
+    "Golkar": 11,
+    "NasDem": 32,
     "PKB": 16,
-    "PKS": 30,
+    "PKS": 31,
     "PAN": 4,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 73,
-    "Golkar": 40,
-    "NasDem": 35,
+    "PDI-P": 75,
+    "Golkar": 41,
+    "NasDem": 36,
     "PKB": 35,
-    "PKS": 43,
+    "PKS": 44,
     "PAN": 16,
-    "Demokrat": 15
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 65,
-    "danantara": 37,
-    "umkm": 7,
+    "bumn": 62,
+    "danantara": 36,
+    "umkm": 5,
     "perdagangan": 16,
     "investasi": 31,
     "ekspor": 4,
-    "koperasi": 62,
-    "merger-akuisisi": 6,
+    "koperasi": 63,
+    "merger-akuisisi": 3,
     "kartel-monopoli": 6,
+    "ipo": 1,
     "dividen": 1
   },
   "member_counts_30d": {
@@ -53,16 +54,17 @@
     "Kawendra Lukistian": 11,
     "Mulyadi": 7,
     "Adisatrya Suryo Sulisto": 13,
-    "Mufti Anam": 9,
+    "Mufti Anam": 10,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
+    "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 7,
-    "Doni Akbar": 7,
+    "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 8,
     "Muhammad Sarmuji": 5,
@@ -71,7 +73,7 @@
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 1,
+    "Subardi": 2,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 9,
@@ -80,20 +82,83 @@
     "Amin Ak.": 15,
     "Rizal Bawazier": 12,
     "Ghufran": 2,
-    "Ismail": 14,
+    "Ismail": 15,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 4,
-    "Herman Khaeron": 11
+    "Herman Khaeron": 12
   },
   "early_warning_counts": {
     "Hukum/Audit": 34,
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 26
+    "Kinerja BUMN": 28,
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Mendag Busan Dukung Sinergi UMKM Fesyen dan Ritel Modern - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 11:37:20 GMT",
+      "link": "https://www.tempo.co/info-tempo/mendag-busan-dukung-sinergi-umkm-fesyen-dan-ritel-modern-2274987"
+    },
+    {
+      "title": "Negara Wajib Menghadirkan Keadilan bagi Korban Pembakaran Santri di Lombok - SinPo.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 11:28:22 GMT",
+      "link": "https://sinpo.id/detail/124053/negara-wajib-menghadirkan-keadilan-bagi-korban-pembakaran-santri-di-lombok"
+    },
+    {
+      "title": "Saan Mustopa Kenang Dedikasi dan Integritas Rachmat Gobel dalam Mengabdi kepada Bangsa - DPR RI",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 11:08:46 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Saan-Mustopa-Kenang-Dedikasi-dan-Integritas-Rachmat-Gobel-dalam-Mengabdi-kepada-Bangsa-67042"
+    },
+    {
+      "title": "Presiden Dijadwalkan Hadiri Puncak Hari Koperasi Nasional - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 10:29:50 GMT",
+      "link": "https://www.metrotvnews.com/read/NLMC81RX-presiden-dijadwalkan-hadiri-puncak-hari-koperasi-nasional"
+    },
+    {
+      "title": "Danantara-AS Jajaki Proyek Gasifikasi Batu Bara Jadi Gas Sintetis - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 10:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/114641/danantara-as-jajaki-proyek-gasifikasi-batu-bara-jadi-gas-sintetis"
+    },
+    {
+      "title": "Menkop Ziarah ke Makam Bung Hatta dalam Rangkaian Menuju Puncak Harkopnas ke-79 - indoposco.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 09:02:36 GMT",
+      "link": "https://indoposco.id/2026/07/10/menkop-ziarah-ke-makam-bung-hatta-dalam-rangkaian-menuju-puncak-harkopnas-ke-79/"
+    },
+    {
+      "title": "Rosan Klaim Minat Investor Asing ke Danantara Meningkat - KabarBursa.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 08:41:11 GMT",
+      "link": "https://www.kabarbursa.com/makro/rosan-klaim-minat-investor-asing-ke-danantara-meningkat"
+    },
+    {
+      "title": "Produksi 11 Jenama Fashion Lokal segera Hadir di Metro Department Store - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 08:30:00 GMT",
+      "link": "https://olenka.id/produksi-11-jenama-fashion-lokal-segera-hadir-di-metro-department-store"
+    },
+    {
+      "title": "Subardi: Rachmat Gobel Politisi Teladan, Konglomerat Pejuang Makmurkan Rakyat - DPR RI",
+      "entity": "Subardi",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 08:22:49 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Subardi-Rachmat-Gobel-Politisi-Teladan-Konglomerat-Pejuang-Makmurkan-Rakyat-67038"
+    },
     {
       "title": "Ekonomi Digital RI Capai Rp 1.654 Triliun, DPR Soroti Pajaknya Masih Minim - Ikatan Konsultan Pajak Indonesia",
       "entity": "Amin Ak.",
@@ -116,6 +181,13 @@
       "link": "https://infobanknews.com/patriot-dan-merah-putih-bond-antara-kebutuhan-modal-atau-ladang-pencucian-uang"
     },
     {
+      "title": "RUU PFII Dinilai Berpotensi Hambat Investasi Hijau, Ini Penyebabnya - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 10 Jul 2026 07:53:30 GMT",
+      "link": "https://infobanknews.com/ruu-pfii-dinilai-berpotensi-hambat-investasi-hijau-ini-penyebabnya"
+    },
+    {
       "title": "Pemakaman Rachmat Gobel Digelar Secara Militer - Tempo.co",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
@@ -128,76 +200,6 @@
       "kind": "anggota",
       "published": "Fri, 10 Jul 2026 07:20:00 GMT",
       "link": "https://www.jurnas.com/artikel/1661718/legislator-pdip-desak-pengusutan-tuntas-kasus-pembakaran-santri-di-lombok/"
-    },
-    {
-      "title": "Sebelas Jenama Lokal Jalin Kemitraan dengan Metro Department Store - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 06:39:52 GMT",
-      "link": "https://www.niaga.asia/sebelas-jenama-lokal-jalin-kemitraan-dengan-metro-department-store/"
-    },
-    {
-      "title": "Rachmat Gobel tutup usia, sejumlah tokoh datangi rumah duka - ANTARA News Jambi",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 06:30:51 GMT",
-      "link": "https://jambi.antaranews.com/video/5643781/rachmat-gobel-tutup-usia-sejumlah-tokoh-datangi-rumah-duka"
-    },
-    {
-      "title": "Menteri Koperasi: Rachmat Gobel Dimakamkan di TMP Kalibata usai Salat Jumat - Koran Jakarta ®",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 06:20:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-10/menteri-koperasi-rachmat-gobel-dimakamkan-di-tmp-kalibata-usai-salat-jumat"
-    },
-    {
-      "title": "Kasus Dugaan KUR Fiktif BNI Jember, Gus Rivqy: Ini Alarm Serius bagi Himbara - Radarbangsa.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 06:01:00 GMT",
-      "link": "https://www.radarbangsa.com/news/61424/kasus-dugaan-kur-fiktif-bni-jember-gus-rivqy-ini-alarm-serius-bagi-himbara"
-    },
-    {
-      "title": "Mendag Dorong Perluasan Akses Pasar Produk UMKM di Retail Modern - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 05:33:23 GMT",
-      "link": "https://www.metrotvnews.com/play/KYVCewrA-mendag-dorong-perluasan-akses-pasar-produk-umkm-di-retail-modern"
-    },
-    {
-      "title": "Video: Anggota DPR Fraksi NasDem Rachmat Gobel Meninggal Dunia - 20detik",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 04:46:56 GMT",
-      "link": "https://20.detik.com/detikupdate/20260710-260710052/video-anggota-dpr-fraksi-nasdem-rachmat-gobel-meninggal-dunia"
-    },
-    {
-      "title": "Perkuat Kemitraan Strategis, Indonesia dan Selangor Jalin Kolaborasi Perdagangan dan Industri - VIVA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 04:42:04 GMT",
-      "link": "https://www.viva.co.id/bisnis/1912455-perkuat-kemitraan-strategis-indonesia-dan-selangor-jalin-kolaborasi-perdagangan-dan-industri"
-    },
-    {
-      "title": "Kemendag Perkuat Sinergi UMKM dan Ritel Modern, 11 Jenama Lokal Jadi Mitra Metro Department Store - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 04:39:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/10/11392051/kemendag-perkuat-sinergi-umkm-dan-ritel-modern-11-jenama-lokal-jadi-mitra"
-    },
-    {
-      "title": "Platform E-Commerce Beralih ke Profitabilitas, Kemendag: Dinamika yang Wajar - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 04:30:27 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260710/12/1987073/platform-e-commerce-beralih-ke-profitabilitas-kemendag-dinamika-yang-wajar"
-    },
-    {
-      "title": "Guru Besar USK: Konektivitas Sabang-Andaman Buka Peluang Baru bagi Ekonomi Aceh - Waspada Aceh",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 04:19:23 GMT",
-      "link": "https://waspadaaceh.com/guru-besar-usk-konektivitas-sabang-andaman-buka-peluang-baru-bagi-ekonomi-aceh/"
     }
   ]
 }
