@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T22:44:17.638966",
+  "generated_at": "2026-07-11T23:53:47.916171",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 48,
-    "Golkar": 8,
+    "PDI-P": 49,
+    "Golkar": 7,
     "NasDem": 34,
     "PKB": 20,
     "PKS": 32,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 48,
-    "PDI-P": 84,
+    "PDI-P": 85,
     "Golkar": 46,
     "NasDem": 38,
     "PKB": 38,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
+    "bumn": 61,
     "danantara": 37,
     "perdagangan": 17,
     "umkm": 6,
@@ -56,7 +56,7 @@
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 11,
-    "Darmadi Durianto": 14,
+    "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
@@ -97,6 +97,27 @@
     "Perdagangan": 28
   },
   "top_headlines": [
+    {
+      "title": "Investigasi DPR: Skema Bisnis Perumnas–Telkomsel Dipertanyakan, Komisi VI Desak Transparansi Profit Sharing demi Selamatkan BUMN - Bela Rakyat",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 23:00:28 GMT",
+      "link": "https://belarakyat.com/investigasi-dpr-skema-bisnis-perumnas-telkomsel-dipertanyakan-komisi-vi-desak-transparansi-profit-sharing-demi-selamatkan-bumn/"
+    },
+    {
+      "title": "Pelatihan Militer Calon Manajer Kopdes Dievaluasi, Ada Materi Keuangan-Koperasi - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 22:55:57 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8570000/pelatihan-militer-calon-manajer-kopdes-dievaluasi-ada-materi-keuangan-koperasi"
+    },
+    {
+      "title": "Pemakaman Militer untuk Rachmat Gobel - Pikiran Rakyat Koran",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 22:00:00 GMT",
+      "link": "https://koran.pikiran-rakyat.com/news/pr-30310328344/pemakaman-militer-untuk-rachmat-gobel"
+    },
     {
       "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
       "entity": "Kementerian Koperasi",
@@ -180,27 +201,6 @@
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 12:20:20 GMT",
       "link": "https://achmadnurhidayat.id/kemenkop-evaluasi-bangunan-kopdeskel-merah-putih"
-    },
-    {
-      "title": "Link Twibbon Hari Koperasi 2026, Lokasi, & Jadwal Puncak Acara - Tirto.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 12:10:17 GMT",
-      "link": "https://tirto.id/link-twibbon-hari-koperasi-indonesia-12-juli-2026-lokasi-jadwal-puncak-acara-hzrf"
-    },
-    {
-      "title": "Kabar Duka, Mantan Menteri dan Anggota DPR Rachmat Gobel Meninggal - Viral Nasional",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 12:10:00 GMT",
-      "link": "https://www.viralnasional.com/viral-nasional/6424/kabar-duka-mantan-menteri-dan-anggota-dpr-rachmat-gobel-meninggal/"
-    },
-    {
-      "title": "Danantara Perkuat Sinergi dengan Lembaga Pengawas demi Proyek Strategis Bersih - lintastotabuan.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 11:07:00 GMT",
-      "link": "https://lintastotabuan.com/danantara-perkuat-sinergi-dengan-lembaga-pengawas-demi-proyek-strategis-bersih/"
     }
   ]
 }
