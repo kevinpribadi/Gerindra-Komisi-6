@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T16:55:04.622917",
+  "generated_at": "2026-07-11T17:54:11.225126",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 48,
-    "Golkar": 7,
+    "Golkar": 8,
     "NasDem": 34,
     "PKB": 20,
     "PKS": 32,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 47,
     "PDI-P": 84,
-    "Golkar": 43,
+    "Golkar": 44,
     "NasDem": 38,
     "PKB": 38,
     "PKS": 47,
@@ -41,7 +41,7 @@
     "investasi": 38,
     "koperasi": 57,
     "ekspor": 2,
-    "kartel-monopoli": 4,
+    "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
     "dividen": 1,
@@ -66,7 +66,7 @@
     "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 8,
-    "Firnando Hadityo Ganinduto": 6,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 8,
     "Muhammad Sarmuji": 5,
     "Rachmat Gobel": 20,
@@ -94,9 +94,44 @@
     "Hukum/Audit": 38,
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 25
+    "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 17:32:46 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260712/OTYy"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 17:15:10 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260712/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Pemimpin KPPU Dinilai Butuh Pengalaman Teknis dan Pemahaman Hukum Persaingan Usaha - MetroTVNews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 16:53:03 GMT",
+      "link": "https://www.metrotvnews.com/read/NLMC81yM-pemimpin-kppu-dinilai-butuh-pengalaman-teknis-dan-pemahaman-hukum-persaingan-usaha"
+    },
+    {
+      "title": "KPPU-OJK MoU, Perkuat Sinergi Jaga Persaingan Usaha Sehat - detiknews.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 16:37:04 GMT",
+      "link": "https://detiknews.id/detiknews/kppu-ojk-mou-perkuat-sinergi-jaga-persaingan-usaha-sehat/"
+    },
+    {
+      "title": "Anggota Komisi VI DPR RI Dorong Inklusi Keuangan Bagi Guru TK/Paud di Kabupaten Kendal - Suara Merdeka Kendal - Suara Merdeka Kendal",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 15:33:00 GMT",
+      "link": "https://kendal.suaramerdeka.com/kendal-raya/amp/103617361474/anggota-komisi-vi-dpr-ri-dorong-inklusi-keuangan-bagi-guru-tkpaud-di-kabupaten-kendal"
+    },
     {
       "title": "Menkop: Format Latsarmil Manajer Kopdes Sudah Berubah - detikcom",
       "entity": "Kementerian Koperasi",
@@ -166,41 +201,6 @@
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 11:07:00 GMT",
       "link": "https://lintastotabuan.com/danantara-perkuat-sinergi-dengan-lembaga-pengawas-demi-proyek-strategis-bersih/"
-    },
-    {
-      "title": "Adisatrya Suryo Sulisto: Pengunduran Diri Dirut PT Pos Indonesia Tak Boleh Mengganggu Operasional - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-pengunduran-diri-dirut-pt-pos-indonesia-tak-boleh-mengganggu-operasional-b2pWLZbgui"
-    },
-    {
-      "title": "Kuasa Hukum Erin Kritik Rieke Diah Pitaloka yang Dampingi Mantan ART, Singgung Dugaan Intervensi - Grid.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 10:59:17 GMT",
-      "link": "https://www.grid.id/read/044395061/kuasa-hukum-erin-kritik-rieke-diah-pitaloka-yang-dampingi-mantan-art-singgung-dugaan-intervensi"
-    },
-    {
-      "title": "Kuasa Hukum Erin Kritik Rieke Diah Pitaloka yang Dampingi Mantan ART, Singgung Dugaan Intervensi - Grid.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 10:59:00 GMT",
-      "link": "https://www.grid.id/amp/044395061/kuasa-hukum-erin-kritik-rieke-diah-pitaloka-yang-dampingi-mantan-art-singgung-dugaan-intervensi"
-    },
-    {
-      "title": "Darmadi Durianto Apresiasi Langkah Transformasi Dirut BRI Perkuat Ketahanan Perbankan Nasional - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 10:19:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-langkah-transformasi-dirut-bri-perkuat-ketahanan-perbankan-nasional-b2pWNZbgvV"
-    },
-    {
-      "title": "Darmadi Durianto Apresiasi Kinerja Bank Mandiri yang Tetap Tumbuh Solid di Tengah Tantangan Ekonomi Global - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 10:12:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-bank-mandiri-yang-tetap-tumbuh-solid-di-tengah-tantangan-ekonomi-global-b2pWNZbgvT"
     }
   ]
 }
