@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T07:51:40.225491",
+  "generated_at": "2026-07-11T09:26:33.077725",
   "party_counts_7d": {
-    "Gerindra": 18,
+    "Gerindra": 17,
     "PDI-P": 44,
     "Golkar": 10,
     "NasDem": 34,
     "PKB": 18,
-    "PKS": 31,
+    "PKS": 32,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -17,7 +17,7 @@
     "Golkar": 43,
     "NasDem": 38,
     "PKB": 36,
-    "PKS": 46,
+    "PKS": 47,
     "PAN": 17,
     "Demokrat": 15
   },
@@ -38,7 +38,7 @@
     "danantara": 37,
     "perdagangan": 15,
     "umkm": 7,
-    "investasi": 34,
+    "investasi": 35,
     "koperasi": 58,
     "ekspor": 3,
     "merger-akuisisi": 3,
@@ -79,7 +79,7 @@
     "Nasim Khan": 10,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 15,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 13,
     "Ghufran": 2,
     "Ismail": 16,
@@ -90,12 +90,54 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 35,
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 58,
     "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Akom XI: Bursa Mineral Indonesia Harus Mampu Kuatkan Posisi Indonesia - Kedai Pena",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 09:22:09 GMT",
+      "link": "https://www.kedaipena.com/akom-xi-bursa-mineral-indonesia-harus-mampu-kuatkan-posisi-indonesia/"
+    },
+    {
+      "title": "Pemerintah Targetkan 40 Ribu Kopdes Merah Putih Beroperasi Tahun 2026 - Suara Surabaya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 09:00:09 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/pemerintah-targetkan-40-ribu-kopdes-merah-putih-beroperasi-tahun-2026/"
+    },
+    {
+      "title": "Danantara Perkuat Sinergi dengan Lembaga Pengawas demi Proyek Strategis Bersih - lampung media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 08:47:42 GMT",
+      "link": "https://lampungmediaonline.com/danantara-perkuat-sinergi-dengan-lembaga-pengawas-demi-proyek-strategis-bersih/"
+    },
+    {
+      "title": "Warga Gorontalo kenang almarhum Rachmat Gobel pahlawan kemanusiaan - ANTARA News Gorontalo",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 08:42:25 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/413300/warga-gorontalo-kenang-almarhum-rachmat-gobel-pahlawan-kemanusiaan"
+    },
+    {
+      "title": "DEKOPIN Ajak Gen Z Hidupkan Koperasi, Ziarah ke Makam Bung Hatta - investor.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 08:26:24 GMT",
+      "link": "https://investor.id/national/446151/dekopin-ajak-gen-z-hidupkan-koperasi-ziarah-ke-makam-bung-hatta"
+    },
+    {
+      "title": "Bupati Ade Agus Hartanto akhiri roadshow ke Kementrian Koperasi - ANTARA News Riau",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 07:59:04 GMT",
+      "link": "https://riau.antaranews.com/berita/447688/bupati-ade-agus-hartanto-akhiri-roadshow-ke-kementrian-koperasi"
+    },
     {
       "title": "Naik Bintang Tiga, Eks Kapolda Lampung Helmy Santika Kini Jabat Irjen Kemendag - VIVA Lampung",
       "entity": "Kementerian Perdagangan",
@@ -132,6 +174,20 @@
       "link": "https://www.beritakoperasi.com/menkop-ajak-perwira-siswa-sesko-tni-dukung-penguatan-koperasi-dan-kopdes-merah-putih-sebagai-penggerak-ekonomi-rakyat/"
     },
     {
+      "title": "DPR RI Berduka, Saan Kenang Rachmat Gobel sebagai Sosok Berintegritas - cianjurekspres.disway.id - Cianjur Ekspres",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 04:00:00 GMT",
+      "link": "https://cianjurekspres.disway.id/amp/21420/dpr-ri-berduka-saan-kenang-rachmat-gobel-sebagai-sosok-berintegritas"
+    },
+    {
+      "title": "Wujudkan Tata Kelola Profesional, Pemerintah Perkuat Kesejahteraan dan Jaminan Sosial Pengelola Koperasi Desa Merah Putih - beritanasionalupdate.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 03:06:10 GMT",
+      "link": "https://beritanasionalupdate.com/news/details/1419/wujudkan-tata-kelola-profesional,-pemerintah-perkuat-kesejahteraan-dan-jaminan-sosial-pengelola-koperasi-desa-merah-putih"
+    },
+    {
       "title": "Ismail Bachtiar: Surplus Semen Harus Diselesaikan Tanpa Mengorbankan Industri - DPR RI",
       "entity": "Ismail",
       "kind": "anggota",
@@ -144,62 +200,6 @@
       "kind": "anggota",
       "published": "Sat, 11 Jul 2026 03:00:00 GMT",
       "link": "https://koran-jakarta.com/2026-07-11/wakil-ketua-dpr-saan-mustopa-pimpin-upacara-pemakaman-rachmat-gobel"
-    },
-    {
-      "title": "Dekopin Tegaskan Komitmen Modernisasi Koperasi Lewat Regenerasi Gen Z - BERNAS.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 02:46:04 GMT",
-      "link": "https://www.bernas.id/nasional/news/dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-regenerasi-gen-z-2026-07-11"
-    },
-    {
-      "title": "Dekopin tegaskan komitmen modernisasi koperasi lewat regenerasi Gen Z - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 02:36:42 GMT",
-      "link": "https://www.antaranews.com/berita/5645103/dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-regenerasi-gen-z"
-    },
-    {
-      "title": "Dekopin tegaskan komitmen modernisasi koperasi lewat regenerasi Gen Z - ANTARA News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 02:36:42 GMT",
-      "link": "https://www.antaranews.com/berita/5645103/dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-regenerasi-gen-z"
-    },
-    {
-      "title": "Roadshow Jilid II Ditutup di Kemenkop, Bupati Ade Dorong Lahan Eks PKH Dikelola KDMP - CAKAPLAH.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 02:16:00 GMT",
-      "link": "https://www.cakaplah.com/berita/baca/137961/2026/07/11/roadshow-jilid-ii-ditutup-di-kemenkop-bupati-ade-dorong-lahan-eks-pkh-dikelola-kdmp/"
-    },
-    {
-      "title": "Roadshow Jilid II Ditutup di Kemenkop, Bupati Ade Dorong Lahan Eks PKH Dikelola KDMP - CAKAPLAH.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 02:16:00 GMT",
-      "link": "https://www.cakaplah.com/berita/baca/137961/2026/07/11/roadshow-jilid-ii-ditutup-di-kemenkop-bupati-ade-dorong-lahan-eks-pkh-dikelola-kdmp"
-    },
-    {
-      "title": "Andre Rosiade Terima Titipan Aspirasi Gus Fawait, Blank Spot Jember Jadi Perhatian - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 01:58:20 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-terima-titipan-aspirasi-gus-fawait-blank-spot-jember-jadi-perhatian-424694/"
-    },
-    {
-      "title": "Dekopin Tegaskan Komitmen Modernisasi Koperasi melalui Estafet Generasi Muda - SINDOnews Nasional",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 01:49:05 GMT",
-      "link": "https://nasional.sindonews.com/read/1727183/15/dekopin-tegaskan-komitmen-modernisasi-koperasi-melalui-estafet-generasi-muda-1783732029"
-    },
-    {
-      "title": "Populer Ekonomi: Harga Minyak Dunia Turun hingga Danantara 'Diburu' Investor Asing - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 01:18:37 GMT",
-      "link": "https://www.metrotvnews.com/read/bw6C2Qgy-populer-ekonomi-harga-minyak-dunia-turun-hingga-danantara-diburu-investor-asing"
     }
   ]
 }
