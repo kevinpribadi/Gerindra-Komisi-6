@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-10T23:07:35.487516",
+  "generated_at": "2026-07-11T02:26:50.486393",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 43,
-    "Golkar": 10,
+    "Gerindra": 20,
+    "PDI-P": 44,
+    "Golkar": 11,
     "NasDem": 34,
-    "PKB": 17,
-    "PKS": 31,
+    "PKB": 18,
+    "PKS": 29,
     "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 46,
-    "PDI-P": 79,
-    "Golkar": 42,
+    "Gerindra": 47,
+    "PDI-P": 80,
+    "Golkar": 43,
     "NasDem": 38,
     "PKB": 36,
     "PKS": 44,
-    "PAN": 16,
+    "PAN": 17,
     "Demokrat": 16
   },
   "agency_counts_30d": {
@@ -34,20 +34,20 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
-    "danantara": 35,
+    "bumn": 61,
+    "danantara": 37,
     "perdagangan": 16,
     "umkm": 7,
-    "investasi": 32,
+    "investasi": 34,
     "ekspor": 4,
-    "koperasi": 60,
+    "koperasi": 59,
     "merger-akuisisi": 3,
     "kartel-monopoli": 6,
     "ipo": 1,
     "dividen": 1
   },
   "member_counts_30d": {
-    "Andre Rosiade": 19,
+    "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
@@ -55,14 +55,14 @@
     "Mulyadi": 7,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 10,
-    "Darmadi Durianto": 11,
+    "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
     "Ida Nurlaela": 10,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 3,
-    "Nurdin Halid": 8,
+    "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 6,
@@ -85,17 +85,80 @@
     "Ismail": 15,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
-    "Iskandar": 3,
+    "Iskandar": 4,
     "Sartono": 4,
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 35,
-    "Kinerja BUMN": 29,
+    "Hukum/Audit": 36,
+    "Kinerja BUMN": 28,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 25
+    "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Roadshow Jilid II Ditutup di Kemenkop, Bupati Ade Dorong Lahan Eks PKH Dikelola KDMP - CAKAPLAH.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 02:16:00 GMT",
+      "link": "https://www.cakaplah.com/berita/baca/137961/2026/07/11/roadshow-jilid-ii-ditutup-di-kemenkop-bupati-ade-dorong-lahan-eks-pkh-dikelola-kdmp/"
+    },
+    {
+      "title": "Andre Rosiade Terima Titipan Aspirasi Gus Fawait, Blank Spot Jember Jadi Perhatian - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 01:58:20 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-terima-titipan-aspirasi-gus-fawait-blank-spot-jember-jadi-perhatian-424694/"
+    },
+    {
+      "title": "Dekopin Tegaskan Komitmen Modernisasi Koperasi melalui Estafet Generasi Muda - SINDOnews Nasional",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 01:49:05 GMT",
+      "link": "https://nasional.sindonews.com/read/1727183/15/dekopin-tegaskan-komitmen-modernisasi-koperasi-melalui-estafet-generasi-muda-1783732029"
+    },
+    {
+      "title": "Populer Ekonomi: Harga Minyak Dunia Turun hingga Danantara 'Diburu' Investor Asing - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 01:18:37 GMT",
+      "link": "https://www.metrotvnews.com/read/bw6C2Qgy-populer-ekonomi-harga-minyak-dunia-turun-hingga-danantara-diburu-investor-asing"
+    },
+    {
+      "title": "Darmadi Durianto Tegaskan Pentingnya Menginternalisasikan Nilai-Nilai Empat Pilar MPR RI - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 01:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-pentingnya-menginternalisasikan-nilai-nilai-empat-pilar-mpr-ri-b2pWLZbgtB"
+    },
+    {
+      "title": "Kaji Investasi Conch Cement, Nurdin Halid: Pastikan Tak Ganggu Industri Semen Nasional - DPR RI",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 00:52:19 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Kaji-Investasi-Conch-Cement-Nurdin-Halid-Pastikan-Tak-Ganggu-Industri-Semen-Nasional-67051"
+    },
+    {
+      "title": "Rachmat Gobel Tutup Usia - NUSABALI.com",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 00:24:24 GMT",
+      "link": "https://www.nusabali.com/berita/225251/rachmat-gobel-tutup-usia"
+    },
+    {
+      "title": "Rachmat Gobel di Mata JK: Hampir Sama dengan Saya - Tempo.co",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 00:12:07 GMT",
+      "link": "https://nasional.tempo.co/read/2113070/rachmat-gobel-di-mata-jk-hampir-sama-dengan-saya?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Gus Rivqy Dukung Danantara Bongkar Dugaan Fraud Bertahun-tahun di PT Pos Indonesia - Jakartanews.id",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 10 Jul 2026 23:09:16 GMT",
+      "link": "https://www.jakartanews.id/2026/07/10/gus-rivqy-dukung-danantara-bongkar-dugaan-fraud-bertahun-tahun-di-pt-pos-indonesia/"
+    },
     {
       "title": "Sekda Sulsel Sambut Kunker Komisi VI DPR RI, Perkuat Dialog Industri Semen dan Iklim Investasi Berkelanjutan - sulselprov.go.id",
       "entity": "Nurdin Halid",
@@ -137,69 +200,6 @@
       "kind": "anggota",
       "published": "Fri, 10 Jul 2026 15:38:56 GMT",
       "link": "https://penarakyat.com/nasim-khan-kawal-usulan-5-bupati-tol-prosiwangi-besuki-dibuka-atasi-kemacetan-pantura/"
-    },
-    {
-      "title": "Mengenang Kiprah Rachmat Gobel, dari Pengusaha hingga Menteri Perdagangan - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 15:30:57 GMT",
-      "link": "https://www.metrotvnews.com/play/N6GCVBg5-mengenang-kiprah-rachmat-gobel-dari-pengusaha-hingga-menteri-perdagangan"
-    },
-    {
-      "title": "Peringati Hari Koperasi ke-79, Ketum Inkowapi Sharmila Ziarah ke Makam Bung Hatta Bersama Menteri Koperasi - Bela Rakyat",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 15:19:45 GMT",
-      "link": "https://belarakyat.com/peringati-hari-koperasi-ke-79-ketum-inkowapi-sharmila-ziarah-ke-makam-bung-hatta-bersama-menteri-koperasi/"
-    },
-    {
-      "title": "Peringati Hari Koperasi ke-79, Ketum Inkowapi Sharmila Ziarah ke Makam Bung Hatta Bersama Menteri Koperasi - Bela Rakyat",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 15:19:45 GMT",
-      "link": "https://belarakyat.com/peringati-hari-koperasi-ke-79-ketum-inkowapi-sharmila-ziarah-ke-makam-bung-hatta-bersama-menteri-koperasi/"
-    },
-    {
-      "title": "Cerita Prabowo Tentang BUMN Pernah Mau Dijual ke Asing - Tempo.co",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 15:09:04 GMT",
-      "link": "https://www.tempo.co/politik/cerita-prabowo-tentang-bumn-pernah-mau-dijual-ke-asing-2275035"
-    },
-    {
-      "title": "OJK dan KPPU Perkuat Sinergi Awasi Persaingan Usaha - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 15:04:00 GMT",
-      "link": "https://rri.co.id/medan/ekonomi/keuangan/2558139/ojk-dan-kppu-perkuat-sinergi-awasi-persaingan-usaha"
-    },
-    {
-      "title": "ABDSI dan Kementerian Koperasi Perkuat Sinergi Pengembangan SDM Koperasi Merah Putih - Mediasulsel.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 14:29:35 GMT",
-      "link": "https://www.mediasulsel.com/abdsi-dan-kementerian-koperasi-perkuat-sinergi-pengembangan-sdm-koperasi-merah-putih/"
-    },
-    {
-      "title": "Harkopnas ke-79: DEKOPIN Ziarah ke Makam Bung Hatta dan Gandeng Gen Z - Media Indonesia",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 14:15:20 GMT",
-      "link": "https://mediaindonesia.com/humaniora/909686/harkopnas-ke-79-dekopin-ziarah-ke-makam-bung-hatta-dan-gandeng-gen-z"
-    },
-    {
-      "title": "Menjaga Stabilitas Tanpa Membunuh Kompetisi: Menakar Urgensi Sinergi OJK-KPPU - kumparan.com - Kumparan.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 10 Jul 2026 13:17:17 GMT",
-      "link": "https://kumparan.com/ahmad-kaylani-1715352847197941354/menjaga-stabilitas-tanpa-membunuh-kompetisi-menakar-urgensi-sinergi-ojk-kppu-27ktF2rJ3RD"
-    },
-    {
-      "title": "Soroti Beban Aset Perumnas, Darmadi Durianto Tekankan Standarisasi Proyek TOD - DPR RI",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 10 Jul 2026 13:05:42 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-Beban-Aset-Perumnas-Darmadi-Durianto-Tekankan-Standarisasi-Proyek-TOD-67047"
     }
   ]
 }
