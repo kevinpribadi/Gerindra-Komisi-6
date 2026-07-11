@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T13:13:37.194191",
+  "generated_at": "2026-07-11T14:51:12.680275",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 47,
+    "Gerindra": 15,
+    "PDI-P": 48,
     "Golkar": 7,
     "NasDem": 34,
-    "PKB": 18,
+    "PKB": 19,
     "PKS": 32,
     "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 47,
-    "PDI-P": 82,
+    "PDI-P": 84,
     "Golkar": 43,
     "NasDem": 38,
-    "PKB": 36,
+    "PKB": 37,
     "PKS": 47,
     "PAN": 17,
     "Demokrat": 15
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 37,
-    "perdagangan": 15,
-    "umkm": 6,
+    "perdagangan": 16,
+    "umkm": 7,
     "investasi": 37,
-    "koperasi": 58,
+    "koperasi": 57,
     "ekspor": 2,
     "kartel-monopoli": 4,
     "ipo": 1,
@@ -53,8 +53,8 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 12,
     "Mulyadi": 7,
-    "Adisatrya Suryo Sulisto": 14,
-    "Mufti Anam": 10,
+    "Adisatrya Suryo Sulisto": 15,
+    "Mufti Anam": 11,
     "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -76,7 +76,7 @@
     "Subardi": 4,
     "Anggia Erma Rini": 2,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 10,
+    "Nasim Khan": 11,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 16,
@@ -90,12 +90,33 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 37,
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 57,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Kerja Sama KPPU-KPK Dinilai Jadi Langkah Maju Pemberantasan Korupsi - JPNN.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 14:28:43 GMT",
+      "link": "https://m.jpnn.com/news/kerja-sama-kppu-kpk-dinilai-jadi-langkah-maju-pemberantasan-korupsi"
+    },
+    {
+      "title": "Danantara dan Latitude Energy Jajaki Proyek Gasifikasi Batu Bara Pertama di Indonesia - Ecobiz Asia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 14:16:01 GMT",
+      "link": "https://ecobiz.asia/danantara-dan-latitude-energy-jajaki-proyek-gasifikasi-batu-bara-pertama-di-indonesia/"
+    },
+    {
+      "title": "Adisatrya Sulisto Desak Pemerintah Perkuat Regulasi yang Mengatur JP dan JHT ASN PPPK - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-sulisto-desak-pemerintah-perkuat-regulasi-yang-mengatur-jp-dan-jht-asn-pppk-b2pWLZbguk"
+    },
     {
       "title": "Harkopnas ke-79, Sekda Kota Bogor Ajak Koperasi Tingkatkan Profesionalisme dan Adaptasi Teknologi - suaraindonesia-news.com",
       "entity": "Dekopin",
@@ -123,6 +144,13 @@
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 12:10:17 GMT",
       "link": "https://tirto.id/link-twibbon-hari-koperasi-indonesia-12-juli-2026-lokasi-jadwal-puncak-acara-hzrf"
+    },
+    {
+      "title": "Kabar Duka, Mantan Menteri dan Anggota DPR Rachmat Gobel Meninggal - Viral Nasional",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 12:10:00 GMT",
+      "link": "https://www.viralnasional.com/viral-nasional/6424/kabar-duka-mantan-menteri-dan-anggota-dpr-rachmat-gobel-meninggal/"
     },
     {
       "title": "Danantara Perkuat Sinergi dengan Lembaga Pengawas demi Proyek Strategis Bersih - lintastotabuan.com",
@@ -172,34 +200,6 @@
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 10:00:16 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8569472/pelatihan-militer-buat-calon-manajer-kopdes-dievaluasi"
-    },
-    {
-      "title": "Akom XI: Bursa Mineral Indonesia Harus Mampu Kuatkan Posisi Indonesia - Kedai Pena",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 09:22:09 GMT",
-      "link": "https://www.kedaipena.com/akom-xi-bursa-mineral-indonesia-harus-mampu-kuatkan-posisi-indonesia/"
-    },
-    {
-      "title": "Pemerintah Targetkan 40 Ribu Kopdes Merah Putih Beroperasi Tahun 2026 - Suara Surabaya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 09:00:09 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/pemerintah-targetkan-40-ribu-kopdes-merah-putih-beroperasi-tahun-2026/"
-    },
-    {
-      "title": "Danantara Perkuat Sinergi dengan Lembaga Pengawas demi Proyek Strategis Bersih - lampung media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 08:47:42 GMT",
-      "link": "https://lampungmediaonline.com/danantara-perkuat-sinergi-dengan-lembaga-pengawas-demi-proyek-strategis-bersih/"
-    },
-    {
-      "title": "Warga Gorontalo kenang almarhum Rachmat Gobel pahlawan kemanusiaan - ANTARA News Gorontalo",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 08:42:25 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/413300/warga-gorontalo-kenang-almarhum-rachmat-gobel-pahlawan-kemanusiaan"
     }
   ]
 }
