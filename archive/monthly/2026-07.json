@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T11:02:53.612473",
+  "generated_at": "2026-07-11T13:13:37.194191",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 44,
-    "Golkar": 9,
+    "PDI-P": 47,
+    "Golkar": 7,
     "NasDem": 34,
     "PKB": 18,
     "PKS": 32,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 47,
-    "PDI-P": 79,
+    "PDI-P": 82,
     "Golkar": 43,
     "NasDem": 38,
     "PKB": 36,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 60,
     "danantara": 37,
     "perdagangan": 15,
     "umkm": 6,
-    "investasi": 36,
+    "investasi": 37,
     "koperasi": 58,
     "ekspor": 2,
-    "merger-akuisisi": 3,
     "kartel-monopoli": 4,
     "ipo": 1,
+    "merger-akuisisi": 2,
     "dividen": 1
   },
   "member_counts_30d": {
@@ -53,9 +53,9 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 12,
     "Mulyadi": 7,
-    "Adisatrya Suryo Sulisto": 13,
+    "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 10,
-    "Darmadi Durianto": 12,
+    "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
@@ -90,12 +90,75 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 35,
+    "Hukum/Audit": 36,
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 57,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Harkopnas ke-79, Sekda Kota Bogor Ajak Koperasi Tingkatkan Profesionalisme dan Adaptasi Teknologi - suaraindonesia-news.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 12:54:54 GMT",
+      "link": "https://suaraindonesia-news.com/harkopnas-ke-79-sekda-kota-bogor-ajak-koperasi-tingkatkan-profesionalisme-dan-adaptasi-teknologi/"
+    },
+    {
+      "title": "Ketua Dekopinwil Jateng Dampingi Sekda Buka Peringatan Hari Koperasi ke-79 di Surakarta, Tegaskan Koperasi Harus Kembali kepada Jati Diri - Berlian Media",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 12:44:11 GMT",
+      "link": "https://berlianmedia.com/ketua-dekopinwil-jateng-dampingi-sekda-buka-peringatan-hari-koperasi-ke-79-di-surakarta-tegaskan-koperasi-harus-kembali-kepada-jati-diri/"
+    },
+    {
+      "title": "Kemenkop Evaluasi Lokasi Bangunan Koperasi Desa Merah Putih - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 12:20:20 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-evaluasi-bangunan-kopdeskel-merah-putih"
+    },
+    {
+      "title": "Link Twibbon Hari Koperasi 2026, Lokasi, & Jadwal Puncak Acara - Tirto.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 12:10:17 GMT",
+      "link": "https://tirto.id/link-twibbon-hari-koperasi-indonesia-12-juli-2026-lokasi-jadwal-puncak-acara-hzrf"
+    },
+    {
+      "title": "Danantara Perkuat Sinergi dengan Lembaga Pengawas demi Proyek Strategis Bersih - lintastotabuan.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 11:07:00 GMT",
+      "link": "https://lintastotabuan.com/danantara-perkuat-sinergi-dengan-lembaga-pengawas-demi-proyek-strategis-bersih/"
+    },
+    {
+      "title": "Adisatrya Suryo Sulisto: Pengunduran Diri Dirut PT Pos Indonesia Tak Boleh Mengganggu Operasional - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-pengunduran-diri-dirut-pt-pos-indonesia-tak-boleh-mengganggu-operasional-b2pWLZbgui"
+    },
+    {
+      "title": "Kuasa Hukum Erin Kritik Rieke Diah Pitaloka yang Dampingi Mantan ART, Singgung Dugaan Intervensi - Grid.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 10:59:00 GMT",
+      "link": "https://www.grid.id/amp/044395061/kuasa-hukum-erin-kritik-rieke-diah-pitaloka-yang-dampingi-mantan-art-singgung-dugaan-intervensi"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Langkah Transformasi Dirut BRI Perkuat Ketahanan Perbankan Nasional - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 10:19:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-langkah-transformasi-dirut-bri-perkuat-ketahanan-perbankan-nasional-b2pWNZbgvV"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Kinerja Bank Mandiri yang Tetap Tumbuh Solid di Tengah Tantangan Ekonomi Global - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 10:12:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-bank-mandiri-yang-tetap-tumbuh-solid-di-tengah-tantangan-ekonomi-global-b2pWNZbgvT"
+    },
     {
       "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - jurnal9.tv",
       "entity": "Badan Pengaturan BUMN",
@@ -137,69 +200,6 @@
       "kind": "anggota",
       "published": "Sat, 11 Jul 2026 08:42:25 GMT",
       "link": "https://gorontalo.antaranews.com/berita/413300/warga-gorontalo-kenang-almarhum-rachmat-gobel-pahlawan-kemanusiaan"
-    },
-    {
-      "title": "DEKOPIN Ajak Gen Z Hidupkan Koperasi, Ziarah ke Makam Bung Hatta - investor.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 08:26:24 GMT",
-      "link": "https://investor.id/national/446151/dekopin-ajak-gen-z-hidupkan-koperasi-ziarah-ke-makam-bung-hatta"
-    },
-    {
-      "title": "Bupati Ade Agus Hartanto akhiri roadshow ke Kementrian Koperasi - ANTARA News Riau",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 07:59:04 GMT",
-      "link": "https://riau.antaranews.com/berita/447688/bupati-ade-agus-hartanto-akhiri-roadshow-ke-kementrian-koperasi"
-    },
-    {
-      "title": "Naik Bintang Tiga, Eks Kapolda Lampung Helmy Santika Kini Jabat Irjen Kemendag - VIVA Lampung",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 07:34:00 GMT",
-      "link": "https://lampung.viva.co.id/kreatif/9420-naik-bintang-tiga-eks-kapolda-lampung-helmy-santika-kini-jabat-irjen-kemendag"
-    },
-    {
-      "title": "BP Batam Dukung Batam Prime International Grassroot Football Festival 2026, Perkuat Sport Tourism dan Persahabatan Indonesia–Singapura–Brunei-Malaysia - Badan Pengusahaan Batam - BP Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 05:13:04 GMT",
-      "link": "https://bpbatam.go.id/bp-batam-dukung-batam-prime-international-grassroot-football-festival-2026-perkuat-sport-tourism-dan-persahabatan-indonesia-singapura-brunei-malaysia/"
-    },
-    {
-      "title": "Bukti Baru: Peran Abu Dhabi dalam Agresi terhadap Iran - Pars Today",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 05:08:00 GMT",
-      "link": "https://parstoday.ir/id/news/iran-i192972-bukti_baru_peran_abu_dhabi_dalam_agresi_terhadap_iran"
-    },
-    {
-      "title": "Rizal Bawazier Minta Investasi Industri Bahan Baku Obat Tak Setengah Hati - DPR RI",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 04:55:02 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rizal-Bawazier-Minta-Investasi-Industri-Bahan-Baku-Obat-Tak-Setengah-Hati-67061"
-    },
-    {
-      "title": "Menkop Ajak Perwira Siswa Sesko TNI Dukung Penguatan Koperasi dan Kopdes Merah Putih sebagai Penggerak Ekonomi Rakyat - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 04:25:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-ajak-perwira-siswa-sesko-tni-dukung-penguatan-koperasi-dan-kopdes-merah-putih-sebagai-penggerak-ekonomi-rakyat/"
-    },
-    {
-      "title": "DPR RI Berduka, Saan Kenang Rachmat Gobel sebagai Sosok Berintegritas - cianjurekspres.disway.id - Cianjur Ekspres",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 04:00:00 GMT",
-      "link": "https://cianjurekspres.disway.id/amp/21420/dpr-ri-berduka-saan-kenang-rachmat-gobel-sebagai-sosok-berintegritas"
-    },
-    {
-      "title": "Danantara Tarik Minat Investor Global untuk Perkuat Ekonomi Indonesia - NusantaraTV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 03:50:28 GMT",
-      "link": "https://www.nusantaratv.com/finance/danantara-tarik-minat-investor-global-untuk-perkuat-ekonomi-indonesia"
     }
   ]
 }
