@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T14:51:12.680275",
+  "generated_at": "2026-07-11T15:53:36.788420",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 14,
     "PDI-P": 48,
     "Golkar": 7,
     "NasDem": 34,
@@ -90,12 +90,19 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 37,
+    "Hukum/Audit": 38,
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 57,
+    "Koperasi/UMKM": 56,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Format Latsarmil Manajer Kopdes Sudah Berubah - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 15:30:27 GMT",
+      "link": "https://www.detik.com/sumut/berita/d-8569935/menkop-format-latsarmil-manajer-kopdes-sudah-berubah"
+    },
     {
       "title": "Kerja Sama KPPU-KPK Dinilai Jadi Langkah Maju Pemberantasan Korupsi - JPNN.com",
       "entity": "KPPU",
@@ -170,6 +177,13 @@
       "title": "Kuasa Hukum Erin Kritik Rieke Diah Pitaloka yang Dampingi Mantan ART, Singgung Dugaan Intervensi - Grid.ID",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
+      "published": "Sat, 11 Jul 2026 10:59:17 GMT",
+      "link": "https://www.grid.id/read/044395061/kuasa-hukum-erin-kritik-rieke-diah-pitaloka-yang-dampingi-mantan-art-singgung-dugaan-intervensi"
+    },
+    {
+      "title": "Kuasa Hukum Erin Kritik Rieke Diah Pitaloka yang Dampingi Mantan ART, Singgung Dugaan Intervensi - Grid.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
       "published": "Sat, 11 Jul 2026 10:59:00 GMT",
       "link": "https://www.grid.id/amp/044395061/kuasa-hukum-erin-kritik-rieke-diah-pitaloka-yang-dampingi-mantan-art-singgung-dugaan-intervensi"
     },
@@ -186,20 +200,6 @@
       "kind": "anggota",
       "published": "Sat, 11 Jul 2026 10:12:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-bank-mandiri-yang-tetap-tumbuh-solid-di-tengah-tantangan-ekonomi-global-b2pWNZbgvT"
-    },
-    {
-      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - jurnal9.tv",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 10:08:04 GMT",
-      "link": "https://jurnal9.tv/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
-    },
-    {
-      "title": "Pelatihan Militer buat Calon Manajer Kopdes Dievaluasi! - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 10:00:16 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8569472/pelatihan-militer-buat-calon-manajer-kopdes-dievaluasi"
     }
   ]
 }
