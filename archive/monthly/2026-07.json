@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T09:26:33.077725",
+  "generated_at": "2026-07-11T11:02:53.612473",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 44,
-    "Golkar": 10,
+    "Golkar": 9,
     "NasDem": 34,
     "PKB": 18,
     "PKS": 32,
@@ -37,12 +37,12 @@
     "bumn": 61,
     "danantara": 37,
     "perdagangan": 15,
-    "umkm": 7,
-    "investasi": 35,
+    "umkm": 6,
+    "investasi": 36,
     "koperasi": 58,
-    "ekspor": 3,
+    "ekspor": 2,
     "merger-akuisisi": 3,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 4,
     "ipo": 1,
     "dividen": 1
   },
@@ -92,10 +92,24 @@
   "early_warning_counts": {
     "Hukum/Audit": 35,
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 58,
-    "Perdagangan": 26
+    "Koperasi/UMKM": 57,
+    "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - jurnal9.tv",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 10:08:04 GMT",
+      "link": "https://jurnal9.tv/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
+    },
+    {
+      "title": "Pelatihan Militer buat Calon Manajer Kopdes Dievaluasi! - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 10:00:16 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8569472/pelatihan-militer-buat-calon-manajer-kopdes-dievaluasi"
+    },
     {
       "title": "Akom XI: Bursa Mineral Indonesia Harus Mampu Kuatkan Posisi Indonesia - Kedai Pena",
       "entity": "Amin Ak.",
@@ -181,25 +195,11 @@
       "link": "https://cianjurekspres.disway.id/amp/21420/dpr-ri-berduka-saan-kenang-rachmat-gobel-sebagai-sosok-berintegritas"
     },
     {
-      "title": "Wujudkan Tata Kelola Profesional, Pemerintah Perkuat Kesejahteraan dan Jaminan Sosial Pengelola Koperasi Desa Merah Putih - beritanasionalupdate.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Danantara Tarik Minat Investor Global untuk Perkuat Ekonomi Indonesia - NusantaraTV",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 03:06:10 GMT",
-      "link": "https://beritanasionalupdate.com/news/details/1419/wujudkan-tata-kelola-profesional,-pemerintah-perkuat-kesejahteraan-dan-jaminan-sosial-pengelola-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "Ismail Bachtiar: Surplus Semen Harus Diselesaikan Tanpa Mengorbankan Industri - DPR RI",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 03:04:14 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Ismail-Bachtiar-Surplus-Semen-Harus-Diselesaikan-Tanpa-Mengorbankan-Industri-67059"
-    },
-    {
-      "title": "Wakil Ketua DPR Saan Mustopa Pimpin Upacara Pemakaman Rachmat Gobel - Koran Jakarta ®",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 03:00:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-11/wakil-ketua-dpr-saan-mustopa-pimpin-upacara-pemakaman-rachmat-gobel"
+      "published": "Sat, 11 Jul 2026 03:50:28 GMT",
+      "link": "https://www.nusantaratv.com/finance/danantara-tarik-minat-investor-global-untuk-perkuat-ekonomi-indonesia"
     }
   ]
 }
