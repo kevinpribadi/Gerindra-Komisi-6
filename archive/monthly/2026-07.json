@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T05:55:42.159809",
+  "generated_at": "2026-07-12T08:14:38.263843",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 52,
     "Golkar": 7,
     "NasDem": 34,
     "PKB": 20,
-    "PKS": 32,
+    "PKS": 30,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -15,7 +15,7 @@
     "Gerindra": 48,
     "PDI-P": 88,
     "Golkar": 47,
-    "NasDem": 38,
+    "NasDem": 37,
     "PKB": 38,
     "PKS": 48,
     "PAN": 17,
@@ -40,7 +40,7 @@
     "umkm": 6,
     "investasi": 38,
     "ekspor": 3,
-    "koperasi": 57,
+    "koperasi": 56,
     "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
@@ -71,7 +71,7 @@
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
-    "I Nengah Senantara": 5,
+    "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
@@ -93,10 +93,59 @@
   "early_warning_counts": {
     "Hukum/Audit": 39,
     "Kinerja BUMN": 30,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 27
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Koperasi Siapkan Puluhan Ribu Koperasi Merah Putih - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 08:09:24 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-koperasi-siapkan-koperasi-merah-putih"
+    },
+    {
+      "title": "Ketum Dekopin: Baru di Era Presiden Prabowo Gerakan Koperasi Dapat Perhatian - detikNews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 08:04:47 GMT",
+      "link": "https://news.detik.com/berita/d-8570624/ketum-dekopin-baru-di-era-presiden-prabowo-gerakan-koperasi-dapat-perhatian"
+    },
+    {
+      "title": "Prabowo Hadiri Puncak Hari Koperasi Nasional Ke-79 - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 07:27:19 GMT",
+      "link": "https://news.detik.com/berita/d-8570573/prabowo-hadiri-puncak-hari-koperasi-nasional-ke-79"
+    },
+    {
+      "title": "Prabowo Hadiri Puncak Hari Koperasi Nasional Ke-79 - detikNews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 07:27:19 GMT",
+      "link": "https://news.detik.com/berita/d-8570573/prabowo-hadiri-puncak-hari-koperasi-nasional-ke-79"
+    },
+    {
+      "title": "Belajar dari Kegagalan KUD, Dosen UMM Ingatkan KDMP Harus Berbasis Pemberdayaan Desa - PWMU.CO",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 06:44:20 GMT",
+      "link": "https://pwmu.co/belajar-dari-kegagalan-kud-dosen-umm-ingatkan-kdmp-harus-berbasis-pemberdayaan-desa/"
+    },
+    {
+      "title": "Jangan Cuma Kejar Kuantitas, Sri Untari Soroti Persoalan Gerakan Koperasi Indonesia - Lentera.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 06:19:38 GMT",
+      "link": "https://lentera.co/post/item/235804/Jangan-Cuma-Kejar-Kuantitas-Sri-Untari-Soroti-Persoalan-Gerakan-Koperasi-Indonesia"
+    },
+    {
+      "title": "KSP dan KSPPS Dominasi Aset Koperasi, Kopdes Merah Putih Masih Tahap Awal - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:58:11 GMT",
+      "link": "https://nasional.kontan.co.id/news/ksp-dan-kspps-dominasi-aset-koperasi-kopdes-merah-putih-masih-tahap-awal"
+    },
     {
       "title": "Anggota DPR RI Adisatrya Suryo Sulisto Resmikan Gedung PKK Desa Karanggintung, Perkuat Pemberdayaan Masyarakat - otoritas.co.id",
       "entity": "Adisatrya Suryo Sulisto",
@@ -152,55 +201,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 03:04:28 GMT",
       "link": "https://beritanasionalupdate.com/news/details/1422/kemenkop-lakukan-evaluasi-tata-letak-bangunan-koperasi-desa-merah-putih-guna-optimalkan-ekonomi-warga"
-    },
-    {
-      "title": "Jelang Harkopnas, DEKOPIN Rekrut Brand Ambassador Gen Z - SWA.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 03:00:00 GMT",
-      "link": "https://swa.co.id/read/474838/jelang-harkopnas-dekopin-rekrut-brand-ambassador-gen-z"
-    },
-    {
-      "title": "KOPERASI INDONESIA MASIH TERSINGKIR DARI LINTAS BISNIS MODERN - Berlian Media",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 01:47:20 GMT",
-      "link": "https://berlianmedia.com/koperasi-indonesia-masih-tersingkir-dari-lintas-bisnis-modern/"
-    },
-    {
-      "title": "Kekebalan Hukum bagi Pembeli Surat Utang Danantara - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 01:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/pencucian-uang-surat-utang-danantara-2275158"
-    },
-    {
-      "title": "Aset Menganggur Rp3,7 Triliun Jadi Alarm Perumnas, Darmadi Durianto Desak Standarisasi Proyek TOD untuk Selamatkan Kinerja BUMN - Bela Rakyat",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 00:35:31 GMT",
-      "link": "https://belarakyat.com/aset-menganggur-rp37-triliun-jadi-alarm-perumnas-darmadi-durianto-desak-standarisasi-proyek-tod-untuk-selamatkan-kinerja-bumn/"
-    },
-    {
-      "title": "Harkopnas ke-79, Menkop Ferry Ajak Lanjutkan Perjuangan Bung Hatta untuk Koperasi Indonesia - Suara Pemerintah",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 23:47:36 GMT",
-      "link": "https://suarapemerintah.id/2026/07/harkopnas-ke-79-menkop-ferry-ajak-lanjutkan-perjuangan-bung-hatta-untuk-koperasi-indonesia/"
-    },
-    {
-      "title": "Investigasi DPR: Skema Bisnis Perumnas–Telkomsel Dipertanyakan, Komisi VI Desak Transparansi Profit Sharing demi Selamatkan BUMN - Bela Rakyat",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 23:00:28 GMT",
-      "link": "https://belarakyat.com/investigasi-dpr-skema-bisnis-perumnas-telkomsel-dipertanyakan-komisi-vi-desak-transparansi-profit-sharing-demi-selamatkan-bumn/"
-    },
-    {
-      "title": "Pelatihan Militer Calon Manajer Kopdes Dievaluasi, Ada Materi Keuangan-Koperasi - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 22:55:57 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8570000/pelatihan-militer-calon-manajer-kopdes-dievaluasi-ada-materi-keuangan-koperasi"
     }
   ]
 }
