@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T11:57:40.081156",
+  "generated_at": "2026-07-12T13:35:03.133716",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 52,
     "Golkar": 8,
     "NasDem": 34,
     "PKB": 20,
-    "PKS": 28,
+    "PKS": 26,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -40,7 +40,7 @@
     "umkm": 6,
     "investasi": 36,
     "ekspor": 3,
-    "koperasi": 57,
+    "koperasi": 56,
     "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
@@ -94,9 +94,65 @@
     "Hukum/Audit": 41,
     "Kinerja BUMN": 30,
     "Koperasi/UMKM": 55,
-    "Perdagangan": 26
+    "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 13:12:50 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang-2275330"
+    },
+    {
+      "title": "Menteri: 15.845 Koperasi Desa Merah Putih Rampung Dibangun - Tempo.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:25:01 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-15-845-koperasi-desa-merah-putih-rampung-dibangun-2275325"
+    },
+    {
+      "title": "Pemerintah Segera Tertibkan BUMN-BUMN Sumber Korupsi - Tirto.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:25:00 GMT",
+      "link": "https://tirto.id/pemerintah-segera-tertibkan-bumn-sumber-korupsi-hzyV"
+    },
+    {
+      "title": "Di Harkopnas ke-79, Presiden Prabowo merasa koperasi adalah keluarga - ANTARA News Bangka Belitung",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:22:52 GMT",
+      "link": "https://babel.antaranews.com/berita/571636/di-harkopnas-ke-79-presiden-prabowo-merasa-koperasi-adalah-keluarga"
+    },
+    {
+      "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - Presiden RI",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:19:39 GMT",
+      "link": "https://presidenri.go.id/siaran-pers/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan/"
+    },
+    {
+      "title": "Harkopnas 2026, Sri Untari Ingatkan Koperasi Jangan Hanya Jadi Program Pemerintah - rmoljatim",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:19:00 GMT",
+      "link": "https://www.rmoljatim.id/harkopnas-2026-sri-untari-ingatkan-koperasi-jangan-hanya-jadi-program-pemerintah"
+    },
+    {
+      "title": "Bupati Inhu Akhiri Roadshow di Kementerian Koperasi - metroriau.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:07:05 GMT",
+      "link": "https://metroriau.com/berita/27307-bupati-inhu-akhiri-roadshow-di-kementerian-koperasi.html"
+    },
+    {
+      "title": "Kapolri dan 4 Pimpinan Lembaga Hadiri Peringatan Puncak Harkopnas 2026 - Tribrata News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 11:46:26 GMT",
+      "link": "https://tribratanews.polri.go.id/blog/nasional-3/kapolri-dan-4-pimpinan-lembaga-hadiri-peringatan-puncak-harkopnas-2026-103566"
+    },
     {
       "title": "Kapolri dan 4 Pimpinan Lembaga Hadiri Peringatan Puncak Hark - Tribrata News",
       "entity": "Dekopin",
@@ -145,62 +201,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 10:39:00 GMT",
       "link": "https://sinpo.id/detail/124166/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan"
-    },
-    {
-      "title": "Presiden Berkomitmen Berantas Korupsi di BUMN - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:35:41 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/910084/presiden-berkomitmen-berantas-korupsi-di-bumn"
-    },
-    {
-      "title": "Prabowo Ingin Koperasi Bangkit! Menkop Tegaskan Kembali ke Amanat Pasal 33 UUD 1945 - DelikAsia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:57:00 GMT",
-      "link": "https://www.delikasia.com/headline-news/prabowo-ingin-koperasi-bangkit-menkop-tegaskan-kembali-ke-amanat-pasal-33-uud-1945"
-    },
-    {
-      "title": "Prabowo Optimistis Koperasi Akan Bangkit, Tak Bawa Uang Keluar Indonesia - kumparan.com - Kumparan",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:57:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/prabowo-optimistis-koperasi-akan-bangkit-tak-bawa-uang-keluar-indonesia-27m2JSLqQHp"
-    },
-    {
-      "title": "Wafatnya Rachmat Gobel, Dasco: Beliau Mengabdikan Hidup untuk Indonesia - Gerindra",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 09:34:36 GMT",
-      "link": "https://gerindra.id/2026/07/12/wafatnya-rachmat-gobel-dasco-beliau-mengabdikan-hidup-untuk-indonesia/"
-    },
-    {
-      "title": "Menkop: 83 Ribu Kopdes Merah Putih Sudah Berbadan Hukum, 35 Ribu Unit Siap Beroperasi - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:27:21 GMT",
-      "link": "https://nasional.tvrinews.com/berita/txmg1qd-menkop-83-ribu-kopdes-merah-putih-sudah-berbadan-hukum-35-ribu-unit-siap-beroperasi"
-    },
-    {
-      "title": "15.845 Koperasi Desa Merah Putih Siap Beroperasi Agustus 2026 - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:24:20 GMT",
-      "link": "https://www.metrotvnews.com/read/bmRCY0OL-15-845-koperasi-desa-merah-putih-siap-beroperasi-agustus-2026"
-    },
-    {
-      "title": "Menkop: UU Perkoperasian Baru Segera Hadir, Perkuat Gerakan Koperasi Nasional - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:16:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t0pj9w4-menkop-uu-perkoperasian-baru-segera-hadir-perkuat-gerakan-koperasi-nasional"
-    },
-    {
-      "title": "Menkop: UU Perkoperasian Baru Segera Hadir, Perkuat Gerakan Koperasi Nasional - TVRI News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 09:16:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t0pj9w4-menkop-uu-perkoperasian-baru-segera-hadir-perkuat-gerakan-koperasi-nasional"
     }
   ]
 }
