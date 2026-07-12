@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T21:46:51.920781",
+  "generated_at": "2026-07-12T22:44:10.326559",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 53,
     "Golkar": 7,
     "NasDem": 34,
     "PKB": 21,
-    "PKS": 23,
+    "PKS": 24,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -17,7 +17,7 @@
     "Golkar": 49,
     "NasDem": 38,
     "PKB": 38,
-    "PKS": 48,
+    "PKS": 49,
     "PAN": 17,
     "Demokrat": 16
   },
@@ -42,7 +42,7 @@
     "koperasi": 56,
     "ekspor": 2,
     "kartel-monopoli": 5,
-    "ipo": 1,
+    "ipo": 2,
     "merger-akuisisi": 2,
     "dividen": 1,
     "impor": 1
@@ -84,7 +84,7 @@
     "Amin Ak.": 16,
     "Rizal Bawazier": 13,
     "Ghufran": 2,
-    "Ismail": 17,
+    "Ismail": 18,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Iskandar": 4,
@@ -92,12 +92,26 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Hukum/Audit": 42,
+    "Hukum/Audit": 43,
     "Kinerja BUMN": 31,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 24
+    "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Jalur Dalam Negeri Pencucian Hasil Kejahatan Sumber Daya Alam - Betahita",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 22:00:11 GMT",
+      "link": "https://www.betahita.id/opini/12180/jalur-dalam-negeri-pencucian-hasil-kejahatan-sumber-daya-alam"
+    },
+    {
+      "title": "Modernisasi Koperasi Sasar Gen Z di Era Modernisasi Digital - Pikiran Rakyat Koran",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 22:00:00 GMT",
+      "link": "https://koran.pikiran-rakyat.com/news/pr-30310330042/modernisasi-koperasi-sasar-gen-z-di-era-modernisasi-digital"
+    },
     {
       "title": "BP Batam Dukung Batam Prime International Grassroot Football Festival 2026 - Batam Pos",
       "entity": "BP Batam",
@@ -125,6 +139,13 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 15:59:00 GMT",
       "link": "https://indonesiasatu.co/detail/prabowo-subianto---yang-meragukan-koperasi-merah-putih-silahkan-cari-negara-lain--"
+    },
+    {
+      "title": "Surplus Semen Harus Diselesaikan Tanpa Mengorbankan Industri - Ipol.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 15:27:51 GMT",
+      "link": "https://ipol.id/2026/07/surplus-semen-harus-diselesaikan-tanpa-mengorbankan-industri/"
     },
     {
       "title": "Pertumbuhan Laba BUMN Jadi Sinyal Positif bagi Perekonomian Nasional - Deliknews.com",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 13:00:59 GMT",
       "link": "https://kabar24.bisnis.com/read/20260712/15/1987488/dekopin-koperasi-kembali-jadi-prioritas-pada-era-prabowo-setelah-tiga-dekade-terpinggirkan"
-    },
-    {
-      "title": "Wanoja PDI Perjuangan, Ida Nurlaela: Perempuan di PDI Perjuangan Miliki Posisi Strategis Sebagai Kekuatan Utama - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/internal/wanoja-pdi-perjuangan-ida-nurlaela-perempuan-di-pdi-perjuangan-miliki-posisi-strategis-sebagai-kekuatan-utama-b2pWMZbgvN"
-    },
-    {
-      "title": "Prabowo: Gerakan Koperasi Indonesia Akan Bangkit Jadi Kekuatan Ekonomi - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:52:10 GMT",
-      "link": "https://news.detik.com/berita/d-8570964/prabowo-gerakan-koperasi-indonesia-akan-bangkit-jadi-kekuatan-ekonomi"
-    },
-    {
-      "title": "Presiden Prabowo hadiri perayaan Harkopnas ke-79 - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:28:43 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/413455/presiden-prabowo-hadiri-perayaan-harkopnas-ke-79"
     }
   ]
 }
