@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T14:54:16.593964",
+  "generated_at": "2026-07-12T15:57:39.162495",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 53,
     "Golkar": 7,
     "NasDem": 34,
-    "PKB": 20,
-    "PKS": 26,
+    "PKB": 21,
+    "PKS": 24,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -92,12 +92,26 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Hukum/Audit": 41,
+    "Hukum/Audit": 42,
     "Kinerja BUMN": 30,
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 57,
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Pertumbuhan Laba BUMN Jadi Sinyal Positif bagi Perekonomian Nasional - Deliknews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 15:19:00 GMT",
+      "link": "https://www.deliknews.com/2026/07/12/pertumbuhan-laba-bumn-jadi-sinyal-positif-bagi-perekonomian-nasional/"
+    },
+    {
+      "title": "Ziarah Makam Bung Hatta, Dekopin Tegaskan Komitmen Modernisasi Koperasi Lewat Estafet Generasi Muda - republika.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 15:05:00 GMT",
+      "link": "https://rejogja.republika.co.id/berita/ti2fd3291/ziarah-makam-bung-hatta-dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-estafet-generasi-muda"
+    },
     {
       "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
       "entity": "Kementerian Koperasi",
@@ -111,6 +125,13 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 13:12:50 GMT",
       "link": "https://bisnis.tempo.co/read/2113269/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang"
+    },
+    {
+      "title": "Legislator Minta BNI Bongkar Akar Dugaan Korupsi KUR di Jember - merahputih.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 13:05:31 GMT",
+      "link": "https://www.merahputih.com/post/amp/kepercayaan-publik-dipertaruhkan-legislator-minta-bni-bongkar-akar-dugaan-korupsi-kur-di-jember"
     },
     {
       "title": "Dekopin: Koperasi Kembali Jadi Prioritas pada Era Prabowo setelah Tiga Dekade Terpinggirkan - Kabar24",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 12:19:00 GMT",
       "link": "https://www.rmoljatim.id/harkopnas-2026-sri-untari-ingatkan-koperasi-jangan-hanya-jadi-program-pemerintah"
-    },
-    {
-      "title": "Penguatan Operasional Pelabuhan Gresik Jadi Sorotan BP BUMN Saat Kunjungan Kerja - memorandum.disway.id - Memorandum.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:13:00 GMT",
-      "link": "https://memorandum.disway.id/amp/163694/penguatan-operasional-pelabuhan-gresik-jadi-sorotan-bp-bumn-saat-kunjungan-kerja"
-    },
-    {
-      "title": "Bupati Inhu Akhiri Roadshow di Kementerian Koperasi - metroriau.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:07:05 GMT",
-      "link": "https://metroriau.com/berita/27307-bupati-inhu-akhiri-roadshow-di-kementerian-koperasi.html"
-    },
-    {
-      "title": "Kapolri dan 4 Pimpinan Lembaga Hadiri Peringatan Puncak Harkopnas 2026 - Tribrata News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 11:46:26 GMT",
-      "link": "https://tribratanews.polri.go.id/blog/nasional-3/kapolri-dan-4-pimpinan-lembaga-hadiri-peringatan-puncak-harkopnas-2026-103566"
     }
   ]
 }
