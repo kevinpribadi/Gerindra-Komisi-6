@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T02:32:11.272343",
+  "generated_at": "2026-07-12T05:55:42.159809",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 51,
+    "PDI-P": 52,
     "Golkar": 7,
     "NasDem": 34,
     "PKB": 20,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 48,
-    "PDI-P": 87,
-    "Golkar": 46,
+    "PDI-P": 88,
+    "Golkar": 47,
     "NasDem": 38,
     "PKB": 38,
     "PKS": 48,
@@ -54,7 +54,7 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 12,
     "Mulyadi": 8,
-    "Adisatrya Suryo Sulisto": 16,
+    "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 11,
     "Darmadi Durianto": 16,
     "Rieke Diah Pitaloka": 20,
@@ -67,7 +67,7 @@
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 8,
+    "Rizki Faisal": 9,
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
@@ -97,6 +97,69 @@
     "Perdagangan": 27
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR RI Adisatrya Suryo Sulisto Resmikan Gedung PKK Desa Karanggintung, Perkuat Pemberdayaan Masyarakat - otoritas.co.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 05:27:27 GMT",
+      "link": "https://otoritas.co.id/anggota-dpr-ri-adisatrya-suryo-sulisto-resmikan-gedung-pkk-desa-karanggintung-perkuat-pemberdayaan-masyarakat/"
+    },
+    {
+      "title": "Prabowo Bakal Hadiri Acara Puncak Peringatan Hari Koperasi Nasional ke-79 - Suara Surabaya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:14:37 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-bakal-hadiri-acara-puncak-peringatan-hari-koperasi-nasional-ke-79/"
+    },
+    {
+      "title": "Prabowo Bakal Hadiri Acara Puncak Peringatan Hari Koperasi Nasional ke-79 - Suara Surabaya",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:14:37 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-bakal-hadiri-acara-puncak-peringatan-hari-koperasi-nasional-ke-79/"
+    },
+    {
+      "title": "Ekonom Konstitusi: Koperasi Harus Benar-benar Jadi Sokoguru Perekonomian RI - Kedai Pena",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:11:05 GMT",
+      "link": "https://www.kedaipena.com/ekonom-konstitusi-koperasi-harus-benar-benar-jadi-sokoguru-perekonomian-ri/"
+    },
+    {
+      "title": "Tasyakuran Hari Koperasi Indonesia Ke -79 Dekopinda Kabupaten Banyuwangi - JNN.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:11:04 GMT",
+      "link": "https://jnn.co.id/2026/07/12/tasyakuran-hari-koperasi-indonesia-ke-79-dekopinda-kabupaten-banyuwangi/"
+    },
+    {
+      "title": "OPINI: Menghidupkan Jiwa Koperasi di Desa - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:10:46 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260712/9/1987358/opini-menghidupkan-jiwa-koperasi-di-desa"
+    },
+    {
+      "title": "Pertumbuhan Laba BUMN Jadi Sinyal Positif bagi Perekonomian Nasional - Minews ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 05:01:50 GMT",
+      "link": "https://minews.id/news/pertumbuhan-laba-bumn-jadi-sinyal-positif-bagi-perekonomian-nasional"
+    },
+    {
+      "title": "Kemenkop Lakukan Evaluasi Tata Letak Bangunan Koperasi Desa Merah Putih Guna Optimalkan Ekonomi Warga - beritanasionalupdate.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 03:04:28 GMT",
+      "link": "https://beritanasionalupdate.com/news/details/1422/kemenkop-lakukan-evaluasi-tata-letak-bangunan-koperasi-desa-merah-putih-guna-optimalkan-ekonomi-warga"
+    },
+    {
+      "title": "Jelang Harkopnas, DEKOPIN Rekrut Brand Ambassador Gen Z - SWA.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 03:00:00 GMT",
+      "link": "https://swa.co.id/read/474838/jelang-harkopnas-dekopin-rekrut-brand-ambassador-gen-z"
+    },
     {
       "title": "KOPERASI INDONESIA MASIH TERSINGKIR DARI LINTAS BISNIS MODERN - Berlian Media",
       "entity": "Dekopin",
@@ -138,69 +201,6 @@
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 22:55:57 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8570000/pelatihan-militer-calon-manajer-kopdes-dievaluasi-ada-materi-keuangan-koperasi"
-    },
-    {
-      "title": "Pemakaman Militer untuk Rachmat Gobel - Pikiran Rakyat Koran",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 22:00:00 GMT",
-      "link": "https://koran.pikiran-rakyat.com/news/pr-30310328344/pemakaman-militer-untuk-rachmat-gobel"
-    },
-    {
-      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 17:32:46 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260712/OTYy"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 17:15:10 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260712/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Pemimpin KPPU Dinilai Butuh Pengalaman Teknis dan Pemahaman Hukum Persaingan Usaha - MetroTVNews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 16:53:03 GMT",
-      "link": "https://www.metrotvnews.com/read/NLMC81yM-pemimpin-kppu-dinilai-butuh-pengalaman-teknis-dan-pemahaman-hukum-persaingan-usaha"
-    },
-    {
-      "title": "KPPU-OJK MoU, Perkuat Sinergi Jaga Persaingan Usaha Sehat - detiknews.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 16:37:04 GMT",
-      "link": "https://detiknews.id/detiknews/kppu-ojk-mou-perkuat-sinergi-jaga-persaingan-usaha-sehat/"
-    },
-    {
-      "title": "Anggota Komisi VI DPR RI Dorong Inklusi Keuangan Bagi Guru TK/Paud di Kabupaten Kendal - Suara Merdeka Kendal - Suara Merdeka Kendal",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 15:33:00 GMT",
-      "link": "https://kendal.suaramerdeka.com/kendal-raya/amp/103617361474/anggota-komisi-vi-dpr-ri-dorong-inklusi-keuangan-bagi-guru-tkpaud-di-kabupaten-kendal"
-    },
-    {
-      "title": "Menkop: Format Latsarmil Manajer Kopdes Sudah Berubah - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 15:30:27 GMT",
-      "link": "https://www.detik.com/sumut/berita/d-8569935/menkop-format-latsarmil-manajer-kopdes-sudah-berubah"
-    },
-    {
-      "title": "Kerja Sama KPPU-KPK Dinilai Jadi Langkah Maju Pemberantasan Korupsi - JPNN.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 14:28:43 GMT",
-      "link": "https://www.jpnn.com/news/kerja-sama-kppu-kpk-dinilai-jadi-langkah-maju-pemberantasan-korupsi"
-    },
-    {
-      "title": "Kerja Sama KPPU-KPK Dinilai Jadi Langkah Maju Pemberantasan Korupsi - JPNN.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 14:28:43 GMT",
-      "link": "https://m.jpnn.com/news/kerja-sama-kppu-kpk-dinilai-jadi-langkah-maju-pemberantasan-korupsi"
     }
   ]
 }
