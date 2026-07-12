@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T13:35:03.133716",
+  "generated_at": "2026-07-12T14:54:16.593964",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 52,
-    "Golkar": 8,
+    "PDI-P": 53,
+    "Golkar": 7,
     "NasDem": 34,
     "PKB": 20,
     "PKS": 26,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 88,
-    "Golkar": 48,
+    "PDI-P": 89,
+    "Golkar": 49,
     "NasDem": 37,
     "PKB": 38,
     "PKS": 48,
     "PAN": 17,
-    "Demokrat": 15
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -38,7 +38,7 @@
     "danantara": 37,
     "perdagangan": 17,
     "umkm": 6,
-    "investasi": 36,
+    "investasi": 37,
     "ekspor": 3,
     "koperasi": 56,
     "kartel-monopoli": 5,
@@ -60,11 +60,12 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 11,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 10,
     "Gde Sumarjaya Linggih": 7,
+    "Ahmad Labib": 1,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 9,
@@ -88,12 +89,12 @@
     "Nasril Bahar": 4,
     "Iskandar": 4,
     "Sartono": 3,
-    "Herman Khaeron": 12
+    "Herman Khaeron": 13
   },
   "early_warning_counts": {
     "Hukum/Audit": 41,
     "Kinerja BUMN": 30,
-    "Koperasi/UMKM": 55,
+    "Koperasi/UMKM": 56,
     "Perdagangan": 25
   },
   "top_headlines": [
@@ -103,6 +104,41 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 13:12:50 GMT",
       "link": "https://www.tempo.co/ekonomi/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang-2275330"
+    },
+    {
+      "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 13:12:50 GMT",
+      "link": "https://bisnis.tempo.co/read/2113269/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang"
+    },
+    {
+      "title": "Dekopin: Koperasi Kembali Jadi Prioritas pada Era Prabowo setelah Tiga Dekade Terpinggirkan - Kabar24",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 13:00:59 GMT",
+      "link": "https://kabar24.bisnis.com/read/20260712/15/1987488/dekopin-koperasi-kembali-jadi-prioritas-pada-era-prabowo-setelah-tiga-dekade-terpinggirkan"
+    },
+    {
+      "title": "Wanoja PDI Perjuangan, Ida Nurlaela: Perempuan di PDI Perjuangan Miliki Posisi Strategis Sebagai Kekuatan Utama - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/internal/wanoja-pdi-perjuangan-ida-nurlaela-perempuan-di-pdi-perjuangan-miliki-posisi-strategis-sebagai-kekuatan-utama-b2pWMZbgvN"
+    },
+    {
+      "title": "Presiden Prabowo hadiri perayaan Harkopnas ke-79 - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:28:43 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/413455/presiden-prabowo-hadiri-perayaan-harkopnas-ke-79"
+    },
+    {
+      "title": "Menteri: 15.845 Koperasi Desa Merah Putih Rampung Dibangun - Tempo.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:25:01 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-15-845-koperasi-desa-merah-putih-rampung-dibangun-2275325/"
     },
     {
       "title": "Menteri: 15.845 Koperasi Desa Merah Putih Rampung Dibangun - Tempo.co",
@@ -126,6 +162,13 @@
       "link": "https://babel.antaranews.com/berita/571636/di-harkopnas-ke-79-presiden-prabowo-merasa-koperasi-adalah-keluarga"
     },
     {
+      "title": "Prabowo Presiden Mendorong Sinergi Koperasi dengan Seluruh Kekuatan Ekonomi Nasional - Suara Surabaya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:20:18 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-presiden-mendorong-sinergi-koperasi-dengan-seluruh-kekuatan-ekonomi-nasional/"
+    },
+    {
       "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - Presiden RI",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -140,6 +183,13 @@
       "link": "https://www.rmoljatim.id/harkopnas-2026-sri-untari-ingatkan-koperasi-jangan-hanya-jadi-program-pemerintah"
     },
     {
+      "title": "Penguatan Operasional Pelabuhan Gresik Jadi Sorotan BP BUMN Saat Kunjungan Kerja - memorandum.disway.id - Memorandum.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 12:13:00 GMT",
+      "link": "https://memorandum.disway.id/amp/163694/penguatan-operasional-pelabuhan-gresik-jadi-sorotan-bp-bumn-saat-kunjungan-kerja"
+    },
+    {
       "title": "Bupati Inhu Akhiri Roadshow di Kementerian Koperasi - metroriau.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -152,55 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 11:46:26 GMT",
       "link": "https://tribratanews.polri.go.id/blog/nasional-3/kapolri-dan-4-pimpinan-lembaga-hadiri-peringatan-puncak-harkopnas-2026-103566"
-    },
-    {
-      "title": "Kapolri dan 4 Pimpinan Lembaga Hadiri Peringatan Puncak Hark - Tribrata News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 11:43:00 GMT",
-      "link": "https://tribratanews.polri.go.id/blog/nasional-3/post/kapolri-dan-4-pimpinan-lembaga-hadiri-peringatan-puncak-harkopnas-2026-103566"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Desak Usut Tuntas Korupsi dan TPPU ASABRI, Selamatkan Potongan Gaji dan Hak Prajurit TNI-Polri - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 11:00:21 GMT",
-      "link": "https://aktual.com/rieke-diah-pitaloka-desak-usut-tuntas-korupsi-dan-tppu-asabri-selamatkan-potongan-gaji-dan-hak-prajurit-tni-polri/"
-    },
-    {
-      "title": "Prabowo merasa koperasi adalah keluarga saat hadiri Harkopnas ke-79 - ANTARA News Megapolitan",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:58:31 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/539859/prabowo-merasa-koperasi-adalah-keluarga-saat-hadiri-harkopnas-ke-79"
-    },
-    {
-      "title": "Pemkot Bogor Perkuat Dukungan Pengembangan Koperasi - Bogor24Update",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:57:25 GMT",
-      "link": "https://bogor24update.id/pemkot-bogor-perkuat-dukungan-pengembangan-koperasi/"
-    },
-    {
-      "title": "Kementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:54:15 GMT",
-      "link": "https://www.komdigi.go.id/berita/artikel-gpr/detail/menkop-kunjungi-rumah-bung-hatta-komitmen-lanjutkan-perjuangan-kembangkan-koperasi-nasional"
-    },
-    {
-      "title": "Kemenkop Siapkan PLTS Milik Koperasi di Kepulauan Riau, Ditargetkan Diresmikan Agustus - Bisnis.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:41:00 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260712/533/1987440/kemenkop-siapkan-plts-milik-koperasi-di-kepulauan-riau-ditargetkan-diresmikan-agustus"
-    },
-    {
-      "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - SinPo.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 10:39:00 GMT",
-      "link": "https://sinpo.id/detail/124166/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan"
     }
   ]
 }
