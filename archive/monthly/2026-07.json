@@ -1,20 +1,20 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T08:14:38.263843",
+  "generated_at": "2026-07-12T10:25:18.301490",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 52,
-    "Golkar": 7,
+    "Golkar": 8,
     "NasDem": 34,
     "PKB": 20,
-    "PKS": 30,
+    "PKS": 29,
     "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 48,
+    "Gerindra": 49,
     "PDI-P": 88,
-    "Golkar": 47,
+    "Golkar": 48,
     "NasDem": 37,
     "PKB": 38,
     "PKS": 48,
@@ -38,9 +38,9 @@
     "danantara": 37,
     "perdagangan": 17,
     "umkm": 6,
-    "investasi": 38,
+    "investasi": 39,
     "ekspor": 3,
-    "koperasi": 56,
+    "koperasi": 58,
     "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
@@ -52,7 +52,7 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 4,
     "Mulan Jameela": 3,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 13,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 11,
@@ -63,7 +63,7 @@
     "Ida Nurlaela": 10,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
-    "Nurdin Halid": 9,
+    "Nurdin Halid": 10,
     "Gde Sumarjaya Linggih": 7,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
@@ -93,10 +93,52 @@
   "early_warning_counts": {
     "Hukum/Audit": 39,
     "Kinerja BUMN": 30,
-    "Koperasi/UMKM": 54,
+    "Koperasi/UMKM": 55,
     "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Ingin Koperasi Bangkit! Menkop Tegaskan Kembali ke Amanat Pasal 33 UUD 1945 - DelikAsia.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 09:57:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/prabowo-ingin-koperasi-bangkit-menkop-tegaskan-kembali-ke-amanat-pasal-33-uud-1945"
+    },
+    {
+      "title": "Prabowo Optimistis Koperasi Akan Bangkit, Tak Bawa Uang Keluar Indonesia - kumparan.com - Kumparan",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 09:57:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/prabowo-optimistis-koperasi-akan-bangkit-tak-bawa-uang-keluar-indonesia-27m2JSLqQHp"
+    },
+    {
+      "title": "Menkop: 83 Ribu Kopdes Merah Putih Sudah Berbadan Hukum, 35 Ribu Unit Siap Beroperasi - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 09:27:21 GMT",
+      "link": "https://nasional.tvrinews.com/berita/txmg1qd-menkop-83-ribu-kopdes-merah-putih-sudah-berbadan-hukum-35-ribu-unit-siap-beroperasi"
+    },
+    {
+      "title": "15.845 Koperasi Desa Merah Putih Siap Beroperasi Agustus 2026 - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 09:24:20 GMT",
+      "link": "https://www.metrotvnews.com/read/bmRCY0OL-15-845-koperasi-desa-merah-putih-siap-beroperasi-agustus-2026"
+    },
+    {
+      "title": "Menkop sebut pembangunan 15.845 Koperasi Desa Merah Putih tuntas - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 08:41:29 GMT",
+      "link": "https://www.antaranews.com/berita/5646231/menkop-sebut-pembangunan-15845-koperasi-desa-merah-putih-tuntas"
+    },
+    {
+      "title": "Dekopin Apresiasi Perhatian Presiden Prabowo Terhadap Sektor Koperasi - publika.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 08:11:35 GMT",
+      "link": "https://www.publika.id/dekopin-apresiasi-perhatian-presiden-prabowo"
+    },
     {
       "title": "Kementerian Koperasi Siapkan Puluhan Ribu Koperasi Merah Putih - achmadnurhidayat.id",
       "entity": "Kementerian Koperasi",
@@ -140,6 +182,13 @@
       "link": "https://lentera.co/post/item/235804/Jangan-Cuma-Kejar-Kuantitas-Sri-Untari-Soroti-Persoalan-Gerakan-Koperasi-Indonesia"
     },
     {
+      "title": "Industri Semen Nasional Kelebihan Pasokan, DPR RI Bahas Investasi Baru di Sulsel - kabarika",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 06:07:16 GMT",
+      "link": "https://kabarika.id/berita/2026/07/12/industri-semen-nasional-kelebihan-pasokan-dpr-ri-bahas-investasi-baru-di-sulsel/"
+    },
+    {
       "title": "KSP dan KSPPS Dominasi Aset Koperasi, Kopdes Merah Putih Masih Tahap Awal - kontan.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -152,55 +201,6 @@
       "kind": "anggota",
       "published": "Sun, 12 Jul 2026 05:27:27 GMT",
       "link": "https://otoritas.co.id/anggota-dpr-ri-adisatrya-suryo-sulisto-resmikan-gedung-pkk-desa-karanggintung-perkuat-pemberdayaan-masyarakat/"
-    },
-    {
-      "title": "Prabowo Bakal Hadiri Acara Puncak Peringatan Hari Koperasi Nasional ke-79 - Suara Surabaya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:14:37 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-bakal-hadiri-acara-puncak-peringatan-hari-koperasi-nasional-ke-79/"
-    },
-    {
-      "title": "Prabowo Bakal Hadiri Acara Puncak Peringatan Hari Koperasi Nasional ke-79 - Suara Surabaya",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:14:37 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-bakal-hadiri-acara-puncak-peringatan-hari-koperasi-nasional-ke-79/"
-    },
-    {
-      "title": "Ekonom Konstitusi: Koperasi Harus Benar-benar Jadi Sokoguru Perekonomian RI - Kedai Pena",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:11:05 GMT",
-      "link": "https://www.kedaipena.com/ekonom-konstitusi-koperasi-harus-benar-benar-jadi-sokoguru-perekonomian-ri/"
-    },
-    {
-      "title": "Tasyakuran Hari Koperasi Indonesia Ke -79 Dekopinda Kabupaten Banyuwangi - JNN.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:11:04 GMT",
-      "link": "https://jnn.co.id/2026/07/12/tasyakuran-hari-koperasi-indonesia-ke-79-dekopinda-kabupaten-banyuwangi/"
-    },
-    {
-      "title": "OPINI: Menghidupkan Jiwa Koperasi di Desa - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:10:46 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260712/9/1987358/opini-menghidupkan-jiwa-koperasi-di-desa"
-    },
-    {
-      "title": "Pertumbuhan Laba BUMN Jadi Sinyal Positif bagi Perekonomian Nasional - Minews ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:01:50 GMT",
-      "link": "https://minews.id/news/pertumbuhan-laba-bumn-jadi-sinyal-positif-bagi-perekonomian-nasional"
-    },
-    {
-      "title": "Kemenkop Lakukan Evaluasi Tata Letak Bangunan Koperasi Desa Merah Putih Guna Optimalkan Ekonomi Warga - beritanasionalupdate.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 03:04:28 GMT",
-      "link": "https://beritanasionalupdate.com/news/details/1422/kemenkop-lakukan-evaluasi-tata-letak-bangunan-koperasi-desa-merah-putih-guna-optimalkan-ekonomi-warga"
     }
   ]
 }
