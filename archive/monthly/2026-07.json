@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T19:01:55.753597",
+  "generated_at": "2026-07-12T20:42:24.103625",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 53,
@@ -15,7 +15,7 @@
     "Gerindra": 49,
     "PDI-P": 89,
     "Golkar": 49,
-    "NasDem": 37,
+    "NasDem": 38,
     "PKB": 38,
     "PKS": 48,
     "PAN": 17,
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 63,
     "danantara": 37,
-    "perdagangan": 17,
+    "perdagangan": 16,
     "umkm": 6,
-    "investasi": 37,
-    "ekspor": 3,
+    "investasi": 36,
     "koperasi": 56,
+    "ekspor": 2,
     "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
@@ -72,7 +72,7 @@
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
-    "I Nengah Senantara": 4,
+    "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
@@ -93,11 +93,32 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 42,
-    "Kinerja BUMN": 30,
+    "Kinerja BUMN": 31,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 25
+    "Perdagangan": 24
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Dukung Batam Prime International Grassroot Football Festival 2026 - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 18:16:55 GMT",
+      "link": "https://metropolis.batampos.co.id/bp-batam-dukung-batam-prime-international-grassroot-football-festival-2026/"
+    },
+    {
+      "title": "Kemendag Buka Pendaftaran Mengikuti Saudi Fashion & Tex Expo 2026 - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 17:31:54 GMT",
+      "link": "https://www.niaga.asia/kemendag-buka-pendaftaran-mengikuti-saudi-fashion-tex-expo-2026/"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 17:29:43 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260713/Mjc0NDQ0"
+    },
     {
       "title": "Prabowo Subianto: \"Yang Meragukan Koperasi Merah Putih Silahkan Cari Negara Lain!\" - Indonesia Satu",
       "entity": "Dekopin",
@@ -118,6 +139,20 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 15:05:00 GMT",
       "link": "https://rejogja.republika.co.id/berita/ti2fd3291/ziarah-makam-bung-hatta-dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-estafet-generasi-muda"
+    },
+    {
+      "title": "[TRANSKRIP] Peringatan Hari Koperasi Nasional Ke-79 Tahun 2026 - Presiden RI",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 14:53:29 GMT",
+      "link": "https://presidenri.go.id/transkrip/peringatan-hari-koperasi-nasional-ke-79-tahun-2026/"
+    },
+    {
+      "title": "92,9 persen anggaran BPIP untuk birokrasi, Rieke Diah Pitaloka soroti ketimpangan prioritas - MSN",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 14:46:22 GMT",
+      "link": "https://www.msn.com/id-id/berita/other/92-9-persen-anggaran-bpip-untuk-birokrasi-rieke-diah-pitaloka-soroti-ketimpangan-prioritas/ar-AA25DrUi?cvid=bfa5c5df28ac45c2a08bd81ba9fa3e0c&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1"
     },
     {
       "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
@@ -162,46 +197,11 @@
       "link": "https://gorontalo.antaranews.com/berita/413455/presiden-prabowo-hadiri-perayaan-harkopnas-ke-79"
     },
     {
-      "title": "Menteri: 15.845 Koperasi Desa Merah Putih Rampung Dibangun - Tempo.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:25:01 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-15-845-koperasi-desa-merah-putih-rampung-dibangun-2275325/"
-    },
-    {
-      "title": "Menteri: 15.845 Koperasi Desa Merah Putih Rampung Dibangun - Tempo.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:25:01 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-15-845-koperasi-desa-merah-putih-rampung-dibangun-2275325"
-    },
-    {
-      "title": "Pemerintah Segera Tertibkan BUMN-BUMN Sumber Korupsi - Tirto.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:25:00 GMT",
-      "link": "https://tirto.id/pemerintah-segera-tertibkan-bumn-sumber-korupsi-hzyV"
-    },
-    {
-      "title": "Di Harkopnas ke-79, Presiden Prabowo merasa koperasi adalah keluarga - ANTARA News Bangka Belitung",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:22:52 GMT",
-      "link": "https://babel.antaranews.com/berita/571636/di-harkopnas-ke-79-presiden-prabowo-merasa-koperasi-adalah-keluarga"
-    },
-    {
-      "title": "Prabowo Presiden Mendorong Sinergi Koperasi dengan Seluruh Kekuatan Ekonomi Nasional - Suara Surabaya",
+      "title": "Wamenko Otto Hadiri Puncak Harkopnas ke-79, Pemerintah Perkuat Dukungan bagi Gerakan Koperasi - kumham-imipas.go.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:20:18 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/prabowo-presiden-mendorong-sinergi-koperasi-dengan-seluruh-kekuatan-ekonomi-nasional/"
-    },
-    {
-      "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - Presiden RI",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 12:19:39 GMT",
-      "link": "https://presidenri.go.id/siaran-pers/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan/"
+      "published": "Sun, 12 Jul 2026 12:28:02 GMT",
+      "link": "https://kumham-imipas.go.id/ruang-berita/berita-list/wamenko-otto-hadiri-puncak-harkopnas-ke-79-pemerintah-perkuat-dukungan-bagi-gerakan-koperasi"
     }
   ]
 }
