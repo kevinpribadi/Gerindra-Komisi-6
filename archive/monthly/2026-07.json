@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-11T23:53:47.916171",
+  "generated_at": "2026-07-12T02:32:11.272343",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 49,
+    "PDI-P": 51,
     "Golkar": 7,
     "NasDem": 34,
     "PKB": 20,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 48,
-    "PDI-P": 85,
+    "PDI-P": 87,
     "Golkar": 46,
     "NasDem": 38,
     "PKB": 38,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 62,
     "danantara": 37,
     "perdagangan": 17,
     "umkm": 6,
@@ -54,9 +54,9 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 12,
     "Mulyadi": 8,
-    "Adisatrya Suryo Sulisto": 15,
+    "Adisatrya Suryo Sulisto": 16,
     "Mufti Anam": 11,
-    "Darmadi Durianto": 15,
+    "Darmadi Durianto": 16,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
@@ -91,12 +91,40 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 38,
-    "Kinerja BUMN": 29,
+    "Hukum/Audit": 39,
+    "Kinerja BUMN": 30,
     "Koperasi/UMKM": 55,
-    "Perdagangan": 28
+    "Perdagangan": 27
   },
   "top_headlines": [
+    {
+      "title": "KOPERASI INDONESIA MASIH TERSINGKIR DARI LINTAS BISNIS MODERN - Berlian Media",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 01:47:20 GMT",
+      "link": "https://berlianmedia.com/koperasi-indonesia-masih-tersingkir-dari-lintas-bisnis-modern/"
+    },
+    {
+      "title": "Kekebalan Hukum bagi Pembeli Surat Utang Danantara - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 01:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/pencucian-uang-surat-utang-danantara-2275158"
+    },
+    {
+      "title": "Aset Menganggur Rp3,7 Triliun Jadi Alarm Perumnas, Darmadi Durianto Desak Standarisasi Proyek TOD untuk Selamatkan Kinerja BUMN - Bela Rakyat",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 00:35:31 GMT",
+      "link": "https://belarakyat.com/aset-menganggur-rp37-triliun-jadi-alarm-perumnas-darmadi-durianto-desak-standarisasi-proyek-tod-untuk-selamatkan-kinerja-bumn/"
+    },
+    {
+      "title": "Harkopnas ke-79, Menkop Ferry Ajak Lanjutkan Perjuangan Bung Hatta untuk Koperasi Indonesia - Suara Pemerintah",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 23:47:36 GMT",
+      "link": "https://suarapemerintah.id/2026/07/harkopnas-ke-79-menkop-ferry-ajak-lanjutkan-perjuangan-bung-hatta-untuk-koperasi-indonesia/"
+    },
     {
       "title": "Investigasi DPR: Skema Bisnis Perumnas–Telkomsel Dipertanyakan, Komisi VI Desak Transparansi Profit Sharing demi Selamatkan BUMN - Bela Rakyat",
       "entity": "Darmadi Durianto",
@@ -165,42 +193,14 @@
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Sat, 11 Jul 2026 14:28:43 GMT",
+      "link": "https://www.jpnn.com/news/kerja-sama-kppu-kpk-dinilai-jadi-langkah-maju-pemberantasan-korupsi"
+    },
+    {
+      "title": "Kerja Sama KPPU-KPK Dinilai Jadi Langkah Maju Pemberantasan Korupsi - JPNN.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 11 Jul 2026 14:28:43 GMT",
       "link": "https://m.jpnn.com/news/kerja-sama-kppu-kpk-dinilai-jadi-langkah-maju-pemberantasan-korupsi"
-    },
-    {
-      "title": "Danantara dan Latitude Energy Jajaki Proyek Gasifikasi Batu Bara Pertama di Indonesia - Ecobiz Asia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 14:16:01 GMT",
-      "link": "https://ecobiz.asia/danantara-dan-latitude-energy-jajaki-proyek-gasifikasi-batu-bara-pertama-di-indonesia/"
-    },
-    {
-      "title": "Adisatrya Sulisto Desak Pemerintah Perkuat Regulasi yang Mengatur JP dan JHT ASN PPPK - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sat, 11 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-sulisto-desak-pemerintah-perkuat-regulasi-yang-mengatur-jp-dan-jht-asn-pppk-b2pWLZbguk"
-    },
-    {
-      "title": "Harkopnas ke-79, Sekda Kota Bogor Ajak Koperasi Tingkatkan Profesionalisme dan Adaptasi Teknologi - suaraindonesia-news.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 12:54:54 GMT",
-      "link": "https://suaraindonesia-news.com/harkopnas-ke-79-sekda-kota-bogor-ajak-koperasi-tingkatkan-profesionalisme-dan-adaptasi-teknologi/"
-    },
-    {
-      "title": "Ketua Dekopinwil Jateng Dampingi Sekda Buka Peringatan Hari Koperasi ke-79 di Surakarta, Tegaskan Koperasi Harus Kembali kepada Jati Diri - Berlian Media",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 12:44:11 GMT",
-      "link": "https://berlianmedia.com/ketua-dekopinwil-jateng-dampingi-sekda-buka-peringatan-hari-koperasi-ke-79-di-surakarta-tegaskan-koperasi-harus-kembali-kepada-jati-diri/"
-    },
-    {
-      "title": "Kemenkop Evaluasi Lokasi Bangunan Koperasi Desa Merah Putih - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 11 Jul 2026 12:20:20 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-evaluasi-bangunan-kopdeskel-merah-putih"
     }
   ]
 }
