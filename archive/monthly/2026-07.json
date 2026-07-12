@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T22:44:10.326559",
+  "generated_at": "2026-07-12T23:51:29.149903",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 53,
@@ -29,7 +29,7 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 17,
+    "BPK Sabang": 18,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
@@ -98,6 +98,13 @@
     "Perdagangan": 25
   },
   "top_headlines": [
+    {
+      "title": "Gerak Jalan Sehat Harkopnas, Ketua DPRD Bogor apresiasi peran koperasi - ANTARA News Megapolitan",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 22:46:44 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/539897/gerak-jalan-sehat-harkopnas-ketua-dprd-bogor-apresiasi-peran-koperasi"
+    },
     {
       "title": "Jalur Dalam Negeri Pencucian Hasil Kejahatan Sumber Daya Alam - Betahita",
       "entity": "Danantara",
@@ -190,18 +197,11 @@
       "link": "https://bisnis.tempo.co/read/2113269/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang"
     },
     {
-      "title": "Legislator Minta BNI Bongkar Akar Dugaan Korupsi KUR di Jember - merahputih.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 13:05:31 GMT",
-      "link": "https://www.merahputih.com/post/amp/kepercayaan-publik-dipertaruhkan-legislator-minta-bni-bongkar-akar-dugaan-korupsi-kur-di-jember"
-    },
-    {
-      "title": "Dekopin: Koperasi Kembali Jadi Prioritas pada Era Prabowo setelah Tiga Dekade Terpinggirkan - Kabar24",
-      "entity": "Dekopin",
+      "title": "Konektivitas Sabang-Andaman, Ini Catatan Kritis Dr. Fachrul Razi untuk Pemerintah - Pewarta Indonesia",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 13:00:59 GMT",
-      "link": "https://kabar24.bisnis.com/read/20260712/15/1987488/dekopin-koperasi-kembali-jadi-prioritas-pada-era-prabowo-setelah-tiga-dekade-terpinggirkan"
+      "published": "Sun, 12 Jul 2026 13:07:14 GMT",
+      "link": "https://pewarta-indonesia.com/2026/07/konektivitas-sabang-andaman-ini-catatan-kritis-dr-fachrul-razi-untuk-pemerintah/?amp=1"
     }
   ]
 }
