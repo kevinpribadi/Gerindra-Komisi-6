@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T10:25:18.301490",
+  "generated_at": "2026-07-12T11:57:40.081156",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 52,
     "Golkar": 8,
     "NasDem": 34,
     "PKB": 20,
-    "PKS": 29,
+    "PKS": 28,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
+    "bumn": 63,
     "danantara": 37,
     "perdagangan": 17,
     "umkm": 6,
-    "investasi": 39,
+    "investasi": 36,
     "ekspor": 3,
-    "koperasi": 58,
+    "koperasi": 57,
     "kartel-monopoli": 5,
     "ipo": 1,
     "merger-akuisisi": 2,
@@ -91,12 +91,68 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 39,
+    "Hukum/Audit": 41,
     "Kinerja BUMN": 30,
     "Koperasi/UMKM": 55,
     "Perdagangan": 26
   },
   "top_headlines": [
+    {
+      "title": "Kapolri dan 4 Pimpinan Lembaga Hadiri Peringatan Puncak Hark - Tribrata News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 11:43:00 GMT",
+      "link": "https://tribratanews.polri.go.id/blog/nasional-3/post/kapolri-dan-4-pimpinan-lembaga-hadiri-peringatan-puncak-harkopnas-2026-103566"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Desak Usut Tuntas Korupsi dan TPPU ASABRI, Selamatkan Potongan Gaji dan Hak Prajurit TNI-Polri - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 11:00:21 GMT",
+      "link": "https://aktual.com/rieke-diah-pitaloka-desak-usut-tuntas-korupsi-dan-tppu-asabri-selamatkan-potongan-gaji-dan-hak-prajurit-tni-polri/"
+    },
+    {
+      "title": "Prabowo merasa koperasi adalah keluarga saat hadiri Harkopnas ke-79 - ANTARA News Megapolitan",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:58:31 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/539859/prabowo-merasa-koperasi-adalah-keluarga-saat-hadiri-harkopnas-ke-79"
+    },
+    {
+      "title": "Pemkot Bogor Perkuat Dukungan Pengembangan Koperasi - Bogor24Update",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:57:25 GMT",
+      "link": "https://bogor24update.id/pemkot-bogor-perkuat-dukungan-pengembangan-koperasi/"
+    },
+    {
+      "title": "Kementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:54:15 GMT",
+      "link": "https://www.komdigi.go.id/berita/artikel-gpr/detail/menkop-kunjungi-rumah-bung-hatta-komitmen-lanjutkan-perjuangan-kembangkan-koperasi-nasional"
+    },
+    {
+      "title": "Kemenkop Siapkan PLTS Milik Koperasi di Kepulauan Riau, Ditargetkan Diresmikan Agustus - Bisnis.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:41:00 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260712/533/1987440/kemenkop-siapkan-plts-milik-koperasi-di-kepulauan-riau-ditargetkan-diresmikan-agustus"
+    },
+    {
+      "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - SinPo.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:39:00 GMT",
+      "link": "https://sinpo.id/detail/124166/hadiri-puncak-hari-koperasi-ke-79-presiden-prabowo-tegaskan-koperasi-pilar-utama-ekonomi-kerakyatan"
+    },
+    {
+      "title": "Presiden Berkomitmen Berantas Korupsi di BUMN - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 10:35:41 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/910084/presiden-berkomitmen-berantas-korupsi-di-bumn"
+    },
     {
       "title": "Prabowo Ingin Koperasi Bangkit! Menkop Tegaskan Kembali ke Amanat Pasal 33 UUD 1945 - DelikAsia.com",
       "entity": "Kementerian Koperasi",
@@ -110,6 +166,13 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 09:57:00 GMT",
       "link": "https://kumparan.com/kumparanbisnis/prabowo-optimistis-koperasi-akan-bangkit-tak-bawa-uang-keluar-indonesia-27m2JSLqQHp"
+    },
+    {
+      "title": "Wafatnya Rachmat Gobel, Dasco: Beliau Mengabdikan Hidup untuk Indonesia - Gerindra",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sun, 12 Jul 2026 09:34:36 GMT",
+      "link": "https://gerindra.id/2026/07/12/wafatnya-rachmat-gobel-dasco-beliau-mengabdikan-hidup-untuk-indonesia/"
     },
     {
       "title": "Menkop: 83 Ribu Kopdes Merah Putih Sudah Berbadan Hukum, 35 Ribu Unit Siap Beroperasi - TVRI News",
@@ -126,81 +189,18 @@
       "link": "https://www.metrotvnews.com/read/bmRCY0OL-15-845-koperasi-desa-merah-putih-siap-beroperasi-agustus-2026"
     },
     {
-      "title": "Menkop sebut pembangunan 15.845 Koperasi Desa Merah Putih tuntas - ANTARA News",
+      "title": "Menkop: UU Perkoperasian Baru Segera Hadir, Perkuat Gerakan Koperasi Nasional - TVRI News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 08:41:29 GMT",
-      "link": "https://www.antaranews.com/berita/5646231/menkop-sebut-pembangunan-15845-koperasi-desa-merah-putih-tuntas"
+      "published": "Sun, 12 Jul 2026 09:16:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t0pj9w4-menkop-uu-perkoperasian-baru-segera-hadir-perkuat-gerakan-koperasi-nasional"
     },
     {
-      "title": "Dekopin Apresiasi Perhatian Presiden Prabowo Terhadap Sektor Koperasi - publika.id",
+      "title": "Menkop: UU Perkoperasian Baru Segera Hadir, Perkuat Gerakan Koperasi Nasional - TVRI News",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 08:11:35 GMT",
-      "link": "https://www.publika.id/dekopin-apresiasi-perhatian-presiden-prabowo"
-    },
-    {
-      "title": "Kementerian Koperasi Siapkan Puluhan Ribu Koperasi Merah Putih - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 08:09:24 GMT",
-      "link": "https://achmadnurhidayat.id/kementerian-koperasi-siapkan-koperasi-merah-putih"
-    },
-    {
-      "title": "Ketum Dekopin: Baru di Era Presiden Prabowo Gerakan Koperasi Dapat Perhatian - detikNews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 08:04:47 GMT",
-      "link": "https://news.detik.com/berita/d-8570624/ketum-dekopin-baru-di-era-presiden-prabowo-gerakan-koperasi-dapat-perhatian"
-    },
-    {
-      "title": "Prabowo Hadiri Puncak Hari Koperasi Nasional Ke-79 - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 07:27:19 GMT",
-      "link": "https://news.detik.com/berita/d-8570573/prabowo-hadiri-puncak-hari-koperasi-nasional-ke-79"
-    },
-    {
-      "title": "Prabowo Hadiri Puncak Hari Koperasi Nasional Ke-79 - detikNews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 07:27:19 GMT",
-      "link": "https://news.detik.com/berita/d-8570573/prabowo-hadiri-puncak-hari-koperasi-nasional-ke-79"
-    },
-    {
-      "title": "Belajar dari Kegagalan KUD, Dosen UMM Ingatkan KDMP Harus Berbasis Pemberdayaan Desa - PWMU.CO",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 06:44:20 GMT",
-      "link": "https://pwmu.co/belajar-dari-kegagalan-kud-dosen-umm-ingatkan-kdmp-harus-berbasis-pemberdayaan-desa/"
-    },
-    {
-      "title": "Jangan Cuma Kejar Kuantitas, Sri Untari Soroti Persoalan Gerakan Koperasi Indonesia - Lentera.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 06:19:38 GMT",
-      "link": "https://lentera.co/post/item/235804/Jangan-Cuma-Kejar-Kuantitas-Sri-Untari-Soroti-Persoalan-Gerakan-Koperasi-Indonesia"
-    },
-    {
-      "title": "Industri Semen Nasional Kelebihan Pasokan, DPR RI Bahas Investasi Baru di Sulsel - kabarika",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 06:07:16 GMT",
-      "link": "https://kabarika.id/berita/2026/07/12/industri-semen-nasional-kelebihan-pasokan-dpr-ri-bahas-investasi-baru-di-sulsel/"
-    },
-    {
-      "title": "KSP dan KSPPS Dominasi Aset Koperasi, Kopdes Merah Putih Masih Tahap Awal - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 05:58:11 GMT",
-      "link": "https://nasional.kontan.co.id/news/ksp-dan-kspps-dominasi-aset-koperasi-kopdes-merah-putih-masih-tahap-awal"
-    },
-    {
-      "title": "Anggota DPR RI Adisatrya Suryo Sulisto Resmikan Gedung PKK Desa Karanggintung, Perkuat Pemberdayaan Masyarakat - otoritas.co.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 05:27:27 GMT",
-      "link": "https://otoritas.co.id/anggota-dpr-ri-adisatrya-suryo-sulisto-resmikan-gedung-pkk-desa-karanggintung-perkuat-pemberdayaan-masyarakat/"
+      "published": "Sun, 12 Jul 2026 09:16:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t0pj9w4-menkop-uu-perkoperasian-baru-segera-hadir-perkuat-gerakan-koperasi-nasional"
     }
   ]
 }
