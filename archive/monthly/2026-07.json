@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-13T16:30:54.826287",
+  "generated_at": "2026-07-13T18:42:18.375120",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 54,
-    "Golkar": 11,
+    "Golkar": 12,
     "NasDem": 30,
-    "PKB": 21,
+    "PKB": 22,
     "PKS": 19,
     "PAN": 4,
     "Demokrat": 5
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 49,
     "PDI-P": 89,
-    "Golkar": 57,
+    "Golkar": 58,
     "NasDem": 39,
-    "PKB": 39,
+    "PKB": 40,
     "PKS": 50,
     "PAN": 16,
     "Demokrat": 16
@@ -38,14 +38,14 @@
     "danantara": 40,
     "perdagangan": 12,
     "ekspor": 4,
-    "investasi": 34,
+    "investasi": 33,
     "umkm": 6,
-    "koperasi": 58,
+    "koperasi": 59,
     "kartel-monopoli": 5,
     "ipo": 2,
     "merger-akuisisi": 2,
     "dividen": 1,
-    "impor": 2
+    "impor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -63,7 +63,7 @@
     "Ida Nurlaela": 12,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 13,
+    "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
@@ -76,7 +76,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
-    "Anggia Erma Rini": 4,
+    "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
@@ -92,12 +92,26 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
+    "Kinerja BUMN": 26,
     "Hukum/Audit": 41,
-    "Perdagangan": 27,
-    "Koperasi/UMKM": 59
+    "Perdagangan": 29,
+    "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 17:19:04 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260714/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 17:16:04 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260714/OTYy"
+    },
     {
       "title": "Sarmuji: Pesan Prabowo Soal Pengkhianat! Warning Keras, Jangan Rusak Demokrasi! - RMBanten",
       "entity": "Muhammad Sarmuji",
@@ -106,11 +120,25 @@
       "link": "https://rmbanten.com/berita/soal-pengkhianat-sarmuji-pesan-prabowo-warning-keras-yang-kalah-jangan-rusak-demokrasi-2"
     },
     {
+      "title": "Komisi VI DPR tinjau Phapros dorong substitusi bahan baku obat impor - ANTARA News",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Mon, 13 Jul 2026 15:14:55 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5648000/komisi-vi-dpr-tinjau-phapros-dorong-substitusi-bahan-baku-obat-impor"
+    },
+    {
       "title": "Transformasi Koperasi: Dari Usaha Kecil ke Pilar Ekonomi Nasional - vibizmedia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 14:39:21 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/07/13/transformasi-koperasi-dari-usaha-kecil-ke-pilar-ekonomi-nasional/"
+    },
+    {
+      "title": "Prabowo Optimistis KDKMP Putar Ekonomi hingga Rp223 Triliun, Usung Konsep 'Indonesia Incorporated' - ketik.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 13:31:00 GMT",
+      "link": "https://ketik.com/amp/prabowo-optimistis-kdkmp-putar-ekonomi-hingga-rp223-triliun-usung-konsep-indonesia-incorporated"
     },
     {
       "title": "Menteri Perdagangan India Mengklaim Perundingan Dagang AS-India Berjalan Lancar - kontan.co.id",
@@ -155,6 +183,13 @@
       "link": "https://olenka.id/agenda-perampingan-bumn-dinilai-jadi-langkah-tepat-untuk-perkuat-daya-saing-korporasi-negara"
     },
     {
+      "title": "LPDB Koperasi Perkuat Akses Pembiayaan dan Tampilkan KDKMP Unggulan di Puncak Harkopnas Ke-79 - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 11:48:52 GMT",
+      "link": "https://indoposco.id/2026/07/13/lpdb-koperasi-perkuat-akses-pembiayaan-dan-tampilkan-kdkmp-unggulan-di-puncak-harkopnas-ke-79/"
+    },
+    {
       "title": "Rizki Faisal Dorong Penerapan FTZ Bertahap di Seluruh Kepri untuk Perkuat Ekonomi Kepulauan - Fraksi Golkar",
       "entity": "Rizki Faisal",
       "kind": "anggota",
@@ -167,41 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 11:31:00 GMT",
       "link": "https://www.hariansib.com/Medan-Sekitarnya/446902/gopprera-panggabean-terpilih-sebagai-ketua-kppu-periode-20262029/"
-    },
-    {
-      "title": "Modernisasi TPK Batu Ampar, Langkah Strategis BP Batam Wujudkan Batam sebagai Hub Logistik Internasiona - katasiber.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 11:28:18 GMT",
-      "link": "https://katasiber.id/2026/07/13/modernisasi-tpk-batu-ampar-langkah-strategis-bp-batam-wujudkan-batam-sebagai-hub-logistik-internasiona/"
-    },
-    {
-      "title": "DPRD Kotim dorong penguatan dukungan untuk koperasi - ANTARA News Kalteng",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 11:26:40 GMT",
-      "link": "https://kalteng.antaranews.com/berita/834495/dprd-kotim-dorong-penguatan-dukungan-untuk-koperasi"
-    },
-    {
-      "title": "Kementerian Kebudayaan Gandeng BPI Danantara, Siapkan Tiga Museum... - Langit7.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 11:22:00 GMT",
-      "link": "https://langit7.id/read/59965/1/kementerian-kebudayaan-gandeng-bpi-danantara-siapkan-tiga-museum-baru-di-indonesia-1783940847"
-    },
-    {
-      "title": "Danantara Garap 26 Proyek Senilai Rp225 Triliun Serap 37.833 Tenaga Kerja - waspada.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 11:06:00 GMT",
-      "link": "https://waspada.id/berita/danantara-garap-26-proyek-senilai-rp225-triliun-serap-37-833-tenaga-kerja"
-    },
-    {
-      "title": "Koperasi Merah Putih Garap Industri CPO, Pabrik Perdana Beroperasi Agustus - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 10:27:03 GMT",
-      "link": "https://haisawit.co.id/news/detail/koperasi-merah-putih-garap-industri-cpo-pabrik-perdana-beroperasi-agustus"
     }
   ]
 }
