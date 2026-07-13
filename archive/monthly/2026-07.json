@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-12T23:51:29.149903",
+  "generated_at": "2026-07-13T02:33:45.107238",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 53,
+    "PDI-P": 54,
     "Golkar": 7,
     "NasDem": 34,
-    "PKB": 21,
-    "PKS": 24,
+    "PKB": 22,
+    "PKS": 23,
     "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 89,
-    "Golkar": 49,
+    "PDI-P": 90,
+    "Golkar": 51,
     "NasDem": 38,
-    "PKB": 38,
-    "PKS": 49,
+    "PKB": 39,
+    "PKS": 50,
     "PAN": 17,
     "Demokrat": 16
   },
@@ -29,23 +29,23 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 18,
+    "BPK Sabang": 19,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 63,
     "danantara": 37,
+    "investasi": 38,
     "perdagangan": 16,
     "umkm": 6,
-    "investasi": 36,
     "koperasi": 56,
     "ekspor": 2,
     "kartel-monopoli": 5,
     "ipo": 2,
     "merger-akuisisi": 2,
     "dividen": 1,
-    "impor": 1
+    "impor": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -56,27 +56,27 @@
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 11,
-    "Darmadi Durianto": 16,
+    "Darmadi Durianto": 17,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 6,
     "Ida Nurlaela": 11,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
-    "Nurdin Halid": 10,
+    "Nurdin Halid": 11,
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 9,
-    "Muhammad Sarmuji": 7,
+    "Muhammad Sarmuji": 8,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
-    "Anggia Erma Rini": 3,
+    "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
@@ -84,7 +84,7 @@
     "Amin Ak.": 16,
     "Rizal Bawazier": 13,
     "Ghufran": 2,
-    "Ismail": 18,
+    "Ismail": 19,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Iskandar": 4,
@@ -95,9 +95,100 @@
     "Hukum/Audit": 43,
     "Kinerja BUMN": 31,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 25
+    "Perdagangan": 27
   },
   "top_headlines": [
+    {
+      "title": "Optimalkan Potensi Perdagangan dan Investasi, RI-Maroko Perkuat Kemitraan Ekonomi Strategis - VIVA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:23:26 GMT",
+      "link": "https://www.viva.co.id/bisnis/1913047-optimalkan-potensi-perdagangan-dan-investasi-ri-maroko-perkuat-kemitraan-ekonomi-strategis"
+    },
+    {
+      "title": "Kemenkop: Koperasi Kini Bisa Kelola Tambang hingga Sumur Minyak Rakyat - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:10:01 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260713/9/1987434/kemenkop-koperasi-kini-bisa-kelola-tambang-hingga-sumur-minyak-rakyat"
+    },
+    {
+      "title": "Konektivitas Sabang-Andaman, Ini Catatan Kritis, Fachrul Razi Untuk Pemerintah - Kontras Aceh",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:05:30 GMT",
+      "link": "https://www.kontrasaceh.net/2026/07/13/konektivitas-sabang-andaman-ini-catatan-kritis-fachrul-razi-untuk-pemerintah/"
+    },
+    {
+      "title": "Kemenkop Bangun PLTS di Pulau Galang, Koperasi Go Green! - Listrik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 01:30:00 GMT",
+      "link": "https://listrikindonesia.com/detail/20609/kemenkop-siapkan-plts-untuk-koperasi"
+    },
+    {
+      "title": "Akhiri Masa Jabatan, Fanshurullah Asa Tinggalkan Fondasi Penguatan Penegakan Hukum dan Persaingan Usaha - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 01:28:00 GMT",
+      "link": "https://www.waspada.id/berita/akhiri-masa-jabatan-fanshurullah-asa-tinggalkan-fondasi-penguatan-penegakan-hukum-dan-persaingan-usaha"
+    },
+    {
+      "title": "Semester I 2026, KPPU Jatuhkan Sanksi Rp766,5 Miliar - Langgam.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 01:18:00 GMT",
+      "link": "https://langgam.id/semester-i-2026-kppu-jatuhkan-sanksi-rp7665-miliar/"
+    },
+    {
+      "title": "Presiden Prabowo Hadiri Puncak Peringatan Hari Koperasi ke-79, Dorong Koperasi Jadi Pilar Ekonomi Kerakyatan - Sekretariat Kabinet Republik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 01:16:26 GMT",
+      "link": "https://setkab.go.id/presiden-prabowo-hadiri-puncak-peringatan-hari-koperasi-ke-79-dorong-koperasi-jadi-pilar-ekonomi-kerakyatan/"
+    },
+    {
+      "title": "Presiden Prabowo Hadiri Puncak Peringatan Hari Koperasi ke-79, Dorong Koperasi Jadi Pilar Ekonomi Kerakyatan - Sekretariat Kabinet Republik Indonesia",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 01:16:26 GMT",
+      "link": "https://setkab.go.id/presiden-prabowo-hadiri-puncak-peringatan-hari-koperasi-ke-79-dorong-koperasi-jadi-pilar-ekonomi-kerakyatan/"
+    },
+    {
+      "title": "Ismail Bachtiar Soroti Krisis Surplus Semen Nasional: Investasi Harus Jalan, Industri Lama Jangan Jadi Korban - Bela Rakyat",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Mon, 13 Jul 2026 00:31:02 GMT",
+      "link": "https://belarakyat.com/ismail-bachtiar-soroti-krisis-surplus-semen-nasional-investasi-harus-jalan-industri-lama-jangan-jadi-korban/"
+    },
+    {
+      "title": "Ketergantungan 95 Persen Bahan Baku Obat Impor Jadi Alarm, Ketua Komisi VI DPR RI Anggia Erma Rini Desak Kedaulatan Farmasi Nasional - Bela Rakyat",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Mon, 13 Jul 2026 00:21:00 GMT",
+      "link": "https://belarakyat.com/ketergantungan-95-persen-bahan-baku-obat-impor-jadi-alarm-ketua-komisi-vi-dpr-ri-anggia-erma-rini-desak-kedaulatan-farmasi-nasional/"
+    },
+    {
+      "title": "Rosan Presiden Prabowo Jadikan Danantara Jadi Mitra Strategis yang Diburu Investor Asing - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 00:16:45 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/910226/rosan-presiden-prabowo-jadikan-danantara-jadi-mitra-strategis-yang-diburu-investor-asing"
+    },
+    {
+      "title": "DPR Puji BRI Sukses Transformasi Perbankan - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 13 Jul 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/317443/dpr-puji-bri-sukses-transformasi-perbankan"
+    },
+    {
+      "title": "Hackathon Digital Cooperatives 2026 Cetak Tiga Inovasi Terbaik - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 12 Jul 2026 23:53:13 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/114758/hackathon-digital-cooperatives-2026-cetak-tiga-inovasi-terbaik"
+    },
     {
       "title": "Gerak Jalan Sehat Harkopnas, Ketua DPRD Bogor apresiasi peran koperasi - ANTARA News Megapolitan",
       "entity": "Dekopin",
@@ -111,97 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 12 Jul 2026 22:00:11 GMT",
       "link": "https://www.betahita.id/opini/12180/jalur-dalam-negeri-pencucian-hasil-kejahatan-sumber-daya-alam"
-    },
-    {
-      "title": "Modernisasi Koperasi Sasar Gen Z di Era Modernisasi Digital - Pikiran Rakyat Koran",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 22:00:00 GMT",
-      "link": "https://koran.pikiran-rakyat.com/news/pr-30310330042/modernisasi-koperasi-sasar-gen-z-di-era-modernisasi-digital"
-    },
-    {
-      "title": "BP Batam Dukung Batam Prime International Grassroot Football Festival 2026 - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 18:16:55 GMT",
-      "link": "https://metropolis.batampos.co.id/bp-batam-dukung-batam-prime-international-grassroot-football-festival-2026/"
-    },
-    {
-      "title": "Kemendag Buka Pendaftaran Mengikuti Saudi Fashion & Tex Expo 2026 - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 17:31:54 GMT",
-      "link": "https://www.niaga.asia/kemendag-buka-pendaftaran-mengikuti-saudi-fashion-tex-expo-2026/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 17:29:43 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260713/Mjc0NDQ0"
-    },
-    {
-      "title": "Prabowo Subianto: \"Yang Meragukan Koperasi Merah Putih Silahkan Cari Negara Lain!\" - Indonesia Satu",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 15:59:00 GMT",
-      "link": "https://indonesiasatu.co/detail/prabowo-subianto---yang-meragukan-koperasi-merah-putih-silahkan-cari-negara-lain--"
-    },
-    {
-      "title": "Surplus Semen Harus Diselesaikan Tanpa Mengorbankan Industri - Ipol.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 15:27:51 GMT",
-      "link": "https://ipol.id/2026/07/surplus-semen-harus-diselesaikan-tanpa-mengorbankan-industri/"
-    },
-    {
-      "title": "Pertumbuhan Laba BUMN Jadi Sinyal Positif bagi Perekonomian Nasional - Deliknews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 15:19:00 GMT",
-      "link": "https://www.deliknews.com/2026/07/12/pertumbuhan-laba-bumn-jadi-sinyal-positif-bagi-perekonomian-nasional/"
-    },
-    {
-      "title": "Ziarah Makam Bung Hatta, Dekopin Tegaskan Komitmen Modernisasi Koperasi Lewat Estafet Generasi Muda - republika.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 15:05:00 GMT",
-      "link": "https://rejogja.republika.co.id/berita/ti2fd3291/ziarah-makam-bung-hatta-dekopin-tegaskan-komitmen-modernisasi-koperasi-lewat-estafet-generasi-muda"
-    },
-    {
-      "title": "[TRANSKRIP] Peringatan Hari Koperasi Nasional Ke-79 Tahun 2026 - Presiden RI",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 14:53:29 GMT",
-      "link": "https://presidenri.go.id/transkrip/peringatan-hari-koperasi-nasional-ke-79-tahun-2026/"
-    },
-    {
-      "title": "92,9 persen anggaran BPIP untuk birokrasi, Rieke Diah Pitaloka soroti ketimpangan prioritas - MSN",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 12 Jul 2026 14:46:22 GMT",
-      "link": "https://www.msn.com/id-id/berita/other/92-9-persen-anggaran-bpip-untuk-birokrasi-rieke-diah-pitaloka-soroti-ketimpangan-prioritas/ar-AA25DrUi?cvid=bfa5c5df28ac45c2a08bd81ba9fa3e0c&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1"
-    },
-    {
-      "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 13:12:50 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang-2275330"
-    },
-    {
-      "title": "Menteri Ferry Juliantono: Koperasi Boleh Kelola Tambang - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 13:12:50 GMT",
-      "link": "https://bisnis.tempo.co/read/2113269/menteri-ferry-juliantono-koperasi-boleh-kelola-tambang"
-    },
-    {
-      "title": "Konektivitas Sabang-Andaman, Ini Catatan Kritis Dr. Fachrul Razi untuk Pemerintah - Pewarta Indonesia",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 13:07:14 GMT",
-      "link": "https://pewarta-indonesia.com/2026/07/konektivitas-sabang-andaman-ini-catatan-kritis-dr-fachrul-razi-untuk-pemerintah/?amp=1"
     }
   ]
 }
