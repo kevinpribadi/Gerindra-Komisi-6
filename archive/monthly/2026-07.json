@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-13T10:23:36.219997",
+  "generated_at": "2026-07-13T16:30:54.826287",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 55,
-    "Golkar": 8,
-    "NasDem": 33,
+    "Gerindra": 14,
+    "PDI-P": 54,
+    "Golkar": 11,
+    "NasDem": 30,
     "PKB": 21,
     "PKS": 19,
     "PAN": 4,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 88,
-    "Golkar": 53,
-    "NasDem": 38,
+    "PDI-P": 89,
+    "Golkar": 57,
+    "NasDem": 39,
     "PKB": 39,
     "PKS": 50,
     "PAN": 16,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
-    "danantara": 39,
-    "ekspor": 3,
-    "investasi": 38,
-    "perdagangan": 14,
-    "umkm": 5,
-    "koperasi": 57,
+    "bumn": 62,
+    "danantara": 40,
+    "perdagangan": 12,
+    "ekspor": 4,
+    "investasi": 34,
+    "umkm": 6,
+    "koperasi": 58,
     "kartel-monopoli": 5,
     "ipo": 2,
     "merger-akuisisi": 2,
@@ -56,23 +56,23 @@
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 16,
     "Mufti Anam": 11,
-    "Darmadi Durianto": 17,
+    "Darmadi Durianto": 18,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 5,
     "Ida Nurlaela": 12,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 12,
+    "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 10,
-    "Muhammad Sarmuji": 8,
+    "Rizki Faisal": 12,
+    "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
-    "I Nengah Senantara": 5,
+    "I Nengah Senantara": 6,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
@@ -92,116 +92,116 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
+    "Kinerja BUMN": 27,
     "Hukum/Audit": 41,
-    "Kinerja BUMN": 28,
     "Perdagangan": 27,
-    "Koperasi/UMKM": 58
+    "Koperasi/UMKM": 59
   },
   "top_headlines": [
     {
-      "title": "Modernisasi TPK Batu Ampar Pangkas Biaya Logistik Batam-Shanghai hingga 50 Persen - BP Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 09:44:36 GMT",
-      "link": "https://bpbatam.go.id/modernisasi-tpk-batu-ampar-pangkas-biaya-logistik-batam-shanghai-hingga-50-persen/"
-    },
-    {
-      "title": "Danantara Garap 26 Proyek Hilirisasi senilai Rp 225 Triliun - TopBusiness.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 09:10:00 GMT",
-      "link": "https://www.topbusiness.id/131948/danantara-garap-26-proyek-hilirisasi-senilai-rp-225-triliun.html"
-    },
-    {
-      "title": "Legislator PDIP: Koperasi Adalah Instrumen Ekonomi Wong Cilik, Bukan Ruang Untuk Praktik Rente - Kedai Pena",
-      "entity": "Ida Nurlaela",
+      "title": "Sarmuji: Pesan Prabowo Soal Pengkhianat! Warning Keras, Jangan Rusak Demokrasi! - RMBanten",
+      "entity": "Muhammad Sarmuji",
       "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 09:03:08 GMT",
-      "link": "https://www.kedaipena.com/legislator-pdip-koperasi-adalah-instrumen-ekonomi-wong-cilik-bukan-ruang-untuk-praktik-rente/"
+      "published": "Mon, 13 Jul 2026 15:37:00 GMT",
+      "link": "https://rmbanten.com/berita/soal-pengkhianat-sarmuji-pesan-prabowo-warning-keras-yang-kalah-jangan-rusak-demokrasi-2"
     },
     {
-      "title": "Modal Awal PFII dari Danantara Berpotensi Tingkatkan Risiko dan Reputasi - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 09:03:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/13/160338526/modal-awal-pfii-dari-danantara-berpotensi-tingkatkan-risiko-dan-reputasi"
-    },
-    {
-      "title": "Danantara Garap 26 Proyek Hilirisasi Senilai Rp 225 Triliun, Ini Rinciannya - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 08:59:43 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-garap-26-proyek-hilirisasi-senilai-rp-225-triliun-ini-rinciannya"
-    },
-    {
-      "title": "BP BUMN Tinjau Pelabuhan Gresik, Soroti Penguatan Operasional dan Keandalan Layanan Logistik - koranindopos.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 08:47:59 GMT",
-      "link": "https://koranindopos.com/bp-bumn-tinjau-pelabuhan-gresik-soroti-penguatan-operasional-dan-keandalan-layanan-logistik/"
-    },
-    {
-      "title": "Gopprera Panggabean dan Hilman Pujana Resmi Pimpin KPPU Periode 2026–2029 - Radargep.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 08:24:07 GMT",
-      "link": "https://radargep.com/gopprera-panggabean-dan-hilman-pujana-resmi-pimpin-kppu-periode-2026-2029.html"
-    },
-    {
-      "title": "Koperasi Merah Putih dan berbagai kontroversi yang muncul: Anggaran miliaran untuk influencer hingga lokasi tak lazim - BBC",
+      "title": "Transformasi Koperasi: Dari Usaha Kecil ke Pilar Ekonomi Nasional - vibizmedia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 08:13:41 GMT",
-      "link": "https://www.bbc.com/indonesia/articles/cy4ex17ek5jo"
+      "published": "Mon, 13 Jul 2026 14:39:21 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/13/transformasi-koperasi-dari-usaha-kecil-ke-pilar-ekonomi-nasional/"
     },
     {
-      "title": "15.845 Koperasi Merah Putih Rampung Dibangun - Towa.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 07:59:24 GMT",
-      "link": "https://towa.co.id/postingan/15845-koperasi-merah-putih-rampung-dibangun"
-    },
-    {
-      "title": "Kemendag: Penguatan Kurs Dolar AS Kerek Harga Bawang Putih - Tempo.co",
+      "title": "Menteri Perdagangan India Mengklaim Perundingan Dagang AS-India Berjalan Lancar - kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 07:55:24 GMT",
-      "link": "https://www.tempo.co/ekonomi/kemendag-penguatan-kurs-dolar-as-kerek-harga-bawang-putih-2275486"
+      "published": "Mon, 13 Jul 2026 13:30:25 GMT",
+      "link": "https://internasional.kontan.co.id/news/menteri-perdagangan-india-mengklaim-perundingan-dagang-as-india-berjalan-lancar"
     },
     {
-      "title": "Danantara Garap Proyek Hilirisasi Rp 225 Triliun, Klaim Serap 37 Ribu Tenaga Kerja - detikFinance",
+      "title": "Danantara Tetapkan Delapan Mitra di Proyek PSEL Tahap II - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 13:30:00 GMT",
+      "link": "https://swa.co.id/read/474899/danantara-tetapkan-delapan-mitra-di-proyek-psel-tahap-ii"
+    },
+    {
+      "title": "Darmadi Desak Kejelasan Skema Bisnis Dalam Kolaborasi Perumnas dan Telkomsel di TOD Samesta Mahata - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 13 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-desak-kejelasan-skema-bisnis-dalam-kolaborasi-perumnas-dan-telkomsel-di-tod-samesta-mahata-b2pWOZbgxh"
+    },
+    {
+      "title": "Danantara Garap 26 Proyek Hilirisasi Senilai Rp225 Triliun - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 12:50:11 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260713171311-17-750477/danantara-garap-26-proyek-hilirisasi-senilai-rp225-triliun"
+    },
+    {
+      "title": "Pemkab Muara Enim Komitmen Sukseskan Koperasi Merah Putih - sumeks.disway.id - Sumeks.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 12:43:00 GMT",
+      "link": "https://sumeks.disway.id/sumsel/read/790297/pemkab-muara-enim-komitmen-sukseskan-koperasi-merah-putih"
+    },
+    {
+      "title": "Agenda Perampingan BUMN Dinilai Jadi Langkah Tepat untuk Perkuat Daya Saing Korporasi Negara - olenka.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 07:53:46 GMT",
-      "link": "https://finance.detik.com/industri/d-8572054/danantara-garap-proyek-hilirisasi-rp-225-triliun-klaim-serap-37-ribu-tenaga-kerja"
+      "published": "Mon, 13 Jul 2026 12:30:00 GMT",
+      "link": "https://olenka.id/agenda-perampingan-bumn-dinilai-jadi-langkah-tepat-untuk-perkuat-daya-saing-korporasi-negara"
     },
     {
-      "title": "FTZ Kepri Harus Berdampak bagi Warga, Rizki Faisal Dorong Pemerataan Ekonomi - Jurnalis.co.id",
+      "title": "Rizki Faisal Dorong Penerapan FTZ Bertahap di Seluruh Kepri untuk Perkuat Ekonomi Kepulauan - Fraksi Golkar",
       "entity": "Rizki Faisal",
       "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 07:36:57 GMT",
-      "link": "https://jurnalis.co.id/2026/07/13/ftz-kepri-harus-berdampak-bagi-warga-rizki-faisal-dorong-pemerataan-ekonomi/"
+      "published": "Mon, 13 Jul 2026 11:32:34 GMT",
+      "link": "https://fraksigolkar.com/read/2324/rizki-faisal-dorong-penerapan-ftz-bertahap-di-seluruh-kepri-untuk-perkuat-ekonomi-kepulauan"
     },
     {
-      "title": "Legislator Rieke Diah Pitaloka Ingatkan Bahaya “Ilusi” RUU... - Telusur.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 07:33:27 GMT",
-      "link": "https://telusur.co.id/detail/legislator-rieke-diah-pitaloka-ingatkan-bahaya-ilusi-ruu-perampasan-aset-jangan-sampai-negara-legalkan-tppu-gaya-baru"
-    },
-    {
-      "title": "BP BUMN dan DJP Tingkatkan Transparansi Perusahaan Pelat Merah — Strategi AI untuk Akuntabilitas 2026 - BERNAS.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Gopprera Panggabean Terpilih Sebagai Ketua KPPU Periode 2026-2029 - harianSIB.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 07:23:50 GMT",
-      "link": "https://bernas.id/nasional/news/bp-bumn-dan-djp-tingkatkan-transparansi-perusahaan-pelat-merah-strategi-ai-untuk-2026-07-13"
+      "published": "Mon, 13 Jul 2026 11:31:00 GMT",
+      "link": "https://www.hariansib.com/Medan-Sekitarnya/446902/gopprera-panggabean-terpilih-sebagai-ketua-kppu-periode-20262029/"
     },
     {
-      "title": "BP BUMN tingkatkan transparansi perusahaan pelat merah bersama DJP - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Modernisasi TPK Batu Ampar, Langkah Strategis BP Batam Wujudkan Batam sebagai Hub Logistik Internasiona - katasiber.id",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 07:19:34 GMT",
-      "link": "https://www.antaranews.com/berita/5647115/bp-bumn-tingkatkan-transparansi-perusahaan-pelat-merah-bersama-djp"
+      "published": "Mon, 13 Jul 2026 11:28:18 GMT",
+      "link": "https://katasiber.id/2026/07/13/modernisasi-tpk-batu-ampar-langkah-strategis-bp-batam-wujudkan-batam-sebagai-hub-logistik-internasiona/"
+    },
+    {
+      "title": "DPRD Kotim dorong penguatan dukungan untuk koperasi - ANTARA News Kalteng",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 11:26:40 GMT",
+      "link": "https://kalteng.antaranews.com/berita/834495/dprd-kotim-dorong-penguatan-dukungan-untuk-koperasi"
+    },
+    {
+      "title": "Kementerian Kebudayaan Gandeng BPI Danantara, Siapkan Tiga Museum... - Langit7.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 11:22:00 GMT",
+      "link": "https://langit7.id/read/59965/1/kementerian-kebudayaan-gandeng-bpi-danantara-siapkan-tiga-museum-baru-di-indonesia-1783940847"
+    },
+    {
+      "title": "Danantara Garap 26 Proyek Senilai Rp225 Triliun Serap 37.833 Tenaga Kerja - waspada.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 11:06:00 GMT",
+      "link": "https://waspada.id/berita/danantara-garap-26-proyek-senilai-rp225-triliun-serap-37-833-tenaga-kerja"
+    },
+    {
+      "title": "Koperasi Merah Putih Garap Industri CPO, Pabrik Perdana Beroperasi Agustus - HaiSawit",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 10:27:03 GMT",
+      "link": "https://haisawit.co.id/news/detail/koperasi-merah-putih-garap-industri-cpo-pabrik-perdana-beroperasi-agustus"
     }
   ]
 }
