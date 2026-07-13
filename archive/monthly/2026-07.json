@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-13T02:33:45.107238",
+  "generated_at": "2026-07-13T06:14:56.642465",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 54,
-    "Golkar": 7,
+    "Golkar": 6,
     "NasDem": 34,
     "PKB": 22,
     "PKS": 23,
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 63,
     "danantara": 37,
-    "investasi": 38,
-    "perdagangan": 16,
+    "ekspor": 3,
+    "investasi": 39,
+    "perdagangan": 15,
     "umkm": 6,
     "koperasi": 56,
-    "ekspor": 2,
     "kartel-monopoli": 5,
     "ipo": 2,
     "merger-akuisisi": 2,
@@ -94,16 +94,86 @@
   "early_warning_counts": {
     "Hukum/Audit": 43,
     "Kinerja BUMN": 31,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 27
+    "Perdagangan": 28,
+    "Koperasi/UMKM": 57
   },
   "top_headlines": [
+    {
+      "title": "Alasan Kemendag Bidik Ekspor ke Singapura saat Harga Telur Anjlok - Bisnis.com - Market",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 06:10:56 GMT",
+      "link": "https://market.bisnis.com/read/20260713/94/1987608/alasan-kemendag-bidik-ekspor-ke-singapura-saat-harga-telur-anjlok"
+    },
+    {
+      "title": "Rosan: Danantara jadi mitra strategis yang diminati investor asing - Elshinta",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 05:45:26 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/rosan-danantara-jadi-mitra-strategis-yang-diminati-investor-asing-170142"
+    },
+    {
+      "title": "Presiden Prabowo Tegaskan Kebangkitan Koperasi pada Puncak Harkopnas ke-79 - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 05:42:00 GMT",
+      "link": "https://www.beritakoperasi.com/presiden-prabowo-tegaskan-kebangkitan-koperasi-pada-puncak-harkopnas-ke-79/"
+    },
+    {
+      "title": "Harkopnas ke-79, Pemerintah Tegaskan Komitmen Jadikan Koperasi Penggerak Ekonomi Nasional - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 04:38:00 GMT",
+      "link": "https://www.kompas.tv/nasional/680193/harkopnas-ke-79-pemerintah-tegaskan-komitmen-jadikan-koperasi-penggerak-ekonomi-nasional"
+    },
+    {
+      "title": "Harkopnas ke-79, Pemerintah Tegaskan Komitmen Jadikan Koperasi Penggerak Ekonomi Nasional - Kompas.tv",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 04:38:00 GMT",
+      "link": "https://www.kompas.tv/nasional/680193/harkopnas-ke-79-pemerintah-tegaskan-komitmen-jadikan-koperasi-penggerak-ekonomi-nasional"
+    },
+    {
+      "title": "Hackathon Digital Cooperatives 2026 Lahirkan 3 Solusi Terbaik Dorong Transformasi Koperasi Indonesia - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 04:19:00 GMT",
+      "link": "https://www.metrotvnews.com/read/bD2CwO38-hackathon-digital-cooperatives-2026-lahirkan-3-solusi-terbaik-dorong-transformasi-koperasi-indonesia"
+    },
+    {
+      "title": "Gopprera Panggabean Resmi Pimpin KPPU, Hilman Pujana Jabat Wakil Ketua hingga Januari 2029 - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 04:05:03 GMT",
+      "link": "https://m.batamtoday.com/news/gopprera-panggabean-resmi-pimpin-kppu-hilman-pujana-jabat-wakil-ketua-hingga-januari-2029"
+    },
+    {
+      "title": "Dekopinda Semarang Dorong Koperasi Merah Putih jadi Soko Guru Perekonomian - jatengpos.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:56:05 GMT",
+      "link": "https://jatengpos.co.id/jateng/2026/07/13/dekopinda-semarang-dorong-koperasi-merah-putih-jadi-soko-guru-perekonomian/"
+    },
+    {
+      "title": "Dihari Harkopnas Ke-79, Bupati Kampar H. Ahmad Yuzar Komitmen Memperkuat Ekonomi Rakyat Berbasis Koperasi. - mediacenter.kamparkab.go.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:43:56 GMT",
+      "link": "https://mediacenter.kamparkab.go.id/artikel-detail/6657/dihari-harkopnas-ke-79-bupati-kampar-h-ahmad-yuzar-komitmen-memperkuat-ekonomi-rakyat-berbasis-koperasi"
+    },
     {
       "title": "Optimalkan Potensi Perdagangan dan Investasi, RI-Maroko Perkuat Kemitraan Ekonomi Strategis - VIVA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 02:23:26 GMT",
       "link": "https://www.viva.co.id/bisnis/1913047-optimalkan-potensi-perdagangan-dan-investasi-ri-maroko-perkuat-kemitraan-ekonomi-strategis"
+    },
+    {
+      "title": "Hadiri Puncak Hari Koperasi ke-79, Presiden Prabowo Tegaskan Koperasi Pilar Utama Ekonomi Kerakyatan - Kementerian Sekretariat Negara",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 13 Jul 2026 02:18:04 GMT",
+      "link": "https://www.setneg.go.id/baca/index/hadiri_puncak_hari_koperasi_ke_79_presiden_prabowo_tegaskan_koperasi_pilar_utama_ekonomi_kerakyatan"
     },
     {
       "title": "Kemenkop: Koperasi Kini Bisa Kelola Tambang hingga Sumur Minyak Rakyat - Bisnis.com - Ekonomi",
@@ -132,76 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 01:28:00 GMT",
       "link": "https://www.waspada.id/berita/akhiri-masa-jabatan-fanshurullah-asa-tinggalkan-fondasi-penguatan-penegakan-hukum-dan-persaingan-usaha"
-    },
-    {
-      "title": "Semester I 2026, KPPU Jatuhkan Sanksi Rp766,5 Miliar - Langgam.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 01:18:00 GMT",
-      "link": "https://langgam.id/semester-i-2026-kppu-jatuhkan-sanksi-rp7665-miliar/"
-    },
-    {
-      "title": "Presiden Prabowo Hadiri Puncak Peringatan Hari Koperasi ke-79, Dorong Koperasi Jadi Pilar Ekonomi Kerakyatan - Sekretariat Kabinet Republik Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 01:16:26 GMT",
-      "link": "https://setkab.go.id/presiden-prabowo-hadiri-puncak-peringatan-hari-koperasi-ke-79-dorong-koperasi-jadi-pilar-ekonomi-kerakyatan/"
-    },
-    {
-      "title": "Presiden Prabowo Hadiri Puncak Peringatan Hari Koperasi ke-79, Dorong Koperasi Jadi Pilar Ekonomi Kerakyatan - Sekretariat Kabinet Republik Indonesia",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 01:16:26 GMT",
-      "link": "https://setkab.go.id/presiden-prabowo-hadiri-puncak-peringatan-hari-koperasi-ke-79-dorong-koperasi-jadi-pilar-ekonomi-kerakyatan/"
-    },
-    {
-      "title": "Ismail Bachtiar Soroti Krisis Surplus Semen Nasional: Investasi Harus Jalan, Industri Lama Jangan Jadi Korban - Bela Rakyat",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 00:31:02 GMT",
-      "link": "https://belarakyat.com/ismail-bachtiar-soroti-krisis-surplus-semen-nasional-investasi-harus-jalan-industri-lama-jangan-jadi-korban/"
-    },
-    {
-      "title": "Ketergantungan 95 Persen Bahan Baku Obat Impor Jadi Alarm, Ketua Komisi VI DPR RI Anggia Erma Rini Desak Kedaulatan Farmasi Nasional - Bela Rakyat",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 00:21:00 GMT",
-      "link": "https://belarakyat.com/ketergantungan-95-persen-bahan-baku-obat-impor-jadi-alarm-ketua-komisi-vi-dpr-ri-anggia-erma-rini-desak-kedaulatan-farmasi-nasional/"
-    },
-    {
-      "title": "Rosan Presiden Prabowo Jadikan Danantara Jadi Mitra Strategis yang Diburu Investor Asing - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 00:16:45 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/910226/rosan-presiden-prabowo-jadikan-danantara-jadi-mitra-strategis-yang-diburu-investor-asing"
-    },
-    {
-      "title": "DPR Puji BRI Sukses Transformasi Perbankan - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/317443/dpr-puji-bri-sukses-transformasi-perbankan"
-    },
-    {
-      "title": "Hackathon Digital Cooperatives 2026 Cetak Tiga Inovasi Terbaik - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 23:53:13 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/114758/hackathon-digital-cooperatives-2026-cetak-tiga-inovasi-terbaik"
-    },
-    {
-      "title": "Gerak Jalan Sehat Harkopnas, Ketua DPRD Bogor apresiasi peran koperasi - ANTARA News Megapolitan",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 22:46:44 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/539897/gerak-jalan-sehat-harkopnas-ketua-dprd-bogor-apresiasi-peran-koperasi"
-    },
-    {
-      "title": "Jalur Dalam Negeri Pencucian Hasil Kejahatan Sumber Daya Alam - Betahita",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 12 Jul 2026 22:00:11 GMT",
-      "link": "https://www.betahita.id/opini/12180/jalur-dalam-negeri-pencucian-hasil-kejahatan-sumber-daya-alam"
     }
   ]
 }
