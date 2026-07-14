@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T02:12:49.287698",
+  "generated_at": "2026-07-14T05:27:49.278368",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 55,
+    "Gerindra": 15,
+    "PDI-P": 56,
     "Golkar": 14,
-    "NasDem": 30,
+    "NasDem": 28,
     "PKB": 22,
     "PKS": 18,
     "PAN": 4,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 90,
+    "PDI-P": 91,
     "Golkar": 60,
     "NasDem": 39,
     "PKB": 40,
@@ -38,9 +38,9 @@
     "danantara": 39,
     "perdagangan": 12,
     "ekspor": 4,
-    "investasi": 34,
+    "investasi": 35,
     "umkm": 6,
-    "koperasi": 59,
+    "koperasi": 60,
     "kartel-monopoli": 5,
     "ipo": 2,
     "merger-akuisisi": 2,
@@ -60,7 +60,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 12,
+    "Ida Nurlaela": 13,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 14,
@@ -92,12 +92,82 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 26,
-    "Hukum/Audit": 41,
+    "Kinerja BUMN": 25,
+    "Hukum/Audit": 42,
     "Perdagangan": 29,
-    "Koperasi/UMKM": 60
+    "Koperasi/UMKM": 61
   },
   "top_headlines": [
+    {
+      "title": "Buka Rapat Paripurna, Pimpinan DPR Sampaikan Duka atas Wafatnya Rachmat Gobel - Kabar24",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 05:18:39 GMT",
+      "link": "https://kabar24.bisnis.com/read/20260714/15/1987897/buka-rapat-paripurna-pimpinan-dpr-sampaikan-duka-atas-wafatnya-rachmat-gobel"
+    },
+    {
+      "title": "Andre Rosiade Kawal Proyek Tol Bukittinggi-Sicincin Rp 29 Triliun Dipercepat - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 05:08:50 GMT",
+      "link": "https://news.detik.com/berita/d-8573262/andre-rosiade-kawal-proyek-tol-bukittinggi-sicincin-rp-29-triliun-dipercepat"
+    },
+    {
+      "title": "Kementerian Koperasi Dukung Pertumbuhan Ekonomi 8% di Indonesia - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 04:57:39 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-koperasi-dukung-pertumbuhan-ekonomi-8"
+    },
+    {
+      "title": "Koperasi Dioptimalkan untuk Dukung Target Pertumbuhan Ekonomi 8% - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 04:45:00 GMT",
+      "link": "https://investor.id/business/446449/koperasi-dioptimalkan-untuk-dukung-targetpertumbuhan-ekonomi-8"
+    },
+    {
+      "title": "Harkopnas ke-79, Prabowo Serukan Kebangkitan Koperasi sebagai Motor Penggerak Ekonomi Indonesia - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 04:26:00 GMT",
+      "link": "https://www.kompas.tv/nasional/680364/harkopnas-ke-79-prabowo-serukan-kebangkitan-koperasi-sebagai-motor-penggerak-ekonomi-indonesia"
+    },
+    {
+      "title": "Harkopnas ke-79, Prabowo Serukan Kebangkitan Koperasi sebagai Motor Penggerak Ekonomi Indonesia - Kompas.tv",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 04:26:00 GMT",
+      "link": "https://www.kompas.tv/nasional/680364/harkopnas-ke-79-prabowo-serukan-kebangkitan-koperasi-sebagai-motor-penggerak-ekonomi-indonesia"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Ingatkan Risiko Pencucian Uang Gaya Baru di Balik RUU Perampasan Aset - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 04:14:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-ingatkan-risiko-pencucian-uang-gaya-baru-di-balik-ruu-perampasan-aset-b2pWQZbgzT"
+    },
+    {
+      "title": "MNC University Hadiri Peringatan Hari Koperasi Nasional ke-79, Edukasi Mahasiswa Ekonomi Kerakyatan - RCTI+",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 03:37:00 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5428149/mnc-university-hadiri-peringatan-hari-koperasi-nasional-ke-79-edukasi-mahasiswa-ekonomi-kerakyatan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5428149"
+    },
+    {
+      "title": "Koperasi, Mesin Terbaik Wujudkan Indonesia Emas 2045 - waspada.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 03:13:00 GMT",
+      "link": "https://www.waspada.id/berita/koperasi-mesin-terbaik-wujudkan-indonesia-emas-2045"
+    },
+    {
+      "title": "Kemenbud-Danantara teken MoU perkuat ekosistem kebudayaan - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 02:42:43 GMT",
+      "link": "https://www.antaranews.com/berita/5648236/kemenbuddanantara-teken-mou-perkuat-ekosistem-kebudayaan"
+    },
     {
       "title": "KPPU Tetapkan Gopprera Panggabean Ketua dan Hilman Pujana Sebagai Wakil Ketua Periode Juli 2026–Januari 2029 - KLIK7TV",
       "entity": "KPPU",
@@ -132,76 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 17:16:04 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260714/OTYy"
-    },
-    {
-      "title": "Bupati Inhu Kunjungan Kerja Ke Kementrian Koperasi - GoSumut.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 15:58:00 GMT",
-      "link": "https://www.gosumut.com/berita/baca/2026/07/13/bupati-inhu-kunjungan-kerja-ke-kementrian-koperasi"
-    },
-    {
-      "title": "Sarmuji: Pesan Prabowo Soal Pengkhianat! Warning Keras, Jangan Rusak Demokrasi! - RMBanten",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 15:37:00 GMT",
-      "link": "https://rmbanten.com/berita/soal-pengkhianat-sarmuji-pesan-prabowo-warning-keras-yang-kalah-jangan-rusak-demokrasi-2"
-    },
-    {
-      "title": "Komisi VI DPR tinjau Phapros dorong substitusi bahan baku obat impor - ANTARA News",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 15:14:55 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5648000/komisi-vi-dpr-tinjau-phapros-dorong-substitusi-bahan-baku-obat-impor"
-    },
-    {
-      "title": "Transformasi Koperasi: Dari Usaha Kecil ke Pilar Ekonomi Nasional - vibizmedia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 14:39:21 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/13/transformasi-koperasi-dari-usaha-kecil-ke-pilar-ekonomi-nasional/"
-    },
-    {
-      "title": "Prabowo Optimistis KDKMP Putar Ekonomi hingga Rp223 Triliun, Usung Konsep 'Indonesia Incorporated' - ketik.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 13:31:00 GMT",
-      "link": "https://ketik.com/amp/prabowo-optimistis-kdkmp-putar-ekonomi-hingga-rp223-triliun-usung-konsep-indonesia-incorporated"
-    },
-    {
-      "title": "Menteri Perdagangan India Mengklaim Perundingan Dagang AS-India Berjalan Lancar - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 13:30:25 GMT",
-      "link": "https://internasional.kontan.co.id/news/menteri-perdagangan-india-mengklaim-perundingan-dagang-as-india-berjalan-lancar"
-    },
-    {
-      "title": "Danantara Tetapkan Delapan Mitra di Proyek PSEL Tahap II - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 13:30:00 GMT",
-      "link": "https://swa.co.id/read/474899/danantara-tetapkan-delapan-mitra-di-proyek-psel-tahap-ii"
-    },
-    {
-      "title": "Darmadi Desak Kejelasan Skema Bisnis Dalam Kolaborasi Perumnas dan Telkomsel di TOD Samesta Mahata - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-desak-kejelasan-skema-bisnis-dalam-kolaborasi-perumnas-dan-telkomsel-di-tod-samesta-mahata-b2pWOZbgxh"
-    },
-    {
-      "title": "Danantara Garap 26 Proyek Hilirisasi Senilai Rp225 Triliun - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 12:50:11 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260713171311-17-750477/danantara-garap-26-proyek-hilirisasi-senilai-rp225-triliun"
-    },
-    {
-      "title": "Pemkab Muara Enim Komitmen Sukseskan Koperasi Merah Putih - sumeks.disway.id - Sumeks.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 12:43:00 GMT",
-      "link": "https://sumeks.disway.id/sumsel/read/790297/pemkab-muara-enim-komitmen-sukseskan-koperasi-merah-putih"
     }
   ]
 }
