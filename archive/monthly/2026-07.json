@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T10:06:47.790362",
+  "generated_at": "2026-07-14T12:09:30.595861",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 52,
+    "Gerindra": 17,
+    "PDI-P": 53,
     "Golkar": 15,
-    "NasDem": 26,
-    "PKB": 22,
-    "PKS": 18,
-    "PAN": 4,
+    "NasDem": 25,
+    "PKB": 21,
+    "PKS": 17,
+    "PAN": 6,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 91,
+    "PDI-P": 92,
     "Golkar": 59,
     "NasDem": 40,
     "PKB": 40,
     "PKS": 50,
-    "PAN": 16,
+    "PAN": 18,
     "Demokrat": 17
   },
   "agency_counts_30d": {
@@ -34,18 +34,18 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
+    "bumn": 58,
     "danantara": 42,
-    "perdagangan": 11,
-    "ekspor": 4,
-    "investasi": 35,
-    "umkm": 6,
-    "koperasi": 61,
+    "perdagangan": 8,
+    "ekspor": 5,
+    "impor": 4,
+    "investasi": 34,
+    "umkm": 4,
+    "koperasi": 62,
     "kartel-monopoli": 6,
     "ipo": 2,
     "merger-akuisisi": 2,
-    "dividen": 1,
-    "impor": 3
+    "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -56,7 +56,7 @@
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 11,
-    "Darmadi Durianto": 18,
+    "Darmadi Durianto": 19,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 5,
@@ -85,7 +85,7 @@
     "Rizal Bawazier": 13,
     "Ghufran": 2,
     "Ismail": 19,
-    "Eko Patrio": 9,
+    "Eko Patrio": 11,
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 3,
@@ -94,10 +94,52 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
-    "Perdagangan": 29,
-    "Koperasi/UMKM": 62
+    "Perdagangan": 32,
+    "Koperasi/UMKM": 61
   },
   "top_headlines": [
+    {
+      "title": "Wagub Vasko Minta Stadion Agus Salim Ada Gonjong, Andre Rosiade: Desain Tidak Bisa Diubah - Langgam.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 12:03:54 GMT",
+      "link": "https://langgam.id/wagub-vasko-minta-stadion-haji-agus-salim-ada-gonjong-andre-rosiade-desain-tidak-bisa-diubah/"
+    },
+    {
+      "title": "Koperasi Tebu Diperkuat, Hasil Panen Diserap Pabrik Gula - Radio Idola Semarang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 11:16:16 GMT",
+      "link": "https://radioidola.com/2026/koperasi-tebu-diperkuat-hasil-panen-diserap-pabrik-gula/"
+    },
+    {
+      "title": "Kemendag optimalisasi distribusi Minyakita pastikan stok di pasar aman - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 10:42:37 GMT",
+      "link": "https://www.antaranews.com/berita/5649069/kemendag-optimalisasi-distribusi-minyakita-pastikan-stok-di-pasar-aman"
+    },
+    {
+      "title": "26 Proyek Hilirisasi Senilai Rp225 Triliun Digarap Danantara - Cyrustimes.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 10:31:00 GMT",
+      "link": "https://cyrustimes.com/26-proyek-hilirisasi-senilai-rp225-triliun-digarap-danantara/"
+    },
+    {
+      "title": "Andre Rosiade Serahkan Ambulans untuk Warga Pagambiran, Tegaskan Hadir dengan Kerja Nyata - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 10:04:35 GMT",
+      "link": "https://news.detik.com/berita/d-8573897/andre-rosiade-serahkan-ambulans-untuk-warga-pagambiran-tegaskan-hadir-dengan-kerja-nyata"
+    },
+    {
+      "title": "[HOAKS] - TAUTAN PENDAFTARAN REKRUTMEN PEGAWAI KOPERASI DESA MERAH PUTIH JULI 2026 - Jala Hoaks",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 08:39:02 GMT",
+      "link": "https://jalahoaks.jakarta.go.id/detail/Hoaks-Tautan-Pendaftaran-Rekrutmen-Pegawai-Koperasi-Desa-Merah-Putih-Juli-2026"
+    },
     {
       "title": "Koperasi Merah Putih Berpotensi Bunuh Warung bila Salah Fungsi - Niaga.Asia",
       "entity": "Kementerian Koperasi",
@@ -127,11 +169,25 @@
       "link": "https://segmennews.com/2026/07/14/kppu-dan-ojk-perkuat-sinergi-menjaga-persaingan-usaha-sehat/"
     },
     {
+      "title": "Modernisasi TPK Batu Ampar pangkas biaya logistik ekspor Batam - ANTARA News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 07:01:09 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5648567/modernisasi-tpk-batu-ampar-pangkas-biaya-logistik-ekspor-batam"
+    },
+    {
       "title": "Kajati Sumbar Puji Andre Rosiade Inisiasi Proyek Tol Bukittinggi-Sicincin - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Tue, 14 Jul 2026 06:48:04 GMT",
       "link": "https://news.detik.com/berita/d-8573488/kajati-sumbar-puji-andre-rosiade-inisiasi-proyek-tol-bukittinggi-sicincin"
+    },
+    {
+      "title": "DPR RI Soroti Koperasi Merah Putih Berpotensi Bunuh Warung Kelontong, Darmadi: Kemenkop Harus Menganalisis dan Memverifikasi Dampaknya - Trans89.com",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 06:45:59 GMT",
+      "link": "https://trans89.com/2026/07/14/dpr-ri-soroti-koperasi-merah-putih-berpotensi-bunuh-warung-kelontong-darmadi-kemenkop-harus-menganalisis-dan-memverifikasi-dampaknya"
     },
     {
       "title": "Firnando Soroti Gagal Bayar Pos Indonesia Rp 24 M, Desak Danantara Tindak Tegas - Kedai Pena",
@@ -146,62 +202,6 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 06:02:00 GMT",
       "link": "https://www.beritakoperasi.com/menkop-sambangi-kediaman-bung-hatta-tegaskan-komitmen-melanjutkan-semangat-pengembangan-koperasi-indonesia/"
-    },
-    {
-      "title": "Menkop Sambangi Kediaman Bung Hatta, Tegaskan Komitmen Melanjutkan Semangat Pengembangan Koperasi Indonesia - Berita Koperasi",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 06:02:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-sambangi-kediaman-bung-hatta-tegaskan-komitmen-melanjutkan-semangat-pengembangan-koperasi-indonesia/"
-    },
-    {
-      "title": "Danantara dan Masa Depan Ekonomi Indonesia - Omong-Omong Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 05:55:46 GMT",
-      "link": "https://omong-omong.com/danantara-dan-masa-depan-ekonomi-indonesia/"
-    },
-    {
-      "title": "Andre Rosiade Kawal Percepatan Tol Bukittinggi–Sicincin, Kebut Proyek Rp 29 T - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 05:47:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-kawal-percepatan-tol-bukittinggi-sicincin-kebut-proyek-rp-29-t-27mlr0HGpnf"
-    },
-    {
-      "title": "Beri Dana Awal ke PFII, Reputasi dan Aset Danantara Dipertaruhkan - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 05:41:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/14/124100626/beri-dana-awal-ke-pfii-reputasi-dan-aset-danantara-dipertaruhkan?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
-    },
-    {
-      "title": "Buka Rapat Paripurna, Pimpinan DPR Sampaikan Duka atas Wafatnya Rachmat Gobel - Kabar24",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 05:18:39 GMT",
-      "link": "https://kabar24.bisnis.com/read/20260714/15/1987897/buka-rapat-paripurna-pimpinan-dpr-sampaikan-duka-atas-wafatnya-rachmat-gobel"
-    },
-    {
-      "title": "Andre Rosiade Kawal Proyek Tol Bukittinggi-Sicincin Rp 29 Triliun Dipercepat - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 05:08:50 GMT",
-      "link": "https://news.detik.com/berita/d-8573262/andre-rosiade-kawal-proyek-tol-bukittinggi-sicincin-rp-29-triliun-dipercepat"
-    },
-    {
-      "title": "Kementerian Koperasi Dukung Pertumbuhan Ekonomi 8% di Indonesia - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 04:57:39 GMT",
-      "link": "https://achmadnurhidayat.id/kementerian-koperasi-dukung-pertumbuhan-ekonomi-8"
-    },
-    {
-      "title": "Koperasi Dioptimalkan untuk Dukung Target Pertumbuhan Ekonomi 8% - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 04:45:00 GMT",
-      "link": "https://investor.id/business/446449/koperasi-dioptimalkan-untuk-dukung-targetpertumbuhan-ekonomi-8"
     }
   ]
 }
