@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T05:27:49.278368",
+  "generated_at": "2026-07-14T07:59:38.604173",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 56,
-    "Golkar": 14,
-    "NasDem": 28,
+    "PDI-P": 54,
+    "Golkar": 15,
+    "NasDem": 27,
     "PKB": 22,
     "PKS": 18,
     "PAN": 4,
@@ -14,8 +14,8 @@
   "party_counts_30d": {
     "Gerindra": 49,
     "PDI-P": 91,
-    "Golkar": 60,
-    "NasDem": 39,
+    "Golkar": 59,
+    "NasDem": 40,
     "PKB": 40,
     "PKS": 50,
     "PAN": 16,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
-    "danantara": 39,
-    "perdagangan": 12,
+    "bumn": 59,
+    "danantara": 41,
+    "perdagangan": 11,
     "ekspor": 4,
     "investasi": 35,
     "umkm": 6,
-    "koperasi": 60,
-    "kartel-monopoli": 5,
+    "koperasi": 61,
+    "kartel-monopoli": 6,
     "ipo": 2,
     "merger-akuisisi": 2,
     "dividen": 1,
@@ -67,12 +67,12 @@
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
-    "Firnando Hadityo Ganinduto": 7,
+    "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 12,
     "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
-    "I Nengah Senantara": 6,
+    "I Nengah Senantara": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 4,
@@ -92,12 +92,68 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 25,
-    "Hukum/Audit": 42,
+    "Kinerja BUMN": 22,
+    "Hukum/Audit": 41,
     "Perdagangan": 29,
-    "Koperasi/UMKM": 61
+    "Koperasi/UMKM": 62
   },
   "top_headlines": [
+    {
+      "title": "KPPU dan OJK Perkuat Sinergi Menjaga Persaingan Usaha Sehat - Segmen News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 07:23:22 GMT",
+      "link": "https://segmennews.com/2026/07/14/kppu-dan-ojk-perkuat-sinergi-menjaga-persaingan-usaha-sehat/"
+    },
+    {
+      "title": "Kajati Sumbar Puji Andre Rosiade Inisiasi Proyek Tol Bukittinggi-Sicincin - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 06:48:04 GMT",
+      "link": "https://news.detik.com/berita/d-8573488/kajati-sumbar-puji-andre-rosiade-inisiasi-proyek-tol-bukittinggi-sicincin"
+    },
+    {
+      "title": "Firnando Soroti Gagal Bayar Pos Indonesia Rp 24 M, Desak Danantara Tindak Tegas - Kedai Pena",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 06:35:35 GMT",
+      "link": "https://www.kedaipena.com/firnando-soroti-gagal-bayar-pos-indonesia-rp-24-m-desak-danantara-tindak-tegas/"
+    },
+    {
+      "title": "Menkop Sambangi Kediaman Bung Hatta, Tegaskan Komitmen Melanjutkan Semangat Pengembangan Koperasi Indonesia - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 06:02:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-sambangi-kediaman-bung-hatta-tegaskan-komitmen-melanjutkan-semangat-pengembangan-koperasi-indonesia/"
+    },
+    {
+      "title": "Menkop Sambangi Kediaman Bung Hatta, Tegaskan Komitmen Melanjutkan Semangat Pengembangan Koperasi Indonesia - Berita Koperasi",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 06:02:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-sambangi-kediaman-bung-hatta-tegaskan-komitmen-melanjutkan-semangat-pengembangan-koperasi-indonesia/"
+    },
+    {
+      "title": "Danantara dan Masa Depan Ekonomi Indonesia - Omong-Omong Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 05:55:46 GMT",
+      "link": "https://omong-omong.com/danantara-dan-masa-depan-ekonomi-indonesia/"
+    },
+    {
+      "title": "Andre Rosiade Kawal Percepatan Tol Bukittinggi–Sicincin, Kebut Proyek Rp 29 T - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 05:47:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-kawal-percepatan-tol-bukittinggi-sicincin-kebut-proyek-rp-29-t-27mlr0HGpnf"
+    },
+    {
+      "title": "Beri Dana Awal ke PFII, Reputasi dan Aset Danantara Dipertaruhkan - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 05:41:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/14/124100626/beri-dana-awal-ke-pfii-reputasi-dan-aset-danantara-dipertaruhkan?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
+    },
     {
       "title": "Buka Rapat Paripurna, Pimpinan DPR Sampaikan Duka atas Wafatnya Rachmat Gobel - Kabar24",
       "entity": "Rachmat Gobel",
@@ -146,62 +202,6 @@
       "kind": "anggota",
       "published": "Tue, 14 Jul 2026 04:14:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-ingatkan-risiko-pencucian-uang-gaya-baru-di-balik-ruu-perampasan-aset-b2pWQZbgzT"
-    },
-    {
-      "title": "MNC University Hadiri Peringatan Hari Koperasi Nasional ke-79, Edukasi Mahasiswa Ekonomi Kerakyatan - RCTI+",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 03:37:00 GMT",
-      "link": "https://m.rctiplus.com/news/detail/terkini/5428149/mnc-university-hadiri-peringatan-hari-koperasi-nasional-ke-79-edukasi-mahasiswa-ekonomi-kerakyatan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5428149"
-    },
-    {
-      "title": "Koperasi, Mesin Terbaik Wujudkan Indonesia Emas 2045 - waspada.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 03:13:00 GMT",
-      "link": "https://www.waspada.id/berita/koperasi-mesin-terbaik-wujudkan-indonesia-emas-2045"
-    },
-    {
-      "title": "Kemenbud-Danantara teken MoU perkuat ekosistem kebudayaan - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 02:42:43 GMT",
-      "link": "https://www.antaranews.com/berita/5648236/kemenbuddanantara-teken-mou-perkuat-ekosistem-kebudayaan"
-    },
-    {
-      "title": "KPPU Tetapkan Gopprera Panggabean Ketua dan Hilman Pujana Sebagai Wakil Ketua Periode Juli 2026–Januari 2029 - KLIK7TV",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 01:59:34 GMT",
-      "link": "https://klik7tv.co.id/2026/07/14/kppu-tetapkan-gopprera-panggabean-ketua-dan-hilman-pujana-sebagai-wakil-ketua-periode-juli-2026-januari-2029/"
-    },
-    {
-      "title": "BAZNAS RI Perkuat Kolaborasi dengan Kementerian Investasi dan Hilirisasi untuk Mendorong Ekonomi Umat Berbasis Masjid - BAZNAS Kota Ambon",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 00:51:06 GMT",
-      "link": "https://kotaambon.baznas.go.id/berita/news-show/baznas-ri-perkuat-kolaborasi-dengan-kementerian-investasi-dan-hilirisasi-untuk-mendorong-ekonomi-umat-berbasis-masjid/49196"
-    },
-    {
-      "title": "Luncurkan Katalis 2.0, RI-Australia Perluas Kerja Sama Multisektor - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "link": "https://www.kompas.id/artikel/katalis-20-ia-cepa-perluas-kerja-sama-multisektor-ri-australia"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 17:19:04 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260714/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 17:16:04 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260714/OTYy"
     }
   ]
 }
