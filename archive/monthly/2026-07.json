@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-13T23:52:45.511837",
+  "generated_at": "2026-07-14T02:12:49.287698",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 55,
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 62,
-    "danantara": 40,
+    "danantara": 39,
     "perdagangan": 12,
     "ekspor": 4,
-    "investasi": 33,
+    "investasi": 34,
     "umkm": 6,
     "koperasi": 59,
     "kartel-monopoli": 5,
@@ -98,6 +98,27 @@
     "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "KPPU Tetapkan Gopprera Panggabean Ketua dan Hilman Pujana Sebagai Wakil Ketua Periode Juli 2026–Januari 2029 - KLIK7TV",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 01:59:34 GMT",
+      "link": "https://klik7tv.co.id/2026/07/14/kppu-tetapkan-gopprera-panggabean-ketua-dan-hilman-pujana-sebagai-wakil-ketua-periode-juli-2026-januari-2029/"
+    },
+    {
+      "title": "BAZNAS RI Perkuat Kolaborasi dengan Kementerian Investasi dan Hilirisasi untuk Mendorong Ekonomi Umat Berbasis Masjid - BAZNAS Kota Ambon",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 00:51:06 GMT",
+      "link": "https://kotaambon.baznas.go.id/berita/news-show/baznas-ri-perkuat-kolaborasi-dengan-kementerian-investasi-dan-hilirisasi-untuk-mendorong-ekonomi-umat-berbasis-masjid/49196"
+    },
+    {
+      "title": "Luncurkan Katalis 2.0, RI-Australia Perluas Kerja Sama Multisektor - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "link": "https://www.kompas.id/artikel/katalis-20-ia-cepa-perluas-kerja-sama-multisektor-ri-australia"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 13 Jul 2026 12:43:00 GMT",
       "link": "https://sumeks.disway.id/sumsel/read/790297/pemkab-muara-enim-komitmen-sukseskan-koperasi-merah-putih"
-    },
-    {
-      "title": "Agenda Perampingan BUMN Dinilai Jadi Langkah Tepat untuk Perkuat Daya Saing Korporasi Negara - olenka.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 12:30:00 GMT",
-      "link": "https://olenka.id/agenda-perampingan-bumn-dinilai-jadi-langkah-tepat-untuk-perkuat-daya-saing-korporasi-negara"
-    },
-    {
-      "title": "LPDB Koperasi Perkuat Akses Pembiayaan dan Tampilkan KDKMP Unggulan di Puncak Harkopnas Ke-79 - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 13 Jul 2026 11:48:52 GMT",
-      "link": "https://indoposco.id/2026/07/13/lpdb-koperasi-perkuat-akses-pembiayaan-dan-tampilkan-kdkmp-unggulan-di-puncak-harkopnas-ke-79/"
-    },
-    {
-      "title": "Rizki Faisal Dorong Penerapan FTZ Bertahap di Seluruh Kepri untuk Perkuat Ekonomi Kepulauan - Fraksi Golkar",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Mon, 13 Jul 2026 11:32:34 GMT",
-      "link": "https://fraksigolkar.com/read/2324/rizki-faisal-dorong-penerapan-ftz-bertahap-di-seluruh-kepri-untuk-perkuat-ekonomi-kepulauan"
     }
   ]
 }
