@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T21:55:24.541272",
+  "generated_at": "2026-07-14T22:55:19.807666",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 55,
     "Golkar": 16,
-    "NasDem": 25,
-    "PKB": 21,
+    "NasDem": 26,
+    "PKB": 22,
     "PKS": 17,
     "PAN": 6,
     "Demokrat": 4
@@ -15,8 +15,8 @@
     "Gerindra": 51,
     "PDI-P": 95,
     "Golkar": 60,
-    "NasDem": 40,
-    "PKB": 40,
+    "NasDem": 41,
+    "PKB": 41,
     "PKS": 50,
     "PAN": 18,
     "Demokrat": 17
@@ -75,10 +75,10 @@
     "I Nengah Senantara": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 4,
+    "Subardi": 5,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 11,
+    "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 16,
@@ -94,10 +94,17 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
-    "Perdagangan": 36,
+    "Perdagangan": 37,
     "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "Transformasi koperasi petani tebu penting dilakukan - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 22:50:00 GMT",
+      "link": "https://jogja.antaranews.com/berita/841944/transformasi-koperasi-petani-tebu-penting-dilakukan"
+    },
     {
       "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
       "entity": "Kementerian Perdagangan",
@@ -169,6 +176,13 @@
       "link": "https://www.antaranews.com/berita/5649069/kemendag-optimalisasi-distribusi-minyakita-pastikan-stok-di-pasar-aman"
     },
     {
+      "title": "Kemendag optimalisasi distribusi Minyakita pastikan stok di pasar aman - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 10:42:37 GMT",
+      "link": "https://m.antaranews.com/berita/5649069/kemendag-optimalisasi-distribusi-minyakita-pastikan-stok-di-pasar-aman"
+    },
+    {
       "title": "26 Proyek Hilirisasi Senilai Rp225 Triliun Digarap Danantara - Cyrustimes.com",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -188,20 +202,6 @@
       "kind": "anggota",
       "published": "Tue, 14 Jul 2026 10:04:35 GMT",
       "link": "https://news.detik.com/berita/d-8573897/andre-rosiade-serahkan-ambulans-untuk-warga-pagambiran-tegaskan-hadir-dengan-kerja-nyata"
-    },
-    {
-      "title": "Kemendag Perketat Distribusi Minyakita Melalui BUMN Pangan - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 09:57:22 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-perketat-distribusi-minyakita-bumn"
-    },
-    {
-      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Sentralberita",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 09:56:18 GMT",
-      "link": "https://sentralberita.com/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
     }
   ]
 }
