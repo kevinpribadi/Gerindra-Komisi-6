@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T14:47:41.596398",
+  "generated_at": "2026-07-14T16:12:33.410611",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 54,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
+    "bumn": 59,
     "danantara": 42,
-    "perdagangan": 8,
-    "ekspor": 5,
+    "ekspor": 6,
+    "perdagangan": 6,
     "impor": 4,
     "investasi": 33,
-    "umkm": 4,
+    "umkm": 3,
     "koperasi": 61,
     "kartel-monopoli": 6,
     "ipo": 2,
@@ -94,10 +94,24 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
-    "Perdagangan": 32,
-    "Koperasi/UMKM": 60
+    "Perdagangan": 35,
+    "Koperasi/UMKM": 59
   },
   "top_headlines": [
+    {
+      "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 15:44:06 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5428761/pastikan-stok-di-pasar-aman-kemendag-optimalkan-distribusi-minyakita?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5428761"
+    },
+    {
+      "title": "Manfaatkan 46 Perjanjian Dagang, Mendag Genjot Ekspor Industri Padat Karya - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 14:46:00 GMT",
+      "link": "https://indoposco.id/2026/07/14/manfaatkan-46-perjanjian-dagang-mendag-genjot-ekspor-industri-padat-karya/"
+    },
     {
       "title": "Hari Koperasi Nasional ke-79, Bupati Sanjaya Apresiasi Peran 632 Koperasi di Tabanan - Gentra News",
       "entity": "Dekopin",
@@ -169,39 +183,25 @@
       "link": "https://news.detik.com/berita/d-8573897/andre-rosiade-serahkan-ambulans-untuk-warga-pagambiran-tegaskan-hadir-dengan-kerja-nyata"
     },
     {
+      "title": "Kemendag Perketat Distribusi Minyakita Melalui BUMN Pangan - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 09:57:22 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-perketat-distribusi-minyakita-bumn"
+    },
+    {
+      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Sentralberita",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 09:56:18 GMT",
+      "link": "https://sentralberita.com/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
+    },
+    {
       "title": "[HOAKS] - TAUTAN PENDAFTARAN REKRUTMEN PEGAWAI KOPERASI DESA MERAH PUTIH JULI 2026 - Jala Hoaks",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 08:39:02 GMT",
       "link": "https://jalahoaks.jakarta.go.id/detail/Hoaks-Tautan-Pendaftaran-Rekrutmen-Pegawai-Koperasi-Desa-Merah-Putih-Juli-2026"
-    },
-    {
-      "title": "Koperasi Merah Putih Berpotensi Bunuh Warung bila Salah Fungsi - Niaga.Asia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 08:28:45 GMT",
-      "link": "https://www.niaga.asia/koperasi-merah-putih-berpotensi-bunuh-warung-bila-salah-fungsi/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dampingi Dua Santri Korban Pembakaran di Ponpes Lombok Tengah untuk Minta Perlindungan LPSK - Poskotaonline",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 08:21:31 GMT",
-      "link": "https://poskota.co/hukum-kriminal/rieke-diah-pitaloka-dampingi-dua-santri-korban-pembakaran-di-ponpes-lombok-tengah-untuk-minta-perlindungan-lpsk/"
-    },
-    {
-      "title": "Mampu Serap 37 Ribu Tenaga Kerja, BPI Danantara Garap 26 Proyek Hilirisasi Senilai Rp225 T - mitrapost.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 08:17:28 GMT",
-      "link": "https://mitrapost.com/2026/07/14/mampu-serap-37-ribu-tenaga-kerja-bpi-danantara-garap-26-proyek-hilirisasi-senilai-rp225-t/"
-    },
-    {
-      "title": "KPPU dan OJK Perkuat Sinergi Menjaga Persaingan Usaha Sehat - Segmen News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 07:23:22 GMT",
-      "link": "https://segmennews.com/2026/07/14/kppu-dan-ojk-perkuat-sinergi-menjaga-persaingan-usaha-sehat/"
     }
   ]
 }
