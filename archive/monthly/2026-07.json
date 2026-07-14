@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T07:59:38.604173",
+  "generated_at": "2026-07-14T10:06:47.790362",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 54,
+    "PDI-P": 52,
     "Golkar": 15,
-    "NasDem": 27,
+    "NasDem": 26,
     "PKB": 22,
     "PKS": 18,
     "PAN": 4,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 59,
-    "danantara": 41,
+    "danantara": 42,
     "perdagangan": 11,
     "ekspor": 4,
     "investasi": 35,
@@ -98,6 +98,27 @@
     "Koperasi/UMKM": 62
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Merah Putih Berpotensi Bunuh Warung bila Salah Fungsi - Niaga.Asia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 08:28:45 GMT",
+      "link": "https://www.niaga.asia/koperasi-merah-putih-berpotensi-bunuh-warung-bila-salah-fungsi/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dampingi Dua Santri Korban Pembakaran di Ponpes Lombok Tengah untuk Minta Perlindungan LPSK - Poskotaonline",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 08:21:31 GMT",
+      "link": "https://poskota.co/hukum-kriminal/rieke-diah-pitaloka-dampingi-dua-santri-korban-pembakaran-di-ponpes-lombok-tengah-untuk-minta-perlindungan-lpsk/"
+    },
+    {
+      "title": "Mampu Serap 37 Ribu Tenaga Kerja, BPI Danantara Garap 26 Proyek Hilirisasi Senilai Rp225 T - mitrapost.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 08:17:28 GMT",
+      "link": "https://mitrapost.com/2026/07/14/mampu-serap-37-ribu-tenaga-kerja-bpi-danantara-garap-26-proyek-hilirisasi-senilai-rp225-t/"
+    },
     {
       "title": "KPPU dan OJK Perkuat Sinergi Menjaga Persaingan Usaha Sehat - Segmen News",
       "entity": "KPPU",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 04:45:00 GMT",
       "link": "https://investor.id/business/446449/koperasi-dioptimalkan-untuk-dukung-targetpertumbuhan-ekonomi-8"
-    },
-    {
-      "title": "Harkopnas ke-79, Prabowo Serukan Kebangkitan Koperasi sebagai Motor Penggerak Ekonomi Indonesia - Kompas.tv",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 04:26:00 GMT",
-      "link": "https://www.kompas.tv/nasional/680364/harkopnas-ke-79-prabowo-serukan-kebangkitan-koperasi-sebagai-motor-penggerak-ekonomi-indonesia"
-    },
-    {
-      "title": "Harkopnas ke-79, Prabowo Serukan Kebangkitan Koperasi sebagai Motor Penggerak Ekonomi Indonesia - Kompas.tv",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 04:26:00 GMT",
-      "link": "https://www.kompas.tv/nasional/680364/harkopnas-ke-79-prabowo-serukan-kebangkitan-koperasi-sebagai-motor-penggerak-ekonomi-indonesia"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Ingatkan Risiko Pencucian Uang Gaya Baru di Balik RUU Perampasan Aset - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 04:14:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-ingatkan-risiko-pencucian-uang-gaya-baru-di-balik-ruu-perampasan-aset-b2pWQZbgzT"
     }
   ]
 }
