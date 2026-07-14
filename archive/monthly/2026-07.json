@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T16:12:33.410611",
+  "generated_at": "2026-07-14T18:00:49.153178",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 54,
-    "Golkar": 15,
+    "Golkar": 16,
     "NasDem": 25,
     "PKB": 21,
     "PKS": 17,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 50,
     "PDI-P": 93,
-    "Golkar": 59,
+    "Golkar": 60,
     "NasDem": 40,
     "PKB": 40,
     "PKS": 50,
@@ -67,7 +67,7 @@
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
-    "Firnando Hadityo Ganinduto": 6,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 12,
     "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
@@ -94,10 +94,17 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
-    "Perdagangan": 35,
+    "Perdagangan": 36,
     "Koperasi/UMKM": 59
   },
   "top_headlines": [
+    {
+      "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 15:44:06 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5428761/pastikan-stok-di-pasar-aman--kemendag-optimalkan-distribusi-minyakita"
+    },
     {
       "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
       "entity": "Kementerian Perdagangan",
@@ -195,13 +202,6 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 09:56:18 GMT",
       "link": "https://sentralberita.com/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
-    },
-    {
-      "title": "[HOAKS] - TAUTAN PENDAFTARAN REKRUTMEN PEGAWAI KOPERASI DESA MERAH PUTIH JULI 2026 - Jala Hoaks",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 08:39:02 GMT",
-      "link": "https://jalahoaks.jakarta.go.id/detail/Hoaks-Tautan-Pendaftaran-Rekrutmen-Pegawai-Koperasi-Desa-Merah-Putih-Juli-2026"
     }
   ]
 }
