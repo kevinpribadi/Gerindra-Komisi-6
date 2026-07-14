@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T12:09:30.595861",
+  "generated_at": "2026-07-14T14:47:41.596398",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 53,
+    "Gerindra": 18,
+    "PDI-P": 54,
     "Golkar": 15,
     "NasDem": 25,
     "PKB": 21,
     "PKS": 17,
     "PAN": 6,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 49,
-    "PDI-P": 92,
+    "Gerindra": 50,
+    "PDI-P": 93,
     "Golkar": 59,
     "NasDem": 40,
     "PKB": 40,
@@ -39,9 +39,9 @@
     "perdagangan": 8,
     "ekspor": 5,
     "impor": 4,
-    "investasi": 34,
+    "investasi": 33,
     "umkm": 4,
-    "koperasi": 62,
+    "koperasi": 61,
     "kartel-monopoli": 6,
     "ipo": 2,
     "merger-akuisisi": 2,
@@ -50,11 +50,11 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 4,
+    "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 13,
     "Mulyadi": 8,
-    "Adisatrya Suryo Sulisto": 17,
+    "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 11,
     "Darmadi Durianto": 19,
     "Rieke Diah Pitaloka": 20,
@@ -95,9 +95,37 @@
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
     "Perdagangan": 32,
-    "Koperasi/UMKM": 61
+    "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "Hari Koperasi Nasional ke-79, Bupati Sanjaya Apresiasi Peran 632 Koperasi di Tabanan - Gentra News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 14:43:31 GMT",
+      "link": "https://gentra.co.id/2026/07/14/hari-koperasi-nasional-ke-79-bupati-sanjaya-apresiasi-peran-632-koperasi-di-tabanan/"
+    },
+    {
+      "title": "Kemenbud dan Danantara Perkuat Ekosistem Pemajuan Kebudayaan - TVRI News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 13:06:58 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tiuuljc-kemenbud-dan-danantara-perkuat-ekosistem-pemajuan-kebudayaan"
+    },
+    {
+      "title": "Perkuat Ekonomi Daerah, Bupati Satria Ajak Pengurus Baru Dekopinda Berkolaborasi Sejahterakan Masyarakat - Baliberkarya.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 13:04:34 GMT",
+      "link": "https://www.baliberkarya.com/berita/202208165141/perkuat-ekonomi-daerah-bupati-satria-ajak-pengurus-baru-dekopinda-berkolaborasi-sejahterakan-masyarakat"
+    },
+    {
+      "title": "Adisatrya Suryo Sulisto Tegaskan Bantuan PIP Harus Diterima Utuh Oleh Siswa, Tanpa Potongan - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Tue, 14 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-tegaskan-bantuan-pip-harus-diterima-utuh-oleh-siswa-tanpa-potongan-b2pWOZbgx5"
+    },
     {
       "title": "Wagub Vasko Minta Stadion Agus Salim Ada Gonjong, Andre Rosiade: Desain Tidak Bisa Diubah - Langgam.id",
       "entity": "Andre Rosiade",
@@ -125,6 +153,13 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 10:31:00 GMT",
       "link": "https://cyrustimes.com/26-proyek-hilirisasi-senilai-rp225-triliun-digarap-danantara/"
+    },
+    {
+      "title": "Pemerintah Tegaskan Komitmen Perkuat Koperasi Sebagai Pilar Ekonomi Rakyat - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 14 Jul 2026 10:10:00 GMT",
+      "link": "https://tv.sinpo.id/detail/pemerintah-tegaskan-komitmen-perkuat-koperasi-sebagai-pilar-ekonomi-rakyat"
     },
     {
       "title": "Andre Rosiade Serahkan Ambulans untuk Warga Pagambiran, Tegaskan Hadir dengan Kerja Nyata - detikNews",
@@ -167,41 +202,6 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 07:23:22 GMT",
       "link": "https://segmennews.com/2026/07/14/kppu-dan-ojk-perkuat-sinergi-menjaga-persaingan-usaha-sehat/"
-    },
-    {
-      "title": "Modernisasi TPK Batu Ampar pangkas biaya logistik ekspor Batam - ANTARA News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 07:01:09 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5648567/modernisasi-tpk-batu-ampar-pangkas-biaya-logistik-ekspor-batam"
-    },
-    {
-      "title": "Kajati Sumbar Puji Andre Rosiade Inisiasi Proyek Tol Bukittinggi-Sicincin - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 06:48:04 GMT",
-      "link": "https://news.detik.com/berita/d-8573488/kajati-sumbar-puji-andre-rosiade-inisiasi-proyek-tol-bukittinggi-sicincin"
-    },
-    {
-      "title": "DPR RI Soroti Koperasi Merah Putih Berpotensi Bunuh Warung Kelontong, Darmadi: Kemenkop Harus Menganalisis dan Memverifikasi Dampaknya - Trans89.com",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 06:45:59 GMT",
-      "link": "https://trans89.com/2026/07/14/dpr-ri-soroti-koperasi-merah-putih-berpotensi-bunuh-warung-kelontong-darmadi-kemenkop-harus-menganalisis-dan-memverifikasi-dampaknya"
-    },
-    {
-      "title": "Firnando Soroti Gagal Bayar Pos Indonesia Rp 24 M, Desak Danantara Tindak Tegas - Kedai Pena",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 06:35:35 GMT",
-      "link": "https://www.kedaipena.com/firnando-soroti-gagal-bayar-pos-indonesia-rp-24-m-desak-danantara-tindak-tegas/"
-    },
-    {
-      "title": "Menkop Sambangi Kediaman Bung Hatta, Tegaskan Komitmen Melanjutkan Semangat Pengembangan Koperasi Indonesia - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 06:02:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-sambangi-kediaman-bung-hatta-tegaskan-komitmen-melanjutkan-semangat-pengembangan-koperasi-indonesia/"
     }
   ]
 }
