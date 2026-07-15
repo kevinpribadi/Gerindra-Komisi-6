@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T02:11:14.447170",
+  "generated_at": "2026-07-15T05:28:42.375153",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 55,
+    "Gerindra": 16,
+    "PDI-P": 56,
     "Golkar": 16,
     "NasDem": 26,
-    "PKB": 22,
+    "PKB": 18,
     "PKS": 16,
     "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 51,
-    "PDI-P": 95,
+    "PDI-P": 96,
     "Golkar": 60,
     "NasDem": 41,
     "PKB": 41,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
+    "bumn": 58,
     "danantara": 41,
-    "ekspor": 6,
-    "perdagangan": 5,
+    "ekspor": 11,
+    "perdagangan": 3,
     "impor": 4,
-    "investasi": 32,
-    "koperasi": 61,
+    "koperasi": 62,
+    "investasi": 31,
     "umkm": 2,
     "kartel-monopoli": 6,
     "ipo": 3,
@@ -56,7 +56,7 @@
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 12,
-    "Darmadi Durianto": 19,
+    "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 5,
@@ -93,115 +93,115 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 41,
-    "Perdagangan": 38,
+    "Hukum/Audit": 42,
+    "Perdagangan": 42,
     "Koperasi/UMKM": 58
   },
   "top_headlines": [
     {
-      "title": "- indoposco - indoposco.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Sarasehan KDMP, Koperasi Sebagai Ujung Tombak Ekonomi Kerakyatan - SuaraBaru.id",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 02:03:42 GMT",
-      "link": "https://indoposco.id/2026/07/15/481554/"
+      "published": "Wed, 15 Jul 2026 05:15:30 GMT",
+      "link": "https://suarabaru.id/2026/07/15/sarasehan-kdmp-koperasi-sebagai-ujung-tombak-ekonomi-kerakyatan"
     },
     {
-      "title": "Kritik Rieke Diah: Anggaran kasus perempuan-anak Polres cuma Rp 1 juta - Elshinta",
+      "title": "Kementerian Koperasi Laporkan Realisasi Anggaran Rp 1 Triliun - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:10:26 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-koperasi-laporkan-realisasi-anggaran"
+    },
+    {
+      "title": "Pemerintah Gandeng Danantara Bakal Optimalkan Hotel Sultan - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:08:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/15/714625/pemerintah-gandeng-danantara-bakal-optimalkan-hotel-sultan-"
+    },
+    {
+      "title": "Menkop Lapor Realisasi Anggaran ke DPR, Mayoritas buat Kopdes Merah Putih - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:06:26 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8574909/menkop-lapor-realisasi-anggaran-ke-dpr-mayoritas-buat-kopdes-merah-putih"
+    },
+    {
+      "title": "Indonesia Pererat Kerja Sama Ekonomi Strategis dengan Australia - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:04:43 GMT",
+      "link": "https://www.niaga.asia/indonesia-pererat-kerja-sama-ekonomi-strategis-dengan-australia/"
+    },
+    {
+      "title": "Kemendag Dukung Epson Perluas Ekspor ke Afrika dan Timur Tengah - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:00:00 GMT",
+      "link": "https://swa.co.id/read/474952/kemendag-dukung-epson-perluas-ekspor-ke-afrika-dan-timur-tengah"
+    },
+    {
+      "title": "Kembali ke Tangan Negara, Hotel Sultan Bakal Dirombak Danantara - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 04:44:17 GMT",
+      "link": "https://afu.id/nasional/kembali-ke-tangan-negara-hotel-sultan-bakal-dirombak-danantara"
+    },
+    {
+      "title": "Mendag Ajak Industri Manfaatkan Perjanjian Dagang demi Tingkatkan Ekspor - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 04:40:22 GMT",
+      "link": "https://www.metrotvnews.com/read/N0BC10nq-mendag-ajak-industri-manfaatkan-perjanjian-dagang-demi-tingkatkan-ekspor"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Harap Perluasan Mandat Kemensetneg Diiringi Penguatan Akuntabilitas Konstitusional - Telusur.co.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 01:39:02 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kritik-rieke-diah-anggaran-kasus-perempuan-anak-polres-cuma-rp-1-juta-170314"
+      "published": "Wed, 15 Jul 2026 04:36:52 GMT",
+      "link": "https://telusur.co.id/detail/rieke-diah-pitaloka-harap-perluasan-mandat-kemensetneg-diiringi-penguatan-akuntabilitas-konstitusional"
     },
     {
-      "title": "Sarasehan KDKMP, Mengembalikan Jati Diri Koperasi - Sekretariat Daerah Kabupaten Purworejo",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 01:01:25 GMT",
-      "link": "https://setda.purworejokab.go.id/sarasehan-kdkmp-mengembalikan-jati-diri-koperasi"
-    },
-    {
-      "title": "Pemerintah Dorong Distribusi Minyakita untuk Stabilkan Harga - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 01:01:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/pemerintah-dorong-distribusi-minyakita-untuk-stabilkan-harga-2275879"
-    },
-    {
-      "title": "Jalur Dalam Negeri Pencucian Hasil Kejahatan Sumber Daya Alam - Betahita",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 00:18:37 GMT",
-      "link": "https://www.betahita.id/opini/12180/jalur-dalam-negeri-pencucian-hasil-kejahatan-sumber-daya-alam"
-    },
-    {
-      "title": "Transformasi koperasi petani tebu penting dilakukan - ANTARA News Yogyakarta",
+      "title": "Kemenkop Perkuat Tata Kelola Koperasi Petani Tebu untuk Mendorong Ketahanan Pangan Nasional - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 22:50:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/841944/transformasi-koperasi-petani-tebu-penting-dilakukan"
+      "published": "Wed, 15 Jul 2026 04:36:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-perkuat-tata-kelola-koperasi-petani-tebu-untuk-mendorong-ketahanan-pangan-nasional/"
     },
     {
-      "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
+      "title": "RI menang parsial dalam sengketa asam lemak dengan Uni Eropa - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 15:44:06 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5428761/pastikan-stok-di-pasar-aman--kemendag-optimalkan-distribusi-minyakita"
+      "published": "Wed, 15 Jul 2026 04:25:27 GMT",
+      "link": "https://www.antaranews.com/berita/5649945/ri-menang-parsial-dalam-sengketa-asam-lemak-dengan-uni-eropa"
     },
     {
-      "title": "Pastikan Stok di Pasar Aman, Kemendag Optimalkan Distribusi Minyakita - RCTI+",
+      "title": "Menang Sengketa WTO, Mendag Pastikan Tak Berhenti Kawal Akses Ekspor ke UE - SinPo.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 15:44:06 GMT",
-      "link": "https://m.rctiplus.com/news/detail/terkini/5428761/pastikan-stok-di-pasar-aman-kemendag-optimalkan-distribusi-minyakita?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5428761"
+      "published": "Wed, 15 Jul 2026 04:10:44 GMT",
+      "link": "https://sinpo.id/detail/124343/menang-sengketa-wto-mendag-pastikan-tak-berhenti-kawal-akses-ekspor-ke-ue"
     },
     {
-      "title": "Manfaatkan 46 Perjanjian Dagang, Mendag Genjot Ekspor Industri Padat Karya - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 14:46:00 GMT",
-      "link": "https://indoposco.id/2026/07/14/manfaatkan-46-perjanjian-dagang-mendag-genjot-ekspor-industri-padat-karya/"
+      "title": "| Legislator PDIP: Keberhasilan Kemensetneg Tak Cukup Diukur dari Opini WTP - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 04:00:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661960/legislator-pdip-keberhasilan-kemensetneg-tak-cukup-diukur-dari-opini-wtp/"
     },
     {
-      "title": "Hari Koperasi Nasional ke-79, Bupati Sanjaya Apresiasi Peran 632 Koperasi di Tabanan - Gentra News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 14:43:31 GMT",
-      "link": "https://gentra.co.id/2026/07/14/hari-koperasi-nasional-ke-79-bupati-sanjaya-apresiasi-peran-632-koperasi-di-tabanan/"
-    },
-    {
-      "title": "Kemenbud dan Danantara Perkuat Ekosistem Pemajuan Kebudayaan - TVRI News",
+      "title": "Proyek Ekspor Listrik EBT, Danantara Diminta Buka Ruang ke Swasta - Bloomberg Technoz",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 13:06:58 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tiuuljc-kemenbud-dan-danantara-perkuat-ekosistem-pemajuan-kebudayaan"
+      "published": "Wed, 15 Jul 2026 03:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115064/proyek-ekspor-listrik-ebt-danantara-diminta-buka-ruang-ke-swasta"
     },
     {
-      "title": "Perkuat Ekonomi Daerah, Bupati Satria Ajak Pengurus Baru Dekopinda Berkolaborasi Sejahterakan Masyarakat - Baliberkarya.com",
-      "entity": "Dekopin",
+      "title": "Mendag Budi Santoso Dorong Epson Tingkatkan Ekspor, Manfaatkan 20 Perjanjian Dagang Indonesia - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 13:04:34 GMT",
-      "link": "https://www.baliberkarya.com/berita/202208165141/perkuat-ekonomi-daerah-bupati-satria-ajak-pengurus-baru-dekopinda-berkolaborasi-sejahterakan-masyarakat"
-    },
-    {
-      "title": "Adisatrya Suryo Sulisto Tegaskan Bantuan PIP Harus Diterima Utuh Oleh Siswa, Tanpa Potongan - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-tegaskan-bantuan-pip-harus-diterima-utuh-oleh-siswa-tanpa-potongan-b2pWOZbgx5"
-    },
-    {
-      "title": "Wagub Vasko Minta Stadion Agus Salim Ada Gonjong, Andre Rosiade: Desain Tidak Bisa Diubah - Langgam.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 12:03:54 GMT",
-      "link": "https://langgam.id/wagub-vasko-minta-stadion-haji-agus-salim-ada-gonjong-andre-rosiade-desain-tidak-bisa-diubah/"
-    },
-    {
-      "title": "Koperasi Tebu Diperkuat, Hasil Panen Diserap Pabrik Gula - Radio Idola Semarang",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 11:16:16 GMT",
-      "link": "https://radioidola.com/2026/koperasi-tebu-diperkuat-hasil-panen-diserap-pabrik-gula/"
+      "published": "Wed, 15 Jul 2026 03:27:01 GMT",
+      "link": "https://suarapemerintah.id/2026/07/mendag-budi-santoso-dorong-epson-tingkatkan-ekspor-manfaatkan-20-perjanjian-dagang-indonesia/"
     }
   ]
 }
