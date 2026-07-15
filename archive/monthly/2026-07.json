@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T08:04:57.025681",
+  "generated_at": "2026-07-15T10:47:29.750273",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 19,
     "PDI-P": 57,
     "Golkar": 16,
     "NasDem": 26,
-    "PKB": 14,
+    "PKB": 12,
     "PKS": 14,
     "PAN": 6,
     "Demokrat": 4
@@ -17,7 +17,7 @@
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
-    "PKS": 50,
+    "PKS": 51,
     "PAN": 18,
     "Demokrat": 17
   },
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 58,
-    "danantara": 40,
-    "ekspor": 12,
-    "perdagangan": 3,
     "koperasi": 65,
+    "danantara": 40,
+    "ekspor": 11,
     "investasi": 31,
     "kartel-monopoli": 6,
+    "perdagangan": 1,
     "ipo": 3,
     "umkm": 1,
     "merger-akuisisi": 2,
@@ -81,7 +81,7 @@
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 16,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 13,
     "Ghufran": 2,
     "Ismail": 19,
@@ -93,115 +93,115 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 42,
+    "Hukum/Audit": 39,
     "Perdagangan": 41,
-    "Koperasi/UMKM": 60
+    "Koperasi/UMKM": 59
   },
   "top_headlines": [
     {
-      "title": "Subardi Tegaskan Koperasi Merah Putih Harus Berdayakan Potensi Lokal - DPP Partai NasDem",
-      "entity": "Subardi",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 08:00:50 GMT",
-      "link": "https://partainasdem.id/2026/07/15/subardi-tegaskan-koperasi-merah-putih-harus-berdayakan-potensi-lokal/"
-    },
-    {
-      "title": "Hadiri Sosialisasi LPDB, Wamentan: Koperasi jadi Penopang Kesejahteraan Petani Tebu - Tabloid Sinar Tani",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:36:00 GMT",
-      "link": "https://tabloidsinartani.com/detail//indeks/kebun/27703-Hadiri-Sosialisasi-LPDB-Wamentan-Koperasi-jadi-Penopang-Kesejahteraan-Petani-Tebu"
-    },
-    {
-      "title": "Isu Belanja Kipas Angin Kopdes Rp1,8 Triliun, Menkop Mengaku Tak Tahu - AFU.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:35:07 GMT",
-      "link": "https://afu.id/nasional/isu-belanja-kipas-angin-kopdes-rp18-triliun-menkop-mengaku-tak-tahu"
-    },
-    {
-      "title": "Pelantikan dan Pengambilan Sumpah Jabatan Pejabat Administrasi dan Pejabat Fungsional di Lingkungan Kemendag - kemendag.go.id",
+      "title": "Kemendag Terima 1.911 Layanan Konsumen Semester I-2026, Ini Sektor Terbanyak Diadukan - kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:13:37 GMT",
-      "link": "https://www.kemendag.go.id/berita/foto/pelantikan-dan-pengambilan-sumpah-jabatan-pejabat-administrasi-dan-pejabat-fungsional-di-lingkungan-kemendag"
+      "published": "Wed, 15 Jul 2026 10:32:05 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-terima-1911-layanan-konsumen-semester-i-2026-ini-sektor-terbanyak-diadukan"
     },
     {
-      "title": "Menkop: 83 Ribu Koperasi Desa Rampung Badan Hukum - INAnews",
+      "title": "Harga Minyakita di Atas HET, Kemendag Sebut Penyaluran Capai 51 Persen - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 10:25:55 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260714195801-92-1380744/harga-minyakita-di-atas-het-kemendag-sebut-penyaluran-capai-51-persen"
+    },
+    {
+      "title": "Wagub Dimyati: Koperasi Jadi Penggerak Ekonomi Berbasis Gotong Royong - Pemerintah Provinsi Banten",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 10:18:32 GMT",
+      "link": "https://bantenprov.go.id/berita/wagub-dimyati-koperasi-jadi-penggerak-ekonomi-berbasis-gotong-royong"
+    },
+    {
+      "title": "Menkop Jelaskan soal Koperasi Boleh Kelola Tambang: Sebaiknya Bukan KDMP - detikNews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:06:00 GMT",
-      "link": "https://www.inanews.co.id/2026/07/menkop-83-ribu-koperasi-desa-rampung-badan-hukum/"
+      "published": "Wed, 15 Jul 2026 10:10:04 GMT",
+      "link": "https://news.detik.com/berita/d-8575550/menkop-jelaskan-soal-koperasi-boleh-kelola-tambang-sebaiknya-bukan-kdmp"
     },
     {
-      "title": "Legislator ingatkan KemenHAM ukur kinerja sesuai mandat Perpres - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 07:03:20 GMT",
-      "link": "https://www.antaranews.com/berita/5650112/legislator-ingatkan-kemenham-ukur-kinerja-sesuai-mandat-perpres"
+      "title": "Kemenkop: Gaji Pegawai Koperasi Merah Putih Tergantung Pendapatan Usaha - Kupas Tuntas",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 10:06:00 GMT",
+      "link": "https://kupastuntas.co/2026/07/15/kemenkop-gaji-pegawai-koperasi-merah-putih-tergantung-pendapatan-usaha"
     },
     {
-      "title": "Mensesneg sebut Hotel Sultan dioptimalkan untuk pemasukan negara - ANTARA News Megapolitan",
+      "title": "Bangun Koperasi yang Sehat, Dekopinda Purworejo Gelar Sarasehan Koperasi Desa Merah Putih - Pituruh News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 10:02:00 GMT",
+      "link": "https://www.pituruhnews.com/2026/07/bangun-koperasi-yang-sehat-dekopinda.html"
+    },
+    {
+      "title": "Rosan Kaji Danantara Miliki Saham di Bursa, Berapa Persen? - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:00:17 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/540312/mensesneg-sebut-hotel-sultan-dioptimalkan-untuk-pemasukan-negara"
+      "published": "Wed, 15 Jul 2026 09:52:06 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260715164421-4-751090/rosan-kaji-danantara-miliki-saham-di-bursa-berapa-persen"
     },
     {
-      "title": "Kemenkop Bahas Evaluasi Program Koperasi Merah Putih di DPR - RM.ID",
+      "title": "MoU Antara BPKN RI dan LSKK Sepakat Jalin Kerjasama Dalam Melindungi Konsumen Indonesia - radaronline.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 09:51:25 GMT",
+      "link": "https://www.radaronline.id/2026/07/15/mou-antara-bpkn-ri-dan-lskk-sepakat-jalin-kerjasama-dalam-melindungi-konsumen-indonesia/"
+    },
+    {
+      "title": "Legislator PDIP Ingatkan: Penilaian Kinerja Kemenhum Juga Meliputi Kualitas Reformasi Hukum - Kedai Pena",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 09:39:21 GMT",
+      "link": "https://www.kedaipena.com/legislator-pdip-ingatkan-penilaian-kinerja-kemenhum-juga-meliputi-kualitas-reformasi-hukum/"
+    },
+    {
+      "title": "Kemenkop Rancang Modal Bisnis Koperasi Merah Putih di Kota Besar - investor.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "link": "https://rm.id/lihat-foto/government-action/317771/kemenkop-bahas-evaluasi-program-koperasi-merah-putih-di-dpr"
+      "published": "Wed, 15 Jul 2026 09:37:03 GMT",
+      "link": "https://investor.id/macroeconomy/446629/kemenkop-rancang-modal-bisnis-koperasi-merah-putih-di-kota-besar"
     },
     {
-      "title": "Kolaborasi Kemendag–KADIN Hadirkan Buku Referensi Produk Ekspor Indonesia - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 06:49:27 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/15/kolaborasi-kemendag-kadin-hadirkan-buku-referensi-produk-ekspor-indonesia/"
-    },
-    {
-      "title": "Kawendra: Kemenkop Awasi KDMP Libatkan Talenta Lokal - bangkaterkini.id",
-      "entity": "Kawendra Lukistian",
+      "title": "| Anggota DPR Desak Reformasi Aturan Pengelolaan Aset Hasil Kejahatan - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 06:05:48 GMT",
-      "link": "https://bangkaterkini.id/berita/kawendra-kemenkop-awasi-kdmp-libatkan-talenta-lokal/"
+      "published": "Wed, 15 Jul 2026 09:31:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1661989/anggota-dpr-desak-reformasi-aturan-pengelolaan-aset-hasil-kejahatan/"
     },
     {
-      "title": "Pemerintah Dorong Ekspor Industri Padat Karya melalui Perjanjian Dagang - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
+      "title": "Serapan Anggaran Kemenkop Capai 87,25%, Dana Dekonsentrasi Jadi Tantangan - kontan.co.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 06:01:08 GMT",
-      "link": "https://www.niaga.asia/pemerintah-dorong-ekspor-industri-padat-karya-melalui-perjanjian-dagang/"
+      "published": "Wed, 15 Jul 2026 09:26:50 GMT",
+      "link": "https://industri.kontan.co.id/news/serapan-anggaran-kemenkop-capai-8725-dana-dekonsentrasi-jadi-tantangan"
     },
     {
-      "title": "Kawendra: KDMP untuk Ciptakan Lapangan Kerja, Jadi Libatkan Talenta Lokal - detikNews",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 06:01:01 GMT",
-      "link": "https://news.detik.com/berita/d-8575040/kawendra-kdmp-untuk-ciptakan-lapangan-kerja-jadi-libatkan-talenta-lokal"
+      "title": "Prabowo Kumpulkan Menteri dan Dirut BUMN Bahas Percepatan Kopdes Merah Putih - JPNN.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 09:26:19 GMT",
+      "link": "https://www.jpnn.com/news/prabowo-kumpulkan-menteri-dan-dirut-bumn-bahas-percepatan-kopdes-merah-putih"
     },
     {
-      "title": "Sarasehan KDMP Purworejo, Bupati Yuli: Koperasi Harus Kembali Jadi Motor Ekonomi Rakyat - sorot.co",
+      "title": "Ketua Dekopin Sebut Koperasi Kini Jadi Prioritas Negara - INAnews",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:45:00 GMT",
-      "link": "https://sorot.co/berita/sarasehan-kdmp-purworejo-bupati-yuli-koperasi-harus-kembali-jadi-motor-ekonomi-rakyat"
+      "published": "Wed, 15 Jul 2026 09:08:00 GMT",
+      "link": "https://www.inanews.co.id/2026/07/ketua-dekopin-sebut-koperasi-kini-jadi-prioritas-negara/"
     },
     {
-      "title": "Mufti Anam PDIP Dukung Koperasi Merah Putih untuk Kesejahteraan Masyarakat - detikNews",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 05:24:20 GMT",
-      "link": "https://news.detik.com/berita/d-8574955/mufti-anam-pdip-dukung-koperasi-merah-putih-untuk-kesejahteraan-masyarakat"
-    },
-    {
-      "title": "Sarasehan KDMP, Koperasi Sebagai Ujung Tombak Ekonomi Kerakyatan - SuaraBaru.id",
-      "entity": "Dekopin",
+      "title": "Biaya Logistik Batam-Shanghai Turun - Batam Pos",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:15:30 GMT",
-      "link": "https://suarabaru.id/2026/07/15/sarasehan-kdmp-koperasi-sebagai-ujung-tombak-ekonomi-kerakyatan"
+      "published": "Wed, 15 Jul 2026 08:45:31 GMT",
+      "link": "https://metropolis.batampos.co.id/biaya-logistik-batam-shanghai-turun/"
     }
   ]
 }
