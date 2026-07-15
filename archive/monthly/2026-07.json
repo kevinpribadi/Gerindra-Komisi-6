@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T21:58:05.363224",
+  "generated_at": "2026-07-15T23:01:12.341598",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 53,
@@ -39,7 +39,7 @@
     "danantara": 40,
     "umkm": 2,
     "ekspor": 11,
-    "investasi": 32,
+    "investasi": 31,
     "kartel-monopoli": 6,
     "perdagangan": 1,
     "ipo": 3,
@@ -98,6 +98,20 @@
     "Koperasi/UMKM": 64
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Merah Putih Jangan Sekadar Berdiri - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 22:10:41 GMT",
+      "link": "https://insight.kontan.co.id/news/koperasi-merah-putih-jangan-sekadar-berdiri"
+    },
+    {
+      "title": "​Realisasi Anggaran Kementerian HAM Capai 98 Persen, Rieke Diah Pitaloka: Jangan Sekadar Keberhasilan Administratif - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 22:07:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/realisasi-anggaran-kementerian-ham-capai-98-persen-rieke-diah-pitaloka-jangan-sekadar-keberhasilan-administratif-b2pWRZbg2c"
+    },
     {
       "title": "KPPU Fokuskan Pengawasan pada Sektor Logistik dan Pangan - achmadnurhidayat.id",
       "entity": "KPPU",
@@ -188,20 +202,6 @@
       "kind": "anggota",
       "published": "Wed, 15 Jul 2026 15:04:06 GMT",
       "link": "https://www.politikindonesia.id/soroti-kinerja-kementerian-hukum-rieke-pnbp-bukan-ukuran-tapi-jaminan-keadilan"
-    },
-    {
-      "title": "Kemenpar Bahas Investasi Venue Konser dengan Danantara, Bidik Event Dunia - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 14:54:46 GMT",
-      "link": "https://industri.kontan.co.id/news/kemenpar-bahas-investasi-venue-konser-dengan-danantara-bidik-event-dunia"
-    },
-    {
-      "title": "KPPU sebut amendemen UU Persaingan Usaha perlu dipercepat - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 14:41:19 GMT",
-      "link": "https://www.antaranews.com/berita/5651212/kppu-sebut-amendemen-uu-persaingan-usaha-perlu-dipercepat"
     }
   ]
 }
