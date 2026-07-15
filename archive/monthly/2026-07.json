@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T16:19:41.697022",
+  "generated_at": "2026-07-15T18:05:04.728908",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 53,
     "Golkar": 16,
     "NasDem": 25,
-    "PKB": 10,
+    "PKB": 9,
     "PKS": 16,
     "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 53,
-    "PDI-P": 98,
+    "PDI-P": 99,
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
@@ -40,7 +40,7 @@
     "umkm": 2,
     "ekspor": 11,
     "investasi": 32,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 6,
     "perdagangan": 1,
     "ipo": 3,
     "merger-akuisisi": 2,
@@ -55,7 +55,7 @@
     "Kawendra Lukistian": 15,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 12,
+    "Mufti Anam": 13,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -93,11 +93,53 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 34,
     "Perdagangan": 41,
     "Koperasi/UMKM": 63
   },
   "top_headlines": [
+    {
+      "title": "KPPU Fokuskan Pengawasan pada Sektor Logistik dan Pangan - achmadnurhidayat.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 17:04:00 GMT",
+      "link": "https://achmadnurhidayat.id/kppu-fokus-pengawasan-logistik-pangan"
+    },
+    {
+      "title": "Prabowo Alihkan PT KCIC dari Danantara ke Purbaya, Proses Administrasi Segera Rampung - VIVA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 17:01:00 GMT",
+      "link": "https://www.viva.co.id/bisnis/1913812-prabowo-alihkan-pt-kcic-dari-danantara-ke-purbaya-proses-administrasi-segera-rampung"
+    },
+    {
+      "title": "Menteri Ferry Jelaskan Gaji Pegawai Koperasi Merah Putih - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:59:50 GMT",
+      "link": "https://bisnis.tempo.co/read/2113892/menteri-ferry-jelaskan-gaji-pegawai-koperasi-merah-putih"
+    },
+    {
+      "title": "Enam Perkara Diputus KPPU, Denda Capai Rp767 Miliar - Harian Jogja",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:57:13 GMT",
+      "link": "https://news.harianjogja.com/r-1263599/enam-perkara-diputus-kppu-denda-capai-rp767-miliar"
+    },
+    {
+      "title": "KPPU Bidik Sektor Pangan hingga Biaya Logistik Jadi Fokus Pengawasan - detikFinance",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:55:02 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8576027/kppu-bidik-sektor-pangan-hingga-biaya-logistik-jadi-fokus-pengawasan"
+    },
+    {
+      "title": "KPPU putus enam perkara dengan denda capai Rp767 miliar - ANTARA News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:16:52 GMT",
+      "link": "https://www.antaranews.com/berita/5651383/kppu-putus-enam-perkara-dengan-denda-capai-rp767-miliar"
+    },
     {
       "title": "BP BUMN: Pergantian Dirut Peruri sesuai kebutuhan - ANTARA News",
       "entity": "Badan Pengaturan BUMN",
@@ -134,6 +176,13 @@
       "link": "https://industri.kontan.co.id/news/kemenpar-bahas-investasi-venue-konser-dengan-danantara-bidik-event-dunia"
     },
     {
+      "title": "KPPU sebut amendemen UU Persaingan Usaha perlu dipercepat - ANTARA News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 14:41:19 GMT",
+      "link": "https://www.antaranews.com/berita/5651212/kppu-sebut-amendemen-uu-persaingan-usaha-perlu-dipercepat"
+    },
+    {
       "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -153,55 +202,6 @@
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 13:55:23 GMT",
       "link": "https://www.antaranews.com/berita/5651139/bp-bumn-komitmen-jaga-tata-kelola-dan-transparansi"
-    },
-    {
-      "title": "Hadapi Perubahan Bea Masuk Arab Saudi, Kemendag Tetap Dorong Daya Saing Produk Indonesia - kemendag.go.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:47:07 GMT",
-      "link": "https://www.kemendag.go.id/berita/siaran-pers/hadapi-perubahan-bea-masuk-arab-saudi-kemendag-tetap-dorong-daya-saing-produk-indonesia"
-    },
-    {
-      "title": "Gaji Pegawai Kopdes Tergantung Cuan Koperasi - AFU.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:45:46 GMT",
-      "link": "https://afu.id/nasional/gaji-pegawai-kopdes-tergantung-cuan-koperasi"
-    },
-    {
-      "title": "BPKN dan LSKK Jalin MoU Perlindungan Hak Konsumen - Nusantarapos.co.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:42:59 GMT",
-      "link": "https://nusantarapos.co.id/201104/bpkn-dan-lskk-jalin-mou-perlindungan-hak-konsumen/"
-    },
-    {
-      "title": "Anggota Komisi VI DPR RI Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Tiga Kasus BMT di Pekalongan - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 13:40:00 GMT",
-      "link": "https://radarpekalongan.disway.id/pekalongan/read/113253/anggota-komisi-vi-dpr-ri-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-tiga-kasus-bmt-di-pekalongan"
-    },
-    {
-      "title": "Anggota Komisi VI DPR RI Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Tiga Kasus BMT di Pekalongan - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 13:40:00 GMT",
-      "link": "https://radarpekalongan.disway.id/amp/113253/anggota-komisi-vi-dpr-ri-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-tiga-kasus-bmt-di-pekalongan"
-    },
-    {
-      "title": "Persaingan Usaha Makin Diawasi, KPPU Perkuat Kepatuhan Pelaku Bisnis - Koran Jakarta ®",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:35:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-15/persaingan-usaha-makin-diawasi-kppu-perkuat-kepatuhan-pelaku-bisnis"
-    },
-    {
-      "title": "Rosan Bicara Lagi Soal Danantara Miliki Saham di Bursa: Kita Berminat! - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:30:05 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260715165816-4-751091/rosan-bicara-lagi-soal-danantara-miliki-saham-di-bursa-kita-berminat"
     }
   ]
 }
