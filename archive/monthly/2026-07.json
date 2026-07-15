@@ -1,21 +1,21 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T05:28:42.375153",
+  "generated_at": "2026-07-15T08:04:57.025681",
   "party_counts_7d": {
-    "Gerindra": 16,
-    "PDI-P": 56,
+    "Gerindra": 20,
+    "PDI-P": 57,
     "Golkar": 16,
     "NasDem": 26,
-    "PKB": 18,
-    "PKS": 16,
+    "PKB": 14,
+    "PKS": 14,
     "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 51,
-    "PDI-P": 96,
+    "Gerindra": 53,
+    "PDI-P": 97,
     "Golkar": 60,
-    "NasDem": 41,
+    "NasDem": 42,
     "PKB": 41,
     "PKS": 50,
     "PAN": 18,
@@ -35,26 +35,26 @@
   },
   "topic_counts_30d": {
     "bumn": 58,
-    "danantara": 41,
-    "ekspor": 11,
+    "danantara": 40,
+    "ekspor": 12,
     "perdagangan": 3,
-    "impor": 4,
-    "koperasi": 62,
+    "koperasi": 65,
     "investasi": 31,
-    "umkm": 2,
     "kartel-monopoli": 6,
     "ipo": 3,
+    "umkm": 1,
     "merger-akuisisi": 2,
-    "dividen": 1
+    "dividen": 1,
+    "impor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 3,
-    "Kawendra Lukistian": 13,
+    "Kawendra Lukistian": 15,
     "Mulyadi": 8,
-    "Adisatrya Suryo Sulisto": 18,
+    "Adisatrya Suryo Sulisto": 19,
     "Mufti Anam": 12,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -75,7 +75,7 @@
     "I Nengah Senantara": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 5,
+    "Subardi": 6,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 12,
@@ -94,114 +94,114 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 42,
-    "Perdagangan": 42,
-    "Koperasi/UMKM": 58
+    "Perdagangan": 41,
+    "Koperasi/UMKM": 60
   },
   "top_headlines": [
+    {
+      "title": "Subardi Tegaskan Koperasi Merah Putih Harus Berdayakan Potensi Lokal - DPP Partai NasDem",
+      "entity": "Subardi",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 08:00:50 GMT",
+      "link": "https://partainasdem.id/2026/07/15/subardi-tegaskan-koperasi-merah-putih-harus-berdayakan-potensi-lokal/"
+    },
+    {
+      "title": "Hadiri Sosialisasi LPDB, Wamentan: Koperasi jadi Penopang Kesejahteraan Petani Tebu - Tabloid Sinar Tani",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:36:00 GMT",
+      "link": "https://tabloidsinartani.com/detail//indeks/kebun/27703-Hadiri-Sosialisasi-LPDB-Wamentan-Koperasi-jadi-Penopang-Kesejahteraan-Petani-Tebu"
+    },
+    {
+      "title": "Isu Belanja Kipas Angin Kopdes Rp1,8 Triliun, Menkop Mengaku Tak Tahu - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:35:07 GMT",
+      "link": "https://afu.id/nasional/isu-belanja-kipas-angin-kopdes-rp18-triliun-menkop-mengaku-tak-tahu"
+    },
+    {
+      "title": "Pelantikan dan Pengambilan Sumpah Jabatan Pejabat Administrasi dan Pejabat Fungsional di Lingkungan Kemendag - kemendag.go.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:13:37 GMT",
+      "link": "https://www.kemendag.go.id/berita/foto/pelantikan-dan-pengambilan-sumpah-jabatan-pejabat-administrasi-dan-pejabat-fungsional-di-lingkungan-kemendag"
+    },
+    {
+      "title": "Menkop: 83 Ribu Koperasi Desa Rampung Badan Hukum - INAnews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:06:00 GMT",
+      "link": "https://www.inanews.co.id/2026/07/menkop-83-ribu-koperasi-desa-rampung-badan-hukum/"
+    },
+    {
+      "title": "Legislator ingatkan KemenHAM ukur kinerja sesuai mandat Perpres - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 07:03:20 GMT",
+      "link": "https://www.antaranews.com/berita/5650112/legislator-ingatkan-kemenham-ukur-kinerja-sesuai-mandat-perpres"
+    },
+    {
+      "title": "Mensesneg sebut Hotel Sultan dioptimalkan untuk pemasukan negara - ANTARA News Megapolitan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:00:17 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/540312/mensesneg-sebut-hotel-sultan-dioptimalkan-untuk-pemasukan-negara"
+    },
+    {
+      "title": "Kemenkop Bahas Evaluasi Program Koperasi Merah Putih di DPR - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "link": "https://rm.id/lihat-foto/government-action/317771/kemenkop-bahas-evaluasi-program-koperasi-merah-putih-di-dpr"
+    },
+    {
+      "title": "Kolaborasi Kemendag–KADIN Hadirkan Buku Referensi Produk Ekspor Indonesia - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 06:49:27 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/15/kolaborasi-kemendag-kadin-hadirkan-buku-referensi-produk-ekspor-indonesia/"
+    },
+    {
+      "title": "Kawendra: Kemenkop Awasi KDMP Libatkan Talenta Lokal - bangkaterkini.id",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 06:05:48 GMT",
+      "link": "https://bangkaterkini.id/berita/kawendra-kemenkop-awasi-kdmp-libatkan-talenta-lokal/"
+    },
+    {
+      "title": "Pemerintah Dorong Ekspor Industri Padat Karya melalui Perjanjian Dagang - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 06:01:08 GMT",
+      "link": "https://www.niaga.asia/pemerintah-dorong-ekspor-industri-padat-karya-melalui-perjanjian-dagang/"
+    },
+    {
+      "title": "Kawendra: KDMP untuk Ciptakan Lapangan Kerja, Jadi Libatkan Talenta Lokal - detikNews",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 06:01:01 GMT",
+      "link": "https://news.detik.com/berita/d-8575040/kawendra-kdmp-untuk-ciptakan-lapangan-kerja-jadi-libatkan-talenta-lokal"
+    },
+    {
+      "title": "Sarasehan KDMP Purworejo, Bupati Yuli: Koperasi Harus Kembali Jadi Motor Ekonomi Rakyat - sorot.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 05:45:00 GMT",
+      "link": "https://sorot.co/berita/sarasehan-kdmp-purworejo-bupati-yuli-koperasi-harus-kembali-jadi-motor-ekonomi-rakyat"
+    },
+    {
+      "title": "Mufti Anam PDIP Dukung Koperasi Merah Putih untuk Kesejahteraan Masyarakat - detikNews",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 05:24:20 GMT",
+      "link": "https://news.detik.com/berita/d-8574955/mufti-anam-pdip-dukung-koperasi-merah-putih-untuk-kesejahteraan-masyarakat"
+    },
     {
       "title": "Sarasehan KDMP, Koperasi Sebagai Ujung Tombak Ekonomi Kerakyatan - SuaraBaru.id",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 05:15:30 GMT",
       "link": "https://suarabaru.id/2026/07/15/sarasehan-kdmp-koperasi-sebagai-ujung-tombak-ekonomi-kerakyatan"
-    },
-    {
-      "title": "Kementerian Koperasi Laporkan Realisasi Anggaran Rp 1 Triliun - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:10:26 GMT",
-      "link": "https://achmadnurhidayat.id/kementerian-koperasi-laporkan-realisasi-anggaran"
-    },
-    {
-      "title": "Pemerintah Gandeng Danantara Bakal Optimalkan Hotel Sultan - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:08:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/15/714625/pemerintah-gandeng-danantara-bakal-optimalkan-hotel-sultan-"
-    },
-    {
-      "title": "Menkop Lapor Realisasi Anggaran ke DPR, Mayoritas buat Kopdes Merah Putih - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:06:26 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8574909/menkop-lapor-realisasi-anggaran-ke-dpr-mayoritas-buat-kopdes-merah-putih"
-    },
-    {
-      "title": "Indonesia Pererat Kerja Sama Ekonomi Strategis dengan Australia - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:04:43 GMT",
-      "link": "https://www.niaga.asia/indonesia-pererat-kerja-sama-ekonomi-strategis-dengan-australia/"
-    },
-    {
-      "title": "Kemendag Dukung Epson Perluas Ekspor ke Afrika dan Timur Tengah - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 05:00:00 GMT",
-      "link": "https://swa.co.id/read/474952/kemendag-dukung-epson-perluas-ekspor-ke-afrika-dan-timur-tengah"
-    },
-    {
-      "title": "Kembali ke Tangan Negara, Hotel Sultan Bakal Dirombak Danantara - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 04:44:17 GMT",
-      "link": "https://afu.id/nasional/kembali-ke-tangan-negara-hotel-sultan-bakal-dirombak-danantara"
-    },
-    {
-      "title": "Mendag Ajak Industri Manfaatkan Perjanjian Dagang demi Tingkatkan Ekspor - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 04:40:22 GMT",
-      "link": "https://www.metrotvnews.com/read/N0BC10nq-mendag-ajak-industri-manfaatkan-perjanjian-dagang-demi-tingkatkan-ekspor"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Harap Perluasan Mandat Kemensetneg Diiringi Penguatan Akuntabilitas Konstitusional - Telusur.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 04:36:52 GMT",
-      "link": "https://telusur.co.id/detail/rieke-diah-pitaloka-harap-perluasan-mandat-kemensetneg-diiringi-penguatan-akuntabilitas-konstitusional"
-    },
-    {
-      "title": "Kemenkop Perkuat Tata Kelola Koperasi Petani Tebu untuk Mendorong Ketahanan Pangan Nasional - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 04:36:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-perkuat-tata-kelola-koperasi-petani-tebu-untuk-mendorong-ketahanan-pangan-nasional/"
-    },
-    {
-      "title": "RI menang parsial dalam sengketa asam lemak dengan Uni Eropa - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 04:25:27 GMT",
-      "link": "https://www.antaranews.com/berita/5649945/ri-menang-parsial-dalam-sengketa-asam-lemak-dengan-uni-eropa"
-    },
-    {
-      "title": "Menang Sengketa WTO, Mendag Pastikan Tak Berhenti Kawal Akses Ekspor ke UE - SinPo.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 04:10:44 GMT",
-      "link": "https://sinpo.id/detail/124343/menang-sengketa-wto-mendag-pastikan-tak-berhenti-kawal-akses-ekspor-ke-ue"
-    },
-    {
-      "title": "| Legislator PDIP: Keberhasilan Kemensetneg Tak Cukup Diukur dari Opini WTP - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 04:00:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661960/legislator-pdip-keberhasilan-kemensetneg-tak-cukup-diukur-dari-opini-wtp/"
-    },
-    {
-      "title": "Proyek Ekspor Listrik EBT, Danantara Diminta Buka Ruang ke Swasta - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 03:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115064/proyek-ekspor-listrik-ebt-danantara-diminta-buka-ruang-ke-swasta"
-    },
-    {
-      "title": "Mendag Budi Santoso Dorong Epson Tingkatkan Ekspor, Manfaatkan 20 Perjanjian Dagang Indonesia - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 03:27:01 GMT",
-      "link": "https://suarapemerintah.id/2026/07/mendag-budi-santoso-dorong-epson-tingkatkan-ekspor-manfaatkan-20-perjanjian-dagang-indonesia/"
     }
   ]
 }
