@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T20:06:41.491551",
+  "generated_at": "2026-07-15T21:58:05.363224",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 53,
@@ -17,7 +17,7 @@
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
-    "PKS": 54,
+    "PKS": 55,
     "PAN": 18,
     "Demokrat": 17
   },
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 57,
-    "koperasi": 68,
+    "koperasi": 69,
     "danantara": 40,
     "umkm": 2,
     "ekspor": 11,
@@ -81,7 +81,7 @@
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 17,
+    "Amin Ak.": 18,
     "Rizal Bawazier": 16,
     "Ghufran": 2,
     "Ismail": 19,
@@ -95,7 +95,7 @@
     "Kinerja BUMN": 22,
     "Hukum/Audit": 34,
     "Perdagangan": 41,
-    "Koperasi/UMKM": 63
+    "Koperasi/UMKM": 64
   },
   "top_headlines": [
     {
@@ -118,6 +118,13 @@
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 16:59:50 GMT",
       "link": "https://bisnis.tempo.co/read/2113892/menteri-ferry-jelaskan-gaji-pegawai-koperasi-merah-putih"
+    },
+    {
+      "title": "Menteri Ferry Jelaskan Gaji Pegawai Koperasi Merah Putih - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:59:50 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-ferry-jelaskan-gaji-pegawai-koperasi-merah-putih-2276087"
     },
     {
       "title": "Enam Perkara Diputus KPPU, Denda Capai Rp767 Miliar - Harian Jogja",
@@ -162,6 +169,13 @@
       "link": "https://nusantarapos.co.id/201113/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
     },
     {
+      "title": "Momen Hari Koperasi Nasional, Dekopinda Banyuwangi Gagas Hal Ini - detikcom",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 15:40:05 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8575946/momen-hari-koperasi-nasional-dekopinda-banyuwangi-gagas-hal-ini"
+    },
+    {
       "title": "Purnawirawan TNI Jadi Bos Peruri, Dony Oskaria Beri Penjelasan - Bisnis.com - Market",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -188,20 +202,6 @@
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 14:41:19 GMT",
       "link": "https://www.antaranews.com/berita/5651212/kppu-sebut-amendemen-uu-persaingan-usaha-perlu-dipercepat"
-    },
-    {
-      "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 14:37:00 GMT",
-      "link": "https://www.batiktv.id/news/kasus-bmt-di-pekalongan-belum-tuntas--rizal-bawazier-terus-perjuangkan-penyelesaian-desak-kementerian-koperasi"
-    },
-    {
-      "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 14:37:00 GMT",
-      "link": "https://www.batiktv.id/news/kasus-bmt-di-pekalongan-belum-tuntas--rizal-bawazier-terus-perjuangkan-penyelesaian-desak-kementerian-koperasi"
     }
   ]
 }
