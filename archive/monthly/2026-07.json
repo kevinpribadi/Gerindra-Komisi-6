@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-14T23:52:14.564626",
+  "generated_at": "2026-07-15T02:11:14.447170",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 18,
     "PDI-P": 55,
     "Golkar": 16,
     "NasDem": 26,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 59,
-    "danantara": 42,
+    "danantara": 41,
     "ekspor": 6,
-    "perdagangan": 6,
+    "perdagangan": 5,
     "impor": 4,
-    "investasi": 33,
-    "umkm": 3,
-    "koperasi": 62,
+    "investasi": 32,
+    "koperasi": 61,
+    "umkm": 2,
     "kartel-monopoli": 6,
     "ipo": 3,
     "merger-akuisisi": 2,
@@ -94,10 +94,45 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Hukum/Audit": 41,
-    "Perdagangan": 37,
-    "Koperasi/UMKM": 60
+    "Perdagangan": 38,
+    "Koperasi/UMKM": 58
   },
   "top_headlines": [
+    {
+      "title": "- indoposco - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 02:03:42 GMT",
+      "link": "https://indoposco.id/2026/07/15/481554/"
+    },
+    {
+      "title": "Kritik Rieke Diah: Anggaran kasus perempuan-anak Polres cuma Rp 1 juta - Elshinta",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 01:39:02 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kritik-rieke-diah-anggaran-kasus-perempuan-anak-polres-cuma-rp-1-juta-170314"
+    },
+    {
+      "title": "Sarasehan KDKMP, Mengembalikan Jati Diri Koperasi - Sekretariat Daerah Kabupaten Purworejo",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 01:01:25 GMT",
+      "link": "https://setda.purworejokab.go.id/sarasehan-kdkmp-mengembalikan-jati-diri-koperasi"
+    },
+    {
+      "title": "Pemerintah Dorong Distribusi Minyakita untuk Stabilkan Harga - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 01:01:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/pemerintah-dorong-distribusi-minyakita-untuk-stabilkan-harga-2275879"
+    },
+    {
+      "title": "Jalur Dalam Negeri Pencucian Hasil Kejahatan Sumber Daya Alam - Betahita",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 00:18:37 GMT",
+      "link": "https://www.betahita.id/opini/12180/jalur-dalam-negeri-pencucian-hasil-kejahatan-sumber-daya-alam"
+    },
     {
       "title": "Transformasi koperasi petani tebu penting dilakukan - ANTARA News Yogyakarta",
       "entity": "Kementerian Koperasi",
@@ -167,41 +202,6 @@
       "kind": "lembaga",
       "published": "Tue, 14 Jul 2026 11:16:16 GMT",
       "link": "https://radioidola.com/2026/koperasi-tebu-diperkuat-hasil-panen-diserap-pabrik-gula/"
-    },
-    {
-      "title": "Kemendag optimalisasi distribusi Minyakita pastikan stok di pasar aman - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 10:42:37 GMT",
-      "link": "https://www.antaranews.com/berita/5649069/kemendag-optimalisasi-distribusi-minyakita-pastikan-stok-di-pasar-aman"
-    },
-    {
-      "title": "Kemendag optimalisasi distribusi Minyakita pastikan stok di pasar aman - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 10:42:37 GMT",
-      "link": "https://m.antaranews.com/berita/5649069/kemendag-optimalisasi-distribusi-minyakita-pastikan-stok-di-pasar-aman"
-    },
-    {
-      "title": "26 Proyek Hilirisasi Senilai Rp225 Triliun Digarap Danantara - Cyrustimes.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 10:31:00 GMT",
-      "link": "https://cyrustimes.com/26-proyek-hilirisasi-senilai-rp225-triliun-digarap-danantara/"
-    },
-    {
-      "title": "Pemerintah Tegaskan Komitmen Perkuat Koperasi Sebagai Pilar Ekonomi Rakyat - SinPo.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 14 Jul 2026 10:10:00 GMT",
-      "link": "https://tv.sinpo.id/detail/pemerintah-tegaskan-komitmen-perkuat-koperasi-sebagai-pilar-ekonomi-rakyat"
-    },
-    {
-      "title": "Andre Rosiade Serahkan Ambulans untuk Warga Pagambiran, Tegaskan Hadir dengan Kerja Nyata - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 14 Jul 2026 10:04:35 GMT",
-      "link": "https://news.detik.com/berita/d-8573897/andre-rosiade-serahkan-ambulans-untuk-warga-pagambiran-tegaskan-hadir-dengan-kerja-nyata"
     }
   ]
 }
