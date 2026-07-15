@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T12:13:10.843377",
+  "generated_at": "2026-07-15T14:47:54.479591",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 58,
+    "PDI-P": 55,
     "Golkar": 16,
-    "NasDem": 26,
+    "NasDem": 25,
     "PKB": 10,
-    "PKS": 13,
+    "PKS": 15,
     "PAN": 6,
     "Demokrat": 4
   },
@@ -17,7 +17,7 @@
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
-    "PKS": 51,
+    "PKS": 53,
     "PAN": 18,
     "Demokrat": 17
   },
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
-    "koperasi": 65,
+    "bumn": 58,
+    "koperasi": 67,
     "danantara": 39,
     "umkm": 2,
     "ekspor": 11,
-    "investasi": 31,
-    "kartel-monopoli": 7,
+    "investasi": 32,
+    "kartel-monopoli": 8,
     "perdagangan": 1,
     "ipo": 3,
     "merger-akuisisi": 2,
@@ -82,7 +82,7 @@
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 17,
-    "Rizal Bawazier": 13,
+    "Rizal Bawazier": 15,
     "Ghufran": 2,
     "Ismail": 19,
     "Eko Patrio": 11,
@@ -93,115 +93,115 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 38,
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 41
+    "Hukum/Audit": 37,
+    "Perdagangan": 41,
+    "Koperasi/UMKM": 62
   },
   "top_headlines": [
+    {
+      "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 14:37:00 GMT",
+      "link": "https://www.batiktv.id/news/kasus-bmt-di-pekalongan-belum-tuntas--rizal-bawazier-terus-perjuangkan-penyelesaian-desak-kementerian-koperasi"
+    },
+    {
+      "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 14:37:00 GMT",
+      "link": "https://www.batiktv.id/news/kasus-bmt-di-pekalongan-belum-tuntas--rizal-bawazier-terus-perjuangkan-penyelesaian-desak-kementerian-koperasi"
+    },
+    {
+      "title": "BP BUMN komitmen jaga tata kelola dan transparansi - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:55:23 GMT",
+      "link": "https://www.antaranews.com/berita/5651139/bp-bumn-komitmen-jaga-tata-kelola-dan-transparansi"
+    },
+    {
+      "title": "Hadapi Perubahan Bea Masuk Arab Saudi, Kemendag Tetap Dorong Daya Saing Produk Indonesia - kemendag.go.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:47:07 GMT",
+      "link": "https://www.kemendag.go.id/berita/siaran-pers/hadapi-perubahan-bea-masuk-arab-saudi-kemendag-tetap-dorong-daya-saing-produk-indonesia"
+    },
+    {
+      "title": "Gaji Pegawai Kopdes Tergantung Cuan Koperasi - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:45:46 GMT",
+      "link": "https://afu.id/nasional/gaji-pegawai-kopdes-tergantung-cuan-koperasi"
+    },
+    {
+      "title": "BPKN dan LSKK Jalin MoU Perlindungan Hak Konsumen - Nusantarapos.co.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:42:59 GMT",
+      "link": "https://nusantarapos.co.id/201104/bpkn-dan-lskk-jalin-mou-perlindungan-hak-konsumen/"
+    },
+    {
+      "title": "Anggota Komisi VI DPR RI Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Tiga Kasus BMT di Pekalongan - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 13:40:00 GMT",
+      "link": "https://radarpekalongan.disway.id/pekalongan/read/113253/anggota-komisi-vi-dpr-ri-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-tiga-kasus-bmt-di-pekalongan"
+    },
+    {
+      "title": "Persaingan Usaha Makin Diawasi, KPPU Perkuat Kepatuhan Pelaku Bisnis - Koran Jakarta ®",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:35:00 GMT",
+      "link": "https://koran-jakarta.com/2026-07-15/persaingan-usaha-makin-diawasi-kppu-perkuat-kepatuhan-pelaku-bisnis"
+    },
+    {
+      "title": "Rosan Bicara Lagi Soal Danantara Miliki Saham di Bursa: Kita Berminat! - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:30:05 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260715165816-4-751091/rosan-bicara-lagi-soal-danantara-miliki-saham-di-bursa-kita-berminat"
+    },
+    {
+      "title": "BPKN Gandeng LSKK, Perkuat Perlindungan Konsumen hingga ke Daerah - Beritakota",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 13:22:00 GMT",
+      "link": "https://beritakota.id/bpkn-gandeng-lskk-perkuat-perlindungan-konsumen-hingga-ke-daerah/"
+    },
+    {
+      "title": "BPKN Gandeng LSKK Perkuat Perlindungan Konsumen, Dorong LPKSM Jadi Garda Terdepan - Sinar Pagi News -",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 12:57:43 GMT",
+      "link": "https://sinarpaginews.com/bpkn-gandeng-lskk-perkuat-perlindungan-konsumen-dorong-lpksm-jadi-garda-terdepan/"
+    },
+    {
+      "title": "Bermodal Miliaran tapi Seret \"Cuan\", Model Bisnis Koperasi Merah Putih Diragukan - Kompas.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 12:55:00 GMT",
+      "link": "https://www.kompas.id/artikel/komisi-vi-dpr-mempertanyakan-kejelasan-kdkmp-mengembangkan-sumber-pendapatan"
+    },
+    {
+      "title": "KPPU terus tingkatkan program kepatuhan persaingan usaha - ANTARA News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 12:11:02 GMT",
+      "link": "https://www.antaranews.com/berita/5650883/kppu-terus-tingkatkan-program-kepatuhan-persaingan-usaha"
+    },
+    {
+      "title": "Rieke: Jangan Biarkan Negara Hukum Terjebak pada Serapan Anggaran dan PNBP! - Suara Investor",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 11:52:24 GMT",
+      "link": "https://www.suarainvestor.com/rieke-jangan-biarkan-negara-hukum-terjebak-pada-serapan-anggaran-dan-pnbp/"
+    },
     {
       "title": "Produk Lokal Kini Jadi Prioritas di E-Commerce, Perlindungan UMKM Diperkuat - RM.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 11:33:00 GMT",
       "link": "https://rm.id/baca-berita/ekonomi-bisnis/317807/produk-lokal-kini-jadi-prioritas-di-ecommerce-perlindungan-umkm-diperkuat"
-    },
-    {
-      "title": "KPPU Targetkan RUU Persaingan Usaha Bakal Rampung di Tahun Ini - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 11:24:06 GMT",
-      "link": "https://nasional.kontan.co.id/news/kppu-targetkan-ruu-persaingan-usaha-bakal-rampung-di-tahun-ini"
-    },
-    {
-      "title": "S&P Jaga Rating RI di Level BBB, Puji Peran Danantara sebagai Katalis Transformasi BUMN - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 11:20:00 GMT",
-      "link": "https://wartaekonomi.co.id/read622726/sp-jaga-rating-ri-di-level-bbb-puji-peran-danantara-sebagai-katalis-transformasi-bumn"
-    },
-    {
-      "title": "Menteri Ferry Jelaskan Koperasi yang Bisa Kelola Tambang - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 11:15:24 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-ferry-jelaskan-koperasi-yang-bisa-kelola-tambang-2276031"
-    },
-    {
-      "title": "Kemenkop Siapkan Jurus Baru untuk Koperasi Merah Putih di Kota, Apa Bedanya? - Infobanknews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 11:08:26 GMT",
-      "link": "https://infobanknews.com/kemenkop-siapkan-jurus-baru-untuk-koperasi-merah-putih-di-kota-apa-bedanya"
-    },
-    {
-      "title": "Kemendag Terima 1.911 Layanan Konsumen Semester I-2026, Ini Sektor Terbanyak Diadukan - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:32:05 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-terima-1911-layanan-konsumen-semester-i-2026-ini-sektor-terbanyak-diadukan"
-    },
-    {
-      "title": "Harga Minyakita di Atas HET, Kemendag Sebut Penyaluran Capai 51 Persen - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:25:55 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260714195801-92-1380744/harga-minyakita-di-atas-het-kemendag-sebut-penyaluran-capai-51-persen"
-    },
-    {
-      "title": "Wagub Dimyati: Koperasi Jadi Penggerak Ekonomi Berbasis Gotong Royong - Pemerintah Provinsi Banten",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:18:32 GMT",
-      "link": "https://bantenprov.go.id/berita/wagub-dimyati-koperasi-jadi-penggerak-ekonomi-berbasis-gotong-royong"
-    },
-    {
-      "title": "Menkop Jelaskan soal Koperasi Boleh Kelola Tambang: Sebaiknya Bukan KDMP - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:10:04 GMT",
-      "link": "https://news.detik.com/berita/d-8575550/menkop-jelaskan-soal-koperasi-boleh-kelola-tambang-sebaiknya-bukan-kdmp"
-    },
-    {
-      "title": "Kemenkop: Gaji Pegawai Koperasi Merah Putih Tergantung Pendapatan Usaha - Kupas Tuntas",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:06:00 GMT",
-      "link": "https://kupastuntas.co/2026/07/15/kemenkop-gaji-pegawai-koperasi-merah-putih-tergantung-pendapatan-usaha"
-    },
-    {
-      "title": "Bangun Koperasi yang Sehat, Dekopinda Purworejo Gelar Sarasehan Koperasi Desa Merah Putih - Pituruh News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 10:02:00 GMT",
-      "link": "https://www.pituruhnews.com/2026/07/bangun-koperasi-yang-sehat-dekopinda.html"
-    },
-    {
-      "title": "Rosan Kaji Danantara Miliki Saham di Bursa, Berapa Persen? - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:52:06 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260715164421-4-751090/rosan-kaji-danantara-miliki-saham-di-bursa-berapa-persen"
-    },
-    {
-      "title": "MoU Antara BPKN RI dan LSKK Sepakat Jalin Kerjasama Dalam Melindungi Konsumen Indonesia - radaronline.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:51:25 GMT",
-      "link": "https://www.radaronline.id/2026/07/15/mou-antara-bpkn-ri-dan-lskk-sepakat-jalin-kerjasama-dalam-melindungi-konsumen-indonesia/"
-    },
-    {
-      "title": "Legislator PDIP Ingatkan: Penilaian Kinerja Kemenhum Juga Meliputi Kualitas Reformasi Hukum - Kedai Pena",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 09:39:21 GMT",
-      "link": "https://www.kedaipena.com/legislator-pdip-ingatkan-penilaian-kinerja-kemenhum-juga-meliputi-kualitas-reformasi-hukum/"
-    },
-    {
-      "title": "Kemenkop Rancang Modal Bisnis Koperasi Merah Putih di Kota Besar - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:37:03 GMT",
-      "link": "https://investor.id/macroeconomy/446629/kemenkop-rancang-modal-bisnis-koperasi-merah-putih-di-kota-besar"
     }
   ]
 }
