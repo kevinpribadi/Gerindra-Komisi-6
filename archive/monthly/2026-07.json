@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T10:47:29.750273",
+  "generated_at": "2026-07-15T12:13:10.843377",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 57,
+    "PDI-P": 58,
     "Golkar": 16,
     "NasDem": 26,
-    "PKB": 12,
-    "PKS": 14,
+    "PKB": 10,
+    "PKS": 13,
     "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 53,
-    "PDI-P": 97,
+    "PDI-P": 98,
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
+    "bumn": 59,
     "koperasi": 65,
-    "danantara": 40,
+    "danantara": 39,
+    "umkm": 2,
     "ekspor": 11,
     "investasi": 31,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 7,
     "perdagangan": 1,
     "ipo": 3,
-    "umkm": 1,
     "merger-akuisisi": 2,
     "dividen": 1,
     "impor": 3
@@ -54,7 +54,7 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 15,
     "Mulyadi": 8,
-    "Adisatrya Suryo Sulisto": 19,
+    "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 12,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -93,11 +93,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 39,
-    "Perdagangan": 41,
-    "Koperasi/UMKM": 59
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 41
   },
   "top_headlines": [
+    {
+      "title": "Produk Lokal Kini Jadi Prioritas di E-Commerce, Perlindungan UMKM Diperkuat - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 11:33:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/317807/produk-lokal-kini-jadi-prioritas-di-ecommerce-perlindungan-umkm-diperkuat"
+    },
+    {
+      "title": "KPPU Targetkan RUU Persaingan Usaha Bakal Rampung di Tahun Ini - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 11:24:06 GMT",
+      "link": "https://nasional.kontan.co.id/news/kppu-targetkan-ruu-persaingan-usaha-bakal-rampung-di-tahun-ini"
+    },
+    {
+      "title": "S&P Jaga Rating RI di Level BBB, Puji Peran Danantara sebagai Katalis Transformasi BUMN - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 11:20:00 GMT",
+      "link": "https://wartaekonomi.co.id/read622726/sp-jaga-rating-ri-di-level-bbb-puji-peran-danantara-sebagai-katalis-transformasi-bumn"
+    },
+    {
+      "title": "Menteri Ferry Jelaskan Koperasi yang Bisa Kelola Tambang - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 11:15:24 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-ferry-jelaskan-koperasi-yang-bisa-kelola-tambang-2276031"
+    },
+    {
+      "title": "Kemenkop Siapkan Jurus Baru untuk Koperasi Merah Putih di Kota, Apa Bedanya? - Infobanknews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 11:08:26 GMT",
+      "link": "https://infobanknews.com/kemenkop-siapkan-jurus-baru-untuk-koperasi-merah-putih-di-kota-apa-bedanya"
+    },
     {
       "title": "Kemendag Terima 1.911 Layanan Konsumen Semester I-2026, Ini Sektor Terbanyak Diadukan - kontan.co.id",
       "entity": "Kementerian Perdagangan",
@@ -167,41 +202,6 @@
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 09:37:03 GMT",
       "link": "https://investor.id/macroeconomy/446629/kemenkop-rancang-modal-bisnis-koperasi-merah-putih-di-kota-besar"
-    },
-    {
-      "title": "| Anggota DPR Desak Reformasi Aturan Pengelolaan Aset Hasil Kejahatan - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 09:31:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1661989/anggota-dpr-desak-reformasi-aturan-pengelolaan-aset-hasil-kejahatan/"
-    },
-    {
-      "title": "Serapan Anggaran Kemenkop Capai 87,25%, Dana Dekonsentrasi Jadi Tantangan - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:26:50 GMT",
-      "link": "https://industri.kontan.co.id/news/serapan-anggaran-kemenkop-capai-8725-dana-dekonsentrasi-jadi-tantangan"
-    },
-    {
-      "title": "Prabowo Kumpulkan Menteri dan Dirut BUMN Bahas Percepatan Kopdes Merah Putih - JPNN.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:26:19 GMT",
-      "link": "https://www.jpnn.com/news/prabowo-kumpulkan-menteri-dan-dirut-bumn-bahas-percepatan-kopdes-merah-putih"
-    },
-    {
-      "title": "Ketua Dekopin Sebut Koperasi Kini Jadi Prioritas Negara - INAnews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 09:08:00 GMT",
-      "link": "https://www.inanews.co.id/2026/07/ketua-dekopin-sebut-koperasi-kini-jadi-prioritas-negara/"
-    },
-    {
-      "title": "Biaya Logistik Batam-Shanghai Turun - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 08:45:31 GMT",
-      "link": "https://metropolis.batampos.co.id/biaya-logistik-batam-shanghai-turun/"
     }
   ]
 }
