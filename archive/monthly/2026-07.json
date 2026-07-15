@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T14:47:54.479591",
+  "generated_at": "2026-07-15T16:19:41.697022",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 55,
+    "PDI-P": 53,
     "Golkar": 16,
     "NasDem": 25,
     "PKB": 10,
-    "PKS": 15,
+    "PKS": 16,
     "PAN": 6,
     "Demokrat": 4
   },
@@ -17,7 +17,7 @@
     "Golkar": 60,
     "NasDem": 42,
     "PKB": 41,
-    "PKS": 53,
+    "PKS": 54,
     "PAN": 18,
     "Demokrat": 17
   },
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
-    "koperasi": 67,
-    "danantara": 39,
+    "bumn": 57,
+    "koperasi": 68,
+    "danantara": 40,
     "umkm": 2,
     "ekspor": 11,
     "investasi": 32,
@@ -82,7 +82,7 @@
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 17,
-    "Rizal Bawazier": 15,
+    "Rizal Bawazier": 16,
     "Ghufran": 2,
     "Ismail": 19,
     "Eko Patrio": 11,
@@ -93,11 +93,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Hukum/Audit": 37,
+    "Hukum/Audit": 36,
     "Perdagangan": 41,
-    "Koperasi/UMKM": 62
+    "Koperasi/UMKM": 63
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN: Pergantian Dirut Peruri sesuai kebutuhan - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:13:28 GMT",
+      "link": "https://www.antaranews.com/berita/5651375/bp-bumn-pergantian-dirut-peruri-sesuai-kebutuhan"
+    },
+    {
+      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Nusantarapos.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 16:10:42 GMT",
+      "link": "https://nusantarapos.co.id/201113/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
+    },
+    {
+      "title": "Purnawirawan TNI Jadi Bos Peruri, Dony Oskaria Beri Penjelasan - Bisnis.com - Market",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 15:05:19 GMT",
+      "link": "https://market.bisnis.com/read/20260715/192/1988419/purnawirawan-tni-jadi-bos-peruri-dony-oskaria-beri-penjelasan"
+    },
+    {
+      "title": "Soroti Kinerja Kementerian Hukum, Rieke: PNBP Bukan Ukuran Tapi Jaminan Keadilan - politikindonesia.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 15:04:06 GMT",
+      "link": "https://www.politikindonesia.id/soroti-kinerja-kementerian-hukum-rieke-pnbp-bukan-ukuran-tapi-jaminan-keadilan"
+    },
+    {
+      "title": "Kemenpar Bahas Investasi Venue Konser dengan Danantara, Bidik Event Dunia - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 14:54:46 GMT",
+      "link": "https://industri.kontan.co.id/news/kemenpar-bahas-investasi-venue-konser-dengan-danantara-bidik-event-dunia"
+    },
     {
       "title": "Kasus BMT di Pekalongan Belum Tuntas, Rizal Bawazier Terus Perjuangkan Penyelesaian Desak Kementerian Koperasi - Batik TV",
       "entity": "Kementerian Koperasi",
@@ -148,6 +183,13 @@
       "link": "https://radarpekalongan.disway.id/pekalongan/read/113253/anggota-komisi-vi-dpr-ri-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-tiga-kasus-bmt-di-pekalongan"
     },
     {
+      "title": "Anggota Komisi VI DPR RI Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Tiga Kasus BMT di Pekalongan - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Wed, 15 Jul 2026 13:40:00 GMT",
+      "link": "https://radarpekalongan.disway.id/amp/113253/anggota-komisi-vi-dpr-ri-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-tiga-kasus-bmt-di-pekalongan"
+    },
+    {
       "title": "Persaingan Usaha Makin Diawasi, KPPU Perkuat Kepatuhan Pelaku Bisnis - Koran Jakarta ®",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -160,48 +202,6 @@
       "kind": "lembaga",
       "published": "Wed, 15 Jul 2026 13:30:05 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260715165816-4-751091/rosan-bicara-lagi-soal-danantara-miliki-saham-di-bursa-kita-berminat"
-    },
-    {
-      "title": "BPKN Gandeng LSKK, Perkuat Perlindungan Konsumen hingga ke Daerah - Beritakota",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 13:22:00 GMT",
-      "link": "https://beritakota.id/bpkn-gandeng-lskk-perkuat-perlindungan-konsumen-hingga-ke-daerah/"
-    },
-    {
-      "title": "BPKN Gandeng LSKK Perkuat Perlindungan Konsumen, Dorong LPKSM Jadi Garda Terdepan - Sinar Pagi News -",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 12:57:43 GMT",
-      "link": "https://sinarpaginews.com/bpkn-gandeng-lskk-perkuat-perlindungan-konsumen-dorong-lpksm-jadi-garda-terdepan/"
-    },
-    {
-      "title": "Bermodal Miliaran tapi Seret \"Cuan\", Model Bisnis Koperasi Merah Putih Diragukan - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 12:55:00 GMT",
-      "link": "https://www.kompas.id/artikel/komisi-vi-dpr-mempertanyakan-kejelasan-kdkmp-mengembangkan-sumber-pendapatan"
-    },
-    {
-      "title": "KPPU terus tingkatkan program kepatuhan persaingan usaha - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 12:11:02 GMT",
-      "link": "https://www.antaranews.com/berita/5650883/kppu-terus-tingkatkan-program-kepatuhan-persaingan-usaha"
-    },
-    {
-      "title": "Rieke: Jangan Biarkan Negara Hukum Terjebak pada Serapan Anggaran dan PNBP! - Suara Investor",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 11:52:24 GMT",
-      "link": "https://www.suarainvestor.com/rieke-jangan-biarkan-negara-hukum-terjebak-pada-serapan-anggaran-dan-pnbp/"
-    },
-    {
-      "title": "Produk Lokal Kini Jadi Prioritas di E-Commerce, Perlindungan UMKM Diperkuat - RM.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 11:33:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/317807/produk-lokal-kini-jadi-prioritas-di-ecommerce-perlindungan-umkm-diperkuat"
     }
   ]
 }
