@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-15T23:01:12.341598",
+  "generated_at": "2026-07-16T02:23:57.951088",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 53,
-    "Golkar": 16,
+    "Gerindra": 18,
+    "PDI-P": 54,
+    "Golkar": 17,
     "NasDem": 25,
-    "PKB": 9,
-    "PKS": 16,
+    "PKB": 11,
+    "PKS": 17,
     "PAN": 6,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 53,
     "PDI-P": 99,
-    "Golkar": 60,
+    "Golkar": 61,
     "NasDem": 42,
-    "PKB": 41,
-    "PKS": 55,
+    "PKB": 43,
+    "PKS": 56,
     "PAN": 18,
-    "Demokrat": 17
+    "Demokrat": 18
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,18 +34,18 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "koperasi": 69,
+    "bumn": 56,
+    "koperasi": 70,
     "danantara": 40,
+    "ekspor": 13,
+    "impor": 6,
+    "perdagangan": 3,
     "umkm": 2,
-    "ekspor": 11,
     "investasi": 31,
-    "kartel-monopoli": 6,
-    "perdagangan": 1,
+    "merger-akuisisi": 3,
+    "kartel-monopoli": 5,
     "ipo": 3,
-    "merger-akuisisi": 2,
-    "dividen": 1,
-    "impor": 3
+    "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -68,7 +68,7 @@
     "Ahmad Labib": 1,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 12,
+    "Rizki Faisal": 13,
     "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
@@ -76,132 +76,132 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 6,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 18,
-    "Rizal Bawazier": 16,
+    "Rizal Bawazier": 17,
     "Ghufran": 2,
     "Ismail": 19,
     "Eko Patrio": 11,
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 3,
-    "Herman Khaeron": 14
+    "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 22,
-    "Hukum/Audit": 34,
-    "Perdagangan": 41,
-    "Koperasi/UMKM": 64
+    "Kinerja BUMN": 21,
+    "Hukum/Audit": 31,
+    "Perdagangan": 42,
+    "Koperasi/UMKM": 65
   },
   "top_headlines": [
     {
-      "title": "Koperasi Merah Putih Jangan Sekadar Berdiri - KONTAN",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 22:10:41 GMT",
-      "link": "https://insight.kontan.co.id/news/koperasi-merah-putih-jangan-sekadar-berdiri"
-    },
-    {
-      "title": "​Realisasi Anggaran Kementerian HAM Capai 98 Persen, Rieke Diah Pitaloka: Jangan Sekadar Keberhasilan Administratif - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 22:07:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/realisasi-anggaran-kementerian-ham-capai-98-persen-rieke-diah-pitaloka-jangan-sekadar-keberhasilan-administratif-b2pWRZbg2c"
-    },
-    {
-      "title": "KPPU Fokuskan Pengawasan pada Sektor Logistik dan Pangan - achmadnurhidayat.id",
+      "title": "KPPU Putus 6 Perkara Semester I 2026, Pelanggaran Notifikasi Merger Masih Jadi Biang Masalah - Hukumonline",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 17:04:00 GMT",
-      "link": "https://achmadnurhidayat.id/kppu-fokus-pengawasan-logistik-pangan"
+      "published": "Thu, 16 Jul 2026 02:10:19 GMT",
+      "link": "https://www.hukumonline.com/berita/a/kppu-putus-6-perkara-semester-i-2026--pelanggaran-notifikasi-merger-masih-jadi-biang-masalah-lt6a583a49e6aaf/"
     },
     {
-      "title": "Prabowo Alihkan PT KCIC dari Danantara ke Purbaya, Proses Administrasi Segera Rampung - VIVA.co.id",
-      "entity": "Danantara",
+      "title": "Arab Saudi Ubah Tarif Impor, Kemendag Genjot Ekspor Produk Pangan - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 17:01:00 GMT",
-      "link": "https://www.viva.co.id/bisnis/1913812-prabowo-alihkan-pt-kcic-dari-danantara-ke-purbaya-proses-administrasi-segera-rampung"
+      "published": "Thu, 16 Jul 2026 02:04:51 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115216/arab-saudi-ubah-tarif-impor-kemendag-genjot-ekspor-produk-pangan"
     },
     {
-      "title": "Menteri Ferry Jelaskan Gaji Pegawai Koperasi Merah Putih - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:59:50 GMT",
-      "link": "https://bisnis.tempo.co/read/2113892/menteri-ferry-jelaskan-gaji-pegawai-koperasi-merah-putih"
-    },
-    {
-      "title": "Menteri Ferry Jelaskan Gaji Pegawai Koperasi Merah Putih - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:59:50 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-ferry-jelaskan-gaji-pegawai-koperasi-merah-putih-2276087"
-    },
-    {
-      "title": "Enam Perkara Diputus KPPU, Denda Capai Rp767 Miliar - Harian Jogja",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:57:13 GMT",
-      "link": "https://news.harianjogja.com/r-1263599/enam-perkara-diputus-kppu-denda-capai-rp767-miliar"
-    },
-    {
-      "title": "KPPU Bidik Sektor Pangan hingga Biaya Logistik Jadi Fokus Pengawasan - detikFinance",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:55:02 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8576027/kppu-bidik-sektor-pangan-hingga-biaya-logistik-jadi-fokus-pengawasan"
-    },
-    {
-      "title": "KPPU putus enam perkara dengan denda capai Rp767 miliar - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:16:52 GMT",
-      "link": "https://www.antaranews.com/berita/5651383/kppu-putus-enam-perkara-dengan-denda-capai-rp767-miliar"
-    },
-    {
-      "title": "BP BUMN: Pergantian Dirut Peruri sesuai kebutuhan - ANTARA News",
+      "title": "Eks Jenderal TNI Jadi Bos Peruri, Ini Alasan BP BUMN - Suara.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:13:28 GMT",
-      "link": "https://www.antaranews.com/berita/5651375/bp-bumn-pergantian-dirut-peruri-sesuai-kebutuhan"
+      "published": "Thu, 16 Jul 2026 01:47:53 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/16/084753/eks-jenderal-tni-jadi-bos-peruri-ini-alasan-bp-bumn"
     },
     {
-      "title": "Kemampuan Pelabuhan Gresik Dukung Logistik Nasional Tak Luput Dari Perhatian BP BUMN - Titikomapost",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Kemendes Gandeng 10 Asosiasi Desa Kawal Program Koperasi Merah Putih - INAnews",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:11:55 GMT",
-      "link": "https://www.titikomapost.com/2026/07/kemampuan-pelabuhan-gresik-dukung-logistik-nasional-tak-luput-dari-perhatian-bp-bumn/"
+      "published": "Thu, 16 Jul 2026 01:45:00 GMT",
+      "link": "https://www.inanews.co.id/2026/07/kemendes-gandeng-10-asosiasi-desa-kawal-program-koperasi-merah-putih/"
     },
     {
-      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Nusantarapos.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 16:10:42 GMT",
-      "link": "https://nusantarapos.co.id/201113/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional/"
-    },
-    {
-      "title": "Momen Hari Koperasi Nasional, Dekopinda Banyuwangi Gagas Hal Ini - detikcom",
+      "title": "Bupati Yuli Hastuti Ajak 52 Koperasi Desa Merah Putih Perkuat Ekonomi Kerakyatan Purworejo - magelangekspres.disway.id - Magelang Ekspres",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 15:40:05 GMT",
-      "link": "https://www.detik.com/jatim/berita/d-8575946/momen-hari-koperasi-nasional-dekopinda-banyuwangi-gagas-hal-ini"
+      "published": "Thu, 16 Jul 2026 01:30:00 GMT",
+      "link": "https://magelangekspres.disway.id/purworejo-ekspres/read/677377/bupati-yuli-hastuti-ajak-52-koperasi-desa-merah-putih-perkuat-ekonomi-kerakyatan-purworejo"
     },
     {
-      "title": "Purnawirawan TNI Jadi Bos Peruri, Dony Oskaria Beri Penjelasan - Bisnis.com - Market",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Kemendag: Tarif baru Arab Saudi buka peluang ekspor pakan dan benih - ANTARA News",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 15:05:19 GMT",
-      "link": "https://market.bisnis.com/read/20260715/192/1988419/purnawirawan-tni-jadi-bos-peruri-dony-oskaria-beri-penjelasan"
+      "published": "Thu, 16 Jul 2026 01:29:03 GMT",
+      "link": "https://www.antaranews.com/berita/5651571/kemendag-tarif-baru-arab-saudi-buka-peluang-ekspor-pakan-dan-benih"
     },
     {
-      "title": "Soroti Kinerja Kementerian Hukum, Rieke: PNBP Bukan Ukuran Tapi Jaminan Keadilan - politikindonesia.id",
+      "title": "Harkopnas ke-79, Sleman Percepat Transformasi Koperasi Menuju Era Digital - Patma Media",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 01:03:53 GMT",
+      "link": "https://patmamedia.com/berita/harkopnas-ke-79-sleman-percepat-transformasi-koperasi-menuju-era-digital"
+    },
+    {
+      "title": "Daya Tarik Emas Sebagai Aset Lindung Nilai Mulai Pudar - Emitennews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 00:25:00 GMT",
+      "link": "https://www.emitennews.com/news/daya-tarik-emas-sebagai-aset-lindung-nilai-mulai-pudar"
+    },
+    {
+      "title": "Pelatihan Pengurus Kopdes Merah Putih Telan Rp 1,2 Triliun, Dampaknya Dipertanyakan - GenPI.co - GenPI.co",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 00:20:06 GMT",
+      "link": "https://www.genpi.co/amp/polhukam/284596/pelatihan-pengurus-kopdes-merah-putih-telan-rp-12-triliun-dampaknya-dipertanyakan"
+    },
+    {
+      "title": "Herman Khaeron: Sistem Politik Kita Tak Mengenal Oposisi - RM.ID",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 00:15:00 GMT",
+      "link": "https://rm.id/baca-berita/blakblakan/317860/sikap-pdip-tegas-sebagai-partai-penyeimbang-bagaimana-respons-partai-koalisi-herman-khaeron-sistem-politik-kita-tak-mengenal-oposisi"
+    },
+    {
+      "title": "Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Kasus Tiga BMT Bermasalah di Pekalongan - VIVA Jogja",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 00:14:00 GMT",
+      "link": "https://jogja.viva.co.id/gaya-hidup/10383-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-kasus-tiga-bmt-bermasalah-di-pekalongan"
+    },
+    {
+      "title": "Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Kasus Tiga BMT Bermasalah di Pekalongan - VIVA Jogja",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 00:14:00 GMT",
+      "link": "https://jogja.viva.co.id/amp/pantura-raya/10383-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-kasus-tiga-bmt-bermasalah-di-pekalongan"
+    },
+    {
+      "title": "Soroti Kementerian HAM, Rieke Diah Pitaloka Tegaskan Kinerja Tak Cukup Diukur dari Tingginya Serapan Anggaran - Halo Semarang",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 15:04:06 GMT",
-      "link": "https://www.politikindonesia.id/soroti-kinerja-kementerian-hukum-rieke-pnbp-bukan-ukuran-tapi-jaminan-keadilan"
+      "published": "Wed, 15 Jul 2026 23:41:57 GMT",
+      "link": "https://halosemarang.id/soroti-kementerian-ham-rieke-diah-pitaloka-tegaskan-kinerja-tak-cukup-diukur-dari-tingginya-serapan-anggaran/"
+    },
+    {
+      "title": "Menkop Respons Tiga Kabar Miring Seputar Koperasi Merah Putih - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 23:30:04 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8575978/menkop-respons-tiga-kabar-miring-seputar-koperasi-merah-putih"
+    },
+    {
+      "title": "Mendag dan Epson Perkuat Ekspor Produk Indonesia ke Pasar Global - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 15 Jul 2026 23:30:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/317865/mendag-diskusi-dengan-perwakilan-epson-perdagangan-diperkuat-pasar-ekspor-diperluas"
     }
   ]
 }
