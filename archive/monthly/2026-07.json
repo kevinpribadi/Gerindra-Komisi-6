@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T16:24:30.698466",
+  "generated_at": "2026-07-16T18:04:50.899731",
   "party_counts_7d": {
     "Gerindra": 18,
     "PDI-P": 55,
@@ -37,8 +37,8 @@
     "bumn": 55,
     "koperasi": 78,
     "danantara": 39,
-    "ekspor": 10,
-    "perdagangan": 6,
+    "ekspor": 11,
+    "perdagangan": 5,
     "investasi": 34,
     "umkm": 2,
     "impor": 7,
@@ -95,10 +95,38 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Hukum/Audit": 33,
-    "Perdagangan": 34,
+    "Perdagangan": 35,
     "Koperasi/UMKM": 72
   },
   "top_headlines": [
+    {
+      "title": "Dekopin Rombak Citra Koperasi, Sasar Demografi Gen Z - Marketeers",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 18:02:11 GMT",
+      "link": "https://www.marketeers.com/dekopin-rombak-citra-koperasi-sasar-demografi-gen-z/"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas Turun pada Paruh Kedua Juli 2026 - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 16:58:43 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/16/harga-patokan-ekspor-emas-turun-pada-paruh-kedua-juli-2026/"
+    },
+    {
+      "title": "Permintaan Berkurang, Harga Patokan Ekspor dan Referensi Emas Melemah pada Periode Kedua Juli 2026 - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 16:44:06 GMT",
+      "link": "https://www.rctiplus.com/news/detail/terkini/5430314/permintaan-berkurang-harga-patokan-ekspor-dan-referensi-emas-melemah-pada-periode-kedua-juli-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5430314"
+    },
+    {
+      "title": "Mandat Komnas Perempuan Diperluas, DPR Desak Perlindungan Korban Jadi Prioritas - indoposco.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 16:11:30 GMT",
+      "link": "https://indoposco.id/2026/07/16/mandat-komnas-perempuan-diperluas-dpr-desak-perlindungan-korban-jadi-prioritas/"
+    },
     {
       "title": "Prabowo Subianto Dorong Kebangkitan Koperasi Jadi Kekuatan Ekonomi - achmadnurhidayat.id",
       "entity": "Dekopin",
@@ -175,34 +203,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 13:55:05 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260716201249-4-751464/waspada-ancaman-baru-konsumen-di-era-digital-hidden-cost-hingga-ai"
-    },
-    {
-      "title": "DPR Kritik Kegiatan Pancasila BPIP di Hotel Mewah, Rieke: Bukan Itu Ukuran Pancasila! - Kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 13:37:06 GMT",
-      "link": "https://video.kompas.com/watch/1943021/dpr-kritik-kegiatan-pancasila-bpip-di-hotel-mewah-rieke-bukan-itu-ukuran-pancasila"
-    },
-    {
-      "title": "Program Belanja Nasional 2025 Catat Transaksi Rp393,79 Triliun - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:35:01 GMT",
-      "link": "https://www.metrotvnews.com/read/bVDCPElj-program-belanja-nasional-2025-catat-transaksi-rp393-79-triliun"
-    },
-    {
-      "title": "Mandat Komnas Perempuan Sudah Diperkuat, Perlindungan Korban Dinilai Belum Maksimal - Telusur.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 13:32:06 GMT",
-      "link": "https://telusur.co.id/detail/mandat-komnas-perempuan-sudah-diperkuat-perlindungan-korban-dinilai-belum-maksimal"
-    },
-    {
-      "title": "Dekopin Siap Kawal Amanat Presiden Prabowo Jadikan Koperasi Motor Utama Ekonomi Rakyat - SINDOnews Nasional",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:20:36 GMT",
-      "link": "https://nasional.sindonews.com/read/1729169/15/dekopin-siap-kawal-amanat-presiden-prabowo-jadikan-koperasi-motor-utama-ekonomi-rakyat-1784207220"
     }
   ]
 }
