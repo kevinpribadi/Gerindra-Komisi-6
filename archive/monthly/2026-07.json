@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T14:59:20.040948",
+  "generated_at": "2026-07-16T16:24:30.698466",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 52,
+    "Gerindra": 18,
+    "PDI-P": 55,
     "Golkar": 21,
     "NasDem": 25,
     "PKB": 11,
     "PKS": 17,
     "PAN": 5,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 55,
-    "PDI-P": 103,
+    "Gerindra": 56,
+    "PDI-P": 104,
     "Golkar": 66,
     "NasDem": 42,
     "PKB": 43,
     "PKS": 60,
     "PAN": 18,
-    "Demokrat": 20
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,9 +37,9 @@
     "bumn": 55,
     "koperasi": 78,
     "danantara": 39,
-    "ekspor": 11,
+    "ekspor": 10,
     "perdagangan": 6,
-    "investasi": 33,
+    "investasi": 34,
     "umkm": 2,
     "impor": 7,
     "kartel-monopoli": 7,
@@ -52,10 +52,10 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 16,
+    "Kawendra Lukistian": 17,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 17,
+    "Mufti Anam": 18,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -90,15 +90,71 @@
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 4,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 17
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Hukum/Audit": 32,
-    "Perdagangan": 36,
-    "Koperasi/UMKM": 70
+    "Hukum/Audit": 33,
+    "Perdagangan": 34,
+    "Koperasi/UMKM": 72
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Subianto Dorong Kebangkitan Koperasi Jadi Kekuatan Ekonomi - achmadnurhidayat.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 15:38:39 GMT",
+      "link": "https://achmadnurhidayat.id/prabowo-subianto-kebangkitan-koperasi-indonesia"
+    },
+    {
+      "title": "Pemerintah Akan Bangkitkan Koperasi, Jadi Kekuatan Ekonomi RI - investor.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 15:35:00 GMT",
+      "link": "https://investor.id/macroeconomy/446812/pemerintah-akan-bangkitkan-koperasi-jadi-kekuatan-ekonomi-ri"
+    },
+    {
+      "title": "Tujuh Hari Kepergian Rachmat Gobel, Kenangan dan Doa Mengalir dari Bone Bolango - Berita Bone Bolango",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 15:18:30 GMT",
+      "link": "https://berita.bonebolangokab.go.id/tujuh-hari-kepergian-rachmat-gobel-kenangan-dan-doa-mengalir-dari-bone-bolango/"
+    },
+    {
+      "title": "BAKN Soroti Tata Kelola Hulu Migas, Herman Khaeron: Temuan BPK Tidak Boleh Terus Berulang - Bela Rakyat",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 15:13:48 GMT",
+      "link": "https://belarakyat.com/bakn-soroti-tata-kelola-hulu-migas-herman-khaeron-temuan-bpk-tidak-boleh-terus-berulang/"
+    },
+    {
+      "title": "Perlu Dikaji, Adisatrya Suryo Sulisto Nilai ART RI-AS Berpotensi Pengaruhi Ruang Kebijakan Nasional - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 15:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/perlu-dikaji-adisatrya-suryo-sulisto-nilai-art-ri-as-berpotensi-pengaruhi-ruang-kebijakan-nasional-b2pWQZbg0y"
+    },
+    {
+      "title": "Darmadi Durianto Tegaskan Mufti Anam Hanya Minta Klarifikasi, Bukan Menuduh Agrinas - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 14:40:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-mufti-anam-hanya-minta-klarifikasi-bukan-menuduh-agrinas-b2pWSZbg3J"
+    },
+    {
+      "title": "Darmadi Durianto Tegaskan Mufti Anam Hanya Minta Klarifikasi, Bukan Menuduh Agrinas - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 14:40:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-mufti-anam-hanya-minta-klarifikasi-bukan-menuduh-agrinas-b2pWSZbg3J"
+    },
+    {
+      "title": "VIDEO: DPR Soroti Isu Pengadaan 1,8 Juta Kipas Angin Rp1,8 Triliun di Program Koperasi Merah Putih - Sulselsatu",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 14:21:12 GMT",
+      "link": "https://www.sulselsatu.com/2026/07/16/video/video-dpr-soroti-isu-pengadaan-18-juta-kipas-angin-rp18-triliun-di-program-koperasi-merah-putih.html"
+    },
     {
       "title": "KDMP Tamanmartani pasok barang ke warung kelontong - ANTARA News Yogyakarta",
       "entity": "Kementerian Koperasi",
@@ -128,6 +184,13 @@
       "link": "https://video.kompas.com/watch/1943021/dpr-kritik-kegiatan-pancasila-bpip-di-hotel-mewah-rieke-bukan-itu-ukuran-pancasila"
     },
     {
+      "title": "Program Belanja Nasional 2025 Catat Transaksi Rp393,79 Triliun - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 13:35:01 GMT",
+      "link": "https://www.metrotvnews.com/read/bVDCPElj-program-belanja-nasional-2025-catat-transaksi-rp393-79-triliun"
+    },
+    {
       "title": "Mandat Komnas Perempuan Sudah Diperkuat, Perlindungan Korban Dinilai Belum Maksimal - Telusur.co.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
@@ -140,69 +203,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 13:20:36 GMT",
       "link": "https://nasional.sindonews.com/read/1729169/15/dekopin-siap-kawal-amanat-presiden-prabowo-jadikan-koperasi-motor-utama-ekonomi-rakyat-1784207220"
-    },
-    {
-      "title": "Anggota DPR: Penguatan Mandat Komnas Perempuan Harus Berdampak pada Perlindungan Korban - SinPo.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 13:19:07 GMT",
-      "link": "https://sinpo.id/detail/124461/anggota-dpr-penguatan-mandat-komnas-perempuan-harus-berdampak-pada-perlindungan-korban"
-    },
-    {
-      "title": "Perkuat Koperasi Merah Putih, Wamenkop RI Farida Farichah Temui Wali Kota Ternate - Indotimur",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:06:12 GMT",
-      "link": "https://indotimur.com/ternate-andalan/perkuat-koperasi-merah-putih-wamenkop-ri-farida-farichah-temui-wali-kota-ternate"
-    },
-    {
-      "title": "DEKOPIN Sukses Gelar Harkopnas ke-79, Bangga Koperasi Diperhatikan Presiden - RM.ID",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:06:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/317953/dekopin-sukses-gelar-harkopnas-ke79-bangga-koperasi-diperhatikan-presiden"
-    },
-    {
-      "title": "Darmadi Durianto: Koperasi Merah Putih Jangan Sampai Bunuh Warung Desa, DPR Desak Kemenkop Perjelas Fungsi KDKMP - Bela Rakyat",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 13:03:43 GMT",
-      "link": "https://belarakyat.com/darmadi-durianto-koperasi-merah-putih-jangan-sampai-bunuh-warung-desa-dpr-desak-kemenkop-perjelas-fungsi-kdkmp/"
-    },
-    {
-      "title": "Rente Pengadaan 80.000 Unit Pikap Kopdes Merah Putih, Ida Nurlaela: Audit Secara Transparan - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 13:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rente-pengadaan-80-000-unit-pikap-kopdes-merah-putih-ida-nurlaela-audit-secara-transparan-b2pWQZbg04"
-    },
-    {
-      "title": "Kemendag Pamer Surplus Dagang Rp738 Triliun - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115316/kemendag-pamer-surplus-dagang-rp738-triliun"
-    },
-    {
-      "title": "Koperasi Didorong Jadi Motor Utama Ekonomi Rakyat - MetroTVNews.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 12:50:11 GMT",
-      "link": "https://www.metrotvnews.com/read/kBVCMz6y-koperasi-didorong-jadi-motor-utama-ekonomi-rakyat"
-    },
-    {
-      "title": "Prabowo Minta Danantara Dampingi Pengusaha Lokal di Masela - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 12:41:00 GMT",
-      "link": "https://tirto.id/prabowo-minta-danantara-dampingi-pengusaha-lokal-di-masela-hzPE"
-    },
-    {
-      "title": "Dekopin bidik Gen Z untuk regenerasi gerakan koperasi - ANTARA News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 12:23:06 GMT",
-      "link": "https://www.antaranews.com/berita/5652649/dekopin-bidik-gen-z-untuk-regenerasi-gerakan-koperasi"
     }
   ]
 }
