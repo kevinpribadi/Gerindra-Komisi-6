@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T20:01:32.234592",
+  "generated_at": "2026-07-16T22:01:33.254345",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 55,
+    "Gerindra": 17,
+    "PDI-P": 56,
     "Golkar": 21,
     "NasDem": 25,
     "PKB": 11,
     "PKS": 17,
     "PAN": 5,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 56,
@@ -37,15 +37,15 @@
     "bumn": 55,
     "koperasi": 78,
     "danantara": 39,
-    "ekspor": 10,
-    "perdagangan": 5,
+    "umkm": 3,
+    "ekspor": 9,
+    "perdagangan": 4,
     "investasi": 34,
-    "umkm": 2,
-    "impor": 6,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
-    "dividen": 1
+    "dividen": 1,
+    "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -95,10 +95,17 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Hukum/Audit": 33,
-    "Perdagangan": 34,
-    "Koperasi/UMKM": 72
+    "Koperasi/UMKM": 73,
+    "Perdagangan": 33
   },
   "top_headlines": [
+    {
+      "title": "Realisasi Anggaran Kemendag Capai 98,62%, Fasilitasi 38.356 UMKM - kumparan.com - Kumparan.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 21:00:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/realisasi-anggaran-kemendag-capai-98-62-fasilitasi-38-356-umkm-27nctsw3u43"
+    },
     {
       "title": "Dekopin Rombak Citra Koperasi, Sasar Demografi Gen Z - Marketeers",
       "entity": "Dekopin",
@@ -126,6 +133,13 @@
       "kind": "anggota",
       "published": "Thu, 16 Jul 2026 16:11:30 GMT",
       "link": "https://indoposco.id/2026/07/16/mandat-komnas-perempuan-diperluas-dpr-desak-perlindungan-korban-jadi-prioritas/"
+    },
+    {
+      "title": "Perlu Dikaji, Adisatrya Suryo Sulisto Nilai ART RI-AS Berpotensi Pengaruhi Ruang Kebijakan Nasional - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 16:03:08 GMT",
+      "link": "https://www.gesuri.id/amp/pemerintahan/perlu-dikaji-adisatrya-suryo-sulisto-nilai-art-ri-as-berpotensi-pengaruhi-ruang-kebijakan-nasional-b2pWQZbg0y"
     },
     {
       "title": "Prabowo Subianto Dorong Kebangkitan Koperasi Jadi Kekuatan Ekonomi - achmadnurhidayat.id",
@@ -189,20 +203,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 14:15:56 GMT",
       "link": "https://jogja.antaranews.com/berita/842360/kdmp-tamanmartani-pasok-barang-ke-warung-kelontong"
-    },
-    {
-      "title": "KPPU Medan dorong evaluasi tata kelola distribusi BBM pascagangguan pasokan di Sumut - Elshinta",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 14:10:04 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/kppu-medan-dorong-evaluasi-tata-kelola-distribusi-bbm-pascagangguan-pasokan-di-sumut-170497"
-    },
-    {
-      "title": "Waspada Ancaman Baru Konsumen di Era Digital: Hidden Cost Hingga AI - CNBC Indonesia",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 13:55:05 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260716201249-4-751464/waspada-ancaman-baru-konsumen-di-era-digital-hidden-cost-hingga-ai"
     }
   ]
 }
