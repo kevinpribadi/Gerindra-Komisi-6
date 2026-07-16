@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T22:01:33.254345",
+  "generated_at": "2026-07-16T23:57:12.558435",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 56,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 55,
     "koperasi": 78,
-    "danantara": 39,
+    "danantara": 38,
     "umkm": 3,
     "ekspor": 9,
     "perdagangan": 4,
@@ -93,12 +93,26 @@
     "Herman Khaeron": 17
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 21,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 73,
     "Perdagangan": 33
   },
   "top_headlines": [
+    {
+      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimistis Raih WTP Ke-10 - BP Batam",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 23:07:11 GMT",
+      "link": "https://bpbatam.go.id/kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimistis-raih-wtp-ke-10/"
+    },
+    {
+      "title": "Kemenkeu Ambil Alih Pengelolaan KCIC untuk Selesaikan Utang - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 22:04:00 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkeu-ambil-alih-kelola-kcic"
+    },
     {
       "title": "Realisasi Anggaran Kemendag Capai 98,62%, Fasilitasi 38.356 UMKM - kumparan.com - Kumparan.com",
       "entity": "Kementerian Perdagangan",
@@ -189,20 +203,6 @@
       "kind": "anggota",
       "published": "Thu, 16 Jul 2026 14:40:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-mufti-anam-hanya-minta-klarifikasi-bukan-menuduh-agrinas-b2pWSZbg3J"
-    },
-    {
-      "title": "VIDEO: DPR Soroti Isu Pengadaan 1,8 Juta Kipas Angin Rp1,8 Triliun di Program Koperasi Merah Putih - Sulselsatu",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 14:21:12 GMT",
-      "link": "https://www.sulselsatu.com/2026/07/16/video/video-dpr-soroti-isu-pengadaan-18-juta-kipas-angin-rp18-triliun-di-program-koperasi-merah-putih.html"
-    },
-    {
-      "title": "KDMP Tamanmartani pasok barang ke warung kelontong - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 14:15:56 GMT",
-      "link": "https://jogja.antaranews.com/berita/842360/kdmp-tamanmartani-pasok-barang-ke-warung-kelontong"
     }
   ]
 }
