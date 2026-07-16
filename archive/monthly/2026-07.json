@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T10:57:16.038126",
+  "generated_at": "2026-07-16T12:21:43.499977",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 49,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 25,
     "PKB": 11,
-    "PKS": 18,
+    "PKS": 17,
     "PAN": 5,
-    "Demokrat": 3
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 55,
-    "PDI-P": 99,
-    "Golkar": 63,
+    "PDI-P": 100,
+    "Golkar": 65,
     "NasDem": 42,
     "PKB": 43,
     "PKS": 60,
     "PAN": 18,
-    "Demokrat": 19
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "koperasi": 75,
-    "danantara": 38,
+    "koperasi": 76,
+    "danantara": 39,
     "ekspor": 11,
     "perdagangan": 6,
     "investasi": 33,
@@ -55,7 +55,7 @@
     "Kawendra Lukistian": 16,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 15,
+    "Mufti Anam": 16,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
-    "Gde Sumarjaya Linggih": 7,
+    "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -90,15 +90,50 @@
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 4,
-    "Herman Khaeron": 15
+    "Herman Khaeron": 16
   },
   "early_warning_counts": {
     "Kinerja BUMN": 21,
     "Hukum/Audit": 31,
-    "Perdagangan": 39,
-    "Koperasi/UMKM": 71
+    "Perdagangan": 37,
+    "Koperasi/UMKM": 72
   },
   "top_headlines": [
+    {
+      "title": "Serapan Anggaran 2025 Kemendag Lampaui Target, Tembus 98,62% - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 12:20:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260716/12/1988625/serapan-anggaran-2025-kemendag-lampaui-target-tembus-9862"
+    },
+    {
+      "title": "Ribuan Warga RI Teriak Minta Perlindungan Hak, Terbanyak Masalah Ini - CNBC Indonesia",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 11:35:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260716173945-4-751422/ribuan-warga-ri-teriak-minta-perlindungan-hak-terbanyak-masalah-ini"
+    },
+    {
+      "title": "Kemensos Dorong Penerima Bansos Jadi Anggota dan Pelaku Usaha Koperasi Desa Merah Putih - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 11:21:00 GMT",
+      "link": "https://www.kompas.tv/ekonomi/680790/kemensos-dorong-penerima-bansos-jadi-anggota-dan-pelaku-usaha-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "Warga RI Jajan Habiskan Lebih Rp393 Triliun, Mendag Jelaskan Artinya - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 11:15:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260716165839-4-751405/warga-ri-jajan-habiskan-lebih-rp393-triliun-mendag-jelaskan-artinya"
+    },
+    {
+      "title": "BPKN usul ABT 2026 Rp2,42 miliar untuk perkuat perlindungan konsumen - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 10:53:43 GMT",
+      "link": "https://www.antaranews.com/berita/5652465/bpkn-usul-abt-2026-rp242-miliar-untuk-perkuat-perlindungan-konsumen"
+    },
     {
       "title": "Amin AK Soroti Tata Kelola KUR di Jawa Tengah, Tekankan Dana APBN Harus Benar-Benar Tepat Sasaran - Bela Rakyat",
       "entity": "Amin Ak.",
@@ -168,41 +203,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 07:56:57 GMT",
       "link": "https://www.validnews.id/ekonomi/2026/07/16/permintaan-melemah-kemendag-turunkan-hpe-emas-paruh-kedua-juli-271-152000538"
-    },
-    {
-      "title": "Kemenkop Optimalkan Tata Kelola Koperasi Tebu untuk Perkuat Ekonomi Petani - TopBusiness.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:47:00 GMT",
-      "link": "https://www.topbusiness.id/132236/kemenkop-optimalkan-tata-kelola-koperasi-tebu-untuk-perkuat-ekonomi-petani.html"
-    },
-    {
-      "title": "Perubahan Tarif Bea Masuk Arab Saudi Buka Peluang Baru bagi Produk dan Teknologi Pertanian Indonesia, Kemendag Dorong Ekspor Bernilai Tambah - Pontianak Post",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:22:03 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2607160093/perubahan-tarif-bea-masuk-arab-saudi-buka-peluang-baru-bagi-produk-dan-teknologi-pertanian-indonesia-kemendag-dorong-ekspor-bernilai-tambah"
-    },
-    {
-      "title": "Kata Menteri soal Koperasi di Blok M Hanya Untung Rp 78 Ribu - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:21:12 GMT",
-      "link": "https://www.tempo.co/ekonomi/kata-menteri-soal-koperasi-di-blok-m-hanya-untung-rp-78-ribu-2276207"
-    },
-    {
-      "title": "Kata Menteri soal Koperasi di Blok M Hanya Untung Rp 78 Ribu - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:21:12 GMT",
-      "link": "https://bisnis.tempo.co/read/2113974/kata-menteri-soal-koperasi-di-blok-m-hanya-untung-rp-78-ribu?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Permintaan Melemah, Kemendag Pangkas Harga Patokan Ekspor Emas - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:18:38 GMT",
-      "link": "https://www.metrotvnews.com/read/bVDCPE5E-permintaan-melemah-kemendag-pangkas-harga-patokan-ekspor-emas"
     }
   ]
 }
