@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T02:23:57.951088",
+  "generated_at": "2026-07-16T05:38:07.773259",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 54,
-    "Golkar": 17,
+    "Gerindra": 17,
+    "PDI-P": 50,
+    "Golkar": 20,
     "NasDem": 25,
     "PKB": 11,
     "PKS": 17,
@@ -12,12 +12,12 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 53,
+    "Gerindra": 54,
     "PDI-P": 99,
-    "Golkar": 61,
+    "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
-    "PKS": 56,
+    "PKS": 57,
     "PAN": 18,
     "Demokrat": 18
   },
@@ -35,23 +35,23 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "koperasi": 70,
+    "koperasi": 71,
     "danantara": 40,
+    "umkm": 3,
     "ekspor": 13,
-    "impor": 6,
-    "perdagangan": 3,
-    "umkm": 2,
+    "impor": 7,
+    "perdagangan": 4,
     "investasi": 31,
     "merger-akuisisi": 3,
-    "kartel-monopoli": 5,
-    "ipo": 3,
+    "kartel-monopoli": 6,
+    "ipo": 4,
     "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
-    "Mulan Jameela": 3,
+    "Mulan Jameela": 4,
     "Kawendra Lukistian": 15,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
@@ -63,13 +63,14 @@
     "Ida Nurlaela": 14,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 14,
+    "Nurdin Halid": 15,
     "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 1,
+    "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 13,
-    "Muhammad Sarmuji": 11,
+    "Muhammad Sarmuji": 12,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 7,
@@ -82,7 +83,7 @@
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 18,
-    "Rizal Bawazier": 17,
+    "Rizal Bawazier": 18,
     "Ghufran": 2,
     "Ismail": 19,
     "Eko Patrio": 11,
@@ -94,16 +95,72 @@
   "early_warning_counts": {
     "Kinerja BUMN": 21,
     "Hukum/Audit": 31,
-    "Perdagangan": 42,
-    "Koperasi/UMKM": 65
+    "Koperasi/UMKM": 68,
+    "Perdagangan": 40
   },
   "top_headlines": [
+    {
+      "title": "Sinergi Lintas Instansi, Pemprov Malut Matangkan Kesiapan Fasilitas dan Protokol Sambut Kunjungan Kerja Wamen Koperasi RI - Pemprov Maluku Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 04:35:53 GMT",
+      "link": "https://malutprov.go.id/sinergi-lintas-instansi-pemprov-malut-matangkan-kesiapan-fasilitas-dan-protokol-sambut-kunjungan-kerja-wamen-koperasi-ri"
+    },
+    {
+      "title": "Produk UMKM Indonesia Tembus Pasar Korea, Transaksi Tembus Rp34,58 Miliar - Towa.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 03:44:27 GMT",
+      "link": "https://towa.co.id/postingan/produk-umkm-indonesia-tembus-pasar-korea-transaksi-tembus-rp3458-miliar"
+    },
+    {
+      "title": "Koperasi Dianggap Berhasil Jika Masyarakat Merasakan Dampak Ekonominya - Ipol.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 03:40:33 GMT",
+      "link": "https://ipol.id/2026/07/koperasi-dianggap-berhasil-jika-masyarakat-merasakan-dampak-ekonominya/"
+    },
+    {
+      "title": "Tak Berpenampilan Bak “Noni Belanda” Sarifah Suraidah Tampil Seba Hitam Saat Kunker ke Kalbar - Pontianak Informasi",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 03:31:17 GMT",
+      "link": "https://pontianakinformasi.co.id/news/tak-berpenampilan-bak-noni-belanda-sarifah-suraidah-tampil-seba-hitam-saat-kunker-ke-kalbar/"
+    },
+    {
+      "title": "Mulan Jameela Menangis Kenang Ahmad Dhani Bebas dari Penjara - Metro Daily - Berita Terkini Sumatera Utara - Jawa Pos",
+      "entity": "Mulan Jameela",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 02:52:05 GMT",
+      "link": "https://metrodaily.jawapos.com/showbiz/2607160006/mulan-jameela-menangis-kenang-ahmad-dhani-bebas-dari-penjara"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas dan Referensi Emas Turun, Kemendag Kasih Penjelasan - VIVA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 02:47:44 GMT",
+      "link": "https://www.viva.co.id/bisnis/1913879-harga-patokan-ekspor-emas-dan-referensi-emas-turun-kemendag-kasih-penjelasan"
+    },
+    {
+      "title": "Profil Gopprera - Hilman, Pimpin KPPU Periode 2026-2029 - Kabar24",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 02:42:55 GMT",
+      "link": "https://kabar24.bisnis.com/read/20260716/15/1988485/profil-gopprera-hilman-pimpin-kppu-periode-2026-2029"
+    },
     {
       "title": "KPPU Putus 6 Perkara Semester I 2026, Pelanggaran Notifikasi Merger Masih Jadi Biang Masalah - Hukumonline",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 02:10:19 GMT",
       "link": "https://www.hukumonline.com/berita/a/kppu-putus-6-perkara-semester-i-2026--pelanggaran-notifikasi-merger-masih-jadi-biang-masalah-lt6a583a49e6aaf/"
+    },
+    {
+      "title": "Kemendag menyelesaikan 89 persen pengaduan senilai Rp18,59 miliar - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 02:06:16 GMT",
+      "link": "https://www.antaranews.com/berita/5651597/kemendag-menyelesaikan-89-persen-pengaduan-senilai-rp1859-miliar"
     },
     {
       "title": "Arab Saudi Ubah Tarif Impor, Kemendag Genjot Ekspor Produk Pangan - Bloomberg Technoz",
@@ -134,74 +191,18 @@
       "link": "https://magelangekspres.disway.id/purworejo-ekspres/read/677377/bupati-yuli-hastuti-ajak-52-koperasi-desa-merah-putih-perkuat-ekonomi-kerakyatan-purworejo"
     },
     {
+      "title": "Saudi Ubah Tarif Impor, Kemendag: Peluang Baru Perluas Ekspor Produk Pangan Kita - SinPo.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 01:29:53 GMT",
+      "link": "https://sinpo.id/detail/124415/saudi-ubah-tarif-impor-kemendag-peluang-baru-perluas-ekspor-produk-pangan-kita"
+    },
+    {
       "title": "Kemendag: Tarif baru Arab Saudi buka peluang ekspor pakan dan benih - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 01:29:03 GMT",
       "link": "https://www.antaranews.com/berita/5651571/kemendag-tarif-baru-arab-saudi-buka-peluang-ekspor-pakan-dan-benih"
-    },
-    {
-      "title": "Harkopnas ke-79, Sleman Percepat Transformasi Koperasi Menuju Era Digital - Patma Media",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 01:03:53 GMT",
-      "link": "https://patmamedia.com/berita/harkopnas-ke-79-sleman-percepat-transformasi-koperasi-menuju-era-digital"
-    },
-    {
-      "title": "Daya Tarik Emas Sebagai Aset Lindung Nilai Mulai Pudar - Emitennews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 00:25:00 GMT",
-      "link": "https://www.emitennews.com/news/daya-tarik-emas-sebagai-aset-lindung-nilai-mulai-pudar"
-    },
-    {
-      "title": "Pelatihan Pengurus Kopdes Merah Putih Telan Rp 1,2 Triliun, Dampaknya Dipertanyakan - GenPI.co - GenPI.co",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 00:20:06 GMT",
-      "link": "https://www.genpi.co/amp/polhukam/284596/pelatihan-pengurus-kopdes-merah-putih-telan-rp-12-triliun-dampaknya-dipertanyakan"
-    },
-    {
-      "title": "Herman Khaeron: Sistem Politik Kita Tak Mengenal Oposisi - RM.ID",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 00:15:00 GMT",
-      "link": "https://rm.id/baca-berita/blakblakan/317860/sikap-pdip-tegas-sebagai-partai-penyeimbang-bagaimana-respons-partai-koalisi-herman-khaeron-sistem-politik-kita-tak-mengenal-oposisi"
-    },
-    {
-      "title": "Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Kasus Tiga BMT Bermasalah di Pekalongan - VIVA Jogja",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 00:14:00 GMT",
-      "link": "https://jogja.viva.co.id/gaya-hidup/10383-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-kasus-tiga-bmt-bermasalah-di-pekalongan"
-    },
-    {
-      "title": "Rizal Bawazier Desak Kementerian Koperasi Tuntaskan Kasus Tiga BMT Bermasalah di Pekalongan - VIVA Jogja",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 00:14:00 GMT",
-      "link": "https://jogja.viva.co.id/amp/pantura-raya/10383-rizal-bawazier-desak-kementerian-koperasi-tuntaskan-kasus-tiga-bmt-bermasalah-di-pekalongan"
-    },
-    {
-      "title": "Soroti Kementerian HAM, Rieke Diah Pitaloka Tegaskan Kinerja Tak Cukup Diukur dari Tingginya Serapan Anggaran - Halo Semarang",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 15 Jul 2026 23:41:57 GMT",
-      "link": "https://halosemarang.id/soroti-kementerian-ham-rieke-diah-pitaloka-tegaskan-kinerja-tak-cukup-diukur-dari-tingginya-serapan-anggaran/"
-    },
-    {
-      "title": "Menkop Respons Tiga Kabar Miring Seputar Koperasi Merah Putih - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 23:30:04 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8575978/menkop-respons-tiga-kabar-miring-seputar-koperasi-merah-putih"
-    },
-    {
-      "title": "Mendag dan Epson Perkuat Ekspor Produk Indonesia ke Pasar Global - RM.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 15 Jul 2026 23:30:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/317865/mendag-diskusi-dengan-perwakilan-epson-perdagangan-diperkuat-pasar-ekspor-diperluas"
     }
   ]
 }
