@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T08:09:02.419604",
+  "generated_at": "2026-07-16T10:57:16.038126",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 50,
+    "PDI-P": 49,
     "Golkar": 20,
     "NasDem": 25,
     "PKB": 11,
-    "PKS": 16,
-    "PAN": 6,
+    "PKS": 18,
+    "PAN": 5,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 54,
+    "Gerindra": 55,
     "PDI-P": 99,
     "Golkar": 63,
     "NasDem": 42,
     "PKB": 43,
-    "PKS": 57,
+    "PKS": 60,
     "PAN": 18,
     "Demokrat": 19
   },
@@ -35,9 +35,9 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "koperasi": 74,
+    "koperasi": 75,
     "danantara": 38,
-    "ekspor": 12,
+    "ekspor": 11,
     "perdagangan": 6,
     "investasi": 33,
     "umkm": 3,
@@ -52,7 +52,7 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 15,
+    "Kawendra Lukistian": 16,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 15,
@@ -82,10 +82,10 @@
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 18,
-    "Rizal Bawazier": 18,
+    "Amin Ak.": 19,
+    "Rizal Bawazier": 19,
     "Ghufran": 2,
-    "Ismail": 19,
+    "Ismail": 20,
     "Eko Patrio": 11,
     "Nasril Bahar": 4,
     "Iskandar": 3,
@@ -94,17 +94,80 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 21,
-    "Hukum/Audit": 30,
-    "Perdagangan": 40,
-    "Koperasi/UMKM": 70
+    "Hukum/Audit": 31,
+    "Perdagangan": 39,
+    "Koperasi/UMKM": 71
   },
   "top_headlines": [
+    {
+      "title": "Amin AK Soroti Tata Kelola KUR di Jawa Tengah, Tekankan Dana APBN Harus Benar-Benar Tepat Sasaran - Bela Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 10:38:43 GMT",
+      "link": "https://belarakyat.com/amin-ak-soroti-tata-kelola-kur-di-jawa-tengah-tekankan-dana-apbn-harus-benar-benar-tepat-sasaran/"
+    },
+    {
+      "title": "Rayakan Harkopnas ke-79, DEKOPIN Bidik Gen-Z agar Aktif Berkoperasi - MIX Marcomm",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 10:27:00 GMT",
+      "link": "https://mix.co.id/read/102742/rayakan-harkopnas-ke-79-dekopin-bidik-gen-z-agar-aktif-berkoperasi"
+    },
+    {
+      "title": "Serapan Anggaran Kemendag Capai 98,62 Persen pada 2025, Lampaui Target - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 10:08:46 GMT",
+      "link": "https://infobanknews.com/serapan-anggaran-kemendag-capai-9862-persen-pada-2025-lampaui-target"
+    },
+    {
+      "title": "KPPU Minta Anggaran Belanja Tambahan Rp 423,36 M ke DPR, untuk Apa? - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 10:05:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260716154638-4-751368/kppu-minta-anggaran-belanja-tambahan-rp-42336-m-ke-dpr-untuk-apa"
+    },
+    {
+      "title": "Perlindungan Perempuan Dinilai Belum Optimal - Media Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 16 Jul 2026 09:24:37 GMT",
+      "link": "https://mediaindonesia.com/humaniora/911532/perlindungan-perempuan-dinilai-belum-optimal"
+    },
+    {
+      "title": "Berdialog dengan 10 Asosiasi Desa, Menkop ingin Tuntaskan Berbagai Persoalan KDKMP - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 08:54:48 GMT",
+      "link": "https://indoposco.id/2026/07/16/berdialog-dengan-10-asosiasi-desa-menkop-ingin-tuntaskan-berbagai-persoalan-kdkmp/"
+    },
+    {
+      "title": "Pemerintah Salurkan Barang Subsidi Lewat Koperasi Desa Merah Putih - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 08:23:05 GMT",
+      "link": "https://achmadnurhidayat.id/pemerintah-salurkan-barang-subsidi-lewat-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "Kopdes Salurkan Barang Subsidi, Bagaimana Nasib Agen-Pangkalan? - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 08:14:15 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8576895/kopdes-salurkan-barang-subsidi-bagaimana-nasib-agen-pangkalan"
+    },
     {
       "title": "Investasi Hilirisasi Semester I-2026 Tembus Rp 300,1 Triliun - achmadnurhidayat.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 08:02:23 GMT",
       "link": "https://achmadnurhidayat.id/investasi-hilirisasi-semester-satu-2026"
+    },
+    {
+      "title": "Permintaan Melemah, Kemendag Turunkan HPE Emas Paruh Kedua Juli 2,71% - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 07:56:57 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/07/16/permintaan-melemah-kemendag-turunkan-hpe-emas-paruh-kedua-juli-271-152000538"
     },
     {
       "title": "Kemenkop Optimalkan Tata Kelola Koperasi Tebu untuk Perkuat Ekonomi Petani - TopBusiness.id",
@@ -125,6 +188,13 @@
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 07:21:12 GMT",
+      "link": "https://www.tempo.co/ekonomi/kata-menteri-soal-koperasi-di-blok-m-hanya-untung-rp-78-ribu-2276207"
+    },
+    {
+      "title": "Kata Menteri soal Koperasi di Blok M Hanya Untung Rp 78 Ribu - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 16 Jul 2026 07:21:12 GMT",
       "link": "https://bisnis.tempo.co/read/2113974/kata-menteri-soal-koperasi-di-blok-m-hanya-untung-rp-78-ribu?utm_source=Digital%20Marketing&utm_medium=Babe"
     },
     {
@@ -133,76 +203,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 07:18:38 GMT",
       "link": "https://www.metrotvnews.com/read/bVDCPE5E-permintaan-melemah-kemendag-pangkas-harga-patokan-ekspor-emas"
-    },
-    {
-      "title": "Ukur Monopoli Digital, Revisi UU Persaingan Usaha Bidik Data dan Algoritma - Kompas.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 07:15:00 GMT",
-      "link": "https://www.kompas.id/artikel/revisi-uu-persaingan-usaha-tak-cukup-bahas-harga-dan-pangsa-pasar-tetapi-juga-data-dan-algoritma"
-    },
-    {
-      "title": "Sartono Berharap RUU Ketenagalistrikan Jadi Jaminan Keandalan Sistem Kelistrikan Nasional - TEROPONGSENAYAN.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 07:06:41 GMT",
-      "link": "https://www.teropongsenayan.com/138052-sartono-berharap-ruu-ketenagalistrikan-jadi-jaminan-keandalan-sistem-kelistrikan-nasional"
-    },
-    {
-      "title": "Pengadaan Kipas Angin Kopdes Merah Putih, Mufti Anam: 1,8 Juta Unit Senilai Rp 1,8 Triliun Jauh dari Harga Pasar - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 07:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/pengadaan-kipas-angin-kopdes-merah-putih-mufti-anam-1-8-juta-unit-senilai-rp-1-8-triliun-jauh-dari-harga-pasar-b2pWSZbg2K"
-    },
-    {
-      "title": "Legislator: Saatnya Rombak Aturan Kejaksaan soal Sita, Rampas, Lelang, dan Sita Aset Hasil Kejahatan - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 06:43:15 GMT",
-      "link": "https://aktual.com/legislator-saatnya-rombak-aturan-kejaksaan-soal-sita-rampas-lelang-dan-sita-aset-hasil-kejahatan/"
-    },
-    {
-      "title": "BPKN RI: Kelangkaan BBM di Sumut Jadi Momentum Perkuat Sistem Distribusi dan Perlindungan Konsumen - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 06:08:00 GMT",
-      "link": "https://www.mediakarya.id/39029-2/"
-    },
-    {
-      "title": "Permintaan Berkurang, HPE dan HR Emas Melemah pada Periode Kedua Juli 2026 - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 06:05:00 GMT",
-      "link": "https://www.topbusiness.id/132221/permintaan-berkurang-hpe-dan-hr-emas-melemah-pada-periode-kedua-juli-2026.html"
-    },
-    {
-      "title": "Kemendag: Permintaan Melemah dan Perpindahan Dana Investor Tekan Harga Acuan Emas - Sudutpandang.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 05:55:33 GMT",
-      "link": "https://sudutpandang.id/kemendag-permintaan-melemah-dan-perpindahan-dana-investor-tekan-harga-acuan-emas/"
-    },
-    {
-      "title": "Sinergi Lintas Instansi, Pemprov Malut Matangkan Kesiapan Fasilitas dan Protokol Sambut Kunjungan Kerja Wamen Koperasi RI - Pemprov Maluku Utara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 04:35:53 GMT",
-      "link": "https://malutprov.go.id/sinergi-lintas-instansi-pemprov-malut-matangkan-kesiapan-fasilitas-dan-protokol-sambut-kunjungan-kerja-wamen-koperasi-ri"
-    },
-    {
-      "title": "Produk UMKM Indonesia Tembus Pasar Korea, Transaksi Tembus Rp34,58 Miliar - Towa.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 03:44:27 GMT",
-      "link": "https://towa.co.id/postingan/produk-umkm-indonesia-tembus-pasar-korea-transaksi-tembus-rp3458-miliar"
-    },
-    {
-      "title": "Koperasi Dianggap Berhasil Jika Masyarakat Merasakan Dampak Ekonominya - Ipol.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 03:40:33 GMT",
-      "link": "https://ipol.id/2026/07/koperasi-dianggap-berhasil-jika-masyarakat-merasakan-dampak-ekonominya/"
     }
   ]
 }
