@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T20:04:31.665648",
+  "generated_at": "2026-07-17T21:51:19.605334",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 59,
@@ -38,7 +38,7 @@
     "koperasi": 78,
     "perdagangan": 3,
     "danantara": 39,
-    "ekspor": 12,
+    "ekspor": 13,
     "umkm": 4,
     "investasi": 42,
     "kartel-monopoli": 7,
@@ -94,12 +94,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 39,
+    "Perdagangan": 40,
     "Hukum/Audit": 34,
     "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Incar Peningkatan Ekspor Komponen Otomotif Melalui Mitra Perusahaan Jepang - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 21:24:05 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5431173/kemendag-incar-peningkatan-ekspor-komponen-otomotif-melalui-mitra-perusahaan-jepang?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5431173"
+    },
     {
       "title": "Ahli Hukum: Price Fixing Seharusnya Bikin Harga Naik - Media Indonesia",
       "entity": "KPPU",
@@ -197,13 +204,6 @@
       "kind": "anggota",
       "published": "Fri, 17 Jul 2026 12:20:53 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Herman-Khaeron-Soroti-Hilangnya-Revitalisasi-Pasar-dan-Pendampingan-UMKM-67341"
-    },
-    {
-      "title": "Citra Koperasi Dirombak, Regenerasi Ada di Tangan Gen Z - Suara.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 11:29:43 GMT",
-      "link": "https://amp.suara.com/bisnis/2026/07/17/182943/citra-koperasi-dirombak-regenerasi-ada-di-tangan-gen-z"
     }
   ]
 }
