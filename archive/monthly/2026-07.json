@@ -1,20 +1,20 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T10:45:12.550689",
+  "generated_at": "2026-07-17T12:07:34.245103",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 21,
     "PDI-P": 62,
-    "Golkar": 20,
-    "NasDem": 22,
+    "Golkar": 21,
+    "NasDem": 21,
     "PKB": 9,
     "PKS": 14,
     "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 58,
+    "Gerindra": 59,
     "PDI-P": 107,
-    "Golkar": 63,
+    "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
     "PKS": 60,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 79,
+    "koperasi": 78,
     "perdagangan": 4,
     "danantara": 39,
+    "umkm": 4,
     "ekspor": 10,
-    "umkm": 3,
-    "investasi": 39,
+    "investasi": 40,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -52,7 +52,7 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 20,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 20,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
-    "Gde Sumarjaya Linggih": 9,
+    "Gde Sumarjaya Linggih": 10,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -95,11 +95,32 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
-    "Hukum/Audit": 30,
-    "Koperasi/UMKM": 72,
+    "Hukum/Audit": 32,
+    "Koperasi/UMKM": 74,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Menkop Resmi Buka Pelatihan Manajer KDKMP - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 11:11:34 GMT",
+      "link": "https://news.detik.com/berita/d-8578771/menkop-resmi-buka-pelatihan-manajer-kdkmp"
+    },
+    {
+      "title": "Kemendag: Produk Hilir Sawit Lebih Tangguh Hadapi Aturan Baru Uni Eropa - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 11:03:03 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-produk-hilir-sawit-lebih-tangguh-hadapi-aturan-baru-uni-eropa"
+    },
+    {
+      "title": "IP-CEPA Buka Peluang Besar UMKM Tembus Pasar Amerika Latin - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 10:52:06 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/17/ip-cepa-buka-peluang-besar-umkm-tembus-pasar-amerika-latin/"
+    },
     {
       "title": "Mendag Ajak Industri Maksimalkan Perjanjian Dagang untuk Genjot Ekspor - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -157,6 +178,20 @@
       "link": "https://achmadnurhidayat.id/target-penempatan-manajer-koperasi-desa"
     },
     {
+      "title": "DPR RI Apresiasi Langkah BNI Tangani dan Laporkan Dugaan KUR Fiktif di Jember - artik.id",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 09:28:00 GMT",
+      "link": "https://artik.id/news-14020-dpr-ri-apresiasi-langkah-bni-tangani-dan-laporkan-dugaan-kur-fiktif-di-jember"
+    },
+    {
+      "title": "Kawendra Lukistian Apresiasi Langkah BNI Tangani Dugaan KUR Fiktif di Jember - Lumajang Satu",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 09:15:00 GMT",
+      "link": "https://lumajangsatu.com/baca-20685-kawendra-lukistian-apresiasi-langkah-bni-tangani-dugaan-kur-fiktif-di-jember"
+    },
+    {
       "title": "Pemkab Pohuwato Hormati Pengabdian Rachmat Gobel Lewat Doa Tahlil dan Gelar Adat Kehormatan - prokopim.pohuwatokab.go.id",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
@@ -169,41 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 09:09:04 GMT",
       "link": "https://bisnis.tempo.co/read/2114181/jasa-keuangan-paling-banyak-dapat-pengaduan-konsumen?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Pemerintah Percepat Operasional Koperasi Desa Merah Putih, Siap Jadi Penyalur Barang Subsidi - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 08:43:10 GMT",
-      "link": "https://suarapemerintah.id/2026/07/pemerintah-percepat-operasional-koperasi-desa-merah-putih-siap-jadi-penyalur-barang-subsidi/"
-    },
-    {
-      "title": "Menangkan Sengketa Dagang di 2025, RI Amankan Ekspor US$437 Juta - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 08:40:00 GMT",
-      "link": "https://tirto.id/menangkan-sengketa-dagang-di-2025-ri-amankan-ekspor-us437-juta-hzSu"
-    },
-    {
-      "title": "Kemendag Genjot Ekspor Kopi Indonesia ke Jepang, UMKM Didorong Penuhi Standar Internasional - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 08:39:18 GMT",
-      "link": "https://suarapemerintah.id/2026/07/kemendag-genjot-ekspor-kopi-indonesia-ke-jepang-umkm-didorong-penuhi-standar-internasional/"
-    },
-    {
-      "title": "Filosofi dan Perjalanan Karier Rachmat Gobel yang Menginspirasi Banyak Orang - Radar Banjarmasin",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 08:13:14 GMT",
-      "link": "https://radarbanjarmasin.jawapos.com/nasional/2607110023/filosofi-dan-perjalanan-karier-rachmat-gobel-yang-menginspirasi-banyak-orang"
-    },
-    {
-      "title": "Kemenkop bekali 29.830 calon manajer KDKMP dalam pelatihan-sertifikasi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 08:08:02 GMT",
-      "link": "https://www.antaranews.com/berita/5653819/kemenkop-bekali-29830-calon-manajer-kdkmp-dalam-pelatihansertifikasi"
     }
   ]
 }
