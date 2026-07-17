@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T18:03:55.024105",
+  "generated_at": "2026-07-17T20:04:31.665648",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 59,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 17,
     "PKB": 8,
     "PKS": 14,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 108,
+    "PDI-P": 109,
     "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
@@ -60,7 +60,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 4,
-    "Ida Nurlaela": 15,
+    "Ida Nurlaela": 16,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
@@ -94,12 +94,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 38,
+    "Perdagangan": 39,
     "Hukum/Audit": 34,
     "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Ahli Hukum: Price Fixing Seharusnya Bikin Harga Naik - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 18:54:59 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/912052/ahli-hukum-price-fixing-seharusnya-bikin-harga-naik"
+    },
     {
       "title": "Koperasi Kana Raih Dua Penghargaan Nasional atas Kinerja Ekonomi dan Sosial - sinarharapan.net",
       "entity": "Kementerian Koperasi",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 11:29:43 GMT",
       "link": "https://amp.suara.com/bisnis/2026/07/17/182943/citra-koperasi-dirombak-regenerasi-ada-di-tangan-gen-z"
-    },
-    {
-      "title": "Menkop Resmi Buka Pelatihan Manajer KDKMP - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 11:11:34 GMT",
-      "link": "https://news.detik.com/berita/d-8578771/menkop-resmi-buka-pelatihan-manajer-kdkmp"
     }
   ]
 }
