@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T16:15:35.109384",
+  "generated_at": "2026-07-17T18:03:55.024105",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 59,
     "Golkar": 21,
-    "NasDem": 18,
+    "NasDem": 17,
     "PKB": 8,
     "PKS": 14,
     "PAN": 1,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 107,
+    "PDI-P": 108,
     "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
@@ -61,7 +61,7 @@
     "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 4,
     "Ida Nurlaela": 15,
-    "Budi Sulistyono": 4,
+    "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
     "Gde Sumarjaya Linggih": 10,
@@ -94,12 +94,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 37,
+    "Perdagangan": 38,
     "Hukum/Audit": 34,
     "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Kana Raih Dua Penghargaan Nasional atas Kinerja Ekonomi dan Sosial - sinarharapan.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 16:58:13 GMT",
+      "link": "https://www.sinarharapan.net/koperasi-kana-raih-dua-penghargaan-nasional-atas-kinerja-ekonomi-dan-sosial/"
+    },
     {
       "title": "Warisan Rachmat Gobel untuk Generasi Penerus - investor.id",
       "entity": "Rachmat Gobel",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 11:11:34 GMT",
       "link": "https://news.detik.com/berita/d-8578771/menkop-resmi-buka-pelatihan-manajer-kdkmp"
-    },
-    {
-      "title": "Kemendag: Produk Hilir Sawit Lebih Tangguh Hadapi Aturan Baru Uni Eropa - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 11:03:03 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-produk-hilir-sawit-lebih-tangguh-hadapi-aturan-baru-uni-eropa"
     }
   ]
 }
