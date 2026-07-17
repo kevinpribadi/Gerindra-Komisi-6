@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-16T23:57:12.558435",
+  "generated_at": "2026-07-17T02:49:44.912023",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 56,
+    "PDI-P": 58,
     "Golkar": 21,
-    "NasDem": 25,
+    "NasDem": 24,
     "PKB": 11,
-    "PKS": 17,
+    "PKS": 16,
     "PAN": 5,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 56,
-    "PDI-P": 104,
+    "Gerindra": 57,
+    "PDI-P": 105,
     "Golkar": 66,
     "NasDem": 42,
     "PKB": 43,
     "PKS": 60,
-    "PAN": 18,
+    "PAN": 17,
     "Demokrat": 21
   },
   "agency_counts_30d": {
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 55,
-    "koperasi": 78,
+    "koperasi": 79,
     "danantara": 38,
     "umkm": 3,
-    "ekspor": 9,
+    "ekspor": 7,
     "perdagangan": 4,
-    "investasi": 34,
+    "investasi": 36,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -52,10 +52,10 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 18,
+    "Mufti Anam": 19,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -86,7 +86,7 @@
     "Rizal Bawazier": 19,
     "Ghufran": 2,
     "Ismail": 20,
-    "Eko Patrio": 11,
+    "Eko Patrio": 10,
     "Nasril Bahar": 4,
     "Iskandar": 3,
     "Sartono": 4,
@@ -95,10 +95,102 @@
   "early_warning_counts": {
     "Kinerja BUMN": 21,
     "Hukum/Audit": 33,
+    "Perdagangan": 32,
     "Koperasi/UMKM": 73,
-    "Perdagangan": 33
+    "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Wamenkop: Koperasi Merah Putih Tak Perlu Tunggu Gerai Rampung untuk Beroperasi - Istana FM Ternate",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:40:13 GMT",
+      "link": "https://istanafm.com/wamenkop-koperasi-merah-putih-tak-perlu-tunggu-gerai-rampung-untuk-beroperasi/"
+    },
+    {
+      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimis Raih WTP Ke-10 - Batamnews",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:20:00 GMT",
+      "link": "https://www.batamnews.co.id/berita-128777-kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimis-raih-wtp-ke-10.html"
+    },
+    {
+      "title": "Kemendag Dorong Daya Saing Produk Indonesia untuk Hadapi Perubahan Bea Masuk Arab Saudi - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:15:00 GMT",
+      "link": "https://olenka.id/kemendag-dorong-daya-saing-produk-indonesia-untuk-hadapi-perubahan-bea-masuk-arab-saudi"
+    },
+    {
+      "title": "BP Batam Laporkan Investasi Rp44 T dan Proyeksi WTP ke-10 di Hadapan DPR RI - Detaknews.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:13:47 GMT",
+      "link": "https://detaknews.co.id/2026/07/17/bp-batam-laporkan-investasi-rp44-t-dan-proyeksi-wtp-ke-10-di-hadapan-dpr-ri/"
+    },
+    {
+      "title": "BP Batam Catat Investasi Rp44,01 Triliun pada 2025, Tumbuh 72,83 Persen - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:02:52 GMT",
+      "link": "https://metropolis.batampos.co.id/bp-batam-catat-investasi-rp4401-triliun-pada-2025-tumbuh-7283-persen/"
+    },
+    {
+      "title": "Peringati Hari Koperasi Nasional ke-79, Dekopinda Sumenep Gelar Kerja Bakti Bersih Lingkungan - Media Pribumi",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 01:45:39 GMT",
+      "link": "https://mediapribumi.id/peringati-hari-koperasi-nasional-ke-79-dekopinda-sumenep-gelar-kerja-bakti-bersih-lingkungan/"
+    },
+    {
+      "title": "BP Batam Catat Investasi Rp44 Triliun pada 2025, Amsakar Paparkan Kinerja di Hadapan Komisi VI DPR RI - TransKepri.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 01:19:22 GMT",
+      "link": "https://transkepri.com/news/detail/25654/bp-batam-catat-investasi-rp44-triliun-pada-2025-amsakar-paparkan-kinerja-di-hadapan-komisi-vi-dpr-ri"
+    },
+    {
+      "title": "‎Menkop Ferry pastikan Kopdes Merah Putih jadi pusat penyaluran subsidi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 01:08:52 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-ferry-pastikan-kopdes-merah-putih-jadi-pusat-penyaluran-subsidi-170542"
+    },
+    {
+      "title": "Investasi Batam Tembus Rp44 Triliun, BP Batam Optimistis Raih WTP Ke-10 - gokepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 00:55:49 GMT",
+      "link": "https://gokepri.com/investasi-batam-tembus-rp44-triliun-bp-batam-optimistis-raih-wtp-ke-10/"
+    },
+    {
+      "title": "Mengenang 7 Hari Wafatnya Rachmat Gobel: Sosok Politisi dan Pengusaha yang Tawaduk - MetroTVNews.com",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 00:40:03 GMT",
+      "link": "https://www.metrotvnews.com/play/b2lC6Qvx-mengenang-7-hari-wafatnya-rachmat-gobel-sosok-politisi-dan-pengusaha-yang-tawaduk"
+    },
+    {
+      "title": "Legislator: Kemendag perlu perkuat pengamanan pasar dalam negeri - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 00:32:24 GMT",
+      "link": "https://ambon.antaranews.com/berita/336389/legislator-kemendag-perlu-perkuat-pengamanan-pasar-dalam-negeri"
+    },
+    {
+      "title": "DPR Apresiasi BNI yang Jaga Pertumbuhan Bisnis dan Kualitas Aset - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/317994/selain-sukses-pertahankan-kualitas-aset-dpr-nilai-bni-berhasil-menjaga-pertumbuhan"
+    },
+    {
+      "title": "Polemik Pengadaan Kipas Angin Rp 1,8 Triliun untuk Kopdes Merah Putih, Ini Kata Pemerintah - Kompas.com",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 00:01:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/07/17/07014561/polemik-pengadaan-kipas-angin-rp-18-triliun-untuk-kopdes-merah-putih-ini"
+    },
     {
       "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimistis Raih WTP Ke-10 - BP Batam",
       "entity": "BP Batam",
@@ -112,97 +204,6 @@
       "kind": "lembaga",
       "published": "Thu, 16 Jul 2026 22:04:00 GMT",
       "link": "https://achmadnurhidayat.id/kemenkeu-ambil-alih-kelola-kcic"
-    },
-    {
-      "title": "Realisasi Anggaran Kemendag Capai 98,62%, Fasilitasi 38.356 UMKM - kumparan.com - Kumparan.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 21:00:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/realisasi-anggaran-kemendag-capai-98-62-fasilitasi-38-356-umkm-27nctsw3u43"
-    },
-    {
-      "title": "Dekopin Rombak Citra Koperasi, Sasar Demografi Gen Z - Marketeers",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 18:02:11 GMT",
-      "link": "https://www.marketeers.com/dekopin-rombak-citra-koperasi-sasar-demografi-gen-z/"
-    },
-    {
-      "title": "Harga Patokan Ekspor Emas Turun pada Paruh Kedua Juli 2026 - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 16:58:43 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/16/harga-patokan-ekspor-emas-turun-pada-paruh-kedua-juli-2026/"
-    },
-    {
-      "title": "Permintaan Berkurang, Harga Patokan Ekspor dan Referensi Emas Melemah pada Periode Kedua Juli 2026 - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 16:44:06 GMT",
-      "link": "https://www.rctiplus.com/news/detail/terkini/5430314/permintaan-berkurang-harga-patokan-ekspor-dan-referensi-emas-melemah-pada-periode-kedua-juli-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5430314"
-    },
-    {
-      "title": "Mandat Komnas Perempuan Diperluas, DPR Desak Perlindungan Korban Jadi Prioritas - indoposco.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 16:11:30 GMT",
-      "link": "https://indoposco.id/2026/07/16/mandat-komnas-perempuan-diperluas-dpr-desak-perlindungan-korban-jadi-prioritas/"
-    },
-    {
-      "title": "Perlu Dikaji, Adisatrya Suryo Sulisto Nilai ART RI-AS Berpotensi Pengaruhi Ruang Kebijakan Nasional - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 16:03:08 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/perlu-dikaji-adisatrya-suryo-sulisto-nilai-art-ri-as-berpotensi-pengaruhi-ruang-kebijakan-nasional-b2pWQZbg0y"
-    },
-    {
-      "title": "Prabowo Subianto Dorong Kebangkitan Koperasi Jadi Kekuatan Ekonomi - achmadnurhidayat.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 15:38:39 GMT",
-      "link": "https://achmadnurhidayat.id/prabowo-subianto-kebangkitan-koperasi-indonesia"
-    },
-    {
-      "title": "Pemerintah Akan Bangkitkan Koperasi, Jadi Kekuatan Ekonomi RI - investor.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 15:35:00 GMT",
-      "link": "https://investor.id/macroeconomy/446812/pemerintah-akan-bangkitkan-koperasi-jadi-kekuatan-ekonomi-ri"
-    },
-    {
-      "title": "Tujuh Hari Kepergian Rachmat Gobel, Kenangan dan Doa Mengalir dari Bone Bolango - Berita Bone Bolango",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 15:18:30 GMT",
-      "link": "https://berita.bonebolangokab.go.id/tujuh-hari-kepergian-rachmat-gobel-kenangan-dan-doa-mengalir-dari-bone-bolango/"
-    },
-    {
-      "title": "BAKN Soroti Tata Kelola Hulu Migas, Herman Khaeron: Temuan BPK Tidak Boleh Terus Berulang - Bela Rakyat",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 15:13:48 GMT",
-      "link": "https://belarakyat.com/bakn-soroti-tata-kelola-hulu-migas-herman-khaeron-temuan-bpk-tidak-boleh-terus-berulang/"
-    },
-    {
-      "title": "Perlu Dikaji, Adisatrya Suryo Sulisto Nilai ART RI-AS Berpotensi Pengaruhi Ruang Kebijakan Nasional - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/perlu-dikaji-adisatrya-suryo-sulisto-nilai-art-ri-as-berpotensi-pengaruhi-ruang-kebijakan-nasional-b2pWQZbg0y"
-    },
-    {
-      "title": "Darmadi Durianto Tegaskan Mufti Anam Hanya Minta Klarifikasi, Bukan Menuduh Agrinas - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 14:40:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-mufti-anam-hanya-minta-klarifikasi-bukan-menuduh-agrinas-b2pWSZbg3J"
-    },
-    {
-      "title": "Darmadi Durianto Tegaskan Mufti Anam Hanya Minta Klarifikasi, Bukan Menuduh Agrinas - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 16 Jul 2026 14:40:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tegaskan-mufti-anam-hanya-minta-klarifikasi-bukan-menuduh-agrinas-b2pWSZbg3J"
     }
   ]
 }
