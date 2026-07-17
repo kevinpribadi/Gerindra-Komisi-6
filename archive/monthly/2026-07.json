@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T14:41:54.202573",
+  "generated_at": "2026-07-17T16:15:35.109384",
   "party_counts_7d": {
-    "Gerindra": 21,
+    "Gerindra": 22,
     "PDI-P": 59,
     "Golkar": 21,
     "NasDem": 18,
-    "PKB": 9,
+    "PKB": 8,
     "PKS": 14,
     "PAN": 1,
     "Demokrat": 5
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 79,
+    "koperasi": 78,
     "perdagangan": 3,
     "danantara": 39,
     "ekspor": 12,
-    "umkm": 5,
-    "investasi": 40,
+    "umkm": 4,
+    "investasi": 42,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -95,11 +95,46 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 37,
-    "Hukum/Audit": 32,
+    "Hukum/Audit": 34,
     "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Warisan Rachmat Gobel untuk Generasi Penerus - investor.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 15:16:00 GMT",
+      "link": "https://investor.id/lifestyle/446977/warisan-rachmat-gobel-untuk-generasi-penerus"
+    },
+    {
+      "title": "Aminuddin Ma’ruf, Komisaris PLN dan Wakil Kepala BP BUMN: Umur 40 Tahun Berharta Rp16,4 Miliar - Beritambang",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 15:02:46 GMT",
+      "link": "https://beritambang.com/aminuddin-maruf-komisaris-pln-dan-wakil-kepala-bp-bumn-umur-40-tahun-berharta-rp164-miliar/"
+    },
+    {
+      "title": "Hari Koperasi ke-79, Advokat Kang Deden Resmi Jabat Pengurus DEKOPINDA Kabupaten Bogor Bidang Hukum. - wartahukum.net",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 15:02:39 GMT",
+      "link": "https://www.wartahukum.net/2026/07/17/hari-koperasi-ke-79-advokat-kang-deden-resmi-jabat-pengurus-dekopinda-kabupaten-bogor-bidang-hukum/"
+    },
+    {
+      "title": "Kemenkop Latih Calon Manajer Koperasi Desa Merah Putih - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 14:43:20 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-latih-manajer-koperasi-desa"
+    },
+    {
+      "title": "Usai Latihan Bela Negara, Manajer Koperasi Merah Putih Jalani Program Ini - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 14:39:47 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8579013/usai-latihan-bela-negara-manajer-koperasi-merah-putih-jalani-program-ini"
+    },
     {
       "title": "Pelatihan Nasional Dimulai, Kemenkop Targetkan Manajer Koperasi Desa Berstandar BNSP - indoposco.id",
       "entity": "Kementerian Koperasi",
@@ -169,41 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 11:03:03 GMT",
       "link": "https://industri.kontan.co.id/news/kemendag-produk-hilir-sawit-lebih-tangguh-hadapi-aturan-baru-uni-eropa"
-    },
-    {
-      "title": "IP-CEPA Buka Peluang Besar UMKM Tembus Pasar Amerika Latin - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 10:52:06 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/17/ip-cepa-buka-peluang-besar-umkm-tembus-pasar-amerika-latin/"
-    },
-    {
-      "title": "Mendag Ajak Industri Maksimalkan Perjanjian Dagang untuk Genjot Ekspor - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 10:38:53 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/17/mendag-ajak-industri-maksimalkan-perjanjian-dagang-untuk-genjot-ekspor/"
-    },
-    {
-      "title": "30.000 Calon Manajer Koperasi Merah Putih Jalani Pelatihan dan Sertifikasi - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 10:22:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/17/172201826/30000-calon-manajer-koperasi-merah-putih-jalani-pelatihan-dan-sertifikasi"
-    },
-    {
-      "title": "Anggaran Penanganan Korban di Komnas Perempuan Jadi Sorotan - VOICE Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 10:07:46 GMT",
-      "link": "https://voiceindonesia.co/nasional/16/07/2026/1784209089035/anggaran-penanganan-korban-di-komnas-perempuan-jadi-sorotan"
-    },
-    {
-      "title": "Minat Beli Logam Mulia Turun, Harga Patokan Ekspor Emas Jadi Merosot - Suara.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 10:06:19 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/17/170619/minat-beli-logam-mulia-turun-harga-patokan-ekspor-emas-jadi-merosot"
     }
   ]
 }
