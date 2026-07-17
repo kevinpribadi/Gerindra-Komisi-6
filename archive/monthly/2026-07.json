@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T12:07:34.245103",
+  "generated_at": "2026-07-17T14:41:54.202573",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 62,
+    "PDI-P": 59,
     "Golkar": 21,
-    "NasDem": 21,
+    "NasDem": 18,
     "PKB": 9,
     "PKS": 14,
     "PAN": 1,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 59,
+    "Gerindra": 60,
     "PDI-P": 107,
     "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
     "PKS": 60,
     "PAN": 16,
-    "Demokrat": 20
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 78,
-    "perdagangan": 4,
+    "koperasi": 79,
+    "perdagangan": 3,
     "danantara": 39,
-    "umkm": 4,
-    "ekspor": 10,
+    "ekspor": 12,
+    "umkm": 5,
     "investasi": 40,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -53,7 +53,7 @@
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 8,
+    "Mulyadi": 9,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 20,
     "Darmadi Durianto": 20,
@@ -90,16 +90,72 @@
     "Nasril Bahar": 4,
     "Iskandar": 2,
     "Sartono": 4,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 17
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 35,
+    "Perdagangan": 37,
     "Hukum/Audit": 32,
-    "Koperasi/UMKM": 74,
+    "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Pelatihan Nasional Dimulai, Kemenkop Targetkan Manajer Koperasi Desa Berstandar BNSP - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 13:49:00 GMT",
+      "link": "https://indoposco.id/2026/07/17/pelatihan-nasional-dimulai-kemenkop-targetkan-manajer-koperasi-desa-berstandar-bnsp/"
+    },
+    {
+      "title": "Ekonomi kerakyatan makin diperkuat, Koperasi berprestasi didorong jadi contoh nasional - ANTARA News Megapolitan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 12:49:01 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/540701/ekonomi-kerakyatan-makin-diperkuat-koperasi-berprestasi-didorong-jadi-contoh-nasional"
+    },
+    {
+      "title": "Hari Koperasi Nasional ke-79, Pemkab Tulungagung Perkuat Komitmen Sukseskan Koperasi Desa Merah Putih - Mattanews.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 12:47:07 GMT",
+      "link": "https://mattanews.co/hari-koperasi-nasional-ke-79-pemkab-tulungagung-perkuat-komitmen-sukseskan-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "Perluas Pasar Ekspor, Mendag Temui Perwakilan Kantor Pusat Denso Group - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 12:35:00 GMT",
+      "link": "https://olenka.id/perluas-pasar-ekspor-mendag-temui-perwakilan-kantor-pusat-denso-group"
+    },
+    {
+      "title": "Dekopin: Juli Bulan Koperasi, Banyak Daerah Masih Merayakan - SINDOnews Nasional",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 12:28:54 GMT",
+      "link": "https://nasional.sindonews.com/read/1729533/15/dekopin-juli-bulan-koperasi-banyak-daerah-masih-merayakan-1784290029"
+    },
+    {
+      "title": "Kemendag Turunkan Harga Patokan Ekspor (HPE) Emas Jadi USD131.839 per Kg di Juli 2026 - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 12:24:05 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5431008/kemendag-turunkan-harga-patokan-ekspor--hpe--emas-jadi-usd131-839-per-kg-di-juli-2026"
+    },
+    {
+      "title": "Herman Khaeron Soroti Hilangnya Revitalisasi Pasar dan Pendampingan UMKM - DPR RI",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 12:20:53 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Herman-Khaeron-Soroti-Hilangnya-Revitalisasi-Pasar-dan-Pendampingan-UMKM-67341"
+    },
+    {
+      "title": "Citra Koperasi Dirombak, Regenerasi Ada di Tangan Gen Z - Suara.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 11:29:43 GMT",
+      "link": "https://amp.suara.com/bisnis/2026/07/17/182943/citra-koperasi-dirombak-regenerasi-ada-di-tangan-gen-z"
+    },
     {
       "title": "Menkop Resmi Buka Pelatihan Manajer KDKMP - detikNews",
       "entity": "Kementerian Koperasi",
@@ -148,62 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 10:06:19 GMT",
       "link": "https://www.suara.com/bisnis/2026/07/17/170619/minat-beli-logam-mulia-turun-harga-patokan-ekspor-emas-jadi-merosot"
-    },
-    {
-      "title": "BPKN Terima 12.051 Aduan Konsumen, Terbanyak Jasa Keuangan - Tirto.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 09:49:00 GMT",
-      "link": "https://tirto.id/bpkn-terima-12051-aduan-konsumen-terbanyak-jasa-keuangan-hzSC"
-    },
-    {
-      "title": "Luhut Tegaskan UU P2SK Perkuat Iklim Investasi Indonesia - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 09:46:48 GMT",
-      "link": "https://achmadnurhidayat.id/luhut-tegaskan-uu-p2sk-investasi"
-    },
-    {
-      "title": "Dirut Agrinas Tantang Mufti Anam Buka Data soal Kipas Angin KDMP Rp1,8 Triliun - SERUJI",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 09:37:59 GMT",
-      "link": "https://seruji.co.id/peristiwa/dirut-agrinas-tantang-dpr-buka-data-kipas-angin-kdmp/"
-    },
-    {
-      "title": "Menteri Koperasi Targetkan 30.000 Manajer Desa Mulai Tugas Agustus 2026 - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 09:30:17 GMT",
-      "link": "https://achmadnurhidayat.id/target-penempatan-manajer-koperasi-desa"
-    },
-    {
-      "title": "DPR RI Apresiasi Langkah BNI Tangani dan Laporkan Dugaan KUR Fiktif di Jember - artik.id",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 09:28:00 GMT",
-      "link": "https://artik.id/news-14020-dpr-ri-apresiasi-langkah-bni-tangani-dan-laporkan-dugaan-kur-fiktif-di-jember"
-    },
-    {
-      "title": "Kawendra Lukistian Apresiasi Langkah BNI Tangani Dugaan KUR Fiktif di Jember - Lumajang Satu",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 09:15:00 GMT",
-      "link": "https://lumajangsatu.com/baca-20685-kawendra-lukistian-apresiasi-langkah-bni-tangani-dugaan-kur-fiktif-di-jember"
-    },
-    {
-      "title": "Pemkab Pohuwato Hormati Pengabdian Rachmat Gobel Lewat Doa Tahlil dan Gelar Adat Kehormatan - prokopim.pohuwatokab.go.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 09:11:44 GMT",
-      "link": "https://prokopim.pohuwatokab.go.id/berita/bacaberita/5297/pemkab-pohuwato-hormati-pengabdian-rachmat-gobel-lewat-doa-tahlil-dan-gelar-adat-kehormatan"
-    },
-    {
-      "title": "Jasa Keuangan Paling Banyak Dapat Pengaduan Konsumen - Tempo.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 09:09:04 GMT",
-      "link": "https://bisnis.tempo.co/read/2114181/jasa-keuangan-paling-banyak-dapat-pengaduan-konsumen?utm_source=Digital%20Marketing&utm_medium=Babe"
     }
   ]
 }
