@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T05:40:43.111705",
+  "generated_at": "2026-07-17T08:06:01.248098",
   "party_counts_7d": {
-    "Gerindra": 18,
+    "Gerindra": 19,
     "PDI-P": 61,
     "Golkar": 21,
-    "NasDem": 24,
-    "PKB": 11,
+    "NasDem": 23,
+    "PKB": 9,
     "PKS": 15,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 107,
-    "Golkar": 66,
+    "PDI-P": 106,
+    "Golkar": 63,
     "NasDem": 42,
     "PKB": 43,
-    "PKS": 60,
-    "PAN": 17,
-    "Demokrat": 21
+    "PKS": 59,
+    "PAN": 16,
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "koperasi": 80,
-    "danantara": 38,
+    "bumn": 54,
+    "koperasi": 79,
+    "perdagangan": 5,
+    "danantara": 39,
     "ekspor": 9,
     "umkm": 2,
-    "perdagangan": 4,
-    "investasi": 37,
+    "investasi": 38,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -50,9 +50,9 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 6,
+    "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 20,
@@ -62,7 +62,7 @@
     "Sadarestuwati": 4,
     "Ida Nurlaela": 15,
     "Budi Sulistyono": 4,
-    "Totok Hedi Santosa": 3,
+    "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 1,
@@ -70,7 +70,7 @@
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 11,
+    "Muhammad Sarmuji": 8,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 7,
@@ -83,23 +83,86 @@
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 19,
-    "Rizal Bawazier": 19,
+    "Rizal Bawazier": 18,
     "Ghufran": 2,
     "Ismail": 20,
     "Eko Patrio": 10,
     "Nasril Bahar": 4,
-    "Iskandar": 3,
+    "Iskandar": 2,
     "Sartono": 4,
-    "Herman Khaeron": 17
+    "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 22,
-    "Hukum/Audit": 33,
-    "Perdagangan": 33,
-    "Koperasi/UMKM": 71,
-    "Konflik Publik": 2
+    "Kinerja BUMN": 21,
+    "Perdagangan": 34,
+    "Hukum/Audit": 30,
+    "Koperasi/UMKM": 69,
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka soroti kinerja Komnas Perempuan - Elshinta",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 08:00:05 GMT",
+      "link": "https://elshinta.com/indeks/dalam-negeri/rieke-diah-pitaloka-soroti-kinerja-komnas-perempuan-170587"
+    },
+    {
+      "title": "Keanggotaan IFSWF Tidak Otomatif Dongkrak Daya Tarik Danantara, Ini Penyebabnya - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 07:46:00 GMT",
+      "link": "https://nasional.kontan.co.id/news/keanggotaan-ifswf-tidak-otomatif-dongkrak-daya-tarik-danantara-ini-penyebabnya"
+    },
+    {
+      "title": "Koperasi Kana Borong Dua Penghargaan di Bidang Ekonomi dan Sosial - JPNN.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 07:32:29 GMT",
+      "link": "https://www.jpnn.com/news/koperasi-kana-borong-dua-penghargaan-di-bidang-ekonomi-dan-sosial?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
+    },
+    {
+      "title": "Transaksi Program Belanja Nasional 2025 Capai Rp 393,78 T - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 07:15:19 GMT",
+      "link": "https://www.tempo.co/ekonomi/transaksi-program-belanja-nasional-2025-capai-rp-393-78-t-2276458"
+    },
+    {
+      "title": "Danantara Gandeng BUMN Perkuat Koperasi Merah Putih - Infobanknews",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 06:46:14 GMT",
+      "link": "https://infobanknews.com/danantara-gandeng-bumn-perkuat-koperasi-merah-putih"
+    },
+    {
+      "title": "Legislator Gerindra Dorong KDKMP Ambil Peran Dalam Rantai Pasok Nasional - Kedai Pena",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 06:40:21 GMT",
+      "link": "https://www.kedaipena.com/legislator-gerindra-dorong-kdkmp-ambil-peran-dalam-rantai-pasok-nasional/"
+    },
+    {
+      "title": "Hari Koperasi ke-79, Advokat Kang Deden Resmi Jabat Pengurus DEKOPINDA Kabupaten Bogor Bidang Hukum - VOA Bogor",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 06:32:08 GMT",
+      "link": "https://bogor.voa.co.id/berita/5349/hari-koperasi-ke-79-advokat-kang-deden-resmi-jabat-pengurus-dekopinda-kabupaten-bogor-bidang-hukum/"
+    },
+    {
+      "title": "BP Batam sebut realisasi investasi 2025 tumbuh 72,83% - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 06:10:50 GMT",
+      "link": "https://kepri.antaranews.com/berita/262808/bp-batam-sebut-realisasi-investasi-2025-tumbuh-7283"
+    },
+    {
+      "title": "PLTS Koperasi Merah Putih di Pulau Sembur Laut Batam Diresmikan Agustus 2026, Jadi yang Pertama di Indonesia - Batam Pos",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 06:00:44 GMT",
+      "link": "https://metropolis.batampos.co.id/plts-koperasi-merah-putih-di-pulau-sembur-laut-batam-diresmikan-agustus-2026-jadi-yang-pertama-di-indonesia/"
+    },
     {
       "title": "DPR Bongkar Isu Anggaran Kipas Angin KDMP Senilai Rp1,8 Triliun, Menkop: Saya Enggak Tahu - SERUJI",
       "entity": "Mufti Anam",
@@ -141,69 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 04:31:01 GMT",
       "link": "https://alurnews.com/2026/07/17/bp-karimun-promosikan-potensi-investasi-ftz-ke-perwakilan-kedutaan-besar-sahabat/"
-    },
-    {
-      "title": "DEKOPIN Bidik Generasi Z, Tepis Anggapan Koperasi Model Ekonomi Lama - JPNN.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 04:09:00 GMT",
-      "link": "https://www.jpnn.com/news/dekopin-bidik-generasi-z-tepis-anggapan-koperasi-model-ekonomi-lama"
-    },
-    {
-      "title": "BPKN Catat ada 12.051 Pengaduan Konsumen, Total Kerugian Rp1 T - Bloomberg Technoz",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 04:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115377/bpkn-catat-ada-12-051-pengaduan-konsumen-total-kerugian-rp1-t"
-    },
-    {
-      "title": "Kemendag Genjot Ekspor Kopi Indonesia ke Jepang Lewat Penguatan Mutu - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 03:59:34 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tecxupr-kemendag-genjot-ekspor-kopi-indonesia-ke-jepang-lewat-penguatan-mutu"
-    },
-    {
-      "title": "Di Hadapan DPR, BP Batam Paparkan Lonjakan Investasi dan Kinerja Keuangan 2025 - Delta Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 03:26:51 GMT",
-      "link": "https://deltakepri.co.id/di-hadapan-dpr-bp-batam-paparkan-lonjakan-investasi-dan-kinerja-keuangan-2025/"
-    },
-    {
-      "title": "Wamenkop: Koperasi Merah Putih Tak Perlu Tunggu Gerai Rampung untuk Beroperasi - Istana FM Ternate",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:40:13 GMT",
-      "link": "https://istanafm.com/wamenkop-koperasi-merah-putih-tak-perlu-tunggu-gerai-rampung-untuk-beroperasi/"
-    },
-    {
-      "title": "Kepala BP Batam Paparkan Kinerja 2025 di Komisi VI DPR: Investasi Lampaui Target, Optimis Raih WTP Ke-10 - ariranews.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:21:11 GMT",
-      "link": "https://ariranews.com/17/07/2026/kepala-bp-batam-paparkan-kinerja-2025-di-komisi-vi-dpr-investasi-lampaui-target-optimis-raih-wtp-ke-10/amp/"
-    },
-    {
-      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimis Raih WTP Ke-10 - Batamnews",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:20:00 GMT",
-      "link": "https://www.batamnews.co.id/berita-128777-kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimis-raih-wtp-ke-10.html"
-    },
-    {
-      "title": "Kemendag Dorong Daya Saing Produk Indonesia untuk Hadapi Perubahan Bea Masuk Arab Saudi - olenka.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:15:00 GMT",
-      "link": "https://olenka.id/kemendag-dorong-daya-saing-produk-indonesia-untuk-hadapi-perubahan-bea-masuk-arab-saudi"
-    },
-    {
-      "title": "BP Batam Laporkan Investasi Rp44 T dan Proyeksi WTP ke-10 di Hadapan DPR RI - Detaknews.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:13:47 GMT",
-      "link": "https://detaknews.co.id/2026/07/17/bp-batam-laporkan-investasi-rp44-t-dan-proyeksi-wtp-ke-10-di-hadapan-dpr-ri/"
     }
   ]
 }
