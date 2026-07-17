@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T22:47:03.376302",
+  "generated_at": "2026-07-17T23:50:28.024543",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 59,
+    "PDI-P": 60,
     "Golkar": 20,
     "NasDem": 19,
-    "PKB": 8,
+    "PKB": 7,
     "PKS": 14,
     "PAN": 1,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 109,
+    "PDI-P": 110,
     "Golkar": 64,
     "NasDem": 42,
     "PKB": 43,
@@ -38,9 +38,9 @@
     "koperasi": 78,
     "perdagangan": 3,
     "danantara": 39,
+    "investasi": 43,
     "ekspor": 14,
     "umkm": 4,
-    "investasi": 42,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -60,7 +60,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 4,
-    "Ida Nurlaela": 16,
+    "Ida Nurlaela": 17,
     "Budi Sulistyono": 5,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
@@ -101,6 +101,20 @@
   },
   "top_headlines": [
     {
+      "title": "Bertemu Mendag China, Airlangga Bahas Investasi US$ 2,5 Miliar dan Penguatan Industri - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 23:38:46 GMT",
+      "link": "https://nasional.kontan.co.id/news/bertemu-mendag-china-airlangga-bahas-investasi-us-25-miliar-dan-penguatan-industri"
+    },
+    {
+      "title": "Senam Bersama Masyarakat, Ida Nurlaela: Semangat Bung Karno, Bangsa yang Kuat dari Rakyat yang Sehat dan Bersatu - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 23:01:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/senam-bersama-masyarakat-ida-nurlaela-semangat-bung-karno-bangsa-yang-kuat-dari-rakyat-yang-sehat-dan-bersatu-b2pWSZbg2M"
+    },
+    {
       "title": "Kemendag Incar Peningkatan Ekspor Komponen Otomotif Melalui Mitra Perusahaan Jepang - RCTI+",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -120,6 +134,13 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 18:54:59 GMT",
       "link": "https://mediaindonesia.com/ekonomi/912052/ahli-hukum-price-fixing-seharusnya-bikin-harga-naik"
+    },
+    {
+      "title": "Layanan Bank Emas BUMN Capai 177 Ton/Tahun, Bukti Tingginya Kepercayaan Masyarakat - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 17:48:11 GMT",
+      "link": "https://www.theiconomics.com/brand-equity/layanan-bank-emas-bumn-capai-177-ton-tahun-bukti-tingginya-kepercayaan-masyarakat/"
     },
     {
       "title": "Koperasi Kana Raih Dua Penghargaan Nasional atas Kinerja Ekonomi dan Sosial - sinarharapan.net",
@@ -183,27 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 12:49:01 GMT",
       "link": "https://megapolitan.antaranews.com/berita/540701/ekonomi-kerakyatan-makin-diperkuat-koperasi-berprestasi-didorong-jadi-contoh-nasional"
-    },
-    {
-      "title": "Hari Koperasi Nasional ke-79, Pemkab Tulungagung Perkuat Komitmen Sukseskan Koperasi Desa Merah Putih - Mattanews.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 12:47:07 GMT",
-      "link": "https://mattanews.co/hari-koperasi-nasional-ke-79-pemkab-tulungagung-perkuat-komitmen-sukseskan-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Perluas Pasar Ekspor, Mendag Temui Perwakilan Kantor Pusat Denso Group - olenka.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 12:35:00 GMT",
-      "link": "https://olenka.id/perluas-pasar-ekspor-mendag-temui-perwakilan-kantor-pusat-denso-group"
-    },
-    {
-      "title": "Pemkab Bone Bolango gelar doa bersama mengenang Rachmat Gobel - ANTARA News",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 12:30:30 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5654343/pemkab-bone-bolango-gelar-doa-bersama-mengenang-rachmat-gobel"
     }
   ]
 }
