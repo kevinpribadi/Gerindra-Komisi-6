@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T08:06:01.248098",
+  "generated_at": "2026-07-17T10:45:12.550689",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 61,
-    "Golkar": 21,
-    "NasDem": 23,
+    "PDI-P": 62,
+    "Golkar": 20,
+    "NasDem": 22,
     "PKB": 9,
-    "PKS": 15,
+    "PKS": 14,
     "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 106,
+    "PDI-P": 107,
     "Golkar": 63,
     "NasDem": 42,
     "PKB": 43,
-    "PKS": 59,
+    "PKS": 60,
     "PAN": 16,
     "Demokrat": 20
   },
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 54,
     "koperasi": 79,
-    "perdagangan": 5,
+    "perdagangan": 4,
     "danantara": 39,
-    "ekspor": 9,
-    "umkm": 2,
-    "investasi": 38,
+    "ekspor": 10,
+    "umkm": 3,
+    "investasi": 39,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -58,7 +58,7 @@
     "Mufti Anam": 20,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 1,
+    "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 4,
     "Ida Nurlaela": 15,
     "Budi Sulistyono": 4,
@@ -83,7 +83,7 @@
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 19,
-    "Rizal Bawazier": 18,
+    "Rizal Bawazier": 19,
     "Ghufran": 2,
     "Ismail": 20,
     "Eko Patrio": 10,
@@ -93,117 +93,117 @@
     "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
-    "Perdagangan": 34,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 35,
     "Hukum/Audit": 30,
-    "Koperasi/UMKM": 69,
+    "Koperasi/UMKM": 72,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Rieke Diah Pitaloka soroti kinerja Komnas Perempuan - Elshinta",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 08:00:05 GMT",
-      "link": "https://elshinta.com/indeks/dalam-negeri/rieke-diah-pitaloka-soroti-kinerja-komnas-perempuan-170587"
-    },
-    {
-      "title": "Keanggotaan IFSWF Tidak Otomatif Dongkrak Daya Tarik Danantara, Ini Penyebabnya - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 07:46:00 GMT",
-      "link": "https://nasional.kontan.co.id/news/keanggotaan-ifswf-tidak-otomatif-dongkrak-daya-tarik-danantara-ini-penyebabnya"
-    },
-    {
-      "title": "Koperasi Kana Borong Dua Penghargaan di Bidang Ekonomi dan Sosial - JPNN.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 07:32:29 GMT",
-      "link": "https://www.jpnn.com/news/koperasi-kana-borong-dua-penghargaan-di-bidang-ekonomi-dan-sosial?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
-    },
-    {
-      "title": "Transaksi Program Belanja Nasional 2025 Capai Rp 393,78 T - Tempo.co",
+      "title": "Mendag Ajak Industri Maksimalkan Perjanjian Dagang untuk Genjot Ekspor - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 07:15:19 GMT",
-      "link": "https://www.tempo.co/ekonomi/transaksi-program-belanja-nasional-2025-capai-rp-393-78-t-2276458"
+      "published": "Fri, 17 Jul 2026 10:38:53 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/17/mendag-ajak-industri-maksimalkan-perjanjian-dagang-untuk-genjot-ekspor/"
     },
     {
-      "title": "Danantara Gandeng BUMN Perkuat Koperasi Merah Putih - Infobanknews",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 06:46:14 GMT",
-      "link": "https://infobanknews.com/danantara-gandeng-bumn-perkuat-koperasi-merah-putih"
-    },
-    {
-      "title": "Legislator Gerindra Dorong KDKMP Ambil Peran Dalam Rantai Pasok Nasional - Kedai Pena",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 06:40:21 GMT",
-      "link": "https://www.kedaipena.com/legislator-gerindra-dorong-kdkmp-ambil-peran-dalam-rantai-pasok-nasional/"
-    },
-    {
-      "title": "Hari Koperasi ke-79, Advokat Kang Deden Resmi Jabat Pengurus DEKOPINDA Kabupaten Bogor Bidang Hukum - VOA Bogor",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 06:32:08 GMT",
-      "link": "https://bogor.voa.co.id/berita/5349/hari-koperasi-ke-79-advokat-kang-deden-resmi-jabat-pengurus-dekopinda-kabupaten-bogor-bidang-hukum/"
-    },
-    {
-      "title": "BP Batam sebut realisasi investasi 2025 tumbuh 72,83% - ANTARA News Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 06:10:50 GMT",
-      "link": "https://kepri.antaranews.com/berita/262808/bp-batam-sebut-realisasi-investasi-2025-tumbuh-7283"
-    },
-    {
-      "title": "PLTS Koperasi Merah Putih di Pulau Sembur Laut Batam Diresmikan Agustus 2026, Jadi yang Pertama di Indonesia - Batam Pos",
+      "title": "30.000 Calon Manajer Koperasi Merah Putih Jalani Pelatihan dan Sertifikasi - Kompas.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 06:00:44 GMT",
-      "link": "https://metropolis.batampos.co.id/plts-koperasi-merah-putih-di-pulau-sembur-laut-batam-diresmikan-agustus-2026-jadi-yang-pertama-di-indonesia/"
+      "published": "Fri, 17 Jul 2026 10:22:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/17/172201826/30000-calon-manajer-koperasi-merah-putih-jalani-pelatihan-dan-sertifikasi"
     },
     {
-      "title": "DPR Bongkar Isu Anggaran Kipas Angin KDMP Senilai Rp1,8 Triliun, Menkop: Saya Enggak Tahu - SERUJI",
+      "title": "Anggaran Penanganan Korban di Komnas Perempuan Jadi Sorotan - VOICE Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 10:07:46 GMT",
+      "link": "https://voiceindonesia.co/nasional/16/07/2026/1784209089035/anggaran-penanganan-korban-di-komnas-perempuan-jadi-sorotan"
+    },
+    {
+      "title": "Minat Beli Logam Mulia Turun, Harga Patokan Ekspor Emas Jadi Merosot - Suara.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 10:06:19 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/17/170619/minat-beli-logam-mulia-turun-harga-patokan-ekspor-emas-jadi-merosot"
+    },
+    {
+      "title": "BPKN Terima 12.051 Aduan Konsumen, Terbanyak Jasa Keuangan - Tirto.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 09:49:00 GMT",
+      "link": "https://tirto.id/bpkn-terima-12051-aduan-konsumen-terbanyak-jasa-keuangan-hzSC"
+    },
+    {
+      "title": "Luhut Tegaskan UU P2SK Perkuat Iklim Investasi Indonesia - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 09:46:48 GMT",
+      "link": "https://achmadnurhidayat.id/luhut-tegaskan-uu-p2sk-investasi"
+    },
+    {
+      "title": "Dirut Agrinas Tantang Mufti Anam Buka Data soal Kipas Angin KDMP Rp1,8 Triliun - SERUJI",
       "entity": "Mufti Anam",
       "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 05:20:43 GMT",
-      "link": "https://seruji.co.id/politik/senayan/dpr-bongkar-anggaran-kipas-angin-kdmp/"
+      "published": "Fri, 17 Jul 2026 09:37:59 GMT",
+      "link": "https://seruji.co.id/peristiwa/dirut-agrinas-tantang-dpr-buka-data-kipas-angin-kdmp/"
     },
     {
-      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimistis Raih WTP Ke-10 - Bisnis.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 05:07:11 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260717/534/1988832/kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimistis-raih-wtp-ke-10"
-    },
-    {
-      "title": "DPR Soroti Pengadaan Kipas Angin Kopdes Rp1,8 Triliun, Ini Jawaban Menkop - Telusur.co.id",
+      "title": "Menteri Koperasi Targetkan 30.000 Manajer Desa Mulai Tugas Agustus 2026 - achmadnurhidayat.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 05:01:13 GMT",
-      "link": "https://telusur.co.id/detail/dpr-soroti-pengadaan-kipas-angin-kopdes-rp18-triliun-ini-jawaban-menkop"
+      "published": "Fri, 17 Jul 2026 09:30:17 GMT",
+      "link": "https://achmadnurhidayat.id/target-penempatan-manajer-koperasi-desa"
     },
     {
-      "title": "Dekopin Siap Kawal Agenda Prabowo Jadikan Koperasi Motor Ekonomi Rakyat - Warta Ekonomi",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 04:45:00 GMT",
-      "link": "https://wartaekonomi.co.id/read623095/dekopin-siap-kawal-agenda-prabowo-jadikan-koperasi-motor-ekonomi-rakyat"
+      "title": "Pemkab Pohuwato Hormati Pengabdian Rachmat Gobel Lewat Doa Tahlil dan Gelar Adat Kehormatan - prokopim.pohuwatokab.go.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 09:11:44 GMT",
+      "link": "https://prokopim.pohuwatokab.go.id/berita/bacaberita/5297/pemkab-pohuwato-hormati-pengabdian-rachmat-gobel-lewat-doa-tahlil-dan-gelar-adat-kehormatan"
     },
     {
-      "title": "Peringati Hari Koperasi ke-79 Tahun 2026 \"Koperasi Bangkit, Indonesia Sejahtera\" - Disdagperinkopukm Buleleng",
-      "entity": "Dekopin",
+      "title": "Jasa Keuangan Paling Banyak Dapat Pengaduan Konsumen - Tempo.co",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 04:32:29 GMT",
-      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/99_peringati-hari-koperasi-ke-79-tahun-2026-koperasi-bangkit-indonesia-sejahtera"
+      "published": "Fri, 17 Jul 2026 09:09:04 GMT",
+      "link": "https://bisnis.tempo.co/read/2114181/jasa-keuangan-paling-banyak-dapat-pengaduan-konsumen?utm_source=Digital%20Marketing&utm_medium=Babe"
     },
     {
-      "title": "BP Karimun Promosikan Potensi Investasi FTZ ke Perwakilan Kedutaan Besar Sahabat - alurnews.com",
-      "entity": "BP Batam",
+      "title": "Pemerintah Percepat Operasional Koperasi Desa Merah Putih, Siap Jadi Penyalur Barang Subsidi - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 04:31:01 GMT",
-      "link": "https://alurnews.com/2026/07/17/bp-karimun-promosikan-potensi-investasi-ftz-ke-perwakilan-kedutaan-besar-sahabat/"
+      "published": "Fri, 17 Jul 2026 08:43:10 GMT",
+      "link": "https://suarapemerintah.id/2026/07/pemerintah-percepat-operasional-koperasi-desa-merah-putih-siap-jadi-penyalur-barang-subsidi/"
+    },
+    {
+      "title": "Menangkan Sengketa Dagang di 2025, RI Amankan Ekspor US$437 Juta - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 08:40:00 GMT",
+      "link": "https://tirto.id/menangkan-sengketa-dagang-di-2025-ri-amankan-ekspor-us437-juta-hzSu"
+    },
+    {
+      "title": "Kemendag Genjot Ekspor Kopi Indonesia ke Jepang, UMKM Didorong Penuhi Standar Internasional - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 08:39:18 GMT",
+      "link": "https://suarapemerintah.id/2026/07/kemendag-genjot-ekspor-kopi-indonesia-ke-jepang-umkm-didorong-penuhi-standar-internasional/"
+    },
+    {
+      "title": "Filosofi dan Perjalanan Karier Rachmat Gobel yang Menginspirasi Banyak Orang - Radar Banjarmasin",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 08:13:14 GMT",
+      "link": "https://radarbanjarmasin.jawapos.com/nasional/2607110023/filosofi-dan-perjalanan-karier-rachmat-gobel-yang-menginspirasi-banyak-orang"
+    },
+    {
+      "title": "Kemenkop bekali 29.830 calon manajer KDKMP dalam pelatihan-sertifikasi - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 08:08:02 GMT",
+      "link": "https://www.antaranews.com/berita/5653819/kemenkop-bekali-29830-calon-manajer-kdkmp-dalam-pelatihansertifikasi"
     }
   ]
 }
