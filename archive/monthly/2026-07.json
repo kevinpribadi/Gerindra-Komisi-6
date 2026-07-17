@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T02:49:44.912023",
+  "generated_at": "2026-07-17T05:40:43.111705",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 58,
+    "Gerindra": 18,
+    "PDI-P": 61,
     "Golkar": 21,
     "NasDem": 24,
     "PKB": 11,
-    "PKS": 16,
-    "PAN": 5,
+    "PKS": 15,
+    "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 57,
-    "PDI-P": 105,
+    "Gerindra": 58,
+    "PDI-P": 107,
     "Golkar": 66,
     "NasDem": 42,
     "PKB": 43,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 55,
-    "koperasi": 79,
+    "koperasi": 80,
     "danantara": 38,
-    "umkm": 3,
-    "ekspor": 7,
+    "ekspor": 9,
+    "umkm": 2,
     "perdagangan": 4,
-    "investasi": 36,
+    "investasi": 37,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -51,18 +51,18 @@
     "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
-    "Mulan Jameela": 4,
+    "Mulan Jameela": 5,
     "Kawendra Lukistian": 18,
     "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 19,
+    "Mufti Anam": 20,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 4,
     "Ida Nurlaela": 15,
     "Budi Sulistyono": 4,
-    "Totok Hedi Santosa": 2,
+    "Totok Hedi Santosa": 3,
     "Nurdin Halid": 15,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 1,
@@ -93,19 +93,96 @@
     "Herman Khaeron": 17
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
+    "Kinerja BUMN": 22,
     "Hukum/Audit": 33,
-    "Perdagangan": 32,
-    "Koperasi/UMKM": 73,
-    "Konflik Publik": 1
+    "Perdagangan": 33,
+    "Koperasi/UMKM": 71,
+    "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "DPR Bongkar Isu Anggaran Kipas Angin KDMP Senilai Rp1,8 Triliun, Menkop: Saya Enggak Tahu - SERUJI",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Fri, 17 Jul 2026 05:20:43 GMT",
+      "link": "https://seruji.co.id/politik/senayan/dpr-bongkar-anggaran-kipas-angin-kdmp/"
+    },
+    {
+      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimistis Raih WTP Ke-10 - Bisnis.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 05:07:11 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260717/534/1988832/kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimistis-raih-wtp-ke-10"
+    },
+    {
+      "title": "DPR Soroti Pengadaan Kipas Angin Kopdes Rp1,8 Triliun, Ini Jawaban Menkop - Telusur.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 05:01:13 GMT",
+      "link": "https://telusur.co.id/detail/dpr-soroti-pengadaan-kipas-angin-kopdes-rp18-triliun-ini-jawaban-menkop"
+    },
+    {
+      "title": "Dekopin Siap Kawal Agenda Prabowo Jadikan Koperasi Motor Ekonomi Rakyat - Warta Ekonomi",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 04:45:00 GMT",
+      "link": "https://wartaekonomi.co.id/read623095/dekopin-siap-kawal-agenda-prabowo-jadikan-koperasi-motor-ekonomi-rakyat"
+    },
+    {
+      "title": "Peringati Hari Koperasi ke-79 Tahun 2026 \"Koperasi Bangkit, Indonesia Sejahtera\" - Disdagperinkopukm Buleleng",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 04:32:29 GMT",
+      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/99_peringati-hari-koperasi-ke-79-tahun-2026-koperasi-bangkit-indonesia-sejahtera"
+    },
+    {
+      "title": "BP Karimun Promosikan Potensi Investasi FTZ ke Perwakilan Kedutaan Besar Sahabat - alurnews.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 04:31:01 GMT",
+      "link": "https://alurnews.com/2026/07/17/bp-karimun-promosikan-potensi-investasi-ftz-ke-perwakilan-kedutaan-besar-sahabat/"
+    },
+    {
+      "title": "DEKOPIN Bidik Generasi Z, Tepis Anggapan Koperasi Model Ekonomi Lama - JPNN.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 04:09:00 GMT",
+      "link": "https://www.jpnn.com/news/dekopin-bidik-generasi-z-tepis-anggapan-koperasi-model-ekonomi-lama"
+    },
+    {
+      "title": "BPKN Catat ada 12.051 Pengaduan Konsumen, Total Kerugian Rp1 T - Bloomberg Technoz",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 04:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115377/bpkn-catat-ada-12-051-pengaduan-konsumen-total-kerugian-rp1-t"
+    },
+    {
+      "title": "Kemendag Genjot Ekspor Kopi Indonesia ke Jepang Lewat Penguatan Mutu - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 03:59:34 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tecxupr-kemendag-genjot-ekspor-kopi-indonesia-ke-jepang-lewat-penguatan-mutu"
+    },
+    {
+      "title": "Di Hadapan DPR, BP Batam Paparkan Lonjakan Investasi dan Kinerja Keuangan 2025 - Delta Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 03:26:51 GMT",
+      "link": "https://deltakepri.co.id/di-hadapan-dpr-bp-batam-paparkan-lonjakan-investasi-dan-kinerja-keuangan-2025/"
+    },
     {
       "title": "Wamenkop: Koperasi Merah Putih Tak Perlu Tunggu Gerai Rampung untuk Beroperasi - Istana FM Ternate",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 02:40:13 GMT",
       "link": "https://istanafm.com/wamenkop-koperasi-merah-putih-tak-perlu-tunggu-gerai-rampung-untuk-beroperasi/"
+    },
+    {
+      "title": "Kepala BP Batam Paparkan Kinerja 2025 di Komisi VI DPR: Investasi Lampaui Target, Optimis Raih WTP Ke-10 - ariranews.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 17 Jul 2026 02:21:11 GMT",
+      "link": "https://ariranews.com/17/07/2026/kepala-bp-batam-paparkan-kinerja-2025-di-komisi-vi-dpr-investasi-lampaui-target-optimis-raih-wtp-ke-10/amp/"
     },
     {
       "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimis Raih WTP Ke-10 - Batamnews",
@@ -127,83 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 02:13:47 GMT",
       "link": "https://detaknews.co.id/2026/07/17/bp-batam-laporkan-investasi-rp44-t-dan-proyeksi-wtp-ke-10-di-hadapan-dpr-ri/"
-    },
-    {
-      "title": "BP Batam Catat Investasi Rp44,01 Triliun pada 2025, Tumbuh 72,83 Persen - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 02:02:52 GMT",
-      "link": "https://metropolis.batampos.co.id/bp-batam-catat-investasi-rp4401-triliun-pada-2025-tumbuh-7283-persen/"
-    },
-    {
-      "title": "Peringati Hari Koperasi Nasional ke-79, Dekopinda Sumenep Gelar Kerja Bakti Bersih Lingkungan - Media Pribumi",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 01:45:39 GMT",
-      "link": "https://mediapribumi.id/peringati-hari-koperasi-nasional-ke-79-dekopinda-sumenep-gelar-kerja-bakti-bersih-lingkungan/"
-    },
-    {
-      "title": "BP Batam Catat Investasi Rp44 Triliun pada 2025, Amsakar Paparkan Kinerja di Hadapan Komisi VI DPR RI - TransKepri.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 01:19:22 GMT",
-      "link": "https://transkepri.com/news/detail/25654/bp-batam-catat-investasi-rp44-triliun-pada-2025-amsakar-paparkan-kinerja-di-hadapan-komisi-vi-dpr-ri"
-    },
-    {
-      "title": "‎Menkop Ferry pastikan Kopdes Merah Putih jadi pusat penyaluran subsidi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 01:08:52 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-ferry-pastikan-kopdes-merah-putih-jadi-pusat-penyaluran-subsidi-170542"
-    },
-    {
-      "title": "Investasi Batam Tembus Rp44 Triliun, BP Batam Optimistis Raih WTP Ke-10 - gokepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 00:55:49 GMT",
-      "link": "https://gokepri.com/investasi-batam-tembus-rp44-triliun-bp-batam-optimistis-raih-wtp-ke-10/"
-    },
-    {
-      "title": "Mengenang 7 Hari Wafatnya Rachmat Gobel: Sosok Politisi dan Pengusaha yang Tawaduk - MetroTVNews.com",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 00:40:03 GMT",
-      "link": "https://www.metrotvnews.com/play/b2lC6Qvx-mengenang-7-hari-wafatnya-rachmat-gobel-sosok-politisi-dan-pengusaha-yang-tawaduk"
-    },
-    {
-      "title": "Legislator: Kemendag perlu perkuat pengamanan pasar dalam negeri - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 00:32:24 GMT",
-      "link": "https://ambon.antaranews.com/berita/336389/legislator-kemendag-perlu-perkuat-pengamanan-pasar-dalam-negeri"
-    },
-    {
-      "title": "DPR Apresiasi BNI yang Jaga Pertumbuhan Bisnis dan Kualitas Aset - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/317994/selain-sukses-pertahankan-kualitas-aset-dpr-nilai-bni-berhasil-menjaga-pertumbuhan"
-    },
-    {
-      "title": "Polemik Pengadaan Kipas Angin Rp 1,8 Triliun untuk Kopdes Merah Putih, Ini Kata Pemerintah - Kompas.com",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 00:01:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/17/07014561/polemik-pengadaan-kipas-angin-rp-18-triliun-untuk-kopdes-merah-putih-ini"
-    },
-    {
-      "title": "Kepala BP Batam Paparkan Kinerja 2025: Investasi Lampaui Target, Optimistis Raih WTP Ke-10 - BP Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 23:07:11 GMT",
-      "link": "https://bpbatam.go.id/kepala-bp-batam-paparkan-kinerja-2025-investasi-lampaui-target-optimistis-raih-wtp-ke-10/"
-    },
-    {
-      "title": "Kemenkeu Ambil Alih Pengelolaan KCIC untuk Selesaikan Utang - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 16 Jul 2026 22:04:00 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkeu-ambil-alih-kelola-kcic"
     }
   ]
 }
