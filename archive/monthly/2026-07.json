@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T07:45:08.990962",
+  "generated_at": "2026-07-18T09:22:36.533358",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 60,
     "Golkar": 23,
-    "NasDem": 16,
-    "PKB": 5,
-    "PKS": 13,
+    "NasDem": 14,
+    "PKB": 3,
+    "PKS": 12,
     "PAN": 1,
     "Demokrat": 5
   },
@@ -19,7 +19,7 @@
     "PKB": 43,
     "PKS": 61,
     "PAN": 15,
-    "Demokrat": 20
+    "Demokrat": 19
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -38,10 +38,10 @@
     "koperasi": 78,
     "perdagangan": 3,
     "danantara": 39,
-    "investasi": 44,
-    "umkm": 5,
+    "investasi": 47,
+    "umkm": 4,
     "impor": 7,
-    "ekspor": 10,
+    "ekspor": 8,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -90,16 +90,30 @@
     "Nasril Bahar": 4,
     "Iskandar": 2,
     "Sartono": 4,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 15
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 37,
+    "Perdagangan": 35,
     "Hukum/Audit": 34,
-    "Koperasi/UMKM": 78,
+    "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Hari Koperasi ke-79, Dekopinda Kudus Siapkan Langkah Pembenahan - Joglo Jateng",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 08:15:14 GMT",
+      "link": "https://joglojateng.com/2026/07/18/hari-koperasi-ke-79-dekopinda-kudus-siapkan-langkah-pembenahan/"
+    },
+    {
+      "title": "Airlangga Ajak Tiongkok Investasi Proyek PLTS 100 GW di Indonesia - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 08:06:36 GMT",
+      "link": "https://www.metrotvnews.com/read/b2lC6Q67-airlangga-ajak-tiongkok-investasi-proyek-plts-100-gw-di-indonesia"
+    },
     {
       "title": "Kemenkop Laporkan Realisasi Anggaran 2025 Capai Rp1,006 Triliun dengan Tingkat Penyerapan yang Optimal - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -143,6 +157,13 @@
       "link": "https://jatim.antaranews.com/berita/1082923/kemendag-sertifikasi-kompetensi-broker-beri-perlindungan-konsumen"
     },
     {
+      "title": "Airlangga Dorong Penguatan Investasi China di Batam, Bahas Pengembangan Kawasan Industri hingga AI - Jawa Pos",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 06:30:25 GMT",
+      "link": "https://batampos.jawapos.com/ekbis/2607180018/airlangga-dorong-penguatan-investasi-china-di-batam-bahas-pengembangan-kawasan-industri-hingga-ai"
+    },
+    {
       "title": "“Si Bolu Ketan” Dikaitkan dengan Perkara Batu Bara, Anggota Komisi VI Pertanyakan Dasar Tuduhan - AFU.id",
       "entity": "Gde Sumarjaya Linggih",
       "kind": "anggota",
@@ -183,27 +204,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 04:28:46 GMT",
       "link": "https://www.dailyklik.id/2026/07/18/sambut-harkopnas-ke-79-dekopinda-sumenep-gelar-gotong-royong-massal-dan-ajak-koperasi-peduli-lingkungan/amp/"
-    },
-    {
-      "title": "Politikus Golkar Bela Bahlil Lahadalia, Deddy Sitoris Diminta Pahami Kewenangan ESDM - GenPI.co - GenPI.co",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 03:20:46 GMT",
-      "link": "https://www.genpi.co/amp/polhukam/284764/politikus-golkar-bela-bahlil-lahadalia-deddy-sitoris-diminta-pahami-kewenangan-esdm"
-    },
-    {
-      "title": "Batam Masuk Agenda Dagang Indonesia-China - gokepri",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 02:41:14 GMT",
-      "link": "https://gokepri.com/batam-masuk-agenda-dagang-indonesia-china/"
-    },
-    {
-      "title": "Menko Airlangga dan Mendag China bahas peningkatan kerja sama dua negara - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 02:34:18 GMT",
-      "link": "https://kl.antaranews.com/berita/43833/menko-airlangga-dan-mendag-china-bahas-peningkatan-kerja-sama-dua-negara"
     }
   ]
 }
