@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T22:46:03.688167",
+  "generated_at": "2026-07-18T23:51:41.498190",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 55,
+    "PDI-P": 54,
     "Golkar": 24,
     "NasDem": 15,
     "PKB": 4,
@@ -35,9 +35,9 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 79,
+    "koperasi": 78,
     "perdagangan": 2,
-    "danantara": 39,
+    "danantara": 40,
     "ekspor": 6,
     "umkm": 6,
     "impor": 9,
@@ -96,8 +96,8 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
-    "Hukum/Audit": 35,
-    "Koperasi/UMKM": 82,
+    "Hukum/Audit": 36,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 2
   },
   "top_headlines": [
@@ -114,6 +114,13 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 15:50:28 GMT",
       "link": "https://inilahonline.com/kemenkop-dan-kementan-sinergi-perkuat-transformasi-petani-tebu-melalui-kdkmp/"
+    },
+    {
+      "title": "Wakil Wali Kota Sabang Harap ICMI Jadi Mitra Strategis Pembangunan Daerah » - dialeksis.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 15:36:32 GMT",
+      "link": "https://dialeksis.com/aceh/wakil-wali-kota-sabang-harap-icmi-jadi-mitra-strategis-pembangunan-daerah/"
     },
     {
       "title": "VIDEO: Pelatihan dan Sertifikasi Perkuat SDM Koperasi Desa Merah Putih - CNN Indonesia",
@@ -198,13 +205,6 @@
       "kind": "anggota",
       "published": "Sat, 18 Jul 2026 09:36:17 GMT",
       "link": "https://telusur.co.id/detail/nasim-khan-desak-bp-batam-benahi-perizinan-hingga-kepastian-hukum-demi-dongkrak-investasi"
-    },
-    {
-      "title": "Mengenang Rachmat Gobel, Jejak Pengusaha, Politikus, dan Tokoh Industri - Jernih.co",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 09:31:51 GMT",
-      "link": "https://jernih.co/potpourri/mengenang-rachmat-gobel-jejak-pengusaha-politikus-dan-tokoh-industri/"
     }
   ]
 }
