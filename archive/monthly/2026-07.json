@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-17T23:50:28.024543",
+  "generated_at": "2026-07-18T02:11:29.418845",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 60,
-    "Golkar": 20,
-    "NasDem": 19,
+    "Gerindra": 21,
+    "PDI-P": 59,
+    "Golkar": 19,
+    "NasDem": 18,
     "PKB": 7,
     "PKS": 14,
     "PAN": 1,
@@ -38,10 +38,10 @@
     "koperasi": 78,
     "perdagangan": 3,
     "danantara": 39,
-    "investasi": 43,
-    "ekspor": 14,
+    "investasi": 44,
+    "ekspor": 12,
     "umkm": 4,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
     "dividen": 1,
@@ -94,12 +94,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 40,
+    "Perdagangan": 38,
     "Hukum/Audit": 34,
     "Koperasi/UMKM": 77,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Temui Mendag China, Airlangga Bahas Twin Park hingga Investasi Rp40 Triliun - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 01:55:10 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/temui-mendag-china-airlangga-bahas-twin-park-hingga-investasi-rp40-triliun/"
+    },
+    {
+      "title": "Menko Airlangga ungkap isi pembicaraan dengan Mendag China - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 00:41:31 GMT",
+      "link": "https://babel.antaranews.com/berita/572604/menko-airlangga-ungkap-isi-pembicaraan-dengan-mendag-china"
+    },
+    {
+      "title": "Pemkab Bone Bolango gelar doa bersama mengenang Rachmat Gobel - ANTARA News Gorontalo",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 00:23:49 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/414367/pemkab-bone-bolango-gelar-doa-bersama-mengenang-rachmat-gobel"
+    },
     {
       "title": "Bertemu Mendag China, Airlangga Bahas Investasi US$ 2,5 Miliar dan Penguatan Industri - kontan.co.id",
       "entity": "Kementerian Perdagangan",
@@ -183,27 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 17 Jul 2026 14:39:47 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8579013/usai-latihan-bela-negara-manajer-koperasi-merah-putih-jalani-program-ini"
-    },
-    {
-      "title": "Pemkab Bone Bolango Gelar Doa Bersama 7 Hari Wafatnya Almarhum Rachmat Gobel - MetroTVNews.com",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 17 Jul 2026 14:37:03 GMT",
-      "link": "https://www.metrotvnews.com/read/bzGCexgr-pemkab-bone-bolango-gelar-doa-bersama-7-hari-wafatnya-almarhum-rachmat-gobel"
-    },
-    {
-      "title": "Pelatihan Nasional Dimulai, Kemenkop Targetkan Manajer Koperasi Desa Berstandar BNSP - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 13:49:00 GMT",
-      "link": "https://indoposco.id/2026/07/17/pelatihan-nasional-dimulai-kemenkop-targetkan-manajer-koperasi-desa-berstandar-bnsp/"
-    },
-    {
-      "title": "Ekonomi kerakyatan makin diperkuat, Koperasi berprestasi didorong jadi contoh nasional - ANTARA News Megapolitan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 17 Jul 2026 12:49:01 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/540701/ekonomi-kerakyatan-makin-diperkuat-koperasi-berprestasi-didorong-jadi-contoh-nasional"
     }
   ]
 }
