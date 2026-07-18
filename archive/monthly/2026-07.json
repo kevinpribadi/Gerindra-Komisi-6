@@ -1,14 +1,14 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T09:22:36.533358",
+  "generated_at": "2026-07-18T11:01:47.668596",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 60,
+    "PDI-P": 56,
     "Golkar": 23,
-    "NasDem": 14,
-    "PKB": 3,
-    "PKS": 12,
-    "PAN": 1,
+    "NasDem": 15,
+    "PKB": 4,
+    "PKS": 13,
+    "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
@@ -16,9 +16,9 @@
     "PDI-P": 108,
     "Golkar": 68,
     "NasDem": 42,
-    "PKB": 43,
-    "PKS": 61,
-    "PAN": 15,
+    "PKB": 44,
+    "PKS": 62,
+    "PAN": 16,
     "Demokrat": 19
   },
   "agency_counts_30d": {
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 78,
+    "koperasi": 79,
     "perdagangan": 3,
-    "danantara": 39,
-    "investasi": 47,
+    "danantara": 38,
+    "ekspor": 7,
+    "investasi": 50,
     "umkm": 4,
     "impor": 7,
-    "ekspor": 8,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -79,27 +79,69 @@
     "Subardi": 6,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 12,
+    "Nasim Khan": 13,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 19,
+    "Rizal Bawazier": 20,
     "Ghufran": 2,
     "Ismail": 20,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
-    "Iskandar": 2,
+    "Iskandar": 3,
     "Sartono": 4,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Hukum/Audit": 34,
-    "Koperasi/UMKM": 77,
+    "Koperasi/UMKM": 78,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Investasi Indonesia Semester I 2026 Tembus Rp1.010,6 Triliun, Serap 1,4 Juta Tenaga Kerja - Towa.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 09:40:36 GMT",
+      "link": "https://towa.co.id/postingan/investasi-indonesia-semester-i-2026-tembus-rp10106-triliun-serap-14-juta-tenaga-kerja"
+    },
+    {
+      "title": "Nasim Khan Desak BP Batam Benahi Perizinan hingga Kepastian Hukum demi Dongkrak Investasi - Telusur.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 09:36:17 GMT",
+      "link": "https://telusur.co.id/detail/nasim-khan-desak-bp-batam-benahi-perizinan-hingga-kepastian-hukum-demi-dongkrak-investasi"
+    },
+    {
+      "title": "Mengenang Rachmat Gobel, Jejak Pengusaha, Politikus, dan Tokoh Industri - Jernih.co",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 09:31:51 GMT",
+      "link": "https://jernih.co/potpourri/mengenang-rachmat-gobel-jejak-pengusaha-politikus-dan-tokoh-industri/"
+    },
+    {
+      "title": "Komisi IV DPRD Kalsel pantau SMKN 1 Mentewe Tanbu - ANTARA News",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 09:18:24 GMT",
+      "link": "https://kalsel.antaranews.com/berita/526071/komisi-iv-dprd-kalsel-pantau-smkn-1-mentewe-tanbu"
+    },
+    {
+      "title": "Minat Berkurang, Harga Patokan Ekspor Emas Turun di Periode Juli 2026 - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 09:11:02 GMT",
+      "link": "https://www.rctiplus.com/news/detail/sindonews/5431508/minat-berkurang--harga-patokan-ekspor-emas-turun-di-periode-juli-2026"
+    },
+    {
+      "title": "Minat Berkurang, Harga Patokan Ekspor Emas Turun di Periode Juli 2026 - SINDOnews Ekbis",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 09:11:02 GMT",
+      "link": "https://ekbis.sindonews.com/read/1729727/34/minat-berkurang-harga-patokan-ekspor-emas-turun-di-periode-juli-2026-1784365628"
+    },
     {
       "title": "Hari Koperasi ke-79, Dekopinda Kudus Siapkan Langkah Pembenahan - Joglo Jateng",
       "entity": "Dekopin",
@@ -162,48 +204,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 06:30:25 GMT",
       "link": "https://batampos.jawapos.com/ekbis/2607180018/airlangga-dorong-penguatan-investasi-china-di-batam-bahas-pengembangan-kawasan-industri-hingga-ai"
-    },
-    {
-      "title": "“Si Bolu Ketan” Dikaitkan dengan Perkara Batu Bara, Anggota Komisi VI Pertanyakan Dasar Tuduhan - AFU.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 06:05:39 GMT",
-      "link": "https://afu.id/nasional/si-bolu-ketan-dikaitkan-dengan-perkara-batu-bara-anggota-komisi-vi-pertanyakan-dasar-tuduhan"
-    },
-    {
-      "title": "Harkopnas ke-79, Prabowo Serukan Kebangkitan Koperasi sebagai Kekuatan Ekonomi Nasional - KilasJatim.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 05:48:40 GMT",
-      "link": "https://kilasjatim.com/2026/07/18/harkopnas-ke-79-prabowo-serukan-kebangkitan-koperasi-sebagai-kekuatan-ekonomi-nasional/"
-    },
-    {
-      "title": "Calon Manajer Kopdes Merah Putih Ikuti Pelatihan hingga 31 Juli, Disiapkan Kelola Koperasi secara Profesional - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 05:39:20 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2607180017/calon-manajer-kopdes-merah-putih-ikuti-pelatihan-hingga-31-juli-disiapkan-kelola-koperasi-secara-profesional"
-    },
-    {
-      "title": "DPR Dorong Reformasi Bea Cukai Diutamakan, Pembubaran Jadi Opsi Terakhir - Aktual.com",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 05:00:26 GMT",
-      "link": "https://aktual.com/dpr-dorong-reformasi-bea-cukai-diutamakan-pembubaran-jadi-opsi-terakhir/"
-    },
-    {
-      "title": "Anggota DPR: Kementerian ESDM tidak tepat dikaitkan dengan urusan B2B - ANTARA News Sulteng",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 04:44:06 GMT",
-      "link": "https://sulteng.antaranews.com/berita/387533/anggota-dpr-kementerian-esdm-tidak-tepat-dikaitkan-dengan-urusan-b2b"
-    },
-    {
-      "title": "Sambut Harkopnas ke-79, Dekopinda Sumenep Gelar Gotong Royong Massal dan Ajak Koperasi Peduli Lingkungan - dailyklik.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 04:28:46 GMT",
-      "link": "https://www.dailyklik.id/2026/07/18/sambut-harkopnas-ke-79-dekopinda-sumenep-gelar-gotong-royong-massal-dan-ajak-koperasi-peduli-lingkungan/amp/"
     }
   ]
 }
