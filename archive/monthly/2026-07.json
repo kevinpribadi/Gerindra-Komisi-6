@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T15:54:12.871814",
+  "generated_at": "2026-07-18T16:55:42.990903",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 55,
@@ -38,9 +38,9 @@
     "koperasi": 78,
     "perdagangan": 2,
     "danantara": 39,
+    "ekspor": 6,
     "umkm": 6,
     "impor": 9,
-    "ekspor": 6,
     "investasi": 53,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
@@ -101,6 +101,13 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Menang Sengketa WTO, Akses Ekspor Rp7,34 Triliun ke Eropa Berhasil Diselamatkan - Suara.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 16:00:00 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/18/230000/kemendag-menang-sengketa-wto-akses-ekspor-rp734-triliun-ke-eropa-berhasil-diselamatkan"
+    },
     {
       "title": "Kemenkop dan Kementan Sinergi Perkuat Transformasi Petani Tebu Melalui KDKMP - Inilah Online",
       "entity": "Kementerian Koperasi",
@@ -198,13 +205,6 @@
       "kind": "anggota",
       "published": "Sat, 18 Jul 2026 09:18:24 GMT",
       "link": "https://kalsel.antaranews.com/berita/526071/komisi-iv-dprd-kalsel-pantau-smkn-1-mentewe-tanbu"
-    },
-    {
-      "title": "Minat Berkurang, Harga Patokan Ekspor Emas Turun di Periode Juli 2026 - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 09:11:02 GMT",
-      "link": "https://www.rctiplus.com/news/detail/sindonews/5431508/minat-berkurang--harga-patokan-ekspor-emas-turun-di-periode-juli-2026"
     }
   ]
 }
