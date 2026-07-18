@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T14:49:50.970398",
+  "generated_at": "2026-07-18T15:54:12.871814",
   "party_counts_7d": {
-    "Gerindra": 21,
+    "Gerindra": 22,
     "PDI-P": 55,
-    "Golkar": 24,
+    "Golkar": 22,
     "NasDem": 16,
     "PKB": 4,
     "PKS": 13,
@@ -12,7 +12,7 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 108,
     "Golkar": 69,
     "NasDem": 42,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 79,
+    "koperasi": 78,
     "perdagangan": 2,
     "danantara": 39,
+    "umkm": 6,
+    "impor": 9,
     "ekspor": 6,
     "investasi": 53,
-    "umkm": 5,
-    "impor": 8,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -53,7 +53,7 @@
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 9,
+    "Mulyadi": 10,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 20,
     "Darmadi Durianto": 20,
@@ -95,12 +95,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 34,
-    "Hukum/Audit": 34,
-    "Koperasi/UMKM": 80,
+    "Perdagangan": 35,
+    "Hukum/Audit": 35,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop dan Kementan Sinergi Perkuat Transformasi Petani Tebu Melalui KDKMP - Inilah Online",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 15:50:28 GMT",
+      "link": "https://inilahonline.com/kemenkop-dan-kementan-sinergi-perkuat-transformasi-petani-tebu-melalui-kdkmp/"
+    },
+    {
+      "title": "VIDEO: Pelatihan dan Sertifikasi Perkuat SDM Koperasi Desa Merah Putih - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 15:22:50 GMT",
+      "link": "https://www.cnnindonesia.com/tv/20260718192628-410-1382263/video-pelatihan-dan-sertifikasi-perkuat-sdm-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "DPR Semprot Kemendag! Banjir Impor, Perlindungan UMKM Dipertanyakan - RMBanten",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 14:59:00 GMT",
+      "link": "https://rmbanten.com/berita/umkm-dihabisi-banjir-impor-dpr-semprot-kemendag-mana-perlindungan-produk-lokal-2"
+    },
+    {
+      "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir dengan Gagasan yang Berdampak bagi Masyarakat - Kontras Aceh",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 14:50:06 GMT",
+      "link": "https://www.kontrasaceh.net/2026/07/18/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat/"
+    },
     {
       "title": "Anggota DPR: Penyediaan Batu Bara Ranah B2B, bukan Urusan Menteri ESDM - Media Indonesia",
       "entity": "Gde Sumarjaya Linggih",
@@ -177,34 +205,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 09:11:02 GMT",
       "link": "https://www.rctiplus.com/news/detail/sindonews/5431508/minat-berkurang--harga-patokan-ekspor-emas-turun-di-periode-juli-2026"
-    },
-    {
-      "title": "Minat Berkurang, Harga Patokan Ekspor Emas Turun di Periode Juli 2026 - SINDOnews Ekbis",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 09:11:02 GMT",
-      "link": "https://ekbis.sindonews.com/read/1729727/34/minat-berkurang-harga-patokan-ekspor-emas-turun-di-periode-juli-2026-1784365628"
-    },
-    {
-      "title": "Hari Koperasi ke-79, Dekopinda Kudus Siapkan Langkah Pembenahan - Joglo Jateng",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 08:15:14 GMT",
-      "link": "https://joglojateng.com/2026/07/18/hari-koperasi-ke-79-dekopinda-kudus-siapkan-langkah-pembenahan/"
-    },
-    {
-      "title": "Airlangga Ajak Tiongkok Investasi Proyek PLTS 100 GW di Indonesia - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 08:06:36 GMT",
-      "link": "https://www.metrotvnews.com/read/b2lC6Q67-airlangga-ajak-tiongkok-investasi-proyek-plts-100-gw-di-indonesia"
-    },
-    {
-      "title": "Guru Besar USU Soroti Putusan KPPU soal Bunga Pindar - investor.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 08:02:01 GMT",
-      "link": "https://investor.id/finance/447028/guru-besar-usu-soroti-putusan-kppu-soal-bunga-pindar"
     }
   ]
 }
