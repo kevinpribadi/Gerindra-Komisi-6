@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T13:08:41.323444",
+  "generated_at": "2026-07-18T14:49:50.970398",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 55,
-    "Golkar": 23,
-    "NasDem": 15,
+    "Golkar": 24,
+    "NasDem": 16,
     "PKB": 4,
     "PKS": 13,
     "PAN": 2,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 108,
-    "Golkar": 68,
+    "Golkar": 69,
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 54,
     "koperasi": 79,
-    "perdagangan": 3,
+    "perdagangan": 2,
     "danantara": 39,
-    "ekspor": 7,
-    "investasi": 52,
+    "ekspor": 6,
+    "investasi": 53,
     "umkm": 5,
     "impor": 8,
     "kartel-monopoli": 8,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 15,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 14,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -95,18 +95,53 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Hukum/Audit": 34,
-    "Koperasi/UMKM": 79,
-    "Konflik Publik": 3
+    "Koperasi/UMKM": 80,
+    "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR: Penyediaan Batu Bara Ranah B2B, bukan Urusan Menteri ESDM - Media Indonesia",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 14:37:57 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/912241/anggota-dpr-penyediaan-batu-bara-ranah-b2b-bukan-urusan-menteri-esdm"
+    },
+    {
+      "title": "ICMI Harus Hadir dengan Gagasan yang Berdampak bagi Masyarakat. - Pemerintah Kota Sabang",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 14:22:44 GMT",
+      "link": "https://www.sabangkota.go.id/berita/kategori/berita-media/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat"
+    },
+    {
+      "title": "Soroti Banjir di Batam, Askweni Usul Pengolahan Sampah Jadi Listrik - Koran Satu",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 13:48:54 GMT",
+      "link": "https://koransatu.id/soroti-banjir-di-batam-askweni-usul-pengolahan-sampah-jadi-listrik/"
+    },
+    {
+      "title": "Darmadi Minta Program Kementerian Koperasi Diukur dari Dampak Ekonomi, Bukan Banyaknya Kegiatan - gesuri.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
+    },
     {
       "title": "Detik-detik Meninggalnya Rachmat Gobel Diungkapkan Orang Terdekat, Masih Sempat Ingatkan Tugas - VIVA.co.id",
       "entity": "Rachmat Gobel",
       "kind": "anggota",
       "published": "Sat, 18 Jul 2026 11:56:46 GMT",
       "link": "https://www.viva.co.id/berita/nasional/1914529-detik-detik-meninggalnya-rachmat-gobel-diungkapkan-orang-terdekat-masih-sempat-ingatkan-tugas"
+    },
+    {
+      "title": "Detik-detik Meninggalnya Rachmat Gobel Diungkapkan Orang Terdekat, Masih Sempat Ingatkan Tugas - VIVA.co.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 11:56:00 GMT",
+      "link": "https://www.viva.co.id/amp/berita/nasional/1914529-detik-detik-meninggalnya-rachmat-gobel-diungkapkan-orang-terdekat-masih-sempat-ingatkan-tugas"
     },
     {
       "title": "Investasi Indonesia Semester I 2026 Tembus Rp1.010,6 Triliun, Serap 1,4 Juta Tenaga Kerja - Towa.co.id",
@@ -170,41 +205,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 08:02:01 GMT",
       "link": "https://investor.id/finance/447028/guru-besar-usu-soroti-putusan-kppu-soal-bunga-pindar"
-    },
-    {
-      "title": "Kemenkop Laporkan Realisasi Anggaran 2025 Capai Rp1,006 Triliun dengan Tingkat Penyerapan yang Optimal - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 07:38:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-laporkan-realisasi-anggaran-2025-capai-rp1006-triliun-dengan-tingkat-penyerapan-yang-optimal/"
-    },
-    {
-      "title": "Kemendag Sanksi Broker Properti Tanpa Sertifikat Mulai Oktober 2026 - AFU.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 07:34:58 GMT",
-      "link": "https://afu.id/ekonomi/kemendag-sanksi-broker-properti-tanpa-sertifikat-mulai-oktober-2026"
-    },
-    {
-      "title": "China dan RI Perkuat Kerja Sama Ekonomi, Airlangga: KEK Batang Jadi Fokus Investasi - Rmol.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 07:30:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/18/715033/china-dan-ri-perkuat-kerja-sama-ekonomi--airlangga--kek-batang-jadi-fokus-investasi-"
-    },
-    {
-      "title": "Dekopin Siap Kawal Amanat Presiden Prabowo Jadikan Koperasi Motor Utama Ekonomi Rakyat - VIVA Jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 06:59:00 GMT",
-      "link": "https://jatim.viva.co.id/kabar/26856-dekopin-siap-kawal-amanat-presiden-prabowo-jadikan-koperasi-motor-utama-ekonomi-rakyat"
-    },
-    {
-      "title": "Peringatan Hari Koperasi ke-79, Bupati Malang : Komitmen Kita Bersama Koperasi Sebagai Sokoguru Perekonomian Nasional - Bagian Umum - Bagian Umum Kabupaten Malang",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 06:52:04 GMT",
-      "link": "https://bag-umum.malangkab.go.id/berita/peringatan-hari-koperasi-ke-79-bupati-malang-komitmen-kita-bersama-koperasi-sebagai-sokoguru-perekonomian-nasional"
     }
   ]
 }
