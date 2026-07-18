@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T16:55:42.990903",
+  "generated_at": "2026-07-18T19:01:33.001093",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 55,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 78,
+    "koperasi": 79,
     "perdagangan": 2,
     "danantara": 39,
     "ekspor": 6,
@@ -97,7 +97,7 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
     "Hukum/Audit": 35,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 2
   },
   "top_headlines": [
@@ -162,6 +162,13 @@
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/amp/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
+    },
+    {
+      "title": "Darmadi Minta Program Kementerian Koperasi Diukur dari Dampak Ekonomi, Bukan Banyaknya Kegiatan - gesuri.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 13:00:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
     },
     {
@@ -198,13 +205,6 @@
       "kind": "anggota",
       "published": "Sat, 18 Jul 2026 09:31:51 GMT",
       "link": "https://jernih.co/potpourri/mengenang-rachmat-gobel-jejak-pengusaha-politikus-dan-tokoh-industri/"
-    },
-    {
-      "title": "Komisi IV DPRD Kalsel pantau SMKN 1 Mentewe Tanbu - ANTARA News",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 09:18:24 GMT",
-      "link": "https://kalsel.antaranews.com/berita/526071/komisi-iv-dprd-kalsel-pantau-smkn-1-mentewe-tanbu"
     }
   ]
 }
