@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T11:01:47.668596",
+  "generated_at": "2026-07-18T13:08:41.323444",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 56,
+    "PDI-P": 55,
     "Golkar": 23,
     "NasDem": 15,
     "PKB": 4,
@@ -18,7 +18,7 @@
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
-    "PAN": 16,
+    "PAN": 17,
     "Demokrat": 19
   },
   "agency_counts_30d": {
@@ -37,11 +37,11 @@
     "bumn": 54,
     "koperasi": 79,
     "perdagangan": 3,
-    "danantara": 38,
+    "danantara": 39,
     "ekspor": 7,
-    "investasi": 50,
-    "umkm": 4,
-    "impor": 7,
+    "investasi": 52,
+    "umkm": 5,
+    "impor": 8,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -88,18 +88,26 @@
     "Ismail": 20,
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
+    "Abdul Hakim Bafagih": 1,
     "Iskandar": 3,
     "Sartono": 4,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 34,
+    "Perdagangan": 35,
     "Hukum/Audit": 34,
-    "Koperasi/UMKM": 78,
+    "Koperasi/UMKM": 79,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Detik-detik Meninggalnya Rachmat Gobel Diungkapkan Orang Terdekat, Masih Sempat Ingatkan Tugas - VIVA.co.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 18 Jul 2026 11:56:46 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1914529-detik-detik-meninggalnya-rachmat-gobel-diungkapkan-orang-terdekat-masih-sempat-ingatkan-tugas"
+    },
     {
       "title": "Investasi Indonesia Semester I 2026 Tembus Rp1.010,6 Triliun, Serap 1,4 Juta Tenaga Kerja - Towa.co.id",
       "entity": "Danantara",
@@ -157,6 +165,13 @@
       "link": "https://www.metrotvnews.com/read/b2lC6Q67-airlangga-ajak-tiongkok-investasi-proyek-plts-100-gw-di-indonesia"
     },
     {
+      "title": "Guru Besar USU Soroti Putusan KPPU soal Bunga Pindar - investor.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 18 Jul 2026 08:02:01 GMT",
+      "link": "https://investor.id/finance/447028/guru-besar-usu-soroti-putusan-kppu-soal-bunga-pindar"
+    },
+    {
       "title": "Kemenkop Laporkan Realisasi Anggaran 2025 Capai Rp1,006 Triliun dengan Tingkat Penyerapan yang Optimal - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -190,20 +205,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 06:52:04 GMT",
       "link": "https://bag-umum.malangkab.go.id/berita/peringatan-hari-koperasi-ke-79-bupati-malang-komitmen-kita-bersama-koperasi-sebagai-sokoguru-perekonomian-nasional"
-    },
-    {
-      "title": "Kemendag: Sertifikasi kompetensi broker beri perlindungan konsumen - Antara News jatim",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 06:41:22 GMT",
-      "link": "https://jatim.antaranews.com/berita/1082923/kemendag-sertifikasi-kompetensi-broker-beri-perlindungan-konsumen"
-    },
-    {
-      "title": "Airlangga Dorong Penguatan Investasi China di Batam, Bahas Pengembangan Kawasan Industri hingga AI - Jawa Pos",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 06:30:25 GMT",
-      "link": "https://batampos.jawapos.com/ekbis/2607180018/airlangga-dorong-penguatan-investasi-china-di-batam-bahas-pengembangan-kawasan-industri-hingga-ai"
     }
   ]
 }
