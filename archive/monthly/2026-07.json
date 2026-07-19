@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T11:55:50.976149",
+  "generated_at": "2026-07-19T13:15:30.215909",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 51,
-    "Golkar": 25,
+    "PDI-P": 49,
+    "Golkar": 26,
     "NasDem": 14,
-    "PKB": 4,
+    "PKB": 3,
     "PKS": 13,
     "PAN": 3,
     "Demokrat": 5
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 62,
     "PDI-P": 107,
-    "Golkar": 72,
+    "Golkar": 73,
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
@@ -63,7 +63,7 @@
     "Ida Nurlaela": 17,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 17,
+    "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
@@ -95,12 +95,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 32,
+    "Perdagangan": 31,
     "Hukum/Audit": 36,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "GenCoopRun 5K Meriahkan HUT Ke-79 Koperasi, Diikuti 2.000 Pelari di Rasuna Said - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 11:51:22 GMT",
+      "link": "https://www.metrotvnews.com/play/NQAC0wQv-gencooprun-5k-meriahkan-hut-ke-79-koperasi-diikuti-2-000-pelari-di-rasuna-said"
+    },
     {
       "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Telusur.co.id",
       "entity": "Badan Pengaturan BUMN",
@@ -114,6 +121,13 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 10:40:20 GMT",
       "link": "https://industri.kontan.co.id/news/dashboard-sinkopdes-jadi-alat-kemenkop-petakan-kdkmp-yang-perlu-pendampingan"
+    },
+    {
+      "title": "Gen Coop Run Meriahkan Peringatan HUT ke-79 Koperasi di Jakarta - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 10:19:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tlssdxy-gen-coop-run-meriahkan-peringatan-hut-ke-79-koperasi-di-jakarta"
     },
     {
       "title": "Peringati Hari Koperasi, Fun Run Digelar di CFD Rasuna Said - MetroTVNews.com",
@@ -191,20 +205,6 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 04:07:46 GMT",
       "link": "https://www.viva.co.id/bisnis/1914657-rayakan-harkopnas-ke-79-menkop-ferry-tegaskan-ke-gen-z-koperasi-bukan-organisasi-kuno"
-    },
-    {
-      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat \"Gen Coop Run\" - ANTARA News Sulteng",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 03:30:20 GMT",
-      "link": "https://sulteng.antaranews.com/berita/387587/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
-    },
-    {
-      "title": "Dedi Mulyadi Nyaleg dari Partai Gerindra - Merdeka.com",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Sun, 19 Jul 2026 02:57:47 GMT",
-      "link": "https://www.merdeka.com/politik/read/7873728/dedi-mulyadi-nyaleg-dari-partai-gerindra"
     }
   ]
 }
