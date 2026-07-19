@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T10:25:34.156235",
+  "generated_at": "2026-07-19T11:55:50.976149",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 23,
     "PDI-P": 51,
-    "Golkar": 24,
+    "Golkar": 25,
     "NasDem": 14,
     "PKB": 4,
     "PKS": 13,
@@ -12,9 +12,9 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 61,
+    "Gerindra": 62,
     "PDI-P": 107,
-    "Golkar": 71,
+    "Golkar": 72,
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
+    "bumn": 54,
     "koperasi": 77,
     "perdagangan": 3,
-    "danantara": 40,
+    "danantara": 39,
     "ekspor": 4,
     "umkm": 6,
     "impor": 9,
@@ -53,7 +53,7 @@
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 10,
+    "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 20,
     "Darmadi Durianto": 20,
@@ -63,7 +63,7 @@
     "Ida Nurlaela": 17,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 16,
+    "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
@@ -97,10 +97,31 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 32,
     "Hukum/Audit": 36,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Telusur.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 11:41:39 GMT",
+      "link": "https://telusur.co.id/detail/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional"
+    },
+    {
+      "title": "Dashboard Sinkopdes Jadi Alat Kemenkop Petakan KDKMP yang Perlu Pendampingan - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 10:40:20 GMT",
+      "link": "https://industri.kontan.co.id/news/dashboard-sinkopdes-jadi-alat-kemenkop-petakan-kdkmp-yang-perlu-pendampingan"
+    },
+    {
+      "title": "Peringati Hari Koperasi, Fun Run Digelar di CFD Rasuna Said - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 10:15:09 GMT",
+      "link": "https://www.metrotvnews.com/play/bD2CwzlJ-peringati-hari-koperasi-fun-run-digelar-di-cfd-rasuna-said"
+    },
     {
       "title": "Nilai Transaksi Koperasi Merah Putih Rp 56,69 Miliar, Didominasi Barang Subsidi - kontan.co.id",
       "entity": "Kementerian Koperasi",
@@ -128,6 +149,13 @@
       "kind": "anggota",
       "published": "Sun, 19 Jul 2026 06:34:45 GMT",
       "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/"
+    },
+    {
+      "title": "Nurdin Halid Apresiasi Musda XI Golkar Sulsel: Ini Proses Demokrasi yang Beradab - abatanews.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 19 Jul 2026 05:52:27 GMT",
+      "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/amp/"
     },
     {
       "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir Dengan Gagasan yang Berdampak Bagi Masyarakat - waspada.id",
@@ -172,39 +200,11 @@
       "link": "https://sulteng.antaranews.com/berita/387587/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
     },
     {
-      "title": "Kementerian Kehutanan Dorong Swasta Manfaatkan Perdagangan Karbon - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 02:52:15 GMT",
-      "link": "https://achmadnurhidayat.id/kementerian-kehutanan-dorong-perdagangan-karbon"
-    },
-    {
-      "title": "Kunjungan BPKN RI, SPPG Palmerah Disiapkan Jadi Percontohan Nasional - DIVISI HUMAS POLRI",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 02:17:46 GMT",
-      "link": "https://www.humas.polri.go.id/news/detail/2358158-kunjungan-bpkn-ri-sppg-palmerah-disiapkan-jadi-percontohan-nasional"
-    },
-    {
-      "title": "Peringati Hari Koperasi, Menkop & Pramono Ikut Gen Coop Run 5K di Rasuna Said - kumparan.com - Kumparan.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 01:28:00 GMT",
-      "link": "https://kumparan.com/kumparannews/peringati-hari-koperasi-menkop-and-pramono-ikut-gen-coop-run-5k-di-rasuna-said-27ogAItREvA"
-    },
-    {
-      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat Gen Coop Run - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 01:01:44 GMT",
-      "link": "https://www.antaranews.com/berita/5655743/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
-    },
-    {
-      "title": "Lari Bareng Pramono, Menkop Ajak Gen Z Kenal Koperasi Lewat GenCoopRun - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 00:50:49 GMT",
-      "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
+      "title": "Dedi Mulyadi Nyaleg dari Partai Gerindra - Merdeka.com",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Sun, 19 Jul 2026 02:57:47 GMT",
+      "link": "https://www.merdeka.com/politik/read/7873728/dedi-mulyadi-nyaleg-dari-partai-gerindra"
     }
   ]
 }
