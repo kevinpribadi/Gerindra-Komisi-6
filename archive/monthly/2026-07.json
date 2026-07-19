@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T16:56:42.631280",
+  "generated_at": "2026-07-19T17:57:53.740690",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 49,
@@ -12,11 +12,11 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 62,
+    "Gerindra": 63,
     "PDI-P": 107,
     "Golkar": 73,
     "NasDem": 40,
-    "PKB": 44,
+    "PKB": 45,
     "PKS": 62,
     "PAN": 18,
     "Demokrat": 19
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 77,
+    "koperasi": 76,
     "perdagangan": 3,
     "danantara": 39,
     "ekspor": 4,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 5,
+    "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
@@ -81,7 +81,7 @@
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
     "Ida Fauziyah": 1,
-    "Imas Aan Ubudiah": 3,
+    "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
@@ -96,11 +96,18 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 31,
-    "Hukum/Audit": 37,
-    "Koperasi/UMKM": 81,
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menkop Ferry Juliantono berharap ajang Fun Run jadi tradisi baru - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 12:00:18 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-ferry-juliantono-berharap-ajang-fun-run-jadi-tradisi-baru-170776"
+    },
     {
       "title": "GenCoopRun 5K Meriahkan HUT Ke-79 Koperasi, Diikuti 2.000 Pelari di Rasuna Said - MetroTVNews.com",
       "entity": "Kementerian Koperasi",
@@ -198,13 +205,6 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 04:41:29 GMT",
       "link": "https://afu.id/nasional/pramono-jakarta-harus-jadi-kota-ramah-pelari-dan-pesepeda"
-    },
-    {
-      "title": "Gelar GenCoopRun, Kemenkop Ingin Kenalkan Koperasi pada Gen Z - SinPo.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 04:11:52 GMT",
-      "link": "https://sinpo.id/detail/124611/gelar-gencooprun-kemenkop-ingin-kenalkan-koperasi-pada-gen-z"
     }
   ]
 }
