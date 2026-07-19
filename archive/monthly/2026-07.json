@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T08:12:38.378165",
+  "generated_at": "2026-07-19T10:25:34.156235",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 51,
     "Golkar": 24,
-    "NasDem": 15,
+    "NasDem": 14,
     "PKB": 4,
     "PKS": 13,
     "PAN": 3,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 53,
-    "koperasi": 76,
+    "koperasi": 77,
     "perdagangan": 3,
     "danantara": 40,
     "ekspor": 4,
@@ -97,10 +97,31 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 32,
     "Hukum/Audit": 36,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Nilai Transaksi Koperasi Merah Putih Rp 56,69 Miliar, Didominasi Barang Subsidi - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 09:46:35 GMT",
+      "link": "https://nasional.kontan.co.id/news/nilai-transaksi-koperasi-merah-putih-rp-5669-miliar-didominasi-barang-subsidi"
+    },
+    {
+      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat \"Gen Coop Run\" - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 07:56:28 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/414564/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
+    },
+    {
+      "title": "Legislator Desak Pengusutan Tuntas Skandal eFishery, Ingatkan Pemerintah Jangan Biarkan Indonesia Dipersepsikan sebagai Surga Kejahatan Korporasi - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 19 Jul 2026 07:00:23 GMT",
+      "link": "https://aktual.com/legislator-desak-pengusutan-tuntas-skandal-efishery-ingatkan-pemerintah-jangan-biarkan-indonesia-dipersepsikan-sebagai-surga-kejahatan-korporasi/"
+    },
     {
       "title": "Nurdin Halid Apresiasi Musda XI Golkar Sulsel: Ini Proses Demokrasi yang Beradab - abatanews.com",
       "entity": "Nurdin Halid",
@@ -184,27 +205,6 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 00:50:49 GMT",
       "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
-    },
-    {
-      "title": "Lari Bareng Pramono, Menkop Ajak Gen Z Kenal Koperasi Lewat GenCoopRun - detikNews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 00:50:49 GMT",
-      "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
-    },
-    {
-      "title": "Ferry Juliantono: Koperasi Ingin Menyasar Generasi Muda Milenial dan Gen Z - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 00:42:00 GMT",
-      "link": "https://megapolitan.kompas.com/read/2026/07/19/07425181/ferry-juliantono-koperasi-ingin-menyasar-generasi-muda-milenial-dan-gen-z"
-    },
-    {
-      "title": "Minta Percepat Pembentukan BPSK DPD Dorong Penguatan Perlindungan Konsumen - RM.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 00:05:00 GMT",
-      "link": "https://rm.id/amp/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
     }
   ]
 }
