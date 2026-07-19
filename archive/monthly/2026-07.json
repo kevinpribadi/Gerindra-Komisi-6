@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T02:29:10.624957",
+  "generated_at": "2026-07-19T05:49:53.059275",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 53,
+    "PDI-P": 52,
     "Golkar": 24,
     "NasDem": 15,
     "PKB": 4,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 79,
-    "perdagangan": 2,
+    "koperasi": 78,
+    "perdagangan": 3,
     "danantara": 40,
-    "ekspor": 5,
+    "ekspor": 4,
     "umkm": 6,
     "impor": 9,
-    "investasi": 54,
-    "kartel-monopoli": 8,
+    "investasi": 53,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 4,
     "dividen": 1
@@ -95,12 +95,68 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 36,
-    "Koperasi/UMKM": 83,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir Dengan Gagasan yang Berdampak Bagi Masyarakat - waspada.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 05:22:00 GMT",
+      "link": "https://www.waspada.id/berita/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat"
+    },
+    {
+      "title": "Bupati Malang Perkuat Peran Koperasi sebagai Penggerak Ekonomi Rakyat - Radarbangsa.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 05:02:00 GMT",
+      "link": "https://www.radarbangsa.com/news/61594/bupati-malang-perkuat-peran-koperasi-sebagai-penggerak-ekonomi-rakyat"
+    },
+    {
+      "title": "Pramono: Jakarta Harus Jadi Kota Ramah Pelari dan Pesepeda - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 04:41:29 GMT",
+      "link": "https://afu.id/nasional/pramono-jakarta-harus-jadi-kota-ramah-pelari-dan-pesepeda"
+    },
+    {
+      "title": "Gelar GenCoopRun, Kemenkop Ingin Kenalkan Koperasi pada Gen Z - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 04:11:52 GMT",
+      "link": "https://sinpo.id/detail/124611/gelar-gencooprun-kemenkop-ingin-kenalkan-koperasi-pada-gen-z"
+    },
+    {
+      "title": "Rayakan Harkopnas ke-79, Menkop Ferry Tegaskan ke Gen Z Koperasi Bukan Organisasi Kuno - VIVA.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 04:07:46 GMT",
+      "link": "https://www.viva.co.id/bisnis/1914657-rayakan-harkopnas-ke-79-menkop-ferry-tegaskan-ke-gen-z-koperasi-bukan-organisasi-kuno"
+    },
+    {
+      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat \"Gen Coop Run\" - ANTARA News Sulteng",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 03:30:20 GMT",
+      "link": "https://sulteng.antaranews.com/berita/387587/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
+    },
+    {
+      "title": "Kementerian Kehutanan Dorong Swasta Manfaatkan Perdagangan Karbon - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 02:52:15 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-kehutanan-dorong-perdagangan-karbon"
+    },
+    {
+      "title": "Kunjungan BPKN RI, SPPG Palmerah Disiapkan Jadi Percontohan Nasional - DIVISI HUMAS POLRI",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 02:17:46 GMT",
+      "link": "https://www.humas.polri.go.id/news/detail/2358158-kunjungan-bpkn-ri-sppg-palmerah-disiapkan-jadi-percontohan-nasional"
+    },
     {
       "title": "Peringati Hari Koperasi, Menkop & Pramono Ikut Gen Coop Run 5K di Rasuna Said - kumparan.com - Kumparan.com",
       "entity": "Kementerian Koperasi",
@@ -134,77 +190,21 @@
       "entity": "BPKN",
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 00:05:00 GMT",
+      "link": "https://rm.id/amp/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
+    },
+    {
+      "title": "Minta Percepat Pembentukan BPSK DPD Dorong Penguatan Perlindungan Konsumen - RM.ID",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 00:05:00 GMT",
       "link": "https://rm.id/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
     },
     {
-      "title": "Kemendag Menang Sengketa WTO, Akses Ekspor Rp7,34 Triliun ke Eropa Berhasil Diselamatkan - Suara.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "Jalan Sehat Hari Koperasi: Bangun Kemandirian Ekonomi Purworejo - SuaraBaru.id",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 16:00:00 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/18/230000/kemendag-menang-sengketa-wto-akses-ekspor-rp734-triliun-ke-eropa-berhasil-diselamatkan"
-    },
-    {
-      "title": "Kemenkop dan Kementan Sinergi Perkuat Transformasi Petani Tebu Melalui KDKMP - Inilah Online",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 15:50:28 GMT",
-      "link": "https://inilahonline.com/kemenkop-dan-kementan-sinergi-perkuat-transformasi-petani-tebu-melalui-kdkmp/"
-    },
-    {
-      "title": "Wakil Wali Kota Sabang Harap ICMI Jadi Mitra Strategis Pembangunan Daerah » - dialeksis.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 15:36:32 GMT",
-      "link": "https://dialeksis.com/aceh/wakil-wali-kota-sabang-harap-icmi-jadi-mitra-strategis-pembangunan-daerah/"
-    },
-    {
-      "title": "VIDEO: Pelatihan dan Sertifikasi Perkuat SDM Koperasi Desa Merah Putih - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 15:22:50 GMT",
-      "link": "https://www.cnnindonesia.com/tv/20260718192628-410-1382263/video-pelatihan-dan-sertifikasi-perkuat-sdm-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "DPR Semprot Kemendag! Banjir Impor, Perlindungan UMKM Dipertanyakan - RMBanten",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 14:59:00 GMT",
-      "link": "https://rmbanten.com/berita/umkm-dihabisi-banjir-impor-dpr-semprot-kemendag-mana-perlindungan-produk-lokal-2"
-    },
-    {
-      "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir dengan Gagasan yang Berdampak bagi Masyarakat - Kontras Aceh",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 14:50:06 GMT",
-      "link": "https://www.kontrasaceh.net/2026/07/18/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat/"
-    },
-    {
-      "title": "Anggota DPR: Penyediaan Batu Bara Ranah B2B, bukan Urusan Menteri ESDM - Media Indonesia",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 14:37:57 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/912241/anggota-dpr-penyediaan-batu-bara-ranah-b2b-bukan-urusan-menteri-esdm"
-    },
-    {
-      "title": "ICMI Harus Hadir dengan Gagasan yang Berdampak bagi Masyarakat. - Pemerintah Kota Sabang",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 14:22:44 GMT",
-      "link": "https://www.sabangkota.go.id/berita/kategori/berita-media/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat"
-    },
-    {
-      "title": "Soroti Banjir di Batam, Askweni Usul Pengolahan Sampah Jadi Listrik - Koran Satu",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 13:48:54 GMT",
-      "link": "https://koransatu.id/soroti-banjir-di-batam-askweni-usul-pengolahan-sampah-jadi-listrik/"
-    },
-    {
-      "title": "Darmadi Minta Program Kementerian Koperasi Diukur dari Dampak Ekonomi, Bukan Banyaknya Kegiatan - gesuri.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
+      "published": "Sat, 18 Jul 2026 21:40:21 GMT",
+      "link": "https://suarabaru.id/2026/07/19/jalan-sehat-hari-koperasi-bangun-kemandirian-ekonomi-purworejo"
     }
   ]
 }
