@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-18T23:51:41.498190",
+  "generated_at": "2026-07-19T02:29:10.624957",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 54,
+    "PDI-P": 53,
     "Golkar": 24,
     "NasDem": 15,
     "PKB": 4,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 78,
+    "koperasi": 79,
     "perdagangan": 2,
     "danantara": 40,
-    "ekspor": 6,
+    "ekspor": 5,
     "umkm": 6,
     "impor": 9,
-    "investasi": 53,
+    "investasi": 54,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -95,12 +95,47 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 35,
+    "Perdagangan": 33,
     "Hukum/Audit": 36,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Peringati Hari Koperasi, Menkop & Pramono Ikut Gen Coop Run 5K di Rasuna Said - kumparan.com - Kumparan.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 01:28:00 GMT",
+      "link": "https://kumparan.com/kumparannews/peringati-hari-koperasi-menkop-and-pramono-ikut-gen-coop-run-5k-di-rasuna-said-27ogAItREvA"
+    },
+    {
+      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat Gen Coop Run - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 01:01:44 GMT",
+      "link": "https://www.antaranews.com/berita/5655743/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
+    },
+    {
+      "title": "Lari Bareng Pramono, Menkop Ajak Gen Z Kenal Koperasi Lewat GenCoopRun - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 00:50:49 GMT",
+      "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
+    },
+    {
+      "title": "Ferry Juliantono: Koperasi Ingin Menyasar Generasi Muda Milenial dan Gen Z - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 00:42:00 GMT",
+      "link": "https://megapolitan.kompas.com/read/2026/07/19/07425181/ferry-juliantono-koperasi-ingin-menyasar-generasi-muda-milenial-dan-gen-z"
+    },
+    {
+      "title": "Minta Percepat Pembentukan BPSK DPD Dorong Penguatan Perlindungan Konsumen - RM.ID",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
+    },
     {
       "title": "Kemendag Menang Sengketa WTO, Akses Ekspor Rp7,34 Triliun ke Eropa Berhasil Diselamatkan - Suara.com",
       "entity": "Kementerian Perdagangan",
@@ -170,41 +205,6 @@
       "kind": "lembaga",
       "published": "Sat, 18 Jul 2026 13:00:00 GMT",
       "link": "https://www.gesuri.id/amp/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
-    },
-    {
-      "title": "Darmadi Minta Program Kementerian Koperasi Diukur dari Dampak Ekonomi, Bukan Banyaknya Kegiatan - gesuri.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 13:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-minta-program-kementerian-koperasi-diukur-dari-dampak-ekonomi-bukan-banyaknya-kegiatan-b2pWSZbg3n"
-    },
-    {
-      "title": "Detik-detik Meninggalnya Rachmat Gobel Diungkapkan Orang Terdekat, Masih Sempat Ingatkan Tugas - VIVA.co.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 11:56:46 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1914529-detik-detik-meninggalnya-rachmat-gobel-diungkapkan-orang-terdekat-masih-sempat-ingatkan-tugas"
-    },
-    {
-      "title": "Detik-detik Meninggalnya Rachmat Gobel Diungkapkan Orang Terdekat, Masih Sempat Ingatkan Tugas - VIVA.co.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 11:56:00 GMT",
-      "link": "https://www.viva.co.id/amp/berita/nasional/1914529-detik-detik-meninggalnya-rachmat-gobel-diungkapkan-orang-terdekat-masih-sempat-ingatkan-tugas"
-    },
-    {
-      "title": "Investasi Indonesia Semester I 2026 Tembus Rp1.010,6 Triliun, Serap 1,4 Juta Tenaga Kerja - Towa.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 09:40:36 GMT",
-      "link": "https://towa.co.id/postingan/investasi-indonesia-semester-i-2026-tembus-rp10106-triliun-serap-14-juta-tenaga-kerja"
-    },
-    {
-      "title": "Nasim Khan Desak BP Batam Benahi Perizinan hingga Kepastian Hukum demi Dongkrak Investasi - Telusur.co.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 18 Jul 2026 09:36:17 GMT",
-      "link": "https://telusur.co.id/detail/nasim-khan-desak-bp-batam-benahi-perizinan-hingga-kepastian-hukum-demi-dongkrak-investasi"
     }
   ]
 }
