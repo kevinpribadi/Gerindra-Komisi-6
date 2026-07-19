@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T05:49:53.059275",
+  "generated_at": "2026-07-19T08:12:38.378165",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 52,
+    "PDI-P": 51,
     "Golkar": 24,
     "NasDem": 15,
     "PKB": 4,
     "PKS": 13,
-    "PAN": 2,
+    "PAN": 3,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 108,
+    "PDI-P": 107,
     "Golkar": 71,
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
-    "PAN": 17,
+    "PAN": 18,
     "Demokrat": 19
   },
   "agency_counts_30d": {
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
-    "koperasi": 78,
+    "bumn": 53,
+    "koperasi": 76,
     "perdagangan": 3,
     "danantara": 40,
     "ekspor": 4,
@@ -58,13 +58,13 @@
     "Mufti Anam": 20,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 2,
+    "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 17,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
-    "Nurdin Halid": 15,
-    "Gde Sumarjaya Linggih": 14,
+    "Nurdin Halid": 16,
+    "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -89,7 +89,7 @@
     "Eko Patrio": 9,
     "Nasril Bahar": 4,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 3,
+    "Iskandar": 4,
     "Sartono": 4,
     "Herman Khaeron": 15
   },
@@ -97,10 +97,17 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 32,
     "Hukum/Audit": 36,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Nurdin Halid Apresiasi Musda XI Golkar Sulsel: Ini Proses Demokrasi yang Beradab - abatanews.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 19 Jul 2026 06:34:45 GMT",
+      "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/"
+    },
     {
       "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir Dengan Gagasan yang Berdampak Bagi Masyarakat - waspada.id",
       "entity": "BPK Sabang",
@@ -179,6 +186,13 @@
       "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
     },
     {
+      "title": "Lari Bareng Pramono, Menkop Ajak Gen Z Kenal Koperasi Lewat GenCoopRun - detikNews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 19 Jul 2026 00:50:49 GMT",
+      "link": "https://news.detik.com/berita/d-8580178/lari-bareng-pramono-menkop-ajak-gen-z-kenal-koperasi-lewat-gencooprun"
+    },
+    {
       "title": "Ferry Juliantono: Koperasi Ingin Menyasar Generasi Muda Milenial dan Gen Z - Kompas.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -191,20 +205,6 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 00:05:00 GMT",
       "link": "https://rm.id/amp/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
-    },
-    {
-      "title": "Minta Percepat Pembentukan BPSK DPD Dorong Penguatan Perlindungan Konsumen - RM.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/318155/minta-percepat-pembentukan-bpsk-dpd-dorong-penguatan-perlindungan-konsumen"
-    },
-    {
-      "title": "Jalan Sehat Hari Koperasi: Bangun Kemandirian Ekonomi Purworejo - SuaraBaru.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 18 Jul 2026 21:40:21 GMT",
-      "link": "https://suarabaru.id/2026/07/19/jalan-sehat-hari-koperasi-bangun-kemandirian-ekonomi-purworejo"
     }
   ]
 }
