@@ -1,20 +1,20 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-19T23:54:43.973268",
+  "generated_at": "2026-07-20T02:44:04.667440",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 49,
-    "Golkar": 25,
+    "Golkar": 24,
     "NasDem": 14,
-    "PKB": 3,
-    "PKS": 13,
+    "PKB": 2,
+    "PKS": 12,
     "PAN": 3,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
-    "Golkar": 73,
+    "Golkar": 74,
     "NasDem": 40,
     "PKB": 45,
     "PKS": 62,
@@ -37,7 +37,7 @@
     "bumn": 54,
     "koperasi": 76,
     "perdagangan": 4,
-    "danantara": 37,
+    "danantara": 36,
     "investasi": 56,
     "ekspor": 3,
     "umkm": 6,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 14,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -96,11 +96,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 30,
-    "Hukum/Audit": 38,
+    "Hukum/Audit": 37,
     "Koperasi/UMKM": 78,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Terjadi di Rempang, Tanah Rakyat Dirampas untuk Sekolah Rakyat - Betahita",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 02:11:39 GMT",
+      "link": "https://www.betahita.id/berita/12200/terjadi-di-rempang-tanah-rakyat-dirampas-untuk-sekolah-rakyat"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Kinerja BNI, Menjaga Pertumbuhan Bisnis di Tengah Ketidakpastian Ekonomi Global - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 01:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-bni-menjaga-pertumbuhan-bisnis-di-tengah-ketidakpastian-ekonomi-global-b2pWVZbg6s"
+    },
     {
       "title": "Polisi Sebut Sengketa Lokasi Kopdes Merah Putih Picu Bentrok Flores Timur, Kemenkop Pernah Membantah - Warta Ekonomi",
       "entity": "Kementerian Koperasi",
@@ -191,20 +205,6 @@
       "kind": "anggota",
       "published": "Sun, 19 Jul 2026 06:34:45 GMT",
       "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/"
-    },
-    {
-      "title": "Nurdin Halid Apresiasi Musda XI Golkar Sulsel: Ini Proses Demokrasi yang Beradab - abatanews.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 19 Jul 2026 05:52:27 GMT",
-      "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/amp/"
-    },
-    {
-      "title": "Wakil Wali Kota Sabang: ICMI Harus Hadir Dengan Gagasan yang Berdampak Bagi Masyarakat - waspada.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 05:22:00 GMT",
-      "link": "https://www.waspada.id/berita/wakil-wali-kota-sabang-icmi-harus-hadir-dengan-gagasan-yang-berdampak-bagi-masyarakat"
     }
   ]
 }
