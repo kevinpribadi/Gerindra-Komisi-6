@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T12:20:59.894529",
+  "generated_at": "2026-07-20T15:09:49.876953",
   "party_counts_7d": {
     "Gerindra": 25,
-    "PDI-P": 50,
+    "PDI-P": 49,
     "Golkar": 15,
     "NasDem": 14,
     "PKB": 2,
     "PKS": 13,
     "PAN": 2,
-    "Demokrat": 5
+    "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 63,
@@ -19,7 +19,7 @@
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 19
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 55,
     "koperasi": 80,
-    "perdagangan": 5,
-    "danantara": 33,
+    "perdagangan": 6,
+    "danantara": 34,
     "impor": 8,
-    "umkm": 7,
+    "umkm": 8,
     "ekspor": 4,
     "investasi": 52,
     "kartel-monopoli": 6,
@@ -91,16 +91,72 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
-    "Herman Khaeron": 15
+    "Herman Khaeron": 16
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 30,
     "Hukum/Audit": 39,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Serukan Kebangkitan Koperasi Nasional di Harkopnas ke-79, DEKOPIN Bidik Gen Z Jadi Motor Ekonomi - beritajatim.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 14:56:09 GMT",
+      "link": "https://beritajatim.com/prabowo-serukan-kebangkitan-koperasi-nasional-di-harkopnas-ke-79-dekopin-bidik-gen-z-jadi-motor-ekonomi"
+    },
+    {
+      "title": "Universitas Sahid dan Kemendag Bahas Komunikasi Strategis untuk Perkuat Perdagangan dan Pariwisata Global - Beritakota",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 14:12:00 GMT",
+      "link": "https://beritakota.id/universitas-sahid-dan-kemendag-bahas-komunikasi-strategis-untuk-perkuat-perdagangan-dan-pariwisata-global/"
+    },
+    {
+      "title": "Herman Khaeron Gelar Nobar Final Piala Dunia 2026, Tampung Aspirasi Warga dan Dukung Perputaran Ekonomi UMKM - Opsi.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 14:02:37 GMT",
+      "link": "https://opsi.id/herman-khaeron-gelar-nobar-final-piala-dunia-2026-tampung-aspirasi-warga-dan-dukung-perputaran-ekonomi-umkm/"
+    },
+    {
+      "title": "Pameran World of Coffee 2026 di Belgia, Cita Rasa Kopi Indonesia Makin Menyeruak di Eropa - Lensa Medan",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 14:01:00 GMT",
+      "link": "https://www.lensamedan.co.id/2026/07/pameran-world-of-coffee-2026-di-belgia.html"
+    },
+    {
+      "title": "Sidang Kasus Pindar Berlanjut, Dasar Hukum Putusan KPPU Diuji di Persidangan - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 14:00:25 GMT",
+      "link": "https://nasional.kontan.co.id/news/sidang-kasus-pindar-berlanjut-dasar-hukum-putusan-kppu-diuji-di-persidangan"
+    },
+    {
+      "title": "Bagaimana Hubungan Koperasi Desa Merah Putih dengan BUMDes? - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 13:23:27 GMT",
+      "link": "https://bisnis.tempo.co/read/2114589/bagaimana-hubungan-koperasi-desa-merah-putih-dengan-bumdes?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Menkop RI Dukung Penuh Agenda Nasional Hilirisasi Sawit Berbasis Koperasi di Muba - monpera.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 13:21:49 GMT",
+      "link": "https://monpera.id/menkop-ri-dukung-penuh-agenda-nasional-hilirisasi-sawit-berbasis-koperasi-di-muba/"
+    },
+    {
+      "title": "Presiden Prabowo: Danantara Jadi Energi Masa Depan Indonesia, Perkuat Kedaulatan Ekonomi Generasi Mendatang - Kementerian Sekretariat Negara",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 12:31:19 GMT",
+      "link": "https://setneg.go.id/baca/index/presiden_prabowo_danantara_jadi_energi_masa_depan_indonesia_perkuat_kedaulatan_ekonomi_generasi_mendatang"
+    },
     {
       "title": "Puncak HUT Ke-79 Koperasi, Wali Kota Jaya Negara Tegaskan Komitmen Perkuat Koperasi di Denpasar - Bali Portal News",
       "entity": "Dekopin",
@@ -149,62 +205,6 @@
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 11:10:00 GMT",
       "link": "https://jatim.viva.co.id/kabar/26886-harkopnas-ke-79-serukan-kebangkitan-total-koperasi-sebagai-raksasa-ekonomi"
-    },
-    {
-      "title": "Pangkas 250 BUMN, Prabowo Sebut Negara Hemat Rp50 Triliun - SINDOnews Ekbis",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:09:35 GMT",
-      "link": "https://ekbis.sindonews.com/read/1730351/34/pangkas-250-bumn-prabowo-sebut-negara-hemat-rp50-triliun-1784545665"
-    },
-    {
-      "title": "Harkopnas 2026 Jadi Tonggak Baru Penguatan Koperasi dan Ekonomi Kerakyatan - Suara Surabaya",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 10:30:03 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/harkopnas-2026-jadi-tonggak-baru-penguatan-koperasi-dan-ekonomi-kerakyatan/"
-    },
-    {
-      "title": "Kemendag Beri Masa Transisi NIB bagi Pedagang Marketplace - batamtv.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 10:17:36 GMT",
-      "link": "https://batamtv.com/kemendag-beri-masa-transisi-nib-bagi-pedagang-marketplace/"
-    },
-    {
-      "title": "Erwinsyah Ismail Minta KUA-PPAS 2027 Diarahkan pada Penguatan Ekonomi Rakyat Gorontalo - Prosesnews.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 09:48:46 GMT",
-      "link": "https://prosesnews.id/erwinsyah-ismail-minta-kua-ppas-2027-diarahkan-pada-penguatan-ekonomi-rakyat-gorontalo/"
-    },
-    {
-      "title": "Legislator Dorong Transformasi BPKS Sabang Jadi Motor Pertumbuhan Ekonomi Kawasan - Media Indonesia",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 09:45:32 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/912657/legislator-dorong-transformasi-bpks-sabang-jadi-motor-pertumbuhan-ekonomi-kawasan"
-    },
-    {
-      "title": "Legislator Dorong Transformasi BPKS Sabang Jadi Motor Pertumbuhan Ekonomi Kawasan - Media Indonesia",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 09:45:32 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/912657/legislator-dorong-transformasi-bpks-sabang-jadi-motor-pertumbuhan-ekonomi-kawasan"
-    },
-    {
-      "title": "Wangsit Jenderal Soedirman Menguatkan KDKMP - detikNews",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 09:24:21 GMT",
-      "link": "https://news.detik.com/kolom/d-8582242/wangsit-jenderal-soedirman-menguatkan-kdkmp"
-    },
-    {
-      "title": "GenCoopRun Semarakkan Harkopnas ke-79, Ajak Gen Z Lebih Dekat dengan Koperasi - 20detik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 09:09:00 GMT",
-      "link": "https://20.detik.com/detikupdate/20260720-260720034/gencooprun-semarakkan-harkopnas-ke-79-ajak-gen-z-lebih-dekat-dengan-koperasi"
     }
   ]
 }
