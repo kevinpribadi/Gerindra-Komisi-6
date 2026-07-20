@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T21:10:08.286983",
+  "generated_at": "2026-07-20T22:58:33.125063",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 49,
@@ -9,7 +9,7 @@
     "PKB": 1,
     "PKS": 14,
     "PAN": 2,
-    "Demokrat": 8
+    "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 63,
@@ -19,7 +19,7 @@
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 22
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -39,9 +39,9 @@
     "perdagangan": 7,
     "danantara": 33,
     "impor": 8,
-    "umkm": 10,
+    "umkm": 11,
     "ekspor": 4,
-    "investasi": 50,
+    "investasi": 49,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -91,16 +91,23 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
-    "Herman Khaeron": 18
+    "Herman Khaeron": 19
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 30,
     "Hukum/Audit": 39,
-    "Koperasi/UMKM": 86,
+    "Koperasi/UMKM": 87,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Walikota Jaya Negara Kukuhkan Pengurus KD-KMP, Perkuat Peran Koperasi di Denpasar - atnews.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 20:38:05 GMT",
+      "link": "https://atnews.id/portal/news/32373/"
+    },
     {
       "title": "Peringatan Ke-79 Harkopnas, Presiden Prabowo Subianto Tegaskan Koperasi Bangkit! - ketik.com",
       "entity": "Dekopin",
@@ -114,6 +121,13 @@
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 17:35:53 GMT",
       "link": "https://www.metrotvnews.com/read/NxGCP7Vd-kemensos-simulasikan-penyaluran-bansos-lewat-koperasi-merah-putih"
+    },
+    {
+      "title": "Kemendag: Pedagang Marketplace Tetap Bisa Berjualan Tanpa NIB Selama Masa Transisi » - dialeksis.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 16:50:00 GMT",
+      "link": "https://dialeksis.com/ekonomi/kemendag-pedagang-marketplace-tetap-bisa-berjualan-tanpa-nib-selama-masa-transisi/"
     },
     {
       "title": "Perkuat Perdagangan dan Pariwisata, Universitas Sahid-Kemendag Dorong Komunikasi Strategis - indoposco.id",
@@ -186,25 +200,11 @@
       "link": "https://subang.pikiran-rakyat.com/nasional/amp/pr-6510345066/gelar-nobar-final-piala-dunia-2026-herman-khaeron-serap-aspirasi-ojol-hingga-berdayakan-umkm"
     },
     {
-      "title": "Menkop Luncurkan Program Pelatihan dan Sertifikasi Manajer Koperasi Desa/Kelurahan Merah Putih - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 13:25:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-luncurkan-program-pelatihan-dan-sertifikasi-manajer-koperasi-desa-kelurahan-merah-putih/"
-    },
-    {
-      "title": "Bagaimana Hubungan Koperasi Desa Merah Putih dengan BUMDes? - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 13:23:27 GMT",
-      "link": "https://bisnis.tempo.co/read/2114589/bagaimana-hubungan-koperasi-desa-merah-putih-dengan-bumdes?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Menkop RI Dukung Penuh Agenda Nasional Hilirisasi Sawit Berbasis Koperasi di Muba - monpera.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 13:21:49 GMT",
-      "link": "https://monpera.id/menkop-ri-dukung-penuh-agenda-nasional-hilirisasi-sawit-berbasis-koperasi-di-muba/"
+      "title": "Gelar Nobar Final Piala Dunia 2026, Herman Khaeron Serap Aspirasi Ojol Hingga Berdayakan UMKM - Pikiran Rakyat Subang - Pikiran Rakyat Subang",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 13:51:49 GMT",
+      "link": "https://subang.pikiran-rakyat.com/nasional/pr-6510345066/gelar-nobar-final-piala-dunia-2026-herman-khaeron-serap-aspirasi-ojol-hingga-berdayakan-umkm"
     }
   ]
 }
