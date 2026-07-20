@@ -1,14 +1,14 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T09:58:24.425758",
+  "generated_at": "2026-07-20T12:20:59.894529",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 50,
-    "Golkar": 16,
+    "Golkar": 15,
     "NasDem": 14,
     "PKB": 2,
     "PKS": 13,
-    "PAN": 3,
+    "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
-    "koperasi": 79,
-    "perdagangan": 4,
-    "danantara": 34,
-    "impor": 9,
-    "umkm": 8,
+    "bumn": 55,
+    "koperasi": 80,
+    "perdagangan": 5,
+    "danantara": 33,
+    "impor": 8,
+    "umkm": 7,
     "ekspor": 4,
-    "investasi": 54,
+    "investasi": 52,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -95,12 +95,82 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 31,
-    "Hukum/Audit": 38,
+    "Perdagangan": 30,
+    "Hukum/Audit": 39,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Puncak HUT Ke-79 Koperasi, Wali Kota Jaya Negara Tegaskan Komitmen Perkuat Koperasi di Denpasar - Bali Portal News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 12:05:44 GMT",
+      "link": "https://baliportalnews.com/2026/07/puncak-hut-ke-79-koperasi-wali-kota-jaya-negara-tegaskan-komitmen-perkuat-koperasi-di-denpasar/"
+    },
+    {
+      "title": "Kemendag: Dari 22 Juta Merchant E-Commerce, Tak Sampai 10% Miliki NIB - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:31:57 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260720/12/1989491/kemendag-dari-22-juta-merchant-e-commerce-tak-sampai-10-miliki-nib"
+    },
+    {
+      "title": "Puncak Harkopnas 2026, DEKOPIN Optimistis Koperasi sebagai Sokoguru Perekonomian Nasional - Lentera Today",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:27:08 GMT",
+      "link": "https://lenteratoday.com/post/item/236152/Puncak-Harkopnas-2026-DEKOPIN-Optimistis-Koperasi-sebagai-Sokoguru-Perekonomian-Nasional"
+    },
+    {
+      "title": "Menteri Koperasi Pastikan Dukung Penuh Agenda Nasional Hilirisasi Sawit Berbasis Koperasi di Kabupaten Muba. - Suara Publik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:16:47 GMT",
+      "link": "https://suarapublik.id/menteri-koperasi-pastikan-dukung-penuh-agenda-nasional-hilirisasi-sawit-berbasis-koperasi-di-kabupaten-muba/"
+    },
+    {
+      "title": "Menteri Perindustrian dan Perdagangan Le Manh Hung bekerja sama dengan para politisi dan mitra AS. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:15:32 GMT",
+      "link": "https://www.vietnam.vn/id/bo-truong-bo-cong-thuong-le-manh-hung-lam-viec-voi-chinh-gioi-va-doi-tac-hoa-ky"
+    },
+    {
+      "title": "Harkopnas 2026: DEKOPIN Perkuat Koperasi Digital untuk Gen Z - Bicara Indonesia",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:12:00 GMT",
+      "link": "https://bicaraindonesia.id/news/31718/harkopnas-2026-dekopin-perkuat-koperasi-digital-untuk-gen-z/"
+    },
+    {
+      "title": "Harkopnas ke-79 Serukan Kebangkitan Total Koperasi Sebagai Raksasa Ekonomi - VIVA Jatim",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:10:00 GMT",
+      "link": "https://jatim.viva.co.id/kabar/26886-harkopnas-ke-79-serukan-kebangkitan-total-koperasi-sebagai-raksasa-ekonomi"
+    },
+    {
+      "title": "Pangkas 250 BUMN, Prabowo Sebut Negara Hemat Rp50 Triliun - SINDOnews Ekbis",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 11:09:35 GMT",
+      "link": "https://ekbis.sindonews.com/read/1730351/34/pangkas-250-bumn-prabowo-sebut-negara-hemat-rp50-triliun-1784545665"
+    },
+    {
+      "title": "Harkopnas 2026 Jadi Tonggak Baru Penguatan Koperasi dan Ekonomi Kerakyatan - Suara Surabaya",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 10:30:03 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/harkopnas-2026-jadi-tonggak-baru-penguatan-koperasi-dan-ekonomi-kerakyatan/"
+    },
+    {
+      "title": "Kemendag Beri Masa Transisi NIB bagi Pedagang Marketplace - batamtv.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 10:17:36 GMT",
+      "link": "https://batamtv.com/kemendag-beri-masa-transisi-nib-bagi-pedagang-marketplace/"
+    },
     {
       "title": "Erwinsyah Ismail Minta KUA-PPAS 2027 Diarahkan pada Penguatan Ekonomi Rakyat Gorontalo - Prosesnews.id",
       "entity": "Ismail",
@@ -135,76 +205,6 @@
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 09:09:00 GMT",
       "link": "https://20.detik.com/detikupdate/20260720-260720034/gencooprun-semarakkan-harkopnas-ke-79-ajak-gen-z-lebih-dekat-dengan-koperasi"
-    },
-    {
-      "title": "GenCoopRun Semarakkan Harkopnas ke-79, Ajak Gen Z Lebih Dekat dengan Koperasi - 20detik",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 09:09:00 GMT",
-      "link": "https://20.detik.com/detikupdate/20260720-260720034/gencooprun-semarakkan-harkopnas-ke-79-ajak-gen-z-lebih-dekat-dengan-koperasi"
-    },
-    {
-      "title": "Bawang Putih Mahal, Kemendagri Soroti Realisasi Impor - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 09:08:59 GMT",
-      "link": "https://bisnis.tempo.co/read/2114537/bawang-putih-mahal-kemendagri-soroti-realisasi-impor?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Menteri Koperasi Dukung Pengembangan Motor Listrik Nasional Mimo - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 08:47:18 GMT",
-      "link": "https://achmadnurhidayat.id/menkop-dukung-motor-listrik-mimo"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: “Wangsit” Kopdes Jangan Dimaknai Mistis - Suara Surabaya",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 08:45:36 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/rieke-diah-pitaloka-wangsit-kopdes-jangan-dimaknai-mistis/"
-    },
-    {
-      "title": "Menteri Koperasi Ajak Milenial dan Gen Z Kenal Koperasi - LIDIK ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 08:30:46 GMT",
-      "link": "https://lidik.id/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
-    },
-    {
-      "title": "PSEL Jadi Solusi Banjir dan Listrik? Ini Penjelasannya - Listrik Indonesia",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 08:15:53 GMT",
-      "link": "https://listrikindonesia.com/detail/20671/bebas-banjir-berkat-proyek-sampah-jadi-listrik-ini-penjelasannya"
-    },
-    {
-      "title": "Mufti Anam Minta Kemendag Perkuat Pengamanan Pasar Domestik Agar UMKM Mampu Bertahan - gesuri.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 07:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-minta-kemendag-perkuat-pengamanan-pasar-domestik-agar-umkm-mampu-bertahan-b2pWVZbg60"
-    },
-    {
-      "title": "Mufti Anam Minta Kemendag Perkuat Pengamanan Pasar Domestik Agar UMKM Mampu Bertahan - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 07:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-minta-kemendag-perkuat-pengamanan-pasar-domestik-agar-umkm-mampu-bertahan-b2pWVZbg60"
-    },
-    {
-      "title": "Legislator Dorong Penerbitan Perpres, Nilai KDKMP Berakar pada Sejarah Ekonomi Kerakyatan, Tak Sekadar Wangsit - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 07:00:01 GMT",
-      "link": "https://aktual.com/legislator-dorong-penerbitan-perpres-nilai-kdkmp-berakar-pada-sejarah-ekonomi-kerakyatan-tak-sekadar-wangsit/"
-    },
-    {
-      "title": "Biro Hukum Jatim Apresiasi SAKPU KPPU Jadi Alat Cegah Kebijakan Anti‑Persaingan di Daerah - Harian Bhirawa",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 06:54:00 GMT",
-      "link": "https://harianbhirawa.co.id/biro-hukum-jatim-apresiasi-sakpu-kppu-jadi-alat-cegah-kebijakan-anti%E2%80%91persaingan-di-daerah/"
     }
   ]
 }
