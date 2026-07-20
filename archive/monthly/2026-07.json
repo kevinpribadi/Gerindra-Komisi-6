@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T17:59:43.732783",
+  "generated_at": "2026-07-20T19:52:46.037475",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 49,
@@ -9,7 +9,7 @@
     "PKB": 1,
     "PKS": 14,
     "PAN": 2,
-    "Demokrat": 7
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 63,
@@ -19,7 +19,7 @@
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 21
+    "Demokrat": 22
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
+    "bumn": 56,
     "koperasi": 81,
     "perdagangan": 7,
     "danantara": 33,
     "impor": 8,
-    "umkm": 9,
+    "umkm": 10,
     "ekspor": 4,
     "investasi": 51,
     "kartel-monopoli": 6,
@@ -91,16 +91,23 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
-    "Herman Khaeron": 17
+    "Herman Khaeron": 18
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 30,
     "Hukum/Audit": 39,
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 86,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Peringatan Ke-79 Harkopnas, Presiden Prabowo Subianto Tegaskan Koperasi Bangkit! - ketik.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 18:00:00 GMT",
+      "link": "https://ketik.com/jakarta/nusantara/peringatan-ke-79-harkopnas-presiden-prabowo-subianto-tegaskan-koperasi-bangkit"
+    },
     {
       "title": "Kemensos Simulasikan Penyaluran Bansos lewat Koperasi Merah Putih - MetroTVNews.com",
       "entity": "Kementerian Koperasi",
@@ -165,6 +172,20 @@
       "link": "https://nasional.kontan.co.id/news/sidang-kasus-pindar-berlanjut-dasar-hukum-putusan-kppu-diuji-di-persidangan"
     },
     {
+      "title": "Gelar Nobar Final Piala Dunia 2026, Herman Khaeron Serap Aspirasi Ojol Hingga Berdayakan UMKM - Pikiran Rakyat Subang - Pikiran Rakyat Subang",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 13:51:49 GMT",
+      "link": "https://subang.pikiran-rakyat.com/nasional/amp/pr-6510345066/gelar-nobar-final-piala-dunia-2026-herman-khaeron-serap-aspirasi-ojol-hingga-berdayakan-umkm"
+    },
+    {
+      "title": "Menkop Luncurkan Program Pelatihan dan Sertifikasi Manajer Koperasi Desa/Kelurahan Merah Putih - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 13:25:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-luncurkan-program-pelatihan-dan-sertifikasi-manajer-koperasi-desa-kelurahan-merah-putih/"
+    },
+    {
       "title": "Bagaimana Hubungan Koperasi Desa Merah Putih dengan BUMDes? - Tempo.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -184,27 +205,6 @@
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 12:31:19 GMT",
       "link": "https://setneg.go.id/baca/index/presiden_prabowo_danantara_jadi_energi_masa_depan_indonesia_perkuat_kedaulatan_ekonomi_generasi_mendatang"
-    },
-    {
-      "title": "Puncak HUT Ke-79 Koperasi, Wali Kota Jaya Negara Tegaskan Komitmen Perkuat Koperasi di Denpasar - Bali Portal News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 12:05:44 GMT",
-      "link": "https://baliportalnews.com/2026/07/puncak-hut-ke-79-koperasi-wali-kota-jaya-negara-tegaskan-komitmen-perkuat-koperasi-di-denpasar/"
-    },
-    {
-      "title": "Kemendag: Dari 22 Juta Merchant E-Commerce, Tak Sampai 10% Miliki NIB - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:31:57 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260720/12/1989491/kemendag-dari-22-juta-merchant-e-commerce-tak-sampai-10-miliki-nib"
-    },
-    {
-      "title": "Puncak Harkopnas 2026, DEKOPIN Optimistis Koperasi sebagai Sokoguru Perekonomian Nasional - Lentera Today",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:27:08 GMT",
-      "link": "https://lenteratoday.com/post/item/236152/Puncak-Harkopnas-2026-DEKOPIN-Optimistis-Koperasi-sebagai-Sokoguru-Perekonomian-Nasional"
     }
   ]
 }
