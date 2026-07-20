@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T15:09:49.876953",
+  "generated_at": "2026-07-20T17:59:43.732783",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 49,
-    "Golkar": 15,
+    "Golkar": 14,
     "NasDem": 14,
-    "PKB": 2,
-    "PKS": 13,
+    "PKB": 1,
+    "PKS": 14,
     "PAN": 2,
-    "Demokrat": 6
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 106,
+    "PDI-P": 107,
     "Golkar": 74,
-    "NasDem": 40,
+    "NasDem": 41,
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 20
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,18 +34,18 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "koperasi": 80,
-    "perdagangan": 6,
-    "danantara": 34,
+    "bumn": 57,
+    "koperasi": 81,
+    "perdagangan": 7,
+    "danantara": 33,
     "impor": 8,
-    "umkm": 8,
+    "umkm": 9,
     "ekspor": 4,
-    "investasi": 52,
+    "investasi": 51,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
-    "dividen": 1
+    "dividen": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -62,7 +62,7 @@
     "Sadarestuwati": 3,
     "Ida Nurlaela": 16,
     "Budi Sulistyono": 4,
-    "Totok Hedi Santosa": 2,
+    "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 14,
     "Ahmad Labib": 1,
@@ -72,7 +72,7 @@
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 5,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
@@ -91,16 +91,44 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 17
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 30,
     "Hukum/Audit": 39,
-    "Koperasi/UMKM": 83,
+    "Koperasi/UMKM": 85,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemensos Simulasikan Penyaluran Bansos lewat Koperasi Merah Putih - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 17:35:53 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCP7Vd-kemensos-simulasikan-penyaluran-bansos-lewat-koperasi-merah-putih"
+    },
+    {
+      "title": "Perkuat Perdagangan dan Pariwisata, Universitas Sahid-Kemendag Dorong Komunikasi Strategis - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 16:23:50 GMT",
+      "link": "https://indoposco.id/2026/07/20/perkuat-perdagangan-dan-pariwisata-universitas-sahid-kemendag-dorong-komunikasi-strategis/"
+    },
+    {
+      "title": "Seminar Internasional Komunikasi Strategis, Universitas Sahid dan Kemendag Dorong Diplomasi Ekonomi - Mnctrijaya.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 15:22:00 GMT",
+      "link": "https://www.mnctrijaya.com/news/detail/77228/seminar-internasional-komunikasi-strategis-universitas-sahid-dan-kemendag-dorong-diplomasi"
+    },
+    {
+      "title": "Herman Khaeron Dukung UMKM Lewat Nobar Final Piala Dunia 2026 Bersama Warga Cirebon - Bedanews",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 15:20:07 GMT",
+      "link": "https://bedanews.com/herman-khaeron-dukung-umkm-lewat-nobar-final-piala-dunia-2026-bersama-warga-cirebon/"
+    },
     {
       "title": "Prabowo Serukan Kebangkitan Koperasi Nasional di Harkopnas ke-79, DEKOPIN Bidik Gen Z Jadi Motor Ekonomi - beritajatim.com",
       "entity": "Dekopin",
@@ -177,34 +205,6 @@
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 11:27:08 GMT",
       "link": "https://lenteratoday.com/post/item/236152/Puncak-Harkopnas-2026-DEKOPIN-Optimistis-Koperasi-sebagai-Sokoguru-Perekonomian-Nasional"
-    },
-    {
-      "title": "Menteri Koperasi Pastikan Dukung Penuh Agenda Nasional Hilirisasi Sawit Berbasis Koperasi di Kabupaten Muba. - Suara Publik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:16:47 GMT",
-      "link": "https://suarapublik.id/menteri-koperasi-pastikan-dukung-penuh-agenda-nasional-hilirisasi-sawit-berbasis-koperasi-di-kabupaten-muba/"
-    },
-    {
-      "title": "Menteri Perindustrian dan Perdagangan Le Manh Hung bekerja sama dengan para politisi dan mitra AS. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:15:32 GMT",
-      "link": "https://www.vietnam.vn/id/bo-truong-bo-cong-thuong-le-manh-hung-lam-viec-voi-chinh-gioi-va-doi-tac-hoa-ky"
-    },
-    {
-      "title": "Harkopnas 2026: DEKOPIN Perkuat Koperasi Digital untuk Gen Z - Bicara Indonesia",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:12:00 GMT",
-      "link": "https://bicaraindonesia.id/news/31718/harkopnas-2026-dekopin-perkuat-koperasi-digital-untuk-gen-z/"
-    },
-    {
-      "title": "Harkopnas ke-79 Serukan Kebangkitan Total Koperasi Sebagai Raksasa Ekonomi - VIVA Jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 11:10:00 GMT",
-      "link": "https://jatim.viva.co.id/kabar/26886-harkopnas-ke-79-serukan-kebangkitan-total-koperasi-sebagai-raksasa-ekonomi"
     }
   ]
 }
