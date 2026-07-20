@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T06:16:06.340897",
+  "generated_at": "2026-07-20T09:58:24.425758",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 50,
-    "Golkar": 23,
+    "Golkar": 16,
     "NasDem": 14,
     "PKB": 2,
-    "PKS": 12,
+    "PKS": 13,
     "PAN": 3,
     "Demokrat": 5
   },
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 77,
+    "koperasi": 79,
     "perdagangan": 4,
-    "danantara": 35,
-    "umkm": 7,
-    "ekspor": 4,
-    "investasi": 55,
+    "danantara": 34,
     "impor": 9,
-    "kartel-monopoli": 7,
+    "umkm": 8,
+    "ekspor": 4,
+    "investasi": 54,
+    "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
     "dividen": 1
@@ -55,22 +55,22 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 19,
+    "Mufti Anam": 20,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 3,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 16,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 14,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 8,
+    "Doni Akbar": 9,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 8,
+    "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 5,
@@ -94,117 +94,117 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 17,
     "Perdagangan": 31,
     "Hukum/Audit": 38,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 2
   },
   "top_headlines": [
     {
-      "title": "Anggota DPR Tegaskan 'Wangsit' Koperasi Merah Putih Bukan Mistis, Melainkan Ilham Kebangsaan - SinPo.id",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Erwinsyah Ismail Minta KUA-PPAS 2027 Diarahkan pada Penguatan Ekonomi Rakyat Gorontalo - Prosesnews.id",
+      "entity": "Ismail",
       "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 06:14:54 GMT",
-      "link": "https://sinpo.id/detail/124668/anggota-dpr-tegaskan-wangsit-koperasi-merah-putih-bukan-mistis-melainkan-ilham-kebangsaan"
+      "published": "Mon, 20 Jul 2026 09:48:46 GMT",
+      "link": "https://prosesnews.id/erwinsyah-ismail-minta-kua-ppas-2027-diarahkan-pada-penguatan-ekonomi-rakyat-gorontalo/"
     },
     {
-      "title": "PT Pos Indonesia Resmi Angkat M Iskandar Kunaefi Jadi Dirut Baru - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 06:08:59 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115592/pt-pos-indonesia-resmi-angkat-m-iskandar-kunaefi-jadi-dirut-baru"
-    },
-    {
-      "title": "Pemerintah Targetkan Pembangunan Koperasi Desa Merah Putih Rampung Agustus - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 05:44:16 GMT",
-      "link": "https://achmadnurhidayat.id/pembangunan-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "BPKS Kembali Raih Opini WTP dari BPK RI, Wujud Komitmen Tata Kelola yang Akuntabel - Portalsatu.com",
+      "title": "Legislator Dorong Transformasi BPKS Sabang Jadi Motor Pertumbuhan Ekonomi Kawasan - Media Indonesia",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 05:07:04 GMT",
-      "link": "https://portalsatu.com/bpks-kembali-raih-opini-wtp-dari-bpk-ri/"
+      "published": "Mon, 20 Jul 2026 09:45:32 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/912657/legislator-dorong-transformasi-bpks-sabang-jadi-motor-pertumbuhan-ekonomi-kawasan"
     },
     {
-      "title": "Target pembentukan Koperasi Desa Merah Putih - ANTARA News Sumbar",
+      "title": "Legislator Dorong Transformasi BPKS Sabang Jadi Motor Pertumbuhan Ekonomi Kawasan - Media Indonesia",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 09:45:32 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/912657/legislator-dorong-transformasi-bpks-sabang-jadi-motor-pertumbuhan-ekonomi-kawasan"
+    },
+    {
+      "title": "Wangsit Jenderal Soedirman Menguatkan KDKMP - detikNews",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 09:24:21 GMT",
+      "link": "https://news.detik.com/kolom/d-8582242/wangsit-jenderal-soedirman-menguatkan-kdkmp"
+    },
+    {
+      "title": "GenCoopRun Semarakkan Harkopnas ke-79, Ajak Gen Z Lebih Dekat dengan Koperasi - 20detik",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 03:59:00 GMT",
-      "link": "https://sumbar.antaranews.com/foto/770812/target-pembentukan-koperasi-desa-merah-putih"
+      "published": "Mon, 20 Jul 2026 09:09:00 GMT",
+      "link": "https://20.detik.com/detikupdate/20260720-260720034/gencooprun-semarakkan-harkopnas-ke-79-ajak-gen-z-lebih-dekat-dengan-koperasi"
     },
     {
-      "title": "Andre Rosiade Minta Hotman Jangan Kaitkan Kasus Febrie dengan Presiden Prabowo - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 03:40:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-minta-hotman-jangan-kaitkan-kasus-febrie-dengan-presiden-prabowo-27p74Xn21R4"
+      "title": "GenCoopRun Semarakkan Harkopnas ke-79, Ajak Gen Z Lebih Dekat dengan Koperasi - 20detik",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 09:09:00 GMT",
+      "link": "https://20.detik.com/detikupdate/20260720-260720034/gencooprun-semarakkan-harkopnas-ke-79-ajak-gen-z-lebih-dekat-dengan-koperasi"
     },
     {
-      "title": "Peluang Ekspor Kopi ke Jepang Masih Terbuka Lebar, Kemendag Perkuat Standar Mutu UMKM - Suara Pemerintah",
+      "title": "Bawang Putih Mahal, Kemendagri Soroti Realisasi Impor - Tempo.co",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 03:33:29 GMT",
-      "link": "https://suarapemerintah.id/2026/07/peluang-ekspor-kopi-ke-jepang-masih-terbuka-lebar-kemendag-perkuat-standar-mutu-umkm/"
+      "published": "Mon, 20 Jul 2026 09:08:59 GMT",
+      "link": "https://bisnis.tempo.co/read/2114537/bawang-putih-mahal-kemendagri-soroti-realisasi-impor?utm_source=Digital%20Marketing&utm_medium=Babe"
     },
     {
-      "title": "Sidang Pindar Berlanjut, Dasar Dugaan Kartel Bunga Dipertanyakan - Kompas.com",
-      "entity": "KPPU",
+      "title": "Menteri Koperasi Dukung Pengembangan Motor Listrik Nasional Mimo - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 03:00:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/20/100027226/sidang-pindar-berlanjut-dasar-dugaan-kartel-bunga-dipertanyakan"
+      "published": "Mon, 20 Jul 2026 08:47:18 GMT",
+      "link": "https://achmadnurhidayat.id/menkop-dukung-motor-listrik-mimo"
     },
     {
-      "title": "Terjadi di Rempang, Tanah Rakyat Dirampas untuk Sekolah Rakyat - Betahita",
+      "title": "Rieke Diah Pitaloka: “Wangsit” Kopdes Jangan Dimaknai Mistis - Suara Surabaya",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 08:45:36 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/rieke-diah-pitaloka-wangsit-kopdes-jangan-dimaknai-mistis/"
+    },
+    {
+      "title": "Menteri Koperasi Ajak Milenial dan Gen Z Kenal Koperasi - LIDIK ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 08:30:46 GMT",
+      "link": "https://lidik.id/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
+    },
+    {
+      "title": "PSEL Jadi Solusi Banjir dan Listrik? Ini Penjelasannya - Listrik Indonesia",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 02:11:39 GMT",
-      "link": "https://www.betahita.id/berita/12200/terjadi-di-rempang-tanah-rakyat-dirampas-untuk-sekolah-rakyat"
+      "published": "Mon, 20 Jul 2026 08:15:53 GMT",
+      "link": "https://listrikindonesia.com/detail/20671/bebas-banjir-berkat-proyek-sampah-jadi-listrik-ini-penjelasannya"
     },
     {
-      "title": "Darmadi Durianto Apresiasi Kinerja BNI, Menjaga Pertumbuhan Bisnis di Tengah Ketidakpastian Ekonomi Global - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 01:00:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/darmadi-durianto-apresiasi-kinerja-bni-menjaga-pertumbuhan-bisnis-di-tengah-ketidakpastian-ekonomi-global-b2pWVZbg6s"
-    },
-    {
-      "title": "Darmadi Durianto Apresiasi Kinerja BNI, Menjaga Pertumbuhan Bisnis di Tengah Ketidakpastian Ekonomi Global - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 01:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-bni-menjaga-pertumbuhan-bisnis-di-tengah-ketidakpastian-ekonomi-global-b2pWVZbg6s"
-    },
-    {
-      "title": "Polisi Sebut Sengketa Lokasi Kopdes Merah Putih Picu Bentrok Flores Timur, Kemenkop Pernah Membantah - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 23:03:00 GMT",
-      "link": "https://wartaekonomi.co.id/read623413/polisi-sebut-sengketa-lokasi-kopdes-merah-putih-picu-bentrok-flores-timur-kemenkop-pernah-membantah"
-    },
-    {
-      "title": "Pertemuan Bilateral Menko Airlangga-Mendag China : Perkuat Perdagangan, Investasi dan Ekonomi - pasardana.id",
+      "title": "Mufti Anam Minta Kemendag Perkuat Pengamanan Pasar Domestik Agar UMKM Mampu Bertahan - gesuri.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 19:10:00 GMT",
-      "link": "https://pasardana.id/news/2026/7/20/pertemuan-bilateral-menko-airlangga-mendag-china-perkuat-perdagangan-investasi-dan-ekonomi"
+      "published": "Mon, 20 Jul 2026 07:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-minta-kemendag-perkuat-pengamanan-pasar-domestik-agar-umkm-mampu-bertahan-b2pWVZbg60"
     },
     {
-      "title": "Menkop Ferry Beberkan Alasan Pelatihan Buat Calon Manajer KopDes Merah Putih - pasardana.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 18:43:00 GMT",
-      "link": "https://pasardana.id/news/2026/7/20/menkop-ferry-beberkan-alasan-pelatihan-buat-calon-manajer-kop-des-merah-putih"
+      "title": "Mufti Anam Minta Kemendag Perkuat Pengamanan Pasar Domestik Agar UMKM Mampu Bertahan - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 07:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-minta-kemendag-perkuat-pengamanan-pasar-domestik-agar-umkm-mampu-bertahan-b2pWVZbg60"
     },
     {
-      "title": "Menkop Ferry Juliantono berharap ajang Fun Run jadi tradisi baru - Elshinta",
-      "entity": "Kementerian Koperasi",
+      "title": "Legislator Dorong Penerbitan Perpres, Nilai KDKMP Berakar pada Sejarah Ekonomi Kerakyatan, Tak Sekadar Wangsit - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 07:00:01 GMT",
+      "link": "https://aktual.com/legislator-dorong-penerbitan-perpres-nilai-kdkmp-berakar-pada-sejarah-ekonomi-kerakyatan-tak-sekadar-wangsit/"
+    },
+    {
+      "title": "Biro Hukum Jatim Apresiasi SAKPU KPPU Jadi Alat Cegah Kebijakan Anti‑Persaingan di Daerah - Harian Bhirawa",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 12:00:18 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-ferry-juliantono-berharap-ajang-fun-run-jadi-tradisi-baru-170776"
+      "published": "Mon, 20 Jul 2026 06:54:00 GMT",
+      "link": "https://harianbhirawa.co.id/biro-hukum-jatim-apresiasi-sakpu-kppu-jadi-alat-cegah-kebijakan-anti%E2%80%91persaingan-di-daerah/"
     }
   ]
 }
