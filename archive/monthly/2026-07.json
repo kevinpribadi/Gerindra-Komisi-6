@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-20T02:44:04.667440",
+  "generated_at": "2026-07-20T06:16:06.340897",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 49,
-    "Golkar": 24,
+    "Gerindra": 25,
+    "PDI-P": 50,
+    "Golkar": 23,
     "NasDem": 14,
     "PKB": 2,
     "PKS": 12,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 107,
+    "PDI-P": 106,
     "Golkar": 74,
     "NasDem": 40,
     "PKB": 45,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "koperasi": 76,
+    "koperasi": 77,
     "perdagangan": 4,
-    "danantara": 36,
-    "investasi": 56,
-    "ekspor": 3,
-    "umkm": 6,
+    "danantara": 35,
+    "umkm": 7,
+    "ekspor": 4,
+    "investasi": 55,
     "impor": 9,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -55,7 +55,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 20,
+    "Mufti Anam": 19,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -94,19 +94,82 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
-    "Perdagangan": 30,
-    "Hukum/Audit": 37,
-    "Koperasi/UMKM": 78,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 31,
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR Tegaskan 'Wangsit' Koperasi Merah Putih Bukan Mistis, Melainkan Ilham Kebangsaan - SinPo.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 06:14:54 GMT",
+      "link": "https://sinpo.id/detail/124668/anggota-dpr-tegaskan-wangsit-koperasi-merah-putih-bukan-mistis-melainkan-ilham-kebangsaan"
+    },
+    {
+      "title": "PT Pos Indonesia Resmi Angkat M Iskandar Kunaefi Jadi Dirut Baru - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 06:08:59 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115592/pt-pos-indonesia-resmi-angkat-m-iskandar-kunaefi-jadi-dirut-baru"
+    },
+    {
+      "title": "Pemerintah Targetkan Pembangunan Koperasi Desa Merah Putih Rampung Agustus - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 05:44:16 GMT",
+      "link": "https://achmadnurhidayat.id/pembangunan-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "BPKS Kembali Raih Opini WTP dari BPK RI, Wujud Komitmen Tata Kelola yang Akuntabel - Portalsatu.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 05:07:04 GMT",
+      "link": "https://portalsatu.com/bpks-kembali-raih-opini-wtp-dari-bpk-ri/"
+    },
+    {
+      "title": "Target pembentukan Koperasi Desa Merah Putih - ANTARA News Sumbar",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 03:59:00 GMT",
+      "link": "https://sumbar.antaranews.com/foto/770812/target-pembentukan-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "Andre Rosiade Minta Hotman Jangan Kaitkan Kasus Febrie dengan Presiden Prabowo - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 03:40:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-minta-hotman-jangan-kaitkan-kasus-febrie-dengan-presiden-prabowo-27p74Xn21R4"
+    },
+    {
+      "title": "Peluang Ekspor Kopi ke Jepang Masih Terbuka Lebar, Kemendag Perkuat Standar Mutu UMKM - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 03:33:29 GMT",
+      "link": "https://suarapemerintah.id/2026/07/peluang-ekspor-kopi-ke-jepang-masih-terbuka-lebar-kemendag-perkuat-standar-mutu-umkm/"
+    },
+    {
+      "title": "Sidang Pindar Berlanjut, Dasar Dugaan Kartel Bunga Dipertanyakan - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 20 Jul 2026 03:00:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/20/100027226/sidang-pindar-berlanjut-dasar-dugaan-kartel-bunga-dipertanyakan"
+    },
     {
       "title": "Terjadi di Rempang, Tanah Rakyat Dirampas untuk Sekolah Rakyat - Betahita",
       "entity": "BP Batam",
       "kind": "lembaga",
       "published": "Mon, 20 Jul 2026 02:11:39 GMT",
       "link": "https://www.betahita.id/berita/12200/terjadi-di-rempang-tanah-rakyat-dirampas-untuk-sekolah-rakyat"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Kinerja BNI, Menjaga Pertumbuhan Bisnis di Tengah Ketidakpastian Ekonomi Global - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 20 Jul 2026 01:00:00 GMT",
+      "link": "https://www.gesuri.id/amp/pemerintahan/darmadi-durianto-apresiasi-kinerja-bni-menjaga-pertumbuhan-bisnis-di-tengah-ketidakpastian-ekonomi-global-b2pWVZbg6s"
     },
     {
       "title": "Darmadi Durianto Apresiasi Kinerja BNI, Menjaga Pertumbuhan Bisnis di Tengah Ketidakpastian Ekonomi Global - gesuri.id",
@@ -142,69 +205,6 @@
       "kind": "lembaga",
       "published": "Sun, 19 Jul 2026 12:00:18 GMT",
       "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/menkop-ferry-juliantono-berharap-ajang-fun-run-jadi-tradisi-baru-170776"
-    },
-    {
-      "title": "GenCoopRun 5K Meriahkan HUT Ke-79 Koperasi, Diikuti 2.000 Pelari di Rasuna Said - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 11:51:22 GMT",
-      "link": "https://www.metrotvnews.com/play/NQAC0wQv-gencooprun-5k-meriahkan-hut-ke-79-koperasi-diikuti-2-000-pelari-di-rasuna-said"
-    },
-    {
-      "title": "BP BUMN Tinjau Operasional Pelindo Gresik, Perkuat Layanan Logistik Nasional - Telusur.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 11:41:39 GMT",
-      "link": "https://telusur.co.id/detail/bp-bumn-tinjau-operasional-pelindo-gresik-perkuat-layanan-logistik-nasional"
-    },
-    {
-      "title": "Dashboard Sinkopdes Jadi Alat Kemenkop Petakan KDKMP yang Perlu Pendampingan - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 10:40:20 GMT",
-      "link": "https://industri.kontan.co.id/news/dashboard-sinkopdes-jadi-alat-kemenkop-petakan-kdkmp-yang-perlu-pendampingan"
-    },
-    {
-      "title": "Gen Coop Run Meriahkan Peringatan HUT ke-79 Koperasi di Jakarta - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 10:19:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tlssdxy-gen-coop-run-meriahkan-peringatan-hut-ke-79-koperasi-di-jakarta"
-    },
-    {
-      "title": "Peringati Hari Koperasi, Fun Run Digelar di CFD Rasuna Said - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 10:15:09 GMT",
-      "link": "https://www.metrotvnews.com/play/bD2CwzlJ-peringati-hari-koperasi-fun-run-digelar-di-cfd-rasuna-said"
-    },
-    {
-      "title": "Nilai Transaksi Koperasi Merah Putih Rp 56,69 Miliar, Didominasi Barang Subsidi - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 09:46:35 GMT",
-      "link": "https://nasional.kontan.co.id/news/nilai-transaksi-koperasi-merah-putih-rp-5669-miliar-didominasi-barang-subsidi"
-    },
-    {
-      "title": "Menkop gaet milenial dan Gen Z kenal koperasi lewat \"Gen Coop Run\" - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 19 Jul 2026 07:56:28 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/414564/menkop-gaet-milenial-dan-gen-z-kenal-koperasi-lewat-gen-coop-run"
-    },
-    {
-      "title": "Legislator Desak Pengusutan Tuntas Skandal eFishery, Ingatkan Pemerintah Jangan Biarkan Indonesia Dipersepsikan sebagai Surga Kejahatan Korporasi - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 19 Jul 2026 07:00:23 GMT",
-      "link": "https://aktual.com/legislator-desak-pengusutan-tuntas-skandal-efishery-ingatkan-pemerintah-jangan-biarkan-indonesia-dipersepsikan-sebagai-surga-kejahatan-korporasi/"
-    },
-    {
-      "title": "Nurdin Halid Apresiasi Musda XI Golkar Sulsel: Ini Proses Demokrasi yang Beradab - abatanews.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 19 Jul 2026 06:34:45 GMT",
-      "link": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/"
     }
   ]
 }
