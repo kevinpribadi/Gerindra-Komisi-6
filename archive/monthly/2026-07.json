@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T04:13:42.231261",
+  "generated_at": "2026-07-21T07:31:12.008356",
   "party_counts_7d": {
-    "Gerindra": 25,
-    "PDI-P": 48,
+    "Gerindra": 19,
+    "PDI-P": 47,
     "Golkar": 15,
-    "NasDem": 14,
+    "NasDem": 13,
     "PKB": 1,
     "PKS": 14,
     "PAN": 2,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
-    "Golkar": 76,
+    "Golkar": 77,
     "NasDem": 41,
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 23
+    "Demokrat": 24
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 56,
-    "koperasi": 83,
-    "perdagangan": 10,
-    "danantara": 34,
-    "ekspor": 3,
+    "bumn": 58,
+    "koperasi": 82,
+    "perdagangan": 11,
+    "danantara": 36,
+    "ekspor": 2,
     "impor": 7,
     "umkm": 10,
-    "investasi": 46,
+    "investasi": 42,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 10,
@@ -91,16 +91,80 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
-    "Herman Khaeron": 19
+    "Herman Khaeron": 19,
+    "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
-    "Hukum/Audit": 38,
-    "Koperasi/UMKM": 88,
+    "Perdagangan": 27,
+    "Hukum/Audit": 39,
+    "Koperasi/UMKM": 89,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Beri Masa Transisi 18 Bulan bagi Pedagang Marketplace Urus NIB - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 07:20:16 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-beri-masa-transisi-18-bulan-bagi-pedagang-marketplace-urus-nib/"
+    },
+    {
+      "title": "Menkop Targetkan 30 Ribu Bangunan KDMP Rampung Agustus - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 07:03:48 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8583505/menkop-targetkan-30-ribu-bangunan-kdmp-rampung-agustus"
+    },
+    {
+      "title": "Presiden Prabowo: Gerakan Koperasi Indonesia Akan Bangkit Jadi Kekuatan Ekonomi Nasional - Jabarprov",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 06:56:40 GMT",
+      "link": "https://jabarprov.go.id/berita/presiden-prabowo-gerakan-koperasi-indonesia-akan-bangkit-jadi-kekuatan-ekonomi-nasional-24799"
+    },
+    {
+      "title": "Kemensos Uji Coba Salurkan Bansos Lewat Koperasi Merah Putih, Simulasinya Agustus - CaraPandang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 06:30:00 GMT",
+      "link": "https://carapandang.com/news/read/kemensos-uji-coba-salurkan-bansos-lewat-koperasi-merah-putih-simulasinya-agustus"
+    },
+    {
+      "title": "Mendag Dorong Pelaku Usaha Manfaatkan Perjanjian Dagang Indonesia dengan Berbagai Negara - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 06:01:23 GMT",
+      "link": "https://www.niaga.asia/mendag-dorong-pelaku-usaha-manfaatkan-perjanjian-dagang-indonesia-dengan-berbagai-negara/"
+    },
+    {
+      "title": "UU PFII Sah, Danantara Persiapkan Mekanisme Permodalan Awal Pusat Keuangan RI - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 05:42:14 GMT",
+      "link": "https://nasional.kontan.co.id/news/uu-pfii-sah-danantara-persiapkan-mekanisme-permodalan-awal-pusat-keuangan-ri"
+    },
+    {
+      "title": "KPPU Bongkar Kongkalikong RSUD Bogor Utara, Satu ASN Ditahan - detikcom",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 05:30:25 GMT",
+      "link": "https://www.detik.com/jabar/berita/d-8583044/kppu-bongkar-kongkalikong-rsud-bogor-utara-satu-asn-ditahan"
+    },
+    {
+      "title": "Bos Danantara Buka Suara Soal Alur Investasi di PFII - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 05:20:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115716/bos-danantara-buka-suara-soal-alur-investasi-di-pfii"
+    },
+    {
+      "title": "RI-Cili percepat optimalisasi IC-CEPA, bidik perdagangan lebih besar - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 04:44:40 GMT",
+      "link": "https://www.antaranews.com/berita/5658287/ri-cili-percepat-optimalisasi-ic-cepa-bidik-perdagangan-lebih-besar"
+    },
     {
       "title": "Proyek Kipas Angin Triliunan Mengemuka, Menteri Koperasi Merasa Tak Tahu - GoNews.co",
       "entity": "Kementerian Koperasi",
@@ -116,6 +180,13 @@
       "link": "https://mimbarsumbar.id/andre-rosiade-pastikan-trase-tol-tak-lewati-kubang-putiah-polemik-diminta-diakhiri/"
     },
     {
+      "title": "Di Balik Perampingan BUMN, Ada Pertaruhan Besar Masa Depan Danantara - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 03:59:37 GMT",
+      "link": "https://afu.id/ekonomi/di-balik-perampingan-bumn-ada-pertaruhan-besar-masa-depan-danantara"
+    },
+    {
       "title": "Anggota DPR Dorong Transformasi BPKS Sabang sebagai Motor Pertumbuhan Ekonomi Kawasan - VIVA.co.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
@@ -123,88 +194,18 @@
       "link": "https://www.viva.co.id/bisnis/1915090-anggota-dpr-dorong-transformasi-bpks-sabang-sebagai-motor-pertumbuhan-ekonomi-kawasan"
     },
     {
+      "title": "Kunjungi Korban Kebakaran di Jalan Missol, Faujia Tampubolon Beri Penguatan - Berita Indonesia Timur Terkini - Koreri",
+      "entity": "Faujia Helga",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 03:40:49 GMT",
+      "link": "https://koreri.com/2026/07/21/kunjungi-korban-kebakaran-di-jalan-missol-faujia-tampubolon-beri-penguatan/"
+    },
+    {
       "title": "Indonesia dan Cili Perkuat Kerja Sama Ekonomi, IC-CEPA Dioptimalkan untuk Dongkrak Perdagangan - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 03:05:13 GMT",
       "link": "https://suarapemerintah.id/2026/07/indonesia-dan-cili-perkuat-kerja-sama-ekonomi-ic-cepa-dioptimalkan-untuk-dongkrak-perdagangan/"
-    },
-    {
-      "title": "DPR Dorong BPKS Sabang Bertransformasi Jadi Pusat Logistik - achmadnurhidayat.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 02:58:18 GMT",
-      "link": "https://achmadnurhidayat.id/dpr-dorong-bpks-sabang-bertransformasi-pusat-logistik"
-    },
-    {
-      "title": "DPR Dorong BPKS Sabang Bertransformasi Jadi Pusat Logistik - achmadnurhidayat.id",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 02:58:18 GMT",
-      "link": "https://achmadnurhidayat.id/dpr-dorong-bpks-sabang-bertransformasi-pusat-logistik"
-    },
-    {
-      "title": "BP Sabang Didorong Jadi Hub Logistik dan Perdagangan Internasional - detikFinance",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 02:50:07 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8583011/bp-sabang-didorong-jadi-hub-logistik-dan-perdagangan-internasional"
-    },
-    {
-      "title": "BP Sabang Didorong Jadi Hub Logistik dan Perdagangan Internasional - detikFinance",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 02:50:07 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8583011/bp-sabang-didorong-jadi-hub-logistik-dan-perdagangan-internasional"
-    },
-    {
-      "title": "Presiden Prabowo: 250 BUMN Ditutup, Indonesia Hemat Rp50 Triliun - MetroTVNews.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 02:00:46 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCP7Bd-presiden-prabowo-250-bumn-ditutup-indonesia-hemat-rp50-triliun"
-    },
-    {
-      "title": "Kemensos simulasikan penyaluran bansos lewat Koperasi Merah Putih - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 01:59:21 GMT",
-      "link": "https://kalbar.antaranews.com/berita/707021/kemensos-simulasikan-penyaluran-bansos-lewat-koperasi-merah-putih"
-    },
-    {
-      "title": "Bos Danantara Beber Sumber Kelolaan Devisa DSI Senilai US$10,5 M - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 01:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115670/bos-danantara-beber-sumber-kelolaan-devisa-dsi-senilai-us-10-5-m"
-    },
-    {
-      "title": "Bos Danantara Beber Sumber Kelolaan Devisa DSI Senilai US$10,5 M - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 01:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115670/bos-danantara-beber-sumber-kelolaan-devisa-dsi-senilai-us-10-5-m"
-    },
-    {
-      "title": "Peluang Ekspor Kopi Indonesia ke Jepang Masih Sangat Besar - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 00:40:01 GMT",
-      "link": "https://www.niaga.asia/peluang-ekspor-kopi-indonesia-ke-jepang-masih-sangat-besar/"
-    },
-    {
-      "title": "NIB Wajib bagi Pedagang E-commerce, Kemendag Tegaskan Tak Otomatis Kena Pajak - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 00:36:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/21/073600626/nib-wajib-bagi-pedagang-e-commerce-kemendag-tegaskan-tak-otomatis-kena-pajak"
-    },
-    {
-      "title": "Indonesia dan Cili Sepakat Perkuat Kolaborasi Ekonomi Lewat IC-CEPA - Industry.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 00:15:00 GMT",
-      "link": "https://www.industry.co.id/read/153468/indonesia-dan-cili-sepakat-perkuat-kolaborasi-ekonomi-lewat-ic-cepa"
     }
   ]
 }
