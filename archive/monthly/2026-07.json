@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T22:54:03.297786",
+  "generated_at": "2026-07-21T23:55:02.349096",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 45,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 62,
     "koperasi": 79,
-    "perdagangan": 13,
+    "perdagangan": 14,
     "danantara": 40,
+    "ekspor": 3,
     "investasi": 38,
-    "ekspor": 2,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "umkm": 9,
@@ -96,12 +96,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 29,
+    "Perdagangan": 30,
     "Hukum/Audit": 41,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Menteri Perdagangan – Bridgestone Indonesia Bahas Peningkatan Ekspor Ban - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 23:06:52 GMT",
+      "link": "https://www.niaga.asia/menteri-perdagangan-bridgestone-indonesia-bahas-peningkatan-ekspor-ban/"
+    },
     {
       "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - diskominfotik provinsi lampung",
       "entity": "Kementerian Koperasi",
@@ -199,13 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:53:00 GMT",
       "link": "https://money.kompas.com/read/2026/07/21/185300426/prospek-industri-tempe-dan-tahu-masih-cerah-kemenkop-minta-rantai-pasok"
-    },
-    {
-      "title": "Menkop Bangga Kopdes Jatim Cetak Transaksi Tertinggi Nasional - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:53:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/21/715410/menkop-bangga-kopdes-jatim-cetak-transaksi-tertinggi-nasional-"
     }
   ]
 }
