@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T19:17:46.956167",
+  "generated_at": "2026-07-21T21:06:15.671517",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 45,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 62,
-    "koperasi": 80,
+    "koperasi": 79,
     "perdagangan": 13,
     "danantara": 40,
     "investasi": 38,
@@ -97,8 +97,8 @@
   "early_warning_counts": {
     "Kinerja BUMN": 16,
     "Perdagangan": 29,
-    "Hukum/Audit": 40,
-    "Koperasi/UMKM": 83,
+    "Hukum/Audit": 41,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 3
   },
   "top_headlines": [
@@ -108,6 +108,13 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 15:16:04 GMT",
       "link": "https://jnn.co.id/2026/07/21/dekopinda-sumenep-kirim-100-gerakan-koperasi-hadiri-harkopnas-ke-79-tingkat-jatim-di-pamekasan/"
+    },
+    {
+      "title": "Menkop Apresiasi Puncak Peringatan Harkop dan Capaian KDKMP di Jatim - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 14:31:27 GMT",
+      "link": "https://indoposco.id/2026/07/21/menkop-apresiasi-puncak-peringatan-harkop-dan-capaian-kdkmp-di-jatim/"
     },
     {
       "title": "Kemenkop sebut koperasi harus jadi penghubung petani hingga konsumen - ANTARA News Yogyakarta",
@@ -199,13 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:47:55 GMT",
       "link": "https://jatim.antaranews.com/berita/1083668/dekopin-stigma-koperasi-sebagai-ekonomi-kuno-sudah-tak-relevan"
-    },
-    {
-      "title": "Pelindo Jambi perkuat integrasi layanan dukung implementasi PAB - ANTARA News Jambi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:42:05 GMT",
-      "link": "https://jambi.antaranews.com/berita/662143/pelindo-jambi-perkuat-integrasi-layanan-dukung-implementasi-pab"
     }
   ]
 }
