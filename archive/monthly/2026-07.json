@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T21:06:15.671517",
+  "generated_at": "2026-07-21T22:54:03.297786",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 45,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 14,
     "PKB": 1,
     "PKS": 17,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
-    "Golkar": 80,
+    "Golkar": 81,
     "NasDem": 42,
     "PKB": 45,
     "PKS": 62,
@@ -70,7 +70,7 @@
     "Doni Akbar": 10,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 9,
+    "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 5,
@@ -102,6 +102,13 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - diskominfotik provinsi lampung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 16:36:31 GMT",
+      "link": "https://diskominfotik.lampungprov.go.id/detail-post/gubernur-lampung-koperasi-merah-putih-jadi-instrumen-hilirisasi-dan-penggerak-ekonomi-desa"
+    },
     {
       "title": "Dekopinda Sumenep, Kirim 100 Gerakan Koperasi Hadiri Harkopnas Ke- 79 Tingkat Jatim di Pamekasan - JNN.co.id",
       "entity": "Dekopin",
@@ -177,6 +184,13 @@
       "entity": "Muhammad Sarmuji",
       "kind": "anggota",
       "published": "Tue, 21 Jul 2026 11:54:27 GMT",
+      "link": "https://nasional.tempo.co/read/2114761/golkar-warga-berhak-bentuk-kabinet-bayangan"
+    },
+    {
+      "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 11:54:27 GMT",
       "link": "https://www.tempo.co/politik/golkar-warga-berhak-bentuk-kabinet-bayangan-2277291"
     },
     {
@@ -192,20 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:53:00 GMT",
       "link": "https://rmol.id/amp/2026/07/21/715410/menkop-bangga-kopdes-jatim-cetak-transaksi-tertinggi-nasional-"
-    },
-    {
-      "title": "Gandeng DIFC Dubai, Danantara Matangkan Pusat Finansial Internasional Indonesia - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:50:06 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5433531/gandeng-difc-dubai--danantara-matangkan-pusat-finansial-internasional-indonesia"
-    },
-    {
-      "title": "Dekopin: Stigma koperasi sebagai ekonomi kuno sudah tak relevan - Antara News jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:47:55 GMT",
-      "link": "https://jatim.antaranews.com/berita/1083668/dekopin-stigma-koperasi-sebagai-ekonomi-kuno-sudah-tak-relevan"
     }
   ]
 }
