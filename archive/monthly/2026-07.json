@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T00:02:19.171847",
+  "generated_at": "2026-07-21T04:13:42.231261",
   "party_counts_7d": {
     "Gerindra": 25,
-    "PDI-P": 49,
+    "PDI-P": 48,
     "Golkar": 15,
     "NasDem": 14,
     "PKB": 1,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
-    "Golkar": 75,
+    "Golkar": 76,
     "NasDem": 41,
     "PKB": 45,
     "PKS": 62,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "koperasi": 81,
-    "perdagangan": 7,
-    "danantara": 33,
-    "impor": 8,
-    "umkm": 11,
-    "ekspor": 4,
-    "investasi": 49,
+    "koperasi": 83,
+    "perdagangan": 10,
+    "danantara": 34,
+    "ekspor": 3,
+    "impor": 7,
+    "umkm": 10,
+    "investasi": 46,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -67,7 +67,7 @@
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 9,
+    "Doni Akbar": 10,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 7,
@@ -95,116 +95,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 30,
-    "Hukum/Audit": 39,
-    "Koperasi/UMKM": 87,
-    "Konflik Publik": 2
+    "Perdagangan": 28,
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 88,
+    "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Walikota Jaya Negara Kukuhkan Pengurus KD-KMP, Perkuat Peran Koperasi di Denpasar - atnews.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 20:38:05 GMT",
-      "link": "https://atnews.id/portal/news/32373/"
-    },
-    {
-      "title": "Peringatan Ke-79 Harkopnas, Presiden Prabowo Subianto Tegaskan Koperasi Bangkit! - ketik.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 18:00:00 GMT",
-      "link": "https://ketik.com/jakarta/nusantara/peringatan-ke-79-harkopnas-presiden-prabowo-subianto-tegaskan-koperasi-bangkit"
-    },
-    {
-      "title": "Kemensos Simulasikan Penyaluran Bansos lewat Koperasi Merah Putih - MetroTVNews.com",
+      "title": "Proyek Kipas Angin Triliunan Mengemuka, Menteri Koperasi Merasa Tak Tahu - GoNews.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 17:35:53 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCP7Vd-kemensos-simulasikan-penyaluran-bansos-lewat-koperasi-merah-putih"
+      "published": "Tue, 21 Jul 2026 04:05:00 GMT",
+      "link": "https://www.gonews.co/berita/baca/2026/07/21/proyek-kipas-angin-triliunan-mengemuka-menteri-koperasi-merasa-tak-tahu"
     },
     {
-      "title": "Kemendag: Pedagang Marketplace Tetap Bisa Berjualan Tanpa NIB Selama Masa Transisi » - dialeksis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 16:50:00 GMT",
-      "link": "https://dialeksis.com/ekonomi/kemendag-pedagang-marketplace-tetap-bisa-berjualan-tanpa-nib-selama-masa-transisi/"
-    },
-    {
-      "title": "Perkuat Perdagangan dan Pariwisata, Universitas Sahid-Kemendag Dorong Komunikasi Strategis - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 16:23:50 GMT",
-      "link": "https://indoposco.id/2026/07/20/perkuat-perdagangan-dan-pariwisata-universitas-sahid-kemendag-dorong-komunikasi-strategis/"
-    },
-    {
-      "title": "Seminar Internasional Komunikasi Strategis, Universitas Sahid dan Kemendag Dorong Diplomasi Ekonomi - Mnctrijaya.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 15:22:00 GMT",
-      "link": "https://www.mnctrijaya.com/news/detail/77228/seminar-internasional-komunikasi-strategis-universitas-sahid-dan-kemendag-dorong-diplomasi"
-    },
-    {
-      "title": "Herman Khaeron Dukung UMKM Lewat Nobar Final Piala Dunia 2026 Bersama Warga Cirebon - Bedanews",
-      "entity": "Herman Khaeron",
+      "title": "Andre Rosiade Pastikan Trase Tol Tak Lewati Kubang Putiah, Polemik Diminta Diakhiri - Mimbarsumbar.id",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 15:20:07 GMT",
-      "link": "https://bedanews.com/herman-khaeron-dukung-umkm-lewat-nobar-final-piala-dunia-2026-bersama-warga-cirebon/"
+      "published": "Tue, 21 Jul 2026 04:04:52 GMT",
+      "link": "https://mimbarsumbar.id/andre-rosiade-pastikan-trase-tol-tak-lewati-kubang-putiah-polemik-diminta-diakhiri/"
     },
     {
-      "title": "Prabowo Serukan Kebangkitan Koperasi Nasional di Harkopnas ke-79, DEKOPIN Bidik Gen Z Jadi Motor Ekonomi - beritajatim.com",
-      "entity": "Dekopin",
+      "title": "Anggota DPR Dorong Transformasi BPKS Sabang sebagai Motor Pertumbuhan Ekonomi Kawasan - VIVA.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 14:56:09 GMT",
-      "link": "https://beritajatim.com/prabowo-serukan-kebangkitan-koperasi-nasional-di-harkopnas-ke-79-dekopin-bidik-gen-z-jadi-motor-ekonomi"
+      "published": "Tue, 21 Jul 2026 03:52:23 GMT",
+      "link": "https://www.viva.co.id/bisnis/1915090-anggota-dpr-dorong-transformasi-bpks-sabang-sebagai-motor-pertumbuhan-ekonomi-kawasan"
     },
     {
-      "title": "Universitas Sahid dan Kemendag Bahas Komunikasi Strategis untuk Perkuat Perdagangan dan Pariwisata Global - Beritakota",
+      "title": "Indonesia dan Cili Perkuat Kerja Sama Ekonomi, IC-CEPA Dioptimalkan untuk Dongkrak Perdagangan - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 14:12:00 GMT",
-      "link": "https://beritakota.id/universitas-sahid-dan-kemendag-bahas-komunikasi-strategis-untuk-perkuat-perdagangan-dan-pariwisata-global/"
+      "published": "Tue, 21 Jul 2026 03:05:13 GMT",
+      "link": "https://suarapemerintah.id/2026/07/indonesia-dan-cili-perkuat-kerja-sama-ekonomi-ic-cepa-dioptimalkan-untuk-dongkrak-perdagangan/"
     },
     {
-      "title": "Kemendag beri masa transisi bagi pedagang marketplace daftarkan NIB - ANTARA News",
+      "title": "DPR Dorong BPKS Sabang Bertransformasi Jadi Pusat Logistik - achmadnurhidayat.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 02:58:18 GMT",
+      "link": "https://achmadnurhidayat.id/dpr-dorong-bpks-sabang-bertransformasi-pusat-logistik"
+    },
+    {
+      "title": "DPR Dorong BPKS Sabang Bertransformasi Jadi Pusat Logistik - achmadnurhidayat.id",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 02:58:18 GMT",
+      "link": "https://achmadnurhidayat.id/dpr-dorong-bpks-sabang-bertransformasi-pusat-logistik"
+    },
+    {
+      "title": "BP Sabang Didorong Jadi Hub Logistik dan Perdagangan Internasional - detikFinance",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 02:50:07 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8583011/bp-sabang-didorong-jadi-hub-logistik-dan-perdagangan-internasional"
+    },
+    {
+      "title": "BP Sabang Didorong Jadi Hub Logistik dan Perdagangan Internasional - detikFinance",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 02:50:07 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8583011/bp-sabang-didorong-jadi-hub-logistik-dan-perdagangan-internasional"
+    },
+    {
+      "title": "Presiden Prabowo: 250 BUMN Ditutup, Indonesia Hemat Rp50 Triliun - MetroTVNews.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 02:00:46 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCP7Bd-presiden-prabowo-250-bumn-ditutup-indonesia-hemat-rp50-triliun"
+    },
+    {
+      "title": "Kemensos simulasikan penyaluran bansos lewat Koperasi Merah Putih - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 01:59:21 GMT",
+      "link": "https://kalbar.antaranews.com/berita/707021/kemensos-simulasikan-penyaluran-bansos-lewat-koperasi-merah-putih"
+    },
+    {
+      "title": "Bos Danantara Beber Sumber Kelolaan Devisa DSI Senilai US$10,5 M - Bloomberg Technoz",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 14:03:28 GMT",
-      "link": "https://www.antaranews.com/berita/5657739/kemendag-beri-masa-transisi-bagi-pedagang-marketplace-daftarkan-nib"
+      "published": "Tue, 21 Jul 2026 01:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115670/bos-danantara-beber-sumber-kelolaan-devisa-dsi-senilai-us-10-5-m"
     },
     {
-      "title": "Herman Khaeron Gelar Nobar Final Piala Dunia 2026, Tampung Aspirasi Warga dan Dukung Perputaran Ekonomi UMKM - Opsi.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 14:02:37 GMT",
-      "link": "https://opsi.id/herman-khaeron-gelar-nobar-final-piala-dunia-2026-tampung-aspirasi-warga-dan-dukung-perputaran-ekonomi-umkm/"
+      "title": "Bos Danantara Beber Sumber Kelolaan Devisa DSI Senilai US$10,5 M - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 01:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115670/bos-danantara-beber-sumber-kelolaan-devisa-dsi-senilai-us-10-5-m"
     },
     {
-      "title": "Pameran World of Coffee 2026 di Belgia, Cita Rasa Kopi Indonesia Makin Menyeruak di Eropa - Lensa Medan",
+      "title": "Peluang Ekspor Kopi Indonesia ke Jepang Masih Sangat Besar - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 14:01:00 GMT",
-      "link": "https://www.lensamedan.co.id/2026/07/pameran-world-of-coffee-2026-di-belgia.html"
+      "published": "Tue, 21 Jul 2026 00:40:01 GMT",
+      "link": "https://www.niaga.asia/peluang-ekspor-kopi-indonesia-ke-jepang-masih-sangat-besar/"
     },
     {
-      "title": "Sidang Kasus Pindar Berlanjut, Dasar Hukum Putusan KPPU Diuji di Persidangan - kontan.co.id",
-      "entity": "KPPU",
+      "title": "NIB Wajib bagi Pedagang E-commerce, Kemendag Tegaskan Tak Otomatis Kena Pajak - Kompas.com",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 20 Jul 2026 14:00:25 GMT",
-      "link": "https://nasional.kontan.co.id/news/sidang-kasus-pindar-berlanjut-dasar-hukum-putusan-kppu-diuji-di-persidangan"
+      "published": "Tue, 21 Jul 2026 00:36:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/21/073600626/nib-wajib-bagi-pedagang-e-commerce-kemendag-tegaskan-tak-otomatis-kena-pajak"
     },
     {
-      "title": "Gelar Nobar Final Piala Dunia 2026, Herman Khaeron Serap Aspirasi Ojol Hingga Berdayakan UMKM - Pikiran Rakyat Subang - Pikiran Rakyat Subang",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 13:51:49 GMT",
-      "link": "https://subang.pikiran-rakyat.com/nasional/amp/pr-6510345066/gelar-nobar-final-piala-dunia-2026-herman-khaeron-serap-aspirasi-ojol-hingga-berdayakan-umkm"
-    },
-    {
-      "title": "Gelar Nobar Final Piala Dunia 2026, Herman Khaeron Serap Aspirasi Ojol Hingga Berdayakan UMKM - Pikiran Rakyat Subang - Pikiran Rakyat Subang",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 20 Jul 2026 13:51:49 GMT",
-      "link": "https://subang.pikiran-rakyat.com/nasional/pr-6510345066/gelar-nobar-final-piala-dunia-2026-herman-khaeron-serap-aspirasi-ojol-hingga-berdayakan-umkm"
+      "title": "Indonesia dan Cili Sepakat Perkuat Kolaborasi Ekonomi Lewat IC-CEPA - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 00:15:00 GMT",
+      "link": "https://www.industry.co.id/read/153468/indonesia-dan-cili-sepakat-perkuat-kolaborasi-ekonomi-lewat-ic-cepa"
     }
   ]
 }
