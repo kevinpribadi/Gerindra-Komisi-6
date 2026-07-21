@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T12:22:42.020728",
+  "generated_at": "2026-07-21T15:02:26.231094",
   "party_counts_7d": {
     "Gerindra": 16,
-    "PDI-P": 46,
-    "Golkar": 16,
+    "PDI-P": 45,
+    "Golkar": 17,
     "NasDem": 14,
     "PKB": 1,
     "PKS": 17,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
-    "Golkar": 78,
+    "Golkar": 80,
     "NasDem": 42,
     "PKB": 45,
     "PKS": 62,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
+    "bumn": 61,
     "koperasi": 80,
     "perdagangan": 14,
-    "danantara": 36,
-    "ekspor": 2,
+    "danantara": 39,
     "investasi": 40,
+    "ekspor": 2,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "umkm": 9,
@@ -64,13 +64,13 @@
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 16,
+    "Gde Sumarjaya Linggih": 17,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 10,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 8,
+    "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 5,
@@ -96,18 +96,60 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 28,
-    "Hukum/Audit": 39,
+    "Perdagangan": 29,
+    "Hukum/Audit": 40,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop sebut koperasi harus jadi penghubung petani hingga konsumen - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 13:37:54 GMT",
+      "link": "https://jogja.antaranews.com/berita/843319/kemenkop-sebut-koperasi-harus-jadi-penghubung-petani-hingga-konsumen"
+    },
+    {
+      "title": "Danantara Perkuat Fondasi Nasional Lewat Konsolidasi dan Reformasi BUMN. Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 13:36:10 GMT",
+      "link": "https://www.kompasiana.com/wilsonabraham1309/6a5f75caed6415350063a4b3/danantara-perkuat-fondasi-nasional-lewat-konsolidasi-dan-reformasi-bumn"
+    },
+    {
+      "title": "Gubernur Lampung: Koperasi Merah Putih Penggerak Ekonomi Desa - Lintas Lampung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 13:09:00 GMT",
+      "link": "https://web.lintaslampung.com/gubernur-lampung-koperasi-merah-putih-penggerak-ekonomi-desa/"
+    },
+    {
+      "title": "Bupati Madiun Raih Penghargaan Pembina Koperasi Andalan Jawa Timur 2026 dari Menteri Koperasi - Nusantara Abadi News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 12:32:32 GMT",
+      "link": "https://nusantaraabadinews.com/2026/07/21/bupati-madiun-raih-penghargaan-pembina-koperasi-andalan-jawa-timur-2026-dari-menteri-koperasi/"
+    },
+    {
+      "title": "Indonesia dan Cili Optimalkan IC-CEPA untuk Dongkrak Perdagangan dan Investasi - VOI.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 12:22:00 GMT",
+      "link": "https://voi.id/ekonomi/585886/indonesia-dan-cili-optimalkan-ic-cepa-untuk-dongkrak-perdagangan-dan-investasi"
+    },
     {
       "title": "Amin Ak: Bursa Mineral Indonesia Harus Jadi Penentu Harga Global, Bukan Sekadar Simbol Kelembagaan - Bela Rakyat",
       "entity": "Amin Ak.",
       "kind": "anggota",
       "published": "Tue, 21 Jul 2026 12:17:08 GMT",
       "link": "https://belarakyat.com/amin-ak-bursa-mineral-indonesia-harus-jadi-penentu-harga-global-bukan-sekadar-simbol-kelembagaan/"
+    },
+    {
+      "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 11:54:27 GMT",
+      "link": "https://nasional.tempo.co/read/2114761/golkar-warga-berhak-bentuk-kabinet-bayangan?utm_source=Digital%20Marketing&utm_medium=Babe"
     },
     {
       "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
@@ -129,6 +171,13 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:53:00 GMT",
       "link": "https://rmol.id/amp/2026/07/21/715410/menkop-bangga-kopdes-jatim-cetak-transaksi-tertinggi-nasional-"
+    },
+    {
+      "title": "Gandeng DIFC Dubai, Danantara Matangkan Pusat Finansial Internasional Indonesia - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 11:50:06 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5433531/gandeng-difc-dubai--danantara-matangkan-pusat-finansial-internasional-indonesia"
     },
     {
       "title": "Dekopin: Stigma koperasi sebagai ekonomi kuno sudah tak relevan - Antara News jatim",
@@ -157,55 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:33:48 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/07/21/kemendag-tekankan-peran-komunikasi-strategis-dalam-perdagangan-global/"
-    },
-    {
-      "title": "Peringatan Hari Koperasi Ke-79, Bupati Madiun Terima Penghargaan Pembina Koperasi Andalan Jawa Timur 2026 Dari Kementerian Koperasi - madiunkab.go.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:21:53 GMT",
-      "link": "https://madiunkab.go.id/peringatan-hari-koperasi-ke-79-bupati-madiun-terima-penghargaan-pembina-koperasi-andalan-jawa-timur-2026-dari-kementerian-koperasi/"
-    },
-    {
-      "title": "Wamenkop: Gakoptindo Perlu Perkuat Rantai Pasok Tempe dan Tahu - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:07:41 GMT",
-      "link": "https://indoposco.id/2026/07/21/wamenkop-gakoptindo-perlu-perkuat-rantai-pasok-tempe-dan-tahu/"
-    },
-    {
-      "title": "Cegah Praktik Rente dalam Penyusunan Regulasi, Fungsi SAKPU Dimaksimalkan - Bisnis.com - Surabaya",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:05:08 GMT",
-      "link": "https://surabaya.bisnis.com/read/20260721/531/1989833/cegah-praktik-rente-dalam-penyusunan-regulasi-fungsi-sakpu-dimaksimalkan"
-    },
-    {
-      "title": "Kemenko PMK Dorong Penguatan Kolaborasi Dunia Usaha melalui Inisiatif Satu Aksi untuk Ketangguhan Bencana Nasional | Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan - Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 10:26:15 GMT",
-      "link": "https://www.kemenkopmk.go.id/kemenko-pmk-dorong-penguatan-kolaborasi-dunia-usaha-melalui-inisiatif-satu-aksi-untuk-ketangguhan"
-    },
-    {
-      "title": "Erwinsyah Ismail Dorong Bapenda Gandeng APH Optimalkan Peningkatan PAD pada APBD 2027 - Prosesnews.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 09:58:34 GMT",
-      "link": "https://prosesnews.id/erwinsyah-ismail-dorong-bapenda-gandeng-aph-optimalkan-peningkatan-pad-pada-apbd-2027/"
-    },
-    {
-      "title": "DPR dan Kemendag Bahas Empat Perjanjian Perdagangan Internasional - RM.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 09:54:00 GMT",
-      "link": "https://rm.id/lihat-foto/government-action/318499/dpr-dan-kemendag-bahas-empat-perjanjian-perdagangan-internasional"
-    },
-    {
-      "title": "Erwisnyah Ismail Minta BKAD Perhatikan Kondisi Asrama Mahasiswa Gorontalo di Luar Daerah - Prosesnews.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 09:30:01 GMT",
-      "link": "https://prosesnews.id/erwisnyah-ismail-minta-bkad-perhatikan-kondisi-asrama-mahasiswa-gorontalo-di-luar-daerah/"
     }
   ]
 }
