@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T15:02:26.231094",
+  "generated_at": "2026-07-21T17:15:55.392241",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 45,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 62,
     "koperasi": 80,
-    "perdagangan": 14,
-    "danantara": 39,
-    "investasi": 40,
+    "perdagangan": 13,
+    "danantara": 40,
+    "investasi": 38,
     "ekspor": 2,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
@@ -103,11 +103,25 @@
   },
   "top_headlines": [
     {
+      "title": "Dekopinda Sumenep, Kirim 100 Gerakan Koperasi Hadiri Harkopnas Ke- 79 Tingkat Jatim di Pamekasan - JNN.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 15:16:04 GMT",
+      "link": "https://jnn.co.id/2026/07/21/dekopinda-sumenep-kirim-100-gerakan-koperasi-hadiri-harkopnas-ke-79-tingkat-jatim-di-pamekasan/"
+    },
+    {
       "title": "Kemenkop sebut koperasi harus jadi penghubung petani hingga konsumen - ANTARA News Yogyakarta",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 13:37:54 GMT",
       "link": "https://jogja.antaranews.com/berita/843319/kemenkop-sebut-koperasi-harus-jadi-penghubung-petani-hingga-konsumen"
+    },
+    {
+      "title": "Danantara Perkuat Fondasi Nasional Lewat Konsolidasi dan Reformasi BUMN. - Kompasiana.com - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 13:36:10 GMT",
+      "link": "https://www.kompasiana.com/amp/wilsonabraham1309/6a5f75caed6415350063a4b3/danantara-perkuat-fondasi-nasional-lewat-konsolidasi-dan-reformasi-bumn"
     },
     {
       "title": "Danantara Perkuat Fondasi Nasional Lewat Konsolidasi dan Reformasi BUMN. Halaman 1 - Kompasiana.com",
@@ -192,20 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 11:42:05 GMT",
       "link": "https://jambi.antaranews.com/berita/662143/pelindo-jambi-perkuat-integrasi-layanan-dukung-implementasi-pab"
-    },
-    {
-      "title": "Wamendag Tegaskan Komunikasi Strategis Jadi Modal Utama Indonesia Menang di Perdagangan Global - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:37:04 GMT",
-      "link": "https://indoposco.id/2026/07/21/wamendag-tegaskan-komunikasi-strategis-jadi-modal-utama-indonesia-menang-di-perdagangan-global/"
-    },
-    {
-      "title": "Kemendag Tekankan Peran Komunikasi Strategis dalam Perdagangan Global - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:33:48 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/21/kemendag-tekankan-peran-komunikasi-strategis-dalam-perdagangan-global/"
     }
   ]
 }
