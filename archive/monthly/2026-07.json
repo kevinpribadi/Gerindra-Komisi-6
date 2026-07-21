@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T07:31:12.008356",
+  "generated_at": "2026-07-21T10:23:25.438109",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 47,
+    "Gerindra": 17,
+    "PDI-P": 46,
     "Golkar": 15,
-    "NasDem": 13,
+    "NasDem": 14,
     "PKB": 1,
-    "PKS": 14,
+    "PKS": 16,
     "PAN": 2,
-    "Demokrat": 10
+    "Demokrat": 11
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 107,
     "Golkar": 77,
-    "NasDem": 41,
+    "NasDem": 42,
     "PKB": 45,
     "PKS": 62,
     "PAN": 18,
-    "Demokrat": 24
+    "Demokrat": 25
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
+    "bumn": 60,
     "koperasi": 82,
     "perdagangan": 11,
     "danantara": 36,
     "ekspor": 2,
     "impor": 7,
-    "umkm": 10,
-    "investasi": 42,
+    "investasi": 41,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
+    "umkm": 9,
     "ipo": 4,
     "dividen": 2
   },
@@ -76,7 +76,7 @@
     "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 6,
+    "Subardi": 7,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
@@ -92,16 +92,100 @@
     "Iskandar": 4,
     "Sartono": 4,
     "Herman Khaeron": 19,
-    "Faujia Helga": 1
+    "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 16,
     "Perdagangan": 27,
     "Hukum/Audit": 39,
-    "Koperasi/UMKM": 89,
+    "Koperasi/UMKM": 86,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Erwinsyah Ismail Dorong Bapenda Gandeng APH Optimalkan Peningkatan PAD pada APBD 2027 - Prosesnews.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 09:58:34 GMT",
+      "link": "https://prosesnews.id/erwinsyah-ismail-dorong-bapenda-gandeng-aph-optimalkan-peningkatan-pad-pada-apbd-2027/"
+    },
+    {
+      "title": "Erwisnyah Ismail Minta BKAD Perhatikan Kondisi Asrama Mahasiswa Gorontalo di Luar Daerah - Prosesnews.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 09:30:01 GMT",
+      "link": "https://prosesnews.id/erwisnyah-ismail-minta-bkad-perhatikan-kondisi-asrama-mahasiswa-gorontalo-di-luar-daerah/"
+    },
+    {
+      "title": "Danantara Mulai Tancap Gas PSEL, Delapan Proyek Waste-to-Energy Siap Groundbreaking Awal 2027 - bataviapos.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 09:08:12 GMT",
+      "link": "https://bataviapos.id/susi-susanti/danantara-mulai-tancap-gas-psel-delapan-proyek-waste-to-energy-siap-groundbreaking-awal-2027/"
+    },
+    {
+      "title": "Moody's Beri Rating Baa2 Obligasi Danantara US$ 5 Miliar, Tapi Outlook Masih Negatif - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 09:05:12 GMT",
+      "link": "https://nasional.kontan.co.id/news/moodys-beri-rating-baa2-obligasi-danantara-us-5-miliar-tapi-outlook-masih-negatif"
+    },
+    {
+      "title": "Menkop Sebut Rencana Kopdes Salurkan Bansos Bakal Diatur di Perpres - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 09:00:29 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8583608/menkop-sebut-rencana-kopdes-salurkan-bansos-bakal-diatur-di-perpres"
+    },
+    {
+      "title": "Pamekasan Tuan Rumah Hari Koperasi Jatim ke-79, Menteri Koperasi dan Gubernur Khofifah Dorong Penguatan Ekonomi Rakyat - Seru.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 08:54:45 GMT",
+      "link": "https://seru.co.id/227614-pamekasan-tuan-rumah-hari-koperasi-jatim-ke-79"
+    },
+    {
+      "title": "Khofifah Ungkap Ekonomi Jatim Tumbuh 5,96%, Koperasi-UMKM Sumbang 60% - detikcom",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 08:15:34 GMT",
+      "link": "https://www.detik.com/jatim/bisnis/d-8583534/khofifah-ungkap-ekonomi-jatim-tumbuh-5-96-koperasi-umkm-sumbang-60"
+    },
+    {
+      "title": "Aturan Baru E-Commerce, Pedagang Online Tetap Bisa Jualan Tanpa NIB Sementara - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 08:12:49 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/21/aturan-baru-e-commerce-pedagang-online-tetap-bisa-jualan-tanpa-nib-sementara/"
+    },
+    {
+      "title": "Rayakan HUT Ke-110, Subardi Dorong Karangawen Jadi Desa Mandiri - DPP Partai NasDem",
+      "entity": "Subardi",
+      "kind": "anggota",
+      "published": "Tue, 21 Jul 2026 08:12:11 GMT",
+      "link": "https://partainasdem.id/2026/07/21/rayakan-hut-ke-110-subardi-dorong-karangawen-jadi-desa-mandiri/"
+    },
+    {
+      "title": "Perkuat Ekonomi Kerakyatan, Ratusan Peserta Hadiri Seminar Hari Koperasi ke-79 di Mojokerto “Koperasi Berdaya, Indonesia Berjaya - Sinarpos.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 08:02:31 GMT",
+      "link": "https://sinarpos.co.id/2026/07/21/perkuat-ekonomi-kerakyatan-ratusan-peserta-hadiri-seminar-hari-koperasi-ke-79-di-mojokerto-koperasi-berdaya-indonesia-berjaya/amp/"
+    },
+    {
+      "title": "Video: \"Melayani Dengan Sepenuh Hati\", Komitmen BUMN Perkuat Layanan - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 07:39:55 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260721123027-8-752553/video-melayani-dengan-sepenuh-hati-komitmen-bumn-perkuat-layanan/amp"
+    },
+    {
+      "title": "Rosan Buka Suara soal BUMN Ekspor, DSI Hanya Berperan sebagai Agen Penjual - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 07:30:00 GMT",
+      "link": "https://wartaekonomi.co.id/read623750/rosan-buka-suara-soal-bumn-ekspor-dsi-hanya-berperan-sebagai-agen-penjual"
+    },
     {
       "title": "Kemendag Beri Masa Transisi 18 Bulan bagi Pedagang Marketplace Urus NIB - Suara Surabaya",
       "entity": "Kementerian Perdagangan",
@@ -122,90 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 06:56:40 GMT",
       "link": "https://jabarprov.go.id/berita/presiden-prabowo-gerakan-koperasi-indonesia-akan-bangkit-jadi-kekuatan-ekonomi-nasional-24799"
-    },
-    {
-      "title": "Kemensos Uji Coba Salurkan Bansos Lewat Koperasi Merah Putih, Simulasinya Agustus - CaraPandang",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 06:30:00 GMT",
-      "link": "https://carapandang.com/news/read/kemensos-uji-coba-salurkan-bansos-lewat-koperasi-merah-putih-simulasinya-agustus"
-    },
-    {
-      "title": "Mendag Dorong Pelaku Usaha Manfaatkan Perjanjian Dagang Indonesia dengan Berbagai Negara - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 06:01:23 GMT",
-      "link": "https://www.niaga.asia/mendag-dorong-pelaku-usaha-manfaatkan-perjanjian-dagang-indonesia-dengan-berbagai-negara/"
-    },
-    {
-      "title": "UU PFII Sah, Danantara Persiapkan Mekanisme Permodalan Awal Pusat Keuangan RI - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 05:42:14 GMT",
-      "link": "https://nasional.kontan.co.id/news/uu-pfii-sah-danantara-persiapkan-mekanisme-permodalan-awal-pusat-keuangan-ri"
-    },
-    {
-      "title": "KPPU Bongkar Kongkalikong RSUD Bogor Utara, Satu ASN Ditahan - detikcom",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 05:30:25 GMT",
-      "link": "https://www.detik.com/jabar/berita/d-8583044/kppu-bongkar-kongkalikong-rsud-bogor-utara-satu-asn-ditahan"
-    },
-    {
-      "title": "Bos Danantara Buka Suara Soal Alur Investasi di PFII - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 05:20:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/115716/bos-danantara-buka-suara-soal-alur-investasi-di-pfii"
-    },
-    {
-      "title": "RI-Cili percepat optimalisasi IC-CEPA, bidik perdagangan lebih besar - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 04:44:40 GMT",
-      "link": "https://www.antaranews.com/berita/5658287/ri-cili-percepat-optimalisasi-ic-cepa-bidik-perdagangan-lebih-besar"
-    },
-    {
-      "title": "Proyek Kipas Angin Triliunan Mengemuka, Menteri Koperasi Merasa Tak Tahu - GoNews.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 04:05:00 GMT",
-      "link": "https://www.gonews.co/berita/baca/2026/07/21/proyek-kipas-angin-triliunan-mengemuka-menteri-koperasi-merasa-tak-tahu"
-    },
-    {
-      "title": "Andre Rosiade Pastikan Trase Tol Tak Lewati Kubang Putiah, Polemik Diminta Diakhiri - Mimbarsumbar.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 04:04:52 GMT",
-      "link": "https://mimbarsumbar.id/andre-rosiade-pastikan-trase-tol-tak-lewati-kubang-putiah-polemik-diminta-diakhiri/"
-    },
-    {
-      "title": "Di Balik Perampingan BUMN, Ada Pertaruhan Besar Masa Depan Danantara - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 03:59:37 GMT",
-      "link": "https://afu.id/ekonomi/di-balik-perampingan-bumn-ada-pertaruhan-besar-masa-depan-danantara"
-    },
-    {
-      "title": "Anggota DPR Dorong Transformasi BPKS Sabang sebagai Motor Pertumbuhan Ekonomi Kawasan - VIVA.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 03:52:23 GMT",
-      "link": "https://www.viva.co.id/bisnis/1915090-anggota-dpr-dorong-transformasi-bpks-sabang-sebagai-motor-pertumbuhan-ekonomi-kawasan"
-    },
-    {
-      "title": "Kunjungi Korban Kebakaran di Jalan Missol, Faujia Tampubolon Beri Penguatan - Berita Indonesia Timur Terkini - Koreri",
-      "entity": "Faujia Helga",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 03:40:49 GMT",
-      "link": "https://koreri.com/2026/07/21/kunjungi-korban-kebakaran-di-jalan-missol-faujia-tampubolon-beri-penguatan/"
-    },
-    {
-      "title": "Indonesia dan Cili Perkuat Kerja Sama Ekonomi, IC-CEPA Dioptimalkan untuk Dongkrak Perdagangan - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 03:05:13 GMT",
-      "link": "https://suarapemerintah.id/2026/07/indonesia-dan-cili-perkuat-kerja-sama-ekonomi-ic-cepa-dioptimalkan-untuk-dongkrak-perdagangan/"
     }
   ]
 }
