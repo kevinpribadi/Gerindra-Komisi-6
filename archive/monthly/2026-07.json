@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-21T23:55:02.349096",
+  "generated_at": "2026-07-22T02:26:32.814026",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 45,
     "Golkar": 18,
     "NasDem": 14,
@@ -36,8 +36,8 @@
   "topic_counts_30d": {
     "bumn": 62,
     "koperasi": 79,
-    "perdagangan": 14,
-    "danantara": 40,
+    "perdagangan": 13,
+    "danantara": 39,
     "ekspor": 3,
     "investasi": 38,
     "kartel-monopoli": 6,
@@ -96,12 +96,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 30,
+    "Perdagangan": 31,
     "Hukum/Audit": 41,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 02:05:33 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260722/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Legislator PDIP Rieke Diah Pitaloka: RUU Hak Cipta Harus Jadi Benteng Perlindungan Karya Jurnalistik - Edisi - edisi.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 22 Jul 2026 01:50:58 GMT",
+      "link": "https://www.edisi.co.id/berita/9717404629/legislator-pdip-rieke-diah-pitaloka-ruu-hak-cipta-harus-jadi-benteng-perlindungan-karya-jurnalistik"
+    },
+    {
+      "title": "Kemendag Sebut Merchant E-Commerce yang Kantongi NIB Kurang dari 10% - kabarbisnis.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 01:41:00 GMT",
+      "link": "https://kabarbisnis.com/read/28136165/kemendag-sebut-merchant-e-commerce-yang-kantongi-nib-kurang-dari-10-"
+    },
+    {
+      "title": "Pengurus Baru Dekopinwil NTB akan Benahi Tata Kelola dan Citra Koperasi - EkbisNTB.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 01:29:26 GMT",
+      "link": "https://ekbisntb.com/22/07/2026/pengurus-baru-dekopinwil-ntb-akan-benahi-tata-kelola-dan-citra-koperasi/"
+    },
     {
       "title": "Menteri Perdagangan – Bridgestone Indonesia Bahas Peningkatan Ekspor Ban - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
@@ -110,11 +138,32 @@
       "link": "https://www.niaga.asia/menteri-perdagangan-bridgestone-indonesia-bahas-peningkatan-ekspor-ban/"
     },
     {
+      "title": "DPR Sahkan RUU PFII Menjadi UU, Dari Mana Modal Awal PFII? - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 22:30:38 GMT",
+      "link": "https://nasional.kontan.co.id/news/dpr-sahkan-ruu-pfii-menjadi-uu-dari-mana-modal-awal-pfii"
+    },
+    {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 21:10:45 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260722/OTYy"
+    },
+    {
       "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - diskominfotik provinsi lampung",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 16:36:31 GMT",
       "link": "https://diskominfotik.lampungprov.go.id/detail-post/gubernur-lampung-koperasi-merah-putih-jadi-instrumen-hilirisasi-dan-penggerak-ekonomi-desa"
+    },
+    {
+      "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - Gerbang Patriot",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 21 Jul 2026 15:26:02 GMT",
+      "link": "https://gerbangpatriot.com/2026/07/21/gubernur-lampung-koperasi-merah-putih-jadi-instrumen-hilirisasi-dan-penggerak-ekonomi-desa/"
     },
     {
       "title": "Dekopinda Sumenep, Kirim 100 Gerakan Koperasi Hadiri Harkopnas Ke- 79 Tingkat Jatim di Pamekasan - JNN.co.id",
@@ -157,55 +206,6 @@
       "kind": "lembaga",
       "published": "Tue, 21 Jul 2026 13:09:00 GMT",
       "link": "https://web.lintaslampung.com/gubernur-lampung-koperasi-merah-putih-penggerak-ekonomi-desa/"
-    },
-    {
-      "title": "Bupati Madiun Raih Penghargaan Pembina Koperasi Andalan Jawa Timur 2026 dari Menteri Koperasi - Nusantara Abadi News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 12:32:32 GMT",
-      "link": "https://nusantaraabadinews.com/2026/07/21/bupati-madiun-raih-penghargaan-pembina-koperasi-andalan-jawa-timur-2026-dari-menteri-koperasi/"
-    },
-    {
-      "title": "Indonesia dan Cili Optimalkan IC-CEPA untuk Dongkrak Perdagangan dan Investasi - VOI.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 12:22:00 GMT",
-      "link": "https://voi.id/ekonomi/585886/indonesia-dan-cili-optimalkan-ic-cepa-untuk-dongkrak-perdagangan-dan-investasi"
-    },
-    {
-      "title": "Amin Ak: Bursa Mineral Indonesia Harus Jadi Penentu Harga Global, Bukan Sekadar Simbol Kelembagaan - Bela Rakyat",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 12:17:08 GMT",
-      "link": "https://belarakyat.com/amin-ak-bursa-mineral-indonesia-harus-jadi-penentu-harga-global-bukan-sekadar-simbol-kelembagaan/"
-    },
-    {
-      "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 11:54:27 GMT",
-      "link": "https://nasional.tempo.co/read/2114761/golkar-warga-berhak-bentuk-kabinet-bayangan?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 11:54:27 GMT",
-      "link": "https://nasional.tempo.co/read/2114761/golkar-warga-berhak-bentuk-kabinet-bayangan"
-    },
-    {
-      "title": "Golkar: Warga Berhak Bentuk Kabinet Bayangan - Tempo.co",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 21 Jul 2026 11:54:27 GMT",
-      "link": "https://www.tempo.co/politik/golkar-warga-berhak-bentuk-kabinet-bayangan-2277291"
-    },
-    {
-      "title": "Prospek Industri Tempe dan Tahu Masih Cerah, Kemenkop Minta Rantai Pasok Diperkuat - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 11:53:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/21/185300426/prospek-industri-tempe-dan-tahu-masih-cerah-kemenkop-minta-rantai-pasok"
     }
   ]
 }
