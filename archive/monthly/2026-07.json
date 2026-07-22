@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-22T11:07:27.992780",
+  "generated_at": "2026-07-22T13:46:37.460110",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 42,
     "Golkar": 18,
     "NasDem": 13,
     "PKB": 1,
-    "PKS": 18,
+    "PKS": 16,
     "PAN": 2,
     "Demokrat": 12
   },
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
+    "bumn": 63,
     "koperasi": 80,
-    "perdagangan": 15,
+    "perdagangan": 13,
     "danantara": 39,
     "umkm": 12,
     "ekspor": 8,
     "investasi": 39,
     "impor": 7,
-    "kartel-monopoli": 6,
-    "merger-akuisisi": 3,
+    "kartel-monopoli": 4,
     "ipo": 4,
+    "merger-akuisisi": 2,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -95,13 +95,90 @@
     "Faujia Helga": 3
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 17,
     "Perdagangan": 38,
     "Hukum/Audit": 42,
-    "Koperasi/UMKM": 87,
+    "Koperasi/UMKM": 88,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Peta Jalan Restrukturisasi BUMN Dinanti - Warta Bali Online",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:23:51 GMT",
+      "link": "https://wartabalionline.com/2026/07/22/peta-jalan-restrukturisasi-bumn-dinanti/"
+    },
+    {
+      "title": "Soal Pindar, KPPU Didorong Utamakan Tindakan Pencegahan - SINDOnews Ekbis",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:19:45 GMT",
+      "link": "https://ekbis.sindonews.com/read/1731181/178/soal-pindar-kppu-didorong-utamakan-tindakan-pencegahan-1784725668"
+    },
+    {
+      "title": "Perampingan BUMN oleh Danantara Jadi Langkah Rasional Menyelamatkan Aset Negara - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:16:59 GMT",
+      "link": "https://afu.id/ekonomi/perampingan-bumn-oleh-danantara-jadi-langkah-rasional-menyelamatkan-aset-negara"
+    },
+    {
+      "title": "Mendag Minta Restu DPR Sahkan 4 Perjanjian Dagang via Perpres - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/115934/mendag-minta-restu-dpr-sahkan-4-perjanjian-dagang-via-perpres"
+    },
+    {
+      "title": "KPPU: Intervensi Perkara Logistik Beri Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Jadi Tantangan - KaltimKita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:03:50 GMT",
+      "link": "https://kaltimkita.com/detailpost/kppu-intervensi-perkara-logistik-beri-manfaat-rp1-477-triliun-dominasi-algoritma-masih-jadi-tantangan"
+    },
+    {
+      "title": "Pemerintah Matangkan Dua Lokasi Pusat Finansial Internasional di Bali - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:03:20 GMT",
+      "link": "https://achmadnurhidayat.id/pemerintah-matangkan-lokasi-pusat-finansial-bali"
+    },
+    {
+      "title": "Danantara Pangkas BUMN, Nagara Institute-AFU Dorong Transformasi Berbasis Peta Jalan - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 12:47:07 GMT",
+      "link": "https://afu.id/ekonomi/danantara-pangkas-bumn-nagara-instituteafu-dorong-transformasi-berbasis-peta-jalan"
+    },
+    {
+      "title": "Temui Mendag RI, Gubernur Kaltara Usulkan FTZ di Krayan dan Sebatik untuk Perkuat Ekonomi Perbatasan - SUARABORNEO.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 12:30:00 GMT",
+      "link": "https://www.suaraborneo.id/2026/07/temui-mendag-ri-gubernur-kaltara.html"
+    },
+    {
+      "title": "Pemda DIY targetkan sembilan koperasi bertranformasi digital pada 2026 - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 12:09:02 GMT",
+      "link": "https://www.antaranews.com/berita/5661049/pemda-diy-targetkan-sembilan-koperasi-bertranformasi-digital-pada-2026"
+    },
+    {
+      "title": "KPPU: Algoritma Shopee Masih Dominan, Dampak Ekonomi Tembus Rp1,47 Triliun - kanalsatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 11:14:41 GMT",
+      "link": "https://kanalsatu.com/id/post/68600/kppu--algoritma-shopee-masih-dominan--dampak-ekonomi-tembus-rp1-47-triliun"
+    },
+    {
+      "title": "Dolan di Perpustakaan bersama Mendag Budi Santoso - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 11:14:00 GMT",
+      "link": "https://www.kompas.id/artikel/dolan-di-perpus-bersama-menteri-perdagangan-budi-satoso"
+    },
     {
       "title": "Plt Bupati Tulungagung Menerima Penghargaan Pembina Koperasi Andalan Jawa Timur Dari Kementerian Koperasi - Nusantara Abadi News",
       "entity": "Kementerian Koperasi",
@@ -129,83 +206,6 @@
       "kind": "anggota",
       "published": "Wed, 22 Jul 2026 10:06:21 GMT",
       "link": "https://fraksi.pks.id/2026/07/22/rizal-bawazier-dorong-anggaran-revitalisasi-pasar-tradisional-dan-transparansi-program-umkm-ekspor/"
-    },
-    {
-      "title": "Saba Sakola Hadir di SMA PGRI 1 Bandung, Pelajar Dibekali Pemahaman Koperasi yang Benar - Jabarprov",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 10:04:55 GMT",
-      "link": "https://jabarprov.go.id/berita/saba-sakola-hadir-di-sma-pgri-1-bandung-pelajar-dibekali-pemahaman-koperasi-yang-benar-24815"
-    },
-    {
-      "title": "Wamendag Dyah Roro Esti: Komunikasi Strategis Jadi Kunci Perkuat Perdagangan dan Pariwisata RI - Golkarpedia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:35:08 GMT",
-      "link": "https://golkarpedia.com/wamendag-dyah-roro-esti-komunikasi-strategis-jadi-kunci-perkuat-perdagangan-dan-pariwisata-ri/"
-    },
-    {
-      "title": "Menkop Apresiasi Kesuksesan Harkop Jatim 2026 dan Prestasi KDKMP sebagai Penggerak Ekonomi Desa - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:28:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-apresiasi-kesuksesan-harkop-jatim-2026-dan-prestasi-kdkmp-sebagai-penggerak-ekonomi-desa/"
-    },
-    {
-      "title": "Kementerian Koperasi Sewa Jasa Influencer pada 2026, Ini Nilainya - Databoks Katadata",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:26:00 GMT",
-      "link": "https://databoks.katadata.co.id/ekonomi-makro/statistik/6a608a9ad7462/kementerian-koperasi-sewa-jasa-influencer-pada-2026-ini-nilainya"
-    },
-    {
-      "title": "Buka Sosialisasi, Maryono: Tertib Niaga Perkuat Kepercayaan dan Daya Saing Usaha - Pemerintah Kota Tangerang",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:20:00 GMT",
-      "link": "https://www.tangerangkota.go.id/berita/detail/67131/buka-sosialisasi-maryono-tertib-niaga-perkuat-kepercayaan-dan-daya-saing-usaha"
-    },
-    {
-      "title": "Mendag Budi Santoso Dukung Ekspor Ban Nasional, Bridgestone Bidik Perluasan Pasar Global - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:17:51 GMT",
-      "link": "https://suarapemerintah.id/2026/07/mendag-budi-santoso-dukung-ekspor-ban-nasional-bridgestone-bidik-perluasan-pasar-global/"
-    },
-    {
-      "title": "Kemenkop Dorong Rantai Pasok Tempe dan Tahu Diperkuat - republika.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:10:00 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tikjpx423/kemenkop-dorong-rantai-pasok-tempe-dan-tahu-diperkuat"
-    },
-    {
-      "title": "IC-CEPA Masuk Babak Baru, RI dan Cili Genjot Kerja Sama Investasi - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:09:02 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260722/12/1989972/ic-cepa-masuk-babak-baru-ri-dan-cili-genjot-kerja-sama-investasi"
-    },
-    {
-      "title": "Kemendag Perkuat Ekspor Ban Nasional, Bridgestone Dorong Akses Pasar Global - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 09:00:20 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/22/kemendag-perkuat-ekspor-ban-nasional-bridgestone-dorong-akses-pasar-global/"
-    },
-    {
-      "title": "Audiensi dengan Mendag, Bridgestone Keluhkan Sulitnya Bahan Baku - Marketeers",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 08:15:00 GMT",
-      "link": "https://www.marketeers.com/audiensi-dengan-mendag-bridgestone-keluhkan-sulitnya-bahan-baku/"
-    },
-    {
-      "title": "KKS Senyum Raih Juara I Koperasi Berprestasi Tingkat Jawa Timur 2026 - dailyklik.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 07:42:43 GMT",
-      "link": "https://www.dailyklik.id/2026/07/22/kks-senyum-raih-juara-i-koperasi-berprestasi-tingkat-jawa-timur-2026/"
     }
   ]
 }
