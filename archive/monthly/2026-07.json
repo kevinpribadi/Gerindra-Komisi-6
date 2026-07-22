@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-22T02:26:32.814026",
+  "generated_at": "2026-07-22T05:47:41.021088",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 45,
+    "PDI-P": 42,
     "Golkar": 18,
     "NasDem": 14,
     "PKB": 1,
     "PKS": 17,
     "PAN": 2,
-    "Demokrat": 11
+    "Demokrat": 12
   },
   "party_counts_30d": {
-    "Gerindra": 63,
+    "Gerindra": 64,
     "PDI-P": 107,
     "Golkar": 81,
     "NasDem": 42,
     "PKB": 45,
     "PKS": 62,
-    "PAN": 18,
-    "Demokrat": 25
+    "PAN": 17,
+    "Demokrat": 26
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 62,
-    "koperasi": 79,
-    "perdagangan": 13,
+    "koperasi": 80,
+    "perdagangan": 14,
     "danantara": 39,
-    "ekspor": 3,
+    "ekspor": 4,
     "investasi": 38,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 6,
+    "Muhammad Husein Fadlulloh": 7,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
@@ -87,21 +87,105 @@
     "Ghufran": 2,
     "Ismail": 20,
     "Eko Patrio": 9,
-    "Nasril Bahar": 4,
+    "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
     "Sartono": 4,
     "Herman Khaeron": 19,
-    "Faujia Helga": 2
+    "Faujia Helga": 3
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 31,
+    "Perdagangan": 32,
     "Hukum/Audit": 41,
-    "Koperasi/UMKM": 83,
+    "Koperasi/UMKM": 84,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Audiensi Dengan Mendag RI, Gubernur Perjuangkan FTZ Untuk Krayan dan Sebatik - Tabloid JUBIR",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 05:24:49 GMT",
+      "link": "https://www.jurnalisbicara.com/pemerintah/audiensi-dengan-mendag-ri-gubernur-perjuangkan-ftz-untuk-krayan-dan-sebatik/"
+    },
+    {
+      "title": "KUD Sejahtera Muba Jadi Percontohan Nasional, Pabrik CPO Berbasis Koperasi Disiapkan Diresmikan Pemerintah Pusat - rmolsumsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 04:59:00 GMT",
+      "link": "https://www.rmolsumsel.id/kud-sejahtera-muba-jadi-percontohan-nasional-pabrik-cpo-berbasis-koperasi-disiapkan-diresmikan-pemerintah-pusat"
+    },
+    {
+      "title": "Andre Rosiade Dukung Penguatan Koperasi Merah Putih, Tekankan Harus Berdampak Nyata bagi Rakyat - Posmetropadang.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 04:39:21 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-dukung-penguatan-koperasi-merah-putih-tekankan-harus-berdampak-nyata-bagi-rakyat-426284/"
+    },
+    {
+      "title": "Andre Rosiade Dukung Penguatan Koperasi Merah Putih, Tekankan Harus Berdampak Nyata bagi Rakyat - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 22 Jul 2026 04:39:21 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-dukung-penguatan-koperasi-merah-putih-tekankan-harus-berdampak-nyata-bagi-rakyat-426284/"
+    },
+    {
+      "title": "Kemkomdigi dan BUMN Siapkan Jalur Karier bagi Talenta AI Indonesia - Kementerian Komunikasi dan Digital (Komdigi)",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 03:57:19 GMT",
+      "link": "https://www.komdigi.go.id/berita/siaran-pers/detail/kemkomdigi-dan-bumn-siapkan-jalur-karier-bagi-talenta-ai-indonesia"
+    },
+    {
+      "title": "DKUKM Babel Perkuat Tata Kelola Koperasi melalui Bimtek Penilaian Kesehatan Koperasi 2026 - Dinas KUKM Babel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 03:50:47 GMT",
+      "link": "https://kukm.babelprov.go.id/detail-post/dkukm-babel-perkuat-tata-kelola-koperasi-melalui-bimtek-penilaian-kesehatan-koperasi-2026"
+    },
+    {
+      "title": "Bridgestone Indonesia Ekspor ke 70 Negara, Soroti Tantangan Pasokan Karet dan Regulasi UE - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 03:40:00 GMT",
+      "link": "https://www.topbusiness.id/132610/bridgestone-indonesia-ekspor-ke-70-negara-soroti-tantangan-pasokan-karet-dan-regulasi-ue.html"
+    },
+    {
+      "title": "Menkop Tegaskan Penguatan Koperasi Saat Berdialog dengan Penggerak Koperasi di Pamekasan - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 03:28:25 GMT",
+      "link": "https://indoposco.id/2026/07/22/menkop-tegaskan-penguatan-koperasi-saat-berdialog-dengan-penggerak-koperasi-di-pamekasan/"
+    },
+    {
+      "title": "| BKSAP DPR Dorong ASEAN Harmonisasi Regulasi AI dan Keamanan Siber - jurnas.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Wed, 22 Jul 2026 02:53:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1662343/bksap-dpr-dorong-asean-harmonisasi-regulasi-ai-dan-keamanan-siber/"
+    },
+    {
+      "title": "Mulai 1 Agustus, Pelabuhan Talang Duku Terapkan Pemberitahuan Perdagangan Antarpulau - JambiLINK.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 02:41:58 GMT",
+      "link": "https://jambilink.id/post/9437/mulai-1-agustus-pelabuhan-talang-duku-terapkan-pemberitahuan-perdagangan-antarpulau"
+    },
+    {
+      "title": "Perkuat Ukhuwah dan Sinergi, Ketua RTA Sabang Temui Kepala BPKS - Atjeh Watch",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 02:41:44 GMT",
+      "link": "https://atjehwatch.com/2026/07/22/perkuat-ukhuwah-dan-sinergi-ketua-rta-sabang-temui-kepala-bpks/"
+    },
+    {
+      "title": "Soroti Kebutuhan Hunian Korban Kebakaran Jalan Misol, Faujia Dorong Kolaborasi Pemda - Berita Indonesia - Koreri",
+      "entity": "Faujia Helga",
+      "kind": "anggota",
+      "published": "Wed, 22 Jul 2026 02:32:22 GMT",
+      "link": "https://koreri.com/2026/07/22/soroti-kebutuhan-hunian-korban-kebakaran-jalan-misol-faujia-dorong-kolaborasi-pemda/amp/"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -122,90 +206,6 @@
       "kind": "lembaga",
       "published": "Wed, 22 Jul 2026 01:41:00 GMT",
       "link": "https://kabarbisnis.com/read/28136165/kemendag-sebut-merchant-e-commerce-yang-kantongi-nib-kurang-dari-10-"
-    },
-    {
-      "title": "Pengurus Baru Dekopinwil NTB akan Benahi Tata Kelola dan Citra Koperasi - EkbisNTB.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 01:29:26 GMT",
-      "link": "https://ekbisntb.com/22/07/2026/pengurus-baru-dekopinwil-ntb-akan-benahi-tata-kelola-dan-citra-koperasi/"
-    },
-    {
-      "title": "Menteri Perdagangan – Bridgestone Indonesia Bahas Peningkatan Ekspor Ban - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 23:06:52 GMT",
-      "link": "https://www.niaga.asia/menteri-perdagangan-bridgestone-indonesia-bahas-peningkatan-ekspor-ban/"
-    },
-    {
-      "title": "DPR Sahkan RUU PFII Menjadi UU, Dari Mana Modal Awal PFII? - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 22:30:38 GMT",
-      "link": "https://nasional.kontan.co.id/news/dpr-sahkan-ruu-pfii-menjadi-uu-dari-mana-modal-awal-pfii"
-    },
-    {
-      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 21:10:45 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260722/OTYy"
-    },
-    {
-      "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - diskominfotik provinsi lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 16:36:31 GMT",
-      "link": "https://diskominfotik.lampungprov.go.id/detail-post/gubernur-lampung-koperasi-merah-putih-jadi-instrumen-hilirisasi-dan-penggerak-ekonomi-desa"
-    },
-    {
-      "title": "Gubernur Lampung: Koperasi Merah Putih Jadi Instrumen Hilirisasi dan Penggerak Ekonomi Desa - Gerbang Patriot",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 15:26:02 GMT",
-      "link": "https://gerbangpatriot.com/2026/07/21/gubernur-lampung-koperasi-merah-putih-jadi-instrumen-hilirisasi-dan-penggerak-ekonomi-desa/"
-    },
-    {
-      "title": "Dekopinda Sumenep, Kirim 100 Gerakan Koperasi Hadiri Harkopnas Ke- 79 Tingkat Jatim di Pamekasan - JNN.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 15:16:04 GMT",
-      "link": "https://jnn.co.id/2026/07/21/dekopinda-sumenep-kirim-100-gerakan-koperasi-hadiri-harkopnas-ke-79-tingkat-jatim-di-pamekasan/"
-    },
-    {
-      "title": "Menkop Apresiasi Puncak Peringatan Harkop dan Capaian KDKMP di Jatim - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 14:31:27 GMT",
-      "link": "https://indoposco.id/2026/07/21/menkop-apresiasi-puncak-peringatan-harkop-dan-capaian-kdkmp-di-jatim/"
-    },
-    {
-      "title": "Kemenkop sebut koperasi harus jadi penghubung petani hingga konsumen - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 13:37:54 GMT",
-      "link": "https://jogja.antaranews.com/berita/843319/kemenkop-sebut-koperasi-harus-jadi-penghubung-petani-hingga-konsumen"
-    },
-    {
-      "title": "Danantara Perkuat Fondasi Nasional Lewat Konsolidasi dan Reformasi BUMN. - Kompasiana.com - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 13:36:10 GMT",
-      "link": "https://www.kompasiana.com/amp/wilsonabraham1309/6a5f75caed6415350063a4b3/danantara-perkuat-fondasi-nasional-lewat-konsolidasi-dan-reformasi-bumn"
-    },
-    {
-      "title": "Danantara Perkuat Fondasi Nasional Lewat Konsolidasi dan Reformasi BUMN. Halaman 1 - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 13:36:10 GMT",
-      "link": "https://www.kompasiana.com/wilsonabraham1309/6a5f75caed6415350063a4b3/danantara-perkuat-fondasi-nasional-lewat-konsolidasi-dan-reformasi-bumn"
-    },
-    {
-      "title": "Gubernur Lampung: Koperasi Merah Putih Penggerak Ekonomi Desa - Lintas Lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 21 Jul 2026 13:09:00 GMT",
-      "link": "https://web.lintaslampung.com/gubernur-lampung-koperasi-merah-putih-penggerak-ekonomi-desa/"
     }
   ]
 }
