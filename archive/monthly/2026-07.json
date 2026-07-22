@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-22T13:46:37.460110",
+  "generated_at": "2026-07-22T15:39:06.153405",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 42,
     "Golkar": 18,
     "NasDem": 13,
     "PKB": 1,
-    "PKS": 16,
+    "PKS": 14,
     "PAN": 2,
     "Demokrat": 12
   },
@@ -15,7 +15,7 @@
     "Gerindra": 64,
     "PDI-P": 106,
     "Golkar": 78,
-    "NasDem": 41,
+    "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
     "PAN": 16,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
-    "koperasi": 80,
-    "perdagangan": 13,
+    "bumn": 64,
+    "koperasi": 82,
+    "perdagangan": 12,
     "danantara": 39,
-    "umkm": 12,
-    "ekspor": 8,
+    "umkm": 13,
+    "ekspor": 9,
     "investasi": 39,
     "impor": 7,
     "kartel-monopoli": 4,
@@ -76,7 +76,7 @@
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 7,
+    "Subardi": 8,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
@@ -98,10 +98,24 @@
     "Kinerja BUMN": 17,
     "Perdagangan": 38,
     "Hukum/Audit": 42,
-    "Koperasi/UMKM": 88,
+    "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Wagub Aceh Bersama Komisi VI DPR RI Desak BUMN Karya Tuntaskan Kendala Rehabilitasi Huntara » - dialeksis.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 22 Jul 2026 14:59:56 GMT",
+      "link": "https://dialeksis.com/pemerintahan/wagub-aceh-bersama-komisi-vi-dpr-ri-desak-bumn-karya-tuntaskan-kendala-rehabilitasi-huntara/"
+    },
+    {
+      "title": "KPPU Rilis Kajian Dampak Perkara Logistik: Ekosistem Memperoleh Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Menjadi Tantan - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 14:24:00 GMT",
+      "link": "http://www.kabarbisnis.com/read/28136181/kppu-rilis-kajian-dampak-perkara-logistik-ekosistem-memperoleh-manfaat-rp1-477-triliun-dominasi-algoritma-masih-menjadi-tantan"
+    },
     {
       "title": "Peta Jalan Restrukturisasi BUMN Dinanti - Warta Bali Online",
       "entity": "Danantara",
@@ -145,6 +159,13 @@
       "link": "https://achmadnurhidayat.id/pemerintah-matangkan-lokasi-pusat-finansial-bali"
     },
     {
+      "title": "Menkop ajak pelaku UMKM bergabung ke koperasi - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 13:02:33 GMT",
+      "link": "https://jatim.antaranews.com/berita/1084021/menkop-ajak-pelaku-umkm-bergabung-ke-koperasi"
+    },
+    {
       "title": "Danantara Pangkas BUMN, Nagara Institute-AFU Dorong Transformasi Berbasis Peta Jalan - AFU.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -180,32 +201,11 @@
       "link": "https://www.kompas.id/artikel/dolan-di-perpus-bersama-menteri-perdagangan-budi-satoso"
     },
     {
-      "title": "Plt Bupati Tulungagung Menerima Penghargaan Pembina Koperasi Andalan Jawa Timur Dari Kementerian Koperasi - Nusantara Abadi News",
-      "entity": "Kementerian Koperasi",
+      "title": "Asosiasi Koperasi Desa-Kelurahan Merah Putih (AKDKMP) Kabupaten Banyuwangi Resmi Dikukuhkan - BWI24JAM",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 10:33:29 GMT",
-      "link": "https://nusantaraabadinews.com/2026/07/22/plt-bupati-tulungagung-menerima-penghargaan-pembina-koperasi-andalan-jawa-timur-dari-kementerian-koperasi/"
-    },
-    {
-      "title": "Andre Rosiade: Empat Perjanjian Dagang Baru Perkuat Posisi Indonesia di Pasar Internasional - Gerindra",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 10:20:01 GMT",
-      "link": "https://gerindra.id/2026/07/22/andre-rosiade-empat-perjanjian-dagang-baru-perkuat-posisi-indonesia-di-pasar-internasional/"
-    },
-    {
-      "title": "Rizal Bawazier Dorong Anggaran Revitalisasi Pasar Tradisional dan Transparansi Program UMKM Ekspor - Fraksi PKS",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 10:06:21 GMT",
-      "link": "https://fraksi.pks.id/2026/07/22/rizal-bawazier-dorong-anggaran-revitalisasi-pasar-tradisional-dan-transparansi-program-umkm-ekspor/"
-    },
-    {
-      "title": "Rizal Bawazier Dorong Anggaran Revitalisasi Pasar Tradisional dan Transparansi Program UMKM Ekspor - Fraksi PKS",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 10:06:21 GMT",
-      "link": "https://fraksi.pks.id/2026/07/22/rizal-bawazier-dorong-anggaran-revitalisasi-pasar-tradisional-dan-transparansi-program-umkm-ekspor/"
+      "published": "Wed, 22 Jul 2026 11:10:50 GMT",
+      "link": "https://bwi24jam.co.id/asosiasi-koperasi-desakelurahan-merah-putih-akdkmp-kabupaten-banyuwangi-resmi-dikukuhkan"
     }
   ]
 }
