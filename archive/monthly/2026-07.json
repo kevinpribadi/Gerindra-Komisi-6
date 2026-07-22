@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-22T05:47:41.021088",
+  "generated_at": "2026-07-22T08:24:36.710998",
   "party_counts_7d": {
-    "Gerindra": 17,
+    "Gerindra": 15,
     "PDI-P": 42,
     "Golkar": 18,
-    "NasDem": 14,
+    "NasDem": 13,
     "PKB": 1,
     "PKS": 17,
     "PAN": 2,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 107,
-    "Golkar": 81,
-    "NasDem": 42,
-    "PKB": 45,
+    "PDI-P": 106,
+    "Golkar": 78,
+    "NasDem": 41,
+    "PKB": 44,
     "PKS": 62,
     "PAN": 17,
-    "Demokrat": 26
+    "Demokrat": 25
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -36,15 +36,15 @@
   "topic_counts_30d": {
     "bumn": 62,
     "koperasi": 80,
-    "perdagangan": 14,
-    "danantara": 39,
-    "ekspor": 4,
+    "perdagangan": 16,
+    "danantara": 38,
+    "ekspor": 3,
     "investasi": 38,
+    "impor": 7,
+    "umkm": 10,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
-    "umkm": 9,
     "ipo": 4,
-    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -59,25 +59,25 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 3,
+    "Sadarestuwati": 2,
     "Ida Nurlaela": 16,
     "Budi Sulistyono": 4,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 17,
+    "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 10,
+    "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 5,
+    "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 7,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
     "Ida Fauziyah": 1,
@@ -90,18 +90,46 @@
     "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 4,
-    "Sartono": 4,
+    "Sartono": 3,
     "Herman Khaeron": 19,
     "Faujia Helga": 3
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Hukum/Audit": 41,
-    "Koperasi/UMKM": 84,
+    "Koperasi/UMKM": 85,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Audiensi dengan Mendag, Bridgestone Keluhkan Sulitnya Bahan Baku - Marketeers",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 08:15:00 GMT",
+      "link": "https://www.marketeers.com/audiensi-dengan-mendag-bridgestone-keluhkan-sulitnya-bahan-baku/"
+    },
+    {
+      "title": "Wamendag Roro: Komunikasi Strategis tak Terpisahkan dari Kemitraan Perdagangan Global - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 06:12:00 GMT",
+      "link": "https://www.topbusiness.id/132627/wamendag-roro-komunikasi-strategis-tak-terpisahkan-dari-kemitraan-perdagangan-global.html"
+    },
+    {
+      "title": "Pemkot Tangerang Bekali Pelaku Usaha Pahami Regulasi Perdagangan Barang dan Jasa - Pemerintah Kota Tangerang",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 06:05:00 GMT",
+      "link": "https://www.tangerangkota.go.id/berita/detail/67107/pemkot-tangerang-bekali-pelaku-usaha-pahami-regulasi-perdagangan-barang-dan-jasa"
+    },
+    {
+      "title": "Kementerian Koperasi perkuat rantai pasok kedelai impor - ANTARA Foto",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 05:36:00 GMT",
+      "link": "https://www.antarafoto.com/id/amp/view/2825844/kementerian-koperasi-perkuat-rantai-pasok-kedelai-impor"
+    },
     {
       "title": "Audiensi Dengan Mendag RI, Gubernur Perjuangkan FTZ Untuk Krayan dan Sebatik - Tabloid JUBIR",
       "entity": "Kementerian Perdagangan",
@@ -115,6 +143,13 @@
       "kind": "lembaga",
       "published": "Wed, 22 Jul 2026 04:59:00 GMT",
       "link": "https://www.rmolsumsel.id/kud-sejahtera-muba-jadi-percontohan-nasional-pabrik-cpo-berbasis-koperasi-disiapkan-diresmikan-pemerintah-pusat"
+    },
+    {
+      "title": "Plt Bupati Tulungagung Boyong Penghargaan Bergengsi, Menteri Koperasi: Layak Jadi Contoh Daerah Lain - memorandum.disway.id - Memorandum.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 04:45:00 GMT",
+      "link": "https://memorandum.disway.id/tulungagung/read/164547/plt-bupati-tulungagung-boyong-penghargaan-bergengsi-menteri-koperasi-layak-jadi-contoh-daerah-lain"
     },
     {
       "title": "Andre Rosiade Dukung Penguatan Koperasi Merah Putih, Tekankan Harus Berdampak Nyata bagi Rakyat - Posmetropadang.co.id",
@@ -152,6 +187,13 @@
       "link": "https://www.topbusiness.id/132610/bridgestone-indonesia-ekspor-ke-70-negara-soroti-tantangan-pasokan-karet-dan-regulasi-ue.html"
     },
     {
+      "title": "Menkop Ajak UMKM Masuk Koperasi, LPDB Siap Beri Pembiayaan - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 03:36:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/07/22/715479/menkop-ajak-umkm-masuk-koperasi-lpdb-siap-beri-pembiayaan"
+    },
+    {
       "title": "Menkop Tegaskan Penguatan Koperasi Saat Berdialog dengan Penggerak Koperasi di Pamekasan - indoposco.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -164,48 +206,6 @@
       "kind": "anggota",
       "published": "Wed, 22 Jul 2026 02:53:00 GMT",
       "link": "https://www.jurnas.com/artikel/1662343/bksap-dpr-dorong-asean-harmonisasi-regulasi-ai-dan-keamanan-siber/"
-    },
-    {
-      "title": "Mulai 1 Agustus, Pelabuhan Talang Duku Terapkan Pemberitahuan Perdagangan Antarpulau - JambiLINK.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 02:41:58 GMT",
-      "link": "https://jambilink.id/post/9437/mulai-1-agustus-pelabuhan-talang-duku-terapkan-pemberitahuan-perdagangan-antarpulau"
-    },
-    {
-      "title": "Perkuat Ukhuwah dan Sinergi, Ketua RTA Sabang Temui Kepala BPKS - Atjeh Watch",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 02:41:44 GMT",
-      "link": "https://atjehwatch.com/2026/07/22/perkuat-ukhuwah-dan-sinergi-ketua-rta-sabang-temui-kepala-bpks/"
-    },
-    {
-      "title": "Soroti Kebutuhan Hunian Korban Kebakaran Jalan Misol, Faujia Dorong Kolaborasi Pemda - Berita Indonesia - Koreri",
-      "entity": "Faujia Helga",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 02:32:22 GMT",
-      "link": "https://koreri.com/2026/07/22/soroti-kebutuhan-hunian-korban-kebakaran-jalan-misol-faujia-dorong-kolaborasi-pemda/amp/"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 02:05:33 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260722/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Legislator PDIP Rieke Diah Pitaloka: RUU Hak Cipta Harus Jadi Benteng Perlindungan Karya Jurnalistik - Edisi - edisi.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 01:50:58 GMT",
-      "link": "https://www.edisi.co.id/berita/9717404629/legislator-pdip-rieke-diah-pitaloka-ruu-hak-cipta-harus-jadi-benteng-perlindungan-karya-jurnalistik"
-    },
-    {
-      "title": "Kemendag Sebut Merchant E-Commerce yang Kantongi NIB Kurang dari 10% - kabarbisnis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 01:41:00 GMT",
-      "link": "https://kabarbisnis.com/read/28136165/kemendag-sebut-merchant-e-commerce-yang-kantongi-nib-kurang-dari-10-"
     }
   ]
 }
