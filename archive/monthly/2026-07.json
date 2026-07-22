@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-22T15:39:06.153405",
+  "generated_at": "2026-07-22T17:15:47.781791",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 42,
@@ -8,7 +8,7 @@
     "NasDem": 13,
     "PKB": 1,
     "PKS": 14,
-    "PAN": 2,
+    "PAN": 3,
     "Demokrat": 12
   },
   "party_counts_30d": {
@@ -18,7 +18,7 @@
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
-    "PAN": 16,
+    "PAN": 17,
     "Demokrat": 25
   },
   "agency_counts_30d": {
@@ -42,7 +42,7 @@
     "ekspor": 9,
     "investasi": 39,
     "impor": 7,
-    "kartel-monopoli": 4,
+    "kartel-monopoli": 3,
     "ipo": 4,
     "merger-akuisisi": 2,
     "dividen": 2
@@ -89,7 +89,7 @@
     "Eko Patrio": 9,
     "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 3,
+    "Iskandar": 4,
     "Sartono": 3,
     "Herman Khaeron": 19,
     "Faujia Helga": 3
@@ -98,16 +98,51 @@
     "Kinerja BUMN": 17,
     "Perdagangan": 38,
     "Hukum/Audit": 42,
-    "Koperasi/UMKM": 90,
+    "Koperasi/UMKM": 91,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Danantara Buka Peluang Pembiayaan Proyek Sampah Jadi Listrik - Harianjogja.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 17:07:02 GMT",
+      "link": "https://news.harianjogja.com/r-1264506/danantara-buka-peluang-pembiayaan-proyek-sampah-jadi-listrik"
+    },
+    {
+      "title": "Turkiye dan Suriah targetkan perdagangan bilateral USD10 miliar - Anadolu Ajansı",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 17:01:16 GMT",
+      "link": "https://www.aa.com.tr/id/ekonomi/turkiye-dan-suriah-targetkan-perdagangan-bilateral-usd10-miliar/4006122"
+    },
+    {
+      "title": "AAKLESIA Temui Irjen Kemendag, Dorong Regulasi Logistik dan E-Commerce Lebih Adaptif - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 15:45:45 GMT",
+      "link": "https://indoposco.id/2026/07/22/aaklesia-temui-irjen-kemendag-dorong-regulasi-logistik-dan-e-commerce-lebih-adaptif/"
+    },
     {
       "title": "Wagub Aceh Bersama Komisi VI DPR RI Desak BUMN Karya Tuntaskan Kendala Rehabilitasi Huntara » - dialeksis.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Wed, 22 Jul 2026 14:59:56 GMT",
       "link": "https://dialeksis.com/pemerintahan/wagub-aceh-bersama-komisi-vi-dpr-ri-desak-bumn-karya-tuntaskan-kendala-rehabilitasi-huntara/"
+    },
+    {
+      "title": "Kemenkop melalui LPDB siap memberikan pendampingan dan skema pembiayaan bagi koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 14:30:31 GMT",
+      "link": "https://elshinta.com/kategori/1/pembangunan/kemenkop-melalui-lpdb-siap-memberikan-pendampingan-dan-skema-pembiayaan-bagi-koperasi-171122"
+    },
+    {
+      "title": "KPPU Rilis Kajian Dampak Perkara Logistik: Ekosistem Memperoleh Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Menjadi Tantan - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 22 Jul 2026 14:24:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136181/kppu-rilis-kajian-dampak-perkara-logistik-ekosistem-memperoleh-manfaat-rp1-477-triliun-dominasi-algoritma-masih-menjadi-tantan"
     },
     {
       "title": "KPPU Rilis Kajian Dampak Perkara Logistik: Ekosistem Memperoleh Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Menjadi Tantan - kabarbisnis.com",
@@ -171,41 +206,6 @@
       "kind": "lembaga",
       "published": "Wed, 22 Jul 2026 12:47:07 GMT",
       "link": "https://afu.id/ekonomi/danantara-pangkas-bumn-nagara-instituteafu-dorong-transformasi-berbasis-peta-jalan"
-    },
-    {
-      "title": "Temui Mendag RI, Gubernur Kaltara Usulkan FTZ di Krayan dan Sebatik untuk Perkuat Ekonomi Perbatasan - SUARABORNEO.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 12:30:00 GMT",
-      "link": "https://www.suaraborneo.id/2026/07/temui-mendag-ri-gubernur-kaltara.html"
-    },
-    {
-      "title": "Pemda DIY targetkan sembilan koperasi bertranformasi digital pada 2026 - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 12:09:02 GMT",
-      "link": "https://www.antaranews.com/berita/5661049/pemda-diy-targetkan-sembilan-koperasi-bertranformasi-digital-pada-2026"
-    },
-    {
-      "title": "KPPU: Algoritma Shopee Masih Dominan, Dampak Ekonomi Tembus Rp1,47 Triliun - kanalsatu.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 11:14:41 GMT",
-      "link": "https://kanalsatu.com/id/post/68600/kppu--algoritma-shopee-masih-dominan--dampak-ekonomi-tembus-rp1-47-triliun"
-    },
-    {
-      "title": "Dolan di Perpustakaan bersama Mendag Budi Santoso - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 11:14:00 GMT",
-      "link": "https://www.kompas.id/artikel/dolan-di-perpus-bersama-menteri-perdagangan-budi-satoso"
-    },
-    {
-      "title": "Asosiasi Koperasi Desa-Kelurahan Merah Putih (AKDKMP) Kabupaten Banyuwangi Resmi Dikukuhkan - BWI24JAM",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 11:10:50 GMT",
-      "link": "https://bwi24jam.co.id/asosiasi-koperasi-desakelurahan-merah-putih-akdkmp-kabupaten-banyuwangi-resmi-dikukuhkan"
     }
   ]
 }
