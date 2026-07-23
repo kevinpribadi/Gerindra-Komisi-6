@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T12:23:04.040243",
+  "generated_at": "2026-07-23T15:07:16.258439",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 36,
+    "Gerindra": 18,
+    "PDI-P": 31,
     "Golkar": 19,
     "NasDem": 15,
     "PKB": 1,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
-    "danantara": 42,
+    "bumn": 69,
+    "danantara": 43,
     "koperasi": 81,
     "perdagangan": 13,
     "umkm": 13,
@@ -43,7 +43,7 @@
     "investasi": 40,
     "impor": 7,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 1,
+    "kartel-monopoli": 3,
     "ipo": 3,
     "dividen": 2
   },
@@ -94,13 +94,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
-    "Perdagangan": 34,
-    "Hukum/Audit": 42,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 33,
+    "Hukum/Audit": 43,
     "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Penyelidikan KPPU terkait Monopoli Digital Memasuki Tahap Akhir - investor.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 14:46:00 GMT",
+      "link": "https://investor.id/national/447683/penyelidikan-kppu-terkait-monopoli-digital-memasuki-tahap-akhir"
+    },
+    {
+      "title": "BP BUMN-InJourney perkuat daya saing industri perhotelan nasional - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 13:45:42 GMT",
+      "link": "https://www.antaranews.com/berita/5663179/bp-bumninjourney-perkuat-daya-saing-industri-perhotelan-nasional"
+    },
+    {
+      "title": "Lembaga Wali Nanggroe Identifikasi Persoalan Pengembangan Kawasan Bebas Sabang - theacehpost.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 13:42:12 GMT",
+      "link": "https://theacehpost.com/news/lembaga-wali-nanggroe-identifikasi-persoalan-pengembangan-kawasan-bebas-sabang/amp.html"
+    },
+    {
+      "title": "BPI Danantara Memangkas Jumlah BUMN Menjadi 200 Perusahaan - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 13:18:24 GMT",
+      "link": "https://achmadnurhidayat.id/bpi-danantara-mangkas-jumlah-bumn"
+    },
+    {
+      "title": "Dugaan Monopoli TikTok Shop Bakal Disidangkan, APLE Sebut Potensi Kerugian Rp1.750 Triliun - Warta Ekonomi",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 13:02:00 GMT",
+      "link": "https://wartaekonomi.co.id/read624373/dugaan-monopoli-tiktok-shop-bakal-disidangkan-aple-sebut-potensi-kerugian-rp1750-triliun"
+    },
+    {
+      "title": "KPPU Rampungkan Tahap Akhir Penyelidikan Dugaan Monopoli TikTok - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 12:31:19 GMT",
+      "link": "https://nasional.kontan.co.id/news/kppu-rampungkan-tahap-akhir-penyelidikan-dugaan-monopoli-tiktok"
+    },
     {
       "title": "Perampingan BUMN oleh Danantara Langkah Rasional Selamatkan Aset Negara - RM.ID",
       "entity": "Danantara",
@@ -163,48 +205,6 @@
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 09:33:00 GMT",
       "link": "https://www.rmolsumsel.id/peresmian-pabrik-cpo-kud-sejahtera-di-muba-bakal-dihadiri-presiden-menteri-koperasi-pastikan-hadir"
-    },
-    {
-      "title": "China Minta Masukan Soal Pemangkasan Tarif dengan AS, Bidik Perdagangan US$ 30 Miliar - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 09:25:56 GMT",
-      "link": "https://internasional.kontan.co.id/news/china-minta-masukan-soal-pemangkasan-tarif-dengan-as-bidik-perdagangan-us-30-miliar"
-    },
-    {
-      "title": "Tinjau Huntara Aceh Tamiang dan Jalan Tol Binsa, Komisi VI DPR RI: Percepat Pemulihan Pascabencana dan Bangun Koridor Strategis - BicaraIndonesia.net",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 09:24:00 GMT",
-      "link": "https://www.bicaraindonesia.net/tinjau-huntara-aceh-tamiang-dan-jalan-tol-binsa-komisi-vi-dpr-ri-percepat-pemulihan-pascabencana-dan-bangun-koridor-strategis/"
-    },
-    {
-      "title": "Kemendag Dorong Pengesahan 4 Perpres Perjanjian Perdagangan Global - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:45:00 GMT",
-      "link": "https://swa.co.id/read/475229/kemendag-dorong-pengesahan-4-perpres-perjanjian-perdagangan-global"
-    },
-    {
-      "title": "Audiensi AAKLESIA dke Kementerian Perdagangan: Ekosistem Bisnis Logistik dan E-Commerce yang Sehat - Kompasiana.com - Kompasiana.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:26:16 GMT",
-      "link": "https://www.kompasiana.com/chozin/6a61ce6ac925c4523a468af2/audiensi-aaklesia-dke-kementerian-perdagangan-ekosistem-bisnis-logistik-dan-e-commerce-yang-sehat"
-    },
-    {
-      "title": "Inilah Raperda yang Disiapkan DPRD Kabupaten Malang untuk Melindungi Koperasi - Radar Malang",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:22:45 GMT",
-      "link": "https://radarmalang.jawapos.com/ekonomi-bisnis/2607230035/inilah-raperda-yang-disiapkan-dprd-kabupaten-malang-untuk-melindungi-koperasi"
-    },
-    {
-      "title": "Salatiga Jadi Tuan Rumah RAT Gakoptindo XIV, Bahas Penguatan Koperasi dan Efisiensi Produksi - Pemerintah Kota Salatiga",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:15:24 GMT",
-      "link": "https://salatiga.go.id/salatiga-jadi-tuan-rumah-rat-gakoptindo-xiv-bahas-penguatan-koperasi-dan-efisiensi-produksi/"
     }
   ]
 }
