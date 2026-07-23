@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T10:20:18.624978",
+  "generated_at": "2026-07-23T12:23:04.040243",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 36,
     "Golkar": 19,
-    "NasDem": 14,
+    "NasDem": 15,
     "PKB": 1,
-    "PKS": 12,
+    "PKS": 11,
     "PAN": 3,
     "Demokrat": 10
   },
@@ -15,7 +15,7 @@
     "Gerindra": 65,
     "PDI-P": 102,
     "Golkar": 80,
-    "NasDem": 42,
+    "NasDem": 43,
     "PKB": 44,
     "PKS": 62,
     "PAN": 17,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
-    "danantara": 41,
+    "bumn": 68,
+    "danantara": 42,
     "koperasi": 81,
     "perdagangan": 13,
     "umkm": 13,
-    "ekspor": 6,
-    "investasi": 39,
+    "ekspor": 5,
+    "investasi": 40,
     "impor": 7,
-    "merger-akuisisi": 3,
+    "merger-akuisisi": 4,
     "kartel-monopoli": 1,
     "ipo": 3,
     "dividen": 2
@@ -75,7 +75,7 @@
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 8,
+    "Subardi": 9,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
@@ -94,13 +94,62 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
-    "Perdagangan": 35,
-    "Hukum/Audit": 41,
+    "Kinerja BUMN": 17,
+    "Perdagangan": 34,
+    "Hukum/Audit": 42,
     "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Perampingan BUMN oleh Danantara Langkah Rasional Selamatkan Aset Negara - RM.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 11:34:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/318818/perampingan-bumn-oleh-danantara-langkah-rasional-selamatkan-aset-negara"
+    },
+    {
+      "title": "Rosan Respons Rating Moody's Baa2 buat Obligasi Danantara - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 11:30:39 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8587431/rosan-respons-rating-moodys-baa2-buat-obligasi-danantara"
+    },
+    {
+      "title": "Danantara Pangkas Ribuan BUMN Jadi 200-300 Entitas, Langkah Rasional Selamatkan Aset Negara - SINDOnews Ekbis",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 11:23:46 GMT",
+      "link": "https://ekbis.sindonews.com/read/1731535/34/danantara-pangkas-ribuan-bumn-jadi-200-300-entitas-langkah-rasional-selamatkan-aset-negara-1784804838"
+    },
+    {
+      "title": "BUMN Punya Hotel dan Apartemen Disorot, Masih Relevankah untuk Negara? - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 11:10:15 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/23/181015/bumn-punya-hotel-dan-apartemen-disorot-masih-relevankah-untuk-negara"
+    },
+    {
+      "title": "Darurat Kasus TPPO dan Kekerasan, Rieke Desak Penguatan SDM LPSK hingga Tingkat Daerah - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 10:47:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darurat-kasus-tppo-dan-kekerasan-rieke-desak-penguatan-sdm-lpsk-hingga-tingkat-daerah-b2pXaZbgDl"
+    },
+    {
+      "title": "Danantara Mulai Merger 4 Manajer Investasi BUMN - Tempo.co",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 10:40:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-mulai-merger-4-manajer-investasi-bumn-2277783"
+    },
+    {
+      "title": "Tinjau Huntara Aceh Tamiang, Subardi Nilai Fasilitas Pengungsi Lebih Layak - DPR RI",
+      "entity": "Subardi",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 10:15:35 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Tinjau-Huntara-Aceh-Tamiang-Subardi-Nilai-Fasilitas-Pengungsi-Lebih-Layak-67576"
+    },
     {
       "title": "Bupati Karo Bertemu Menteri Koperasi, Perkuat UMKM dan Koperasi Modern - Mattanews.co",
       "entity": "Kementerian Koperasi",
@@ -151,60 +200,11 @@
       "link": "https://radarmalang.jawapos.com/ekonomi-bisnis/2607230035/inilah-raperda-yang-disiapkan-dprd-kabupaten-malang-untuk-melindungi-koperasi"
     },
     {
-      "title": "Peresmian Pabrik CPO di Muba Berpotensi Dihadiri Presiden, Menteri Koperasi Pastikan Hadir - palpres.disway.id - PALPRES.COM",
+      "title": "Salatiga Jadi Tuan Rumah RAT Gakoptindo XIV, Bahas Penguatan Koperasi dan Efisiensi Produksi - Pemerintah Kota Salatiga",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:06:00 GMT",
-      "link": "https://palpres.disway.id/musi-banyuasin/read/775721/peresmian-pabrik-cpo-di-muba-berpotensi-dihadiri-presiden-menteri-koperasi-pastikan-hadir"
-    },
-    {
-      "title": "Danantara Asset Management Akuisisi Saham PNM IM dan BRI Manajemen Investasi, Ini Tujuannya - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 08:00:00 GMT",
-      "link": "https://swa.co.id/read/475230/danantara-asset-management-akuisisi-saham-pnm-im-dan-bri-manajemen-investasi-ini-tujuannya"
-    },
-    {
-      "title": "Pemekaran OPD atau Beban Baru, DPR Minta Hitungan Fiskal Jelas - Teraspapua.com",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 07:33:58 GMT",
-      "link": "https://teraspapua.com/2026/07/23/pemekaran-opd-atau-beban-baru-dpr-minta-hitungan-fiskal-jelas/"
-    },
-    {
-      "title": "Legislator Bali usul rute Tol Gilimanuk-Mengwi diubah lewati utara - ANTARA News Bali",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 07:30:38 GMT",
-      "link": "https://bali.antaranews.com/berita/410143/legislator-bali-usul-rute-tol-gilimanuk-mengwi-diubah-lewati-utara"
-    },
-    {
-      "title": "Danantara Rampingkan BUMN: Langkah Rasional untuk Selamatkan Aset Negara - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 07:30:00 GMT",
-      "link": "https://www.inilah.com/danantara-rampingkan-bumn-langkah-rasional-untuk-selamatkan-aset-negara"
-    },
-    {
-      "title": "Ismail Bepa: Perlindungan Pedagang Papua Sudah Diatur dalam Perda, Implementasi Perlu Diperkuat - Teraspapua.com",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 07:18:52 GMT",
-      "link": "https://teraspapua.com/2026/07/23/ismail-bepa-perlindungan-pedagang-papua-sudah-diatur-dalam-perda-implementasi-perlu-diperkuat/"
-    },
-    {
-      "title": "Danantara Caplok 4 Manajer Investasi BUMN, Kelola Dana Rp170 T - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 07:18:00 GMT",
-      "link": "https://tirto.id/danantara-caplok-4-manajer-investasi-bumn-kelola-dana-rp170-t-hz9S"
-    },
-    {
-      "title": "Perampingan BUMN Jadi Langkah Rasional Perkuat Kinerja dan Fokus Bisnis - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 06:26:09 GMT",
-      "link": "https://nasional.kontan.co.id/news/perampingan-bumn-jadi-langkah-rasional-perkuat-kinerja-dan-fokus-bisnis"
+      "published": "Thu, 23 Jul 2026 08:15:24 GMT",
+      "link": "https://salatiga.go.id/salatiga-jadi-tuan-rumah-rat-gakoptindo-xiv-bahas-penguatan-koperasi-dan-efisiensi-produksi/"
     }
   ]
 }
