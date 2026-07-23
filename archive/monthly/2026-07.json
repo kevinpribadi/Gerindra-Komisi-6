@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T17:19:30.532724",
+  "generated_at": "2026-07-23T19:12:52.286593",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 30,
     "Golkar": 19,
-    "NasDem": 14,
+    "NasDem": 15,
     "PKB": 1,
     "PKS": 11,
     "PAN": 3,
@@ -35,9 +35,9 @@
   },
   "topic_counts_30d": {
     "bumn": 70,
-    "danantara": 42,
+    "danantara": 41,
     "koperasi": 82,
-    "perdagangan": 13,
+    "perdagangan": 12,
     "umkm": 13,
     "ekspor": 5,
     "investasi": 40,
@@ -102,6 +102,27 @@
   },
   "top_headlines": [
     {
+      "title": "Evaluasi KPPU Ungkap Manfaat Ekonomi Rp1,477 Triliun, Algoritma Platform Masih Jadi Tantangan - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 18:08:28 GMT",
+      "link": "https://telusur.co.id/detail/evaluasi-kppu-ungkap-manfaat-ekonomi-rp1477-triliun-algoritma-platform-masih-jadi-tantangan"
+    },
+    {
+      "title": "Penyerahan Santunan oleh PT Taspen dan Bank Mandiri Taspen kepada Ahli Waris Almarhum Rachmat Gobel - Koran Jakarta ®",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 18:00:00 GMT",
+      "link": "https://koran-jakarta.com/2026-07-24/penyerahan-santunan-oleh-pt-taspen-dan-bank-mandiri-taspen-kepada-ahli-waris-almarhum-rachmat-gobel"
+    },
+    {
+      "title": "Airlangga: Jakarta dan Bali disiapkan untuk lokasi PFII - ANTARA News Jambi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 17:19:22 GMT",
+      "link": "https://jambi.antaranews.com/video/5663343/airlangga-jakarta-dan-bali-disiapkan-untuk-lokasi-pfii"
+    },
+    {
       "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -114,6 +135,20 @@
       "kind": "anggota",
       "published": "Thu, 23 Jul 2026 17:00:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-soroti-rencana-pemerintah-berikan-izin-kelola-tambang-kepada-kopdes-merah-putih-b2pWXZbg9H"
+    },
+    {
+      "title": "Bupati Anom: SDM dan Kekompakan Jadi Kunci Kemajuan Koperasi di Pemalang - ketik.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 16:03:00 GMT",
+      "link": "https://ketik.com/amp/bupati-anom-sdm-dan-kekompakan-jadi-kunci-kemajuan-koperasi-di-pemalang"
+    },
+    {
+      "title": "Gonjang-ganjing Sektor Energi, Singapura Rombak Kabinet Besar-besaran - SINDOnews Ekbis",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 15:04:03 GMT",
+      "link": "https://ekbis.sindonews.com/read/1731627/34/gonjang-ganjing-sektor-energi-singapura-rombak-kabinet-besar-besaran-1784815653"
     },
     {
       "title": "Galeri Foto - Rayakan Hari Anak Nasional, Kemendag Ajak Anak ke Perpustakaan - Warta Ekonomi",
@@ -170,41 +205,6 @@
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 13:02:00 GMT",
       "link": "https://wartaekonomi.co.id/read624373/dugaan-monopoli-tiktok-shop-bakal-disidangkan-aple-sebut-potensi-kerugian-rp1750-triliun"
-    },
-    {
-      "title": "Andre Rosiade Desak BUMN Karya Benahi Huntara demi Kenyamanan Pengungsi - kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 13:00:50 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-desak-bumn-karya-benahi-huntara-demi-kenyamanan-pengungsi/"
-    },
-    {
-      "title": "KPPU Rampungkan Tahap Akhir Penyelidikan Dugaan Monopoli TikTok - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 12:31:19 GMT",
-      "link": "https://nasional.kontan.co.id/news/kppu-rampungkan-tahap-akhir-penyelidikan-dugaan-monopoli-tiktok"
-    },
-    {
-      "title": "Perampingan BUMN oleh Danantara Langkah Rasional Selamatkan Aset Negara - RM.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 11:34:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/318818/perampingan-bumn-oleh-danantara-langkah-rasional-selamatkan-aset-negara"
-    },
-    {
-      "title": "Rosan Respons Rating Moody's Baa2 buat Obligasi Danantara - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 11:30:39 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8587431/rosan-respons-rating-moodys-baa2-buat-obligasi-danantara"
-    },
-    {
-      "title": "Danantara Pangkas Ribuan BUMN Jadi 200-300 Entitas, Langkah Rasional Selamatkan Aset Negara - SINDOnews Ekbis",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 11:23:46 GMT",
-      "link": "https://ekbis.sindonews.com/read/1731535/34/danantara-pangkas-ribuan-bumn-jadi-200-300-entitas-langkah-rasional-selamatkan-aset-negara-1784804838"
     }
   ]
 }
