@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T21:01:19.919614",
+  "generated_at": "2026-07-23T22:53:52.926681",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 20,
     "PDI-P": 30,
     "Golkar": 20,
     "NasDem": 15,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
+    "bumn": 73,
     "danantara": 42,
     "koperasi": 82,
     "perdagangan": 12,
     "umkm": 14,
-    "ekspor": 5,
+    "ekspor": 4,
     "investasi": 40,
     "impor": 7,
     "merger-akuisisi": 4,
@@ -95,12 +95,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 43,
     "Koperasi/UMKM": 91,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Danantara Rampingkan Perusahaan Keuangan BUMN - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 21:50:32 GMT",
+      "link": "https://insight.kontan.co.id/news/danantara-rampingkan-perusahaan-keuangan-bumn"
+    },
     {
       "title": "Evaluasi KPPU Ungkap Manfaat Ekonomi Rp1,477 Triliun, Algoritma Platform Masih Jadi Tantangan - Telusur.co.id",
       "entity": "KPPU",
@@ -151,6 +158,13 @@
       "link": "https://ekbis.sindonews.com/read/1731627/34/gonjang-ganjing-sektor-energi-singapura-rombak-kabinet-besar-besaran-1784815653"
     },
     {
+      "title": "Galeri Foto - Rayakan Hari Anak Nasional, Kemendag Ajak Anak-anak ke Perpustakaan - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 14:51:32 GMT",
+      "link": "https://wartaekonomi.co.id/gallery-9963/rayakan-hari-anak-nasional-kemendag-ajak-anak-anak-ke-perpustakaan"
+    },
+    {
       "title": "Galeri Foto - Rayakan Hari Anak Nasional, Kemendag Ajak Anak ke Perpustakaan - Warta Ekonomi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -191,20 +205,6 @@
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 13:42:12 GMT",
       "link": "https://theacehpost.com/news/lembaga-wali-nanggroe-identifikasi-persoalan-pengembangan-kawasan-bebas-sabang/amp.html"
-    },
-    {
-      "title": "BPI Danantara Memangkas Jumlah BUMN Menjadi 200 Perusahaan - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 13:18:24 GMT",
-      "link": "https://achmadnurhidayat.id/bpi-danantara-mangkas-jumlah-bumn"
-    },
-    {
-      "title": "DPR dan Pengamat Dukung Danantara Pemangkas Jumlah BUMN - Readers.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 13:13:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZE1neWlkRTd1RlFYSnNLaEhBVjRBaTdtbjZIMEt0TWFoOS1FVUFCRUtIb1J0aWZ3dklmMkJVY0l3dGozQl9fMDRHRHgtTlItbENxSVZPeUtpR2c1QXZCckJzZGpNaUdDZ1RUM2p6a0RiNVk?oc=5"
     }
   ]
 }
