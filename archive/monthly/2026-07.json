@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T07:31:16.291746",
+  "generated_at": "2026-07-23T10:20:18.624978",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 19,
     "PDI-P": 36,
-    "Golkar": 17,
-    "NasDem": 13,
+    "Golkar": 19,
+    "NasDem": 14,
     "PKB": 1,
-    "PKS": 10,
+    "PKS": 12,
     "PAN": 3,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 64,
+    "Gerindra": 65,
     "PDI-P": 102,
-    "Golkar": 78,
+    "Golkar": 80,
     "NasDem": 42,
     "PKB": 44,
     "PKS": 62,
     "PAN": 17,
-    "Demokrat": 25
+    "Demokrat": 26
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,24 +34,24 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 64,
-    "koperasi": 82,
-    "perdagangan": 12,
-    "danantara": 39,
+    "bumn": 66,
+    "danantara": 41,
+    "koperasi": 81,
+    "perdagangan": 13,
     "umkm": 13,
-    "ekspor": 9,
+    "ekspor": 6,
     "investasi": 39,
     "impor": 7,
-    "kartel-monopoli": 2,
+    "merger-akuisisi": 3,
+    "kartel-monopoli": 1,
     "ipo": 3,
-    "merger-akuisisi": 2,
     "dividen": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 7,
-    "Mulan Jameela": 5,
+    "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 20,
@@ -63,7 +63,7 @@
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 16,
+    "Gde Sumarjaya Linggih": 18,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -91,120 +91,120 @@
     "Iskandar": 4,
     "Sartono": 3,
     "Herman Khaeron": 19,
-    "Faujia Helga": 3
+    "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 15,
-    "Perdagangan": 38,
-    "Hukum/Audit": 42,
-    "Koperasi/UMKM": 91,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 35,
+    "Hukum/Audit": 41,
+    "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "title": "Bupati Karo Bertemu Menteri Koperasi, Perkuat UMKM dan Koperasi Modern - Mattanews.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 22:22:27 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260723/OTYy"
+      "published": "Thu, 23 Jul 2026 10:00:33 GMT",
+      "link": "https://mattanews.co/bupati-karo-bertemu-menteri-koperasi-perkuat-umkm-dan-koperasi-modern/"
     },
     {
-      "title": "Rieke Diah Pitaloka Desak Penguatan SDM LPSK di Tengah Lonjakan Kasus TPPO - Republika Online",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 21:30:18 GMT",
-      "link": "https://news.republika.co.id/berita/tiliei9130000/rieke-diah-pitaloka-desak-penguatan-sdm-lpsk-di-tengah-lonjakan-kasus-tppo"
-    },
-    {
-      "title": "Anggota Komisi XIII DPR tekankan pentingnya penguatan SDM LPSK - ANTARA News Ntt",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 21:26:21 GMT",
-      "link": "https://kupang.antaranews.com/berita/195024/anggota-komisi-xiii-dpr-tekankan-pentingnya-penguatan-sdm-lpsk"
-    },
-    {
-      "title": "Komisi XIII DPR dorong perbaikan tata kelola penanganan TPPO di NTT - ANTARA News Ntt",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 21:15:23 GMT",
-      "link": "https://kupang.antaranews.com/berita/195020/komisi-xiii-dpr-dorong-perbaikan-tata-kelola-penanganan-tppo-di-ntt"
-    },
-    {
-      "title": "Danantara Buka Peluang Pembiayaan Proyek Sampah Jadi Listrik - Harianjogja.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 17:07:02 GMT",
-      "link": "https://news.harianjogja.com/r-1264506/danantara-buka-peluang-pembiayaan-proyek-sampah-jadi-listrik"
-    },
-    {
-      "title": "Turkiye dan Suriah targetkan perdagangan bilateral USD10 miliar - Anadolu Ajansı",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 17:01:16 GMT",
-      "link": "https://www.aa.com.tr/id/ekonomi/turkiye-dan-suriah-targetkan-perdagangan-bilateral-usd10-miliar/4006122"
-    },
-    {
-      "title": "AAKLESIA Temui Irjen Kemendag, Dorong Regulasi Logistik dan E-Commerce Lebih Adaptif - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 15:45:45 GMT",
-      "link": "https://indoposco.id/2026/07/22/aaklesia-temui-irjen-kemendag-dorong-regulasi-logistik-dan-e-commerce-lebih-adaptif/"
-    },
-    {
-      "title": "Tak Mau Tertinggal, DIY Siapkan Sembilan Koperasi Berbasis Digital - Koran Jakarta ®",
+      "title": "Peresmian Pabrik CPO KUD Sejahtera di Muba Bakal Dihadiri Presiden, Menteri Koperasi Pastikan Hadir - rmolsumsel",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 15:00:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-22/tak-mau-tertinggal-diy-siapkan-sembilan-koperasi-berbasis-digital"
+      "published": "Thu, 23 Jul 2026 09:33:00 GMT",
+      "link": "https://www.rmolsumsel.id/peresmian-pabrik-cpo-kud-sejahtera-di-muba-bakal-dihadiri-presiden-menteri-koperasi-pastikan-hadir"
     },
     {
-      "title": "Wagub Aceh Bersama Komisi VI DPR RI Desak BUMN Karya Tuntaskan Kendala Rehabilitasi Huntara » - dialeksis.com",
+      "title": "China Minta Masukan Soal Pemangkasan Tarif dengan AS, Bidik Perdagangan US$ 30 Miliar - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 09:25:56 GMT",
+      "link": "https://internasional.kontan.co.id/news/china-minta-masukan-soal-pemangkasan-tarif-dengan-as-bidik-perdagangan-us-30-miliar"
+    },
+    {
+      "title": "Tinjau Huntara Aceh Tamiang dan Jalan Tol Binsa, Komisi VI DPR RI: Percepat Pemulihan Pascabencana dan Bangun Koridor Strategis - BicaraIndonesia.net",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 22 Jul 2026 14:59:56 GMT",
-      "link": "https://dialeksis.com/pemerintahan/wagub-aceh-bersama-komisi-vi-dpr-ri-desak-bumn-karya-tuntaskan-kendala-rehabilitasi-huntara/"
+      "published": "Thu, 23 Jul 2026 09:24:00 GMT",
+      "link": "https://www.bicaraindonesia.net/tinjau-huntara-aceh-tamiang-dan-jalan-tol-binsa-komisi-vi-dpr-ri-percepat-pemulihan-pascabencana-dan-bangun-koridor-strategis/"
     },
     {
-      "title": "Kemenkop melalui LPDB siap memberikan pendampingan dan skema pembiayaan bagi koperasi - Elshinta",
+      "title": "Kemendag Dorong Pengesahan 4 Perpres Perjanjian Perdagangan Global - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 08:45:00 GMT",
+      "link": "https://swa.co.id/read/475229/kemendag-dorong-pengesahan-4-perpres-perjanjian-perdagangan-global"
+    },
+    {
+      "title": "Audiensi AAKLESIA dke Kementerian Perdagangan: Ekosistem Bisnis Logistik dan E-Commerce yang Sehat - Kompasiana.com - Kompasiana.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 08:26:16 GMT",
+      "link": "https://www.kompasiana.com/chozin/6a61ce6ac925c4523a468af2/audiensi-aaklesia-dke-kementerian-perdagangan-ekosistem-bisnis-logistik-dan-e-commerce-yang-sehat"
+    },
+    {
+      "title": "Inilah Raperda yang Disiapkan DPRD Kabupaten Malang untuk Melindungi Koperasi - Radar Malang",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 08:22:45 GMT",
+      "link": "https://radarmalang.jawapos.com/ekonomi-bisnis/2607230035/inilah-raperda-yang-disiapkan-dprd-kabupaten-malang-untuk-melindungi-koperasi"
+    },
+    {
+      "title": "Peresmian Pabrik CPO di Muba Berpotensi Dihadiri Presiden, Menteri Koperasi Pastikan Hadir - palpres.disway.id - PALPRES.COM",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 14:30:31 GMT",
-      "link": "https://elshinta.com/kategori/1/pembangunan/kemenkop-melalui-lpdb-siap-memberikan-pendampingan-dan-skema-pembiayaan-bagi-koperasi-171122"
+      "published": "Thu, 23 Jul 2026 08:06:00 GMT",
+      "link": "https://palpres.disway.id/musi-banyuasin/read/775721/peresmian-pabrik-cpo-di-muba-berpotensi-dihadiri-presiden-menteri-koperasi-pastikan-hadir"
     },
     {
-      "title": "KPPU: Intervensi Kasus Algoritma Shopee Hasilkan Dampak Ekonomi Rp1,47 Triliun - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 14:24:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136181/kppu-intervensi-kasus-algoritma-shopee-hasilkan-dampak-ekonomi-rp1-47-triliun"
-    },
-    {
-      "title": "KPPU Rilis Kajian Dampak Perkara Logistik: Ekosistem Memperoleh Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Menjadi Tantan - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 14:24:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136181/kppu-rilis-kajian-dampak-perkara-logistik-ekosistem-memperoleh-manfaat-rp1-477-triliun-dominasi-algoritma-masih-menjadi-tantan"
-    },
-    {
-      "title": "KPPU Rilis Kajian Dampak Perkara Logistik: Ekosistem Memperoleh Manfaat Rp1,477 Triliun, Dominasi Algoritma Masih Menjadi Tantan - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 14:24:00 GMT",
-      "link": "http://www.kabarbisnis.com/read/28136181/kppu-rilis-kajian-dampak-perkara-logistik-ekosistem-memperoleh-manfaat-rp1-477-triliun-dominasi-algoritma-masih-menjadi-tantan"
-    },
-    {
-      "title": "KPPU Catat Dampak Ekonomi Rp1,477 Triliun dari Evaluasi Persaingan Jasa Kurir di Shopee - indoARTnews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 13:53:28 GMT",
-      "link": "https://indoartnews.com/nasional/13511/kppu-catat-dampak-ekonomi-rp1477-triliun-dari-evaluasi-persaingan-jasa-kurir-di-shopee.html"
-    },
-    {
-      "title": "Peta Jalan Restrukturisasi BUMN Dinanti - Warta Bali Online",
+      "title": "Danantara Asset Management Akuisisi Saham PNM IM dan BRI Manajemen Investasi, Ini Tujuannya - SWA.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 22 Jul 2026 13:23:51 GMT",
-      "link": "https://wartabalionline.com/2026/07/22/peta-jalan-restrukturisasi-bumn-dinanti/"
+      "published": "Thu, 23 Jul 2026 08:00:00 GMT",
+      "link": "https://swa.co.id/read/475230/danantara-asset-management-akuisisi-saham-pnm-im-dan-bri-manajemen-investasi-ini-tujuannya"
+    },
+    {
+      "title": "Pemekaran OPD atau Beban Baru, DPR Minta Hitungan Fiskal Jelas - Teraspapua.com",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 07:33:58 GMT",
+      "link": "https://teraspapua.com/2026/07/23/pemekaran-opd-atau-beban-baru-dpr-minta-hitungan-fiskal-jelas/"
+    },
+    {
+      "title": "Legislator Bali usul rute Tol Gilimanuk-Mengwi diubah lewati utara - ANTARA News Bali",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 07:30:38 GMT",
+      "link": "https://bali.antaranews.com/berita/410143/legislator-bali-usul-rute-tol-gilimanuk-mengwi-diubah-lewati-utara"
+    },
+    {
+      "title": "Danantara Rampingkan BUMN: Langkah Rasional untuk Selamatkan Aset Negara - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 07:30:00 GMT",
+      "link": "https://www.inilah.com/danantara-rampingkan-bumn-langkah-rasional-untuk-selamatkan-aset-negara"
+    },
+    {
+      "title": "Ismail Bepa: Perlindungan Pedagang Papua Sudah Diatur dalam Perda, Implementasi Perlu Diperkuat - Teraspapua.com",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 07:18:52 GMT",
+      "link": "https://teraspapua.com/2026/07/23/ismail-bepa-perlindungan-pedagang-papua-sudah-diatur-dalam-perda-implementasi-perlu-diperkuat/"
+    },
+    {
+      "title": "Danantara Caplok 4 Manajer Investasi BUMN, Kelola Dana Rp170 T - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 07:18:00 GMT",
+      "link": "https://tirto.id/danantara-caplok-4-manajer-investasi-bumn-kelola-dana-rp170-t-hz9S"
+    },
+    {
+      "title": "Perampingan BUMN Jadi Langkah Rasional Perkuat Kinerja dan Fokus Bisnis - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 06:26:09 GMT",
+      "link": "https://nasional.kontan.co.id/news/perampingan-bumn-jadi-langkah-rasional-perkuat-kinerja-dan-fokus-bisnis"
     }
   ]
 }
