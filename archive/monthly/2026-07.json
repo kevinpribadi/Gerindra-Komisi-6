@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T15:07:16.258439",
+  "generated_at": "2026-07-23T17:19:30.532724",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 31,
+    "Gerindra": 19,
+    "PDI-P": 30,
     "Golkar": 19,
-    "NasDem": 15,
+    "NasDem": 14,
     "PKB": 1,
     "PKS": 11,
     "PAN": 3,
-    "Demokrat": 10
+    "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 65,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "danantara": 43,
-    "koperasi": 81,
+    "bumn": 70,
+    "danantara": 42,
+    "koperasi": 82,
     "perdagangan": 13,
     "umkm": 13,
     "ekspor": 5,
@@ -95,18 +95,53 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 43,
     "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
+      "title": "Dinas Koperasi dan UKM Cilegon Laporkan Rentenir Berkedok Koperasi ke Kementerian - Berita Cilegon",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 17:16:06 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dinas-Koperasi-dan-UKM-Cilegon-Laporkan-Rentenir-Berkedok-Koperasi-ke-Kementerian/20260724/OTYy"
+    },
+    {
+      "title": "Darmadi Durianto Soroti Rencana Pemerintah Berikan Izin Kelola Tambang Kepada Kopdes Merah Putih - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 17:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-soroti-rencana-pemerintah-berikan-izin-kelola-tambang-kepada-kopdes-merah-putih-b2pWXZbg9H"
+    },
+    {
+      "title": "Galeri Foto - Rayakan Hari Anak Nasional, Kemendag Ajak Anak ke Perpustakaan - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 14:51:32 GMT",
+      "link": "https://wartaekonomi.co.id/gallery-9963/rayakan-hari-anak-nasional-kemendag-ajak-anak-ke-perpustakaan"
+    },
+    {
       "title": "Penyelidikan KPPU terkait Monopoli Digital Memasuki Tahap Akhir - investor.id",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 14:46:00 GMT",
       "link": "https://investor.id/national/447683/penyelidikan-kppu-terkait-monopoli-digital-memasuki-tahap-akhir"
+    },
+    {
+      "title": "Wali Nanggroe Petakan Hambatan Pengembangan Kawasan Bebas Sabang - Aceh Online",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 14:39:05 GMT",
+      "link": "https://www.acehonline.co/news/wali-nanggroe-petakan-hambatan-pengembangan-kawasan-bebas-sabang/index.html"
+    },
+    {
+      "title": "Lembaga Wali Nanggroe Identifikasi Persoalan Pengembangan Kawasan Bebas Sabang - aceHTrend.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 14:33:20 GMT",
+      "link": "https://www.acehtrend.com/news/lembaga-wali-nanggroe-identifikasi-persoalan-pengembangan-kawasan-bebas-sabang/amp.html"
     },
     {
       "title": "BP BUMN-InJourney perkuat daya saing industri perhotelan nasional - ANTARA News",
@@ -137,6 +172,13 @@
       "link": "https://wartaekonomi.co.id/read624373/dugaan-monopoli-tiktok-shop-bakal-disidangkan-aple-sebut-potensi-kerugian-rp1750-triliun"
     },
     {
+      "title": "Andre Rosiade Desak BUMN Karya Benahi Huntara demi Kenyamanan Pengungsi - kabarpolitik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 13:00:50 GMT",
+      "link": "https://kabarpolitik.com/andre-rosiade-desak-bumn-karya-benahi-huntara-demi-kenyamanan-pengungsi/"
+    },
+    {
       "title": "KPPU Rampungkan Tahap Akhir Penyelidikan Dugaan Monopoli TikTok - kontan.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -163,48 +205,6 @@
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 11:23:46 GMT",
       "link": "https://ekbis.sindonews.com/read/1731535/34/danantara-pangkas-ribuan-bumn-jadi-200-300-entitas-langkah-rasional-selamatkan-aset-negara-1784804838"
-    },
-    {
-      "title": "BUMN Punya Hotel dan Apartemen Disorot, Masih Relevankah untuk Negara? - Suara.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 11:10:15 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/23/181015/bumn-punya-hotel-dan-apartemen-disorot-masih-relevankah-untuk-negara"
-    },
-    {
-      "title": "Darurat Kasus TPPO dan Kekerasan, Rieke Desak Penguatan SDM LPSK hingga Tingkat Daerah - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 10:47:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darurat-kasus-tppo-dan-kekerasan-rieke-desak-penguatan-sdm-lpsk-hingga-tingkat-daerah-b2pXaZbgDl"
-    },
-    {
-      "title": "Danantara Mulai Merger 4 Manajer Investasi BUMN - Tempo.co",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 10:40:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-mulai-merger-4-manajer-investasi-bumn-2277783"
-    },
-    {
-      "title": "Tinjau Huntara Aceh Tamiang, Subardi Nilai Fasilitas Pengungsi Lebih Layak - DPR RI",
-      "entity": "Subardi",
-      "kind": "anggota",
-      "published": "Thu, 23 Jul 2026 10:15:35 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Tinjau-Huntara-Aceh-Tamiang-Subardi-Nilai-Fasilitas-Pengungsi-Lebih-Layak-67576"
-    },
-    {
-      "title": "Bupati Karo Bertemu Menteri Koperasi, Perkuat UMKM dan Koperasi Modern - Mattanews.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 10:00:33 GMT",
-      "link": "https://mattanews.co/bupati-karo-bertemu-menteri-koperasi-perkuat-umkm-dan-koperasi-modern/"
-    },
-    {
-      "title": "Peresmian Pabrik CPO KUD Sejahtera di Muba Bakal Dihadiri Presiden, Menteri Koperasi Pastikan Hadir - rmolsumsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 09:33:00 GMT",
-      "link": "https://www.rmolsumsel.id/peresmian-pabrik-cpo-kud-sejahtera-di-muba-bakal-dihadiri-presiden-menteri-koperasi-pastikan-hadir"
     }
   ]
 }
