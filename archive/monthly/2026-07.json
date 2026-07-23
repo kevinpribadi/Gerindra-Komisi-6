@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T19:12:52.286593",
+  "generated_at": "2026-07-23T21:01:19.919614",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 30,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 15,
     "PKB": 1,
     "PKS": 11,
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 102,
-    "Golkar": 80,
+    "Golkar": 81,
     "NasDem": 43,
     "PKB": 44,
     "PKS": 62,
-    "PAN": 17,
+    "PAN": 18,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
-    "danantara": 41,
+    "bumn": 71,
+    "danantara": 42,
     "koperasi": 82,
     "perdagangan": 12,
-    "umkm": 13,
+    "umkm": 14,
     "ekspor": 5,
     "investasi": 40,
     "impor": 7,
@@ -63,7 +63,7 @@
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 18,
+    "Gde Sumarjaya Linggih": 19,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -87,7 +87,7 @@
     "Ismail": 20,
     "Eko Patrio": 9,
     "Nasril Bahar": 3,
-    "Abdul Hakim Bafagih": 1,
+    "Abdul Hakim Bafagih": 2,
     "Iskandar": 4,
     "Sartono": 3,
     "Herman Khaeron": 19,
@@ -95,9 +95,9 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Hukum/Audit": 43,
-    "Koperasi/UMKM": 90,
+    "Koperasi/UMKM": 91,
     "Konflik Publik": 3
   },
   "top_headlines": [
@@ -200,11 +200,11 @@
       "link": "https://achmadnurhidayat.id/bpi-danantara-mangkas-jumlah-bumn"
     },
     {
-      "title": "Dugaan Monopoli TikTok Shop Bakal Disidangkan, APLE Sebut Potensi Kerugian Rp1.750 Triliun - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 13:02:00 GMT",
-      "link": "https://wartaekonomi.co.id/read624373/dugaan-monopoli-tiktok-shop-bakal-disidangkan-aple-sebut-potensi-kerugian-rp1750-triliun"
+      "title": "DPR dan Pengamat Dukung Danantara Pemangkas Jumlah BUMN - Readers.id",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Thu, 23 Jul 2026 13:13:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZE1neWlkRTd1RlFYSnNLaEhBVjRBaTdtbjZIMEt0TWFoOS1FVUFCRUtIb1J0aWZ3dklmMkJVY0l3dGozQl9fMDRHRHgtTlItbENxSVZPeUtpR2c1QXZCckJzZGpNaUdDZ1RUM2p6a0RiNVk?oc=5"
     }
   ]
 }
