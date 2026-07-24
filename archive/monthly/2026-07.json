@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T06:23:26.012330",
+  "generated_at": "2026-07-24T09:19:39.960120",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 29,
-    "Golkar": 20,
-    "NasDem": 13,
+    "Golkar": 21,
+    "NasDem": 11,
     "PKB": 1,
     "PKS": 11,
     "PAN": 4,
     "Demokrat": 9
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 103,
+    "Gerindra": 65,
+    "PDI-P": 101,
     "Golkar": 82,
     "NasDem": 43,
-    "PKB": 43,
-    "PKS": 62,
-    "PAN": 19,
+    "PKB": 42,
+    "PKS": 61,
+    "PAN": 16,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -34,22 +34,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 73,
-    "danantara": 41,
-    "koperasi": 82,
-    "perdagangan": 13,
-    "umkm": 15,
+    "bumn": 72,
+    "danantara": 40,
+    "koperasi": 80,
+    "perdagangan": 12,
+    "umkm": 13,
     "ekspor": 2,
     "impor": 7,
     "merger-akuisisi": 4,
-    "investasi": 40,
-    "kartel-monopoli": 5,
+    "investasi": 41,
+    "kartel-monopoli": 6,
     "ipo": 3,
     "dividen": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
@@ -59,9 +58,9 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 16,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 3,
+    "Totok Hedi Santosa": 2,
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
@@ -78,16 +77,15 @@
     "Subardi": 9,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 12,
+    "Nasim Khan": 11,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 2,
+    "Ghufran": 1,
     "Ismail": 20,
-    "Eko Patrio": 9,
+    "Eko Patrio": 8,
     "Nasril Bahar": 3,
-    "Abdul Hakim Bafagih": 2,
     "Iskandar": 5,
     "Sartono": 3,
     "Herman Khaeron": 19,
@@ -95,18 +93,67 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 29,
-    "Hukum/Audit": 45,
-    "Koperasi/UMKM": 91,
+    "Perdagangan": 28,
+    "Hukum/Audit": 46,
+    "Koperasi/UMKM": 87,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Mendag Kunjungi UMKM Coklat nDalam dan Base Artisan di Yogyakarta - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 08:55:23 GMT",
+      "link": "https://www.hetanews.com/article/309551/mendag-kunjungi-umkm-coklat-ndalam-dan-base-artisan-di-yogyakarta"
+    },
+    {
+      "title": "Andre Rosiade Pastikan Antrean BBM di Sumbar Dipicu Gangguan Distribusi - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 08:33:06 GMT",
+      "link": "https://news.detik.com/berita/d-8588601/andre-rosiade-pastikan-antrean-bbm-di-sumbar-dipicu-gangguan-distribusi"
+    },
+    {
+      "title": "Ekspor Listrik ke Singapura Dimulai Bertahap, Harga Masih Dirundingkan - gokepri",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 08:05:40 GMT",
+      "link": "https://gokepri.com/ekspor-listrik-ke-singapura-dimulai-bertahap-harga-masih-dirundingkan/"
+    },
+    {
+      "title": "Danantara Bentuk Holding Maskapai BUMN, Garuda Indonesia Jadi Induk Pelita Air - rmolsumsel",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 08:02:00 GMT",
+      "link": "https://www.rmolsumsel.id/danantara-bentuk-holding-maskapai-bumn-garuda-indonesia-jadi-induk-pelita-air"
+    },
+    {
+      "title": "Danantara Satukan Garuda dan Pelita Air, Bidik Dominasi Pasar - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 06:44:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/24/715821/danantara-satukan-garuda-dan-pelita-air--bidik-dominasi-pasar-"
+    },
+    {
+      "title": "Presiden Prabowo Subianto Serukan Kebangkitan Koperasi Sebagai Raksasa Ekonomi Nasional pada Puncak Harkopnas ke-79 - KilasJatim.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 06:07:08 GMT",
+      "link": "https://kilasjatim.com/2026/07/24/presiden-prabowo-subianto-serukan-kebangkitan-koperasi-sebagai-raksasa-ekonomi-nasional-pada-puncak-harkopnas-ke-79/"
+    },
     {
       "title": "Andre Rosiade: Di Era Presiden Prabowo, Penugasan BUMN Kini Wajib Disertai Anggaran - Posmetropadang.co.id",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Fri, 24 Jul 2026 06:02:13 GMT",
       "link": "https://posmetropadang.co.id/andre-rosiade-di-era-presiden-prabowo-penugasan-bumn-kini-wajib-disertai-anggaran-426732/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Film Seni Merayu Tuhan Menguatkanku - Tempo.co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 05:44:53 GMT",
+      "link": "https://seleb.tempo.co/read/2115239/rieke-diah-pitaloka-film-seni-merayu-tuhan-menguatkanku"
     },
     {
       "title": "Rieke Diah Pitaloka: Film Seni Merayu Tuhan Menguatkanku - Tempo.co",
@@ -130,6 +177,13 @@
       "link": "https://beritabuana.co/2026/07/24/pemerintah-beri-izin-koperasi-kelola-tambang-darmadi-seleksi-ketat-agar-tak-jadi-ajang-pinjam-bendera/"
     },
     {
+      "title": "Anggota DPR Kawendra Sanjung Bupati Jember: Dia Prabowonya Jember - TIMES Indonesia",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 05:05:00 GMT",
+      "link": "https://timesindonesia.co.id/peristiwa-daerah/600519/anggota-dpr-kawendra-sanjung-bupati-jember-dia-prabowonya-jember"
+    },
+    {
       "title": "Kajian KPPU: Dampak Perkara Logistik Capai Rp1,477 T - indexsumut.com",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -137,74 +191,18 @@
       "link": "https://indexsumut.com/2026/07/24/kajian-kppu-dampak-perkara-logistik-capai-rp1477-t/"
     },
     {
+      "title": "Sah! Danantara Jadi Penyetor Modal Awal PFII, Begini Skemanya - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 03:40:55 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260724095555-17-753503/sah-danantara-jadi-penyetor-modal-awal-pfii-begini-skemanya/amp"
+    },
+    {
       "title": "Hari Anak Nasional 2026: Perpustakaan Kemendag Hadirkan Dongeng Edukatif tentang Literasi Perdagangan - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 03:40:07 GMT",
       "link": "https://suarapemerintah.id/2026/07/hari-anak-nasional-2026-perpustakaan-kemendag-hadirkan-dongeng-edukatif-tentang-literasi-perdagangan/"
-    },
-    {
-      "title": "Danantara Satukan Maskapai BUMN, Pelita Gabung ke Garuda Indonesia (GIAA) - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 03:30:00 GMT",
-      "link": "https://wartaekonomi.co.id/read624442/danantara-satukan-maskapai-bumn-pelita-gabung-ke-garuda-indonesia-giaa"
-    },
-    {
-      "title": "Sambut Baik Putusan MK Terkait Sisa Kuota Internet, Legislator PDIP: Penguatan Perlindungan Pengguna Telekomunikasi - Kedai Pena",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 03:29:43 GMT",
-      "link": "https://www.kedaipena.com/sambut-baik-putusan-mk-terkait-sisa-kuota-internet-legislator-pdip-penguatan-perlindungan-pengguna-telekomunikasi/"
-    },
-    {
-      "title": "Dasco Kawal Kesepakatan Tripartit, Pastikan Tak Ada PHK di Streamlining Telkom - VIVA.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 02:56:23 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1915971-dasco-kawal-kesepakatan-tripartit-pastikan-tak-ada-phk-di-streamlining-telkom"
-    },
-    {
-      "title": "Prabowo Kerahkan Kementerian hingga TNI-Polri, Targetkan 25.000 KDMP Beroperasi September - pasardana.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 02:55:00 GMT",
-      "link": "https://pasardana.id/news/2026/7/24/prabowo-kerahkan-kementerian-hingga-tni-polri-targetkan-25-000-kdmp-beroperasi-september"
-    },
-    {
-      "title": "BPKS Minta Lembaga Wali Nanggroe Ajukan Kembali Pembentukan Dewan Nasional Kawasan Sabang - Popularitas.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 02:46:42 GMT",
-      "link": "https://popularitas.com/berita/bpks-minta-lembaga-wali-nanggroe-ajukan-kembali-pembentukan-dewan-nasional-kawasan-sabang/amp/"
-    },
-    {
-      "title": "Kemendag: Kopi RI raup potensi transaksi Rp194,2 miliar di Belgia - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 02:18:06 GMT",
-      "link": "https://www.antaranews.com/berita/5663715/kemendag-kopi-ri-raup-potensi-transaksi-rp1942-miliar-di-belgia"
-    },
-    {
-      "title": "Demer: Pengesahan UU PFII, Momentum Emas Dorong Investasi ke Bali Utara untuk Pemerataan Ekonomi - atnews.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 01:56:52 GMT",
-      "link": "https://atnews.id/portal/news/32464/"
-    },
-    {
-      "title": "Hadiri Seminar Kakao Internasional IICC Ke-9, Mendag Busan: Kolaborasi Perkuat Sektor Kakao Indonesia - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 01:04:00 GMT",
-      "link": "https://kilaskementerian.kompas.com/kemendag/read/2026/07/24/08040621/hadiri-seminar-kakao-internasional-iicc-ke-9-mendag-busan-kolaborasi-perkuat"
-    },
-    {
-      "title": "KPPU Segera Sidangkan Dugaan Monopoli TikTok Shop - BeritaSatu.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 00:45:29 GMT",
-      "link": "https://www.beritasatu.com/nasional/3013386/kppu-segera-sidangkan-dugaan-monopoli-tiktok-shop"
     }
   ]
 }
