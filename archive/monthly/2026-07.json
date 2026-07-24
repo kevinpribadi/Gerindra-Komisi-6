@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T11:40:05.028207",
+  "generated_at": "2026-07-24T13:39:01.551108",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 23,
     "PDI-P": 28,
     "Golkar": 21,
-    "NasDem": 11,
+    "NasDem": 10,
     "PKB": 1,
     "PKS": 11,
     "PAN": 4,
-    "Demokrat": 9
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 65,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 73,
     "danantara": 41,
-    "koperasi": 80,
+    "koperasi": 78,
     "perdagangan": 12,
     "umkm": 13,
     "ekspor": 2,
@@ -94,11 +94,39 @@
   "early_warning_counts": {
     "Kinerja BUMN": 19,
     "Perdagangan": 27,
-    "Hukum/Audit": 47,
-    "Koperasi/UMKM": 86,
+    "Hukum/Audit": 48,
+    "Koperasi/UMKM": 84,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Transaksi KDKMP di Bengkulu Rp306,71 juta per akhir Juni - ANTARA News Bengkulu",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 12:10:55 GMT",
+      "link": "https://bengkulu.antaranews.com/berita/474713/transaksi-kdkmp-di-bengkulu-rp30671-juta-per-akhir-juni"
+    },
+    {
+      "title": "Kemendag Perkuat Nilai Tambah Kakao untuk Tingkatkan Daya Saing Global - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 11:49:59 GMT",
+      "link": "https://www.tempo.co/info-tempo/kemendag-perkuat-nilai-tambah-kakao-untuk-tingkatkan-daya-saing-global-2278040"
+    },
+    {
+      "title": "Andre Rosiade Buktikan Janji, Rp 1,9 T Dikucurkan untuk Jalan-Jembatan di Sumbar - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 11:47:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-buktikan-janji-rp-1-9-t-dikucurkan-untuk-jalan-jembatan-di-sumbar-27qpG6V3yrs"
+    },
+    {
+      "title": "Kemenkop Tekankan Peran Strategis Manajer dalam Menentukan Keberhasilan KDKMP, Bukan Sekadar Modal - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 11:36:38 GMT",
+      "link": "https://indoposco.id/2026/07/24/kemenkop-tekankan-peran-strategis-manajer-dalam-menentukan-keberhasilan-kdkmp-bukan-sekadar-modal/"
+    },
     {
       "title": "Manajer Berperan Penting dalam Keberhasilan Kopdes - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -139,6 +167,13 @@
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Fri, 24 Jul 2026 08:22:55 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5664215/komisi-xiii-minta-imigrasi-usut-dugaan-diskriminasi-wni-oleh-komunitas-lari"
+    },
+    {
+      "title": "Komisi XIII minta Imigrasi usut dugaan diskriminasi WNI oleh komunitas lari - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 08:22:55 GMT",
       "link": "https://www.antaranews.com/berita/5664215/komisi-xiii-minta-imigrasi-usut-dugaan-diskriminasi-wni-oleh-komunitas-lari"
     },
     {
@@ -156,53 +191,18 @@
       "link": "https://www.rmolsumsel.id/danantara-bentuk-holding-maskapai-bumn-garuda-indonesia-jadi-induk-pelita-air"
     },
     {
+      "title": "Komisi XIII Soroti Klub Lari WNA di Bali, Minta Kemenimipas Periksa Izin Tinggal - kumparan.com - Kumparan.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 07:49:00 GMT",
+      "link": "https://kumparan.com/kumparannews/komisi-xiii-soroti-klub-lari-wna-di-bali-minta-kemenimipas-periksa-izin-tinggal-27qklNJsPyZ"
+    },
+    {
       "title": "Andre Rosiade Tinjau Jembatan Bungus, Pastikan BBM Sumbar Aman dari Kelangkaan - kumparan.com - Kumparan.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Fri, 24 Jul 2026 07:46:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-tinjau-jembatan-bungus-pastikan-bbm-sumbar-aman-dari-kelangkaan-27qlD7PtWND"
-    },
-    {
-      "title": "Danantara Satukan Garuda dan Pelita Air, Bidik Dominasi Pasar - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 06:44:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/24/715821/danantara-satukan-garuda-dan-pelita-air--bidik-dominasi-pasar-"
-    },
-    {
-      "title": "Presiden Prabowo Subianto Serukan Kebangkitan Koperasi Sebagai Raksasa Ekonomi Nasional pada Puncak Harkopnas ke-79 - KilasJatim.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 06:07:08 GMT",
-      "link": "https://kilasjatim.com/2026/07/24/presiden-prabowo-subianto-serukan-kebangkitan-koperasi-sebagai-raksasa-ekonomi-nasional-pada-puncak-harkopnas-ke-79/"
-    },
-    {
-      "title": "Andre Rosiade: Di Era Presiden Prabowo, Penugasan BUMN Kini Wajib Disertai Anggaran - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 06:02:13 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-di-era-presiden-prabowo-penugasan-bumn-kini-wajib-disertai-anggaran-426732/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Film Seni Merayu Tuhan Menguatkanku - Tempo.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 05:44:53 GMT",
-      "link": "https://seleb.tempo.co/read/2115239/rieke-diah-pitaloka-film-seni-merayu-tuhan-menguatkanku"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Film Seni Merayu Tuhan Menguatkanku - Tempo.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 05:44:53 GMT",
-      "link": "https://www.tempo.co/teroka/rieke-diah-pitaloka-film-seni-merayu-tuhan-menguatkanku-2277925"
-    },
-    {
-      "title": "Demer Ingatkan Target 32 Juta Penumpang Ngurah Rai Terancam Stuck 1,5 Jam Keluar Bandara - NUSABALI.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 05:14:42 GMT",
-      "link": "https://www.nusabali.com/berita/226415/demer-ingatkan-target-32-juta-penumpang-ngurah-rai-terancam-stuck-15-jam-keluar-bandara"
     }
   ]
 }
