@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T19:21:28.792204",
+  "generated_at": "2026-07-24T21:00:03.548917",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 29,
@@ -8,7 +8,7 @@
     "NasDem": 10,
     "PKB": 1,
     "PKS": 11,
-    "PAN": 4,
+    "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
@@ -18,7 +18,7 @@
     "NasDem": 44,
     "PKB": 41,
     "PKS": 61,
-    "PAN": 16,
+    "PAN": 17,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -42,7 +42,7 @@
     "ekspor": 2,
     "investasi": 42,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "ipo": 3,
     "impor": 6,
     "dividen": 2
@@ -86,7 +86,7 @@
     "Ismail": 20,
     "Eko Patrio": 8,
     "Nasril Bahar": 3,
-    "Iskandar": 5,
+    "Iskandar": 6,
     "Sartono": 3,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
@@ -94,7 +94,7 @@
   "early_warning_counts": {
     "Kinerja BUMN": 19,
     "Perdagangan": 25,
-    "Hukum/Audit": 49,
+    "Hukum/Audit": 50,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
@@ -156,6 +156,13 @@
       "link": "https://bogor.viva.co.id/amp/kabar-bogor/6108-kppu-tuntaskan-penyelidikan-dugaan-monopoli-tiktok-perkara-siap-disidangkan"
     },
     {
+      "title": "KPPU Tuntaskan Penyelidikan Dugaan Monopoli TikTok, Perkara Siap Disidangkan - VIVA Bogor",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 13:38:00 GMT",
+      "link": "https://bogor.viva.co.id/kabar-bogor/6108-kppu-tuntaskan-penyelidikan-dugaan-monopoli-tiktok-perkara-siap-disidangkan"
+    },
+    {
       "title": "Satgas Kawal Pemulihan Aceh, Pemerintah Kucurkan Rp59 Triliun - mmckalteng",
       "entity": "BPK Sabang",
       "kind": "lembaga",
@@ -196,13 +203,6 @@
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 11:36:38 GMT",
       "link": "https://indoposco.id/2026/07/24/kemenkop-tekankan-peran-strategis-manajer-dalam-menentukan-keberhasilan-kdkmp-bukan-sekadar-modal/"
-    },
-    {
-      "title": "Manajer Berperan Penting dalam Keberhasilan Kopdes - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 11:05:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/24/715850/manajer-berperan-penting-dalam-keberhasilan-kopdes-"
     }
   ]
 }
