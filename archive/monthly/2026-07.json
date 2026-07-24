@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-23T23:58:11.552793",
+  "generated_at": "2026-07-24T03:18:17.146333",
   "party_counts_7d": {
-    "Gerindra": 20,
-    "PDI-P": 30,
+    "Gerindra": 21,
+    "PDI-P": 28,
     "Golkar": 20,
-    "NasDem": 15,
+    "NasDem": 13,
     "PKB": 1,
     "PKS": 11,
-    "PAN": 3,
+    "PAN": 4,
     "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 102,
-    "Golkar": 81,
+    "Golkar": 82,
     "NasDem": 43,
     "PKB": 44,
     "PKS": 62,
-    "PAN": 18,
+    "PAN": 19,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -36,14 +36,14 @@
   "topic_counts_30d": {
     "bumn": 73,
     "danantara": 42,
-    "koperasi": 82,
+    "koperasi": 81,
     "perdagangan": 12,
     "umkm": 14,
     "ekspor": 4,
-    "investasi": 40,
     "impor": 7,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 3,
+    "investasi": 40,
+    "kartel-monopoli": 5,
     "ipo": 3,
     "dividen": 2
   },
@@ -63,7 +63,7 @@
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 3,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 19,
+    "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 8,
@@ -88,19 +88,54 @@
     "Eko Patrio": 9,
     "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 2,
-    "Iskandar": 4,
+    "Iskandar": 5,
     "Sartono": 3,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 19,
     "Perdagangan": 32,
-    "Hukum/Audit": 43,
-    "Koperasi/UMKM": 91,
+    "Hukum/Audit": 45,
+    "Koperasi/UMKM": 90,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Dasco Kawal Kesepakatan Tripartit, Pastikan Tak Ada PHK di Streamlining Telkom - VIVA.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 02:56:23 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1915971-dasco-kawal-kesepakatan-tripartit-pastikan-tak-ada-phk-di-streamlining-telkom"
+    },
+    {
+      "title": "Prabowo Kerahkan Kementerian hingga TNI-Polri, Targetkan 25.000 KDMP Beroperasi September - pasardana.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 02:55:00 GMT",
+      "link": "https://pasardana.id/news/2026/7/24/prabowo-kerahkan-kementerian-hingga-tni-polri-targetkan-25-000-kdmp-beroperasi-september"
+    },
+    {
+      "title": "Kemendag: Kopi RI raup potensi transaksi Rp194,2 miliar di Belgia - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 02:18:06 GMT",
+      "link": "https://www.antaranews.com/berita/5663715/kemendag-kopi-ri-raup-potensi-transaksi-rp1942-miliar-di-belgia"
+    },
+    {
+      "title": "Demer: Pengesahan UU PFII, Momentum Emas Dorong Investasi ke Bali Utara untuk Pemerataan Ekonomi - atnews.id",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 01:56:52 GMT",
+      "link": "https://atnews.id/portal/news/32464/"
+    },
+    {
+      "title": "KPPU Segera Sidangkan Dugaan Monopoli TikTok Shop - BeritaSatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 00:45:29 GMT",
+      "link": "https://www.beritasatu.com/nasional/3013386/kppu-segera-sidangkan-dugaan-monopoli-tiktok-shop"
+    },
     {
       "title": "Danantara Rampingkan Perusahaan Keuangan BUMN - KONTAN",
       "entity": "Danantara",
@@ -151,6 +186,13 @@
       "link": "https://ketik.com/amp/bupati-anom-sdm-dan-kekompakan-jadi-kunci-kemajuan-koperasi-di-pemalang"
     },
     {
+      "title": "Penyelidikan Dugaan Monopoli TikTok Masuk Tahap Akhir, KPPU Siapkan Pemberkasan - Bisnis Tekno",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 23 Jul 2026 15:59:20 GMT",
+      "link": "https://teknologi.bisnis.com/read/20260723/84/1990689/penyelidikan-dugaan-monopoli-tiktok-masuk-tahap-akhir-kppu-siapkan-pemberkasan"
+    },
+    {
       "title": "Gonjang-ganjing Sektor Energi, Singapura Rombak Kabinet Besar-besaran - SINDOnews Ekbis",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -163,48 +205,6 @@
       "kind": "lembaga",
       "published": "Thu, 23 Jul 2026 14:51:32 GMT",
       "link": "https://wartaekonomi.co.id/gallery-9963/rayakan-hari-anak-nasional-kemendag-ajak-anak-anak-ke-perpustakaan"
-    },
-    {
-      "title": "Galeri Foto - Rayakan Hari Anak Nasional, Kemendag Ajak Anak ke Perpustakaan - Warta Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 14:51:32 GMT",
-      "link": "https://wartaekonomi.co.id/gallery-9963/rayakan-hari-anak-nasional-kemendag-ajak-anak-ke-perpustakaan"
-    },
-    {
-      "title": "Penyelidikan KPPU terkait Monopoli Digital Memasuki Tahap Akhir - investor.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 14:46:00 GMT",
-      "link": "https://investor.id/national/447683/penyelidikan-kppu-terkait-monopoli-digital-memasuki-tahap-akhir"
-    },
-    {
-      "title": "Wali Nanggroe Petakan Hambatan Pengembangan Kawasan Bebas Sabang - Aceh Online",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 14:39:05 GMT",
-      "link": "https://www.acehonline.co/news/wali-nanggroe-petakan-hambatan-pengembangan-kawasan-bebas-sabang/index.html"
-    },
-    {
-      "title": "Lembaga Wali Nanggroe Identifikasi Persoalan Pengembangan Kawasan Bebas Sabang - aceHTrend.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 14:33:20 GMT",
-      "link": "https://www.acehtrend.com/news/lembaga-wali-nanggroe-identifikasi-persoalan-pengembangan-kawasan-bebas-sabang/amp.html"
-    },
-    {
-      "title": "BP BUMN-InJourney perkuat daya saing industri perhotelan nasional - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 13:45:42 GMT",
-      "link": "https://www.antaranews.com/berita/5663179/bp-bumninjourney-perkuat-daya-saing-industri-perhotelan-nasional"
-    },
-    {
-      "title": "Lembaga Wali Nanggroe Identifikasi Persoalan Pengembangan Kawasan Bebas Sabang - theacehpost.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 23 Jul 2026 13:42:12 GMT",
-      "link": "https://theacehpost.com/news/lembaga-wali-nanggroe-identifikasi-persoalan-pengembangan-kawasan-bebas-sabang/amp.html"
     }
   ]
 }
