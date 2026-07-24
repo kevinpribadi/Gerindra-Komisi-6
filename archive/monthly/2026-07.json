@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T17:27:55.570541",
+  "generated_at": "2026-07-24T19:21:28.792204",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 29,
-    "Golkar": 22,
+    "Golkar": 23,
     "NasDem": 10,
     "PKB": 1,
     "PKS": 11,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 102,
-    "Golkar": 83,
+    "Golkar": 84,
     "NasDem": 44,
     "PKB": 41,
     "PKS": 61,
@@ -65,7 +65,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 8,
+    "Doni Akbar": 9,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 11,
@@ -93,12 +93,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 26,
+    "Perdagangan": 25,
     "Hukum/Audit": 49,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 17:32:08 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260725/Mjc0NDQ0"
+    },
     {
       "title": "Perkuat Sinergi Bupati Karo Temui Menteri Koperasi RI Dan Undang Acara FBB - online news indonesia",
       "entity": "Kementerian Koperasi",
@@ -196,13 +203,6 @@
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 11:05:00 GMT",
       "link": "https://rmol.id/amp/2026/07/24/715850/manajer-berperan-penting-dalam-keberhasilan-kopdes-"
-    },
-    {
-      "title": "Dorong Penguatan Penerbangan Nasional, Danantara Tempatkan Pelita Air Dalam Garuda Indonesia Group - Kedai Pena",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 10:55:20 GMT",
-      "link": "https://www.kedaipena.com/dorong-penguatan-penerbangan-nasional-danantara-tempatkan-pelita-air-dalam-garuda-indonesia-group/"
     }
   ]
 }
