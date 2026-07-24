@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T21:00:03.548917",
+  "generated_at": "2026-07-24T22:13:35.386914",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 29,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 73,
-    "danantara": 41,
+    "danantara": 42,
     "koperasi": 77,
     "perdagangan": 12,
     "umkm": 13,
@@ -92,13 +92,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 18,
     "Perdagangan": 25,
     "Hukum/Audit": 50,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Rieke Marah dengan Tingkah WNA Komunitas Lari di Bali - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 21:00:00 GMT",
+      "link": "https://www.jpnn.com/news/rieke-marah-dengan-tingkah-wna-komunitas-lari-di-bali"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -196,13 +203,6 @@
       "kind": "anggota",
       "published": "Fri, 24 Jul 2026 11:47:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-buktikan-janji-rp-1-9-t-dikucurkan-untuk-jalan-jembatan-di-sumbar-27qpG6V3yrs"
-    },
-    {
-      "title": "Kemenkop Tekankan Peran Strategis Manajer dalam Menentukan Keberhasilan KDKMP, Bukan Sekadar Modal - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 11:36:38 GMT",
-      "link": "https://indoposco.id/2026/07/24/kemenkop-tekankan-peran-strategis-manajer-dalam-menentukan-keberhasilan-kdkmp-bukan-sekadar-modal/"
     }
   ]
 }
