@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T15:23:53.290621",
+  "generated_at": "2026-07-24T17:27:55.570541",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 24,
     "PDI-P": 29,
-    "Golkar": 21,
-    "NasDem": 9,
+    "Golkar": 22,
+    "NasDem": 10,
     "PKB": 1,
     "PKS": 11,
     "PAN": 4,
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 102,
-    "Golkar": 82,
-    "NasDem": 43,
-    "PKB": 42,
+    "Golkar": 83,
+    "NasDem": 44,
+    "PKB": 41,
     "PKS": 61,
     "PAN": 16,
     "Demokrat": 26
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
+    "bumn": 73,
     "danantara": 41,
     "koperasi": 77,
     "perdagangan": 12,
@@ -42,7 +42,7 @@
     "ekspor": 2,
     "investasi": 42,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 7,
     "ipo": 3,
     "impor": 6,
     "dividen": 2
@@ -68,16 +68,16 @@
     "Doni Akbar": 8,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 10,
+    "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 9,
+    "Subardi": 10,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 11,
+    "Nasim Khan": 10,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
@@ -93,12 +93,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 27,
-    "Hukum/Audit": 48,
+    "Perdagangan": 26,
+    "Hukum/Audit": 49,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Perkuat Sinergi Bupati Karo Temui Menteri Koperasi RI Dan Undang Acara FBB - online news indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 16:32:05 GMT",
+      "link": "https://olnewsindonesia.com/berita/242026/perkuat-sinergi-bupati-karo-temui-menteri-koperasi-ri-dan-undang-acara-fbb/"
+    },
+    {
+      "title": "Andre Rosiade Buktikan Janji, Prabowo Kucurkan Rp1,2 T Bangun Permukiman-Air Bersih di Sumbar - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 15:43:26 GMT",
+      "link": "https://news.detik.com/berita/d-8589199/andre-rosiade-buktikan-janji-prabowo-kucurkan-rp1-2-t-bangun-permukiman-air-bersih-di-sumbar"
+    },
     {
       "title": "Wibi Andrino Ajak Peserta Laga Perubahan Kenang Jasa Rachmat Gobel - Partai NasDem",
       "entity": "Rachmat Gobel",
@@ -126,6 +140,13 @@
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 14:51:51 GMT",
       "link": "https://tagarjatim.id/31144/kemendag-dorong-produk-lokal-go-global-melalui-program-kampuspreneur/"
+    },
+    {
+      "title": "KPPU Tuntaskan Penyelidikan Dugaan Monopoli TikTok, Perkara Siap Disidangkan - VIVA Bogor",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 13:38:00 GMT",
+      "link": "https://bogor.viva.co.id/amp/kabar-bogor/6108-kppu-tuntaskan-penyelidikan-dugaan-monopoli-tiktok-perkara-siap-disidangkan"
     },
     {
       "title": "Satgas Kawal Pemulihan Aceh, Pemerintah Kucurkan Rp59 Triliun - mmckalteng",
@@ -182,27 +203,6 @@
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 10:55:20 GMT",
       "link": "https://www.kedaipena.com/dorong-penguatan-penerbangan-nasional-danantara-tempatkan-pelita-air-dalam-garuda-indonesia-group/"
-    },
-    {
-      "title": "Andre Rosiade Tambah Bantuan Aula SMAN 14 Padang Jadi Rp 400 Juta - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 10:23:06 GMT",
-      "link": "https://news.detik.com/berita/d-8588812/andre-rosiade-tambah-bantuan-aula-sman-14-padang-jadi-rp-400-juta"
-    },
-    {
-      "title": "Danantara Caplok 4 Manajer Investasi BUMN, Siapkan Holding Raksasa Ber-AUM Rp 170 Triliun - Stabilitas.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 10:07:50 GMT",
-      "link": "https://www.stabilitas.id/danantara-caplok-4-manajer-investasi-bumn-siapkan-holding-raksasa-ber-aum-rp-170-triliun/"
-    },
-    {
-      "title": "Mendag Kunjungi UMKM Coklat nDalam dan Base Artisan di Yogyakarta - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 08:55:23 GMT",
-      "link": "https://www.hetanews.com/article/309551/mendag-kunjungi-umkm-coklat-ndalam-dan-base-artisan-di-yogyakarta"
     }
   ]
 }
