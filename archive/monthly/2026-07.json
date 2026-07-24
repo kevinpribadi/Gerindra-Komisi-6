@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-24T09:19:39.960120",
+  "generated_at": "2026-07-24T11:40:05.028207",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 29,
+    "PDI-P": 28,
     "Golkar": 21,
     "NasDem": 11,
     "PKB": 1,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
-    "danantara": 40,
+    "bumn": 73,
+    "danantara": 41,
     "koperasi": 80,
     "perdagangan": 12,
     "umkm": 13,
     "ekspor": 2,
-    "impor": 7,
+    "investasi": 42,
     "merger-akuisisi": 4,
-    "investasi": 41,
     "kartel-monopoli": 6,
     "ipo": 3,
+    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -93,12 +93,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 28,
-    "Hukum/Audit": 46,
-    "Koperasi/UMKM": 87,
+    "Perdagangan": 27,
+    "Hukum/Audit": 47,
+    "Koperasi/UMKM": 86,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Manajer Berperan Penting dalam Keberhasilan Kopdes - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 11:05:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/24/715850/manajer-berperan-penting-dalam-keberhasilan-kopdes-"
+    },
+    {
+      "title": "Andre Rosiade Tambah Bantuan Aula SMAN 14 Padang Jadi Rp 400 Juta - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 10:23:06 GMT",
+      "link": "https://news.detik.com/berita/d-8588812/andre-rosiade-tambah-bantuan-aula-sman-14-padang-jadi-rp-400-juta"
+    },
+    {
+      "title": "Danantara Caplok 4 Manajer Investasi BUMN, Siapkan Holding Raksasa Ber-AUM Rp 170 Triliun - Stabilitas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 24 Jul 2026 10:07:50 GMT",
+      "link": "https://www.stabilitas.id/danantara-caplok-4-manajer-investasi-bumn-siapkan-holding-raksasa-ber-aum-rp-170-triliun/"
+    },
     {
       "title": "Mendag Kunjungi UMKM Coklat nDalam dan Base Artisan di Yogyakarta - Heta News",
       "entity": "Kementerian Perdagangan",
@@ -114,6 +135,13 @@
       "link": "https://news.detik.com/berita/d-8588601/andre-rosiade-pastikan-antrean-bbm-di-sumbar-dipicu-gangguan-distribusi"
     },
     {
+      "title": "Komisi XIII minta Imigrasi usut dugaan diskriminasi WNI oleh komunitas lari - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 08:22:55 GMT",
+      "link": "https://www.antaranews.com/berita/5664215/komisi-xiii-minta-imigrasi-usut-dugaan-diskriminasi-wni-oleh-komunitas-lari"
+    },
+    {
       "title": "Ekspor Listrik ke Singapura Dimulai Bertahap, Harga Masih Dirundingkan - gokepri",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -126,6 +154,13 @@
       "kind": "lembaga",
       "published": "Fri, 24 Jul 2026 08:02:00 GMT",
       "link": "https://www.rmolsumsel.id/danantara-bentuk-holding-maskapai-bumn-garuda-indonesia-jadi-induk-pelita-air"
+    },
+    {
+      "title": "Andre Rosiade Tinjau Jembatan Bungus, Pastikan BBM Sumbar Aman dari Kelangkaan - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 24 Jul 2026 07:46:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-tinjau-jembatan-bungus-pastikan-bbm-sumbar-aman-dari-kelangkaan-27qlD7PtWND"
     },
     {
       "title": "Danantara Satukan Garuda dan Pelita Air, Bidik Dominasi Pasar - Rmol.id",
@@ -168,41 +203,6 @@
       "kind": "anggota",
       "published": "Fri, 24 Jul 2026 05:14:42 GMT",
       "link": "https://www.nusabali.com/berita/226415/demer-ingatkan-target-32-juta-penumpang-ngurah-rai-terancam-stuck-15-jam-keluar-bandara"
-    },
-    {
-      "title": "Pemerintah Beri Izin Koperasi Kelola Tambang, Darmadi: Seleksi Ketat agar Tak Jadi Ajang ‘Pinjam Bendera’ - beritabuana.co",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 05:07:31 GMT",
-      "link": "https://beritabuana.co/2026/07/24/pemerintah-beri-izin-koperasi-kelola-tambang-darmadi-seleksi-ketat-agar-tak-jadi-ajang-pinjam-bendera/"
-    },
-    {
-      "title": "Anggota DPR Kawendra Sanjung Bupati Jember: Dia Prabowonya Jember - TIMES Indonesia",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 05:05:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-daerah/600519/anggota-dpr-kawendra-sanjung-bupati-jember-dia-prabowonya-jember"
-    },
-    {
-      "title": "Kajian KPPU: Dampak Perkara Logistik Capai Rp1,477 T - indexsumut.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 04:47:19 GMT",
-      "link": "https://indexsumut.com/2026/07/24/kajian-kppu-dampak-perkara-logistik-capai-rp1477-t/"
-    },
-    {
-      "title": "Sah! Danantara Jadi Penyetor Modal Awal PFII, Begini Skemanya - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 03:40:55 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260724095555-17-753503/sah-danantara-jadi-penyetor-modal-awal-pfii-begini-skemanya/amp"
-    },
-    {
-      "title": "Hari Anak Nasional 2026: Perpustakaan Kemendag Hadirkan Dongeng Edukatif tentang Literasi Perdagangan - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 03:40:07 GMT",
-      "link": "https://suarapemerintah.id/2026/07/hari-anak-nasional-2026-perpustakaan-kemendag-hadirkan-dongeng-edukatif-tentang-literasi-perdagangan/"
     }
   ]
 }
