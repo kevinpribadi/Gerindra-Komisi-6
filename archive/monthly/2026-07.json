@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T20:48:57.060297",
+  "generated_at": "2026-07-25T21:53:13.189513",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 28,
@@ -33,12 +33,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
-    "danantara": 41,
+    "bumn": 71,
+    "danantara": 42,
     "koperasi": 74,
-    "perdagangan": 13,
+    "perdagangan": 12,
+    "umkm": 14,
     "investasi": 43,
-    "umkm": 13,
     "ekspor": 3,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
@@ -94,10 +94,24 @@
     "Kinerja BUMN": 18,
     "Perdagangan": 25,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Dorong UMKM Berkprah ke Kancah Nasional dan Internasional - Bisnis.com - Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 21:10:00 GMT",
+      "link": "https://surabaya.bisnis.com/read/20260726/531/1991056/kemendag-dorong-umkm-berkprah-ke-kancah-nasional-dan-internasional"
+    },
+    {
+      "title": "Status Hukum dan Akuntansi Danantara Alami Kebingungan - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 20:23:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/26/715977/status-hukum-dan-akuntansi-danantara-alami-kebingungan-"
+    },
     {
       "title": "Kemendag Dorong Semangat Kewirausahaan Bagi Generasi Muda - Bisnis.com - Surabaya",
       "entity": "Kementerian Perdagangan",
@@ -141,6 +155,13 @@
       "link": "https://timesindonesia.co.id/peristiwa-daerah/600756/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
     },
     {
+      "title": "KPPU Tinjau Koperasi Desa Merah Putih di Deli Serdang - Seputar Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:36:11 GMT",
+      "link": "https://www.seputarsumut.com/berita/kppu-tinjau-koperasi-desa-merah-putih-di-deli-serdang/"
+    },
+    {
       "title": "KKP dan BP Batam Percepat Sertifikasi Ekspor Perikanan - Beritakota",
       "entity": "BP Batam",
       "kind": "lembaga",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 12:25:21 GMT",
       "link": "https://jejakprofil.com/2026/07/25/kkp-dan-bp-batam-kawal-mutu-perikanan-di-zona-perdagangan-bebas/"
-    },
-    {
-      "title": "Legislator Golkar: Ratifikasi Perjanjian Dagang Harus Berdampak Nyata bagi UMKM dan Industri - SINDOnews Nasional",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 11:44:38 GMT",
-      "link": "https://nasional.sindonews.com/read/1732203/15/legislator-golkar-ratifikasi-perjanjian-dagang-harus-berdampak-nyata-bagi-umkm-dan-industri-1784977640"
-    },
-    {
-      "title": "Kemendag Dorong Semangat Kewirausahaan di Kalangan Generasi Muda - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 11:32:18 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tfkkgah-kemendag-dorong-semangat-kewirausahaan-di-kalangan-generasi-muda"
-    },
-    {
-      "title": "KPPU Tinjau Implementasi Koperasi Desa Merah Putih di Desa Marindal II - edisimedan.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 11:06:52 GMT",
-      "link": "https://edisimedan.com/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii/"
     }
   ]
 }
