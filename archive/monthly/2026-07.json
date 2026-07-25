@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T16:09:56.151962",
+  "generated_at": "2026-07-25T17:56:48.363507",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 28,
-    "Golkar": 19,
+    "Golkar": 21,
     "NasDem": 7,
     "PKS": 10,
-    "PAN": 4,
+    "PAN": 6,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 100,
-    "Golkar": 81,
+    "Golkar": 83,
     "NasDem": 45,
     "PKB": 41,
     "PKS": 61,
-    "PAN": 18,
+    "PAN": 20,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -67,7 +67,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 11,
+    "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 5,
@@ -85,7 +85,7 @@
     "Ismail": 20,
     "Eko Patrio": 8,
     "Nasril Bahar": 3,
-    "Iskandar": 7,
+    "Iskandar": 9,
     "Sartono": 3,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
@@ -99,11 +99,39 @@
   },
   "top_headlines": [
     {
+      "title": "Menapak Tilas Kongres 1947, Dekopin Canangkan Revitalisasi Tugu Koperasi di Kota Tasikmalaya - Harapan Rakyat",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 16:29:18 GMT",
+      "link": "https://www.harapanrakyat.com/2026/07/menapak-tilas-kongres-1947-dekopin-canangkan-revitalisasi-tugu-koperasi-di-kota-tasikmalaya/"
+    },
+    {
+      "title": "Rakerda PAN OKI Muchendi Soroti Peran Iskandar SE Dorong Pembangunan Daerah - Mattanews.co",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 16:19:00 GMT",
+      "link": "https://mattanews.co/rakerda-pan-oki-muchendi-soroti-peran-iskandar-se-dorong-pembangunan-daerah/"
+    },
+    {
       "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - TIMES Indonesia",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 15:42:00 GMT",
       "link": "https://timesindonesia.co.id/peristiwa-daerah/600756/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
+    },
+    {
+      "title": "Forum SAJID, Menkop Dorong Pembentukan Koperasi Profesi bagi Jurnalis dan Konten Kreator - Kicaunews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:29:18 GMT",
+      "link": "https://kicaunews.com/2026/07/25/forum-sajid-menkop-dorong-pembentukan-koperasi-profesi-bagi-jurnalis-dan-konten-kreator/"
+    },
+    {
+      "title": "Pemkab Batang-Dekopinda kawal kinerja koperasi - ANTARA News Jateng",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:09:33 GMT",
+      "link": "https://jateng.antaranews.com/berita/639808/pemkab-batang-dekopinda-kawal-kinerja-koperasi"
     },
     {
       "title": "Tinjau KDMP Marindal II Deli Serdang, KPPU Soroti Potensi Dampak bagi Ritel Tradisional dan UMKM - AnalisaDaily.com",
@@ -141,6 +169,13 @@
       "link": "https://edisimedan.com/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii/"
     },
     {
+      "title": "𝗗𝗿. 𝗛. 𝗝𝗼𝗻𝗰𝗶𝗸 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗗𝗮𝗺𝗽𝗶𝗻𝗴𝗶 𝗛. 𝗜𝘀𝗸𝗮𝗻𝗱𝗮𝗿 𝗟𝗮𝗻𝘁𝗶𝗸 𝗣𝗲𝗻𝗴𝘂𝗿𝘂𝘀 𝗣𝗔𝗡 𝗞𝗮𝗯𝘂𝗽𝗮𝘁𝗲𝗻 𝗢𝗴𝗮𝗻 𝗜𝗹𝗶𝗿𝗢𝗚𝗔𝗡 𝗜𝗟𝗜𝗥 - Anggota DPR-RI H. Iskandar,SE melantik Pengurus PAN Kabupaten Ogan Ilir dan pengurus Kecamatan serta Desa Parta - Sriwijaya Online",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 10:56:18 GMT",
+      "link": "https://sriwijayaonline.com/148639-%F0%9D%97%97%F0%9D%97%BF-%F0%9D%97%9B-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B8-%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE.html"
+    },
+    {
       "title": "Kementerian Perdagangan dan Industri Singapura (MTI) telah berganti nama menjadi Kementerian Energi, Perdagangan, dan Industri (METI). - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -167,41 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 06:39:46 GMT",
       "link": "https://www.vietnam.vn/id/nganh-nao-dang-hut-nhieu-von-fdi-nhat-trung-quoc"
-    },
-    {
-      "title": "Nengah Komisi VI DPR Soroti Antrean Ketapang-Gilimanuk hingga Dampak Ekonomi Kapal Pesiar - Suara Investor",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 06:20:43 GMT",
-      "link": "https://www.suarainvestor.com/nengah-komisi-vi-dpr-soroti-antrean-ketapang-gilimanuk-hingga-dampak-ekonomi-kapal-pesiar/"
-    },
-    {
-      "title": "Peringati Hari Koperasi Ke-79, Pemkab Cilacap Gelar Jalan Sehat dan Senam Bersama - Pemerintah Daerah Kabupaten Cilacap",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 06:19:14 GMT",
-      "link": "https://cilacapkab.go.id/v3/peringati-hari-koperasi-ke-79-pemkab-cilacap-gelar-jalan-sehat-dan-senam-bersama/"
-    },
-    {
-      "title": "Kemenkop Pastikan Rekrutmen Manajer Kopdes Berlanjut - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 05:35:21 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260724180707-92-1384636/kemenkop-pastikan-rekrutmen-manajer-kopdes-berlanjut"
-    },
-    {
-      "title": "Andre Rosiade Bantu Rp 60 Juta untuk Pelajar yang Lolos ke Al Azhar Mesir - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 05:10:17 GMT",
-      "link": "https://news.detik.com/berita/d-8589581/andre-rosiade-bantu-rp-60-juta-untuk-pelajar-yang-lolos-ke-al-azhar-mesir"
-    },
-    {
-      "title": "Andre Rosiade Penuhi Aspirasi, SDN 48 Ganting Segera Punya Ruang Kelas Baru - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 05:04:40 GMT",
-      "link": "https://news.detik.com/berita/d-8589578/andre-rosiade-penuhi-aspirasi-sdn-48-ganting-segera-punya-ruang-kelas-baru"
     }
   ]
 }
