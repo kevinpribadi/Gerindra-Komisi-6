@@ -1,20 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T07:13:22.689201",
+  "generated_at": "2026-07-25T09:44:02.266379",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 28,
     "Golkar": 19,
-    "NasDem": 10,
-    "PKB": 1,
+    "NasDem": 9,
     "PKS": 10,
-    "PAN": 6,
+    "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 100,
-    "Golkar": 82,
+    "Golkar": 81,
     "NasDem": 45,
     "PKB": 41,
     "PKS": 61,
@@ -61,7 +60,7 @@
     "Ida Nurlaela": 16,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
@@ -99,6 +98,20 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Perdagangan dan Industri Singapura (MTI) telah berganti nama menjadi Kementerian Energi, Perdagangan, dan Industri (METI). - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 09:35:32 GMT",
+      "link": "https://www.vietnam.vn/id/bo-thuong-mai-va-cong-nghiep-singapore-mti-doi-ten-thanh-bo-nang-luong-thuong-mai-va-cong-nghiep-meti"
+    },
+    {
+      "title": "‎Kemenkop: Manajer jadi penentu keberhasilan Koperasi Merah Putih Desa - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 08:00:57 GMT",
+      "link": "https://elshinta.com/indeks/dalam-negeri/kemenkop-manajer-jadi-penentu-keberhasilan-koperasi-merah-putih-desa-171465"
+    },
     {
       "title": "Sektor mana yang paling banyak menarik investasi asing langsung (FDI) di Tiongkok? - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -189,20 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 02:22:47 GMT",
       "link": "https://www.antaranews.com/berita/5665371/kemendag-produk-bioteknologi-ri-buka-peluang-lebih-luas-taiwan"
-    },
-    {
-      "title": "DPR Desak Imigrasi Selidiki Komunitas Lari WNA di Bali - merahputih.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 02:03:03 GMT",
-      "link": "https://www.merahputih.com/post/amp/dpr-desak-imigrasi-selidiki-komunitas-lari-wna-di-bali-yang-diduga-diskriminatif"
-    },
-    {
-      "title": "DPR Desak Imigrasi Selidiki Komunitas Lari WNA di Bali - merahputih.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 02:00:36 GMT",
-      "link": "https://www.merahputih.com/post/read/dpr-desak-imigrasi-selidiki-komunitas-lari-wna-di-bali-yang-diduga-diskriminatif"
     }
   ]
 }
