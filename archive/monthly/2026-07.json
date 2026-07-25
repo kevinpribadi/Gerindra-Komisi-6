@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T15:00:11.157290",
+  "generated_at": "2026-07-25T16:09:56.151962",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 28,
@@ -34,10 +34,10 @@
   },
   "topic_counts_30d": {
     "bumn": 71,
-    "danantara": 42,
+    "danantara": 41,
     "koperasi": 74,
-    "perdagangan": 13,
-    "investasi": 45,
+    "perdagangan": 14,
+    "investasi": 44,
     "umkm": 13,
     "ekspor": 2,
     "merger-akuisisi": 4,
@@ -99,11 +99,25 @@
   },
   "top_headlines": [
     {
+      "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - TIMES Indonesia",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:42:00 GMT",
+      "link": "https://timesindonesia.co.id/peristiwa-daerah/600756/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
+    },
+    {
       "title": "Tinjau KDMP Marindal II Deli Serdang, KPPU Soroti Potensi Dampak bagi Ritel Tradisional dan UMKM - AnalisaDaily.com",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 12:30:53 GMT",
       "link": "https://analisadaily.com/berita/baca/2026/07/25/1075896/tinjau-kdmp-marindal-ii-deli-serdang-kppu-soroti-potensi-dampak-bagi-ritel-tradisional-dan-umkm/"
+    },
+    {
+      "title": "KKP dan BP Batam Kawal Mutu Perikanan di Zona Perdagangan Bebas - Jejak Profil",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 12:25:21 GMT",
+      "link": "https://jejakprofil.com/2026/07/25/kkp-dan-bp-batam-kawal-mutu-perikanan-di-zona-perdagangan-bebas/"
     },
     {
       "title": "Legislator Golkar: Ratifikasi Perjanjian Dagang Harus Berdampak Nyata bagi UMKM dan Industri - SINDOnews Nasional",
@@ -188,20 +202,6 @@
       "kind": "anggota",
       "published": "Sat, 25 Jul 2026 05:04:40 GMT",
       "link": "https://news.detik.com/berita/d-8589578/andre-rosiade-penuhi-aspirasi-sdn-48-ganting-segera-punya-ruang-kelas-baru"
-    },
-    {
-      "title": "BPKN Ingatkan Developer Apartemen LRT City: Jangan Sampai Ada Meikarta Jilid II - detikcom",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 04:47:52 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8589522/bpkn-ingatkan-developer-apartemen-lrt-city-jangan-sampai-ada-meikarta-jilid-ii/amp"
-    },
-    {
-      "title": "Kemenkop Bekali Manajer KDKMP dengan Strategi Bisnis Desa - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 04:44:38 GMT",
-      "link": "https://www.metrotvnews.com/read/bD2CwmM9-kemenkop-bekali-manajer-kdkmp-dengan-strategi-bisnis-desa"
     }
   ]
 }
