@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T22:53:27.522507",
+  "generated_at": "2026-07-25T23:58:37.912990",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 28,
@@ -33,7 +33,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
+    "bumn": 70,
     "danantara": 42,
     "koperasi": 74,
     "perdagangan": 12,
@@ -98,6 +98,20 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Setahun lebih rusak dan rawan longsor, Jalan Cot GT belum juga diperbaiki - rakyatpos.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 23:40:02 GMT",
+      "link": "https://www.rakyatpos.id/2026/07/setahun-lebih-rusak-dan-rawan-longsor-jalan-cot-gt-belum-juga-diperbaiki.html"
+    },
+    {
+      "title": "Ekonom Endus Ada Shadow Privatisasi dalam Berdirinya Danantara - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 23:19:00 GMT",
+      "link": "https://rmol.id/amp/2026/07/26/715985/ekonom-endus-ada-shadow-privatisasi-dalam-berdirinya-danantara-"
+    },
     {
       "title": "Kemendag Dorong UMKM Berkprah ke Kancah Nasional dan Internasional - Bisnis.com - Surabaya",
       "entity": "Kementerian Perdagangan",
@@ -188,20 +202,6 @@
       "kind": "anggota",
       "published": "Sat, 25 Jul 2026 13:58:00 GMT",
       "link": "https://www.era-pos.com/nasional/amp/1037469671/kawal-kem-ppkf-2027-rizal-bawazier-tekankan-penguatan-kdmp-hingga-restrukturisasi-bumn"
-    },
-    {
-      "title": "Tinjau KDMP Marindal II Deli Serdang, KPPU Soroti Potensi Dampak bagi Ritel Tradisional dan UMKM - AnalisaDaily.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 12:30:53 GMT",
-      "link": "https://analisadaily.com/berita/baca/2026/07/25/1075896/tinjau-kdmp-marindal-ii-deli-serdang-kppu-soroti-potensi-dampak-bagi-ritel-tradisional-dan-umkm/"
-    },
-    {
-      "title": "KKP dan BP Batam Kawal Mutu Perikanan di Zona Perdagangan Bebas - Jejak Profil",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 12:25:21 GMT",
-      "link": "https://jejakprofil.com/2026/07/25/kkp-dan-bp-batam-kawal-mutu-perikanan-di-zona-perdagangan-bebas/"
     }
   ]
 }
