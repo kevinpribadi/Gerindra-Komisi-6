@@ -1,17 +1,17 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T17:56:48.363507",
+  "generated_at": "2026-07-25T19:08:26.264696",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 28,
     "Golkar": 21,
     "NasDem": 7,
-    "PKS": 10,
+    "PKS": 12,
     "PAN": 6,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 67,
     "PDI-P": 100,
     "Golkar": 83,
     "NasDem": 45,
@@ -33,7 +33,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
+    "bumn": 72,
     "danantara": 41,
     "koperasi": 74,
     "perdagangan": 14,
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 11,
+    "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 18,
     "Darmadi Durianto": 20,
@@ -91,7 +91,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 18,
     "Perdagangan": 24,
     "Hukum/Audit": 49,
     "Koperasi/UMKM": 81,
@@ -113,6 +113,13 @@
       "link": "https://mattanews.co/rakerda-pan-oki-muchendi-soroti-peran-iskandar-se-dorong-pembangunan-daerah/"
     },
     {
+      "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - times.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:45:00 GMT",
+      "link": "https://times.co.id/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
+    },
+    {
       "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - TIMES Indonesia",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -132,6 +139,13 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 15:09:33 GMT",
       "link": "https://jateng.antaranews.com/berita/639808/pemkab-batang-dekopinda-kawal-kinerja-koperasi"
+    },
+    {
+      "title": "Kawal KEM-PPKF 2027, Rizal Bawazier Tekankan Penguatan KDMP hingga Restrukturisasi BUMN - Erapos - era-pos.com",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 13:58:00 GMT",
+      "link": "https://www.era-pos.com/nasional/amp/1037469671/kawal-kem-ppkf-2027-rizal-bawazier-tekankan-penguatan-kdmp-hingga-restrukturisasi-bumn"
     },
     {
       "title": "Tinjau KDMP Marindal II Deli Serdang, KPPU Soroti Potensi Dampak bagi Ritel Tradisional dan UMKM - AnalisaDaily.com",
@@ -188,20 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 09:33:51 GMT",
       "link": "https://radarbangsa.co.id/surabaya-gaungkan-koperasi-generasi-baru-pada-peringatan-harkop-ke-79/"
-    },
-    {
-      "title": "‎Kemenkop: Manajer jadi penentu keberhasilan Koperasi Merah Putih Desa - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 08:00:57 GMT",
-      "link": "https://elshinta.com/indeks/dalam-negeri/kemenkop-manajer-jadi-penentu-keberhasilan-koperasi-merah-putih-desa-171465"
-    },
-    {
-      "title": "Sektor mana yang paling banyak menarik investasi asing langsung (FDI) di Tiongkok? - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 06:39:46 GMT",
-      "link": "https://www.vietnam.vn/id/nganh-nao-dang-hut-nhieu-von-fdi-nhat-trung-quoc"
     }
   ]
 }
