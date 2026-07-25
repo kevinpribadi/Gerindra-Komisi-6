@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T09:44:02.266379",
+  "generated_at": "2026-07-25T11:07:31.981959",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 28,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 100,
-    "Golkar": 81,
+    "Golkar": 80,
     "NasDem": 45,
     "PKB": 41,
     "PKS": 61,
@@ -35,7 +35,7 @@
   "topic_counts_30d": {
     "bumn": 71,
     "danantara": 42,
-    "koperasi": 73,
+    "koperasi": 74,
     "perdagangan": 13,
     "investasi": 45,
     "umkm": 12,
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 7,
+    "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 11,
@@ -94,10 +94,17 @@
     "Kinerja BUMN": 17,
     "Perdagangan": 24,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 78,
+    "Koperasi/UMKM": 79,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "KPPU Tinjau Implementasi Koperasi Desa Merah Putih di Desa Marindal II - edisimedan.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 11:06:52 GMT",
+      "link": "https://edisimedan.com/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii/"
+    },
     {
       "title": "Kementerian Perdagangan dan Industri Singapura (MTI) telah berganti nama menjadi Kementerian Energi, Perdagangan, dan Industri (METI). - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -195,13 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 03:05:41 GMT",
       "link": "https://haisawit.co.id/news/detail/bupati-muba-matangkan-persiapan-peresmian-pabrik-cpo-kud-sejahtera-yang-siap-beroperasi-agustus-mendatang"
-    },
-    {
-      "title": "Kemendag: Produk bioteknologi RI buka peluang lebih luas Taiwan - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 02:22:47 GMT",
-      "link": "https://www.antaranews.com/berita/5665371/kemendag-produk-bioteknologi-ri-buka-peluang-lebih-luas-taiwan"
     }
   ]
 }
