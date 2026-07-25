@@ -1,17 +1,17 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T19:08:26.264696",
+  "generated_at": "2026-07-25T20:48:57.060297",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 28,
     "PDI-P": 28,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 7,
     "PKS": 12,
     "PAN": 6,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 67,
+    "Gerindra": 68,
     "PDI-P": 100,
     "Golkar": 83,
     "NasDem": 45,
@@ -36,10 +36,10 @@
     "bumn": 72,
     "danantara": 41,
     "koperasi": 74,
-    "perdagangan": 14,
-    "investasi": 44,
+    "perdagangan": 13,
+    "investasi": 43,
     "umkm": 13,
-    "ekspor": 2,
+    "ekspor": 3,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
     "ipo": 3,
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 12,
+    "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 18,
     "Darmadi Durianto": 20,
@@ -92,12 +92,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 24,
+    "Perdagangan": 25,
     "Hukum/Audit": 49,
     "Koperasi/UMKM": 81,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Dorong Semangat Kewirausahaan Bagi Generasi Muda - Bisnis.com - Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 19:45:28 GMT",
+      "link": "https://surabaya.bisnis.com/read/20260726/531/1991057/kemendag-dorong-semangat-kewirausahaan-bagi-generasi-muda"
+    },
     {
       "title": "Menapak Tilas Kongres 1947, Dekopin Canangkan Revitalisasi Tugu Koperasi di Kota Tasikmalaya - Harapan Rakyat",
       "entity": "Dekopin",
@@ -113,6 +120,13 @@
       "link": "https://mattanews.co/rakerda-pan-oki-muchendi-soroti-peran-iskandar-se-dorong-pembangunan-daerah/"
     },
     {
+      "title": "Mulyadi Kembali Terpilih Secara Aklamasi Jadi Ketua DPD Partai Demokrat Sumbar - Langgam.id",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 15:58:51 GMT",
+      "link": "https://langgam.id/mulyadi-kembali-terpilih-secara-aklamasi-jadi-ketua-dpd-partai-demokrat-sumbar/"
+    },
+    {
       "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - times.co.id",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -125,6 +139,13 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 15:42:00 GMT",
       "link": "https://timesindonesia.co.id/peristiwa-daerah/600756/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
+    },
+    {
+      "title": "KKP dan BP Batam Percepat Sertifikasi Ekspor Perikanan - Beritakota",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 15:32:00 GMT",
+      "link": "https://beritakota.id/kkp-dan-bp-batam-percepat-sertifikasi-ekspor-perikanan/"
     },
     {
       "title": "Forum SAJID, Menkop Dorong Pembentukan Koperasi Profesi bagi Jurnalis dan Konten Kreator - Kicaunews",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 11:06:52 GMT",
       "link": "https://edisimedan.com/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii/"
-    },
-    {
-      "title": "𝗗𝗿. 𝗛. 𝗝𝗼𝗻𝗰𝗶𝗸 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗗𝗮𝗺𝗽𝗶𝗻𝗴𝗶 𝗛. 𝗜𝘀𝗸𝗮𝗻𝗱𝗮𝗿 𝗟𝗮𝗻𝘁𝗶𝗸 𝗣𝗲𝗻𝗴𝘂𝗿𝘂𝘀 𝗣𝗔𝗡 𝗞𝗮𝗯𝘂𝗽𝗮𝘁𝗲𝗻 𝗢𝗴𝗮𝗻 𝗜𝗹𝗶𝗿𝗢𝗚𝗔𝗡 𝗜𝗟𝗜𝗥 - Anggota DPR-RI H. Iskandar,SE melantik Pengurus PAN Kabupaten Ogan Ilir dan pengurus Kecamatan serta Desa Parta - Sriwijaya Online",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 10:56:18 GMT",
-      "link": "https://sriwijayaonline.com/148639-%F0%9D%97%97%F0%9D%97%BF-%F0%9D%97%9B-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B8-%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE.html"
-    },
-    {
-      "title": "Kementerian Perdagangan dan Industri Singapura (MTI) telah berganti nama menjadi Kementerian Energi, Perdagangan, dan Industri (METI). - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 09:35:32 GMT",
-      "link": "https://www.vietnam.vn/id/bo-thuong-mai-va-cong-nghiep-singapore-mti-doi-ten-thanh-bo-nang-luong-thuong-mai-va-cong-nghiep-meti"
-    },
-    {
-      "title": "Surabaya Gaungkan Koperasi Generasi Baru pada Peringatan Harkop ke-79 - Radar Bangsa",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 09:33:51 GMT",
-      "link": "https://radarbangsa.co.id/surabaya-gaungkan-koperasi-generasi-baru-pada-peringatan-harkop-ke-79/"
     }
   ]
 }
