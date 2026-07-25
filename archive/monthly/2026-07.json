@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T04:07:44.496251",
+  "generated_at": "2026-07-25T07:13:22.689201",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 26,
     "PDI-P": 28,
-    "Golkar": 21,
-    "NasDem": 9,
+    "Golkar": 19,
+    "NasDem": 10,
     "PKB": 1,
-    "PKS": 11,
+    "PKS": 10,
     "PAN": 6,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 65,
-    "PDI-P": 101,
-    "Golkar": 84,
-    "NasDem": 44,
-    "PKB": 42,
+    "PDI-P": 100,
+    "Golkar": 82,
+    "NasDem": 45,
+    "PKB": 41,
     "PKS": 61,
     "PAN": 18,
     "Demokrat": 26
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
+    "bumn": 71,
     "danantara": 42,
-    "koperasi": 76,
+    "koperasi": 73,
     "perdagangan": 13,
-    "investasi": 43,
-    "umkm": 13,
+    "investasi": 45,
+    "umkm": 12,
     "ekspor": 2,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
@@ -60,22 +60,22 @@
     "Sadarestuwati": 3,
     "Ida Nurlaela": 16,
     "Budi Sulistyono": 2,
-    "Totok Hedi Santosa": 2,
+    "Totok Hedi Santosa": 1,
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 9,
+    "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 4,
+    "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 10,
     "Ida Fauziyah": 1,
@@ -92,13 +92,83 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 17,
     "Perdagangan": 24,
-    "Hukum/Audit": 48,
-    "Koperasi/UMKM": 81,
+    "Hukum/Audit": 49,
+    "Koperasi/UMKM": 78,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Sektor mana yang paling banyak menarik investasi asing langsung (FDI) di Tiongkok? - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 06:39:46 GMT",
+      "link": "https://www.vietnam.vn/id/nganh-nao-dang-hut-nhieu-von-fdi-nhat-trung-quoc"
+    },
+    {
+      "title": "Nengah Komisi VI DPR Soroti Antrean Ketapang-Gilimanuk hingga Dampak Ekonomi Kapal Pesiar - Suara Investor",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 06:20:43 GMT",
+      "link": "https://www.suarainvestor.com/nengah-komisi-vi-dpr-soroti-antrean-ketapang-gilimanuk-hingga-dampak-ekonomi-kapal-pesiar/"
+    },
+    {
+      "title": "Peringati Hari Koperasi Ke-79, Pemkab Cilacap Gelar Jalan Sehat dan Senam Bersama - Pemerintah Daerah Kabupaten Cilacap",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 06:19:14 GMT",
+      "link": "https://cilacapkab.go.id/v3/peringati-hari-koperasi-ke-79-pemkab-cilacap-gelar-jalan-sehat-dan-senam-bersama/"
+    },
+    {
+      "title": "Kemenkop Pastikan Rekrutmen Manajer Kopdes Berlanjut - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 05:35:21 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260724180707-92-1384636/kemenkop-pastikan-rekrutmen-manajer-kopdes-berlanjut"
+    },
+    {
+      "title": "Andre Rosiade Bantu Rp 60 Juta untuk Pelajar yang Lolos ke Al Azhar Mesir - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 05:10:17 GMT",
+      "link": "https://news.detik.com/berita/d-8589581/andre-rosiade-bantu-rp-60-juta-untuk-pelajar-yang-lolos-ke-al-azhar-mesir"
+    },
+    {
+      "title": "Andre Rosiade Penuhi Aspirasi, SDN 48 Ganting Segera Punya Ruang Kelas Baru - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 05:04:40 GMT",
+      "link": "https://news.detik.com/berita/d-8589578/andre-rosiade-penuhi-aspirasi-sdn-48-ganting-segera-punya-ruang-kelas-baru"
+    },
+    {
+      "title": "BPKN Ingatkan Developer Apartemen LRT City: Jangan Sampai Ada Meikarta Jilid II - detikcom",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 04:47:52 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8589522/bpkn-ingatkan-developer-apartemen-lrt-city-jangan-sampai-ada-meikarta-jilid-ii/amp"
+    },
+    {
+      "title": "Kemenkop Bekali Manajer KDKMP dengan Strategi Bisnis Desa - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 04:44:38 GMT",
+      "link": "https://www.metrotvnews.com/read/bD2CwmM9-kemenkop-bekali-manajer-kdkmp-dengan-strategi-bisnis-desa"
+    },
+    {
+      "title": "Rieke Minta Imigrasi Audit Izin Tinggal WNA Komunitas Lari di Bali - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 04:05:00 GMT",
+      "link": "https://www.jpnn.com/news/rieke-minta-imigrasi-audit-izin-tinggal-wna-komunitas-lari-di-bali"
+    },
+    {
+      "title": "DPR RI Apresiasi Homecare Gus Fawait, Jember Jadi Contoh Layanan Inklusif - Radar Bangsa",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 04:04:38 GMT",
+      "link": "https://radarbangsa.co.id/dpr-ri-apresiasi-homecare-gus-fawait-jember-jadi-contoh-layanan-inklusif/"
+    },
     {
       "title": "PKB Ajak Prabowo dan DPR Revisi 108 UU - NUSABALI.com",
       "entity": "Iskandar",
@@ -128,81 +198,11 @@
       "link": "https://www.merahputih.com/post/amp/dpr-desak-imigrasi-selidiki-komunitas-lari-wna-di-bali-yang-diduga-diskriminatif"
     },
     {
-      "title": "MUI Usulkan Pembentukan Danantara Syariah untuk Konsolidasi Ekonomi Umat - Suara Surabaya",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 01:14:14 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/mui-usulkan-pembentukan-danantara-syariah-untuk-konsolidasi-ekonomi-umat/"
-    },
-    {
-      "title": "Di Balik Keyakinan Singapura Berinvestasi di Indonesia - gokepri",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 00:15:41 GMT",
-      "link": "https://gokepri.com/di-balik-keyakinan-singapura-berinvestasi-di-indonesia/"
-    },
-    {
-      "title": "Rieke Marah dengan Tingkah WNA Komunitas Lari di Bali - JPNN.com",
+      "title": "DPR Desak Imigrasi Selidiki Komunitas Lari WNA di Bali - merahputih.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 21:00:00 GMT",
-      "link": "https://www.jpnn.com/news/rieke-marah-dengan-tingkah-wna-komunitas-lari-di-bali"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 20:20:20 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 17:32:08 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260725/Mjc0NDQ0"
-    },
-    {
-      "title": "Gagal Bayar PT Pos Indonesia Hingga Rp24,11 Miliar, Darmadi Durianto: Benahi Persoalan Fundamental - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 17:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/gagal-bayar-pt-pos-indonesia-hingga-rp24-11-miliar-darmadi-durianto-benahi-persoalan-fundamental-b2pWYZbgBP"
-    },
-    {
-      "title": "KPPU: Intervensi Regulator Beri Dampak Ekonomi Rp1,477 Triliun, Dominasi Algoritma Jadi Tantangan - detiknews.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 16:50:37 GMT",
-      "link": "https://detiknews.id/ekonomi-bisnis/kppu-intervensi-regulator-beri-dampak-ekonomi-rp1477-triliun-dominasi-algoritma-jadi-tantangan/"
-    },
-    {
-      "title": "Perkuat Sinergi Bupati Karo Temui Menteri Koperasi RI Dan Undang Acara FBB - online news indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 24 Jul 2026 16:32:05 GMT",
-      "link": "https://olnewsindonesia.com/berita/242026/perkuat-sinergi-bupati-karo-temui-menteri-koperasi-ri-dan-undang-acara-fbb/"
-    },
-    {
-      "title": "Andre Rosiade Buktikan Janji, Prabowo Kucurkan Rp1,2 T Bangun Permukiman-Air Bersih di Sumbar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 15:43:26 GMT",
-      "link": "https://news.detik.com/berita/d-8589199/andre-rosiade-buktikan-janji-prabowo-kucurkan-rp1-2-t-bangun-permukiman-air-bersih-di-sumbar"
-    },
-    {
-      "title": "Wibi Andrino Ajak Peserta Laga Perubahan Kenang Jasa Rachmat Gobel - Partai NasDem",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 15:03:28 GMT",
-      "link": "https://partainasdem.id/2026/07/24/wibi-andrino-ajak-peserta-laga-perubahan-kenang-jasa-rachmat-gobel/"
-    },
-    {
-      "title": "Sadarestuwati Salurkan Bantuan Traktor dan Combine Harvester Kepada Kelompok Tani - gesuri.id",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Fri, 24 Jul 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/sadarestuwati-salurkan-bantuan-traktor-dan-combine-harvester-kepada-kelompok-tani-b2pWYZbgBH"
+      "published": "Sat, 25 Jul 2026 02:00:36 GMT",
+      "link": "https://www.merahputih.com/post/read/dpr-desak-imigrasi-selidiki-komunitas-lari-wna-di-bali-yang-diduga-diskriminatif"
     }
   ]
 }
