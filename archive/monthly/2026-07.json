@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T11:07:31.981959",
+  "generated_at": "2026-07-25T13:19:25.900585",
   "party_counts_7d": {
-    "Gerindra": 26,
+    "Gerindra": 27,
     "PDI-P": 28,
-    "Golkar": 19,
-    "NasDem": 9,
+    "Golkar": 20,
+    "NasDem": 7,
     "PKS": 10,
-    "PAN": 5,
+    "PAN": 4,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 66,
     "PDI-P": 100,
-    "Golkar": 80,
+    "Golkar": 81,
     "NasDem": 45,
     "PKB": 41,
     "PKS": 61,
@@ -38,7 +38,7 @@
     "koperasi": 74,
     "perdagangan": 13,
     "investasi": 45,
-    "umkm": 12,
+    "umkm": 13,
     "ekspor": 2,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
@@ -48,7 +48,7 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Muhammad Husein Fadlulloh": 8,
+    "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
     "Mulyadi": 11,
@@ -63,7 +63,7 @@
     "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
-    "Sarifah Suraidah": 1,
+    "Sarifah Suraidah": 2,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
@@ -94,10 +94,31 @@
     "Kinerja BUMN": 17,
     "Perdagangan": 24,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 79,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Tinjau KDMP Marindal II Deli Serdang, KPPU Soroti Potensi Dampak bagi Ritel Tradisional dan UMKM - AnalisaDaily.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 12:30:53 GMT",
+      "link": "https://analisadaily.com/berita/baca/2026/07/25/1075896/tinjau-kdmp-marindal-ii-deli-serdang-kppu-soroti-potensi-dampak-bagi-ritel-tradisional-dan-umkm/"
+    },
+    {
+      "title": "Legislator Golkar: Ratifikasi Perjanjian Dagang Harus Berdampak Nyata bagi UMKM dan Industri - SINDOnews Nasional",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Sat, 25 Jul 2026 11:44:38 GMT",
+      "link": "https://nasional.sindonews.com/read/1732203/15/legislator-golkar-ratifikasi-perjanjian-dagang-harus-berdampak-nyata-bagi-umkm-dan-industri-1784977640"
+    },
+    {
+      "title": "Kemendag Dorong Semangat Kewirausahaan di Kalangan Generasi Muda - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 11:32:18 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tfkkgah-kemendag-dorong-semangat-kewirausahaan-di-kalangan-generasi-muda"
+    },
     {
       "title": "KPPU Tinjau Implementasi Koperasi Desa Merah Putih di Desa Marindal II - edisimedan.com",
       "entity": "KPPU",
@@ -111,6 +132,13 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 09:35:32 GMT",
       "link": "https://www.vietnam.vn/id/bo-thuong-mai-va-cong-nghiep-singapore-mti-doi-ten-thanh-bo-nang-luong-thuong-mai-va-cong-nghiep-meti"
+    },
+    {
+      "title": "Surabaya Gaungkan Koperasi Generasi Baru pada Peringatan Harkop ke-79 - Radar Bangsa",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 25 Jul 2026 09:33:51 GMT",
+      "link": "https://radarbangsa.co.id/surabaya-gaungkan-koperasi-generasi-baru-pada-peringatan-harkop-ke-79/"
     },
     {
       "title": "‎Kemenkop: Manajer jadi penentu keberhasilan Koperasi Merah Putih Desa - Elshinta",
@@ -174,34 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 04:44:38 GMT",
       "link": "https://www.metrotvnews.com/read/bD2CwmM9-kemenkop-bekali-manajer-kdkmp-dengan-strategi-bisnis-desa"
-    },
-    {
-      "title": "Rieke Minta Imigrasi Audit Izin Tinggal WNA Komunitas Lari di Bali - JPNN.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 04:05:00 GMT",
-      "link": "https://www.jpnn.com/news/rieke-minta-imigrasi-audit-izin-tinggal-wna-komunitas-lari-di-bali"
-    },
-    {
-      "title": "DPR RI Apresiasi Homecare Gus Fawait, Jember Jadi Contoh Layanan Inklusif - Radar Bangsa",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 04:04:38 GMT",
-      "link": "https://radarbangsa.co.id/dpr-ri-apresiasi-homecare-gus-fawait-jember-jadi-contoh-layanan-inklusif/"
-    },
-    {
-      "title": "PKB Ajak Prabowo dan DPR Revisi 108 UU - NUSABALI.com",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 03:37:28 GMT",
-      "link": "https://www.nusabali.com/berita/226574/pkb-ajak-prabowo-dan-dpr-revisi-108-uu"
-    },
-    {
-      "title": "Bupati Muba Matangkan Persiapan Peresmian Pabrik CPO KUD Sejahtera yang Siap Beroperasi Agustus Mendatang - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 03:05:41 GMT",
-      "link": "https://haisawit.co.id/news/detail/bupati-muba-matangkan-persiapan-peresmian-pabrik-cpo-kud-sejahtera-yang-siap-beroperasi-agustus-mendatang"
     }
   ]
 }
