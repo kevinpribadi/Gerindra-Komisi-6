@@ -1,21 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T13:15:39.587722",
+  "generated_at": "2026-07-26T15:03:07.028405",
   "party_counts_7d": {
     "Gerindra": 28,
-    "PDI-P": 32,
+    "PDI-P": 33,
     "Golkar": 17,
     "NasDem": 7,
+    "PKB": 1,
     "PKS": 12,
     "PAN": 6,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 102,
+    "PDI-P": 103,
     "Golkar": 83,
     "NasDem": 45,
-    "PKB": 39,
+    "PKB": 40,
     "PKS": 61,
     "PAN": 20,
     "Demokrat": 26
@@ -58,7 +59,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 3,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 18,
@@ -77,7 +78,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 9,
+    "Nasim Khan": 10,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
@@ -99,6 +100,20 @@
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR: Negara wajib pulihkan trauma anak terduga pencuri ayam - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 14:32:46 GMT",
+      "link": "https://www.antaranews.com/berita/5666937/anggota-dpr-negara-wajib-pulihkan-trauma-anak-terduga-pencuri-ayam"
+    },
+    {
+      "title": "Nasim Khan Jembatani Aspirasi, SPBUN SGN Batalkan Aksi di Jakarta Usai Ada Kesepakatan - beritanasional.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 13:33:24 GMT",
+      "link": "https://beritanasional.id/nasim-khan-jembatani-aspirasi-spbun-sgn-batalkan-aksi-di-jakarta-usai-ada-kesepakatan/"
+    },
     {
       "title": "DPR Nilai Restrukturisasi Danantara Bisa Perkuat Kinerja BUMN - VIVA.co.id",
       "entity": "Danantara",
@@ -128,6 +143,13 @@
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8591134/tak-andalkan-apbn-dari-mana-modal-awal-pfii"
     },
     {
+      "title": "Kemenkop Gandeng MES dan DMI Kembangkan Koperasi Masjid - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 11:29:49 GMT",
+      "link": "https://sinpo.id/detail/125107/kemenkop-gandeng-mes-dan-dmi-kembangkan-koperasi-masjid"
+    },
+    {
       "title": "Harkopnas ke-79, Pemkab Sidoarjo Tegaskan Koperasi Jadi Motor Penggerak Ekonomi Rakyat - jatimupdate.id",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -140,6 +162,13 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 10:19:49 GMT",
       "link": "https://news.detik.com/berita/d-8591056/menkop-melakukan-pencanangan-revitalisasi-tugu-koperasi-tasikmalaya"
+    },
+    {
+      "title": "Ribuan Warga Sidoarjo Semarakkan Harkopnas ke-79, Dorong Koperasi Jadi Penggerak Ekonomi Rakyat - TIMES Sidoarjo",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 10:09:00 GMT",
+      "link": "https://sidoarjo.times.co.id/news/peristiwa/CFLGQRHj/ribuan-warga-sidoarjo-semarakkan-harkopnas-ke-79-dorong-koperasi-jadi-penggerak-ekonomi-rakyat"
     },
     {
       "title": "Dekopinda Kota Malang Sambut Rencana Undang-Undang Koperasi Baru - Javasatu.com",
@@ -163,46 +192,18 @@
       "link": "https://www.gesuri.id/internal/pembukaan-pameran-sejarah-kudatuli-ida-nurlaela-soroti-pentingnya-menjaga-demokrasi-b2pXdZbgHb"
     },
     {
+      "title": "Pembukaan Pameran Sejarah Kudatuli, Ida Nurlaela Soroti Pentingnya Menjaga Demokrasi dan Kebebasan Berpendapat - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 09:01:00 GMT",
+      "link": "https://www.gesuri.id/internal/pembukaan-pameran-sejarah-kudatuli-ida-nurlaela-soroti-pentingnya-menjaga-demokrasi-dan-kebebasan-berpendapat-b2pXdZbgHb"
+    },
+    {
       "title": "Nyaris Dijual ke Investor, Tugu Koperasi Tasik Kini Direvitalisasi - detikcom",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 08:20:32 GMT",
       "link": "https://www.detik.com/jabar/berita/d-8590863/nyaris-dijual-ke-investor-tugu-koperasi-tasik-kini-direvitalisasi"
-    },
-    {
-      "title": "Viral Lagi, Interupsi Anggota Komisi VI Mufti Anam: \"Siapa Bayar Utang KDMP? Masa Jabatan Presiden 5 Tahun, Tenor Kredit 6 Tahun\" - AFU.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sun, 26 Jul 2026 08:05:53 GMT",
-      "link": "https://afu.id/nasional/viral-lagi-interupsi-anggota-komisi-vi-mufti-anam-siapa-bayar-utang-kdmp-masa-jabatan-presiden-5-tahun-tenor-kredit-6-tahun"
-    },
-    {
-      "title": "KKP dan BP Batam Bangun Kerjasama Permudah Layananan Sertifikasi Mutu Hasil Laut - GoWest.ID",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 07:41:00 GMT",
-      "link": "https://gowest.id/kkp-dan-bp-batam-bangun-kerjasama-permudah-layananan-sertifikasi-mutu-hasil-laut/"
-    },
-    {
-      "title": "PT PAL Disiapkan Jadi Holding Perkapalan, Komisi VI DPR Kawal Penguatan Industri Maritim Nasional - Bela Rakyat",
-      "entity": "Khilmi",
-      "kind": "anggota",
-      "published": "Sun, 26 Jul 2026 07:30:26 GMT",
-      "link": "https://belarakyat.com/pt-pal-disiapkan-jadi-holding-perkapalan-komisi-vi-dpr-kawal-penguatan-industri-maritim-nasional/"
-    },
-    {
-      "title": "Kemenkop kembangkan koperasi masjid bersama MES dan DMI - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 07:23:18 GMT",
-      "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
-    },
-    {
-      "title": "Kemenkop kembangkan koperasi masjid bersama MES dan DMI - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 07:23:18 GMT",
-      "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
     }
   ]
 }
