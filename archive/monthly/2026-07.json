@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T09:10:15.414519",
+  "generated_at": "2026-07-26T11:17:37.415136",
   "party_counts_7d": {
     "Gerindra": 28,
-    "PDI-P": 29,
+    "PDI-P": 30,
     "Golkar": 16,
     "NasDem": 7,
     "PKS": 12,
@@ -12,7 +12,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 100,
+    "PDI-P": 101,
     "Golkar": 83,
     "NasDem": 45,
     "PKB": 39,
@@ -34,14 +34,14 @@
   },
   "topic_counts_30d": {
     "bumn": 70,
-    "danantara": 42,
+    "danantara": 41,
     "koperasi": 75,
     "perdagangan": 12,
     "umkm": 15,
-    "investasi": 41,
+    "investasi": 40,
     "ekspor": 5,
-    "merger-akuisisi": 4,
     "kartel-monopoli": 8,
+    "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
     "dividen": 2
@@ -58,7 +58,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 3,
-    "Ida Nurlaela": 16,
+    "Ida Nurlaela": 17,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 18,
@@ -92,13 +92,41 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 17,
     "Perdagangan": 26,
     "Hukum/Audit": 49,
     "Koperasi/UMKM": 81,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Menkop Melakukan Pencanangan Revitalisasi Tugu Koperasi Tasikmalaya - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 10:19:49 GMT",
+      "link": "https://news.detik.com/berita/d-8591056/menkop-melakukan-pencanangan-revitalisasi-tugu-koperasi-tasikmalaya"
+    },
+    {
+      "title": "Dekopinda Kota Malang Sambut Rencana Undang-Undang Koperasi Baru - Javasatu.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 09:55:01 GMT",
+      "link": "https://javasatu.com/berita/dekopinda-kota-malang-sambut-rencana-undang-undang-koperasi-baru/"
+    },
+    {
+      "title": "Bupati Bojonegoro Tekankan Peran Koperasi sebagai Penggerak Ekonomi Kerakyataan - SuaraBanyuurip.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 09:11:10 GMT",
+      "link": "https://suarabanyuurip.com/2026/07/26/bupati-bojonegoro-tekankan-peran-koperasi-sebagai-penggerak-ekonomi-kerakyataan/"
+    },
+    {
+      "title": "Pembukaan Pameran Sejarah Kudatuli, Ida Nurlaela Soroti Pentingnya Menjaga Demokrasi - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 09:01:00 GMT",
+      "link": "https://www.gesuri.id/internal/pembukaan-pameran-sejarah-kudatuli-ida-nurlaela-soroti-pentingnya-menjaga-demokrasi-b2pXdZbgHb"
+    },
     {
       "title": "Nyaris Dijual ke Investor, Tugu Koperasi Tasik Kini Direvitalisasi - detikcom",
       "entity": "Kementerian Koperasi",
@@ -121,11 +149,39 @@
       "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
     },
     {
+      "title": "Kemenkop kembangkan koperasi masjid bersama MES dan DMI - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 07:23:18 GMT",
+      "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
+    },
+    {
+      "title": "HUT Koperasi ke-79, Bupati Ischak Ajak Koperasi Bertransformasi Menjadi Ekonomi Daerah - TargetNews.ID",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 07:02:00 GMT",
+      "link": "https://targetnews.id/2026/07/26/hut-koperasi-ke-79-bupati-ischak-ajak-koperasi-bertransformasi-menjadi-ekonomi-daerah/"
+    },
+    {
+      "title": "Peringati Harkopnas ke 79, Bupati Subandi Tegaskan Koperasi Jadi Pilar Ekonomi di Sidoarjo - Republik Jatim",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 06:31:00 GMT",
+      "link": "https://republikjatim.com/news-14045-peringati-harkopnas-ke-79-bupati-subandi-tegaskan-koperasi-jadi-pilar-ekonomi-di-sidoarjo"
+    },
+    {
       "title": "Polemik Kipas Angin Kopdes Rp1,8 T: Sorotan DPR-Respons Agrinas - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 06:30:00 GMT",
       "link": "https://www.bloombergtechnoz.com/detail-news/116246/polemik-kipas-angin-kopdes-rp1-8-t-sorotan-dpr-respons-agrinas"
+    },
+    {
+      "title": "Silaturahmi dan Koordinasi Pengawasan Antara BPKP Provinsi Jawa Barat dan PT Pindad - Badan Pengawasan Keuangan dan Pembangunan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 05:35:53 GMT",
+      "link": "https://www.bpkp.go.id/id/unitKerja/23/berita/mley/silaturahmi-dan-koordinasi-pengawasan-antara-bpkp-provinsi-jawa-barat-dan-pt-pindad"
     },
     {
       "title": "Tulungagung Borong Penghargaan Hari Koperasi ke-79 Jawa Timur, Tokoh dan Pemkab Raih Apresiasi - Serayu Nusantara",
@@ -147,62 +203,6 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 02:28:00 GMT",
       "link": "https://koran-jakarta.com/2026-07-26/kkp-bp-batam-sinergi-urus-sertifikat-ekspor-ikan-di-batam-cuma-10-menit/amp"
-    },
-    {
-      "title": "KKP & BP Batam Sinergi! Urus Sertifikat Ekspor Ikan di Batam Cuma 10 Menit - Koran Jakarta ®",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 02:28:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-26/kkp-bp-batam-sinergi-urus-sertifikat-ekspor-ikan-di-batam-cuma-10-menit"
-    },
-    {
-      "title": "Calon Manajer Kopdes Wajib Tahu! Kemenkop Beberkan Aturan Penempatan Kerja Usai Pelatihan! - Radar Jember",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 01:37:34 GMT",
-      "link": "https://radarjember.jawapos.com/nasional/2607260003/calon-manajer-kopdes-wajib-tahu-kemenkop-beberkan-aturan-penempatan-kerja-usai-pelatihan"
-    },
-    {
-      "title": "Adisatrya Suryo Sulisto Harap Gedung PKK Karanggintung Jadi Ruang Lahirnya Program Pemberdayaan Masyarakat - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sun, 26 Jul 2026 01:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/adisatrya-suryo-sulisto-harap-gedung-pkk-karanggintung-jadi-ruang-lahirnya-program-pemberdayaan-masyarakat-b2pXcZbgEA"
-    },
-    {
-      "title": "KPPU tinjau implementasi Koperasi Desa Merah Putih di Desa Marindal II - Elshinta",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 00:50:37 GMT",
-      "link": "https://elshinta.com/kategori/42/profil/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii-171485"
-    },
-    {
-      "title": "Jalan Sehat Bersama Semarakkan Puncak Peringatan Harkopnas ke-79 di Kabupaten Probolinggo - Kabarpas",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 00:49:13 GMT",
-      "link": "https://kabarpas.com/jalan-sehat-bersama-semarakkan-puncak-peringatan-harkopnas-ke-79-di-kabupaten-probolinggo/"
-    },
-    {
-      "title": "Setahun lebih rusak dan rawan longsor, Jalan Cot GT belum juga diperbaiki - rakyatpos.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 23:40:02 GMT",
-      "link": "https://www.rakyatpos.id/2026/07/setahun-lebih-rusak-dan-rawan-longsor-jalan-cot-gt-belum-juga-diperbaiki.html"
-    },
-    {
-      "title": "Ekonom Endus Ada Shadow Privatisasi dalam Berdirinya Danantara - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 23:19:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/26/715985/ekonom-endus-ada-shadow-privatisasi-dalam-berdirinya-danantara-"
-    },
-    {
-      "title": "Kemendag Dorong UMKM Berkprah ke Kancah Nasional dan Internasional - Bisnis.com - Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 21:10:00 GMT",
-      "link": "https://surabaya.bisnis.com/read/20260726/531/1991056/kemendag-dorong-umkm-berkprah-ke-kancah-nasional-dan-internasional"
     }
   ]
 }
