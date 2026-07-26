@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T03:35:32.896963",
+  "generated_at": "2026-07-26T06:34:13.629123",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 29,
-    "Golkar": 18,
+    "Golkar": 16,
     "NasDem": 7,
     "PKS": 12,
     "PAN": 6,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 100,
-    "Golkar": 83,
+    "Golkar": 84,
     "NasDem": 45,
     "PKB": 40,
     "PKS": 61,
@@ -35,11 +35,11 @@
   "topic_counts_30d": {
     "bumn": 70,
     "danantara": 42,
-    "koperasi": 75,
+    "koperasi": 74,
     "perdagangan": 12,
-    "umkm": 14,
-    "investasi": 42,
-    "ekspor": 4,
+    "umkm": 15,
+    "investasi": 40,
+    "ekspor": 5,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
     "ipo": 3,
@@ -60,7 +60,7 @@
     "Ida Nurlaela": 16,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 17,
+    "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 2,
@@ -74,9 +74,9 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 9,
+    "Nasim Khan": 10,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
@@ -92,12 +92,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 25,
+    "Perdagangan": 26,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 82,
-    "Konflik Publik": 3
+    "Koperasi/UMKM": 80,
+    "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Polemik Kipas Angin Kopdes Rp1,8 T: Sorotan DPR-Respons Agrinas - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 06:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/116246/polemik-kipas-angin-kopdes-rp1-8-t-sorotan-dpr-respons-agrinas"
+    },
+    {
+      "title": "Semarakkan Hari Koperasi ke-79, Pemkab Madiun Gelar Jalan Santai dan Bazar UMKM - JATIM POS online",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 03:31:43 GMT",
+      "link": "https://www.jatimpos.co/jatim/mataraman/21362-semarakkan-hari-koperasi-ke-79-pemkab-madiun-gelar-jalan-santai-dan-bazar-umkm"
+    },
+    {
+      "title": "KKP & BP Batam Sinergi! Urus Sertifikat Ekspor Ikan di Batam Cuma 10 Menit - Koran Jakarta ®",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 02:28:00 GMT",
+      "link": "https://koran-jakarta.com/2026-07-26/kkp-bp-batam-sinergi-urus-sertifikat-ekspor-ikan-di-batam-cuma-10-menit/amp"
+    },
     {
       "title": "KKP & BP Batam Sinergi! Urus Sertifikat Ekspor Ikan di Batam Cuma 10 Menit - Koran Jakarta ®",
       "entity": "BP Batam",
@@ -125,6 +146,13 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 00:50:37 GMT",
       "link": "https://elshinta.com/kategori/42/profil/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii-171485"
+    },
+    {
+      "title": "Jalan Sehat Bersama Semarakkan Puncak Peringatan Harkopnas ke-79 di Kabupaten Probolinggo - Kabarpas",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 00:49:13 GMT",
+      "link": "https://kabarpas.com/jalan-sehat-bersama-semarakkan-puncak-peringatan-harkopnas-ke-79-di-kabupaten-probolinggo/"
     },
     {
       "title": "Setahun lebih rusak dan rawan longsor, Jalan Cot GT belum juga diperbaiki - rakyatpos.id",
@@ -174,34 +202,6 @@
       "kind": "anggota",
       "published": "Sat, 25 Jul 2026 16:19:00 GMT",
       "link": "https://mattanews.co/rakerda-pan-oki-muchendi-soroti-peran-iskandar-se-dorong-pembangunan-daerah/"
-    },
-    {
-      "title": "Mulyadi Kembali Terpilih Secara Aklamasi Jadi Ketua DPD Partai Demokrat Sumbar - Langgam.id",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 15:58:51 GMT",
-      "link": "https://langgam.id/mulyadi-kembali-terpilih-secara-aklamasi-jadi-ketua-dpd-partai-demokrat-sumbar/"
-    },
-    {
-      "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - times.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:45:00 GMT",
-      "link": "https://times.co.id/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
-    },
-    {
-      "title": "Revitalisasi Tugu Koperasi Tasikmalaya Jadi Momentum Menghidupkan Semangat Kongres Pertama Koperasi Indonesia - TIMES Indonesia",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:42:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-daerah/600756/revitalisasi-tugu-koperasi-tasikmalaya-jadi-momentum-menghidupkan-semangat-kongres-pertama-koperasi-indonesia"
-    },
-    {
-      "title": "KPPU Tinjau Koperasi Desa Merah Putih di Deli Serdang - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:36:11 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-tinjau-koperasi-desa-merah-putih-di-deli-serdang/"
     }
   ]
 }
