@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T11:17:37.415136",
+  "generated_at": "2026-07-26T13:15:39.587722",
   "party_counts_7d": {
     "Gerindra": 28,
-    "PDI-P": 30,
-    "Golkar": 16,
+    "PDI-P": 32,
+    "Golkar": 17,
     "NasDem": 7,
     "PKS": 12,
     "PAN": 6,
@@ -12,7 +12,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 101,
+    "PDI-P": 102,
     "Golkar": 83,
     "NasDem": 45,
     "PKB": 39,
@@ -33,8 +33,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
-    "danantara": 41,
+    "bumn": 69,
+    "danantara": 40,
     "koperasi": 75,
     "perdagangan": 12,
     "umkm": 15,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 18,
+    "Mufti Anam": 19,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 3,
@@ -92,13 +92,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 20,
     "Perdagangan": 26,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "DPR Nilai Restrukturisasi Danantara Bisa Perkuat Kinerja BUMN - VIVA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 13:11:24 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1916564-dpr-nilai-restrukturisasi-danantara-bisa-perkuat-kinerja-bumn"
+    },
+    {
+      "title": "Restrukturisasi BPI Danantara: Pangkas Jumlah BUMN demi Fokus Strategis - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 12:52:50 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/914979/restrukturisasi-bpi-danantara-pangkas-jumlah-bumn-demi-fokus-strategis"
+    },
+    {
+      "title": "PFII Tak Andalkan APBN: Modal Awal dari Danantara, Investor, dan BMN - feedberry.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 12:05:38 GMT",
+      "link": "https://feedberry.com/artikel/pfii-tak-andalkan-apbn-modal-awal-dari-danantara-investor-dan-bmn"
+    },
+    {
+      "title": "Tak Andalkan APBN, dari Mana Modal Awal PFII? - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 11:45:14 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8591134/tak-andalkan-apbn-dari-mana-modal-awal-pfii"
+    },
+    {
+      "title": "Harkopnas ke-79, Pemkab Sidoarjo Tegaskan Koperasi Jadi Motor Penggerak Ekonomi Rakyat - jatimupdate.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 11:18:00 GMT",
+      "link": "https://jatimupdate.id/amp/baca-18399-harkopnas-ke-79-pemkab-sidoarjo-tegaskan-koperasi-jadi-motor-penggerak-ekonomi-rakyat"
+    },
     {
       "title": "Menkop Melakukan Pencanangan Revitalisasi Tugu Koperasi Tasikmalaya - detikNews",
       "entity": "Kementerian Koperasi",
@@ -135,6 +170,20 @@
       "link": "https://www.detik.com/jabar/berita/d-8590863/nyaris-dijual-ke-investor-tugu-koperasi-tasik-kini-direvitalisasi"
     },
     {
+      "title": "Viral Lagi, Interupsi Anggota Komisi VI Mufti Anam: \"Siapa Bayar Utang KDMP? Masa Jabatan Presiden 5 Tahun, Tenor Kredit 6 Tahun\" - AFU.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 08:05:53 GMT",
+      "link": "https://afu.id/nasional/viral-lagi-interupsi-anggota-komisi-vi-mufti-anam-siapa-bayar-utang-kdmp-masa-jabatan-presiden-5-tahun-tenor-kredit-6-tahun"
+    },
+    {
+      "title": "KKP dan BP Batam Bangun Kerjasama Permudah Layananan Sertifikasi Mutu Hasil Laut - GoWest.ID",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 07:41:00 GMT",
+      "link": "https://gowest.id/kkp-dan-bp-batam-bangun-kerjasama-permudah-layananan-sertifikasi-mutu-hasil-laut/"
+    },
+    {
       "title": "PT PAL Disiapkan Jadi Holding Perkapalan, Komisi VI DPR Kawal Penguatan Industri Maritim Nasional - Bela Rakyat",
       "entity": "Khilmi",
       "kind": "anggota",
@@ -154,55 +203,6 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 07:23:18 GMT",
       "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
-    },
-    {
-      "title": "HUT Koperasi ke-79, Bupati Ischak Ajak Koperasi Bertransformasi Menjadi Ekonomi Daerah - TargetNews.ID",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 07:02:00 GMT",
-      "link": "https://targetnews.id/2026/07/26/hut-koperasi-ke-79-bupati-ischak-ajak-koperasi-bertransformasi-menjadi-ekonomi-daerah/"
-    },
-    {
-      "title": "Peringati Harkopnas ke 79, Bupati Subandi Tegaskan Koperasi Jadi Pilar Ekonomi di Sidoarjo - Republik Jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 06:31:00 GMT",
-      "link": "https://republikjatim.com/news-14045-peringati-harkopnas-ke-79-bupati-subandi-tegaskan-koperasi-jadi-pilar-ekonomi-di-sidoarjo"
-    },
-    {
-      "title": "Polemik Kipas Angin Kopdes Rp1,8 T: Sorotan DPR-Respons Agrinas - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 06:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/116246/polemik-kipas-angin-kopdes-rp1-8-t-sorotan-dpr-respons-agrinas"
-    },
-    {
-      "title": "Silaturahmi dan Koordinasi Pengawasan Antara BPKP Provinsi Jawa Barat dan PT Pindad - Badan Pengawasan Keuangan dan Pembangunan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 05:35:53 GMT",
-      "link": "https://www.bpkp.go.id/id/unitKerja/23/berita/mley/silaturahmi-dan-koordinasi-pengawasan-antara-bpkp-provinsi-jawa-barat-dan-pt-pindad"
-    },
-    {
-      "title": "Tulungagung Borong Penghargaan Hari Koperasi ke-79 Jawa Timur, Tokoh dan Pemkab Raih Apresiasi - Serayu Nusantara",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 03:39:06 GMT",
-      "link": "https://serayunusantara.com/tulungagung-borong-penghargaan-hari-koperasi-ke-79-jawa-timur-tokoh-dan-pemkab-raih-apresiasi/"
-    },
-    {
-      "title": "Semarakkan Hari Koperasi ke-79, Pemkab Madiun Gelar Jalan Santai dan Bazar UMKM - JATIM POS online",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 03:31:43 GMT",
-      "link": "https://www.jatimpos.co/jatim/mataraman/21362-semarakkan-hari-koperasi-ke-79-pemkab-madiun-gelar-jalan-santai-dan-bazar-umkm"
-    },
-    {
-      "title": "KKP & BP Batam Sinergi! Urus Sertifikat Ekspor Ikan di Batam Cuma 10 Menit - Koran Jakarta ®",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 02:28:00 GMT",
-      "link": "https://koran-jakarta.com/2026-07-26/kkp-bp-batam-sinergi-urus-sertifikat-ekspor-ikan-di-batam-cuma-10-menit/amp"
     }
   ]
 }
