@@ -1,8 +1,8 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T06:34:13.629123",
+  "generated_at": "2026-07-26T09:10:15.414519",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 28,
     "PDI-P": 29,
     "Golkar": 16,
     "NasDem": 7,
@@ -11,11 +11,11 @@
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 68,
+    "Gerindra": 69,
     "PDI-P": 100,
-    "Golkar": 84,
+    "Golkar": 83,
     "NasDem": 45,
-    "PKB": 40,
+    "PKB": 39,
     "PKS": 61,
     "PAN": 20,
     "Demokrat": 26
@@ -35,10 +35,10 @@
   "topic_counts_30d": {
     "bumn": 70,
     "danantara": 42,
-    "koperasi": 74,
+    "koperasi": 75,
     "perdagangan": 12,
     "umkm": 15,
-    "investasi": 40,
+    "investasi": 41,
     "ekspor": 5,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
@@ -48,6 +48,7 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
+    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
@@ -64,7 +65,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 6,
+    "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 13,
@@ -76,7 +77,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 10,
+    "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
@@ -94,16 +95,44 @@
     "Kinerja BUMN": 18,
     "Perdagangan": 26,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Nyaris Dijual ke Investor, Tugu Koperasi Tasik Kini Direvitalisasi - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 08:20:32 GMT",
+      "link": "https://www.detik.com/jabar/berita/d-8590863/nyaris-dijual-ke-investor-tugu-koperasi-tasik-kini-direvitalisasi"
+    },
+    {
+      "title": "PT PAL Disiapkan Jadi Holding Perkapalan, Komisi VI DPR Kawal Penguatan Industri Maritim Nasional - Bela Rakyat",
+      "entity": "Khilmi",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 07:30:26 GMT",
+      "link": "https://belarakyat.com/pt-pal-disiapkan-jadi-holding-perkapalan-komisi-vi-dpr-kawal-penguatan-industri-maritim-nasional/"
+    },
+    {
+      "title": "Kemenkop kembangkan koperasi masjid bersama MES dan DMI - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 07:23:18 GMT",
+      "link": "https://www.antaranews.com/berita/5666525/kemenkop-kembangkan-koperasi-masjid-bersama-mes-dan-dmi"
+    },
     {
       "title": "Polemik Kipas Angin Kopdes Rp1,8 T: Sorotan DPR-Respons Agrinas - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 06:30:00 GMT",
       "link": "https://www.bloombergtechnoz.com/detail-news/116246/polemik-kipas-angin-kopdes-rp1-8-t-sorotan-dpr-respons-agrinas"
+    },
+    {
+      "title": "Tulungagung Borong Penghargaan Hari Koperasi ke-79 Jawa Timur, Tokoh dan Pemkab Raih Apresiasi - Serayu Nusantara",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 03:39:06 GMT",
+      "link": "https://serayunusantara.com/tulungagung-borong-penghargaan-hari-koperasi-ke-79-jawa-timur-tokoh-dan-pemkab-raih-apresiasi/"
     },
     {
       "title": "Semarakkan Hari Koperasi ke-79, Pemkab Madiun Gelar Jalan Santai dan Bazar UMKM - JATIM POS online",
@@ -174,34 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 21:10:00 GMT",
       "link": "https://surabaya.bisnis.com/read/20260726/531/1991056/kemendag-dorong-umkm-berkprah-ke-kancah-nasional-dan-internasional"
-    },
-    {
-      "title": "Status Hukum dan Akuntansi Danantara Alami Kebingungan - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 20:23:00 GMT",
-      "link": "https://rmol.id/amp/2026/07/26/715977/status-hukum-dan-akuntansi-danantara-alami-kebingungan-"
-    },
-    {
-      "title": "Kemendag Dorong Semangat Kewirausahaan Bagi Generasi Muda - Bisnis.com - Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 19:45:28 GMT",
-      "link": "https://surabaya.bisnis.com/read/20260726/531/1991057/kemendag-dorong-semangat-kewirausahaan-bagi-generasi-muda"
-    },
-    {
-      "title": "Menapak Tilas Kongres 1947, Dekopin Canangkan Revitalisasi Tugu Koperasi di Kota Tasikmalaya - Harapan Rakyat",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 16:29:18 GMT",
-      "link": "https://www.harapanrakyat.com/2026/07/menapak-tilas-kongres-1947-dekopin-canangkan-revitalisasi-tugu-koperasi-di-kota-tasikmalaya/"
-    },
-    {
-      "title": "Rakerda PAN OKI Muchendi Soroti Peran Iskandar SE Dorong Pembangunan Daerah - Mattanews.co",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 16:19:00 GMT",
-      "link": "https://mattanews.co/rakerda-pan-oki-muchendi-soroti-peran-iskandar-se-dorong-pembangunan-daerah/"
     }
   ]
 }
