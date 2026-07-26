@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-25T23:58:37.912990",
+  "generated_at": "2026-07-26T03:35:32.896963",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 28,
-    "Golkar": 20,
+    "Gerindra": 27,
+    "PDI-P": 29,
+    "Golkar": 18,
     "NasDem": 7,
     "PKS": 12,
     "PAN": 6,
@@ -15,7 +15,7 @@
     "PDI-P": 100,
     "Golkar": 83,
     "NasDem": 45,
-    "PKB": 41,
+    "PKB": 40,
     "PKS": 61,
     "PAN": 20,
     "Demokrat": 26
@@ -35,11 +35,11 @@
   "topic_counts_30d": {
     "bumn": 70,
     "danantara": 42,
-    "koperasi": 74,
+    "koperasi": 75,
     "perdagangan": 12,
     "umkm": 14,
-    "investasi": 43,
-    "ekspor": 3,
+    "investasi": 42,
+    "ekspor": 4,
     "merger-akuisisi": 4,
     "kartel-monopoli": 8,
     "ipo": 3,
@@ -76,7 +76,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 10,
+    "Nasim Khan": 9,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
@@ -98,6 +98,34 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "KKP & BP Batam Sinergi! Urus Sertifikat Ekspor Ikan di Batam Cuma 10 Menit - Koran Jakarta ®",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 02:28:00 GMT",
+      "link": "https://koran-jakarta.com/2026-07-26/kkp-bp-batam-sinergi-urus-sertifikat-ekspor-ikan-di-batam-cuma-10-menit"
+    },
+    {
+      "title": "Calon Manajer Kopdes Wajib Tahu! Kemenkop Beberkan Aturan Penempatan Kerja Usai Pelatihan! - Radar Jember",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 01:37:34 GMT",
+      "link": "https://radarjember.jawapos.com/nasional/2607260003/calon-manajer-kopdes-wajib-tahu-kemenkop-beberkan-aturan-penempatan-kerja-usai-pelatihan"
+    },
+    {
+      "title": "Adisatrya Suryo Sulisto Harap Gedung PKK Karanggintung Jadi Ruang Lahirnya Program Pemberdayaan Masyarakat - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 01:00:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/adisatrya-suryo-sulisto-harap-gedung-pkk-karanggintung-jadi-ruang-lahirnya-program-pemberdayaan-masyarakat-b2pXcZbgEA"
+    },
+    {
+      "title": "KPPU tinjau implementasi Koperasi Desa Merah Putih di Desa Marindal II - Elshinta",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 00:50:37 GMT",
+      "link": "https://elshinta.com/kategori/42/profil/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii-171485"
+    },
     {
       "title": "Setahun lebih rusak dan rawan longsor, Jalan Cot GT belum juga diperbaiki - rakyatpos.id",
       "entity": "BPK Sabang",
@@ -174,34 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 25 Jul 2026 15:36:11 GMT",
       "link": "https://www.seputarsumut.com/berita/kppu-tinjau-koperasi-desa-merah-putih-di-deli-serdang/"
-    },
-    {
-      "title": "KKP dan BP Batam Percepat Sertifikasi Ekspor Perikanan - Beritakota",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:32:00 GMT",
-      "link": "https://beritakota.id/kkp-dan-bp-batam-percepat-sertifikasi-ekspor-perikanan/"
-    },
-    {
-      "title": "Forum SAJID, Menkop Dorong Pembentukan Koperasi Profesi bagi Jurnalis dan Konten Kreator - Kicaunews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:29:18 GMT",
-      "link": "https://kicaunews.com/2026/07/25/forum-sajid-menkop-dorong-pembentukan-koperasi-profesi-bagi-jurnalis-dan-konten-kreator/"
-    },
-    {
-      "title": "Pemkab Batang-Dekopinda kawal kinerja koperasi - ANTARA News Jateng",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 25 Jul 2026 15:09:33 GMT",
-      "link": "https://jateng.antaranews.com/berita/639808/pemkab-batang-dekopinda-kawal-kinerja-koperasi"
-    },
-    {
-      "title": "Kawal KEM-PPKF 2027, Rizal Bawazier Tekankan Penguatan KDMP hingga Restrukturisasi BUMN - Erapos - era-pos.com",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 25 Jul 2026 13:58:00 GMT",
-      "link": "https://www.era-pos.com/nasional/amp/1037469671/kawal-kem-ppkf-2027-rizal-bawazier-tekankan-penguatan-kdmp-hingga-restrukturisasi-bumn"
     }
   ]
 }
