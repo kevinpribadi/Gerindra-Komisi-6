@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T18:02:32.261344",
+  "generated_at": "2026-07-26T20:07:21.752131",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 33,
-    "Golkar": 18,
+    "Golkar": 19,
     "NasDem": 7,
     "PKB": 1,
     "PKS": 12,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 69,
     "PDI-P": 103,
-    "Golkar": 84,
+    "Golkar": 85,
     "NasDem": 45,
     "PKB": 40,
     "PKS": 61,
@@ -65,7 +65,7 @@
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
-    "Sarifah Suraidah": 3,
+    "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
@@ -100,6 +100,13 @@
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Konsolidasi 120 BUMN di Bawah InJourney, Operator Hotel Terbesar Kedua di Indonesia - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 15:20:40 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/konsolidasi-120-bumn-di-bawah-injourney-operator-hotel-terbesar-kedua-di-indonesia/"
+    },
     {
       "title": "Anggota DPR: Negara wajib pulihkan trauma anak terduga pencuri ayam - ANTARA News",
       "entity": "Rieke Diah Pitaloka",
@@ -141,6 +148,13 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 12:34:03 GMT",
       "link": "https://suarantb.com/2026/07/26/dekopinwil-ntb-ubah-peringatan-harkopnas-jadi-gerakan-bangkitkan-umkm-dan-koperasi-mati-suri/"
+    },
+    {
+      "title": "Buka Akses Pasar Global, Sarifah Suraidah Dorong Pengesahan Empat Perjanjian Dagang Internasional - Fraksi Partai Golkar",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Sun, 26 Jul 2026 12:05:50 GMT",
+      "link": "https://fraksigolkar.com/read/2370/buka-akses-pasar-global-sarifah-suraidah-dorong-pengesahan-empat-perjanjian-dagang-internasional"
     },
     {
       "title": "PFII Tak Andalkan APBN: Modal Awal dari Danantara, Investor, dan BMN - feedberry.com",
@@ -190,20 +204,6 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 10:19:49 GMT",
       "link": "https://news.detik.com/berita/d-8591056/menkop-melakukan-pencanangan-revitalisasi-tugu-koperasi-tasikmalaya"
-    },
-    {
-      "title": "Ribuan Warga Sidoarjo Semarakkan Harkopnas ke-79, Dorong Koperasi Jadi Penggerak Ekonomi Rakyat - TIMES Sidoarjo",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 10:09:00 GMT",
-      "link": "https://sidoarjo.times.co.id/news/peristiwa/CFLGQRHj/ribuan-warga-sidoarjo-semarakkan-harkopnas-ke-79-dorong-koperasi-jadi-penggerak-ekonomi-rakyat"
-    },
-    {
-      "title": "Dekopinda Kota Malang Sambut Rencana Undang-Undang Koperasi Baru - Javasatu.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 09:55:01 GMT",
-      "link": "https://javasatu.com/berita/dekopinda-kota-malang-sambut-rencana-undang-undang-koperasi-baru/"
     }
   ]
 }
