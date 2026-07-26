@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T15:03:07.028405",
+  "generated_at": "2026-07-26T16:57:03.154769",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 33,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 7,
     "PKB": 1,
     "PKS": 12,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 69,
     "PDI-P": 103,
-    "Golkar": 83,
+    "Golkar": 84,
     "NasDem": 45,
     "PKB": 40,
     "PKS": 61,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
+    "bumn": 67,
     "danantara": 40,
     "koperasi": 75,
     "perdagangan": 12,
-    "umkm": 15,
+    "umkm": 16,
     "investasi": 40,
     "ekspor": 5,
     "kartel-monopoli": 8,
@@ -65,7 +65,7 @@
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
-    "Sarifah Suraidah": 2,
+    "Sarifah Suraidah": 3,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 17,
@@ -96,7 +96,7 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 26,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 4
   },
   "top_headlines": [
@@ -129,11 +129,25 @@
       "link": "https://mediaindonesia.com/ekonomi/914979/restrukturisasi-bpi-danantara-pangkas-jumlah-bumn-demi-fokus-strategis"
     },
     {
+      "title": "Dekopinwil NTB Ubah Peringatan Harkopnas Jadi Gerakan Bangkitkan UMKM dan Koperasi Mati Suri - SUARANTB.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 12:34:03 GMT",
+      "link": "https://suarantb.com/2026/07/26/dekopinwil-ntb-ubah-peringatan-harkopnas-jadi-gerakan-bangkitkan-umkm-dan-koperasi-mati-suri/"
+    },
+    {
       "title": "PFII Tak Andalkan APBN: Modal Awal dari Danantara, Investor, dan BMN - feedberry.com",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 12:05:38 GMT",
       "link": "https://feedberry.com/artikel/pfii-tak-andalkan-apbn-modal-awal-dari-danantara-investor-dan-bmn"
+    },
+    {
+      "title": "UU PFII Resmi Disahkan: Danantara Jadi Sumber Modal Awal LP PFII - publika.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 11:52:21 GMT",
+      "link": "https://www.publika.id/uu-pfii-disahkan-danantara-modal-awal-lp-pfii"
     },
     {
       "title": "Tak Andalkan APBN, dari Mana Modal Awal PFII? - detikFinance",
@@ -190,20 +204,6 @@
       "kind": "anggota",
       "published": "Sun, 26 Jul 2026 09:01:00 GMT",
       "link": "https://www.gesuri.id/internal/pembukaan-pameran-sejarah-kudatuli-ida-nurlaela-soroti-pentingnya-menjaga-demokrasi-b2pXdZbgHb"
-    },
-    {
-      "title": "Pembukaan Pameran Sejarah Kudatuli, Ida Nurlaela Soroti Pentingnya Menjaga Demokrasi dan Kebebasan Berpendapat - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Sun, 26 Jul 2026 09:01:00 GMT",
-      "link": "https://www.gesuri.id/internal/pembukaan-pameran-sejarah-kudatuli-ida-nurlaela-soroti-pentingnya-menjaga-demokrasi-dan-kebebasan-berpendapat-b2pXdZbgHb"
-    },
-    {
-      "title": "Nyaris Dijual ke Investor, Tugu Koperasi Tasik Kini Direvitalisasi - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 08:20:32 GMT",
-      "link": "https://www.detik.com/jabar/berita/d-8590863/nyaris-dijual-ke-investor-tugu-koperasi-tasik-kini-direvitalisasi"
     }
   ]
 }
