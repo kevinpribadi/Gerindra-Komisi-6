@@ -286,6 +286,13 @@
         ],
         "Kementerian Koperasi": [
             {
+                "title": "Tugu Koperasi Tasikmalaya Bakal Direvitalisasi, Disiapkan Jadi Cagar Budaya Nasional - Pikiran Rakyat Koran",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTRyRm5HSnRvQUFlOXJrTDdRSTRkSE9IVWNQY2o1VExBcmxtMHBpcnY1ZlREbGlGVVB2Z1d2bTNZTnBtMjBPQ3NhcHRaNk14VW1wWXpHVk9tSkd0R29uRW9oamp3ZHhsb0hSMl8zcFQzMWR1REkxNnZnUmNBNWZQSkc4bjZVVXJjOTZSOUlhZmtMUldxUWJEQ2g0ZUpiUGdlb1FzMUVjZU1ORW9lblVVQkoybm0wMzdTN1JZbEFPMkdYdWtYemxxQTBGVGN5aS1iN2c?oc=5",
+                "link_resolved": "https://koran.pikiran-rakyat.com/news/pr-30310356625/tugu-koperasi-tasikmalaya-bakal-direvitalisasi-disiapkan-jadi-cagar-budaya-nasional",
+                "published": "Sun, 26 Jul 2026 22:00:00 GMT",
+                "fetched_at": "2026-07-26T23:02:07.462075"
+            },
+            {
                 "title": "Kemenkop Gandeng MES dan DMI Kembangkan Koperasi Masjid - SinPo.id",
                 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTFtOEZWYlMwcEtkZUk0RTd1cVBpN001SzEtMks2TzhsVTZWdlpfcFpSZWlReUhieFBSMWl2MGJVeU5jUU1NdjV0NkdnVWlsd2dzSnlla0kwTDh5bS02UWNwcTgtbWk2bnZPZHVoSF9nTDhZYWtnbjJRTDJLeTNhT3phWHAzZVBnWmZkYVlkaw?oc=5",
                 "link_resolved": "https://sinpo.id/detail/125107/kemenkop-gandeng-mes-dan-dmi-kembangkan-koperasi-masjid",
@@ -417,13 +424,6 @@
                 "link_resolved": "https://www.detik.com/edu/detikpedia/d-8587534/lpdb-kemenkop-buka-lowongan-di-berbagai-posisi-hingga-28-juli-ini-syaratnya",
                 "published": "Fri, 24 Jul 2026 06:15:00 GMT",
                 "fetched_at": "2026-07-24T13:39:03.300676"
-            },
-            {
-                "title": "Prabowo Kerahkan Kementerian hingga TNI-Polri, Targetkan 25.000 KDMP Beroperasi September - pasardana.id",
-                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXRITnFnVUl0WG1lS2RSOGljRk5pQ0tDa1VIWGZuV0RobC00RS11LWozcjFsaklaUGNZcUIyd2lraTFwSzNyOHZpVm1jcFZLTjJyQmozeFRtaWRBREVjSDVSWFRreG16RWNnbHFfcFJscDdTRXBsRlFTWjFyZ3lvQU9FN2t1cFdxU29vM1JNRXBnS0psYlBwcVNoSGk5RFhpZ1BFTlNGSU5aUC1tVWxVclZPT3pHOWprV2lELTBmVDBfZw?oc=5",
-                "link_resolved": "https://pasardana.id/news/2026/7/24/prabowo-kerahkan-kementerian-hingga-tni-polri-targetkan-25-000-kdmp-beroperasi-september",
-                "published": "Fri, 24 Jul 2026 02:55:00 GMT",
-                "fetched_at": "2026-07-24T03:18:18.955635"
             }
         ],
         "Danantara": [
@@ -4657,7 +4657,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-26T20:07:21.752131",
+        "fetched_at": "2026-07-26T23:02:05.310112",
         "prev_close": 17967,
         "change_pct": 0.01
     },
@@ -4666,7 +4666,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-26T20:07:21.752131",
+        "fetched_at": "2026-07-26T23:02:05.310112",
         "prev_close": 6334.48,
         "change_pct": -0.3
     },
@@ -4676,7 +4676,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 2990,
             "change_pct": -1.0
@@ -4686,7 +4686,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Bank Mandiri",
             "prev_close": 4380,
             "change_pct": -5.71
@@ -4696,7 +4696,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Bank Negara Indonesia",
             "prev_close": 3600,
             "change_pct": -2.22
@@ -4706,7 +4706,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Bank Tabungan Negara",
             "prev_close": 1260,
             "change_pct": -4.37
@@ -4716,7 +4716,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Telkom Indonesia",
             "prev_close": 2650,
             "change_pct": -0.75
@@ -4726,7 +4726,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Semen Indonesia",
             "prev_close": 1515,
             "change_pct": -3.96
@@ -4736,7 +4736,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Aneka Tambang",
             "prev_close": 3080,
             "change_pct": -2.92
@@ -4746,7 +4746,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1550,
             "change_pct": -2.26
@@ -4756,7 +4756,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Bukit Asam",
             "prev_close": 2440,
             "change_pct": -2.05
@@ -4766,7 +4766,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-26T20:07:21.752131",
+            "fetched_at": "2026-07-26T23:02:05.310112",
             "name": "Jasa Marga",
             "prev_close": 2700,
             "change_pct": 0.74
@@ -4778,5 +4778,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-07-26T20:07:21.752131"
+    "last_updated": "2026-07-26T23:02:05.310112"
 }

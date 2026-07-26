@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T20:07:21.752131",
+  "generated_at": "2026-07-26T23:02:05.310112",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 33,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 66,
     "danantara": 40,
-    "koperasi": 75,
+    "koperasi": 76,
     "perdagangan": 12,
     "umkm": 16,
     "investasi": 40,
@@ -96,10 +96,17 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 26,
     "Hukum/Audit": 49,
-    "Koperasi/UMKM": 83,
+    "Koperasi/UMKM": 84,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Tugu Koperasi Tasikmalaya Bakal Direvitalisasi, Disiapkan Jadi Cagar Budaya Nasional - Pikiran Rakyat Koran",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 22:00:00 GMT",
+      "link": "https://koran.pikiran-rakyat.com/news/pr-30310356625/tugu-koperasi-tasikmalaya-bakal-direvitalisasi-disiapkan-jadi-cagar-budaya-nasional"
+    },
     {
       "title": "Konsolidasi 120 BUMN di Bawah InJourney, Operator Hotel Terbesar Kedua di Indonesia - Iconomics",
       "entity": "Badan Pengaturan BUMN",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Sun, 26 Jul 2026 11:18:00 GMT",
       "link": "https://jatimupdate.id/amp/baca-18399-harkopnas-ke-79-pemkab-sidoarjo-tegaskan-koperasi-jadi-motor-penggerak-ekonomi-rakyat"
-    },
-    {
-      "title": "Menkop Melakukan Pencanangan Revitalisasi Tugu Koperasi Tasikmalaya - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 10:19:49 GMT",
-      "link": "https://news.detik.com/berita/d-8591056/menkop-melakukan-pencanangan-revitalisasi-tugu-koperasi-tasikmalaya"
     }
   ]
 }
