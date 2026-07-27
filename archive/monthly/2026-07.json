@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-27T10:40:14.921659",
+  "generated_at": "2026-07-27T13:37:26.773394",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 30,
+    "Gerindra": 28,
+    "PDI-P": 31,
     "Golkar": 20,
     "NasDem": 8,
     "PKB": 1,
@@ -12,13 +12,13 @@
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 69,
+    "Gerindra": 70,
     "PDI-P": 102,
     "Golkar": 85,
     "NasDem": 46,
     "PKB": 40,
     "PKS": 61,
-    "PAN": 20,
+    "PAN": 18,
     "Demokrat": 26
   },
   "agency_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
+    "bumn": 64,
     "danantara": 39,
-    "koperasi": 79,
+    "koperasi": 80,
     "perdagangan": 14,
     "umkm": 17,
     "investasi": 36,
     "ekspor": 6,
-    "kartel-monopoli": 10,
+    "kartel-monopoli": 9,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -49,17 +49,17 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
+    "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 18,
+    "Mufti Anam": 17,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 3,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 18,
@@ -85,7 +85,7 @@
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
-    "Eko Patrio": 8,
+    "Eko Patrio": 6,
     "Nasril Bahar": 3,
     "Iskandar": 9,
     "Sartono": 3,
@@ -95,17 +95,80 @@
   "early_warning_counts": {
     "Kinerja BUMN": 21,
     "Perdagangan": 28,
-    "Hukum/Audit": 49,
-    "Koperasi/UMKM": 88,
+    "Hukum/Audit": 47,
+    "Koperasi/UMKM": 89,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Disperindagkop Kaltim Nyatakan Koperasi Merah Putih Bisa Kelola Tambang - radarmedia.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 13:06:17 GMT",
+      "link": "https://radarmedia.id/disperindagkop-kaltim-nyatakan-koperasi-merah-putih-bisa-kelola-tambang/"
+    },
+    {
+      "title": "UKU Ungkap Dampak Putusan KPPU terhadap Minat Lender Tempatkan Dana di Pindar - Bisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 12:49:49 GMT",
+      "link": "https://finansial.bisnis.com/read/20260727/563/1991480/uku-ungkap-dampak-putusan-kppu-terhadap-minat-lender-tempatkan-dana-di-pindar"
+    },
+    {
+      "title": "Muba Siap jadi Role Model Nasional Hilirisasi Sawit Berbasis Koperasi - monpera.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 12:28:16 GMT",
+      "link": "https://monpera.id/muba-siap-jadi-role-model-nasional-hilirisasi-sawit-berbasis-koperasi/"
+    },
+    {
+      "title": "Destry Damayanti Ungkap Arahan Presiden terkait KSSK dan Danantara - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 12:21:01 GMT",
+      "link": "https://www.metrotvnews.com/read/NA0CrQe6-destry-damayanti-ungkap-arahan-presiden-terkait-kssk-dan-danantara"
+    },
+    {
+      "title": "Prabowo Minta Danantara Dilibatkan dalam KSSK - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 12:15:15 GMT",
+      "link": "https://nasional.kontan.co.id/news/prabowo-minta-danantara-dilibatkan-dalam-kssk"
+    },
+    {
+      "title": "Ida Nurlaela Sambut Baik Putusan MK Soal Sisa Kuota Internet, Hak Konsumen yang Wajib Dilindungi Hukum - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-sambut-baik-putusan-mk-soal-sisa-kuota-internet-hak-konsumen-yang-wajib-dilindungi-hukum-b2pXdZbgGq"
+    },
+    {
+      "title": "Sempat Dibombardir Belanda, Tugu Koperasi Tasik Siap Bangkit Kembali - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 10:56:02 GMT",
+      "link": "https://www.detik.com/jabar/berita/d-8592636/sempat-dibombardir-belanda-tugu-koperasi-tasik-siap-bangkit-kembali"
+    },
+    {
+      "title": "Aset Properti BUMN Tak Laku, Apa yang Dilakukan Danantara - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 10:52:45 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/27/175245/aset-properti-bumn-tak-laku-apa-yang-dilakukan-danantara"
+    },
     {
       "title": "Jadi Penyalur Bansos, Koperasi Merah Putih Bisa Lihat Penerima Tepat Sasaran atau Tidak - merahputih.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 27 Jul 2026 09:35:06 GMT",
       "link": "https://www.merahputih.com/post/read/jadi-penyalur-bansos-koperasi-merah-putih-bisa-lihat-penerima-tepat-sasaran-atau-tidak"
+    },
+    {
+      "title": "Anggota DPR Tegaskan Perlindungan Anak Korban Kekerasan di Bali - TVRI News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 09:10:55 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tpbm7zg-anggota-dpr-tegaskan-perlindungan-anak-korban-kekerasan-di-bali"
     },
     {
       "title": "INDEF: Gubernur BI Baru Harus Pimpin Koordinasi Jaga Nilai Tukar Rupiah - Validnews",
@@ -141,69 +204,6 @@
       "kind": "lembaga",
       "published": "Mon, 27 Jul 2026 08:49:32 GMT",
       "link": "https://www.seputarsumut.com/berita/kppu-hadiri-fgd-bahas-kerangka-hukum-persaingan-usaha-digital-di-medan/"
-    },
-    {
-      "title": "Nengah Desak Penambahan Armada Penyeberangan Atasi Kemacetan Ketapang-Gilimanuk - Partai NasDem",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 08:26:04 GMT",
-      "link": "https://partainasdem.id/2026/07/27/nengah-desak-penambahan-armada-penyeberangan-atasi-kemacetan-ketapang-gilimanuk/"
-    },
-    {
-      "title": "Pengelola Jatiluhur Berikan Pendampingan bagi Keluarga Petugas Keamanan yang Gugur - Media Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 07:32:40 GMT",
-      "link": "https://mediaindonesia.com/nusantara/915134/pengelola-jatiluhur-berikan-pendampingan-bagi-keluarga-petugas-keamanan-yang-gugur"
-    },
-    {
-      "title": "Anggota DPR: Negara Wajib Pulihkan Trauma Anak Terduga Pencuri Ayam di Bali - detikHealth",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 07:28:20 GMT",
-      "link": "https://health.detik.com/berita-detikhealth/d-8592136/anggota-dpr-negara-wajib-pulihkan-trauma-anak-terduga-pencuri-ayam-di-bali"
-    },
-    {
-      "title": "Aglomerasi tiga wilayah PSEL Serang Raya siap dibangun tahun ini - ANTARA News Banten",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 07:10:00 GMT",
-      "link": "https://banten.antaranews.com/berita/386613/aglomerasi-tiga-wilayah-psel-serang-raya-siap-dibangun-tahun-ini"
-    },
-    {
-      "title": "KKP dan BP Batam percepat proses sertifikasi ekspor produk perikanan - ANTARA News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 07:03:49 GMT",
-      "link": "https://www.antaranews.com/berita/5667551/kkp-dan-bp-batam-percepat-proses-sertifikasi-ekspor-produk-perikanan"
-    },
-    {
-      "title": "| Pencuri Ayam Tewas Dikeroyok, Anggota DPR Desak Usut Tuntas - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 07:02:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1662628/pencuri-ayam-tewas-dikeroyok-anggota-dpr-desak-usut-tuntas/"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: Bali Finance Center Harus Hadirkan Pertumbuhan Merata, Bukan Hanya untuk Sarbagita - Golkarpedia",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 06:54:39 GMT",
-      "link": "https://golkarpedia.com/gde-sumarjaya-linggih-bali-finance-center-harus-hadirkan-pertumbuhan-merata-bukan-hanya-untuk-sarbagita/"
-    },
-    {
-      "title": "Maling Ayam Meninggal Dikeroyok di Bali, Rieke Diah Pitaloka Dorong 3 Pencegahan - GenPI.co - GenPI.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 06:20:00 GMT",
-      "link": "https://www.genpi.co/berita/285336/maling-ayam-meninggal-dikeroyok-di-bali-rieke-diah-pitaloka-dorong-3-pencegahan"
-    },
-    {
-      "title": "AS kenakan tarif 10%, India percepat perundingan dagang bilateral - IDNFinancials",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 06:20:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/66578/as-kenakan-tarif-10-india-percepat-perundingan-dagang-bilateral"
     }
   ]
 }
