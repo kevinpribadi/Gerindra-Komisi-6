@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-26T23:02:05.310112",
+  "generated_at": "2026-07-27T02:41:03.474608",
   "party_counts_7d": {
     "Gerindra": 28,
-    "PDI-P": 33,
+    "PDI-P": 31,
     "Golkar": 19,
     "NasDem": 7,
     "PKB": 1,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
+    "bumn": 64,
     "danantara": 40,
     "koperasi": 76,
     "perdagangan": 12,
     "umkm": 16,
-    "investasi": 40,
+    "investasi": 39,
     "ekspor": 5,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
@@ -93,13 +93,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
-    "Perdagangan": 26,
+    "Kinerja BUMN": 21,
+    "Perdagangan": 27,
     "Hukum/Audit": 49,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah Canangkan Revitalisasi Kawasan Tugu Koperasi, Dorong Penetapan sebagai Cagar Budaya Nasional - Industry.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 02:16:00 GMT",
+      "link": "https://www.industry.co.id/read/153727/pemerintah-canangkan-revitalisasi-kawasan-tugu-koperasi-dorong-penetapan-sebagai-cagar-budaya-nasional"
+    },
+    {
+      "title": "Rieke Soroti Duka Anak dari Terduga Maling Ayam di Tabanan, Minta Negara Hadir - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 01:45:00 GMT",
+      "link": "https://www.jpnn.com/news/rieke-soroti-duka-anak-dari-terduga-maling-ayam-di-tabanan-minta-negara-hadir"
+    },
+    {
+      "title": "Kasus Viral Anak Tangisi Jenazah Ayahnya yang T3was Dikeroyok karena Mencuri Ayam di Tabanan, Rieke: Tamparan Keras, Jauh dari Budaya Bali - Balipuspanews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 00:56:29 GMT",
+      "link": "https://www.balipuspanews.com/kasus-viral-anak-tangisi-jenazah-ayahnya-yang-t3was-dikeroyok-karena-mencuri-ayam-di-tabanan-rieke-tamparan-keras-jauh-dari-budaya-bali.html"
+    },
+    {
+      "title": "Danantara Siapkan Modal Awal Pengembangan Pusat Finansial Internasional Indonesia - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 23:34:00 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-siapkan-modal-awal-pfii"
+    },
+    {
+      "title": "Sumber Modal Awal PFII: Danantara-Badan Usaha - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 23:30:32 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8591280/sumber-modal-awal-pfii-danantara-badan-usaha"
+    },
+    {
+      "title": "Penataan Perusahaan Negara Dinilai Dapat Mendorong Efisiensi dan Fokus Bisnis - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 26 Jul 2026 23:00:10 GMT",
+      "link": "https://www.metrotvnews.com/read/bw6C238w-penataan-perusahaan-negara-dinilai-dapat-mendorong-efisiensi-dan-fokus-bisnis"
+    },
     {
       "title": "Tugu Koperasi Tasikmalaya Bakal Direvitalisasi, Disiapkan Jadi Cagar Budaya Nasional - Pikiran Rakyat Koran",
       "entity": "Kementerian Koperasi",
@@ -162,48 +204,6 @@
       "kind": "anggota",
       "published": "Sun, 26 Jul 2026 12:05:50 GMT",
       "link": "https://fraksigolkar.com/read/2370/buka-akses-pasar-global-sarifah-suraidah-dorong-pengesahan-empat-perjanjian-dagang-internasional"
-    },
-    {
-      "title": "PFII Tak Andalkan APBN: Modal Awal dari Danantara, Investor, dan BMN - feedberry.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 12:05:38 GMT",
-      "link": "https://feedberry.com/artikel/pfii-tak-andalkan-apbn-modal-awal-dari-danantara-investor-dan-bmn"
-    },
-    {
-      "title": "UU PFII Resmi Disahkan: Danantara Jadi Sumber Modal Awal LP PFII - publika.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 11:52:21 GMT",
-      "link": "https://www.publika.id/uu-pfii-disahkan-danantara-modal-awal-lp-pfii"
-    },
-    {
-      "title": "UU PFII Resmi Disahkan, Danantara Jadi Penyokong Utama Modal Lembaga Pengelola - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 11:51:23 GMT",
-      "link": "https://achmadnurhidayat.id/uu-pfii-disahkan-danantara-penyokong-modal"
-    },
-    {
-      "title": "Tak Andalkan APBN, dari Mana Modal Awal PFII? - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 11:45:14 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8591134/tak-andalkan-apbn-dari-mana-modal-awal-pfii"
-    },
-    {
-      "title": "Kemenkop Gandeng MES dan DMI Kembangkan Koperasi Masjid - SinPo.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 11:29:49 GMT",
-      "link": "https://sinpo.id/detail/125107/kemenkop-gandeng-mes-dan-dmi-kembangkan-koperasi-masjid"
-    },
-    {
-      "title": "Harkopnas ke-79, Pemkab Sidoarjo Tegaskan Koperasi Jadi Motor Penggerak Ekonomi Rakyat - jatimupdate.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 26 Jul 2026 11:18:00 GMT",
-      "link": "https://jatimupdate.id/amp/baca-18399-harkopnas-ke-79-pemkab-sidoarjo-tegaskan-koperasi-jadi-motor-penggerak-ekonomi-rakyat"
     }
   ]
 }
