@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-27T13:37:26.773394",
+  "generated_at": "2026-07-27T16:15:19.482445",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 31,
+    "Gerindra": 27,
+    "PDI-P": 32,
     "Golkar": 20,
     "NasDem": 8,
     "PKB": 1,
     "PKS": 8,
     "PAN": 6,
-    "Demokrat": 8
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 70,
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 64,
     "danantara": 39,
-    "koperasi": 80,
+    "koperasi": 83,
     "perdagangan": 14,
+    "ekspor": 7,
     "umkm": 17,
     "investasi": 36,
-    "ekspor": 6,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 8,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -93,13 +93,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
-    "Perdagangan": 28,
-    "Hukum/Audit": 47,
-    "Koperasi/UMKM": 89,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 29,
+    "Hukum/Audit": 46,
+    "Koperasi/UMKM": 91,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "| Anggota DPR: Rentetan Kekerasan di Berbagai Daerah Ancam Persatuan Bangsa - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 16:07:12 GMT",
+      "link": "https://www.jurnas.com/artikel/1662667/anggota-dpr-rentetan-kekerasan-di-berbagai-daerah-ancam-persatuan-bangsa/"
+    },
+    {
+      "title": "Izin Tambang Kopdes Merah Putih? Darmadi Durianto: Harus Miliki Kapasitas Manajerial, Profesional, Sumber Daya Memadai - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 15:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/izin-tambang-kopdes-merah-putih-darmadi-durianto-harus-miliki-kapasitas-manajerial-profesional-sumber-daya-memadai-b2pXdZbgGu"
+    },
+    {
+      "title": "KSSK libatkan Danantara mengikuti arahan Presiden Prabowo - ANTARA News Megapolitan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 14:27:48 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/542268/kssk-libatkan-danantara-mengikuti-arahan-presiden-prabowo"
+    },
+    {
+      "title": "Kemendag Jaga Akses Pasar AS via ART, Ekspor RI Capai 11,47 % - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 13:50:00 GMT",
+      "link": "https://tirto.id/kemendag-jaga-akses-pasar-as-via-art-ekspor-ri-capai-1147-hAlp"
+    },
+    {
+      "title": "Revitalisasi Tugu Koperasi Tasikmalaya disiapkan sebagai cagar budaya dan pusat edukasi sejarah koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 13:20:55 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/revitalisasi-tugu-koperasi-tasikmalaya-disiapkan-sebagai-cagar-budaya-dan-pusat-edukasi-sejarah-koperasi-171669"
+    },
     {
       "title": "Disperindagkop Kaltim Nyatakan Koperasi Merah Putih Bisa Kelola Tambang - radarmedia.id",
       "entity": "Kementerian Koperasi",
@@ -157,53 +192,18 @@
       "link": "https://www.suara.com/bisnis/2026/07/27/175245/aset-properti-bumn-tak-laku-apa-yang-dilakukan-danantara"
     },
     {
-      "title": "Jadi Penyalur Bansos, Koperasi Merah Putih Bisa Lihat Penerima Tepat Sasaran atau Tidak - merahputih.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Danantara Sedang Bangun Sistem Pengelolaan SDM yang Terintegrasi dan Standar Internasional di BUMN - Iconomics",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 09:35:06 GMT",
-      "link": "https://www.merahputih.com/post/read/jadi-penyalur-bansos-koperasi-merah-putih-bisa-lihat-penerima-tepat-sasaran-atau-tidak"
+      "published": "Mon, 27 Jul 2026 10:07:39 GMT",
+      "link": "https://www.theiconomics.com/accelerated-growth/danantara-sedang-bangun-sistem-pengelolaan-sdm-yang-terintegrasi-dan-standar-internasional-di-bumn/"
     },
     {
-      "title": "Anggota DPR Tegaskan Perlindungan Anak Korban Kekerasan di Bali - TVRI News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 09:10:55 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tpbm7zg-anggota-dpr-tegaskan-perlindungan-anak-korban-kekerasan-di-bali"
-    },
-    {
-      "title": "INDEF: Gubernur BI Baru Harus Pimpin Koordinasi Jaga Nilai Tukar Rupiah - Validnews",
-      "entity": "Kementerian Perdagangan",
+      "title": "Rosan Siapkan Program 'Danantara Housing' untuk Jual Ribuan Hunian yang Belum Laku - InvestorTrust",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 09:09:31 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/07/27/indef-gubernur-bi-baru-harus-pimpin-koordinasi-jaga-nilai-tukar-rupiah-162700200"
-    },
-    {
-      "title": "KPPU Tinjau Implementasi Koperasi Desa Merah Putih Di Desa Marindal II - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 09:08:03 GMT",
-      "link": "https://waspada.id/berita/kppu-tinjau-implementasi-koperasi-desa-merah-putih-di-desa-marindal-ii"
-    },
-    {
-      "title": "KPPU Berikan Masukan dalam Penelitian Pengembangan Kerangka Hukum Persaingan Usaha di Era Ekonomi Digital - indexsumut.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 09:00:13 GMT",
-      "link": "https://indexsumut.com/2026/07/27/kppu-berikan-masukan-dalam-penelitian-pengembangan-kerangka-hukum-persaingan-usaha-di-era-ekonomi-digital/"
-    },
-    {
-      "title": "Bapanas–BP Batam Integrasikan Perizinan Pangan Segar, Perkuat Kepastian Berusaha di KPBPB Batam - Heta News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 08:56:21 GMT",
-      "link": "https://www.hetanews.com/article/309609/bapanas-bp-batam-integrasikan-perizinan-pangan-segar-perkuat-kepastian-berusaha-di-kpbpb-batam"
-    },
-    {
-      "title": "KPPU Hadiri FGD Bahas Kerangka Hukum Persaingan Usaha Digital di Medan - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 08:49:32 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-hadiri-fgd-bahas-kerangka-hukum-persaingan-usaha-digital-di-medan/"
+      "published": "Mon, 27 Jul 2026 09:51:00 GMT",
+      "link": "https://investortrust.id/business/110815/rosan-siapkan-program-danantara-housing-untuk-jual-ribuan-hunian-yang-belum-laku"
     }
   ]
 }
