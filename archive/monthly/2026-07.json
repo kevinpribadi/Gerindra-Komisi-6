@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-27T22:04:29.363119",
+  "generated_at": "2026-07-28T00:00:21.010584",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 28,
     "PDI-P": 32,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 8,
     "PKB": 1,
     "PKS": 8,
@@ -12,9 +12,9 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 70,
+    "Gerindra": 71,
     "PDI-P": 102,
-    "Golkar": 85,
+    "Golkar": 86,
     "NasDem": 46,
     "PKB": 40,
     "PKS": 61,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 64,
-    "danantara": 39,
+    "bumn": 65,
+    "danantara": 40,
     "koperasi": 83,
     "perdagangan": 14,
     "ekspor": 7,
-    "umkm": 17,
+    "umkm": 18,
     "investasi": 36,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3,
@@ -49,7 +49,7 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
     "Kawendra Lukistian": 20,
@@ -65,7 +65,7 @@
     "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
-    "Sarifah Suraidah": 4,
+    "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
@@ -93,13 +93,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 21,
     "Perdagangan": 29,
     "Hukum/Audit": 46,
-    "Koperasi/UMKM": 92,
+    "Koperasi/UMKM": 93,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Danantara Resmi Jadi Sumber Modal Awal PFII - Diskursus Network",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 22:33:18 GMT",
+      "link": "https://diskursusnetwork.com/article/danantara-jadi-sumber-modal-awal-pfii"
+    },
+    {
+      "title": "Danantara ungkap target restrukturisasi BUMN hingga program perumahan - ANTARA News Jambi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 27 Jul 2026 16:41:23 GMT",
+      "link": "https://jambi.antaranews.com/video/5668451/danantara-ungkap-target-restrukturisasi-bumn-hingga-program-perumahan"
+    },
     {
       "title": "Pemkab Muba Siapkan Agenda Nasional Hilirisasi Sawit Berbasis Koperasi - katanda.id",
       "entity": "Kementerian Koperasi",
@@ -113,6 +127,13 @@
       "kind": "anggota",
       "published": "Mon, 27 Jul 2026 16:07:12 GMT",
       "link": "https://www.jurnas.com/artikel/1662667/anggota-dpr-rentetan-kekerasan-di-berbagai-daerah-ancam-persatuan-bangsa/"
+    },
+    {
+      "title": "Khilmi: PT PAL Harus Jadi Tulang Punggung Kemandirian Industri Perkapalan Nasional - Gerindra",
+      "entity": "Khilmi",
+      "kind": "anggota",
+      "published": "Mon, 27 Jul 2026 15:23:05 GMT",
+      "link": "https://gerindra.id/2026/07/27/khilmi-pt-pal-harus-jadi-tulang-punggung-kemandirian-industri-perkapalan-nasional/"
     },
     {
       "title": "Izin Tambang Kopdes Merah Putih? Darmadi Durianto: Harus Miliki Kapasitas Manajerial, Profesional, Sumber Daya Memadai - gesuri.id",
@@ -183,27 +204,6 @@
       "kind": "anggota",
       "published": "Mon, 27 Jul 2026 11:01:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-sambut-baik-putusan-mk-soal-sisa-kuota-internet-hak-konsumen-yang-wajib-dilindungi-hukum-b2pXdZbgGq"
-    },
-    {
-      "title": "Sempat Dibombardir Belanda, Tugu Koperasi Tasik Siap Bangkit Kembali - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 10:56:02 GMT",
-      "link": "https://www.detik.com/jabar/berita/d-8592636/sempat-dibombardir-belanda-tugu-koperasi-tasik-siap-bangkit-kembali"
-    },
-    {
-      "title": "Aset Properti BUMN Tak Laku, Apa yang Dilakukan Danantara - Suara.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 10:52:45 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/27/175245/aset-properti-bumn-tak-laku-apa-yang-dilakukan-danantara"
-    },
-    {
-      "title": "Danantara Sedang Bangun Sistem Pengelolaan SDM yang Terintegrasi dan Standar Internasional di BUMN - Iconomics",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 10:07:39 GMT",
-      "link": "https://www.theiconomics.com/accelerated-growth/danantara-sedang-bangun-sistem-pengelolaan-sdm-yang-terintegrasi-dan-standar-internasional-di-bumn/"
     }
   ]
 }
