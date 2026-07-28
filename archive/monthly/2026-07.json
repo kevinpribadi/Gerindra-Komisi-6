@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T14:05:52.835065",
+  "generated_at": "2026-07-28T16:38:51.692573",
   "party_counts_7d": {
     "Gerindra": 27,
-    "PDI-P": 32,
+    "PDI-P": 33,
     "Golkar": 13,
     "NasDem": 7,
     "PKB": 1,
-    "PKS": 6,
-    "PAN": 6,
-    "Demokrat": 3
+    "PKS": 8,
+    "PAN": 7,
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 71,
@@ -18,8 +18,8 @@
     "NasDem": 46,
     "PKB": 40,
     "PKS": 61,
-    "PAN": 17,
-    "Demokrat": 27
+    "PAN": 18,
+    "Demokrat": 29
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
+    "bumn": 61,
     "danantara": 45,
-    "koperasi": 79,
-    "perdagangan": 15,
-    "investasi": 30,
+    "koperasi": 80,
+    "perdagangan": 16,
+    "investasi": 29,
     "ekspor": 9,
     "umkm": 18,
     "kartel-monopoli": 2,
@@ -87,25 +87,67 @@
     "Ismail": 20,
     "Eko Patrio": 5,
     "Nasril Bahar": 3,
-    "Iskandar": 9,
-    "Sartono": 4,
-    "Herman Khaeron": 19,
+    "Iskandar": 10,
+    "Sartono": 5,
+    "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 40,
+    "Perdagangan": 39,
     "Hukum/Audit": 38,
     "Koperasi/UMKM": 92,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
+      "title": "Gaji Manajer KDMP Dibayar APBN, Setelah Dua Tahun Ditanggung Koperasi - ketik.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 15:49:00 GMT",
+      "link": "https://ketik.com/pacitan/daerah/gaji-manajer-kdmp-dibayar-apbn-setelah-dua-tahun-ditanggung-koperasi"
+    },
+    {
+      "title": "'Gurihnya' Jadi Manajer KDKMP, Dua Tahun Pertama Gajinya Ditanggung APBN - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 15:22:00 GMT",
+      "link": "https://www.inilah.com/gurihnya-jadi-manajer-kdkmp-dua-tahun-pertama-gajinya-ditanggung-apbn"
+    },
+    {
+      "title": "Gaji Manajer Koperasi Desa Merah Putih (KDMP) Ditanggung APBN Selama Dua Tahun - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:41:43 GMT",
+      "link": "https://insight.kontan.co.id/news/gaji-manajer-koperasi-desa-merah-putih-kdmp-ditanggung-apbn-selama-dua-tahun"
+    },
+    {
+      "title": "300 Paket Sembako Disiapkan pada Pasar Murah Peringati Hari Koperasi - Suara Merdeka Pantura - Suara Merdeka Pantura",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
+      "link": "https://pantura.suaramerdeka.com/pantura-raya/0617434533/300-paket-sembako-disiapkan-pada-pasar-murah-peringati-hari-koperasi"
+    },
+    {
+      "title": "Herman Khaeron Tegaskan Festival Milm Kampung Jadi Media Pelestarian Sejarah Daerah - Opsi.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 14:24:20 GMT",
+      "link": "https://opsi.id/herman-khaeron-tegaskan-festival-milm-kampung-jadi-media-pelestarian-sejarah-daerah/"
+    },
+    {
       "title": "Muba Bersiap Jadi Etalase Hilirisasi Sawit Nasional - SIBER SUMSEL",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 14:01:10 GMT",
       "link": "https://sibersumsel.com/muba-bersiap-jadi-etalase-hilirisasi-sawit-nasional/21530/"
+    },
+    {
+      "title": "Pastikan DAMIU Aman, Kemendag dan Jiva Svastha Rilis Poster Edukasi - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:00:00 GMT",
+      "link": "https://www.industry.co.id/read/153799/pastikan-damiu-aman-kemendag-dan-jiva-svastha-rilis-poster-edukasi"
     },
     {
       "title": "DPR Soroti Maraknya Aksi Kekerasan Kitab Massa di Indonesia - achmadnurhidayat.id",
@@ -122,11 +164,32 @@
       "link": "https://www.antaranews.com/berita/5669908/ias-group-perkuat-transformasi-dan-sinergi-dukung-agenda-bumn"
     },
     {
+      "title": "Kader Gerindra Nahkodai Dekopinda Kabupaten Lebak - kabar6.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 13:19:38 GMT",
+      "link": "https://kabar6.com/kader-gerindra-nahkodai-dekopinda-kabupaten-lebak/"
+    },
+    {
       "title": "Terlibat dalam KSSK, Purbaya Tegaskan Danantara Bukan Pengambil Keputusan - Kompas.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 13:07:00 GMT",
       "link": "https://www.kompas.id/artikel/terlibat-dalam-kssk-purbaya-tegaskan-danantara-bukan-pengambil-keputusan"
+    },
+    {
+      "title": "KSSK Libatkan Danantara dalam Rapat Berkala Tanpa Hak Suara - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 13:01:42 GMT",
+      "link": "https://achmadnurhidayat.id/kssk-libatkan-danantara-tanpa-hak-suara"
+    },
+    {
+      "title": "DPR Kota Jayapura Warning Pemkot - Jawa Pos",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 13:00:08 GMT",
+      "link": "https://cenderawasihpos.jawapos.com/metropolis/28/07/2026/dpr-kota-jayapura-warning-pemkot/amp/"
     },
     {
       "title": "DPR Kota Jayapura Warning Pemkot - Jawa Pos",
@@ -141,69 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 12:49:37 GMT",
       "link": "https://investor.id/macroeconomy/448206/purbaya-danantara-ikut-rapat-kssk-tetapi-tak-punya-hak-suara"
-    },
-    {
-      "title": "Purbaya: Danantara Hanya Berstatus Undangan di Rapat KSSK, Tanpa Hak Suara - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 12:43:00 GMT",
-      "link": "https://swa.co.id/read/475405/purbaya-danantara-hanya-berstatus-undangan-di-rapat-kssk-tanpa-hak-suara"
-    },
-    {
-      "title": "Menkop: KDKMP jadi infrastruktur negara untuk perkuat rantai pasok - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 12:39:08 GMT",
-      "link": "https://jogja.antaranews.com/berita/844717/menkop-kdkmp-jadi-infrastruktur-negara-untuk-perkuat-rantai-pasok"
-    },
-    {
-      "title": "Danantara Ikut Rapat KSSK, Purbaya: Sebagai Undangan & Tanpa Hak Suara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 12:10:47 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260728190632-17-754536/danantara-ikut-rapat-kssk-purbaya-sebagai-undangan-tanpa-hak-suara"
-    },
-    {
-      "title": "Prabowo Kembalikan Arah Ekonomi dengan Koperasi Sebagai Andalan - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 12:03:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/07/28/716302/prabowo-kembalikan-arah-ekonomi-dengan-koperasi-sebagai-andalan"
-    },
-    {
-      "title": "Menkop: Koperasi Kini Bisa Kelola Tambang hingga Sumur Minyak Rakyat - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 11:15:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260728/12/1991761/menkop-koperasi-kini-bisa-kelola-tambang-hingga-sumur-minyak-rakyat"
-    },
-    {
-      "title": "Harga Semen Tembus Rp80 Ribu per Sak, KPPU Selidiki Pasokan - IDN Times Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 10:15:00 GMT",
-      "link": "https://sumut.idntimes.com/news/sumatra-utara/harga-semen-tembus-rp80-ribu-per-sak-kppu-selidiki-pasokan-00-f4z9n-42g577"
-    },
-    {
-      "title": "Terima Audiensi Bridgestone Indonesia, Mendag Busan Dukung Penguatan Ekspor dan Investasi Industri Ban - Agricom.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 10:03:00 GMT",
-      "link": "https://www.agricom.id/news/5057/terima-audiensi-bridgestone-indonesia--mendag-busan-dukung-penguatan-ekspor-dan-investasi-industri-ban"
-    },
-    {
-      "title": "UMKM Yogyakarta Didorong Go Global Lewat Program Kemendag - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 09:50:34 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/07/28/umkm-yogyakarta-didorong-go-global-lewat-program-kemendag/"
-    },
-    {
-      "title": "Pengusaha Depot Air Minum Mohon Simak, Kemendag Larang Lakukan Ini - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 09:45:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260728152829-4-754448/pengusaha-depot-air-minum-mohon-simak-kemendag-larang-lakukan-ini"
     }
   ]
 }
