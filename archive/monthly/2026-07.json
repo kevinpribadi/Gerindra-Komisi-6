@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T18:12:44.465473",
+  "generated_at": "2026-07-28T20:14:47.863547",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 33,
-    "Golkar": 13,
+    "Golkar": 14,
     "NasDem": 7,
     "PKB": 1,
     "PKS": 8,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 61,
-    "danantara": 45,
-    "koperasi": 80,
+    "danantara": 44,
+    "koperasi": 79,
     "perdagangan": 16,
     "investasi": 29,
     "ekspor": 9,
     "umkm": 18,
-    "kartel-monopoli": 2,
+    "kartel-monopoli": 3,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -96,8 +96,8 @@
     "Kinerja BUMN": 18,
     "Perdagangan": 39,
     "Hukum/Audit": 38,
-    "Koperasi/UMKM": 92,
-    "Konflik Publik": 3
+    "Koperasi/UMKM": 90,
+    "Konflik Publik": 4
   },
   "top_headlines": [
     {
@@ -185,6 +185,13 @@
       "link": "https://kabar6.com/kader-gerindra-nahkodai-dekopinda-kabupaten-lebak/"
     },
     {
+      "title": "Berdalih Berikan Pendidikan Politik, Demer Temui Fraksi Golkar di Gedung Dewan Karangasem - Balipuspanews.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 13:07:45 GMT",
+      "link": "https://www.balipuspanews.com/berdalih-berikan-pendidikan-politik-demer-temui-fraksi-golkar-di-gedung-dewan-karangasem.html"
+    },
+    {
       "title": "Terlibat dalam KSSK, Purbaya Tegaskan Danantara Bukan Pengambil Keputusan - Kompas.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 13:01:42 GMT",
       "link": "https://achmadnurhidayat.id/kssk-libatkan-danantara-tanpa-hak-suara"
-    },
-    {
-      "title": "DPR Kota Jayapura Warning Pemkot - Jawa Pos",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 13:00:08 GMT",
-      "link": "https://cenderawasihpos.jawapos.com/metropolis/28/07/2026/dpr-kota-jayapura-warning-pemkot/amp/"
     }
   ]
 }
