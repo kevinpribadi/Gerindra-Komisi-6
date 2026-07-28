@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T20:14:47.863547",
+  "generated_at": "2026-07-28T22:02:43.314393",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 33,
@@ -40,7 +40,7 @@
     "perdagangan": 16,
     "investasi": 29,
     "ekspor": 9,
-    "umkm": 18,
+    "umkm": 17,
     "kartel-monopoli": 3,
     "merger-akuisisi": 3,
     "ipo": 3,
@@ -101,6 +101,13 @@
   },
   "top_headlines": [
     {
+      "title": "Ekosistem Industri Musik Didorong Berbadan Hukum Koperasi - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 19:41:00 GMT",
+      "link": "https://rmol.id/nusantara/read/2026/07/29/716334/ekosistem-industri-musik-didorong-berbadan-hukum-koperasi"
+    },
+    {
       "title": "Koperasi Merah Putih Diperkuat sebagai Infrastruktur Distribusi Pangan Desa - lampung media",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -133,7 +140,21 @@
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 14:25:00 GMT",
+      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617434533/300-paket-sembako-disiapkan-pada-pasar-murah-peringati-hari-koperasi"
+    },
+    {
+      "title": "300 Paket Sembako Disiapkan pada Pasar Murah Peringati Hari Koperasi - Suara Merdeka Pantura - Suara Merdeka Pantura",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
       "link": "https://pantura.suaramerdeka.com/pantura-raya/0617434533/300-paket-sembako-disiapkan-pada-pasar-murah-peringati-hari-koperasi"
+    },
+    {
+      "title": "Menkop: Koperasi Jadi Aktor Utama Transformasi Ekonomi Konstitusi - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/319446/menkop-koperasi-jadi-aktor-utama-transformasi-ekonomi-konstitusi"
     },
     {
       "title": "Herman Khaeron Tegaskan Festival Milm Kampung Jadi Media Pelestarian Sejarah Daerah - Opsi.id",
@@ -178,32 +199,11 @@
       "link": "https://www.antaranews.com/berita/5669908/ias-group-perkuat-transformasi-dan-sinergi-dukung-agenda-bumn"
     },
     {
-      "title": "Kader Gerindra Nahkodai Dekopinda Kabupaten Lebak - kabar6.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 13:19:38 GMT",
-      "link": "https://kabar6.com/kader-gerindra-nahkodai-dekopinda-kabupaten-lebak/"
-    },
-    {
-      "title": "Berdalih Berikan Pendidikan Politik, Demer Temui Fraksi Golkar di Gedung Dewan Karangasem - Balipuspanews.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 13:07:45 GMT",
-      "link": "https://www.balipuspanews.com/berdalih-berikan-pendidikan-politik-demer-temui-fraksi-golkar-di-gedung-dewan-karangasem.html"
-    },
-    {
-      "title": "Terlibat dalam KSSK, Purbaya Tegaskan Danantara Bukan Pengambil Keputusan - Kompas.id",
+      "title": "Hanya Beri Masukan, Purbaya: Danantara Tidak Punya Hak Suara dalam KSSK - MetroTVNews.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 13:07:00 GMT",
-      "link": "https://www.kompas.id/artikel/terlibat-dalam-kssk-purbaya-tegaskan-danantara-bukan-pengambil-keputusan"
-    },
-    {
-      "title": "KSSK Libatkan Danantara dalam Rapat Berkala Tanpa Hak Suara - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 13:01:42 GMT",
-      "link": "https://achmadnurhidayat.id/kssk-libatkan-danantara-tanpa-hak-suara"
+      "published": "Tue, 28 Jul 2026 13:24:59 GMT",
+      "link": "https://www.metrotvnews.com/read/kM6C4dde-hanya-beri-masukan-purbaya-danantara-tidak-punya-hak-suara-dalam-kssk"
     }
   ]
 }
