@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T06:33:52.768802",
+  "generated_at": "2026-07-28T09:35:16.172454",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 32,
-    "Golkar": 19,
-    "NasDem": 8,
+    "Golkar": 17,
+    "NasDem": 7,
     "PKB": 1,
-    "PKS": 8,
+    "PKS": 7,
     "PAN": 6,
-    "Demokrat": 2
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 71,
@@ -19,7 +19,7 @@
     "PKB": 40,
     "PKS": 61,
     "PAN": 17,
-    "Demokrat": 26
+    "Demokrat": 27
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 64,
-    "danantara": 43,
+    "bumn": 63,
+    "danantara": 44,
     "koperasi": 81,
-    "perdagangan": 16,
-    "ekspor": 7,
-    "umkm": 18,
-    "investasi": 35,
-    "kartel-monopoli": 6,
+    "perdagangan": 15,
+    "ekspor": 6,
+    "umkm": 17,
+    "investasi": 34,
+    "kartel-monopoli": 4,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -88,24 +88,87 @@
     "Eko Patrio": 5,
     "Nasril Bahar": 3,
     "Iskandar": 9,
-    "Sartono": 3,
+    "Sartono": 4,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
-    "Perdagangan": 32,
-    "Hukum/Audit": 45,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 34,
+    "Hukum/Audit": 42,
     "Koperasi/UMKM": 93,
-    "Konflik Publik": 4
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Produksi Semen Nasional Surplus, KPPU Selidiki Kelangkaan Pasokan di Sumut - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 09:22:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/28/162205226/produksi-semen-nasional-surplus-kppu-selidiki-kelangkaan-pasokan-di-sumut"
+    },
+    {
+      "title": "KUD Sejahtera Muba Disiapkan Jadi Model Hilirisasi Sawit Berbasis Koperasi Nasional - katanda.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 08:58:18 GMT",
+      "link": "https://www.katanda.id/2026/07/28/kud-sejahtera-muba-disiapkan-jadi-model-hilirisasi-sawit-berbasis-koperasi-nasional/"
+    },
+    {
+      "title": "Anggota DPR: Negara tidak boleh biarkan kekerasan jadi budaya - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 08:20:19 GMT",
+      "link": "https://www.antaranews.com/berita/5669235/anggota-dpr-negara-tidak-boleh-biarkan-kekerasan-jadi-budaya"
+    },
+    {
+      "title": "DPN Terima Audiensi BP Batam Bahas Pengembangan Batam Sebagai Digital Hub Nasional - Dewan Pertahanan Nasional RI",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 07:48:27 GMT",
+      "link": "https://www.dpn.go.id/dpn-terima-audiensi-bp-batam-bahas-pengembangan-batam-sebagai-digital-hub-nasional"
+    },
+    {
+      "title": "Kemendag tegaskan enam kewajiban pelaku usaha depot air minum - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 07:39:18 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/416135/kemendag-tegaskan-enam-kewajiban-pelaku-usaha-depot-air-minum"
+    },
+    {
+      "title": "Sartono Serap Aspirasi Warga Ngawi, Dorong Pembinaan Atlet Voli Muda - cakrawarta",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 07:38:30 GMT",
+      "link": "https://www.cakrawarta.com/sartono-serap-aspirasi-warga-ngawi-dorong-pembinaan-atlet-voli-muda.html"
+    },
+    {
+      "title": "Banyak Galon Air Minum Kotor-Tetap Dipakai, Kemendag Turun Tangan - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 07:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260728131638-4-754399/banyak-galon-air-minum-kotor-tetap-dipakai-kemendag-turun-tangan"
+    },
+    {
+      "title": "KSSK Akan Libatkan Danantara, tapi Bukan untuk Ambil Keputusan - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 07:22:00 GMT",
+      "link": "https://money.kompas.com/read/2026/07/28/142206226/kssk-akan-libatkan-danantara-tapi-bukan-untuk-ambil-keputusan"
+    },
     {
       "title": "Kementerian Perdagangan Sebut Banyak Air Minum Kemasan Tidak Layak Konsumsi - TransKepri.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 05:49:27 GMT",
       "link": "https://transkepri.com/news/detail/25730/kementerian-perdagangan-sebut-banyak-air-minum-kemasan-tidak-layak-konsumsi"
+    },
+    {
+      "title": "Kemendag Dorong DPR Segera Bahas Revisi UU Perlindungan Konsumen - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 05:45:24 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-dorong-dpr-bahas-revisi-uu-perlindungan-konsumen"
     },
     {
       "title": "LPS: Danantara akan Dilibatkan dalam Koordinasi KSSK - Tempo.co",
@@ -136,74 +199,11 @@
       "link": "https://segmennews.com/2026/07/28/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut/"
     },
     {
-      "title": "KPPU Dalami Lonjakan Harga dan Gangguan Pasokan Semen di Sumatera Utara, Dugaan Disparitas Distribusi Diselidiki - RiauAktual.com",
-      "entity": "KPPU",
+      "title": "Kementerian Perindustrian dan Perdagangan sedang menerapkan serangkaian solusi untuk mencapai target pertumbuhan 10%. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 04:22:31 GMT",
-      "link": "https://riauaktual.com/news/detail/120402/kppu-dalami-lonjakan-harga-dan-gangguan-pasokan-semen-di-sumatera-utara-dugaan-disparitas-distribusi"
-    },
-    {
-      "title": "Prabowo minta Danantara ikut rapat KSSK - IDNFinancials",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 03:40:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/66640/prabowo-minta-danantara-ikut-rapat-kssk"
-    },
-    {
-      "title": "Prabowo Minta Danantara Dilibatkan dalam Setiap Keputusan KSSK - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 03:39:16 GMT",
-      "link": "https://achmadnurhidayat.id/prabowo-minta-danantara-dilibatkan-keputusan-kssk"
-    },
-    {
-      "title": "Arahan Prabowo: Danantara Masuk KSSK Bareng BI-OJK - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 03:36:10 GMT",
-      "link": "https://finance.detik.com/moneter/d-8593333/arahan-prabowo-danantara-masuk-kssk-bareng-bi-ojk"
-    },
-    {
-      "title": "Kakankemenag Sragen Buka Diklat Perkoperasian, KPRI Amal Bakti Siapkan Kader Koperasi Andal - Kementerian Agama",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 02:51:28 GMT",
-      "link": "https://sragen.kemenag.go.id/berita/kakankemenag-sragen-buka-diklat-perkoperasian-kpri-amal-bakti-siapkan-kader-koperasi-andal/"
-    },
-    {
-      "title": "KPPU: Dampak Perbaikan Logistik E-Commerce Capai Rp1,47 Triliun - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 02:32:51 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-dampak-perbaikan-logistik-e-commerce-capai-rp147-triliun/"
-    },
-    {
-      "title": "Danantara Bakal Dilibatkan dalam KSSK - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 02:02:08 GMT",
-      "link": "https://www.metrotvnews.com/read/NG9Czo61-danantara-bakal-dilibatkan-dalam-kssk"
-    },
-    {
-      "title": "KPPU Dalami Disparitas Harga Dan Gangguan Pasokan Semen Di Sumut - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 01:44:10 GMT",
-      "link": "https://waspada.id/berita/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut"
-    },
-    {
-      "title": "Disperindagkop Dorong Koperasi Manfaatkan Peluang di Sektor Minerba - RADAR BONTANG",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 00:37:24 GMT",
-      "link": "https://radarbontang.com/disperindagkop-dorong-koperasi-manfaatkan-peluang-di-sektor-minerba/"
-    },
-    {
-      "title": "Danantara Masuk KSSK, Investor Bisa Curiga - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 00:30:00 GMT",
-      "link": "https://insight.kontan.co.id/news/danantara-masuk-kssk-investor-bisa-curiga"
+      "published": "Tue, 28 Jul 2026 04:25:37 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trien-khai-loat-giai-phap-thuc-hien-muc-tieu-tang-truong-10"
     }
   ]
 }
