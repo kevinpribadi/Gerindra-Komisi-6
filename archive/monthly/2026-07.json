@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T11:56:07.051055",
+  "generated_at": "2026-07-28T14:05:52.835065",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 32,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
-    "danantara": 44,
-    "koperasi": 80,
+    "bumn": 62,
+    "danantara": 45,
+    "koperasi": 79,
     "perdagangan": 15,
-    "investasi": 33,
-    "ekspor": 7,
-    "umkm": 17,
-    "kartel-monopoli": 3,
+    "investasi": 30,
+    "ekspor": 9,
+    "umkm": 18,
+    "kartel-monopoli": 2,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -94,12 +94,82 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 36,
-    "Hukum/Audit": 40,
-    "Koperasi/UMKM": 93,
+    "Perdagangan": 40,
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 92,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Muba Bersiap Jadi Etalase Hilirisasi Sawit Nasional - SIBER SUMSEL",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 14:01:10 GMT",
+      "link": "https://sibersumsel.com/muba-bersiap-jadi-etalase-hilirisasi-sawit-nasional/21530/"
+    },
+    {
+      "title": "DPR Soroti Maraknya Aksi Kekerasan Kitab Massa di Indonesia - achmadnurhidayat.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 13:43:22 GMT",
+      "link": "https://achmadnurhidayat.id/dpr-soroti-maraknya-kekerasan-massa"
+    },
+    {
+      "title": "IAS Group Perkuat Transformasi dan Sinergi Dukung Agenda BUMN - ANTARA News",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 13:39:53 GMT",
+      "link": "https://www.antaranews.com/berita/5669908/ias-group-perkuat-transformasi-dan-sinergi-dukung-agenda-bumn"
+    },
+    {
+      "title": "Terlibat dalam KSSK, Purbaya Tegaskan Danantara Bukan Pengambil Keputusan - Kompas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 13:07:00 GMT",
+      "link": "https://www.kompas.id/artikel/terlibat-dalam-kssk-purbaya-tegaskan-danantara-bukan-pengambil-keputusan"
+    },
+    {
+      "title": "DPR Kota Jayapura Warning Pemkot - Jawa Pos",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 13:00:08 GMT",
+      "link": "https://cenderawasihpos.jawapos.com/metropolis/28/07/2026/dpr-kota-jayapura-warning-pemkot/"
+    },
+    {
+      "title": "Purbaya: Danantara Ikut Rapat KSSK, tetapi Tak Punya Hak Suara - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 12:49:37 GMT",
+      "link": "https://investor.id/macroeconomy/448206/purbaya-danantara-ikut-rapat-kssk-tetapi-tak-punya-hak-suara"
+    },
+    {
+      "title": "Purbaya: Danantara Hanya Berstatus Undangan di Rapat KSSK, Tanpa Hak Suara - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 12:43:00 GMT",
+      "link": "https://swa.co.id/read/475405/purbaya-danantara-hanya-berstatus-undangan-di-rapat-kssk-tanpa-hak-suara"
+    },
+    {
+      "title": "Menkop: KDKMP jadi infrastruktur negara untuk perkuat rantai pasok - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 12:39:08 GMT",
+      "link": "https://jogja.antaranews.com/berita/844717/menkop-kdkmp-jadi-infrastruktur-negara-untuk-perkuat-rantai-pasok"
+    },
+    {
+      "title": "Danantara Ikut Rapat KSSK, Purbaya: Sebagai Undangan & Tanpa Hak Suara - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 12:10:47 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260728190632-17-754536/danantara-ikut-rapat-kssk-purbaya-sebagai-undangan-tanpa-hak-suara"
+    },
+    {
+      "title": "Prabowo Kembalikan Arah Ekonomi dengan Koperasi Sebagai Andalan - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 12:03:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/07/28/716302/prabowo-kembalikan-arah-ekonomi-dengan-koperasi-sebagai-andalan"
+    },
     {
       "title": "Menkop: Koperasi Kini Bisa Kelola Tambang hingga Sumur Minyak Rakyat - Bisnis.com - Ekonomi",
       "entity": "Kementerian Koperasi",
@@ -122,88 +192,18 @@
       "link": "https://www.agricom.id/news/5057/terima-audiensi-bridgestone-indonesia--mendag-busan-dukung-penguatan-ekspor-dan-investasi-industri-ban"
     },
     {
+      "title": "UMKM Yogyakarta Didorong Go Global Lewat Program Kemendag - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 09:50:34 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/07/28/umkm-yogyakarta-didorong-go-global-lewat-program-kemendag/"
+    },
+    {
       "title": "Pengusaha Depot Air Minum Mohon Simak, Kemendag Larang Lakukan Ini - CNBC Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 09:45:00 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260728152829-4-754448/pengusaha-depot-air-minum-mohon-simak-kemendag-larang-lakukan-ini"
-    },
-    {
-      "title": "Menkop: Perpres tata kelola KDKMP atur operasional hingga pembiayaan - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 09:29:41 GMT",
-      "link": "https://www.antaranews.com/berita/5669392/menkop-perpres-tata-kelola-kdkmp-atur-operasional-hingga-pembiayaan"
-    },
-    {
-      "title": "Produksi Semen Nasional Surplus, KPPU Selidiki Kelangkaan Pasokan di Sumut - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 09:22:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/28/162205226/produksi-semen-nasional-surplus-kppu-selidiki-kelangkaan-pasokan-di-sumut"
-    },
-    {
-      "title": "Dua Fungsi Koperasi Merah Putih Menurut Zulkifli Hasan - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 09:17:01 GMT",
-      "link": "https://www.tempo.co/ekonomi/dua-fungsi-koperasi-merah-putih-menurut-zulkifli-hasan-2278747"
-    },
-    {
-      "title": "KUD Sejahtera Muba Disiapkan Jadi Model Hilirisasi Sawit Berbasis Koperasi Nasional - katanda.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 08:58:18 GMT",
-      "link": "https://www.katanda.id/2026/07/28/kud-sejahtera-muba-disiapkan-jadi-model-hilirisasi-sawit-berbasis-koperasi-nasional/"
-    },
-    {
-      "title": "Mendes Yandri Bersama 10 Asosiasi Desa Akan Kawal Terus Program Koperasi Desa Merah Putih - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 08:48:49 GMT",
-      "link": "https://suarapemerintah.id/2026/07/mendes-yandri-bersama-10-asosiasi-desa-akan-kawal-terus-program-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Anggota DPR: Negara tidak boleh biarkan kekerasan jadi budaya - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 08:20:19 GMT",
-      "link": "https://www.antaranews.com/berita/5669235/anggota-dpr-negara-tidak-boleh-biarkan-kekerasan-jadi-budaya"
-    },
-    {
-      "title": "Anggota DPR: Negara tidak boleh biarkan kekerasan jadi budaya - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 08:20:19 GMT",
-      "link": "https://www.antaranews.com/berita/5669235/anggota-dpr-negara-tidak-boleh-biarkan-kekerasan-jadi-budaya?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
-    },
-    {
-      "title": "DPN Terima Audiensi BP Batam Bahas Pengembangan Batam Sebagai Digital Hub Nasional - Dewan Pertahanan Nasional RI",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 07:48:27 GMT",
-      "link": "https://www.dpn.go.id/dpn-terima-audiensi-bp-batam-bahas-pengembangan-batam-sebagai-digital-hub-nasional"
-    },
-    {
-      "title": "Kemendag tegaskan enam kewajiban pelaku usaha depot air minum - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 07:39:18 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/416135/kemendag-tegaskan-enam-kewajiban-pelaku-usaha-depot-air-minum"
-    },
-    {
-      "title": "Sartono Serap Aspirasi Warga Ngawi, Dorong Pembinaan Atlet Voli Muda - cakrawarta",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 07:38:30 GMT",
-      "link": "https://www.cakrawarta.com/sartono-serap-aspirasi-warga-ngawi-dorong-pembinaan-atlet-voli-muda.html"
-    },
-    {
-      "title": "Banyak Galon Air Minum Kotor-Tetap Dipakai, Kemendag Turun Tangan - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 07:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260728131638-4-754399/banyak-galon-air-minum-kotor-tetap-dipakai-kemendag-turun-tangan"
     }
   ]
 }
