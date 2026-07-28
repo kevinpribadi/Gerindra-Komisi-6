@@ -1,13 +1,13 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T09:35:16.172454",
+  "generated_at": "2026-07-28T11:56:07.051055",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 32,
-    "Golkar": 17,
+    "Golkar": 13,
     "NasDem": 7,
     "PKB": 1,
-    "PKS": 7,
+    "PKS": 6,
     "PAN": 6,
     "Demokrat": 3
   },
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 63,
     "danantara": 44,
-    "koperasi": 81,
+    "koperasi": 80,
     "perdagangan": 15,
-    "ekspor": 6,
+    "investasi": 33,
+    "ekspor": 7,
     "umkm": 17,
-    "investasi": 34,
-    "kartel-monopoli": 4,
+    "kartel-monopoli": 3,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -94,18 +94,60 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 34,
-    "Hukum/Audit": 42,
+    "Perdagangan": 36,
+    "Hukum/Audit": 40,
     "Koperasi/UMKM": 93,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Koperasi Kini Bisa Kelola Tambang hingga Sumur Minyak Rakyat - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 11:15:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260728/12/1991761/menkop-koperasi-kini-bisa-kelola-tambang-hingga-sumur-minyak-rakyat"
+    },
+    {
+      "title": "Harga Semen Tembus Rp80 Ribu per Sak, KPPU Selidiki Pasokan - IDN Times Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 10:15:00 GMT",
+      "link": "https://sumut.idntimes.com/news/sumatra-utara/harga-semen-tembus-rp80-ribu-per-sak-kppu-selidiki-pasokan-00-f4z9n-42g577"
+    },
+    {
+      "title": "Terima Audiensi Bridgestone Indonesia, Mendag Busan Dukung Penguatan Ekspor dan Investasi Industri Ban - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 10:03:00 GMT",
+      "link": "https://www.agricom.id/news/5057/terima-audiensi-bridgestone-indonesia--mendag-busan-dukung-penguatan-ekspor-dan-investasi-industri-ban"
+    },
+    {
+      "title": "Pengusaha Depot Air Minum Mohon Simak, Kemendag Larang Lakukan Ini - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 09:45:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260728152829-4-754448/pengusaha-depot-air-minum-mohon-simak-kemendag-larang-lakukan-ini"
+    },
+    {
+      "title": "Menkop: Perpres tata kelola KDKMP atur operasional hingga pembiayaan - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 09:29:41 GMT",
+      "link": "https://www.antaranews.com/berita/5669392/menkop-perpres-tata-kelola-kdkmp-atur-operasional-hingga-pembiayaan"
+    },
     {
       "title": "Produksi Semen Nasional Surplus, KPPU Selidiki Kelangkaan Pasokan di Sumut - Kompas.com",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 09:22:00 GMT",
       "link": "https://money.kompas.com/read/2026/07/28/162205226/produksi-semen-nasional-surplus-kppu-selidiki-kelangkaan-pasokan-di-sumut"
+    },
+    {
+      "title": "Dua Fungsi Koperasi Merah Putih Menurut Zulkifli Hasan - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 09:17:01 GMT",
+      "link": "https://www.tempo.co/ekonomi/dua-fungsi-koperasi-merah-putih-menurut-zulkifli-hasan-2278747"
     },
     {
       "title": "KUD Sejahtera Muba Disiapkan Jadi Model Hilirisasi Sawit Berbasis Koperasi Nasional - katanda.id",
@@ -115,11 +157,25 @@
       "link": "https://www.katanda.id/2026/07/28/kud-sejahtera-muba-disiapkan-jadi-model-hilirisasi-sawit-berbasis-koperasi-nasional/"
     },
     {
+      "title": "Mendes Yandri Bersama 10 Asosiasi Desa Akan Kawal Terus Program Koperasi Desa Merah Putih - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 08:48:49 GMT",
+      "link": "https://suarapemerintah.id/2026/07/mendes-yandri-bersama-10-asosiasi-desa-akan-kawal-terus-program-koperasi-desa-merah-putih/"
+    },
+    {
       "title": "Anggota DPR: Negara tidak boleh biarkan kekerasan jadi budaya - ANTARA News",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Tue, 28 Jul 2026 08:20:19 GMT",
       "link": "https://www.antaranews.com/berita/5669235/anggota-dpr-negara-tidak-boleh-biarkan-kekerasan-jadi-budaya"
+    },
+    {
+      "title": "Anggota DPR: Negara tidak boleh biarkan kekerasan jadi budaya - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 08:20:19 GMT",
+      "link": "https://www.antaranews.com/berita/5669235/anggota-dpr-negara-tidak-boleh-biarkan-kekerasan-jadi-budaya?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
     },
     {
       "title": "DPN Terima Audiensi BP Batam Bahas Pengembangan Batam Sebagai Digital Hub Nasional - Dewan Pertahanan Nasional RI",
@@ -148,62 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 07:30:00 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260728131638-4-754399/banyak-galon-air-minum-kotor-tetap-dipakai-kemendag-turun-tangan"
-    },
-    {
-      "title": "KSSK Akan Libatkan Danantara, tapi Bukan untuk Ambil Keputusan - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 07:22:00 GMT",
-      "link": "https://money.kompas.com/read/2026/07/28/142206226/kssk-akan-libatkan-danantara-tapi-bukan-untuk-ambil-keputusan"
-    },
-    {
-      "title": "Kementerian Perdagangan Sebut Banyak Air Minum Kemasan Tidak Layak Konsumsi - TransKepri.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 05:49:27 GMT",
-      "link": "https://transkepri.com/news/detail/25730/kementerian-perdagangan-sebut-banyak-air-minum-kemasan-tidak-layak-konsumsi"
-    },
-    {
-      "title": "Kemendag Dorong DPR Segera Bahas Revisi UU Perlindungan Konsumen - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 05:45:24 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-dorong-dpr-bahas-revisi-uu-perlindungan-konsumen"
-    },
-    {
-      "title": "LPS: Danantara akan Dilibatkan dalam Koordinasi KSSK - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 05:14:00 GMT",
-      "link": "https://bisnis.tempo.co/read/2115769/lps-danantara-akan-dilibatkan-dalam-koordinasi-kssk?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Libatkan Danantara, Pemerintah Siapkan Koperasi Masjid Jadi Mesin Baru Ekonomi Umat - kabarbisnis.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 05:12:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136257/libatkan-danantara-pemerintah-siapkan-koperasi-masjid-jadi-mesin-baru-ekonomi-umat"
-    },
-    {
-      "title": "Danantara Bakal Terlibat di Komite Stabilitas Sistem Keuangan, Alasannya Karena Kelola Uang - merahputih.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 05:08:59 GMT",
-      "link": "https://www.merahputih.com/post/read/danantara-bakal-terlibat-di-komite-stabilitas-sistem-keuangan-alasannya-karena-kelola-uang"
-    },
-    {
-      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumut - Segmen News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 04:56:42 GMT",
-      "link": "https://segmennews.com/2026/07/28/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan sedang menerapkan serangkaian solusi untuk mencapai target pertumbuhan 10%. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 04:25:37 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trien-khai-loat-giai-phap-thuc-hien-muc-tieu-tang-truong-10"
     }
   ]
 }
