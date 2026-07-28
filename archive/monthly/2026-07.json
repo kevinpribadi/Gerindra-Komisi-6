@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T03:59:01.763397",
+  "generated_at": "2026-07-28T06:33:52.768802",
   "party_counts_7d": {
-    "Gerindra": 28,
+    "Gerindra": 27,
     "PDI-P": 32,
-    "Golkar": 20,
+    "Golkar": 19,
     "NasDem": 8,
     "PKB": 1,
     "PKS": 8,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 65,
-    "danantara": 41,
+    "bumn": 64,
+    "danantara": 43,
     "koperasi": 81,
-    "perdagangan": 15,
+    "perdagangan": 16,
     "ekspor": 7,
     "umkm": 18,
-    "investasi": 36,
-    "kartel-monopoli": 7,
+    "investasi": 35,
+    "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -93,19 +93,96 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
-    "Perdagangan": 30,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 32,
     "Hukum/Audit": 45,
-    "Koperasi/UMKM": 92,
+    "Koperasi/UMKM": 93,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Perdagangan Sebut Banyak Air Minum Kemasan Tidak Layak Konsumsi - TransKepri.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 05:49:27 GMT",
+      "link": "https://transkepri.com/news/detail/25730/kementerian-perdagangan-sebut-banyak-air-minum-kemasan-tidak-layak-konsumsi"
+    },
+    {
+      "title": "LPS: Danantara akan Dilibatkan dalam Koordinasi KSSK - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 05:14:00 GMT",
+      "link": "https://bisnis.tempo.co/read/2115769/lps-danantara-akan-dilibatkan-dalam-koordinasi-kssk?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Libatkan Danantara, Pemerintah Siapkan Koperasi Masjid Jadi Mesin Baru Ekonomi Umat - kabarbisnis.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 05:12:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136257/libatkan-danantara-pemerintah-siapkan-koperasi-masjid-jadi-mesin-baru-ekonomi-umat"
+    },
+    {
+      "title": "Danantara Bakal Terlibat di Komite Stabilitas Sistem Keuangan, Alasannya Karena Kelola Uang - merahputih.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 05:08:59 GMT",
+      "link": "https://www.merahputih.com/post/read/danantara-bakal-terlibat-di-komite-stabilitas-sistem-keuangan-alasannya-karena-kelola-uang"
+    },
+    {
+      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumut - Segmen News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 04:56:42 GMT",
+      "link": "https://segmennews.com/2026/07/28/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut/"
+    },
+    {
+      "title": "KPPU Dalami Lonjakan Harga dan Gangguan Pasokan Semen di Sumatera Utara, Dugaan Disparitas Distribusi Diselidiki - RiauAktual.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 04:22:31 GMT",
+      "link": "https://riauaktual.com/news/detail/120402/kppu-dalami-lonjakan-harga-dan-gangguan-pasokan-semen-di-sumatera-utara-dugaan-disparitas-distribusi"
+    },
+    {
+      "title": "Prabowo minta Danantara ikut rapat KSSK - IDNFinancials",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 03:40:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/66640/prabowo-minta-danantara-ikut-rapat-kssk"
+    },
     {
       "title": "Prabowo Minta Danantara Dilibatkan dalam Setiap Keputusan KSSK - achmadnurhidayat.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 03:39:16 GMT",
       "link": "https://achmadnurhidayat.id/prabowo-minta-danantara-dilibatkan-keputusan-kssk"
+    },
+    {
+      "title": "Arahan Prabowo: Danantara Masuk KSSK Bareng BI-OJK - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 03:36:10 GMT",
+      "link": "https://finance.detik.com/moneter/d-8593333/arahan-prabowo-danantara-masuk-kssk-bareng-bi-ojk"
+    },
+    {
+      "title": "Kakankemenag Sragen Buka Diklat Perkoperasian, KPRI Amal Bakti Siapkan Kader Koperasi Andal - Kementerian Agama",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 02:51:28 GMT",
+      "link": "https://sragen.kemenag.go.id/berita/kakankemenag-sragen-buka-diklat-perkoperasian-kpri-amal-bakti-siapkan-kader-koperasi-andal/"
+    },
+    {
+      "title": "KPPU: Dampak Perbaikan Logistik E-Commerce Capai Rp1,47 Triliun - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 02:32:51 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-dampak-perbaikan-logistik-e-commerce-capai-rp147-triliun/"
+    },
+    {
+      "title": "Danantara Bakal Dilibatkan dalam KSSK - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 02:02:08 GMT",
+      "link": "https://www.metrotvnews.com/read/NG9Czo61-danantara-bakal-dilibatkan-dalam-kssk"
     },
     {
       "title": "KPPU Dalami Disparitas Harga Dan Gangguan Pasokan Semen Di Sumut - waspada.id",
@@ -127,83 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 00:30:00 GMT",
       "link": "https://insight.kontan.co.id/news/danantara-masuk-kssk-investor-bisa-curiga"
-    },
-    {
-      "title": "Danantara Resmi Jadi Sumber Modal Awal PFII - Diskursus Network",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 22:33:18 GMT",
-      "link": "https://diskursusnetwork.com/article/danantara-jadi-sumber-modal-awal-pfii"
-    },
-    {
-      "title": "Danantara ungkap target restrukturisasi BUMN hingga program perumahan - ANTARA News Jambi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 16:41:23 GMT",
-      "link": "https://jambi.antaranews.com/video/5668451/danantara-ungkap-target-restrukturisasi-bumn-hingga-program-perumahan"
-    },
-    {
-      "title": "Pemkab Muba Siapkan Agenda Nasional Hilirisasi Sawit Berbasis Koperasi - katanda.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 16:13:42 GMT",
-      "link": "https://www.katanda.id/2026/07/27/pemkab-muba-siapkan-agenda-nasional-hilirisasi-sawit-berbasis-koperasi/"
-    },
-    {
-      "title": "| Anggota DPR: Rentetan Kekerasan di Berbagai Daerah Ancam Persatuan Bangsa - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 16:07:12 GMT",
-      "link": "https://www.jurnas.com/artikel/1662667/anggota-dpr-rentetan-kekerasan-di-berbagai-daerah-ancam-persatuan-bangsa/"
-    },
-    {
-      "title": "Khilmi: PT PAL Harus Jadi Tulang Punggung Kemandirian Industri Perkapalan Nasional - Gerindra",
-      "entity": "Khilmi",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 15:23:05 GMT",
-      "link": "https://gerindra.id/2026/07/27/khilmi-pt-pal-harus-jadi-tulang-punggung-kemandirian-industri-perkapalan-nasional/"
-    },
-    {
-      "title": "Izin Tambang Kopdes Merah Putih? Darmadi Durianto: Harus Miliki Kapasitas Manajerial, Profesional, Sumber Daya Memadai - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/izin-tambang-kopdes-merah-putih-darmadi-durianto-harus-miliki-kapasitas-manajerial-profesional-sumber-daya-memadai-b2pXdZbgGu"
-    },
-    {
-      "title": "KSSK libatkan Danantara mengikuti arahan Presiden Prabowo - ANTARA News Megapolitan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 14:27:48 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/542268/kssk-libatkan-danantara-mengikuti-arahan-presiden-prabowo"
-    },
-    {
-      "title": "Kemendag Jaga Akses Pasar AS via ART, Ekspor RI Capai 11,47 % - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 13:50:00 GMT",
-      "link": "https://tirto.id/kemendag-jaga-akses-pasar-as-via-art-ekspor-ri-capai-1147-hAlp"
-    },
-    {
-      "title": "Revitalisasi Tugu Koperasi Tasikmalaya disiapkan sebagai cagar budaya dan pusat edukasi sejarah koperasi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 13:20:55 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/revitalisasi-tugu-koperasi-tasikmalaya-disiapkan-sebagai-cagar-budaya-dan-pusat-edukasi-sejarah-koperasi-171669"
-    },
-    {
-      "title": "Disperindagkop Kaltim Nyatakan Koperasi Merah Putih Bisa Kelola Tambang - radarmedia.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 13:06:17 GMT",
-      "link": "https://radarmedia.id/disperindagkop-kaltim-nyatakan-koperasi-merah-putih-bisa-kelola-tambang/"
-    },
-    {
-      "title": "UKU Ungkap Dampak Putusan KPPU terhadap Minat Lender Tempatkan Dana di Pindar - Bisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 12:49:49 GMT",
-      "link": "https://finansial.bisnis.com/read/20260727/563/1991480/uku-ungkap-dampak-putusan-kppu-terhadap-minat-lender-tempatkan-dana-di-pindar"
     }
   ]
 }
