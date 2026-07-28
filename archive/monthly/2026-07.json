@@ -1,20 +1,20 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T00:00:21.010584",
+  "generated_at": "2026-07-28T03:59:01.763397",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 32,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 8,
     "PKB": 1,
     "PKS": 8,
     "PAN": 6,
-    "Demokrat": 4
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 71,
     "PDI-P": 102,
-    "Golkar": 86,
+    "Golkar": 84,
     "NasDem": 46,
     "PKB": 40,
     "PKS": 61,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 65,
-    "danantara": 40,
-    "koperasi": 83,
-    "perdagangan": 14,
+    "danantara": 41,
+    "koperasi": 81,
+    "perdagangan": 15,
     "ekspor": 7,
     "umkm": 18,
     "investasi": 36,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -94,12 +94,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 21,
-    "Perdagangan": 29,
-    "Hukum/Audit": 46,
-    "Koperasi/UMKM": 93,
+    "Perdagangan": 30,
+    "Hukum/Audit": 45,
+    "Koperasi/UMKM": 92,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Minta Danantara Dilibatkan dalam Setiap Keputusan KSSK - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 03:39:16 GMT",
+      "link": "https://achmadnurhidayat.id/prabowo-minta-danantara-dilibatkan-keputusan-kssk"
+    },
+    {
+      "title": "KPPU Dalami Disparitas Harga Dan Gangguan Pasokan Semen Di Sumut - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 01:44:10 GMT",
+      "link": "https://waspada.id/berita/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut"
+    },
+    {
+      "title": "Disperindagkop Dorong Koperasi Manfaatkan Peluang di Sektor Minerba - RADAR BONTANG",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 00:37:24 GMT",
+      "link": "https://radarbontang.com/disperindagkop-dorong-koperasi-manfaatkan-peluang-di-sektor-minerba/"
+    },
+    {
+      "title": "Danantara Masuk KSSK, Investor Bisa Curiga - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 00:30:00 GMT",
+      "link": "https://insight.kontan.co.id/news/danantara-masuk-kssk-investor-bisa-curiga"
+    },
     {
       "title": "Danantara Resmi Jadi Sumber Modal Awal PFII - Diskursus Network",
       "entity": "Danantara",
@@ -176,34 +204,6 @@
       "kind": "lembaga",
       "published": "Mon, 27 Jul 2026 12:49:49 GMT",
       "link": "https://finansial.bisnis.com/read/20260727/563/1991480/uku-ungkap-dampak-putusan-kppu-terhadap-minat-lender-tempatkan-dana-di-pindar"
-    },
-    {
-      "title": "Muba Siap jadi Role Model Nasional Hilirisasi Sawit Berbasis Koperasi - monpera.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 12:28:16 GMT",
-      "link": "https://monpera.id/muba-siap-jadi-role-model-nasional-hilirisasi-sawit-berbasis-koperasi/"
-    },
-    {
-      "title": "Destry Damayanti Ungkap Arahan Presiden terkait KSSK dan Danantara - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 12:21:01 GMT",
-      "link": "https://www.metrotvnews.com/read/NA0CrQe6-destry-damayanti-ungkap-arahan-presiden-terkait-kssk-dan-danantara"
-    },
-    {
-      "title": "Prabowo Minta Danantara Dilibatkan dalam KSSK - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 27 Jul 2026 12:15:15 GMT",
-      "link": "https://nasional.kontan.co.id/news/prabowo-minta-danantara-dilibatkan-dalam-kssk"
-    },
-    {
-      "title": "Ida Nurlaela Sambut Baik Putusan MK Soal Sisa Kuota Internet, Hak Konsumen yang Wajib Dilindungi Hukum - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Mon, 27 Jul 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-sambut-baik-putusan-mk-soal-sisa-kuota-internet-hak-konsumen-yang-wajib-dilindungi-hukum-b2pXdZbgGq"
     }
   ]
 }
