@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T22:02:43.314393",
+  "generated_at": "2026-07-28T23:56:31.826990",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 33,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
-    "danantara": 44,
+    "bumn": 60,
+    "danantara": 43,
     "koperasi": 79,
     "perdagangan": 16,
     "investasi": 29,
@@ -93,13 +93,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 17,
     "Perdagangan": 39,
-    "Hukum/Audit": 38,
+    "Hukum/Audit": 37,
     "Koperasi/UMKM": 90,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Terungkap Alasan Danantara Masuk KSSK Bareng BI-OJK - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 23:45:00 GMT",
+      "link": "https://finance.detik.com/moneter/d-8594622/terungkap-alasan-danantara-masuk-kssk-bareng-bi-ojk"
+    },
+    {
+      "title": "Menkop: RUU Perkoperasian baru ditargetkan disahkan tahun ini - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 23:40:00 GMT",
+      "link": "https://jogja.antaranews.com/berita/844795/menkop-ruu-perkoperasian-baru-ditargetkan-disahkan-tahun-ini"
+    },
+    {
+      "title": "Marak Aksi Main Hakim Sendiri, Anggota DPR Rieke Diah Pitaloka Tegaskan Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - TINTAHIJAU.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 23:08:05 GMT",
+      "link": "https://www.tintahijau.com/pemerintahan/marak-aksi-main-hakim-sendiri-anggota-dpr-rieke-diah-pitaloka-tegaskan-negara-tak-boleh-biarkan-kekerasan-jadi-budaya/"
+    },
+    {
+      "title": "Pemerintah targetkan UU Koperasi baru disahkan tahun ini - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 23:00:36 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/pemerintah-targetkan-uu-koperasi-baru-disahkan-tahun-ini-171826"
+    },
+    {
+      "title": "Marak Aksi Main Hakim Sendiri, Rieke Diah Pitaloka: Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - Kompas.tv",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 22:45:00 GMT",
+      "link": "https://www.kompas.tv/nasional/682797/marak-aksi-main-hakim-sendiri-rieke-diah-pitaloka-negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
+    },
     {
       "title": "Ekosistem Industri Musik Didorong Berbadan Hukum Koperasi - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -169,41 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 14:01:10 GMT",
       "link": "https://sibersumsel.com/muba-bersiap-jadi-etalase-hilirisasi-sawit-nasional/21530/"
-    },
-    {
-      "title": "Menkeu Tegaskan Danantara Tak Terlibat Pengambilan Keputusan KSSK, Hanya Beri Masukan - Bisnis.com - Foto",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:00:33 GMT",
-      "link": "https://foto.bisnis.com/view/20260728/1991850/menkeu-tegaskan-danantara-tak-terlibat-pengambilan-keputusan-kssk-hanya-beri-masukan"
-    },
-    {
-      "title": "Pastikan DAMIU Aman, Kemendag dan Jiva Svastha Rilis Poster Edukasi - Industry.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:00:00 GMT",
-      "link": "https://www.industry.co.id/read/153799/pastikan-damiu-aman-kemendag-dan-jiva-svastha-rilis-poster-edukasi"
-    },
-    {
-      "title": "DPR Soroti Maraknya Aksi Kekerasan Kitab Massa di Indonesia - achmadnurhidayat.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 13:43:22 GMT",
-      "link": "https://achmadnurhidayat.id/dpr-soroti-maraknya-kekerasan-massa"
-    },
-    {
-      "title": "IAS Group Perkuat Transformasi dan Sinergi Dukung Agenda BUMN - ANTARA News",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 13:39:53 GMT",
-      "link": "https://www.antaranews.com/berita/5669908/ias-group-perkuat-transformasi-dan-sinergi-dukung-agenda-bumn"
-    },
-    {
-      "title": "Hanya Beri Masukan, Purbaya: Danantara Tidak Punya Hak Suara dalam KSSK - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 13:24:59 GMT",
-      "link": "https://www.metrotvnews.com/read/kM6C4dde-hanya-beri-masukan-purbaya-danantara-tidak-punya-hak-suara-dalam-kssk"
     }
   ]
 }
