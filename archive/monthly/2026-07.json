@@ -1,15 +1,15 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T14:04:26.355223",
+  "generated_at": "2026-07-29T16:19:42.071873",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 22,
     "PDI-P": 38,
     "Golkar": 15,
     "NasDem": 7,
     "PKB": 9,
     "PKS": 7,
     "PAN": 8,
-    "Demokrat": 5
+    "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 71,
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 41,
-    "koperasi": 76,
+    "koperasi": 78,
     "perdagangan": 16,
     "ekspor": 9,
-    "investasi": 33,
-    "umkm": 15,
+    "investasi": 34,
+    "umkm": 14,
     "kartel-monopoli": 5,
     "merger-akuisisi": 3,
     "ipo": 3,
@@ -94,12 +94,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 34,
-    "Hukum/Audit": 34,
-    "Koperasi/UMKM": 85,
-    "Konflik Publik": 4
+    "Perdagangan": 35,
+    "Hukum/Audit": 33,
+    "Koperasi/UMKM": 88,
+    "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Minat Gen Z pada Koperasi Meningkat, Kreator Konten Bergabung - news.harianjogja.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 15:07:53 GMT",
+      "link": "https://news.harianjogja.com/r-1265363/menkop-minat-gen-z-pada-koperasi-meningkat-kreator-konten-bergabung"
+    },
+    {
+      "title": "Langkah Prabowo Jadikan Koperasi Agen Pembangunan Dinilai Keputusan Revolusioner - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 14:52:18 GMT",
+      "link": "https://www.metrotvnews.com/read/kBVCM40g-langkah-prabowo-jadikan-koperasi-agen-pembangunan-dinilai-keputusan-revolusioner"
+    },
+    {
+      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumatera Utara - Warta Ekonomi",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 14:50:00 GMT",
+      "link": "https://wartaekonomi.co.id/read625357/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara"
+    },
+    {
+      "title": "Ketua KPPU: AI Harus Perluas Manfaat Informasi tanpa Menggerus Industri Media - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 14:15:00 GMT",
+      "link": "https://rri.co.id/nasional/2609775/ketua-kppu-ai-harus-perluas-manfaat-informasi-tanpa-menggerus-industri-media"
+    },
+    {
+      "title": "Menkop Sebut Minat Gen Z terhadap Koperasi Terus Meningkat - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 14:04:27 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8596082/menkop-sebut-minat-gen-z-terhadap-koperasi-terus-meningkat"
+    },
+    {
+      "title": "BP BUMN Minta Bank Mandiri Tingkatkan Investasi Pengembangan SDM - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 14:03:58 GMT",
+      "link": "https://www.metrotvnews.com/read/NA0CrQ0A-bp-bumn-minta-bank-mandiri-tingkatkan-investasi-pengembangan-sdm"
+    },
     {
       "title": "Datang ke Medan, Menteri Koperasi Jawab Pertanyaan Mahasiswa Soal Pelatihan Militer Manajer Kopdes - Kompas.com",
       "entity": "Kementerian Koperasi",
@@ -122,11 +164,25 @@
       "link": "https://sumselpost.co.id/darmadi-durianto-komisi-vi-dpr-minta-pemerintah-evaluasi-desain-koperasi-desa-kelurahan-merah-putih/"
     },
     {
+      "title": "DPR dan Buruh Tolak Rencana Kemasan Polos Rokok Kemenkes - achmadnurhidayat.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 13:11:46 GMT",
+      "link": "https://achmadnurhidayat.id/dpr-buruh-tolak-kemasan-polos-rokok"
+    },
+    {
       "title": "Harmonisasi Regulasi Akan Cegah Aturan Saling Tumpang Tindih - investor.id",
       "entity": "Herman Khaeron",
       "kind": "anggota",
       "published": "Wed, 29 Jul 2026 13:05:00 GMT",
       "link": "https://investor.id/national/448356/harmonisasi-regulasi-akan-cegah-aturan-saling-tumpang-tindih"
+    },
+    {
+      "title": "Menkop: Koperasi sangat cocok dibangun di Indonesia - ANTARA News Jambi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 12:15:54 GMT",
+      "link": "https://jambi.antaranews.com/berita/662753/menkop-koperasi-sangat-cocok-dibangun-di-indonesia"
     },
     {
       "title": "Tim NKI Salurkan Sajadah Karpet untuk Warga Binaan Rutan Situbondo - ketik.com",
@@ -148,62 +204,6 @@
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 11:03:21 GMT",
       "link": "https://waspada.co.id/bpjs-kesehatan-bersama-ombudsman-bpkn-dan-ylki-tinjau-layanan-jkn-di-rsud-tanjungpura/"
-    },
-    {
-      "title": "KTP2JB Gandeng KPPU Awasi Kepatuhan Platform Digital - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 10:33:10 GMT",
-      "link": "https://nasional.kontan.co.id/news/ktp2jb-gandeng-kppu-awasi-kepatuhan-platform-digital"
-    },
-    {
-      "title": "LPS Sebut Kehadiran Danantara di KSSK Beri Nilai Tambah - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 10:28:07 GMT",
-      "link": "https://www.metrotvnews.com/play/kewCjAeV-lps-sebut-kehadiran-danantara-di-kssk-beri-nilai-tambah"
-    },
-    {
-      "title": "KTP2JB dan KPPU Teken Kerja Sama Perkuat Pengawasan Platform Digital - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "link": "https://rri.co.id/nasional/2609230/ktp2jb-dan-kppu-teken-kerja-sama-perkuat-pengawasan-platform-digital"
-    },
-    {
-      "title": "LPDB Koperasi Bakal Bantu Pembiayaan Calon Pekerja Migran dan Program SMK Go Global - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 09:58:00 GMT",
-      "link": "https://investortrust.id/business/111078/lpdb-koperasi-bakal-bantu-pembiayaan-calon-pekerja-migran-dan-program-smk-go-global"
-    },
-    {
-      "title": "Herman Khaeron: Festival Milm Kampung Jadi Media Pelestarian Sejarah Daerah - Suara Pemerintah",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 09:50:23 GMT",
-      "link": "https://suarapemerintah.id/2026/07/herman-khaeron-festival-milm-kampung-jadi-media-pelestarian-sejarah-daerah/"
-    },
-    {
-      "title": "BPJS Kesehatan Gandeng Ombudsman, BPKN, dan YLKI Tinjau Layanan JKN di RSUD Tanjung Pura - GoSumut.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 09:50:00 GMT",
-      "link": "https://m.gosumut.com/berita/baca/2026/07/29/bpjs-kesehatan-gandeng-ombudsman-bpkn-dan-ylki-tinjau-layanan-jkn-di-rsud-tanjung-pura"
-    },
-    {
-      "title": "Anggota DPR RI Sadarestuwati Salurkan Alsintan Traktor - Afederasi",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 09:44:00 GMT",
-      "link": "https://afederasi.com/anggota-dpr-ri-sadarestuwati-salurkan-alsintan-traktor"
-    },
-    {
-      "title": "BP BUMN dukung penguatan SDM Bank Mandiri - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 09:42:39 GMT",
-      "link": "https://www.antaranews.com/berita/5671116/bp-bumn-dukung-penguatan-sdm-bank-mandiri"
     }
   ]
 }
