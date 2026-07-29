@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-28T23:56:31.826990",
+  "generated_at": "2026-07-29T02:40:57.367532",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 33,
@@ -9,7 +9,7 @@
     "PKB": 1,
     "PKS": 8,
     "PAN": 7,
-    "Demokrat": 5
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 71,
@@ -37,10 +37,10 @@
     "bumn": 60,
     "danantara": 43,
     "koperasi": 79,
-    "perdagangan": 16,
-    "investasi": 29,
+    "perdagangan": 15,
+    "investasi": 28,
     "ekspor": 9,
-    "umkm": 17,
+    "umkm": 15,
     "kartel-monopoli": 3,
     "merger-akuisisi": 3,
     "ipo": 3,
@@ -93,13 +93,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 18,
     "Perdagangan": 39,
     "Hukum/Audit": 37,
-    "Koperasi/UMKM": 90,
-    "Konflik Publik": 4
+    "Koperasi/UMKM": 89,
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Pasca-Putusan MK, YLKI Desak Komdigi, Operator, dan KPPU Bergerak Cepat Lindungi Konsumen - Prohealth.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 02:14:51 GMT",
+      "link": "https://prohealth.id/pasca-putusan-mk-ylki-desak-komdigi-operator-dan-kppu-bergerak-cepat-lindungi-konsumen/"
+    },
+    {
+      "title": "Purbaya Tegaskan Danantara Tak Punya Hak Suara di KSSK - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 02:10:40 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260729082623-17-754624/purbaya-tegaskan-danantara-tak-punya-hak-suara-di-kssk"
+    },
+    {
+      "title": "Batas Peran Danantara di KSSK Jadi Pertanyaan - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 01:11:49 GMT",
+      "link": "https://insight.kontan.co.id/news/batas-peran-danantara-di-kssk-jadi-pertanyaan"
+    },
+    {
+      "title": "Tak Cuma Soal Izin, Kemendag Garis Bawahi Enam Beban Tanggung Jawab Depot Air Minum - Rmol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 01:05:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/07/29/716357/tak-cuma-soal-izin-kemendag-garis-bawahi-enam-beban-tanggung-jawab-depot-air-minum"
+    },
+    {
+      "title": "Persoalan Koperasi Merah Putih: Mulai Gaji Manajer sampai Cicilan Utang - Kompas.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 00:46:00 GMT",
+      "link": "https://www.kompas.id/artikel/persoalan-koperasi-merah-putih-mulai-gaji-manager-sampai-cicilan-utang"
+    },
     {
       "title": "Terungkap Alasan Danantara Masuk KSSK Bareng BI-OJK - detikFinance",
       "entity": "Danantara",
@@ -129,11 +164,25 @@
       "link": "https://elshinta.com/kategori/1/ekonomi/pemerintah-targetkan-uu-koperasi-baru-disahkan-tahun-ini-171826"
     },
     {
+      "title": "Purbaya: Danantara beri masukan ke KSSK tanpa hak suara - ANTARA News Yogyakarta",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 28 Jul 2026 22:50:00 GMT",
+      "link": "https://jogja.antaranews.com/berita/844783/purbaya-danantara-beri-masukan-ke-kssk-tanpa-hak-suara"
+    },
+    {
       "title": "Marak Aksi Main Hakim Sendiri, Rieke Diah Pitaloka: Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - Kompas.tv",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Tue, 28 Jul 2026 22:45:00 GMT",
       "link": "https://www.kompas.tv/nasional/682797/marak-aksi-main-hakim-sendiri-rieke-diah-pitaloka-negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
+    },
+    {
+      "title": "Marak Aksi Main Hakim Sendiri, Rieke Diah Pitaloka: Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - Kompas.tv",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 28 Jul 2026 22:45:00 GMT",
+      "link": "https://www.kompas.tv/amp/nasional/682797/marak-aksi-main-hakim-sendiri-rieke-diah-pitaloka-negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
     },
     {
       "title": "Ekosistem Industri Musik Didorong Berbadan Hukum Koperasi - Rmol.id",
@@ -155,55 +204,6 @@
       "kind": "lembaga",
       "published": "Tue, 28 Jul 2026 15:49:00 GMT",
       "link": "https://ketik.com/pacitan/daerah/gaji-manajer-kdmp-dibayar-apbn-setelah-dua-tahun-ditanggung-koperasi"
-    },
-    {
-      "title": "'Gurihnya' Jadi Manajer KDKMP, Dua Tahun Pertama Gajinya Ditanggung APBN - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 15:22:00 GMT",
-      "link": "https://www.inilah.com/gurihnya-jadi-manajer-kdkmp-dua-tahun-pertama-gajinya-ditanggung-apbn"
-    },
-    {
-      "title": "Gaji Manajer Koperasi Desa Merah Putih (KDMP) Ditanggung APBN Selama Dua Tahun - KONTAN",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:41:43 GMT",
-      "link": "https://insight.kontan.co.id/news/gaji-manajer-koperasi-desa-merah-putih-kdmp-ditanggung-apbn-selama-dua-tahun"
-    },
-    {
-      "title": "300 Paket Sembako Disiapkan pada Pasar Murah Peringati Hari Koperasi - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617434533/300-paket-sembako-disiapkan-pada-pasar-murah-peringati-hari-koperasi"
-    },
-    {
-      "title": "300 Paket Sembako Disiapkan pada Pasar Murah Peringati Hari Koperasi - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/0617434533/300-paket-sembako-disiapkan-pada-pasar-murah-peringati-hari-koperasi"
-    },
-    {
-      "title": "Menkop: Koperasi Jadi Aktor Utama Transformasi Ekonomi Konstitusi - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:25:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/319446/menkop-koperasi-jadi-aktor-utama-transformasi-ekonomi-konstitusi"
-    },
-    {
-      "title": "Herman Khaeron Tegaskan Festival Milm Kampung Jadi Media Pelestarian Sejarah Daerah - Opsi.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 14:24:20 GMT",
-      "link": "https://opsi.id/herman-khaeron-tegaskan-festival-milm-kampung-jadi-media-pelestarian-sejarah-daerah/"
-    },
-    {
-      "title": "Muba Bersiap Jadi Etalase Hilirisasi Sawit Nasional - SIBER SUMSEL",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 14:01:10 GMT",
-      "link": "https://sibersumsel.com/muba-bersiap-jadi-etalase-hilirisasi-sawit-nasional/21530/"
     }
   ]
 }
