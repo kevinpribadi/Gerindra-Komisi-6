@@ -1,20 +1,20 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T16:19:42.071873",
+  "generated_at": "2026-07-29T18:05:04.518285",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
     "Golkar": 15,
     "NasDem": 7,
     "PKB": 9,
-    "PKS": 7,
+    "PKS": 6,
     "PAN": 8,
     "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 71,
     "PDI-P": 103,
-    "Golkar": 84,
+    "Golkar": 83,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 61,
@@ -36,8 +36,8 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 41,
-    "koperasi": 78,
-    "perdagangan": 16,
+    "koperasi": 77,
+    "perdagangan": 17,
     "ekspor": 9,
     "investasi": 34,
     "umkm": 14,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 17,
+    "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -100,6 +100,13 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Koperasi - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 16:59:00 GMT",
+      "link": "https://www.beritakoperasi.com/7526-2/"
+    },
     {
       "title": "Menkop: Minat Gen Z pada Koperasi Meningkat, Kreator Konten Bergabung - news.harianjogja.com",
       "entity": "Kementerian Koperasi",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 11:21:24 GMT",
       "link": "https://m.antaranews.com/berita/5671328/ktp2jb-kppu-kolaborasi-perkuat-pengawasan-platform-digital?utm_source=antaranews&utm_medium=mobile&utm_campaign=latest_category"
-    },
-    {
-      "title": "BPJS Kesehatan Bersama Ombudsman, BPKN, dan YLKI Tinjau Layanan JKN di RSUD Tanjungpura - Waspada Online",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 11:03:21 GMT",
-      "link": "https://waspada.co.id/bpjs-kesehatan-bersama-ombudsman-bpkn-dan-ylki-tinjau-layanan-jkn-di-rsud-tanjungpura/"
     }
   ]
 }
