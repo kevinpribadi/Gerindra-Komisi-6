@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T05:49:51.302597",
+  "generated_at": "2026-07-29T08:36:16.329659",
   "party_counts_7d": {
-    "Gerindra": 26,
-    "PDI-P": 33,
-    "Golkar": 14,
+    "Gerindra": 25,
+    "PDI-P": 34,
+    "Golkar": 15,
     "NasDem": 7,
-    "PKB": 2,
+    "PKB": 5,
     "PKS": 8,
-    "PAN": 7,
+    "PAN": 9,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 71,
-    "PDI-P": 102,
-    "Golkar": 85,
+    "PDI-P": 101,
+    "Golkar": 84,
     "NasDem": 46,
-    "PKB": 41,
+    "PKB": 44,
     "PKS": 61,
-    "PAN": 18,
+    "PAN": 19,
     "Demokrat": 29
   },
   "agency_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
-    "danantara": 43,
-    "koperasi": 77,
-    "perdagangan": 13,
+    "bumn": 62,
+    "danantara": 42,
+    "koperasi": 75,
+    "perdagangan": 15,
     "investasi": 30,
-    "ekspor": 9,
+    "ekspor": 8,
     "umkm": 15,
-    "kartel-monopoli": 1,
+    "kartel-monopoli": 4,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -55,11 +55,11 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 17,
+    "Mufti Anam": 16,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 3,
-    "Ida Nurlaela": 19,
+    "Sadarestuwati": 4,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 17,
@@ -69,24 +69,24 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 13,
+    "Muhammad Sarmuji": 12,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 6,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 10,
+    "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
-    "Eko Patrio": 5,
-    "Nasril Bahar": 3,
+    "Eko Patrio": 7,
+    "Nasril Bahar": 2,
     "Iskandar": 10,
     "Sartono": 5,
     "Herman Khaeron": 20,
@@ -94,116 +94,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 38,
-    "Hukum/Audit": 37,
-    "Koperasi/UMKM": 86,
+    "Perdagangan": 36,
+    "Hukum/Audit": 36,
+    "Koperasi/UMKM": 84,
     "Konflik Publik": 2
   },
   "top_headlines": [
     {
-      "title": "| DPR Fasilitasi Penyelesaian Aspirasi Karyawan SGN: Bonus hingga Harmonisasi - jurnas.com",
+      "title": "Dasco dan Komisi VI DPR Fasilitasi Mediasi Pekerja PT SGN - MetroTVNews.com",
       "entity": "Anggia Erma Rini",
       "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 05:37:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1662754/dpr-fasilitasi-penyelesaian-aspirasi-karyawan-sgn-bonus-hingga-harmonisasi/"
+      "published": "Wed, 29 Jul 2026 08:18:13 GMT",
+      "link": "https://www.metrotvnews.com/read/b3JC5BQ6-dasco-dan-komisi-vi-dpr-fasilitasi-mediasi-pekerja-pt-sgn"
     },
     {
-      "title": "Upaya Mendorong Kepatuhan Pelaku Usaha Depot Air Isi Ulang - kontan.co.id",
+      "title": "Kemendag wajibkan usaha depot air minum miliki NIB - ANTARA News Jawa Barat",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 05:22:14 GMT",
-      "link": "https://industri.kontan.co.id/news/upaya-mendorong-kepatuhan-pelaku-usaha-depot-air-isi-ulang"
+      "published": "Wed, 29 Jul 2026 08:16:51 GMT",
+      "link": "https://jabar.antaranews.com/foto/700623/kemendag-wajibkan-usaha-depot-air-minum-miliki-nib"
     },
     {
-      "title": "Membangun Budaya Bisnis yang Sehat dan Berkelanjutan. - investor.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 04:52:35 GMT",
-      "link": "https://investor.id/business/448285/membangun-budaya-bisnis-yang-sehat-dan-berkelanjutan"
-    },
-    {
-      "title": "KPPU dan K&K Advocates Dorong Kepatuhan Pelaku Usaha, Wujudkan Persaingan Sehat - RM.ID",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 04:52:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/319514/kppu-dan-kk-advocates-dorong-kepatuhan-pelaku-usaha-wujudkan-persaingan-sehat"
-    },
-    {
-      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo Kucurkan Triliunan Bangun Jalan dan Jembatan di Sumbar - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 04:35:32 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-kucurkan-triliunan-bangun-jalan-dan-jembatan-di-sumbar-427427/"
-    },
-    {
-      "title": "Menakar Untung Rugi Danantara Masuk KSSK - Bisnis.com - Ekonomi",
+      "title": "Purbaya Tegaskan Peran Danantara di KSSK Sebatas Beri Masukan - Ikatan Konsultan Pajak Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 04:25:43 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260729/9/1991983/menakar-untung-rugi-danantara-masuk-kssk"
+      "published": "Wed, 29 Jul 2026 08:14:28 GMT",
+      "link": "https://ikpi.or.id/purbaya-tegaskan-peran-danantara-di-kssk-sebatas-beri-masukan/"
     },
     {
-      "title": "Kekerasan Beruntun di Berbagai Daerah Ancam Persatuan, Rieke Desak Negara Hadir Tegas - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Anggota DPR RI Sadarestuwati Ingatkan Petani Jombang, Bantuan Alsintan Harus Dimanfaatkan Bukan Dijual - ketik.com",
+      "entity": "Sadarestuwati",
       "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 04:13:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/kekerasan-beruntun-di-berbagai-daerah-ancam-persatuan-rieke-desak-negara-hadir-tegas-b2pXgZbgM0"
+      "published": "Wed, 29 Jul 2026 07:47:00 GMT",
+      "link": "https://ketik.com/jombang/politik-pemerintahan/anggota-dpr-ri-sadarestuwati-ingatkan-petani-jombang-bantuan-alsintan-harus-dimanfaatkan-bukan-dijual"
     },
     {
-      "title": "KPPU dan KADIN Sepakat Jaga Aksi Korporasi Tetap Sehat - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 03:49:58 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-dan-kadin-sepakat-jaga-aksi-korporasi-tetap-sehat/"
+      "title": "Eko Patrio Dorong Penguatan BUMN Maritim - beritabuana.co",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 07:42:27 GMT",
+      "link": "https://beritabuana.co/2026/07/29/eko-patrio-dorong-penguatan-bumn-maritim/"
     },
     {
-      "title": "Revisi UU Perlindungan Konsumen Ditarget Dibahas Tahun Ini - NUSABALI.com",
+      "title": "Transformasi Layanan Kementerian Perdagangan di Era Digital - Universitas Sains dan Teknologi Komputer",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 03:31:10 GMT",
-      "link": "https://www.nusabali.com/berita/226901/revisi-uu-perlindungan-konsumen-ditarget-dibahas-tahun-ini"
+      "published": "Wed, 29 Jul 2026 07:32:06 GMT",
+      "link": "https://stekom.ac.id/artikel/transformasi-layanan-kementerian-perdagangan-di-era-digital-20260729143053"
     },
     {
-      "title": "Kemenkop Revitalisasi Kawasan Tugu Koperasi Tasikmalaya, Siap Jadi Cagar Budaya Nasional - Suara Pemerintah",
+      "title": "Inovasi Kementerian Perdagangan dalam Mendorong Perdagangan Digital - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 07:30:32 GMT",
+      "link": "https://stekom.ac.id/en/article/inovasi-kementerian-perdagangan-dalam-mendorong-perdagangan-digital-20260729142235"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih Temui Fraksi Golkar DPRD Karangasem, Tegaskan Pentingnya Kedekatan dengan Rakyat - Golkarpedia",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 07:30:09 GMT",
+      "link": "https://golkarpedia.com/gde-sumarjaya-linggih-temui-fraksi-golkar-dprd-karangasem-tegaskan-pentingnya-kedekatan-dengan-rakyat/"
+    },
+    {
+      "title": "Mitigasi Risiko Monopoli, KPPU dan K&K Advocates Dorong Pelaku Usaha Adopsi Program Kepatuhan - Stabilitas.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 07:09:54 GMT",
+      "link": "https://www.stabilitas.id/mitigasi-risiko-monopoli-kppu-dan-kk-advocates-dorong-pelaku-usaha-adopsi-program-kepatuhan/"
+    },
+    {
+      "title": "DPR Fasilitasi Penyelesaian Aspirasi Karyawan PT SGN, Komisi VI Kawal Realisasi Kesepakatan - FPKB DPR RI",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 07:03:39 GMT",
+      "link": "https://www.fraksipkb.com/2026/07/29/dpr-fasilitasi-penyelesaian-aspirasi-karyawan-pt-sgn-komisi-vi-kawal-realisasi-kesepakatan/"
+    },
+    {
+      "title": "Menkop: Koperasi Jadi Aktor Utama Transformasi Ekonomi Konstitusi - TopBusiness.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 02:50:14 GMT",
-      "link": "https://suarapemerintah.id/2026/07/kemenkop-revitalisasi-kawasan-tugu-koperasi-tasikmalaya-siap-jadi-cagar-budaya-nasional/"
+      "published": "Wed, 29 Jul 2026 07:02:00 GMT",
+      "link": "https://www.topbusiness.id/133131/menkop-koperasi-jadi-aktor-utama-transformasi-ekonomi-konstitusi.html"
     },
     {
-      "title": "Kemenkop Revitalisasi Kawasan Tugu Koperasi Tasikmalaya, Siap Jadi Cagar Budaya Nasional - Suara Pemerintah",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 02:50:14 GMT",
-      "link": "https://suarapemerintah.id/2026/07/kemenkop-revitalisasi-kawasan-tugu-koperasi-tasikmalaya-siap-jadi-cagar-budaya-nasional/"
+      "title": "Rutan Situbondo Terima Bantuan Sajadah dari Nasim Khan - Harian Bhirawa",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 06:56:23 GMT",
+      "link": "https://harianbhirawa.co.id/rutan-situbondo-terima-bantuan-sajadah-dari-nasim-khan/"
     },
     {
-      "title": "Pasca-Putusan MK, YLKI Desak Komdigi, Operator, dan KPPU Bergerak Cepat Lindungi Konsumen - Prohealth.id",
+      "title": "KPPU Ingatkan Pelaku Usaha Ciptakan Persaingan Bisnis yang Sehat - Media Indonesia",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 02:14:51 GMT",
-      "link": "https://prohealth.id/pasca-putusan-mk-ylki-desak-komdigi-operator-dan-kppu-bergerak-cepat-lindungi-konsumen/"
+      "published": "Wed, 29 Jul 2026 06:55:16 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/915932/kppu-ingatkan-pelaku-usaha-ciptakan-persaingan-bisnis-yang-sehat"
     },
     {
-      "title": "Purbaya Tegaskan Danantara Tak Punya Hak Suara di KSSK - CNBC Indonesia",
-      "entity": "Danantara",
+      "title": "Indonesia perluas peran koperasi ke sektor energi dan industri - IDNFinancials",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 02:10:40 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260729082623-17-754624/purbaya-tegaskan-danantara-tak-punya-hak-suara-di-kssk"
+      "published": "Wed, 29 Jul 2026 06:20:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/66713/indonesia-perluas-peran-koperasi-ke-sektor-energi-dan-industri"
     },
     {
-      "title": "SINERGI TATA KELOLA KELEMBAGAAN KOTA BATAM dalam PENGELOLAAN LINGKUNGAN HIDUP - Kompasiana.com - Kompasiana.com",
-      "entity": "BP Batam",
+      "title": "Wujudkan Persaingan Usaha yang Sehat, KPPU dan K&K Advocates Dorong Kepatuhan Pelaku Usaha - Industry.co.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 01:52:46 GMT",
-      "link": "https://www.kompasiana.com/amp/luthfimutaali4996/6a695ceec925c453c1627c62/sinergi-tata-kelola-kelembagaan-kota-batam-dalam-pengelolaan-lingkungan-hidup"
-    },
-    {
-      "title": "Batas Peran Danantara di KSSK Jadi Pertanyaan - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 01:11:49 GMT",
-      "link": "https://insight.kontan.co.id/news/batas-peran-danantara-di-kssk-jadi-pertanyaan"
+      "published": "Wed, 29 Jul 2026 05:51:00 GMT",
+      "link": "https://www.industry.co.id/read/153818/wujudkan-persaingan-usaha-yang-sehat-kppu-dan-kk-advocates-dorong-kepatuhan-pelaku-usaha"
     }
   ]
 }
