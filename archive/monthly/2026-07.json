@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T18:05:04.518285",
+  "generated_at": "2026-07-29T20:10:58.781385",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
@@ -36,8 +36,8 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 41,
-    "koperasi": 77,
-    "perdagangan": 17,
+    "koperasi": 78,
+    "perdagangan": 18,
     "ekspor": 9,
     "investasi": 34,
     "umkm": 14,
@@ -96,10 +96,17 @@
     "Kinerja BUMN": 19,
     "Perdagangan": 35,
     "Hukum/Audit": 33,
-    "Koperasi/UMKM": 88,
+    "Koperasi/UMKM": 89,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 18:10:34 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260730/Mjc0NDQ0"
+    },
     {
       "title": "Koperasi - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -185,25 +192,18 @@
       "link": "https://investor.id/national/448356/harmonisasi-regulasi-akan-cegah-aturan-saling-tumpang-tindih"
     },
     {
+      "title": "Menkop: Koperasi Jadi Pilar Masa Depan Ekonomi Generasi Muda - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 13:02:41 GMT",
+      "link": "https://indoposco.id/2026/07/29/menkop-koperasi-jadi-pilar-masa-depan-ekonomi-generasi-muda/"
+    },
+    {
       "title": "Menkop: Koperasi sangat cocok dibangun di Indonesia - ANTARA News Jambi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 12:15:54 GMT",
       "link": "https://jambi.antaranews.com/berita/662753/menkop-koperasi-sangat-cocok-dibangun-di-indonesia"
-    },
-    {
-      "title": "Tim NKI Salurkan Sajadah Karpet untuk Warga Binaan Rutan Situbondo - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 12:00:00 GMT",
-      "link": "https://ketik.com/amp/tim-nki-salurkan-sajadah-karpet-untuk-warga-binaan-rutan-situbondo"
-    },
-    {
-      "title": "KTP2JB-KPPU kolaborasi perkuat pengawasan platform digital - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 11:21:24 GMT",
-      "link": "https://m.antaranews.com/berita/5671328/ktp2jb-kppu-kolaborasi-perkuat-pengawasan-platform-digital?utm_source=antaranews&utm_medium=mobile&utm_campaign=latest_category"
     }
   ]
 }
