@@ -712,6 +712,13 @@
         ],
         "KPPU": [
             {
+                "title": "KPPU dan KADIN Jaga Aksi Korporasi Tetap Sehat dan Efisien - redaksi.duta.co",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtb2JjZDk4aFJpMG1kV3NMNjBvWHBWX21KYzVWdlZXb2dwYjB0UFU4WnlQYzd1cDNpa3hYVVpRSmVBWXlUeE05Q3BjWERGMHp0SENpN0xEZkpIUlI4VlVGMEsxLTA0aERXQ093YjM4eTk5c2VZSFNoZWxDX3pxWjg?oc=5",
+                "link_resolved": "https://duta.co/kppu-dan-kadin-jaga-aksi-korporasi-tetap-sehat-dan-efisien",
+                "published": "Wed, 29 Jul 2026 21:08:43 GMT",
+                "fetched_at": "2026-07-29T21:59:03.698248"
+            },
+            {
                 "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumatera Utara - Warta Ekonomi",
                 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0hoSF9GWENnQTYyYkxrNmJ0Y1VEejJKQ1UwaHBaeENERHhiSV9CYXREcDBheUZTVExtcC1XeUtWTzhkQU9BbF9qaXVEdF9BWjBIZTFFQl82TTdFM1ZlQzNSUWc1aUNpTjZ4WF9xRVc2dnBwVEZBdjNkLXphSFdDUFI0WW92THl0RE96NldETml4VmxEM0JCLWdJR2F2M0c0N1lKcHpHUFE4aUNFY2diLdIBtgFBVV95cUxQSVlaODNFSEkxUHRIN0NBbS1ib2l4ekNKcVBmMjRUYlNDYkw0X1d2dkVyM05lV0gyR044aWZza3RKY0MwU0RkdV9hQnRCZUJTR3BVU1IwSE84RlJTQWoxS1hLQmtpVVNHTkZvZTFkemkxMmxrMWlOT3VvOG1NS0FERHBQLWdyUXc4OXAxX0JWV3FESUNUSWhxOVBieHZnTThsV0pWekVHN0Z6WkI1eXlZMFJ6V1ZmUQ?oc=5",
                 "link_resolved": "https://wartaekonomi.co.id/read625357/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara",
@@ -843,13 +850,6 @@
                 "link_resolved": "https://www.seputarsumut.com/berita/kppu-telusuri-lonjakan-harga-dan-kelangkaan-semen-di-sumatera-utara/",
                 "published": "Tue, 28 Jul 2026 06:29:28 GMT",
                 "fetched_at": "2026-07-28T14:05:56.094031"
-            },
-            {
-                "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumut - Segmen News",
-                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVIzLU9ZOFlsbHVPa2s3UGFvMnh5RFh5aURYb20ydnhDUnRrdmVNS0dLbzFYZ29VOXF2dExiWmRxTGhYUzIwZWtOS3BrRmFoUnR6M3pySENyWllXSERiVnkzdlFva1BqV005RGFhWTRDbC1VM09zRi1Fc2xYdE9SZ0E4cmpXT2tSNUFvY1dJUWtBYmlQOFNPNkh6S21iQnV2?oc=5",
-                "link_resolved": "https://segmennews.com/2026/07/28/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumut/",
-                "published": "Tue, 28 Jul 2026 04:56:42 GMT",
-                "fetched_at": "2026-07-28T06:33:56.146896"
             }
         ],
         "BP Batam": [
@@ -4741,7 +4741,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-29T20:10:58.781385",
+        "fetched_at": "2026-07-29T21:59:00.081778",
         "prev_close": 18053,
         "change_pct": -0.04
     },
@@ -4750,110 +4750,110 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-07-29T20:10:58.781385",
+        "fetched_at": "2026-07-29T21:59:00.081778",
         "prev_close": 6185.78,
         "change_pct": -0.89
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 2930,
+            "value": 2920,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 2950,
-            "change_pct": -0.68
+            "prev_close": 2930,
+            "change_pct": -0.34
         },
         "BMRI": {
-            "value": 4100,
+            "value": 4090,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Bank Mandiri",
-            "prev_close": 4160,
-            "change_pct": -1.44
+            "prev_close": 4100,
+            "change_pct": -0.24
         },
         "BBNI": {
-            "value": 3480,
+            "value": 3460,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3520,
-            "change_pct": -1.14
+            "prev_close": 3480,
+            "change_pct": -0.57
         },
         "BBTN": {
-            "value": 1215,
+            "value": 1195,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Bank Tabungan Negara",
-            "prev_close": 1220,
-            "change_pct": -0.41
+            "prev_close": 1215,
+            "change_pct": -1.65
         },
         "TLKM": {
             "value": 2560,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Telkom Indonesia",
-            "prev_close": 2590,
-            "change_pct": -1.16
+            "prev_close": 2560,
+            "change_pct": 0.0
         },
         "SMGR": {
-            "value": 1480,
+            "value": 1460,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Semen Indonesia",
-            "prev_close": 1455,
-            "change_pct": 1.72
+            "prev_close": 1480,
+            "change_pct": -1.35
         },
         "ANTM": {
-            "value": 2890,
+            "value": 2840,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Aneka Tambang",
-            "prev_close": 2970,
-            "change_pct": -2.69
+            "prev_close": 2890,
+            "change_pct": -1.73
         },
         "PGAS": {
-            "value": 1495,
+            "value": 1490,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Perusahaan Gas Negara",
-            "prev_close": 1530,
-            "change_pct": -2.29
+            "prev_close": 1495,
+            "change_pct": -0.33
         },
         "PTBA": {
             "value": 2330,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Bukit Asam",
-            "prev_close": 2360,
-            "change_pct": -1.27
+            "prev_close": 2330,
+            "change_pct": 0.0
         },
         "JSMR": {
-            "value": 2680,
+            "value": 2690,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-07-29T20:10:58.781385",
+            "fetched_at": "2026-07-29T21:59:00.081778",
             "name": "Jasa Marga",
-            "prev_close": 2690,
-            "change_pct": -0.37
+            "prev_close": 2680,
+            "change_pct": 0.37
         }
     },
     "scrape_status": {
@@ -4862,5 +4862,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-07-29T20:10:58.781385"
+    "last_updated": "2026-07-29T21:59:00.081778"
 }

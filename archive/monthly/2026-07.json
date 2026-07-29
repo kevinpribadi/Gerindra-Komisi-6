@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T20:10:58.781385",
+  "generated_at": "2026-07-29T21:59:00.081778",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
@@ -94,12 +94,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 89,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "KPPU dan KADIN Jaga Aksi Korporasi Tetap Sehat dan Efisien - redaksi.duta.co",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 21:08:43 GMT",
+      "link": "https://duta.co/kppu-dan-kadin-jaga-aksi-korporasi-tetap-sehat-dan-efisien"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 13:02:41 GMT",
       "link": "https://indoposco.id/2026/07/29/menkop-koperasi-jadi-pilar-masa-depan-ekonomi-generasi-muda/"
-    },
-    {
-      "title": "Menkop: Koperasi sangat cocok dibangun di Indonesia - ANTARA News Jambi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 12:15:54 GMT",
-      "link": "https://jambi.antaranews.com/berita/662753/menkop-koperasi-sangat-cocok-dibangun-di-indonesia"
     }
   ]
 }
