@@ -1,12 +1,12 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T02:40:57.367532",
+  "generated_at": "2026-07-29T05:49:51.302597",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 26,
     "PDI-P": 33,
     "Golkar": 14,
     "NasDem": 7,
-    "PKB": 1,
+    "PKB": 2,
     "PKS": 8,
     "PAN": 7,
     "Demokrat": 3
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 71,
     "PDI-P": 102,
-    "Golkar": 84,
+    "Golkar": 85,
     "NasDem": 46,
-    "PKB": 40,
+    "PKB": 41,
     "PKS": 61,
     "PAN": 18,
     "Demokrat": 29
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 43,
-    "koperasi": 79,
-    "perdagangan": 15,
-    "investasi": 28,
+    "koperasi": 77,
+    "perdagangan": 13,
+    "investasi": 30,
     "ekspor": 9,
     "umkm": 15,
-    "kartel-monopoli": 3,
+    "kartel-monopoli": 1,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 16,
+    "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -76,7 +76,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 10,
     "Ida Fauziyah": 1,
@@ -93,13 +93,90 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
-    "Perdagangan": 39,
+    "Kinerja BUMN": 19,
+    "Perdagangan": 38,
     "Hukum/Audit": 37,
-    "Koperasi/UMKM": 89,
-    "Konflik Publik": 3
+    "Koperasi/UMKM": 86,
+    "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "| DPR Fasilitasi Penyelesaian Aspirasi Karyawan SGN: Bonus hingga Harmonisasi - jurnas.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 05:37:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1662754/dpr-fasilitasi-penyelesaian-aspirasi-karyawan-sgn-bonus-hingga-harmonisasi/"
+    },
+    {
+      "title": "Upaya Mendorong Kepatuhan Pelaku Usaha Depot Air Isi Ulang - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 05:22:14 GMT",
+      "link": "https://industri.kontan.co.id/news/upaya-mendorong-kepatuhan-pelaku-usaha-depot-air-isi-ulang"
+    },
+    {
+      "title": "Membangun Budaya Bisnis yang Sehat dan Berkelanjutan. - investor.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 04:52:35 GMT",
+      "link": "https://investor.id/business/448285/membangun-budaya-bisnis-yang-sehat-dan-berkelanjutan"
+    },
+    {
+      "title": "KPPU dan K&K Advocates Dorong Kepatuhan Pelaku Usaha, Wujudkan Persaingan Sehat - RM.ID",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 04:52:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/319514/kppu-dan-kk-advocates-dorong-kepatuhan-pelaku-usaha-wujudkan-persaingan-sehat"
+    },
+    {
+      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo Kucurkan Triliunan Bangun Jalan dan Jembatan di Sumbar - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 04:35:32 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-kucurkan-triliunan-bangun-jalan-dan-jembatan-di-sumbar-427427/"
+    },
+    {
+      "title": "Menakar Untung Rugi Danantara Masuk KSSK - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 04:25:43 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260729/9/1991983/menakar-untung-rugi-danantara-masuk-kssk"
+    },
+    {
+      "title": "Kekerasan Beruntun di Berbagai Daerah Ancam Persatuan, Rieke Desak Negara Hadir Tegas - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 29 Jul 2026 04:13:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/kekerasan-beruntun-di-berbagai-daerah-ancam-persatuan-rieke-desak-negara-hadir-tegas-b2pXgZbgM0"
+    },
+    {
+      "title": "KPPU dan KADIN Sepakat Jaga Aksi Korporasi Tetap Sehat - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 03:49:58 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-dan-kadin-sepakat-jaga-aksi-korporasi-tetap-sehat/"
+    },
+    {
+      "title": "Revisi UU Perlindungan Konsumen Ditarget Dibahas Tahun Ini - NUSABALI.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 03:31:10 GMT",
+      "link": "https://www.nusabali.com/berita/226901/revisi-uu-perlindungan-konsumen-ditarget-dibahas-tahun-ini"
+    },
+    {
+      "title": "Kemenkop Revitalisasi Kawasan Tugu Koperasi Tasikmalaya, Siap Jadi Cagar Budaya Nasional - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 02:50:14 GMT",
+      "link": "https://suarapemerintah.id/2026/07/kemenkop-revitalisasi-kawasan-tugu-koperasi-tasikmalaya-siap-jadi-cagar-budaya-nasional/"
+    },
+    {
+      "title": "Kemenkop Revitalisasi Kawasan Tugu Koperasi Tasikmalaya, Siap Jadi Cagar Budaya Nasional - Suara Pemerintah",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 02:50:14 GMT",
+      "link": "https://suarapemerintah.id/2026/07/kemenkop-revitalisasi-kawasan-tugu-koperasi-tasikmalaya-siap-jadi-cagar-budaya-nasional/"
+    },
     {
       "title": "Pasca-Putusan MK, YLKI Desak Komdigi, Operator, dan KPPU Bergerak Cepat Lindungi Konsumen - Prohealth.id",
       "entity": "KPPU",
@@ -115,95 +192,18 @@
       "link": "https://www.cnbcindonesia.com/market/20260729082623-17-754624/purbaya-tegaskan-danantara-tak-punya-hak-suara-di-kssk"
     },
     {
+      "title": "SINERGI TATA KELOLA KELEMBAGAAN KOTA BATAM dalam PENGELOLAAN LINGKUNGAN HIDUP - Kompasiana.com - Kompasiana.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 29 Jul 2026 01:52:46 GMT",
+      "link": "https://www.kompasiana.com/amp/luthfimutaali4996/6a695ceec925c453c1627c62/sinergi-tata-kelola-kelembagaan-kota-batam-dalam-pengelolaan-lingkungan-hidup"
+    },
+    {
       "title": "Batas Peran Danantara di KSSK Jadi Pertanyaan - KONTAN",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 01:11:49 GMT",
       "link": "https://insight.kontan.co.id/news/batas-peran-danantara-di-kssk-jadi-pertanyaan"
-    },
-    {
-      "title": "Tak Cuma Soal Izin, Kemendag Garis Bawahi Enam Beban Tanggung Jawab Depot Air Minum - Rmol.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 01:05:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/07/29/716357/tak-cuma-soal-izin-kemendag-garis-bawahi-enam-beban-tanggung-jawab-depot-air-minum"
-    },
-    {
-      "title": "Persoalan Koperasi Merah Putih: Mulai Gaji Manajer sampai Cicilan Utang - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 00:46:00 GMT",
-      "link": "https://www.kompas.id/artikel/persoalan-koperasi-merah-putih-mulai-gaji-manager-sampai-cicilan-utang"
-    },
-    {
-      "title": "Terungkap Alasan Danantara Masuk KSSK Bareng BI-OJK - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 23:45:00 GMT",
-      "link": "https://finance.detik.com/moneter/d-8594622/terungkap-alasan-danantara-masuk-kssk-bareng-bi-ojk"
-    },
-    {
-      "title": "Menkop: RUU Perkoperasian baru ditargetkan disahkan tahun ini - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 23:40:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/844795/menkop-ruu-perkoperasian-baru-ditargetkan-disahkan-tahun-ini"
-    },
-    {
-      "title": "Marak Aksi Main Hakim Sendiri, Anggota DPR Rieke Diah Pitaloka Tegaskan Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - TINTAHIJAU.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 23:08:05 GMT",
-      "link": "https://www.tintahijau.com/pemerintahan/marak-aksi-main-hakim-sendiri-anggota-dpr-rieke-diah-pitaloka-tegaskan-negara-tak-boleh-biarkan-kekerasan-jadi-budaya/"
-    },
-    {
-      "title": "Pemerintah targetkan UU Koperasi baru disahkan tahun ini - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 23:00:36 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/pemerintah-targetkan-uu-koperasi-baru-disahkan-tahun-ini-171826"
-    },
-    {
-      "title": "Purbaya: Danantara beri masukan ke KSSK tanpa hak suara - ANTARA News Yogyakarta",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 22:50:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/844783/purbaya-danantara-beri-masukan-ke-kssk-tanpa-hak-suara"
-    },
-    {
-      "title": "Marak Aksi Main Hakim Sendiri, Rieke Diah Pitaloka: Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - Kompas.tv",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 22:45:00 GMT",
-      "link": "https://www.kompas.tv/nasional/682797/marak-aksi-main-hakim-sendiri-rieke-diah-pitaloka-negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
-    },
-    {
-      "title": "Marak Aksi Main Hakim Sendiri, Rieke Diah Pitaloka: Negara Tak Boleh Biarkan Kekerasan Jadi Budaya - Kompas.tv",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 28 Jul 2026 22:45:00 GMT",
-      "link": "https://www.kompas.tv/amp/nasional/682797/marak-aksi-main-hakim-sendiri-rieke-diah-pitaloka-negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
-    },
-    {
-      "title": "Ekosistem Industri Musik Didorong Berbadan Hukum Koperasi - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 19:41:00 GMT",
-      "link": "https://rmol.id/nusantara/read/2026/07/29/716334/ekosistem-industri-musik-didorong-berbadan-hukum-koperasi"
-    },
-    {
-      "title": "Koperasi Merah Putih Diperkuat sebagai Infrastruktur Distribusi Pangan Desa - lampung media",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 16:44:28 GMT",
-      "link": "https://lampungmediaonline.com/koperasi-merah-putih-diperkuat-sebagai-infrastruktur-distribusi-pangan-desa/"
-    },
-    {
-      "title": "Gaji Manajer KDMP Dibayar APBN, Setelah Dua Tahun Ditanggung Koperasi - ketik.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 28 Jul 2026 15:49:00 GMT",
-      "link": "https://ketik.com/pacitan/daerah/gaji-manajer-kdmp-dibayar-apbn-setelah-dua-tahun-ditanggung-koperasi"
     }
   ]
 }
