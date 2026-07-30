@@ -1,22 +1,22 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T19:21:44.465871",
+  "generated_at": "2026-07-30T21:06:12.989262",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
     "Golkar": 12,
     "NasDem": 4,
-    "PKB": 11,
+    "PKB": 12,
     "PKS": 4,
     "PAN": 6,
-    "Demokrat": 7
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 100,
     "Golkar": 78,
     "NasDem": 46,
-    "PKB": 49,
+    "PKB": 50,
     "PKS": 55,
     "PAN": 18,
     "Demokrat": 30
@@ -78,7 +78,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 19,
-    "Nasim Khan": 14,
+    "Nasim Khan": 15,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 14,
@@ -101,6 +101,13 @@
   },
   "top_headlines": [
     {
+      "title": "Kemendag Wajibkan Depot Air Isi Ulang Patuhi Ketentuan Perdagangan dan Higiene Sanitasi - SinPo.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 19:30:24 GMT",
+      "link": "https://sinpo.id/detail/125372/kemendag-wajibkan-depot-air-isi-ulang-patuhi-ketentuan-perdagangan-dan-higiene-sanitasi"
+    },
+    {
       "title": "MotoGP Mandalika Target Perputaran Rp5 Triliun — Uji Efek Danantara & Tekanan Fiskal - feedberry.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -120,6 +127,13 @@
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 17:41:29 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260731/Mjc0NDQ0"
+    },
+    {
+      "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 16:58:00 GMT",
+      "link": "https://www.viva.co.id/amp/berita/nasional/1917704-anggota-dpr-minta-kemenkes-cermati-aturan-kemasan-rokok-polos-agar-selaras-dengan-regulasi"
     },
     {
       "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
@@ -190,20 +204,6 @@
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 13:30:00 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260730181756-4-755185/kemendag-ungkap-pertanda-penyebab-jika-produksi-minyakita-turun"
-    },
-    {
-      "title": "Pemerintah siapkan integrasi koperasi susu ke rantai pasok MBG - jogja.antaranews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 13:19:55 GMT",
-      "link": "https://jogja.antaranews.com/berita/845253/pemerintah-siapkan-integrasi-koperasi-susu-ke-rantai-pasok-mbg"
-    },
-    {
-      "title": "Ida Fauziyah: Jakarta Tak Lagi Kekurangan Jalan Tapi Krisis SDM - FPKB DPR RI",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 13:14:27 GMT",
-      "link": "https://www.fraksipkb.com/2026/07/30/ida-fauziyah-jakarta-tak-lagi-kekurangan-jalan-tapi-krisis-sdm/"
     }
   ]
 }
