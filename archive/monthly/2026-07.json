@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T21:06:12.989262",
+  "generated_at": "2026-07-30T23:03:59.832105",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 39,
+    "danantara": 38,
     "bumn": 60,
     "koperasi": 78,
-    "perdagangan": 15,
+    "perdagangan": 14,
     "ipo": 4,
     "ekspor": 11,
     "impor": 7,
@@ -94,12 +94,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 42,
+    "Perdagangan": 43,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 87,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Merah Putih Bond dan Modal Pembangunan - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 21:28:44 GMT",
+      "link": "https://insight.kontan.co.id/news/merah-putih-bond-dan-modal-pembangunan"
+    },
     {
       "title": "Kemendag Wajibkan Depot Air Isi Ulang Patuhi Ketentuan Perdagangan dan Higiene Sanitasi - SinPo.id",
       "entity": "Kementerian Perdagangan",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 14:40:58 GMT",
       "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-pastikan-stok-minyakita-aman-meski-dmo-sawit-turun/"
-    },
-    {
-      "title": "Kemendag Ungkap Pertanda & Penyebab Jika Produksi Minyakita Turun - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 13:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260730181756-4-755185/kemendag-ungkap-pertanda-penyebab-jika-produksi-minyakita-turun"
     }
   ]
 }
