@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T02:07:24.737152",
+  "generated_at": "2026-07-30T05:38:12.960065",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 21,
     "PDI-P": 39,
     "Golkar": 15,
     "NasDem": 7,
-    "PKB": 9,
+    "PKB": 10,
     "PKS": 6,
     "PAN": 8,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 70,
-    "PDI-P": 103,
-    "Golkar": 82,
+    "Gerindra": 71,
+    "PDI-P": 101,
+    "Golkar": 81,
     "NasDem": 46,
-    "PKB": 48,
-    "PKS": 61,
+    "PKB": 49,
+    "PKS": 60,
     "PAN": 19,
     "Demokrat": 30
   },
@@ -34,32 +34,32 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
-    "danantara": 41,
-    "koperasi": 79,
+    "bumn": 62,
+    "danantara": 39,
+    "koperasi": 77,
     "perdagangan": 19,
-    "ekspor": 10,
+    "impor": 7,
+    "ekspor": 9,
     "investasi": 34,
     "umkm": 14,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 3,
-    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
-    "Mulan Jameela": 6,
+    "Mulan Jameela": 7,
     "Kawendra Lukistian": 19,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
-    "Mufti Anam": 16,
+    "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 17,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 15,
@@ -69,7 +69,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 12,
+    "Muhammad Sarmuji": 11,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 6,
@@ -78,10 +78,10 @@
     "Subardi": 10,
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 13,
+    "Nasim Khan": 14,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 20,
+    "Amin Ak.": 19,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
@@ -94,12 +94,96 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 34,
-    "Hukum/Audit": 33,
-    "Koperasi/UMKM": 89,
+    "Perdagangan": 33,
+    "Hukum/Audit": 32,
+    "Koperasi/UMKM": 87,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Dorong Generasi Muda Dirikan Koperasi Kreatif dan Desa - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 05:12:21 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-dorong-generasi-muda-koperasi"
+    },
+    {
+      "title": "Kemenkop: Koperasi Kian Dilirik Gen Z dan Milenial - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 05:08:38 GMT",
+      "link": "https://investor.id/business/448445/kemenkop-koperasi-kian-dilirik-gen-z-dan-milenial"
+    },
+    {
+      "title": "Untung-Rugi Garuda Jadi Holding Maskapai BUMN - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 05:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/garuda-holding-bumn-2279085"
+    },
+    {
+      "title": "Bagaimana Kementerian Koperasi Membantu Pengembangan UMKM? - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 04:58:58 GMT",
+      "link": "https://stekom.ac.id/artikel/bagaimana-kementerian-koperasi-membantu-pengembangan-umkm-20260730115230"
+    },
+    {
+      "title": "Pemerintah Kota Sorong - Pemerintah Kota Sorong",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 04:31:47 GMT",
+      "link": "https://web.sorongkota.go.id/news/audiensi-wali-kota-sorong-dengan-wakil-menteri-perdagangan-bahas-pembangunan-gedung-pasar-sentral-remu"
+    },
+    {
+      "title": "Ferry Juliantono: Tugu Koperasi, Harus Jadi Pusat Budaya dan Ekonomi Generasi Muda - Bedanews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 04:28:46 GMT",
+      "link": "https://bedanews.com/ferry-juliantono-tugu-koperasi-harus-jadi-pusat-budaya-dan-ekonomi-generasi-muda/"
+    },
+    {
+      "title": "Manfaat Kementerian Koperasi bagi Pengembangan Koperasi Modern - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 03:55:12 GMT",
+      "link": "https://stekom.ac.id/artikel/manfaat-kementerian-koperasi-bagi-pengembangan-koperasi-modern-20260730105239"
+    },
+    {
+      "title": "Program Unggulan Kementerian Koperasi untuk Mendukung Pelaku Usaha - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 03:40:12 GMT",
+      "link": "https://stekom.ac.id/artikel/program-unggulan-kementerian-koperasi-untuk-mendukung-pelaku-usaha-20260730103715"
+    },
+    {
+      "title": "China Ancam Balas Kebijakan AS Larang Impor Robot Humanoid - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 03:34:21 GMT",
+      "link": "https://achmadnurhidayat.id/china-ancam-balas-larang-impor-robot-as"
+    },
+    {
+      "title": "Pemerintah Dorong Transformasi Ekonomi Berbasis Koperasi, Barang Subsidi Disalurkan Lewat KDKMP - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 03:17:41 GMT",
+      "link": "https://suarapemerintah.id/2026/07/pemerintah-dorong-transformasi-ekonomi-berbasis-koperasi-barang-subsidi-disalurkan-lewat-kdkmp/"
+    },
+    {
+      "title": "Andre Rosiade Beberkan Bukti Perhatian Prabowo ke Sumbar, Rp2,9 T Digelontorkan Bangun Irigasi hingga Pengendalian Banjir - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 02:27:11 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-beberkan-bukti-perhatian-prabowo-ke-sumbar-rp29-t-digelontorkan-bangun-irigasi-hingga-pengendalian-banjir-427571/"
+    },
+    {
+      "title": "Makin Kuat, Ini Tujuan Danantara Integrasikan Holding BUMN - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 01:35:17 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260730083048-4-754964/makin-kuat-ini-tujuan-danantara-integrasikan-holding-bumn/amp"
+    },
     {
       "title": "Makin Kuat, Ini Tujuan Danantara Integrasikan Holding BUMN - CNBC Indonesia",
       "entity": "Danantara",
@@ -120,90 +204,6 @@
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 01:20:00 GMT",
       "link": "https://www.bloombergtechnoz.com/detail-news/116643/larangan-ekspor-ltj-rawan-digugat-ke-wto-ri-diminta-antisipasi"
-    },
-    {
-      "title": "Rieke Diah Pitaloka, Poem Fried Rice Kitchen Knife - Kompas.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 01:15:00 GMT",
-      "link": "https://www.kompas.id/artikel/poetry-reading"
-    },
-    {
-      "title": "Rieke Diah Pitaloka, Puisi Nasi Goreng Pisau Dapur - Kompas.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 01:15:00 GMT",
-      "link": "https://www.kompas.id/artikel/baca-puisi"
-    },
-    {
-      "title": "Perkuat Ekonomi Desa, Legislator Minta Pemerintah Evaluasi Menyeluruh Program Kopdes - Kedai Pena",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 00:49:49 GMT",
-      "link": "https://www.kedaipena.com/perkuat-ekonomi-desa-legislator-minta-pemerintah-evaluasi-menyeluruh-program-kopdes/"
-    },
-    {
-      "title": "KPPU Cermati Potensi Persaingan Usaha usai Putusan MK soal Kuota Internet - Katadata.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 00:34:00 GMT",
-      "link": "https://katadata.co.id/digital/teknologi/6a6a9c100f46f/kppu-cermati-potensi-persaingan-usaha-usai-putusan-mk-soal-kuota-internet"
-    },
-    {
-      "title": "Aksi Main Hakim Sendiri Meningkat DPR: Hapus Budaya Kekerasan - RM.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/319639/aksi-main-hakim-sendiri-meningkat-dpr-hapus-budaya-kekerasan"
-    },
-    {
-      "title": "KPPU dan KADIN Jaga Aksi Korporasi Tetap Sehat dan Efisien - redaksi.duta.co",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 21:08:43 GMT",
-      "link": "https://duta.co/kppu-dan-kadin-jaga-aksi-korporasi-tetap-sehat-dan-efisien"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 18:10:34 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260730/Mjc0NDQ0"
-    },
-    {
-      "title": "Koperasi - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 16:59:00 GMT",
-      "link": "https://www.beritakoperasi.com/7526-2/"
-    },
-    {
-      "title": "Menteri Koperasi Resmikan Pencanangan Pemugaran Tugu Koperasi di Tasikmalaya - Berita Koperasi",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 16:59:00 GMT",
-      "link": "https://www.beritakoperasi.com/7522-2/"
-    },
-    {
-      "title": "Menkop: Minat Gen Z pada Koperasi Meningkat, Kreator Konten Bergabung - news.harianjogja.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 15:07:53 GMT",
-      "link": "https://news.harianjogja.com/r-1265363/menkop-minat-gen-z-pada-koperasi-meningkat-kreator-konten-bergabung"
-    },
-    {
-      "title": "Langkah Prabowo Jadikan Koperasi Agen Pembangunan Dinilai Keputusan Revolusioner - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 14:52:18 GMT",
-      "link": "https://www.metrotvnews.com/read/kBVCM40g-langkah-prabowo-jadikan-koperasi-agen-pembangunan-dinilai-keputusan-revolusioner"
-    },
-    {
-      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan Semen di Sumatera Utara - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 14:50:00 GMT",
-      "link": "https://wartaekonomi.co.id/read625357/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara"
     }
   ]
 }
