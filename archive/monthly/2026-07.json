@@ -1,24 +1,24 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T05:38:12.960065",
+  "generated_at": "2026-07-30T08:22:00.166693",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 39,
-    "Golkar": 15,
-    "NasDem": 7,
+    "Golkar": 14,
+    "NasDem": 6,
     "PKB": 10,
-    "PKS": 6,
+    "PKS": 4,
     "PAN": 8,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 71,
+    "Gerindra": 69,
     "PDI-P": 101,
-    "Golkar": 81,
+    "Golkar": 79,
     "NasDem": 46,
-    "PKB": 49,
-    "PKS": 60,
-    "PAN": 19,
+    "PKB": 48,
+    "PKS": 57,
+    "PAN": 18,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
     "danantara": 39,
+    "bumn": 61,
     "koperasi": 77,
-    "perdagangan": 19,
+    "perdagangan": 20,
     "impor": 7,
     "ekspor": 9,
-    "investasi": 34,
+    "investasi": 33,
     "umkm": 14,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -52,7 +52,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 17,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 15,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 17,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 15,
+    "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -77,29 +77,57 @@
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
     "Anggia Erma Rini": 10,
-    "Rivqy Abdul Halim": 20,
+    "Rivqy Abdul Halim": 19,
     "Nasim Khan": 14,
     "Ida Fauziyah": 1,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 19,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
-    "Nasril Bahar": 2,
+    "Nasril Bahar": 1,
     "Iskandar": 10,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 18,
     "Perdagangan": 33,
-    "Hukum/Audit": 32,
+    "Hukum/Audit": 33,
     "Koperasi/UMKM": 87,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Pembunuhan Satpam di Jatiluhur, Rieke Diah Pitaloka Minta Polisi tidak Cari Kambing Hitam untuk Dijadikan Tersangka - Media Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 07:50:28 GMT",
+      "link": "https://mediaindonesia.com/jabar/berita/916424/pembunuhan-satpam-di-jatiluhur-rieke-diah-pitaloka-minta-polisi-tidak-cari-kambing-hitam-untuk-dijadikan-tersangka"
+    },
+    {
+      "title": "Didukung Danantara, Nasabah Bullion BSI Melonjak 700 Persen hingga Juni 2026 - Biz Kompas",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 07:49:00 GMT",
+      "link": "https://biz.kompas.com/read/2026/07/30/144947328/didukung-danantara-nasabah-bullion-bsi-melonjak-700-persen-hingga-juni-2026"
+    },
+    {
+      "title": "BPJS Kesehatan Gandeng Ombudsman, BPKN, dan YLKI Perkuat Mutu Layanan JKN - Biz Kompas",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 07:45:00 GMT",
+      "link": "https://biz.kompas.com/read/2026/07/30/144534628/bpjs-kesehatan-gandeng-ombudsman-bpkn-dan-ylki-perkuat-mutu-layanan-jkn"
+    },
+    {
+      "title": "Lengkap! Ini Jumlah & Nilai Saham Danantara di 52 BUMN - CNBC Indonesia",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 07:15:50 GMT",
+      "link": "https://www.cnbcindonesia.com/research/20260729152556-128-754827/lengkap-ini-jumlah-nilai-saham-danantara-di-52-bumn"
+    },
     {
       "title": "Kemenkop Dorong Generasi Muda Dirikan Koperasi Kreatif dan Desa - achmadnurhidayat.id",
       "entity": "Kementerian Koperasi",
@@ -176,34 +204,6 @@
       "kind": "anggota",
       "published": "Thu, 30 Jul 2026 02:27:11 GMT",
       "link": "https://posmetropadang.co.id/andre-rosiade-beberkan-bukti-perhatian-prabowo-ke-sumbar-rp29-t-digelontorkan-bangun-irigasi-hingga-pengendalian-banjir-427571/"
-    },
-    {
-      "title": "Makin Kuat, Ini Tujuan Danantara Integrasikan Holding BUMN - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 01:35:17 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260730083048-4-754964/makin-kuat-ini-tujuan-danantara-integrasikan-holding-bumn/amp"
-    },
-    {
-      "title": "Makin Kuat, Ini Tujuan Danantara Integrasikan Holding BUMN - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 01:35:17 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260730083048-4-754964/makin-kuat-ini-tujuan-danantara-integrasikan-holding-bumn"
-    },
-    {
-      "title": "Menteri Koperasi Berharap UHN Berperan Aktif Dampingi Operasional KDKMP - waspada.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 01:27:01 GMT",
-      "link": "https://www.waspada.id/berita/menteri-koperasi-berharap-uhn-berperan-aktif-dampingi-operasional-kdkmp"
-    },
-    {
-      "title": "Larangan Ekspor LTJ Rawan Digugat ke WTO, RI Diminta Antisipasi - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 01:20:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/116643/larangan-ekspor-ltj-rawan-digugat-ke-wto-ri-diminta-antisipasi"
     }
   ]
 }
