@@ -1,23 +1,23 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T11:05:52.871093",
+  "generated_at": "2026-07-30T13:53:15.678728",
   "party_counts_7d": {
     "Gerindra": 20,
-    "PDI-P": 39,
-    "Golkar": 14,
+    "PDI-P": 40,
+    "Golkar": 13,
     "NasDem": 5,
-    "PKB": 10,
+    "PKB": 11,
     "PKS": 4,
-    "PAN": 7,
+    "PAN": 6,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 70,
-    "PDI-P": 100,
-    "Golkar": 79,
+    "Gerindra": 71,
+    "PDI-P": 99,
+    "Golkar": 78,
     "NasDem": 46,
-    "PKB": 48,
-    "PKS": 57,
+    "PKB": 49,
+    "PKS": 56,
     "PAN": 18,
     "Demokrat": 30
   },
@@ -36,14 +36,14 @@
   "topic_counts_30d": {
     "danantara": 38,
     "bumn": 61,
-    "koperasi": 77,
-    "perdagangan": 20,
+    "koperasi": 78,
+    "perdagangan": 18,
     "impor": 7,
     "investasi": 33,
-    "ekspor": 9,
+    "ekspor": 10,
     "umkm": 14,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 6,
     "ipo": 3,
     "dividen": 2
   },
@@ -52,13 +52,13 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 19,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 6,
+    "Sadarestuwati": 5,
     "Ida Nurlaela": 17,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
@@ -69,7 +69,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 11,
+    "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 6,
@@ -79,9 +79,9 @@
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 19,
     "Nasim Khan": 14,
-    "Ida Fauziyah": 1,
+    "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 16,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
@@ -94,12 +94,103 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 32,
+    "Perdagangan": 37,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 86,
-    "Konflik Publik": 5
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Ungkap Pertanda & Penyebab Jika Produksi Minyakita Turun - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 13:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260730181756-4-755185/kemendag-ungkap-pertanda-penyebab-jika-produksi-minyakita-turun"
+    },
+    {
+      "title": "Pemerintah siapkan integrasi koperasi susu ke rantai pasok MBG - jogja.antaranews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 13:19:55 GMT",
+      "link": "https://jogja.antaranews.com/berita/845253/pemerintah-siapkan-integrasi-koperasi-susu-ke-rantai-pasok-mbg"
+    },
+    {
+      "title": "Ida Fauziyah: Jakarta Tak Lagi Kekurangan Jalan Tapi Krisis SDM - FPKB DPR RI",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 13:14:27 GMT",
+      "link": "https://www.fraksipkb.com/2026/07/30/ida-fauziyah-jakarta-tak-lagi-kekurangan-jalan-tapi-krisis-sdm/"
+    },
+    {
+      "title": "Kemendag Jamin Stok MinyaKita Aman meski Realisasi DMO Anjlok - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 13:09:00 GMT",
+      "link": "https://tirto.id/kemendag-jamin-stok-minyakita-aman-meski-realisasi-dmo-anjlok-hAw1"
+    },
+    {
+      "title": "Menteri Koperasi: Koperasi Menjadi Fondasi Utama Perekonomian Masa Depan Generasi Muda - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:42:00 GMT",
+      "link": "https://www.beritakoperasi.com/menteri-koperasi-koperasi-menjadi-fondasi-utama-perekonomian-masa-depan-generasi-muda/"
+    },
+    {
+      "title": "Menteri Koperasi dorong Koperasi Merah Putih jadi motor penggerak petani Karo naik kelas - sumut.antaranews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:36:28 GMT",
+      "link": "https://sumut.antaranews.com/berita/667173/menteri-koperasi-dorong-koperasi-merah-putih-jadi-motor-penggerak-petani-karo-naik-kelas"
+    },
+    {
+      "title": "Bos BP BUMN Bakal Cek Polemik LRT City Mangkrak - detikcom",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:17:11 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8597590/bos-bp-bumn-bakal-cek-polemik-lrt-city-mangkrak"
+    },
+    {
+      "title": "Kemendag Pastikan Penurunan DMO Sawit Pengaruhi Produksi Minyakita - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:10:08 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-penurunan-dmo-produksi-minyakita"
+    },
+    {
+      "title": "Kemendag pastikan stok Minyakita aman, meski DMO CPO menyusut - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:09:54 GMT",
+      "link": "https://www.antaranews.com/berita/5672981/kemendag-pastikan-stok-minyakita-aman-meski-dmo-cpo-menyusut"
+    },
+    {
+      "title": "Darmadi Durianto: Tantangan Kopdes Merah Putih Kini Bukan Sosialisasi, tetapi Kepercayaan Publik - Berita Moneter",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 11:58:00 GMT",
+      "link": "https://beritamoneter.com/darmadi-durianto-tantangan-kopdes-merah-putih-kini-bukan-sosialisasi-tetapi-kepercayaan-publik/"
+    },
+    {
+      "title": "Menteri Koperasi siap dorong Festival Bunga dan Buah Karo Go Internasional, Bupati ajak dunia melirik Tanah Karo - sumut.antaranews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 11:27:12 GMT",
+      "link": "https://sumut.antaranews.com/berita/667157/menteri-koperasi-siap-dorong-festival-bunga-dan-buah-karo-go-internasional-bupati-ajak-dunia-melirik-tanah-karo"
+    },
+    {
+      "title": "Kemendag Pastikan Stok Minyak Goreng Aman di Tengah Penurunan DMO CPO - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 11:13:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/kemendag-pastikan-stok-minyak-goreng-aman-di-tengah-penurunan-dmo-cpo-181300454"
+    },
+    {
+      "title": "Pimpinan DPR Dengar Keluhan Guru TK soal Status Honorer - merahputih.com",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 10:33:55 GMT",
+      "link": "https://www.merahputih.com/post/read/pimpinan-dpr-dengar-keluhan-guru-tk-dari-igtki-pgri-soal-status-honorer"
+    },
     {
       "title": "Kemendag bidik transaksi ISF 2026 tembus Rp38 triliun - ANTARA News",
       "entity": "Kementerian Perdagangan",
@@ -113,97 +204,6 @@
       "kind": "anggota",
       "published": "Thu, 30 Jul 2026 09:53:00 GMT",
       "link": "https://bandung.kompas.com/read/2026/07/30/165333578/rieke-diah-pitaloka-minta-polisi-usut-tuntas-kasus-kematian-satpam-waduk"
-    },
-    {
-      "title": "Mitsubishi Kena Denda Rp1 Miliar, Telat Laporkan Akuisisi ke KPPU - radartv.disway.id - Disway",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 09:46:00 GMT",
-      "link": "https://radartv.disway.id/nasional/read/37244/mitsubishi-kena-denda-rp1-miliar-telat-laporkan-akuisisi-ke-kppu"
-    },
-    {
-      "title": "Kemendag dan APPBI Gelar ISF 2026 Targetkan Transaksi Rp38 Triliun - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 09:44:25 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-appbi-gelar-isf-2026"
-    },
-    {
-      "title": "Pelatihan Manajer Kopdes Merah Putih Gelombang Pertama Rampung 31 Juli 2026 - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 09:42:18 GMT",
-      "link": "https://www.kompas.id/artikel/pelatihan-manajer-kopdes-merah-putih-gelombang-pertama-rampung-31-juli-2026"
-    },
-    {
-      "title": "Kemenkop bangun tiga gerai Koperasi Desa Merah Putih di Kabupaten Jayawijaya - ANTARA News Papua",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 09:36:32 GMT",
-      "link": "https://papua.antaranews.com/berita/766304/kemenkop-bangun-tiga-gerai-koperasi-desa-merah-putih-di-kabupaten-jayawijaya"
-    },
-    {
-      "title": "Pembunuhan Satpam di Jatiluhur, Rieke Diah Pitaloka Minta Polisi tidak Cari Kambing Hitam untuk Dijadikan Tersangka - Media Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 07:50:28 GMT",
-      "link": "https://mediaindonesia.com/jabar/berita/916424/pembunuhan-satpam-di-jatiluhur-rieke-diah-pitaloka-minta-polisi-tidak-cari-kambing-hitam-untuk-dijadikan-tersangka"
-    },
-    {
-      "title": "Pembunuhan Satpam di Jatiluhur, Rieke Diah Pitaloka Minta Polisi tidak Cari Kambing Hitam - Media Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 07:50:28 GMT",
-      "link": "https://mediaindonesia.com/jabar/berita/916424/pembunuhan-satpam-di-jatiluhur-rieke-diah-pitaloka-minta-polisi-tidak-cari-kambing-hitam"
-    },
-    {
-      "title": "Didukung Danantara, Nasabah Bullion BSI Melonjak 700 Persen hingga Juni 2026 - Biz Kompas",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 07:49:00 GMT",
-      "link": "https://biz.kompas.com/read/2026/07/30/144947328/didukung-danantara-nasabah-bullion-bsi-melonjak-700-persen-hingga-juni-2026"
-    },
-    {
-      "title": "BPJS Kesehatan Gandeng Ombudsman, BPKN, dan YLKI Perkuat Mutu Layanan JKN - Biz Kompas",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 07:45:00 GMT",
-      "link": "https://biz.kompas.com/read/2026/07/30/144534628/bpjs-kesehatan-gandeng-ombudsman-bpkn-dan-ylki-perkuat-mutu-layanan-jkn"
-    },
-    {
-      "title": "Lengkap! Ini Jumlah & Nilai Saham Danantara di 52 BUMN - CNBC Indonesia",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 07:15:50 GMT",
-      "link": "https://www.cnbcindonesia.com/research/20260729152556-128-754827/lengkap-ini-jumlah-nilai-saham-danantara-di-52-bumn"
-    },
-    {
-      "title": "Kemenkop Dorong Generasi Muda Dirikan Koperasi Kreatif dan Desa - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 05:12:21 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-dorong-generasi-muda-koperasi"
-    },
-    {
-      "title": "Kemenkop: Koperasi Kian Dilirik Gen Z dan Milenial - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 05:08:38 GMT",
-      "link": "https://investor.id/business/448445/kemenkop-koperasi-kian-dilirik-gen-z-dan-milenial"
-    },
-    {
-      "title": "Ancang-ancang Induk Garuda - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 05:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/holding-bumn-penerbangan-di-bawah-garuda-2279084"
-    },
-    {
-      "title": "Untung-Rugi Garuda Jadi Holding Maskapai BUMN - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 05:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/garuda-holding-bumn-2279085"
     }
   ]
 }
