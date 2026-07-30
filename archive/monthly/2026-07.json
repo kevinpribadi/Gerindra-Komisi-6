@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T15:50:47.156806",
+  "generated_at": "2026-07-30T17:24:04.174606",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
-    "Golkar": 13,
+    "Golkar": 12,
     "NasDem": 5,
     "PKB": 11,
     "PKS": 4,
     "PAN": 6,
-    "Demokrat": 6
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 71,
-    "PDI-P": 99,
+    "PDI-P": 100,
     "Golkar": 78,
     "NasDem": 46,
     "PKB": 49,
@@ -37,14 +37,14 @@
     "danantara": 38,
     "bumn": 61,
     "koperasi": 78,
-    "perdagangan": 16,
+    "perdagangan": 15,
+    "ipo": 4,
     "ekspor": 11,
     "impor": 7,
     "investasi": 34,
     "umkm": 15,
     "merger-akuisisi": 4,
     "kartel-monopoli": 6,
-    "ipo": 3,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -59,7 +59,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 13,
@@ -94,12 +94,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 39,
+    "Perdagangan": 41,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 87,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 16:58:00 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1917704-anggota-dpr-minta-kemenkes-cermati-aturan-kemasan-rokok-polos-agar-selaras-dengan-regulasi"
+    },
+    {
+      "title": "Menkop Apresiasi Festival Bunga dan Buah Kabupaten Karo, Tegaskan Koperasi Jadi Wadah Potensi Ekonomi Daerah - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 16:05:55 GMT",
+      "link": "https://indoposco.id/2026/07/30/menkop-apresiasi-festival-bunga-dan-buah-kabupaten-karo-tegaskan-koperasi-jadi-wadah-potensi-ekonomi-daerah/"
+    },
+    {
+      "title": "Indonesia Shopping Festival 2026 Resmi Digelar, Diskon hingga 80 Persen dan Hadiah Mobil Listrik Menanti - Ipol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 16:01:12 GMT",
+      "link": "https://ipol.id/2026/07/indonesia-shopping-festival-2026-resmi-digelar-diskon-hingga-80-persen-dan-hadiah-mobil-listrik-menanti/"
+    },
     {
       "title": "Dukung Program Prabowo, Kemenkop Dorong Koperasi Susu Jadi Pemain Utama Program Makan Bergizi Gratis - InvestorTrust",
       "entity": "Kementerian Koperasi",
@@ -171,39 +192,18 @@
       "link": "https://tirto.id/kemendag-jamin-stok-minyakita-aman-meski-realisasi-dmo-anjlok-hAw1"
     },
     {
-      "title": "Menteri Koperasi: Koperasi Menjadi Fondasi Utama Perekonomian Masa Depan Generasi Muda - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
+      "title": "KPPU Dalami Disparitas Harga Dan Gangguan Pasokan Semen DI Sumatera Utara - Medan Pos",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:42:00 GMT",
-      "link": "https://www.beritakoperasi.com/menteri-koperasi-koperasi-menjadi-fondasi-utama-perekonomian-masa-depan-generasi-muda/"
+      "published": "Thu, 30 Jul 2026 13:04:00 GMT",
+      "link": "https://www.medanposonline.com/sumatera-utara/22218/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara/"
     },
     {
-      "title": "Menteri Koperasi dorong Koperasi Merah Putih jadi motor penggerak petani Karo naik kelas - sumut.antaranews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:36:28 GMT",
-      "link": "https://sumut.antaranews.com/berita/667173/menteri-koperasi-dorong-koperasi-merah-putih-jadi-motor-penggerak-petani-karo-naik-kelas"
-    },
-    {
-      "title": "Menteri Koperasi dorong Koperasi Merah Putih jadi motor penggerak petani Karo naik kelas - ANTARA News Sumatera Utara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:36:28 GMT",
-      "link": "https://sumut.antaranews.com/amp/berita/667173/menteri-koperasi-dorong-koperasi-merah-putih-jadi-motor-penggerak-petani-karo-naik-kelas"
-    },
-    {
-      "title": "Koperasi Susu di Jatim Siap Jadi Pemasok Utama Susu Pasteurisasi Program MBG - Pemerintah Kabupaten Pasuruan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:36:00 GMT",
-      "link": "https://www.pasuruankab.go.id/berita/koperasi-susu-di-jatim-siap-jadi-pemasok-utama-susu-pasteurisasi-program-mbg"
-    },
-    {
-      "title": "Bos BP BUMN Bakal Cek Polemik LRT City Mangkrak - detikcom",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:17:11 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8597590/bos-bp-bumn-bakal-cek-polemik-lrt-city-mangkrak/amp"
+      "title": "Anggota Komisi 6 DPR RI Ida Nurlaela Tekankan Pentingnya Pemutakhiran Data Bansos Agar Tepat Sasaran - 86News",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 12:45:24 GMT",
+      "link": "https://86news.co/2026/07/30/anggota-komisi-6-dpr-ri-ida-nurlaela-tekankan-pentingnya-pemutakhiran-data-bansos-agar-tepat-sasaran/"
     }
   ]
 }
