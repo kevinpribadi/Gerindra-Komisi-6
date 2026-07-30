@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-29T23:04:06.765328",
+  "generated_at": "2026-07-30T02:07:24.737152",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 38,
+    "PDI-P": 39,
     "Golkar": 15,
     "NasDem": 7,
     "PKB": 9,
@@ -12,9 +12,9 @@
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 71,
+    "Gerindra": 70,
     "PDI-P": 103,
-    "Golkar": 83,
+    "Golkar": 82,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 61,
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 60,
     "danantara": 41,
-    "koperasi": 78,
-    "perdagangan": 18,
-    "ekspor": 9,
+    "koperasi": 79,
+    "perdagangan": 19,
+    "ekspor": 10,
     "investasi": 34,
     "umkm": 14,
-    "kartel-monopoli": 5,
+    "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -52,7 +52,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 6,
-    "Kawendra Lukistian": 20,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 20,
     "Mufti Anam": 16,
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 16,
+    "Nurdin Halid": 15,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -100,6 +100,62 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Makin Kuat, Ini Tujuan Danantara Integrasikan Holding BUMN - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 01:35:17 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260730083048-4-754964/makin-kuat-ini-tujuan-danantara-integrasikan-holding-bumn"
+    },
+    {
+      "title": "Menteri Koperasi Berharap UHN Berperan Aktif Dampingi Operasional KDKMP - waspada.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 01:27:01 GMT",
+      "link": "https://www.waspada.id/berita/menteri-koperasi-berharap-uhn-berperan-aktif-dampingi-operasional-kdkmp"
+    },
+    {
+      "title": "Larangan Ekspor LTJ Rawan Digugat ke WTO, RI Diminta Antisipasi - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 01:20:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/116643/larangan-ekspor-ltj-rawan-digugat-ke-wto-ri-diminta-antisipasi"
+    },
+    {
+      "title": "Rieke Diah Pitaloka, Poem Fried Rice Kitchen Knife - Kompas.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 01:15:00 GMT",
+      "link": "https://www.kompas.id/artikel/poetry-reading"
+    },
+    {
+      "title": "Rieke Diah Pitaloka, Puisi Nasi Goreng Pisau Dapur - Kompas.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 01:15:00 GMT",
+      "link": "https://www.kompas.id/artikel/baca-puisi"
+    },
+    {
+      "title": "Perkuat Ekonomi Desa, Legislator Minta Pemerintah Evaluasi Menyeluruh Program Kopdes - Kedai Pena",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 00:49:49 GMT",
+      "link": "https://www.kedaipena.com/perkuat-ekonomi-desa-legislator-minta-pemerintah-evaluasi-menyeluruh-program-kopdes/"
+    },
+    {
+      "title": "KPPU Cermati Potensi Persaingan Usaha usai Putusan MK soal Kuota Internet - Katadata.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 00:34:00 GMT",
+      "link": "https://katadata.co.id/digital/teknologi/6a6a9c100f46f/kppu-cermati-potensi-persaingan-usaha-usai-putusan-mk-soal-kuota-internet"
+    },
+    {
+      "title": "Aksi Main Hakim Sendiri Meningkat DPR: Hapus Budaya Kekerasan - RM.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/319639/aksi-main-hakim-sendiri-meningkat-dpr-hapus-budaya-kekerasan"
+    },
     {
       "title": "KPPU dan KADIN Jaga Aksi Korporasi Tetap Sehat dan Efisien - redaksi.duta.co",
       "entity": "KPPU",
@@ -148,62 +204,6 @@
       "kind": "lembaga",
       "published": "Wed, 29 Jul 2026 14:50:00 GMT",
       "link": "https://wartaekonomi.co.id/read625357/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara"
-    },
-    {
-      "title": "Ketua KPPU: AI Harus Perluas Manfaat Informasi tanpa Menggerus Industri Media - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 14:15:00 GMT",
-      "link": "https://rri.co.id/nasional/2609775/ketua-kppu-ai-harus-perluas-manfaat-informasi-tanpa-menggerus-industri-media"
-    },
-    {
-      "title": "Menkop Sebut Minat Gen Z terhadap Koperasi Terus Meningkat - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 14:04:27 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8596082/menkop-sebut-minat-gen-z-terhadap-koperasi-terus-meningkat"
-    },
-    {
-      "title": "BP BUMN Minta Bank Mandiri Tingkatkan Investasi Pengembangan SDM - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 14:03:58 GMT",
-      "link": "https://www.metrotvnews.com/read/NA0CrQ0A-bp-bumn-minta-bank-mandiri-tingkatkan-investasi-pengembangan-sdm"
-    },
-    {
-      "title": "Datang ke Medan, Menteri Koperasi Jawab Pertanyaan Mahasiswa Soal Pelatihan Militer Manajer Kopdes - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 13:55:00 GMT",
-      "link": "https://medan.kompas.com/read/2026/07/29/205534478/datang-ke-medan-menteri-koperasi-jawab-pertanyaan-mahasiswa-soal-pelatihan"
-    },
-    {
-      "title": "Menkop sebut koperasi konten kreator hingga animator mulai masif - Antara News jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 29 Jul 2026 13:52:34 GMT",
-      "link": "https://jatim.antaranews.com/berita/1085987/menkop-sebut-koperasi-konten-kreator-hingga-animator-mulai-masif"
-    },
-    {
-      "title": "Darmadi Durianto Komisi VI DPR Minta Pemerintah Evaluasi Desain Koperasi Desa/Kelurahan Merah Putih - SumselPost",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 13:46:42 GMT",
-      "link": "https://sumselpost.co.id/darmadi-durianto-komisi-vi-dpr-minta-pemerintah-evaluasi-desain-koperasi-desa-kelurahan-merah-putih/"
-    },
-    {
-      "title": "DPR dan Buruh Tolak Rencana Kemasan Polos Rokok Kemenkes - achmadnurhidayat.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 13:11:46 GMT",
-      "link": "https://achmadnurhidayat.id/dpr-buruh-tolak-kemasan-polos-rokok"
-    },
-    {
-      "title": "Harmonisasi Regulasi Akan Cegah Aturan Saling Tumpang Tindih - investor.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 29 Jul 2026 13:05:00 GMT",
-      "link": "https://investor.id/national/448356/harmonisasi-regulasi-akan-cegah-aturan-saling-tumpang-tindih"
     }
   ]
 }
