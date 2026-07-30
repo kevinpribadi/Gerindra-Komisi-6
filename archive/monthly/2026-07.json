@@ -1,18 +1,18 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T17:24:04.174606",
+  "generated_at": "2026-07-30T19:21:44.465871",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
     "Golkar": 12,
-    "NasDem": 5,
+    "NasDem": 4,
     "PKB": 11,
     "PKS": 4,
     "PAN": 6,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 71,
+    "Gerindra": 70,
     "PDI-P": 100,
     "Golkar": 78,
     "NasDem": 46,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 38,
-    "bumn": 61,
+    "danantara": 39,
+    "bumn": 60,
     "koperasi": 78,
     "perdagangan": 15,
     "ipo": 4,
@@ -52,7 +52,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 19,
     "Mufti Anam": 15,
@@ -94,12 +94,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 41,
+    "Perdagangan": 42,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 87,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "MotoGP Mandalika Target Perputaran Rp5 Triliun — Uji Efek Danantara & Tekanan Fiskal - feedberry.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 18:16:44 GMT",
+      "link": "https://feedberry.com/artikel/motogp-mandalika-target-perputaran-rp5-triliun-uji-efek-danantara-tekanan-fiskal"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 17:41:54 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260731/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 17:41:29 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260731/Mjc0NDQ0"
+    },
     {
       "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
       "entity": "Herman Khaeron",
@@ -183,27 +204,6 @@
       "kind": "anggota",
       "published": "Thu, 30 Jul 2026 13:14:27 GMT",
       "link": "https://www.fraksipkb.com/2026/07/30/ida-fauziyah-jakarta-tak-lagi-kekurangan-jalan-tapi-krisis-sdm/"
-    },
-    {
-      "title": "Kemendag Jamin Stok MinyaKita Aman meski Realisasi DMO Anjlok - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 13:09:00 GMT",
-      "link": "https://tirto.id/kemendag-jamin-stok-minyakita-aman-meski-realisasi-dmo-anjlok-hAw1"
-    },
-    {
-      "title": "KPPU Dalami Disparitas Harga Dan Gangguan Pasokan Semen DI Sumatera Utara - Medan Pos",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 13:04:00 GMT",
-      "link": "https://www.medanposonline.com/sumatera-utara/22218/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-semen-di-sumatera-utara/"
-    },
-    {
-      "title": "Anggota Komisi 6 DPR RI Ida Nurlaela Tekankan Pentingnya Pemutakhiran Data Bansos Agar Tepat Sasaran - 86News",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 12:45:24 GMT",
-      "link": "https://86news.co/2026/07/30/anggota-komisi-6-dpr-ri-ida-nurlaela-tekankan-pentingnya-pemutakhiran-data-bansos-agar-tepat-sasaran/"
     }
   ]
 }
