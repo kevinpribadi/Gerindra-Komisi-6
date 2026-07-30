@@ -1,19 +1,19 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T08:22:00.166693",
+  "generated_at": "2026-07-30T11:05:52.871093",
   "party_counts_7d": {
-    "Gerindra": 21,
+    "Gerindra": 20,
     "PDI-P": 39,
     "Golkar": 14,
-    "NasDem": 6,
+    "NasDem": 5,
     "PKB": 10,
     "PKS": 4,
-    "PAN": 8,
+    "PAN": 7,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 69,
-    "PDI-P": 101,
+    "Gerindra": 70,
+    "PDI-P": 100,
     "Golkar": 79,
     "NasDem": 46,
     "PKB": 48,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 39,
+    "danantara": 38,
     "bumn": 61,
     "koperasi": 77,
     "perdagangan": 20,
     "impor": 7,
-    "ekspor": 9,
     "investasi": 33,
+    "ekspor": 9,
     "umkm": 14,
+    "merger-akuisisi": 4,
     "kartel-monopoli": 7,
-    "merger-akuisisi": 3,
     "ipo": 3,
     "dividen": 2
   },
@@ -52,9 +52,9 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 13,
-    "Adisatrya Suryo Sulisto": 20,
+    "Adisatrya Suryo Sulisto": 19,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -94,18 +94,67 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 33,
-    "Koperasi/UMKM": 87,
+    "Koperasi/UMKM": 86,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kemendag bidik transaksi ISF 2026 tembus Rp38 triliun - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 10:08:22 GMT",
+      "link": "https://www.antaranews.com/berita/5672749/kemendag-bidik-transaksi-isf-2026-tembus-rp38-triliun?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Minta Polisi Usut Tuntas Kasus Kematian Satpam Waduk Jatiluhur Tanpa Cari Kambing Hitam - bandung.kompas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 09:53:00 GMT",
+      "link": "https://bandung.kompas.com/read/2026/07/30/165333578/rieke-diah-pitaloka-minta-polisi-usut-tuntas-kasus-kematian-satpam-waduk"
+    },
+    {
+      "title": "Mitsubishi Kena Denda Rp1 Miliar, Telat Laporkan Akuisisi ke KPPU - radartv.disway.id - Disway",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 09:46:00 GMT",
+      "link": "https://radartv.disway.id/nasional/read/37244/mitsubishi-kena-denda-rp1-miliar-telat-laporkan-akuisisi-ke-kppu"
+    },
+    {
+      "title": "Kemendag dan APPBI Gelar ISF 2026 Targetkan Transaksi Rp38 Triliun - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 09:44:25 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-appbi-gelar-isf-2026"
+    },
+    {
+      "title": "Pelatihan Manajer Kopdes Merah Putih Gelombang Pertama Rampung 31 Juli 2026 - Kompas.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 09:42:18 GMT",
+      "link": "https://www.kompas.id/artikel/pelatihan-manajer-kopdes-merah-putih-gelombang-pertama-rampung-31-juli-2026"
+    },
+    {
+      "title": "Kemenkop bangun tiga gerai Koperasi Desa Merah Putih di Kabupaten Jayawijaya - ANTARA News Papua",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 09:36:32 GMT",
+      "link": "https://papua.antaranews.com/berita/766304/kemenkop-bangun-tiga-gerai-koperasi-desa-merah-putih-di-kabupaten-jayawijaya"
+    },
     {
       "title": "Pembunuhan Satpam di Jatiluhur, Rieke Diah Pitaloka Minta Polisi tidak Cari Kambing Hitam untuk Dijadikan Tersangka - Media Indonesia",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Thu, 30 Jul 2026 07:50:28 GMT",
       "link": "https://mediaindonesia.com/jabar/berita/916424/pembunuhan-satpam-di-jatiluhur-rieke-diah-pitaloka-minta-polisi-tidak-cari-kambing-hitam-untuk-dijadikan-tersangka"
+    },
+    {
+      "title": "Pembunuhan Satpam di Jatiluhur, Rieke Diah Pitaloka Minta Polisi tidak Cari Kambing Hitam - Media Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 30 Jul 2026 07:50:28 GMT",
+      "link": "https://mediaindonesia.com/jabar/berita/916424/pembunuhan-satpam-di-jatiluhur-rieke-diah-pitaloka-minta-polisi-tidak-cari-kambing-hitam"
     },
     {
       "title": "Didukung Danantara, Nasabah Bullion BSI Melonjak 700 Persen hingga Juni 2026 - Biz Kompas",
@@ -143,67 +192,18 @@
       "link": "https://investor.id/business/448445/kemenkop-koperasi-kian-dilirik-gen-z-dan-milenial"
     },
     {
+      "title": "Ancang-ancang Induk Garuda - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 05:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/holding-bumn-penerbangan-di-bawah-garuda-2279084"
+    },
+    {
       "title": "Untung-Rugi Garuda Jadi Holding Maskapai BUMN - Tempo.co",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 05:00:00 GMT",
       "link": "https://www.tempo.co/ekonomi/garuda-holding-bumn-2279085"
-    },
-    {
-      "title": "Bagaimana Kementerian Koperasi Membantu Pengembangan UMKM? - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 04:58:58 GMT",
-      "link": "https://stekom.ac.id/artikel/bagaimana-kementerian-koperasi-membantu-pengembangan-umkm-20260730115230"
-    },
-    {
-      "title": "Pemerintah Kota Sorong - Pemerintah Kota Sorong",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 04:31:47 GMT",
-      "link": "https://web.sorongkota.go.id/news/audiensi-wali-kota-sorong-dengan-wakil-menteri-perdagangan-bahas-pembangunan-gedung-pasar-sentral-remu"
-    },
-    {
-      "title": "Ferry Juliantono: Tugu Koperasi, Harus Jadi Pusat Budaya dan Ekonomi Generasi Muda - Bedanews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 04:28:46 GMT",
-      "link": "https://bedanews.com/ferry-juliantono-tugu-koperasi-harus-jadi-pusat-budaya-dan-ekonomi-generasi-muda/"
-    },
-    {
-      "title": "Manfaat Kementerian Koperasi bagi Pengembangan Koperasi Modern - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 03:55:12 GMT",
-      "link": "https://stekom.ac.id/artikel/manfaat-kementerian-koperasi-bagi-pengembangan-koperasi-modern-20260730105239"
-    },
-    {
-      "title": "Program Unggulan Kementerian Koperasi untuk Mendukung Pelaku Usaha - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 03:40:12 GMT",
-      "link": "https://stekom.ac.id/artikel/program-unggulan-kementerian-koperasi-untuk-mendukung-pelaku-usaha-20260730103715"
-    },
-    {
-      "title": "China Ancam Balas Kebijakan AS Larang Impor Robot Humanoid - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 03:34:21 GMT",
-      "link": "https://achmadnurhidayat.id/china-ancam-balas-larang-impor-robot-as"
-    },
-    {
-      "title": "Pemerintah Dorong Transformasi Ekonomi Berbasis Koperasi, Barang Subsidi Disalurkan Lewat KDKMP - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 03:17:41 GMT",
-      "link": "https://suarapemerintah.id/2026/07/pemerintah-dorong-transformasi-ekonomi-berbasis-koperasi-barang-subsidi-disalurkan-lewat-kdkmp/"
-    },
-    {
-      "title": "Andre Rosiade Beberkan Bukti Perhatian Prabowo ke Sumbar, Rp2,9 T Digelontorkan Bangun Irigasi hingga Pengendalian Banjir - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 02:27:11 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-beberkan-bukti-perhatian-prabowo-ke-sumbar-rp29-t-digelontorkan-bangun-irigasi-hingga-pengendalian-banjir-427571/"
     }
   ]
 }
