@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T13:53:15.678728",
+  "generated_at": "2026-07-30T15:50:47.156806",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
@@ -17,7 +17,7 @@
     "Golkar": 78,
     "NasDem": 46,
     "PKB": 49,
-    "PKS": 56,
+    "PKS": 55,
     "PAN": 18,
     "Demokrat": 30
   },
@@ -37,11 +37,11 @@
     "danantara": 38,
     "bumn": 61,
     "koperasi": 78,
-    "perdagangan": 18,
+    "perdagangan": 16,
+    "ekspor": 11,
     "impor": 7,
-    "investasi": 33,
-    "ekspor": 10,
-    "umkm": 14,
+    "investasi": 34,
+    "umkm": 15,
     "merger-akuisisi": 4,
     "kartel-monopoli": 6,
     "ipo": 3,
@@ -81,7 +81,7 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 15,
+    "Amin Ak.": 14,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
@@ -94,12 +94,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 37,
+    "Perdagangan": 39,
     "Hukum/Audit": 33,
-    "Koperasi/UMKM": 86,
-    "Konflik Publik": 6
+    "Koperasi/UMKM": 87,
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Prabowo, Kemenkop Dorong Koperasi Susu Jadi Pemain Utama Program Makan Bergizi Gratis - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 15:36:00 GMT",
+      "link": "https://investortrust.id/business/111239/dukung-program-prabowo-kemenkop-dorong-koperasi-susu-jadi-pemain-utama-program-makan-bergizi-gratis"
+    },
+    {
+      "title": "Catat ! Jangan Lewat 31 Agustus 2026, BP Batam Minta Pemegang Alokasi Lahan Segera Lapor Progres Pembangunan - Posmetrobatam.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 15:29:37 GMT",
+      "link": "https://posmetrobatam.co.id/catat-jangan-lewat-31-agustus-2026-bp-batam-minta-pemegang-alokasi-lahan-segera-lapor-progres-pembangunan/"
+    },
+    {
+      "title": "BP BUMN Targetkan Perputaran Ekonomi MotoGP Mandalika Rp5 Triliun - achmadnurhidayat.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 15:15:27 GMT",
+      "link": "https://achmadnurhidayat.id/bp-bumn-targetkan-ekonomi-mandalika-triliun"
+    },
+    {
+      "title": "Kemenkop Dukung Penguatan Koperasi Susu untuk Kedaulatan Gizi Nasional - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 15:07:01 GMT",
+      "link": "https://indoposco.id/2026/07/30/kemenkop-dukung-penguatan-koperasi-susu-untuk-kedaulatan-gizi-nasional/"
+    },
+    {
+      "title": "Peluang Ekspor Fesyen Berbasis Budaya Makin Terbuka - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 15:00:52 GMT",
+      "link": "https://www.niaga.asia/peluang-ekspor-fesyen-berbasis-budaya-makin-terbuka/"
+    },
+    {
+      "title": "Kemendag Pastikan Stok MinyaKita Aman Meski DMO Sawit Turun - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 14:40:58 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-pastikan-stok-minyakita-aman-meski-dmo-sawit-turun/"
+    },
     {
       "title": "Kemendag Ungkap Pertanda & Penyebab Jika Produksi Minyakita Turun - CNBC Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -143,67 +185,25 @@
       "link": "https://sumut.antaranews.com/berita/667173/menteri-koperasi-dorong-koperasi-merah-putih-jadi-motor-penggerak-petani-karo-naik-kelas"
     },
     {
+      "title": "Menteri Koperasi dorong Koperasi Merah Putih jadi motor penggerak petani Karo naik kelas - ANTARA News Sumatera Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:36:28 GMT",
+      "link": "https://sumut.antaranews.com/amp/berita/667173/menteri-koperasi-dorong-koperasi-merah-putih-jadi-motor-penggerak-petani-karo-naik-kelas"
+    },
+    {
+      "title": "Koperasi Susu di Jatim Siap Jadi Pemasok Utama Susu Pasteurisasi Program MBG - Pemerintah Kabupaten Pasuruan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 12:36:00 GMT",
+      "link": "https://www.pasuruankab.go.id/berita/koperasi-susu-di-jatim-siap-jadi-pemasok-utama-susu-pasteurisasi-program-mbg"
+    },
+    {
       "title": "Bos BP BUMN Bakal Cek Polemik LRT City Mangkrak - detikcom",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 12:17:11 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8597590/bos-bp-bumn-bakal-cek-polemik-lrt-city-mangkrak"
-    },
-    {
-      "title": "Kemendag Pastikan Penurunan DMO Sawit Pengaruhi Produksi Minyakita - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:10:08 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-penurunan-dmo-produksi-minyakita"
-    },
-    {
-      "title": "Kemendag pastikan stok Minyakita aman, meski DMO CPO menyusut - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 12:09:54 GMT",
-      "link": "https://www.antaranews.com/berita/5672981/kemendag-pastikan-stok-minyakita-aman-meski-dmo-cpo-menyusut"
-    },
-    {
-      "title": "Darmadi Durianto: Tantangan Kopdes Merah Putih Kini Bukan Sosialisasi, tetapi Kepercayaan Publik - Berita Moneter",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 11:58:00 GMT",
-      "link": "https://beritamoneter.com/darmadi-durianto-tantangan-kopdes-merah-putih-kini-bukan-sosialisasi-tetapi-kepercayaan-publik/"
-    },
-    {
-      "title": "Menteri Koperasi siap dorong Festival Bunga dan Buah Karo Go Internasional, Bupati ajak dunia melirik Tanah Karo - sumut.antaranews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 11:27:12 GMT",
-      "link": "https://sumut.antaranews.com/berita/667157/menteri-koperasi-siap-dorong-festival-bunga-dan-buah-karo-go-internasional-bupati-ajak-dunia-melirik-tanah-karo"
-    },
-    {
-      "title": "Kemendag Pastikan Stok Minyak Goreng Aman di Tengah Penurunan DMO CPO - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 11:13:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/kemendag-pastikan-stok-minyak-goreng-aman-di-tengah-penurunan-dmo-cpo-181300454"
-    },
-    {
-      "title": "Pimpinan DPR Dengar Keluhan Guru TK soal Status Honorer - merahputih.com",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 10:33:55 GMT",
-      "link": "https://www.merahputih.com/post/read/pimpinan-dpr-dengar-keluhan-guru-tk-dari-igtki-pgri-soal-status-honorer"
-    },
-    {
-      "title": "Kemendag bidik transaksi ISF 2026 tembus Rp38 triliun - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 10:08:22 GMT",
-      "link": "https://www.antaranews.com/berita/5672749/kemendag-bidik-transaksi-isf-2026-tembus-rp38-triliun?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Minta Polisi Usut Tuntas Kasus Kematian Satpam Waduk Jatiluhur Tanpa Cari Kambing Hitam - bandung.kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 09:53:00 GMT",
-      "link": "https://bandung.kompas.com/read/2026/07/30/165333578/rieke-diah-pitaloka-minta-polisi-usut-tuntas-kasus-kematian-satpam-waduk"
+      "link": "https://www.detik.com/properti/berita/d-8597590/bos-bp-bumn-bakal-cek-polemik-lrt-city-mangkrak/amp"
     }
   ]
 }
