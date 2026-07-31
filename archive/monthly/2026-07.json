@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T18:18:19.970200",
+  "generated_at": "2026-07-31T20:18:12.889474",
   "party_counts_7d": {
     "Gerindra": 13,
     "PDI-P": 37,
@@ -8,7 +8,7 @@
     "NasDem": 2,
     "PKB": 15,
     "PKS": 4,
-    "PAN": 6,
+    "PAN": 7,
     "Demokrat": 10
   },
   "party_counts_30d": {
@@ -18,7 +18,7 @@
     "NasDem": 46,
     "PKB": 50,
     "PKS": 54,
-    "PAN": 19,
+    "PAN": 20,
     "Demokrat": 32
   },
   "agency_counts_30d": {
@@ -38,13 +38,13 @@
     "danantara": 39,
     "koperasi": 73,
     "perdagangan": 12,
+    "impor": 8,
     "investasi": 39,
-    "impor": 7,
     "ekspor": 13,
-    "ipo": 4,
     "umkm": 13,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
+    "ipo": 3,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -87,19 +87,40 @@
     "Ismail": 20,
     "Eko Patrio": 7,
     "Nasril Bahar": 1,
-    "Iskandar": 11,
+    "Iskandar": 12,
     "Sartono": 8,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 44,
+    "Perdagangan": 45,
     "Hukum/Audit": 36,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Tindak Lanjut Putusan MK soal MBG, DPR Minta Pemerintah Terbitkan Perpres Gizi - Inilah.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 19:34:00 GMT",
+      "link": "https://www.inilah.com/tindak-lanjut-putusan-mk-soal-mbg-dpr-minta-pemerintah-terbitkan-perpres-gizi"
+    },
+    {
+      "title": "Mutu Perikanan Terjamin, Proses Ekspor Via Pelabuhan Batam Kian Efisien - AFU.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 19:17:00 GMT",
+      "link": "https://afu.id/ekonomi/mutu-perikanan-terjamin-proses-ekspor-via-pelabuhan-batam-kian-efisien"
+    },
+    {
+      "title": "Resmi, Kemendag Tetapkan ATQ Jadi Surveyor Verifikasi Impor - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 18:17:32 GMT",
+      "link": "https://www.metrotvnews.com/read/NG9CzP50-resmi-kemendag-tetapkan-atq-jadi-surveyor-verifikasi-impor"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -154,7 +175,21 @@
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://www.tempo.co/politik/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal-2279524"
+    },
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
       "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Kader Muda Gerindra Sebut Ketua DPW Nasdem Iskandar ST Ngawur dan Tendensius - Sentralberita",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 13:59:44 GMT",
+      "link": "https://sentralberita.com/kader-muda-gerindra-sebut-ketua-dpw-nasdem-iskandar-st-ngawur-dan-tendensius/"
     },
     {
       "title": "35 Ribu Koperasi Merah Putih Siap Beroperasi, Menkop Ferry Pasang “Benteng” Antikorupsi - DelikAsia.com",
@@ -169,41 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 13:14:29 GMT",
       "link": "https://investor.id/business/448681/dony-oskaria-ungkap-arah-danantara-housing"
-    },
-    {
-      "title": "Batam Bidik Gelombang Investasi Baru dari Negara Tetangga - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 13:10:03 GMT",
-      "link": "https://metropolis.batampos.co.id/batam-bidik-gelombang-investasi-baru-dari-negara-tetangga/"
-    },
-    {
-      "title": "Sukseskan Program KDKMP, Kemenkop Komit Jaga Integritas & Anti Korupsi - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 12:54:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/319901/sukseskan-program-kdkmp-kemenkop-komit-jaga-integritas-amp-anti-korupsi"
-    },
-    {
-      "title": "BPI Danantara Tangani Masalah Keuangan KAI Buntut Kerugian KCJB - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 12:47:25 GMT",
-      "link": "https://achmadnurhidayat.id/danantara-benahi-keuangan-kai-akibat-kcjb"
-    },
-    {
-      "title": "Minat Investasi Turun, Harga Acuan Emas Merosot - Suara.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 12:45:18 GMT",
-      "link": "https://www.suara.com/bisnis/2026/07/31/194518/minat-investasi-turun-harga-acuan-emas-merosot"
-    },
-    {
-      "title": "Danantara konsolidasikan BUMN-BUMN yang bergerak di bidang properti - ANTARA News Yogyakarta",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 12:40:30 GMT",
-      "link": "https://jogja.antaranews.com/berita/845449/danantara-konsolidasikan-bumn-bumn-yang-bergerak-di-bidang-properti"
     }
   ]
 }
