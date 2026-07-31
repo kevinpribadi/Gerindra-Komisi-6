@@ -1,9 +1,9 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T16:43:17.153573",
+  "generated_at": "2026-07-31T18:18:19.970200",
   "party_counts_7d": {
     "Gerindra": 13,
-    "PDI-P": 39,
+    "PDI-P": 37,
     "Golkar": 10,
     "NasDem": 2,
     "PKB": 15,
@@ -36,9 +36,9 @@
   "topic_counts_30d": {
     "bumn": 59,
     "danantara": 39,
-    "koperasi": 74,
-    "perdagangan": 11,
-    "investasi": 40,
+    "koperasi": 73,
+    "perdagangan": 12,
+    "investasi": 39,
     "impor": 7,
     "ekspor": 13,
     "ipo": 4,
@@ -94,18 +94,39 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 45,
-    "Hukum/Audit": 35,
-    "Koperasi/UMKM": 83,
+    "Perdagangan": 44,
+    "Hukum/Audit": 36,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 17:23:59 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260801/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 17:21:24 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260801/Mjc0NDQ0"
+    },
     {
       "title": "Kemendag Tetapkan Harga Referensi dan HPE Emas Turun 0,7% pada Periode I Agustus 2026 - industri.kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 16:17:03 GMT",
       "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-harga-referensi-dan-hpe-emas-turun-07-pada-periode-i-agustus-2026"
+    },
+    {
+      "title": "Menkop: Integritas dan kepercayaan publik modal utama KDKMP - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 15:56:52 GMT",
+      "link": "https://www.antaranews.com/berita/5675193/menkop-integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
     },
     {
       "title": "Mendag Busan Bersama Delegasi Bisnis Tiongkok Bahas Investasi Hortikultura - olenka.id",
@@ -120,6 +141,13 @@
       "kind": "anggota",
       "published": "Fri, 31 Jul 2026 15:00:00 GMT",
       "link": "https://kumparan.com/kumparannews/anggota-dpr-soroti-pilot-didakwa-selundupkan-buronan-dia-asli-sunda-bukan-wna-27tcKReyhiB"
+    },
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal"
     },
     {
       "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
@@ -176,34 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 12:40:30 GMT",
       "link": "https://jogja.antaranews.com/berita/845449/danantara-konsolidasikan-bumn-bumn-yang-bergerak-di-bidang-properti"
-    },
-    {
-      "title": "DPR Usul Pemerintah Terbitkan Perpres Tata Kelola Pemenuhan Gizi Nasional - merahputih.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 12:24:16 GMT",
-      "link": "https://www.merahputih.com/post/amp/mbg-tak-boleh-lagi-dari-dana-pendidikan-dpr-usul-pemerintah-terbitkan-perpres-tata-kelola-pemenuhan-gizi-nasional"
-    },
-    {
-      "title": "Kemendag: Penurunan DMO Tidak Ganggu Stok MinyaKita - sawitsetara.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 11:59:39 GMT",
-      "link": "https://www.sawitsetara.co/artikel/Berita/kemendag-penurunan-dmo-tidak-ganggu-stok-minya-kita"
-    },
-    {
-      "title": "Kemendag Dorong Penerapan Sistem VPTI Jamin Barang Impor Sesuai Standar - news.detik.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 10:48:51 GMT",
-      "link": "https://news.detik.com/berita/d-8598939/kemendag-dorong-penerapan-sistem-vpti-jamin-barang-impor-sesuai-standar"
-    },
-    {
-      "title": "Merga Ginting jadi kehormatan tak terlupakan bagi Menteri Koperasi Ferry Juliantono - ANTARA News Sumatera Utara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 10:37:23 GMT",
-      "link": "https://sumut.antaranews.com/berita/667325/merga-ginting-jadi-kehormatan-tak-terlupakan-bagi-menteri-koperasi-ferry-juliantono"
     }
   ]
 }
