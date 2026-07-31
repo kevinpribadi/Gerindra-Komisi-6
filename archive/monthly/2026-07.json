@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T09:41:56.664281",
+  "generated_at": "2026-07-31T11:57:28.842134",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 14,
     "PDI-P": 40,
     "Golkar": 10,
-    "NasDem": 4,
+    "NasDem": 3,
     "PKB": 15,
     "PKS": 4,
     "PAN": 6,
@@ -15,7 +15,7 @@
     "Gerindra": 70,
     "PDI-P": 100,
     "Golkar": 78,
-    "NasDem": 46,
+    "NasDem": 45,
     "PKB": 51,
     "PKS": 54,
     "PAN": 19,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 60,
     "danantara": 37,
     "koperasi": 75,
     "perdagangan": 11,
-    "ekspor": 12,
+    "impor": 7,
+    "ekspor": 13,
     "investasi": 36,
     "ipo": 4,
     "umkm": 15,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
-    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -71,7 +71,7 @@
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 6,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
@@ -93,13 +93,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
-    "Perdagangan": 45,
+    "Kinerja BUMN": 17,
+    "Perdagangan": 48,
     "Hukum/Audit": 33,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Dorong Penerapan Sistem VPTI Jamin Barang Impor Sesuai Standar - news.detik.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 10:48:51 GMT",
+      "link": "https://news.detik.com/berita/d-8598939/kemendag-dorong-penerapan-sistem-vpti-jamin-barang-impor-sesuai-standar"
+    },
+    {
+      "title": "Merga Ginting jadi kehormatan tak terlupakan bagi Menteri Koperasi Ferry Juliantono - ANTARA News Sumatera Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 10:37:23 GMT",
+      "link": "https://sumut.antaranews.com/berita/667325/merga-ginting-jadi-kehormatan-tak-terlupakan-bagi-menteri-koperasi-ferry-juliantono"
+    },
+    {
+      "title": "IFG Gandeng Kementerian Hukum Perkuat Tata Kelola Konsolidasi BUMN Asuransi - republika.co.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 09:51:37 GMT",
+      "link": "https://esgnow.republika.co.id/berita/tj19u3416/ifg-gandeng-kementerian-hukum-perkuat-tata-kelola-konsolidasi-bumn-asuransi"
+    },
+    {
+      "title": "Momen Prabowo Tiba-tiba Hentikan Pidato, Minta Maaf karena Lupa Sebut Menteri Koperasi - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 09:50:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/07/31/16501371/momen-prabowo-tiba-tiba-hentikan-pidato-minta-maaf-karena-lupa-sebut-menteri"
+    },
+    {
+      "title": "Pemerintah Ajak Masyarakat Rayakan HUT ke-81 RI di Monas, Ada Pesta Rakyat, Doorprize hingga Drone Show - tangselpos.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 09:37:30 GMT",
+      "link": "https://tangselpos.id/detail/52376/pemerintah-ajak-masyarakat-rayakan-hut-ke-81-ri-di-monas-ada-pesta-rakyat-doorprize-hingga-drone-show"
+    },
+    {
+      "title": "Kemendag Turunkan HPE dan Harga Referensi Emas Awal Agustus 0,7% - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 09:09:08 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/07/31/kemendag-turunkan-hpe-dan-harga-referensi-emas-awal-agustus-07-185400523"
+    },
     {
       "title": "Target Indonesia Bebas Sampah di Akhir 2027, Sartono Sebut Kolaborasi Lintas Sektor Jadi Kunci Sukses - TEROPONGSENAYAN.com",
       "entity": "Sartono",
@@ -162,48 +204,6 @@
       "kind": "anggota",
       "published": "Fri, 31 Jul 2026 06:34:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/pascaputusan-mk-soal-mbg-rieke-diah-pitaloka-desak-pemerintah-reformasi-tata-kelola-gizi-nasional-b2pXiZbgP7"
-    },
-    {
-      "title": "Realisasi DMO Minyakita Turun, Kemendag: Penurunan Sejalan dengan Melambatnya Ekspor CPO - sawitsetara.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 06:29:06 GMT",
-      "link": "https://www.sawitsetara.co/artikel/Berita/realisasi-dmo-minyakita-turun-kemendag-penurunan-sejalan-dengan-melambatnya-ekspor-cpo"
-    },
-    {
-      "title": "DPR RI Fasilitasi Penyelesaian Konflik Industrial SGN, SPBUN Dorong HAP Gula Naik Rp 15.500 - KlikJatim",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 06:16:00 GMT",
-      "link": "https://klikjatim.com/news-48652-dpr-ri-fasilitasi-penyelesaian-konflik-industrial-sgn-spbun-dorong-hap-gula-naik-rp-15500"
-    },
-    {
-      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan di Sumatera Utara - detikFinance",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 05:37:18 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8598282/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-di-sumatera-utara"
-    },
-    {
-      "title": "MK Larang Anggaran Pendidikan untuk Makan Gratis, Rieke Diah Pitaloka: Itu Koreksi Konstitusional - Suara.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 04:43:19 GMT",
-      "link": "https://www.suara.com/news/2026/07/31/114319/mk-larang-anggaran-pendidikan-untuk-makan-gratis-rieke-diah-pitaloka-itu-koreksi-konstitusional"
-    },
-    {
-      "title": "Target Indonesia Bebas Sampah di Akhir 2027, Sartono Sebut Kolaborasi Lintas Sektor Jadi Kunci Sukses - Kedai Pena",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 04:20:49 GMT",
-      "link": "https://www.kedaipena.com/target-indonesia-bebas-sampah-di-akhir-2027-sartono-sebut-kolaborasi-lintas-sektor-jadi-kunci-sukses/"
-    },
-    {
-      "title": "Realisasi DMO Minyakita Merosot, Kemendag Lempar Alasan - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 04:20:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/116804/realisasi-dmo-minyakita-merosot-kemendag-lempar-alasan"
     }
   ]
 }
