@@ -1,10 +1,10 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-30T23:03:59.832105",
+  "generated_at": "2026-07-31T02:35:05.522136",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 40,
-    "Golkar": 12,
+    "Golkar": 10,
     "NasDem": 4,
     "PKB": 12,
     "PKS": 4,
@@ -37,11 +37,11 @@
     "danantara": 38,
     "bumn": 60,
     "koperasi": 78,
-    "perdagangan": 14,
-    "ipo": 4,
-    "ekspor": 11,
-    "impor": 7,
+    "perdagangan": 13,
     "investasi": 34,
+    "ipo": 4,
+    "ekspor": 10,
+    "impor": 7,
     "umkm": 15,
     "merger-akuisisi": 4,
     "kartel-monopoli": 6,
@@ -100,6 +100,48 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "APPBI Perpanjang Indonesia Shopping Festival 2026 - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 02:00:32 GMT",
+      "link": "https://bisnis.tempo.co/read/2116244/appbi-perpanjang-indonesia-shopping-festival-2026?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Danantara masuk KSSK, INDEF beberkan 3 potensi bahaya bagi sistem keuangan nasional - Elshinta",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 01:30:01 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/danantara-masuk-kssk-indef-beberkan-3-potensi-bahaya-bagi-sistem-keuangan-nasional-172101"
+    },
+    {
+      "title": "Bos BP BUMN Akui Keuangan Adhi Karya Minus, Banyak Proyek Mangkrak-Nggak Laku - detikcom",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 00:30:47 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8597786/bos-bp-bumn-akui-keuangan-adhi-karya-minus-banyak-proyek-mangkrak-nggak-laku"
+    },
+    {
+      "title": "Kemendag Janji Stok MinyaKita Aman Meski Ada Penurunan DMO Sawit - JPNN.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "link": "https://www.jpnn.com/news/kemendag-janji-stok-minyakita-aman-meski-ada-penurunan-dmo-sawit"
+    },
+    {
+      "title": "Mendag siap fasilitasi rencana investasi hortikultura dari China - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 23:56:57 GMT",
+      "link": "https://www.antaranews.com/berita/5673663/mendag-siap-fasilitasi-rencana-investasi-hortikultura-dari-china"
+    },
+    {
+      "title": "Koperasi Merah Putih di Jabar Terkendala Lahan, Dekopinwil Usulkan Konsep Gedung Vertikal - Pikiran Rakyat Koran",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 30 Jul 2026 23:09:23 GMT",
+      "link": "https://koran.pikiran-rakyat.com/ekonomi/pr-30310365432/koperasi-merah-putih-di-jabar-terkendala-lahan-dekopinwil-usulkan-konsep-gedung-vertikal"
+    },
     {
       "title": "Merah Putih Bond dan Modal Pembangunan - KONTAN",
       "entity": "Danantara",
@@ -162,48 +204,6 @@
       "kind": "lembaga",
       "published": "Thu, 30 Jul 2026 16:01:12 GMT",
       "link": "https://ipol.id/2026/07/indonesia-shopping-festival-2026-resmi-digelar-diskon-hingga-80-persen-dan-hadiah-mobil-listrik-menanti/"
-    },
-    {
-      "title": "Dukung Program Prabowo, Kemenkop Dorong Koperasi Susu Jadi Pemain Utama Program Makan Bergizi Gratis - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 15:36:00 GMT",
-      "link": "https://investortrust.id/business/111239/dukung-program-prabowo-kemenkop-dorong-koperasi-susu-jadi-pemain-utama-program-makan-bergizi-gratis"
-    },
-    {
-      "title": "Catat ! Jangan Lewat 31 Agustus 2026, BP Batam Minta Pemegang Alokasi Lahan Segera Lapor Progres Pembangunan - Posmetrobatam.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 15:29:37 GMT",
-      "link": "https://posmetrobatam.co.id/catat-jangan-lewat-31-agustus-2026-bp-batam-minta-pemegang-alokasi-lahan-segera-lapor-progres-pembangunan/"
-    },
-    {
-      "title": "BP BUMN Targetkan Perputaran Ekonomi MotoGP Mandalika Rp5 Triliun - achmadnurhidayat.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 15:15:27 GMT",
-      "link": "https://achmadnurhidayat.id/bp-bumn-targetkan-ekonomi-mandalika-triliun"
-    },
-    {
-      "title": "Kemenkop Dukung Penguatan Koperasi Susu untuk Kedaulatan Gizi Nasional - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 15:07:01 GMT",
-      "link": "https://indoposco.id/2026/07/30/kemenkop-dukung-penguatan-koperasi-susu-untuk-kedaulatan-gizi-nasional/"
-    },
-    {
-      "title": "Peluang Ekspor Fesyen Berbasis Budaya Makin Terbuka - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 15:00:52 GMT",
-      "link": "https://www.niaga.asia/peluang-ekspor-fesyen-berbasis-budaya-makin-terbuka/"
-    },
-    {
-      "title": "Kemendag Pastikan Stok MinyaKita Aman Meski DMO Sawit Turun - Suara Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 14:40:58 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-pastikan-stok-minyakita-aman-meski-dmo-sawit-turun/"
     }
   ]
 }
