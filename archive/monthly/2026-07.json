@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T20:18:12.889474",
+  "generated_at": "2026-07-31T22:02:36.768422",
   "party_counts_7d": {
     "Gerindra": 13,
     "PDI-P": 37,
@@ -16,7 +16,7 @@
     "PDI-P": 100,
     "Golkar": 78,
     "NasDem": 46,
-    "PKB": 50,
+    "PKB": 49,
     "PKS": 54,
     "PAN": 20,
     "Demokrat": 32
@@ -78,7 +78,7 @@
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 18,
-    "Nasim Khan": 14,
+    "Nasim Khan": 13,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 13,
@@ -95,11 +95,18 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 45,
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 37,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Tak Hanya Kasus LRT City, Bos BP BUMN Bongkar Bobroknya Keuangan BUMN Properti - Inilah.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 21:09:00 GMT",
+      "link": "https://www.inilah.com/tak-hanya-kasus-lrt-city-bos-bp-bumn-bongkar-bobroknya-keuangan-bumn-properti"
+    },
     {
       "title": "Tindak Lanjut Putusan MK soal MBG, DPR Minta Pemerintah Terbitkan Perpres Gizi - Inilah.com",
       "entity": "Rieke Diah Pitaloka",
@@ -197,13 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 13:19:00 GMT",
       "link": "https://www.delikasia.com/headline-news/35-ribu-koperasi-merah-putih-siap-beroperasi-menkop-ferry-pasang-benteng-antikorupsi"
-    },
-    {
-      "title": "Dony Oskaria Ungkap Arah Danantara Housing - investor.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 13:14:29 GMT",
-      "link": "https://investor.id/business/448681/dony-oskaria-ungkap-arah-danantara-housing"
     }
   ]
 }
