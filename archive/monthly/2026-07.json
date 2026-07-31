@@ -1,6 +1,6 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T11:57:28.842134",
+  "generated_at": "2026-07-31T14:14:19.003424",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 40,
@@ -15,7 +15,7 @@
     "Gerindra": 70,
     "PDI-P": 100,
     "Golkar": 78,
-    "NasDem": 45,
+    "NasDem": 46,
     "PKB": 51,
     "PKS": 54,
     "PAN": 19,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
-    "danantara": 37,
-    "koperasi": 75,
+    "bumn": 59,
+    "danantara": 39,
+    "koperasi": 74,
     "perdagangan": 11,
+    "investasi": 39,
     "impor": 7,
     "ekspor": 13,
-    "investasi": 36,
     "ipo": 4,
-    "umkm": 15,
+    "umkm": 13,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
     "dividen": 2
@@ -75,7 +75,7 @@
     "I Nengah Senantara": 6,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
-    "Subardi": 10,
+    "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 18,
     "Nasim Khan": 15,
@@ -94,12 +94,82 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 48,
-    "Hukum/Audit": 33,
-    "Koperasi/UMKM": 84,
+    "Perdagangan": 47,
+    "Hukum/Audit": 35,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "35 Ribu Koperasi Merah Putih Siap Beroperasi, Menkop Ferry Pasang “Benteng” Antikorupsi - DelikAsia.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 13:19:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/35-ribu-koperasi-merah-putih-siap-beroperasi-menkop-ferry-pasang-benteng-antikorupsi"
+    },
+    {
+      "title": "Dony Oskaria Ungkap Arah Danantara Housing - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 13:14:29 GMT",
+      "link": "https://investor.id/business/448681/dony-oskaria-ungkap-arah-danantara-housing"
+    },
+    {
+      "title": "Batam Bidik Gelombang Investasi Baru dari Negara Tetangga - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 13:10:03 GMT",
+      "link": "https://metropolis.batampos.co.id/batam-bidik-gelombang-investasi-baru-dari-negara-tetangga/"
+    },
+    {
+      "title": "Sukseskan Program KDKMP, Kemenkop Komit Jaga Integritas & Anti Korupsi - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 12:54:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/319901/sukseskan-program-kdkmp-kemenkop-komit-jaga-integritas-amp-anti-korupsi"
+    },
+    {
+      "title": "BPI Danantara Tangani Masalah Keuangan KAI Buntut Kerugian KCJB - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 12:47:25 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-benahi-keuangan-kai-akibat-kcjb"
+    },
+    {
+      "title": "Minat Investasi Turun, Harga Acuan Emas Merosot - Suara.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 12:45:18 GMT",
+      "link": "https://www.suara.com/bisnis/2026/07/31/194518/minat-investasi-turun-harga-acuan-emas-merosot"
+    },
+    {
+      "title": "Danantara konsolidasikan BUMN-BUMN yang bergerak di bidang properti - ANTARA News Yogyakarta",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 12:40:30 GMT",
+      "link": "https://jogja.antaranews.com/berita/845449/danantara-konsolidasikan-bumn-bumn-yang-bergerak-di-bidang-properti"
+    },
+    {
+      "title": "DPR Usul Pemerintah Terbitkan Perpres Tata Kelola Pemenuhan Gizi Nasional - merahputih.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 12:24:16 GMT",
+      "link": "https://www.merahputih.com/post/amp/mbg-tak-boleh-lagi-dari-dana-pendidikan-dpr-usul-pemerintah-terbitkan-perpres-tata-kelola-pemenuhan-gizi-nasional"
+    },
+    {
+      "title": "Kemendag: Penurunan DMO Tidak Ganggu Stok MinyaKita - sawitsetara.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 11:59:39 GMT",
+      "link": "https://www.sawitsetara.co/artikel/Berita/kemendag-penurunan-dmo-tidak-ganggu-stok-minya-kita"
+    },
     {
       "title": "Kemendag Dorong Penerapan Sistem VPTI Jamin Barang Impor Sesuai Standar - news.detik.com",
       "entity": "Kementerian Perdagangan",
@@ -134,76 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 09:37:30 GMT",
       "link": "https://tangselpos.id/detail/52376/pemerintah-ajak-masyarakat-rayakan-hut-ke-81-ri-di-monas-ada-pesta-rakyat-doorprize-hingga-drone-show"
-    },
-    {
-      "title": "Kemendag Turunkan HPE dan Harga Referensi Emas Awal Agustus 0,7% - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 09:09:08 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/07/31/kemendag-turunkan-hpe-dan-harga-referensi-emas-awal-agustus-07-185400523"
-    },
-    {
-      "title": "Target Indonesia Bebas Sampah di Akhir 2027, Sartono Sebut Kolaborasi Lintas Sektor Jadi Kunci Sukses - TEROPONGSENAYAN.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 08:56:59 GMT",
-      "link": "https://www.teropongsenayan.com/138133-target-indonesia-bebas-sampah-di-akhir-2027-sartono-sebut-kolaborasi-lintas-sektor-jadi-kunci-sukses"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Putusan MK Momentum Benahi Tata Kelola... - Langit7.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 08:31:00 GMT",
-      "link": "https://langit7.id/read/60630/1/rieke-diah-pitaloka-putusan-mk-momentum-benahi-tata-kelola-gizi-nasional-1785485226"
-    },
-    {
-      "title": "Putusan MK soal MBG Bukan Penolakan, Tapi Koreksi Tata Kelola Pendanaan - inilah.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 08:16:00 GMT",
-      "link": "https://www.inilah.com/putusan-mk-soal-mbg-bukan-penolakan-tapi-koreksi-tata-kelola-pendanaan"
-    },
-    {
-      "title": "IFG dan Kementerian Hukum Perkuat Tata Kelola BUMN Asuransi - MetroTVNews.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 07:30:22 GMT",
-      "link": "https://www.metrotvnews.com/read/NrWC8nQz-ifg-dan-kementerian-hukum-perkuat-tata-kelola-bumn-asuransi"
-    },
-    {
-      "title": "Akselerasi Pertumbuhan Ekonomi Jelang Kemerdekaan, Kemendag Dukung Gelaran ISF 2026 - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 07:24:00 GMT",
-      "link": "https://www.topbusiness.id/133328/akselerasi-pertumbuhan-ekonomi-jelang-kemerdekaan-kemendag-dukung-gelaran-isf-2026.html"
-    },
-    {
-      "title": "DPR dukung PT PAL kolaborasi konsolidasi BUMN galangan kapal - ANTARA News Bangka Belitung",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 07:07:27 GMT",
-      "link": "https://babel.antaranews.com/berita/574777/dpr-dukung-pt-pal-kolaborasi-konsolidasi-bumn-galangan-kapal"
-    },
-    {
-      "title": "Anggota Komisi VI Ida Fauziyah: Jakarta Tak Lagi Kekurangan Jalan Tapi Krisis SDM - Radarbangsa.com",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 07:01:00 GMT",
-      "link": "https://www.radarbangsa.com/news/61812/anggota-komisi-vi-ida-fauziyah-jakarta-tak-lagi-kekurangan-jalan-tapi-krisis-sdm"
-    },
-    {
-      "title": "Legislator PDIP Dorong Pemutakhiran Data Penerima Bansos - kedaipena.com",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 06:49:12 GMT",
-      "link": "https://www.kedaipena.com/legislator-pdip-dorong-pemutakhiran-data-penerima-bansos/"
-    },
-    {
-      "title": "Pascaputusan MK soal MBG, Rieke Diah Pitaloka Desak Pemerintah Reformasi Tata Kelola Gizi Nasional - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 06:34:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/pascaputusan-mk-soal-mbg-rieke-diah-pitaloka-desak-pemerintah-reformasi-tata-kelola-gizi-nasional-b2pXiZbgP7"
     }
   ]
 }
