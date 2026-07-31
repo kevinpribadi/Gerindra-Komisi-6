@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T02:35:05.522136",
+  "generated_at": "2026-07-31T06:10:53.432926",
   "party_counts_7d": {
-    "Gerindra": 20,
-    "PDI-P": 40,
+    "Gerindra": 18,
+    "PDI-P": 38,
     "Golkar": 10,
     "NasDem": 4,
     "PKB": 12,
     "PKS": 4,
     "PAN": 6,
-    "Demokrat": 8
+    "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 100,
-    "Golkar": 78,
+    "Golkar": 79,
     "NasDem": 46,
-    "PKB": 50,
-    "PKS": 55,
+    "PKB": 49,
+    "PKS": 54,
     "PAN": 18,
-    "Demokrat": 30
+    "Demokrat": 31
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 38,
+    "danantara": 37,
     "bumn": 60,
-    "koperasi": 78,
-    "perdagangan": 13,
-    "investasi": 34,
-    "ipo": 4,
+    "koperasi": 76,
+    "perdagangan": 11,
+    "investasi": 36,
     "ekspor": 10,
+    "ipo": 4,
     "impor": 7,
     "umkm": 15,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 6,
+    "kartel-monopoli": 5,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -62,7 +62,7 @@
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 13,
+    "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
@@ -77,133 +77,133 @@
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
     "Anggia Erma Rini": 10,
-    "Rivqy Abdul Halim": 19,
+    "Rivqy Abdul Halim": 18,
     "Nasim Khan": 15,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 14,
+    "Amin Ak.": 13,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
     "Nasril Bahar": 1,
     "Iskandar": 10,
-    "Sartono": 6,
+    "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Perdagangan": 43,
+    "Perdagangan": 45,
     "Hukum/Audit": 33,
-    "Koperasi/UMKM": 87,
+    "Koperasi/UMKM": 85,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan di Sumatera Utara - detikFinance",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 05:37:18 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8598282/kppu-dalami-disparitas-harga-dan-gangguan-pasokan-di-sumatera-utara"
+    },
+    {
+      "title": "MK Larang Anggaran Pendidikan untuk Makan Gratis, Rieke Diah Pitaloka: Itu Koreksi Konstitusional - Suara.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 04:43:19 GMT",
+      "link": "https://www.suara.com/news/2026/07/31/114319/mk-larang-anggaran-pendidikan-untuk-makan-gratis-rieke-diah-pitaloka-itu-koreksi-konstitusional"
+    },
+    {
+      "title": "Target Indonesia Bebas Sampah di Akhir 2027, Sartono Sebut Kolaborasi Lintas Sektor Jadi Kunci Sukses - Kedai Pena",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 04:20:49 GMT",
+      "link": "https://www.kedaipena.com/target-indonesia-bebas-sampah-di-akhir-2027-sartono-sebut-kolaborasi-lintas-sektor-jadi-kunci-sukses/"
+    },
+    {
+      "title": "Realisasi DMO Minyakita Merosot, Kemendag Lempar Alasan - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 04:20:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/116804/realisasi-dmo-minyakita-merosot-kemendag-lempar-alasan"
+    },
+    {
+      "title": "Negara tak boleh biarkan kekerasan jadi budaya - ANTARA News Makassar",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 04:06:45 GMT",
+      "link": "https://makassar.antaranews.com/berita/635224/negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
+    },
+    {
+      "title": "Andre Rosiade Kawal Rp1,2 Triliun Anggaran Prasarana Strategis Sumbar, Sekolah Rakyat hingga Stadion Agus Salim mulai Dibangun - posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 03:57:05 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-kawal-rp12-triliun-anggaran-prasarana-strategis-sumbar-sekolah-rakyat-hingga-stadion-agus-salim-mulai-dibangun-427763/"
+    },
+    {
+      "title": "Rieke Pitaloka: Putusan MK Momentum Reformasi Tata Kelola Program Gizi Nasional - InvestorTrust",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 03:54:00 GMT",
+      "link": "https://investortrust.id/national/111300/rieke-pitaloka-putusan-mk-momentum-reformasi-tata-kelola-program-gizi-nasional"
+    },
+    {
+      "title": "Danantara Buka Kondisi BUMN Properti yang Sedang Tertekan - Harian Jogja",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 03:27:47 GMT",
+      "link": "https://ekbis.harianjogja.com/r-1265531/danantara-buka-kondisi-bumn-properti-yang-sedang-tertekan"
+    },
+    {
+      "title": "Target 150 Koperasi Desa Merah Putih di Kabupaten Serang Rampung Agustus 2026, Operasional Masih Tunggu Aturan Pusat - Ekbisbanten",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 03:05:00 GMT",
+      "link": "https://ekbisbanten.com/berita/target-150-koperasi-desa-merah-putih-di-kabupaten-serang-rampung-agustus-2026-operasional-masih-tunggu-aturan-pusat/"
+    },
+    {
+      "title": "Puspoll Indonesia: Pelibatan Danantara di KSSK Perlu Dimaknai sebagai Penguatan Koordinasi, Bukan Perubahan Struktur Hukum - Siaran Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 03:04:00 GMT",
+      "link": "https://www.siaranindonesia.com/baca/20260731/puspoll-indonesia-pelibatan-danantara-di-kssk-perlu-dimaknai-sebagai-penguatan-koordinasi-bukan-perubahan-struktur-hukum.html"
+    },
+    {
+      "title": "Danantara Soroti BUMN Properti, Banyak Proyek Mangkrak dan Tak Laku Terjual - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 02:59:00 GMT",
+      "link": "https://wartaekonomi.co.id/amp/read625850/danantara-soroti-bumn-properti-banyak-proyek-mangkrak-dan-tak-laku-terjual"
+    },
+    {
+      "title": "Mendag Budi Santoso Sambut Investasi Jiangsu, Dorong Ekspor Hortikultura Indonesia - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 02:53:38 GMT",
+      "link": "https://suarapemerintah.id/2026/07/mendag-budi-santoso-sambut-investasi-jiangsu-dorong-ekspor-hortikultura-indonesia/"
+    },
+    {
+      "title": "Nurdin Halid: Dies Natalis Ke-65 Jadi Momentum UNM Perkuat Inovasi dan Dampak bagi Negeri - abatanews.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 02:41:44 GMT",
+      "link": "https://abatanews.com/nurdin-halid-dies-natalis-ke-65-jadi-momentum-unm-perkuat-inovasi-dan-dampak-bagi-negeri/"
+    },
+    {
+      "title": "APPBI Pasang Target Transaksi ISF 2026 Tembus Rp38 Triliun - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 02:18:59 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/07/31/appbi-pasang-target-transaksi-isf-2026-tembus-rp38-triliun-101700476"
+    },
     {
       "title": "APPBI Perpanjang Indonesia Shopping Festival 2026 - Tempo.co",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 02:00:32 GMT",
       "link": "https://bisnis.tempo.co/read/2116244/appbi-perpanjang-indonesia-shopping-festival-2026?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Danantara masuk KSSK, INDEF beberkan 3 potensi bahaya bagi sistem keuangan nasional - Elshinta",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 01:30:01 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/danantara-masuk-kssk-indef-beberkan-3-potensi-bahaya-bagi-sistem-keuangan-nasional-172101"
-    },
-    {
-      "title": "Bos BP BUMN Akui Keuangan Adhi Karya Minus, Banyak Proyek Mangkrak-Nggak Laku - detikcom",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 00:30:47 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8597786/bos-bp-bumn-akui-keuangan-adhi-karya-minus-banyak-proyek-mangkrak-nggak-laku"
-    },
-    {
-      "title": "Kemendag Janji Stok MinyaKita Aman Meski Ada Penurunan DMO Sawit - JPNN.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "link": "https://www.jpnn.com/news/kemendag-janji-stok-minyakita-aman-meski-ada-penurunan-dmo-sawit"
-    },
-    {
-      "title": "Mendag siap fasilitasi rencana investasi hortikultura dari China - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 23:56:57 GMT",
-      "link": "https://www.antaranews.com/berita/5673663/mendag-siap-fasilitasi-rencana-investasi-hortikultura-dari-china"
-    },
-    {
-      "title": "Koperasi Merah Putih di Jabar Terkendala Lahan, Dekopinwil Usulkan Konsep Gedung Vertikal - Pikiran Rakyat Koran",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 23:09:23 GMT",
-      "link": "https://koran.pikiran-rakyat.com/ekonomi/pr-30310365432/koperasi-merah-putih-di-jabar-terkendala-lahan-dekopinwil-usulkan-konsep-gedung-vertikal"
-    },
-    {
-      "title": "Merah Putih Bond dan Modal Pembangunan - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 21:28:44 GMT",
-      "link": "https://insight.kontan.co.id/news/merah-putih-bond-dan-modal-pembangunan"
-    },
-    {
-      "title": "Kemendag Wajibkan Depot Air Isi Ulang Patuhi Ketentuan Perdagangan dan Higiene Sanitasi - SinPo.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 19:30:24 GMT",
-      "link": "https://sinpo.id/detail/125372/kemendag-wajibkan-depot-air-isi-ulang-patuhi-ketentuan-perdagangan-dan-higiene-sanitasi"
-    },
-    {
-      "title": "MotoGP Mandalika Target Perputaran Rp5 Triliun — Uji Efek Danantara & Tekanan Fiskal - feedberry.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 18:16:44 GMT",
-      "link": "https://feedberry.com/artikel/motogp-mandalika-target-perputaran-rp5-triliun-uji-efek-danantara-tekanan-fiskal"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 17:41:54 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260731/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 17:41:29 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260731/Mjc0NDQ0"
-    },
-    {
-      "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 16:58:00 GMT",
-      "link": "https://www.viva.co.id/amp/berita/nasional/1917704-anggota-dpr-minta-kemenkes-cermati-aturan-kemasan-rokok-polos-agar-selaras-dengan-regulasi"
-    },
-    {
-      "title": "Anggota DPR Minta Kemenkes Cermati Aturan Kemasan Rokok Polos agar Selaras dengan Regulasi - VIVA.co.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 30 Jul 2026 16:58:00 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1917704-anggota-dpr-minta-kemenkes-cermati-aturan-kemasan-rokok-polos-agar-selaras-dengan-regulasi"
-    },
-    {
-      "title": "Menkop Apresiasi Festival Bunga dan Buah Kabupaten Karo, Tegaskan Koperasi Jadi Wadah Potensi Ekonomi Daerah - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 16:05:55 GMT",
-      "link": "https://indoposco.id/2026/07/30/menkop-apresiasi-festival-bunga-dan-buah-kabupaten-karo-tegaskan-koperasi-jadi-wadah-potensi-ekonomi-daerah/"
-    },
-    {
-      "title": "Indonesia Shopping Festival 2026 Resmi Digelar, Diskon hingga 80 Persen dan Hadiah Mobil Listrik Menanti - Ipol.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 30 Jul 2026 16:01:12 GMT",
-      "link": "https://ipol.id/2026/07/indonesia-shopping-festival-2026-resmi-digelar-diskon-hingga-80-persen-dan-hadiah-mobil-listrik-menanti/"
     }
   ]
 }
