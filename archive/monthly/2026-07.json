@@ -1,11 +1,11 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T14:14:19.003424",
+  "generated_at": "2026-07-31T16:43:17.153573",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 40,
+    "Gerindra": 13,
+    "PDI-P": 39,
     "Golkar": 10,
-    "NasDem": 3,
+    "NasDem": 2,
     "PKB": 15,
     "PKS": 4,
     "PAN": 6,
@@ -16,7 +16,7 @@
     "PDI-P": 100,
     "Golkar": 78,
     "NasDem": 46,
-    "PKB": 51,
+    "PKB": 50,
     "PKS": 54,
     "PAN": 19,
     "Demokrat": 32
@@ -38,7 +38,7 @@
     "danantara": 39,
     "koperasi": 74,
     "perdagangan": 11,
-    "investasi": 39,
+    "investasi": 40,
     "impor": 7,
     "ekspor": 13,
     "ipo": 4,
@@ -78,7 +78,7 @@
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 18,
-    "Nasim Khan": 15,
+    "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 13,
@@ -94,12 +94,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 47,
+    "Perdagangan": 45,
     "Hukum/Audit": 35,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Tetapkan Harga Referensi dan HPE Emas Turun 0,7% pada Periode I Agustus 2026 - industri.kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 16:17:03 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-harga-referensi-dan-hpe-emas-turun-07-pada-periode-i-agustus-2026"
+    },
+    {
+      "title": "Mendag Busan Bersama Delegasi Bisnis Tiongkok Bahas Investasi Hortikultura - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 15:40:00 GMT",
+      "link": "https://olenka.id/mendag-busan-bersama-delegasi-bisnis-tiongkok-bahas-investasi-hortikultura"
+    },
+    {
+      "title": "Anggota DPR Soroti Pilot Didakwa Selundupkan Buronan: Dia Asli Sunda, Bukan WNA - kumparan.com - Kumparan.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "link": "https://kumparan.com/kumparannews/anggota-dpr-soroti-pilot-didakwa-selundupkan-buronan-dia-asli-sunda-bukan-wna-27tcKReyhiB"
+    },
     {
       "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
       "entity": "Kementerian Perdagangan",
@@ -183,27 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 10:37:23 GMT",
       "link": "https://sumut.antaranews.com/berita/667325/merga-ginting-jadi-kehormatan-tak-terlupakan-bagi-menteri-koperasi-ferry-juliantono"
-    },
-    {
-      "title": "IFG Gandeng Kementerian Hukum Perkuat Tata Kelola Konsolidasi BUMN Asuransi - republika.co.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 09:51:37 GMT",
-      "link": "https://esgnow.republika.co.id/berita/tj19u3416/ifg-gandeng-kementerian-hukum-perkuat-tata-kelola-konsolidasi-bumn-asuransi"
-    },
-    {
-      "title": "Momen Prabowo Tiba-tiba Hentikan Pidato, Minta Maaf karena Lupa Sebut Menteri Koperasi - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 09:50:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/07/31/16501371/momen-prabowo-tiba-tiba-hentikan-pidato-minta-maaf-karena-lupa-sebut-menteri"
-    },
-    {
-      "title": "Pemerintah Ajak Masyarakat Rayakan HUT ke-81 RI di Monas, Ada Pesta Rakyat, Doorprize hingga Drone Show - tangselpos.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 09:37:30 GMT",
-      "link": "https://tangselpos.id/detail/52376/pemerintah-ajak-masyarakat-rayakan-hut-ke-81-ri-di-monas-ada-pesta-rakyat-doorprize-hingga-drone-show"
     }
   ]
 }
