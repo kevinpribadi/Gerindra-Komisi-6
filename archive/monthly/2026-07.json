@@ -1,25 +1,25 @@
 {
   "period": "2026-07",
-  "generated_at": "2026-07-31T06:10:53.432926",
+  "generated_at": "2026-07-31T09:41:56.664281",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 38,
+    "Gerindra": 16,
+    "PDI-P": 40,
     "Golkar": 10,
     "NasDem": 4,
-    "PKB": 12,
+    "PKB": 15,
     "PKS": 4,
     "PAN": 6,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 100,
-    "Golkar": 79,
+    "Golkar": 78,
     "NasDem": 46,
-    "PKB": 49,
+    "PKB": 51,
     "PKS": 54,
-    "PAN": 18,
-    "Demokrat": 31
+    "PAN": 19,
+    "Demokrat": 32
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
+    "bumn": 61,
     "danantara": 37,
-    "bumn": 60,
-    "koperasi": 76,
+    "koperasi": 75,
     "perdagangan": 11,
+    "ekspor": 12,
     "investasi": 36,
-    "ekspor": 10,
     "ipo": 4,
-    "impor": 7,
     "umkm": 15,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
+    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -54,19 +54,19 @@
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 18,
     "Mulyadi": 13,
-    "Adisatrya Suryo Sulisto": 19,
+    "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 5,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
-    "Doni Akbar": 6,
+    "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 10,
@@ -76,10 +76,10 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 10,
-    "Anggia Erma Rini": 10,
+    "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 18,
     "Nasim Khan": 15,
-    "Ida Fauziyah": 2,
+    "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 13,
     "Rizal Bawazier": 20,
@@ -87,8 +87,8 @@
     "Ismail": 20,
     "Eko Patrio": 7,
     "Nasril Bahar": 1,
-    "Iskandar": 10,
-    "Sartono": 7,
+    "Iskandar": 11,
+    "Sartono": 8,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
@@ -96,10 +96,87 @@
     "Kinerja BUMN": 18,
     "Perdagangan": 45,
     "Hukum/Audit": 33,
-    "Koperasi/UMKM": 85,
-    "Konflik Publik": 7
+    "Koperasi/UMKM": 84,
+    "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Target Indonesia Bebas Sampah di Akhir 2027, Sartono Sebut Kolaborasi Lintas Sektor Jadi Kunci Sukses - TEROPONGSENAYAN.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 08:56:59 GMT",
+      "link": "https://www.teropongsenayan.com/138133-target-indonesia-bebas-sampah-di-akhir-2027-sartono-sebut-kolaborasi-lintas-sektor-jadi-kunci-sukses"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Putusan MK Momentum Benahi Tata Kelola... - Langit7.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 08:31:00 GMT",
+      "link": "https://langit7.id/read/60630/1/rieke-diah-pitaloka-putusan-mk-momentum-benahi-tata-kelola-gizi-nasional-1785485226"
+    },
+    {
+      "title": "Putusan MK soal MBG Bukan Penolakan, Tapi Koreksi Tata Kelola Pendanaan - inilah.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 08:16:00 GMT",
+      "link": "https://www.inilah.com/putusan-mk-soal-mbg-bukan-penolakan-tapi-koreksi-tata-kelola-pendanaan"
+    },
+    {
+      "title": "IFG dan Kementerian Hukum Perkuat Tata Kelola BUMN Asuransi - MetroTVNews.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 07:30:22 GMT",
+      "link": "https://www.metrotvnews.com/read/NrWC8nQz-ifg-dan-kementerian-hukum-perkuat-tata-kelola-bumn-asuransi"
+    },
+    {
+      "title": "Akselerasi Pertumbuhan Ekonomi Jelang Kemerdekaan, Kemendag Dukung Gelaran ISF 2026 - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 07:24:00 GMT",
+      "link": "https://www.topbusiness.id/133328/akselerasi-pertumbuhan-ekonomi-jelang-kemerdekaan-kemendag-dukung-gelaran-isf-2026.html"
+    },
+    {
+      "title": "DPR dukung PT PAL kolaborasi konsolidasi BUMN galangan kapal - ANTARA News Bangka Belitung",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 07:07:27 GMT",
+      "link": "https://babel.antaranews.com/berita/574777/dpr-dukung-pt-pal-kolaborasi-konsolidasi-bumn-galangan-kapal"
+    },
+    {
+      "title": "Anggota Komisi VI Ida Fauziyah: Jakarta Tak Lagi Kekurangan Jalan Tapi Krisis SDM - Radarbangsa.com",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 07:01:00 GMT",
+      "link": "https://www.radarbangsa.com/news/61812/anggota-komisi-vi-ida-fauziyah-jakarta-tak-lagi-kekurangan-jalan-tapi-krisis-sdm"
+    },
+    {
+      "title": "Legislator PDIP Dorong Pemutakhiran Data Penerima Bansos - kedaipena.com",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 06:49:12 GMT",
+      "link": "https://www.kedaipena.com/legislator-pdip-dorong-pemutakhiran-data-penerima-bansos/"
+    },
+    {
+      "title": "Pascaputusan MK soal MBG, Rieke Diah Pitaloka Desak Pemerintah Reformasi Tata Kelola Gizi Nasional - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 06:34:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/pascaputusan-mk-soal-mbg-rieke-diah-pitaloka-desak-pemerintah-reformasi-tata-kelola-gizi-nasional-b2pXiZbgP7"
+    },
+    {
+      "title": "Realisasi DMO Minyakita Turun, Kemendag: Penurunan Sejalan dengan Melambatnya Ekspor CPO - sawitsetara.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 06:29:06 GMT",
+      "link": "https://www.sawitsetara.co/artikel/Berita/realisasi-dmo-minyakita-turun-kemendag-penurunan-sejalan-dengan-melambatnya-ekspor-cpo"
+    },
+    {
+      "title": "DPR RI Fasilitasi Penyelesaian Konflik Industrial SGN, SPBUN Dorong HAP Gula Naik Rp 15.500 - KlikJatim",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 06:16:00 GMT",
+      "link": "https://klikjatim.com/news-48652-dpr-ri-fasilitasi-penyelesaian-konflik-industrial-sgn-spbun-dorong-hap-gula-naik-rp-15500"
+    },
     {
       "title": "KPPU Dalami Disparitas Harga dan Gangguan Pasokan di Sumatera Utara - detikFinance",
       "entity": "KPPU",
@@ -127,83 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 04:20:00 GMT",
       "link": "https://www.bloombergtechnoz.com/detail-news/116804/realisasi-dmo-minyakita-merosot-kemendag-lempar-alasan"
-    },
-    {
-      "title": "Negara tak boleh biarkan kekerasan jadi budaya - ANTARA News Makassar",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 04:06:45 GMT",
-      "link": "https://makassar.antaranews.com/berita/635224/negara-tak-boleh-biarkan-kekerasan-jadi-budaya"
-    },
-    {
-      "title": "Andre Rosiade Kawal Rp1,2 Triliun Anggaran Prasarana Strategis Sumbar, Sekolah Rakyat hingga Stadion Agus Salim mulai Dibangun - posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 03:57:05 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-kawal-rp12-triliun-anggaran-prasarana-strategis-sumbar-sekolah-rakyat-hingga-stadion-agus-salim-mulai-dibangun-427763/"
-    },
-    {
-      "title": "Rieke Pitaloka: Putusan MK Momentum Reformasi Tata Kelola Program Gizi Nasional - InvestorTrust",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 03:54:00 GMT",
-      "link": "https://investortrust.id/national/111300/rieke-pitaloka-putusan-mk-momentum-reformasi-tata-kelola-program-gizi-nasional"
-    },
-    {
-      "title": "Danantara Buka Kondisi BUMN Properti yang Sedang Tertekan - Harian Jogja",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 03:27:47 GMT",
-      "link": "https://ekbis.harianjogja.com/r-1265531/danantara-buka-kondisi-bumn-properti-yang-sedang-tertekan"
-    },
-    {
-      "title": "Target 150 Koperasi Desa Merah Putih di Kabupaten Serang Rampung Agustus 2026, Operasional Masih Tunggu Aturan Pusat - Ekbisbanten",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 03:05:00 GMT",
-      "link": "https://ekbisbanten.com/berita/target-150-koperasi-desa-merah-putih-di-kabupaten-serang-rampung-agustus-2026-operasional-masih-tunggu-aturan-pusat/"
-    },
-    {
-      "title": "Puspoll Indonesia: Pelibatan Danantara di KSSK Perlu Dimaknai sebagai Penguatan Koordinasi, Bukan Perubahan Struktur Hukum - Siaran Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 03:04:00 GMT",
-      "link": "https://www.siaranindonesia.com/baca/20260731/puspoll-indonesia-pelibatan-danantara-di-kssk-perlu-dimaknai-sebagai-penguatan-koordinasi-bukan-perubahan-struktur-hukum.html"
-    },
-    {
-      "title": "Danantara Soroti BUMN Properti, Banyak Proyek Mangkrak dan Tak Laku Terjual - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 02:59:00 GMT",
-      "link": "https://wartaekonomi.co.id/amp/read625850/danantara-soroti-bumn-properti-banyak-proyek-mangkrak-dan-tak-laku-terjual"
-    },
-    {
-      "title": "Mendag Budi Santoso Sambut Investasi Jiangsu, Dorong Ekspor Hortikultura Indonesia - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 02:53:38 GMT",
-      "link": "https://suarapemerintah.id/2026/07/mendag-budi-santoso-sambut-investasi-jiangsu-dorong-ekspor-hortikultura-indonesia/"
-    },
-    {
-      "title": "Nurdin Halid: Dies Natalis Ke-65 Jadi Momentum UNM Perkuat Inovasi dan Dampak bagi Negeri - abatanews.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 02:41:44 GMT",
-      "link": "https://abatanews.com/nurdin-halid-dies-natalis-ke-65-jadi-momentum-unm-perkuat-inovasi-dan-dampak-bagi-negeri/"
-    },
-    {
-      "title": "APPBI Pasang Target Transaksi ISF 2026 Tembus Rp38 Triliun - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 02:18:59 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/07/31/appbi-pasang-target-transaksi-isf-2026-tembus-rp38-triliun-101700476"
-    },
-    {
-      "title": "APPBI Perpanjang Indonesia Shopping Festival 2026 - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 02:00:32 GMT",
-      "link": "https://bisnis.tempo.co/read/2116244/appbi-perpanjang-indonesia-shopping-festival-2026?utm_source=Digital%20Marketing&utm_medium=Babe"
     }
   ]
 }
