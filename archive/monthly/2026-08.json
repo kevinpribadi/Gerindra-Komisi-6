@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T14:58:14.849355",
+  "generated_at": "2026-08-01T16:04:30.323344",
   "party_counts_7d": {
-    "Gerindra": 10,
-    "PDI-P": 37,
+    "Gerindra": 9,
+    "PDI-P": 38,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
@@ -12,7 +12,7 @@
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 67,
+    "Gerindra": 66,
     "PDI-P": 100,
     "Golkar": 77,
     "NasDem": 45,
@@ -52,7 +52,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 17,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
@@ -95,10 +95,17 @@
     "Kinerja BUMN": 17,
     "Perdagangan": 47,
     "Hukum/Audit": 43,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Darmadi Durianto: Tantangan Terbesar Kopdes Merah Putih Kepercayaan Publik Terhadap Keberlanjutannya - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 01 Aug 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tantangan-terbesar-kopdes-merah-putih-kepercayaan-publik-terhadap-keberlanjutannya-b2pXiZbgPL"
+    },
     {
       "title": "Kemenkop Tantang TEP 2026 Dorong Koperasi di Kawasan Transmigrasi Naik Kelas Jadi Penggerak Ekonomi Daerah - reaksi media",
       "entity": "Kementerian Koperasi",
@@ -196,13 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 08:28:00 GMT",
       "link": "https://prokabar.com/lomba-pidato-harkopnas-ke-79-jadi-ruang-lahirkan-gagasan-memajukan-koperasi/"
-    },
-    {
-      "title": "Bangun Sistem Peringatan Dini Krisis Ekonomi Jadi Alasan Danantara Ikut Nimbrung di KSSK - SINDOnews Ekbis",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 08:25:08 GMT",
-      "link": "https://ekbis.sindonews.com/read/1734555/33/bangun-sistem-peringatan-dini-krisis-ekonomi-jadi-alasan-danantara-ikut-nimbrung-di-kssk-1785571731"
     }
   ]
 }
