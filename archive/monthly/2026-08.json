@@ -1,0 +1,209 @@
+{
+  "period": "2026-08",
+  "generated_at": "2026-07-31T23:59:49.958175",
+  "party_counts_7d": {
+    "Gerindra": 13,
+    "PDI-P": 37,
+    "Golkar": 10,
+    "NasDem": 2,
+    "PKB": 15,
+    "PKS": 4,
+    "PAN": 7,
+    "Demokrat": 10
+  },
+  "party_counts_30d": {
+    "Gerindra": 70,
+    "PDI-P": 100,
+    "Golkar": 78,
+    "NasDem": 46,
+    "PKB": 49,
+    "PKS": 54,
+    "PAN": 20,
+    "Demokrat": 32
+  },
+  "agency_counts_30d": {
+    "Kementerian BUMN": 20,
+    "Kementerian Perdagangan": 20,
+    "Kementerian Koperasi": 20,
+    "Danantara": 20,
+    "BPKN": 20,
+    "KPPU": 20,
+    "BP Batam": 20,
+    "BPK Sabang": 20,
+    "Dekopin": 20,
+    "Badan Pengaturan BUMN": 20
+  },
+  "topic_counts_30d": {
+    "bumn": 59,
+    "danantara": 39,
+    "koperasi": 73,
+    "perdagangan": 12,
+    "impor": 8,
+    "investasi": 39,
+    "ekspor": 13,
+    "umkm": 13,
+    "merger-akuisisi": 4,
+    "kartel-monopoli": 5,
+    "ipo": 3,
+    "dividen": 2
+  },
+  "member_counts_30d": {
+    "Andre Rosiade": 20,
+    "Khilmi": 3,
+    "Muhammad Husein Fadlulloh": 9,
+    "Mulan Jameela": 7,
+    "Kawendra Lukistian": 18,
+    "Mulyadi": 13,
+    "Adisatrya Suryo Sulisto": 18,
+    "Mufti Anam": 15,
+    "Darmadi Durianto": 20,
+    "Rieke Diah Pitaloka": 20,
+    "Sadarestuwati": 5,
+    "Ida Nurlaela": 19,
+    "Budi Sulistyono": 2,
+    "Totok Hedi Santosa": 1,
+    "Nurdin Halid": 14,
+    "Gde Sumarjaya Linggih": 20,
+    "Ahmad Labib": 1,
+    "Sarifah Suraidah": 5,
+    "Doni Akbar": 5,
+    "Firnando Hadityo Ganinduto": 6,
+    "Rizki Faisal": 17,
+    "Muhammad Sarmuji": 10,
+    "Rachmat Gobel": 20,
+    "Asep Wahyuwijaya": 5,
+    "I Nengah Senantara": 6,
+    "Randi Zulmariadi": 1,
+    "Rudi Hartono Bangun": 3,
+    "Subardi": 11,
+    "Anggia Erma Rini": 11,
+    "Rivqy Abdul Halim": 18,
+    "Nasim Khan": 13,
+    "Ida Fauziyah": 3,
+    "Imas Aan Ubudiah": 4,
+    "Amin Ak.": 13,
+    "Rizal Bawazier": 20,
+    "Ghufran": 1,
+    "Ismail": 20,
+    "Eko Patrio": 7,
+    "Nasril Bahar": 1,
+    "Iskandar": 12,
+    "Sartono": 8,
+    "Herman Khaeron": 20,
+    "Faujia Helga": 4
+  },
+  "early_warning_counts": {
+    "Kinerja BUMN": 17,
+    "Perdagangan": 45,
+    "Hukum/Audit": 38,
+    "Koperasi/UMKM": 82,
+    "Konflik Publik": 8
+  },
+  "top_headlines": [
+    {
+      "title": "35 Ribu Koperasi Merah Putih Siap Beroperasi, Menkop Ferry Pasang \"Benteng\" Antikorupsi - Bedanews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 23:50:37 GMT",
+      "link": "https://bedanews.com/35-ribu-koperasi-merah-putih-siap-beroperasi-menkop-ferry-pasang-benteng-antikorupsi/"
+    },
+    {
+      "title": "Tak Hanya Kasus LRT City, Bos BP BUMN Bongkar Bobroknya Keuangan BUMN Properti - Inilah.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 21:09:00 GMT",
+      "link": "https://www.inilah.com/tak-hanya-kasus-lrt-city-bos-bp-bumn-bongkar-bobroknya-keuangan-bumn-properti"
+    },
+    {
+      "title": "Tindak Lanjut Putusan MK soal MBG, DPR Minta Pemerintah Terbitkan Perpres Gizi - Inilah.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 19:34:00 GMT",
+      "link": "https://www.inilah.com/tindak-lanjut-putusan-mk-soal-mbg-dpr-minta-pemerintah-terbitkan-perpres-gizi"
+    },
+    {
+      "title": "Mutu Perikanan Terjamin, Proses Ekspor Via Pelabuhan Batam Kian Efisien - AFU.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 19:17:00 GMT",
+      "link": "https://afu.id/ekonomi/mutu-perikanan-terjamin-proses-ekspor-via-pelabuhan-batam-kian-efisien"
+    },
+    {
+      "title": "Resmi, Kemendag Tetapkan ATQ Jadi Surveyor Verifikasi Impor - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 18:17:32 GMT",
+      "link": "https://www.metrotvnews.com/read/NG9CzP50-resmi-kemendag-tetapkan-atq-jadi-surveyor-verifikasi-impor"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 17:23:59 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260801/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 17:21:24 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260801/Mjc0NDQ0"
+    },
+    {
+      "title": "Kemendag Tetapkan Harga Referensi dan HPE Emas Turun 0,7% pada Periode I Agustus 2026 - industri.kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 16:17:03 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-harga-referensi-dan-hpe-emas-turun-07-pada-periode-i-agustus-2026"
+    },
+    {
+      "title": "Menkop: Integritas dan kepercayaan publik modal utama KDKMP - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 15:56:52 GMT",
+      "link": "https://www.antaranews.com/berita/5675193/menkop-integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
+    },
+    {
+      "title": "Mendag Busan Bersama Delegasi Bisnis Tiongkok Bahas Investasi Hortikultura - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 15:40:00 GMT",
+      "link": "https://olenka.id/mendag-busan-bersama-delegasi-bisnis-tiongkok-bahas-investasi-hortikultura"
+    },
+    {
+      "title": "Anggota DPR Soroti Pilot Didakwa Selundupkan Buronan: Dia Asli Sunda, Bukan WNA - kumparan.com - Kumparan.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "link": "https://kumparan.com/kumparannews/anggota-dpr-soroti-pilot-didakwa-selundupkan-buronan-dia-asli-sunda-bukan-wna-27tcKReyhiB"
+    },
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal"
+    },
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://www.tempo.co/politik/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal-2279524"
+    },
+    {
+      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
+      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal?utm_source=Digital%20Marketing&utm_medium=Babe"
+    },
+    {
+      "title": "Kader Muda Gerindra Sebut Ketua DPW Nasdem Iskandar ST Ngawur dan Tendensius - Sentralberita",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Fri, 31 Jul 2026 13:59:44 GMT",
+      "link": "https://sentralberita.com/kader-muda-gerindra-sebut-ketua-dpw-nasdem-iskandar-st-ngawur-dan-tendensius/"
+    }
+  ]
+}
