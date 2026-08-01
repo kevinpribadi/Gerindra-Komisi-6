@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T03:41:25.115474",
+  "generated_at": "2026-08-01T06:26:37.551981",
   "party_counts_7d": {
-    "Gerindra": 13,
+    "Gerindra": 11,
     "PDI-P": 37,
     "Golkar": 10,
-    "NasDem": 2,
+    "NasDem": 1,
     "PKB": 16,
     "PKS": 4,
-    "PAN": 6,
+    "PAN": 7,
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 69,
+    "Gerindra": 70,
     "PDI-P": 100,
     "Golkar": 77,
-    "NasDem": 46,
+    "NasDem": 45,
     "PKB": 50,
     "PKS": 54,
-    "PAN": 20,
-    "Demokrat": 31
+    "PAN": 21,
+    "Demokrat": 30
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
+    "bumn": 58,
     "danantara": 39,
-    "koperasi": 73,
+    "koperasi": 72,
     "perdagangan": 11,
     "ekspor": 14,
     "impor": 8,
-    "investasi": 38,
+    "investasi": 37,
     "umkm": 12,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 8,
+    "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 18,
     "Mulyadi": 13,
@@ -73,7 +73,6 @@
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 6,
-    "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
@@ -87,19 +86,61 @@
     "Ismail": 20,
     "Eko Patrio": 7,
     "Nasril Bahar": 1,
-    "Iskandar": 12,
-    "Sartono": 7,
+    "Iskandar": 13,
+    "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 47,
-    "Hukum/Audit": 38,
-    "Koperasi/UMKM": 82,
+    "Perdagangan": 49,
+    "Hukum/Audit": 37,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kemendag: Harga Referensi Biji Kakao Naik Dipicu Gangguan Pasokan - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 05:34:05 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-harga-referensi-biji-kakao-naik-dipicu-gangguan-pasokan/"
+    },
+    {
+      "title": "Kemendag Sebut El Nino dan Cuaca Buruk Picu Lonjakan Harga Ekspor Kakao - Kosadata",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 05:30:00 GMT",
+      "link": "https://kosadata.com/kemendag-sebut-el-nino-dan-cuaca-buruk-picu-lonjakan-harga-ekspor-kakao"
+    },
+    {
+      "title": "Wako Solok Buka Lomba Cerdas Cermat Koperasi - Posmetropadang.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 05:22:53 GMT",
+      "link": "https://posmetropadang.co.id/wako-solok-buka-lomba-cerdas-cermat-koperasi-428038/"
+    },
+    {
+      "title": "Integritas dan kepercayaan publik modal utama KDKMP - jogja.antaranews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 05:10:00 GMT",
+      "link": "https://jogja.antaranews.com/berita/845572/integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
+    },
+    {
+      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo Kucurkan Rp1,2 Triliun Bangun Permukiman dan Air Bersih di Sumbar - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 01 Aug 2026 04:55:00 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-kucurkan-rp12-triliun-bangun-permukiman-dan-air-bersih-di-sumbar-427946/"
+    },
+    {
+      "title": "Kemendag: Permintaan turun sebabkan harga emas kembali melemah - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 04:22:22 GMT",
+      "link": "https://kalbar.antaranews.com/berita/708033/kemendag-permintaan-turun-sebabkan-harga-emas-kembali-melemah"
+    },
     {
       "title": "Keterlibatan Danantara di KSSK Perkuat Sinkronisasi Kebijakan Ekonomi Nasional - Siaran Indonesia",
       "entity": "Danantara",
@@ -150,60 +191,18 @@
       "link": "https://www.jpnn.com/foto/ekonomi/31535/fokus-transformasi-bki-memperkuat-daya-saing-dan-ekspansi-global-bersama-idsurvey-di-era-danantara"
     },
     {
+      "title": "Kader Muda Gerindra: Ketua DPW Nasdem Iskandar ST, Ngawur dan Tendensius - Bedanews",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Sat, 01 Aug 2026 01:10:39 GMT",
+      "link": "https://bedanews.com/kader-muda-gerindra-ketua-dpw-nasdem-iskandar-st-ngawur-dan-tendensius/"
+    },
+    {
       "title": "35 Ribu Koperasi Merah Putih Siap Beroperasi, Menkop Ferry Pasang \"Benteng\" Antikorupsi - Bedanews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 23:50:37 GMT",
       "link": "https://bedanews.com/35-ribu-koperasi-merah-putih-siap-beroperasi-menkop-ferry-pasang-benteng-antikorupsi/"
-    },
-    {
-      "title": "Tak Hanya Kasus LRT City, Bos BP BUMN Bongkar Bobroknya Keuangan BUMN Properti - Inilah.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 21:09:00 GMT",
-      "link": "https://www.inilah.com/tak-hanya-kasus-lrt-city-bos-bp-bumn-bongkar-bobroknya-keuangan-bumn-properti"
-    },
-    {
-      "title": "Tindak Lanjut Putusan MK soal MBG, DPR Minta Pemerintah Terbitkan Perpres Gizi - Inilah.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 19:34:00 GMT",
-      "link": "https://www.inilah.com/tindak-lanjut-putusan-mk-soal-mbg-dpr-minta-pemerintah-terbitkan-perpres-gizi"
-    },
-    {
-      "title": "Mutu Perikanan Terjamin, Proses Ekspor Via Pelabuhan Batam Kian Efisien - AFU.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 19:17:00 GMT",
-      "link": "https://afu.id/ekonomi/mutu-perikanan-terjamin-proses-ekspor-via-pelabuhan-batam-kian-efisien"
-    },
-    {
-      "title": "Resmi, Kemendag Tetapkan ATQ Jadi Surveyor Verifikasi Impor - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 18:17:32 GMT",
-      "link": "https://www.metrotvnews.com/read/NG9CzP50-resmi-kemendag-tetapkan-atq-jadi-surveyor-verifikasi-impor"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 17:23:59 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260801/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 17:21:24 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260801/Mjc0NDQ0"
-    },
-    {
-      "title": "Kemendag Tetapkan Harga Referensi dan HPE Emas Turun 0,7% pada Periode I Agustus 2026 - industri.kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 16:17:03 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-harga-referensi-dan-hpe-emas-turun-07-pada-periode-i-agustus-2026"
     }
   ]
 }
