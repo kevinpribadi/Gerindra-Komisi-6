@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-07-31T23:59:49.958175",
+  "generated_at": "2026-08-01T03:41:25.115474",
   "party_counts_7d": {
     "Gerindra": 13,
     "PDI-P": 37,
     "Golkar": 10,
     "NasDem": 2,
-    "PKB": 15,
+    "PKB": 16,
     "PKS": 4,
-    "PAN": 7,
+    "PAN": 6,
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 70,
+    "Gerindra": 69,
     "PDI-P": 100,
-    "Golkar": 78,
+    "Golkar": 77,
     "NasDem": 46,
-    "PKB": 49,
+    "PKB": 50,
     "PKS": 54,
     "PAN": 20,
-    "Demokrat": 32
+    "Demokrat": 31
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,11 +37,11 @@
     "bumn": 59,
     "danantara": 39,
     "koperasi": 73,
-    "perdagangan": 12,
+    "perdagangan": 11,
+    "ekspor": 14,
     "impor": 8,
-    "investasi": 39,
-    "ekspor": 13,
-    "umkm": 13,
+    "investasi": 38,
+    "umkm": 12,
     "merger-akuisisi": 4,
     "kartel-monopoli": 5,
     "ipo": 3,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 9,
+    "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 18,
     "Mulyadi": 13,
@@ -66,7 +66,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
-    "Doni Akbar": 5,
+    "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 10,
@@ -78,7 +78,7 @@
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 18,
-    "Nasim Khan": 13,
+    "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 13,
@@ -88,18 +88,67 @@
     "Eko Patrio": 7,
     "Nasril Bahar": 1,
     "Iskandar": 12,
-    "Sartono": 8,
+    "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 45,
+    "Perdagangan": 47,
     "Hukum/Audit": 38,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Keterlibatan Danantara di KSSK Perkuat Sinkronisasi Kebijakan Ekonomi Nasional - Siaran Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 03:33:00 GMT",
+      "link": "https://www.siaranindonesia.com/baca/20260801/keterlibatan-danantara-di-kssk-perkuat-sinkronisasi-kebijakan-ekonomi-nasional.html"
+    },
+    {
+      "title": "Kemendag Sebut Harga Referensi CPO Agustus Turun Dipicu Lesunya Permintaan - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 03:30:34 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-sebut-harga-referensi-cpo-agustus-turun-dipicu-lesunya-permintaan/"
+    },
+    {
+      "title": "Harga Kakao Dunia Melonjak Akibat El Nino, Kemendag Naikkan Harga Referensi Ekspor hingga 36,66% - Suara.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 02:59:53 GMT",
+      "link": "https://www.suara.com/bisnis/2026/08/01/095953/harga-kakao-dunia-melonjak-akibat-el-nino-kemendag-naikkan-harga-referensi-ekspor-hingga-3666"
+    },
+    {
+      "title": "Kemendag: Permintaan turun sebabkan harga emas kembali melemah - Antara News jatim",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 02:15:57 GMT",
+      "link": "https://jatim.antaranews.com/berita/1086727/kemendag-permintaan-turun-sebabkan-harga-emas-kembali-melemah"
+    },
+    {
+      "title": "Koperasi RSUD Syamsudin Dinobatkan Berprestasi 2026 - Radar Sukabumi",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 02:00:43 GMT",
+      "link": "https://radarsukabumi.com/kota-sukabumi/koperasi-rsud-syamsudin-dinobatkan-berprestasi-2026/"
+    },
+    {
+      "title": "DPD ABI Malang Rintis Koperasi Bazara Bersama Dinas Koperasi - ahlulbaitindonesia.or.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 01:51:02 GMT",
+      "link": "https://ahlulbaitindonesia.or.id/kegiatan/daerah/dpd-abi-malang-rintis-koperasi-bazara-bersama-dinas-koperasi/"
+    },
+    {
+      "title": "Fokus Transformasi BKI Memperkuat Daya Saing dan Ekspansi Global Bersama IDSurvey di Era Danantara Foto - JPNN.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 01:26:00 GMT",
+      "link": "https://www.jpnn.com/foto/ekonomi/31535/fokus-transformasi-bki-memperkuat-daya-saing-dan-ekspansi-global-bersama-idsurvey-di-era-danantara"
+    },
     {
       "title": "35 Ribu Koperasi Merah Putih Siap Beroperasi, Menkop Ferry Pasang \"Benteng\" Antikorupsi - Bedanews",
       "entity": "Kementerian Koperasi",
@@ -155,55 +204,6 @@
       "kind": "lembaga",
       "published": "Fri, 31 Jul 2026 16:17:03 GMT",
       "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-harga-referensi-dan-hpe-emas-turun-07-pada-periode-i-agustus-2026"
-    },
-    {
-      "title": "Menkop: Integritas dan kepercayaan publik modal utama KDKMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 15:56:52 GMT",
-      "link": "https://www.antaranews.com/berita/5675193/menkop-integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
-    },
-    {
-      "title": "Mendag Busan Bersama Delegasi Bisnis Tiongkok Bahas Investasi Hortikultura - olenka.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 15:40:00 GMT",
-      "link": "https://olenka.id/mendag-busan-bersama-delegasi-bisnis-tiongkok-bahas-investasi-hortikultura"
-    },
-    {
-      "title": "Anggota DPR Soroti Pilot Didakwa Selundupkan Buronan: Dia Asli Sunda, Bukan WNA - kumparan.com - Kumparan.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "link": "https://kumparan.com/kumparannews/anggota-dpr-soroti-pilot-didakwa-selundupkan-buronan-dia-asli-sunda-bukan-wna-27tcKReyhiB"
-    },
-    {
-      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
-      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal"
-    },
-    {
-      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
-      "link": "https://www.tempo.co/politik/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal-2279524"
-    },
-    {
-      "title": "Kata Istana dan Menteri Perdagangan soal Pagar Tinggi di Mal - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 31 Jul 2026 14:08:10 GMT",
-      "link": "https://nasional.tempo.co/read/2116354/kata-istana-dan-menteri-perdagangan-soal-pagar-tinggi-di-mal?utm_source=Digital%20Marketing&utm_medium=Babe"
-    },
-    {
-      "title": "Kader Muda Gerindra Sebut Ketua DPW Nasdem Iskandar ST Ngawur dan Tendensius - Sentralberita",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Fri, 31 Jul 2026 13:59:44 GMT",
-      "link": "https://sentralberita.com/kader-muda-gerindra-sebut-ketua-dpw-nasdem-iskandar-st-ngawur-dan-tendensius/"
     }
   ]
 }
