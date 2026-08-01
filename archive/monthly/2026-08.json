@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T11:14:49.397095",
+  "generated_at": "2026-08-01T13:14:16.988976",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 37,
-    "Golkar": 9,
-    "NasDem": 1,
+    "Golkar": 6,
+    "NasDem": 2,
     "PKB": 16,
     "PKS": 4,
     "PAN": 7,
@@ -37,13 +37,13 @@
     "bumn": 58,
     "danantara": 39,
     "koperasi": 72,
-    "perdagangan": 11,
-    "investasi": 37,
+    "perdagangan": 10,
+    "investasi": 38,
     "ekspor": 13,
-    "impor": 8,
+    "impor": 7,
     "umkm": 12,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 5,
+    "kartel-monopoli": 4,
     "ipo": 3,
     "dividen": 2
   },
@@ -94,11 +94,32 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 47,
-    "Hukum/Audit": 42,
+    "Hukum/Audit": 43,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "KPPU Naikkan Dugaan Pelanggaran TikTok ke Tahap Penyidikan - AJNN.net",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 13:01:32 GMT",
+      "link": "https://www.ajnn.net/news/kppu-naikkan-dugaan-pelanggaran-tiktok-ke-tahap-penyidikan/index.html"
+    },
+    {
+      "title": "Batam Kembali Unjuk Daya Saing, Masuk Daftar Best Places to Invest - centralnews.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 12:22:13 GMT",
+      "link": "https://centralnews.id/batam-kembali-unjuk-daya-saing-masuk-daftar-best-places-to-invest/"
+    },
+    {
+      "title": "Kemendag: Permintaan turun sebabkan harga emas kembali melemah - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 11:23:38 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/416889/kemendag-permintaan-turun-sebabkan-harga-emas-kembali-melemah"
+    },
     {
       "title": "UIN RIL Perkuat Sinergi dengan Kemendag RI untuk Kewirausahaan, Penelitian, dan Magang Mahasiswa - Lampungpro",
       "entity": "Kementerian Perdagangan",
@@ -119,6 +140,13 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 09:38:46 GMT",
       "link": "https://serayunusantara.com/kpk-dorong-penguatan-integritas-di-kementerian-koperasi-untuk-cegah-korupsi/"
+    },
+    {
+      "title": "Rachmat Gobel Tingkatkan Kawasan Wisata Pentadio Resort. Kini Tampil Lebih Modern - gorontalokab.go.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Sat, 01 Aug 2026 09:27:11 GMT",
+      "link": "https://gorontalokab.go.id/berita_read.php?id=1240"
     },
     {
       "title": "Kemenkop Perkuat Budaya Integritas dan Antikorupsi untuk Mendukung Keberhasilan Program KDKMP - Berita Koperasi",
@@ -175,34 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 07:51:00 GMT",
       "link": "https://investortrust.id/business/111432/harga-patokan-ekspor-emas-periode-agustus-2026-turun-ini-alasannya"
-    },
-    {
-      "title": "Kemendag: Harga Referensi Biji Kakao Naik Dipicu Gangguan Pasokan - Suara Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 05:34:05 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemendag-harga-referensi-biji-kakao-naik-dipicu-gangguan-pasokan/"
-    },
-    {
-      "title": "Kemendag Sebut El Nino dan Cuaca Buruk Picu Lonjakan Harga Ekspor Kakao - Kosadata",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 05:30:00 GMT",
-      "link": "https://kosadata.com/kemendag-sebut-el-nino-dan-cuaca-buruk-picu-lonjakan-harga-ekspor-kakao"
-    },
-    {
-      "title": "Wako Solok Buka Lomba Cerdas Cermat Koperasi - Posmetropadang.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 05:22:53 GMT",
-      "link": "https://posmetropadang.co.id/wako-solok-buka-lomba-cerdas-cermat-koperasi-428038/"
-    },
-    {
-      "title": "Integritas dan kepercayaan publik modal utama KDKMP - jogja.antaranews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 05:10:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/845572/integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
     }
   ]
 }
