@@ -1,18 +1,18 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T13:14:16.988976",
+  "generated_at": "2026-08-01T14:58:14.849355",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 37,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
-    "PKS": 4,
+    "PKS": 3,
     "PAN": 7,
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 68,
+    "Gerindra": 67,
     "PDI-P": 100,
     "Golkar": 77,
     "NasDem": 45,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 7,
+    "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 18,
     "Mulyadi": 13,
@@ -99,6 +99,13 @@
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Tantang TEP 2026 Dorong Koperasi di Kawasan Transmigrasi Naik Kelas Jadi Penggerak Ekonomi Daerah - reaksi media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 14:56:03 GMT",
+      "link": "https://reaksimedia.com/kemenkop-tantang-tep-2026-dorong-koperasi-di-kawasan-transmigrasi-naik-kelas-jadi-penggerak-ekonomi-daerah/"
+    },
     {
       "title": "KPPU Naikkan Dugaan Pelanggaran TikTok ke Tahap Penyidikan - AJNN.net",
       "entity": "KPPU",
@@ -196,13 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 08:25:08 GMT",
       "link": "https://ekbis.sindonews.com/read/1734555/33/bangun-sistem-peringatan-dini-krisis-ekonomi-jadi-alasan-danantara-ikut-nimbrung-di-kssk-1785571731"
-    },
-    {
-      "title": "Harga Patokan Ekspor Emas Periode Agustus 2026 Turun, Ini Alasannya - InvestorTrust",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 07:51:00 GMT",
-      "link": "https://investortrust.id/business/111432/harga-patokan-ekspor-emas-periode-agustus-2026-turun-ini-alasannya"
     }
   ]
 }
