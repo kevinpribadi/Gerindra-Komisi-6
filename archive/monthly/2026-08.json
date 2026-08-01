@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T16:04:30.323344",
+  "generated_at": "2026-08-01T17:58:08.657696",
   "party_counts_7d": {
     "Gerindra": 9,
-    "PDI-P": 38,
+    "PDI-P": 39,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
     "PKS": 3,
-    "PAN": 7,
+    "PAN": 6,
     "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 100,
+    "PDI-P": 101,
     "Golkar": 77,
     "NasDem": 45,
-    "PKB": 50,
+    "PKB": 49,
     "PKS": 54,
     "PAN": 22,
     "Demokrat": 30
@@ -36,14 +36,14 @@
   "topic_counts_30d": {
     "bumn": 58,
     "danantara": 39,
-    "koperasi": 72,
+    "koperasi": 71,
     "perdagangan": 10,
     "investasi": 38,
     "ekspor": 13,
     "impor": 7,
+    "kartel-monopoli": 5,
     "umkm": 12,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 4,
     "ipo": 3,
     "dividen": 2
   },
@@ -58,7 +58,7 @@
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 5,
+    "Sadarestuwati": 6,
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
@@ -76,7 +76,7 @@
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 18,
+    "Rivqy Abdul Halim": 17,
     "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
@@ -94,11 +94,18 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Perdagangan": 47,
-    "Hukum/Audit": 43,
-    "Koperasi/UMKM": 81,
+    "Hukum/Audit": 44,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Harga Referensi Biji Kakao Agustus Melonjak 36,66%, HPE Tembus USD 5.064/MT - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 17:17:08 GMT",
+      "link": "https://www.agricom.id/news/5078/harga-referensi-biji-kakao-agustus-melonjak-36-66---hpe-tembus-usd-5-064-mt"
+    },
     {
       "title": "Darmadi Durianto: Tantangan Terbesar Kopdes Merah Putih Kepercayaan Publik Terhadap Keberlanjutannya - gesuri.id",
       "entity": "Darmadi Durianto",
@@ -149,6 +156,13 @@
       "link": "https://swa.co.id/read/475575/hpe-dan-hr-emas-kembali-turun-pada-periode-i-agustus-2026"
     },
     {
+      "title": "Rieke Diah Pitaloka Beri Pesan Perpisahan Usai Meninggalnya Pelukis Nasirun - Cumicumi",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 01 Aug 2026 10:13:59 GMT",
+      "link": "https://www.cumicumi.com/articles/politik/6a6dc54c769b5a390a0c9c5c/rieke-diah-pitaloka-beri-pesan-perpisahan-usai-meninggalnya-pelukis-nasirun"
+    },
+    {
       "title": "KPK Dorong Penguatan Integritas di Kementerian Koperasi untuk Cegah Korupsi - serayunusantara.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -189,20 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 08:34:17 GMT",
       "link": "https://www.metrotvnews.com/read/kpLCQ2QA-harga-referensi-emas-turun-di-awal-agustus-2026-ini-penyebabnya"
-    },
-    {
-      "title": "Kemendag: Harga referensi CPO Agustus turun dipicu lesunya permintaan - ANTARA News Jambi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 08:33:09 GMT",
-      "link": "https://jambi.antaranews.com/berita/662960/kemendag-harga-referensi-cpo-agustus-turun-dipicu-lesunya-permintaan"
-    },
-    {
-      "title": "Lomba Pidato Harkopnas ke-79 Jadi Ruang Lahirkan Gagasan Memajukan Koperasi - Prokabar",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 08:28:00 GMT",
-      "link": "https://prokabar.com/lomba-pidato-harkopnas-ke-79-jadi-ruang-lahirkan-gagasan-memajukan-koperasi/"
     }
   ]
 }
