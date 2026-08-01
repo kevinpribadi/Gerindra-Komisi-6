@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T09:04:14.649144",
+  "generated_at": "2026-08-01T11:14:49.397095",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 37,
@@ -8,7 +8,7 @@
     "NasDem": 1,
     "PKB": 16,
     "PKS": 4,
-    "PAN": 8,
+    "PAN": 7,
     "Demokrat": 10
   },
   "party_counts_30d": {
@@ -93,18 +93,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Perdagangan": 48,
-    "Hukum/Audit": 39,
+    "Perdagangan": 47,
+    "Hukum/Audit": 42,
     "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "UIN RIL Perkuat Sinergi dengan Kemendag RI untuk Kewirausahaan, Penelitian, dan Magang Mahasiswa - Lampungpro",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 11:06:46 GMT",
+      "link": "https://lampungpro.co/news/uin-ril-perkuat-sinergi-dengan-kemendag-ri-untuk-kewirausahaan-penelitian-dan-magang-mahasiswa"
+    },
+    {
+      "title": "HPE dan HR Emas Kembali Turun pada Periode I Agustus 2026 - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 10:30:00 GMT",
+      "link": "https://swa.co.id/read/475575/hpe-dan-hr-emas-kembali-turun-pada-periode-i-agustus-2026"
+    },
+    {
+      "title": "KPK Dorong Penguatan Integritas di Kementerian Koperasi untuk Cegah Korupsi - serayunusantara.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 09:38:46 GMT",
+      "link": "https://serayunusantara.com/kpk-dorong-penguatan-integritas-di-kementerian-koperasi-untuk-cegah-korupsi/"
+    },
     {
       "title": "Kemenkop Perkuat Budaya Integritas dan Antikorupsi untuk Mendukung Keberhasilan Program KDKMP - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 08:52:00 GMT",
       "link": "https://www.beritakoperasi.com/kemenkop-perkuat-budaya-integritas-dan-antikorupsi-untuk-mendukung-keberhasilan-program-kdkmp/"
+    },
+    {
+      "title": "Kemenkop Pastikan Tak Ada Toleransi Korupsi dalam Pelaksanaan Koperasi Merah Putih - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 08:45:16 GMT",
+      "link": "https://indoposco.id/2026/08/01/kemenkop-pastikan-tak-ada-toleransi-korupsi-dalam-pelaksanaan-koperasi-merah-putih/"
     },
     {
       "title": "Kemenkop Perkuat Peran Koperasi Susu untuk Mendukung Kedaulatan Pangan dan Gizi Nasional - Berita Koperasi",
@@ -175,34 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 05:10:00 GMT",
       "link": "https://jogja.antaranews.com/berita/845572/integritas-dan-kepercayaan-publik-modal-utama-kdkmp"
-    },
-    {
-      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo Kucurkan Rp1,2 Triliun Bangun Permukiman dan Air Bersih di Sumbar - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 01 Aug 2026 04:55:00 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-kucurkan-rp12-triliun-bangun-permukiman-dan-air-bersih-di-sumbar-427946/"
-    },
-    {
-      "title": "Kota Cirebon Borong Prestasi Hari Koperasi Tingkat Jabar - radarcirebon.disway.id - Radar Cirebon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 04:39:00 GMT",
-      "link": "https://radarcirebon.disway.id/amp/226814/kota-cirebon-borong-prestasi-hari-koperasi-tingkat-jabar"
-    },
-    {
-      "title": "Kemendag: Permintaan turun sebabkan harga emas kembali melemah - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 04:22:22 GMT",
-      "link": "https://kalbar.antaranews.com/berita/708033/kemendag-permintaan-turun-sebabkan-harga-emas-kembali-melemah"
-    },
-    {
-      "title": "Keterlibatan Danantara di KSSK Perkuat Sinkronisasi Kebijakan Ekonomi Nasional - Siaran Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 03:33:00 GMT",
-      "link": "https://www.siaranindonesia.com/baca/20260801/keterlibatan-danantara-di-kssk-perkuat-sinkronisasi-kebijakan-ekonomi-nasional.html"
     }
   ]
 }
