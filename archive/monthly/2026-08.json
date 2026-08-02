@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T12:00:18.288394",
+  "generated_at": "2026-08-02T13:46:45.684867",
   "party_counts_7d": {
     "Gerindra": 9,
     "PDI-P": 36,
-    "Golkar": 6,
-    "NasDem": 2,
-    "PKB": 16,
+    "Golkar": 5,
+    "NasDem": 3,
+    "PKB": 15,
     "PKS": 3,
     "PAN": 6,
     "Demokrat": 11
@@ -14,8 +14,8 @@
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 100,
-    "Golkar": 75,
-    "NasDem": 45,
+    "Golkar": 74,
+    "NasDem": 46,
     "PKB": 48,
     "PKS": 53,
     "PAN": 21,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
+    "bumn": 58,
     "danantara": 39,
     "koperasi": 71,
     "perdagangan": 7,
     "ekspor": 13,
     "investasi": 39,
     "kartel-monopoli": 8,
-    "umkm": 12,
+    "umkm": 13,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -68,10 +68,10 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 5,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 6,
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
@@ -91,13 +91,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 15,
+    "Kinerja BUMN": 14,
     "Perdagangan": 47,
     "Hukum/Audit": 48,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "BUMN Dipangkas, Rahmat Saleh Minta Kualitas Layanan Publik Tetap Terjaga - ANTARA News Sumbar",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 12:22:45 GMT",
+      "link": "https://sumbar.antaranews.com/berita/772596/bumn-dipangkas-rahmat-saleh-minta-kualitas-layanan-publik-tetap-terjaga"
+    },
     {
       "title": "Ida Nurlaela Dukung Penerapan Data Tunggal DTSEN Perbaiki Mekanisme Pendataan Bansos - gesuri.id",
       "entity": "Ida Nurlaela",
@@ -125,6 +132,13 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 08:28:00 GMT",
       "link": "https://www.agricom.id/news/5079/harga-referensi-cpo-agustus-turun-ke-usd-996-52-mt--bea-keluar-dan-pungutan-ekspor-ikut-disesuaikan"
+    },
+    {
+      "title": "Agar Terus Bertumbuh, DPR: UMKM Harus Cerdas Kelola Keuangan - law-justice.co",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Sun, 02 Aug 2026 08:06:03 GMT",
+      "link": "https://www.law-justice.co/artikel/208212/-agar-terus-bertumbuh-dpr-umkm-harus-cerdas-kelola-keuangan/"
     },
     {
       "title": "BP Batam Percepat Transformasi Digital, Super Apps Siap Integrasikan Seluruh Layanan Publik dan Perizinan - Kampiun News",
@@ -188,20 +202,6 @@
       "kind": "anggota",
       "published": "Sun, 02 Aug 2026 01:48:00 GMT",
       "link": "https://rm.id/baca-berita/parlemen/320067/kunjungi-lapas-karawang-rieke-terenyuh-kemenimipas-bina-warga"
-    },
-    {
-      "title": "KPPU Dalami Kasus Dugaan Monopoli hingga Predatory Pricing oleh TikTok - Infobanknews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 01:28:00 GMT",
-      "link": "https://infobanknews.com/kppu-dalami-kasus-dugaan-monopoli-hingga-predatory-pricing-oleh-tiktok"
-    },
-    {
-      "title": "BPP KAPMI: Pengelolaan Danantara Harus Sejalan Dengan Nafas Ekonomi Kerakyatan Prabowo - detikindonesia.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 01:05:00 GMT",
-      "link": "https://www.detikindonesia.co.id/bpp-kapmi-pengelolaan-danantara-harus-sejalan-dengan-nafas-ekonomi-kerakyatan-prabowo/"
     }
   ]
 }
