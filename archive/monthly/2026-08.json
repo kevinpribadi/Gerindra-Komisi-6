@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T08:20:20.277439",
+  "generated_at": "2026-08-02T10:39:18.639557",
   "party_counts_7d": {
     "Gerindra": 9,
-    "PDI-P": 37,
+    "PDI-P": 35,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 101,
-    "Golkar": 76,
+    "PDI-P": 99,
+    "Golkar": 75,
     "NasDem": 45,
     "PKB": 48,
     "PKS": 53,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
+    "bumn": 57,
     "danantara": 39,
     "koperasi": 71,
     "perdagangan": 6,
+    "ekspor": 13,
     "investasi": 39,
-    "ekspor": 12,
-    "impor": 7,
     "kartel-monopoli": 8,
     "umkm": 12,
-    "merger-akuisisi": 4,
+    "merger-akuisisi": 3,
     "ipo": 3,
+    "impor": 6,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -59,7 +59,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 17,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
@@ -68,7 +68,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 16,
+    "Rizki Faisal": 15,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
@@ -91,13 +91,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 15,
     "Perdagangan": 48,
     "Hukum/Audit": 48,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "| Kemenkop Dorong TEP 2026 Jadi Agen Perubahan Koperasi Kawasan Transmigrasi - jurnas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 08:53:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1662999/kemenkop-dorong-tep-2026-jadi-agen-perubahan-koperasi-kawasan-transmigrasi/"
+    },
+    {
+      "title": "Harga Referensi CPO Agustus Turun ke USD 996,52/MT, Bea Keluar dan Pungutan Ekspor Ikut Disesuaikan - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 08:28:00 GMT",
+      "link": "https://www.agricom.id/news/5079/harga-referensi-cpo-agustus-turun-ke-usd-996-52-mt--bea-keluar-dan-pungutan-ekspor-ikut-disesuaikan"
+    },
     {
       "title": "BP Batam Percepat Transformasi Digital, Super Apps Siap Integrasikan Seluruh Layanan Publik dan Perizinan - Kampiun News",
       "entity": "BP Batam",
@@ -111,6 +125,13 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 05:36:03 GMT",
       "link": "http://www.agrofarm.co.id/2026/08/harga-cpo-melorot-akibat-lesunya-permintaan-india/"
+    },
+    {
+      "title": "Permintaan Global Melemah, Kemendag Resmi Pangkas Harga Referensi CPO Periode Agustus - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 05:00:00 GMT",
+      "link": "https://wartaekonomi.co.id/read626127/permintaan-global-melemah-kemendag-resmi-pangkas-harga-referensi-cpo-periode-agustus"
     },
     {
       "title": "Mendag: China Tertarik Investasi di Sektor Hortikultura Indonesia - agrofarm.co.id",
@@ -181,27 +202,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 22:55:08 GMT",
       "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Putusan MK mengubah aturan main kuota internet? - indotelko.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 22:13:50 GMT",
-      "link": "https://www.indotelko.com/amp/read/1785566720/putusan-mk-mengubah-aturan-main-kuota-internet"
-    },
-    {
-      "title": "Harga Referensi Biji Kakao Agustus Melonjak 36,66%, HPE Tembus USD 5.064/MT - Agricom.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 17:17:08 GMT",
-      "link": "https://www.agricom.id/news/5078/harga-referensi-biji-kakao-agustus-melonjak-36-66---hpe-tembus-usd-5-064-mt"
-    },
-    {
-      "title": "Darmadi Durianto: Tantangan Terbesar Kopdes Merah Putih Kepercayaan Publik Terhadap Keberlanjutannya - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 01 Aug 2026 15:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tantangan-terbesar-kopdes-merah-putih-kepercayaan-publik-terhadap-keberlanjutannya-b2pXiZbgPL"
     }
   ]
 }
