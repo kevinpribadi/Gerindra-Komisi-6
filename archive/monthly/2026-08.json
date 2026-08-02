@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T17:59:46.168751",
+  "generated_at": "2026-08-02T19:22:38.364141",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 36,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 58,
     "danantara": 39,
-    "koperasi": 71,
+    "koperasi": 70,
     "perdagangan": 7,
     "ekspor": 13,
-    "investasi": 40,
+    "investasi": 39,
     "kartel-monopoli": 8,
     "umkm": 13,
     "merger-akuisisi": 3,
@@ -94,10 +94,17 @@
     "Kinerja BUMN": 14,
     "Perdagangan": 47,
     "Hukum/Audit": 48,
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Antara ‘Prabowonomics’ dan Reaktualisasi Pasal 33 UUD 1945 - Kedai Pena",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 18:33:56 GMT",
+      "link": "https://www.kedaipena.com/antara-prabowonomics-dan-reaktualisasi-pasal-33-uud-1945/"
+    },
     {
       "title": "BPP KAPMI: Pengelolaan Danantara Harus Sejalan Dengan Nafas Ekonomi Kerakyatan Prabowo - detik suara rakyat",
       "entity": "Danantara",
@@ -176,6 +183,13 @@
       "link": "https://realita.co/baca-50093-pelatihan-calon-manajer-koperasi-desa-habiskan-rp-1-triliun"
     },
     {
+      "title": "Kemenkop Tegaskan Integritas Kawal Koperasi Merah Putih - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 06:41:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tiigeyf-kemenkop-tegaskan-integritas-kawal-koperasi-merah-putih"
+    },
+    {
       "title": "Harga CPO Melorot Akibat Lesunya Permintaan India - agrofarm.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -188,20 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 05:00:00 GMT",
       "link": "https://wartaekonomi.co.id/read626127/permintaan-global-melemah-kemendag-resmi-pangkas-harga-referensi-cpo-periode-agustus"
-    },
-    {
-      "title": "Mendag: China Tertarik Investasi di Sektor Hortikultura Indonesia - agrofarm.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 04:56:11 GMT",
-      "link": "http://www.agrofarm.co.id/2026/08/mendag-china-tertarik-investasi-di-sektor-hortikultura-indonesia/"
-    },
-    {
-      "title": "KPPU Naikkan Dugaan Pelanggaran TikTok ke Tahap Penyelidikan - kanalsatu.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 04:28:00 GMT",
-      "link": "https://kanalsatu.com/id/post/68692/kppu-naikkan-dugaan-pelanggaran-tiktok-ke-tahap-penyelidikan"
     }
   ]
 }
