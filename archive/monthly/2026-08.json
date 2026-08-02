@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T10:39:18.639557",
+  "generated_at": "2026-08-02T12:00:18.288394",
   "party_counts_7d": {
     "Gerindra": 9,
-    "PDI-P": 35,
+    "PDI-P": 36,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 99,
+    "PDI-P": 100,
     "Golkar": 75,
     "NasDem": 45,
     "PKB": 48,
@@ -37,7 +37,7 @@
     "bumn": 57,
     "danantara": 39,
     "koperasi": 71,
-    "perdagangan": 6,
+    "perdagangan": 7,
     "ekspor": 13,
     "investasi": 39,
     "kartel-monopoli": 8,
@@ -59,7 +59,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
@@ -92,12 +92,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 15,
-    "Perdagangan": 48,
+    "Perdagangan": 47,
     "Hukum/Audit": 48,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Ida Nurlaela Dukung Penerapan Data Tunggal DTSEN Perbaiki Mekanisme Pendataan Bansos - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Sun, 02 Aug 2026 11:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-dukung-penerapan-data-tunggal-dtsen-perbaiki-mekanisme-pendataan-bansos-b2pYrZbgRH"
+    },
+    {
+      "title": "Kementerian Perdagangan China Bantah Tuduhan Amerika Perihal Kerja Paksa di Xinjiang - Hidayatullah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 10:42:59 GMT",
+      "link": "https://hidayatullah.com/berita/2026/08/02/309400/kementerian-perdagangan-china-bantah-tuduhan-amerika-perihal-kerja-paksa-di-xinjiang.html"
+    },
     {
       "title": "| Kemenkop Dorong TEP 2026 Jadi Agen Perubahan Koperasi Kawasan Transmigrasi - jurnas.com",
       "entity": "Kementerian Koperasi",
@@ -188,20 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 01:05:00 GMT",
       "link": "https://www.detikindonesia.co.id/bpp-kapmi-pengelolaan-danantara-harus-sejalan-dengan-nafas-ekonomi-kerakyatan-prabowo/"
-    },
-    {
-      "title": "Cerita Mulyadi Soal Alam dan Kemajuan, dari Jalur Pendakian Hingga QRIS di Puncak Cikuray - Kedai Pena",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Sat, 01 Aug 2026 23:49:11 GMT",
-      "link": "https://www.kedaipena.com/cerita-mulyadi-soal-alam-dan-kemajuan-dari-jalur-pendakian-hingga-qris-di-puncak-cikuray/"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 22:55:08 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
     }
   ]
 }
