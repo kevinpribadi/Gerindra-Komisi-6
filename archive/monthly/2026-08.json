@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-01T23:55:05.823561",
+  "generated_at": "2026-08-02T02:32:23.436927",
   "party_counts_7d": {
     "Gerindra": 10,
-    "PDI-P": 39,
+    "PDI-P": 38,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
@@ -16,7 +16,7 @@
     "PDI-P": 101,
     "Golkar": 77,
     "NasDem": 45,
-    "PKB": 49,
+    "PKB": 48,
     "PKS": 54,
     "PAN": 22,
     "Demokrat": 31
@@ -76,7 +76,7 @@
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 17,
+    "Rivqy Abdul Halim": 16,
     "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
@@ -92,7 +92,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 16,
     "Perdagangan": 47,
     "Hukum/Audit": 46,
     "Koperasi/UMKM": 80,
@@ -100,11 +100,39 @@
   },
   "top_headlines": [
     {
+      "title": "Kunjungi Lapas Karawang, Rieke Terenyuh Kemenimipas Bina Warga - RM.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 02 Aug 2026 01:48:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/320067/kunjungi-lapas-karawang-rieke-terenyuh-kemenimipas-bina-warga"
+    },
+    {
+      "title": "BPP KAPMI: Pengelolaan Danantara Harus Sejalan Dengan Nafas Ekonomi Kerakyatan Prabowo - detikindonesia.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 01:05:00 GMT",
+      "link": "https://www.detikindonesia.co.id/bpp-kapmi-pengelolaan-danantara-harus-sejalan-dengan-nafas-ekonomi-kerakyatan-prabowo/"
+    },
+    {
       "title": "Cerita Mulyadi Soal Alam dan Kemajuan, dari Jalur Pendakian Hingga QRIS di Puncak Cikuray - Kedai Pena",
       "entity": "Mulyadi",
       "kind": "anggota",
       "published": "Sat, 01 Aug 2026 23:49:11 GMT",
       "link": "https://www.kedaipena.com/cerita-mulyadi-soal-alam-dan-kemajuan-dari-jalur-pendakian-hingga-qris-di-puncak-cikuray/"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 22:55:08 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
+    {
+      "title": "Putusan MK mengubah aturan main kuota internet? - indotelko.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 01 Aug 2026 22:13:50 GMT",
+      "link": "https://www.indotelko.com/amp/read/1785566720/putusan-mk-mengubah-aturan-main-kuota-internet"
     },
     {
       "title": "Harga Referensi Biji Kakao Agustus Melonjak 36,66%, HPE Tembus USD 5.064/MT - Agricom.id",
@@ -175,34 +203,6 @@
       "kind": "anggota",
       "published": "Sat, 01 Aug 2026 10:13:59 GMT",
       "link": "https://www.cumicumi.com/articles/politik/6a6dc54c769b5a390a0c9c5c/rieke-diah-pitaloka-beri-pesan-perpisahan-usai-meninggalnya-pelukis-nasirun"
-    },
-    {
-      "title": "KPK Dorong Penguatan Integritas di Kementerian Koperasi untuk Cegah Korupsi - serayunusantara.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 09:38:46 GMT",
-      "link": "https://serayunusantara.com/kpk-dorong-penguatan-integritas-di-kementerian-koperasi-untuk-cegah-korupsi/"
-    },
-    {
-      "title": "Rachmat Gobel Tingkatkan Kawasan Wisata Pentadio Resort. Kini Tampil Lebih Modern - gorontalokab.go.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Sat, 01 Aug 2026 09:27:11 GMT",
-      "link": "https://gorontalokab.go.id/berita_read.php?id=1240"
-    },
-    {
-      "title": "Kemenkop Perkuat Budaya Integritas dan Antikorupsi untuk Mendukung Keberhasilan Program KDKMP - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 08:52:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-perkuat-budaya-integritas-dan-antikorupsi-untuk-mendukung-keberhasilan-program-kdkmp/"
-    },
-    {
-      "title": "Kemenkop Pastikan Tak Ada Toleransi Korupsi dalam Pelaksanaan Koperasi Merah Putih - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 08:45:16 GMT",
-      "link": "https://indoposco.id/2026/08/01/kemenkop-pastikan-tak-ada-toleransi-korupsi-dalam-pelaksanaan-koperasi-merah-putih/"
     }
   ]
 }
