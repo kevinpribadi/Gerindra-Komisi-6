@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T05:55:04.178086",
+  "generated_at": "2026-08-02T08:20:20.277439",
   "party_counts_7d": {
-    "Gerindra": 10,
-    "PDI-P": 38,
+    "Gerindra": 9,
+    "PDI-P": 37,
     "Golkar": 6,
     "NasDem": 2,
     "PKB": 16,
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 101,
-    "Golkar": 77,
+    "Golkar": 76,
     "NasDem": 45,
     "PKB": 48,
-    "PKS": 54,
-    "PAN": 22,
+    "PKS": 53,
+    "PAN": 21,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -38,10 +38,10 @@
     "danantara": 39,
     "koperasi": 71,
     "perdagangan": 6,
-    "investasi": 40,
-    "ekspor": 13,
+    "investasi": 39,
+    "ekspor": 12,
     "impor": 7,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "umkm": 12,
     "merger-akuisisi": 4,
     "ipo": 3,
@@ -68,7 +68,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 17,
+    "Rizki Faisal": 16,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 5,
@@ -80,12 +80,11 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 13,
+    "Amin Ak.": 12,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
-    "Nasril Bahar": 1,
     "Iskandar": 14,
     "Sartono": 7,
     "Herman Khaeron": 20,
@@ -93,12 +92,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 50,
-    "Hukum/Audit": 47,
+    "Perdagangan": 48,
+    "Hukum/Audit": 48,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Percepat Transformasi Digital, Super Apps Siap Integrasikan Seluruh Layanan Publik dan Perizinan - Kampiun News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 07:41:32 GMT",
+      "link": "https://kampiunnews.com/bp-batam-percepat-transformasi-digital-super-apps-siap-integrasikan-seluruh-layanan-publik-dan-perizinan/"
+    },
     {
       "title": "Harga CPO Melorot Akibat Lesunya Permintaan India - agrofarm.co.id",
       "entity": "Kementerian Perdagangan",
@@ -149,6 +155,13 @@
       "link": "https://rm.id/baca-berita/parlemen/320067/kunjungi-lapas-karawang-rieke-terenyuh-kemenimipas-bina-warga"
     },
     {
+      "title": "KPPU Dalami Kasus Dugaan Monopoli hingga Predatory Pricing oleh TikTok - Infobanknews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 01:28:00 GMT",
+      "link": "https://infobanknews.com/kppu-dalami-kasus-dugaan-monopoli-hingga-predatory-pricing-oleh-tiktok"
+    },
+    {
       "title": "BPP KAPMI: Pengelolaan Danantara Harus Sejalan Dengan Nafas Ekonomi Kerakyatan Prabowo - detikindonesia.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -189,20 +202,6 @@
       "kind": "anggota",
       "published": "Sat, 01 Aug 2026 15:01:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-tantangan-terbesar-kopdes-merah-putih-kepercayaan-publik-terhadap-keberlanjutannya-b2pXiZbgPL"
-    },
-    {
-      "title": "Kemenkop Tantang TEP 2026 Dorong Koperasi di Kawasan Transmigrasi Naik Kelas Jadi Penggerak Ekonomi Daerah - reaksi media",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 14:56:03 GMT",
-      "link": "https://reaksimedia.com/kemenkop-tantang-tep-2026-dorong-koperasi-di-kawasan-transmigrasi-naik-kelas-jadi-penggerak-ekonomi-daerah/"
-    },
-    {
-      "title": "KPPU Naikkan Dugaan Pelanggaran TikTok ke Tahap Penyidikan - AJNN.net",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 13:01:32 GMT",
-      "link": "https://www.ajnn.net/news/kppu-naikkan-dugaan-pelanggaran-tiktok-ke-tahap-penyidikan/index.html"
     }
   ]
 }
