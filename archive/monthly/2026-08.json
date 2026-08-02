@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T02:32:23.436927",
+  "generated_at": "2026-08-02T05:55:04.178086",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 38,
@@ -37,11 +37,11 @@
     "bumn": 58,
     "danantara": 39,
     "koperasi": 71,
-    "perdagangan": 10,
-    "investasi": 37,
+    "perdagangan": 6,
+    "investasi": 40,
     "ekspor": 13,
     "impor": 7,
-    "kartel-monopoli": 5,
+    "kartel-monopoli": 7,
     "umkm": 12,
     "merger-akuisisi": 4,
     "ipo": 3,
@@ -93,12 +93,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 47,
-    "Hukum/Audit": 46,
+    "Perdagangan": 50,
+    "Hukum/Audit": 47,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Harga CPO Melorot Akibat Lesunya Permintaan India - agrofarm.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 05:36:03 GMT",
+      "link": "http://www.agrofarm.co.id/2026/08/harga-cpo-melorot-akibat-lesunya-permintaan-india/"
+    },
+    {
+      "title": "Mendag: China Tertarik Investasi di Sektor Hortikultura Indonesia - agrofarm.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 04:56:11 GMT",
+      "link": "http://www.agrofarm.co.id/2026/08/mendag-china-tertarik-investasi-di-sektor-hortikultura-indonesia/"
+    },
+    {
+      "title": "KPPU Naikkan Dugaan Pelanggaran TikTok ke Tahap Penyelidikan - kanalsatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 04:28:00 GMT",
+      "link": "https://kanalsatu.com/id/post/68692/kppu-naikkan-dugaan-pelanggaran-tiktok-ke-tahap-penyelidikan"
+    },
+    {
+      "title": "Kemendag Tetapkan Harga Referensi CPO Turun, Lemahnya Permintaan Global Jadi Faktornya - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 04:09:00 GMT",
+      "link": "https://investortrust.id/business/111464/kemendag-tetapkan-harga-referensi-cpo-turun-lemahnya-permintaan-global-jadi-faktornya"
+    },
+    {
+      "title": "KPPU Selidiki Dugaan Praktik Monopoli dan Predatory Pricing TikTok - propublika.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 04:04:02 GMT",
+      "link": "https://propublika.id/berita/kppu-selidiki-dugaan-praktik-monopoli-dan-predatory-pricing-tiktok/"
+    },
+    {
+      "title": "Investor Kaget! Kemendag Resmi Turunkan Harga Patokan Emas Periode Agustus 2026, Ada Apa? - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 02:20:00 GMT",
+      "link": "https://wartaekonomi.co.id/read626123/investor-kaget-kemendag-resmi-turunkan-harga-patokan-emas-periode-agustus-2026-ada-apa"
+    },
     {
       "title": "Kunjungi Lapas Karawang, Rieke Terenyuh Kemenimipas Bina Warga - RM.ID",
       "entity": "Rieke Diah Pitaloka",
@@ -161,48 +203,6 @@
       "kind": "lembaga",
       "published": "Sat, 01 Aug 2026 13:01:32 GMT",
       "link": "https://www.ajnn.net/news/kppu-naikkan-dugaan-pelanggaran-tiktok-ke-tahap-penyidikan/index.html"
-    },
-    {
-      "title": "Batam Kembali Unjuk Daya Saing, Masuk Daftar Best Places to Invest - centralnews.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 12:22:13 GMT",
-      "link": "https://centralnews.id/batam-kembali-unjuk-daya-saing-masuk-daftar-best-places-to-invest/"
-    },
-    {
-      "title": "Kemendag: Harga referensi CPO Agustus turun dipicu lesunya permintaan - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 11:24:00 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/416891/kemendag-harga-referensi-cpo-agustus-turun-dipicu-lesunya-permintaan"
-    },
-    {
-      "title": "Kemendag: Permintaan turun sebabkan harga emas kembali melemah - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 11:23:38 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/416889/kemendag-permintaan-turun-sebabkan-harga-emas-kembali-melemah"
-    },
-    {
-      "title": "UIN RIL Perkuat Sinergi dengan Kemendag RI untuk Kewirausahaan, Penelitian, dan Magang Mahasiswa - Lampungpro",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 11:06:46 GMT",
-      "link": "https://lampungpro.co/news/uin-ril-perkuat-sinergi-dengan-kemendag-ri-untuk-kewirausahaan-penelitian-dan-magang-mahasiswa"
-    },
-    {
-      "title": "HPE dan HR Emas Kembali Turun pada Periode I Agustus 2026 - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 01 Aug 2026 10:30:00 GMT",
-      "link": "https://swa.co.id/read/475575/hpe-dan-hr-emas-kembali-turun-pada-periode-i-agustus-2026"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Beri Pesan Perpisahan Usai Meninggalnya Pelukis Nasirun - Cumicumi",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 01 Aug 2026 10:13:59 GMT",
-      "link": "https://www.cumicumi.com/articles/politik/6a6dc54c769b5a390a0c9c5c/rieke-diah-pitaloka-beri-pesan-perpisahan-usai-meninggalnya-pelukis-nasirun"
     }
   ]
 }
