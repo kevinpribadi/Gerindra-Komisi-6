@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-02T23:56:33.144450",
+  "generated_at": "2026-08-03T02:51:56.470054",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 36,
+    "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 3,
     "PKB": 15,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 100,
+    "PDI-P": 101,
     "Golkar": 73,
     "NasDem": 46,
     "PKB": 48,
@@ -38,8 +38,8 @@
     "danantara": 39,
     "koperasi": 70,
     "perdagangan": 7,
-    "ekspor": 12,
-    "investasi": 39,
+    "ekspor": 11,
+    "investasi": 40,
     "kartel-monopoli": 8,
     "umkm": 13,
     "merger-akuisisi": 3,
@@ -59,7 +59,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
@@ -92,12 +92,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 47,
+    "Perdagangan": 45,
     "Hukum/Audit": 48,
     "Koperasi/UMKM": 80,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Investasi Batam 2026 Tembus Rp17,4 Triliun, Singapura Puncaki Daftar Investor Asing - Batamnews",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 02:39:00 GMT",
+      "link": "https://www.batamnews.co.id/berita-129170-investasi-batam-2026-tembus-rp17-4-triliun-singapura-puncaki-daftar-investor-asing.html"
+    },
+    {
+      "title": "Harga CPO Ambles 0,44% di Agustus 2026, Jadi Acuan Bea Keluar hingga Pungutan Ekspor - SINDOnews Ekbis",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 01:59:09 GMT",
+      "link": "https://ekbis.sindonews.com/read/1734987/34/harga-cpo-ambles-044-di-agustus-2026-jadi-acuan-bea-keluar-hingga-pungutan-ekspor-1785719319"
+    },
+    {
+      "title": "Milad ke-51 MUI, Ida Nurlaela: Peran Ulama Krusial Agar Kemajuan Berpijak Pada Nilai Agama, Budaya, Kesejahteraan Masyarakat - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 01:00:00 GMT",
+      "link": "https://www.gesuri.id/serba-serbi/milad-ke-51-mui-ida-nurlaela-peran-ulama-krusial-agar-kemajuan-berpijak-pada-nilai-agama-budaya-kesejahteraan-masyarakat-b2pYsZbgRR"
+    },
+    {
+      "title": "Batam Bidik Nilai Tambah Industri Kendaraan Listrik - gokepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 02 Aug 2026 23:59:29 GMT",
+      "link": "https://gokepri.com/batam-bidik-nilai-tambah-industri-kendaraan-listrik/"
+    },
     {
       "title": "Rekor Koreksi Tiga Bulan, Harga Referensi CPO Agustus 2026 Dipatok USD996,52 - KabarBursa.com",
       "entity": "Kementerian Perdagangan",
@@ -174,34 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 08:53:00 GMT",
       "link": "https://www.jurnas.com/artikel/1662999/kemenkop-dorong-tep-2026-jadi-agen-perubahan-koperasi-kawasan-transmigrasi/"
-    },
-    {
-      "title": "Harga Referensi CPO Agustus Turun ke USD 996,52/MT, Bea Keluar dan Pungutan Ekspor Ikut Disesuaikan - Agricom.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 08:28:00 GMT",
-      "link": "https://www.agricom.id/news/5079/harga-referensi-cpo-agustus-turun-ke-usd-996-52-mt--bea-keluar-dan-pungutan-ekspor-ikut-disesuaikan"
-    },
-    {
-      "title": "Agar Terus Bertumbuh, DPR: UMKM Harus Cerdas Kelola Keuangan - law-justice.co",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Sun, 02 Aug 2026 08:06:03 GMT",
-      "link": "https://www.law-justice.co/artikel/208212/-agar-terus-bertumbuh-dpr-umkm-harus-cerdas-kelola-keuangan/"
-    },
-    {
-      "title": "BP Batam Percepat Transformasi Digital, Super Apps Siap Integrasikan Seluruh Layanan Publik dan Perizinan - Kampiun News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 07:41:32 GMT",
-      "link": "https://kampiunnews.com/bp-batam-percepat-transformasi-digital-super-apps-siap-integrasikan-seluruh-layanan-publik-dan-perizinan/"
-    },
-    {
-      "title": "Pelatihan Calon Manajer Koperasi Desa Habiskan Rp 1 Triliun - realita.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 07:05:00 GMT",
-      "link": "https://realita.co/baca-50093-pelatihan-calon-manajer-koperasi-desa-habiskan-rp-1-triliun"
     }
   ]
 }
