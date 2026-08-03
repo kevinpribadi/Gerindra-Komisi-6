@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-03T13:39:11.783701",
+  "generated_at": "2026-08-03T16:22:20.519127",
   "party_counts_7d": {
-    "Gerindra": 10,
-    "PDI-P": 36,
+    "Gerindra": 11,
+    "PDI-P": 35,
     "Golkar": 3,
     "NasDem": 2,
     "PKB": 15,
     "PKS": 6,
-    "PAN": 6,
+    "PAN": 8,
     "Demokrat": 12
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 101,
+    "PDI-P": 102,
     "Golkar": 69,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 53,
-    "PAN": 21,
+    "PAN": 23,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "danantara": 39,
+    "danantara": 40,
     "koperasi": 71,
-    "perdagangan": 7,
-    "ekspor": 12,
-    "investasi": 38,
+    "perdagangan": 9,
+    "umkm": 17,
+    "ekspor": 14,
+    "investasi": 35,
     "kartel-monopoli": 8,
-    "umkm": 14,
-    "merger-akuisisi": 3,
+    "merger-akuisisi": 2,
     "ipo": 3,
     "impor": 6,
     "dividen": 2
@@ -50,15 +50,15 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 6,
+    "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 17,
-    "Mulyadi": 15,
+    "Mulyadi": 16,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 6,
+    "Sadarestuwati": 7,
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
@@ -85,7 +85,7 @@
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
-    "Iskandar": 14,
+    "Iskandar": 16,
     "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
@@ -93,11 +93,102 @@
   "early_warning_counts": {
     "Kinerja BUMN": 14,
     "Perdagangan": 46,
-    "Hukum/Audit": 47,
-    "Koperasi/UMKM": 81,
+    "Hukum/Audit": 46,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "KPK hentikan penyidikan 6 kasus, termasuk kasus Sekjen DPR - ANTARA News Megapolitan",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 15:43:55 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/543555/kpk-hentikan-penyidikan-6-kasus-termasuk-kasus-sekjen-dpr"
+    },
+    {
+      "title": "KPK Terbitkan 6 SP3, Salah Satunya untuk Indra Iskandar - Tirto.id",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 15:31:00 GMT",
+      "link": "https://tirto.id/kpk-terbitkan-6-sp3-salah-satunya-untuk-indra-iskandar-hAGk"
+    },
+    {
+      "title": "Bos Danantara Akui BUMN-BUMN Properti Tak Sehat - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 14:34:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/03/213408821/bos-danantara-akui-bumn-bumn-properti-tak-sehat?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
+    },
+    {
+      "title": "Raker Komisi IV DPRD dan BPJS Kesehatan Tasikmalaya: H. Yadi Mulyadi Tekankan Peningkatan Mutu Layanan Medis - Wartatasik.com",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 13:34:50 GMT",
+      "link": "https://www.wartatasik.com/raker-komisi-iv-dprd-dan-bpjs-kesehatan-tasikmalaya-h-yadi-mulyadi-tekankan-peningkatan-mutu-layanan-medis/"
+    },
+    {
+      "title": "Prabowo Bidik Perdagangan RI-Thailand Tembus US$20 M pada 2030 - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 13:17:23 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260803194921-92-1388174/prabowo-bidik-perdagangan-ri-thailand-tembus-us-20-m-pada-2030"
+    },
+    {
+      "title": "Menkop Perkuat Koperasi Syariah WPMI untuk Dorong UMKM Perempuan Naik Kelas - Indonesiadaily.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 13:08:21 GMT",
+      "link": "https://indonesiadaily.net/2026/08/menkop-perkuat-koperasi-syariah-wpmi-untuk-dorong-umkm-perempuan-naik-kelas/"
+    },
+    {
+      "title": "Kemendag dan Papua Barat Daya Perkuat Sinergi Dorong UMKM Ekspor - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 12:53:36 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/03/kemendag-dan-papua-barat-daya-perkuat-sinergi-dorong-umkm-ekspor/"
+    },
+    {
+      "title": "Pameran Foto Jurnalistik Warna-Warna Parlemen 2026 Resmi Dibuka - merahputih.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 12:53:23 GMT",
+      "link": "https://www.merahputih.com/post/read/pameran-foto-warna-warna-parlemen-2026-bertajuk-mengawal-dan-mewujudkan-indonesia-emas"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Hukum Kita Tumpul ke WNA, Tajam Bagi Warganya Sendiri - Kosadata",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 12:45:00 GMT",
+      "link": "https://kosadata.com/rieke-diah-pitaloka-hukum-kita-tumpul-ke-wna-tajam-bagi-warganya-sendiri"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Buka Pameran Foto KWP, Sebut Wartawan Perekam Sejarah Demokrasi - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 12:33:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-buka-pameran-foto-kwp-sebut-wartawan-perekam-sejarah-demokrasi-b2pYtZbgTH"
+    },
+    {
+      "title": "Purbaya Akui Pimpinan Danantara Ikut Hadiri Rapat KSSK Juli 2026 - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 12:23:54 GMT",
+      "link": "https://tirto.id/purbaya-akui-pimpinan-danantara-ikut-hadiri-rapat-kssk-juli-2026-hAFD"
+    },
+    {
+      "title": "Bahlil: LTJ Terikut Ekspor Nikel—Tembaga, Industri Khusus Dikejar - bloombergtechnoz.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 11:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/117127/bahlil-ltj-terikut-ekspor-nikel-tembaga-industri-khusus-dikejar"
+    },
+    {
+      "title": "Mendag Ungkap Penyebab Perdagangan Defisit 2 Bulan Berturut-turut - Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 11:23:36 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/917775/mendag-ungkap-penyebab-perdagangan-defisit-2-bulan-berturut-turut"
+    },
     {
       "title": "Airlangga Targetkan Aturan Baru Ekspor LTJ Rampung Seminggu Lagi - Bloomberg Technoz",
       "entity": "Kementerian Perdagangan",
@@ -111,97 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 03 Aug 2026 10:23:24 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/08/03/harga-emas-melemah-permintaan-logam-mulia-pasar-global-turun/"
-    },
-    {
-      "title": "Herman Khaeron: Gerakan Langit Biru Sejalan dengan Program Indonesia ASRI - Suara Pemerintah",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 08:41:25 GMT",
-      "link": "https://suarapemerintah.id/2026/08/herman-khaeron-gerakan-langit-biru-sejalan-dengan-program-indonesia-asri/"
-    },
-    {
-      "title": "Menkop: Koperasi Desa Merah Putih Jadi Strategi Penguatan Ekonomi Kerakyatan Berbasis Desa - Serayu Nusantara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 08:32:33 GMT",
-      "link": "https://serayunusantara.com/menkop-koperasi-desa-merah-putih-jadi-strategi-penguatan-ekonomi-kerakyatan-berbasis-desa/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Minta Penegakan Hukum Berlaku Adil bagi WNI dan WNA - Detak.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 08:21:48 GMT",
-      "link": "https://detak.co/kategori/parlemen/rieke-diah-pitaloka-minta-penegakan-hukum-berlaku-adil-bagi-wni-dan-wna/"
-    },
-    {
-      "title": "Rieke Heran Napi Lapas Karawang Tak Mau Pulang Rumah: Mau Kerja di Sini? - detikNews",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 08:13:46 GMT",
-      "link": "https://news.detik.com/berita/d-8602379/rieke-heran-napi-lapas-karawang-tak-mau-pulang-rumah-mau-kerja-di-sini"
-    },
-    {
-      "title": "Rapat di DPR, Maqdir Ismail Beri Catatan Ini soal RUU Perampasan Aset - detikNews",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 08:12:56 GMT",
-      "link": "https://news.detik.com/berita/d-8601850/rapat-di-dpr-maqdir-ismail-beri-catatan-ini-soal-ruu-perampasan-aset"
-    },
-    {
-      "title": "Resmi Dilantik, Dinkop, UKM dan Naker Kota Blitar Harap Dekopinda Jadi Motor Penggerak Kemajuan Koperasi - Pemerintah Kota Blitar",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 07:55:03 GMT",
-      "link": "https://blitarkota.go.id/berita/resmi-dilantik-dinkop-ukm-dan-naker-kota-blitar-harap-dekopinda-jadi-motor-penggerak-kemajuan-koperasi"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Jangan Bikin Hukum Tajam ke WNI tapi Tumpul terhadap WNA - DPR RI",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 07:47:21 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rieke-Diah-Pitaloka-Jangan-Bikin-Hukum-Tajam-ke-WNI-tapi-Tumpul-terhadap-WNA-67815"
-    },
-    {
-      "title": "Danantara Housing Expo 2026 Akan Digelar di PIK - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 07:46:46 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-housing-expo-2026-akan-digelar-di-pik-2279973"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - waspada.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 07:05:48 GMT",
-      "link": "https://www.waspada.id/berita/rieke-diah-pitaloka-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia"
-    },
-    {
-      "title": "Periode Agustus 2026: Harga Referensi CPO Terkoreksi, HPE Biji Kakao, Getah Pinus, dan Produk Kayu Naik - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 06:56:00 GMT",
-      "link": "https://www.topbusiness.id/133471/periode-agustus-2026-harga-referensi-cpo-terkoreksi-hpe-biji-kakao-getah-pinus-dan-produk-kayu-naik.html"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Karya Jurnalistik dan Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - SumselPost",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 06:36:29 GMT",
-      "link": "https://sumselpost.co.id/rieke-diah-pitaloka-karya-jurnalistik-dan-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia/"
-    },
-    {
-      "title": "Celios: Penempatan Calon Manajer Koperasi Tidak Jelas - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 06:00:00 GMT",
-      "link": "https://www.tempo.co/politik/celios-penempatan-calon-manajer-koperasi-tidak-jelas-2279955"
-    },
-    {
-      "title": "Komisi XIII Soroti Pilot WNA Bawa 26 Kg Narkoba: Imigrasi Jadi Pagar Pengaman - kumparan.com - Kumparan.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 05:45:00 GMT",
-      "link": "https://kumparan.com/kumparannews/komisi-xiii-soroti-pilot-wna-bawa-26-kg-narkoba-imigrasi-jadi-pagar-pengaman-27ugOoBbdWJ"
     }
   ]
 }
