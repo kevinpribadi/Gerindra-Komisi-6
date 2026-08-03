@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-03T16:22:20.519127",
+  "generated_at": "2026-08-03T18:49:17.614911",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
     "Golkar": 3,
-    "NasDem": 2,
+    "NasDem": 3,
     "PKB": 15,
     "PKS": 6,
     "PAN": 8,
@@ -15,7 +15,7 @@
     "Gerindra": 68,
     "PDI-P": 102,
     "Golkar": 69,
-    "NasDem": 46,
+    "NasDem": 47,
     "PKB": 48,
     "PKS": 53,
     "PAN": 23,
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "danantara": 40,
+    "danantara": 41,
     "koperasi": 71,
     "perdagangan": 9,
-    "umkm": 17,
+    "umkm": 18,
     "ekspor": 14,
     "investasi": 35,
     "kartel-monopoli": 8,
@@ -71,7 +71,7 @@
     "Rizki Faisal": 9,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 6,
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
@@ -94,10 +94,17 @@
     "Kinerja BUMN": 14,
     "Perdagangan": 46,
     "Hukum/Audit": 46,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Danantara Mulai Tunjukkan Peran Dongkrak Pertumbuhan Ekonomi Indonesia - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 17:01:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/04/716976/danantara-mulai-tunjukkan-peran-dongkrak-pertumbuhan-ekonomi-indonesia-"
+    },
     {
       "title": "KPK hentikan penyidikan 6 kasus, termasuk kasus Sekjen DPR - ANTARA News Megapolitan",
       "entity": "Iskandar",
@@ -176,6 +183,13 @@
       "link": "https://tirto.id/purbaya-akui-pimpinan-danantara-ikut-hadiri-rapat-kssk-juli-2026-hAFD"
     },
     {
+      "title": "Ajak Pelaku UMKM Cerdas Kelola Keuangan, Asep Wahyuwijaya: Omzet Besar Belum Tentu Untung - Jakartanews.id",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 12:13:20 GMT",
+      "link": "https://www.jakartanews.id/2026/08/03/ajak-pelaku-umkm-cerdas-kelola-keuangan-asep-wahyuwijaya-omzet-besar-belum-tentu-untung/"
+    },
+    {
       "title": "Bahlil: LTJ Terikut Ekspor Nikel—Tembaga, Industri Khusus Dikejar - bloombergtechnoz.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -188,20 +202,6 @@
       "kind": "lembaga",
       "published": "Mon, 03 Aug 2026 11:23:36 GMT",
       "link": "https://mediaindonesia.com/ekonomi/917775/mendag-ungkap-penyebab-perdagangan-defisit-2-bulan-berturut-turut"
-    },
-    {
-      "title": "Airlangga Targetkan Aturan Baru Ekspor LTJ Rampung Seminggu Lagi - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 10:25:05 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/117117/airlangga-targetkan-aturan-baru-ekspor-ltj-rampung-seminggu-lagi"
-    },
-    {
-      "title": "Harga Emas Melemah, Permintaan Logam Mulia Pasar Global Turun - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 10:23:24 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/03/harga-emas-melemah-permintaan-logam-mulia-pasar-global-turun/"
     }
   ]
 }
