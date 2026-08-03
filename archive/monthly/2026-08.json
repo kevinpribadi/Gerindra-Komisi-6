@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-03T02:51:56.470054",
+  "generated_at": "2026-08-03T06:20:15.073020",
   "party_counts_7d": {
-    "Gerindra": 11,
+    "Gerindra": 10,
     "PDI-P": 37,
-    "Golkar": 5,
+    "Golkar": 4,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 3,
+    "PKS": 5,
     "PAN": 6,
     "Demokrat": 11
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 101,
-    "Golkar": 73,
+    "Golkar": 72,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 53,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "danantara": 39,
-    "koperasi": 70,
+    "bumn": 56,
+    "danantara": 38,
+    "koperasi": 71,
     "perdagangan": 7,
     "ekspor": 11,
-    "investasi": 40,
+    "investasi": 39,
     "kartel-monopoli": 8,
-    "umkm": 13,
+    "umkm": 14,
     "merger-akuisisi": 3,
     "ipo": 3,
     "impor": 6,
@@ -68,7 +68,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 13,
+    "Rizki Faisal": 12,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
@@ -91,13 +91,69 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 14,
+    "Kinerja BUMN": 13,
     "Perdagangan": 45,
     "Hukum/Audit": 48,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Celios: Penempatan Calon Manajer Koperasi Tidak Jelas - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 06:00:00 GMT",
+      "link": "https://www.tempo.co/politik/celios-penempatan-calon-manajer-koperasi-tidak-jelas-2279955"
+    },
+    {
+      "title": "Komisi XIII Soroti Pilot WNA Bawa 26 Kg Narkoba: Imigrasi Jadi Pagar Pengaman - kumparan.com - Kumparan.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 05:45:00 GMT",
+      "link": "https://kumparan.com/kumparannews/komisi-xiii-soroti-pilot-wna-bawa-26-kg-narkoba-imigrasi-jadi-pagar-pengaman-27ugOoBbdWJ"
+    },
+    {
+      "title": "Kemendag kantongi potensi ekspor Rp1,87 miliar ke Chile - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 05:16:02 GMT",
+      "link": "https://www.antaranews.com/berita/5677237/kemendag-kantongi-potensi-ekspor-rp187-miliar-ke-chile"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - Lintas Lampung",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 04:58:00 GMT",
+      "link": "https://web.lintaslampung.com/rieke-diah-pitaloka-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia/"
+    },
+    {
+      "title": "Jadi Modal Penguatan Ekonomi, Ratusan Koperasi Aktif Didorong Semakin Sehat dan Produktif - Pemerintah Kota Pekalongan",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 04:48:46 GMT",
+      "link": "https://pekalongankota.go.id/berita/jadi-modal-penguatan-ekonomi-ratusan-koperasi-aktif-didorong-semakin-sehat-dan-produktif.html"
+    },
+    {
+      "title": "Andre Rosiade Penuhi Aspirasi SDN 48 Ganting di Padang, Ruang Kelas Baru Segera Dibangun - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 04:15:55 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-penuhi-aspirasi-sdn-48-ganting-di-padang-ruang-kelas-baru-segera-dibangun-428125/"
+    },
+    {
+      "title": "Rapat di DPR, Maqdir Ismail Beri Catatan Ini soal RUU Perampasan Aset - detikNews",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 04:00:27 GMT",
+      "link": "https://news.detik.com/berita/d-8601850/rapat-di-dpr-maqdir-ismail-beri-catatan-ini-soal-ruu-perampasan-aset/amp"
+    },
+    {
+      "title": "Komisi III DPR Lanjutkan Bahas RUU Perampasan Aset, Hadirkan Juniver Girsang dan Maqdir Ismail - inilah.com",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 03:44:00 GMT",
+      "link": "https://www.inilah.com/komisi-iii-dpr-lanjutkan-bahas-ruu-perampasan-aset-hadirkan-juniver-girsang-dan-maqdir-ismail"
+    },
     {
       "title": "Investasi Batam 2026 Tembus Rp17,4 Triliun, Singapura Puncaki Daftar Investor Asing - Batamnews",
       "entity": "BP Batam",
@@ -146,62 +202,6 @@
       "kind": "lembaga",
       "published": "Sun, 02 Aug 2026 17:42:11 GMT",
       "link": "https://radarmojokerto.jawapos.com/amp/ekonomi-bisnis/2608030014/dekopinda-kabupaten-mojokerto-gelar-peringatan-hari-koperasi-ke-79-gandeng-pemkab-dan-perwosi-perkuat-sinergi"
-    },
-    {
-      "title": "Harga Referensi CPO Agustus Turun Jadi Rp 17,9 Juta Per MT - BeritaSatu.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 16:20:44 GMT",
-      "link": "https://www.beritasatu.com/ekonomi/3016074/harga-referensi-cpo-agustus-turun-jadi-rp-179-juta-per-mt"
-    },
-    {
-      "title": "BPP KAPMI: Pengelolaan Danantara Harus Sejalan Dengan Nafas Ekonomi Kerakyatan Prabowo - detik suara rakyat",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 15:16:43 GMT",
-      "link": "https://detiksuararakyat.id/bpp-kapmi-pengelolaan-danantara-harus-sejalan-dengan-nafas-ekonomi-kerakyatan-prabowo/"
-    },
-    {
-      "title": "Kemendag Turunkan Harga Patokan Ekspor dan Harga Referensi Emas Agustus 2026 - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 14:33:56 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-turunkan-harga-emas-agustus"
-    },
-    {
-      "title": "Harga Acuan Emas Melemah Lagi, Ini Penyebabnya - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 14:28:00 GMT",
-      "link": "https://investor.id/market/448820/harga-acuan-emas-melemah-lagi-ini-penyebabnya"
-    },
-    {
-      "title": "BUMN Dipangkas, Rahmat Saleh Minta Kualitas Layanan Publik Tetap Terjaga - ANTARA News Sumbar",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 12:22:45 GMT",
-      "link": "https://sumbar.antaranews.com/berita/772596/bumn-dipangkas-rahmat-saleh-minta-kualitas-layanan-publik-tetap-terjaga"
-    },
-    {
-      "title": "Ida Nurlaela Dukung Penerapan Data Tunggal DTSEN Perbaiki Mekanisme Pendataan Bansos - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Sun, 02 Aug 2026 11:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-dukung-penerapan-data-tunggal-dtsen-perbaiki-mekanisme-pendataan-bansos-b2pYrZbgRH"
-    },
-    {
-      "title": "Kementerian Perdagangan China Bantah Tuduhan Amerika Perihal Kerja Paksa di Xinjiang - Hidayatullah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 10:42:59 GMT",
-      "link": "https://hidayatullah.com/berita/2026/08/02/309400/kementerian-perdagangan-china-bantah-tuduhan-amerika-perihal-kerja-paksa-di-xinjiang.html"
-    },
-    {
-      "title": "| Kemenkop Dorong TEP 2026 Jadi Agen Perubahan Koperasi Kawasan Transmigrasi - jurnas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 08:53:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1662999/kemenkop-dorong-tep-2026-jadi-agen-perubahan-koperasi-kawasan-transmigrasi/"
     }
   ]
 }
