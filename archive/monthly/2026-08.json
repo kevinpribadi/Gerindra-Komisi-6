@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-03T06:20:15.073020",
+  "generated_at": "2026-08-03T10:40:33.076783",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 37,
-    "Golkar": 4,
-    "NasDem": 3,
+    "Golkar": 3,
+    "NasDem": 2,
     "PKB": 15,
-    "PKS": 5,
+    "PKS": 6,
     "PAN": 6,
-    "Demokrat": 11
+    "Demokrat": 12
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 101,
-    "Golkar": 72,
+    "Golkar": 71,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 53,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "danantara": 38,
+    "danantara": 39,
     "koperasi": 71,
     "perdagangan": 7,
-    "ekspor": 11,
-    "investasi": 39,
+    "ekspor": 12,
+    "investasi": 38,
     "kartel-monopoli": 8,
     "umkm": 14,
     "merger-akuisisi": 3,
@@ -68,7 +68,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 12,
+    "Rizki Faisal": 11,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 6,
@@ -91,13 +91,104 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 13,
-    "Perdagangan": 45,
-    "Hukum/Audit": 48,
+    "Kinerja BUMN": 14,
+    "Perdagangan": 46,
+    "Hukum/Audit": 47,
     "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Airlangga Targetkan Aturan Baru Ekspor LTJ Rampung Seminggu Lagi - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 10:25:05 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/117117/airlangga-targetkan-aturan-baru-ekspor-ltj-rampung-seminggu-lagi"
+    },
+    {
+      "title": "Harga Emas Melemah, Permintaan Logam Mulia Pasar Global Turun - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 10:23:24 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/03/harga-emas-melemah-permintaan-logam-mulia-pasar-global-turun/"
+    },
+    {
+      "title": "Herman Khaeron: Gerakan Langit Biru Sejalan dengan Program Indonesia ASRI - Suara Pemerintah",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 08:41:25 GMT",
+      "link": "https://suarapemerintah.id/2026/08/herman-khaeron-gerakan-langit-biru-sejalan-dengan-program-indonesia-asri/"
+    },
+    {
+      "title": "Menkop: Koperasi Desa Merah Putih Jadi Strategi Penguatan Ekonomi Kerakyatan Berbasis Desa - Serayu Nusantara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 08:32:33 GMT",
+      "link": "https://serayunusantara.com/menkop-koperasi-desa-merah-putih-jadi-strategi-penguatan-ekonomi-kerakyatan-berbasis-desa/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Minta Penegakan Hukum Berlaku Adil bagi WNI dan WNA - Detak.co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 08:21:48 GMT",
+      "link": "https://detak.co/kategori/parlemen/rieke-diah-pitaloka-minta-penegakan-hukum-berlaku-adil-bagi-wni-dan-wna/"
+    },
+    {
+      "title": "Rieke Heran Napi Lapas Karawang Tak Mau Pulang Rumah: Mau Kerja di Sini? - detikNews",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 08:13:46 GMT",
+      "link": "https://news.detik.com/berita/d-8602379/rieke-heran-napi-lapas-karawang-tak-mau-pulang-rumah-mau-kerja-di-sini"
+    },
+    {
+      "title": "Rapat di DPR, Maqdir Ismail Beri Catatan Ini soal RUU Perampasan Aset - detikNews",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 08:12:56 GMT",
+      "link": "https://news.detik.com/berita/d-8601850/rapat-di-dpr-maqdir-ismail-beri-catatan-ini-soal-ruu-perampasan-aset"
+    },
+    {
+      "title": "Resmi Dilantik, Dinkop, UKM dan Naker Kota Blitar Harap Dekopinda Jadi Motor Penggerak Kemajuan Koperasi - Pemerintah Kota Blitar",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 07:55:03 GMT",
+      "link": "https://blitarkota.go.id/berita/resmi-dilantik-dinkop-ukm-dan-naker-kota-blitar-harap-dekopinda-jadi-motor-penggerak-kemajuan-koperasi"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Jangan Bikin Hukum Tajam ke WNI tapi Tumpul terhadap WNA - DPR RI",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 07:47:21 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rieke-Diah-Pitaloka-Jangan-Bikin-Hukum-Tajam-ke-WNI-tapi-Tumpul-terhadap-WNA-67815"
+    },
+    {
+      "title": "Danantara Housing Expo 2026 Akan Digelar di PIK - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 07:46:46 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-housing-expo-2026-akan-digelar-di-pik-2279973"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - waspada.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 07:05:48 GMT",
+      "link": "https://www.waspada.id/berita/rieke-diah-pitaloka-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia"
+    },
+    {
+      "title": "Periode Agustus 2026: Harga Referensi CPO Terkoreksi, HPE Biji Kakao, Getah Pinus, dan Produk Kayu Naik - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 03 Aug 2026 06:56:00 GMT",
+      "link": "https://www.topbusiness.id/133471/periode-agustus-2026-harga-referensi-cpo-terkoreksi-hpe-biji-kakao-getah-pinus-dan-produk-kayu-naik.html"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Karya Jurnalistik dan Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - SumselPost",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 06:36:29 GMT",
+      "link": "https://sumselpost.co.id/rieke-diah-pitaloka-karya-jurnalistik-dan-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia/"
+    },
     {
       "title": "Celios: Penempatan Calon Manajer Koperasi Tidak Jelas - Tempo.co",
       "entity": "Kementerian Koperasi",
@@ -111,97 +202,6 @@
       "kind": "anggota",
       "published": "Mon, 03 Aug 2026 05:45:00 GMT",
       "link": "https://kumparan.com/kumparannews/komisi-xiii-soroti-pilot-wna-bawa-26-kg-narkoba-imigrasi-jadi-pagar-pengaman-27ugOoBbdWJ"
-    },
-    {
-      "title": "Kemendag kantongi potensi ekspor Rp1,87 miliar ke Chile - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 05:16:02 GMT",
-      "link": "https://www.antaranews.com/berita/5677237/kemendag-kantongi-potensi-ekspor-rp187-miliar-ke-chile"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi Indonesia - Lintas Lampung",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 04:58:00 GMT",
-      "link": "https://web.lintaslampung.com/rieke-diah-pitaloka-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi-indonesia/"
-    },
-    {
-      "title": "Jadi Modal Penguatan Ekonomi, Ratusan Koperasi Aktif Didorong Semakin Sehat dan Produktif - Pemerintah Kota Pekalongan",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 04:48:46 GMT",
-      "link": "https://pekalongankota.go.id/berita/jadi-modal-penguatan-ekonomi-ratusan-koperasi-aktif-didorong-semakin-sehat-dan-produktif.html"
-    },
-    {
-      "title": "Andre Rosiade Penuhi Aspirasi SDN 48 Ganting di Padang, Ruang Kelas Baru Segera Dibangun - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 04:15:55 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-penuhi-aspirasi-sdn-48-ganting-di-padang-ruang-kelas-baru-segera-dibangun-428125/"
-    },
-    {
-      "title": "Rapat di DPR, Maqdir Ismail Beri Catatan Ini soal RUU Perampasan Aset - detikNews",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 04:00:27 GMT",
-      "link": "https://news.detik.com/berita/d-8601850/rapat-di-dpr-maqdir-ismail-beri-catatan-ini-soal-ruu-perampasan-aset/amp"
-    },
-    {
-      "title": "Komisi III DPR Lanjutkan Bahas RUU Perampasan Aset, Hadirkan Juniver Girsang dan Maqdir Ismail - inilah.com",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 03:44:00 GMT",
-      "link": "https://www.inilah.com/komisi-iii-dpr-lanjutkan-bahas-ruu-perampasan-aset-hadirkan-juniver-girsang-dan-maqdir-ismail"
-    },
-    {
-      "title": "Investasi Batam 2026 Tembus Rp17,4 Triliun, Singapura Puncaki Daftar Investor Asing - Batamnews",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 02:39:00 GMT",
-      "link": "https://www.batamnews.co.id/berita-129170-investasi-batam-2026-tembus-rp17-4-triliun-singapura-puncaki-daftar-investor-asing.html"
-    },
-    {
-      "title": "Harga CPO Ambles 0,44% di Agustus 2026, Jadi Acuan Bea Keluar hingga Pungutan Ekspor - SINDOnews Ekbis",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 01:59:09 GMT",
-      "link": "https://ekbis.sindonews.com/read/1734987/34/harga-cpo-ambles-044-di-agustus-2026-jadi-acuan-bea-keluar-hingga-pungutan-ekspor-1785719319"
-    },
-    {
-      "title": "Milad ke-51 MUI, Ida Nurlaela: Peran Ulama Krusial Agar Kemajuan Berpijak Pada Nilai Agama, Budaya, Kesejahteraan Masyarakat - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 01:00:00 GMT",
-      "link": "https://www.gesuri.id/serba-serbi/milad-ke-51-mui-ida-nurlaela-peran-ulama-krusial-agar-kemajuan-berpijak-pada-nilai-agama-budaya-kesejahteraan-masyarakat-b2pYsZbgRR"
-    },
-    {
-      "title": "Batam Bidik Nilai Tambah Industri Kendaraan Listrik - gokepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 23:59:29 GMT",
-      "link": "https://gokepri.com/batam-bidik-nilai-tambah-industri-kendaraan-listrik/"
-    },
-    {
-      "title": "Rekor Koreksi Tiga Bulan, Harga Referensi CPO Agustus 2026 Dipatok USD996,52 - KabarBursa.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 23:49:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/rekor-koreksi-tiga-bulan-harga-referensi-cpo-agustus-2026-dipatok-usd99652"
-    },
-    {
-      "title": "Antara ‘Prabowonomics’ dan Reaktualisasi Pasal 33 UUD 1945 - Kedai Pena",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 18:33:56 GMT",
-      "link": "https://www.kedaipena.com/antara-prabowonomics-dan-reaktualisasi-pasal-33-uud-1945/"
-    },
-    {
-      "title": "Dekopinda Kabupaten Mojokerto Gelar Peringatan Hari Koperasi Ke-79, Gandeng Pemkab dan Perwosi, Perkuat Sinergi - Radar Mojokerto",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 02 Aug 2026 17:42:11 GMT",
-      "link": "https://radarmojokerto.jawapos.com/amp/ekonomi-bisnis/2608030014/dekopinda-kabupaten-mojokerto-gelar-peringatan-hari-koperasi-ke-79-gandeng-pemkab-dan-perwosi-perkuat-sinergi"
     }
   ]
 }
