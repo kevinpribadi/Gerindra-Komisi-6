@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T10:35:50.389841",
+  "generated_at": "2026-08-04T13:00:03.117358",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
-    "Golkar": 3,
+    "Golkar": 5,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 7,
+    "PKS": 5,
     "PAN": 12,
     "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 102,
-    "Golkar": 67,
+    "Golkar": 69,
     "NasDem": 47,
     "PKB": 48,
     "PKS": 54,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 44,
-    "bumn": 53,
+    "danantara": 43,
+    "bumn": 52,
     "koperasi": 73,
-    "perdagangan": 9,
-    "ekspor": 17,
+    "perdagangan": 8,
+    "ekspor": 18,
     "umkm": 20,
     "investasi": 32,
     "kartel-monopoli": 8,
@@ -66,7 +66,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 5,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 9,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -91,12 +91,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 46,
+    "Perdagangan": 47,
     "Hukum/Audit": 48,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Pendapatan BKI Melonjak 13,6 Persen Menjadi Rp 1,5 Triliun pada 2025 - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 12:31:30 GMT",
+      "link": "https://achmadnurhidayat.id/pendapatan-bki-melonjak-rp-1-5-triliun-2025"
+    },
+    {
+      "title": "Anggota DPR Firnando Hadityo Ganinduto Yakin Santri Darul Amanah Kendal Jadi Pemimpin Bangsa - JPNN.com Jakarta",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 11:30:00 GMT",
+      "link": "https://jakarta.jpnn.com/politik/3162/anggota-dpr-firnando-hadityo-ganinduto-yakin-santri-darul-amanah-kendal-jadi-pemimpin-bangsa"
+    },
+    {
+      "title": "Mendag: Ekspor RI-Thailand Capai USD17,7 Miliar - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 11:23:50 GMT",
+      "link": "https://www.metrotvnews.com/play/kewCj3r1-mendag-ekspor-ri-thailand-capai-usd17-7-miliar"
+    },
+    {
+      "title": "Firnando Ganinduto: Santri Darul Amanah Kendal Pasti Bisa Jadi Pemimpin Bangsa - VIVA.co.id",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 11:20:03 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1918938-firnando-ganinduto-santri-darul-amanah-kendal-pasti-bisa-jadi-pemimpin-bangsa"
+    },
     {
       "title": "Mendag: Ekspor Indonesia Tumbuh 3,9 Persen, Surplus Dagang Tetap Terjaga - Infobanknews",
       "entity": "Kementerian Perdagangan",
@@ -168,39 +196,11 @@
       "link": "https://infobanknews.com/danantara-siapkan-peta-jalan-5-tahun-untuk-transformasi-besar-bumn"
     },
     {
-      "title": "| Legislator PDIP: Tragedi Nabire Alarm Rapuhnya Perlindungan Anak - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 05:52:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1663091/legislator-pdip-tragedi-nabire-alarm-rapuhnya-perlindungan-anak/"
-    },
-    {
-      "title": "Danantara Siapkan Peta Strategi Lima Tahun Transformasi BUMN - MetroTVNews.com",
+      "title": "Ikut P3MD, 399 Pegawai BUMN Digembleng di Kodiklat TNI - CNN Indonesia",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 05:34:37 GMT",
-      "link": "https://www.metrotvnews.com/read/kWDCzvAp-danantara-siapkan-peta-strategi-lima-tahun-transformasi-bumn"
-    },
-    {
-      "title": "Rudi Alfahri Rangkuti Desak KPPU Usut Tuntas Semen Langka Di Sumut - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 05:28:14 GMT",
-      "link": "https://www.waspada.id/artikel/rudi-alfahri-rangkuti-desak-kppu-usut-tuntas-semen-langka-di-sumut"
-    },
-    {
-      "title": "ementerian Koperasi RI Bersama Universitas UIN Hidayatullah Nasional & Dewan Koperasi Infonesia Membuka Secara Resmi Grand Opening Jambore Koperasi Mahasiswa Nasional (JAMKOPNAS) 2026, 4-6 Agustus 2026 Dengan Tema \"Seeds of Change: - Metropolitan Post -",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 05:22:52 GMT",
-      "link": "https://metropolitanpost.id/ementerian-koperasi-ri-bersama-universitas-uin-hidayatullah-nasional-dewan-koperasi-infonesia-membuka-secara-resmi-grand-opening-jambore-koperasi-mahasiswa-nasional-jamkopnas-2026-4-6-agustus-202/"
-    },
-    {
-      "title": "Dekopinda Kota Blitar 2026-2030 Dilantik, Fokus Pembinaan Koperasi dan Digitalisasi - Radar Bangsa",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 05:05:30 GMT",
-      "link": "https://radarbangsa.co.id/dekopinda-kota-blitar-2026-2030-dilantik-fokus-pembinaan-koperasi-dan-digitalisasi/"
+      "published": "Tue, 04 Aug 2026 05:54:01 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260804122928-20-1388405/ikut-p3md-399-pegawai-bumn-digembleng-di-kodiklat-tni"
     }
   ]
 }
