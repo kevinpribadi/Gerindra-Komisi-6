@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T13:00:03.117358",
+  "generated_at": "2026-08-04T15:31:05.828418",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
     "Golkar": 5,
     "NasDem": 3,
-    "PKB": 15,
-    "PKS": 5,
+    "PKB": 14,
+    "PKS": 6,
     "PAN": 12,
-    "Demokrat": 10
+    "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 102,
-    "Golkar": 69,
+    "Golkar": 68,
     "NasDem": 47,
     "PKB": 48,
-    "PKS": 54,
+    "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 43,
-    "bumn": 52,
+    "danantara": 44,
+    "bumn": 51,
     "koperasi": 73,
     "perdagangan": 8,
     "ekspor": 18,
@@ -67,7 +67,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 9,
+    "Rizki Faisal": 8,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 7,
@@ -79,7 +79,7 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 13,
+    "Amin Ak.": 14,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
@@ -90,13 +90,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 14,
-    "Perdagangan": 47,
-    "Hukum/Audit": 48,
+    "Kinerja BUMN": 13,
+    "Perdagangan": 46,
+    "Hukum/Audit": 47,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Menkop Dorong Penguatan Koperasi Syariah bagi Pengusaha Muslimah - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 14:31:15 GMT",
+      "link": "https://nasional.tvrinews.com/berita/td8pz52-menkop-dorong-penguatan-koperasi-syariah-bagi-pengusaha-muslimah"
+    },
+    {
+      "title": "BKI Akselerasi Transformasi Bisnis Melalui Ekosistem Danantara - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 13:50:33 GMT",
+      "link": "https://achmadnurhidayat.id/bki-akselerasi-transformasi-bisnis-danantara"
+    },
+    {
+      "title": "DPR Dorong Pemerintah Siasati Pelemahan Rupiah dengan Memperkuat Pariwisata hingga Hilirisasi - indoposco.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 13:02:44 GMT",
+      "link": "https://indoposco.id/2026/08/04/dpr-dorong-pemerintah-siasati-pelemahan-rupiah-dengan-memperkuat-pariwisata-hingga-hilirisasi/"
+    },
     {
       "title": "Pendapatan BKI Melonjak 13,6 Persen Menjadi Rp 1,5 Triliun pada 2025 - achmadnurhidayat.id",
       "entity": "Danantara",
@@ -126,11 +147,25 @@
       "link": "https://www.viva.co.id/berita/nasional/1918938-firnando-ganinduto-santri-darul-amanah-kendal-pasti-bisa-jadi-pemimpin-bangsa"
     },
     {
+      "title": "Siap-Siap Beras Fortifikasi Ini Kena Sanksi, Begini Rencana Kemendag - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 10:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260804160622-4-756513/siap-siap-beras-fortifikasi-ini-kena-sanksi-begini-rencana-kemendag"
+    },
+    {
       "title": "Mendag: Ekspor Indonesia Tumbuh 3,9 Persen, Surplus Dagang Tetap Terjaga - Infobanknews",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Tue, 04 Aug 2026 10:28:56 GMT",
       "link": "https://infobanknews.com/mendag-ekspor-indonesia-tumbuh-39-persen-surplus-dagang-tetap-terjaga"
+    },
+    {
+      "title": "PFII Bisa Tarik Investor Dunia, DPR RI Minta Bali Utara Jadi Prioritas - mcwnews.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 09:23:12 GMT",
+      "link": "https://www.mcwnews.com/read/pfii-bisa-tarik-investor-dunia-dpr-ri-minta-bali-utara-jadi-prioritas"
     },
     {
       "title": "Sinergi Kemendag–KADIN Perkuat Posisi Indonesia di Pasar Global - vibizmedia.com",
@@ -166,41 +201,6 @@
       "kind": "anggota",
       "published": "Tue, 04 Aug 2026 07:21:15 GMT",
       "link": "https://fraksi.pks.id/2026/08/04/anggota-komisi-xi-dpr-ri-amin-ak-dorong-pemerintah-siasati-pelemahan-rupiah-dengan-memperkuat-pariwisata-ekspor-dan-hilirisasi/"
-    },
-    {
-      "title": "Kemendag Genjot Ekspor ke Thailand, Target 20 Miliar Dolar AS - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 07:20:00 GMT",
-      "link": "https://tirto.id/kemendag-genjot-ekspor-ke-thailand-target-20-miliar-dolar-as-hAJc"
-    },
-    {
-      "title": "Pemkot Blitar Lantik Pengurus Dekopinda 2026–2030, Diharapkan Perkuat Pembinaan Koperasi - Serayu Nusantara",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 07:18:31 GMT",
-      "link": "https://serayunusantara.com/pemkot-blitar-lantik-pengurus-dekopinda-2026-2030-diharapkan-perkuat-pembinaan-koperasi/"
-    },
-    {
-      "title": "Pemerintah Provinsi Papua Barat Daya - Pemerintah Provinsi Papua Barat Daya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 06:36:07 GMT",
-      "link": "https://papuabaratdayaprov.go.id/berita/1081/pemprov-pbd-perkuat-sinergi-dengan-kemendag-dorong-sorong-jadi-pusat-perdagangan-dan-ekspor-indones.html"
-    },
-    {
-      "title": "Danantara Siapkan Peta Jalan 5 Tahun untuk Transformasi Besar BUMN - Infobanknews",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 06:11:00 GMT",
-      "link": "https://infobanknews.com/danantara-siapkan-peta-jalan-5-tahun-untuk-transformasi-besar-bumn"
-    },
-    {
-      "title": "Ikut P3MD, 399 Pegawai BUMN Digembleng di Kodiklat TNI - CNN Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 05:54:01 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260804122928-20-1388405/ikut-p3md-399-pegawai-bumn-digembleng-di-kodiklat-tni"
     }
   ]
 }
