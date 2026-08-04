@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-03T22:06:41.586208",
+  "generated_at": "2026-08-04T00:06:50.955104",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 35,
     "Golkar": 3,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 6,
+    "PKS": 7,
     "PAN": 8,
     "Demokrat": 12
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 102,
-    "Golkar": 69,
+    "Golkar": 68,
     "NasDem": 47,
     "PKB": 48,
     "PKS": 53,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 56,
-    "danantara": 41,
+    "bumn": 55,
+    "danantara": 40,
     "koperasi": 72,
     "perdagangan": 9,
     "umkm": 19,
@@ -67,7 +67,7 @@
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 6,
+    "Firnando Hadityo Ganinduto": 5,
     "Rizki Faisal": 9,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -98,6 +98,13 @@
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Sebut Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi - Halo Semarang",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 03 Aug 2026 23:15:38 GMT",
+      "link": "https://halosemarang.id/rieke-diah-pitaloka-sebut-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi/"
+    },
     {
       "title": "Danantara Mulai Tunjukkan Peran Dongkrak Pertumbuhan Ekonomi Indonesia - Rmol.id",
       "entity": "Danantara",
@@ -195,13 +202,6 @@
       "kind": "anggota",
       "published": "Mon, 03 Aug 2026 12:13:20 GMT",
       "link": "https://www.jakartanews.id/2026/08/03/ajak-pelaku-umkm-cerdas-kelola-keuangan-asep-wahyuwijaya-omzet-besar-belum-tentu-untung/"
-    },
-    {
-      "title": "Kemenkop Perkuat Koperasi Syariah WPMI Dorong UMKM Perempuan Naik Kelas - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 11:57:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/320237/kemenkop-perkuat-koperasi-syariah-wpmi-dorong-umkm-perempuan-naik-kelas"
     }
   ]
 }
