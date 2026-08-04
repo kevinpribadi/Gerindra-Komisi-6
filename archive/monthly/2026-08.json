@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T15:31:05.828418",
+  "generated_at": "2026-08-04T17:45:51.303394",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "danantara": 44,
     "bumn": 51,
-    "koperasi": 73,
-    "perdagangan": 8,
-    "ekspor": 18,
+    "koperasi": 72,
+    "perdagangan": 7,
+    "ekspor": 17,
     "umkm": 20,
-    "investasi": 32,
+    "investasi": 33,
     "kartel-monopoli": 8,
     "merger-akuisisi": 2,
     "ipo": 3,
@@ -91,9 +91,9 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 13,
-    "Perdagangan": 46,
+    "Perdagangan": 45,
     "Hukum/Audit": 47,
-    "Koperasi/UMKM": 84,
+    "Koperasi/UMKM": 83,
     "Konflik Publik": 8
   },
   "top_headlines": [
@@ -161,6 +161,13 @@
       "link": "https://infobanknews.com/mendag-ekspor-indonesia-tumbuh-39-persen-surplus-dagang-tetap-terjaga"
     },
     {
+      "title": "Kemendag Ingatkan Depot Air Minum Isi Ulang Patuhi Aturan, Utamakan Kebersihan demi Lindungi Konsumen - batamtoday.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 10:15:43 GMT",
+      "link": "https://batamtoday.com/news/kemendag-ingatkan-depot-air-minum-isi-ulang-patuhi-aturan-utamakan-kebersihan-demi-lindungi-konsumen"
+    },
+    {
       "title": "PFII Bisa Tarik Investor Dunia, DPR RI Minta Bali Utara Jadi Prioritas - mcwnews.com",
       "entity": "Gde Sumarjaya Linggih",
       "kind": "anggota",
@@ -194,13 +201,6 @@
       "kind": "lembaga",
       "published": "Tue, 04 Aug 2026 07:35:21 GMT",
       "link": "https://berita.nunukankab.go.id/view_photo/jemput-bola-penginputan-laporan-rat-koperasi-pada-aplikasi-ods-mandiri-di-kecamatan-nunukan-dan-nunukan-selatan"
-    },
-    {
-      "title": "Anggota Komisi XI DPR RI, Amin Ak Dorong Pemerintah Siasati Pelemahan Rupiah dengan Memperkuat Pariwisata, Ekspor, dan Hilirisasi - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 07:21:15 GMT",
-      "link": "https://fraksi.pks.id/2026/08/04/anggota-komisi-xi-dpr-ri-amin-ak-dorong-pemerintah-siasati-pelemahan-rupiah-dengan-memperkuat-pariwisata-ekspor-dan-hilirisasi/"
     }
   ]
 }
