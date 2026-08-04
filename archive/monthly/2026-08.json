@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T00:06:50.955104",
+  "generated_at": "2026-08-04T04:11:16.852961",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 35,
@@ -8,17 +8,17 @@
     "NasDem": 3,
     "PKB": 15,
     "PKS": 7,
-    "PAN": 8,
+    "PAN": 10,
     "Demokrat": 12
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 102,
-    "Golkar": 68,
+    "Golkar": 67,
     "NasDem": 47,
     "PKB": 48,
     "PKS": 53,
-    "PAN": 23,
+    "PAN": 26,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
+    "danantara": 41,
     "bumn": 55,
-    "danantara": 40,
-    "koperasi": 72,
+    "koperasi": 73,
     "perdagangan": 9,
-    "umkm": 19,
+    "umkm": 20,
     "ekspor": 14,
     "investasi": 35,
     "kartel-monopoli": 8,
@@ -64,7 +64,6 @@
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
-    "Ahmad Labib": 1,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 5,
@@ -85,7 +84,7 @@
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
-    "Iskandar": 16,
+    "Iskandar": 19,
     "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
@@ -93,11 +92,67 @@
   "early_warning_counts": {
     "Kinerja BUMN": 14,
     "Perdagangan": 46,
-    "Hukum/Audit": 46,
+    "Hukum/Audit": 49,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Panel Surya dan Armada Angkutan Pupuk Disiapkan untuk Perkuat Kopdes - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 03:11:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/04/717018/panel-surya-dan-armada-angkutan-pupuk-disiapkan-untuk-perkuat-kopdes-"
+    },
+    {
+      "title": "KPK tutup penyidikan enam kasus korupsi, salah satunya kasus Sekjen DPR - ANTARA News Kalteng",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 02:54:01 GMT",
+      "link": "https://kalteng.antaranews.com/berita/837177/kpk-tutup-penyidikan-enam-kasus-korupsi-salah-satunya-kasus-sekjen-dpr"
+    },
+    {
+      "title": "Kemenkop Gandeng KPK Bangun Budaya Antikorupsi demi Sukseskan Koperasi Merah Putih - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 02:41:14 GMT",
+      "link": "https://suarapemerintah.id/2026/08/kemenkop-gandeng-kpk-bangun-budaya-antikorupsi-demi-sukseskan-koperasi-merah-putih/"
+    },
+    {
+      "title": "KPK SP3 6 Kasus Dugaan Korupsi, Salah Satunya Perkara Sekjen DPR Indra Iskandar - JPNN.com",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 02:30:01 GMT",
+      "link": "https://www.jpnn.com/news/kpk-sp3-6-kasus-dugaan-korupsi-salah-satunya-perkara-sekjen-dpr-indra-iskandar"
+    },
+    {
+      "title": "Rieke Sebut Pembunuhan Siswi SMP oleh Mantan Pacar di Nabire Tragedi Kemanusiaan - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 02:18:52 GMT",
+      "link": "https://www.jpnn.com/news/rieke-sebut-pembunuhan-siswi-smp-oleh-mantan-pacar-di-nabire-tragedi-kemanusiaan"
+    },
+    {
+      "title": "Menkop Dorong Koperasi Syariah WPMI Tingkatkan Daya Saing UMKM Perempuan - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 01:47:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-dorong-koperasi-syariah-wpmi-tingkatkan-daya-saing-umkm-perempuan/"
+    },
+    {
+      "title": "Danantara siapkan peta jalan transformasi BUMN untuk lima tahun ke depan - ANTARA News Sultra",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 01:43:45 GMT",
+      "link": "https://sultra.antaranews.com/berita/538173/danantara-siapkan-peta-jalan-transformasi-bumn-untuk-lima-tahun-ke-depan"
+    },
+    {
+      "title": "KPK Terbitkan 6 SP3 hingga Pertengahan Tahun Ini, Sekjen DPR Indra Iskandar Salah Satunya - VOI.ID",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 00:43:26 GMT",
+      "link": "https://voi.id/amp/588041/kpk-terbitkan-6-sp3-hingga-pertengahan-tahun-ini-sekjen-dpr-indra-iskandar-salah-satunya"
+    },
     {
       "title": "Rieke Diah Pitaloka Sebut Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi - Halo Semarang",
       "entity": "Rieke Diah Pitaloka",
@@ -146,62 +201,6 @@
       "kind": "anggota",
       "published": "Mon, 03 Aug 2026 13:34:50 GMT",
       "link": "https://www.wartatasik.com/raker-komisi-iv-dprd-dan-bpjs-kesehatan-tasikmalaya-h-yadi-mulyadi-tekankan-peningkatan-mutu-layanan-medis/"
-    },
-    {
-      "title": "Prabowo Bidik Perdagangan RI-Thailand Tembus US$20 M pada 2030 - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 13:17:23 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260803194921-92-1388174/prabowo-bidik-perdagangan-ri-thailand-tembus-us-20-m-pada-2030"
-    },
-    {
-      "title": "Menkop Perkuat Koperasi Syariah WPMI untuk Dorong UMKM Perempuan Naik Kelas - Indonesiadaily.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 13:08:21 GMT",
-      "link": "https://indonesiadaily.net/2026/08/menkop-perkuat-koperasi-syariah-wpmi-untuk-dorong-umkm-perempuan-naik-kelas/"
-    },
-    {
-      "title": "Kemendag dan Papua Barat Daya Perkuat Sinergi Dorong UMKM Ekspor - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 12:53:36 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/03/kemendag-dan-papua-barat-daya-perkuat-sinergi-dorong-umkm-ekspor/"
-    },
-    {
-      "title": "Pameran Foto Jurnalistik Warna-Warna Parlemen 2026 Resmi Dibuka - merahputih.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 12:53:23 GMT",
-      "link": "https://www.merahputih.com/post/read/pameran-foto-warna-warna-parlemen-2026-bertajuk-mengawal-dan-mewujudkan-indonesia-emas"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Hukum Kita Tumpul ke WNA, Tajam Bagi Warganya Sendiri - Kosadata",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 12:45:00 GMT",
-      "link": "https://kosadata.com/rieke-diah-pitaloka-hukum-kita-tumpul-ke-wna-tajam-bagi-warganya-sendiri"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Buka Pameran Foto KWP, Sebut Wartawan Perekam Sejarah Demokrasi - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 12:33:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-buka-pameran-foto-kwp-sebut-wartawan-perekam-sejarah-demokrasi-b2pYtZbgTH"
-    },
-    {
-      "title": "Purbaya Akui Pimpinan Danantara Ikut Hadiri Rapat KSSK Juli 2026 - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 12:23:54 GMT",
-      "link": "https://tirto.id/purbaya-akui-pimpinan-danantara-ikut-hadiri-rapat-kssk-juli-2026-hAFD"
-    },
-    {
-      "title": "Ajak Pelaku UMKM Cerdas Kelola Keuangan, Asep Wahyuwijaya: Omzet Besar Belum Tentu Untung - Jakartanews.id",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 12:13:20 GMT",
-      "link": "https://www.jakartanews.id/2026/08/03/ajak-pelaku-umkm-cerdas-kelola-keuangan-asep-wahyuwijaya-omzet-besar-belum-tentu-untung/"
     }
   ]
 }
