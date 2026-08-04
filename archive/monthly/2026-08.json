@@ -1,15 +1,15 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T07:36:58.316464",
+  "generated_at": "2026-08-04T10:35:50.389841",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
     "Golkar": 3,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 8,
-    "PAN": 11,
-    "Demokrat": 12
+    "PKS": 7,
+    "PAN": 12,
+    "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 68,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 43,
-    "bumn": 54,
+    "danantara": 44,
+    "bumn": 53,
     "koperasi": 73,
     "perdagangan": 9,
-    "ekspor": 16,
+    "ekspor": 17,
     "umkm": 20,
-    "investasi": 33,
+    "investasi": 32,
     "kartel-monopoli": 8,
     "merger-akuisisi": 2,
     "ipo": 3,
@@ -98,6 +98,34 @@
   },
   "top_headlines": [
     {
+      "title": "Mendag: Ekspor Indonesia Tumbuh 3,9 Persen, Surplus Dagang Tetap Terjaga - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 10:28:56 GMT",
+      "link": "https://infobanknews.com/mendag-ekspor-indonesia-tumbuh-39-persen-surplus-dagang-tetap-terjaga"
+    },
+    {
+      "title": "Sinergi Kemendag–KADIN Perkuat Posisi Indonesia di Pasar Global - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 09:10:25 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/04/sinergi-kemendag-kadin-perkuat-posisi-indonesia-di-pasar-global/"
+    },
+    {
+      "title": "Kemendag: Minyakita bergantung DMO bukan APBN - ANTARA News Sumbar",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 08:17:42 GMT",
+      "link": "https://sumbar.antaranews.com/berita/772843/kemendag-minyakita-bergantung-dmo-bukan-apbn"
+    },
+    {
+      "title": "KPK Setop 6 Kasus Korupsi: Ada Perkara Sekjen DPR hingga Wamenkum Eddy Hiariej - Inilah.com",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 08:02:00 GMT",
+      "link": "https://www.inilah.com/kpk-setop-6-kasus-korupsi-ada-perkara-sekjen-dpr-hingga-wamenkum-eddy-hiariej"
+    },
+    {
       "title": "Pastikan Data Valid, DKUKMPP Nunukan Dampingi Koperasi Input Laporan RAT di ODS Mandiri - Berita Nunukan",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -133,6 +161,13 @@
       "link": "https://papuabaratdayaprov.go.id/berita/1081/pemprov-pbd-perkuat-sinergi-dengan-kemendag-dorong-sorong-jadi-pusat-perdagangan-dan-ekspor-indones.html"
     },
     {
+      "title": "Danantara Siapkan Peta Jalan 5 Tahun untuk Transformasi Besar BUMN - Infobanknews",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 06:11:00 GMT",
+      "link": "https://infobanknews.com/danantara-siapkan-peta-jalan-5-tahun-untuk-transformasi-besar-bumn"
+    },
+    {
       "title": "| Legislator PDIP: Tragedi Nabire Alarm Rapuhnya Perlindungan Anak - jurnas.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
@@ -166,41 +201,6 @@
       "kind": "lembaga",
       "published": "Tue, 04 Aug 2026 05:05:30 GMT",
       "link": "https://radarbangsa.co.id/dekopinda-kota-blitar-2026-2030-dilantik-fokus-pembinaan-koperasi-dan-digitalisasi/"
-    },
-    {
-      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo sudah Kucurkan Rp7,2 Triliun Lewat Kementerian PU untuk Bangun Sumbar - Posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 04:50:47 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-sudah-kucurkan-rp72-triliun-lewat-kementerian-pu-untuk-bangun-sumbar-428333/"
-    },
-    {
-      "title": "Mengapa Banyak Anak Muda Mengincar Karier di Kementerian Koperasi? Ini Alasannya - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 04:34:58 GMT",
-      "link": "https://stekom.ac.id/artikel/mengapa-banyak-anak-muda-mengincar-karier-di-kementerian-koperasi-ini-alasannya-20260804112913"
-    },
-    {
-      "title": "Panel Surya dan Armada Angkutan Pupuk Disiapkan untuk Perkuat Kopdes - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 03:11:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/04/717018/panel-surya-dan-armada-angkutan-pupuk-disiapkan-untuk-perkuat-kopdes-"
-    },
-    {
-      "title": "KPK tutup penyidikan enam kasus korupsi, salah satunya kasus Sekjen DPR - ANTARA News Kalteng",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 02:54:01 GMT",
-      "link": "https://kalteng.antaranews.com/berita/837177/kpk-tutup-penyidikan-enam-kasus-korupsi-salah-satunya-kasus-sekjen-dpr"
-    },
-    {
-      "title": "Kemenkop Gandeng KPK Bangun Budaya Antikorupsi demi Sukseskan Koperasi Merah Putih - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 02:41:14 GMT",
-      "link": "https://suarapemerintah.id/2026/08/kemenkop-gandeng-kpk-bangun-budaya-antikorupsi-demi-sukseskan-koperasi-merah-putih/"
     }
   ]
 }
