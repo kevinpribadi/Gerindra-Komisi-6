@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T04:11:16.852961",
+  "generated_at": "2026-08-04T07:36:58.316464",
   "party_counts_7d": {
-    "Gerindra": 10,
+    "Gerindra": 11,
     "PDI-P": 35,
     "Golkar": 3,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 7,
-    "PAN": 10,
+    "PKS": 8,
+    "PAN": 11,
     "Demokrat": 12
   },
   "party_counts_30d": {
@@ -17,8 +17,8 @@
     "Golkar": 67,
     "NasDem": 47,
     "PKB": 48,
-    "PKS": 53,
-    "PAN": 26,
+    "PKS": 54,
+    "PAN": 27,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 41,
-    "bumn": 55,
+    "danantara": 43,
+    "bumn": 54,
     "koperasi": 73,
     "perdagangan": 9,
+    "ekspor": 16,
     "umkm": 20,
-    "ekspor": 14,
-    "investasi": 35,
+    "investasi": 33,
     "kartel-monopoli": 8,
     "merger-akuisisi": 2,
     "ipo": 3,
@@ -79,12 +79,12 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 3,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 12,
+    "Amin Ak.": 13,
     "Rizal Bawazier": 20,
     "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
-    "Iskandar": 19,
+    "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 4
@@ -92,11 +92,95 @@
   "early_warning_counts": {
     "Kinerja BUMN": 14,
     "Perdagangan": 46,
-    "Hukum/Audit": 49,
+    "Hukum/Audit": 48,
     "Koperasi/UMKM": 84,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Pastikan Data Valid, DKUKMPP Nunukan Dampingi Koperasi Input Laporan RAT di ODS Mandiri - Berita Nunukan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 07:35:21 GMT",
+      "link": "https://berita.nunukankab.go.id/view_photo/jemput-bola-penginputan-laporan-rat-koperasi-pada-aplikasi-ods-mandiri-di-kecamatan-nunukan-dan-nunukan-selatan"
+    },
+    {
+      "title": "Anggota Komisi XI DPR RI, Amin Ak Dorong Pemerintah Siasati Pelemahan Rupiah dengan Memperkuat Pariwisata, Ekspor, dan Hilirisasi - Fraksi PKS",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 07:21:15 GMT",
+      "link": "https://fraksi.pks.id/2026/08/04/anggota-komisi-xi-dpr-ri-amin-ak-dorong-pemerintah-siasati-pelemahan-rupiah-dengan-memperkuat-pariwisata-ekspor-dan-hilirisasi/"
+    },
+    {
+      "title": "Kemendag Genjot Ekspor ke Thailand, Target 20 Miliar Dolar AS - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 07:20:00 GMT",
+      "link": "https://tirto.id/kemendag-genjot-ekspor-ke-thailand-target-20-miliar-dolar-as-hAJc"
+    },
+    {
+      "title": "Pemkot Blitar Lantik Pengurus Dekopinda 2026–2030, Diharapkan Perkuat Pembinaan Koperasi - Serayu Nusantara",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 07:18:31 GMT",
+      "link": "https://serayunusantara.com/pemkot-blitar-lantik-pengurus-dekopinda-2026-2030-diharapkan-perkuat-pembinaan-koperasi/"
+    },
+    {
+      "title": "Pemerintah Provinsi Papua Barat Daya - Pemerintah Provinsi Papua Barat Daya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 06:36:07 GMT",
+      "link": "https://papuabaratdayaprov.go.id/berita/1081/pemprov-pbd-perkuat-sinergi-dengan-kemendag-dorong-sorong-jadi-pusat-perdagangan-dan-ekspor-indones.html"
+    },
+    {
+      "title": "| Legislator PDIP: Tragedi Nabire Alarm Rapuhnya Perlindungan Anak - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 05:52:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1663091/legislator-pdip-tragedi-nabire-alarm-rapuhnya-perlindungan-anak/"
+    },
+    {
+      "title": "Danantara Siapkan Peta Strategi Lima Tahun Transformasi BUMN - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 05:34:37 GMT",
+      "link": "https://www.metrotvnews.com/read/kWDCzvAp-danantara-siapkan-peta-strategi-lima-tahun-transformasi-bumn"
+    },
+    {
+      "title": "Rudi Alfahri Rangkuti Desak KPPU Usut Tuntas Semen Langka Di Sumut - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 05:28:14 GMT",
+      "link": "https://www.waspada.id/artikel/rudi-alfahri-rangkuti-desak-kppu-usut-tuntas-semen-langka-di-sumut"
+    },
+    {
+      "title": "ementerian Koperasi RI Bersama Universitas UIN Hidayatullah Nasional & Dewan Koperasi Infonesia Membuka Secara Resmi Grand Opening Jambore Koperasi Mahasiswa Nasional (JAMKOPNAS) 2026, 4-6 Agustus 2026 Dengan Tema \"Seeds of Change: - Metropolitan Post -",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 05:22:52 GMT",
+      "link": "https://metropolitanpost.id/ementerian-koperasi-ri-bersama-universitas-uin-hidayatullah-nasional-dewan-koperasi-infonesia-membuka-secara-resmi-grand-opening-jambore-koperasi-mahasiswa-nasional-jamkopnas-2026-4-6-agustus-202/"
+    },
+    {
+      "title": "Dekopinda Kota Blitar 2026-2030 Dilantik, Fokus Pembinaan Koperasi dan Digitalisasi - Radar Bangsa",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 05:05:30 GMT",
+      "link": "https://radarbangsa.co.id/dekopinda-kota-blitar-2026-2030-dilantik-fokus-pembinaan-koperasi-dan-digitalisasi/"
+    },
+    {
+      "title": "Andre Rosiade Buktikan Janji, Presiden Prabowo sudah Kucurkan Rp7,2 Triliun Lewat Kementerian PU untuk Bangun Sumbar - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 04:50:47 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-buktikan-janji-presiden-prabowo-sudah-kucurkan-rp72-triliun-lewat-kementerian-pu-untuk-bangun-sumbar-428333/"
+    },
+    {
+      "title": "Mengapa Banyak Anak Muda Mengincar Karier di Kementerian Koperasi? Ini Alasannya - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 04:34:58 GMT",
+      "link": "https://stekom.ac.id/artikel/mengapa-banyak-anak-muda-mengincar-karier-di-kementerian-koperasi-ini-alasannya-20260804112913"
+    },
     {
       "title": "Panel Surya dan Armada Angkutan Pupuk Disiapkan untuk Perkuat Kopdes - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -117,90 +201,6 @@
       "kind": "lembaga",
       "published": "Tue, 04 Aug 2026 02:41:14 GMT",
       "link": "https://suarapemerintah.id/2026/08/kemenkop-gandeng-kpk-bangun-budaya-antikorupsi-demi-sukseskan-koperasi-merah-putih/"
-    },
-    {
-      "title": "KPK SP3 6 Kasus Dugaan Korupsi, Salah Satunya Perkara Sekjen DPR Indra Iskandar - JPNN.com",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 02:30:01 GMT",
-      "link": "https://www.jpnn.com/news/kpk-sp3-6-kasus-dugaan-korupsi-salah-satunya-perkara-sekjen-dpr-indra-iskandar"
-    },
-    {
-      "title": "Rieke Sebut Pembunuhan Siswi SMP oleh Mantan Pacar di Nabire Tragedi Kemanusiaan - JPNN.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 02:18:52 GMT",
-      "link": "https://www.jpnn.com/news/rieke-sebut-pembunuhan-siswi-smp-oleh-mantan-pacar-di-nabire-tragedi-kemanusiaan"
-    },
-    {
-      "title": "Menkop Dorong Koperasi Syariah WPMI Tingkatkan Daya Saing UMKM Perempuan - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 01:47:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-dorong-koperasi-syariah-wpmi-tingkatkan-daya-saing-umkm-perempuan/"
-    },
-    {
-      "title": "Danantara siapkan peta jalan transformasi BUMN untuk lima tahun ke depan - ANTARA News Sultra",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 01:43:45 GMT",
-      "link": "https://sultra.antaranews.com/berita/538173/danantara-siapkan-peta-jalan-transformasi-bumn-untuk-lima-tahun-ke-depan"
-    },
-    {
-      "title": "KPK Terbitkan 6 SP3 hingga Pertengahan Tahun Ini, Sekjen DPR Indra Iskandar Salah Satunya - VOI.ID",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 00:43:26 GMT",
-      "link": "https://voi.id/amp/588041/kpk-terbitkan-6-sp3-hingga-pertengahan-tahun-ini-sekjen-dpr-indra-iskandar-salah-satunya"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Sebut Foto Jurnalistik Parlemen Jadi Warisan Sejarah Demokrasi - Halo Semarang",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 23:15:38 GMT",
-      "link": "https://halosemarang.id/rieke-diah-pitaloka-sebut-foto-jurnalistik-parlemen-jadi-warisan-sejarah-demokrasi/"
-    },
-    {
-      "title": "Danantara Mulai Tunjukkan Peran Dongkrak Pertumbuhan Ekonomi Indonesia - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 17:01:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/04/716976/danantara-mulai-tunjukkan-peran-dongkrak-pertumbuhan-ekonomi-indonesia-"
-    },
-    {
-      "title": "KPK hentikan penyidikan 6 kasus, termasuk kasus Sekjen DPR - ANTARA News Megapolitan",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 15:43:55 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/543555/kpk-hentikan-penyidikan-6-kasus-termasuk-kasus-sekjen-dpr"
-    },
-    {
-      "title": "KPK Terbitkan 6 SP3, Salah Satunya untuk Indra Iskandar - Tirto.id",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 15:31:00 GMT",
-      "link": "https://tirto.id/kpk-terbitkan-6-sp3-salah-satunya-untuk-indra-iskandar-hAGk"
-    },
-    {
-      "title": "Pameran Warna-Warni Parlemen #16 Tampilkan 100 Foto Peristiwa Penting DPR - Digital Okezone",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 15:07:00 GMT",
-      "link": "https://digital.okezone.com/amp/view/2026/08/03/1/105837/pameran-warna-warni-parlemen-16-tampilkan-100-foto-peristiwa-penting-dpr"
-    },
-    {
-      "title": "Bos Danantara Akui BUMN-BUMN Properti Tak Sehat - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 03 Aug 2026 14:34:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/03/213408821/bos-danantara-akui-bumn-bumn-properti-tak-sehat?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
-    },
-    {
-      "title": "Raker Komisi IV DPRD dan BPJS Kesehatan Tasikmalaya: H. Yadi Mulyadi Tekankan Peningkatan Mutu Layanan Medis - Wartatasik.com",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Mon, 03 Aug 2026 13:34:50 GMT",
-      "link": "https://www.wartatasik.com/raker-komisi-iv-dprd-dan-bpjs-kesehatan-tasikmalaya-h-yadi-mulyadi-tekankan-peningkatan-mutu-layanan-medis/"
     }
   ]
 }
