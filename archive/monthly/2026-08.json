@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-04T17:45:51.303394",
+  "generated_at": "2026-08-04T21:09:58.807474",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 35,
-    "Golkar": 5,
+    "Golkar": 6,
     "NasDem": 3,
     "PKB": 14,
     "PKS": 6,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 102,
-    "Golkar": 68,
+    "Golkar": 69,
     "NasDem": 47,
     "PKB": 48,
     "PKS": 55,
@@ -41,7 +41,7 @@
     "ekspor": 17,
     "umkm": 20,
     "investasi": 33,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 9,
     "merger-akuisisi": 2,
     "ipo": 3,
     "impor": 6,
@@ -66,7 +66,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 7,
+    "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 8,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -92,11 +92,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 13,
     "Perdagangan": 45,
-    "Hukum/Audit": 47,
+    "Hukum/Audit": 48,
     "Koperasi/UMKM": 83,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "KPPU Periksa Dugaan Monopoli hingga Predatory Pricing yang Melibatkan TikTok - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 04 Aug 2026 20:51:15 GMT",
+      "link": "https://telusur.co.id/detail/kppu-periksa-dugaan-monopoli-hingga-predatory-pricing-yang-melibatkan-tiktok"
+    },
+    {
+      "title": "Berita Firnando Hadityo Ganinduto Jakarta Terbaru - JPNN.com Jakarta",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Tue, 04 Aug 2026 17:46:51 GMT",
+      "link": "https://jakarta.jpnn.com/tag/firnando-hadityo-ganinduto"
+    },
     {
       "title": "Menkop Dorong Penguatan Koperasi Syariah bagi Pengusaha Muslimah - TVRI News",
       "entity": "Kementerian Koperasi",
@@ -187,20 +201,6 @@
       "kind": "lembaga",
       "published": "Tue, 04 Aug 2026 08:17:42 GMT",
       "link": "https://sumbar.antaranews.com/berita/772843/kemendag-minyakita-bergantung-dmo-bukan-apbn"
-    },
-    {
-      "title": "KPK Setop 6 Kasus Korupsi: Ada Perkara Sekjen DPR hingga Wamenkum Eddy Hiariej - Inilah.com",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 08:02:00 GMT",
-      "link": "https://www.inilah.com/kpk-setop-6-kasus-korupsi-ada-perkara-sekjen-dpr-hingga-wamenkum-eddy-hiariej"
-    },
-    {
-      "title": "Pastikan Data Valid, DKUKMPP Nunukan Dampingi Koperasi Input Laporan RAT di ODS Mandiri - Berita Nunukan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 07:35:21 GMT",
-      "link": "https://berita.nunukankab.go.id/view_photo/jemput-bola-penginputan-laporan-rat-koperasi-pada-aplikasi-ods-mandiri-di-kecamatan-nunukan-dan-nunukan-selatan"
     }
   ]
 }
