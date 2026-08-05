@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T05:43:39.089469",
+  "generated_at": "2026-08-05T08:31:25.405057",
   "party_counts_7d": {
-    "Gerindra": 10,
-    "PDI-P": 36,
-    "Golkar": 7,
+    "Gerindra": 11,
+    "PDI-P": 32,
+    "Golkar": 6,
     "NasDem": 3,
-    "PKB": 11,
+    "PKB": 7,
     "PKS": 6,
-    "PAN": 11,
+    "PAN": 10,
     "Demokrat": 9
   },
   "party_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 43,
-    "bumn": 51,
-    "koperasi": 71,
-    "perdagangan": 7,
+    "danantara": 45,
+    "bumn": 53,
+    "koperasi": 70,
+    "perdagangan": 8,
     "ekspor": 17,
     "umkm": 20,
-    "investasi": 32,
     "kartel-monopoli": 9,
     "merger-akuisisi": 2,
+    "investasi": 31,
     "ipo": 3,
     "impor": 6,
     "dividen": 2
@@ -91,12 +91,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 13,
-    "Perdagangan": 44,
+    "Perdagangan": 43,
     "Hukum/Audit": 47,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 81,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Singgung Beban Penugasan Negara, Komisi VI DPR Minta Danantara Bekerja Keras Benahi BUMN Karya - TEROPONGSENAYAN.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 07:59:55 GMT",
+      "link": "https://www.teropongsenayan.com/138150-singgung-beban-penugasan-negara-komisi-vi-dpr-minta-danantara-bekerja-keras-benahi-bumn-karya"
+    },
+    {
+      "title": "Kepala Badan Pengaturan BUMN Temui Menkeu Bahas Pajak dan Utang Whoosh - achmadnurhidayat.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 07:35:22 GMT",
+      "link": "https://achmadnurhidayat.id/bumn-temui-menkeu-pajak-whoosh"
+    },
+    {
+      "title": "Kasus CKC di Nabire Disoroti Rieke Diah Pitaloka - Suara Papua",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 05 Aug 2026 07:11:51 GMT",
+      "link": "https://suarapapua.com/2026/08/05/kasus-ckc-di-nabire-disoroti-rieke-diah-pitaloka/"
+    },
+    {
+      "title": "Libatkan Kemenkop, Bandung Perkuat Koperasi untuk Dongkrak Pertanian dan Peternakan - Radarbangsa.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 07:01:00 GMT",
+      "link": "https://www.radarbangsa.com/news/61903/libatkan-kemenkop-bandung-perkuat-koperasi-untuk-dongkrak-pertanian-dan-peternakan"
+    },
+    {
+      "title": "Menkop: Program KDKMP Wujud Nyata Buah Pemikiran Soemitro Djojohadikusumo - TopBusiness.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 06:17:00 GMT",
+      "link": "https://www.topbusiness.id/133630/menkop-program-kdkmp-wujud-nyata-buah-pemikiran-soemitro-djojohadikusumo.html"
+    },
+    {
+      "title": "Perdagangan Jasa China Tumbuh 8,3 Persen pada Paruh Pertama 2026 - Kempalan.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 06:16:36 GMT",
+      "link": "https://kempalan.com/2026/08/05/perdagangan-jasa-china-tumbuh-83-persen-pada-paruh-pertama-2026/"
+    },
+    {
+      "title": "Fokus Transformasi BKI Memperkuat Daya Saing dan Ekspansi Global Bersama IDSurvey di Era Danantara - Suara Pembaharuan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 06:04:00 GMT",
+      "link": "https://www.suarapembaharuan.com/2026/08/fokus-transformasi-bki-memperkuat-daya.html"
+    },
     {
       "title": "Penugasan Negara Jadi Salah Satu Penyebab, Firnando Minta Danantara Kerja Keras Benahi BUMN Karya - Kedai Pena",
       "entity": "Danantara",
@@ -152,55 +201,6 @@
       "kind": "anggota",
       "published": "Tue, 04 Aug 2026 17:46:51 GMT",
       "link": "https://jakarta.jpnn.com/tag/firnando-hadityo-ganinduto"
-    },
-    {
-      "title": "Menkop Dorong Penguatan Koperasi Syariah bagi Pengusaha Muslimah - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 14:31:15 GMT",
-      "link": "https://nasional.tvrinews.com/berita/td8pz52-menkop-dorong-penguatan-koperasi-syariah-bagi-pengusaha-muslimah"
-    },
-    {
-      "title": "BKI Akselerasi Transformasi Bisnis Melalui Ekosistem Danantara - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 13:50:33 GMT",
-      "link": "https://achmadnurhidayat.id/bki-akselerasi-transformasi-bisnis-danantara"
-    },
-    {
-      "title": "DPR Dorong Pemerintah Siasati Pelemahan Rupiah dengan Memperkuat Pariwisata hingga Hilirisasi - indoposco.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 13:02:44 GMT",
-      "link": "https://indoposco.id/2026/08/04/dpr-dorong-pemerintah-siasati-pelemahan-rupiah-dengan-memperkuat-pariwisata-hingga-hilirisasi/"
-    },
-    {
-      "title": "Pendapatan BKI Melonjak 13,6 Persen Menjadi Rp 1,5 Triliun pada 2025 - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 12:31:30 GMT",
-      "link": "https://achmadnurhidayat.id/pendapatan-bki-melonjak-rp-1-5-triliun-2025"
-    },
-    {
-      "title": "Anggota DPR Firnando Hadityo Ganinduto Yakin Santri Darul Amanah Kendal Jadi Pemimpin Bangsa - JPNN.com Jakarta",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 11:30:00 GMT",
-      "link": "https://jakarta.jpnn.com/politik/3162/anggota-dpr-firnando-hadityo-ganinduto-yakin-santri-darul-amanah-kendal-jadi-pemimpin-bangsa"
-    },
-    {
-      "title": "Mendag: Ekspor RI-Thailand Capai USD17,7 Miliar - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 11:23:50 GMT",
-      "link": "https://www.metrotvnews.com/play/kewCj3r1-mendag-ekspor-ri-thailand-capai-usd17-7-miliar"
-    },
-    {
-      "title": "Firnando Ganinduto: Santri Darul Amanah Kendal Pasti Bisa Jadi Pemimpin Bangsa - VIVA.co.id",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 11:20:03 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1918938-firnando-ganinduto-santri-darul-amanah-kendal-pasti-bisa-jadi-pemimpin-bangsa"
     }
   ]
 }
