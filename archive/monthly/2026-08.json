@@ -1,21 +1,21 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T08:31:25.405057",
+  "generated_at": "2026-08-05T11:18:25.050225",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 32,
+    "PDI-P": 31,
     "Golkar": 6,
     "NasDem": 3,
     "PKB": 7,
     "PKS": 6,
     "PAN": 10,
-    "Demokrat": 9
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 103,
     "Golkar": 68,
-    "NasDem": 46,
+    "NasDem": 45,
     "PKB": 48,
     "PKS": 54,
     "PAN": 27,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 45,
-    "bumn": 53,
+    "danantara": 43,
+    "bumn": 52,
     "koperasi": 70,
     "perdagangan": 8,
-    "ekspor": 17,
+    "investasi": 32,
+    "ekspor": 13,
     "umkm": 20,
+    "ipo": 4,
     "kartel-monopoli": 9,
     "merger-akuisisi": 2,
-    "investasi": 31,
-    "ipo": 3,
     "impor": 6,
     "dividen": 2
   },
@@ -71,13 +71,13 @@
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 7,
-    "I Nengah Senantara": 5,
+    "I Nengah Senantara": 4,
     "Rudi Hartono Bangun": 3,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
-    "Nasim Khan": 14,
-    "Ida Fauziyah": 3,
+    "Nasim Khan": 15,
+    "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
     "Amin Ak.": 14,
     "Rizal Bawazier": 19,
@@ -90,13 +90,69 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 13,
-    "Perdagangan": 43,
-    "Hukum/Audit": 47,
+    "Kinerja BUMN": 15,
+    "Perdagangan": 40,
     "Koperasi/UMKM": 81,
-    "Konflik Publik": 8
+    "Hukum/Audit": 46,
+    "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Danantara Dorong Sejumlah BUMN Berpotensi Lakukan IPO di BEI - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 11:04:16 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-dorong-bumn-potensi-ipo-bei"
+    },
+    {
+      "title": "RI-Panama Perkuat Kerja Sama Sektor Perdagangan dan Investasi - SinPo.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 11:00:00 GMT",
+      "link": "https://tv.sinpo.id/detail/ri-panama-perkuat-kerja-sama-sektor-perdagangan-dan-investasi"
+    },
+    {
+      "title": "Kementerian Keuangan Ambil Alih Utang Kereta Cepat Whoosh - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 10:53:36 GMT",
+      "link": "https://www.tempo.co/ekonomi/kementerian-keuangan-ambil-alih-utang-kereta-cepat-whoosh-2280392"
+    },
+    {
+      "title": "Kementerian ATR Temukan 373,6 Hektare Kavling Laut, BP Batam Sebut Sedang Verifikasi - alurnews.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 10:50:47 GMT",
+      "link": "https://alurnews.com/2026/08/05/kementerian-atr-temukan-3736-hektare-kavling-laut-bp-batam-sebut-sedang-verifikasi/"
+    },
+    {
+      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - BP Batam",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 10:31:14 GMT",
+      "link": "https://bpbatam.go.id/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan/"
+    },
+    {
+      "title": "60 Persen Saham KCIC Bakal Beralih ke Kemenkeu, Bagaimana Nasib Utang Whoosh? - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 10:28:52 GMT",
+      "link": "https://afu.id/ekonomi/60-persen-saham-kcic-bakal-beralih-ke-kemenkeu-bagaimana-nasib-utang-whoosh"
+    },
+    {
+      "title": "Dony Oskaria Sambangi Kantor Menkeu, Utang KCIC Jadi Agenda Pembahasan Utama - Aspek.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 09:30:34 GMT",
+      "link": "https://aspek.id/dony-oskaria-sambangi-kantor-menkeu-utang-kcic-jadi-agenda-pembahasan-utama/"
+    },
+    {
+      "title": "Danantara Matangkan Uji Coba SPP-TDLN Bersama Bank - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 08:40:09 GMT",
+      "link": "https://aspek.id/danantara-matangkan-uji-coba-spp-tdln-bersama-bank/"
+    },
     {
       "title": "Singgung Beban Penugasan Negara, Komisi VI DPR Minta Danantara Bekerja Keras Benahi BUMN Karya - TEROPONGSENAYAN.com",
       "entity": "Danantara",
@@ -145,62 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 05 Aug 2026 06:04:00 GMT",
       "link": "https://www.suarapembaharuan.com/2026/08/fokus-transformasi-bki-memperkuat-daya.html"
-    },
-    {
-      "title": "Penugasan Negara Jadi Salah Satu Penyebab, Firnando Minta Danantara Kerja Keras Benahi BUMN Karya - Kedai Pena",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 05:38:40 GMT",
-      "link": "https://www.kedaipena.com/penugasan-negara-jadi-salah-satu-penyebab-firnando-minta-danantara-kerja-keras-benahi-bumn-karya/"
-    },
-    {
-      "title": "Penugasan Negara Jadi Salah Satu Penyebab, Firnando Minta Danantara Kerja Keras Benahi BUMN Karya - Kedai Pena",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 05:38:40 GMT",
-      "link": "https://www.kedaipena.com/penugasan-negara-jadi-salah-satu-penyebab-firnando-minta-danantara-kerja-keras-benahi-bumn-karya/"
-    },
-    {
-      "title": "Camilan Indonesia Tembus Arab Saudi lewat Fasilitasi Kemendag - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 05:30:00 GMT",
-      "link": "https://rri.co.id/ekonomi/makro/2628013/camilan-indonesia-tembus-arab-saudi-lewat-fasilitasi-kemendag"
-    },
-    {
-      "title": "UMKU Terlibat Aktif Sukseskan Program Sertifikasi Manajer KDKMP Kemenkop RI - Universitas Muhammadiyah Kudus",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 04:07:00 GMT",
-      "link": "https://www.umku.ac.id/umku-terlibat-aktif-sukseskan-program-sertifikasi-manajer-kdkmp-kemenkop-ri/"
-    },
-    {
-      "title": "IKPRI dan KKGPRI Jawa Timur Bahas Regulasi Spin Off USP menjadi KSP Bersama Menteri Koperasi - WARTA KOPERASI",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 04:03:20 GMT",
-      "link": "https://wartakoperasi.net/ikpri-dan-kkgpri-jawa-timur-bahas-regulasi-spin-off-usp-menjadi-ksp-bersama-menteri-koperasi-detail-464050.html"
-    },
-    {
-      "title": "Kelangkaan Semen Ancam Proses Rehab-Rekon Aceh - Waspada Aceh",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 01:54:50 GMT",
-      "link": "https://waspadaaceh.com/kelangkaan-semen-ancam-proses-rehab-rekon-aceh/"
-    },
-    {
-      "title": "KPPU Periksa Dugaan Monopoli hingga Predatory Pricing yang Melibatkan TikTok - Telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 20:51:15 GMT",
-      "link": "https://telusur.co.id/detail/kppu-periksa-dugaan-monopoli-hingga-predatory-pricing-yang-melibatkan-tiktok"
-    },
-    {
-      "title": "Berita Firnando Hadityo Ganinduto Jakarta Terbaru - JPNN.com Jakarta",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 17:46:51 GMT",
-      "link": "https://jakarta.jpnn.com/tag/firnando-hadityo-ganinduto"
     }
   ]
 }
