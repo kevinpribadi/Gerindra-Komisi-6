@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T22:11:01.110390",
+  "generated_at": "2026-08-05T23:58:26.554227",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 30,
@@ -35,16 +35,16 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 37,
-    "danantara": 44,
-    "koperasi": 71,
+    "investasi": 36,
+    "danantara": 45,
+    "koperasi": 70,
     "perdagangan": 8,
     "ekspor": 11,
     "umkm": 21,
     "ipo": 7,
-    "kartel-monopoli": 7,
-    "merger-akuisisi": 2,
+    "kartel-monopoli": 6,
     "impor": 6,
+    "merger-akuisisi": 1,
     "dividen": 2
   },
   "member_counts_30d": {
@@ -90,13 +90,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
-    "Perdagangan": 37,
-    "Koperasi/UMKM": 83,
+    "Kinerja BUMN": 19,
+    "Perdagangan": 38,
+    "Koperasi/UMKM": 82,
     "Hukum/Audit": 47,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Penempatan Manajer KDMP di Kaltim Masih Tunggu SK Kementerian - Korankaltim.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 23:48:45 GMT",
+      "link": "https://korankaltim.com/read/samarinda/92494/penempatan-manajer-kdmp-di-kaltim-masih-tunggu-sk-kementerian"
+    },
+    {
+      "title": "Danantara Alihkan Utang Whoosh ke Kementerian Keuangan - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 23:45:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-alihkan-utang-whoosh-ke-kementerian-keuangan-2280416"
+    },
+    {
+      "title": "Harga Semen Tinggi, KPPU dan Ditintelkam Polda Sumut Telusuri Rantai Distribusi - GoSumut.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 23:16:00 GMT",
+      "link": "https://www.gosumut.com/berita/baca/2026/08/06/harga-semen-tinggi-kppu-dan-ditintelkam-polda-sumut-telusuri-rantai-distribusi"
+    },
+    {
+      "title": "KPPU Kanwil I - Ditintelkam Polda Sumut Sinergi Awasi Distribusi Dan Harga Semen - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 23:03:29 GMT",
+      "link": "https://www.waspada.id/berita/kppu-kanwil-i-ditintelkam-polda-sumut-sinergi-awasi-distribusi-dan-harga-semen"
+    },
+    {
+      "title": "BP Batam Kaji Ulang Alokasi Kavling Laut yang Disorot Menteri ATR/BPN - Bisnis.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 22:35:23 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260806/533/1994055/bp-batam-kaji-ulang-alokasi-kavling-laut-yang-disorot-menteri-atrbpn"
+    },
+    {
+      "title": "Garap Proyek Kereta Whoosh Warisan Jokowi: 3 Bulan Pertama BUMN Ini Tekor Rp483,80 Miliar - Inilah.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 22:09:00 GMT",
+      "link": "https://www.inilah.com/garap-proyek-kereta-whoosh-warisan-jokowi-3-bulan-pertama-bumn-ini-tekor-rp48380-miliar"
+    },
     {
       "title": "Wamenkop Farida dan Koperasi Kita Miraino Hikari Lepas 86 Pekerja Migran ke Jepang - InvestorTrust",
       "entity": "Kementerian Koperasi",
@@ -159,48 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 05 Aug 2026 13:59:44 GMT",
       "link": "https://investor.id/business/449261/purbaya-ambil-alih-utang-whoosh-dana-ada-tetap-pakai-apbn"
-    },
-    {
-      "title": "BP Batam Dukung Penataan Pertanahan dan Ruang Laut, Perkuat Kepastian Hukum bagi Investor - Kampiun News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 13:52:57 GMT",
-      "link": "https://kampiunnews.com/bp-batam-dukung-penataan-pertanahan-dan-ruang-laut-perkuat-kepastian-hukum-bagi-investor/"
-    },
-    {
-      "title": "Kementerian ATR Temukan 373,6 Ha Kavling Laut, BP Batam Buka Suara - Bisnis.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 13:40:00 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260805/534/1993998/kementerian-atr-temukan-3736-ha-kavling-laut-bp-batam-buka-suara"
-    },
-    {
-      "title": "Herman Khaeron: Penguatan UMKM Harus Lewat 3 Pilar - Permodalan, Tata Kelola dan Digitalisasi - Kicaunews",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 12:52:31 GMT",
-      "link": "https://kicaunews.com/2026/08/05/herman-khaeron-penguatan-umkm-harus-lewat-3-pilar-permodalan-tata-kelola-dan-digitalisasi/"
-    },
-    {
-      "title": "BP Batam verifikasi kaveling ruang laut untuk badan usaha - ANTARA News Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 12:43:55 GMT",
-      "link": "https://kepri.antaranews.com/berita/264380/bp-batam-verifikasi-kaveling-ruang-laut-untuk-badan-usaha"
-    },
-    {
-      "title": "Komisi VI DPR Sebut Pertumbuhan 5,29 Persen Bukti Fondasi Domestik Masih Tangguh - Rmol.id",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 12:32:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/08/05/717240/komisi-vi-dpr-sebut-pertumbuhan-5-29-persen-bukti-fondasi-domestik-masih-tangguh"
-    },
-    {
-      "title": "Komisi VI DPR: Pertumbuhan 5,29 Persen Bukti Fondasi Domestik Masih Tangguh - Rmol.id",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 12:32:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/08/05/717240/komisi-vi-dpr-pertumbuhan-5-29-persen-bukti-fondasi-domestik-masih-tangguh"
     }
   ]
 }
