@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T02:13:04.553152",
+  "generated_at": "2026-08-05T05:43:39.089469",
   "party_counts_7d": {
-    "Gerindra": 11,
-    "PDI-P": 35,
-    "Golkar": 6,
+    "Gerindra": 10,
+    "PDI-P": 36,
+    "Golkar": 7,
     "NasDem": 3,
-    "PKB": 14,
+    "PKB": 11,
     "PKS": 6,
-    "PAN": 12,
+    "PAN": 11,
     "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 102,
-    "Golkar": 69,
+    "PDI-P": 103,
+    "Golkar": 68,
     "NasDem": 46,
     "PKB": 48,
     "PKS": 54,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 44,
+    "danantara": 43,
     "bumn": 51,
-    "koperasi": 72,
+    "koperasi": 71,
     "perdagangan": 7,
     "ekspor": 17,
     "umkm": 20,
-    "investasi": 33,
+    "investasi": 32,
     "kartel-monopoli": 9,
     "merger-akuisisi": 2,
     "ipo": 3,
@@ -59,14 +59,14 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 8,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 8,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -91,12 +91,47 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 13,
-    "Perdagangan": 45,
-    "Hukum/Audit": 48,
-    "Koperasi/UMKM": 83,
+    "Perdagangan": 44,
+    "Hukum/Audit": 47,
+    "Koperasi/UMKM": 82,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Penugasan Negara Jadi Salah Satu Penyebab, Firnando Minta Danantara Kerja Keras Benahi BUMN Karya - Kedai Pena",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 05:38:40 GMT",
+      "link": "https://www.kedaipena.com/penugasan-negara-jadi-salah-satu-penyebab-firnando-minta-danantara-kerja-keras-benahi-bumn-karya/"
+    },
+    {
+      "title": "Penugasan Negara Jadi Salah Satu Penyebab, Firnando Minta Danantara Kerja Keras Benahi BUMN Karya - Kedai Pena",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Wed, 05 Aug 2026 05:38:40 GMT",
+      "link": "https://www.kedaipena.com/penugasan-negara-jadi-salah-satu-penyebab-firnando-minta-danantara-kerja-keras-benahi-bumn-karya/"
+    },
+    {
+      "title": "Camilan Indonesia Tembus Arab Saudi lewat Fasilitasi Kemendag - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 05:30:00 GMT",
+      "link": "https://rri.co.id/ekonomi/makro/2628013/camilan-indonesia-tembus-arab-saudi-lewat-fasilitasi-kemendag"
+    },
+    {
+      "title": "UMKU Terlibat Aktif Sukseskan Program Sertifikasi Manajer KDKMP Kemenkop RI - Universitas Muhammadiyah Kudus",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 04:07:00 GMT",
+      "link": "https://www.umku.ac.id/umku-terlibat-aktif-sukseskan-program-sertifikasi-manajer-kdkmp-kemenkop-ri/"
+    },
+    {
+      "title": "IKPRI dan KKGPRI Jawa Timur Bahas Regulasi Spin Off USP menjadi KSP Bersama Menteri Koperasi - WARTA KOPERASI",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 04:03:20 GMT",
+      "link": "https://wartakoperasi.net/ikpri-dan-kkgpri-jawa-timur-bahas-regulasi-spin-off-usp-menjadi-ksp-bersama-menteri-koperasi-detail-464050.html"
+    },
     {
       "title": "Kelangkaan Semen Ancam Proses Rehab-Rekon Aceh - Waspada Aceh",
       "entity": "Danantara",
@@ -166,41 +201,6 @@
       "kind": "anggota",
       "published": "Tue, 04 Aug 2026 11:20:03 GMT",
       "link": "https://www.viva.co.id/berita/nasional/1918938-firnando-ganinduto-santri-darul-amanah-kendal-pasti-bisa-jadi-pemimpin-bangsa"
-    },
-    {
-      "title": "Siap-Siap Beras Fortifikasi Ini Kena Sanksi, Begini Rencana Kemendag - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 10:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260804160622-4-756513/siap-siap-beras-fortifikasi-ini-kena-sanksi-begini-rencana-kemendag"
-    },
-    {
-      "title": "Mendag: Ekspor Indonesia Tumbuh 3,9 Persen, Surplus Dagang Tetap Terjaga - Infobanknews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 10:28:56 GMT",
-      "link": "https://infobanknews.com/mendag-ekspor-indonesia-tumbuh-39-persen-surplus-dagang-tetap-terjaga"
-    },
-    {
-      "title": "Kemendag Ingatkan Depot Air Minum Isi Ulang Patuhi Aturan, Utamakan Kebersihan demi Lindungi Konsumen - batamtoday.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 10:15:43 GMT",
-      "link": "https://batamtoday.com/news/kemendag-ingatkan-depot-air-minum-isi-ulang-patuhi-aturan-utamakan-kebersihan-demi-lindungi-konsumen"
-    },
-    {
-      "title": "PFII Bisa Tarik Investor Dunia, DPR RI Minta Bali Utara Jadi Prioritas - mcwnews.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Tue, 04 Aug 2026 09:23:12 GMT",
-      "link": "https://www.mcwnews.com/read/pfii-bisa-tarik-investor-dunia-dpr-ri-minta-bali-utara-jadi-prioritas"
-    },
-    {
-      "title": "Sinergi Kemendag–KADIN Perkuat Posisi Indonesia di Pasar Global - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 04 Aug 2026 09:10:25 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/04/sinergi-kemendag-kadin-perkuat-posisi-indonesia-di-pasar-global/"
     }
   ]
 }
