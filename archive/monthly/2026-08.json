@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T16:39:45.703900",
+  "generated_at": "2026-08-05T18:19:16.964624",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 30,
     "Golkar": 6,
-    "NasDem": 4,
+    "NasDem": 5,
     "PKB": 5,
     "PKS": 6,
     "PAN": 10,
@@ -15,7 +15,7 @@
     "Gerindra": 67,
     "PDI-P": 101,
     "Golkar": 67,
-    "NasDem": 43,
+    "NasDem": 44,
     "PKB": 48,
     "PKS": 54,
     "PAN": 27,
@@ -42,7 +42,7 @@
     "ekspor": 11,
     "umkm": 21,
     "ipo": 7,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 2,
     "impor": 6,
     "dividen": 2
@@ -72,7 +72,7 @@
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
-    "Rudi Hartono Bangun": 2,
+    "Rudi Hartono Bangun": 3,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
@@ -93,7 +93,7 @@
     "Kinerja BUMN": 18,
     "Perdagangan": 37,
     "Koperasi/UMKM": 83,
-    "Hukum/Audit": 46,
+    "Hukum/Audit": 47,
     "Konflik Publik": 7
   },
   "top_headlines": [
@@ -117,6 +117,13 @@
       "kind": "lembaga",
       "published": "Wed, 05 Aug 2026 15:57:00 GMT",
       "link": "https://investortrust.id/macro/111937/temui-purbaya-dony-oskaria-minta-diskon-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "373,6 Hektare Kavling Laut Temuan Kementerian, BP Batam Sebut Sedang Lakukan Verifikasi - Kompas.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 15:15:00 GMT",
+      "link": "https://regional.kompas.com/read/2026/08/05/221543678/3736-hektare-kavling-laut-temuan-kementerian-bp-batam-sebut-sedang-lakukan"
     },
     {
       "title": "Danantara: Pupuk Indonesia, Pelindo hingga Angkasa Pura potensial IPO - BeritaKaltim.Co",
@@ -182,25 +189,18 @@
       "link": "https://kepri.antaranews.com/berita/264380/bp-batam-verifikasi-kaveling-ruang-laut-untuk-badan-usaha"
     },
     {
+      "title": "Komisi VI DPR Sebut Pertumbuhan 5,29 Persen Bukti Fondasi Domestik Masih Tangguh - Rmol.id",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Wed, 05 Aug 2026 12:32:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/08/05/717240/komisi-vi-dpr-sebut-pertumbuhan-5-29-persen-bukti-fondasi-domestik-masih-tangguh"
+    },
+    {
       "title": "Komisi VI DPR: Pertumbuhan 5,29 Persen Bukti Fondasi Domestik Masih Tangguh - Rmol.id",
       "entity": "Rudi Hartono Bangun",
       "kind": "anggota",
       "published": "Wed, 05 Aug 2026 12:32:00 GMT",
       "link": "https://rmol.id/amp/2026/08/05/717240/komisi-vi-dpr--pertumbuhan-5-29-persen-bukti-fondasi-domestik-masih-tangguh-"
-    },
-    {
-      "title": "Amsakar Siap Bereskan Alokasi Laut ke Swasta di Batam, Bentuk Tim Verifikasi - Batamnews",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 12:31:00 GMT",
-      "link": "https://www.batamnews.co.id/berita-129236-amsakar-siap-bereskan-alokasi-laut-ke-swasta-di-batam-bentuk-tim-verifikasi.html"
-    },
-    {
-      "title": "Perlindungan dan Konsesi Bagi Konsumen Penyandang Disabilitas - TheStance",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 12:30:19 GMT",
-      "link": "https://thestance.id/perlindungan-dan-konsesi-bagi-konsumen-penyandang-disabilitas"
     }
   ]
 }
