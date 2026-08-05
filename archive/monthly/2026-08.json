@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T14:02:22.657163",
+  "generated_at": "2026-08-05T16:39:45.703900",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 30,
@@ -12,9 +12,9 @@
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 68,
-    "PDI-P": 102,
-    "Golkar": 68,
+    "Gerindra": 67,
+    "PDI-P": 101,
+    "Golkar": 67,
     "NasDem": 43,
     "PKB": 48,
     "PKS": 54,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 43,
-    "bumn": 50,
-    "koperasi": 70,
+    "bumn": 51,
+    "investasi": 37,
+    "danantara": 44,
+    "koperasi": 71,
     "perdagangan": 8,
-    "investasi": 33,
-    "ekspor": 10,
+    "ekspor": 11,
     "umkm": 21,
-    "ipo": 4,
+    "ipo": 7,
     "kartel-monopoli": 8,
     "merger-akuisisi": 2,
     "impor": 6,
@@ -52,14 +52,14 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 7,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 16,
     "Mulyadi": 16,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 20,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
@@ -67,7 +67,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 8,
+    "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 7,
@@ -90,13 +90,69 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 18,
     "Perdagangan": 37,
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 83,
     "Hukum/Audit": 46,
-    "Konflik Publik": 9
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Wamenkop Farida dan Koperasi Kita Miraino Hikari Lepas 86 Pekerja Migran ke Jepang - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 16:21:00 GMT",
+      "link": "https://investortrust.id/national/111940/wamenkop-farida-dan-koperasi-kita-miraino-hikari-lepas-86-pekerja-migran-ke-jepang"
+    },
+    {
+      "title": "Temui Purbaya, Dony Oskaria Minta Diskon Pajak Restrukturisasi BUMN - InvestorTrust",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 15:57:00 GMT",
+      "link": "https://investortrust.id/macro/111937/temui-purbaya-dony-oskaria-minta-diskon-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "Temui Purbaya, Dony Oskaria Minta Diskon Pajak Restrukturisasi BUMN - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 15:57:00 GMT",
+      "link": "https://investortrust.id/macro/111937/temui-purbaya-dony-oskaria-minta-diskon-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "Danantara: Pupuk Indonesia, Pelindo hingga Angkasa Pura potensial IPO - BeritaKaltim.Co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 14:30:28 GMT",
+      "link": "https://beritakaltim.co/2026/08/05/danantara-pupuk-indonesia-pelindo-hingga-angkasa-pura-potensial-ipo/"
+    },
+    {
+      "title": "Kemendag Siap Revisi Aturan Ekspor Logam Tanah Jarang - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 14:18:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260805/12/1994038/kemendag-siap-revisi-aturan-ekspor-logam-tanah-jarang"
+    },
+    {
+      "title": "Danantara: Inovasi dan AI jadi salah satu fokus transformasi BUMN - ANTARA News Yogyakarta",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 14:03:59 GMT",
+      "link": "https://jogja.antaranews.com/berita/846439/danantara-inovasi-dan-ai-jadi-salah-satu-fokus-transformasi-bumn"
+    },
+    {
+      "title": "BP Batam Dukung Penataan Ruang Laut dan Administrasi Pertanahan, Perkuat Kepastian Hukum Investasi - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 14:00:35 GMT",
+      "link": "https://metropolis.batampos.co.id/bp-batam-dukung-penataan-ruang-laut-dan-administrasi-pertanahan-perkuat-kepastian-hukum-investasi/"
+    },
+    {
+      "title": "Purbaya Ambil Alih Utang Whoosh , Dana Ada, Tetap Pakai APBN? - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 13:59:44 GMT",
+      "link": "https://investor.id/business/449261/purbaya-ambil-alih-utang-whoosh-dana-ada-tetap-pakai-apbn"
+    },
     {
       "title": "BP Batam Dukung Penataan Pertanahan dan Ruang Laut, Perkuat Kepastian Hukum bagi Investor - Kampiun News",
       "entity": "BP Batam",
@@ -145,62 +201,6 @@
       "kind": "lembaga",
       "published": "Wed, 05 Aug 2026 12:30:19 GMT",
       "link": "https://thestance.id/perlindungan-dan-konsesi-bagi-konsumen-penyandang-disabilitas"
-    },
-    {
-      "title": "Usai Bertemu Dony Oskaria, Purbaya Resmi Ambil Alih Utang Kereta Whoosh dari KAI - Inilah.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 12:12:00 GMT",
-      "link": "https://www.inilah.com/usai-bertemu-dony-oskaria-purbaya-resmi-ambil-alih-utang-kereta-whoosh-dari-kai"
-    },
-    {
-      "title": "DPN APTI Desak Negara Selamatkan Petani Tembakau, Ancam Somasi dan Gugat ke KPPU - Patra Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 11:58:23 GMT",
-      "link": "https://patraindonesia.com/dpn-apti-desak-negara-selamatkan-petani-tembakau-ancam-somasi-dan-gugat-ke-kppu/"
-    },
-    {
-      "title": "Danantara Dorong Sejumlah BUMN Berpotensi Lakukan IPO di BEI - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 11:04:16 GMT",
-      "link": "https://achmadnurhidayat.id/danantara-dorong-bumn-potensi-ipo-bei"
-    },
-    {
-      "title": "RI-Panama Perkuat Kerja Sama Sektor Perdagangan dan Investasi - SinPo.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 11:00:00 GMT",
-      "link": "https://tv.sinpo.id/detail/ri-panama-perkuat-kerja-sama-sektor-perdagangan-dan-investasi"
-    },
-    {
-      "title": "Kementerian Keuangan Ambil Alih Utang Kereta Cepat Whoosh - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 10:53:36 GMT",
-      "link": "https://www.tempo.co/ekonomi/kementerian-keuangan-ambil-alih-utang-kereta-cepat-whoosh-2280392"
-    },
-    {
-      "title": "Kementerian ATR Temukan 373,6 Hektare Kavling Laut, BP Batam Sebut Sedang Verifikasi - alurnews.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 10:50:47 GMT",
-      "link": "https://alurnews.com/2026/08/05/kementerian-atr-temukan-3736-hektare-kavling-laut-bp-batam-sebut-sedang-verifikasi/"
-    },
-    {
-      "title": "BP Batam Verifikasi Alokasi Kavling Laut yang Disorot Menteri ATR/BPN - gokepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 10:42:02 GMT",
-      "link": "https://gokepri.com/bp-batam-kaji-ulang-alokasi-kavling-laut-yang-disorot-menteri-atr-bpn/"
-    },
-    {
-      "title": "Tragedi Pembunuhan Siswi SMP di Nabire, Rieke Diah Pitaloka Suarakan Evaluasi Perlindungan Anak - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 10:35:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/tragedi-pembunuhan-siswi-smp-di-nabire-rieke-diah-pitaloka-suarakan-evaluasi-perlindungan-anak-b2pYvZbgWK"
     }
   ]
 }
