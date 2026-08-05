@@ -1,21 +1,21 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-05T11:18:25.050225",
+  "generated_at": "2026-08-05T14:02:22.657163",
   "party_counts_7d": {
-    "Gerindra": 11,
-    "PDI-P": 31,
+    "Gerindra": 12,
+    "PDI-P": 30,
     "Golkar": 6,
-    "NasDem": 3,
-    "PKB": 7,
+    "NasDem": 4,
+    "PKB": 5,
     "PKS": 6,
     "PAN": 10,
-    "Demokrat": 8
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 103,
+    "PDI-P": 102,
     "Golkar": 68,
-    "NasDem": 45,
+    "NasDem": 43,
     "PKB": 48,
     "PKS": 54,
     "PAN": 27,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "danantara": 43,
-    "bumn": 52,
+    "bumn": 50,
     "koperasi": 70,
     "perdagangan": 8,
-    "investasi": 32,
-    "ekspor": 13,
-    "umkm": 20,
+    "investasi": 33,
+    "ekspor": 10,
+    "umkm": 21,
     "ipo": 4,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 8,
     "merger-akuisisi": 2,
     "impor": 6,
     "dividen": 2
@@ -60,7 +60,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Budi Sulistyono": 2,
+    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
@@ -71,8 +71,8 @@
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 7,
-    "I Nengah Senantara": 4,
-    "Rudi Hartono Bangun": 3,
+    "I Nengah Senantara": 3,
+    "Rudi Hartono Bangun": 2,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
@@ -90,13 +90,76 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 15,
-    "Perdagangan": 40,
-    "Koperasi/UMKM": 81,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 37,
+    "Koperasi/UMKM": 82,
     "Hukum/Audit": 46,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Dukung Penataan Pertanahan dan Ruang Laut, Perkuat Kepastian Hukum bagi Investor - Kampiun News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 13:52:57 GMT",
+      "link": "https://kampiunnews.com/bp-batam-dukung-penataan-pertanahan-dan-ruang-laut-perkuat-kepastian-hukum-bagi-investor/"
+    },
+    {
+      "title": "Kementerian ATR Temukan 373,6 Ha Kavling Laut, BP Batam Buka Suara - Bisnis.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 13:40:00 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260805/534/1993998/kementerian-atr-temukan-3736-ha-kavling-laut-bp-batam-buka-suara"
+    },
+    {
+      "title": "Herman Khaeron: Penguatan UMKM Harus Lewat 3 Pilar - Permodalan, Tata Kelola dan Digitalisasi - Kicaunews",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 05 Aug 2026 12:52:31 GMT",
+      "link": "https://kicaunews.com/2026/08/05/herman-khaeron-penguatan-umkm-harus-lewat-3-pilar-permodalan-tata-kelola-dan-digitalisasi/"
+    },
+    {
+      "title": "BP Batam verifikasi kaveling ruang laut untuk badan usaha - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 12:43:55 GMT",
+      "link": "https://kepri.antaranews.com/berita/264380/bp-batam-verifikasi-kaveling-ruang-laut-untuk-badan-usaha"
+    },
+    {
+      "title": "Komisi VI DPR: Pertumbuhan 5,29 Persen Bukti Fondasi Domestik Masih Tangguh - Rmol.id",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Wed, 05 Aug 2026 12:32:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/05/717240/komisi-vi-dpr--pertumbuhan-5-29-persen-bukti-fondasi-domestik-masih-tangguh-"
+    },
+    {
+      "title": "Amsakar Siap Bereskan Alokasi Laut ke Swasta di Batam, Bentuk Tim Verifikasi - Batamnews",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 12:31:00 GMT",
+      "link": "https://www.batamnews.co.id/berita-129236-amsakar-siap-bereskan-alokasi-laut-ke-swasta-di-batam-bentuk-tim-verifikasi.html"
+    },
+    {
+      "title": "Perlindungan dan Konsesi Bagi Konsumen Penyandang Disabilitas - TheStance",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 12:30:19 GMT",
+      "link": "https://thestance.id/perlindungan-dan-konsesi-bagi-konsumen-penyandang-disabilitas"
+    },
+    {
+      "title": "Usai Bertemu Dony Oskaria, Purbaya Resmi Ambil Alih Utang Kereta Whoosh dari KAI - Inilah.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 12:12:00 GMT",
+      "link": "https://www.inilah.com/usai-bertemu-dony-oskaria-purbaya-resmi-ambil-alih-utang-kereta-whoosh-dari-kai"
+    },
+    {
+      "title": "DPN APTI Desak Negara Selamatkan Petani Tembakau, Ancam Somasi dan Gugat ke KPPU - Patra Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 05 Aug 2026 11:58:23 GMT",
+      "link": "https://patraindonesia.com/dpn-apti-desak-negara-selamatkan-petani-tembakau-ancam-somasi-dan-gugat-ke-kppu/"
+    },
     {
       "title": "Danantara Dorong Sejumlah BUMN Berpotensi Lakukan IPO di BEI - achmadnurhidayat.id",
       "entity": "Danantara",
@@ -126,81 +189,18 @@
       "link": "https://alurnews.com/2026/08/05/kementerian-atr-temukan-3736-hektare-kavling-laut-bp-batam-sebut-sedang-verifikasi/"
     },
     {
-      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - BP Batam",
+      "title": "BP Batam Verifikasi Alokasi Kavling Laut yang Disorot Menteri ATR/BPN - gokepri",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 10:31:14 GMT",
-      "link": "https://bpbatam.go.id/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan/"
+      "published": "Wed, 05 Aug 2026 10:42:02 GMT",
+      "link": "https://gokepri.com/bp-batam-kaji-ulang-alokasi-kavling-laut-yang-disorot-menteri-atr-bpn/"
     },
     {
-      "title": "60 Persen Saham KCIC Bakal Beralih ke Kemenkeu, Bagaimana Nasib Utang Whoosh? - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 10:28:52 GMT",
-      "link": "https://afu.id/ekonomi/60-persen-saham-kcic-bakal-beralih-ke-kemenkeu-bagaimana-nasib-utang-whoosh"
-    },
-    {
-      "title": "Dony Oskaria Sambangi Kantor Menkeu, Utang KCIC Jadi Agenda Pembahasan Utama - Aspek.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 09:30:34 GMT",
-      "link": "https://aspek.id/dony-oskaria-sambangi-kantor-menkeu-utang-kcic-jadi-agenda-pembahasan-utama/"
-    },
-    {
-      "title": "Danantara Matangkan Uji Coba SPP-TDLN Bersama Bank - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 08:40:09 GMT",
-      "link": "https://aspek.id/danantara-matangkan-uji-coba-spp-tdln-bersama-bank/"
-    },
-    {
-      "title": "Singgung Beban Penugasan Negara, Komisi VI DPR Minta Danantara Bekerja Keras Benahi BUMN Karya - TEROPONGSENAYAN.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 07:59:55 GMT",
-      "link": "https://www.teropongsenayan.com/138150-singgung-beban-penugasan-negara-komisi-vi-dpr-minta-danantara-bekerja-keras-benahi-bumn-karya"
-    },
-    {
-      "title": "Kepala Badan Pengaturan BUMN Temui Menkeu Bahas Pajak dan Utang Whoosh - achmadnurhidayat.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 07:35:22 GMT",
-      "link": "https://achmadnurhidayat.id/bumn-temui-menkeu-pajak-whoosh"
-    },
-    {
-      "title": "Kasus CKC di Nabire Disoroti Rieke Diah Pitaloka - Suara Papua",
+      "title": "Tragedi Pembunuhan Siswi SMP di Nabire, Rieke Diah Pitaloka Suarakan Evaluasi Perlindungan Anak - gesuri.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 05 Aug 2026 07:11:51 GMT",
-      "link": "https://suarapapua.com/2026/08/05/kasus-ckc-di-nabire-disoroti-rieke-diah-pitaloka/"
-    },
-    {
-      "title": "Libatkan Kemenkop, Bandung Perkuat Koperasi untuk Dongkrak Pertanian dan Peternakan - Radarbangsa.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 07:01:00 GMT",
-      "link": "https://www.radarbangsa.com/news/61903/libatkan-kemenkop-bandung-perkuat-koperasi-untuk-dongkrak-pertanian-dan-peternakan"
-    },
-    {
-      "title": "Menkop: Program KDKMP Wujud Nyata Buah Pemikiran Soemitro Djojohadikusumo - TopBusiness.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 06:17:00 GMT",
-      "link": "https://www.topbusiness.id/133630/menkop-program-kdkmp-wujud-nyata-buah-pemikiran-soemitro-djojohadikusumo.html"
-    },
-    {
-      "title": "Perdagangan Jasa China Tumbuh 8,3 Persen pada Paruh Pertama 2026 - Kempalan.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 06:16:36 GMT",
-      "link": "https://kempalan.com/2026/08/05/perdagangan-jasa-china-tumbuh-83-persen-pada-paruh-pertama-2026/"
-    },
-    {
-      "title": "Fokus Transformasi BKI Memperkuat Daya Saing dan Ekspansi Global Bersama IDSurvey di Era Danantara - Suara Pembaharuan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 06:04:00 GMT",
-      "link": "https://www.suarapembaharuan.com/2026/08/fokus-transformasi-bki-memperkuat-daya.html"
+      "published": "Wed, 05 Aug 2026 10:35:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/tragedi-pembunuhan-siswi-smp-di-nabire-rieke-diah-pitaloka-suarakan-evaluasi-perlindungan-anak-b2pYvZbgWK"
     }
   ]
 }
