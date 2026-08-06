@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-06T06:27:25.773361",
+  "generated_at": "2026-08-06T09:37:46.371720",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 29,
+    "PDI-P": 30,
     "Golkar": 6,
-    "NasDem": 6,
+    "NasDem": 7,
     "PKB": 4,
-    "PKS": 9,
+    "PKS": 10,
     "PAN": 10,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 63,
     "PDI-P": 100,
     "Golkar": 67,
-    "NasDem": 43,
+    "NasDem": 42,
     "PKB": 48,
-    "PKS": 57,
+    "PKS": 58,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,26 +34,25 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
+    "bumn": 53,
     "investasi": 33,
-    "danantara": 45,
+    "danantara": 43,
     "koperasi": 70,
-    "perdagangan": 7,
-    "ekspor": 9,
-    "umkm": 21,
-    "ipo": 7,
+    "perdagangan": 8,
+    "ekspor": 8,
+    "umkm": 19,
+    "ipo": 9,
     "kartel-monopoli": 6,
     "impor": 6,
-    "merger-akuisisi": 1,
     "dividen": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 5,
-    "Mulan Jameela": 7,
+    "Mulan Jameela": 6,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 15,
+    "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
@@ -70,16 +69,16 @@
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 5,
-    "I Nengah Senantara": 3,
-    "Rudi Hartono Bangun": 4,
+    "Asep Wahyuwijaya": 4,
+    "I Nengah Senantara": 2,
+    "Rudi Hartono Bangun": 5,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
     "Nasim Khan": 15,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 17,
+    "Amin Ak.": 18,
     "Rizal Bawazier": 19,
     "Ghufran": 1,
     "Ismail": 20,
@@ -90,13 +89,90 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
-    "Perdagangan": 35,
-    "Koperasi/UMKM": 82,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 34,
+    "Koperasi/UMKM": 80,
     "Hukum/Audit": 47,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Sinergi KPPU Kanwil I dan Polda Sumut Awasi Lonjakan Harga Semen - Seputar Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 09:28:09 GMT",
+      "link": "https://www.seputarsumut.com/berita/sinergi-kppu-kanwil-i-dan-polda-sumut-awasi-lonjakan-harga-semen/"
+    },
+    {
+      "title": "Kode Perhelatan IPO BUMN dari BEI - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 09:25:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/117546/kode-perhelatan-ipo-bumn-dari-bei"
+    },
+    {
+      "title": "KPPU Kanwil I dan Ditintelkam Polda Sumut Perkuat Sinergi Awasi Distribusi dan Harga Semen di Sumatera Utara - edisimedan.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 09:16:13 GMT",
+      "link": "https://edisimedan.com/kppu-kanwil-i-dan-ditintelkam-polda-sumut-perkuat-sinergi-awasi-distribusi-dan-harga-semen-di-sumatera-utara/"
+    },
+    {
+      "title": "Anggota Komisi XI Amin Ak: Pertumbuhan Ekonomi Perlu Diperkuat Mesin Baru, Tidak Bisa Hanya Bertumpu pada Konsumsi - Fraksi PKS",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 08:54:20 GMT",
+      "link": "https://fraksi.pks.id/2026/08/06/anggota-komisi-xi-amin-ak-pertumbuhan-ekonomi-perlu-diperkuat-mesin-baru-tidak-bisa-hanya-bertumpu-pada-konsumsi/"
+    },
+    {
+      "title": "Bagaimana Kementerian Perdagangan Mendorong Ekspor dan Daya Saing Produk Indonesia? - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 08:52:58 GMT",
+      "link": "https://stekom.ac.id/artikel/bagaimana-kementerian-perdagangan-mendorong-ekspor-dan-daya-saing-produk-indonesia-20260806154716"
+    },
+    {
+      "title": "Forum Koordinasi Nasional Kekayaan Intelektual Indonesia Tahun 2026 - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 08:50:38 GMT",
+      "link": "https://www.hetanews.com/article/309901/forum-koordinasi-nasional-kekayaan-intelektual-indonesia-tahun-2026"
+    },
+    {
+      "title": "Kekayaan Intelektual Jadi Aset Ekonomi, Kemendag Dorong Produk RI Tembus Pasar Global - news.schoolmedia.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 07:50:20 GMT",
+      "link": "https://news.schoolmedia.id/regional/3430/kekayaan-intelektual-jadi-aset-ekonomi-kemendag-dorong-produk-ri-tembus-pasar-global"
+    },
+    {
+      "title": "Kemendag Dorong Komersialisasi Kekayaan Intelektual untuk Perkuat Daya Saing Produk Indonesia - nasional.kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 07:38:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/08/06/14383981/kemendag-dorong-komersialisasi-kekayaan-intelektual-untuk-perkuat-daya-saing"
+    },
+    {
+      "title": "| Rieke: Putusan Sela Kasus Vidi Jadi Koreksi Penting bagi Penegakan Hukum - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 07:11:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1663225/rieke-putusan-sela-kasus-vidi-jadi-koreksi-penting-bagi-penegakan-hukum/"
+    },
+    {
+      "title": "Kemendag Perkuat Perlindungan HKI, Dongkrak Daya Saing Ekspor Produk RI - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 06:54:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/08/06/kemendag-perkuat-perlindungan-hki-dongkrak-daya-saing-ekspor-produk-ri-135400854"
+    },
+    {
+      "title": "Bali Dibidik Jadi Hub Ekspor, Naik Kelas dari Destinasi Wisata ke Pusat Perdagangan - NUSABALI.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 06:39:30 GMT",
+      "link": "https://www.nusabali.com/berita/227647/bali-dibidik-jadi-hub-ekspor-naik-kelas-dari-destinasi-wisata-ke-pusat-perdagangan"
+    },
     {
       "title": "Kemendag Dorong Komersialisasi Kekayaan Intelektual untuk Perkuat Daya Saing Produk Indonesia - TopBusiness.id",
       "entity": "Kementerian Perdagangan",
@@ -112,95 +188,18 @@
       "link": "https://www.cnbcindonesia.com/news/20260806110812-4-757046/respons-bos-bp-batam-buka-suara-ungkap-fakta-izin-kaveling-laut/amp"
     },
     {
+      "title": "Ida Nurlaela Ajak Warga Kampung Adat Kuta Lestarikan Kearifan Lokal Sebagai Warisan Budaya - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 05:00:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/ida-nurlaela-ajak-warga-kampung-adat-kuta-lestarikan-kearifan-lokal-sebagai-warisan-budaya-b2pYvZbgWE"
+    },
+    {
       "title": "Danantara Jadikan Inovasi dan AI sebagai Fokus Transformasi BUMN - MetroTVNews.com",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 06 Aug 2026 04:43:16 GMT",
       "link": "https://www.metrotvnews.com/read/kBVCMGB9-danantara-jadikan-inovasi-dan-ai-sebagai-fokus-transformasi-bumn"
-    },
-    {
-      "title": "Danantara Jadikan Inovasi dan AI sebagai Fokus Transformasi BUMN - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 04:43:16 GMT",
-      "link": "https://www.metrotvnews.com/read/kBVCMGB9-danantara-jadikan-inovasi-dan-ai-sebagai-fokus-transformasi-bumn"
-    },
-    {
-      "title": "BP BUMN Dorong Pertamina Perkuat Pasokan BBM Nasional - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 03:35:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260806101422-4-757016/bp-bumn-dorong-pertamina-perkuat-pasokan-bbm-nasional"
-    },
-    {
-      "title": "PL Kawasan Laut Batam Disorot Menteri ATR, BP Batam Sebut Alokasi 2002-2015 Sebaiknya Dikembalikan - batamtoday.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 03:31:02 GMT",
-      "link": "https://batamtoday.com/news/pl-kawasan-laut-disorot-menteri-atr-bp-batam-alokasi-2002-2015-sebaiknya-dikembalikan-ke-pemerintah"
-    },
-    {
-      "title": "Anggota Komisi XI DPR RI, Amin Ak: Jangan Ratapi Rupiah Lemah, Momen Genjot Sektor Produktif dari Sawit hingga Pariwisata - HaiSawit",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 03:16:23 GMT",
-      "link": "https://haisawit.co.id/news/detail/anggota-komisi-xi-dpr-ri-amin-ak-jangan-ratapi-rupiah-lemah-momen-genjot-sektor-produktif-dari-sawit-hingga-pariwisata"
-    },
-    {
-      "title": "Agrinas Palma Andalkan Koperasi untuk Memperkuat Ekosistem Perkebunan Nasional - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 02:41:00 GMT",
-      "link": "https://www.beritakoperasi.com/agrinas-palma-andalkan-koperasi-untuk-memperkuat-ekosistem-perkebunan-nasional/"
-    },
-    {
-      "title": "Ekonomi Kuartal II Tumbuh 5,29 Persen, DPR Soroti Ketergantungan pada Konsumsi - Rmol.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 02:13:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/08/06/717286/ekonomi-kuartal-ii-tumbuh-5-29-persen-dpr-soroti-ketergantungan-pada-konsumsi"
-    },
-    {
-      "title": "Peringatan Hari Koperasi ke-79, Jabar Ajak Generasi Muda Perkuat Gerakan Koperasi - Jabarprov",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 02:10:50 GMT",
-      "link": "https://jabarprov.go.id/berita/peringatan-hari-koperasi-ke-79-jabar-ajak-generasi-muda-perkuat-gerakan-koperasi-24990"
-    },
-    {
-      "title": "Menkop Ferry: Program Koperasi Merah Putih Wujud Nyata Gagasan Ekonomi Kerakyatan Soemitro Djojohadikusumo - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 02:01:48 GMT",
-      "link": "https://suarapemerintah.id/2026/08/menkop-ferry-program-koperasi-merah-putih-wujud-nyata-gagasan-ekonomi-kerakyatan-soemitro-djojohadikusumo/"
-    },
-    {
-      "title": "Amin Ak: Jangan Ratapi Rupiah Melemah, Perkuat Sektor Produktif Negara - DPR RI",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 01:55:54 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Amin-Ak-Jangan-Ratapi-Rupiah-Melemah-Perkuat-Sektor-Produktif-Negara-67843"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Kembali Berakting Lewat Film Seni Merayu Tuhan - achmadnurhidayat.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 01:44:20 GMT",
-      "link": "https://achmadnurhidayat.id/rieke-diah-pitaloka-film-seni-merayu-tuhan"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Akui Akting Jadi Oasis Saat Sibuk di DPR - detikHOT",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 01:38:42 GMT",
-      "link": "https://hot.detik.com/celeb/d-8606340/rieke-diah-pitaloka-akui-akting-jadi-oasis-saat-sibuk-di-dpr"
-    },
-    {
-      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - Haluan Kepri - Haluan Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 01:19:00 GMT",
-      "link": "https://kepri.harianhaluan.com/daerah/amp/1317471721/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan"
     }
   ]
 }
