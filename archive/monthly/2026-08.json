@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-06T15:11:00.830409",
+  "generated_at": "2026-08-06T23:55:53.792071",
   "party_counts_7d": {
     "Gerindra": 10,
-    "PDI-P": 28,
+    "PDI-P": 30,
     "Golkar": 6,
-    "NasDem": 9,
+    "NasDem": 10,
     "PKB": 3,
     "PKS": 10,
     "PAN": 11,
-    "Demokrat": 8
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 100,
+    "PDI-P": 102,
     "Golkar": 67,
-    "NasDem": 43,
+    "NasDem": 44,
     "PKB": 47,
-    "PKS": 56,
+    "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,15 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
-    "investasi": 32,
-    "danantara": 43,
-    "koperasi": 69,
-    "perdagangan": 8,
-    "ekspor": 8,
-    "umkm": 19,
+    "bumn": 54,
+    "investasi": 33,
+    "danantara": 42,
+    "koperasi": 68,
+    "perdagangan": 9,
+    "ekspor": 9,
+    "merger-akuisisi": 1,
     "ipo": 9,
     "kartel-monopoli": 6,
+    "umkm": 17,
     "impor": 6,
     "dividen": 2
   },
@@ -54,10 +55,10 @@
     "Kawendra Lukistian": 16,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 18,
-    "Mufti Anam": 15,
+    "Mufti Anam": 16,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 7,
+    "Sadarestuwati": 8,
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
@@ -71,14 +72,14 @@
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 2,
-    "Rudi Hartono Bangun": 6,
+    "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 17,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 19,
     "Ismail": 20,
     "Eko Patrio": 7,
@@ -89,18 +90,74 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 33,
-    "Koperasi/UMKM": 79,
-    "Hukum/Audit": 48,
+    "Perdagangan": 36,
+    "Koperasi/UMKM": 80,
+    "Hukum/Audit": 46,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Harga Saham BUMN Masih Tertekan Meskipun Laporan Kinerja Bagus, Cek yang Layak Beli? - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 22:00:21 GMT",
+      "link": "https://investasi.kontan.co.id/news/harga-saham-bumn-masih-tertekan-meskipun-laporan-kinerja-bagus-cek-yang-layak-beli"
+    },
+    {
+      "title": "BP Batam Telusuri Pemilik Alokasi Lahan di Wilayah Laut - Berita Borneo",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 15:17:38 GMT",
+      "link": "https://beritaborneo.com/main/bp-batam-telusuri-pemilik-alokasi-lahan-di-wilayah-laut/"
+    },
+    {
+      "title": "Kemenkop Mulai Pembangunan Koperasi Merah Putih di Yahukimo - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 15:08:39 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-pembangunan-koperasi-merah-putih-yahukimo"
+    },
+    {
+      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 15:04:00 GMT",
+      "link": "https://www.ekon.go.id/publikasi/detail/7046/sinergi-bersama-meningkatkan-kemajuan-sektor-perdagangan-ritel-nasional"
+    },
+    {
+      "title": "Tidak Untung, Mufti Anam Minta Pemerintah Jujur Soal Kinerja Koperasi Desa Merah Putih - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 13:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/tidak-untung-mufti-anam-minta-pemerintah-jujur-soal-kinerja-koperasi-desa-merah-putih-b2pYwZbhaf"
+    },
+    {
+      "title": "DPR RI Dorong Penguatan UMKM dan Desak Pemerintah Segera Atasi Anjloknya Harga Garam Rakyat - indramayunews.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 12:50:58 GMT",
+      "link": "https://indramayunews.id/2026/08/06/dpr-ri-dorong-penguatan-umkm-dan-desak-pemerintah-segera-atasi-anjloknya-harga-garam-rakyat/"
+    },
+    {
+      "title": "Bali ekspor 3,5 ton salak ke China - ANTARA News Bali",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 11:52:52 GMT",
+      "link": "https://bali.antaranews.com/berita/411041/bali-ekspor-35-ton-salak-ke-china"
+    },
     {
       "title": "KPPU dan Ditintelkam Polda Sumut Selidiki Penyebab Harga Semen Tinggi, Distribusi Jadi Sorotan - Oke Medan",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Thu, 06 Aug 2026 11:14:53 GMT",
       "link": "https://okemedan.com/2026/08/06/kppu-dan-ditintelkam-polda-sumut-selidiki-penyebab-harga-semen-tinggi-distribusi-jadi-sorotan/"
+    },
+    {
+      "title": "Pertumbuhan Ekonomi 5,29 Persen, Rudi Hartono Bangun Merespons, Pakai Frasa “Sinyal Positif’ - JPNN.com",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 11:08:40 GMT",
+      "link": "https://www.jpnn.com/news/pertumbuhan-ekonomi-529-persen-rudi-hartono-bangun-merespons-pakai-frasa-sinyal-positif?utm_source=genpi_mobile&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
     },
     {
       "title": "Alasan Kemenbud Manfaatkan Aset Danantara untuk Jadi Museum - MetroTVNews.com",
@@ -131,74 +188,18 @@
       "link": "https://partainasdem.id/2026/08/06/ekonomi-tumbuh-529-rudi-hartono-bangun-apresiasi-sekaligus-beri-catatan/"
     },
     {
-      "title": "AFPI Buka Suara soal Banding Kasus Dugaan Kartel Suku Binga Pindar, Ini Updatenya - Infobanknews",
+      "title": "AFPI sebut sebagian besar anggotanya ajukan banding atas putusan KPPU - ANTARA News",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:41:23 GMT",
-      "link": "https://infobanknews.com/afpi-buka-suara-soal-banding-kasus-dugaan-kartel-suku-binga-pindar-ini-updatenya"
+      "published": "Thu, 06 Aug 2026 09:44:25 GMT",
+      "link": "https://www.antaranews.com/berita/5682659/afpi-sebut-sebagian-besar-anggotanya-ajukan-banding-atas-putusan-kppu"
     },
     {
-      "title": "Peletakan Batu Pertama Pembangunan KDKMP Dekai di Yahukimo, Menkop: Bukti Pemerataan Ekonomi - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:30:26 GMT",
-      "link": "https://www.metrotvnews.com/read/b2lC6lm3-peletakan-batu-pertama-pembangunan-kdkmp-dekai-di-yahukimo-menkop-bukti-pemerataan-ekonomi"
-    },
-    {
-      "title": "Sinergi KPPU Kanwil I dan Polda Sumut Awasi Lonjakan Harga Semen - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:28:09 GMT",
-      "link": "https://www.seputarsumut.com/berita/sinergi-kppu-kanwil-i-dan-polda-sumut-awasi-lonjakan-harga-semen/"
-    },
-    {
-      "title": "Kode Perhelatan IPO BUMN dari BEI - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:25:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/117546/kode-perhelatan-ipo-bumn-dari-bei"
-    },
-    {
-      "title": "KPPU Kanwil I dan Ditintelkam Polda Sumut Perkuat Sinergi Awasi Distribusi dan Harga Semen di Sumatera Utara - edisimedan.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:16:13 GMT",
-      "link": "https://edisimedan.com/kppu-kanwil-i-dan-ditintelkam-polda-sumut-perkuat-sinergi-awasi-distribusi-dan-harga-semen-di-sumatera-utara/"
-    },
-    {
-      "title": "Anggota Komisi XI Amin Ak: Pertumbuhan Ekonomi Perlu Diperkuat Mesin Baru, Tidak Bisa Hanya Bertumpu pada Konsumsi - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 08:54:20 GMT",
-      "link": "https://fraksi.pks.id/2026/08/06/anggota-komisi-xi-amin-ak-pertumbuhan-ekonomi-perlu-diperkuat-mesin-baru-tidak-bisa-hanya-bertumpu-pada-konsumsi/"
-    },
-    {
-      "title": "Bagaimana Kementerian Perdagangan Mendorong Ekspor dan Daya Saing Produk Indonesia? - Universitas Sains dan Teknologi Komputer",
+      "title": "Bagaimana Kementerian Perdagangan Mendorong Ekspor dan Daya Saing Produk Indonesia? - stekom.ac.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 08:52:58 GMT",
-      "link": "https://stekom.ac.id/artikel/bagaimana-kementerian-perdagangan-mendorong-ekspor-dan-daya-saing-produk-indonesia-20260806154716"
-    },
-    {
-      "title": "Ekonomi RI Tumbuh 5,29 Persen Masih On The Track - Rmol.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 08:52:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/08/06/717347/ekonomi-ri-tumbuh-5-29-persen-masih-on-the-track"
-    },
-    {
-      "title": "Forum Koordinasi Nasional Kekayaan Intelektual Indonesia Tahun 2026 - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 08:50:38 GMT",
-      "link": "https://www.hetanews.com/article/309901/forum-koordinasi-nasional-kekayaan-intelektual-indonesia-tahun-2026"
-    },
-    {
-      "title": "Pertumbuhan Ekonomi 5,29 Persen, Rudi H Bangun: Buktikan Fondasi Ekonomi Masih Tangguh - waspada.id",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 08:06:03 GMT",
-      "link": "https://www.waspada.id/artikel/pertumbuhan-ekonomi-5-29-persen-rudi-h-bangun-buktikan-fondasi-ekonomi-masih-tangguh"
+      "published": "Thu, 06 Aug 2026 09:43:39 GMT",
+      "link": "https://stekom.ac.id/en/article/bagaimana-kementerian-perdagangan-mendorong-ekspor-dan-daya-saing-produk-indonesia-20260806154716"
     }
   ]
 }
