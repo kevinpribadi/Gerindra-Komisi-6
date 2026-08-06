@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-06T09:37:46.371720",
+  "generated_at": "2026-08-06T12:00:48.139608",
   "party_counts_7d": {
-    "Gerindra": 11,
-    "PDI-P": 30,
+    "Gerindra": 10,
+    "PDI-P": 29,
     "Golkar": 6,
-    "NasDem": 7,
+    "NasDem": 9,
     "PKB": 4,
     "PKS": 10,
-    "PAN": 10,
-    "Demokrat": 7
+    "PAN": 11,
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 100,
     "Golkar": 67,
-    "NasDem": 42,
-    "PKB": 48,
-    "PKS": 58,
+    "NasDem": 43,
+    "PKB": 47,
+    "PKS": 56,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -35,9 +35,9 @@
   },
   "topic_counts_30d": {
     "bumn": 53,
-    "investasi": 33,
+    "investasi": 32,
     "danantara": 43,
-    "koperasi": 70,
+    "koperasi": 69,
     "perdagangan": 8,
     "ekspor": 8,
     "umkm": 19,
@@ -71,16 +71,15 @@
     "Rachmat Gobel": 20,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 2,
-    "Rudi Hartono Bangun": 5,
+    "Rudi Hartono Bangun": 6,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 16,
-    "Nasim Khan": 15,
+    "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 18,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 19,
-    "Ghufran": 1,
     "Ismail": 20,
     "Eko Patrio": 7,
     "Iskandar": 20,
@@ -90,12 +89,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 34,
-    "Koperasi/UMKM": 80,
-    "Hukum/Audit": 47,
+    "Perdagangan": 33,
+    "Koperasi/UMKM": 79,
+    "Hukum/Audit": 48,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU dan Ditintelkam Polda Sumut Selidiki Penyebab Harga Semen Tinggi, Distribusi Jadi Sorotan - Oke Medan",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 11:14:53 GMT",
+      "link": "https://okemedan.com/2026/08/06/kppu-dan-ditintelkam-polda-sumut-selidiki-penyebab-harga-semen-tinggi-distribusi-jadi-sorotan/"
+    },
+    {
+      "title": "Alasan Kemenbud Manfaatkan Aset Danantara untuk Jadi Museum - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 11:06:21 GMT",
+      "link": "https://www.metrotvnews.com/read/KXyCWJdY-alasan-kemenbud-manfaatkan-aset-danantara-untuk-jadi-museum"
+    },
+    {
+      "title": "Menkop Ferry Juliantono Letakkan Batu Pertama KDKMP Dekai, Dorong Kebangkitan Ekonomi Papua - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 10:27:18 GMT",
+      "link": "https://indoposco.id/2026/08/06/menkop-ferry-juliantono-letakkan-batu-pertama-kdkmp-dekai-dorong-kebangkitan-ekonomi-papua/"
+    },
+    {
+      "title": "KPPU Kanwil I dan Polda Sumut Perkuat Sinergi Awasi Distribusi dan Harga Semen - AnalisaDaily.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 10:05:14 GMT",
+      "link": "https://analisadaily.com/berita/baca/2026/08/06/1076299/kppu-kanwil-i-dan-polda-sumut-perkuat-sinergi-awasi-distribusi-dan-harga-semen/"
+    },
+    {
+      "title": "Ekonomi Tumbuh 5,29%, Rudi Hartono Bangun Apresiasi sekaligus Beri Catatan - Partai NasDem",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 09:57:21 GMT",
+      "link": "https://partainasdem.id/2026/08/06/ekonomi-tumbuh-529-rudi-hartono-bangun-apresiasi-sekaligus-beri-catatan/"
+    },
+    {
+      "title": "AFPI Buka Suara soal Banding Kasus Dugaan Kartel Suku Binga Pindar, Ini Updatenya - Infobanknews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 09:41:23 GMT",
+      "link": "https://infobanknews.com/afpi-buka-suara-soal-banding-kasus-dugaan-kartel-suku-binga-pindar-ini-updatenya"
+    },
+    {
+      "title": "Peletakan Batu Pertama Pembangunan KDKMP Dekai di Yahukimo, Menkop: Bukti Pemerataan Ekonomi - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 09:30:26 GMT",
+      "link": "https://www.metrotvnews.com/read/b2lC6lm3-peletakan-batu-pertama-pembangunan-kdkmp-dekai-di-yahukimo-menkop-bukti-pemerataan-ekonomi"
+    },
     {
       "title": "Sinergi KPPU Kanwil I dan Polda Sumut Awasi Lonjakan Harga Semen - Seputar Sumut",
       "entity": "KPPU",
@@ -132,6 +180,13 @@
       "link": "https://stekom.ac.id/artikel/bagaimana-kementerian-perdagangan-mendorong-ekspor-dan-daya-saing-produk-indonesia-20260806154716"
     },
     {
+      "title": "Ekonomi RI Tumbuh 5,29 Persen Masih On The Track - Rmol.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 08:52:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/08/06/717347/ekonomi-ri-tumbuh-5-29-persen-masih-on-the-track"
+    },
+    {
       "title": "Forum Koordinasi Nasional Kekayaan Intelektual Indonesia Tahun 2026 - Heta News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -139,67 +194,11 @@
       "link": "https://www.hetanews.com/article/309901/forum-koordinasi-nasional-kekayaan-intelektual-indonesia-tahun-2026"
     },
     {
-      "title": "Kekayaan Intelektual Jadi Aset Ekonomi, Kemendag Dorong Produk RI Tembus Pasar Global - news.schoolmedia.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 07:50:20 GMT",
-      "link": "https://news.schoolmedia.id/regional/3430/kekayaan-intelektual-jadi-aset-ekonomi-kemendag-dorong-produk-ri-tembus-pasar-global"
-    },
-    {
-      "title": "Kemendag Dorong Komersialisasi Kekayaan Intelektual untuk Perkuat Daya Saing Produk Indonesia - nasional.kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 07:38:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/08/06/14383981/kemendag-dorong-komersialisasi-kekayaan-intelektual-untuk-perkuat-daya-saing"
-    },
-    {
-      "title": "| Rieke: Putusan Sela Kasus Vidi Jadi Koreksi Penting bagi Penegakan Hukum - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Pertumbuhan Ekonomi 5,29 Persen, Rudi H Bangun: Buktikan Fondasi Ekonomi Masih Tangguh - waspada.id",
+      "entity": "Rudi Hartono Bangun",
       "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 07:11:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1663225/rieke-putusan-sela-kasus-vidi-jadi-koreksi-penting-bagi-penegakan-hukum/"
-    },
-    {
-      "title": "Kemendag Perkuat Perlindungan HKI, Dongkrak Daya Saing Ekspor Produk RI - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 06:54:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/06/kemendag-perkuat-perlindungan-hki-dongkrak-daya-saing-ekspor-produk-ri-135400854"
-    },
-    {
-      "title": "Bali Dibidik Jadi Hub Ekspor, Naik Kelas dari Destinasi Wisata ke Pusat Perdagangan - NUSABALI.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 06:39:30 GMT",
-      "link": "https://www.nusabali.com/berita/227647/bali-dibidik-jadi-hub-ekspor-naik-kelas-dari-destinasi-wisata-ke-pusat-perdagangan"
-    },
-    {
-      "title": "Kemendag Dorong Komersialisasi Kekayaan Intelektual untuk Perkuat Daya Saing Produk Indonesia - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 06:21:00 GMT",
-      "link": "https://www.topbusiness.id/133751/kemendag-dorong-komersialisasi-kekayaan-intelektual-untuk-perkuat-daya-saing-produk-indonesia.html"
-    },
-    {
-      "title": "Respons Bos BP Batam, Buka Suara Ungkap Fakta Izin Kaveling Laut - CNBC Indonesia",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 05:25:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260806110812-4-757046/respons-bos-bp-batam-buka-suara-ungkap-fakta-izin-kaveling-laut/amp"
-    },
-    {
-      "title": "Ida Nurlaela Ajak Warga Kampung Adat Kuta Lestarikan Kearifan Lokal Sebagai Warisan Budaya - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 05:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/ida-nurlaela-ajak-warga-kampung-adat-kuta-lestarikan-kearifan-lokal-sebagai-warisan-budaya-b2pYvZbgWE"
-    },
-    {
-      "title": "Danantara Jadikan Inovasi dan AI sebagai Fokus Transformasi BUMN - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 04:43:16 GMT",
-      "link": "https://www.metrotvnews.com/read/kBVCMGB9-danantara-jadikan-inovasi-dan-ai-sebagai-fokus-transformasi-bumn"
+      "published": "Thu, 06 Aug 2026 08:06:03 GMT",
+      "link": "https://www.waspada.id/artikel/pertumbuhan-ekonomi-5-29-persen-rudi-h-bangun-buktikan-fondasi-ekonomi-masih-tangguh"
     }
   ]
 }
