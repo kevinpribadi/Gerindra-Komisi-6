@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-06T03:13:56.982139",
+  "generated_at": "2026-08-06T06:27:25.773361",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 29,
     "Golkar": 6,
     "NasDem": 6,
     "PKB": 4,
-    "PKS": 7,
+    "PKS": 9,
     "PAN": 10,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 67,
-    "PDI-P": 101,
+    "Gerindra": 66,
+    "PDI-P": 100,
     "Golkar": 67,
-    "NasDem": 45,
+    "NasDem": 43,
     "PKB": 48,
-    "PKS": 55,
+    "PKS": 57,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "investasi": 36,
+    "bumn": 52,
+    "investasi": 33,
     "danantara": 45,
     "koperasi": 70,
-    "perdagangan": 8,
-    "ekspor": 10,
+    "perdagangan": 7,
+    "ekspor": 9,
     "umkm": 21,
     "ipo": 7,
     "kartel-monopoli": 6,
@@ -53,13 +53,13 @@
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 7,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 16,
+    "Mulyadi": 15,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 15,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
@@ -70,7 +70,7 @@
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 7,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 3,
     "Rudi Hartono Bangun": 4,
     "Subardi": 11,
@@ -79,7 +79,7 @@
     "Nasim Khan": 15,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 15,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 19,
     "Ghufran": 1,
     "Ismail": 20,
@@ -91,18 +91,74 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 37,
+    "Perdagangan": 35,
     "Koperasi/UMKM": 82,
     "Hukum/Audit": 47,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
+      "title": "Kemendag Dorong Komersialisasi Kekayaan Intelektual untuk Perkuat Daya Saing Produk Indonesia - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 06:21:00 GMT",
+      "link": "https://www.topbusiness.id/133751/kemendag-dorong-komersialisasi-kekayaan-intelektual-untuk-perkuat-daya-saing-produk-indonesia.html"
+    },
+    {
+      "title": "Respons Bos BP Batam, Buka Suara Ungkap Fakta Izin Kaveling Laut - CNBC Indonesia",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 05:25:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260806110812-4-757046/respons-bos-bp-batam-buka-suara-ungkap-fakta-izin-kaveling-laut/amp"
+    },
+    {
+      "title": "Danantara Jadikan Inovasi dan AI sebagai Fokus Transformasi BUMN - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 04:43:16 GMT",
+      "link": "https://www.metrotvnews.com/read/kBVCMGB9-danantara-jadikan-inovasi-dan-ai-sebagai-fokus-transformasi-bumn"
+    },
+    {
+      "title": "Danantara Jadikan Inovasi dan AI sebagai Fokus Transformasi BUMN - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 04:43:16 GMT",
+      "link": "https://www.metrotvnews.com/read/kBVCMGB9-danantara-jadikan-inovasi-dan-ai-sebagai-fokus-transformasi-bumn"
+    },
+    {
+      "title": "BP BUMN Dorong Pertamina Perkuat Pasokan BBM Nasional - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 03:35:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260806101422-4-757016/bp-bumn-dorong-pertamina-perkuat-pasokan-bbm-nasional"
+    },
+    {
+      "title": "PL Kawasan Laut Batam Disorot Menteri ATR, BP Batam Sebut Alokasi 2002-2015 Sebaiknya Dikembalikan - batamtoday.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 03:31:02 GMT",
+      "link": "https://batamtoday.com/news/pl-kawasan-laut-disorot-menteri-atr-bp-batam-alokasi-2002-2015-sebaiknya-dikembalikan-ke-pemerintah"
+    },
+    {
+      "title": "Anggota Komisi XI DPR RI, Amin Ak: Jangan Ratapi Rupiah Lemah, Momen Genjot Sektor Produktif dari Sawit hingga Pariwisata - HaiSawit",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 03:16:23 GMT",
+      "link": "https://haisawit.co.id/news/detail/anggota-komisi-xi-dpr-ri-amin-ak-jangan-ratapi-rupiah-lemah-momen-genjot-sektor-produktif-dari-sawit-hingga-pariwisata"
+    },
+    {
       "title": "Agrinas Palma Andalkan Koperasi untuk Memperkuat Ekosistem Perkebunan Nasional - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 06 Aug 2026 02:41:00 GMT",
       "link": "https://www.beritakoperasi.com/agrinas-palma-andalkan-koperasi-untuk-memperkuat-ekosistem-perkebunan-nasional/"
+    },
+    {
+      "title": "Ekonomi Kuartal II Tumbuh 5,29 Persen, DPR Soroti Ketergantungan pada Konsumsi - Rmol.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 06 Aug 2026 02:13:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/08/06/717286/ekonomi-kuartal-ii-tumbuh-5-29-persen-dpr-soroti-ketergantungan-pada-konsumsi"
     },
     {
       "title": "Peringatan Hari Koperasi ke-79, Jabar Ajak Generasi Muda Perkuat Gerakan Koperasi - Jabarprov",
@@ -133,74 +189,18 @@
       "link": "https://achmadnurhidayat.id/rieke-diah-pitaloka-film-seni-merayu-tuhan"
     },
     {
-      "title": "Rieke Diah Pitaloka: Jangan Bikin Hukum Tajam ke WNI tapi Tumpul terhadap WNA - Bela Rakyat",
+      "title": "Rieke Diah Pitaloka Akui Akting Jadi Oasis Saat Sibuk di DPR - detikHOT",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 00:23:39 GMT",
-      "link": "https://belarakyat.com/rieke-diah-pitaloka-jangan-bikin-hukum-tajam-ke-wni-tapi-tumpul-terhadap-wna/"
+      "published": "Thu, 06 Aug 2026 01:38:42 GMT",
+      "link": "https://hot.detik.com/celeb/d-8606340/rieke-diah-pitaloka-akui-akting-jadi-oasis-saat-sibuk-di-dpr"
     },
     {
-      "title": "Produk Kosmetik RI Makin Dilirik Dunia, Kemendag Dorong Ekspansi Pasar - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 00:11:00 GMT",
-      "link": "https://www.topbusiness.id/133709/produk-kosmetik-ri-makin-dilirik-dunia-kemendag-dorong-ekspansi-pasar.html"
-    },
-    {
-      "title": "Penempatan Manajer KDMP di Kaltim Masih Tunggu SK Kementerian - Korankaltim.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 23:48:45 GMT",
-      "link": "https://korankaltim.com/read/samarinda/92494/penempatan-manajer-kdmp-di-kaltim-masih-tunggu-sk-kementerian"
-    },
-    {
-      "title": "Danantara Alihkan Utang Whoosh ke Kementerian Keuangan - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 23:45:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-alihkan-utang-whoosh-ke-kementerian-keuangan-2280416"
-    },
-    {
-      "title": "Harga Semen Tinggi, KPPU dan Ditintelkam Polda Sumut Telusuri Rantai Distribusi - GoSumut.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 23:16:00 GMT",
-      "link": "https://www.gosumut.com/berita/baca/2026/08/06/harga-semen-tinggi-kppu-dan-ditintelkam-polda-sumut-telusuri-rantai-distribusi"
-    },
-    {
-      "title": "KPPU Kanwil I - Ditintelkam Polda Sumut Sinergi Awasi Distribusi Dan Harga Semen - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 23:03:29 GMT",
-      "link": "https://www.waspada.id/berita/kppu-kanwil-i-ditintelkam-polda-sumut-sinergi-awasi-distribusi-dan-harga-semen"
-    },
-    {
-      "title": "BP Batam Kaji Ulang Alokasi Kavling Laut yang Disorot Menteri ATR/BPN - Bisnis.com",
+      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - Haluan Kepri - Haluan Kepri",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 22:35:23 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260806/533/1994055/bp-batam-kaji-ulang-alokasi-kavling-laut-yang-disorot-menteri-atrbpn"
-    },
-    {
-      "title": "Garap Proyek Kereta Whoosh Warisan Jokowi: 3 Bulan Pertama BUMN Ini Tekor Rp483,80 Miliar - Inilah.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 22:09:00 GMT",
-      "link": "https://www.inilah.com/garap-proyek-kereta-whoosh-warisan-jokowi-3-bulan-pertama-bumn-ini-tekor-rp48380-miliar"
-    },
-    {
-      "title": "Wamenkop Farida dan Koperasi Kita Miraino Hikari Lepas 86 Pekerja Migran ke Jepang - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 16:21:00 GMT",
-      "link": "https://investortrust.id/national/111940/wamenkop-farida-dan-koperasi-kita-miraino-hikari-lepas-86-pekerja-migran-ke-jepang"
-    },
-    {
-      "title": "Temui Purbaya, Dony Oskaria Minta Diskon Pajak Restrukturisasi BUMN - InvestorTrust",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 05 Aug 2026 15:57:00 GMT",
-      "link": "https://investortrust.id/macro/111937/temui-purbaya-dony-oskaria-minta-diskon-pajak-restrukturisasi-bumn"
+      "published": "Thu, 06 Aug 2026 01:19:00 GMT",
+      "link": "https://kepri.harianhaluan.com/daerah/amp/1317471721/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan"
     }
   ]
 }
