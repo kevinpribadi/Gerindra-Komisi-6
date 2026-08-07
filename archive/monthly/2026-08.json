@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T21:36:11.865619",
+  "generated_at": "2026-08-07T23:31:10.689446",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
+    "bumn": 50,
     "investasi": 31,
-    "danantara": 31,
+    "danantara": 32,
     "koperasi": 68,
     "perdagangan": 9,
     "umkm": 18,
@@ -87,13 +87,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 14,
     "Koperasi/UMKM": 85,
     "Perdagangan": 32,
     "Hukum/Audit": 32,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Tim Pengawalan Streamlining BUMN memperkuat regulasi transformasi - ANTARA News Mataram",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 23:17:52 GMT",
+      "link": "https://mataram.antaranews.com/berita/565384/tim-pengawalan-streamlining-bumn-memperkuat-regulasi-transformasi"
+    },
+    {
+      "title": "Danantara Investasi Rp44,75 Triliun ke JBS Group di Australia & Selandia Baru - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 22:37:31 GMT",
+      "link": "https://aspek.id/danantara-investasi-rp4475-triliun-ke-jbs-group-di-australia-selandia-baru/"
+    },
     {
       "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News",
       "entity": "Badan Pengaturan BUMN",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 12:16:16 GMT",
       "link": "https://fokusborneo.com/politik/2026/08/07/dorong-ekonomi-rakyat-pansus-ii-dprd-kaltara-konsultasi-raperda-koperasi-ke-kemenkop/"
-    },
-    {
-      "title": "Ekonomi Triwulan II Melambat, DPR Soroti Kerentanan Konsumsi Rumah Tangga - indoposco.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 12:15:34 GMT",
-      "link": "https://indoposco.id/2026/08/07/ekonomi-triwulan-ii-melambat-dpr-soroti-kerentanan-konsumsi-rumah-tangga/"
-    },
-    {
-      "title": "274 BUMN dan Anak Usaha Dirampingkan, Pemerintah Kuatkan Sinergi Regulasi - InvestorTrust",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 11:22:00 GMT",
-      "link": "https://investortrust.id/business/112154/274-bumn-dan-anak-usaha-dirampingkan-pemerintah-kuatkan-sinergi-regulasi"
     }
   ]
 }
