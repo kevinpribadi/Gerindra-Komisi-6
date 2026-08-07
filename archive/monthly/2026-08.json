@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T15:53:34.099983",
+  "generated_at": "2026-08-07T16:51:53.293192",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 3,
+    "PKB": 4,
     "PKS": 14,
     "PAN": 11,
     "Demokrat": 5
@@ -16,7 +16,7 @@
     "PDI-P": 99,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 35,
+    "PKB": 36,
     "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 31,
+    "investasi": 32,
     "danantara": 32,
     "koperasi": 67,
+    "perdagangan": 9,
     "umkm": 18,
-    "perdagangan": 8,
-    "ekspor": 9,
-    "ipo": 7,
+    "ekspor": 8,
+    "ipo": 6,
     "merger-akuisisi": 5,
     "kartel-monopoli": 4,
     "impor": 6
@@ -75,7 +75,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
-    "Nasim Khan": 16,
+    "Nasim Khan": 17,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 1,
     "Amin Ak.": 19,
@@ -90,17 +90,38 @@
   "early_warning_counts": {
     "Kinerja BUMN": 16,
     "Koperasi/UMKM": 84,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 33,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Mendag Busan Ajak BRICS Perkuat Kerja Sama Hadapi Perubahan Lanskap Perdagangan Global - kemendag.go.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 16:22:46 GMT",
+      "link": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-brics-perkuat-kerja-sama-hadapi-perubahan-lanskap-perdagangan-global"
+    },
+    {
+      "title": "Danantara Investasi Rp 45 Triliun di JBS, Perusahaan Pengolahan Daging Terbesar Dunia - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 15:52:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/07/225244726/danantara-investasi-rp-45-triliun-di-jbs-perusahaan-pengolahan-daging-terbesar"
+    },
     {
       "title": "Pendapatan Danantara melonjak 400 persen, Prabowo: Ini perlu kita cek dan audit - ANTARA News Kalteng",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 15:35:05 GMT",
       "link": "https://kalteng.antaranews.com/berita/837696/pendapatan-danantara-melonjak-400-persen-prabowo-ini-perlu-kita-cek-dan-audit"
+    },
+    {
+      "title": "Komisi VI DPR dan BRI Situbondo edukasi pencegahan kejahatan digital - ANTARA News",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 15:19:14 GMT",
+      "link": "https://www.antaranews.com/berita/5685083/komisi-vi-dpr-dan-bri-situbondo-edukasi-pencegahan-kejahatan-digital"
     },
     {
       "title": "Kemendag Dorong Percepatan UMKM Masuk Ritel Modern, Begini Strateginya - kontan.co.id",
@@ -178,27 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 10:26:54 GMT",
       "link": "https://mediaindonesia.com/ekonomi/919418/kemendag-harapkan-program-isf-2026-turut-berikan-kontribusi-pada-konsumsi-rumah-tangga"
-    },
-    {
-      "title": "| Legislator Soroti Batas Tanggung Jawab Hukum Pilot - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 10:21:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1663279/legislator-soroti-batas-tanggung-jawab-hukum-pilot/"
-    },
-    {
-      "title": "Presiden Prabowo Laporkan Pendapatan BPI Danantara Naik 400 Persen Dalam Setahun - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 10:00:12 GMT",
-      "link": "https://achmadnurhidayat.id/presiden-prabowo-lapor-pendapatan-danantara"
-    },
-    {
-      "title": "Prabowo Dapat Laporan Pendapatan Danantara Melesat 400% - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 09:51:25 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8608806/prabowo-dapat-laporan-pendapatan-danantara-melesat-400"
     }
   ]
 }
