@@ -1,21 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T09:58:49.978616",
+  "generated_at": "2026-08-07T10:59:13.257222",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 33,
+    "PDI-P": 34,
     "Golkar": 5,
     "NasDem": 11,
+    "PKB": 1,
     "PKS": 11,
     "PAN": 12,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 61,
+    "Gerindra": 60,
     "PDI-P": 101,
     "Golkar": 67,
     "NasDem": 42,
-    "PKB": 37,
+    "PKB": 36,
     "PKS": 53,
     "PAN": 27,
     "Demokrat": 31
@@ -51,7 +52,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 12,
+    "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 16,
     "Darmadi Durianto": 20,
@@ -73,7 +74,7 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 7,
+    "Rivqy Abdul Halim": 6,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 3,
@@ -87,13 +88,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 19,
     "Perdagangan": 35,
     "Koperasi/UMKM": 82,
-    "Hukum/Audit": 36,
+    "Hukum/Audit": 35,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Momen Haru di Situbondo, Siswi Yatim Piatu Kejar Nasim Khan Saat Reses Demi Ucapkan Terima Kasih - beritanasional.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 10:48:34 GMT",
+      "link": "https://beritanasional.id/momen-haru-di-situbondo-siswi-yatim-piatu-kejar-nasim-khan-saat-reses-demi-ucapkan-terima-kasih/"
+    },
+    {
+      "title": "Kemendag Harapkan Program ISF 2026 Turut Berikan Kontribusi pada Konsumsi Rumah Tangga - Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 10:26:54 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/919418/kemendag-harapkan-program-isf-2026-turut-berikan-kontribusi-pada-konsumsi-rumah-tangga"
+    },
+    {
+      "title": "Presiden Prabowo Laporkan Pendapatan BPI Danantara Naik 400 Persen Dalam Setahun - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 10:00:12 GMT",
+      "link": "https://achmadnurhidayat.id/presiden-prabowo-lapor-pendapatan-danantara"
+    },
     {
       "title": "Menkop Ajak Petani Kopi di Papua Bentuk Koperasi - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -137,6 +159,13 @@
       "link": "https://achmadnurhidayat.id/rieke-diah-pitaloka-khawatir-anak-remaja-naik-gunung"
     },
     {
+      "title": "3 Pesan Penting Rieke Diah Pitaloka ke 3 Anak Cowok - detikHOT",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 08:12:44 GMT",
+      "link": "https://hot.detik.com/celeb/d-8606403/3-pesan-penting-rieke-diah-pitaloka-ke-3-anak-cowok"
+    },
+    {
       "title": "IPO BUMN Dipercepat, Danantara Incar Pegadaian hingga Pelindo - KabarBursa.com",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -169,35 +198,7 @@
       "entity": "Darmadi Durianto",
       "kind": "anggota",
       "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/sinyal-positif-darmadi-durianto-apresiasi-kinerja-bank-mandiri-semester-i-2026-b2pYxZbhaT"
-    },
-    {
-      "title": "Implikasi insentif fiskal restrukturisasi BUMN - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 06:59:22 GMT",
-      "link": "https://www.antaranews.com/berita/5683960/implikasi-insentif-fiskal-restrukturisasi-bumn"
-    },
-    {
-      "title": "Peran Danantara Kurang Maksimal, Kinerja Emiten BUMN Belum Merata - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 06:58:43 GMT",
-      "link": "https://investasi.kontan.co.id/news/peran-danantara-kurang-maksimal-kinerja-emiten-bumn-belum-merata"
-    },
-    {
-      "title": "Soroti Kasus Vidi, Rieke: Momentum Evaluasi Penegakan Hukum - beritabuana.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 06:54:03 GMT",
-      "link": "https://beritabuana.co/2026/08/07/soroti-kasus-vidi-rieke-momentum-evaluasi-penegakan-hukum/"
-    },
-    {
-      "title": "Indonesia-Tiongkok Perkuat Kerja Sama Investasi Hortikultura dan Transfer Teknologi untuk Dorong Ekspor - Agricom.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 06:45:00 GMT",
-      "link": "https://www.agricom.id/news/5101/indonesia-tiongkok-perkuat-kerja-sama-investasi-hortikultura-dan-transfer-teknologi-untuk-dorong-ekspor"
+      "link": "https://www.gesuri.id/amp/pemerintahan/sinyal-positif-darmadi-durianto-apresiasi-kinerja-bank-mandiri-semester-i-2026-b2pYxZbhaT"
     }
   ]
 }
