@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T16:51:53.293192",
+  "generated_at": "2026-08-07T17:46:56.823544",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
@@ -16,7 +16,7 @@
     "PDI-P": 99,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 36,
+    "PKB": 35,
     "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "investasi": 32,
-    "danantara": 32,
-    "koperasi": 67,
+    "bumn": 51,
+    "investasi": 31,
+    "danantara": 31,
+    "koperasi": 68,
     "perdagangan": 9,
     "umkm": 18,
     "ekspor": 8,
@@ -77,7 +77,6 @@
     "Rivqy Abdul Halim": 5,
     "Nasim Khan": 17,
     "Ida Fauziyah": 2,
-    "Imas Aan Ubudiah": 1,
     "Amin Ak.": 19,
     "Rizal Bawazier": 16,
     "Ismail": 20,
@@ -89,12 +88,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 84,
+    "Koperasi/UMKM": 85,
     "Perdagangan": 32,
-    "Hukum/Audit": 33,
+    "Hukum/Audit": 32,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 16:44:59 GMT",
+      "link": "https://www.antaranews.com/berita/5685188/bp-bumn-catat-274-bumn-telah-ditata-dalam-rangka-transformasi"
+    },
     {
       "title": "Mendag Busan Ajak BRICS Perkuat Kerja Sama Hadapi Perubahan Lanskap Perdagangan Global - kemendag.go.id",
       "entity": "Kementerian Perdagangan",
@@ -192,13 +198,6 @@
       "kind": "anggota",
       "published": "Fri, 07 Aug 2026 10:48:34 GMT",
       "link": "https://beritanasional.id/momen-haru-di-situbondo-siswi-yatim-piatu-kejar-nasim-khan-saat-reses-demi-ucapkan-terima-kasih/"
-    },
-    {
-      "title": "Kemendag Harapkan Program ISF 2026 Turut Berikan Kontribusi pada Konsumsi Rumah Tangga - Media Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 10:26:54 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/919418/kemendag-harapkan-program-isf-2026-turut-berikan-kontribusi-pada-konsumsi-rumah-tangga"
     }
   ]
 }
