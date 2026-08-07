@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T10:59:13.257222",
+  "generated_at": "2026-08-07T11:51:04.555160",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 34,
@@ -16,7 +16,7 @@
     "PDI-P": 101,
     "Golkar": 67,
     "NasDem": 42,
-    "PKB": 36,
+    "PKB": 34,
     "PKS": 53,
     "PAN": 27,
     "Demokrat": 31
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 53,
-    "investasi": 30,
-    "danantara": 33,
+    "investasi": 31,
+    "danantara": 31,
     "koperasi": 66,
-    "ekspor": 10,
+    "ekspor": 9,
     "perdagangan": 7,
     "ipo": 9,
     "merger-akuisisi": 5,
@@ -74,10 +74,10 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 6,
+    "Rivqy Abdul Halim": 5,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
-    "Imas Aan Ubudiah": 3,
+    "Imas Aan Ubudiah": 2,
     "Amin Ak.": 17,
     "Rizal Bawazier": 17,
     "Ismail": 19,
@@ -89,12 +89,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Koperasi/UMKM": 82,
-    "Hukum/Audit": 35,
+    "Hukum/Audit": 33,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "274 BUMN dan Anak Usaha Dirampingkan, Pemerintah Kuatkan Sinergi Regulasi - InvestorTrust",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 11:22:00 GMT",
+      "link": "https://investortrust.id/business/112154/274-bumn-dan-anak-usaha-dirampingkan-pemerintah-kuatkan-sinergi-regulasi"
+    },
     {
       "title": "Momen Haru di Situbondo, Siswi Yatim Piatu Kejar Nasim Khan Saat Reses Demi Ucapkan Terima Kasih - beritanasional.id",
       "entity": "Nasim Khan",
@@ -192,13 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 07:13:19 GMT",
       "link": "https://batamtoday.com/news/kppu-batalkan-perkara-akuisisi-pt-mcp-indo-utama-soroti-pentingnya-kepastian-hukum"
-    },
-    {
-      "title": "Sinyal Positif, Darmadi Durianto Apresiasi Kinerja Bank Mandiri Semester I 2026 - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/sinyal-positif-darmadi-durianto-apresiasi-kinerja-bank-mandiri-semester-i-2026-b2pYxZbhaT"
     }
   ]
 }
