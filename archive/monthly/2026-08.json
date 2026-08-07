@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T04:52:08.162779",
+  "generated_at": "2026-08-07T06:07:43.270651",
   "party_counts_7d": {
-    "Gerindra": 10,
-    "PDI-P": 33,
+    "Gerindra": 11,
+    "PDI-P": 32,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 3,
@@ -12,11 +12,11 @@
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 102,
     "Golkar": 67,
     "NasDem": 44,
-    "PKB": 46,
+    "PKB": 43,
     "PKS": 56,
     "PAN": 27,
     "Demokrat": 31
@@ -36,8 +36,8 @@
   "topic_counts_30d": {
     "bumn": 53,
     "investasi": 33,
-    "danantara": 41,
-    "koperasi": 66,
+    "danantara": 38,
+    "koperasi": 67,
     "perdagangan": 9,
     "ekspor": 9,
     "merger-akuisisi": 3,
@@ -50,7 +50,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 5,
+    "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
     "Mulyadi": 12,
@@ -75,7 +75,7 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 15,
+    "Rivqy Abdul Halim": 12,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
@@ -91,11 +91,32 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
-    "Koperasi/UMKM": 82,
-    "Hukum/Audit": 44,
+    "Koperasi/UMKM": 83,
+    "Hukum/Audit": 41,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Dorong Kejelasan Pertanggungjawaban Hukum bagi Student Pilot - DPR RI",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 05:38:09 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rieke-Diah-Pitaloka-Dorong-Kejelasan-Pertanggungjawaban-Hukum-bagi-Student-Pilot-67860"
+    },
+    {
+      "title": "IEP 3+1 UNM Buka Jalan ke Dunia Profesional, Mahasiswa Magang di Kementerian Koperasi - news.nusamandiri.ac.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 05:08:23 GMT",
+      "link": "https://news.nusamandiri.ac.id/berita/iep-31-unm-buka-jalan-ke-dunia-profesional-mahasiswa-magang-di-kementerian-koperasi/"
+    },
+    {
+      "title": "Swiss Van Java Garut Diminati Rusia, DPR Tawarkan Sister City dengan Grozny - Kosadata",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 04:49:35 GMT",
+      "link": "https://kosadata.com/swiss-van-java-garut-diminati-rusia-dpr-tawarkan-sister-city-dengan-grozny"
+    },
     {
       "title": "Masuk Roadmap Tahun Ke-4, Danantara Bakal Go Public-kan Deretan BUMN Raksasa - Stabilitas.id",
       "entity": "Danantara",
@@ -179,27 +200,6 @@
       "kind": "anggota",
       "published": "Fri, 07 Aug 2026 00:05:00 GMT",
       "link": "https://rm.id/baca-berita/parlemen/320726/bukukan-laba-rp-285-triliun-dpr-puji-kinerja-bank-mandiri"
-    },
-    {
-      "title": "Harga Saham BUMN Masih Tertekan Meskipun Laporan Kinerja Bagus, Cek yang Layak Beli? - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 22:00:21 GMT",
-      "link": "https://investasi.kontan.co.id/news/harga-saham-bumn-masih-tertekan-meskipun-laporan-kinerja-bagus-cek-yang-layak-beli"
-    },
-    {
-      "title": "Kemendag Dorong Pelaku Usaha TPT Manfaatkan Perjanjian Dagang - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 19:17:01 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/07/kemendag-dorong-pelaku-usaha-tpt-manfaatkan-perjanjian-dagang-080000901"
-    },
-    {
-      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - Posmetrobatam.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 16:29:34 GMT",
-      "link": "https://posmetrobatam.co.id/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan/"
     }
   ]
 }
