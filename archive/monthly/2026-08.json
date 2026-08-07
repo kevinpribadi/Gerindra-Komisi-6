@@ -1,23 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T06:07:43.270651",
+  "generated_at": "2026-08-07T08:11:15.404158",
   "party_counts_7d": {
-    "Gerindra": 11,
-    "PDI-P": 32,
+    "Gerindra": 12,
+    "PDI-P": 33,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 3,
     "PKS": 11,
     "PAN": 11,
-    "Demokrat": 6
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 102,
+    "PDI-P": 101,
     "Golkar": 67,
-    "NasDem": 44,
-    "PKB": 43,
-    "PKS": 56,
+    "NasDem": 42,
+    "PKB": 37,
+    "PKS": 54,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -35,17 +34,16 @@
   },
   "topic_counts_30d": {
     "bumn": 53,
-    "investasi": 33,
-    "danantara": 38,
-    "koperasi": 67,
-    "perdagangan": 9,
-    "ekspor": 9,
-    "merger-akuisisi": 3,
+    "investasi": 31,
+    "danantara": 33,
+    "koperasi": 66,
+    "ekspor": 10,
+    "perdagangan": 7,
+    "merger-akuisisi": 4,
     "ipo": 8,
     "kartel-monopoli": 5,
     "umkm": 17,
-    "impor": 6,
-    "dividen": 2
+    "impor": 6
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -54,7 +52,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
     "Mulyadi": 12,
-    "Adisatrya Suryo Sulisto": 18,
+    "Adisatrya Suryo Sulisto": 17,
     "Mufti Anam": 16,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -70,18 +68,18 @@
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
-    "Asep Wahyuwijaya": 4,
+    "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 2,
     "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 12,
+    "Rivqy Abdul Halim": 7,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
-    "Imas Aan Ubudiah": 4,
+    "Imas Aan Ubudiah": 3,
     "Amin Ak.": 17,
-    "Rizal Bawazier": 19,
-    "Ismail": 20,
+    "Rizal Bawazier": 18,
+    "Ismail": 19,
     "Eko Patrio": 7,
     "Iskandar": 20,
     "Sartono": 7,
@@ -91,11 +89,95 @@
   "early_warning_counts": {
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
-    "Koperasi/UMKM": 83,
-    "Hukum/Audit": 41,
+    "Koperasi/UMKM": 82,
+    "Hukum/Audit": 34,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Darmadi Durianto Puji Kinerja Bank Mandiri Mampu Cetak Laba Rp28,5 Triliun - Rmol.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 07:35:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/07/717457/darmadi-durianto-puji-kinerja-bank-mandiri-mampu-cetak-laba-rp28-5-triliun-"
+    },
+    {
+      "title": "Andre Rosiade Beberkan Dampak Jika Tol Sicincin – Bukittinggi Berhasil Dibangun - Kata Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 07:23:00 GMT",
+      "link": "https://katasumbar.com/andre-rosiade-beberkan-dampak-jika-tol-sicincin-bukittinggi-berhasil-dibangun/"
+    },
+    {
+      "title": "KPPU Batalkan Perkara Akuisisi PT MCP Indo Utama, Soroti Pentingnya Kepastian Hukum - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 07:13:19 GMT",
+      "link": "https://batamtoday.com/news/kppu-batalkan-perkara-akuisisi-pt-mcp-indo-utama-soroti-pentingnya-kepastian-hukum"
+    },
+    {
+      "title": "Sinyal Positif, Darmadi Durianto Apresiasi Kinerja Bank Mandiri Semester I 2026 - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sinyal-positif-darmadi-durianto-apresiasi-kinerja-bank-mandiri-semester-i-2026-b2pYxZbhaT"
+    },
+    {
+      "title": "Implikasi insentif fiskal restrukturisasi BUMN - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 06:59:22 GMT",
+      "link": "https://www.antaranews.com/berita/5683960/implikasi-insentif-fiskal-restrukturisasi-bumn"
+    },
+    {
+      "title": "Peran Danantara Kurang Maksimal, Kinerja Emiten BUMN Belum Merata - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 06:58:43 GMT",
+      "link": "https://investasi.kontan.co.id/news/peran-danantara-kurang-maksimal-kinerja-emiten-bumn-belum-merata"
+    },
+    {
+      "title": "Soroti Kasus Vidi, Rieke: Momentum Evaluasi Penegakan Hukum - beritabuana.co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 06:54:03 GMT",
+      "link": "https://beritabuana.co/2026/08/07/soroti-kasus-vidi-rieke-momentum-evaluasi-penegakan-hukum/"
+    },
+    {
+      "title": "Indonesia-Tiongkok Perkuat Kerja Sama Investasi Hortikultura dan Transfer Teknologi untuk Dorong Ekspor - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 06:45:00 GMT",
+      "link": "https://www.agricom.id/news/5101/indonesia-tiongkok-perkuat-kerja-sama-investasi-hortikultura-dan-transfer-teknologi-untuk-dorong-ekspor"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Putusan Sela Kasus Vidi Jadi Momentum Evaluasi Penegakan Hukum - Detak.co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 06:38:56 GMT",
+      "link": "https://detak.co/kategori/parlemen/rieke-diah-pitaloka-putusan-sela-kasus-vidi-jadi-momentum-evaluasi-penegakan-hukum/"
+    },
+    {
+      "title": "Setuju Kemenkeu Tangani Utang KCIC, Legislator Minta Saham PT KAI Tetap Aman - Kedai Pena",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 06:29:18 GMT",
+      "link": "https://www.kedaipena.com/setuju-kemenkeu-tangani-utang-kcic-legislator-minta-saham-pt-kai-tetap-aman/"
+    },
+    {
+      "title": "Manfaat Kementerian Perdagangan dalam Mendukung Pertumbuhan Ekonomi Indonesia - Universitas Sains dan Teknologi Komputer",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 06:12:16 GMT",
+      "link": "https://stekom.ac.id/artikel/manfaat-kementerian-perdagangan-dalam-mendukung-pertumbuhan-ekonomi-indonesia-20260807130644"
+    },
+    {
+      "title": "Presiden Bantu Biaya Pemotongan Bagi Penyandang Disabilitas - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 06:05:00 GMT",
+      "link": "https://www.mediakarya.id/ketua-bpkn-siap-kawal-kebijakan-presiden-terkait-potongan-biaya-bagi-penyandang-disabilitas/"
+    },
     {
       "title": "Rieke Diah Pitaloka Dorong Kejelasan Pertanggungjawaban Hukum bagi Student Pilot - DPR RI",
       "entity": "Rieke Diah Pitaloka",
@@ -111,95 +193,11 @@
       "link": "https://news.nusamandiri.ac.id/berita/iep-31-unm-buka-jalan-ke-dunia-profesional-mahasiswa-magang-di-kementerian-koperasi/"
     },
     {
-      "title": "Swiss Van Java Garut Diminati Rusia, DPR Tawarkan Sister City dengan Grozny - Kosadata",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 04:49:35 GMT",
-      "link": "https://kosadata.com/swiss-van-java-garut-diminati-rusia-dpr-tawarkan-sister-city-dengan-grozny"
-    },
-    {
-      "title": "Masuk Roadmap Tahun Ke-4, Danantara Bakal Go Public-kan Deretan BUMN Raksasa - Stabilitas.id",
-      "entity": "Danantara",
+      "title": "BUMN Harus Bertransformasi Hadirkan Dampak Nyata Bagi Masyarakat - Kedai Pena",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 04:17:07 GMT",
-      "link": "https://www.stabilitas.id/masuk-roadmap-tahun-ke-4-danantara-bakal-go-public-kan-deretan-bumn-raksasa/"
-    },
-    {
-      "title": "Koperasi Merah Putih: Ketika Lokomotif Berangkat Sebelum Rel Tata Kelola Terpasang - Editor Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 03:58:08 GMT",
-      "link": "https://editorindonesia.com/regulasi-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Andre Rosiade: Sekolah Rakyat jadi Program Unggulan Presiden Prabowo Putus Rantai Kemiskinan - posmetropadang.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 03:56:43 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-sekolah-rakyat-jadi-program-unggulan-presiden-prabowo-putus-rantai-kemiskinan-428840/"
-    },
-    {
-      "title": "PAW Aleg NasDem di DPR RI: Tak Berkomentar Lebih, Prof. Winarni Doakan Almarhum RG - Habari.id",
-      "entity": "Rachmat Gobel",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 03:38:36 GMT",
-      "link": "https://habari.id/paw-aleg-nasdem-di-dpr-ri-tak-berkomentar-lebih-prof-winarni-doakan-almarhum-rg/"
-    },
-    {
-      "title": "Arab Saudi Tawari Danantara Saham Bandara Madinah - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 02:24:41 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCPJ38-arab-saudi-tawari-danantara-saham-bandara-madinah"
-    },
-    {
-      "title": "Anggota Komisi XI DPR, Amin Ak Dorong Ekonomi Syariah Menjadi Mesin Pertumbuhan Baru, Bukan Sekadar Alternatif Keuangan - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 02:23:58 GMT",
-      "link": "https://fraksi.pks.id/2026/08/07/anggota-komisi-xi-dpr-amin-ak-dorong-ekonomi-syariah-menjadi-mesin-pertumbuhan-baru-bukan-sekadar-alternatif-keuangan/"
-    },
-    {
-      "title": "KPPU Mulai Sidangkan Dugaan Keterlambatan Notifikasi Akuisisi PT Mandala Multifinance oleh MUFG Bank - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 02:10:15 GMT",
-      "link": "https://batamtoday.com/news/kppu-mulai-sidangkan-dugaan-keterlambatan-notifikasi-akuisisi-pt-mandala-multifinance-oleh-mufg-bank"
-    },
-    {
-      "title": "Darmadi Durianto Apresiasi Kinerja Positif BNI Semester I 2026, Dorong Perkuat Pembiayaan Sektor Produktif - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 02:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-positif-bni-semester-i-2026-dorong-perkuat-pembiayaan-sektor-produktif-b2pYxZbhaB"
-    },
-    {
-      "title": "Darmadi Durianto Apresiasi Kinerja BTN, Dorong Perkuat Akses Pembiayaan Perumahan bagi Masyarakat - TEROPONGSENAYAN.com",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 01:35:24 GMT",
-      "link": "https://www.teropongsenayan.com/138157-darmadi-durianto-apresiasi-kinerja-btn-dorong-perkuat-akses-pembiayaan-perumahan-bagi-masyarakat"
-    },
-    {
-      "title": "KPPU Putuskan Perkara Akuisisi PT MCP Indo Utama, Tekankan Pentingnya Kepastian Hukum - KaltimKita.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 01:31:46 GMT",
-      "link": "https://kaltimkita.com/detailpost/kppu-putuskan-perkara-akuisisi-pt-mcp-indo-utama-tekankan-pentingnya-kepastian-hukum"
-    },
-    {
-      "title": "Hilirisasi PTPN, Dony Oskaria Tekankan Riset dan Uji Coba Terukur - Industry.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 01:10:00 GMT",
-      "link": "https://www.industry.co.id/read/154191/hilirisasi-ptpn-dony-oskaria-tekankan-riset-dan-uji-coba-terukur"
-    },
-    {
-      "title": "Bukukan Laba Rp 28,5 Triliun DPR Puji Kinerja Bank Mandiri - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/320726/bukukan-laba-rp-285-triliun-dpr-puji-kinerja-bank-mandiri"
+      "published": "Fri, 07 Aug 2026 04:54:09 GMT",
+      "link": "https://www.kedaipena.com/bumn-harus-bertransformasi-hadirkan-dampak-nyata-bagi-masyarakat/"
     }
   ]
 }
