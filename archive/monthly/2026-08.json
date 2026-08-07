@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T08:11:15.404158",
+  "generated_at": "2026-08-07T09:58:49.978616",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 33,
     "Golkar": 5,
     "NasDem": 11,
     "PKS": 11,
-    "PAN": 11,
-    "Demokrat": 7
+    "PAN": 12,
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 61,
@@ -16,7 +16,7 @@
     "Golkar": 67,
     "NasDem": 42,
     "PKB": 37,
-    "PKS": 54,
+    "PKS": 53,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,14 +34,14 @@
   },
   "topic_counts_30d": {
     "bumn": 53,
-    "investasi": 31,
+    "investasi": 30,
     "danantara": 33,
     "koperasi": 66,
     "ekspor": 10,
     "perdagangan": 7,
-    "merger-akuisisi": 4,
-    "ipo": 8,
-    "kartel-monopoli": 5,
+    "ipo": 9,
+    "merger-akuisisi": 5,
+    "kartel-monopoli": 4,
     "umkm": 17,
     "impor": 6
   },
@@ -78,7 +78,7 @@
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 17,
-    "Rizal Bawazier": 18,
+    "Rizal Bawazier": 17,
     "Ismail": 19,
     "Eko Patrio": 7,
     "Iskandar": 20,
@@ -90,10 +90,59 @@
     "Kinerja BUMN": 20,
     "Perdagangan": 35,
     "Koperasi/UMKM": 82,
-    "Hukum/Audit": 34,
+    "Hukum/Audit": 36,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Menkop Ajak Petani Kopi di Papua Bentuk Koperasi - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 09:38:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/07/717470/menkop-ajak-petani-kopi-di-papua-bentuk-koperasi-"
+    },
+    {
+      "title": "KPPU Sidangkan Dugaan Keterlambatan Notifikasi Akuisisi Mandala Multifinance oleh MUFG Bank - kanalsatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 09:24:00 GMT",
+      "link": "https://kanalsatu.com/id/post/68743/kppu-sidangkan-dugaan-keterlambatan-notifikasi-akuisisi-mandala-multifinance-oleh-mufg-bank"
+    },
+    {
+      "title": "Kemensos Sosialisasikan Aturan Konsesi Disabilitas - Tempo.co",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 09:21:27 GMT",
+      "link": "https://www.tempo.co/politik/kemensos-sosialisasikan-aturan-konsesi-disabilitas-2280739"
+    },
+    {
+      "title": "Penyidik KPK Periksa Iskandar Sitorus Soal Ahmad Dedi - Tempo.co",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 08:57:05 GMT",
+      "link": "https://www.tempo.co/hukum/penyidik-kpk-periksa-iskandar-sitorus-soal-ahmad-dedi-2280732"
+    },
+    {
+      "title": "Rieke Pitaloka Minta Tanggung Jawab Hukum Penerbangan Memperjelas Peran PIC dan Instruktur - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 08:30:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-pitaloka-minta-tanggung-jawab-hukum-penerbangan-memperjelas-peran-pic-dan-instruktur-b2pYxZbhbs"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Khawatir Anak Remajanya Gemar Naik Gunung - achmadnurhidayat.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 08:21:25 GMT",
+      "link": "https://achmadnurhidayat.id/rieke-diah-pitaloka-khawatir-anak-remaja-naik-gunung"
+    },
+    {
+      "title": "IPO BUMN Dipercepat, Danantara Incar Pegadaian hingga Pelindo - KabarBursa.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 08:08:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/ipo-bumn-dipercepat-danantara-incar-pegadaian-hingga-pelindo"
+    },
     {
       "title": "Darmadi Durianto Puji Kinerja Bank Mandiri Mampu Cetak Laba Rp28,5 Triliun - Rmol.id",
       "entity": "Darmadi Durianto",
@@ -149,55 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 06:45:00 GMT",
       "link": "https://www.agricom.id/news/5101/indonesia-tiongkok-perkuat-kerja-sama-investasi-hortikultura-dan-transfer-teknologi-untuk-dorong-ekspor"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Putusan Sela Kasus Vidi Jadi Momentum Evaluasi Penegakan Hukum - Detak.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 06:38:56 GMT",
-      "link": "https://detak.co/kategori/parlemen/rieke-diah-pitaloka-putusan-sela-kasus-vidi-jadi-momentum-evaluasi-penegakan-hukum/"
-    },
-    {
-      "title": "Setuju Kemenkeu Tangani Utang KCIC, Legislator Minta Saham PT KAI Tetap Aman - Kedai Pena",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 06:29:18 GMT",
-      "link": "https://www.kedaipena.com/setuju-kemenkeu-tangani-utang-kcic-legislator-minta-saham-pt-kai-tetap-aman/"
-    },
-    {
-      "title": "Manfaat Kementerian Perdagangan dalam Mendukung Pertumbuhan Ekonomi Indonesia - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 06:12:16 GMT",
-      "link": "https://stekom.ac.id/artikel/manfaat-kementerian-perdagangan-dalam-mendukung-pertumbuhan-ekonomi-indonesia-20260807130644"
-    },
-    {
-      "title": "Presiden Bantu Biaya Pemotongan Bagi Penyandang Disabilitas - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 06:05:00 GMT",
-      "link": "https://www.mediakarya.id/ketua-bpkn-siap-kawal-kebijakan-presiden-terkait-potongan-biaya-bagi-penyandang-disabilitas/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dorong Kejelasan Pertanggungjawaban Hukum bagi Student Pilot - DPR RI",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 05:38:09 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rieke-Diah-Pitaloka-Dorong-Kejelasan-Pertanggungjawaban-Hukum-bagi-Student-Pilot-67860"
-    },
-    {
-      "title": "IEP 3+1 UNM Buka Jalan ke Dunia Profesional, Mahasiswa Magang di Kementerian Koperasi - news.nusamandiri.ac.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 05:08:23 GMT",
-      "link": "https://news.nusamandiri.ac.id/berita/iep-31-unm-buka-jalan-ke-dunia-profesional-mahasiswa-magang-di-kementerian-koperasi/"
-    },
-    {
-      "title": "BUMN Harus Bertransformasi Hadirkan Dampak Nyata Bagi Masyarakat - Kedai Pena",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 04:54:09 GMT",
-      "link": "https://www.kedaipena.com/bumn-harus-bertransformasi-hadirkan-dampak-nyata-bagi-masyarakat/"
     }
   ]
 }
