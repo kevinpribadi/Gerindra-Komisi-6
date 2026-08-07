@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T14:13:27.219229",
+  "generated_at": "2026-08-07T15:53:34.099983",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 35,
+    "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 1,
-    "PKS": 13,
+    "PKB": 3,
+    "PKS": 14,
     "PAN": 11,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 101,
+    "PDI-P": 99,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 34,
-    "PKS": 54,
+    "PKB": 35,
+    "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
+    "bumn": 50,
     "investasi": 31,
     "danantara": 32,
     "koperasi": 67,
+    "umkm": 18,
+    "perdagangan": 8,
     "ekspor": 9,
-    "perdagangan": 7,
-    "ipo": 8,
+    "ipo": 7,
     "merger-akuisisi": 5,
     "kartel-monopoli": 4,
-    "umkm": 17,
     "impor": 6
   },
   "member_counts_30d": {
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 16,
     "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 17,
-    "Mufti Anam": 16,
+    "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 8,
@@ -75,12 +75,12 @@
     "Subardi": 10,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
-    "Nasim Khan": 14,
+    "Nasim Khan": 16,
     "Ida Fauziyah": 2,
-    "Imas Aan Ubudiah": 2,
+    "Imas Aan Ubudiah": 1,
     "Amin Ak.": 19,
     "Rizal Bawazier": 16,
-    "Ismail": 19,
+    "Ismail": 20,
     "Eko Patrio": 7,
     "Iskandar": 20,
     "Sartono": 7,
@@ -88,19 +88,47 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 16,
+    "Koperasi/UMKM": 84,
     "Perdagangan": 33,
-    "Koperasi/UMKM": 83,
     "Hukum/Audit": 33,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Pendapatan Danantara melonjak 400 persen, Prabowo: Ini perlu kita cek dan audit - ANTARA News Kalteng",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 15:35:05 GMT",
+      "link": "https://kalteng.antaranews.com/berita/837696/pendapatan-danantara-melonjak-400-persen-prabowo-ini-perlu-kita-cek-dan-audit"
+    },
+    {
+      "title": "Kemendag Dorong Percepatan UMKM Masuk Ritel Modern, Begini Strateginya - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 14:50:57 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-dorong-percepatan-umkm-masuk-ritel-modern-begini-strateginya"
+    },
+    {
+      "title": "Sosialisasi BUMN di Situbondo, Nasim Khan – Bank BRI Edukasi Warga Cegah Penipuan Digital - beritanasional.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 13:55:53 GMT",
+      "link": "https://beritanasional.id/sosialisasi-bumn-di-situbondo-nasim-khan-bank-bri-edukasi-warga-cegah-penipuan-digital/"
+    },
     {
       "title": "Sinergi Pemkab Muba dan Kementerian Koperasi Siapkan Agenda Nasional Hilirisasi Kelapa Sawit - Mattanews.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 13:53:56 GMT",
       "link": "https://mattanews.co/sinergi-pemkab-muba-dan-kementerian-koperasi-siapkan-agenda-nasional-hilirisasi-kelapa-sawit/"
+    },
+    {
+      "title": "Komisi VI DPR RI Nasim Khan Gandeng BRI Edukasi Warga Situbondo Waspada Phishing hingga Pinjol Ilegal - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 13:24:00 GMT",
+      "link": "https://ketik.com/situbondo/daerah/komisi-vi-dpr-ri-nasim-khan-gandeng-bri-edukasi-warga-situbondo-waspada-phishing-hingga-pinjol-ilegal"
     },
     {
       "title": "Ekonomi RI Cuma Tumbuh 5,29%, DPR Ingatkan Kerentanan Struktur Pertumbuhan - Beritakota",
@@ -171,34 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 09:51:25 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8608806/prabowo-dapat-laporan-pendapatan-danantara-melesat-400"
-    },
-    {
-      "title": "Menkop Ajak Petani Kopi di Papua Bentuk Koperasi - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 09:38:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/07/717470/menkop-ajak-petani-kopi-di-papua-bentuk-koperasi-"
-    },
-    {
-      "title": "KPPU Sidangkan Dugaan Keterlambatan Notifikasi Akuisisi Mandala Multifinance oleh MUFG Bank - kanalsatu.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 09:24:00 GMT",
-      "link": "https://kanalsatu.com/id/post/68743/kppu-sidangkan-dugaan-keterlambatan-notifikasi-akuisisi-mandala-multifinance-oleh-mufg-bank"
-    },
-    {
-      "title": "Kemensos Sosialisasikan Aturan Konsesi Disabilitas - Tempo.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 09:21:27 GMT",
-      "link": "https://www.tempo.co/politik/kemensos-sosialisasikan-aturan-konsesi-disabilitas-2280739"
-    },
-    {
-      "title": "182 Koperasi Vakum di Demak, Jadi Tantangan Besar Penguatan Ekonomi Daerah - Jatengdaily.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 09:13:39 GMT",
-      "link": "https://jatengdaily.com/2026/182-koperasi-vakum-di-demak-jadi-tantangan-besar-penguatan-ekonomi-daerah/?amp=1"
     }
   ]
 }
