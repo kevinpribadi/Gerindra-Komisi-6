@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-06T23:55:53.792071",
+  "generated_at": "2026-08-07T02:36:25.824682",
   "party_counts_7d": {
     "Gerindra": 10,
-    "PDI-P": 30,
+    "PDI-P": 33,
     "Golkar": 6,
     "NasDem": 10,
     "PKB": 3,
-    "PKS": 10,
+    "PKS": 11,
     "PAN": 11,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 63,
+    "Gerindra": 61,
     "PDI-P": 102,
     "Golkar": 67,
     "NasDem": 44,
     "PKB": 47,
-    "PKS": 55,
+    "PKS": 56,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
+    "bumn": 53,
     "investasi": 33,
     "danantara": 42,
-    "koperasi": 68,
+    "koperasi": 65,
     "perdagangan": 9,
-    "ekspor": 9,
-    "merger-akuisisi": 1,
-    "ipo": 9,
-    "kartel-monopoli": 6,
+    "ekspor": 8,
+    "merger-akuisisi": 3,
+    "ipo": 8,
+    "kartel-monopoli": 5,
     "umkm": 17,
     "impor": 6,
     "dividen": 2
@@ -51,9 +51,9 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 5,
-    "Mulan Jameela": 6,
+    "Mulan Jameela": 5,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 13,
+    "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 18,
     "Mufti Anam": 16,
     "Darmadi Durianto": 20,
@@ -79,7 +79,7 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
-    "Amin Ak.": 16,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 19,
     "Ismail": 20,
     "Eko Patrio": 7,
@@ -90,18 +90,81 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 36,
-    "Koperasi/UMKM": 80,
-    "Hukum/Audit": 46,
+    "Perdagangan": 34,
+    "Koperasi/UMKM": 81,
+    "Hukum/Audit": 45,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Arab Saudi Tawari Danantara Saham Bandara Madinah - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 02:24:41 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCPJ38-arab-saudi-tawari-danantara-saham-bandara-madinah"
+    },
+    {
+      "title": "Anggota Komisi XI DPR, Amin Ak Dorong Ekonomi Syariah Menjadi Mesin Pertumbuhan Baru, Bukan Sekadar Alternatif Keuangan - Fraksi PKS",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 02:23:58 GMT",
+      "link": "https://fraksi.pks.id/2026/08/07/anggota-komisi-xi-dpr-amin-ak-dorong-ekonomi-syariah-menjadi-mesin-pertumbuhan-baru-bukan-sekadar-alternatif-keuangan/"
+    },
+    {
+      "title": "KPPU Mulai Sidangkan Dugaan Keterlambatan Notifikasi Akuisisi PT Mandala Multifinance oleh MUFG Bank - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 02:10:15 GMT",
+      "link": "https://batamtoday.com/news/kppu-mulai-sidangkan-dugaan-keterlambatan-notifikasi-akuisisi-pt-mandala-multifinance-oleh-mufg-bank"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Kinerja Positif BNI Semester I 2026, Dorong Perkuat Pembiayaan Sektor Produktif - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 02:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-apresiasi-kinerja-positif-bni-semester-i-2026-dorong-perkuat-pembiayaan-sektor-produktif-b2pYxZbhaB"
+    },
+    {
+      "title": "Darmadi Durianto Apresiasi Kinerja BTN, Dorong Perkuat Akses Pembiayaan Perumahan bagi Masyarakat - TEROPONGSENAYAN.com",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 01:35:24 GMT",
+      "link": "https://www.teropongsenayan.com/138157-darmadi-durianto-apresiasi-kinerja-btn-dorong-perkuat-akses-pembiayaan-perumahan-bagi-masyarakat"
+    },
+    {
+      "title": "KPPU Putuskan Perkara Akuisisi PT MCP Indo Utama, Tekankan Pentingnya Kepastian Hukum - KaltimKita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 01:31:46 GMT",
+      "link": "https://kaltimkita.com/detailpost/kppu-putuskan-perkara-akuisisi-pt-mcp-indo-utama-tekankan-pentingnya-kepastian-hukum"
+    },
+    {
+      "title": "Hilirisasi PTPN, Dony Oskaria Tekankan Riset dan Uji Coba Terukur - Industry.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 01:10:00 GMT",
+      "link": "https://www.industry.co.id/read/154191/hilirisasi-ptpn-dony-oskaria-tekankan-riset-dan-uji-coba-terukur"
+    },
+    {
+      "title": "Bukukan Laba Rp 28,5 Triliun DPR Puji Kinerja Bank Mandiri - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/320726/bukukan-laba-rp-285-triliun-dpr-puji-kinerja-bank-mandiri"
+    },
     {
       "title": "Harga Saham BUMN Masih Tertekan Meskipun Laporan Kinerja Bagus, Cek yang Layak Beli? - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 06 Aug 2026 22:00:21 GMT",
       "link": "https://investasi.kontan.co.id/news/harga-saham-bumn-masih-tertekan-meskipun-laporan-kinerja-bagus-cek-yang-layak-beli"
+    },
+    {
+      "title": "Kemendag Dorong Pelaku Usaha TPT Manfaatkan Perjanjian Dagang - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 06 Aug 2026 19:17:01 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/08/07/kemendag-dorong-pelaku-usaha-tpt-manfaatkan-perjanjian-dagang-080000901"
     },
     {
       "title": "BP Batam Telusuri Pemilik Alokasi Lahan di Wilayah Laut - Berita Borneo",
@@ -125,81 +188,18 @@
       "link": "https://www.ekon.go.id/publikasi/detail/7046/sinergi-bersama-meningkatkan-kemajuan-sektor-perdagangan-ritel-nasional"
     },
     {
-      "title": "Tidak Untung, Mufti Anam Minta Pemerintah Jujur Soal Kinerja Koperasi Desa Merah Putih - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 13:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/tidak-untung-mufti-anam-minta-pemerintah-jujur-soal-kinerja-koperasi-desa-merah-putih-b2pYwZbhaf"
-    },
-    {
-      "title": "DPR RI Dorong Penguatan UMKM dan Desak Pemerintah Segera Atasi Anjloknya Harga Garam Rakyat - indramayunews.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 12:50:58 GMT",
-      "link": "https://indramayunews.id/2026/08/06/dpr-ri-dorong-penguatan-umkm-dan-desak-pemerintah-segera-atasi-anjloknya-harga-garam-rakyat/"
-    },
-    {
-      "title": "Bali ekspor 3,5 ton salak ke China - ANTARA News Bali",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 11:52:52 GMT",
-      "link": "https://bali.antaranews.com/berita/411041/bali-ekspor-35-ton-salak-ke-china"
-    },
-    {
-      "title": "KPPU dan Ditintelkam Polda Sumut Selidiki Penyebab Harga Semen Tinggi, Distribusi Jadi Sorotan - Oke Medan",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 11:14:53 GMT",
-      "link": "https://okemedan.com/2026/08/06/kppu-dan-ditintelkam-polda-sumut-selidiki-penyebab-harga-semen-tinggi-distribusi-jadi-sorotan/"
-    },
-    {
-      "title": "Pertumbuhan Ekonomi 5,29 Persen, Rudi Hartono Bangun Merespons, Pakai Frasa “Sinyal Positif’ - JPNN.com",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 11:08:40 GMT",
-      "link": "https://www.jpnn.com/news/pertumbuhan-ekonomi-529-persen-rudi-hartono-bangun-merespons-pakai-frasa-sinyal-positif?utm_source=genpi_mobile&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
-    },
-    {
-      "title": "Alasan Kemenbud Manfaatkan Aset Danantara untuk Jadi Museum - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 11:06:21 GMT",
-      "link": "https://www.metrotvnews.com/read/KXyCWJdY-alasan-kemenbud-manfaatkan-aset-danantara-untuk-jadi-museum"
-    },
-    {
-      "title": "Menkop Ferry Juliantono Letakkan Batu Pertama KDKMP Dekai, Dorong Kebangkitan Ekonomi Papua - indoposco.id",
+      "title": "Proyek Koperasi Desa Merah Putih di Yahukimo Dimulai - finance.detik.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 10:27:18 GMT",
-      "link": "https://indoposco.id/2026/08/06/menkop-ferry-juliantono-letakkan-batu-pertama-kdkmp-dekai-dorong-kebangkitan-ekonomi-papua/"
+      "published": "Thu, 06 Aug 2026 14:57:47 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8607736/proyek-koperasi-desa-merah-putih-di-yahukimo-dimulai"
     },
     {
-      "title": "KPPU Kanwil I dan Polda Sumut Perkuat Sinergi Awasi Distribusi dan Harga Semen - AnalisaDaily.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 10:05:14 GMT",
-      "link": "https://analisadaily.com/berita/baca/2026/08/06/1076299/kppu-kanwil-i-dan-polda-sumut-perkuat-sinergi-awasi-distribusi-dan-harga-semen/"
-    },
-    {
-      "title": "Ekonomi Tumbuh 5,29%, Rudi Hartono Bangun Apresiasi sekaligus Beri Catatan - Partai NasDem",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Thu, 06 Aug 2026 09:57:21 GMT",
-      "link": "https://partainasdem.id/2026/08/06/ekonomi-tumbuh-529-rudi-hartono-bangun-apresiasi-sekaligus-beri-catatan/"
-    },
-    {
-      "title": "AFPI sebut sebagian besar anggotanya ajukan banding atas putusan KPPU - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:44:25 GMT",
-      "link": "https://www.antaranews.com/berita/5682659/afpi-sebut-sebagian-besar-anggotanya-ajukan-banding-atas-putusan-kppu"
-    },
-    {
-      "title": "Bagaimana Kementerian Perdagangan Mendorong Ekspor dan Daya Saing Produk Indonesia? - stekom.ac.id",
+      "title": "Desainer Lokal Butuh Akses Ilmu Sebelum Akses Pasar - NUSABALI.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 09:43:39 GMT",
-      "link": "https://stekom.ac.id/en/article/bagaimana-kementerian-perdagangan-mendorong-ekspor-dan-daya-saing-produk-indonesia-20260806154716"
+      "published": "Thu, 06 Aug 2026 14:15:17 GMT",
+      "link": "https://www.nusabali.com/berita/227699/desainer-lokal-butuh-akses-ilmu-sebelum-akses-pasar"
     }
   ]
 }
