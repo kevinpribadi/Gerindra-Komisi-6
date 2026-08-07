@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T11:51:04.555160",
+  "generated_at": "2026-08-07T12:56:57.337777",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 34,
+    "PDI-P": 35,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 1,
-    "PKS": 11,
+    "PKS": 12,
     "PAN": 12,
     "Demokrat": 5
   },
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 53,
     "investasi": 31,
-    "danantara": 31,
+    "danantara": 32,
     "koperasi": 66,
     "ekspor": 9,
     "perdagangan": 7,
@@ -78,8 +78,8 @@
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 2,
-    "Amin Ak.": 17,
-    "Rizal Bawazier": 17,
+    "Amin Ak.": 18,
+    "Rizal Bawazier": 16,
     "Ismail": 19,
     "Eko Patrio": 7,
     "Iskandar": 20,
@@ -88,13 +88,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
-    "Perdagangan": 34,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 33,
     "Koperasi/UMKM": 82,
     "Hukum/Audit": 33,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara Investasi Rp 44,75 Triliun ke JBS, Perusahaan Daging Asal Brasil - nasional.kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 12:43:31 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-investasi-rp-4475-triliun-ke-jbs-perusahaan-daging-asal-brasil"
+    },
+    {
+      "title": "Dorong Ekonomi Rakyat, Pansus II DPRD Kaltara Konsultasi Raperda Koperasi ke Kemenkop - Fokus Borneo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 12:16:16 GMT",
+      "link": "https://fokusborneo.com/politik/2026/08/07/dorong-ekonomi-rakyat-pansus-ii-dprd-kaltara-konsultasi-raperda-koperasi-ke-kemenkop/"
+    },
+    {
+      "title": "Ekonomi Triwulan II Melambat, DPR Soroti Kerentanan Konsumsi Rumah Tangga - indoposco.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 12:15:34 GMT",
+      "link": "https://indoposco.id/2026/08/07/ekonomi-triwulan-ii-melambat-dpr-soroti-kerentanan-konsumsi-rumah-tangga/"
+    },
     {
       "title": "274 BUMN dan Anak Usaha Dirampingkan, Pemerintah Kuatkan Sinergi Regulasi - InvestorTrust",
       "entity": "Badan Pengaturan BUMN",
@@ -115,6 +136,13 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 10:26:54 GMT",
       "link": "https://mediaindonesia.com/ekonomi/919418/kemendag-harapkan-program-isf-2026-turut-berikan-kontribusi-pada-konsumsi-rumah-tangga"
+    },
+    {
+      "title": "| Legislator Soroti Batas Tanggung Jawab Hukum Pilot - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 10:21:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1663279/legislator-soroti-batas-tanggung-jawab-hukum-pilot/"
     },
     {
       "title": "Presiden Prabowo Laporkan Pendapatan BPI Danantara Naik 400 Persen Dalam Setahun - achmadnurhidayat.id",
@@ -145,6 +173,13 @@
       "link": "https://www.tempo.co/politik/kemensos-sosialisasikan-aturan-konsesi-disabilitas-2280739"
     },
     {
+      "title": "182 Koperasi Vakum di Demak, Jadi Tantangan Besar Penguatan Ekonomi Daerah - Jatengdaily.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 09:13:39 GMT",
+      "link": "https://jatengdaily.com/2026/182-koperasi-vakum-di-demak-jadi-tantangan-besar-penguatan-ekonomi-daerah/?amp=1"
+    },
+    {
       "title": "Penyidik KPK Periksa Iskandar Sitorus Soal Ahmad Dedi - Tempo.co",
       "entity": "Iskandar",
       "kind": "anggota",
@@ -164,41 +199,6 @@
       "kind": "anggota",
       "published": "Fri, 07 Aug 2026 08:21:25 GMT",
       "link": "https://achmadnurhidayat.id/rieke-diah-pitaloka-khawatir-anak-remaja-naik-gunung"
-    },
-    {
-      "title": "3 Pesan Penting Rieke Diah Pitaloka ke 3 Anak Cowok - detikHOT",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 08:12:44 GMT",
-      "link": "https://hot.detik.com/celeb/d-8606403/3-pesan-penting-rieke-diah-pitaloka-ke-3-anak-cowok"
-    },
-    {
-      "title": "IPO BUMN Dipercepat, Danantara Incar Pegadaian hingga Pelindo - KabarBursa.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 08:08:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/ipo-bumn-dipercepat-danantara-incar-pegadaian-hingga-pelindo"
-    },
-    {
-      "title": "Darmadi Durianto Puji Kinerja Bank Mandiri Mampu Cetak Laba Rp28,5 Triliun - Rmol.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 07:35:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/07/717457/darmadi-durianto-puji-kinerja-bank-mandiri-mampu-cetak-laba-rp28-5-triliun-"
-    },
-    {
-      "title": "Andre Rosiade Beberkan Dampak Jika Tol Sicincin – Bukittinggi Berhasil Dibangun - Kata Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 07:23:00 GMT",
-      "link": "https://katasumbar.com/andre-rosiade-beberkan-dampak-jika-tol-sicincin-bukittinggi-berhasil-dibangun/"
-    },
-    {
-      "title": "KPPU Batalkan Perkara Akuisisi PT MCP Indo Utama, Soroti Pentingnya Kepastian Hukum - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 07:13:19 GMT",
-      "link": "https://batamtoday.com/news/kppu-batalkan-perkara-akuisisi-pt-mcp-indo-utama-soroti-pentingnya-kepastian-hukum"
     }
   ]
 }
