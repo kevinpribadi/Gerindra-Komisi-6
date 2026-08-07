@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T02:36:25.824682",
+  "generated_at": "2026-08-07T04:52:08.162779",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 33,
-    "Golkar": 6,
-    "NasDem": 10,
+    "Golkar": 5,
+    "NasDem": 11,
     "PKB": 3,
     "PKS": 11,
     "PAN": 11,
-    "Demokrat": 7
+    "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 61,
+    "Gerindra": 60,
     "PDI-P": 102,
     "Golkar": 67,
     "NasDem": 44,
-    "PKB": 47,
+    "PKB": 46,
     "PKS": 56,
     "PAN": 27,
     "Demokrat": 31
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 53,
     "investasi": 33,
-    "danantara": 42,
-    "koperasi": 65,
+    "danantara": 41,
+    "koperasi": 66,
     "perdagangan": 9,
-    "ekspor": 8,
+    "ekspor": 9,
     "merger-akuisisi": 3,
     "ipo": 8,
     "kartel-monopoli": 5,
@@ -51,7 +51,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 5,
-    "Mulan Jameela": 5,
+    "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 18,
@@ -75,7 +75,7 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 11,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 16,
+    "Rivqy Abdul Halim": 15,
     "Nasim Khan": 14,
     "Ida Fauziyah": 2,
     "Imas Aan Ubudiah": 4,
@@ -90,12 +90,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Perdagangan": 34,
-    "Koperasi/UMKM": 81,
-    "Hukum/Audit": 45,
+    "Perdagangan": 35,
+    "Koperasi/UMKM": 82,
+    "Hukum/Audit": 44,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Masuk Roadmap Tahun Ke-4, Danantara Bakal Go Public-kan Deretan BUMN Raksasa - Stabilitas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 04:17:07 GMT",
+      "link": "https://www.stabilitas.id/masuk-roadmap-tahun-ke-4-danantara-bakal-go-public-kan-deretan-bumn-raksasa/"
+    },
+    {
+      "title": "Koperasi Merah Putih: Ketika Lokomotif Berangkat Sebelum Rel Tata Kelola Terpasang - Editor Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 03:58:08 GMT",
+      "link": "https://editorindonesia.com/regulasi-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "Andre Rosiade: Sekolah Rakyat jadi Program Unggulan Presiden Prabowo Putus Rantai Kemiskinan - posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 03:56:43 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-sekolah-rakyat-jadi-program-unggulan-presiden-prabowo-putus-rantai-kemiskinan-428840/"
+    },
+    {
+      "title": "PAW Aleg NasDem di DPR RI: Tak Berkomentar Lebih, Prof. Winarni Doakan Almarhum RG - Habari.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 03:38:36 GMT",
+      "link": "https://habari.id/paw-aleg-nasdem-di-dpr-ri-tak-berkomentar-lebih-prof-winarni-doakan-almarhum-rg/"
+    },
     {
       "title": "Arab Saudi Tawari Danantara Saham Bandara Madinah - MetroTVNews.com",
       "entity": "Danantara",
@@ -167,39 +195,11 @@
       "link": "https://www.validnews.id/ekonomi/2026/08/07/kemendag-dorong-pelaku-usaha-tpt-manfaatkan-perjanjian-dagang-080000901"
     },
     {
-      "title": "BP Batam Telusuri Pemilik Alokasi Lahan di Wilayah Laut - Berita Borneo",
+      "title": "BP Batam Dukung Penertiban Pemanfaatan Ruang Laut Sesuai Ketentuan Peraturan Perundang-undangan - Posmetrobatam.co.id",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 15:17:38 GMT",
-      "link": "https://beritaborneo.com/main/bp-batam-telusuri-pemilik-alokasi-lahan-di-wilayah-laut/"
-    },
-    {
-      "title": "Kemenkop Mulai Pembangunan Koperasi Merah Putih di Yahukimo - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 15:08:39 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-pembangunan-koperasi-merah-putih-yahukimo"
-    },
-    {
-      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 15:04:00 GMT",
-      "link": "https://www.ekon.go.id/publikasi/detail/7046/sinergi-bersama-meningkatkan-kemajuan-sektor-perdagangan-ritel-nasional"
-    },
-    {
-      "title": "Proyek Koperasi Desa Merah Putih di Yahukimo Dimulai - finance.detik.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 14:57:47 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8607736/proyek-koperasi-desa-merah-putih-di-yahukimo-dimulai"
-    },
-    {
-      "title": "Desainer Lokal Butuh Akses Ilmu Sebelum Akses Pasar - NUSABALI.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 06 Aug 2026 14:15:17 GMT",
-      "link": "https://www.nusabali.com/berita/227699/desainer-lokal-butuh-akses-ilmu-sebelum-akses-pasar"
+      "published": "Thu, 06 Aug 2026 16:29:34 GMT",
+      "link": "https://posmetrobatam.co.id/bp-batam-dukung-penertiban-pemanfaatan-ruang-laut-sesuai-ketentuan-peraturan-perundang-undangan/"
     }
   ]
 }
