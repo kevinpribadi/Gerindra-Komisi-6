@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T12:41:29.775104",
+  "generated_at": "2026-08-08T13:43:04.658642",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 36,
@@ -37,9 +37,9 @@
     "bumn": 46,
     "investasi": 28,
     "danantara": 30,
+    "umkm": 20,
     "perdagangan": 10,
-    "umkm": 19,
-    "ekspor": 9,
+    "ekspor": 8,
     "koperasi": 67,
     "ipo": 4,
     "merger-akuisisi": 5,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 10,
-    "Koperasi/UMKM": 87,
-    "Perdagangan": 29,
+    "Koperasi/UMKM": 88,
+    "Perdagangan": 28,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Strategi Kemendag Dorong UMKM Tembus Ritel Modern dan Mal Besar - Harapan Rakyat",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 13:15:49 GMT",
+      "link": "https://www.harapanrakyat.com/2026/08/strategi-kemendag-dorong-umkm-tembus-ritel-modern-dan-mal-besar/"
+    },
     {
       "title": "Siap-Siap, Danantara Bakal Pangkas 652 Entitas BUMN - Liputan6.com",
       "entity": "Badan Pengaturan BUMN",
@@ -150,6 +157,13 @@
       "link": "https://tv.kontan.co.id/video/P86678qp-qw?source=home_tv"
     },
     {
+      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 09:15:18 GMT",
+      "link": "https://tv.kontan.co.id/video/P86678qp-qw"
+    },
+    {
       "title": "Kejaksaan Agung hingga Kementerian Hukum Kawal Pemangkasan BUMN - Liputan6.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 06:57:16 GMT",
       "link": "https://www.suara.com/bisnis/2026/08/08/135716/274-bumn-sudah-dipangkas-pemerintah-bongkar-ratusan-perusahaan-pelat-merah"
-    },
-    {
-      "title": "Siaran Pers: Wamenpar: Festival Lembah Baliem Perkuat Ekonomi Masyarakat Papua Pegunungan - kemenpar.go.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 06:00:38 GMT",
-      "link": "https://kemenpar.go.id/berita/siaran-pers-wamenpar-festival-lembah-baliem-perkuat-ekonomi-masyarakat-papua-pegunungan"
-    },
-    {
-      "title": "BP BUMN Sudah Tata 274 Perusahaan, Sebanyak 652 Perusahaan Akan Hilang - BeritaSatu.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 05:38:40 GMT",
-      "link": "https://www.beritasatu.com/ekonomi/3017434/bp-bumn-sudah-tata-274-perusahaan-sebanyak-652-perusahaan-akan-hilang"
     }
   ]
 }
