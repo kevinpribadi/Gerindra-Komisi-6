@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T14:29:19.158376",
+  "generated_at": "2026-08-08T15:26:43.434222",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 37,
+    "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 8,
+    "PKB": 10,
     "PKS": 14,
     "PAN": 10,
     "Demokrat": 5
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 46,
+    "bumn": 45,
     "investasi": 28,
     "danantara": 30,
     "umkm": 20,
@@ -94,6 +94,13 @@
   },
   "top_headlines": [
     {
+      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - tv.kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 15:15:16 GMT",
+      "link": "https://tv.kontan.co.id/video/QKCuDH_34nU?source=home_tv"
+    },
+    {
       "title": "Mendag dorong pertemuan kedua JTC RI-Mesir digelar tahun 2026 - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -134,6 +141,13 @@
       "kind": "anggota",
       "published": "Sat, 08 Aug 2026 10:48:00 GMT",
       "link": "https://ketik.com/situbondo/daerah/ngobrol-santai-dengan-pengurus-pwi-situbondo-anggota-komisi-vi-dpr-ri-fraksi-pkb-siap-dukung-kegiatan-jurnalistik"
+    },
+    {
+      "title": "Ngobrol Santai dengan Pengurus PWI Situbondo, Anggota Komisi VI DPR RI Fraksi PKB Siap Dukung Kegiatan Jurnalistik - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 10:48:00 GMT",
+      "link": "https://ketik.com/amp/ngobrol-santai-dengan-pengurus-pwi-situbondo-anggota-komisi-vi-dpr-ri-fraksi-pkb-siap-dukung-kegiatan-jurnalistik"
     },
     {
       "title": "Danantara Gelontorkan Rp44,5 Triliun ke JBS, Bidik Pasar Daging Asia Pasifik - VIVA.co.id",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 09:14:19 GMT",
       "link": "https://www.liputan6.com/bisnis/read/8265127/kejaksaan-agung-hingga-kementerian-hukum-kawal-pemangkasan-bumn"
-    },
-    {
-      "title": "Danantara Siapkan Rp44,5 Triliun untuk Garap Bisnis Daging Asia - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 09:00:07 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260808140107-17-757617/danantara-siapkan-rp445-triliun-untuk-garap-bisnis-daging-asia"
-    },
-    {
-      "title": "Konsultasi ke Kemenkop, Pansus II DPRD Kaltara Soroti Kualitas Koperasi - Benuanta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 07:37:17 GMT",
-      "link": "https://benuanta.co.id/dprd-kaltara/206236/konsultasi-ke-kemenkop-pansus-ii-dprd-kaltara-soroti-kualitas-koperasi/"
     }
   ]
 }
