@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T06:47:16.430757",
+  "generated_at": "2026-08-08T07:46:33.117732",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
@@ -38,7 +38,7 @@
     "investasi": 29,
     "danantara": 29,
     "koperasi": 68,
-    "perdagangan": 9,
+    "perdagangan": 10,
     "umkm": 18,
     "ekspor": 8,
     "ipo": 4,
@@ -94,6 +94,27 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Konsultasi ke Kemenkop, Pansus II DPRD Kaltara Soroti Kualitas Koperasi - Benuanta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 07:37:17 GMT",
+      "link": "https://benuanta.co.id/dprd-kaltara/206236/konsultasi-ke-kemenkop-pansus-ii-dprd-kaltara-soroti-kualitas-koperasi/"
+    },
+    {
+      "title": "Jurus RI Bidik Pasar Karbon hingga Perdagangan Global dari Sektor Kehutanan - finance.detik.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 07:16:37 GMT",
+      "link": "https://finance.detik.com/ekonomi-hijau/d-8609826/jurus-ri-bidik-pasar-karbon-hingga-perdagangan-global-dari-sektor-kehutanan"
+    },
+    {
+      "title": "274 BUMN Sudah Dipangkas, Pemerintah Bongkar Ratusan Perusahaan Pelat Merah - Suara.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 06:57:16 GMT",
+      "link": "https://www.suara.com/bisnis/2026/08/08/135716/274-bumn-sudah-dipangkas-pemerintah-bongkar-ratusan-perusahaan-pelat-merah"
+    },
     {
       "title": "Siaran Pers: Wamenpar: Festival Lembah Baliem Perkuat Ekonomi Masyarakat Papua Pegunungan - kemenpar.go.id",
       "entity": "Kementerian Koperasi",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 00:52:25 GMT",
       "link": "https://www.gerbangkaltim.com/kppu-batalkan-perkara-akuisisi-iforte-ini-alasannya/"
-    },
-    {
-      "title": "Prabowo Sebut Pendapatan Danantara Naik 400 Persen, Masih Tunggu Hasil Audit - Suara Surabaya",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 23:36:16 GMT",
-      "link": "https://www.suarasurabaya.net/politik/2026/prabowo-sebut-pendapatan-danantara-naik-400-persen-masih-tunggu-hasil-audit/"
-    },
-    {
-      "title": "Menkop Ferry Dorong Koperasi Jadi Penggerak Ekonomi Kreatif Papua Pegunungan - Industry.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 23:35:00 GMT",
-      "link": "https://www.industry.co.id/read/154236/menkop-ferry-dorong-koperasi-jadi-penggerak-ekonomi-kreatif-papua-pegunungan"
-    },
-    {
-      "title": "Tim Pengawalan Streamlining BUMN memperkuat regulasi transformasi - ANTARA News Mataram",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 23:17:52 GMT",
-      "link": "https://mataram.antaranews.com/berita/565384/tim-pengawalan-streamlining-bumn-memperkuat-regulasi-transformasi"
     }
   ]
 }
