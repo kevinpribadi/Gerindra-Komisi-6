@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T10:29:27.671323",
+  "generated_at": "2026-08-08T11:25:30.731608",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 6,
+    "PKB": 8,
     "PKS": 14,
     "PAN": 10,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 91,
+    "PDI-P": 90,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 37,
-    "PKS": 52,
+    "PKB": 38,
+    "PKS": 51,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 47,
+    "bumn": 46,
     "investasi": 28,
-    "danantara": 28,
-    "koperasi": 68,
+    "danantara": 29,
     "perdagangan": 10,
-    "umkm": 18,
+    "umkm": 19,
     "ekspor": 9,
+    "koperasi": 67,
     "ipo": 4,
     "merger-akuisisi": 5,
     "kartel-monopoli": 3,
@@ -59,7 +59,6 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 18,
-    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
@@ -75,9 +74,9 @@
     "Subardi": 10,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
-    "Nasim Khan": 19,
+    "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 17,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 15,
     "Ismail": 20,
     "Eko Patrio": 7,
@@ -88,18 +87,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 11,
-    "Koperasi/UMKM": 86,
-    "Perdagangan": 31,
+    "Koperasi/UMKM": 87,
+    "Perdagangan": 29,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Kejaksaan Agung Hingga Kementerian Hukum Perkuat Pengawalan Penataan 274 BUMN Hingga Juli 2026 - detik suara rakyat",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 11:13:24 GMT",
+      "link": "https://detiksuararakyat.id/kejaksaan-agung-hingga-kementerian-hukum-perkuat-pengawalan-penataan-274-bumn-hingga-juli-2026/"
+    },
+    {
+      "title": "Ngobrol Santai dengan Pengurus PWI Situbondo, Anggota Komisi VI DPR RI Fraksi PKB Siap Dukung Kegiatan Jurnalistik - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 10:48:00 GMT",
+      "link": "https://ketik.com/situbondo/daerah/ngobrol-santai-dengan-pengurus-pwi-situbondo-anggota-komisi-vi-dpr-ri-fraksi-pkb-siap-dukung-kegiatan-jurnalistik"
+    },
+    {
+      "title": "Danantara Gelontorkan Rp44,5 Triliun ke JBS, Bidik Pasar Daging Asia Pasifik - VIVA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 10:30:00 GMT",
+      "link": "https://www.viva.co.id/bisnis/1919953-danantara-gelontorkan-rp445-triliun-ke-jbs-bidik-pasar-daging-asia-pasifik"
+    },
     {
       "title": "Wali Kota Dorong Penguatan Peran Sabang sebagai Pusat Bisnis Maritim - waspada.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 09:50:26 GMT",
       "link": "https://www.waspada.id/berita/wali-kota-dorong-penguatan-peran-sabang-sebagai-pusat-bisnis-maritim"
+    },
+    {
+      "title": "Nasim Khan Fasilitasi UMKM dan Muslimat NU Akses Layanan Perbankan di Situbondo - memorandum.disway.id - Memorandum.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 09:24:00 GMT",
+      "link": "https://memorandum.disway.id/amp/166209/nasim-khan-fasilitasi-umkm-dan-muslimat-nu-akses-layanan-perbankan-di-situbondo"
     },
     {
       "title": "Komisi IV DPRD Kalsel perkuat kebijakan kesejahteraan rakyat - ANTARA News",
@@ -170,34 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 08 Aug 2026 05:35:43 GMT",
       "link": "https://posmetropadang.co.id/andre-rosiade-empat-perjanjian-dagang-baru-perkuat-posisi-indonesia-di-pasar-internasional-428992/"
-    },
-    {
-      "title": "Pendapatan Danantara Meroket 400 Persen dalam Setahun Membuat Prabowo Semringah - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 04:49:00 GMT",
-      "link": "https://www.inilah.com/pendapatan-danantara-meroket-400-persen-dalam-setahun-membuat-prabowo-semringah"
-    },
-    {
-      "title": "Blunder Mentan soal Aceh Berulang, Pakar USK Soroti Komunikasi Publik yang Tidak Berbasis Data » - dialeksis.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 04:46:12 GMT",
-      "link": "https://dialeksis.com/pemerintahan/blunder-mentan-soal-aceh-berulang-pakar-usk-soroti-komunikasi-publik-yang-tidak-berbasis-data/"
-    },
-    {
-      "title": "Dony Oskaria: 274 BUMN Telah Jalani Streamlining , Target Jadi 250 - Validnews",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 03:37:19 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/08/dony-oskaria-274-bumn-telah-jalani-streamlining-target-jadi-250-131500995"
-    },
-    {
-      "title": "Danantara Gandeng JBS Group Kucurkan Investasi US$2,5 M Di Sektor Protein - Validnews.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 03:17:10 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/08/danantara-gandeng-jbs-group-kucurkan-investasi-us25-m-di-sektor-protein-101800979"
     }
   ]
 }
