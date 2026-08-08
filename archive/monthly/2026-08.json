@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T04:53:38.021051",
+  "generated_at": "2026-08-08T05:40:48.983171",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
@@ -12,8 +12,8 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 60,
-    "PDI-P": 97,
+    "Gerindra": 58,
+    "PDI-P": 94,
     "Golkar": 67,
     "NasDem": 41,
     "PKB": 37,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "investasi": 30,
-    "danantara": 33,
+    "bumn": 47,
+    "investasi": 29,
+    "danantara": 30,
     "koperasi": 68,
     "perdagangan": 9,
     "umkm": 18,
     "ekspor": 8,
-    "ipo": 5,
+    "ipo": 4,
     "merger-akuisisi": 6,
     "kartel-monopoli": 3,
     "impor": 6
@@ -52,12 +52,12 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 11,
-    "Adisatrya Suryo Sulisto": 15,
+    "Mulyadi": 9,
+    "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 8,
+    "Sadarestuwati": 7,
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
@@ -87,13 +87,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 13,
+    "Kinerja BUMN": 12,
     "Koperasi/UMKM": 86,
     "Perdagangan": 31,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Sudah Tata 274 Perusahaan, Sebanyak 652 Perusahaan Akan Hilang - BeritaSatu.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 05:38:40 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3017434/bp-bumn-sudah-tata-274-perusahaan-sebanyak-652-perusahaan-akan-hilang"
+    },
+    {
+      "title": "Andre Rosiade: Empat Perjanjian Dagang Baru Perkuat Posisi Indonesia di Pasar Internasional - Posmetropadang.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 05:35:43 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-empat-perjanjian-dagang-baru-perkuat-posisi-indonesia-di-pasar-internasional-428992/"
+    },
+    {
+      "title": "Pendapatan Danantara Meroket 400 Persen dalam Setahun Membuat Prabowo Semringah - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 04:49:00 GMT",
+      "link": "https://www.inilah.com/pendapatan-danantara-meroket-400-persen-dalam-setahun-membuat-prabowo-semringah"
+    },
     {
       "title": "Danantara Gandeng JBS Group Kucurkan Investasi US$2,5 M Di Sektor Protein - Validnews.id",
       "entity": "Danantara",
@@ -121,6 +142,13 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 02:32:32 GMT",
       "link": "https://www.metrotvnews.com/read/b2lC6lVW-danantara-perluas-akses-rumah-pertama-bagi-anak-muda-lewat-pembiayaan-terintegrasi"
+    },
+    {
+      "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News Gorontalo",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 01:52:51 GMT",
+      "link": "https://gorontalo.antaranews.com/amp/berita/418080/bp-bumn-catat-274-bumn-telah-ditata-dalam-rangka-transformasi"
     },
     {
       "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
@@ -165,39 +193,11 @@
       "link": "https://aspek.id/danantara-investasi-rp4475-triliun-ke-jbs-group-di-australia-selandia-baru/"
     },
     {
-      "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News",
+      "title": "274 BUMN telah ditata dalam rangka transformasi - ANTARA News Manado",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 16:44:59 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5685188/bp-bumn-catat-274-bumn-telah-ditata-dalam-rangka-transformasi"
-    },
-    {
-      "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 16:44:59 GMT",
-      "link": "https://www.antaranews.com/berita/5685188/bp-bumn-catat-274-bumn-telah-ditata-dalam-rangka-transformasi"
-    },
-    {
-      "title": "Mendag Busan Ajak BRICS Perkuat Kerja Sama Hadapi Perubahan Lanskap Perdagangan Global - kemendag.go.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 16:22:46 GMT",
-      "link": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-brics-perkuat-kerja-sama-hadapi-perubahan-lanskap-perdagangan-global"
-    },
-    {
-      "title": "Danantara Investasi Rp 45 Triliun di JBS, Perusahaan Pengolahan Daging Terbesar Dunia - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 15:52:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/07/225244726/danantara-investasi-rp-45-triliun-di-jbs-perusahaan-pengolahan-daging-terbesar"
-    },
-    {
-      "title": "Pendapatan Danantara melonjak 400 persen, Prabowo: Ini perlu kita cek dan audit - ANTARA News Kalteng",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 15:35:05 GMT",
-      "link": "https://kalteng.antaranews.com/berita/837696/pendapatan-danantara-melonjak-400-persen-prabowo-ini-perlu-kita-cek-dan-audit"
+      "published": "Fri, 07 Aug 2026 22:32:33 GMT",
+      "link": "https://manado.antaranews.com/berita/318599/274-bumn-telah-ditata-dalam-rangka-transformasi"
     }
   ]
 }
