@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T17:26:58.486726",
+  "generated_at": "2026-08-08T19:27:10.370000",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 10,
+    "PKB": 12,
     "PKS": 15,
     "PAN": 10,
     "Demokrat": 5
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "investasi": 28,
+    "bumn": 45,
+    "investasi": 27,
     "danantara": 29,
     "umkm": 20,
     "perdagangan": 10,
@@ -94,6 +94,13 @@
   },
   "top_headlines": [
     {
+      "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo - ANTARA News Sulteng",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 19:19:32 GMT",
+      "link": "https://sulteng.antaranews.com/berita/389535/komisi-vi-dpr-ri-sosialisasikan-kemitraan-bumn-di-situbondo"
+    },
+    {
       "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - tv.kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -120,6 +127,13 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 13:15:49 GMT",
       "link": "https://www.harapanrakyat.com/2026/08/strategi-kemendag-dorong-umkm-tembus-ritel-modern-dan-mal-besar/"
+    },
+    {
+      "title": "Ngobrol Bareng PWI Situbondo, Nasim Khan Tegaskan Dukungan untuk Pers yang Edukatif dan Profesional - Malangtimes",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 11:37:00 GMT",
+      "link": "https://www.malangtimes.com/baca/3331348397/20260808/063700/ngobrol-bareng-pwi-situbondo-nasim-khan-tegaskan-dukungan-untuk-pers-yang-edukatif-dan-profesional"
     },
     {
       "title": "Siap-Siap, Danantara Bakal Pangkas 652 Entitas BUMN - Liputan6.com",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 09:15:18 GMT",
       "link": "https://tv.kontan.co.id/video/P86678qp-qw?source=home_tv"
-    },
-    {
-      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 09:15:18 GMT",
-      "link": "https://tv.kontan.co.id/video/P86678qp-qw"
-    },
-    {
-      "title": "Kejaksaan Agung hingga Kementerian Hukum Kawal Pemangkasan BUMN - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 09:14:19 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8265127/kejaksaan-agung-hingga-kementerian-hukum-kawal-pemangkasan-bumn"
     }
   ]
 }
