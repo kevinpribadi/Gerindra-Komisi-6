@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T01:21:11.118051",
+  "generated_at": "2026-08-08T03:22:50.146752",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 5,
+    "PKB": 6,
     "PKS": 14,
     "PAN": 9,
     "Demokrat": 5
@@ -16,7 +16,7 @@
     "PDI-P": 99,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 36,
+    "PKB": 37,
     "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "investasi": 31,
+    "bumn": 48,
+    "investasi": 30,
     "danantara": 32,
     "koperasi": 68,
     "perdagangan": 9,
     "umkm": 18,
     "ekspor": 8,
-    "ipo": 6,
+    "ipo": 5,
     "merger-akuisisi": 6,
     "kartel-monopoli": 4,
     "impor": 6
@@ -75,7 +75,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
-    "Nasim Khan": 18,
+    "Nasim Khan": 19,
     "Ida Fauziyah": 2,
     "Amin Ak.": 19,
     "Rizal Bawazier": 16,
@@ -88,12 +88,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 13,
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 86,
     "Perdagangan": 32,
     "Hukum/Audit": 32,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Ditengah Reses, Nasim Khan Sambangi Kejari Situbondo, Dorong Sinergi Penegakan Hukum - Penarakyat.Com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 03:08:00 GMT",
+      "link": "https://penarakyat.com/ditengah-reses-nasim-khan-sambangi-kejari-situbondo-dorong-sinergi-penegakan-hukum/"
+    },
+    {
+      "title": "Menkop Dorong Penguatan Koperasi dalam Festival Budaya Lembah Baliem di Wamena - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 02:48:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-dorong-penguatan-koperasi-dalam-festival-budaya-lembah-baliem-di-wamena/"
+    },
+    {
+      "title": "Danantara Perluas Akses Rumah Pertama bagi Anak Muda Lewat Pembiayaan Terintegrasi - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 02:32:32 GMT",
+      "link": "https://www.metrotvnews.com/read/b2lC6lVW-danantara-perluas-akses-rumah-pertama-bagi-anak-muda-lewat-pembiayaan-terintegrasi"
+    },
+    {
+      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 01:52:47 GMT",
+      "link": "https://tv.kontan.co.id/video/Ipms8fF73eg?source=home_tv"
+    },
     {
       "title": "KPPU Batalkan Perkara Akuisisi iForte, Ini Alasannya - Gerbang Kaltim",
       "entity": "KPPU",
@@ -170,34 +198,6 @@
       "kind": "anggota",
       "published": "Fri, 07 Aug 2026 15:19:14 GMT",
       "link": "https://www.antaranews.com/berita/5685083/komisi-vi-dpr-dan-bri-situbondo-edukasi-pencegahan-kejahatan-digital"
-    },
-    {
-      "title": "Komisi VI DPR dan BRI Situbondo edukasi pencegahan kejahatan digital - ANTARA News",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 15:19:14 GMT",
-      "link": "https://www.antaranews.com/berita/5685083/komisi-vi-dpr-dan-bri-situbondo-edukasi-pencegahan-kejahatan-digital?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
-    },
-    {
-      "title": "Kemendag Dorong Percepatan UMKM Masuk Ritel Modern, Begini Strateginya - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 14:50:57 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-dorong-percepatan-umkm-masuk-ritel-modern-begini-strateginya"
-    },
-    {
-      "title": "Sosialisasi BUMN di Situbondo, Nasim Khan – Bank BRI Edukasi Warga Cegah Penipuan Digital - beritanasional.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 13:55:53 GMT",
-      "link": "https://beritanasional.id/sosialisasi-bumn-di-situbondo-nasim-khan-bank-bri-edukasi-warga-cegah-penipuan-digital/"
-    },
-    {
-      "title": "Sinergi Pemkab Muba dan Kementerian Koperasi Siapkan Agenda Nasional Hilirisasi Kelapa Sawit - Mattanews.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 13:53:56 GMT",
-      "link": "https://mattanews.co/sinergi-pemkab-muba-dan-kementerian-koperasi-siapkan-agenda-nasional-hilirisasi-kelapa-sawit/"
     }
   ]
 }
