@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-07T23:31:10.689446",
+  "generated_at": "2026-08-08T01:21:11.118051",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 4,
+    "PKB": 5,
     "PKS": 14,
-    "PAN": 11,
+    "PAN": 9,
     "Demokrat": 5
   },
   "party_counts_30d": {
@@ -16,7 +16,7 @@
     "PDI-P": 99,
     "Golkar": 67,
     "NasDem": 41,
-    "PKB": 35,
+    "PKB": 36,
     "PKS": 55,
     "PAN": 27,
     "Demokrat": 31
@@ -42,7 +42,7 @@
     "umkm": 18,
     "ekspor": 8,
     "ipo": 6,
-    "merger-akuisisi": 5,
+    "merger-akuisisi": 6,
     "kartel-monopoli": 4,
     "impor": 6
   },
@@ -75,7 +75,7 @@
     "Subardi": 10,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
-    "Nasim Khan": 17,
+    "Nasim Khan": 18,
     "Ida Fauziyah": 2,
     "Amin Ak.": 19,
     "Rizal Bawazier": 16,
@@ -87,13 +87,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 14,
+    "Kinerja BUMN": 13,
     "Koperasi/UMKM": 85,
     "Perdagangan": 32,
     "Hukum/Audit": 32,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Batalkan Perkara Akuisisi iForte, Ini Alasannya - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 00:52:25 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-batalkan-perkara-akuisisi-iforte-ini-alasannya/"
+    },
+    {
+      "title": "Prabowo Sebut Pendapatan Danantara Naik 400 Persen, Masih Tunggu Hasil Audit - Suara Surabaya",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 23:36:16 GMT",
+      "link": "https://www.suarasurabaya.net/politik/2026/prabowo-sebut-pendapatan-danantara-naik-400-persen-masih-tunggu-hasil-audit/"
+    },
+    {
+      "title": "Menkop Ferry Dorong Koperasi Jadi Penggerak Ekonomi Kreatif Papua Pegunungan - Industry.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 07 Aug 2026 23:35:00 GMT",
+      "link": "https://www.industry.co.id/read/154236/menkop-ferry-dorong-koperasi-jadi-penggerak-ekonomi-kreatif-papua-pegunungan"
+    },
     {
       "title": "Tim Pengawalan Streamlining BUMN memperkuat regulasi transformasi - ANTARA News Mataram",
       "entity": "Kementerian BUMN",
@@ -151,6 +172,13 @@
       "link": "https://www.antaranews.com/berita/5685083/komisi-vi-dpr-dan-bri-situbondo-edukasi-pencegahan-kejahatan-digital"
     },
     {
+      "title": "Komisi VI DPR dan BRI Situbondo edukasi pencegahan kejahatan digital - ANTARA News",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 07 Aug 2026 15:19:14 GMT",
+      "link": "https://www.antaranews.com/berita/5685083/komisi-vi-dpr-dan-bri-situbondo-edukasi-pencegahan-kejahatan-digital?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
       "title": "Kemendag Dorong Percepatan UMKM Masuk Ritel Modern, Begini Strateginya - kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 13:53:56 GMT",
       "link": "https://mattanews.co/sinergi-pemkab-muba-dan-kementerian-koperasi-siapkan-agenda-nasional-hilirisasi-kelapa-sawit/"
-    },
-    {
-      "title": "Komisi VI DPR RI Nasim Khan Gandeng BRI Edukasi Warga Situbondo Waspada Phishing hingga Pinjol Ilegal - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 13:24:00 GMT",
-      "link": "https://ketik.com/situbondo/daerah/komisi-vi-dpr-ri-nasim-khan-gandeng-bri-edukasi-warga-situbondo-waspada-phishing-hingga-pinjol-ilegal"
-    },
-    {
-      "title": "Ekonomi RI Cuma Tumbuh 5,29%, DPR Ingatkan Kerentanan Struktur Pertumbuhan - Beritakota",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 07 Aug 2026 13:11:00 GMT",
-      "link": "https://beritakota.id/ekonomi-ri-cuma-tumbuh-529-dpr-ingatkan-kerentanan-struktur-pertumbuhan/"
-    },
-    {
-      "title": "Danantara Investasi Rp 44,75 Triliun ke JBS, Perusahaan Daging Asal Brasil - nasional.kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 12:43:31 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-investasi-rp-4475-triliun-ke-jbs-perusahaan-daging-asal-brasil"
-    },
-    {
-      "title": "Dorong Ekonomi Rakyat, Pansus II DPRD Kaltara Konsultasi Raperda Koperasi ke Kemenkop - Fokus Borneo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 12:16:16 GMT",
-      "link": "https://fokusborneo.com/politik/2026/08/07/dorong-ekonomi-rakyat-pansus-ii-dprd-kaltara-konsultasi-raperda-koperasi-ke-kemenkop/"
     }
   ]
 }
