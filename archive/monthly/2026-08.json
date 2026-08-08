@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T05:40:48.983171",
+  "generated_at": "2026-08-08T06:47:16.430757",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 36,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 94,
+    "PDI-P": 92,
     "Golkar": 67,
     "NasDem": 41,
     "PKB": 37,
-    "PKS": 54,
+    "PKS": 53,
     "PAN": 27,
     "Demokrat": 31
   },
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 47,
     "investasi": 29,
-    "danantara": 30,
+    "danantara": 29,
     "koperasi": 68,
     "perdagangan": 9,
     "umkm": 18,
@@ -53,7 +53,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
     "Mulyadi": 9,
-    "Adisatrya Suryo Sulisto": 13,
+    "Adisatrya Suryo Sulisto": 11,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -77,7 +77,7 @@
     "Rivqy Abdul Halim": 5,
     "Nasim Khan": 19,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 18,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 16,
     "Ismail": 20,
     "Eko Patrio": 7,
@@ -89,11 +89,18 @@
   "early_warning_counts": {
     "Kinerja BUMN": 12,
     "Koperasi/UMKM": 86,
-    "Perdagangan": 31,
+    "Perdagangan": 30,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Siaran Pers: Wamenpar: Festival Lembah Baliem Perkuat Ekonomi Masyarakat Papua Pegunungan - kemenpar.go.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 06:00:38 GMT",
+      "link": "https://kemenpar.go.id/berita/siaran-pers-wamenpar-festival-lembah-baliem-perkuat-ekonomi-masyarakat-papua-pegunungan"
+    },
     {
       "title": "BP BUMN Sudah Tata 274 Perusahaan, Sebanyak 652 Perusahaan Akan Hilang - BeritaSatu.com",
       "entity": "Badan Pengaturan BUMN",
@@ -114,6 +121,13 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 04:49:00 GMT",
       "link": "https://www.inilah.com/pendapatan-danantara-meroket-400-persen-dalam-setahun-membuat-prabowo-semringah"
+    },
+    {
+      "title": "Dony Oskaria: 274 BUMN Telah Jalani Streamlining , Target Jadi 250 - Validnews",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 03:37:19 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/08/08/dony-oskaria-274-bumn-telah-jalani-streamlining-target-jadi-250-131500995"
     },
     {
       "title": "Danantara Gandeng JBS Group Kucurkan Investasi US$2,5 M Di Sektor Protein - Validnews.id",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 07 Aug 2026 23:17:52 GMT",
       "link": "https://mataram.antaranews.com/berita/565384/tim-pengawalan-streamlining-bumn-memperkuat-regulasi-transformasi"
-    },
-    {
-      "title": "Danantara Investasi Rp44,75 Triliun ke JBS Group di Australia & Selandia Baru - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 22:37:31 GMT",
-      "link": "https://aspek.id/danantara-investasi-rp4475-triliun-ke-jbs-group-di-australia-selandia-baru/"
-    },
-    {
-      "title": "274 BUMN telah ditata dalam rangka transformasi - ANTARA News Manado",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 07 Aug 2026 22:32:33 GMT",
-      "link": "https://manado.antaranews.com/berita/318599/274-bumn-telah-ditata-dalam-rangka-transformasi"
     }
   ]
 }
