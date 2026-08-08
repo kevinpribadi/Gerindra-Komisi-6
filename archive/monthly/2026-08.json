@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T13:43:04.658642",
+  "generated_at": "2026-08-08T14:29:19.158376",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 36,
+    "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 10,
     "PKB": 8,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 90,
+    "PDI-P": 91,
     "Golkar": 67,
     "NasDem": 41,
     "PKB": 38,
@@ -39,7 +39,7 @@
     "danantara": 30,
     "umkm": 20,
     "perdagangan": 10,
-    "ekspor": 8,
+    "ekspor": 7,
     "koperasi": 67,
     "ipo": 4,
     "merger-akuisisi": 5,
@@ -58,7 +58,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 20,
@@ -88,11 +88,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 10,
     "Koperasi/UMKM": 88,
-    "Perdagangan": 28,
+    "Perdagangan": 27,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Mendag dorong pertemuan kedua JTC RI-Mesir digelar tahun 2026 - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 14:11:05 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/418109/mendag-dorong-pertemuan-kedua-jtc-ri-mesir-digelar-tahun-2026"
+    },
+    {
+      "title": "Danantara Perluas Akses Rumah Pertama bagi Generasi Z - BorneoFlash.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 13:34:00 GMT",
+      "link": "https://borneoflash.com/2026/08/08/danantara-perluas-akses-rumah-pertama-bagi-generasi-z"
+    },
     {
       "title": "Strategi Kemendag Dorong UMKM Tembus Ritel Modern dan Mal Besar - Harapan Rakyat",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 07:37:17 GMT",
       "link": "https://benuanta.co.id/dprd-kaltara/206236/konsultasi-ke-kemenkop-pansus-ii-dprd-kaltara-soroti-kualitas-koperasi/"
-    },
-    {
-      "title": "Jurus RI Bidik Pasar Karbon hingga Perdagangan Global dari Sektor Kehutanan - finance.detik.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 07:16:37 GMT",
-      "link": "https://finance.detik.com/ekonomi-hijau/d-8609826/jurus-ri-bidik-pasar-karbon-hingga-perdagangan-global-dari-sektor-kehutanan"
-    },
-    {
-      "title": "274 BUMN Sudah Dipangkas, Pemerintah Bongkar Ratusan Perusahaan Pelat Merah - Suara.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 06:57:16 GMT",
-      "link": "https://www.suara.com/bisnis/2026/08/08/135716/274-bumn-sudah-dipangkas-pemerintah-bongkar-ratusan-perusahaan-pelat-merah"
     }
   ]
 }
