@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T08:37:04.670852",
+  "generated_at": "2026-08-08T09:34:49.021404",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 36,
     "Golkar": 5,
-    "NasDem": 11,
+    "NasDem": 10,
     "PKB": 6,
     "PKS": 14,
     "PAN": 9,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 58,
-    "PDI-P": 92,
+    "PDI-P": 91,
     "Golkar": 67,
     "NasDem": 41,
     "PKB": 37,
@@ -36,13 +36,13 @@
   "topic_counts_30d": {
     "bumn": 47,
     "investasi": 28,
-    "danantara": 29,
+    "danantara": 28,
     "koperasi": 68,
     "perdagangan": 10,
     "umkm": 18,
-    "ekspor": 8,
+    "ekspor": 9,
     "ipo": 4,
-    "merger-akuisisi": 6,
+    "merger-akuisisi": 5,
     "kartel-monopoli": 3,
     "impor": 6
   },
@@ -53,7 +53,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
     "Mulyadi": 9,
-    "Adisatrya Suryo Sulisto": 11,
+    "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -89,11 +89,32 @@
   "early_warning_counts": {
     "Kinerja BUMN": 11,
     "Koperasi/UMKM": 86,
-    "Perdagangan": 30,
+    "Perdagangan": 31,
     "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 09:15:18 GMT",
+      "link": "https://tv.kontan.co.id/video/P86678qp-qw?source=home_tv"
+    },
+    {
+      "title": "Kejaksaan Agung hingga Kementerian Hukum Kawal Pemangkasan BUMN - Liputan6.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 09:14:19 GMT",
+      "link": "https://www.liputan6.com/bisnis/read/8265127/kejaksaan-agung-hingga-kementerian-hukum-kawal-pemangkasan-bumn"
+    },
+    {
+      "title": "Danantara Siapkan Rp44,5 Triliun untuk Garap Bisnis Daging Asia - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 09:00:07 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260808140107-17-757617/danantara-siapkan-rp445-triliun-untuk-garap-bisnis-daging-asia"
+    },
     {
       "title": "Konsultasi ke Kemenkop, Pansus II DPRD Kaltara Soroti Kualitas Koperasi - Benuanta",
       "entity": "Kementerian Koperasi",
@@ -144,6 +165,13 @@
       "link": "https://www.inilah.com/pendapatan-danantara-meroket-400-persen-dalam-setahun-membuat-prabowo-semringah"
     },
     {
+      "title": "Blunder Mentan soal Aceh Berulang, Pakar USK Soroti Komunikasi Publik yang Tidak Berbasis Data » - dialeksis.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 08 Aug 2026 04:46:12 GMT",
+      "link": "https://dialeksis.com/pemerintahan/blunder-mentan-soal-aceh-berulang-pakar-usk-soroti-komunikasi-publik-yang-tidak-berbasis-data/"
+    },
+    {
       "title": "Dony Oskaria: 274 BUMN Telah Jalani Streamlining , Target Jadi 250 - Validnews",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 02:48:00 GMT",
       "link": "https://www.beritakoperasi.com/menkop-dorong-penguatan-koperasi-dalam-festival-budaya-lembah-baliem-di-wamena/"
-    },
-    {
-      "title": "Danantara Perluas Akses Rumah Pertama bagi Anak Muda Lewat Pembiayaan Terintegrasi - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 02:32:32 GMT",
-      "link": "https://www.metrotvnews.com/read/b2lC6lVW-danantara-perluas-akses-rumah-pertama-bagi-anak-muda-lewat-pembiayaan-terintegrasi"
-    },
-    {
-      "title": "BP BUMN catat 274 BUMN telah ditata dalam rangka transformasi - ANTARA News Gorontalo",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 01:52:51 GMT",
-      "link": "https://gorontalo.antaranews.com/amp/berita/418080/bp-bumn-catat-274-bumn-telah-ditata-dalam-rangka-transformasi"
-    },
-    {
-      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 01:52:47 GMT",
-      "link": "https://tv.kontan.co.id/video/Ipms8fF73eg?source=home_tv"
-    },
-    {
-      "title": "KPPU Batalkan Perkara Akuisisi iForte, Ini Alasannya - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 00:52:25 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-batalkan-perkara-akuisisi-iforte-ini-alasannya/"
     }
   ]
 }
