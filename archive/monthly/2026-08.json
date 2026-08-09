@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T10:31:20.198771",
+  "generated_at": "2026-08-09T11:26:01.925744",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 37,
+    "PDI-P": 36,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 18,
@@ -17,7 +17,7 @@
     "Golkar": 67,
     "NasDem": 40,
     "PKB": 35,
-    "PKS": 49,
+    "PKS": 48,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -40,7 +40,7 @@
     "perdagangan": 11,
     "umkm": 22,
     "ekspor": 4,
-    "koperasi": 65,
+    "koperasi": 64,
     "ipo": 3,
     "merger-akuisisi": 6,
     "kartel-monopoli": 2,
@@ -77,7 +77,7 @@
     "Rivqy Abdul Halim": 3,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 16,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 15,
     "Ismail": 18,
     "Eko Patrio": 3,
@@ -88,12 +88,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Koperasi/UMKM": 87,
+    "Koperasi/UMKM": 86,
     "Perdagangan": 23,
     "Hukum/Audit": 29,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Semarak HUT ke-81 RI, BP Batam Tampilkan Inovasi dan Semangat Pembangunan dalam Pawai - Kampiun News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 10:58:34 GMT",
+      "link": "https://kampiunnews.com/semarak-hut-ke-81-ri-bp-batam-tampilkan-inovasi-dan-semangat-pembangunan-dalam-pawai/"
+    },
+    {
+      "title": "Ribuan Peserta Bakal Ramaikan Dua Agenda Strategis di Muba - monpera.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 10:38:22 GMT",
+      "link": "https://monpera.id/ribuan-peserta-bakal-ramaikan-dua-agenda-strategis-di-muba/"
+    },
+    {
+      "title": "Pendapatan Danantara Diklaim Naik 400%, Ekonom Soroti Kualitas Pertumbuhan - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 10:36:31 GMT",
+      "link": "https://nasional.kontan.co.id/news/pendapatan-danantara-diklaim-naik-400-ekonom-soroti-kualitas-pertumbuhan"
+    },
     {
       "title": "Energi Jadi Kunci Daya Saing Batam, Randi Zulmariadi dan Pertamina Dorong Iklim Investasi Makin Kompetitif - kepriraya.com",
       "entity": "Randi Zulmariadi",
@@ -137,6 +158,13 @@
       "link": "https://pakuanraya.com/sebut-pemekaran-bogor-timur-sulit-dan-butuh-political-will-mulyadi-kami-di-dpr-ri-siap-suarakan/"
     },
     {
+      "title": "Kemendag Dorong Pembentukan PTA RI-Mercosur, Bidik Pasar Amerika Latin - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 05:32:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260809/12/1994719/kemendag-dorong-pembentukan-pta-ri-mercosur-bidik-pasar-amerika-latin"
+    },
+    {
       "title": "Danantara Matangkan Peta Jalan Transformasi BUMN dan IPO - achmadnurhidayat.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 02:59:21 GMT",
       "link": "https://gorontalo.antaranews.com/berita/418199/mendag-brics-sepakati-mayoritas-substansi-perdagangan"
-    },
-    {
-      "title": "Masyarakat Diminta Kawal Putusan KPPU soal Sanksi Denda Rp755 Miliar kepada 97 Pinjol - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 02:53:22 GMT",
-      "link": "https://batamtoday.com/news/masyarakat-diminta-kawal-putusan-kppu-soal-sanksi-denda-rp755-miliar-kepada-97-pinjol"
-    },
-    {
-      "title": "Pemerintah berhati-hati dalam merevisi peraturan tentang industri gim - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 02:49:38 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/418155/pemerintah-berhati-hati-dalam-merevisi-peraturan-tentang-industri-gim"
-    },
-    {
-      "title": "Thailand meningkatkan pengelolaan durian akhir musim untuk mengurangi tekanan kelebihan pasokan. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 01:52:48 GMT",
-      "link": "https://www.vietnam.vn/id/thai-lan-tang-cuong-quan-ly-sau-rieng-cuoi-vu-nham-giam-ap-luc-du-cung"
-    },
-    {
-      "title": "Komisi VI DPR sosialisasikan kemitraan BUMN di Situbondo - Antara News jatim",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 01:45:00 GMT",
-      "link": "https://jatim.antaranews.com/berita/1088731/komisi-vi-dpr-sosialisasikan-kemitraan-bumn-di-situbondo"
     }
   ]
 }
