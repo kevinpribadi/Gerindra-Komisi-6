@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T11:26:01.925744",
+  "generated_at": "2026-08-09T12:43:14.590950",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 36,
+    "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 18,
@@ -15,7 +15,7 @@
     "Gerindra": 58,
     "PDI-P": 91,
     "Golkar": 67,
-    "NasDem": 40,
+    "NasDem": 39,
     "PKB": 35,
     "PKS": 48,
     "PAN": 23,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "investasi": 26,
+    "investasi": 25,
     "danantara": 33,
     "perdagangan": 11,
     "umkm": 22,
@@ -72,7 +72,7 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 7,
+    "Subardi": 6,
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 3,
     "Nasim Khan": 20,
@@ -94,6 +94,20 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Semarak HUT ke-81 RI, BP Batam Turut Meriahkan Pawai Pembangunan - Batamnews",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 11:26:00 GMT",
+      "link": "https://www.batamnews.co.id/berita-129321-semarak-hut-ke-81-ri-bp-batam-turut-meriahkan-pawai-pembangunan.html"
+    },
+    {
+      "title": "Perkuat Ekonomi Nasional, Darmadi Durianto Dorong Kolaborasi Strategis PTK Indonesia - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 11:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/perkuat-ekonomi-nasional-darmadi-durianto-dorong-kolaborasi-strategis-ptk-indonesia-b2pYyZbhcT"
+    },
     {
       "title": "Semarak HUT ke-81 RI, BP Batam Tampilkan Inovasi dan Semangat Pembangunan dalam Pawai - Kampiun News",
       "entity": "BP Batam",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 03:39:24 GMT",
       "link": "https://papua.antaranews.com/berita/766661/menkop-buka-pameran-umkm-dan-kopi-lembah-baliem-wamena-jayawijaya"
-    },
-    {
-      "title": "BRICS Sepakati Penguatan sistem Perdagangan Multilateral hingga Internasionalisasi UMKM - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 03:09:08 GMT",
-      "link": "https://www.metrotvnews.com/read/kpLCQdOp-brics-sepakati-penguatan-sistem-perdagangan-multilateral-hingga-internasionalisasi-umkm"
-    },
-    {
-      "title": "Mendag: BRICS sepakati mayoritas substansi perdagangan - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 02:59:21 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/418199/mendag-brics-sepakati-mayoritas-substansi-perdagangan"
     }
   ]
 }
