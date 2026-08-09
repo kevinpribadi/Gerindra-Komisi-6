@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T13:46:55.490077",
+  "generated_at": "2026-08-09T14:31:31.709607",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 37,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "investasi": 25,
-    "danantara": 33,
+    "bumn": 47,
+    "investasi": 24,
+    "danantara": 31,
     "perdagangan": 11,
     "umkm": 22,
     "ekspor": 4,
@@ -94,6 +94,27 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Pawai Pembangunan HUT ke-81 RI, BP Batam Tampilkan Inovasi dan Layanan - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 13:51:49 GMT",
+      "link": "https://metropolis.batampos.co.id/pawai-pembangunan-hut-ke-81-ri-bp-batam-tampilkan-inovasi-dan-layanan/"
+    },
+    {
+      "title": "Inpres 2/2026, Percepat Swasembada Pangan Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 13:27:30 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a78804234777c43de2f5116/inpres-2-2026-percepat-swasembada-pangan"
+    },
+    {
+      "title": "Inpres 2/2026, Percepat Swasembada Pangan Halaman 1 - Kompasiana.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 13:27:30 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a78804234777c43de2f5116/inpres-2-2026-percepat-swasembada-pangan"
+    },
     {
       "title": "Muba Jadi Panggung Hilirisasi Sawit Berbasis Koperasi, Menteri Koperasi hingga Kepala KSP Dijadwalkan Hadir - palpres.disway.id - PALPRES.COM",
       "entity": "Kementerian Koperasi",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 06:09:18 GMT",
       "link": "https://www.kompasiana.com/alifarjuli9327/6a78198ec925c420a16e3772/pp-8-tahun-2026-perkuat-peran-bp-batam-dalam-penyelenggaraan-kehutanan"
-    },
-    {
-      "title": "BP BUMN dan Danantara Berhasil Streamlining 274 Entitas BUMN - konstruksimedia.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 05:41:45 GMT",
-      "link": "https://konstruksimedia.com/bp-bumn-danantara-dan-utusan-khusus-presiden-baha-bahan-percepat-transformasi-bumn-274-entitas-berhasil-di-streamlining/"
-    },
-    {
-      "title": "Sebut Pemekaran Bogor Timur ‘Sulit’ dan Butuh Political Will, Mulyadi: Kami di DPR RI Siap Suarakan - Pakuan Raya",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 05:39:02 GMT",
-      "link": "https://pakuanraya.com/sebut-pemekaran-bogor-timur-sulit-dan-butuh-political-will-mulyadi-kami-di-dpr-ri-siap-suarakan/"
-    },
-    {
-      "title": "Kemendag Dorong Pembentukan PTA RI-Mercosur, Bidik Pasar Amerika Latin - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 05:32:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260809/12/1994719/kemendag-dorong-pembentukan-pta-ri-mercosur-bidik-pasar-amerika-latin"
     }
   ]
 }
