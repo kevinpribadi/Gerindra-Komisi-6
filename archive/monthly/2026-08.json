@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T22:28:01.358386",
+  "generated_at": "2026-08-09T23:28:09.715382",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 37,
@@ -16,7 +16,7 @@
     "PDI-P": 89,
     "Golkar": 67,
     "NasDem": 39,
-    "PKB": 35,
+    "PKB": 34,
     "PKS": 49,
     "PAN": 23,
     "Demokrat": 30
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "investasi": 23,
-    "danantara": 31,
+    "investasi": 21,
+    "danantara": 29,
     "perdagangan": 11,
     "umkm": 22,
     "ekspor": 5,
@@ -74,7 +74,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
     "Anggia Erma Rini": 10,
-    "Rivqy Abdul Halim": 3,
+    "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
@@ -87,13 +87,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 6,
+    "Kinerja BUMN": 7,
     "Koperasi/UMKM": 86,
     "Perdagangan": 24,
-    "Hukum/Audit": 28,
+    "Hukum/Audit": 27,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Perkuat Rantai Pasok Daging, Danantara Suntik Rp 44,75 Triliun ke JBS - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 23:12:32 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-suntik-rp-4475-triliun-ke-jbs-perkuat-rantai-pasok-daging"
+    },
+    {
+      "title": "Bisakah Utang Kereta Cepat Tak Membebani APBN - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 23:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/bisakah-utang-kereta-cepat-tak-membebani-apbn-2281064"
+    },
     {
       "title": "Danantara Mulai Jajaki Pasar Daging Global - KONTAN",
       "entity": "Danantara",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 10:07:40 GMT",
       "link": "https://www.upplan.sg/news/575f999415.html"
-    },
-    {
-      "title": "Energi Jadi Kunci Daya Saing Batam, Randi Zulmariadi dan Pertamina Dorong Iklim Investasi Makin Kompetitif - kepriraya.com",
-      "entity": "Randi Zulmariadi",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 09:41:48 GMT",
-      "link": "https://kepriraya.com/2026/08/09/energi-jadi-kunci-daya-saing-batam-randi-zulmariadi-dan-pertamina-dorong-iklim-investasi-makin-kompetitif/"
-    },
-    {
-      "title": "Mendag Buka-bukaan Hasil Pertemuan BRICS, Ini Isinya - infobanknews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 08:33:00 GMT",
-      "link": "https://infobanknews.com/mendag-buka-bukaan-hasil-pertemuan-brics-ini-isinya"
     }
   ]
 }
