@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-08T23:25:25.569592",
+  "generated_at": "2026-08-09T01:26:31.874597",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 36,
+    "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 13,
+    "PKB": 14,
     "PKS": 15,
     "PAN": 10,
     "Demokrat": 5
@@ -15,7 +15,7 @@
     "Gerindra": 57,
     "PDI-P": 91,
     "Golkar": 67,
-    "NasDem": 41,
+    "NasDem": 40,
     "PKB": 38,
     "PKS": 52,
     "PAN": 27,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
+    "bumn": 46,
     "investasi": 27,
-    "danantara": 30,
+    "danantara": 31,
+    "ekspor": 8,
     "umkm": 20,
     "perdagangan": 10,
-    "ekspor": 7,
-    "koperasi": 67,
+    "koperasi": 66,
     "ipo": 3,
-    "merger-akuisisi": 5,
-    "kartel-monopoli": 3,
+    "merger-akuisisi": 6,
+    "kartel-monopoli": 2,
     "impor": 6
   },
   "member_counts_30d": {
@@ -71,7 +71,7 @@
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 2,
     "Rudi Hartono Bangun": 7,
-    "Subardi": 10,
+    "Subardi": 9,
     "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 5,
     "Nasim Khan": 20,
@@ -86,13 +86,41 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 8,
+    "Kinerja BUMN": 7,
+    "Perdagangan": 28,
     "Koperasi/UMKM": 88,
-    "Perdagangan": 27,
     "Hukum/Audit": 32,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Perkuat Ekosistem Ekspor di Sulawesi, Papua, dan Maluku - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 00:54:00 GMT",
+      "link": "https://www.agricom.id/news/5108/kemendag-perkuat-ekosistem-ekspor-di-sulawesi--papua--dan-maluku"
+    },
+    {
+      "title": "Danantara Akan Pangkas 652 Entitas BUMN, Tersisa 250 - waspada.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 00:28:57 GMT",
+      "link": "https://www.waspada.id/berita/danantara-akan-pangkas-652-entitas-bumn-tersisa-250"
+    },
+    {
+      "title": "BNI Bukukan Laba 10,8 T, DPR Acungkan Jempol - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/320967/bni-bukukan-laba-108-t-dpr-acungkan-jempol"
+    },
+    {
+      "title": "5 Anggota DPR RI Asal Sumbar Belum Lapor LHKPN 2025, dari Andre Rosiade hingga Rahmat Saleh - Langgam.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 23:36:00 GMT",
+      "link": "https://langgam.id/5-anggota-dpr-ri-asal-sumbar-belum-lapor-lhkpn-2025-dari-andre-rosiade-hingga-rahmat-saleh/"
+    },
     {
       "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo - ANTARA News Sulteng",
       "entity": "Nasim Khan",
@@ -113,6 +141,13 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 19:09:56 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260809/Mjc0NDQ0"
+    },
+    {
+      "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo - ANTARA News",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 08 Aug 2026 19:07:12 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5686148/komisi-vi-dpr-ri-sosialisasikan-kemitraan-bumn-di-situbondo"
     },
     {
       "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - tv.kontan.co.id",
@@ -162,41 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 08 Aug 2026 11:37:00 GMT",
       "link": "https://www.malangtimes.com/baca/3331348397/20260808/063700/ngobrol-bareng-pwi-situbondo-nasim-khan-tegaskan-dukungan-untuk-pers-yang-edukatif-dan-profesional"
-    },
-    {
-      "title": "Siap-Siap, Danantara Bakal Pangkas 652 Entitas BUMN - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 11:30:13 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8265186/siap-siap-danantara-bakal-pangkas-652-entitas-bumn"
-    },
-    {
-      "title": "Kejaksaan Agung Hingga Kementerian Hukum Perkuat Pengawalan Penataan 274 BUMN Hingga Juli 2026 - detik suara rakyat",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 11:13:24 GMT",
-      "link": "https://detiksuararakyat.id/kejaksaan-agung-hingga-kementerian-hukum-perkuat-pengawalan-penataan-274-bumn-hingga-juli-2026/"
-    },
-    {
-      "title": "Ngobrol Santai dengan Pengurus PWI Situbondo, Anggota Komisi VI DPR RI Fraksi PKB Siap Dukung Kegiatan Jurnalistik - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 10:48:00 GMT",
-      "link": "https://ketik.com/situbondo/daerah/ngobrol-santai-dengan-pengurus-pwi-situbondo-anggota-komisi-vi-dpr-ri-fraksi-pkb-siap-dukung-kegiatan-jurnalistik"
-    },
-    {
-      "title": "Ngobrol Santai dengan Pengurus PWI Situbondo, Anggota Komisi VI DPR RI Fraksi PKB Siap Dukung Kegiatan Jurnalistik - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 10:48:00 GMT",
-      "link": "https://ketik.com/amp/ngobrol-santai-dengan-pengurus-pwi-situbondo-anggota-komisi-vi-dpr-ri-fraksi-pkb-siap-dukung-kegiatan-jurnalistik"
-    },
-    {
-      "title": "Danantara Gelontorkan Rp44,5 Triliun ke JBS, Bidik Pasar Daging Asia Pasifik - VIVA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 10:30:00 GMT",
-      "link": "https://www.viva.co.id/bisnis/1919953-danantara-gelontorkan-rp445-triliun-ke-jbs-bidik-pasar-daging-asia-pasifik"
     }
   ]
 }
