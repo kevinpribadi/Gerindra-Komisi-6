@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T20:28:38.147297",
+  "generated_at": "2026-08-09T22:28:01.358386",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 37,
@@ -90,10 +90,17 @@
     "Kinerja BUMN": 6,
     "Koperasi/UMKM": 86,
     "Perdagangan": 24,
-    "Hukum/Audit": 29,
+    "Hukum/Audit": 28,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Danantara Mulai Jajaki Pasar Daging Global - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 22:10:45 GMT",
+      "link": "https://insight.kontan.co.id/news/danantara-mulai-jajaki-pasar-daging-global"
+    },
     {
       "title": "KUD Situbondo Mati Suri, Anggota DPR RI Nasim Khan Dorong Revitalisasi dan Gandeng KDMP - ketik.com",
       "entity": "Nasim Khan",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 08:33:00 GMT",
       "link": "https://infobanknews.com/mendag-buka-bukaan-hasil-pertemuan-brics-ini-isinya"
-    },
-    {
-      "title": "Tiga Dara | Wamenkop Ungkap Bangun Koperasi Merah Putih Gak Bisa Sembarang - Suara.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 07:05:00 GMT",
-      "link": "https://www.suara.com/video/2026/08/09/140500/tiga-dara-wamenkop-ungkap-bangun-koperasi-merah-putih-gak-bisa-sembarang"
     }
   ]
 }
