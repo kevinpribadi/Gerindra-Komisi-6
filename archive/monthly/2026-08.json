@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T01:26:31.874597",
+  "generated_at": "2026-08-09T03:39:25.611572",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 14,
+    "PKB": 17,
     "PKS": 15,
     "PAN": 10,
     "Demokrat": 5
@@ -17,8 +17,8 @@
     "Golkar": 67,
     "NasDem": 40,
     "PKB": 38,
-    "PKS": 52,
-    "PAN": 27,
+    "PKS": 51,
+    "PAN": 25,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 46,
+    "bumn": 47,
     "investasi": 27,
     "danantara": 31,
-    "ekspor": 8,
-    "umkm": 20,
-    "perdagangan": 10,
+    "umkm": 21,
+    "perdagangan": 11,
+    "ekspor": 7,
     "koperasi": 66,
     "ipo": 3,
     "merger-akuisisi": 6,
@@ -78,8 +78,8 @@
     "Ida Fauziyah": 2,
     "Amin Ak.": 17,
     "Rizal Bawazier": 15,
-    "Ismail": 20,
-    "Eko Patrio": 7,
+    "Ismail": 19,
+    "Eko Patrio": 5,
     "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 19,
@@ -87,12 +87,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 7,
-    "Perdagangan": 28,
-    "Koperasi/UMKM": 88,
-    "Hukum/Audit": 32,
+    "Koperasi/UMKM": 89,
+    "Perdagangan": 27,
+    "Hukum/Audit": 31,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "BRICS Sepakati Penguatan sistem Perdagangan Multilateral hingga Internasionalisasi UMKM - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 03:09:08 GMT",
+      "link": "https://www.metrotvnews.com/read/kpLCQdOp-brics-sepakati-penguatan-sistem-perdagangan-multilateral-hingga-internasionalisasi-umkm"
+    },
+    {
+      "title": "Mendag: BRICS sepakati mayoritas substansi perdagangan - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 02:59:21 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/418199/mendag-brics-sepakati-mayoritas-substansi-perdagangan"
+    },
+    {
+      "title": "Masyarakat Diminta Kawal Putusan KPPU soal Sanksi Denda Rp755 Miliar kepada 97 Pinjol - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 02:53:22 GMT",
+      "link": "https://batamtoday.com/news/masyarakat-diminta-kawal-putusan-kppu-soal-sanksi-denda-rp755-miliar-kepada-97-pinjol"
+    },
+    {
+      "title": "Thailand meningkatkan pengelolaan durian akhir musim untuk mengurangi tekanan kelebihan pasokan. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 01:52:48 GMT",
+      "link": "https://www.vietnam.vn/id/thai-lan-tang-cuong-quan-ly-sau-rieng-cuoi-vu-nham-giam-ap-luc-du-cung"
+    },
+    {
+      "title": "Komisi VI DPR sosialisasikan kemitraan BUMN di Situbondo - Antara News jatim",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 01:45:00 GMT",
+      "link": "https://jatim.antaranews.com/berita/1088731/komisi-vi-dpr-sosialisasikan-kemitraan-bumn-di-situbondo"
+    },
+    {
+      "title": "Perkuat Peran Pers, Anggota DPR RI Nasim Khan Gandeng PWI Situbondo - memorandum.disway.id - Memorandum.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 01:19:00 GMT",
+      "link": "https://memorandum.disway.id/situbondo/read/166224/perkuat-peran-pers-anggota-dpr-ri-nasim-khan-gandeng-pwi-situbondo"
+    },
     {
       "title": "Kemendag Perkuat Ekosistem Ekspor di Sulawesi, Papua, dan Maluku - Agricom.id",
       "entity": "Kementerian Perdagangan",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 15:15:16 GMT",
       "link": "https://tv.kontan.co.id/video/QKCuDH_34nU?source=home_tv"
-    },
-    {
-      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - Kontan TV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 15:15:16 GMT",
-      "link": "https://tv.kontan.co.id/video/QKCuDH_34nU"
-    },
-    {
-      "title": "Mendag dorong pertemuan kedua JTC RI-Mesir digelar tahun 2026 - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 14:11:05 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/418109/mendag-dorong-pertemuan-kedua-jtc-ri-mesir-digelar-tahun-2026"
-    },
-    {
-      "title": "Danantara Perluas Akses Rumah Pertama bagi Generasi Z - BorneoFlash.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 13:34:00 GMT",
-      "link": "https://borneoflash.com/2026/08/08/danantara-perluas-akses-rumah-pertama-bagi-generasi-z"
-    },
-    {
-      "title": "Strategi Kemendag Dorong UMKM Tembus Ritel Modern dan Mal Besar - Harapan Rakyat",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 13:15:49 GMT",
-      "link": "https://www.harapanrakyat.com/2026/08/strategi-kemendag-dorong-umkm-tembus-ritel-modern-dan-mal-besar/"
-    },
-    {
-      "title": "Ngobrol Bareng PWI Situbondo, Nasim Khan Tegaskan Dukungan untuk Pers yang Edukatif dan Profesional - malangtimes.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 11:37:00 GMT",
-      "link": "https://www.malangtimes.com/amp/baca/3331348397/20260808/063700/ngobrol-bareng-pwi-situbondo-nasim-khan-tegaskan-dukungan-untuk-pers-yang-edukatif-dan-profesional"
-    },
-    {
-      "title": "Ngobrol Bareng PWI Situbondo, Nasim Khan Tegaskan Dukungan untuk Pers yang Edukatif dan Profesional - Malangtimes",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 11:37:00 GMT",
-      "link": "https://www.malangtimes.com/baca/3331348397/20260808/063700/ngobrol-bareng-pwi-situbondo-nasim-khan-tegaskan-dukungan-untuk-pers-yang-edukatif-dan-profesional"
     }
   ]
 }
