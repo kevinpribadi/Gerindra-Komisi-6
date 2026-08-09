@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T05:01:54.623334",
+  "generated_at": "2026-08-09T06:52:16.300472",
   "party_counts_7d": {
-    "Gerindra": 11,
+    "Gerindra": 12,
     "PDI-P": 37,
     "Golkar": 5,
     "NasDem": 10,
-    "PKB": 17,
+    "PKB": 18,
     "PKS": 15,
     "PAN": 10,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 57,
+    "Gerindra": 58,
     "PDI-P": 91,
     "Golkar": 67,
     "NasDem": 40,
-    "PKB": 37,
+    "PKB": 36,
     "PKS": 50,
-    "PAN": 24,
+    "PAN": 23,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 47,
-    "investasi": 27,
-    "danantara": 32,
+    "bumn": 48,
+    "investasi": 25,
+    "danantara": 33,
     "perdagangan": 12,
     "umkm": 22,
     "ekspor": 6,
@@ -52,7 +52,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 8,
+    "Mulyadi": 9,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
@@ -73,26 +73,54 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 9,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 4,
+    "Rivqy Abdul Halim": 3,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 17,
     "Rizal Bawazier": 15,
     "Ismail": 18,
-    "Eko Patrio": 4,
+    "Eko Patrio": 3,
     "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 7,
-    "Koperasi/UMKM": 88,
+    "Kinerja BUMN": 6,
+    "Koperasi/UMKM": 87,
     "Perdagangan": 26,
-    "Hukum/Audit": 30,
-    "Konflik Publik": 7
+    "Hukum/Audit": 29,
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "PP 8 Tahun 2026 Perkuat Peran BP Batam dalam Penyelenggaraan Kehutanan - Kompasiana.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 06:09:18 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a78198ec925c420a16e3772/pp-8-tahun-2026-perkuat-peran-bp-batam-dalam-penyelenggaraan-kehutanan"
+    },
+    {
+      "title": "BP BUMN dan Danantara Berhasil Streamlining 274 Entitas BUMN - konstruksimedia.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 05:41:45 GMT",
+      "link": "https://konstruksimedia.com/bp-bumn-danantara-dan-utusan-khusus-presiden-baha-bahan-percepat-transformasi-bumn-274-entitas-berhasil-di-streamlining/"
+    },
+    {
+      "title": "Sebut Pemekaran Bogor Timur ‘Sulit’ dan Butuh Political Will, Mulyadi: Kami di DPR RI Siap Suarakan - Pakuan Raya",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 05:39:02 GMT",
+      "link": "https://pakuanraya.com/sebut-pemekaran-bogor-timur-sulit-dan-butuh-political-will-mulyadi-kami-di-dpr-ri-siap-suarakan/"
+    },
+    {
+      "title": "Danantara Matangkan Peta Jalan Transformasi BUMN dan IPO - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 05:06:16 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-matangkan-peta-jalan-transformasi-bumn"
+    },
     {
       "title": "Optimalisasi IUAE-CEPA, Kemendag Dorong Peningkatan Perdagangan & Investasi - Bisnis.com - Ekonomi",
       "entity": "Kementerian Perdagangan",
@@ -150,6 +178,13 @@
       "link": "https://memorandum.disway.id/situbondo/read/166224/perkuat-peran-pers-anggota-dpr-ri-nasim-khan-gandeng-pwi-situbondo"
     },
     {
+      "title": "Perkuat Peran Pers, Anggota DPR RI Nasim Khan Gandeng PWI Situbondo - memorandum.disway.id - Memorandum.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 09 Aug 2026 01:19:00 GMT",
+      "link": "https://memorandum.disway.id/amp/166224/perkuat-peran-pers-anggota-dpr-ri-nasim-khan-gandeng-pwi-situbondo"
+    },
+    {
       "title": "Kemendag Perkuat Ekosistem Ekspor di Sulawesi, Papua, dan Maluku - Agricom.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 00:28:57 GMT",
       "link": "https://www.waspada.id/berita/danantara-akan-pangkas-652-entitas-bumn-tersisa-250"
-    },
-    {
-      "title": "BNI Bukukan Laba 10,8 T, DPR Acungkan Jempol - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 00:05:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/320967/bni-bukukan-laba-108-t-dpr-acungkan-jempol"
-    },
-    {
-      "title": "5 Anggota DPR RI Asal Sumbar Belum Lapor LHKPN 2025, dari Andre Rosiade hingga Rahmat Saleh - Langgam.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 23:36:00 GMT",
-      "link": "https://langgam.id/5-anggota-dpr-ri-asal-sumbar-belum-lapor-lhkpn-2025-dari-andre-rosiade-hingga-rahmat-saleh/"
-    },
-    {
-      "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo - ANTARA News Sulteng",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 19:19:32 GMT",
-      "link": "https://sulteng.antaranews.com/berita/389535/komisi-vi-dpr-ri-sosialisasikan-kemitraan-bumn-di-situbondo"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 19:15:23 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260809/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 19:09:56 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260809/Mjc0NDQ0"
     }
   ]
 }
