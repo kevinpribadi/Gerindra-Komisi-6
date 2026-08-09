@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T03:39:25.611572",
+  "generated_at": "2026-08-09T05:01:54.623334",
   "party_counts_7d": {
     "Gerindra": 11,
     "PDI-P": 37,
@@ -16,9 +16,9 @@
     "PDI-P": 91,
     "Golkar": 67,
     "NasDem": 40,
-    "PKB": 38,
-    "PKS": 51,
-    "PAN": 25,
+    "PKB": 37,
+    "PKS": 50,
+    "PAN": 24,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 47,
     "investasi": 27,
-    "danantara": 31,
-    "umkm": 21,
-    "perdagangan": 11,
-    "ekspor": 7,
-    "koperasi": 66,
+    "danantara": 32,
+    "perdagangan": 12,
+    "umkm": 22,
+    "ekspor": 6,
+    "koperasi": 65,
     "ipo": 3,
     "merger-akuisisi": 6,
     "kartel-monopoli": 2,
@@ -73,13 +73,13 @@
     "Rudi Hartono Bangun": 7,
     "Subardi": 9,
     "Anggia Erma Rini": 11,
-    "Rivqy Abdul Halim": 5,
+    "Rivqy Abdul Halim": 4,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 17,
     "Rizal Bawazier": 15,
-    "Ismail": 19,
-    "Eko Patrio": 5,
+    "Ismail": 18,
+    "Eko Patrio": 4,
     "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 19,
@@ -87,12 +87,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 7,
-    "Koperasi/UMKM": 89,
-    "Perdagangan": 27,
-    "Hukum/Audit": 31,
+    "Koperasi/UMKM": 88,
+    "Perdagangan": 26,
+    "Hukum/Audit": 30,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Optimalisasi IUAE-CEPA, Kemendag Dorong Peningkatan Perdagangan & Investasi - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 04:30:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260809/12/1994718/optimalisasi-iuae-cepa-kemendag-dorong-peningkatan-perdagangan-investasi"
+    },
+    {
+      "title": "Menkop buka pameran UMKM dan kopi Lembah Baliem Wamena Jayawijaya - ANTARA News Papua",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 03:39:24 GMT",
+      "link": "https://papua.antaranews.com/berita/766661/menkop-buka-pameran-umkm-dan-kopi-lembah-baliem-wamena-jayawijaya"
+    },
     {
       "title": "BRICS Sepakati Penguatan sistem Perdagangan Multilateral hingga Internasionalisasi UMKM - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 08 Aug 2026 19:09:56 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260809/Mjc0NDQ0"
-    },
-    {
-      "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo - ANTARA News",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 08 Aug 2026 19:07:12 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5686148/komisi-vi-dpr-ri-sosialisasikan-kemitraan-bumn-di-situbondo"
-    },
-    {
-      "title": "Prabowo Klaim Pendapatan Danantara Naik 400% dalam Setahun - tv.kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 08 Aug 2026 15:15:16 GMT",
-      "link": "https://tv.kontan.co.id/video/QKCuDH_34nU?source=home_tv"
     }
   ]
 }
