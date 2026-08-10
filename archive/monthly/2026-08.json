@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T13:01:16.815342",
+  "generated_at": "2026-08-10T14:55:09.948205",
   "party_counts_7d": {
-    "Gerindra": 13,
+    "Gerindra": 12,
     "PDI-P": 34,
     "Golkar": 5,
     "NasDem": 10,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
+    "bumn": 55,
     "investasi": 23,
     "danantara": 32,
-    "perdagangan": 12,
-    "kartel-monopoli": 4,
-    "umkm": 24,
+    "perdagangan": 11,
+    "kartel-monopoli": 6,
+    "umkm": 23,
     "ekspor": 4,
     "koperasi": 68,
-    "ipo": 9,
-    "merger-akuisisi": 10,
+    "ipo": 10,
+    "merger-akuisisi": 9,
     "impor": 3
   },
   "member_counts_30d": {
@@ -88,12 +88,47 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Koperasi/UMKM": 90,
-    "Perdagangan": 16,
+    "Koperasi/UMKM": 89,
+    "Perdagangan": 15,
     "Konflik Publik": 7,
-    "Hukum/Audit": 23
+    "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Avian Brands Gandeng KPPU Perkuat Kepatuhan Persaingan Usaha - Warta Ekonomi",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 14:16:00 GMT",
+      "link": "https://wartaekonomi.co.id/read627779/avian-brands-gandeng-kppu-perkuat-kepatuhan-persaingan-usaha"
+    },
+    {
+      "title": "IPO BUMN Disiapkan Danantara, Simak Daftar Perusahaan Potensial - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 14:05:02 GMT",
+      "link": "https://www.metrotvnews.com/read/b7WCmvBX-ipo-bumn-disiapkan-danantara-simak-daftar-perusahaan-potensial"
+    },
+    {
+      "title": "KPPU Denda PT Semangat Logistik Andalan Rp2 Miliar atas Keterlambatan Notifikasi Akuisisi - pasardana.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 13:14:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/10/kppu-denda-pt-semangat-logistik-andalan-rp2-miliar-atas-keterlambatan-notifikasi-akuisisi"
+    },
+    {
+      "title": "Inflasi Juli 2,88 Persen, Mendagri Tito Nilai Masih dalam Rentang Ideal - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 13:00:35 GMT",
+      "link": "https://indoposco.id/2026/08/10/inflasi-juli-288-persen-mendagri-tito-nilai-masih-dalam-rentang-ideal/"
+    },
+    {
+      "title": "Avian Brands Gandeng KPPU, Demi Jaga Kepatuhan Persaingan Usaha - industri.kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:42:59 GMT",
+      "link": "https://industri.kontan.co.id/news/avian-brands-gandeng-kppu-avia-perkuat-kepatuhan-persaingan-usaha"
+    },
     {
       "title": "Perkuat Tata Kelola dan Persaingan Sehat, Avian Ikuti Program Kepatuhan KPPU - MetroTVNews.com",
       "entity": "KPPU",
@@ -121,6 +156,13 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 12:10:26 GMT",
       "link": "https://telusur.co.id/detail/kppu-denda-pt-semangat-logistik-andalan-rp2-miliar-atas-keterlambatan-notifikasi-akuisisi"
+    },
+    {
+      "title": "Terlambat Laporkan Akuisisi, KPPU Denda PT Semangat Logistik Andalan - Rakyat Sulsel",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:10:18 GMT",
+      "link": "https://rakyatsulsel.fajar.co.id/2026/08/10/terlambat-laporkan-akuisisi-kppu-denda-pt-semangat-logistik-andalan/"
     },
     {
       "title": "LPDB Koperasi Perluas Akses Dana Bergulir untuk Koperasi Sektor Riil - MetroTVNews.com",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 11:11:36 GMT",
       "link": "https://nasional.kontan.co.id/news/kemendag-dan-akademisi-bahas-intervensi-pemerintah-dalam-menjaga-persaingan-usaha"
-    },
-    {
-      "title": "Aturan Demutualisasi BEI Segera Rampung, Danantara Siap Masuk - Kompas.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 11:07:00 GMT",
-      "link": "https://www.kompas.id/artikel/aturan-demutualisasi-bei-segera-rampung-danantara-siap-masuk"
-    },
-    {
-      "title": "Apresiasi Penindakan Umrah Tanpa Izin di Sultra, BPKN: Perizinan Lapis Awal Perlindungan Konsumen - VIVA.co.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 11:00:00 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1920401-apresiasi-penindakan-umrah-tanpa-izin-di-sultra-bpkn-perizinan-lapis-awal-perlindungan-konsumen"
-    },
-    {
-      "title": "Avian Brands Terapkan Tata Kelola Perusahaan Lewat Program KPPU - achmadnurhidayat.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 10:55:26 GMT",
-      "link": "https://achmadnurhidayat.id/avian-brands-terapkan-tata-kelola-kppu"
-    },
-    {
-      "title": "Avian Brands Perkuat Penerapan GCG - investor.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 10:45:00 GMT",
-      "link": "https://investor.id/business/449767/avian-brands-perkuat-penerapan-gcg"
-    },
-    {
-      "title": "Pasar Larat Jadi Polemik, Pemda KKT dan Koperasi Yamdena Capai Kesepakatan - radiodms.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 10:36:05 GMT",
-      "link": "https://radiodms.com/pasar-larat-jadi-polemik-pemda-kkt-dan-koperasi-yamdena-capai-kesepakatan/"
-    },
-    {
-      "title": "BPKN Apresiasi Penindakan Umrah Tanpa Izin di Sultra - RM.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 10:20:00 GMT",
-      "link": "https://rm.id/baca-berita/nasional/321151/bpkn-apresiasi-penindakan-umrah-tanpa-izin-di-sultra"
     }
   ]
 }
