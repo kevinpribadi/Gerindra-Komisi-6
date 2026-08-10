@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T01:28:05.230645",
+  "generated_at": "2026-08-10T03:51:38.264620",
   "party_counts_7d": {
-    "Gerindra": 12,
+    "Gerindra": 13,
     "PDI-P": 35,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 20,
-    "PKS": 16,
+    "PKS": 15,
     "PAN": 10,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 58,
+    "Gerindra": 59,
     "PDI-P": 89,
     "Golkar": 66,
     "NasDem": 39,
     "PKB": 34,
-    "PKS": 49,
+    "PKS": 48,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -52,7 +52,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 9,
+    "Mulyadi": 10,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
@@ -79,7 +79,7 @@
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
     "Rizal Bawazier": 15,
-    "Ismail": 18,
+    "Ismail": 17,
     "Eko Patrio": 3,
     "Iskandar": 20,
     "Sartono": 7,
@@ -88,12 +88,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 7,
-    "Koperasi/UMKM": 86,
-    "Perdagangan": 24,
-    "Hukum/Audit": 27,
+    "Koperasi/UMKM": 85,
+    "Perdagangan": 22,
+    "Hukum/Audit": 26,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Danantara soal Beli Saham BEI: Masih Proses - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 03:38:11 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8611723/danantara-soal-beli-saham-bei-masih-proses"
+    },
+    {
+      "title": "Akomodir Penghasilan Sampingan Gen Z, Danantara Rancang Skema KPR Adaptif - Stabilitas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 03:31:00 GMT",
+      "link": "https://www.stabilitas.id/akomodir-penghasilan-sampingan-gen-z-danantara-rancang-skema-kpr-adaptif/"
+    },
+    {
+      "title": "Hadiri Hari Gim Indonesia, Menteri Ekraf Optimis Gim Lokal Semakin Mendunia - pasardana.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 03:12:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/10/hadiri-hari-gim-indonesia-menteri-ekraf-optimis-gim-lokal-semakin-mendunia"
+    },
+    {
+      "title": "Mulyadi: Keterbatasan Anggaran Jangan Hentikan Perjuangan Pemekaran Bogor Timur - DPR RI",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Mon, 10 Aug 2026 02:48:41 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Mulyadi-Keterbatasan-Anggaran-Jangan-Hentikan-Perjuangan-Pemekaran-Bogor-Timur-67887"
+    },
+    {
+      "title": "Bupati Rio Dorong Dekopinda Jadikan Koperasi Soko Guru Perekonomian Situbondo - ketik.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 02:01:00 GMT",
+      "link": "https://ketik.com/situbondo/daerah/bupati-rio-dorong-dekopinda-jadikan-koperasi-soko-guru-perekonomian-situbondo"
+    },
+    {
+      "title": "Legislator: KUD dan KDKMP bisa jalan beriringan perkuat ekonomi desa - jatim.antaranews.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Mon, 10 Aug 2026 01:49:10 GMT",
+      "link": "https://jatim.antaranews.com/berita/1088913/legislator-kud-dan-kdkmp-bisa-jalan-beriringan-perkuat-ekonomi-desa"
+    },
     {
       "title": "Penghasilan Danantara Naik 400 Persen, Prabowo Minta Diaudit - waspada.id",
       "entity": "Danantara",
@@ -114,6 +156,13 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 23:12:32 GMT",
       "link": "https://nasional.kontan.co.id/news/danantara-suntik-rp-4475-triliun-ke-jbs-perkuat-rantai-pasok-daging"
+    },
+    {
+      "title": "BP Batam Tampilkan Tujuh Kedeputian di Pawai Pembangunan HUT RI ke-81 - Detaknews.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 09 Aug 2026 23:04:06 GMT",
+      "link": "https://detaknews.co.id/2026/08/10/bp-batam-tampilkan-tujuh-kedeputian-di-pawai-pembangunan-hut-ri-ke-81/"
     },
     {
       "title": "Bisakah Utang Kereta Cepat Tak Membebani APBN - Tempo.co",
@@ -149,55 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 13:27:30 GMT",
       "link": "https://www.kompasiana.com/alifarjuli9327/6a78804234777c43de2f5116/inpres-2-2026-percepat-swasembada-pangan"
-    },
-    {
-      "title": "Inpres 2/2026, Percepat Swasembada Pangan Halaman 1 - Kompasiana.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 13:27:30 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a78804234777c43de2f5116/inpres-2-2026-percepat-swasembada-pangan"
-    },
-    {
-      "title": "Muba Jadi Panggung Hilirisasi Sawit Berbasis Koperasi, Menteri Koperasi hingga Kepala KSP Dijadwalkan Hadir - palpres.disway.id - PALPRES.COM",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 12:49:00 GMT",
-      "link": "https://palpres.disway.id/musi-banyuasin/read/776912/muba-jadi-panggung-hilirisasi-sawit-berbasis-koperasi-menteri-koperasi-hingga-kepala-ksp-dijadwalkan-hadir"
-    },
-    {
-      "title": "Semarak HUT ke-81 RI, BP Batam Turut Meriahkan Pawai Pembangunan - Batamnews",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 11:26:00 GMT",
-      "link": "https://www.batamnews.co.id/berita-129321-semarak-hut-ke-81-ri-bp-batam-turut-meriahkan-pawai-pembangunan.html"
-    },
-    {
-      "title": "Perkuat Ekonomi Nasional, Darmadi Durianto Dorong Kolaborasi Strategis PTK Indonesia - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 11:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/perkuat-ekonomi-nasional-darmadi-durianto-dorong-kolaborasi-strategis-ptk-indonesia-b2pYyZbhcT"
-    },
-    {
-      "title": "Semarak HUT ke-81 RI, BP Batam Tampilkan Inovasi dan Semangat Pembangunan dalam Pawai - Kampiun News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 10:58:34 GMT",
-      "link": "https://kampiunnews.com/semarak-hut-ke-81-ri-bp-batam-tampilkan-inovasi-dan-semangat-pembangunan-dalam-pawai/"
-    },
-    {
-      "title": "Ribuan Peserta Bakal Ramaikan Dua Agenda Strategis di Muba - monpera.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 10:38:22 GMT",
-      "link": "https://monpera.id/ribuan-peserta-bakal-ramaikan-dua-agenda-strategis-di-muba/"
-    },
-    {
-      "title": "Pendapatan Danantara Diklaim Naik 400%, Ekonom Soroti Kualitas Pertumbuhan - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 10:36:31 GMT",
-      "link": "https://nasional.kontan.co.id/news/pendapatan-danantara-diklaim-naik-400-ekonom-soroti-kualitas-pertumbuhan"
     }
   ]
 }
