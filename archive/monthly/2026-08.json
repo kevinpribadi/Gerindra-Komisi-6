@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T07:27:17.103305",
+  "generated_at": "2026-08-10T09:16:55.528565",
   "party_counts_7d": {
-    "Gerindra": 13,
+    "Gerindra": 14,
     "PDI-P": 34,
     "Golkar": 5,
     "NasDem": 11,
-    "PKB": 20,
-    "PKS": 13,
+    "PKB": 21,
+    "PKS": 12,
     "PAN": 10,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 89,
     "Golkar": 66,
     "NasDem": 39,
-    "PKB": 32,
-    "PKS": 47,
+    "PKB": 33,
+    "PKS": 46,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
-    "investasi": 21,
+    "bumn": 55,
+    "investasi": 22,
     "danantara": 30,
     "perdagangan": 11,
     "umkm": 23,
     "ekspor": 5,
     "koperasi": 67,
     "ipo": 9,
-    "merger-akuisisi": 7,
     "kartel-monopoli": 2,
+    "merger-akuisisi": 9,
     "impor": 3
   },
   "member_counts_30d": {
@@ -52,7 +52,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 17,
-    "Mulyadi": 10,
+    "Mulyadi": 11,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
@@ -74,10 +74,10 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
     "Anggia Erma Rini": 8,
-    "Rivqy Abdul Halim": 2,
+    "Rivqy Abdul Halim": 3,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 16,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 14,
     "Ismail": 17,
     "Eko Patrio": 3,
@@ -89,11 +89,81 @@
   "early_warning_counts": {
     "Kinerja BUMN": 7,
     "Koperasi/UMKM": 88,
-    "Perdagangan": 22,
-    "Hukum/Audit": 26,
+    "Perdagangan": 21,
+    "Hukum/Audit": 24,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Denda Rp795 Miliar KPPU terhadap Fintech Disorot, Asas Proporsionalitas Dipertanyakan - Hukumonline",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 09:12:32 GMT",
+      "link": "https://www.hukumonline.com/berita/a/denda-rp795-miliar-kppu-terhadap-fintech-disorot--asas-proporsionalitas-dipertanyakan-lt6a79944a9bd84/"
+    },
+    {
+      "title": "Danantara siapkan IPO BUMN dalam 6-12 bulan ke depan - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 08:48:25 GMT",
+      "link": "https://www.antaranews.com/berita/5687588/danantara-siapkan-ipo-bumn-dalam-6-12-bulan-ke-depan?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
+      "title": "Danantara Mau Bawa BUMN Melantai di BEI, Pandu: Buat Tambah Likuiditas - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 08:43:28 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260810154057-17-757995/danantara-mau-bawa-bumn-melantai-di-bei-pandu-buat-tambah-likuiditas"
+    },
+    {
+      "title": "Gandeng KPPU, AVIA Perkuat Budaya Kepatuhan Persaingan Usaha - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 08:10:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/10/151051121/gandeng-kppu-avia-perkuat-budaya-kepatuhan-persaingan-usaha"
+    },
+    {
+      "title": "Permendag 7/2026 tentang Sekolah Perdagangan - Kompasiana.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 08:00:12 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a79850cc925c43a47478324/permendag-7-2026-tentang-sekolah-perdagangan"
+    },
+    {
+      "title": "KPPU Batalkan Perkara Akuisisi karena LDP Gunakan Dasar Hukum yang Dicabut - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 07:50:43 GMT",
+      "link": "https://telusur.co.id/detail/kppu-batalkan-perkara-akuisisi-karena-ldp-gunakan-dasar-hukum-yang-dicabut"
+    },
+    {
+      "title": "Gus Rivqy Dorong PKPB Jember Lahirkan Kader PKB Militan dan Loyal sebagai Penggerak Partai - Radar Jember",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Mon, 10 Aug 2026 07:47:27 GMT",
+      "link": "https://radarjember.jawapos.com/jember/2608100014/gus-rivqy-dorong-pkpb-jember-lahirkan-kader-pkb-militan-dan-loyal-sebagai-penggerak-partai"
+    },
+    {
+      "title": "Magang di Kementerian Koperasi, Mahasiswa UNM Buktikan Talenta Digital Siap Hadapi Dunia Kerja - Universitas Nusa Mandiri",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 07:27:55 GMT",
+      "link": "https://news.nusamandiri.ac.id/berita/magang-di-kementerian-koperasi/"
+    },
+    {
+      "title": "Kemendag: Art toys RI raih potensi transaksi Rp17 miliar di Korea - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 07:24:11 GMT",
+      "link": "https://www.antaranews.com/berita/5687432/kemendag-art-toys-ri-raih-potensi-transaksi-rp17-miliar-di-korea"
+    },
+    {
+      "title": "Siap Beli Saham BEI, Danantara: Masih Proses, Beberapa Bulan ke Depan Bisa Rampung - VIVA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 07:12:54 GMT",
+      "link": "https://www.viva.co.id/bisnis/1920315-siap-beli-saham-bei-danantara-masih-proses-beberapa-bulan-ke-depan-bisa-rampung"
+    },
     {
       "title": "Kemenkop RI dorong kolaborasi Pemkab Jayawijaya kembangkan koperasi - papua.antaranews.com",
       "entity": "Kementerian Koperasi",
@@ -128,76 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 06:16:07 GMT",
       "link": "https://ekonomi.republika.co.id/berita/tjjiqv370/danantara-siapkan-investasi-di-bei-besaran-porsi-belum-diungkap"
-    },
-    {
-      "title": "Kawendra Bantu Sarana Pendidikan Di Dua Lokasi di Jember - NusantaraTV",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Mon, 10 Aug 2026 06:10:50 GMT",
-      "link": "https://www.nusantaratv.com/news/kawendra-bantu-sarana-pendidikan-di-dua-lokasi-di-jember"
-    },
-    {
-      "title": "Lampung Selatan Raih Penghargaan Daerah Terbaik Dorong Koperasi Desa Merah Putih - netizenku.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 06:05:00 GMT",
-      "link": "https://netizenku.com/lampung-selatan-raih-penghargaan-daerah-terbaik-dorong-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Demutualisasi BEI, Danantara Bakal Ikut Beli Saham? - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 06:00:03 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260810114502-17-757889/demutualisasi-bei-danantara-bakal-ikut-beli-saham"
-    },
-    {
-      "title": "Bagaimana Kementerian Koperasi Mendorong UMKM Naik Kelas? - Universitas Sains dan Teknologi Komputer",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 06:00:01 GMT",
-      "link": "https://stekom.ac.id/en/article/bagaimana-kementerian-koperasi-mendorong-umkm-naik-kelas-20260810125602"
-    },
-    {
-      "title": "Percepatan Streamlining BUMN, 652 Entitas Ditargetkan Jadi 250 - Harapan Rakyat",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 05:52:35 GMT",
-      "link": "https://www.harapanrakyat.com/2026/08/percepatan-streamlining-bumn-652-entitas-ditargetkan-jadi-250/"
-    },
-    {
-      "title": "Siap-siap! BPI Danantara Beri Sinyal IPO BUMN Besar, Pegadaian hingga Pelindo Masuk Radar? - Deliknews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 04:54:00 GMT",
-      "link": "https://www.deliknews.com/2026/08/10/siap-siap-bpi-danantara-beri-sinyal-ipo-bumn-besar-pegadaian-hingga-pelindo-masuk-radar/"
-    },
-    {
-      "title": "BPI Danantara Siapkan Rencana IPO BUMN dalam Enam Bulan Ke Depan - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 04:38:18 GMT",
-      "link": "https://achmadnurhidayat.id/bpi-danantara-siapkan-ipo-bumn"
-    },
-    {
-      "title": "Bos Danantara Bicara soal Rencana IPO BUMN - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 04:30:21 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8611808/bos-danantara-bicara-soal-rencana-ipo-bumn"
-    },
-    {
-      "title": "Bos Danantara Bicara soal Rencana IPO BUMN - detikFinance",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 04:30:21 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8611808/bos-danantara-bicara-soal-rencana-ipo-bumn"
-    },
-    {
-      "title": "Kendaraan Investasi Danantara Buat Pegang Saham BEI - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 04:10:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/117779/kendaraan-investasi-danantara-buat-pegang-saham-bei"
     }
   ]
 }
