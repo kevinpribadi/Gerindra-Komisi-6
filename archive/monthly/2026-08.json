@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T17:53:19.549714",
+  "generated_at": "2026-08-10T18:53:39.629523",
   "party_counts_7d": {
     "Gerindra": 13,
     "PDI-P": 34,
-    "Golkar": 5,
+    "Golkar": 6,
     "NasDem": 10,
     "PKB": 21,
     "PKS": 12,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 62,
     "PDI-P": 86,
-    "Golkar": 64,
+    "Golkar": 65,
     "NasDem": 39,
     "PKB": 33,
     "PKS": 45,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
+    "bumn": 56,
     "investasi": 23,
     "danantara": 32,
-    "perdagangan": 10,
+    "perdagangan": 9,
     "kartel-monopoli": 6,
-    "umkm": 23,
+    "umkm": 24,
     "ekspor": 4,
     "koperasi": 68,
-    "ipo": 11,
+    "ipo": 12,
     "merger-akuisisi": 9,
     "impor": 3
   },
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 5,
+    "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -88,12 +88,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Koperasi/UMKM": 89,
+    "Koperasi/UMKM": 90,
     "Perdagangan": 15,
     "Konflik Publik": 7,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 20
   },
   "top_headlines": [
+    {
+      "title": "Danantara Siapkan IPO 4 BUMN Besar, Kajian Ditargetkan Rampung dalam 12 Bulan - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 18:17:00 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5448657/danantara-siapkan-ipo-4-bumn-besar-kajian-ditargetkan-rampung-dalam-12-bulan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5448657"
+    },
     {
       "title": "Inflasi Juli 2,88 Persen, Mendagri Tito Nilai Masih dalam Rentang Ideal — Batam Today - batamtoday.com",
       "entity": "Kementerian Perdagangan",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 11:54:14 GMT",
       "link": "https://jatim.antaranews.com/berita/1089072/avian-brands-perkuat-tata-kelola-perusahaan-lewat-program-dari-kppu"
-    },
-    {
-      "title": "Ini 10 Perusahaan Indonesia Siap Tampil di Saudi Fashion & Tex Expo 2026 - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 11:53:59 GMT",
-      "link": "https://www.niaga.asia/ini-10-perusahaan-indonesia-siap-tampil-pada-saudi-fashion-tex-expo-2026/"
     }
   ]
 }
