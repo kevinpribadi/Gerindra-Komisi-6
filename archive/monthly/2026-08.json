@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T11:05:48.259866",
+  "generated_at": "2026-08-10T13:01:16.815342",
   "party_counts_7d": {
     "Gerindra": 13,
     "PDI-P": 34,
     "Golkar": 5,
-    "NasDem": 11,
+    "NasDem": 10,
     "PKB": 21,
     "PKS": 12,
     "PAN": 10,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 87,
+    "PDI-P": 86,
     "Golkar": 66,
     "NasDem": 39,
     "PKB": 33,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "investasi": 24,
-    "danantara": 31,
-    "perdagangan": 11,
-    "umkm": 23,
-    "ekspor": 5,
-    "koperasi": 67,
+    "bumn": 54,
+    "investasi": 23,
+    "danantara": 32,
+    "perdagangan": 12,
+    "kartel-monopoli": 4,
+    "umkm": 24,
+    "ekspor": 4,
+    "koperasi": 68,
     "ipo": 9,
-    "kartel-monopoli": 3,
-    "merger-akuisisi": 9,
+    "merger-akuisisi": 10,
     "impor": 3
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 17,
     "Mulyadi": 11,
-    "Adisatrya Suryo Sulisto": 8,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -87,13 +87,83 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 7,
-    "Koperasi/UMKM": 88,
-    "Perdagangan": 18,
+    "Kinerja BUMN": 6,
+    "Koperasi/UMKM": 90,
+    "Perdagangan": 16,
     "Konflik Publik": 7,
-    "Hukum/Audit": 24
+    "Hukum/Audit": 23
   },
   "top_headlines": [
+    {
+      "title": "Perkuat Tata Kelola dan Persaingan Sehat, Avian Ikuti Program Kepatuhan KPPU - MetroTVNews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:36:44 GMT",
+      "link": "https://www.metrotvnews.com/read/NOlC9Ell-perkuat-tata-kelola-dan-persaingan-sehat-avian-ikuti-program-kepatuhan-kppu"
+    },
+    {
+      "title": "Bos Danantara Masih Diskusi dengan OJK soal Mekanisme Demutualisasi BEI - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:18:00 GMT",
+      "link": "https://infobanknews.com/bos-danantara-masih-diskusi-dengan-ojk-soal-mekanisme-demutualisasi-bei"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan mengusulkan standar baru untuk stasiun pengisian daya kendaraan listrik. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:13:39 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-xuat-quy-chuan-moi-ve-tram-sac-xe-dien"
+    },
+    {
+      "title": "KPPU Denda PT Semangat Logistik Andalan Rp2 Miliar atas Keterlambatan Notifikasi Akuisisi - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:10:26 GMT",
+      "link": "https://telusur.co.id/detail/kppu-denda-pt-semangat-logistik-andalan-rp2-miliar-atas-keterlambatan-notifikasi-akuisisi"
+    },
+    {
+      "title": "LPDB Koperasi Perluas Akses Dana Bergulir untuk Koperasi Sektor Riil - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 12:10:18 GMT",
+      "link": "https://www.metrotvnews.com/read/NLMC8oZy-lpdb-koperasi-perluas-akses-dana-bergulir-untuk-koperasi-sektor-riil"
+    },
+    {
+      "title": "Avian Brands perkuat tata kelola perusahaan lewat program dari KPPU - Antara News jatim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 11:54:14 GMT",
+      "link": "https://jatim.antaranews.com/berita/1089072/avian-brands-perkuat-tata-kelola-perusahaan-lewat-program-dari-kppu"
+    },
+    {
+      "title": "Ini 10 Perusahaan Indonesia Siap Tampil di Saudi Fashion & Tex Expo 2026 - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 11:53:59 GMT",
+      "link": "https://www.niaga.asia/ini-10-perusahaan-indonesia-siap-tampil-pada-saudi-fashion-tex-expo-2026/"
+    },
+    {
+      "title": "Kemendag dan Akademisi Bahas Intervensi Pemerintah dalam Menjaga Persaingan Usaha - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 11:11:36 GMT",
+      "link": "https://nasional.kontan.co.id/news/kemendag-dan-akademisi-bahas-intervensi-pemerintah-dalam-menjaga-persaingan-usaha"
+    },
+    {
+      "title": "Kemendag dan Akademisi Bahas Intervensi Pemerintah dalam Menjaga Persaingan Usaha - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 11:11:36 GMT",
+      "link": "https://nasional.kontan.co.id/news/kemendag-dan-akademisi-bahas-intervensi-pemerintah-dalam-menjaga-persaingan-usaha"
+    },
+    {
+      "title": "Aturan Demutualisasi BEI Segera Rampung, Danantara Siap Masuk - Kompas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 11:07:00 GMT",
+      "link": "https://www.kompas.id/artikel/aturan-demutualisasi-bei-segera-rampung-danantara-siap-masuk"
+    },
     {
       "title": "Apresiasi Penindakan Umrah Tanpa Izin di Sultra, BPKN: Perizinan Lapis Awal Perlindungan Konsumen - VIVA.co.id",
       "entity": "BPKN",
@@ -123,81 +193,11 @@
       "link": "https://radiodms.com/pasar-larat-jadi-polemik-pemda-kkt-dan-koperasi-yamdena-capai-kesepakatan/"
     },
     {
-      "title": "Denda Rp795 Miliar KPPU terhadap Fintech Disorot, Asas Proporsionalitas Dipertanyakan - Hukumonline",
-      "entity": "KPPU",
+      "title": "BPKN Apresiasi Penindakan Umrah Tanpa Izin di Sultra - RM.ID",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 09:12:32 GMT",
-      "link": "https://www.hukumonline.com/berita/a/denda-rp795-miliar-kppu-terhadap-fintech-disorot--asas-proporsionalitas-dipertanyakan-lt6a79944a9bd84/"
-    },
-    {
-      "title": "Danantara siapkan IPO BUMN dalam 6-12 bulan ke depan - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 08:48:25 GMT",
-      "link": "https://www.antaranews.com/berita/5687588/danantara-siapkan-ipo-bumn-dalam-6-12-bulan-ke-depan"
-    },
-    {
-      "title": "Danantara siapkan IPO BUMN dalam 6-12 bulan ke depan - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 08:48:25 GMT",
-      "link": "https://www.antaranews.com/berita/5687588/danantara-siapkan-ipo-bumn-dalam-6-12-bulan-ke-depan?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
-    },
-    {
-      "title": "Danantara Mau Bawa BUMN Melantai di BEI, Pandu: Buat Tambah Likuiditas - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 08:43:28 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260810154057-17-757995/danantara-mau-bawa-bumn-melantai-di-bei-pandu-buat-tambah-likuiditas"
-    },
-    {
-      "title": "Gandeng KPPU, AVIA Perkuat Budaya Kepatuhan Persaingan Usaha - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 08:10:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/10/151051121/gandeng-kppu-avia-perkuat-budaya-kepatuhan-persaingan-usaha"
-    },
-    {
-      "title": "Permendag 7/2026 tentang Sekolah Perdagangan - Kompasiana.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 08:00:12 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a79850cc925c43a47478324/permendag-7-2026-tentang-sekolah-perdagangan"
-    },
-    {
-      "title": "KPPU Batalkan Perkara Akuisisi karena LDP Gunakan Dasar Hukum yang Dicabut - Telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 07:50:43 GMT",
-      "link": "https://telusur.co.id/detail/kppu-batalkan-perkara-akuisisi-karena-ldp-gunakan-dasar-hukum-yang-dicabut"
-    },
-    {
-      "title": "Gus Rivqy Dorong PKPB Jember Lahirkan Kader PKB Militan dan Loyal sebagai Penggerak Partai - Radar Jember",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Mon, 10 Aug 2026 07:47:27 GMT",
-      "link": "https://radarjember.jawapos.com/jember/2608100014/gus-rivqy-dorong-pkpb-jember-lahirkan-kader-pkb-militan-dan-loyal-sebagai-penggerak-partai"
-    },
-    {
-      "title": "Magang di Kementerian Koperasi, Mahasiswa UNM Buktikan Talenta Digital Siap Hadapi Dunia Kerja - Universitas Nusa Mandiri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 07:27:55 GMT",
-      "link": "https://news.nusamandiri.ac.id/berita/magang-di-kementerian-koperasi/"
-    },
-    {
-      "title": "Kemendag: Art toys RI raih potensi transaksi Rp17 miliar di Korea - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 07:24:11 GMT",
-      "link": "https://www.antaranews.com/berita/5687432/kemendag-art-toys-ri-raih-potensi-transaksi-rp17-miliar-di-korea"
-    },
-    {
-      "title": "Siap Beli Saham BEI, Danantara: Masih Proses, Beberapa Bulan ke Depan Bisa Rampung - VIVA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 07:12:54 GMT",
-      "link": "https://www.viva.co.id/bisnis/1920315-siap-beli-saham-bei-danantara-masih-proses-beberapa-bulan-ke-depan-bisa-rampung"
+      "published": "Mon, 10 Aug 2026 10:20:00 GMT",
+      "link": "https://rm.id/baca-berita/nasional/321151/bpkn-apresiasi-penindakan-umrah-tanpa-izin-di-sultra"
     }
   ]
 }
