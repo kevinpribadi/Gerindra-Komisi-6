@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T03:51:38.264620",
+  "generated_at": "2026-08-10T05:23:44.459087",
   "party_counts_7d": {
-    "Gerindra": 13,
+    "Gerindra": 12,
     "PDI-P": 35,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 20,
-    "PKS": 15,
+    "PKS": 13,
     "PAN": 10,
     "Demokrat": 5
   },
@@ -16,8 +16,8 @@
     "PDI-P": 89,
     "Golkar": 66,
     "NasDem": 39,
-    "PKB": 34,
-    "PKS": 48,
+    "PKB": 33,
+    "PKS": 47,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "investasi": 20,
-    "danantara": 29,
+    "bumn": 54,
+    "investasi": 21,
+    "danantara": 30,
     "perdagangan": 11,
     "umkm": 22,
     "ekspor": 5,
     "koperasi": 64,
-    "ipo": 3,
+    "ipo": 9,
     "merger-akuisisi": 6,
     "kartel-monopoli": 2,
-    "impor": 5
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -73,12 +73,12 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
-    "Anggia Erma Rini": 10,
+    "Anggia Erma Rini": 9,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
-    "Rizal Bawazier": 15,
+    "Rizal Bawazier": 14,
     "Ismail": 17,
     "Eko Patrio": 3,
     "Iskandar": 20,
@@ -89,11 +89,46 @@
   "early_warning_counts": {
     "Kinerja BUMN": 7,
     "Koperasi/UMKM": 85,
-    "Perdagangan": 22,
+    "Perdagangan": 21,
     "Hukum/Audit": 26,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Siap-siap! BPI Danantara Beri Sinyal IPO BUMN Besar, Pegadaian hingga Pelindo Masuk Radar? - Deliknews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 04:54:00 GMT",
+      "link": "https://www.deliknews.com/2026/08/10/siap-siap-bpi-danantara-beri-sinyal-ipo-bumn-besar-pegadaian-hingga-pelindo-masuk-radar/"
+    },
+    {
+      "title": "BPI Danantara Siapkan Rencana IPO BUMN dalam Enam Bulan Ke Depan - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 04:38:18 GMT",
+      "link": "https://achmadnurhidayat.id/bpi-danantara-siapkan-ipo-bumn"
+    },
+    {
+      "title": "Bos Danantara Bicara soal Rencana IPO BUMN - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 04:30:21 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8611808/bos-danantara-bicara-soal-rencana-ipo-bumn"
+    },
+    {
+      "title": "Bos Danantara Bicara soal Rencana IPO BUMN - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 04:30:21 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8611808/bos-danantara-bicara-soal-rencana-ipo-bumn"
+    },
+    {
+      "title": "Kendaraan Investasi Danantara Buat Pegang Saham BEI - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 04:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/117779/kendaraan-investasi-danantara-buat-pegang-saham-bei"
+    },
     {
       "title": "Danantara soal Beli Saham BEI: Masih Proses - detikFinance",
       "entity": "Danantara",
@@ -121,6 +156,13 @@
       "kind": "anggota",
       "published": "Mon, 10 Aug 2026 02:48:41 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Mulyadi-Keterbatasan-Anggaran-Jangan-Hentikan-Perjuangan-Pemekaran-Bogor-Timur-67887"
+    },
+    {
+      "title": "Pawai Pembangunan HUT ke-81 RI Dimeriahkan BP Batam - Haluan Kepri - Haluan Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 02:30:00 GMT",
+      "link": "https://kepri.harianhaluan.com/daerah/amp/1317487080/pawai-pembangunan-hut-ke-81-ri-dimeriahkan-bp-batam"
     },
     {
       "title": "Bupati Rio Dorong Dekopinda Jadikan Koperasi Soko Guru Perekonomian Situbondo - ketik.com",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 23:12:32 GMT",
       "link": "https://nasional.kontan.co.id/news/danantara-suntik-rp-4475-triliun-ke-jbs-perkuat-rantai-pasok-daging"
-    },
-    {
-      "title": "BP Batam Tampilkan Tujuh Kedeputian di Pawai Pembangunan HUT RI ke-81 - Detaknews.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 23:04:06 GMT",
-      "link": "https://detaknews.co.id/2026/08/10/bp-batam-tampilkan-tujuh-kedeputian-di-pawai-pembangunan-hut-ri-ke-81/"
-    },
-    {
-      "title": "Bisakah Utang Kereta Cepat Tak Membebani APBN - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 23:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/bisakah-utang-kereta-cepat-tak-membebani-apbn-2281064"
-    },
-    {
-      "title": "Danantara Mulai Jajaki Pasar Daging Global - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 22:10:45 GMT",
-      "link": "https://insight.kontan.co.id/news/danantara-mulai-jajaki-pasar-daging-global"
-    },
-    {
-      "title": "KUD Situbondo Mati Suri, Anggota DPR RI Nasim Khan Dorong Revitalisasi dan Gandeng KDMP - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 09 Aug 2026 20:00:00 GMT",
-      "link": "https://ketik.com/situbondo/daerah/kud-situbondo-mati-suri-anggota-dpr-ri-nasim-khan-dorong-revitalisasi-dan-gandeng-kdmp"
-    },
-    {
-      "title": "Pawai Pembangunan HUT ke-81 RI, BP Batam Tampilkan Inovasi dan Layanan - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 13:51:49 GMT",
-      "link": "https://metropolis.batampos.co.id/pawai-pembangunan-hut-ke-81-ri-bp-batam-tampilkan-inovasi-dan-layanan/"
-    },
-    {
-      "title": "Inpres 2/2026, Percepat Swasembada Pangan Halaman 1 - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 13:27:30 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a78804234777c43de2f5116/inpres-2-2026-percepat-swasembada-pangan"
     }
   ]
 }
