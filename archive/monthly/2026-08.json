@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T14:55:09.948205",
+  "generated_at": "2026-08-10T15:58:00.470828",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 34,
@@ -8,13 +8,13 @@
     "NasDem": 10,
     "PKB": 21,
     "PKS": 12,
-    "PAN": 10,
+    "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 86,
-    "Golkar": 66,
+    "Golkar": 64,
     "NasDem": 39,
     "PKB": 33,
     "PKS": 45,
@@ -37,12 +37,12 @@
     "bumn": 55,
     "investasi": 23,
     "danantara": 32,
-    "perdagangan": 11,
+    "perdagangan": 10,
     "kartel-monopoli": 6,
     "umkm": 23,
     "ekspor": 4,
     "koperasi": 68,
-    "ipo": 10,
+    "ipo": 11,
     "merger-akuisisi": 9,
     "impor": 3
   },
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 7,
+    "Firnando Hadityo Ganinduto": 5,
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 20,
@@ -94,6 +94,20 @@
     "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Inflasi Juli 2,88 Persen, Mendagri Tito Nilai Masih dalam Rentang Ideal — Batam Today - batamtoday.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 15:11:16 GMT",
+      "link": "https://batamtoday.com/news/inflasi-juli-288-persen-mendagri-tito-nilai-masih-dalam-rentang-ideal"
+    },
+    {
+      "title": "Danantara Buka Rencana IPO BUMN, Pandu Sjahrir: Untuk Tambah Likuiditas - VOI.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 14:54:00 GMT",
+      "link": "https://voi.id/ekonomi/589061/danantara-buka-rencana-ipo-bumn-pandu-sjahrir-untuk-tambah-likuiditas"
+    },
     {
       "title": "Avian Brands Gandeng KPPU Perkuat Kepatuhan Persaingan Usaha - Warta Ekonomi",
       "entity": "KPPU",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 11:53:59 GMT",
       "link": "https://www.niaga.asia/ini-10-perusahaan-indonesia-siap-tampil-pada-saudi-fashion-tex-expo-2026/"
-    },
-    {
-      "title": "Kemendag dan Akademisi Bahas Intervensi Pemerintah dalam Menjaga Persaingan Usaha - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 11:11:36 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemendag-dan-akademisi-bahas-intervensi-pemerintah-dalam-menjaga-persaingan-usaha"
-    },
-    {
-      "title": "Kemendag dan Akademisi Bahas Intervensi Pemerintah dalam Menjaga Persaingan Usaha - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 11:11:36 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemendag-dan-akademisi-bahas-intervensi-pemerintah-dalam-menjaga-persaingan-usaha"
     }
   ]
 }
