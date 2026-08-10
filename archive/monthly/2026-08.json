@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-09T23:28:09.715382",
+  "generated_at": "2026-08-10T01:28:05.230645",
   "party_counts_7d": {
     "Gerindra": 12,
-    "PDI-P": 37,
+    "PDI-P": 35,
     "Golkar": 5,
     "NasDem": 11,
     "PKB": 20,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 58,
     "PDI-P": 89,
-    "Golkar": 67,
+    "Golkar": 66,
     "NasDem": 39,
     "PKB": 34,
     "PKS": 49,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "investasi": 21,
+    "bumn": 49,
+    "investasi": 20,
     "danantara": 29,
     "perdagangan": 11,
     "umkm": 22,
@@ -60,7 +60,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 17,
     "Totok Hedi Santosa": 1,
-    "Nurdin Halid": 13,
+    "Nurdin Halid": 12,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
@@ -94,6 +94,20 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Penghasilan Danantara Naik 400 Persen, Prabowo Minta Diaudit - waspada.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 01:22:10 GMT",
+      "link": "https://www.waspada.id/berita/penghasilan-danantara-naik-400-persen-prabowo-minta-diaudit"
+    },
+    {
+      "title": "Prabowo Sebut Pendapatan Danantara Naik 400 Persen, Dinilai Jadi Sinyal Positif Transformasi BUMN - stapo.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 00:22:28 GMT",
+      "link": "https://www.stapo.id/news/pendapatan-danantara/"
+    },
     {
       "title": "Perkuat Rantai Pasok Daging, Danantara Suntik Rp 44,75 Triliun ke JBS - kontan.co.id",
       "entity": "Danantara",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Sun, 09 Aug 2026 10:36:31 GMT",
       "link": "https://nasional.kontan.co.id/news/pendapatan-danantara-diklaim-naik-400-ekonom-soroti-kualitas-pertumbuhan"
-    },
-    {
-      "title": "Pendapatan Danantara Diklaim Naik 400%, Ekonom Soroti Kualitas Pertumbuhan - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 10:36:31 GMT",
-      "link": "https://nasional.kontan.co.id/news/pendapatan-danantara-diklaim-naik-400-ekonom-soroti-kualitas-pertumbuhan"
-    },
-    {
-      "title": "BPKN Apresiasi Telkom, Dorong Perlindungan Konsumen Digital - Upplan",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 09 Aug 2026 10:07:40 GMT",
-      "link": "https://www.upplan.sg/news/575f999415.html"
     }
   ]
 }
