@@ -2802,6 +2802,13 @@
                 "fetched_at": "2026-08-04T21:10:26.724232"
             },
             {
+                "title": "Ponpes Darul Amanah Jadi Pesantren Pertama yang Kunjungi Kompleks DPR/MPR RI - Medcom.id",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdG5scWFXWE9ENVB4UUptLS03dVVaSG1UXzdTb1R2dlVSbklTWWg4RlNXRHdSRGFVQ3A4ZVhuLURsMFdqLXZRSHNaMlpfMlV2TzNkb1VoNHd4RDdId19fYlN0SHZyekJTS05zRmNiZnJJXzdyX2h0YTEzTWltbi1NeF9MUm1NTEUyN0txX1RPTDlabUUtQXFSNmMtUUJuSmJEdUtxTExKU3RvT19zVFdUQnI3NXRPTDlaRFlfX3poNnhLTEUxcW5kY19pVkc3Sjg?oc=5",
+                "link_resolved": "https://www.medcom.id/pendidikan/news-pendidikan/VNxADldb-ponpes-darul-amanah-jadi-pesantren-pertama-yang-kunjungi-kompleks-dpr-mpr-ri",
+                "published": "Tue, 04 Aug 2026 15:16:00 GMT",
+                "fetched_at": "2026-08-10T21:38:48.933365"
+            },
+            {
                 "title": "Anggota DPR Firnando Hadityo Ganinduto Yakin Santri Darul Amanah Kendal Jadi Pemimpin Bangsa - JPNN.com Jakarta",
                 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUElEdlFWNVhHdW16S2hWZWw3T1VQLWp0bk9udmZtU3RlZm9TNENETXR5TmU0WVhLdVkxZHZ0NlZxOUoxVzFDNkMzbUt1VGoxY3pFbVZKa0hMemdPZ3pzbTU3bzZmS3lFa18tSGhpX3M4YllpS3VGUDVKWGtCbjFwR0I2d0dDekpGUzdOdUVHbHlEYjNFUmRWMDM2dW9mcEwyWTBIdEM2azNUZTFMd012a3ZWSndBZTUtV2ZidTZCckdBNmppc0FKQThn?oc=5",
                 "link_resolved": "https://jakarta.jpnn.com/politik/3162/anggota-dpr-firnando-hadityo-ganinduto-yakin-santri-darul-amanah-kendal-jadi-pemimpin-bangsa",
@@ -4185,7 +4192,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-10T19:53:46.806266",
+        "fetched_at": "2026-08-10T21:38:22.205021",
         "prev_close": 17912,
         "change_pct": -0.68
     },
@@ -4194,110 +4201,110 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-10T19:53:46.806266",
+        "fetched_at": "2026-08-10T21:38:22.205021",
         "prev_close": 6343.71,
         "change_pct": 1.04
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 3130,
+            "value": 3090,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 3040,
-            "change_pct": 2.96
+            "prev_close": 3130,
+            "change_pct": -1.28
         },
         "BMRI": {
-            "value": 4240,
+            "value": 4180,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Bank Mandiri",
-            "prev_close": 4200,
-            "change_pct": 0.95
+            "prev_close": 4240,
+            "change_pct": -1.42
         },
         "BBNI": {
-            "value": 3630,
+            "value": 3650,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3620,
-            "change_pct": 0.28
+            "prev_close": 3630,
+            "change_pct": 0.55
         },
         "BBTN": {
-            "value": 1230,
+            "value": 1235,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Bank Tabungan Negara",
-            "prev_close": 1220,
-            "change_pct": 0.82
+            "prev_close": 1230,
+            "change_pct": 0.41
         },
         "TLKM": {
-            "value": 2710,
+            "value": 2620,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Telkom Indonesia",
-            "prev_close": 2650,
-            "change_pct": 2.26
+            "prev_close": 2710,
+            "change_pct": -3.32
         },
         "SMGR": {
-            "value": 1620,
+            "value": 1610,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Semen Indonesia",
-            "prev_close": 1625,
-            "change_pct": -0.31
+            "prev_close": 1620,
+            "change_pct": -0.62
         },
         "ANTM": {
-            "value": 3160,
+            "value": 3140,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Aneka Tambang",
-            "prev_close": 3080,
-            "change_pct": 2.6
+            "prev_close": 3160,
+            "change_pct": -0.63
         },
         "PGAS": {
             "value": 1510,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Perusahaan Gas Negara",
-            "prev_close": 1505,
-            "change_pct": 0.33
+            "prev_close": 1510,
+            "change_pct": 0.0
         },
         "PTBA": {
-            "value": 2370,
+            "value": 2390,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Bukit Asam",
-            "prev_close": 2350,
-            "change_pct": 0.85
+            "prev_close": 2370,
+            "change_pct": 0.84
         },
         "JSMR": {
-            "value": 2790,
+            "value": 2770,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T19:53:46.806266",
+            "fetched_at": "2026-08-10T21:38:22.205021",
             "name": "Jasa Marga",
-            "prev_close": 2750,
-            "change_pct": 1.45
+            "prev_close": 2790,
+            "change_pct": -0.72
         }
     },
     "scrape_status": {
@@ -4306,5 +4313,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-10T19:53:46.806266"
+    "last_updated": "2026-08-10T21:38:22.205021"
 }
