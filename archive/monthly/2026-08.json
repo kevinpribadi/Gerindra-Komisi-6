@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T22:34:30.253522",
+  "generated_at": "2026-08-10T23:32:16.318459",
   "party_counts_7d": {
     "Gerindra": 13,
-    "PDI-P": 33,
+    "PDI-P": 32,
     "Golkar": 7,
     "NasDem": 10,
     "PKB": 21,
@@ -38,12 +38,12 @@
     "investasi": 24,
     "danantara": 31,
     "perdagangan": 9,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "umkm": 24,
     "ekspor": 4,
     "koperasi": 68,
     "ipo": 13,
-    "merger-akuisisi": 8,
+    "merger-akuisisi": 7,
     "impor": 3
   },
   "member_counts_30d": {
@@ -91,9 +91,16 @@
     "Koperasi/UMKM": 90,
     "Perdagangan": 16,
     "Konflik Publik": 7,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Emiten AVIA Tegaskan Kepatuhan Persaingan Usaha KPPU - Suara.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 10 Aug 2026 23:15:00 GMT",
+      "link": "https://www.suara.com/bisnis/2026/08/11/061500/emiten-avia-tegaskan-kepatuhan-persaingan-usaha-kppu"
+    },
     {
       "title": "Danantara Siapkan IPO 4 BUMN Besar, Kajian Ditargetkan Rampung dalam 12 Bulan - RCTI+",
       "entity": "Danantara",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 12:13:39 GMT",
       "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-xuat-quy-chuan-moi-ve-tram-sac-xe-dien"
-    },
-    {
-      "title": "KPPU Denda PT Semangat Logistik Andalan Rp2 Miliar atas Keterlambatan Notifikasi Akuisisi - Telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 12:10:26 GMT",
-      "link": "https://telusur.co.id/detail/kppu-denda-pt-semangat-logistik-andalan-rp2-miliar-atas-keterlambatan-notifikasi-akuisisi"
     }
   ]
 }

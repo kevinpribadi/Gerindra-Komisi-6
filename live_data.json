@@ -712,6 +712,13 @@
         ],
         "KPPU": [
             {
+                "title": "Emiten AVIA Tegaskan Kepatuhan Persaingan Usaha KPPU - Suara.com",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVVVY19FTzlYTGdCbFpUSEhHTmpQajJXOWxSdHFNT29Ib0VBc3lSUW54enRZYXg5N1lUbjZTM1g3M2FqR244RS03aEl4NlZFdm91WmdSNFFkeURGbGU2LUp3M3pQUGZqdl9wNWY4OEh0VWc0YTZ4MmQtVElwZWNTUHZKS3VaV3liRTRpUnFrSGJ3QjdxZmQ3Y0F6ODdWZXRz0gGgAUFVX3lxTFBKclh5S0RldE5YWFg4YndHUXRmOGpwLWNxMjJFLUo0OUhrNkNnSWZielk0aVd6NEpXd3V0RVk5STJZVERHZXc4dUx2U3ZBTHRONWc1U1Nkc3JIR2ZsZFFNd2NlVjJSMWREZ2RnMERlTXB0OU9oZ2xqTzh1aTE3MUxFaW5uZm95RlNHYklma0tqVTVtcUxDczFsZWZWQzNxVDQ?oc=5",
+                "link_resolved": "https://www.suara.com/bisnis/2026/08/11/061500/emiten-avia-tegaskan-kepatuhan-persaingan-usaha-kppu",
+                "published": "Mon, 10 Aug 2026 23:15:00 GMT",
+                "fetched_at": "2026-08-10T23:32:19.141321"
+            },
+            {
                 "title": "Avian Brands Gandeng KPPU Perkuat Kepatuhan Persaingan Usaha - Warta Ekonomi",
                 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ21ELVpvQzhMNmZkempocDdlWGF5eGpoSW9hc0lWUk1qQjNrLVlDRURPeVNtOEs2WS12NDhGcWtFYzhXME9CUXFocEVxTHVUVWtUT2ctbWZLaXIzeTAyVEE1RmJ3eXFpbW1IYXNMRGVSa2RnVV80OVA1bFEyVTFHU3h3S29vLXF5S1JmMjVmWnNRUFcwTF93bzlEQl93eXfSAaQBQVVfeXFMTkZxMHFMTUlxUTMzT1NGdGRaOFdsNVQxbmwwZjJEYjhwZzFpLWkxVkZrM0NqNTllMlliRGdJYTJmVEhONDktZE5hSWtiXzFjY2JNTWVteVp1LUdFck42NFZlaENfa1p0UjYzaHBOSTdZcXVrRkxMUm93NzhDR3dMaWdFNmZFcmM1ZDBLMzNvMXBWdUdhd1MxRHVJMmZpUm9IUW95NTI?oc=5",
                 "link_resolved": "https://wartaekonomi.co.id/read627779/avian-brands-gandeng-kppu-perkuat-kepatuhan-persaingan-usaha",
@@ -843,13 +850,6 @@
                 "link_resolved": "https://www.gerbangkaltim.com/kppu-batalkan-perkara-akuisisi-iforte-ini-alasannya/",
                 "published": "Sat, 08 Aug 2026 00:52:25 GMT",
                 "fetched_at": "2026-08-08T01:21:14.772244"
-            },
-            {
-                "title": "KPPU Sidangkan Dugaan Keterlambatan Notifikasi Akuisisi Mandala Multifinance oleh MUFG Bank - kanalsatu.com",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWNQNUdtejItZW43QmVEMG4xSUxnenN6V3ZhNWg4R29mZGhUbWt1WUpYTG5wbVdBLUhLdVR1WlluZWMxa0p6S0dQMWVLQTh4WXBRNUppXzJCM2tnb0FoVWJUeFFjWl9vdjN5b0UxX01ZSjdIaWZZa1ZodWxSVUlsREpneS1WaE54M2hhZUU1WFlLakNraTNYOXNlZ1J1dVg5MGVPd3JZMDV2QVdVQXRmRTVzc2Q1eHl3MXdnSVRSRF9hbGdTeHc?oc=5",
-                "link_resolved": "https://kanalsatu.com/id/post/68743/kppu-sidangkan-dugaan-keterlambatan-notifikasi-akuisisi-mandala-multifinance-oleh-mufg-bank",
-                "published": "Fri, 07 Aug 2026 09:24:00 GMT",
-                "fetched_at": "2026-08-07T09:58:53.028030"
             }
         ],
         "BP Batam": [
@@ -4181,20 +4181,20 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17790,
+        "value": 17794,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-10T22:34:30.253522",
+        "fetched_at": "2026-08-10T23:32:16.318459",
         "prev_close": 17912,
-        "change_pct": -0.68
+        "change_pct": -0.66
     },
     "ihsg": {
         "value": 6409.65,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-10T22:34:30.253522",
+        "fetched_at": "2026-08-10T23:32:16.318459",
         "prev_close": 6343.71,
         "change_pct": 1.04
     },
@@ -4204,7 +4204,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3130,
             "change_pct": -1.28
@@ -4214,7 +4214,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Bank Mandiri",
             "prev_close": 4240,
             "change_pct": -1.42
@@ -4224,7 +4224,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Bank Negara Indonesia",
             "prev_close": 3630,
             "change_pct": 0.55
@@ -4234,7 +4234,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Bank Tabungan Negara",
             "prev_close": 1230,
             "change_pct": 0.41
@@ -4244,7 +4244,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Telkom Indonesia",
             "prev_close": 2710,
             "change_pct": -3.32
@@ -4254,7 +4254,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Semen Indonesia",
             "prev_close": 1620,
             "change_pct": -0.62
@@ -4264,7 +4264,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Aneka Tambang",
             "prev_close": 3160,
             "change_pct": -0.63
@@ -4274,7 +4274,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1510,
             "change_pct": 0.0
@@ -4284,7 +4284,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Bukit Asam",
             "prev_close": 2370,
             "change_pct": 0.84
@@ -4294,7 +4294,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-10T22:34:30.253522",
+            "fetched_at": "2026-08-10T23:32:16.318459",
             "name": "Jasa Marga",
             "prev_close": 2790,
             "change_pct": -0.72
@@ -4306,5 +4306,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-10T22:34:30.253522"
+    "last_updated": "2026-08-10T23:32:16.318459"
 }
