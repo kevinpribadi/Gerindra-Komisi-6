@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T12:57:40.266088",
+  "generated_at": "2026-08-11T14:21:15.571334",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 32,
+    "PDI-P": 33,
     "Golkar": 3,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 12,
+    "PKS": 11,
     "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 86,
+    "PDI-P": 85,
     "Golkar": 65,
     "NasDem": 37,
-    "PKB": 33,
+    "PKB": 31,
     "PKS": 47,
     "PAN": 23,
     "Demokrat": 30
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
-    "investasi": 19,
+    "bumn": 60,
+    "investasi": 20,
     "danantara": 35,
     "ekspor": 11,
     "perdagangan": 5,
     "koperasi": 68,
-    "umkm": 23,
+    "umkm": 22,
     "ipo": 15,
     "kartel-monopoli": 7,
     "merger-akuisisi": 6,
@@ -58,7 +58,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 18,
     "Nurdin Halid": 11,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
@@ -73,7 +73,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
     "Anggia Erma Rini": 8,
-    "Rivqy Abdul Halim": 3,
+    "Rivqy Abdul Halim": 1,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 15,
@@ -89,11 +89,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 6,
     "Perdagangan": 23,
-    "Koperasi/UMKM": 88,
+    "Koperasi/UMKM": 86,
     "Konflik Publik": 7,
-    "Hukum/Audit": 19
+    "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Sejahterakan Petani - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 13:32:35 GMT",
+      "link": "https://news.detik.com/berita/d-8614339/menkop-dorong-hilirisasi-sawit-berbasis-koperasi-untuk-sejahterakan-petani"
+    },
+    {
+      "title": "Promo Minuman Beralkohol Gratis Pakai Hafalan Al-Qur'an, BPKN RI: Promosi Miras Jangan Eksploitasi Simbol Agama - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 13:25:00 GMT",
+      "link": "https://www.mediakarya.id/promo-minuman-beralkohol-gratis-pakai-hafalan-al-quran-bpkn-ri-promosi-miras-jangan-eksploitasi-simbol-agama/"
+    },
     {
       "title": "Menkop: Hilirisasi Kelapa Sawit Berbasis Koperasi Perkuat Daya Tawar Petani - Indonesiadaily.net",
       "entity": "Kementerian Koperasi",
@@ -151,6 +165,13 @@
       "link": "https://kumparan.com/kumparannews/andre-rosiade-komisi-vi-dorong-solusi-pekerja-pt-pos-bersama-danantara-27xvWAYksWU"
     },
     {
+      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Komisi VI DPR Tekankan Pentingnya Kesehatan Perusahaan - Suara Investor",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 10:13:09 GMT",
+      "link": "https://www.suarainvestor.com/soal-274-bumn-ditutup-ida-nurlaela-komisi-vi-dpr-tekankan-pentingnya-kesehatan-perusahaan/"
+    },
+    {
       "title": "Garut Tak Sekadar Swiss van Java, Husein Fadlulloh Dorong Potensi Ekonomi Naik Kelas ke Dunia - kabarpolitik.com",
       "entity": "Muhammad Husein Fadlulloh",
       "kind": "anggota",
@@ -177,27 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 11 Aug 2026 09:26:54 GMT",
       "link": "https://news.detik.com/berita/d-8613904/andre-rosiade-kecam-promosi-hafal-quran-berhadiah-miras-penistaan"
-    },
-    {
-      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Tekankan Pentingnya Kesehatan Perusahaan - DPR RI",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 09:25:45 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soal-274-BUMN-Ditutup-Ida-Nurlaela-Tekankan-Pentingnya-Kesehatan-Perusahaan-67922"
-    },
-    {
-      "title": "Ekspor Melonjak, Defisit Neraca Perdagangan RI Juni 2026 Menyempit Jadi US$ 0,45 Miliar - VOI.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 09:05:00 GMT",
-      "link": "https://voi.id/ekonomi/589154/ekspor-melonjak-defisit-neraca-perdagangan-ri-juni-2026-menyempit-jadi-usdollar-0-45-miliar"
-    },
-    {
-      "title": "Ghufran Minta Tenaga Kerja Konstruksi Aceh Siap Kawal Rehabilitasi dan Rekonstruksi - nukilan.id",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 08:56:14 GMT",
-      "link": "https://nukilan.id/ghufran-minta-tenaga-kerja-konstruksi-aceh-siap-kawal-rehabilitasi-dan-rekonstruksi/"
     }
   ]
 }
