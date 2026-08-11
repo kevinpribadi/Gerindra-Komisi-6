@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T11:41:32.466913",
+  "generated_at": "2026-08-11T12:57:40.266088",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 32,
     "Golkar": 3,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 11,
+    "PKS": 12,
     "PAN": 3,
     "Demokrat": 4
   },
@@ -17,7 +17,7 @@
     "Golkar": 65,
     "NasDem": 37,
     "PKB": 33,
-    "PKS": 46,
+    "PKS": 47,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -37,8 +37,8 @@
     "bumn": 59,
     "investasi": 19,
     "danantara": 35,
-    "ekspor": 10,
-    "perdagangan": 6,
+    "ekspor": 11,
+    "perdagangan": 5,
     "koperasi": 68,
     "umkm": 23,
     "ipo": 15,
@@ -76,7 +76,7 @@
     "Rivqy Abdul Halim": 3,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 14,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 14,
     "Ghufran": 1,
     "Ismail": 17,
@@ -88,12 +88,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 22,
+    "Perdagangan": 23,
     "Koperasi/UMKM": 88,
     "Konflik Publik": 7,
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Hilirisasi Kelapa Sawit Berbasis Koperasi Perkuat Daya Tawar Petani - Indonesiadaily.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 12:51:07 GMT",
+      "link": "https://indonesiadaily.net/2026/08/menkop-hilirisasi-kelapa-sawit-berbasis-koperasi-perkuat-daya-tawar-petani/"
+    },
+    {
+      "title": "Menteri Koperasi Dirut Agrinas Palma Nusantara Bahas Masa Depan Sawit Berbasis Koperasi, Muba Jadi Contoh Hilirisasi sawit Berbasis Koperasi - Suara Publik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 12:28:48 GMT",
+      "link": "https://suarapublik.id/menteri-koperasi-dirut-agrinas-palma-nusantara-bahas-masa-depan-sawit-berbasis-koperasi-muba-jadi-contoh-hilirisasi-sawit-berbasis-koperasi/"
+    },
+    {
+      "title": "Kemendag: Nilai Ekspor Nonmigas Capai US$ 24,39 M di Juni atau Naik 8,68% dari Mei 2026 - Iconomics",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 12:23:41 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemendag-nilai-ekspor-nonmigas-capai-us-2439-m-di-juni-atau-naik-868-dari-mei-2026/"
+    },
+    {
+      "title": "Skema Pembiayaan Kopdeskel Merah Putih Masih Disusun, Ini Penjelasan Kemenkop - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 11:37:53 GMT",
+      "link": "https://nasional.kontan.co.id/news/skema-pembiayaan-kopdeskel-merah-putih-masih-disusun-ini-penjelasan-kemenkop"
+    },
     {
       "title": "Andre Rosiade Terima Aspirasi Serikat Pekerja PT Pos, Dorong Solusi Bersama Danantara - detikNews",
       "entity": "Andre Rosiade",
@@ -170,34 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 11 Aug 2026 08:56:14 GMT",
       "link": "https://nukilan.id/ghufran-minta-tenaga-kerja-konstruksi-aceh-siap-kawal-rehabilitasi-dan-rekonstruksi/"
-    },
-    {
-      "title": "Mulai dari Tukang Cukur hingga Konektivitas, Garut Miliki Segudang Potensi Mancanegara - Inilah.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 08:52:00 GMT",
-      "link": "https://www.inilah.com/mulai-dari-tukang-cukur-hingga-konektivitas-garut-miliki-segudang-potensi-mancanegara"
-    },
-    {
-      "title": "Mendag Menerima Kunjungan Wakil Menteri Luar Negeri - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 08:51:42 GMT",
-      "link": "https://www.hetanews.com/article/310019/mendag-menerima-kunjungan-wakil-menteri-luar-negeri"
-    },
-    {
-      "title": "Wamendag Keluarkan Jurus Ini Kejar Target Ekspor RI US$315 Miliar - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 08:45:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260811134000-4-758274/wamendag-keluarkan-jurus-ini-kejar-target-ekspor-ri-us-315-miliar"
-    },
-    {
-      "title": "Di Acara Gerak Jalan Harkopnas, Ketua DPRD Bogor Apresiasi Peran Koperasi - Tempo.co",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 08:41:03 GMT",
-      "link": "https://www.tempo.co/info-tempo/di-acara-gerak-jalan-harkopnas-ketua-dprd-bogor-apresiasi-peran-koperasi-2281360"
     }
   ]
 }
