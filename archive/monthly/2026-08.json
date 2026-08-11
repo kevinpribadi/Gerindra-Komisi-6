@@ -1,19 +1,19 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T01:26:00.331822",
+  "generated_at": "2026-08-11T03:41:14.831682",
   "party_counts_7d": {
-    "Gerindra": 13,
-    "PDI-P": 33,
+    "Gerindra": 14,
+    "PDI-P": 32,
     "Golkar": 7,
     "NasDem": 10,
     "PKB": 21,
     "PKS": 12,
-    "PAN": 6,
+    "PAN": 4,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 62,
-    "PDI-P": 86,
+    "Gerindra": 63,
+    "PDI-P": 87,
     "Golkar": 66,
     "NasDem": 38,
     "PKB": 33,
@@ -34,31 +34,31 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "investasi": 23,
-    "danantara": 31,
-    "perdagangan": 8,
+    "bumn": 60,
+    "investasi": 21,
+    "danantara": 33,
+    "perdagangan": 7,
     "kartel-monopoli": 8,
-    "umkm": 25,
-    "ekspor": 4,
+    "umkm": 24,
     "koperasi": 68,
-    "ipo": 13,
+    "ipo": 17,
     "merger-akuisisi": 7,
-    "impor": 3
+    "impor": 3,
+    "ekspor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 17,
+    "Ida Nurlaela": 18,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 12,
     "Gde Sumarjaya Linggih": 20,
@@ -88,12 +88,89 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Koperasi/UMKM": 90,
-    "Perdagangan": 16,
+    "Koperasi/UMKM": 89,
     "Konflik Publik": 7,
+    "Perdagangan": 15,
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Anggota DPR Kecam Promosi Miras \"Newport\" Pakai Ayat Suci Al Quran - Towa.co.id",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 03:33:19 GMT",
+      "link": "https://towa.co.id/postingan/anggota-dpr-kecam-promosi-miras-newport-pakai-ayat-suci-al-quran"
+    },
+    {
+      "title": "BPKN Soroti Promosi Miras Pakai Hafalan Al-Qur’an: Jangan Jadikan Simbol Agama sebagai Gimmick - Malang Pariwara",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 03:04:45 GMT",
+      "link": "https://malangpariwara.com/2026/08/11/bpkn-soroti-promosi-miras-pakai-hafalan-al-quran-jangan-jadikan-simbol-agama-sebagai-gimmick/"
+    },
+    {
+      "title": "​Danantara Matangkan Rencana IPO Sejumlah BUMN, Pegadaian hingga InJourney Masuk Radar - rmoljatim",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 02:39:00 GMT",
+      "link": "https://www.rmoljatim.id/danantara-matangkan-rencana-ipo-sejumlah-bumn-pegadaian-hingga-injourney-masuk-radar"
+    },
+    {
+      "title": "​Danantara Matangkan Rencana IPO Sejumlah BUMN, Pegadaian hingga InJourney Masuk Radar - rmoljatim",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 02:39:00 GMT",
+      "link": "https://www.rmoljatim.id/danantara-matangkan-rencana-ipo-sejumlah-bumn-pegadaian-hingga-injourney-masuk-radar"
+    },
+    {
+      "title": "Singapura Kerek Proyeksi Pertumbuhan Ekonomi 2026 Jadi 4,5%-5,5% - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 02:19:39 GMT",
+      "link": "https://internasional.kontan.co.id/news/singapura-kerek-proyeksi-pertumbuhan-ekonomi-2026-jadi-45-55"
+    },
+    {
+      "title": "Kemendag Gencarkan Promosi Dagang di Arab Saudi - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 02:11:45 GMT",
+      "link": "https://www.niaga.asia/kemendag-gencarkan-promosi-dagang-di-arab-saudi/"
+    },
+    {
+      "title": "Danantara Siapkan IPO BUMN, Pegadaian hingga InJourney Masuk Daftar? - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 01:44:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/11/717799/danantara-siapkan-ipo-bumn--pegadaian-hingga-injourney-masuk-daftar-"
+    },
+    {
+      "title": "Danantara Siapkan IPO BUMN, Pegadaian hingga InJourney Masuk Daftar? - Rmol.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 01:44:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/11/717799/danantara-siapkan-ipo-bumn--pegadaian-hingga-injourney-masuk-daftar-"
+    },
+    {
+      "title": "BPKN Ingin Perlindungan Jemaah Haji-Umrah Terus Diperkuat - metrotvnews.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 01:37:43 GMT",
+      "link": "https://www.metrotvnews.com/read/bJECjmxW-bpkn-ingin-perlindungan-jemaah-haji-umrah-terus-diperkuat"
+    },
+    {
+      "title": "Dukung Penyehatan BUMN, Akom VI: Jangan Hanya Mengurangi Jumlah, Tapi Harus Beri Manfaat - Kedai Pena",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 01:13:34 GMT",
+      "link": "https://www.kedaipena.com/dukung-penyehatan-bumn-akom-vi-jangan-hanya-mengurangi-jumlah-tapi-harus-beri-manfaat/"
+    },
+    {
+      "title": "BPKN: Perlindungan terhadap jamaah haji-umrah harus terus diperkuat - ANTARA News Sulteng",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 00:48:45 GMT",
+      "link": "https://sulteng.antaranews.com/berita/389681/bpkn-perlindungan-terhadap-jamaah-haji-umrah-harus-terus-diperkuat"
+    },
     {
       "title": "BPKN: Perlindungan terhadap jamaah haji-umrah harus terus diperkuat - ANTARA News",
       "entity": "BPKN",
@@ -121,83 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 23:15:00 GMT",
       "link": "https://www.suara.com/bisnis/2026/08/11/061500/emiten-avia-tegaskan-kepatuhan-persaingan-usaha-kppu"
-    },
-    {
-      "title": "Danantara Siapkan IPO 4 BUMN Besar, Kajian Ditargetkan Rampung dalam 12 Bulan - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 18:17:00 GMT",
-      "link": "https://rctiplus.com/news/detail/terkini/5448657/danantara-siapkan-ipo-4-bumn-besar-kajian-ditargetkan-rampung-dalam-12-bulan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5448657"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 17:05:37 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260811/MTEyNg%3D%3D"
-    },
-    {
-      "title": "DIM Investasikan US$ 2,5 M untuk Bermitra Strategis dengan JBS Group - Iconomics",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 16:45:45 GMT",
-      "link": "https://www.theiconomics.com/accelerated-growth/dim-investasikan-us-25-m-untuk-bermitra-strategis-dengan-jbs-group/"
-    },
-    {
-      "title": "Inflasi Juli 2,88 Persen, Mendagri Tito Nilai Masih dalam Rentang Ideal — Batam Today - batamtoday.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 15:11:16 GMT",
-      "link": "https://batamtoday.com/news/inflasi-juli-288-persen-mendagri-tito-nilai-masih-dalam-rentang-ideal"
-    },
-    {
-      "title": "Danantara Buka Rencana IPO BUMN, Pandu Sjahrir: Untuk Tambah Likuiditas - VOI.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 14:54:00 GMT",
-      "link": "https://voi.id/ekonomi/589061/danantara-buka-rencana-ipo-bumn-pandu-sjahrir-untuk-tambah-likuiditas"
-    },
-    {
-      "title": "Avian Brands Gandeng KPPU Perkuat Kepatuhan Persaingan Usaha - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 14:16:00 GMT",
-      "link": "https://wartaekonomi.co.id/read627779/avian-brands-gandeng-kppu-perkuat-kepatuhan-persaingan-usaha"
-    },
-    {
-      "title": "IPO BUMN Disiapkan Danantara, Simak Daftar Perusahaan Potensial - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 14:05:02 GMT",
-      "link": "https://www.metrotvnews.com/read/b7WCmvBX-ipo-bumn-disiapkan-danantara-simak-daftar-perusahaan-potensial"
-    },
-    {
-      "title": "KPPU Denda PT Semangat Logistik Andalan Rp2 Miliar atas Keterlambatan Notifikasi Akuisisi - pasardana.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 13:14:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/10/kppu-denda-pt-semangat-logistik-andalan-rp2-miliar-atas-keterlambatan-notifikasi-akuisisi"
-    },
-    {
-      "title": "Kebijakan Berdampak pada Persaingan Usaha, KPPU Diminta Tak Hanya Bertindak di Akhir - Hukumonline",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 13:04:29 GMT",
-      "link": "https://www.hukumonline.com/berita/a/kebijakan-berdampak-pada-persaingan-usaha--kppu-diminta-tak-hanya-bertindak-di-akhir-lt6a79c90dce061/"
-    },
-    {
-      "title": "Inflasi Juli 2,88 Persen, Mendagri Tito Nilai Masih dalam Rentang Ideal - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 13:00:35 GMT",
-      "link": "https://indoposco.id/2026/08/10/inflasi-juli-288-persen-mendagri-tito-nilai-masih-dalam-rentang-ideal/"
-    },
-    {
-      "title": "Avian Brands Gandeng KPPU, Demi Jaga Kepatuhan Persaingan Usaha - industri.kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 12:42:59 GMT",
-      "link": "https://industri.kontan.co.id/news/avian-brands-gandeng-kppu-avia-perkuat-kepatuhan-persaingan-usaha"
     }
   ]
 }
