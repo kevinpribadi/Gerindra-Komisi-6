@@ -1,18 +1,18 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T07:02:32.887955",
+  "generated_at": "2026-08-11T08:51:53.677631",
   "party_counts_7d": {
-    "Gerindra": 13,
+    "Gerindra": 12,
     "PDI-P": 31,
     "Golkar": 7,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 11,
-    "PAN": 4,
+    "PKS": 10,
+    "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 63,
+    "Gerindra": 64,
     "PDI-P": 85,
     "Golkar": 65,
     "NasDem": 38,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
+    "bumn": 58,
     "investasi": 19,
     "danantara": 33,
-    "ekspor": 5,
+    "ekspor": 7,
     "perdagangan": 6,
     "kartel-monopoli": 8,
     "umkm": 24,
     "koperasi": 68,
-    "ipo": 17,
+    "ipo": 15,
     "merger-akuisisi": 6,
     "impor": 3
   },
@@ -51,7 +51,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 6,
     "Mufti Anam": 14,
@@ -87,12 +87,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 17,
+    "Perdagangan": 19,
     "Koperasi/UMKM": 89,
     "Konflik Publik": 7,
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Di Acara Gerak Jalan Harkopnas, Ketua DPRD Bogor Apresiasi Peran Koperasi - Tempo.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:41:03 GMT",
+      "link": "https://www.tempo.co/info-tempo/di-acara-gerak-jalan-harkopnas-ketua-dprd-bogor-apresiasi-peran-koperasi-2281360"
+    },
+    {
+      "title": "Jajaki Kerja Sama, Ombudsman RI Terima Audiensi KPPU - Ombudsman Republik Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:40:13 GMT",
+      "link": "https://ombudsman.go.id/news/r/jajaki-kerja-sama-ombudsman-ri-terima-audiensi-kppu"
+    },
+    {
+      "title": "Danantara Dorong Transfer Teknologi dalam Investasi Material Maju - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:16:06 GMT",
+      "link": "https://www.metrotvnews.com/read/NG9CzOqj-danantara-dorong-transfer-teknologi-dalam-investasi-material-maju"
+    },
+    {
+      "title": "Timur Tengah Ditarget Jadi Pasar Produk Mamin Halal RI, Ini Alasannya - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 07:55:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260811141746-4-758290/timur-tengah-ditarget-jadi-pasar-produk-mamin-halal-ri-ini-alasannya"
+    },
+    {
+      "title": "Kemendag Bidik Nilai Ekspor Tumbuh 6,9% di 2026, Ini Sektor Unggulannya - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 07:50:28 GMT",
+      "link": "https://www.metrotvnews.com/read/NnjCWEj4-kemendag-bidik-nilai-ekspor-tumbuh-6-9-di-2026-ini-sektor-unggulannya"
+    },
+    {
+      "title": "Kemenkop: Skema Pembiayaan Kopdes Merah Putih Masih Tunggu Aturan Tata Kelola - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 07:19:42 GMT",
+      "link": "https://nasional.kontan.co.id/news/kemenkop-skema-pembiayaan-kopdes-merah-putih-masih-tunggu-aturan-tata-kelola"
+    },
+    {
+      "title": "Aksi promosi minuman beralkohol merek New Port dengan menggunakan hafalan Surah Ad-Dhuha dalam festival musik Sounds Project di Ancol, Jakarta, menuai kecaman sejumlah anggota DPR. Dalam kegiatan yang berlangsung pada 7–9 Agustus 2026 t - facebook.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 07:17:10 GMT",
+      "link": "https://www.facebook.com/medandailynews/photos/aksi-promosi-minuman-beralkohol-merek-new-port-dengan-menggunakan-hafalan-surah-/1505333154960611/"
+    },
     {
       "title": "O!Save Masuk Indonesia, Kementerian UMKM Serahkan Pengawasan ke KPPU - Bisnis.com - Ekonomi",
       "entity": "KPPU",
@@ -115,6 +164,13 @@
       "link": "https://www.vibizmedia.com/index.php/2026/08/11/ekspor-nonmigas-menguat-indonesia-kejar-surplus-perdagangan/"
     },
     {
+      "title": "Ekspor Mamin RI Kalah dari Thailand-Vietnam, Ini Langkah Kemendag - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 06:25:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260811/12/1995292/ekspor-mamin-ri-kalah-dari-thailand-vietnam-ini-langkah-kemendag"
+    },
+    {
       "title": "Kemendag Bidik Ekspansi Produk Makanan-Minuman Halal RI ke Timur Tengah - kumparan.com - Kumparan.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -129,74 +185,18 @@
       "link": "https://nasional.tvrinews.com/berita/tmjfnm4-ekspor-nonmigas-naik-868-persen-mendag-optimistis-neraca-perdagangan-membaik"
     },
     {
+      "title": "10 Perusahaan Fesyen Indonesia Tembus Saudi Fashion & Tex Expo 2026 — Batam Today - Batamtoday.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 05:50:17 GMT",
+      "link": "https://batamtoday.com/news/10-perusahaan-fesyen-indonesia-tembus-saudi-fashion-tex-expo-2026"
+    },
+    {
       "title": "Legislator Kecam Promosi Newport Kutip Ayat Al-Qur'an - Validnews",
       "entity": "BPKN",
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 05:45:00 GMT",
       "link": "https://www.validnews.id/nasional/2026/08/11/legislator-kecam-promosi-newport-kutip-ayat-al-quran-124500126"
-    },
-    {
-      "title": "BPKN Ingatkan Jemaah Umrah Cek Legalitas Biro Perjalanan - batampos.jawapos.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 04:30:08 GMT",
-      "link": "https://batampos.jawapos.com/amp/nasional/2608110015/bpkn-ingatkan-jemaah-umrah-cek-legalitas-biro-perjalanan"
-    },
-    {
-      "title": "Anggota DPR Kecam Promosi Miras \"Newport\" Pakai Ayat Suci Al Quran - Towa.co.id",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 03:33:19 GMT",
-      "link": "https://towa.co.id/postingan/anggota-dpr-kecam-promosi-miras-newport-pakai-ayat-suci-al-quran"
-    },
-    {
-      "title": "BPKN Soroti Promosi Miras Pakai Hafalan Al-Qur’an: Jangan Jadikan Simbol Agama sebagai Gimmick - Malang Pariwara",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 03:04:45 GMT",
-      "link": "https://malangpariwara.com/2026/08/11/bpkn-soroti-promosi-miras-pakai-hafalan-al-quran-jangan-jadikan-simbol-agama-sebagai-gimmick/"
-    },
-    {
-      "title": "​Danantara Matangkan Rencana IPO Sejumlah BUMN, Pegadaian hingga InJourney Masuk Radar - rmoljatim",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 02:39:00 GMT",
-      "link": "https://www.rmoljatim.id/danantara-matangkan-rencana-ipo-sejumlah-bumn-pegadaian-hingga-injourney-masuk-radar"
-    },
-    {
-      "title": "​Danantara Matangkan Rencana IPO Sejumlah BUMN, Pegadaian hingga InJourney Masuk Radar - rmoljatim",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 02:39:00 GMT",
-      "link": "https://www.rmoljatim.id/danantara-matangkan-rencana-ipo-sejumlah-bumn-pegadaian-hingga-injourney-masuk-radar"
-    },
-    {
-      "title": "Singapura Kerek Proyeksi Pertumbuhan Ekonomi 2026 Jadi 4,5%-5,5% - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 02:19:39 GMT",
-      "link": "https://internasional.kontan.co.id/news/singapura-kerek-proyeksi-pertumbuhan-ekonomi-2026-jadi-45-55"
-    },
-    {
-      "title": "Kemendag Gencarkan Promosi Dagang di Arab Saudi - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 02:11:45 GMT",
-      "link": "https://www.niaga.asia/kemendag-gencarkan-promosi-dagang-di-arab-saudi/"
-    },
-    {
-      "title": "Danantara Siapkan IPO BUMN, Pegadaian hingga InJourney Masuk Daftar? - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 01:44:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/11/717799/danantara-siapkan-ipo-bumn--pegadaian-hingga-injourney-masuk-daftar-"
-    },
-    {
-      "title": "Danantara Siapkan IPO BUMN, Pegadaian hingga InJourney Masuk Daftar? - Rmol.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 01:44:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/11/717799/danantara-siapkan-ipo-bumn--pegadaian-hingga-injourney-masuk-daftar-"
     }
   ]
 }
