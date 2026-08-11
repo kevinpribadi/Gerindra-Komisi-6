@@ -4220,7 +4220,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-11T20:01:24.745350",
+        "fetched_at": "2026-08-11T21:42:42.655436",
         "prev_close": 17794,
         "change_pct": 0.2
     },
@@ -4229,7 +4229,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-11T20:01:24.745350",
+        "fetched_at": "2026-08-11T21:42:42.655436",
         "prev_close": 6409.65,
         "change_pct": -0.69
     },
@@ -4239,100 +4239,100 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 3130,
-            "change_pct": -1.28
+            "prev_close": 3090,
+            "change_pct": 0.0
         },
         "BMRI": {
-            "value": 4180,
+            "value": 4120,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Bank Mandiri",
-            "prev_close": 4240,
-            "change_pct": -1.42
+            "prev_close": 4180,
+            "change_pct": -1.44
         },
         "BBNI": {
-            "value": 3650,
+            "value": 3550,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3630,
-            "change_pct": 0.55
+            "prev_close": 3650,
+            "change_pct": -2.74
         },
         "BBTN": {
-            "value": 1235,
+            "value": 1210,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Bank Tabungan Negara",
-            "prev_close": 1230,
-            "change_pct": 0.41
+            "prev_close": 1235,
+            "change_pct": -2.02
         },
         "TLKM": {
-            "value": 2620,
+            "value": 2610,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Telkom Indonesia",
-            "prev_close": 2710,
-            "change_pct": -3.32
+            "prev_close": 2620,
+            "change_pct": -0.38
         },
         "SMGR": {
-            "value": 1610,
+            "value": 1545,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Semen Indonesia",
-            "prev_close": 1620,
-            "change_pct": -0.62
+            "prev_close": 1610,
+            "change_pct": -4.04
         },
         "ANTM": {
-            "value": 3140,
+            "value": 3090,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Aneka Tambang",
-            "prev_close": 3160,
-            "change_pct": -0.63
+            "prev_close": 3140,
+            "change_pct": -1.59
         },
         "PGAS": {
-            "value": 1510,
+            "value": 1490,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1510,
-            "change_pct": 0.0
+            "change_pct": -1.32
         },
         "PTBA": {
-            "value": 2390,
+            "value": 2350,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Bukit Asam",
-            "prev_close": 2370,
-            "change_pct": 0.84
+            "prev_close": 2390,
+            "change_pct": -1.67
         },
         "JSMR": {
-            "value": 2770,
+            "value": 2740,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-11T20:01:24.745350",
+            "fetched_at": "2026-08-11T21:42:42.655436",
             "name": "Jasa Marga",
-            "prev_close": 2790,
-            "change_pct": -0.72
+            "prev_close": 2770,
+            "change_pct": -1.08
         }
     },
     "scrape_status": {
@@ -4341,5 +4341,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-11T20:01:24.745350"
+    "last_updated": "2026-08-11T21:42:42.655436"
 }
