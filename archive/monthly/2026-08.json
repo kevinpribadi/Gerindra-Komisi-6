@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-10T23:32:16.318459",
+  "generated_at": "2026-08-11T01:26:00.331822",
   "party_counts_7d": {
     "Gerindra": 13,
-    "PDI-P": 32,
+    "PDI-P": 33,
     "Golkar": 7,
     "NasDem": 10,
     "PKB": 21,
     "PKS": 12,
-    "PAN": 8,
+    "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 57,
-    "investasi": 24,
+    "investasi": 23,
     "danantara": 31,
-    "perdagangan": 9,
+    "perdagangan": 8,
     "kartel-monopoli": 8,
-    "umkm": 24,
+    "umkm": 25,
     "ekspor": 4,
     "koperasi": 68,
     "ipo": 13,
@@ -94,6 +94,27 @@
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "BPKN: Perlindungan terhadap jamaah haji-umrah harus terus diperkuat - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 00:25:29 GMT",
+      "link": "https://www.antaranews.com/berita/5688480/bpkn-perlindungan-terhadap-jamaah-haji-umrah-harus-terus-diperkuat"
+    },
+    {
+      "title": "Berita Pelantikan Pengurus Koperasi Swasti Sari Oleh Kepala Dinas Koperasi UMKM Linus Lusi 11 Mei 2026 Sudah Viral Di Media Sosial - Expo NTT",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 00:22:59 GMT",
+      "link": "https://expontt.com/berita-pelantikan-pengurus-koperasi-swasti-sari-oleh-kepala-dinas-koperasi-umkm-linus-lusi-11-mei-2026-sudah-viral-di-media-sosial/"
+    },
+    {
+      "title": "BRI Cetak Laba Rp20,42 T, DPR Nilai Fundamental Perbankan Tetap Kuat - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/321209/bri-cetak-laba-rp2042-t-hingga-mei-2026-komisi-vi-dpr-nilai-fundamental-perbankan-nasional-tetap-kuat"
+    },
     {
       "title": "Emiten AVIA Tegaskan Kepatuhan Persaingan Usaha KPPU - Suara.com",
       "entity": "KPPU",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 10 Aug 2026 12:42:59 GMT",
       "link": "https://industri.kontan.co.id/news/avian-brands-gandeng-kppu-avia-perkuat-kepatuhan-persaingan-usaha"
-    },
-    {
-      "title": "Perkuat Tata Kelola dan Persaingan Sehat, Avian Ikuti Program Kepatuhan KPPU - MetroTVNews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 12:36:44 GMT",
-      "link": "https://www.metrotvnews.com/read/NOlC9Ell-perkuat-tata-kelola-dan-persaingan-sehat-avian-ikuti-program-kepatuhan-kppu"
-    },
-    {
-      "title": "Bos Danantara Masih Diskusi dengan OJK soal Mekanisme Demutualisasi BEI - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 12:18:00 GMT",
-      "link": "https://infobanknews.com/bos-danantara-masih-diskusi-dengan-ojk-soal-mekanisme-demutualisasi-bei"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan mengusulkan standar baru untuk stasiun pengisian daya kendaraan listrik. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 10 Aug 2026 12:13:39 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-xuat-quy-chuan-moi-ve-tram-sac-xe-dien"
     }
   ]
 }
