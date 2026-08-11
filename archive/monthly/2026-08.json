@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T08:51:53.677631",
+  "generated_at": "2026-08-11T09:57:44.970714",
   "party_counts_7d": {
-    "Gerindra": 12,
-    "PDI-P": 31,
-    "Golkar": 7,
+    "Gerindra": 14,
+    "PDI-P": 32,
+    "Golkar": 6,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 10,
+    "PKS": 11,
     "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 64,
-    "PDI-P": 85,
+    "Gerindra": 65,
+    "PDI-P": 86,
     "Golkar": 65,
-    "NasDem": 38,
+    "NasDem": 37,
     "PKB": 33,
-    "PKS": 45,
+    "PKS": 46,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
+    "bumn": 59,
     "investasi": 19,
     "danantara": 33,
-    "ekspor": 7,
+    "ekspor": 9,
     "perdagangan": 6,
     "kartel-monopoli": 8,
-    "umkm": 24,
     "koperasi": 68,
+    "umkm": 23,
     "ipo": 15,
     "merger-akuisisi": 6,
     "impor": 3
@@ -49,7 +49,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 6,
+    "Muhammad Husein Fadlulloh": 7,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 19,
     "Mulyadi": 12,
@@ -58,7 +58,7 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Nurdin Halid": 11,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
@@ -66,7 +66,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 10,
-    "Rachmat Gobel": 19,
+    "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 1,
@@ -78,6 +78,7 @@
     "Ida Fauziyah": 2,
     "Amin Ak.": 14,
     "Rizal Bawazier": 14,
+    "Ghufran": 1,
     "Ismail": 17,
     "Eko Patrio": 3,
     "Iskandar": 20,
@@ -87,12 +88,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 19,
-    "Koperasi/UMKM": 89,
+    "Perdagangan": 21,
+    "Koperasi/UMKM": 88,
     "Konflik Publik": 7,
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Ekspor nonmigas Juni naik 8,68%, defisit migas 33% di atas rata-rata? - idnfinancials.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 09:40:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/67281/ekspor-nonmigas-juni-naik-8-68-defisit-migas-33-di-atas-rata-rata"
+    },
+    {
+      "title": "Andre Rosiade Kecam Promosi 'Hafal Quran Berhadiah Miras': Penistaan! - news.detik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 09:26:54 GMT",
+      "link": "https://news.detik.com/berita/d-8613904/andre-rosiade-kecam-promosi-hafal-quran-berhadiah-miras-penistaan"
+    },
+    {
+      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Tekankan Pentingnya Kesehatan Perusahaan - DPR RI",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 09:25:45 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soal-274-BUMN-Ditutup-Ida-Nurlaela-Tekankan-Pentingnya-Kesehatan-Perusahaan-67922"
+    },
+    {
+      "title": "Ekspor Melonjak, Defisit Neraca Perdagangan RI Juni 2026 Menyempit Jadi US$ 0,45 Miliar - VOI.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 09:05:00 GMT",
+      "link": "https://voi.id/ekonomi/589154/ekspor-melonjak-defisit-neraca-perdagangan-ri-juni-2026-menyempit-jadi-usdollar-0-45-miliar"
+    },
+    {
+      "title": "Ghufran Minta Tenaga Kerja Konstruksi Aceh Siap Kawal Rehabilitasi dan Rekonstruksi - nukilan.id",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 08:56:14 GMT",
+      "link": "https://nukilan.id/ghufran-minta-tenaga-kerja-konstruksi-aceh-siap-kawal-rehabilitasi-dan-rekonstruksi/"
+    },
+    {
+      "title": "Mulai dari Tukang Cukur hingga Konektivitas, Garut Miliki Segudang Potensi Mancanegara - Inilah.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 08:52:00 GMT",
+      "link": "https://www.inilah.com/mulai-dari-tukang-cukur-hingga-konektivitas-garut-miliki-segudang-potensi-mancanegara"
+    },
+    {
+      "title": "Mendag Menerima Kunjungan Wakil Menteri Luar Negeri - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:51:42 GMT",
+      "link": "https://www.hetanews.com/article/310019/mendag-menerima-kunjungan-wakil-menteri-luar-negeri"
+    },
     {
       "title": "Di Acara Gerak Jalan Harkopnas, Ketua DPRD Bogor Apresiasi Peran Koperasi - Tempo.co",
       "entity": "Dekopin",
@@ -106,6 +156,13 @@
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 08:40:13 GMT",
       "link": "https://ombudsman.go.id/news/r/jajaki-kerja-sama-ombudsman-ri-terima-audiensi-kppu"
+    },
+    {
+      "title": "Agustusan di BP BUMN: Adu Seru, Kompak Bersama, Semarakkan Kemerdekaan - RM.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:38:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321281/agustusan-di-bp-bumn-adu-seru-kompak-bersama-semarakkan-kemerdekaan"
     },
     {
       "title": "Danantara Dorong Transfer Teknologi dalam Investasi Material Maju - MetroTVNews.com",
@@ -139,64 +196,8 @@
       "title": "Aksi promosi minuman beralkohol merek New Port dengan menggunakan hafalan Surah Ad-Dhuha dalam festival musik Sounds Project di Ancol, Jakarta, menuai kecaman sejumlah anggota DPR. Dalam kegiatan yang berlangsung pada 7–9 Agustus 2026 t - facebook.com",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 07:17:10 GMT",
-      "link": "https://www.facebook.com/medandailynews/photos/aksi-promosi-minuman-beralkohol-merek-new-port-dengan-menggunakan-hafalan-surah-/1505333154960611/"
-    },
-    {
-      "title": "O!Save Masuk Indonesia, Kementerian UMKM Serahkan Pengawasan ke KPPU - Bisnis.com - Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 06:57:10 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260811/12/1995274/osave-masuk-indonesia-kementerian-umkm-serahkan-pengawasan-ke-kppu"
-    },
-    {
-      "title": "Kemendag bidik pasar Timur Tengah untuk produk F&B halal RI - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 06:41:32 GMT",
-      "link": "https://www.antaranews.com/berita/5688877/kemendag-bidik-pasar-timur-tengah-untuk-produk-fb-halal-ri"
-    },
-    {
-      "title": "Ekspor Nonmigas Menguat, Indonesia Kejar Surplus Perdagangan - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 06:40:41 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/11/ekspor-nonmigas-menguat-indonesia-kejar-surplus-perdagangan/"
-    },
-    {
-      "title": "Ekspor Mamin RI Kalah dari Thailand-Vietnam, Ini Langkah Kemendag - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 06:25:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260811/12/1995292/ekspor-mamin-ri-kalah-dari-thailand-vietnam-ini-langkah-kemendag"
-    },
-    {
-      "title": "Kemendag Bidik Ekspansi Produk Makanan-Minuman Halal RI ke Timur Tengah - kumparan.com - Kumparan.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 06:19:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/kemendag-bidik-ekspansi-produk-makanan-minuman-halal-ri-ke-timur-tengah-27xrU5iyhnf"
-    },
-    {
-      "title": "Ekspor Nonmigas Naik 8,68 Persen, Mendag Optimistis Neraca Perdagangan Membaik - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 05:58:31 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tmjfnm4-ekspor-nonmigas-naik-868-persen-mendag-optimistis-neraca-perdagangan-membaik"
-    },
-    {
-      "title": "10 Perusahaan Fesyen Indonesia Tembus Saudi Fashion & Tex Expo 2026 — Batam Today - Batamtoday.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 05:50:17 GMT",
-      "link": "https://batamtoday.com/news/10-perusahaan-fesyen-indonesia-tembus-saudi-fashion-tex-expo-2026"
-    },
-    {
-      "title": "Legislator Kecam Promosi Newport Kutip Ayat Al-Qur'an - Validnews",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 05:45:00 GMT",
-      "link": "https://www.validnews.id/nasional/2026/08/11/legislator-kecam-promosi-newport-kutip-ayat-al-quran-124500126"
+      "published": "Tue, 11 Aug 2026 07:17:14 GMT",
+      "link": "https://www.facebook.com/medandailynews/posts/aksi-promosi-minuman-beralkohol-merek-new-port-dengan-menggunakan-hafalan-surah-/1505333234960603/"
     }
   ]
 }
