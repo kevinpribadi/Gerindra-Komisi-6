@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T18:58:12.292557",
+  "generated_at": "2026-08-11T20:01:24.745350",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 33,
+    "Gerindra": 24,
+    "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 10,
     "PKB": 21,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 85,
-    "Golkar": 65,
+    "PDI-P": 86,
+    "Golkar": 64,
     "NasDem": 37,
     "PKB": 31,
     "PKS": 47,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 62,
     "investasi": 19,
     "danantara": 35,
     "ekspor": 13,
@@ -58,8 +58,8 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 18,
-    "Nurdin Halid": 11,
+    "Ida Nurlaela": 19,
+    "Nurdin Halid": 10,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
@@ -88,12 +88,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 25,
+    "Perdagangan": 26,
     "Koperasi/UMKM": 85,
     "Konflik Publik": 7,
-    "Hukum/Audit": 16
+    "Hukum/Audit": 15
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 18:53:34 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260812/MTEyNg%3D%3D"
+    },
     {
       "title": "Menkop Ferry dorong hilirisasi sawit berbasis koperasi perkuat petani - Elshinta",
       "entity": "Kementerian Koperasi",
@@ -165,6 +172,13 @@
       "link": "https://www.antaranews.com/berita/5689997/menkop-lpdb-siap-dukung-koperasi-bangun-pabrik-cpo"
     },
     {
+      "title": "DPR Kecam Promosi Miras Newport Gunakan Al Qur'an, Minta Polisi Usut - Kabarindo.com - Kabarindo.com",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 15:03:00 GMT",
+      "link": "https://www.kabarindo.com/berita-utama/amp/4032939264/dpr-kecam-promosi-miras-newport-gunakan-al-quran-minta-polisi-usut"
+    },
+    {
       "title": "Wamendag: Nilai Pasar Mamin Tembus USD512 Miliar - TVRI News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -172,32 +186,18 @@
       "link": "https://ekonomi.tvrinews.com/berita/ts7hl01-wamendag-nilai-pasar-mamin-tembus-usd512-miliar"
     },
     {
+      "title": "Terkiat 274 BUMN Ditutup, Anggota DPR Tekankan Pentingnya Kesehatan Perusahaan - Inilah Jogja",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 14:36:44 GMT",
+      "link": "https://inilahjogja.com/terkiat-274-bumn-ditutup-anggota-dpr-tekankan-pentingnya-kesehatan-perusahaan/"
+    },
+    {
       "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Sejahterakan Petani - detikNews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 13:32:35 GMT",
       "link": "https://news.detik.com/berita/d-8614339/menkop-dorong-hilirisasi-sawit-berbasis-koperasi-untuk-sejahterakan-petani"
-    },
-    {
-      "title": "Promo Minuman Beralkohol Gratis Pakai Hafalan Al-Qur'an, BPKN RI: Promosi Miras Jangan Eksploitasi Simbol Agama - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 13:25:00 GMT",
-      "link": "https://www.mediakarya.id/promo-minuman-beralkohol-gratis-pakai-hafalan-al-quran-bpkn-ri-promosi-miras-jangan-eksploitasi-simbol-agama/"
-    },
-    {
-      "title": "Menkop: Hilirisasi Kelapa Sawit Berbasis Koperasi Perkuat Daya Tawar Petani - Indonesiadaily.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 12:51:07 GMT",
-      "link": "https://indonesiadaily.net/2026/08/menkop-hilirisasi-kelapa-sawit-berbasis-koperasi-perkuat-daya-tawar-petani/"
-    },
-    {
-      "title": "Menteri Koperasi Dirut Agrinas Palma Nusantara Bahas Masa Depan Sawit Berbasis Koperasi, Muba Jadi Contoh Hilirisasi sawit Berbasis Koperasi - Suara Publik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 12:28:48 GMT",
-      "link": "https://suarapublik.id/menteri-koperasi-dirut-agrinas-palma-nusantara-bahas-masa-depan-sawit-berbasis-koperasi-muba-jadi-contoh-hilirisasi-sawit-berbasis-koperasi/"
     }
   ]
 }
