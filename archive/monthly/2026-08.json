@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T09:57:44.970714",
+  "generated_at": "2026-08-11T10:53:13.861604",
   "party_counts_7d": {
-    "Gerindra": 14,
+    "Gerindra": 18,
     "PDI-P": 32,
     "Golkar": 6,
     "NasDem": 10,
@@ -12,7 +12,7 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 67,
     "PDI-P": 86,
     "Golkar": 65,
     "NasDem": 37,
@@ -36,20 +36,20 @@
   "topic_counts_30d": {
     "bumn": 59,
     "investasi": 19,
-    "danantara": 33,
-    "ekspor": 9,
+    "danantara": 35,
+    "ekspor": 10,
     "perdagangan": 6,
-    "kartel-monopoli": 8,
     "koperasi": 68,
     "umkm": 23,
     "ipo": 15,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 6,
     "impor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 7,
+    "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 19,
     "Mulyadi": 12,
@@ -88,12 +88,47 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 21,
+    "Perdagangan": 22,
     "Koperasi/UMKM": 88,
     "Konflik Publik": 7,
     "Hukum/Audit": 19
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Terima Aspirasi Serikat Pekerja PT Pos, Dorong Solusi Bersama Danantara - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 10:43:28 GMT",
+      "link": "https://news.detik.com/berita/d-8614071/andre-rosiade-terima-aspirasi-serikat-pekerja-pt-pos-dorong-solusi-bersama-danantara"
+    },
+    {
+      "title": "Wamendag Roro: Produk F&B halal Indonesia berpeluang tembus pasar Timur Tengah - elshinta.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 10:30:43 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/wamendag-roro-produk-fb-halal-indonesia-berpeluang-tembus-pasar-timur-tengah-173228"
+    },
+    {
+      "title": "Husein Fadlulloh: “Asgar” Bisa Jadi Senjata Garut Menembus Pasar Kerja Dunia - kabarpolitik.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 10:20:56 GMT",
+      "link": "https://kabarpolitik.com/husein-fadlulloh-asgar-bisa-jadi-senjata-garut-menembus-pasar-kerja-dunia/"
+    },
+    {
+      "title": "Andre Rosiade: Komisi VI Dorong Solusi Pekerja PT Pos Bersama Danantara - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 10:14:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-komisi-vi-dorong-solusi-pekerja-pt-pos-bersama-danantara-27xvWAYksWU"
+    },
+    {
+      "title": "Garut Tak Sekadar Swiss van Java, Husein Fadlulloh Dorong Potensi Ekonomi Naik Kelas ke Dunia - kabarpolitik.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 10:05:30 GMT",
+      "link": "https://kabarpolitik.com/garut-tak-sekadar-swiss-van-java-husein-fadlulloh-dorong-potensi-ekonomi-naik-kelas-ke-dunia/"
+    },
     {
       "title": "Ekspor nonmigas Juni naik 8,68%, defisit migas 33% di atas rata-rata? - idnfinancials.com",
       "entity": "Kementerian Perdagangan",
@@ -144,6 +179,13 @@
       "link": "https://www.hetanews.com/article/310019/mendag-menerima-kunjungan-wakil-menteri-luar-negeri"
     },
     {
+      "title": "Wamendag Keluarkan Jurus Ini Kejar Target Ekspor RI US$315 Miliar - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 08:45:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260811134000-4-758274/wamendag-keluarkan-jurus-ini-kejar-target-ekspor-ri-us-315-miliar"
+    },
+    {
       "title": "Di Acara Gerak Jalan Harkopnas, Ketua DPRD Bogor Apresiasi Peran Koperasi - Tempo.co",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 08:40:13 GMT",
       "link": "https://ombudsman.go.id/news/r/jajaki-kerja-sama-ombudsman-ri-terima-audiensi-kppu"
-    },
-    {
-      "title": "Agustusan di BP BUMN: Adu Seru, Kompak Bersama, Semarakkan Kemerdekaan - RM.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 08:38:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321281/agustusan-di-bp-bumn-adu-seru-kompak-bersama-semarakkan-kemerdekaan"
-    },
-    {
-      "title": "Danantara Dorong Transfer Teknologi dalam Investasi Material Maju - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 08:16:06 GMT",
-      "link": "https://www.metrotvnews.com/read/NG9CzOqj-danantara-dorong-transfer-teknologi-dalam-investasi-material-maju"
-    },
-    {
-      "title": "Timur Tengah Ditarget Jadi Pasar Produk Mamin Halal RI, Ini Alasannya - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 07:55:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260811141746-4-758290/timur-tengah-ditarget-jadi-pasar-produk-mamin-halal-ri-ini-alasannya"
-    },
-    {
-      "title": "Kemendag Bidik Nilai Ekspor Tumbuh 6,9% di 2026, Ini Sektor Unggulannya - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 07:50:28 GMT",
-      "link": "https://www.metrotvnews.com/read/NnjCWEj4-kemendag-bidik-nilai-ekspor-tumbuh-6-9-di-2026-ini-sektor-unggulannya"
-    },
-    {
-      "title": "Kemenkop: Skema Pembiayaan Kopdes Merah Putih Masih Tunggu Aturan Tata Kelola - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 07:19:42 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemenkop-skema-pembiayaan-kopdes-merah-putih-masih-tunggu-aturan-tata-kelola"
-    },
-    {
-      "title": "Aksi promosi minuman beralkohol merek New Port dengan menggunakan hafalan Surah Ad-Dhuha dalam festival musik Sounds Project di Ancol, Jakarta, menuai kecaman sejumlah anggota DPR. Dalam kegiatan yang berlangsung pada 7–9 Agustus 2026 t - facebook.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 07:17:14 GMT",
-      "link": "https://www.facebook.com/medandailynews/posts/aksi-promosi-minuman-beralkohol-merek-new-port-dengan-menggunakan-hafalan-surah-/1505333234960603/"
     }
   ]
 }
