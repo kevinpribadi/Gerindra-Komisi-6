@@ -1,18 +1,18 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T14:21:15.571334",
+  "generated_at": "2026-08-11T15:58:40.885810",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 21,
     "PDI-P": 33,
-    "Golkar": 3,
+    "Golkar": 2,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 11,
+    "PKS": 12,
     "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 68,
+    "Gerindra": 69,
     "PDI-P": 85,
     "Golkar": 65,
     "NasDem": 37,
@@ -37,19 +37,19 @@
     "bumn": 60,
     "investasi": 20,
     "danantara": 35,
-    "ekspor": 11,
-    "perdagangan": 5,
+    "ekspor": 12,
+    "perdagangan": 6,
     "koperasi": 68,
     "umkm": 22,
-    "ipo": 15,
-    "kartel-monopoli": 7,
+    "ipo": 14,
+    "kartel-monopoli": 6,
     "merger-akuisisi": 6,
     "impor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 9,
+    "Muhammad Husein Fadlulloh": 10,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 20,
     "Mulyadi": 12,
@@ -78,8 +78,8 @@
     "Ida Fauziyah": 2,
     "Amin Ak.": 15,
     "Rizal Bawazier": 14,
-    "Ghufran": 1,
-    "Ismail": 17,
+    "Ghufran": 2,
+    "Ismail": 16,
     "Eko Patrio": 3,
     "Iskandar": 20,
     "Sartono": 7,
@@ -88,12 +88,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 6,
-    "Perdagangan": 23,
-    "Koperasi/UMKM": 86,
+    "Perdagangan": 24,
+    "Koperasi/UMKM": 85,
     "Konflik Publik": 7,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Harga semen Sumut naik 25-40 persen, KPPU dalami penyebabnya - Elshinta",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 15:30:00 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/harga-semen-sumut-naik-25-40-persen-kppu-dalami-penyebabnya-173259"
+    },
+    {
+      "title": "Kemenkop Dorong Agrinas Palma Bangun Ekosistem Sawit Berbasis Koperasi - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 15:16:27 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-dorong-agrinas-palma-bangun-ekosistem-sawit-koperasi"
+    },
+    {
+      "title": "Danantara: PSEL Yogyakarta diproyeksikan aliri listrik 15 ribu rumah - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 15:15:41 GMT",
+      "link": "https://www.antaranews.com/berita/5690000/danantara-psel-yogyakarta-diproyeksikan-aliri-listrik-15-ribu-rumah"
+    },
+    {
+      "title": "Menkop: LPDB siap dukung koperasi bangun pabrik CPO - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 15:15:11 GMT",
+      "link": "https://www.antaranews.com/berita/5689997/menkop-lpdb-siap-dukung-koperasi-bangun-pabrik-cpo"
+    },
     {
       "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Sejahterakan Petani - detikNews",
       "entity": "Kementerian Koperasi",
@@ -137,6 +165,13 @@
       "link": "https://nasional.kontan.co.id/news/skema-pembiayaan-kopdeskel-merah-putih-masih-disusun-ini-penjelasan-kemenkop"
     },
     {
+      "title": "Husein Fadlulloh: “Asgar” Bisa Jadi Senjata Garut Menembus Pasar Kerja Dunia - Gerindra",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 11 Aug 2026 11:29:07 GMT",
+      "link": "https://gerindra.id/2026/08/11/husein-fadlulloh-asgar-bisa-jadi-senjata-garut-menembus-pasar-kerja-dunia/"
+    },
+    {
       "title": "Andre Rosiade Terima Aspirasi Serikat Pekerja PT Pos, Dorong Solusi Bersama Danantara - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
@@ -163,41 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 11 Aug 2026 10:14:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-komisi-vi-dorong-solusi-pekerja-pt-pos-bersama-danantara-27xvWAYksWU"
-    },
-    {
-      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Komisi VI DPR Tekankan Pentingnya Kesehatan Perusahaan - Suara Investor",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 10:13:09 GMT",
-      "link": "https://www.suarainvestor.com/soal-274-bumn-ditutup-ida-nurlaela-komisi-vi-dpr-tekankan-pentingnya-kesehatan-perusahaan/"
-    },
-    {
-      "title": "Garut Tak Sekadar Swiss van Java, Husein Fadlulloh Dorong Potensi Ekonomi Naik Kelas ke Dunia - kabarpolitik.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 10:05:30 GMT",
-      "link": "https://kabarpolitik.com/garut-tak-sekadar-swiss-van-java-husein-fadlulloh-dorong-potensi-ekonomi-naik-kelas-ke-dunia/"
-    },
-    {
-      "title": "DPR Kecam Tantangan Hafalan Surah Berhadiah Miras di The Sounds Project 2026 - Medcom.id",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "link": "https://www.medcom.id/hiburan/indis/Rkj182Wb-dpr-kecam-tantangan-hafalan-surah-berhadiah-miras-di-the-sounds-project-2026"
-    },
-    {
-      "title": "Ekspor nonmigas Juni naik 8,68%, defisit migas 33% di atas rata-rata? - idnfinancials.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 09:40:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/67281/ekspor-nonmigas-juni-naik-8-68-defisit-migas-33-di-atas-rata-rata"
-    },
-    {
-      "title": "Andre Rosiade Kecam Promosi 'Hafal Quran Berhadiah Miras': Penistaan! - news.detik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 09:26:54 GMT",
-      "link": "https://news.detik.com/berita/d-8613904/andre-rosiade-kecam-promosi-hafal-quran-berhadiah-miras-penistaan"
     }
   ]
 }
