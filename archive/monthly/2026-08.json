@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T17:59:19.001301",
+  "generated_at": "2026-08-12T19:12:52.350156",
   "party_counts_7d": {
-    "Gerindra": 30,
+    "Gerindra": 31,
     "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 7,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 30,
+    "umkm": 31,
     "bumn": 53,
     "koperasi": 68,
     "investasi": 23,
@@ -87,7 +87,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 93,
+    "Koperasi/UMKM": 94,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 6,
     "Perdagangan": 20,
@@ -172,6 +172,13 @@
       "link": "https://www.kompas.com/properti/read/2026/08/12/220156321/lrt-city-mangkrak-danantara-dan-bp-bumn-panggil-direksi-adhi-karya"
     },
     {
+      "title": "LRT City Mangkrak, Danantara dan BP BUMN Panggil Direksi Adhi Karya - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 15:01:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/12/220156321/lrt-city-mangkrak-danantara-dan-bp-bumn-panggil-direksi-adhi-karya?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
+    },
+    {
       "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi Untuk Listrik - gesuri.id",
       "entity": "Ida Nurlaela",
       "kind": "anggota",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 14:50:07 GMT",
       "link": "https://elshinta.com/kategori/1/ekonomi/26-produk-umkm-dipasarkan-di-point-coffee-kantor-kemendag-173340"
-    },
-    {
-      "title": "Danantara Siap Jadi Investor BEI Pasca Demutualisasi, Masuk Lewat DIM - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 14:22:37 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260812173210-17-758678/danantara-siap-jadi-investor-bei-pasca-demutualisasi-masuk-lewat-dim"
     }
   ]
 }
