@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T16:57:57.371000",
+  "generated_at": "2026-08-12T17:59:19.001301",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 34,
+    "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 7,
     "PKB": 21,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 29,
+    "umkm": 30,
     "bumn": 53,
-    "koperasi": 69,
+    "koperasi": 68,
     "investasi": 23,
-    "danantara": 38,
-    "perdagangan": 10,
-    "ekspor": 8,
+    "danantara": 39,
+    "perdagangan": 11,
+    "ekspor": 7,
     "impor": 2,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -94,6 +94,34 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "2.587 Koperasi Punya Peluang Hilirisasi, Pabrik CPO Jadi Jalan Naik Kelas Petani Sawit - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 17:53:00 GMT",
+      "link": "https://afu.id/ekonomi/2587-koperasi-punya-peluang-hilirisasi-pabrik-cpo-jadi-jalan-naik-kelas-petani-sawit"
+    },
+    {
+      "title": "Proyek LRT City Mangkrak, Danantara Desak Adhi Karya Bertanggungjawab - pasardana.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 17:41:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/13/proyek-lrt-city-mangkrak-danantara-desak-adhi-karya-bertanggungjawab"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - berita.cilegon.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 17:19:23 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260813/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Kemendag Perluas Akses Pasar Produk UMKM dengan Libatkan Ritel Modern - Rmol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 17:06:07 GMT",
+      "link": "https://rmol.id/amp/2026/08/13/718039/kemendag-perluas-akses-pasar-produk-umkm-dengan-libatkan-ritel-modern-"
+    },
     {
       "title": "Menkop Ferry Juliantono Resmikan Pabrik Sawit KUD Sejahtera, Perkuat Hilirisasi Sawit Rakyat - HaiSawit",
       "entity": "Kementerian Koperasi",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 14:22:37 GMT",
       "link": "https://www.cnbcindonesia.com/market/20260812173210-17-758678/danantara-siap-jadi-investor-bei-pasca-demutualisasi-masuk-lewat-dim"
-    },
-    {
-      "title": "Transaksi UMKM BISA Ekspor melonjak, Kemendag bidik 300 juta Dolar AS tahun 2026 - Elshinta",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 14:00:42 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/transaksi-umkm-bisa-ekspor-melonjak-kemendag-bidik-300-juta-dolar-as-tahun-2026-173338"
-    },
-    {
-      "title": "Persoalan LRT City jadi Sorotan, Dony Oskaria Panggil Adhi Karya - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 13:53:00 GMT",
-      "link": "https://voi.id/ekonomi/589390/persoalan-lrt-city-jadi-sorotan-dony-oskaria-panggil-adhi-karya"
-    },
-    {
-      "title": "Kemenpar Gandeng Danantara Dorong Investasi Pariwisata dan Perpanjang Lama Tinggal Wisatawan - TVRI News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 13:49:33 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t8z5dv6-kemenpar-gandeng-danantara-dorong-investasi-pariwisata-dan-perpanjang-lama-tinggal-wisatawan"
-    },
-    {
-      "title": "Kemendag perluas akses UMKM ke ritel modern - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 13:38:26 GMT",
-      "link": "https://www.antaranews.com/berita/5691524/kemendag-perluas-akses-umkm-ke-ritel-modern"
     }
   ]
 }
