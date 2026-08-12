@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T08:14:59.512639",
+  "generated_at": "2026-08-12T10:00:17.661102",
   "party_counts_7d": {
-    "Gerindra": 26,
+    "Gerindra": 27,
     "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 10,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 88,
-    "Golkar": 57,
+    "PDI-P": 87,
+    "Golkar": 52,
     "NasDem": 38,
     "PKB": 30,
-    "PKS": 48,
+    "PKS": 47,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "umkm": 24,
-    "bumn": 60,
-    "koperasi": 72,
+    "bumn": 59,
+    "koperasi": 71,
     "investasi": 18,
-    "danantara": 34,
+    "danantara": 35,
+    "ekspor": 9,
     "perdagangan": 7,
     "impor": 3,
-    "ekspor": 9,
-    "ipo": 10,
+    "ipo": 9,
     "kartel-monopoli": 7,
     "merger-akuisisi": 4
   },
@@ -58,14 +58,14 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 20,
-    "Nurdin Halid": 7,
+    "Ida Nurlaela": 19,
+    "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 8,
-    "Rizki Faisal": 3,
-    "Muhammad Sarmuji": 9,
+    "Rizki Faisal": 2,
+    "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 3,
@@ -79,7 +79,7 @@
     "Amin Ak.": 15,
     "Rizal Bawazier": 14,
     "Ghufran": 2,
-    "Ismail": 17,
+    "Ismail": 16,
     "Eko Patrio": 3,
     "Iskandar": 20,
     "Sartono": 7,
@@ -87,13 +87,76 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 90,
+    "Koperasi/UMKM": 89,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 5,
     "Perdagangan": 21,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Mendag Optimistis Ekspor Nonmigas Terus Dukung Pertumbuhan Ekonomi - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:50:00 GMT",
+      "link": "https://olenka.id/mendag-optimistis-ekspor-nonmigas-terus-dukung-pertumbuhan-ekonomi"
+    },
+    {
+      "title": "Agrinas Palma Perkuat Kemitraan Koperasi dan Petani Sawit - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:41:25 GMT",
+      "link": "https://achmadnurhidayat.id/agrinas-palma-perkuat-kemitraan-koperasi-sawit"
+    },
+    {
+      "title": "BPKN Soroti Challenge Baca Alquran Berhadiah Miras - Batam Pos",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:40:02 GMT",
+      "link": "https://news.batampos.co.id/bpkn-soroti-challenge-baca-alquran-berhadiah-miras/"
+    },
+    {
+      "title": "Agrinas Palma Perkuat Keterlibatan Koperasi dan Petani - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:17:58 GMT",
+      "link": "https://investor.id/business/450080/agrinas-palma-perkuat-keterlibatan-koperasi-dan-petani"
+    },
+    {
+      "title": "Bos BEI Ungkap Danantara Minat Beli Saham Bursa - beritabuana.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:16:20 GMT",
+      "link": "https://beritabuana.co/2026/08/12/bos-bei-ungkap-danantara-minat-beli-saham-bursa/"
+    },
+    {
+      "title": "Andre Rosiade Ungkap Flyover Padang Luar Batal Dibangun karena Masalah Lahan - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 09:16:09 GMT",
+      "link": "https://news.detik.com/berita/d-8615475/andre-rosiade-ungkap-flyover-padang-luar-batal-dibangun-karena-masalah-lahan"
+    },
+    {
+      "title": "Produk Mamin Indonesia Didorong Tembus Pasar Global, Kemendag Ungkap Tantangannya - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:04:49 GMT",
+      "link": "https://suarapemerintah.id/2026/08/produk-mamin-indonesia-didorong-tembus-pasar-global-kemendag-ungkap-tantangannya/"
+    },
+    {
+      "title": "Kasus Umrah Tanpa Izin di Sultra Jadi Alarm, BPKN Desak Pengawasan Biro Perjalanan Diperkuat - Radar Bromo",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 08:53:51 GMT",
+      "link": "https://radarbromo.jawapos.com/news/2608120025/kasus-umrah-tanpa-izin-di-sultra-jadi-alarm-bpkn-desak-pengawasan-biro-perjalanan-diperkuat"
+    },
+    {
+      "title": "Kemendag Sebut Ekspansi O!Save asal Filipina ke RI Bukan Bisnis Asing - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 08:16:57 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260812145958-92-1391500/kemendag-sebut-ekspansi-osave-asal-filipina-ke-ri-bukan-bisnis-asing"
+    },
     {
       "title": "Ekonom: Tujuan Danantara Bisa Kabur Jika Nanti Terlalu Sering Jadi Sumber Dana APBN - kontan.co.id",
       "entity": "Danantara",
@@ -135,69 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 07:36:26 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615246/ritel-asal-filipina-o-save-menjamur-di-ri-kemendag-bilang-begini"
-    },
-    {
-      "title": "Impor Sapi Baru 40%, Kemendag Sebut Biaya Logistik Jadi Kendala - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:35:00 GMT",
-      "link": "https://tirto.id/impor-sapi-baru-40-kemendag-sebut-biaya-logistik-jadi-kendala-hA8W"
-    },
-    {
-      "title": "BPI Danantara Incar Saham BEI Melalui Skema Demutualisasi - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:21:17 GMT",
-      "link": "https://achmadnurhidayat.id/bpi-danantara-incar-saham-bei-demutualisasi"
-    },
-    {
-      "title": "Kemendag dan Badan Perlindungan Konsumen Harus Investigasi Promosi Minuman Beralkohol Melalui Hafalan Al Quran - merahputih.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:05:05 GMT",
-      "link": "https://www.merahputih.com/post/read/kemendag-dan-badan-perlindungan-konsumen-harus-investigasi-promosi-minuman-beralkohol-melalui-hafalan-al-quran"
-    },
-    {
-      "title": "Bos Bursa Buka-bukaan soal Rencana Danantara Genggam Saham BEI - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:04:34 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8615196/bos-bursa-buka-bukaan-soal-rencana-danantara-genggam-saham-bei"
-    },
-    {
-      "title": "Demutualisasi BEI Mulai Bergulir, Danantara Siap Masuk sebagai Investor - pasardana.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 06:57:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/12/demutualisasi-bei-mulai-bergulir-danantara-siap-masuk-sebagai-investor"
-    },
-    {
-      "title": "26 produk UMKM dipasarkan di Point Coffee Kemendag - Elshinta",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 06:56:30 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/26-produk-umkm-dipasarkan-di-point-coffee-kemendag-173297"
-    },
-    {
-      "title": "Antrean BBM Merata dari Sulsel hingga Papua, DPR Endus Kecurangan - Kosadata",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 06:45:22 GMT",
-      "link": "https://kosadata.com/antrean-bbm-merata-dari-sulsel-hingga-papua-dpr-endus-kecurangan"
-    },
-    {
-      "title": "Danantara Targetkan Groundbreaking PSEL Yogyakarta Desember 2026 - NusantaraTV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 06:10:29 GMT",
-      "link": "https://www.nusantaratv.com/news/danantara-targetkan-groundbreaking-psel-yogyakarta-desember-2026"
-    },
-    {
-      "title": "Langkah Kemendag Perluas Akses Pasar Untuk Produk UMKM - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 06:10:00 GMT",
-      "link": "https://swa.co.id/read/475963/langkah-kemendag-perluas-akses-pasar-untuk-produk-umkm"
     }
   ]
 }
