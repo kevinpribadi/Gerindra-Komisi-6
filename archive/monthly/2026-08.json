@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T15:56:49.171661",
+  "generated_at": "2026-08-12T16:57:57.371000",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 34,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 71,
     "PDI-P": 88,
-    "Golkar": 50,
+    "Golkar": 51,
     "NasDem": 38,
     "PKB": 29,
     "PKS": 48,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 28,
-    "bumn": 52,
-    "koperasi": 70,
+    "umkm": 29,
+    "bumn": 53,
+    "koperasi": 69,
     "investasi": 23,
     "danantara": 38,
-    "ekspor": 7,
     "perdagangan": 10,
+    "ekspor": 8,
     "impor": 2,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -62,7 +62,7 @@
     "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
-    "Doni Akbar": 5,
+    "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 6,
@@ -90,10 +90,31 @@
     "Koperasi/UMKM": 93,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 6,
-    "Perdagangan": 19,
+    "Perdagangan": 20,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Menkop Ferry Juliantono Resmikan Pabrik Sawit KUD Sejahtera, Perkuat Hilirisasi Sawit Rakyat - HaiSawit",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 16:22:32 GMT",
+      "link": "https://haisawit.co.id/news/detail/menkop-ferry-juliantono-resmikan-pabrik-sawit-kud-sejahtera-perkuat-hilirisasi-sawit-rakyat"
+    },
+    {
+      "title": "Indonesia-India Perkuat Perdagangan, Tindak Lanjuti Pertemuan Jaipur - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 16:17:19 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/12/indonesia-india-perkuat-perdagangan-tindak-lanjuti-pertemuan-jaipur/"
+    },
+    {
+      "title": "Mendag minta Toyota tingkatkan ekspor dan perluas pasar global - idnfinancials.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 16:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/67324/mendag-minta-toyota-tingkatkan-ekspor-dan-perluas-pasar-global"
+    },
     {
       "title": "Diresmikan, PKS KUD Sejahtera tonggak baru hilirisasi sawit berbasis koperasi - Elshinta",
       "entity": "Kementerian Koperasi",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 13:38:26 GMT",
       "link": "https://www.antaranews.com/berita/5691524/kemendag-perluas-akses-umkm-ke-ritel-modern"
-    },
-    {
-      "title": "Mulyadi Dorong Tol Bogor–Ciawi–Sukabumi Diperpanjang hingga Palabuhanratu - fraksi gerindra dpr-ri",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 13:00:39 GMT",
-      "link": "https://www.fraksigerindra.id/mulyadi-dorong-tol-bogor-ciawi-sukabumi-diperpanjang-hingga-palabuhanratu/"
-    },
-    {
-      "title": "Tak Sekadar Tampung TBS, Koperasi Sawit di Sumsel Dibidik Jajaki Bisnis Minyak Goreng - Bisnis.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 12:27:09 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260812/534/1995753/tak-sekadar-tampung-tbs-koperasi-sawit-di-sumsel-dibidik-jajaki-bisnis-minyak-goreng"
-    },
-    {
-      "title": "Kementerian Pariwisata dan Danantara kolaborasi kembangkan pariwisata - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 12:15:01 GMT",
-      "link": "https://www.antaranews.com/berita/5691355/kementerian-pariwisata-dan-danantara-kolaborasi-kembangkan-pariwisata"
     }
   ]
 }
