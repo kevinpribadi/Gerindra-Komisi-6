@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-11T23:36:38.362538",
+  "generated_at": "2026-08-12T01:43:14.879391",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 12,
+    "PKS": 13,
     "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 86,
-    "Golkar": 64,
+    "Golkar": 62,
     "NasDem": 37,
-    "PKB": 31,
+    "PKB": 30,
     "PKS": 47,
     "PAN": 23,
     "Demokrat": 30
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
-    "investasi": 19,
+    "bumn": 63,
+    "koperasi": 71,
+    "investasi": 17,
     "danantara": 35,
     "ekspor": 13,
-    "perdagangan": 6,
-    "koperasi": 69,
-    "umkm": 22,
+    "perdagangan": 5,
+    "umkm": 21,
     "ipo": 14,
     "kartel-monopoli": 6,
     "merger-akuisisi": 6,
-    "impor": 3
+    "impor": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -64,7 +64,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
-    "Rizki Faisal": 7,
+    "Rizki Faisal": 5,
     "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
@@ -72,7 +72,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
-    "Anggia Erma Rini": 8,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 1,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -87,13 +87,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 6,
-    "Perdagangan": 26,
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 86,
+    "Kinerja BUMN": 5,
+    "Perdagangan": 24,
     "Konflik Publik": 7,
     "Hukum/Audit": 15
   },
   "top_headlines": [
+    {
+      "title": "Listrik Mendadak Padam Saat Rapat, Ismail: Keluhan Warga Sulut Terbukti - DPR RI",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 01:25:49 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Listrik-Mendadak-Padam-Saat-Rapat-Ismail-Keluhan-Warga-Sulut-Terbukti-67926"
+    },
+    {
+      "title": "Toyota Incar Pasar Meksiko, Indonesia Tetap Jadi Supply Hub - Emitennews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 00:31:00 GMT",
+      "link": "https://www.emitennews.com/news/toyota-incar-pasar-meksiko-indonesia-tetap-jadi-supply-hub"
+    },
+    {
+      "title": "Kemendag Dorong TMMIN Maksimalkan Perjanjian Dagang untuk Dongkrak Ekspor - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 23:42:00 GMT",
+      "link": "https://www.industry.co.id/read/154401/kemendag-dorong-tmmin-maksimalkan-perjanjian-dagang-untuk-dongkrak-ekspor"
+    },
+    {
+      "title": "Penempatan Manajer Koperasi Desa Merah Putih Tunggu Kementerian BUMN - suarasurabaya.net",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 23:30:45 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/penempatan-manajer-koperasi-desa-merah-putih-tunggu-kementerian-bumn/"
+    },
+    {
+      "title": "Penempatan Manajer Koperasi Desa Merah Putih Tunggu Kementerian BUMN - suarasurabaya.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 11 Aug 2026 23:30:45 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/penempatan-manajer-koperasi-desa-merah-putih-tunggu-kementerian-bumn/"
+    },
     {
       "title": "Prabowo Usul Sebagian Laba Danantara Masuk Cadangan APBN - Aspek.id",
       "entity": "Danantara",
@@ -163,41 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 15:16:27 GMT",
       "link": "https://achmadnurhidayat.id/kemenkop-dorong-agrinas-palma-bangun-ekosistem-sawit-koperasi"
-    },
-    {
-      "title": "Danantara: PSEL Yogyakarta diproyeksikan aliri listrik 15 ribu rumah - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 15:15:41 GMT",
-      "link": "https://www.antaranews.com/berita/5690000/danantara-psel-yogyakarta-diproyeksikan-aliri-listrik-15-ribu-rumah"
-    },
-    {
-      "title": "Menkop: LPDB siap dukung koperasi bangun pabrik CPO - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 15:15:11 GMT",
-      "link": "https://www.antaranews.com/berita/5689997/menkop-lpdb-siap-dukung-koperasi-bangun-pabrik-cpo"
-    },
-    {
-      "title": "DPR Kecam Promosi Miras Newport Gunakan Al Qur'an, Minta Polisi Usut - Kabarindo.com - Kabarindo.com",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 15:03:00 GMT",
-      "link": "https://www.kabarindo.com/berita-utama/amp/4032939264/dpr-kecam-promosi-miras-newport-gunakan-al-quran-minta-polisi-usut"
-    },
-    {
-      "title": "Wamendag: Nilai Pasar Mamin Tembus USD512 Miliar - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 14:55:00 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/ts7hl01-wamendag-nilai-pasar-mamin-tembus-usd512-miliar"
-    },
-    {
-      "title": "Terkiat 274 BUMN Ditutup, Anggota DPR Tekankan Pentingnya Kesehatan Perusahaan - Inilah Jogja",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 14:36:44 GMT",
-      "link": "https://inilahjogja.com/terkiat-274-bumn-ditutup-anggota-dpr-tekankan-pentingnya-kesehatan-perusahaan/"
     }
   ]
 }
