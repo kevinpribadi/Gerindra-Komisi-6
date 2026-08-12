@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T06:11:42.040704",
+  "generated_at": "2026-08-12T08:14:59.512639",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 10,
     "PKB": 21,
-    "PKS": 13,
+    "PKS": 14,
     "PAN": 3,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 71,
-    "PDI-P": 87,
-    "Golkar": 62,
-    "NasDem": 37,
+    "Gerindra": 70,
+    "PDI-P": 88,
+    "Golkar": 57,
+    "NasDem": 38,
     "PKB": 30,
-    "PKS": 47,
+    "PKS": 48,
     "PAN": 23,
     "Demokrat": 30
   },
@@ -34,22 +34,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 64,
+    "umkm": 24,
+    "bumn": 60,
     "koperasi": 72,
-    "investasi": 17,
+    "investasi": 18,
     "danantara": 34,
-    "perdagangan": 6,
-    "ekspor": 12,
-    "umkm": 21,
-    "ipo": 14,
+    "perdagangan": 7,
+    "impor": 3,
+    "ekspor": 9,
+    "ipo": 10,
     "kartel-monopoli": 7,
-    "merger-akuisisi": 4,
-    "impor": 2
+    "merger-akuisisi": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 11,
+    "Muhammad Husein Fadlulloh": 10,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
@@ -58,17 +58,17 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 19,
-    "Nurdin Halid": 10,
+    "Ida Nurlaela": 20,
+    "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 8,
-    "Rizki Faisal": 5,
+    "Rizki Faisal": 3,
     "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
-    "I Nengah Senantara": 2,
+    "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
@@ -79,7 +79,7 @@
     "Amin Ak.": 15,
     "Rizal Bawazier": 14,
     "Ghufran": 2,
-    "Ismail": 16,
+    "Ismail": 17,
     "Eko Patrio": 3,
     "Iskandar": 20,
     "Sartono": 7,
@@ -87,13 +87,104 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
+    "Koperasi/UMKM": 90,
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 87,
     "Kinerja BUMN": 5,
-    "Perdagangan": 23,
+    "Perdagangan": 21,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Ekonom: Tujuan Danantara Bisa Kabur Jika Nanti Terlalu Sering Jadi Sumber Dana APBN - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:53:48 GMT",
+      "link": "https://nasional.kontan.co.id/news/ekonom-tujuan-danantara-bisa-kabur-jika-nanti-terlalu-sering-jadi-sumber-dana-apbn"
+    },
+    {
+      "title": "Bos Danantara Rosan Rapat dengan IDSurvey, Bahas DSI - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:50:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260812134624-4-758581/bos-danantara-rosan-rapat-dengan-idsurvey-bahas-dsi"
+    },
+    {
+      "title": "Menteri UMKM: Penurunan bunga Mekaar bentuk keberpihakan - ANTARA News",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:45:35 GMT",
+      "link": "https://kupang.antaranews.com/berita/196696/menteri-umkm-penurunan-bunga-mekaar-bentuk-keberpihakan"
+    },
+    {
+      "title": "Kemendag Tanggapi Ekspansi Ritel O!Save Asal Filipina di Indonesia - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:40:25 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-tanggapi-ekspansi-ritel-osave"
+    },
+    {
+      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Ingatkan Pentingnya Kesehatan Perusahaan - Lensa Medan",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 07:37:00 GMT",
+      "link": "https://www.lensamedan.co.id/2026/08/soal-274-bumn-ditutup-ida-nurlaela.html"
+    },
+    {
+      "title": "Ritel Asal Filipina O!Save Menjamur di RI, Kemendag Bilang Begini - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:36:26 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615246/ritel-asal-filipina-o-save-menjamur-di-ri-kemendag-bilang-begini"
+    },
+    {
+      "title": "Impor Sapi Baru 40%, Kemendag Sebut Biaya Logistik Jadi Kendala - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:35:00 GMT",
+      "link": "https://tirto.id/impor-sapi-baru-40-kemendag-sebut-biaya-logistik-jadi-kendala-hA8W"
+    },
+    {
+      "title": "BPI Danantara Incar Saham BEI Melalui Skema Demutualisasi - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:21:17 GMT",
+      "link": "https://achmadnurhidayat.id/bpi-danantara-incar-saham-bei-demutualisasi"
+    },
+    {
+      "title": "Kemendag dan Badan Perlindungan Konsumen Harus Investigasi Promosi Minuman Beralkohol Melalui Hafalan Al Quran - merahputih.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:05:05 GMT",
+      "link": "https://www.merahputih.com/post/read/kemendag-dan-badan-perlindungan-konsumen-harus-investigasi-promosi-minuman-beralkohol-melalui-hafalan-al-quran"
+    },
+    {
+      "title": "Bos Bursa Buka-bukaan soal Rencana Danantara Genggam Saham BEI - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 07:04:34 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8615196/bos-bursa-buka-bukaan-soal-rencana-danantara-genggam-saham-bei"
+    },
+    {
+      "title": "Demutualisasi BEI Mulai Bergulir, Danantara Siap Masuk sebagai Investor - pasardana.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 06:57:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/12/demutualisasi-bei-mulai-bergulir-danantara-siap-masuk-sebagai-investor"
+    },
+    {
+      "title": "26 produk UMKM dipasarkan di Point Coffee Kemendag - Elshinta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 06:56:30 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/26-produk-umkm-dipasarkan-di-point-coffee-kemendag-173297"
+    },
+    {
+      "title": "Antrean BBM Merata dari Sulsel hingga Papua, DPR Endus Kecurangan - Kosadata",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 06:45:22 GMT",
+      "link": "https://kosadata.com/antrean-bbm-merata-dari-sulsel-hingga-papua-dpr-endus-kecurangan"
+    },
     {
       "title": "Danantara Targetkan Groundbreaking PSEL Yogyakarta Desember 2026 - NusantaraTV",
       "entity": "Danantara",
@@ -102,102 +193,11 @@
       "link": "https://www.nusantaratv.com/news/danantara-targetkan-groundbreaking-psel-yogyakarta-desember-2026"
     },
     {
-      "title": "AS Tetapkan Tarif Perdagangan Indonesia Sebesar 10 Persen - achmadnurhidayat.id",
+      "title": "Langkah Kemendag Perluas Akses Pasar Untuk Produk UMKM - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 06:00:22 GMT",
-      "link": "https://achmadnurhidayat.id/as-tetapkan-tarif-perdagangan-indonesia"
-    },
-    {
-      "title": "Peluang dan Risiko BUMN Melantai di Bursa - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 05:20:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/peluang-dan-risiko-bumn-melantai-di-bursa-2281469"
-    },
-    {
-      "title": "Kadis Reza : Diskop UKM Aceh Dorong Penguatan Koperasi dan Perluasan Pasar UMKM Hari UMKM Nasional - thejurnal.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 05:11:52 GMT",
-      "link": "https://thejurnal.id/news/kadis-reza-diskop-ukm-aceh-dorong-penguatan-koperasi-dan-perluasan-pasar-umkm-hari-umkm-nasional/index.html"
-    },
-    {
-      "title": "Koperasi Didorong Bangun Pabrik CPO, Pemerintah Siapkan Skema Pembiayaan - sawitsetara.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 04:52:06 GMT",
-      "link": "https://www.sawitsetara.co/artikel/Berita/koperasi-didorong-bangun-pabrik-cpo-pemerintah-siapkan-skema-pembiayaan"
-    },
-    {
-      "title": "Harga Semen di Sumut Melonjak hingga 40 Persen, KPPU Telusuri Titik Hambatan Rantai Pasok - AnalisaDaily.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 04:35:26 GMT",
-      "link": "https://analisadaily.com/berita/baca/2026/08/12/1076478/harga-semen-di-sumut-melonjak-hingga-40-persen-kppu-telusuri-titik-hambatan-rantai-pasok/"
-    },
-    {
-      "title": "Desak Percepatan Streamlining BUMN, Hentikan Pemborosan - beritabuana.co",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 04:27:53 GMT",
-      "link": "https://beritabuana.co/2026/08/12/desak-percepatan-streamlining-bumn-hentikan-pemborosan/"
-    },
-    {
-      "title": "KSBSI NTB Soroti Dugaan Pelanggaran Hak Buruh BUMN, Upah Irwansyah Tak Dibayar 7 Bulan - Berita11.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 04:27:01 GMT",
-      "link": "https://berita11.com/regional/2026/08/12/17968/ksbsi-ntb-soroti-dugaan-pelanggaran-hak-buruh-bumn-upah-irwansyah-tak-dibayar-7-bulan/"
-    },
-    {
-      "title": "Mendag Dorong Ekspor Otomotif Manfaatkan Perjanjian Dagang - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 04:03:02 GMT",
-      "link": "https://www.metrotvnews.com/read/NOlC9EJM-mendag-dorong-ekspor-otomotif-manfaatkan-perjanjian-dagang"
-    },
-    {
-      "title": "Kemendag Inisiasi Gerai Maritim, Perdagangan Lintas Wilayah Diproyeksikan Capai Rp3.000 Triliun di 2029 - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 04:00:00 GMT",
-      "link": "https://swa.co.id/read/475965/kemendag-inisiasi-gerai-maritim-perdagangan-lintas-wilayah-diproyeksikan-capai-rp3000-triliun-di-2029"
-    },
-    {
-      "title": "Pemugaran 224 Candi Perwara Prambanan Dikebut, Target Rampung Sebelum 2029 - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 03:45:00 GMT",
-      "link": "https://voi.id/berita/589246/pemugaran-224-candi-perwara-prambanan-dikebut-target-rampung-sebelum-2029"
-    },
-    {
-      "title": "Agustusan di BP BUMN, Meriahkan Kemerdekaan dengan Kebersamaan dan Sportivitas - SINDOnews Ekbis",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 03:32:16 GMT",
-      "link": "https://ekbis.sindonews.com/read/1738119/34/agustusan-di-bp-bumn-meriahkan-kemerdekaan-dengan-kebersamaan-dan-sportivitas-1786504112"
-    },
-    {
-      "title": "KPPU Dorong Perusahaan Antisipasi Risiko Persaingan Usaha Sejak Dini - Kabar24",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 03:20:56 GMT",
-      "link": "https://kabar24.bisnis.com/read/20260812/15/1995559/kppu-dorong-perusahaan-antisipasi-risiko-persaingan-usaha-sejak-dini"
-    },
-    {
-      "title": "Andre Rosiade Siap Fasilitasi Penyelesaian Aduan Konsumen Perumahan Adhi Commuter Properti - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 03:12:56 GMT",
-      "link": "https://news.detik.com/berita/d-8614787/andre-rosiade-siap-fasilitasi-penyelesaian-aduan-konsumen-perumahan-adhi-commuter-properti"
-    },
-    {
-      "title": "Rapor Merah IPO BUMN Membayangi Rencana Danantara Boyong Pelat Merah ke Lantai Bursa - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 03:01:07 GMT",
-      "link": "https://insight.kontan.co.id/news/rapor-merah-ipo-bumn-membayangi-rencana-danantara-boyong-pelat-merah-ke-lantai-bursa"
+      "published": "Wed, 12 Aug 2026 06:10:00 GMT",
+      "link": "https://swa.co.id/read/475963/langkah-kemendag-perluas-akses-pasar-untuk-produk-umkm"
     }
   ]
 }
