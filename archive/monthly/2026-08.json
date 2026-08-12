@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T10:00:17.661102",
+  "generated_at": "2026-08-12T11:06:14.467952",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 35,
+    "Gerindra": 29,
+    "PDI-P": 34,
     "Golkar": 1,
     "NasDem": 10,
     "PKB": 21,
@@ -18,7 +18,7 @@
     "NasDem": 38,
     "PKB": 30,
     "PKS": 47,
-    "PAN": 23,
+    "PAN": 22,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "umkm": 24,
-    "bumn": 59,
+    "bumn": 56,
     "koperasi": 71,
-    "investasi": 18,
-    "danantara": 35,
-    "ekspor": 9,
+    "investasi": 21,
+    "danantara": 34,
     "perdagangan": 7,
+    "ekspor": 7,
     "impor": 3,
-    "ipo": 9,
+    "ipo": 6,
     "kartel-monopoli": 7,
     "merger-akuisisi": 4
   },
@@ -80,7 +80,7 @@
     "Rizal Bawazier": 14,
     "Ghufran": 2,
     "Ismail": 16,
-    "Eko Patrio": 3,
+    "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 19,
@@ -90,10 +90,38 @@
     "Koperasi/UMKM": 89,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 5,
-    "Perdagangan": 21,
-    "Konflik Publik": 7
+    "Perdagangan": 19,
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Mendag: Indonesia dapat tarif imbal balik AS 10 persen - antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 10:25:55 GMT",
+      "link": "https://www.antaranews.com/berita/5691121/mendag-indonesia-dapat-tarif-imbal-balik-as-10-persen"
+    },
+    {
+      "title": "Siaran Pers: Kemenpar dan Danantara Perkuat Investasi Pariwisata Berkualitas - kemenpar.go.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 10:20:09 GMT",
+      "link": "https://kemenpar.go.id/berita/siaran-pers-kemenpar-dan-danantara-perkuat-investasi-pariwisata-berkualitas"
+    },
+    {
+      "title": "Muba Ukir Tonggak Sejarah, Pabrik Sawit Koperasi Jadi Model Indonesia - divianews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 10:17:00 GMT",
+      "link": "https://divianews.com/2026/08/12/muba-ukir-tonggak-sejarah-pabrik-sawit-koperasi-jadi-model-indonesia/"
+    },
+    {
+      "title": "Bos BEI Sebut Danantara Investment Management Jadi Investor Potensial Pasca Demutualisasi - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 10:15:00 GMT",
+      "link": "https://swa.co.id/read/475976/bos-bei-sebut-danantara-investment-management-jadi-investor-potensial-pasca-demutualisasi"
+    },
     {
       "title": "Mendag Optimistis Ekspor Nonmigas Terus Dukung Pertumbuhan Ekonomi - olenka.id",
       "entity": "Kementerian Perdagangan",
@@ -114,6 +142,13 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 09:40:02 GMT",
       "link": "https://news.batampos.co.id/bpkn-soroti-challenge-baca-alquran-berhadiah-miras/"
+    },
+    {
+      "title": "Keuntungan Sebagian Danantara Akan Masuk APBN, CELIOS Soroti Cash Flow Pemerintah - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 09:32:37 GMT",
+      "link": "https://nasional.kontan.co.id/news/keuntungan-sebagian-danantara-akan-masuk-apbn-celios-soroti-cash-flow-pemerintah"
     },
     {
       "title": "Agrinas Palma Perkuat Keterlibatan Koperasi dan Petani - investor.id",
@@ -151,53 +186,18 @@
       "link": "https://radarbromo.jawapos.com/news/2608120025/kasus-umrah-tanpa-izin-di-sultra-jadi-alarm-bpkn-desak-pengawasan-biro-perjalanan-diperkuat"
     },
     {
-      "title": "Kemendag Sebut Ekspansi O!Save asal Filipina ke RI Bukan Bisnis Asing - CNN Indonesia",
+      "title": "Mendag: Program MBG Bantu Serap Pasokan Ayam dan Telur Peternak - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 08:16:57 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260812145958-92-1391500/kemendag-sebut-ekspansi-osave-asal-filipina-ke-ri-bukan-bisnis-asing"
+      "published": "Wed, 12 Aug 2026 08:27:00 GMT",
+      "link": "https://www.metrotvnews.com/read/NA0Crlm6-mendag-program-mbg-bantu-serap-pasokan-ayam-dan-telur-peternak"
     },
     {
-      "title": "Ekonom: Tujuan Danantara Bisa Kabur Jika Nanti Terlalu Sering Jadi Sumber Dana APBN - kontan.co.id",
+      "title": "BEI Kantongi Calon Investor yang Minat Genggam Saham Bursa - Infobanknews",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:53:48 GMT",
-      "link": "https://nasional.kontan.co.id/news/ekonom-tujuan-danantara-bisa-kabur-jika-nanti-terlalu-sering-jadi-sumber-dana-apbn"
-    },
-    {
-      "title": "Bos Danantara Rosan Rapat dengan IDSurvey, Bahas DSI - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:50:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260812134624-4-758581/bos-danantara-rosan-rapat-dengan-idsurvey-bahas-dsi"
-    },
-    {
-      "title": "Menteri UMKM: Penurunan bunga Mekaar bentuk keberpihakan - ANTARA News",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:45:35 GMT",
-      "link": "https://kupang.antaranews.com/berita/196696/menteri-umkm-penurunan-bunga-mekaar-bentuk-keberpihakan"
-    },
-    {
-      "title": "Kemendag Tanggapi Ekspansi Ritel O!Save Asal Filipina di Indonesia - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:40:25 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-tanggapi-ekspansi-ritel-osave"
-    },
-    {
-      "title": "Soal 274 BUMN Ditutup, Ida Nurlaela Ingatkan Pentingnya Kesehatan Perusahaan - Lensa Medan",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 07:37:00 GMT",
-      "link": "https://www.lensamedan.co.id/2026/08/soal-274-bumn-ditutup-ida-nurlaela.html"
-    },
-    {
-      "title": "Ritel Asal Filipina O!Save Menjamur di RI, Kemendag Bilang Begini - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 07:36:26 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615246/ritel-asal-filipina-o-save-menjamur-di-ri-kemendag-bilang-begini"
+      "published": "Wed, 12 Aug 2026 08:19:20 GMT",
+      "link": "https://infobanknews.com/bei-kantongi-calon-investor-yang-minat-genggam-saham-bursa"
     }
   ]
 }
