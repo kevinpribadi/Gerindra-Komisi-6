@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T01:43:14.879391",
+  "generated_at": "2026-08-12T04:05:14.176503",
   "party_counts_7d": {
-    "Gerindra": 24,
+    "Gerindra": 26,
     "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 10,
@@ -12,7 +12,7 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 70,
+    "Gerindra": 71,
     "PDI-P": 86,
     "Golkar": 62,
     "NasDem": 37,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
-    "koperasi": 71,
+    "bumn": 64,
+    "koperasi": 72,
     "investasi": 17,
     "danantara": 35,
+    "perdagangan": 6,
     "ekspor": 13,
-    "perdagangan": 5,
     "umkm": 21,
-    "ipo": 14,
+    "ipo": 15,
     "kartel-monopoli": 6,
     "merger-akuisisi": 6,
     "impor": 2
@@ -49,7 +49,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 10,
+    "Muhammad Husein Fadlulloh": 11,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
@@ -87,7 +87,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 86,
+    "Koperasi/UMKM": 87,
     "Kinerja BUMN": 5,
     "Perdagangan": 24,
     "Konflik Publik": 7,
@@ -95,11 +95,74 @@
   },
   "top_headlines": [
     {
+      "title": "Kemendag Inisiasi Gerai Maritim, Perdagangan Lintas Wilayah Diproyeksikan Capai Rp3.000 Triliun di 2029 - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "link": "https://swa.co.id/read/475965/kemendag-inisiasi-gerai-maritim-perdagangan-lintas-wilayah-diproyeksikan-capai-rp3000-triliun-di-2029"
+    },
+    {
+      "title": "Pemugaran 224 Candi Perwara Prambanan Dikebut, Target Rampung Sebelum 2029 - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 03:45:00 GMT",
+      "link": "https://voi.id/berita/589246/pemugaran-224-candi-perwara-prambanan-dikebut-target-rampung-sebelum-2029"
+    },
+    {
+      "title": "Andre Rosiade Siap Fasilitasi Penyelesaian Aduan Konsumen Perumahan Adhi Commuter Properti - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 03:12:56 GMT",
+      "link": "https://news.detik.com/berita/d-8614787/andre-rosiade-siap-fasilitasi-penyelesaian-aduan-konsumen-perumahan-adhi-commuter-properti"
+    },
+    {
+      "title": "Rapor Merah IPO BUMN Membayangi Rencana Danantara Boyong Pelat Merah ke Lantai Bursa - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 03:01:07 GMT",
+      "link": "https://insight.kontan.co.id/news/rapor-merah-ipo-bumn-membayangi-rencana-danantara-boyong-pelat-merah-ke-lantai-bursa"
+    },
+    {
+      "title": "Menkop Ferry Siapkan Dukungan Pembiayaan Koperasi untuk Bangun Pabrik CPO - NusantaraTV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 02:48:01 GMT",
+      "link": "https://www.nusantaratv.com/finance/menkop-ferry-siapkan-dukungan-pembiayaan-koperasi-untuk-bangun-pabrik-cpo"
+    },
+    {
+      "title": "PT Agrinas Palma Nusantara Tegaskan Komitmennya Memperkuat Koperasi dan Petani Dalam Pengembangan Hilirisasi Kelapa Sawit - Kantor Berita Sawit",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 02:46:38 GMT",
+      "link": "https://sawitindonesia.com/pt-agrinas-palma-nusantara-tegaskan-komitmennya-memperkuat-koperasi-dan-petani-dalam-pengembangan-hilirisasi-kelapa-sawit/"
+    },
+    {
+      "title": "Danantara Bikin Cuan BUMN Makin Tebal, Timah Pimpin Kenaikan Laba 804% - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 02:20:03 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260812085115-17-758458/danantara-bikin-cuan-bumn-makin-tebal-timah-pimpin-kenaikan-laba-804"
+    },
+    {
+      "title": "Mendag dorong industri otomotif maksimalkan perjanjian dagang - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 01:50:05 GMT",
+      "link": "https://www.antaranews.com/berita/5690237/mendag-dorong-industri-otomotif-maksimalkan-perjanjian-dagang"
+    },
+    {
       "title": "Listrik Mendadak Padam Saat Rapat, Ismail: Keluhan Warga Sulut Terbukti - DPR RI",
       "entity": "Ismail",
       "kind": "anggota",
       "published": "Wed, 12 Aug 2026 01:25:49 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Listrik-Mendadak-Padam-Saat-Rapat-Ismail-Keluhan-Warga-Sulut-Terbukti-67926"
+    },
+    {
+      "title": "Koperasi Sawit Diminta Tak Sekadar Jadi Wadah Petani, Ini Dorongan Menteri Koperasi - rmolsumsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 01:15:00 GMT",
+      "link": "https://www.rmolsumsel.id/koperasi-sawit-diminta-tak-sekadar-jadi-wadah-petani-ini-dorongan-menteri-koperasi"
     },
     {
       "title": "Toyota Incar Pasar Meksiko, Indonesia Tetap Jadi Supply Hub - Emitennews.com",
@@ -135,69 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 11 Aug 2026 22:58:37 GMT",
       "link": "https://aspek.id/prabowo-usul-sebagian-laba-danantara-masuk-cadangan-apbn/"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 18:53:34 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260812/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Menkop Ferry dorong hilirisasi sawit berbasis koperasi perkuat petani - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 18:10:32 GMT",
-      "link": "https://elshinta.com/indeks/dalam-negeri/menkop-ferry-dorong-hilirisasi-sawit-berbasis-koperasi-perkuat-petani-173271"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 17:29:12 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260812/Mjc0NDQ0"
-    },
-    {
-      "title": "Muba Jadi Pusat Bahasan Hilirisasi Sawit Berbasis Koperasi - katanda.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 17:08:41 GMT",
-      "link": "https://www.katanda.id/2026/08/12/muba-jadi-pusat-bahasan-hilirisasi-sawit-berbasis-koperasi/"
-    },
-    {
-      "title": "Kinerja BUMN di Bawah Danantara Berpotensi Makin Meroket - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 17:03:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/12/717907/kinerja-bumn-di-bawah-danantara-berpotensi-makin-meroket-"
-    },
-    {
-      "title": "Anggota DPR Ini Minta Badan Perlindungan Konsumen Selidiki Promosi Miras Pakai Hafalan Al-Qur'an - Kompas.tv",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 17:00:00 GMT",
-      "link": "https://www.kompas.tv/nasional/684973/anggota-dpr-ini-minta-badan-perlindungan-konsumen-selidiki-promosi-miras-pakai-hafalan-al-qur-an"
-    },
-    {
-      "title": "Anggota DPR Ini Minta Badan Perlindungan Konsumen Selidiki Promosi Miras Pakai Hafalan Al-Qur'an - Kompas.tv",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Tue, 11 Aug 2026 17:00:00 GMT",
-      "link": "https://www.kompas.tv/nasional/684973/anggota-dpr-ini-minta-badan-perlindungan-konsumen-selidiki-promosi-miras-pakai-hafalan-al-qur-an"
-    },
-    {
-      "title": "Harga semen Sumut naik 25-40 persen, KPPU dalami penyebabnya - Elshinta",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 15:30:00 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/harga-semen-sumut-naik-25-40-persen-kppu-dalami-penyebabnya-173259"
-    },
-    {
-      "title": "Kemenkop Dorong Agrinas Palma Bangun Ekosistem Sawit Berbasis Koperasi - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 15:16:27 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-dorong-agrinas-palma-bangun-ekosistem-sawit-koperasi"
     }
   ]
 }
