@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T14:54:11.050837",
+  "generated_at": "2026-08-12T15:56:49.171661",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 35,
+    "PDI-P": 34,
     "Golkar": 1,
     "NasDem": 7,
     "PKB": 21,
@@ -13,10 +13,10 @@
   },
   "party_counts_30d": {
     "Gerindra": 71,
-    "PDI-P": 87,
-    "Golkar": 51,
+    "PDI-P": 88,
+    "Golkar": 50,
     "NasDem": 38,
-    "PKB": 30,
+    "PKB": 29,
     "PKS": 48,
     "PAN": 22,
     "Demokrat": 30
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 26,
+    "umkm": 28,
     "bumn": 52,
     "koperasi": 70,
     "investasi": 23,
-    "danantara": 36,
-    "ekspor": 6,
-    "perdagangan": 9,
-    "impor": 3,
+    "danantara": 38,
+    "ekspor": 7,
+    "perdagangan": 10,
+    "impor": 2,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
     "ipo": 5
@@ -58,21 +58,21 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 20,
     "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 1,
-    "Muhammad Sarmuji": 7,
+    "Muhammad Sarmuji": 6,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 1,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -87,7 +87,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 91,
+    "Koperasi/UMKM": 93,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 6,
     "Perdagangan": 19,
@@ -95,11 +95,53 @@
   },
   "top_headlines": [
     {
+      "title": "Diresmikan, PKS KUD Sejahtera tonggak baru hilirisasi sawit berbasis koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 15:20:53 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/diresmikan-pks-kud-sejahtera-tonggak-baru-hilirisasi-sawit-berbasis-koperasi-173343"
+    },
+    {
+      "title": "Moncernya Performa BUMN di Bawah Danantara, Jadi Bukti Kinerja Positif Pemerintahan Prabowo - inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 15:14:00 GMT",
+      "link": "https://www.inilah.com/moncernya-performa-bumn-di-bawah-danantara-jadi-bukti-kinerja-positif-pemerintahan-prabowo"
+    },
+    {
+      "title": "Dari Pojok Kemendag, Produk UMKM Dibidik Masuk Ritel hingga Ekspor - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 15:02:16 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/12/dari-pojok-kemendag-produk-umkm-dibidik-masuk-ritel-hingga-ekspor/"
+    },
+    {
+      "title": "LRT City Mangkrak, Danantara dan BP BUMN Panggil Direksi Adhi Karya - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 15:01:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/12/220156321/lrt-city-mangkrak-danantara-dan-bp-bumn-panggil-direksi-adhi-karya"
+    },
+    {
+      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi Untuk Listrik - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 15:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik-b2pY2ZbhjI"
+    },
+    {
       "title": "Mendag Budi Resmikan Pojok PPPB, Buka Akses Pasar UMKM - TVRI News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 14:52:55 GMT",
       "link": "https://ekonomi.tvrinews.com/berita/t8sd0fz-mendag-budi-resmikan-pojok-pppb-buka-akses-pasar-umkm"
+    },
+    {
+      "title": "26 produk UMKM dipasarkan di Point Coffee kantor Kemendag - Elshinta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 14:50:07 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/26-produk-umkm-dipasarkan-di-point-coffee-kantor-kemendag-173340"
     },
     {
       "title": "Danantara Siap Jadi Investor BEI Pasca Demutualisasi, Masuk Lewat DIM - CNBC Indonesia",
@@ -114,6 +156,13 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 14:00:42 GMT",
       "link": "https://elshinta.com/kategori/1/ekonomi/transaksi-umkm-bisa-ekspor-melonjak-kemendag-bidik-300-juta-dolar-as-tahun-2026-173338"
+    },
+    {
+      "title": "Persoalan LRT City jadi Sorotan, Dony Oskaria Panggil Adhi Karya - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 13:53:00 GMT",
+      "link": "https://voi.id/ekonomi/589390/persoalan-lrt-city-jadi-sorotan-dony-oskaria-panggil-adhi-karya"
     },
     {
       "title": "Kemenpar Gandeng Danantara Dorong Investasi Pariwisata dan Perpanjang Lama Tinggal Wisatawan - TVRI News",
@@ -137,67 +186,18 @@
       "link": "https://www.fraksigerindra.id/mulyadi-dorong-tol-bogor-ciawi-sukabumi-diperpanjang-hingga-palabuhanratu/"
     },
     {
+      "title": "Tak Sekadar Tampung TBS, Koperasi Sawit di Sumsel Dibidik Jajaki Bisnis Minyak Goreng - Bisnis.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 12:27:09 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260812/534/1995753/tak-sekadar-tampung-tbs-koperasi-sawit-di-sumsel-dibidik-jajaki-bisnis-minyak-goreng"
+    },
+    {
       "title": "Kementerian Pariwisata dan Danantara kolaborasi kembangkan pariwisata - ANTARA News",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 12:15:01 GMT",
       "link": "https://www.antaranews.com/berita/5691355/kementerian-pariwisata-dan-danantara-kolaborasi-kembangkan-pariwisata"
-    },
-    {
-      "title": "GAS : Kementerian Koperasi Pernah Minta Pemkab Garut Segera Proses Pembubaran Koperasi Kiara Dodot - deJurnal.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 12:05:36 GMT",
-      "link": "https://dejurnal.com/2026/08/gas-kementerian-koperasi-pernah-minta-pemkab-garut-segera-proses-pembubaran-koperasi-kiara-dodot/"
-    },
-    {
-      "title": "PKS KUD Sejahtera Muba Diresmikan, Menteri Koperasi Dorong Petani Masuk Hilirisasi Sawit - rmolsumsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:58:00 GMT",
-      "link": "https://www.rmolsumsel.id/pks-kud-sejahtera-muba-diresmikan-menteri-koperasi-dorong-petani-masuk-hilirisasi-sawit"
-    },
-    {
-      "title": "Budi Santoso Ungkap Tarif Resiprokal AS ke Indonesia Kini 10 Persen - BorneoFlash.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:34:00 GMT",
-      "link": "https://borneoflash.com/2026/08/12/budi-santoso-ungkap-tarif-resiprokal-as-ke-indonesia-kini-10-persen"
-    },
-    {
-      "title": "Danantara Turun Tangan soal Polemik LRT City, Adhi Karya Didesak Segera Bereskan - detikcom",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:32:44 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8615714/danantara-turun-tangan-soal-polemik-lrt-city-adhi-karya-didesak-segera-bereskan"
-    },
-    {
-      "title": "Purbaya Bertemu CTO Danantara, Ini yang Dibahas - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:30:15 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615738/purbaya-bertemu-cto-danantara-ini-yang-dibahas"
-    },
-    {
-      "title": "Menkop Resmikan Pabrik Sawit Percontohan Milik Koperasi Di Musi Banyuasin - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:09:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/321486/menkop-resmikan-pabrik-sawit-percontohan-milik-koperasi-di-musi-banyuasin"
-    },
-    {
-      "title": "Danantara dan BP BUMN Minta Adhi Karya Bereskan Masalah LRT City - Tirto.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:09:00 GMT",
-      "link": "https://tirto.id/danantara-dan-bp-bumn-minta-adhi-karya-bereskan-masalah-lrt-city-hA9S"
-    },
-    {
-      "title": "Kemenkop: Regulasi distribusi barang subsidi disesuaikan untuk KDKMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:07:18 GMT",
-      "link": "https://www.antaranews.com/berita/5691216/kemenkop-regulasi-distribusi-barang-subsidi-disesuaikan-untuk-kdkmp"
     }
   ]
 }
