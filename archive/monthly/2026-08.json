@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T04:05:14.176503",
+  "generated_at": "2026-08-12T06:11:42.040704",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 35,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 71,
-    "PDI-P": 86,
+    "PDI-P": 87,
     "Golkar": 62,
     "NasDem": 37,
     "PKB": 30,
@@ -37,13 +37,13 @@
     "bumn": 64,
     "koperasi": 72,
     "investasi": 17,
-    "danantara": 35,
+    "danantara": 34,
     "perdagangan": 6,
-    "ekspor": 13,
+    "ekspor": 12,
     "umkm": 21,
-    "ipo": 15,
-    "kartel-monopoli": 6,
-    "merger-akuisisi": 6,
+    "ipo": 14,
+    "kartel-monopoli": 7,
+    "merger-akuisisi": 4,
     "impor": 2
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
-    "Adisatrya Suryo Sulisto": 6,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -63,9 +63,9 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 7,
+    "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 5,
-    "Muhammad Sarmuji": 10,
+    "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 2,
@@ -87,13 +87,76 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
+    "Hukum/Audit": 16,
     "Koperasi/UMKM": 87,
     "Kinerja BUMN": 5,
-    "Perdagangan": 24,
-    "Konflik Publik": 7,
-    "Hukum/Audit": 15
+    "Perdagangan": 23,
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara Targetkan Groundbreaking PSEL Yogyakarta Desember 2026 - NusantaraTV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 06:10:29 GMT",
+      "link": "https://www.nusantaratv.com/news/danantara-targetkan-groundbreaking-psel-yogyakarta-desember-2026"
+    },
+    {
+      "title": "AS Tetapkan Tarif Perdagangan Indonesia Sebesar 10 Persen - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 06:00:22 GMT",
+      "link": "https://achmadnurhidayat.id/as-tetapkan-tarif-perdagangan-indonesia"
+    },
+    {
+      "title": "Peluang dan Risiko BUMN Melantai di Bursa - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 05:20:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/peluang-dan-risiko-bumn-melantai-di-bursa-2281469"
+    },
+    {
+      "title": "Kadis Reza : Diskop UKM Aceh Dorong Penguatan Koperasi dan Perluasan Pasar UMKM Hari UMKM Nasional - thejurnal.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 05:11:52 GMT",
+      "link": "https://thejurnal.id/news/kadis-reza-diskop-ukm-aceh-dorong-penguatan-koperasi-dan-perluasan-pasar-umkm-hari-umkm-nasional/index.html"
+    },
+    {
+      "title": "Koperasi Didorong Bangun Pabrik CPO, Pemerintah Siapkan Skema Pembiayaan - sawitsetara.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 04:52:06 GMT",
+      "link": "https://www.sawitsetara.co/artikel/Berita/koperasi-didorong-bangun-pabrik-cpo-pemerintah-siapkan-skema-pembiayaan"
+    },
+    {
+      "title": "Harga Semen di Sumut Melonjak hingga 40 Persen, KPPU Telusuri Titik Hambatan Rantai Pasok - AnalisaDaily.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 04:35:26 GMT",
+      "link": "https://analisadaily.com/berita/baca/2026/08/12/1076478/harga-semen-di-sumut-melonjak-hingga-40-persen-kppu-telusuri-titik-hambatan-rantai-pasok/"
+    },
+    {
+      "title": "Desak Percepatan Streamlining BUMN, Hentikan Pemborosan - beritabuana.co",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 04:27:53 GMT",
+      "link": "https://beritabuana.co/2026/08/12/desak-percepatan-streamlining-bumn-hentikan-pemborosan/"
+    },
+    {
+      "title": "KSBSI NTB Soroti Dugaan Pelanggaran Hak Buruh BUMN, Upah Irwansyah Tak Dibayar 7 Bulan - Berita11.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 04:27:01 GMT",
+      "link": "https://berita11.com/regional/2026/08/12/17968/ksbsi-ntb-soroti-dugaan-pelanggaran-hak-buruh-bumn-upah-irwansyah-tak-dibayar-7-bulan/"
+    },
+    {
+      "title": "Mendag Dorong Ekspor Otomotif Manfaatkan Perjanjian Dagang - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 04:03:02 GMT",
+      "link": "https://www.metrotvnews.com/read/NOlC9EJM-mendag-dorong-ekspor-otomotif-manfaatkan-perjanjian-dagang"
+    },
     {
       "title": "Kemendag Inisiasi Gerai Maritim, Perdagangan Lintas Wilayah Diproyeksikan Capai Rp3.000 Triliun di 2029 - SWA.co.id",
       "entity": "Kementerian Perdagangan",
@@ -109,6 +172,20 @@
       "link": "https://voi.id/berita/589246/pemugaran-224-candi-perwara-prambanan-dikebut-target-rampung-sebelum-2029"
     },
     {
+      "title": "Agustusan di BP BUMN, Meriahkan Kemerdekaan dengan Kebersamaan dan Sportivitas - SINDOnews Ekbis",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 03:32:16 GMT",
+      "link": "https://ekbis.sindonews.com/read/1738119/34/agustusan-di-bp-bumn-meriahkan-kemerdekaan-dengan-kebersamaan-dan-sportivitas-1786504112"
+    },
+    {
+      "title": "KPPU Dorong Perusahaan Antisipasi Risiko Persaingan Usaha Sejak Dini - Kabar24",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 03:20:56 GMT",
+      "link": "https://kabar24.bisnis.com/read/20260812/15/1995559/kppu-dorong-perusahaan-antisipasi-risiko-persaingan-usaha-sejak-dini"
+    },
+    {
       "title": "Andre Rosiade Siap Fasilitasi Penyelesaian Aduan Konsumen Perumahan Adhi Commuter Properti - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
@@ -121,83 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 03:01:07 GMT",
       "link": "https://insight.kontan.co.id/news/rapor-merah-ipo-bumn-membayangi-rencana-danantara-boyong-pelat-merah-ke-lantai-bursa"
-    },
-    {
-      "title": "Menkop Ferry Siapkan Dukungan Pembiayaan Koperasi untuk Bangun Pabrik CPO - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 02:48:01 GMT",
-      "link": "https://www.nusantaratv.com/finance/menkop-ferry-siapkan-dukungan-pembiayaan-koperasi-untuk-bangun-pabrik-cpo"
-    },
-    {
-      "title": "PT Agrinas Palma Nusantara Tegaskan Komitmennya Memperkuat Koperasi dan Petani Dalam Pengembangan Hilirisasi Kelapa Sawit - Kantor Berita Sawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 02:46:38 GMT",
-      "link": "https://sawitindonesia.com/pt-agrinas-palma-nusantara-tegaskan-komitmennya-memperkuat-koperasi-dan-petani-dalam-pengembangan-hilirisasi-kelapa-sawit/"
-    },
-    {
-      "title": "Danantara Bikin Cuan BUMN Makin Tebal, Timah Pimpin Kenaikan Laba 804% - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 02:20:03 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260812085115-17-758458/danantara-bikin-cuan-bumn-makin-tebal-timah-pimpin-kenaikan-laba-804"
-    },
-    {
-      "title": "Mendag dorong industri otomotif maksimalkan perjanjian dagang - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 01:50:05 GMT",
-      "link": "https://www.antaranews.com/berita/5690237/mendag-dorong-industri-otomotif-maksimalkan-perjanjian-dagang"
-    },
-    {
-      "title": "Listrik Mendadak Padam Saat Rapat, Ismail: Keluhan Warga Sulut Terbukti - DPR RI",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 01:25:49 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Listrik-Mendadak-Padam-Saat-Rapat-Ismail-Keluhan-Warga-Sulut-Terbukti-67926"
-    },
-    {
-      "title": "Koperasi Sawit Diminta Tak Sekadar Jadi Wadah Petani, Ini Dorongan Menteri Koperasi - rmolsumsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 01:15:00 GMT",
-      "link": "https://www.rmolsumsel.id/koperasi-sawit-diminta-tak-sekadar-jadi-wadah-petani-ini-dorongan-menteri-koperasi"
-    },
-    {
-      "title": "Toyota Incar Pasar Meksiko, Indonesia Tetap Jadi Supply Hub - Emitennews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 00:31:00 GMT",
-      "link": "https://www.emitennews.com/news/toyota-incar-pasar-meksiko-indonesia-tetap-jadi-supply-hub"
-    },
-    {
-      "title": "Kemendag Dorong TMMIN Maksimalkan Perjanjian Dagang untuk Dongkrak Ekspor - Industry.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 23:42:00 GMT",
-      "link": "https://www.industry.co.id/read/154401/kemendag-dorong-tmmin-maksimalkan-perjanjian-dagang-untuk-dongkrak-ekspor"
-    },
-    {
-      "title": "Penempatan Manajer Koperasi Desa Merah Putih Tunggu Kementerian BUMN - suarasurabaya.net",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 23:30:45 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/penempatan-manajer-koperasi-desa-merah-putih-tunggu-kementerian-bumn/"
-    },
-    {
-      "title": "Penempatan Manajer Koperasi Desa Merah Putih Tunggu Kementerian BUMN - suarasurabaya.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 23:30:45 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/penempatan-manajer-koperasi-desa-merah-putih-tunggu-kementerian-bumn/"
-    },
-    {
-      "title": "Prabowo Usul Sebagian Laba Danantara Masuk Cadangan APBN - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 11 Aug 2026 22:58:37 GMT",
-      "link": "https://aspek.id/prabowo-usul-sebagian-laba-danantara-masuk-cadangan-apbn/"
     }
   ]
 }
