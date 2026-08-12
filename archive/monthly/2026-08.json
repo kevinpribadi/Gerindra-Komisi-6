@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T21:41:32.064318",
+  "generated_at": "2026-08-12T23:37:46.575177",
   "party_counts_7d": {
     "Gerindra": 31,
     "PDI-P": 35,
     "Golkar": 1,
-    "NasDem": 7,
+    "NasDem": 6,
     "PKB": 21,
     "PKS": 15,
     "PAN": 3,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "umkm": 31,
-    "bumn": 52,
+    "bumn": 53,
     "koperasi": 68,
     "investasi": 23,
     "danantara": 40,
@@ -94,6 +94,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Bank BUMN di Pusaran Kredit Koperasi Merah Putih - Kompas.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 23:00:00 GMT",
+      "link": "https://www.kompas.id/artikel/himbara-dalam-pusaran-kredit-program-koperasi-merah-putih"
+    },
     {
       "title": "2.587 Koperasi Punya Peluang Hilirisasi, Pabrik CPO Jadi Jalan Naik Kelas Petani Sawit - AFU.id",
       "entity": "Kementerian Koperasi",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 14:52:55 GMT",
       "link": "https://ekonomi.tvrinews.com/berita/t8sd0fz-mendag-budi-resmikan-pojok-pppb-buka-akses-pasar-umkm"
-    },
-    {
-      "title": "26 produk UMKM dipasarkan di Point Coffee kantor Kemendag - Elshinta",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 14:50:07 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/26-produk-umkm-dipasarkan-di-point-coffee-kantor-kemendag-173340"
     }
   ]
 }
