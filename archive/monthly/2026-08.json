@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T13:02:06.331535",
+  "generated_at": "2026-08-12T14:54:11.050837",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 34,
+    "Gerindra": 30,
+    "PDI-P": 35,
     "Golkar": 1,
     "NasDem": 7,
     "PKB": 21,
@@ -12,7 +12,7 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 70,
+    "Gerindra": 71,
     "PDI-P": 87,
     "Golkar": 51,
     "NasDem": 38,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 23,
-    "bumn": 53,
+    "umkm": 26,
+    "bumn": 52,
     "koperasi": 70,
-    "investasi": 21,
+    "investasi": 23,
     "danantara": 36,
-    "perdagangan": 7,
-    "ekspor": 7,
+    "ekspor": 6,
+    "perdagangan": 9,
     "impor": 3,
-    "ipo": 6,
     "kartel-monopoli": 7,
-    "merger-akuisisi": 4
+    "merger-akuisisi": 3,
+    "ipo": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,7 +52,7 @@
     "Muhammad Husein Fadlulloh": 10,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 13,
+    "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
@@ -87,13 +87,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 88,
+    "Koperasi/UMKM": 91,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 6,
     "Perdagangan": 19,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Mendag Budi Resmikan Pojok PPPB, Buka Akses Pasar UMKM - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 14:52:55 GMT",
+      "link": "https://ekonomi.tvrinews.com/berita/t8sd0fz-mendag-budi-resmikan-pojok-pppb-buka-akses-pasar-umkm"
+    },
+    {
+      "title": "Danantara Siap Jadi Investor BEI Pasca Demutualisasi, Masuk Lewat DIM - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 14:22:37 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260812173210-17-758678/danantara-siap-jadi-investor-bei-pasca-demutualisasi-masuk-lewat-dim"
+    },
+    {
+      "title": "Transaksi UMKM BISA Ekspor melonjak, Kemendag bidik 300 juta Dolar AS tahun 2026 - Elshinta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 14:00:42 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/transaksi-umkm-bisa-ekspor-melonjak-kemendag-bidik-300-juta-dolar-as-tahun-2026-173338"
+    },
+    {
+      "title": "Kemenpar Gandeng Danantara Dorong Investasi Pariwisata dan Perpanjang Lama Tinggal Wisatawan - TVRI News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 13:49:33 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t8z5dv6-kemenpar-gandeng-danantara-dorong-investasi-pariwisata-dan-perpanjang-lama-tinggal-wisatawan"
+    },
+    {
+      "title": "Kemendag perluas akses UMKM ke ritel modern - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 13:38:26 GMT",
+      "link": "https://www.antaranews.com/berita/5691524/kemendag-perluas-akses-umkm-ke-ritel-modern"
+    },
+    {
+      "title": "Mulyadi Dorong Tol Bogor–Ciawi–Sukabumi Diperpanjang hingga Palabuhanratu - fraksi gerindra dpr-ri",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 13:00:39 GMT",
+      "link": "https://www.fraksigerindra.id/mulyadi-dorong-tol-bogor-ciawi-sukabumi-diperpanjang-hingga-palabuhanratu/"
+    },
     {
       "title": "Kementerian Pariwisata dan Danantara kolaborasi kembangkan pariwisata - ANTARA News",
       "entity": "Danantara",
@@ -114,6 +156,13 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 11:58:00 GMT",
       "link": "https://www.rmolsumsel.id/pks-kud-sejahtera-muba-diresmikan-menteri-koperasi-dorong-petani-masuk-hilirisasi-sawit"
+    },
+    {
+      "title": "Budi Santoso Ungkap Tarif Resiprokal AS ke Indonesia Kini 10 Persen - BorneoFlash.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 11:34:00 GMT",
+      "link": "https://borneoflash.com/2026/08/12/budi-santoso-ungkap-tarif-resiprokal-as-ke-indonesia-kini-10-persen"
     },
     {
       "title": "Danantara Turun Tangan soal Polemik LRT City, Adhi Karya Didesak Segera Bereskan - detikcom",
@@ -149,55 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 11:07:18 GMT",
       "link": "https://www.antaranews.com/berita/5691216/kemenkop-regulasi-distribusi-barang-subsidi-disesuaikan-untuk-kdkmp"
-    },
-    {
-      "title": "Purbaya \"Tagih\" Keuntungan Danantara untuk Kurangi Utang, Mulai Berlaku 2027 - CaraPandang",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:07:00 GMT",
-      "link": "https://carapandang.com/news/read/purbaya-tagih-keuntungan-danantara-untuk-kurangi-utang-mulai-berlaku-2027"
-    },
-    {
-      "title": "Danantara SiapJadi Investor BEI Pasca Demutualisasi, Masuk Lewat DIM - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:00:40 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260812173210-17-758678/danantara-siapjadi-investor-bei-pasca-demutualisasi-masuk-lewat-dim"
-    },
-    {
-      "title": "Agrinas Palma Perkuat Ekosistem Sawit Berbasis Koperasi - SWA.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 11:00:00 GMT",
-      "link": "https://swa.co.id/read/475987/agrinas-palma-perkuat-ekosistem-sawit-berbasis-koperasi"
-    },
-    {
-      "title": "Mendag: Indonesia dapat tarif imbal balik AS 10 persen - antaranews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 10:25:55 GMT",
-      "link": "https://www.antaranews.com/berita/5691121/mendag-indonesia-dapat-tarif-imbal-balik-as-10-persen"
-    },
-    {
-      "title": "Siaran Pers: Kemenpar dan Danantara Perkuat Investasi Pariwisata Berkualitas - kemenpar.go.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 10:20:09 GMT",
-      "link": "https://kemenpar.go.id/berita/siaran-pers-kemenpar-dan-danantara-perkuat-investasi-pariwisata-berkualitas"
-    },
-    {
-      "title": "Muba Ukir Tonggak Sejarah, Pabrik Sawit Koperasi Jadi Model Indonesia - divianews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 10:17:00 GMT",
-      "link": "https://divianews.com/2026/08/12/muba-ukir-tonggak-sejarah-pabrik-sawit-koperasi-jadi-model-indonesia/"
-    },
-    {
-      "title": "Bos BEI Sebut Danantara Investment Management Jadi Investor Potensial Pasca Demutualisasi - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 10:15:00 GMT",
-      "link": "https://swa.co.id/read/475976/bos-bei-sebut-danantara-investment-management-jadi-investor-potensial-pasca-demutualisasi"
     }
   ]
 }
