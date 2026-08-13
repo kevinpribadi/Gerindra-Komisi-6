@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T06:14:33.298319",
+  "generated_at": "2026-08-13T08:18:22.183918",
   "party_counts_7d": {
     "Gerindra": 34,
-    "PDI-P": 34,
+    "PDI-P": 35,
     "Golkar": 3,
-    "NasDem": 7,
+    "NasDem": 6,
     "PKB": 22,
-    "PKS": 14,
+    "PKS": 13,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 69,
-    "PDI-P": 88,
-    "Golkar": 52,
+    "Gerindra": 68,
+    "PDI-P": 87,
+    "Golkar": 51,
     "NasDem": 38,
     "PKB": 30,
     "PKS": 50,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "umkm": 30,
-    "bumn": 54,
+    "bumn": 57,
     "koperasi": 65,
-    "investasi": 23,
-    "danantara": 39,
-    "perdagangan": 13,
+    "investasi": 24,
+    "danantara": 40,
+    "perdagangan": 14,
     "ekspor": 7,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
@@ -50,10 +50,10 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 9,
-    "Mulan Jameela": 3,
+    "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 6,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -63,7 +63,7 @@
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
-    "Firnando Hadityo Ganinduto": 8,
+    "Firnando Hadityo Ganinduto": 7,
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
@@ -93,6 +93,48 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara tegaskan peran BUMN bagi ekosistem perdagangan nasional - antaranews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 07:40:41 GMT",
+      "link": "https://www.antaranews.com/berita/5692476/danantara-tegaskan-peran-bumn-bagi-ekosistem-perdagangan-nasional"
+    },
+    {
+      "title": "Sinergi Indomaret Group, Kemendag, dan BRI Perkuat Kewirausahaan Pascapurnabakti - indomaret.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 07:28:31 GMT",
+      "link": "https://www.indomaret.co.id/sinergi-indomaret-group-kemendag-dan-bri-perkuat-kewirausahaan-pascapurnabakti/"
+    },
+    {
+      "title": "Pembahasan RUU Ketenagakerjaan Momentum Rekonstruksi Total Hukum Ketenagakerjaan - MetroTVNews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 07:20:49 GMT",
+      "link": "https://www.metrotvnews.com/play/b7WCmQDp-pembahasan-ruu-ketenagakerjaan-momentum-rekonstruksi-total-hukum-ketenagakerjaan"
+    },
+    {
+      "title": "Sehatkan BUMN, Ida Nurlaela Minta Danantara Cepat Menyelesaikan Evaluasinya - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sehatkan-bumn-ida-nurlaela-minta-danantara-cepat-menyelesaikan-evaluasinya-b2pY2Zbhi9"
+    },
+    {
+      "title": "Pemerintah Dorong Danantara Ikut Investasi di Proyek Hilirisasi - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 06:55:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260813123713-4-758917/pemerintah-dorong-danantara-ikut-investasi-di-proyek-hilirisasi"
+    },
+    {
+      "title": "Danantara Kucurkan Rp225 Triliun, 37.833 Lapangan Kerja Baru Bakal Dibuka - Sumut Pos",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 05:46:30 GMT",
+      "link": "https://sumutpos.jawapos.com/nasional/2608130026/danantara-kucurkan-rp225-triliun-37833-lapangan-kerja-baru-bakal-dibuka"
+    },
     {
       "title": "Winarni Monoarfa PAW Rachmat Gobel - Newsnesia.id",
       "entity": "Rachmat Gobel",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 04:04:48 GMT",
       "link": "https://jabar.suara.com/read/2026/08/13/110448/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik"
-    },
-    {
-      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi untuk Listrik - Suarajabar.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 04:04:48 GMT",
-      "link": "https://jabar.suara.com/read/2026/08/13/110448/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik"
-    },
-    {
-      "title": "Menteri Perindustrian dan Perdagangan Le Manh Hung mengadakan pertemuan bilateral dengan Menteri Perdagangan dan Investasi Selandia Baru, Todd McClay. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 03:54:50 GMT",
-      "link": "https://www.vietnam.vn/id/bo-truong-bo-cong-thuong-le-manh-hung-lam-viec-song-phuong-voi-bo-truong-phu-trach-thuong-mai-va-dau-tu-new-zealand-todd-mcclay"
-    },
-    {
-      "title": "Kemenkop Tegaskan Hilirisasi Sawit Berbasis Koperasi, LPDB Siapkan Pembiayaan - kumparan.com - Kumparan.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 03:48:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/kemenkop-tegaskan-hilirisasi-sawit-berbasis-koperasi-lpdb-siapkan-pembiayaan-27yby3mYwqP"
-    },
-    {
-      "title": "Rombak Jajaran Direksi, Garuda Indonesia Copot Sementara Reza Aulia Hakim dari Direktur Niaga - Inilah.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 03:21:00 GMT",
-      "link": "https://www.inilah.com/rombak-jajaran-direksi-garuda-indonesia-copot-sementara-reza-aulia-hakim-dari-direktur-niaga"
-    },
-    {
-      "title": "Andre Rosiade Temui Menteri PU, Kawal Percepatan Infrastruktur Sumbar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 03:05:58 GMT",
-      "link": "https://news.detik.com/berita/d-8616293/andre-rosiade-temui-menteri-pu-kawal-percepatan-infrastruktur-sumbar"
-    },
-    {
-      "title": "Koperasi Sawit Siap Kelola Lahan Sitaan Negara, Gandeng Agrinas - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 02:51:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/13/095100826/koperasi-sawit-siap-kelola-lahan-sitaan-negara-gandeng-agrinas"
     }
   ]
 }
