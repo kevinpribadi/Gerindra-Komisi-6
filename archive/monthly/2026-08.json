@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T04:09:28.135270",
+  "generated_at": "2026-08-13T06:14:33.298319",
   "party_counts_7d": {
     "Gerindra": 34,
-    "PDI-P": 33,
-    "Golkar": 2,
-    "NasDem": 6,
-    "PKB": 21,
+    "PDI-P": 34,
+    "Golkar": 3,
+    "NasDem": 7,
+    "PKB": 22,
     "PKS": 14,
-    "PAN": 3,
+    "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 70,
+    "Gerindra": 69,
     "PDI-P": 88,
-    "Golkar": 51,
+    "Golkar": 52,
     "NasDem": 38,
-    "PKB": 29,
+    "PKB": 30,
     "PKS": 50,
     "PAN": 22,
     "Demokrat": 30
@@ -34,22 +34,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 31,
-    "bumn": 51,
-    "koperasi": 66,
+    "umkm": 30,
+    "bumn": 54,
+    "koperasi": 65,
     "investasi": 23,
     "danantara": 39,
-    "perdagangan": 14,
+    "perdagangan": 13,
     "ekspor": 7,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
-    "ipo": 5,
+    "ipo": 4,
     "impor": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 10,
+    "Muhammad Husein Fadlulloh": 9,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 5,
+    "Nurdin Halid": 6,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
@@ -72,7 +72,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 6,
     "Anggia Erma Rini": 6,
-    "Rivqy Abdul Halim": 1,
+    "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
@@ -93,6 +93,76 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Winarni Monoarfa PAW Rachmat Gobel - Newsnesia.id",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 05:30:28 GMT",
+      "link": "https://newsnesia.id/winarni-monoarfa-paw-rachmat-gobel/"
+    },
+    {
+      "title": "Kemenkop Dorong Hilirisasi Sawit Berbasis Koperasi, LPDB Siapkan Pembiayaan - Harian Dialog",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 05:18:06 GMT",
+      "link": "https://hariandialog.co.id/kemenkop-dorong-hilirisasi-sawit-berbasis-koperasi-lpdb-siapkan-pembiayaan/"
+    },
+    {
+      "title": "Kemenkop Bidik 40 Pabrik CPO Milik Koperasi dalam 2 Tahun, Petani Sawit Jadi Penggerak - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 05:14:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/13/121400126/kemenkop-bidik-40-pabrik-cpo-milik-koperasi-dalam-2-tahun-petani-sawit-jadi"
+    },
+    {
+      "title": "Beras Fortifikasi Tak Sesuai Standar, Kemendag Buka Suara - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 05:09:09 GMT",
+      "link": "https://www.metrotvnews.com/read/N0BC1nWw-beras-fortifikasi-tak-sesuai-standar-kemendag-buka-suara"
+    },
+    {
+      "title": "Rieke Pitaloka Usul Perubahan Nomenklatur RUU Ketenagakerjaan - MetroTVNews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 05:02:53 GMT",
+      "link": "https://www.metrotvnews.com/read/kM6C46qe-rieke-pitaloka-usul-perubahan-nomenklatur-ruu-ketenagakerjaan"
+    },
+    {
+      "title": "Solar Subsidi Diburu Truk Industri, Nurdin Halid Minta Pertamina dan Aparat Bertindak Tegas - Golkarpedia",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 05:02:18 GMT",
+      "link": "https://golkarpedia.com/solar-subsidi-diburu-truk-industri-nurdin-halid-minta-pertamina-dan-aparat-bertindak-tegas/"
+    },
+    {
+      "title": "KSP: Hilirisasi Berbasis Koperasi Bukti Nyata Ekonomi Kerakyatan yang Digagas dari Desa - Kantor Staf Presiden",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 05:00:57 GMT",
+      "link": "https://www.ksp.go.id/ksp-hilirisasi-berbasis-koperasi-bukti-nyata-ekonomi-kerakyatan-yang-digagas-dari-desa.html"
+    },
+    {
+      "title": "Purbaya: Sebagian Keuntungan Danantara untuk APBN - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 04:50:18 GMT",
+      "link": "https://www.tempo.co/ekonomi/purbaya-sebagian-keuntungan-danantara-untuk-apbn--2281728"
+    },
+    {
+      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi untuk Listrik - Suarajabar.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 04:04:48 GMT",
+      "link": "https://jabar.suara.com/read/2026/08/13/110448/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik"
+    },
+    {
+      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi untuk Listrik - Suarajabar.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 04:04:48 GMT",
+      "link": "https://jabar.suara.com/read/2026/08/13/110448/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik"
+    },
     {
       "title": "Menteri Perindustrian dan Perdagangan Le Manh Hung mengadakan pertemuan bilateral dengan Menteri Perdagangan dan Investasi Selandia Baru, Todd McClay. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -127,76 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 02:51:00 GMT",
       "link": "https://money.kompas.com/read/2026/08/13/095100826/koperasi-sawit-siap-kelola-lahan-sitaan-negara-gandeng-agrinas"
-    },
-    {
-      "title": "Pabrik Sawit KUD Sejahtera Diresmikan, Menkop Dorong Koperasi Perkuat Hilirisasi - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 02:22:56 GMT",
-      "link": "https://suarapemerintah.id/2026/08/pabrik-sawit-kud-sejahtera-diresmikan-menkop-dorong-koperasi-perkuat-hilirisasi/"
-    },
-    {
-      "title": "Menkop: Hilirisasi Kelapa Sawit Berbasis Koperasi Perkuat Daya Tawar Petani - agrofarm.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 01:53:19 GMT",
-      "link": "http://www.agrofarm.co.id/2026/08/menkop-hilirisasi-kelapa-sawit-berbasis-koperasi-perkuat-daya-tawar-petani/"
-    },
-    {
-      "title": "DPR Lagi Rapat soal Pasokan Listrik, Mendadak Mati Lampu, Guyonan Ismail: Teori Langsung Praktik - Herald ID",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 01:38:00 GMT",
-      "link": "https://herald.id/2026/08/13/dpr-lagi-rapat-soal-pasokan-listrik-mendadak-mati-lampu-guyonan-ismail-teori-langsung-praktik/"
-    },
-    {
-      "title": "KPPU Usut Lonjakan Harga dan Kelangkaan Semen di Sumatera Utara - Akurat Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 01:20:44 GMT",
-      "link": "https://sumut.akurat.co/seputar-sumut/881636/kppu-usut-lonjakan-harga-dan-kelangkaan-semen-di-sumatera-utara"
-    },
-    {
-      "title": "Bukukan Laba Rp 2,40 Triliun Pada Semester I/2026, BTN Disanjung DPR - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 00:56:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/321580/bukukan-laba-rp-240-triliun-padasemester-i2026-btn-disanjung-dpr"
-    },
-    {
-      "title": "Kemendag perluas akses UMKM ke ritel modern - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 00:33:01 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/418773/kemendag-perluas-akses-umkm-ke-ritel-modern"
-    },
-    {
-      "title": "Kemendag Sebut Ritel O!Save di RI Bukan Perusahaan Asing - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 00:00:14 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615965/kemendag-sebut-ritel-o-save-di-ri-bukan-perusahaan-asing"
-    },
-    {
-      "title": "Hindari Pecah Kongsi, Golkar Dukung Pilkada Tanpa Wakil Kepala Daerah - RM.ID",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 23:50:00 GMT",
-      "link": "https://rm.id/baca-berita/parpol/321549/hindari-pecah-kongsi-golkar-dukung-pilkada-tanpa-wakil-kepala-daerah"
-    },
-    {
-      "title": "BPI Danantara Incar Saham BEI Melalui Skema Demutualisasi - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 23:44:00 GMT",
-      "link": "https://achmadnurhidayat.id/bpi-danantara-incar-saham-bei-melalui-skema-demutualisasi"
-    },
-    {
-      "title": "Danantara Mulai Disiapkan Jadi Sumber Dana Tambahan APBN 2027 - nasional.kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 23:35:58 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-mulai-disiapkan-jadi-sumber-dana-tambahan-apbn-2027"
     }
   ]
 }
