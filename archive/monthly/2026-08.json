@@ -1,15 +1,15 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T08:18:22.183918",
+  "generated_at": "2026-08-13T10:01:57.533822",
   "party_counts_7d": {
     "Gerindra": 34,
-    "PDI-P": 35,
+    "PDI-P": 34,
     "Golkar": 3,
-    "NasDem": 6,
+    "NasDem": 5,
     "PKB": 22,
-    "PKS": 13,
+    "PKS": 12,
     "PAN": 2,
-    "Demokrat": 3
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 68,
@@ -37,10 +37,10 @@
     "umkm": 30,
     "bumn": 57,
     "koperasi": 65,
-    "investasi": 24,
+    "investasi": 22,
     "danantara": 40,
     "perdagangan": 14,
-    "ekspor": 7,
+    "ekspor": 8,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
     "ipo": 4,
@@ -86,13 +86,41 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 93,
+    "Koperasi/UMKM": 94,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 6,
-    "Perdagangan": 20,
+    "Perdagangan": 21,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara Dukung Aktivitas Ekspor ASDEKI - koran medan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 09:34:00 GMT",
+      "link": "https://koranmedan.id/2026/08/danantara-dukung-aktivitas-ekspor-asdeki/"
+    },
+    {
+      "title": "Danantara Dorong Himbara Beri Kredit Motor Listrik DP Nol Persen - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 08:52:31 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-dorong-kredit-motor-listrik-dp-nol-persen"
+    },
+    {
+      "title": "Bos Danantara: DP Motor Listrik Nasional 0% - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 08:36:01 GMT",
+      "link": "https://finance.detik.com/industri/d-8616956/bos-danantara-dp-motor-listrik-nasional-0"
+    },
+    {
+      "title": "Shopee dan Kemendag Luncurkan Program Akselerasi Produk Lokal - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 08:19:21 GMT",
+      "link": "https://achmadnurhidayat.id/shopee-kemendag-luncurkan-akselerasi-produk-lokal"
+    },
     {
       "title": "Danantara tegaskan peran BUMN bagi ekosistem perdagangan nasional - antaranews.com",
       "entity": "Danantara",
@@ -169,34 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 13 Aug 2026 05:02:53 GMT",
       "link": "https://www.metrotvnews.com/read/kM6C46qe-rieke-pitaloka-usul-perubahan-nomenklatur-ruu-ketenagakerjaan"
-    },
-    {
-      "title": "Solar Subsidi Diburu Truk Industri, Nurdin Halid Minta Pertamina dan Aparat Bertindak Tegas - Golkarpedia",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 05:02:18 GMT",
-      "link": "https://golkarpedia.com/solar-subsidi-diburu-truk-industri-nurdin-halid-minta-pertamina-dan-aparat-bertindak-tegas/"
-    },
-    {
-      "title": "KSP: Hilirisasi Berbasis Koperasi Bukti Nyata Ekonomi Kerakyatan yang Digagas dari Desa - Kantor Staf Presiden",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 05:00:57 GMT",
-      "link": "https://www.ksp.go.id/ksp-hilirisasi-berbasis-koperasi-bukti-nyata-ekonomi-kerakyatan-yang-digagas-dari-desa.html"
-    },
-    {
-      "title": "Purbaya: Sebagian Keuntungan Danantara untuk APBN - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 04:50:18 GMT",
-      "link": "https://www.tempo.co/ekonomi/purbaya-sebagian-keuntungan-danantara-untuk-apbn--2281728"
-    },
-    {
-      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi untuk Listrik - Suarajabar.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 04:04:48 GMT",
-      "link": "https://jabar.suara.com/read/2026/08/13/110448/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik"
     }
   ]
 }
