@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T17:58:06.942384",
+  "generated_at": "2026-08-13T19:08:19.575968",
   "party_counts_7d": {
     "Gerindra": 34,
     "PDI-P": 36,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 32,
+    "umkm": 31,
     "danantara": 40,
-    "bumn": 56,
+    "bumn": 55,
     "koperasi": 65,
-    "investasi": 23,
-    "perdagangan": 16,
+    "investasi": 22,
+    "perdagangan": 15,
     "impor": 2,
     "ekspor": 7,
     "kartel-monopoli": 7,
@@ -86,7 +86,7 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 96,
+    "Koperasi/UMKM": 95,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 5,
     "Perdagangan": 21,
@@ -143,6 +143,13 @@
       "link": "https://market.bisnis.com/read/20260813/192/1996093/danantara-ungkap-alasan-incar-saham-bei-bidik-kapitalisasi-pasar-naik"
     },
     {
+      "title": "Saham GOTO Didepak MSCI, Begini Respons Danantara - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 12:35:00 GMT",
+      "link": "https://infobanknews.com/saham-goto-didepak-msci-begini-respons-danantara"
+    },
+    {
       "title": "Rieke: Putusan MK Tentang Penghinaan Presiden Jaga Martabat, Jangan Matikan Kritik! - Suara Investor",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
@@ -190,13 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 13 Aug 2026 11:48:00 GMT",
       "link": "https://www.jurnas.com/artikel/1663611/rieke-pdip-putusan-mk-soal-penghinaan-presiden-harus-jaga-martabat/"
-    },
-    {
-      "title": "Dorong UMKM Go Global, Pemerintah Siapkan Strategi Baru - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:48:23 GMT",
-      "link": "https://www.cnbcindonesia.com/lifestyle/20260813133151-33-758939/dorong-umkm-go-global-pemerintah-siapkan-strategi-baru"
     }
   ]
 }
