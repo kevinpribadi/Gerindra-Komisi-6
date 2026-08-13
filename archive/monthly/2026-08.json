@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T11:43:01.518468",
+  "generated_at": "2026-08-13T13:03:41.500441",
   "party_counts_7d": {
     "Gerindra": 34,
-    "PDI-P": 34,
+    "PDI-P": 36,
     "Golkar": 3,
     "NasDem": 3,
     "PKB": 22,
     "PKS": 12,
     "PAN": 2,
-    "Demokrat": 2
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 87,
-    "Golkar": 51,
+    "PDI-P": 86,
+    "Golkar": 50,
     "NasDem": 38,
     "PKB": 30,
     "PKS": 50,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "umkm": 33,
-    "bumn": 56,
-    "koperasi": 64,
-    "investasi": 22,
     "danantara": 40,
-    "perdagangan": 16,
+    "bumn": 57,
+    "koperasi": 65,
+    "investasi": 23,
+    "perdagangan": 17,
     "ekspor": 7,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
@@ -53,13 +53,13 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
-    "Adisatrya Suryo Sulisto": 6,
+    "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 6,
+    "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 20,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
@@ -86,13 +86,62 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 96,
+    "Koperasi/UMKM": 97,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 6,
+    "Kinerja BUMN": 5,
     "Perdagangan": 20,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara Ungkap Alasan Incar Saham BEI, Bidik Kapitalisasi Pasar Naik - market.bisnis.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 12:40:39 GMT",
+      "link": "https://market.bisnis.com/read/20260813/192/1996093/danantara-ungkap-alasan-incar-saham-bei-bidik-kapitalisasi-pasar-naik"
+    },
+    {
+      "title": "Rieke: Putusan MK Tentang Penghinaan Presiden Jaga Martabat, Jangan Matikan Kritik! - Suara Investor",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 12:30:44 GMT",
+      "link": "https://www.suarainvestor.com/rieke-putusan-mk-tentang-penghinaan-presiden-jaga-martabat-jangan-matikan-kritik/"
+    },
+    {
+      "title": "Shopee Perkuat Daya Saing Produk Lewat Program Akselerasi Usaha Lokal - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 12:26:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321667/shopee-perkuat-daya-saing-produk-lewat-program-akselerasi-usaha-lokal"
+    },
+    {
+      "title": "Audiensi DPR dengan Serikat Buruh Bahas RUU Ketenagakerjaan - merahputih.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 12:13:30 GMT",
+      "link": "https://www.merahputih.com/post/read/audiensi-pimpinan-dpr-dengan-serikat-buruh-bahas-ruu-ketenagakerjaan"
+    },
+    {
+      "title": "Kemenkop-KemenLH siapkan koperasi masuk ke perdagangan karbon - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 12:11:41 GMT",
+      "link": "https://www.antaranews.com/berita/5693007/kemenkop-kemenlh-siapkan-koperasi-masuk-ke-perdagangan-karbon"
+    },
+    {
+      "title": "Kemenkop Gandeng KLH Dorong Koperasi Masuk Pasar Karbon & Ekonomi Sirkular - Indonesiadaily.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 11:56:05 GMT",
+      "link": "https://indonesiadaily.net/2026/08/kemenkop-gandeng-klh-dorong-koperasi-masuk-pasar-karbon-ekonomi-sirkular/"
+    },
+    {
+      "title": "| Rieke PDIP: Putusan MK soal Penghinaan Presiden Harus Jaga Martabat - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 11:48:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1663611/rieke-pdip-putusan-mk-soal-penghinaan-presiden-harus-jaga-martabat/"
+    },
     {
       "title": "Dorong UMKM Go Global, Pemerintah Siapkan Strategi Baru - CNBC Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -148,55 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 10:11:05 GMT",
       "link": "https://finance.detik.com/ekonomi-hijau/d-8617147/koperasi-diajak-masuk-bisnis-karbon-potensinya-puluhan-ribu-triliun"
-    },
-    {
-      "title": "Kemendag dan Shopee Luncurkan Akselerasi Produk Lokal UMKM - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:00:33 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-shopee-luncurkan-akselerasi-produk-lokal"
-    },
-    {
-      "title": "Danantara Dukung Aktivitas Ekspor ASDEKI - koran medan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 09:34:00 GMT",
-      "link": "https://koranmedan.id/2026/08/danantara-dukung-aktivitas-ekspor-asdeki/"
-    },
-    {
-      "title": "Danantara Dorong Himbara Beri Kredit Motor Listrik DP Nol Persen - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 08:52:31 GMT",
-      "link": "https://achmadnurhidayat.id/danantara-dorong-kredit-motor-listrik-dp-nol-persen"
-    },
-    {
-      "title": "Bos Danantara: DP Motor Listrik Nasional 0% - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 08:36:01 GMT",
-      "link": "https://finance.detik.com/industri/d-8616956/bos-danantara-dp-motor-listrik-nasional-0"
-    },
-    {
-      "title": "Shopee dan Kemendag Luncurkan Program Akselerasi Produk Lokal - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 08:19:21 GMT",
-      "link": "https://achmadnurhidayat.id/shopee-kemendag-luncurkan-akselerasi-produk-lokal"
-    },
-    {
-      "title": "Danantara tegaskan peran BUMN bagi ekosistem perdagangan nasional - antaranews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 07:40:41 GMT",
-      "link": "https://www.antaranews.com/berita/5692476/danantara-tegaskan-peran-bumn-bagi-ekosistem-perdagangan-nasional"
-    },
-    {
-      "title": "Sinergi Indomaret Group, Kemendag, dan BRI Perkuat Kewirausahaan Pascapurnabakti - indomaret.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 07:28:31 GMT",
-      "link": "https://www.indomaret.co.id/sinergi-indomaret-group-kemendag-dan-bri-perkuat-kewirausahaan-pascapurnabakti/"
     }
   ]
 }
