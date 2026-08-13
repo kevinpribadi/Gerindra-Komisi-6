@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T01:46:04.016638",
+  "generated_at": "2026-08-13T04:09:28.135270",
   "party_counts_7d": {
-    "Gerindra": 32,
+    "Gerindra": 34,
     "PDI-P": 33,
     "Golkar": 2,
     "NasDem": 6,
     "PKB": 21,
-    "PKS": 16,
+    "PKS": 14,
     "PAN": 3,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 88,
-    "Golkar": 52,
+    "Golkar": 51,
     "NasDem": 38,
     "PKB": 29,
-    "PKS": 49,
+    "PKS": 50,
     "PAN": 22,
     "Demokrat": 30
   },
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "umkm": 31,
-    "bumn": 53,
-    "koperasi": 67,
-    "investasi": 22,
-    "danantara": 40,
+    "bumn": 51,
+    "koperasi": 66,
+    "investasi": 23,
+    "danantara": 39,
     "perdagangan": 14,
     "ekspor": 7,
     "kartel-monopoli": 6,
@@ -64,7 +64,6 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 8,
-    "Rizki Faisal": 1,
     "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
@@ -76,7 +75,7 @@
     "Rivqy Abdul Halim": 1,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 15,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 14,
     "Ghufran": 2,
     "Ismail": 18,
@@ -87,13 +86,62 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 94,
-    "Hukum/Audit": 16,
+    "Koperasi/UMKM": 93,
+    "Hukum/Audit": 17,
     "Kinerja BUMN": 6,
     "Perdagangan": 20,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Menteri Perindustrian dan Perdagangan Le Manh Hung mengadakan pertemuan bilateral dengan Menteri Perdagangan dan Investasi Selandia Baru, Todd McClay. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 03:54:50 GMT",
+      "link": "https://www.vietnam.vn/id/bo-truong-bo-cong-thuong-le-manh-hung-lam-viec-song-phuong-voi-bo-truong-phu-trach-thuong-mai-va-dau-tu-new-zealand-todd-mcclay"
+    },
+    {
+      "title": "Kemenkop Tegaskan Hilirisasi Sawit Berbasis Koperasi, LPDB Siapkan Pembiayaan - kumparan.com - Kumparan.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 03:48:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/kemenkop-tegaskan-hilirisasi-sawit-berbasis-koperasi-lpdb-siapkan-pembiayaan-27yby3mYwqP"
+    },
+    {
+      "title": "Rombak Jajaran Direksi, Garuda Indonesia Copot Sementara Reza Aulia Hakim dari Direktur Niaga - Inilah.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 03:21:00 GMT",
+      "link": "https://www.inilah.com/rombak-jajaran-direksi-garuda-indonesia-copot-sementara-reza-aulia-hakim-dari-direktur-niaga"
+    },
+    {
+      "title": "Andre Rosiade Temui Menteri PU, Kawal Percepatan Infrastruktur Sumbar - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 03:05:58 GMT",
+      "link": "https://news.detik.com/berita/d-8616293/andre-rosiade-temui-menteri-pu-kawal-percepatan-infrastruktur-sumbar"
+    },
+    {
+      "title": "Koperasi Sawit Siap Kelola Lahan Sitaan Negara, Gandeng Agrinas - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 02:51:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/13/095100826/koperasi-sawit-siap-kelola-lahan-sitaan-negara-gandeng-agrinas"
+    },
+    {
+      "title": "Pabrik Sawit KUD Sejahtera Diresmikan, Menkop Dorong Koperasi Perkuat Hilirisasi - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 02:22:56 GMT",
+      "link": "https://suarapemerintah.id/2026/08/pabrik-sawit-kud-sejahtera-diresmikan-menkop-dorong-koperasi-perkuat-hilirisasi/"
+    },
+    {
+      "title": "Menkop: Hilirisasi Kelapa Sawit Berbasis Koperasi Perkuat Daya Tawar Petani - agrofarm.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 01:53:19 GMT",
+      "link": "http://www.agrofarm.co.id/2026/08/menkop-hilirisasi-kelapa-sawit-berbasis-koperasi-perkuat-daya-tawar-petani/"
+    },
     {
       "title": "DPR Lagi Rapat soal Pasokan Listrik, Mendadak Mati Lampu, Guyonan Ismail: Teori Langsung Praktik - Herald ID",
       "entity": "Ismail",
@@ -149,55 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 23:35:58 GMT",
       "link": "https://nasional.kontan.co.id/news/danantara-mulai-disiapkan-jadi-sumber-dana-tambahan-apbn-2027"
-    },
-    {
-      "title": "Bank BUMN di Pusaran Kredit Koperasi Merah Putih - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 23:00:00 GMT",
-      "link": "https://www.kompas.id/artikel/himbara-dalam-pusaran-kredit-program-koperasi-merah-putih"
-    },
-    {
-      "title": "2.587 Koperasi Punya Peluang Hilirisasi, Pabrik CPO Jadi Jalan Naik Kelas Petani Sawit - AFU.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 17:53:00 GMT",
-      "link": "https://afu.id/ekonomi/2587-koperasi-punya-peluang-hilirisasi-pabrik-cpo-jadi-jalan-naik-kelas-petani-sawit"
-    },
-    {
-      "title": "Proyek LRT City Mangkrak, Danantara Desak Adhi Karya Bertanggungjawab - pasardana.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 17:41:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/13/proyek-lrt-city-mangkrak-danantara-desak-adhi-karya-bertanggungjawab"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - berita.cilegon.go.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 17:19:23 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260813/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Kemendag Perluas Akses Pasar Produk UMKM dengan Libatkan Ritel Modern - Rmol.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 17:06:07 GMT",
-      "link": "https://rmol.id/amp/2026/08/13/718039/kemendag-perluas-akses-pasar-produk-umkm-dengan-libatkan-ritel-modern-"
-    },
-    {
-      "title": "Menkop Ferry Juliantono Resmikan Pabrik Sawit KUD Sejahtera, Perkuat Hilirisasi Sawit Rakyat - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 16:22:32 GMT",
-      "link": "https://haisawit.co.id/news/detail/menkop-ferry-juliantono-resmikan-pabrik-sawit-kud-sejahtera-perkuat-hilirisasi-sawit-rakyat"
-    },
-    {
-      "title": "Indonesia-India Perkuat Perdagangan, Tindak Lanjuti Pertemuan Jaipur - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 16:17:19 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/12/indonesia-india-perkuat-perdagangan-tindak-lanjuti-pertemuan-jaipur/"
     }
   ]
 }
