@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T19:08:19.575968",
+  "generated_at": "2026-08-13T20:38:46.418831",
   "party_counts_7d": {
-    "Gerindra": 34,
+    "Gerindra": 35,
     "PDI-P": 36,
     "Golkar": 4,
     "NasDem": 3,
@@ -37,8 +37,8 @@
     "umkm": 31,
     "danantara": 40,
     "bumn": 55,
-    "koperasi": 65,
-    "investasi": 22,
+    "koperasi": 66,
+    "investasi": 21,
     "perdagangan": 15,
     "impor": 2,
     "ekspor": 7,
@@ -86,13 +86,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 95,
+    "Koperasi/UMKM": 96,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 5,
     "Perdagangan": 21,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Hilirisasi Sawit Berbasis Koperasi, Menkop Dorong Petani Perkuat Daya Tawar - Agricom.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 20:08:12 GMT",
+      "link": "https://www.agricom.id/news/5126/hilirisasi-sawit-berbasis-koperasi--menkop-dorong-petani-perkuat-daya-tawar"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 17:55:50 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
     {
       "title": "Profil Muhammad Sarmuji: Dari Aktivis HMI Jadi DPR RI hingga Duduki Sekjen Partai Golkar - ketik.com",
       "entity": "Muhammad Sarmuji",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 12:00:08 GMT",
       "link": "https://finance.detik.com/bursa-dan-valas/d-8617279/respons-danantara-usai-saham-goto-didepak-msci"
-    },
-    {
-      "title": "Kemenkop Gandeng KLH Dorong Koperasi Masuk Pasar Karbon & Ekonomi Sirkular - Indonesiadaily.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 11:56:05 GMT",
-      "link": "https://indonesiadaily.net/2026/08/kemenkop-gandeng-klh-dorong-koperasi-masuk-pasar-karbon-ekonomi-sirkular/"
-    },
-    {
-      "title": "| Rieke PDIP: Putusan MK soal Penghinaan Presiden Harus Jaga Martabat - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 11:48:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1663611/rieke-pdip-putusan-mk-soal-penghinaan-presiden-harus-jaga-martabat/"
     }
   ]
 }
