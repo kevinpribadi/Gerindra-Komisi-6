@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T13:03:41.500441",
+  "generated_at": "2026-08-13T14:54:43.043193",
   "party_counts_7d": {
     "Gerindra": 34,
     "PDI-P": 36,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 33,
+    "umkm": 32,
     "danantara": 40,
     "bumn": 57,
     "koperasi": 65,
     "investasi": 23,
-    "perdagangan": 17,
+    "perdagangan": 16,
+    "impor": 2,
     "ekspor": 7,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3,
-    "ipo": 4,
-    "impor": 1
+    "ipo": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -86,13 +86,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 97,
+    "Koperasi/UMKM": 96,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 5,
-    "Perdagangan": 20,
+    "Perdagangan": 21,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Tingkatkan Kesejahteraan Petani - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 14:33:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-dorong-hilirisasi-sawit-berbasis-koperasi-untuk-tingkatkan-kesejahteraan-petani/"
+    },
+    {
+      "title": "Kemenkop dan KLH buka peluang koperasi masuk bisnis perdagangan karbon - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 14:00:11 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kemenkop-dan-klh-buka-peluang-koperasi-masuk-bisnis-perdagangan-karbon-173447"
+    },
+    {
+      "title": "Kolaborasi Kemenkop & KLH Dorong Koperasi Masuk Pasar Karbon & Ekonomi Sirkular - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 13:49:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/321678/kolaborasi-kemenkop-klh-dorong-koperasi-masuk-pasar-karbon-ekonomi-sirkular"
+    },
+    {
+      "title": "Pemerintah Buka Peluang Keuntungan Danantara Masuk APBN - voi.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 13:45:00 GMT",
+      "link": "https://voi.id/ekonomi/589555/pemerintah-buka-peluang-keuntungan-danantara-masuk-apbn"
+    },
+    {
+      "title": "KPPU Surabaya Gencar Sosialisasi Perkuat Pemahaman Perrsaingan Usaha dan Kemitraan - KilasJatim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 13:33:43 GMT",
+      "link": "https://kilasjatim.com/2026/08/13/kppu-surabaya-gencar-sosialisasi-perkuat-pemahaman-perrsaingan-usaha-dan-kemitraan/"
+    },
     {
       "title": "Danantara Ungkap Alasan Incar Saham BEI, Bidik Kapitalisasi Pasar Naik - market.bisnis.com",
       "entity": "Danantara",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 10:37:57 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260813152757-4-759018/danantara-mulai-investasi-di-semikonduktor-ini-pembelinya"
-    },
-    {
-      "title": "Menteri LH dukung kolaborasi perdagangan karbon dengan KDMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:31:30 GMT",
-      "link": "https://www.antaranews.com/berita/5692785/menteri-lh-dukung-kolaborasi-perdagangan-karbon-dengan-kdmp"
-    },
-    {
-      "title": "Kemenkop dan KLH Gandeng Koperasi Kelola Sampah dan Perdagangan Karbon - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:21:16 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-klh-kerjasama-koperasi-karbon"
-    },
-    {
-      "title": "KPPU Ingatkan Pemda Hindari Kebijakan yang Hambat Persaingan Usaha - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:14:00 GMT",
-      "link": "https://rri.co.id/surabaya/ekonomi/makro/2649016/kppu-ingatkan-pemda-hindari-kebijakan-yang-hambat-persaingan-usaha"
-    },
-    {
-      "title": "Gandeng Ritel Modern untuk Perluas Akses Pasar UMKM, Mendag Busan Resmikan “Pojok Product Placement Pilihan Busan” - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:14:00 GMT",
-      "link": "https://kilaskementerian.kompas.com/kemendag/read/2026/08/13/17142621/gandeng-ritel-modern-untuk-perluas-akses-pasar-umkm-mendag-busan-resmikan"
-    },
-    {
-      "title": "Koperasi Diajak Masuk Bisnis Karbon, Potensinya Puluhan Ribu Triliun - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:11:05 GMT",
-      "link": "https://finance.detik.com/ekonomi-hijau/d-8617147/koperasi-diajak-masuk-bisnis-karbon-potensinya-puluhan-ribu-triliun"
     }
   ]
 }
