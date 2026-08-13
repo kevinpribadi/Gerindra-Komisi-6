@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-12T23:37:46.575177",
+  "generated_at": "2026-08-13T01:46:04.016638",
   "party_counts_7d": {
-    "Gerindra": 31,
-    "PDI-P": 35,
-    "Golkar": 1,
+    "Gerindra": 32,
+    "PDI-P": 33,
+    "Golkar": 2,
     "NasDem": 6,
     "PKB": 21,
-    "PKS": 15,
+    "PKS": 16,
     "PAN": 3,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 71,
+    "Gerindra": 70,
     "PDI-P": 88,
-    "Golkar": 51,
+    "Golkar": 52,
     "NasDem": 38,
     "PKB": 29,
-    "PKS": 48,
+    "PKS": 49,
     "PAN": 22,
     "Demokrat": 30
   },
@@ -36,21 +36,21 @@
   "topic_counts_30d": {
     "umkm": 31,
     "bumn": 53,
-    "koperasi": 68,
-    "investasi": 23,
+    "koperasi": 67,
+    "investasi": 22,
     "danantara": 40,
-    "perdagangan": 12,
+    "perdagangan": 14,
     "ekspor": 7,
-    "impor": 2,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 6,
     "merger-akuisisi": 3,
-    "ipo": 5
+    "ipo": 5,
+    "impor": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 10,
-    "Mulan Jameela": 4,
+    "Mulan Jameela": 3,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 7,
@@ -65,7 +65,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 1,
-    "Muhammad Sarmuji": 6,
+    "Muhammad Sarmuji": 7,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 3,
@@ -79,7 +79,7 @@
     "Amin Ak.": 15,
     "Rizal Bawazier": 14,
     "Ghufran": 2,
-    "Ismail": 17,
+    "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
@@ -94,6 +94,62 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "DPR Lagi Rapat soal Pasokan Listrik, Mendadak Mati Lampu, Guyonan Ismail: Teori Langsung Praktik - Herald ID",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 01:38:00 GMT",
+      "link": "https://herald.id/2026/08/13/dpr-lagi-rapat-soal-pasokan-listrik-mendadak-mati-lampu-guyonan-ismail-teori-langsung-praktik/"
+    },
+    {
+      "title": "KPPU Usut Lonjakan Harga dan Kelangkaan Semen di Sumatera Utara - Akurat Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 01:20:44 GMT",
+      "link": "https://sumut.akurat.co/seputar-sumut/881636/kppu-usut-lonjakan-harga-dan-kelangkaan-semen-di-sumatera-utara"
+    },
+    {
+      "title": "Bukukan Laba Rp 2,40 Triliun Pada Semester I/2026, BTN Disanjung DPR - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 00:56:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/321580/bukukan-laba-rp-240-triliun-padasemester-i2026-btn-disanjung-dpr"
+    },
+    {
+      "title": "Kemendag perluas akses UMKM ke ritel modern - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 00:33:01 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/418773/kemendag-perluas-akses-umkm-ke-ritel-modern"
+    },
+    {
+      "title": "Kemendag Sebut Ritel O!Save di RI Bukan Perusahaan Asing - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 00:00:14 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8615965/kemendag-sebut-ritel-o-save-di-ri-bukan-perusahaan-asing"
+    },
+    {
+      "title": "Hindari Pecah Kongsi, Golkar Dukung Pilkada Tanpa Wakil Kepala Daerah - RM.ID",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Wed, 12 Aug 2026 23:50:00 GMT",
+      "link": "https://rm.id/baca-berita/parpol/321549/hindari-pecah-kongsi-golkar-dukung-pilkada-tanpa-wakil-kepala-daerah"
+    },
+    {
+      "title": "BPI Danantara Incar Saham BEI Melalui Skema Demutualisasi - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 23:44:00 GMT",
+      "link": "https://achmadnurhidayat.id/bpi-danantara-incar-saham-bei-melalui-skema-demutualisasi"
+    },
+    {
+      "title": "Danantara Mulai Disiapkan Jadi Sumber Dana Tambahan APBN 2027 - nasional.kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 12 Aug 2026 23:35:58 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-mulai-disiapkan-jadi-sumber-dana-tambahan-apbn-2027"
+    },
     {
       "title": "Bank BUMN di Pusaran Kredit Koperasi Merah Putih - Kompas.id",
       "entity": "Kementerian Koperasi",
@@ -142,62 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 12 Aug 2026 16:17:19 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/08/12/indonesia-india-perkuat-perdagangan-tindak-lanjuti-pertemuan-jaipur/"
-    },
-    {
-      "title": "Mendag minta Toyota tingkatkan ekspor dan perluas pasar global - idnfinancials.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 16:00:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/67324/mendag-minta-toyota-tingkatkan-ekspor-dan-perluas-pasar-global"
-    },
-    {
-      "title": "Diresmikan, PKS KUD Sejahtera tonggak baru hilirisasi sawit berbasis koperasi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 15:20:53 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/diresmikan-pks-kud-sejahtera-tonggak-baru-hilirisasi-sawit-berbasis-koperasi-173343"
-    },
-    {
-      "title": "Moncernya Performa BUMN di Bawah Danantara, Jadi Bukti Kinerja Positif Pemerintahan Prabowo - inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 15:14:00 GMT",
-      "link": "https://www.inilah.com/moncernya-performa-bumn-di-bawah-danantara-jadi-bukti-kinerja-positif-pemerintahan-prabowo"
-    },
-    {
-      "title": "Dari Pojok Kemendag, Produk UMKM Dibidik Masuk Ritel hingga Ekspor - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 15:02:16 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/12/dari-pojok-kemendag-produk-umkm-dibidik-masuk-ritel-hingga-ekspor/"
-    },
-    {
-      "title": "LRT City Mangkrak, Danantara dan BP BUMN Panggil Direksi Adhi Karya - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 15:01:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/12/220156321/lrt-city-mangkrak-danantara-dan-bp-bumn-panggil-direksi-adhi-karya"
-    },
-    {
-      "title": "LRT City Mangkrak, Danantara dan BP BUMN Panggil Direksi Adhi Karya - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 15:01:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/12/220156321/lrt-city-mangkrak-danantara-dan-bp-bumn-panggil-direksi-adhi-karya?page=all&utm_source=Google&utm_medium=Newstand&utm_campaign=partner"
-    },
-    {
-      "title": "Ida Nurlaela Dorong BUMN Kembangkan Energi Panas Bumi Untuk Listrik - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Wed, 12 Aug 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-dorong-bumn-kembangkan-energi-panas-bumi-untuk-listrik-b2pY2ZbhjI"
-    },
-    {
-      "title": "Mendag Budi Resmikan Pojok PPPB, Buka Akses Pasar UMKM - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 12 Aug 2026 14:52:55 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/t8sd0fz-mendag-budi-resmikan-pojok-pppb-buka-akses-pasar-umkm"
     }
   ]
 }
