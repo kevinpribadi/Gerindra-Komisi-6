@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T16:57:02.576483",
+  "generated_at": "2026-08-13T17:58:06.942384",
   "party_counts_7d": {
     "Gerindra": 34,
     "PDI-P": 36,
-    "Golkar": 3,
+    "Golkar": 4,
     "NasDem": 3,
     "PKB": 22,
     "PKS": 12,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 86,
-    "Golkar": 50,
+    "Golkar": 51,
     "NasDem": 38,
     "PKB": 30,
     "PKS": 50,
@@ -64,7 +64,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
-    "Muhammad Sarmuji": 7,
+    "Muhammad Sarmuji": 8,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
     "I Nengah Senantara": 3,
@@ -93,6 +93,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Profil Muhammad Sarmuji: Dari Aktivis HMI Jadi DPR RI hingga Duduki Sekjen Partai Golkar - ketik.com",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 17:30:00 GMT",
+      "link": "https://ketik.com/jakarta/ketik-sosok/profil-muhammad-sarmuji-dari-aktivis-hmi-jadi-dpr-ri-hingga-duduki-sekjen-partai-golkar"
+    },
     {
       "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Tingkatkan Kesejahteraan Petani - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 13 Aug 2026 10:48:23 GMT",
       "link": "https://www.cnbcindonesia.com/lifestyle/20260813133151-33-758939/dorong-umkm-go-global-pemerintah-siapkan-strategi-baru"
-    },
-    {
-      "title": "GOTO Didepak MSCI, Danantara Buka Suara - Validnews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 10:41:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/13/goto-didepak-msci-danantara-buka-suara-174100310"
     }
   ]
 }
