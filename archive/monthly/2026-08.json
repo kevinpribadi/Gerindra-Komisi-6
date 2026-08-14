@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T09:57:34.685726",
+  "generated_at": "2026-08-14T10:59:45.944324",
   "party_counts_7d": {
     "Gerindra": 33,
-    "PDI-P": 37,
+    "PDI-P": 38,
     "Golkar": 5,
     "NasDem": 4,
     "PKB": 22,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
-    "umkm": 28,
+    "bumn": 59,
+    "umkm": 27,
     "danantara": 41,
-    "koperasi": 60,
+    "koperasi": 59,
     "investasi": 23,
     "ekspor": 6,
     "impor": 3,
-    "perdagangan": 9,
+    "perdagangan": 8,
     "kartel-monopoli": 8,
     "merger-akuisisi": 1,
     "ipo": 4
@@ -87,13 +87,41 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 88,
+    "Koperasi/UMKM": 86,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 7,
+    "Kinerja BUMN": 8,
     "Perdagangan": 22,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Soroti Pedoman Prabowo dan Desak RUU Satu Data - achmadnurhidayat.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 10:46:47 GMT",
+      "link": "https://achmadnurhidayat.id/rieke-soroti-pedoman-prabowo-ruu-satu-data"
+    },
+    {
+      "title": "Nasim Khan Dukung Kebijakan Presiden Terkait Transformasi BUMN - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 10:40:00 GMT",
+      "link": "https://ketik.com/jakarta/politik-pemerintahan/nasim-khan-dukung-kebijakan-presiden-terkait-transformasi-bumn"
+    },
+    {
+      "title": "Pemerintah Indonesia Perkuat Ekosistem Zakat dan Koperasi Syariah - Minanews.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 10:15:10 GMT",
+      "link": "https://minanews.net/pemerintah-indonesia-perkuat-ekosistem-zakat-dan-koperasi-syariah/"
+    },
+    {
+      "title": "Angkanya Tembus Rp10.200 Triliun: PDIP Ingatkan Prabowo Injak Rem Kuat-kuat Utang Baru - Inilah.com",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 10:15:00 GMT",
+      "link": "https://www.inilah.com/angkanya-tembus-rp10200-triliun-pdip-ingatkan-prabowo-injak-rem-kuat-kuat-utang-baru"
+    },
     {
       "title": "Kemendag Apresiasi Fitur Transparansi Biaya Penjual Milik Shopee - achmadnurhidayat.id",
       "entity": "Kementerian Perdagangan",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 08:43:50 GMT",
       "link": "https://www.hetanews.com/article/310121/wamendag-dorong-perwakilan-ri-perkuat-penjaringan-buyer-untuk-tei-2026"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Desak Pemerintah Segera Kirim Surpres RUU Satu Data Indonesia - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 08:36:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-desak-pemerintah-segera-kirim-surpres-ruu-satu-data-indonesia-b2pY4ZbhmD"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Gagasan Prabowo Bisa Terwujud Asal Berbasis Data Akurat - Kabar24",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 08:21:40 GMT",
-      "link": "https://kabar24.bisnis.com/read/20260814/15/1996364/rieke-diah-pitaloka-gagasan-prabowo-bisa-terwujud-asal-berbasis-data-akurat"
-    },
-    {
-      "title": "Asep Wahyuwijaya: Penindakan BUMN Harus Berjalan Bersama Reformasi Tata Kelola - Telusur.co.id",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 08:13:37 GMT",
-      "link": "https://telusur.co.id/detail/asep-wahyuwijaya-penindakan-bumn-harus-berjalan-bersama-reformasi-tata-kelola"
-    },
-    {
-      "title": "DPR Desak Pemerintah Segera Terbitkan Surpres RUU Satu Data Indonesia - achmadnurhidayat.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 08:02:19 GMT",
-      "link": "https://achmadnurhidayat.id/dpr-desak-pemerintah-segera-terbitkan-surpres-ruu-satu-data-indonesia"
     }
   ]
 }
