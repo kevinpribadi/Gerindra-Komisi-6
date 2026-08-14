@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T12:59:58.989287",
+  "generated_at": "2026-08-14T14:18:03.405367",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 37,
     "PDI-P": 42,
     "Golkar": 5,
     "NasDem": 4,
     "PKB": 24,
-    "PKS": 9,
+    "PKS": 8,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -17,7 +17,7 @@
     "Golkar": 52,
     "NasDem": 38,
     "PKB": 33,
-    "PKS": 50,
+    "PKS": 48,
     "PAN": 22,
     "Demokrat": 33
   },
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 65,
+    "bumn": 66,
     "umkm": 27,
-    "danantara": 43,
-    "koperasi": 57,
-    "investasi": 23,
+    "danantara": 44,
+    "koperasi": 55,
+    "investasi": 24,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 6,
@@ -77,7 +77,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
-    "Rizal Bawazier": 14,
+    "Rizal Bawazier": 12,
     "Ghufran": 2,
     "Ismail": 18,
     "Eko Patrio": 2,
@@ -87,13 +87,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 87,
+    "Koperasi/UMKM": 85,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 12,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Komisi VI DPR RI siap mendukung Danantara Development Management Fund - ANTARA News",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 12:21:40 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5694885/komisi-vi-dpr-ri-siap-mendukung-danantara-development-management-fund"
+    },
     {
       "title": "Danantara: Total Investasi Proyek Hilirisasi Capai Rp 225 Triliun - kontan.co.id",
       "entity": "Danantara",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 11:01:58 GMT",
       "link": "https://aspek.id/dpr-apresiasi-kinerja-danantara/"
-    },
-    {
-      "title": "KPPU Selidiki Persoalan Lonjakan Harga Semen hingga 40% di Sumut - Bisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:00:09 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260814/534/1996416/kppu-selidiki-persoalan-lonjakan-harga-semen-hingga-40-di-sumut"
     }
   ]
 }
