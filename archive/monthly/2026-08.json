@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T15:48:46.419860",
+  "generated_at": "2026-08-14T17:50:14.016252",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 42,
@@ -41,7 +41,7 @@
     "investasi": 25,
     "ekspor": 8,
     "impor": 3,
-    "perdagangan": 6,
+    "perdagangan": 5,
     "kartel-monopoli": 7,
     "merger-akuisisi": 1,
     "ipo": 4
@@ -94,6 +94,20 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 17:35:34 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260815/Mjc0NDQ0"
+    },
+    {
+      "title": "Koperasi Sawit Didorong Masuk Hilir, LPDB Siapkan Pembiayaan - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 17:10:18 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260815/12/1996531/koperasi-sawit-didorong-masuk-hilir-lpdb-siapkan-pembiayaan"
+    },
     {
       "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News",
       "entity": "Danantara",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 11:33:18 GMT",
       "link": "https://achmadnurhidayat.id/pemerintah-tutup-290-bumn-efisiensi"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi Pidato Prabowo: Bangkitkan Optimisme Bangsa - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 11:25:15 GMT",
-      "link": "https://news.detik.com/berita/d-8618957/andre-rosiade-apresiasi-pidato-prabowo-bangkitkan-optimisme-bangsa"
-    },
-    {
-      "title": "Komisi VI Soroti Separuh BUMN dan Anak Usaha Tak Sehat.... - sudut kota",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 11:02:11 GMT",
-      "link": "https://sudutkota.id/komisi-vi-soroti-separuh-bumn-dan-anak-usaha-tak-sehat-danantara-didesak-tak-sekadar-pangkas-entitas/"
     }
   ]
 }
