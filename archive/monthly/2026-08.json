@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T11:51:59.497813",
+  "generated_at": "2026-08-14T12:59:58.989287",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 42,
     "Golkar": 5,
     "NasDem": 4,
-    "PKB": 23,
-    "PKS": 10,
+    "PKB": 24,
+    "PKS": 9,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -16,7 +16,7 @@
     "PDI-P": 83,
     "Golkar": 52,
     "NasDem": 38,
-    "PKB": 32,
+    "PKB": 33,
     "PKS": 50,
     "PAN": 22,
     "Demokrat": 33
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
+    "bumn": 65,
     "umkm": 27,
-    "danantara": 42,
+    "danantara": 43,
     "koperasi": 57,
-    "investasi": 24,
-    "ekspor": 7,
+    "investasi": 23,
+    "ekspor": 8,
     "impor": 3,
     "perdagangan": 6,
     "kartel-monopoli": 7,
@@ -72,7 +72,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 4,
-    "Anggia Erma Rini": 8,
+    "Anggia Erma Rini": 9,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -89,11 +89,53 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 87,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 11,
-    "Perdagangan": 24,
+    "Kinerja BUMN": 12,
+    "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Danantara: Total Investasi Proyek Hilirisasi Capai Rp 225 Triliun - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 12:20:18 GMT",
+      "link": "https://industri.kontan.co.id/news/danantara-total-investasi-proyek-hilirisasi-capai-rp-225-triliun"
+    },
+    {
+      "title": "Cetak Eksportir Muda, Kemendag Perkuat Sinergi di Campuspreneur - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 12:09:00 GMT",
+      "link": "https://tirto.id/cetak-eksportir-muda-kemendag-perkuat-sinergi-di-campuspreneur-hBiF"
+    },
+    {
+      "title": "| Komisi VI Bidik BUMN Lebih Sehat lewat Streamlining Danantara - jurnas.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 11:56:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1663698/komisi-vi-bidik-bumn-lebih-sehat-lewat-streamlining-danantara/"
+    },
+    {
+      "title": "Danantara dan BP BUMN: Menata BUMN Menjadi Rumah Ekonomi Bangsa Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:55:19 GMT",
+      "link": "https://www.kompasiana.com/diperma/6a7f0227ed641526454140ab/danantara-dan-bp-bumn-menata-bumn-menjadi-rumah-ekonomi-bangsa"
+    },
+    {
+      "title": "Danantara dan BP BUMN: Menata BUMN Menjadi Rumah Ekonomi Bangsa Halaman 1 - Kompasiana.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:55:19 GMT",
+      "link": "https://www.kompasiana.com/diperma/6a7f0227ed641526454140ab/danantara-dan-bp-bumn-menata-bumn-menjadi-rumah-ekonomi-bangsa"
+    },
+    {
+      "title": "137 Hotel BUMN Bakal Digabung, Danantara Kejar Efisiensi - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:55:13 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260814183203-17-759518/137-hotel-bumn-bakal-digabung-danantara-kejar-efisiensi"
+    },
     {
       "title": "Komisi VI Siap Kawal Penataan BUMN dan Ekspor Satu Pintu - TVRI News",
       "entity": "Andre Rosiade",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 11:00:09 GMT",
       "link": "https://sumatra.bisnis.com/read/20260814/534/1996416/kppu-selidiki-persoalan-lonjakan-harga-semen-hingga-40-di-sumut"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Soroti Pedoman Prabowo dan Desak RUU Satu Data - achmadnurhidayat.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 10:46:47 GMT",
-      "link": "https://achmadnurhidayat.id/rieke-soroti-pedoman-prabowo-ruu-satu-data"
-    },
-    {
-      "title": "Nasim Khan Dukung Kebijakan Presiden Terkait Transformasi BUMN - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 10:40:00 GMT",
-      "link": "https://ketik.com/jakarta/politik-pemerintahan/nasim-khan-dukung-kebijakan-presiden-terkait-transformasi-bumn"
-    },
-    {
-      "title": "Pemerintah Indonesia Perkuat Ekosistem Zakat dan Koperasi Syariah - Minanews.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 10:15:10 GMT",
-      "link": "https://minanews.net/pemerintah-indonesia-perkuat-ekosistem-zakat-dan-koperasi-syariah/"
-    },
-    {
-      "title": "Angkanya Tembus Rp10.200 Triliun: PDIP Ingatkan Prabowo Injak Rem Kuat-kuat Utang Baru - Inilah.com",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 10:15:00 GMT",
-      "link": "https://www.inilah.com/angkanya-tembus-rp10200-triliun-pdip-ingatkan-prabowo-injak-rem-kuat-kuat-utang-baru"
-    },
-    {
-      "title": "Utang Pemerintah Naik 2.000 T, Darmadi Komisi VI DPR: Pengelolaan Fiskal Harus Diperkuat - Suara Investor",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 10:12:15 GMT",
-      "link": "https://www.suarainvestor.com/utang-pemerintah-naik-2-000-t-darmadi-komisi-vi-dpr-pengelolaan-fiskal-harus-diperkuat/"
-    },
-    {
-      "title": "Kemendag Apresiasi Fitur Transparansi Biaya Penjual Milik Shopee - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 09:51:25 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-apresiasi-fitur-transparansi-biaya-shopee"
     }
   ]
 }
