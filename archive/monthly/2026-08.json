@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T04:05:53.509109",
+  "generated_at": "2026-08-14T06:11:06.417958",
   "party_counts_7d": {
-    "Gerindra": 35,
-    "PDI-P": 37,
-    "Golkar": 4,
+    "Gerindra": 34,
+    "PDI-P": 38,
+    "Golkar": 5,
     "NasDem": 2,
     "PKB": 22,
     "PKS": 11,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 84,
-    "Golkar": 51,
+    "PDI-P": 83,
+    "Golkar": 52,
     "NasDem": 37,
     "PKB": 30,
     "PKS": 50,
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 30,
-    "danantara": 40,
     "bumn": 55,
-    "koperasi": 63,
+    "umkm": 30,
+    "danantara": 41,
+    "koperasi": 61,
     "investasi": 24,
     "impor": 4,
     "perdagangan": 14,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 3,
-    "Mufti Anam": 14,
+    "Mufti Anam": 13,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -64,6 +64,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
+    "Rizki Faisal": 1,
     "Muhammad Sarmuji": 8,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 2,
@@ -86,13 +87,69 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 93,
+    "Koperasi/UMKM": 92,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 6,
+    "Kinerja BUMN": 7,
     "Perdagangan": 21,
-    "Konflik Publik": 6
+    "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Rieke: Pidato Presiden Prabowo Relevan, Kebijakan Harus Berbasis Data - TVRI News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 06:02:53 GMT",
+      "link": "https://nasional.tvrinews.com/berita/txptkze-rieke-pidato-presiden-prabowo-relevan-kebijakan-harus-berbasis-data"
+    },
+    {
+      "title": "Prabowo Mau Kasih Bos Danantara Bintang Kehormatan, Ini Alasannya - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 05:40:43 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260814113242-17-759290/prabowo-mau-kasih-bos-danantara-bintang-kehormatan-ini-alasannya"
+    },
+    {
+      "title": "Dorong Hilarisasi Sawit dan Kesejahteraan Petani, Agrinas Palma Nusantara Perkuat Kemitraan Koperasi - KR Sumsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 05:21:55 GMT",
+      "link": "https://www.krsumsel.com/2026/08/14/dorong-hilarisasi-sawit-dan-kesejahteraan-petani-agrinas-palma-nusantara-perkuat-kemitraan-koperasi/"
+    },
+    {
+      "title": "\"Tanpa APBD, Dekopinda Cimahi Sukses Gelar Harkop ke-79 Bersama UMKM Kota Cimahi \" - ppid.cimahikota.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 04:51:56 GMT",
+      "link": "https://ppid.cimahikota.go.id/artikel/dinas-perdagangan-koperasi-usaha-kecil-dan-menengah-dan-perindustrian-tanpa-apbd-dekopinda-cimahi-sukses-gelar-harkop-ke-79-bersama-umkm-kota-cimahi--"
+    },
+    {
+      "title": "Anak, Cucu hingga Cicit BUMN Membengkak Jadi 1.074, Prabowo Targetkan 750 Lebih Ditutup - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 04:39:14 GMT",
+      "link": "https://afu.id/ekonomi/anak-cucu-hingga-cicit-bumn-membengkak-jadi-1074-prabowo-targetkan-750-lebih-ditutup"
+    },
+    {
+      "title": "Prabowo Apresiasi Kinerja Danantara, Usulkan Pimpinan dapat Bintang Kehormatan - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 04:32:37 GMT",
+      "link": "https://nasional.kontan.co.id/news/prabowo-apresiasi-kinerja-danantara-usulkan-pimpinan-dapat-bintang-kehormatan"
+    },
+    {
+      "title": "Prabowo Ingin BUMN Beli Perusahaan Dunia demi Kuasai Teknologi - Tirto.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 04:30:00 GMT",
+      "link": "https://tirto.id/prabowo-ingin-bumn-beli-perusahaan-dunia-demi-kuasai-teknologi-hBgM"
+    },
+    {
+      "title": "PDIP Minta DPR Tingkatkan Pengawasan, Agar Utang Negara Tidak Bertambah Terus - GenPI.co - GenPI.co",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 04:20:47 GMT",
+      "link": "https://www.genpi.co/polhukam/286561/pdip-minta-dpr-tingkatkan-pengawasan-agar-utang-negara-tidak-bertambah-terus"
+    },
     {
       "title": "Upaya Kemendag Batasi Impor Barang Konsumsi Komoditas Asing - pasardana.id",
       "entity": "Kementerian Perdagangan",
@@ -141,62 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 02:49:26 GMT",
       "link": "https://suarapemerintah.id/2026/08/hilirisasi-sawit-berbasis-koperasi-didorong-petani-bakal-dapat-nilai-tambah-lebih-besar/"
-    },
-    {
-      "title": "Anggota DPR: Putusan MK Pasal Penghinaan Presiden jadi penyeimbang - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 02:29:46 GMT",
-      "link": "https://ambon.antaranews.com/berita/339617/anggota-dpr-putusan-mk-pasal-penghinaan-presiden-jadi-penyeimbang"
-    },
-    {
-      "title": "Kritik Bukan Penghinaan! Rieke Diah Pitaloka Minta Aparat Tak Kriminalisasi Suara Rakyat - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 02:24:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/kritik-bukan-penghinaan-rieke-diah-pitaloka-minta-aparat-tak-kriminalisasi-suara-rakyat-b2pY4ZbhlW"
-    },
-    {
-      "title": "PT Agrinas Palma dan Kemenkop Kerja Sama Kembangkan Perkebunan Sawit - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 02:21:21 GMT",
-      "link": "https://achmadnurhidayat.id/agrinas-palma-kemenkop-kerjasama-sawit"
-    },
-    {
-      "title": "Agrinas Palma Bersinergi dengan Kementerian Koperasi - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 01:57:36 GMT",
-      "link": "https://investor.id/business/450330/agrinas-palma-bersinergi-dengan-kementerian-koperasi"
-    },
-    {
-      "title": "Dukung Pembatasan Pertalite Desil 9–10, Sartono Hutomo Tekankan Akurasi Data - TEROPONGSENAYAN.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 01:48:52 GMT",
-      "link": "https://www.teropongsenayan.com/138207-dukung-pembatasan-pertalite-desil-910-sartono-hutomo-tekankan-akurasi-data"
-    },
-    {
-      "title": "Kemenpar-Danantara Perkuat Ekosistem Investasi Pariwisata - NUSABALI.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 01:44:28 GMT",
-      "link": "https://www.nusabali.com/berita/228345/kemenpar-danantara-perkuat-ekosistem-investasi-pariwisata"
-    },
-    {
-      "title": "2.587 Koperasi Perkebunan Didorong Perkuat Hilirisasi Sawit dan Posisi Petani - infosawit.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 01:35:00 GMT",
-      "link": "https://www.infosawit.com/2026/08/14/2-587-koperasi-perkebunan-didorong-perkuat-hilirisasi-sawit-dan-posisi-petani/amp/"
-    },
-    {
-      "title": "Danantara Bawa BUMN Bangkit, Krakatau Steel hingga Kimia Farma Pulih - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 01:33:47 GMT",
-      "link": "https://investor.id/macroeconomy/450325/danantara-bawa-bumn-bangkit-krakatau-steelhingga-kimia-farmapulih"
     }
   ]
 }
