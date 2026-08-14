@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T10:59:45.944324",
+  "generated_at": "2026-08-14T11:51:59.497813",
   "party_counts_7d": {
-    "Gerindra": 33,
-    "PDI-P": 38,
+    "Gerindra": 36,
+    "PDI-P": 42,
     "Golkar": 5,
     "NasDem": 4,
-    "PKB": 22,
+    "PKB": 23,
     "PKS": 10,
     "PAN": 1,
     "Demokrat": 3
@@ -16,7 +16,7 @@
     "PDI-P": 83,
     "Golkar": 52,
     "NasDem": 38,
-    "PKB": 31,
+    "PKB": 32,
     "PKS": 50,
     "PAN": 22,
     "Demokrat": 33
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
+    "bumn": 61,
     "umkm": 27,
-    "danantara": 41,
-    "koperasi": 59,
-    "investasi": 23,
-    "ekspor": 6,
+    "danantara": 42,
+    "koperasi": 57,
+    "investasi": 24,
+    "ekspor": 7,
     "impor": 3,
-    "perdagangan": 8,
-    "kartel-monopoli": 8,
+    "perdagangan": 6,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 1,
     "ipo": 4
   },
@@ -72,7 +72,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 4,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 8,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -87,13 +87,76 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 86,
+    "Koperasi/UMKM": 87,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 8,
-    "Perdagangan": 22,
+    "Kinerja BUMN": 11,
+    "Perdagangan": 24,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Komisi VI Siap Kawal Penataan BUMN dan Ekspor Satu Pintu - TVRI News",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 11:48:51 GMT",
+      "link": "https://ekonomi.tvrinews.com/berita/tmbdaaw-komisi-vi-siap-kawal-penataan-bumn-dan-ekspor-satu-pintu"
+    },
+    {
+      "title": "Kemendag Perkuat Ekosistem Ekspor untuk Dorong Mamin Indonesia Go Global - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:42:15 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/14/kemendag-perkuat-ekosistem-ekspor-untuk-dorong-mamin-indonesia-go-global/"
+    },
+    {
+      "title": "BAZNAS, Danantara, Kemenkop Dan MES Perkuat Ekosistem Zakat-Koperasi Syariah - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:40:00 GMT",
+      "link": "https://rm.id/baca-berita/nasional/321780/baznas-danantara-kemenkop-dan-mes-perkuat-ekosistem-zakatkoperasi-syariah"
+    },
+    {
+      "title": "Kolaborasi KLH-Kementerian Koperasi Perkuat Peran Koperasi di Sektor Nikel - apni.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:34:31 GMT",
+      "link": "https://apni.id/berita/805/kolaborasi-klh-kementerian-koperasi-perkuat-peran-koperasi-di-sektor-nikel"
+    },
+    {
+      "title": "Pemerintah Tutup 290 BUMN untuk Pangkas Efisiensi Sektor Usaha State - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:33:18 GMT",
+      "link": "https://achmadnurhidayat.id/pemerintah-tutup-290-bumn-efisiensi"
+    },
+    {
+      "title": "Andre Rosiade Apresiasi Pidato Prabowo: Bangkitkan Optimisme Bangsa - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 11:25:15 GMT",
+      "link": "https://news.detik.com/berita/d-8618957/andre-rosiade-apresiasi-pidato-prabowo-bangkitkan-optimisme-bangsa"
+    },
+    {
+      "title": "Komisi VI Soroti Separuh BUMN dan Anak Usaha Tak Sehat.... - sudut kota",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 11:02:11 GMT",
+      "link": "https://sudutkota.id/komisi-vi-soroti-separuh-bumn-dan-anak-usaha-tak-sehat-danantara-didesak-tak-sekadar-pangkas-entitas/"
+    },
+    {
+      "title": "DPR Apresiasi Kinerja Danantara - aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:01:58 GMT",
+      "link": "https://aspek.id/dpr-apresiasi-kinerja-danantara/"
+    },
+    {
+      "title": "KPPU Selidiki Persoalan Lonjakan Harga Semen hingga 40% di Sumut - Bisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 11:00:09 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260814/534/1996416/kppu-selidiki-persoalan-lonjakan-harga-semen-hingga-40-di-sumut"
+    },
     {
       "title": "Rieke Diah Pitaloka Soroti Pedoman Prabowo dan Desak RUU Satu Data - achmadnurhidayat.id",
       "entity": "Rieke Diah Pitaloka",
@@ -123,81 +186,18 @@
       "link": "https://www.inilah.com/angkanya-tembus-rp10200-triliun-pdip-ingatkan-prabowo-injak-rem-kuat-kuat-utang-baru"
     },
     {
+      "title": "Utang Pemerintah Naik 2.000 T, Darmadi Komisi VI DPR: Pengelolaan Fiskal Harus Diperkuat - Suara Investor",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 10:12:15 GMT",
+      "link": "https://www.suarainvestor.com/utang-pemerintah-naik-2-000-t-darmadi-komisi-vi-dpr-pengelolaan-fiskal-harus-diperkuat/"
+    },
+    {
       "title": "Kemendag Apresiasi Fitur Transparansi Biaya Penjual Milik Shopee - achmadnurhidayat.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 09:51:25 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-apresiasi-fitur-transparansi-biaya-shopee"
-    },
-    {
-      "title": "Kemendag Apresiasi Fitur Shopee yang Bikin Biaya Penjual Transparan - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 09:37:06 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8618742/kemendag-apresiasi-fitur-shopee-yang-bikin-biaya-penjual-transparan"
-    },
-    {
-      "title": "Campuspreneur Cetak Wirausaha Muda, Ekspor UMKM Kampus Tembus Rp2,2 Miliar - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 09:35:30 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/14/campuspreneur-cetak-wirausaha-muda-ekspor-umkm-kampus-tembus-rp22-miliar/"
-    },
-    {
-      "title": "Ekonom Ungkap Strategi Danantara agar Jadi Mesin Baru Pertumbuhan Ekonomi - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 09:27:47 GMT",
-      "link": "https://infobanknews.com/ekonom-ungkap-strategi-danantara-agar-jadi-mesin-baru-pertumbuhan-ekonomi"
-    },
-    {
-      "title": "Komisi VI Dorong BUMN Lebih Sehat melalui Streamlining Danantara - nasional.tvrinews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 09:23:30 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t1ld8se-komisi-vi-dorong-bumn-lebih-sehat-melalui-streamlining-danantara"
-    },
-    {
-      "title": "Komisi VI Dorong BUMN Lebih Sehat melalui Streamlining Danantara - nasional.tvrinews.com",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 09:23:30 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t1ld8se-komisi-vi-dorong-bumn-lebih-sehat-melalui-streamlining-danantara"
-    },
-    {
-      "title": "Nasim Khan: Transformasi BUMN Harus Berujung pada Kesejahteraan Rakyat - FPKB DPR RI",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 09:18:29 GMT",
-      "link": "https://www.fraksipkb.com/2026/08/14/nasim-khan-transformasi-bumn-harus-berujung-pada-kesejahteraan-rakyat/"
-    },
-    {
-      "title": "Ida Nurlaela: Kebijakan Pemerintah Harus Tepat Sasaran dan Berkeadilan - DPR RI",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 09:01:38 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Ida-Nurlaela-Kebijakan-Pemerintah-Harus-Tepat-Sasaran-dan-Berkeadilan-68029"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dorong RUU Satu Data Indonesia Segera Disahkan - DPR RI",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 08:56:12 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Rieke-Diah-Pitaloka-Dorong-RUU-Satu-Data-Indonesia-Segera-Disahkan-68030"
-    },
-    {
-      "title": "Kemenpar dan Danantara Perkuat Investasi Pariwisata Berkualitas - internationalmedia.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 08:50:00 GMT",
-      "link": "https://www.internationalmedia.id/2026/08/kemenpar-dan-danantara-perkuat.html"
-    },
-    {
-      "title": "Wamendag Dorong Perwakilan RI Perkuat Penjaringan Buyer untuk TEI 2026 - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 08:43:50 GMT",
-      "link": "https://www.hetanews.com/article/310121/wamendag-dorong-perwakilan-ri-perkuat-penjaringan-buyer-untuk-tei-2026"
     }
   ]
 }
