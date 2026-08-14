@@ -1,15 +1,15 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T06:11:06.417958",
+  "generated_at": "2026-08-14T08:13:23.992941",
   "party_counts_7d": {
-    "Gerindra": 34,
-    "PDI-P": 38,
+    "Gerindra": 33,
+    "PDI-P": 35,
     "Golkar": 5,
-    "NasDem": 2,
-    "PKB": 22,
-    "PKS": 11,
+    "NasDem": 3,
+    "PKB": 21,
+    "PKS": 10,
     "PAN": 2,
-    "Demokrat": 4
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 67,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 55,
-    "umkm": 30,
-    "danantara": 41,
-    "koperasi": 61,
+    "umkm": 29,
+    "danantara": 40,
+    "koperasi": 60,
     "investasi": 24,
     "impor": 4,
-    "perdagangan": 14,
+    "perdagangan": 13,
     "ekspor": 5,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 8,
     "merger-akuisisi": 1,
     "ipo": 4
   },
@@ -67,11 +67,11 @@
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 8,
     "Rachmat Gobel": 18,
-    "Asep Wahyuwijaya": 2,
+    "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 5,
+    "Subardi": 4,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
@@ -87,13 +87,76 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 92,
+    "Koperasi/UMKM": 90,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 7,
-    "Perdagangan": 21,
+    "Perdagangan": 22,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "DPR Desak Pemerintah Segera Terbitkan Surpres RUU Satu Data Indonesia - achmadnurhidayat.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 08:02:19 GMT",
+      "link": "https://achmadnurhidayat.id/dpr-desak-pemerintah-segera-terbitkan-surpres-ruu-satu-data-indonesia"
+    },
+    {
+      "title": "Respons PDIP Usai Dengar Pidato Prabowo di Sidang Tahunan - Inilah.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 07:53:00 GMT",
+      "link": "https://www.inilah.com/respons-pdip-soal-pidato-prabowo-di-sidang-tahunan"
+    },
+    {
+      "title": "Komisi XIII DPR Soroti Empat Pedoman Kabinet Merah Putih - TVRI News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 07:18:15 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t6wungf-komisi-xiii-dpr-soroti-empat-pedoman-kabinet-merah-putih"
+    },
+    {
+      "title": "Harga Semen di Sumatera Utara Naik hingga 40 Persen, KPPU Telusuri Rantai Pasok - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 07:16:59 GMT",
+      "link": "https://telusur.co.id/detail/harga-semen-di-sumatera-utara-naik-hingga-40-persen-kppu-telusuri-rantai-pasok"
+    },
+    {
+      "title": "Kolaborasi KLH-Kementerian Koperasi Perkuat Peran Koperasi di Sektor Nikel - Media Nikel Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 07:12:03 GMT",
+      "link": "https://nikel.co.id/2026/08/14/kolaborasi-klh-kementerian-koperasi-perkuat-peran-koperasi-di-sektor-nikel/"
+    },
+    {
+      "title": "Asep Wahyuwijaya Dorong Penegakan Akuntabilitas dan Reformasi Tata Kelola BUMN - Kedai Pena",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 06:53:00 GMT",
+      "link": "https://www.kedaipena.com/asep-wahyuwijaya-dorong-penegakan-akuntabilitas-dan-reformasi-tata-kelola-bumn/"
+    },
+    {
+      "title": "Legislator: Kebijakan berbasis bukti & data bantu RI capai kemakmuran - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 06:19:10 GMT",
+      "link": "https://www.antaranews.com/berita/5694061/legislator-kebijakan-berbasis-bukti-data-bantu-ri-capai-kemakmuran"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Kritisi Pemangkasan Anggaran Perlindungan Perempuan - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 06:19:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-kritisi-pemangkasan-anggaran-perlindungan-perempuan-b2pY4Zbhmp"
+    },
+    {
+      "title": "750 BUMN Bakal Ditutup, Prabowo Larang Manipulasi Laporan - Tirto.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 06:07:00 GMT",
+      "link": "https://tirto.id/750-bumn-bakal-ditutup-prabowo-larang-manipulasi-laporan-hBha"
+    },
     {
       "title": "Rieke: Pidato Presiden Prabowo Relevan, Kebijakan Harus Berbasis Data - TVRI News",
       "entity": "Rieke Diah Pitaloka",
@@ -135,69 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 04:32:37 GMT",
       "link": "https://nasional.kontan.co.id/news/prabowo-apresiasi-kinerja-danantara-usulkan-pimpinan-dapat-bintang-kehormatan"
-    },
-    {
-      "title": "Prabowo Ingin BUMN Beli Perusahaan Dunia demi Kuasai Teknologi - Tirto.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 04:30:00 GMT",
-      "link": "https://tirto.id/prabowo-ingin-bumn-beli-perusahaan-dunia-demi-kuasai-teknologi-hBgM"
-    },
-    {
-      "title": "PDIP Minta DPR Tingkatkan Pengawasan, Agar Utang Negara Tidak Bertambah Terus - GenPI.co - GenPI.co",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 04:20:47 GMT",
-      "link": "https://www.genpi.co/polhukam/286561/pdip-minta-dpr-tingkatkan-pengawasan-agar-utang-negara-tidak-bertambah-terus"
-    },
-    {
-      "title": "Upaya Kemendag Batasi Impor Barang Konsumsi Komoditas Asing - pasardana.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 03:48:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/14/upaya-kemendag-batasi-impor-barang-konsumsi-komoditas-asing"
-    },
-    {
-      "title": "Agrinas Palma dan Kemenkop Bangun Ekosistem Sawit Berbasis Koperasi - SWA.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 03:45:00 GMT",
-      "link": "https://swa.co.id/read/476045/agrinas-palma-dan-kemenkop-bangun-ekosistem-sawit-berbasis-koperasi"
-    },
-    {
-      "title": "Mendag Budi Santoso Resmikan Pojok PPPB, Buka Akses Pasar UMKM ke Ritel Modern - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 03:22:02 GMT",
-      "link": "https://suarapemerintah.id/2026/08/mendag-budi-santoso-resmikan-pojok-pppb-buka-akses-pasar-umkm-ke-ritel-modern/"
-    },
-    {
-      "title": "Utang Pemerintah Naik 2.000 T, Darmadi Durianto: Pengelolaan Fiskal Harus Diperkuat - dpr.go.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 03:18:34 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Utang-Pemerintah-Naik-2-000-T-Darmadi-Durianto-Pengelolaan-Fiskal-Harus-Diperkuat-67977"
-    },
-    {
-      "title": "Sektor Pariwisata Tumbuh Positif, Kemenpar dan Danantara Dalami Investasi dan Pengembangan Industri - Iconomics",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 03:03:18 GMT",
-      "link": "https://www.theiconomics.com/accelerated-growth/sektor-pariwisata-tumbuh-positif-kemenpar-dan-danantara-dalami-investasi-dan-pengembangan-industri/"
-    },
-    {
-      "title": "Darmadi Durianto Ingatkan Pemerintah Perkuat Kinerja di Tengah Ketatnya Anggaran - dpr.go.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 02:58:29 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Darmadi-Durianto-Ingatkan-Pemerintah-Perkuat-Kinerja-di-Tengah-Ketatnya-Anggaran-67972"
-    },
-    {
-      "title": "Hilirisasi Sawit Berbasis Koperasi Didorong, Petani Bakal Dapat Nilai Tambah Lebih Besar - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 02:49:26 GMT",
-      "link": "https://suarapemerintah.id/2026/08/hilirisasi-sawit-berbasis-koperasi-didorong-petani-bakal-dapat-nilai-tambah-lebih-besar/"
     }
   ]
 }
