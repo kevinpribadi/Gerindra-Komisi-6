@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T01:44:00.433398",
+  "generated_at": "2026-08-14T04:05:53.509109",
   "party_counts_7d": {
-    "Gerindra": 36,
-    "PDI-P": 34,
+    "Gerindra": 35,
+    "PDI-P": 37,
     "Golkar": 4,
-    "NasDem": 3,
+    "NasDem": 2,
     "PKB": 22,
-    "PKS": 12,
+    "PKS": 11,
     "PAN": 2,
-    "Demokrat": 2
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 86,
+    "PDI-P": 84,
     "Golkar": 51,
     "NasDem": 37,
     "PKB": 30,
     "PKS": 50,
     "PAN": 22,
-    "Demokrat": 31
+    "Demokrat": 33
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,13 +37,13 @@
     "umkm": 30,
     "danantara": 40,
     "bumn": 55,
-    "koperasi": 65,
-    "investasi": 21,
-    "impor": 3,
-    "ekspor": 7,
-    "perdagangan": 15,
-    "kartel-monopoli": 8,
-    "merger-akuisisi": 2,
+    "koperasi": 63,
+    "investasi": 24,
+    "impor": 4,
+    "perdagangan": 14,
+    "ekspor": 5,
+    "kartel-monopoli": 9,
+    "merger-akuisisi": 1,
     "ipo": 4
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
-    "Adisatrya Suryo Sulisto": 5,
+    "Adisatrya Suryo Sulisto": 3,
     "Mufti Anam": 14,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -81,18 +81,109 @@
     "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
-    "Sartono": 8,
-    "Herman Khaeron": 19,
+    "Sartono": 9,
+    "Herman Khaeron": 20,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 94,
+    "Koperasi/UMKM": 93,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 5,
-    "Perdagangan": 22,
-    "Konflik Publik": 7
+    "Kinerja BUMN": 6,
+    "Perdagangan": 21,
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Upaya Kemendag Batasi Impor Barang Konsumsi Komoditas Asing - pasardana.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 03:48:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/14/upaya-kemendag-batasi-impor-barang-konsumsi-komoditas-asing"
+    },
+    {
+      "title": "Agrinas Palma dan Kemenkop Bangun Ekosistem Sawit Berbasis Koperasi - SWA.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 03:45:00 GMT",
+      "link": "https://swa.co.id/read/476045/agrinas-palma-dan-kemenkop-bangun-ekosistem-sawit-berbasis-koperasi"
+    },
+    {
+      "title": "Mendag Budi Santoso Resmikan Pojok PPPB, Buka Akses Pasar UMKM ke Ritel Modern - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 03:22:02 GMT",
+      "link": "https://suarapemerintah.id/2026/08/mendag-budi-santoso-resmikan-pojok-pppb-buka-akses-pasar-umkm-ke-ritel-modern/"
+    },
+    {
+      "title": "Utang Pemerintah Naik 2.000 T, Darmadi Durianto: Pengelolaan Fiskal Harus Diperkuat - dpr.go.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 03:18:34 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Utang-Pemerintah-Naik-2-000-T-Darmadi-Durianto-Pengelolaan-Fiskal-Harus-Diperkuat-67977"
+    },
+    {
+      "title": "Sektor Pariwisata Tumbuh Positif, Kemenpar dan Danantara Dalami Investasi dan Pengembangan Industri - Iconomics",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 03:03:18 GMT",
+      "link": "https://www.theiconomics.com/accelerated-growth/sektor-pariwisata-tumbuh-positif-kemenpar-dan-danantara-dalami-investasi-dan-pengembangan-industri/"
+    },
+    {
+      "title": "Darmadi Durianto Ingatkan Pemerintah Perkuat Kinerja di Tengah Ketatnya Anggaran - dpr.go.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 02:58:29 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Darmadi-Durianto-Ingatkan-Pemerintah-Perkuat-Kinerja-di-Tengah-Ketatnya-Anggaran-67972"
+    },
+    {
+      "title": "Hilirisasi Sawit Berbasis Koperasi Didorong, Petani Bakal Dapat Nilai Tambah Lebih Besar - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 02:49:26 GMT",
+      "link": "https://suarapemerintah.id/2026/08/hilirisasi-sawit-berbasis-koperasi-didorong-petani-bakal-dapat-nilai-tambah-lebih-besar/"
+    },
+    {
+      "title": "Anggota DPR: Putusan MK Pasal Penghinaan Presiden jadi penyeimbang - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 02:29:46 GMT",
+      "link": "https://ambon.antaranews.com/berita/339617/anggota-dpr-putusan-mk-pasal-penghinaan-presiden-jadi-penyeimbang"
+    },
+    {
+      "title": "Kritik Bukan Penghinaan! Rieke Diah Pitaloka Minta Aparat Tak Kriminalisasi Suara Rakyat - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 02:24:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/kritik-bukan-penghinaan-rieke-diah-pitaloka-minta-aparat-tak-kriminalisasi-suara-rakyat-b2pY4ZbhlW"
+    },
+    {
+      "title": "PT Agrinas Palma dan Kemenkop Kerja Sama Kembangkan Perkebunan Sawit - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 02:21:21 GMT",
+      "link": "https://achmadnurhidayat.id/agrinas-palma-kemenkop-kerjasama-sawit"
+    },
+    {
+      "title": "Agrinas Palma Bersinergi dengan Kementerian Koperasi - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 01:57:36 GMT",
+      "link": "https://investor.id/business/450330/agrinas-palma-bersinergi-dengan-kementerian-koperasi"
+    },
+    {
+      "title": "Dukung Pembatasan Pertalite Desil 9–10, Sartono Hutomo Tekankan Akurasi Data - TEROPONGSENAYAN.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 01:48:52 GMT",
+      "link": "https://www.teropongsenayan.com/138207-dukung-pembatasan-pertalite-desil-910-sartono-hutomo-tekankan-akurasi-data"
+    },
+    {
+      "title": "Kemenpar-Danantara Perkuat Ekosistem Investasi Pariwisata - NUSABALI.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 01:44:28 GMT",
+      "link": "https://www.nusabali.com/berita/228345/kemenpar-danantara-perkuat-ekosistem-investasi-pariwisata"
+    },
     {
       "title": "2.587 Koperasi Perkebunan Didorong Perkuat Hilirisasi Sawit dan Posisi Petani - infosawit.com",
       "entity": "Kementerian Koperasi",
@@ -106,97 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 01:33:47 GMT",
       "link": "https://investor.id/macroeconomy/450325/danantara-bawa-bumn-bangkit-krakatau-steelhingga-kimia-farmapulih"
-    },
-    {
-      "title": "KPPU Surabaya Gencar Sosialisasi Perkuat Pemahaman Persaingan Usaha dan Kemitraan - KilasJatim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 01:12:37 GMT",
-      "link": "https://kilasjatim.com/2026/08/13/kppu-surabaya-gencar-sosialisasi-perkuat-pemahaman-persaingan-usaha-dan-kemitraan/"
-    },
-    {
-      "title": "Kemendag Pantau Produk Impor yang Mengganggu UMKM, Siap-Siap Saja - JPNN.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 00:51:27 GMT",
-      "link": "https://www.jpnn.com/news/kemendag-pantau-produk-impor-yang-mengganggu-umkm-siap-siap-saja"
-    },
-    {
-      "title": "Soal Pembatasan Pertalite Desil 9–10, Sartono Hutomo Tekankan Akurasi Data - Kedai Pena",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 23:54:40 GMT",
-      "link": "https://www.kedaipena.com/soal-pembatasan-pertalite-desil-9-10-sartono-hutomo-tekankan-akurasi-data/"
-    },
-    {
-      "title": "KPPU Ingatkan Pemda, Kebijakan Jangan Jadi Penghambat Pelaku Usaha - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 23:01:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136513/kppu-ingatkan-pemda-kebijakan-jangan-jadi-penghambat-pelaku-usaha"
-    },
-    {
-      "title": "Hilirisasi Sawit Berbasis Koperasi, Menkop Dorong Petani Perkuat Daya Tawar - Agricom.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 20:08:12 GMT",
-      "link": "https://www.agricom.id/news/5126/hilirisasi-sawit-berbasis-koperasi--menkop-dorong-petani-perkuat-daya-tawar"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 17:55:50 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Profil Muhammad Sarmuji: Dari Aktivis HMI Jadi DPR RI hingga Duduki Sekjen Partai Golkar - ketik.com",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 17:30:00 GMT",
-      "link": "https://ketik.com/jakarta/ketik-sosok/profil-muhammad-sarmuji-dari-aktivis-hmi-jadi-dpr-ri-hingga-duduki-sekjen-partai-golkar"
-    },
-    {
-      "title": "Menkop Dorong Hilirisasi Sawit Berbasis Koperasi untuk Tingkatkan Kesejahteraan Petani - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 14:33:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-dorong-hilirisasi-sawit-berbasis-koperasi-untuk-tingkatkan-kesejahteraan-petani/"
-    },
-    {
-      "title": "Kemenkop dan KLH buka peluang koperasi masuk bisnis perdagangan karbon - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 14:00:11 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kemenkop-dan-klh-buka-peluang-koperasi-masuk-bisnis-perdagangan-karbon-173447"
-    },
-    {
-      "title": "Kolaborasi Kemenkop & KLH Dorong Koperasi Masuk Pasar Karbon & Ekonomi Sirkular - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 13:49:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/321678/kolaborasi-kemenkop-klh-dorong-koperasi-masuk-pasar-karbon-ekonomi-sirkular"
-    },
-    {
-      "title": "Pemerintah Buka Peluang Keuntungan Danantara Masuk APBN - voi.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 13:45:00 GMT",
-      "link": "https://voi.id/ekonomi/589555/pemerintah-buka-peluang-keuntungan-danantara-masuk-apbn"
-    },
-    {
-      "title": "KPPU Surabaya Gencar Sosialisasi Perkuat Pemahaman Perrsaingan Usaha dan Kemitraan - KilasJatim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 13:33:43 GMT",
-      "link": "https://kilasjatim.com/2026/08/13/kppu-surabaya-gencar-sosialisasi-perkuat-pemahaman-perrsaingan-usaha-dan-kemitraan/"
-    },
-    {
-      "title": "Shopee dan Kemendag Mengakselerasi Usaha Lokal Lewat Tiga Pilar - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 13:00:00 GMT",
-      "link": "https://swa.co.id/read/476023/shopee-dan-kemendag-mengakselerasi-usaha-lokal-lewat-tiga-pilar"
     }
   ]
 }
