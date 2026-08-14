@@ -1,15 +1,15 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-13T23:38:11.034666",
+  "generated_at": "2026-08-14T01:44:00.433398",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 36,
+    "PDI-P": 34,
     "Golkar": 4,
     "NasDem": 3,
     "PKB": 22,
     "PKS": 12,
     "PAN": 2,
-    "Demokrat": 1
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 67,
@@ -19,7 +19,7 @@
     "PKB": 30,
     "PKS": 50,
     "PAN": 22,
-    "Demokrat": 30
+    "Demokrat": 31
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "umkm": 31,
+    "umkm": 30,
     "danantara": 40,
     "bumn": 55,
     "koperasi": 65,
     "investasi": 21,
-    "perdagangan": 15,
-    "impor": 2,
+    "impor": 3,
     "ekspor": 7,
-    "kartel-monopoli": 7,
-    "merger-akuisisi": 3,
+    "perdagangan": 15,
+    "kartel-monopoli": 8,
+    "merger-akuisisi": 2,
     "ipo": 4
   },
   "member_counts_30d": {
@@ -81,18 +81,60 @@
     "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
-    "Sartono": 7,
+    "Sartono": 8,
     "Herman Khaeron": 19,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 95,
+    "Koperasi/UMKM": 94,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 5,
-    "Perdagangan": 21,
+    "Perdagangan": 22,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "2.587 Koperasi Perkebunan Didorong Perkuat Hilirisasi Sawit dan Posisi Petani - infosawit.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 01:35:00 GMT",
+      "link": "https://www.infosawit.com/2026/08/14/2-587-koperasi-perkebunan-didorong-perkuat-hilirisasi-sawit-dan-posisi-petani/amp/"
+    },
+    {
+      "title": "Danantara Bawa BUMN Bangkit, Krakatau Steel hingga Kimia Farma Pulih - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 01:33:47 GMT",
+      "link": "https://investor.id/macroeconomy/450325/danantara-bawa-bumn-bangkit-krakatau-steelhingga-kimia-farmapulih"
+    },
+    {
+      "title": "KPPU Surabaya Gencar Sosialisasi Perkuat Pemahaman Persaingan Usaha dan Kemitraan - KilasJatim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 01:12:37 GMT",
+      "link": "https://kilasjatim.com/2026/08/13/kppu-surabaya-gencar-sosialisasi-perkuat-pemahaman-persaingan-usaha-dan-kemitraan/"
+    },
+    {
+      "title": "Kemendag Pantau Produk Impor yang Mengganggu UMKM, Siap-Siap Saja - JPNN.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 00:51:27 GMT",
+      "link": "https://www.jpnn.com/news/kemendag-pantau-produk-impor-yang-mengganggu-umkm-siap-siap-saja"
+    },
+    {
+      "title": "Soal Pembatasan Pertalite Desil 9–10, Sartono Hutomo Tekankan Akurasi Data - Kedai Pena",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Thu, 13 Aug 2026 23:54:40 GMT",
+      "link": "https://www.kedaipena.com/soal-pembatasan-pertalite-desil-9-10-sartono-hutomo-tekankan-akurasi-data/"
+    },
+    {
+      "title": "KPPU Ingatkan Pemda, Kebijakan Jangan Jadi Penghambat Pelaku Usaha - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 13 Aug 2026 23:01:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136513/kppu-ingatkan-pemda-kebijakan-jangan-jadi-penghambat-pelaku-usaha"
+    },
     {
       "title": "Hilirisasi Sawit Berbasis Koperasi, Menkop Dorong Petani Perkuat Daya Tawar - Agricom.id",
       "entity": "Kementerian Koperasi",
@@ -150,53 +192,11 @@
       "link": "https://kilasjatim.com/2026/08/13/kppu-surabaya-gencar-sosialisasi-perkuat-pemahaman-perrsaingan-usaha-dan-kemitraan/"
     },
     {
-      "title": "Danantara Ungkap Alasan Incar Saham BEI, Bidik Kapitalisasi Pasar Naik - market.bisnis.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 12:40:39 GMT",
-      "link": "https://market.bisnis.com/read/20260813/192/1996093/danantara-ungkap-alasan-incar-saham-bei-bidik-kapitalisasi-pasar-naik"
-    },
-    {
-      "title": "Saham GOTO Didepak MSCI, Begini Respons Danantara - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 12:35:00 GMT",
-      "link": "https://infobanknews.com/saham-goto-didepak-msci-begini-respons-danantara"
-    },
-    {
-      "title": "Kemenkop-KLH Dorong Koperasi Masuk Pasar Karbon - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 12:32:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/08/13/718143/kemenkop-klh-dorong-koperasi-masuk-pasar-karbon"
-    },
-    {
-      "title": "Rieke: Putusan MK Tentang Penghinaan Presiden Jaga Martabat, Jangan Matikan Kritik! - Suara Investor",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 12:30:44 GMT",
-      "link": "https://www.suarainvestor.com/rieke-putusan-mk-tentang-penghinaan-presiden-jaga-martabat-jangan-matikan-kritik/"
-    },
-    {
-      "title": "Shopee Perkuat Daya Saing Produk Lewat Program Akselerasi Usaha Lokal - RM.ID",
+      "title": "Shopee dan Kemendag Mengakselerasi Usaha Lokal Lewat Tiga Pilar - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 12:26:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321667/shopee-perkuat-daya-saing-produk-lewat-program-akselerasi-usaha-lokal"
-    },
-    {
-      "title": "Audiensi DPR dengan Serikat Buruh Bahas RUU Ketenagakerjaan - merahputih.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 13 Aug 2026 12:13:30 GMT",
-      "link": "https://www.merahputih.com/post/read/audiensi-pimpinan-dpr-dengan-serikat-buruh-bahas-ruu-ketenagakerjaan"
-    },
-    {
-      "title": "Kemenkop-KemenLH siapkan koperasi masuk ke perdagangan karbon - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 13 Aug 2026 12:11:41 GMT",
-      "link": "https://www.antaranews.com/berita/5693007/kemenkop-kemenlh-siapkan-koperasi-masuk-ke-perdagangan-karbon"
+      "published": "Thu, 13 Aug 2026 13:00:00 GMT",
+      "link": "https://swa.co.id/read/476023/shopee-dan-kemendag-mengakselerasi-usaha-lokal-lewat-tiga-pilar"
     }
   ]
 }
