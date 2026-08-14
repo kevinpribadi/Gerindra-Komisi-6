@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T14:18:03.405367",
+  "generated_at": "2026-08-14T15:48:46.419860",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 42,
@@ -17,7 +17,7 @@
     "Golkar": 52,
     "NasDem": 38,
     "PKB": 33,
-    "PKS": 48,
+    "PKS": 46,
     "PAN": 22,
     "Demokrat": 33
   },
@@ -36,9 +36,9 @@
   "topic_counts_30d": {
     "bumn": 66,
     "umkm": 27,
-    "danantara": 44,
-    "koperasi": 55,
-    "investasi": 24,
+    "danantara": 43,
+    "koperasi": 53,
+    "investasi": 25,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 6,
@@ -77,7 +77,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
-    "Rizal Bawazier": 12,
+    "Rizal Bawazier": 10,
     "Ghufran": 2,
     "Ismail": 18,
     "Eko Patrio": 2,
@@ -87,13 +87,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 83,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 12,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 14 Aug 2026 15:03:45 GMT",
+      "link": "https://www.antaranews.com/berita/5695277/pemerintah-targetkan-investasi-rp2322-triliun-pada-2027"
+    },
     {
       "title": "Komisi VI DPR RI siap mendukung Danantara Development Management Fund - ANTARA News",
       "entity": "Andre Rosiade",
@@ -191,13 +198,6 @@
       "kind": "anggota",
       "published": "Fri, 14 Aug 2026 11:02:11 GMT",
       "link": "https://sudutkota.id/komisi-vi-soroti-separuh-bumn-dan-anak-usaha-tak-sehat-danantara-didesak-tak-sekadar-pangkas-entitas/"
-    },
-    {
-      "title": "DPR Apresiasi Kinerja Danantara - aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:01:58 GMT",
-      "link": "https://aspek.id/dpr-apresiasi-kinerja-danantara/"
     }
   ]
 }
