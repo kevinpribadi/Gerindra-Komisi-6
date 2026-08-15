@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T15:17:16.859749",
+  "generated_at": "2026-08-15T16:20:34.714886",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 46,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 77,
+    "PDI-P": 76,
     "Golkar": 52,
-    "NasDem": 40,
+    "NasDem": 39,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 69,
-    "umkm": 25,
+    "umkm": 24,
     "danantara": 42,
     "koperasi": 44,
-    "investasi": 26,
-    "ekspor": 10,
+    "investasi": 27,
+    "ekspor": 9,
     "perdagangan": 5,
     "impor": 3,
     "kartel-monopoli": 7,
@@ -52,7 +52,7 @@
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
-    "Adisatrya Suryo Sulisto": 2,
+    "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 8,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 18,
+    "Rachmat Gobel": 17,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 71,
+    "Koperasi/UMKM": 70,
     "Kinerja BUMN": 15,
-    "Perdagangan": 27,
+    "Perdagangan": 26,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Emas Kian Bersinar, Investor Ramai-Ramai Tinggalkan Deposito - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 15:34:28 GMT",
+      "link": "https://indoposco.id/2026/08/15/emas-kian-bersinar-investor-ramai-ramai-tinggalkan-deposito/"
+    },
     {
       "title": "Danantara Buktikan Peran Besar dalam Mengelola Aset Negara - Minews ID",
       "entity": "Danantara",
@@ -106,6 +113,13 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 14:05:50 GMT",
       "link": "https://minews.id/news/kinerja-danantara-dinilai-makin-positif-berhasil-kelola-aset-negara-secara-produktif"
+    },
+    {
+      "title": "Akademisi Dukung Rencana Presiden Prabowo Beri Bintang Kehormatan untuk Pimpinan Danantara - SINDOnews Nasional",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 13:51:06 GMT",
+      "link": "https://nasional.sindonews.com/read/1739495/15/akademisi-dukung-rencana-presiden-prabowo-beri-bintang-kehormatan-untuk-pimpinan-danantara-1786806524"
     },
     {
       "title": "Merasa Didiskriminalisasi, Terdakwa Perkara Penggelapan Dana KSU, Lapor ke Kementrian Koperasi - RIAUTERKINI.COM",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 10:27:00 GMT",
       "link": "https://www.ngopibareng.id/read/6pengukuhan-pengurus-dekopinda-kota-kediri-firdaus-dorong-kemandirian-dan-sdm-peningkatan-koperasi"
-    },
-    {
-      "title": "Kinerja Danantara Dinilai Makin Positif, Berhasil Kelola Aset Negara secara Produktif - Deliknews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 10:14:00 GMT",
-      "link": "https://www.deliknews.com/2026/08/15/kinerja-danantara-dinilai-makin-positif-berhasil-kelola-aset-negara-secara-produktif/"
-    },
-    {
-      "title": "Ketika Koperasi Lama Terancam Hilang, Dekopinda Kota Kediri Pilih Merawat daripada Mematikan - Kediri Tangguh",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 09:53:03 GMT",
-      "link": "https://kediritangguh.co/ketika-koperasi-lama-terancam-hilang-dekopinda-kota-kediri-pilih-merawat-daripada-mematikan/"
     }
   ]
 }
