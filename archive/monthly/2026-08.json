@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T16:20:34.714886",
+  "generated_at": "2026-08-15T18:23:56.792192",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
     "PKB": 22,
-    "PKS": 7,
+    "PKS": 5,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -40,7 +40,7 @@
     "koperasi": 44,
     "investasi": 27,
     "ekspor": 9,
-    "perdagangan": 5,
+    "perdagangan": 4,
     "impor": 3,
     "kartel-monopoli": 7,
     "ipo": 4
@@ -93,6 +93,13 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop dan KLH Perkuat Sinergi untuk Dorong Koperasi Terlibat dalam Pasar Karbon dan Ekonomi Sirkular - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 18:19:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-dan-klh-perkuat-sinergi-untuk-dorong-koperasi-terlibat-dalam-pasar-karbon-dan-ekonomi-sirkular/"
+    },
     {
       "title": "Emas Kian Bersinar, Investor Ramai-Ramai Tinggalkan Deposito - indoposco.id",
       "entity": "Kementerian Perdagangan",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 10:40:42 GMT",
       "link": "https://ekonomi.bisnis.com/read/20260815/9/1996610/wacana-amnesti-korupsi-bumn-prabowo-belum-sampai-tahap-pembahasan"
-    },
-    {
-      "title": "Pengukuhan Pengurus Dekopinda Kota Kediri, Firdaus Dorong Kemandirian dan Peningkatan SDM Koperasi - ngopibareng.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 10:27:00 GMT",
-      "link": "https://www.ngopibareng.id/read/6pengukuhan-pengurus-dekopinda-kota-kediri-firdaus-dorong-kemandirian-dan-sdm-peningkatan-koperasi"
     }
   ]
 }
