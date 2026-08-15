@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T01:04:08.158121",
+  "generated_at": "2026-08-15T02:49:27.851024",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 43,
-    "Golkar": 5,
+    "Golkar": 6,
     "NasDem": 5,
     "PKB": 24,
     "PKS": 8,
@@ -14,10 +14,10 @@
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 81,
-    "Golkar": 52,
+    "Golkar": 53,
     "NasDem": 39,
     "PKB": 33,
-    "PKS": 43,
+    "PKS": 41,
     "PAN": 22,
     "Demokrat": 31
   },
@@ -37,8 +37,8 @@
     "bumn": 67,
     "umkm": 27,
     "danantara": 42,
-    "koperasi": 48,
-    "investasi": 28,
+    "koperasi": 46,
+    "investasi": 29,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
@@ -65,7 +65,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
-    "Muhammad Sarmuji": 8,
+    "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 18,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 3,
@@ -77,7 +77,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
-    "Rizal Bawazier": 7,
+    "Rizal Bawazier": 5,
     "Ghufran": 2,
     "Ismail": 18,
     "Eko Patrio": 2,
@@ -87,13 +87,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 79,
+    "Koperasi/UMKM": 77,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 12,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kata Golkar Soal Pertemuan Sekjen Partai Pendukung Prabowo - Tempo.co",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 02:15:00 GMT",
+      "link": "https://www.tempo.co/politik/kata-golkar-soal-pertemuan-sekjen-partai-pendukung-prabowo-2282085"
+    },
+    {
+      "title": "Danantara Garap 13 Proyek Hilirisasi dengan Total Investasi Rp225 Triliun - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 01:30:06 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-garap-13-proyek-hilirisasi-dengan-total-investasi-rp225-triliun"
+    },
     {
       "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News Gorontalo",
       "entity": "Danantara",
@@ -184,20 +198,6 @@
       "kind": "anggota",
       "published": "Fri, 14 Aug 2026 11:48:51 GMT",
       "link": "https://ekonomi.tvrinews.com/berita/tmbdaaw-komisi-vi-siap-kawal-penataan-bumn-dan-ekspor-satu-pintu"
-    },
-    {
-      "title": "Kemendag Perkuat Ekosistem Ekspor untuk Dorong Mamin Indonesia Go Global - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:42:15 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/14/kemendag-perkuat-ekosistem-ekspor-untuk-dorong-mamin-indonesia-go-global/"
-    },
-    {
-      "title": "BAZNAS, Danantara, Kemenkop Dan MES Perkuat Ekosistem Zakat-Koperasi Syariah - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:40:00 GMT",
-      "link": "https://rm.id/baca-berita/nasional/321780/baznas-danantara-kemenkop-dan-mes-perkuat-ekosistem-zakatkoperasi-syariah"
     }
   ]
 }
