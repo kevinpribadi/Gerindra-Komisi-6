@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T08:24:08.404794",
+  "generated_at": "2026-08-15T09:22:56.956758",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 43,
+    "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
-    "PKB": 24,
+    "PKB": 25,
     "PKS": 7,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
@@ -16,7 +16,7 @@
     "PDI-P": 79,
     "Golkar": 52,
     "NasDem": 39,
-    "PKB": 33,
+    "PKB": 34,
     "PKS": 41,
     "PAN": 22,
     "Demokrat": 29
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
+    "bumn": 69,
     "umkm": 27,
     "danantara": 41,
     "koperasi": 44,
@@ -71,7 +71,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 4,
-    "Anggia Erma Rini": 9,
+    "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -93,6 +93,20 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "DPR Turun Tangan Tangani Perselisihan Pekerja BUMN, Anggia: Transformasi Jangan Abaikan Hak Karyawan - sudut kota",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 08:44:54 GMT",
+      "link": "https://sudutkota.id/dpr-turun-tangan-tangani-perselisihan-pekerja-bumn-anggia-transformasi-jangan-abaikan-hak-karyawan/"
+    },
+    {
+      "title": "Laba BSI Tumbuh 16,73 Persen, Ekonomi Syariah Makin Kuat - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 08:29:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321897/laba-bsi-tumbuh-1673-persen-ekonomi-syariah-makin-kuat"
+    },
     {
       "title": "Kemendag Tetapkan HR dan HPE Emas, Naik 0,65% pada Periode II Agustus 2026 - kontan.co.id",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 02:21:27 GMT",
       "link": "https://www.validnews.id/ekonomi/2026/08/15/bos-danantara-pastikan-pengawasan-dsi-akan-diperluas-ke-komoditas-lain-111700421"
-    },
-    {
-      "title": "Kata Golkar Soal Pertemuan Sekjen Partai Pendukung Prabowo - Tempo.co",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 02:15:00 GMT",
-      "link": "https://www.tempo.co/politik/kata-golkar-soal-pertemuan-sekjen-partai-pendukung-prabowo-2282085"
-    },
-    {
-      "title": "Danantara Garap 13 Proyek Hilirisasi dengan Total Investasi Rp225 Triliun - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 01:30:06 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-garap-13-proyek-hilirisasi-dengan-total-investasi-rp225-triliun"
     }
   ]
 }
