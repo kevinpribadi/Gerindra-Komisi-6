@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T18:23:56.792192",
+  "generated_at": "2026-08-15T21:18:00.174604",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
-    "PKB": 22,
+    "PKB": 19,
     "PKS": 5,
     "PAN": 1,
     "Demokrat": 3
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
+    "bumn": 68,
     "umkm": 24,
-    "danantara": 42,
+    "danantara": 43,
     "koperasi": 44,
     "investasi": 27,
     "ekspor": 9,
@@ -88,7 +88,7 @@
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 70,
-    "Kinerja BUMN": 15,
+    "Kinerja BUMN": 14,
     "Perdagangan": 26,
     "Konflik Publik": 5
   },
@@ -106,6 +106,13 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 15:34:28 GMT",
       "link": "https://indoposco.id/2026/08/15/emas-kian-bersinar-investor-ramai-ramai-tinggalkan-deposito/"
+    },
+    {
+      "title": "Kinerja Danantara Tunjukkan Peluang Jadi Pilar Baru Penguatan Ekonomi Nasional - Minews ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 14:29:45 GMT",
+      "link": "https://minews.id/cuitan-mi/kinerja-danantara-tunjukkan-peluang-jadi-pilar-baru-penguatan-ekonomi-nasional"
     },
     {
       "title": "Danantara Buktikan Peran Besar dalam Mengelola Aset Negara - Minews ID",
@@ -190,13 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 15 Aug 2026 10:43:31 GMT",
       "link": "https://belarakyat.com/dpr-ingatkan-pemerintah-jaga-efektivitas-kerja-di-tengah-anggaran-ketat/"
-    },
-    {
-      "title": "Wacana Amnesti Korupsi BUMN Prabowo Belum Sampai Tahap Pembahasan - Bisnis.com - Ekonomi",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 10:40:42 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260815/9/1996610/wacana-amnesti-korupsi-bumn-prabowo-belum-sampai-tahap-pembahasan"
     }
   ]
 }
