@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T14:19:25.374894",
+  "generated_at": "2026-08-15T15:17:16.859749",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 46,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 79,
+    "PDI-P": 77,
     "Golkar": 52,
     "NasDem": 40,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
-    "Demokrat": 29
+    "Demokrat": 28
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -52,8 +52,8 @@
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
-    "Adisatrya Suryo Sulisto": 3,
-    "Mufti Anam": 9,
+    "Adisatrya Suryo Sulisto": 2,
+    "Mufti Anam": 8,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -82,17 +82,24 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
-    "Herman Khaeron": 18,
+    "Herman Khaeron": 17,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 17,
     "Koperasi/UMKM": 71,
     "Kinerja BUMN": 15,
     "Perdagangan": 27,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Danantara Buktikan Peran Besar dalam Mengelola Aset Negara - Minews ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 14:26:23 GMT",
+      "link": "https://minews.id/cuitan-mi/danantara-buktikan-peran-besar-dalam-mengelola-aset-negara"
+    },
     {
       "title": "Kinerja Danantara Dinilai Makin Positif, Berhasil Kelola Aset Negara secara Produktif - Minews ID",
       "entity": "Danantara",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 09:53:03 GMT",
       "link": "https://kediritangguh.co/ketika-koperasi-lama-terancam-hilang-dekopinda-kota-kediri-pilih-merawat-daripada-mematikan/"
-    },
-    {
-      "title": "Kemendag Tetapkan HPE Emas Periode II Agustus 2026, Naik 0,65 Persen - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 09:51:45 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tps1jmh-kemendag-tetapkan-hpe-emas-periode-ii-agustus-2026-naik-065-persen"
     }
   ]
 }
