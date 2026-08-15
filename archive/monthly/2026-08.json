@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T11:17:28.568855",
+  "generated_at": "2026-08-15T12:31:54.697715",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 45,
+    "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 5,
-    "PKB": 25,
+    "PKB": 22,
     "PKS": 7,
     "PAN": 1,
     "Demokrat": 3
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 69,
-    "umkm": 27,
+    "umkm": 26,
     "danantara": 42,
     "koperasi": 44,
     "investasi": 26,
-    "ekspor": 8,
+    "ekspor": 9,
     "impor": 3,
-    "perdagangan": 5,
+    "perdagangan": 4,
     "kartel-monopoli": 7,
     "ipo": 4
   },
@@ -87,12 +87,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 74,
+    "Koperasi/UMKM": 72,
     "Kinerja BUMN": 15,
-    "Perdagangan": 25,
+    "Perdagangan": 26,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Catat Ekspor Perdana Program Campuspreneur Rp2,2 Miliar - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 12:01:18 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-ekspor-perdana-campuspreneur"
+    },
+    {
+      "title": "Kondisi Fiskal Buruk, Darmadi Dorong Penguatan Kinerja dan Pengelolaan Anggaran - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 11:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/kondisi-fiskal-buruk-darmadi-dorong-penguatan-kinerja-dan-pengelolaan-anggaran-b2pY4Zbhny"
+    },
     {
       "title": "DPR Ingatkan Pemerintah Jaga Efektivitas Kerja di Tengah Anggaran Ketat - belarakyat.com",
       "entity": "Darmadi Durianto",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 07:06:59 GMT",
       "link": "https://www.kompasiana.com/alifarjuli9327/6a801013ed641501601b418a/kppu-perkuat-tata-kelola-dan-pengambilan-keputusan-secara-kolektif-kolegial"
-    },
-    {
-      "title": "Demi Efisiensi dan Kesejahteraan Rakyat, Bang Nasim Khan Dukung Transformasi BUMN - Harian Bhirawa",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 06:41:23 GMT",
-      "link": "https://harianbhirawa.co.id/demi-efisiensi-dan-kesejahteraan-rakyat-bang-nasim-khan-dukung-transformasi-bumn/"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi Capaian Danantara, Bukti Suksesnya Kemitraan Komisi VI - DPR RI",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 06:21:54 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Apresiasi-Capaian-Danantara-Bukti-Suksesnya-Kemitraan-Komisi-VI-68056"
     }
   ]
 }
