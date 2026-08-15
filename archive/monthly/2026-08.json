@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T04:27:10.099635",
+  "generated_at": "2026-08-15T05:21:58.165823",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 43,
@@ -8,7 +8,7 @@
     "NasDem": 5,
     "PKB": 24,
     "PKS": 7,
-    "PAN": 1,
+    "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
+    "bumn": 65,
     "umkm": 27,
-    "danantara": 42,
+    "danantara": 41,
     "koperasi": 46,
-    "investasi": 28,
+    "investasi": 27,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
@@ -102,6 +102,13 @@
       "link": "https://lampungmediaonline.com/danantara-tunjukkan-kinerja-positif-sebagai-mesin-investasi-strategis-negara/"
     },
     {
+      "title": "Telkom Perkuat Bisnis Enterprise, Kontribusi Diperkirakan 30 Persen - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 03:30:00 GMT",
+      "link": "https://www.tempo.co/info-tempo/telkom-perkuat-bisnis-enterprise-kontribusi-diperkirakan-30-persen-2282109"
+    },
+    {
       "title": "Empat Lembaga Teken MoU, Ekosistem Zakat dan Koperasi Syariah Diperkuat - JPNN.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -130,11 +137,25 @@
       "link": "https://nasional.kontan.co.id/news/danantara-garap-13-proyek-hilirisasi-dengan-total-investasi-rp225-triliun"
     },
     {
+      "title": "27 Pelanggaran Ruang Laut Terungkap di Batam, Reklamasi Tanpa Izin Jadi Kasus Terbanyak - Jawa Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 01:06:27 GMT",
+      "link": "https://batampos.jawapos.com/batam/2608150004/27-pelanggaran-ruang-laut-terungkap-di-batam-reklamasi-tanpa-izin-jadi-kasus-terbanyak"
+    },
+    {
       "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News Gorontalo",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 00:42:37 GMT",
       "link": "https://gorontalo.antaranews.com/berita/419265/pemerintah-targetkan-investasi-rp2322-triliun-pada-2027"
+    },
+    {
+      "title": "Gaji Hakim Indonesia Tertinggi di ASEAN - Aspek.id",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Fri, 14 Aug 2026 22:56:52 GMT",
+      "link": "https://aspek.id/gaji-hakim-indonesia-tertinggi-di-asean/"
     },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 12:20:18 GMT",
       "link": "https://industri.kontan.co.id/news/danantara-total-investasi-proyek-hilirisasi-capai-rp-225-triliun"
-    },
-    {
-      "title": "Cetak Eksportir Muda, Kemendag Perkuat Sinergi di Campuspreneur - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 12:09:00 GMT",
-      "link": "https://tirto.id/cetak-eksportir-muda-kemendag-perkuat-sinergi-di-campuspreneur-hBiF"
-    },
-    {
-      "title": "| Komisi VI Bidik BUMN Lebih Sehat lewat Streamlining Danantara - jurnas.com",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 11:56:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1663698/komisi-vi-bidik-bumn-lebih-sehat-lewat-streamlining-danantara/"
-    },
-    {
-      "title": "Danantara dan BP BUMN: Menata BUMN Menjadi Rumah Ekonomi Bangsa Halaman 1 - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:55:19 GMT",
-      "link": "https://www.kompasiana.com/diperma/6a7f0227ed641526454140ab/danantara-dan-bp-bumn-menata-bumn-menjadi-rumah-ekonomi-bangsa"
     }
   ]
 }
