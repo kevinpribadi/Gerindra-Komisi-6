@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T03:36:08.490499",
+  "generated_at": "2026-08-15T04:27:10.099635",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 43,
     "Golkar": 6,
     "NasDem": 5,
     "PKB": 24,
-    "PKS": 8,
+    "PKS": 7,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
+    "bumn": 66,
     "umkm": 27,
     "danantara": 42,
     "koperasi": 46,
-    "investasi": 29,
+    "investasi": 28,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
@@ -94,6 +94,27 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Danantara Tunjukkan Kinerja Positif sebagai Mesin Investasi Strategis Negara - lampungmediaonline.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 03:42:53 GMT",
+      "link": "https://lampungmediaonline.com/danantara-tunjukkan-kinerja-positif-sebagai-mesin-investasi-strategis-negara/"
+    },
+    {
+      "title": "Empat Lembaga Teken MoU, Ekosistem Zakat dan Koperasi Syariah Diperkuat - JPNN.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 02:47:00 GMT",
+      "link": "https://www.jpnn.com/news/empat-lembaga-teken-mou-ekosistem-zakat-dan-koperasi-syariah-diperkuat"
+    },
+    {
+      "title": "Bos Danantara Pastikan Pengawasan DSI Akan Diperluas Ke Komoditas Lain - Validnews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 02:21:27 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/08/15/bos-danantara-pastikan-pengawasan-dsi-akan-diperluas-ke-komoditas-lain-111700421"
+    },
     {
       "title": "Kata Golkar Soal Pertemuan Sekjen Partai Pendukung Prabowo - Tempo.co",
       "entity": "Muhammad Sarmuji",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 11:55:19 GMT",
       "link": "https://www.kompasiana.com/diperma/6a7f0227ed641526454140ab/danantara-dan-bp-bumn-menata-bumn-menjadi-rumah-ekonomi-bangsa"
-    },
-    {
-      "title": "Danantara dan BP BUMN: Menata BUMN Menjadi Rumah Ekonomi Bangsa Halaman 1 - Kompasiana.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:55:19 GMT",
-      "link": "https://www.kompasiana.com/diperma/6a7f0227ed641526454140ab/danantara-dan-bp-bumn-menata-bumn-menjadi-rumah-ekonomi-bangsa"
-    },
-    {
-      "title": "137 Hotel BUMN Bakal Digabung, Danantara Kejar Efisiensi - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:55:13 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260814183203-17-759518/137-hotel-bumn-bakal-digabung-danantara-kejar-efisiensi"
-    },
-    {
-      "title": "Komisi VI Siap Kawal Penataan BUMN dan Ekspor Satu Pintu - TVRI News",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 11:48:51 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/tmbdaaw-komisi-vi-siap-kawal-penataan-bumn-dan-ekspor-satu-pintu"
     }
   ]
 }
