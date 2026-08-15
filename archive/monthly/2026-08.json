@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-14T23:18:58.521894",
+  "generated_at": "2026-08-15T01:04:08.158121",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 43,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 83,
+    "PDI-P": 81,
     "Golkar": 52,
     "NasDem": 39,
     "PKB": 33,
-    "PKS": 46,
+    "PKS": 43,
     "PAN": 22,
-    "Demokrat": 33
+    "Demokrat": 31
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -36,9 +36,9 @@
   "topic_counts_30d": {
     "bumn": 67,
     "umkm": 27,
-    "danantara": 43,
-    "koperasi": 53,
-    "investasi": 27,
+    "danantara": 42,
+    "koperasi": 48,
+    "investasi": 28,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 3,
-    "Mufti Anam": 13,
+    "Mufti Anam": 11,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -77,23 +77,30 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 16,
-    "Rizal Bawazier": 10,
+    "Rizal Bawazier": 7,
     "Ghufran": 2,
     "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 9,
-    "Herman Khaeron": 20,
+    "Herman Khaeron": 18,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 83,
+    "Koperasi/UMKM": 79,
     "Hukum/Audit": 17,
     "Kinerja BUMN": 12,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News Gorontalo",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 00:42:37 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/419265/pemerintah-targetkan-investasi-rp2322-triliun-pada-2027"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 11:40:00 GMT",
       "link": "https://rm.id/baca-berita/nasional/321780/baznas-danantara-kemenkop-dan-mes-perkuat-ekosistem-zakatkoperasi-syariah"
-    },
-    {
-      "title": "Kolaborasi KLH-Kementerian Koperasi Perkuat Peran Koperasi di Sektor Nikel - apni.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 11:34:31 GMT",
-      "link": "https://apni.id/berita/805/kolaborasi-klh-kementerian-koperasi-perkuat-peran-koperasi-di-sektor-nikel"
     }
   ]
 }
