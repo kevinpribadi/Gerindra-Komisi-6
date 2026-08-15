@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T05:21:58.165823",
+  "generated_at": "2026-08-15T06:32:46.631272",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 43,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 81,
+    "PDI-P": 80,
     "Golkar": 52,
     "NasDem": 39,
     "PKB": 33,
     "PKS": 41,
     "PAN": 22,
-    "Demokrat": 31
+    "Demokrat": 30
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 65,
+    "bumn": 67,
     "umkm": 27,
     "danantara": 41,
-    "koperasi": 46,
-    "investasi": 27,
+    "koperasi": 45,
+    "investasi": 26,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 3,
-    "Mufti Anam": 11,
+    "Mufti Anam": 10,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -82,18 +82,46 @@
     "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
-    "Sartono": 9,
+    "Sartono": 8,
     "Herman Khaeron": 18,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 77,
+    "Koperasi/UMKM": 76,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 12,
+    "Kinerja BUMN": 14,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Apresiasi Capaian Danantara, Bukti Suksesnya Kemitraan Komisi VI - DPR RI",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 06:21:54 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Apresiasi-Capaian-Danantara-Bukti-Suksesnya-Kemitraan-Komisi-VI-68056"
+    },
+    {
+      "title": "Percepat Efisiensi, Danantara Gabungkan 49 Hotel BUMN di Bawah HIN - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 06:20:35 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260815123116-92-1392658/percepat-efisiensi-danantara-gabungkan-49-hotel-bumn-di-bawah-hin"
+    },
+    {
+      "title": "137 Hotel BUMN Bakal Digabung, Danantara Kejar Efisiensi Aset Negara - konstruksimedia.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 06:05:15 GMT",
+      "link": "https://konstruksimedia.com/137-hotel-bumn-bakal-digabung-danantara-kejar-efisiensi-aset-negara/"
+    },
+    {
+      "title": "Genjot Ekonomi Nasional, Pemerintah Bidik Investasi Jumbo Rp2.322 Triliun pada 2027 - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 05:37:00 GMT",
+      "link": "https://www.inilah.com/genjot-ekonomi-nasional-pemerintah-bidik-investasi-jumbo-rp2322-triliun-pada-2027"
+    },
     {
       "title": "Danantara Tunjukkan Kinerja Positif sebagai Mesin Investasi Strategis Negara - lampungmediaonline.com",
       "entity": "Danantara",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 14 Aug 2026 17:10:18 GMT",
       "link": "https://ekonomi.bisnis.com/read/20260815/12/1996531/koperasi-sawit-didorong-masuk-hilir-lpdb-siapkan-pembiayaan"
-    },
-    {
-      "title": "Pemerintah targetkan investasi Rp2.322 triliun pada 2027 - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 15:03:45 GMT",
-      "link": "https://www.antaranews.com/berita/5695277/pemerintah-targetkan-investasi-rp2322-triliun-pada-2027"
-    },
-    {
-      "title": "Komisi VI DPR RI siap mendukung Danantara Development Management Fund - ANTARA News",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 14 Aug 2026 12:21:40 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5694885/komisi-vi-dpr-ri-siap-mendukung-danantara-development-management-fund"
-    },
-    {
-      "title": "Danantara: Total Investasi Proyek Hilirisasi Capai Rp 225 Triliun - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 12:20:18 GMT",
-      "link": "https://industri.kontan.co.id/news/danantara-total-investasi-proyek-hilirisasi-capai-rp-225-triliun"
-    },
-    {
-      "title": "Danantara: Total Investasi Proyek Hilirisasi Capai Rp 225 Triliun - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 12:20:18 GMT",
-      "link": "https://industri.kontan.co.id/news/danantara-total-investasi-proyek-hilirisasi-capai-rp-225-triliun"
     }
   ]
 }
