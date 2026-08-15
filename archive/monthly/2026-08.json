@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T10:19:07.090838",
+  "generated_at": "2026-08-15T11:17:28.568855",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 44,
+    "PDI-P": 45,
     "Golkar": 6,
     "NasDem": 5,
     "PKB": 25,
@@ -17,7 +17,7 @@
     "Golkar": 52,
     "NasDem": 39,
     "PKB": 34,
-    "PKS": 41,
+    "PKS": 40,
     "PAN": 22,
     "Demokrat": 29
   },
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
+    "bumn": 69,
     "umkm": 27,
-    "danantara": 41,
+    "danantara": 42,
     "koperasi": 44,
     "investasi": 26,
     "ekspor": 8,
@@ -75,7 +75,7 @@
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 16,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 5,
     "Ghufran": 2,
     "Ismail": 18,
@@ -86,13 +86,48 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 76,
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 18,
+    "Koperasi/UMKM": 74,
     "Kinerja BUMN": 15,
     "Perdagangan": 25,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "DPR Ingatkan Pemerintah Jaga Efektivitas Kerja di Tengah Anggaran Ketat - belarakyat.com",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 10:43:31 GMT",
+      "link": "https://belarakyat.com/dpr-ingatkan-pemerintah-jaga-efektivitas-kerja-di-tengah-anggaran-ketat/"
+    },
+    {
+      "title": "Wacana Amnesti Korupsi BUMN Prabowo Belum Sampai Tahap Pembahasan - Bisnis.com - Ekonomi",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 10:40:42 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260815/9/1996610/wacana-amnesti-korupsi-bumn-prabowo-belum-sampai-tahap-pembahasan"
+    },
+    {
+      "title": "Pengukuhan Pengurus Dekopinda Kota Kediri, Firdaus Dorong Kemandirian dan Peningkatan SDM Koperasi - ngopibareng.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 10:27:00 GMT",
+      "link": "https://www.ngopibareng.id/read/6pengukuhan-pengurus-dekopinda-kota-kediri-firdaus-dorong-kemandirian-dan-sdm-peningkatan-koperasi"
+    },
+    {
+      "title": "Kinerja Danantara Dinilai Makin Positif, Berhasil Kelola Aset Negara secara Produktif - Deliknews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 10:14:00 GMT",
+      "link": "https://www.deliknews.com/2026/08/15/kinerja-danantara-dinilai-makin-positif-berhasil-kelola-aset-negara-secara-produktif/"
+    },
+    {
+      "title": "Ketika Koperasi Lama Terancam Hilang, Dekopinda Kota Kediri Pilih Merawat daripada Mematikan - Kediri Tangguh",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 09:53:03 GMT",
+      "link": "https://kediritangguh.co/ketika-koperasi-lama-terancam-hilang-dekopinda-kota-kediri-pilih-merawat-daripada-mematikan/"
+    },
     {
       "title": "Kemendag Tetapkan HPE Emas Periode II Agustus 2026, Naik 0,65 Persen - TVRI News",
       "entity": "Kementerian Perdagangan",
@@ -162,41 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 15 Aug 2026 06:21:54 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Apresiasi-Capaian-Danantara-Bukti-Suksesnya-Kemitraan-Komisi-VI-68056"
-    },
-    {
-      "title": "Percepat Efisiensi, Danantara Gabungkan 49 Hotel BUMN di Bawah HIN - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 06:20:35 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260815123116-92-1392658/percepat-efisiensi-danantara-gabungkan-49-hotel-bumn-di-bawah-hin"
-    },
-    {
-      "title": "137 Hotel BUMN Bakal Digabung, Danantara Kejar Efisiensi Aset Negara - konstruksimedia.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 06:05:15 GMT",
-      "link": "https://konstruksimedia.com/137-hotel-bumn-bakal-digabung-danantara-kejar-efisiensi-aset-negara/"
-    },
-    {
-      "title": "Genjot Ekonomi Nasional, Pemerintah Bidik Investasi Jumbo Rp2.322 Triliun pada 2027 - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 05:37:00 GMT",
-      "link": "https://www.inilah.com/genjot-ekonomi-nasional-pemerintah-bidik-investasi-jumbo-rp2322-triliun-pada-2027"
-    },
-    {
-      "title": "Danantara Tunjukkan Kinerja Positif sebagai Mesin Investasi Strategis Negara - lampungmediaonline.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 03:42:53 GMT",
-      "link": "https://lampungmediaonline.com/danantara-tunjukkan-kinerja-positif-sebagai-mesin-investasi-strategis-negara/"
-    },
-    {
-      "title": "Telkom Perkuat Bisnis Enterprise, Kontribusi Diperkirakan 30 Persen - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 03:30:00 GMT",
-      "link": "https://www.tempo.co/info-tempo/telkom-perkuat-bisnis-enterprise-kontribusi-diperkirakan-30-persen-2282109"
     }
   ]
 }
