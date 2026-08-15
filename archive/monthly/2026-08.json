@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T06:32:46.631272",
+  "generated_at": "2026-08-15T07:27:49.617944",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 43,
@@ -13,13 +13,13 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 80,
+    "PDI-P": 79,
     "Golkar": 52,
     "NasDem": 39,
     "PKB": 33,
     "PKS": 41,
     "PAN": 22,
-    "Demokrat": 30
+    "Demokrat": 29
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
+    "bumn": 68,
     "umkm": 27,
     "danantara": 41,
-    "koperasi": 45,
+    "koperasi": 44,
     "investasi": 26,
     "ekspor": 8,
     "impor": 3,
     "perdagangan": 5,
     "kartel-monopoli": 7,
-    "merger-akuisisi": 1,
     "ipo": 4
   },
   "member_counts_30d": {
@@ -54,7 +53,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 3,
-    "Mufti Anam": 10,
+    "Mufti Anam": 9,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -82,18 +81,32 @@
     "Ismail": 18,
     "Eko Patrio": 2,
     "Iskandar": 20,
-    "Sartono": 8,
+    "Sartono": 7,
     "Herman Khaeron": 18,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 76,
     "Hukum/Audit": 17,
-    "Kinerja BUMN": 14,
-    "Perdagangan": 25,
+    "Kinerja BUMN": 15,
+    "Perdagangan": 24,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "KPPU Perkuat Tata Kelola dan Pengambilan Keputusan Secara Kolektif-Kolegial - Kompasiana.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 07:06:59 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a801013ed641501601b418a/kppu-perkuat-tata-kelola-dan-pengambilan-keputusan-secara-kolektif-kolegial"
+    },
+    {
+      "title": "Demi Efisiensi dan Kesejahteraan Rakyat, Bang Nasim Khan Dukung Transformasi BUMN - Harian Bhirawa",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 06:41:23 GMT",
+      "link": "https://harianbhirawa.co.id/demi-efisiensi-dan-kesejahteraan-rakyat-bang-nasim-khan-dukung-transformasi-bumn/"
+    },
     {
       "title": "Andre Rosiade Apresiasi Capaian Danantara, Bukti Suksesnya Kemitraan Komisi VI - DPR RI",
       "entity": "Andre Rosiade",
@@ -184,20 +197,6 @@
       "kind": "anggota",
       "published": "Fri, 14 Aug 2026 22:56:52 GMT",
       "link": "https://aspek.id/gaji-hakim-indonesia-tertinggi-di-asean/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 17:35:34 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260815/Mjc0NDQ0"
-    },
-    {
-      "title": "Koperasi Sawit Didorong Masuk Hilir, LPDB Siapkan Pembiayaan - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 14 Aug 2026 17:10:18 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260815/12/1996531/koperasi-sawit-didorong-masuk-hilir-lpdb-siapkan-pembiayaan"
     }
   ]
 }
