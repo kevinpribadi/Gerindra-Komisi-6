@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T09:22:56.956758",
+  "generated_at": "2026-08-15T10:19:07.090838",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 44,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
+    "bumn": 70,
     "umkm": 27,
     "danantara": 41,
     "koperasi": 44,
@@ -93,6 +93,20 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Tetapkan HPE Emas Periode II Agustus 2026, Naik 0,65 Persen - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 09:51:45 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tps1jmh-kemendag-tetapkan-hpe-emas-periode-ii-agustus-2026-naik-065-persen"
+    },
+    {
+      "title": "Nasim Khan PKB Dukung Transformasi BUMN - Media Berita Bangsa",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 09:39:54 GMT",
+      "link": "https://beritabangsa.id/2026/08/15/nasim-khan-pkb-dukung-transformasi-bumn/"
+    },
     {
       "title": "DPR Turun Tangan Tangani Perselisihan Pekerja BUMN, Anggia: Transformasi Jangan Abaikan Hak Karyawan - sudut kota",
       "entity": "Anggia Erma Rini",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 03:30:00 GMT",
       "link": "https://www.tempo.co/info-tempo/telkom-perkuat-bisnis-enterprise-kontribusi-diperkirakan-30-persen-2282109"
-    },
-    {
-      "title": "Empat Lembaga Teken MoU, Ekosistem Zakat dan Koperasi Syariah Diperkuat - JPNN.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 02:47:00 GMT",
-      "link": "https://www.jpnn.com/news/empat-lembaga-teken-mou-ekosistem-zakat-dan-koperasi-syariah-diperkuat"
-    },
-    {
-      "title": "Bos Danantara Pastikan Pengawasan DSI Akan Diperluas Ke Komoditas Lain - Validnews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 02:21:27 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/15/bos-danantara-pastikan-pengawasan-dsi-akan-diperluas-ke-komoditas-lain-111700421"
     }
   ]
 }
