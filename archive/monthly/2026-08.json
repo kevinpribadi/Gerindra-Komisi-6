@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T12:31:54.697715",
+  "generated_at": "2026-08-15T13:27:13.552591",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 46,
     "Golkar": 6,
-    "NasDem": 5,
+    "NasDem": 6,
     "PKB": 22,
     "PKS": 7,
     "PAN": 1,
@@ -15,7 +15,7 @@
     "Gerindra": 66,
     "PDI-P": 79,
     "Golkar": 52,
-    "NasDem": 39,
+    "NasDem": 40,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "umkm": 26,
+    "bumn": 70,
+    "umkm": 25,
     "danantara": 42,
     "koperasi": 44,
     "investasi": 26,
-    "ekspor": 9,
+    "ekspor": 10,
+    "perdagangan": 5,
     "impor": 3,
-    "perdagangan": 4,
     "kartel-monopoli": 7,
     "ipo": 4
   },
@@ -66,7 +66,7 @@
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 18,
-    "Asep Wahyuwijaya": 5,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
@@ -87,18 +87,39 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 72,
+    "Koperasi/UMKM": 71,
     "Kinerja BUMN": 15,
-    "Perdagangan": 26,
+    "Perdagangan": 27,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "DPR Dorong Reformasi Tata Kelola BUMN dan Penegakan Akuntabilitas - law-justice.co",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 12:34:00 GMT",
+      "link": "https://www.law-justice.co/artikel/208925/dpr-dorong-reformasi-tata-kelola-bumn-dan-penegakan-akuntabilitas/"
+    },
+    {
+      "title": "Kinerja Danantara Tunjukkan Peluang Jadi Pilar Baru Penguatan Ekonomi Nasional - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 12:25:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216818/kinerja-danantara-tunjukkan-peluang-jadi-pilar-baru-penguatan-ekonomi-nasional%7D"
+    },
     {
       "title": "Kemendag Catat Ekspor Perdana Program Campuspreneur Rp2,2 Miliar - achmadnurhidayat.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 12:01:18 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-ekspor-perdana-campuspreneur"
+    },
+    {
+      "title": "Dengan memperketat transfer teknologi, Kementerian Perindustrian dan Perdagangan khawatir bahwa ekspor mobil senilai 1 miliar dolar AS dapat terpengaruh. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 11:09:56 GMT",
+      "link": "https://www.vietnam.vn/id/siet-chuyen-giao-cong-nghe-bo-cong-thuong-lo-1-ti-usd-tu-xuat-khau-o-to-bi-anh-huong"
     },
     {
       "title": "Kondisi Fiskal Buruk, Darmadi Dorong Penguatan Kinerja dan Pengelolaan Anggaran - gesuri.id",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 08:04:06 GMT",
       "link": "https://industri.kontan.co.id/news/kemendag-tetapkan-hr-dan-hpe-emas-naik-065-pada-periode-ii-agustus-2026"
-    },
-    {
-      "title": "Mensesneg: Wacana Amnesti Petinggi BUMN untuk Benahi Tata Kelola • - VOI.ID",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 07:57:00 GMT",
-      "link": "https://voi.id/berita/589825/mensesneg-wacana-amnesti-petinggi-bumn-untuk-benahi-tata-kelola"
-    },
-    {
-      "title": "​HPE dan HR Emas Naik di Periode II Agustus 2026, Kemendag Beberkan Pemicunya - KabarBursa.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 07:23:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/hpe-dan-hr-emas-naik-di-periode-ii-agustus-2026-kemendag-beberkan-pemicunya"
-    },
-    {
-      "title": "KPPU Perkuat Tata Kelola dan Pengambilan Keputusan Secara Kolektif-Kolegial - Kompasiana.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 07:06:59 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a801013ed641501601b418a/kppu-perkuat-tata-kelola-dan-pengambilan-keputusan-secara-kolektif-kolegial"
     }
   ]
 }
