@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T15:18:15.451082",
+  "generated_at": "2026-08-16T16:20:44.394812",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 72,
-    "umkm": 22,
+    "umkm": 21,
     "danantara": 46,
     "koperasi": 43,
     "investasi": 22,
     "ekspor": 12,
-    "perdagangan": 4,
+    "perdagangan": 3,
     "impor": 2,
     "kartel-monopoli": 7,
     "ipo": 4
@@ -87,12 +87,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 65,
     "Kinerja BUMN": 13,
     "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Dorong 2.587 Koperasi Perkebunan Ambil Peran Utama Rantai Pasok Sawit - HaiSawit",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 16:02:02 GMT",
+      "link": "https://haisawit.co.id/news/detail/kemenkop-dorong-2587-koperasi-perkebunan-ambil-peran-utama-rantai-pasok-sawit"
+    },
+    {
+      "title": "Saatnya Dorong Kopi Kita Menguasai Pasar Dunia Halaman 1 - Kompasiana.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 15:42:37 GMT",
+      "link": "https://www.kompasiana.com/faridasyhadi1528/6a81c443c925c424f502c487/saatnya-dorong-kopi-kita-menguasai-pasar-dunia"
+    },
     {
       "title": "Laba Himbara Capai Rp39,92 Triliun di Kuartal I/2026, Mengindikasikan Transformasi BUMN ke Arah Positif - SWA.co.id",
       "entity": "Danantara",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 08:37:49 GMT",
       "link": "https://www.metrotvnews.com/read/koGCaLqX-transformasi-ekonomi-dan-bumn-indonesia-dari-nasionalisasi-hingga-era-danantara"
-    },
-    {
-      "title": "Danantara Dorong Turnaround BUMN, Krakatau Steel dan Kimia Farma Berbalik Cetak Laba - konstruksimedia.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 08:18:14 GMT",
-      "link": "https://konstruksimedia.com/danantara-dorong-turnaround-bumn-krakatau-steel-dan-kimia-farma-berbalik-cetak-laba/"
-    },
-    {
-      "title": "Pulihkan Listrik, BBM, dan Komunikasi bagi Masyarakat Terdampak Bencana di NTT - TopBusiness.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 07:44:00 GMT",
-      "link": "https://www.topbusiness.id/134340/pulihkan-listrik-bbm-dan-komunikasi-bagi-masyarakat-terdampak-bencana-di-ntt.html"
     }
   ]
 }
