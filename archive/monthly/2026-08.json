@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T14:19:06.821822",
+  "generated_at": "2026-08-16T15:18:15.451082",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -15,7 +15,7 @@
     "Gerindra": 66,
     "PDI-P": 72,
     "Golkar": 49,
-    "NasDem": 34,
+    "NasDem": 32,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
+    "bumn": 72,
     "umkm": 22,
     "danantara": 46,
     "koperasi": 43,
-    "investasi": 23,
-    "ekspor": 11,
+    "investasi": 22,
+    "ekspor": 12,
     "perdagangan": 4,
     "impor": 2,
     "kartel-monopoli": 7,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 12,
+    "Rachmat Gobel": 10,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -89,10 +89,17 @@
     "Hukum/Audit": 14,
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 13,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Laba Himbara Capai Rp39,92 Triliun di Kuartal I/2026, Mengindikasikan Transformasi BUMN ke Arah Positif - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 15:12:00 GMT",
+      "link": "https://swa.co.id/read/476133/laba-himbara-capai-rp3992-triliun-di-kuartal-i2026-mengindikasikan-transformasi-bumn-ke-arah-positif"
+    },
     {
       "title": "AirNav Kerahkan Relawan BUMN Mengabdi di Boyolali - rentak.id",
       "entity": "Badan Pengaturan BUMN",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 07:44:00 GMT",
       "link": "https://www.topbusiness.id/134340/pulihkan-listrik-bbm-dan-komunikasi-bagi-masyarakat-terdampak-bencana-di-ntt.html"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 07:17:10 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260816/Mjc0NDQ0"
     }
   ]
 }
