@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T13:28:53.104282",
+  "generated_at": "2026-08-16T14:19:06.821822",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
+    "bumn": 71,
     "umkm": 22,
     "danantara": 46,
     "koperasi": 43,
@@ -93,6 +93,13 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "AirNav Kerahkan Relawan BUMN Mengabdi di Boyolali - rentak.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 13:20:00 GMT",
+      "link": "https://rentak.id/airnav-kerahkan-relawan-bumn-mengabdi-di-boyolali/"
+    },
     {
       "title": "PDIP Usulkan Pembentukan Pansus untuk Bahas RUU Kewarganegaraan Ganda Terbatas - Okezone.com",
       "entity": "Rieke Diah Pitaloka",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 07:17:10 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260816/Mjc0NDQ0"
-    },
-    {
-      "title": "Menilik Koperasi Awards 2026, Ini Detail Gelaran Tahun Ini - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 06:03:39 GMT",
-      "link": "https://news.detik.com/berita/d-8620430/menilik-koperasi-awards-2026-ini-detail-gelaran-tahun-ini"
     }
   ]
 }
