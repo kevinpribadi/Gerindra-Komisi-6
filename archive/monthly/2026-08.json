@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T07:28:47.637580",
+  "generated_at": "2026-08-16T08:25:20.066068",
   "party_counts_7d": {
-    "Gerindra": 35,
+    "Gerindra": 36,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
@@ -15,7 +15,7 @@
     "Gerindra": 65,
     "PDI-P": 73,
     "Golkar": 50,
-    "NasDem": 37,
+    "NasDem": 36,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -36,9 +36,9 @@
   "topic_counts_30d": {
     "bumn": 67,
     "umkm": 24,
-    "danantara": 43,
+    "danantara": 44,
     "koperasi": 42,
-    "investasi": 25,
+    "investasi": 24,
     "ekspor": 10,
     "perdagangan": 4,
     "impor": 3,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 15,
+    "Rachmat Gobel": 14,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -94,6 +94,20 @@
   },
   "top_headlines": [
     {
+      "title": "Danantara Dorong Turnaround BUMN, Krakatau Steel dan Kimia Farma Berbalik Cetak Laba - konstruksimedia.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 08:18:14 GMT",
+      "link": "https://konstruksimedia.com/danantara-dorong-turnaround-bumn-krakatau-steel-dan-kimia-farma-berbalik-cetak-laba/"
+    },
+    {
+      "title": "Pulihkan Listrik, BBM, dan Komunikasi bagi Masyarakat Terdampak Bencana di NTT - TopBusiness.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 07:44:00 GMT",
+      "link": "https://www.topbusiness.id/134340/pulihkan-listrik-bbm-dan-komunikasi-bagi-masyarakat-terdampak-bencana-di-ntt.html"
+    },
+    {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
@@ -106,6 +120,13 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 06:03:39 GMT",
       "link": "https://news.detik.com/berita/d-8620430/menilik-koperasi-awards-2026-ini-detail-gelaran-tahun-ini"
+    },
+    {
+      "title": "Andre Rosiade Optimistis Ekonomi Indonesia Makin Kuat, Soroti 10 Program Besar Prabowo - Suara Pemerintah",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 05:41:14 GMT",
+      "link": "https://suarapemerintah.id/2026/08/andre-rosiade-optimistis-ekonomi-indonesia-makin-kuat-soroti-10-program-besar-prabowo/"
     },
     {
       "title": "Danantara Buka Suara soal GOTO Terdepak dari Indeks MSCI - koranindopos.com",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 15:27:20 GMT",
       "link": "https://www.metrotvnews.com/read/KvJCJG96-danantara-bawa-indonesia-masuki-babak-baru-sejajar-dengan-negara-maju-dunia"
-    },
-    {
-      "title": "Kinerja Danantara Tunjukkan Peluang Jadi Pilar Baru Penguatan Ekonomi Nasional - Minews ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 14:29:45 GMT",
-      "link": "https://minews.id/cuitan-mi/kinerja-danantara-tunjukkan-peluang-jadi-pilar-baru-penguatan-ekonomi-nasional"
-    },
-    {
-      "title": "Danantara Buktikan Peran Besar dalam Mengelola Aset Negara - Minews ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 14:26:23 GMT",
-      "link": "https://minews.id/cuitan-mi/danantara-buktikan-peran-besar-dalam-mengelola-aset-negara"
-    },
-    {
-      "title": "Kinerja Danantara Dinilai Makin Positif, Berhasil Kelola Aset Negara secara Produktif - Minews ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 14:05:50 GMT",
-      "link": "https://minews.id/news/kinerja-danantara-dinilai-makin-positif-berhasil-kelola-aset-negara-secara-produktif"
     }
   ]
 }
