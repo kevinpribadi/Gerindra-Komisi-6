@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T11:17:45.013397",
+  "generated_at": "2026-08-16T12:33:18.818266",
   "party_counts_7d": {
-    "Gerindra": 41,
+    "Gerindra": 42,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
@@ -12,14 +12,14 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 64,
+    "Gerindra": 65,
     "PDI-P": 72,
-    "Golkar": 50,
-    "NasDem": 35,
+    "Golkar": 49,
+    "NasDem": 34,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
-    "Demokrat": 28
+    "Demokrat": 27
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 70,
-    "umkm": 23,
+    "umkm": 22,
     "danantara": 46,
     "koperasi": 43,
     "investasi": 23,
@@ -50,7 +50,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 1,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 15,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 4,
@@ -61,11 +61,11 @@
     "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 18,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 6,
+    "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 13,
+    "Rachmat Gobel": 12,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -82,17 +82,31 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
-    "Herman Khaeron": 17,
+    "Herman Khaeron": 16,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 67,
+    "Koperasi/UMKM": 66,
     "Kinerja BUMN": 13,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kawendra dukung layanan ambulans dan dokter terbang - ANTARA News",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 11:45:11 GMT",
+      "link": "https://www.antaranews.com/berita/5697308/kawendra-dukung-layanan-ambulans-dan-dokter-terbang"
+    },
+    {
+      "title": "Rieke PDIP Usul DPR Bentuk Pansus Bahas Kewarganegaraan Ganda Terbatas - SINDOnews Nasional",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 11:41:52 GMT",
+      "link": "https://nasional.sindonews.com/read/1739707/12/rieke-pdip-usul-dpr-bentuk-pansus-bahas-kewarganegaraan-ganda-terbatas-1786878522"
+    },
     {
       "title": "Harga Emas Naik, HPE Ekspor Tembus US$131.777 per Kilogram - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 02:22:04 GMT",
       "link": "https://rctiplus.com/news/detail/terkini/5452661/harga-patokan-ekspor-emas-naik-065-persen-dipicu-tren-penurunan-suku-bunga-global?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5452661"
-    },
-    {
-      "title": "Guru Besar: Bintang Kehormatan untuk Pimpinan Danantara Bisa Motivasi BUMN - RM.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 01:58:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321968/guru-besar-bintang-kehormatan-untuk-pimpinan-danantara-bisa-motivasi-bumn"
-    },
-    {
-      "title": "Akademisi Dukung Rencana Presiden Prabowo Beri Bintang Kehormatan untuk Pimpinan Danantara - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 00:55:42 GMT",
-      "link": "https://mediaindonesia.com/politik-dan-hukum/922315/akademisi-dukung-rencana-presiden-prabowo-beri-bintang-kehormatan-untuk-pimpinan-danantara"
     }
   ]
 }
