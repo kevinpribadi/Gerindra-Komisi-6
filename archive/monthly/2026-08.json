@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T09:23:53.125141",
+  "generated_at": "2026-08-16T10:20:28.985580",
   "party_counts_7d": {
-    "Gerindra": 38,
+    "Gerindra": 41,
     "PDI-P": 46,
     "Golkar": 6,
-    "NasDem": 6,
+    "NasDem": 5,
     "PKB": 16,
     "PKS": 5,
     "PAN": 1,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 73,
+    "PDI-P": 72,
     "Golkar": 50,
     "NasDem": 35,
     "PKB": 34,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
+    "bumn": 69,
     "umkm": 24,
-    "danantara": 45,
+    "danantara": 46,
     "koperasi": 42,
     "investasi": 24,
     "ekspor": 10,
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 17,
     "Mulyadi": 15,
     "Adisatrya Suryo Sulisto": 1,
-    "Mufti Anam": 5,
+    "Mufti Anam": 4,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -86,13 +86,34 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 15,
-    "Koperasi/UMKM": 68,
+    "Hukum/Audit": 14,
+    "Koperasi/UMKM": 67,
     "Kinerja BUMN": 13,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Siapkan Bursa Komoditas 2027, Gagasan Kawendra soal Indonesia Metal Exchange Kembali Disorot - NusantaraTV",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 10:15:13 GMT",
+      "link": "https://www.nusantaratv.com/finance/prabowo-siapkan-bursa-komoditas-2027-gagasan-kawendra-soal-indonesia-metal-exchange-kembali-disorot"
+    },
+    {
+      "title": "Andre Rosiade Apresiasi Danantara, Kinerja BUMN Dinilai Makin Moncer - Gerindra",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 09:41:29 GMT",
+      "link": "https://gerindra.id/2026/08/16/andre-rosiade-apresiasi-danantara-kinerja-bumn-dinilai-makin-moncer/"
+    },
+    {
+      "title": "Optimistis Ekonomi Melesat, Andre Rosiade Puji Gebrakan Presiden Prabowo di Pendidikan dan Kesehatan - kabarpolitik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 09:34:12 GMT",
+      "link": "https://kabarpolitik.com/optimistis-ekonomi-melesat-andre-rosiade-puji-gebrakan-presiden-prabowo-di-pendidikan-dan-kesehatan/"
+    },
     {
       "title": "Andre Rosiade Apresiasi Danantara, Kinerja BUMN Dinilai Makin Moncer - kabarpolitik.com",
       "entity": "Andre Rosiade",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 21:41:37 GMT",
       "link": "https://kemlu.go.id/id/moscow/berita/indonesia-tampil-perdana-di-worldfood-expo-moscow-2025-bukukan-potensi-transaksi-hingga-usd-560-ribu?type=publication"
-    },
-    {
-      "title": "Kemenkop dan KLH Perkuat Sinergi untuk Dorong Koperasi Terlibat dalam Pasar Karbon dan Ekonomi Sirkular - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 18:19:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-dan-klh-perkuat-sinergi-untuk-dorong-koperasi-terlibat-dalam-pasar-karbon-dan-ekonomi-sirkular/"
-    },
-    {
-      "title": "Permintaan Tinggi, Picu Kenaikan HPE dan Harga Referensi Emas 0,65% - InvestorTrust",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 15:36:00 GMT",
-      "link": "https://investortrust.id/business/113120/permintaan-tinggi-picu-kenaikan-hpe-dan-harga-referensi-emas-0-65"
-    },
-    {
-      "title": "Emas Kian Bersinar, Investor Ramai-Ramai Tinggalkan Deposito - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 15:34:28 GMT",
-      "link": "https://indoposco.id/2026/08/15/emas-kian-bersinar-investor-ramai-ramai-tinggalkan-deposito/"
     }
   ]
 }
