@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T10:20:28.985580",
+  "generated_at": "2026-08-16T11:17:45.013397",
   "party_counts_7d": {
     "Gerindra": 41,
-    "PDI-P": 46,
+    "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
     "PKB": 16,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "umkm": 24,
+    "bumn": 70,
+    "umkm": 23,
     "danantara": 46,
-    "koperasi": 42,
-    "investasi": 24,
-    "ekspor": 10,
+    "koperasi": 43,
+    "investasi": 23,
+    "ekspor": 11,
     "perdagangan": 4,
-    "impor": 3,
+    "impor": 2,
     "kartel-monopoli": 7,
     "ipo": 4
   },
@@ -94,6 +94,13 @@
   },
   "top_headlines": [
     {
+      "title": "Harga Emas Naik, HPE Ekspor Tembus US$131.777 per Kilogram - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 10:54:27 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/16/harga-emas-naik-hpe-ekspor-tembus-us131-777-per-kilogram/"
+    },
+    {
       "title": "Prabowo Siapkan Bursa Komoditas 2027, Gagasan Kawendra soal Indonesia Metal Exchange Kembali Disorot - NusantaraTV",
       "entity": "Kawendra Lukistian",
       "kind": "anggota",
@@ -120,6 +127,13 @@
       "kind": "anggota",
       "published": "Sun, 16 Aug 2026 08:43:49 GMT",
       "link": "https://kabarpolitik.com/andre-rosiade-apresiasi-danantara-kinerja-bumn-dinilai-makin-moncer/"
+    },
+    {
+      "title": "Transformasi Ekonomi dan BUMN Indonesia: Dari Nasionalisasi hingga Era Danantara - metrotvnews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 08:37:49 GMT",
+      "link": "https://www.metrotvnews.com/read/koGCaLqX-transformasi-ekonomi-dan-bumn-indonesia-dari-nasionalisasi-hingga-era-danantara"
     },
     {
       "title": "Danantara Dorong Turnaround BUMN, Krakatau Steel dan Kimia Farma Berbalik Cetak Laba - konstruksimedia.com",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 00:55:42 GMT",
       "link": "https://mediaindonesia.com/politik-dan-hukum/922315/akademisi-dukung-rencana-presiden-prabowo-beri-bintang-kehormatan-untuk-pimpinan-danantara"
-    },
-    {
-      "title": "Laba BSI Melonjak, Sinyal Kuat Kebangkitan Ekonomi Syariah - RM.ID",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 23:40:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321878/laba-bsi-melonjak-sinyal-kuat-kebangkitan-ekonomi-syariah"
-    },
-    {
-      "title": "Indonesia Tampil Perdana di WorldFood Expo Moscow 2025, Bukukan Potensi Transaksi hingga USD 560 Ribu - Portal Kemlu",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 21:41:37 GMT",
-      "link": "https://kemlu.go.id/id/moscow/berita/indonesia-tampil-perdana-di-worldfood-expo-moscow-2025-bukukan-potensi-transaksi-hingga-usd-560-ribu?type=publication"
     }
   ]
 }
