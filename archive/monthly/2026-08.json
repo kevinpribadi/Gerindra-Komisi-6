@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-15T21:18:00.174604",
+  "generated_at": "2026-08-16T01:07:51.610408",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 35,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 76,
-    "Golkar": 52,
-    "NasDem": 39,
+    "PDI-P": 74,
+    "Golkar": 51,
+    "NasDem": 37,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
+    "bumn": 66,
     "umkm": 24,
     "danantara": 43,
-    "koperasi": 44,
+    "koperasi": 42,
     "investasi": 27,
     "ekspor": 9,
     "perdagangan": 4,
@@ -53,19 +53,19 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 1,
-    "Mufti Anam": 8,
+    "Mufti Anam": 6,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 5,
-    "Gde Sumarjaya Linggih": 20,
+    "Gde Sumarjaya Linggih": 19,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 17,
+    "Rachmat Gobel": 15,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -88,11 +88,32 @@
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 70,
-    "Kinerja BUMN": 14,
+    "Kinerja BUMN": 13,
     "Perdagangan": 26,
-    "Konflik Publik": 5
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Akademisi Dukung Rencana Presiden Prabowo Beri Bintang Kehormatan untuk Pimpinan Danantara - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 00:55:42 GMT",
+      "link": "https://mediaindonesia.com/politik-dan-hukum/922315/akademisi-dukung-rencana-presiden-prabowo-beri-bintang-kehormatan-untuk-pimpinan-danantara"
+    },
+    {
+      "title": "Laba BSI Melonjak, Sinyal Kuat Kebangkitan Ekonomi Syariah - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Sat, 15 Aug 2026 23:40:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321878/laba-bsi-melonjak-sinyal-kuat-kebangkitan-ekonomi-syariah"
+    },
+    {
+      "title": "Indonesia Tampil Perdana di WorldFood Expo Moscow 2025, Bukukan Potensi Transaksi hingga USD 560 Ribu - Portal Kemlu",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 21:41:37 GMT",
+      "link": "https://kemlu.go.id/id/moscow/berita/indonesia-tampil-perdana-di-worldfood-expo-moscow-2025-bukukan-potensi-transaksi-hingga-usd-560-ribu?type=publication"
+    },
     {
       "title": "Kemenkop dan KLH Perkuat Sinergi untuk Dorong Koperasi Terlibat dalam Pasar Karbon dan Ekonomi Sirkular - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -106,6 +127,13 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 15:34:28 GMT",
       "link": "https://indoposco.id/2026/08/15/emas-kian-bersinar-investor-ramai-ramai-tinggalkan-deposito/"
+    },
+    {
+      "title": "Danantara Bawa Indonesia Masuki Babak Baru, Sejajar dengan Negara Maju Dunia - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 15:27:20 GMT",
+      "link": "https://www.metrotvnews.com/read/KvJCJG96-danantara-bawa-indonesia-masuki-babak-baru-sejajar-dengan-negara-maju-dunia"
     },
     {
       "title": "Kinerja Danantara Tunjukkan Peluang Jadi Pilar Baru Penguatan Ekonomi Nasional - Minews ID",
@@ -169,34 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 12:25:00 GMT",
       "link": "https://www.suaradewata.com/berita/202405216818/kinerja-danantara-tunjukkan-peluang-jadi-pilar-baru-penguatan-ekonomi-nasional%7D"
-    },
-    {
-      "title": "Kemendag Catat Ekspor Perdana Program Campuspreneur Rp2,2 Miliar - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 12:01:18 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-ekspor-perdana-campuspreneur"
-    },
-    {
-      "title": "Dengan memperketat transfer teknologi, Kementerian Perindustrian dan Perdagangan khawatir bahwa ekspor mobil senilai 1 miliar dolar AS dapat terpengaruh. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 11:09:56 GMT",
-      "link": "https://www.vietnam.vn/id/siet-chuyen-giao-cong-nghe-bo-cong-thuong-lo-1-ti-usd-tu-xuat-khau-o-to-bi-anh-huong"
-    },
-    {
-      "title": "Kondisi Fiskal Buruk, Darmadi Dorong Penguatan Kinerja dan Pengelolaan Anggaran - gesuri.id",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 11:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/kondisi-fiskal-buruk-darmadi-dorong-penguatan-kinerja-dan-pengelolaan-anggaran-b2pY4Zbhny"
-    },
-    {
-      "title": "DPR Ingatkan Pemerintah Jaga Efektivitas Kerja di Tengah Anggaran Ketat - belarakyat.com",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 10:43:31 GMT",
-      "link": "https://belarakyat.com/dpr-ingatkan-pemerintah-jaga-efektivitas-kerja-di-tengah-anggaran-ketat/"
     }
   ]
 }
