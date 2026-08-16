@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T08:25:20.066068",
+  "generated_at": "2026-08-16T09:23:53.125141",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 38,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
@@ -12,10 +12,10 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 64,
     "PDI-P": 73,
     "Golkar": 50,
-    "NasDem": 36,
+    "NasDem": 35,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
+    "bumn": 68,
     "umkm": 24,
-    "danantara": 44,
+    "danantara": 45,
     "koperasi": 42,
     "investasi": 24,
     "ekspor": 10,
@@ -50,8 +50,8 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 1,
-    "Kawendra Lukistian": 19,
-    "Mulyadi": 14,
+    "Kawendra Lukistian": 17,
+    "Mulyadi": 15,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 5,
     "Darmadi Durianto": 20,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 14,
+    "Rachmat Gobel": 13,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -86,13 +86,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
-    "Koperasi/UMKM": 70,
+    "Hukum/Audit": 15,
+    "Koperasi/UMKM": 68,
     "Kinerja BUMN": 13,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Apresiasi Danantara, Kinerja BUMN Dinilai Makin Moncer - kabarpolitik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 08:43:49 GMT",
+      "link": "https://kabarpolitik.com/andre-rosiade-apresiasi-danantara-kinerja-bumn-dinilai-makin-moncer/"
+    },
     {
       "title": "Danantara Dorong Turnaround BUMN, Krakatau Steel dan Kimia Farma Berbalik Cetak Laba - konstruksimedia.com",
       "entity": "Danantara",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 15:34:28 GMT",
       "link": "https://indoposco.id/2026/08/15/emas-kian-bersinar-investor-ramai-ramai-tinggalkan-deposito/"
-    },
-    {
-      "title": "Danantara Bawa Indonesia Masuki Babak Baru, Sejajar dengan Negara Maju Dunia - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 15:27:20 GMT",
-      "link": "https://www.metrotvnews.com/read/KvJCJG96-danantara-bawa-indonesia-masuki-babak-baru-sejajar-dengan-negara-maju-dunia"
     }
   ]
 }
