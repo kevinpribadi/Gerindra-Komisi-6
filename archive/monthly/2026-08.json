@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T05:24:56.885074",
+  "generated_at": "2026-08-16T06:35:05.213430",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 35,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
@@ -38,7 +38,7 @@
     "umkm": 24,
     "danantara": 43,
     "koperasi": 42,
-    "investasi": 24,
+    "investasi": 25,
     "ekspor": 10,
     "perdagangan": 4,
     "impor": 3,
@@ -89,10 +89,17 @@
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 70,
     "Kinerja BUMN": 13,
-    "Perdagangan": 27,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Menilik Koperasi Awards 2026, Ini Detail Gelaran Tahun Ini - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 06:03:39 GMT",
+      "link": "https://news.detik.com/berita/d-8620430/menilik-koperasi-awards-2026-ini-detail-gelaran-tahun-ini"
+    },
     {
       "title": "Danantara Buka Suara soal GOTO Terdepak dari Indeks MSCI - koranindopos.com",
       "entity": "Danantara",
@@ -143,6 +150,13 @@
       "link": "https://www.beritakoperasi.com/kemenkop-dan-klh-perkuat-sinergi-untuk-dorong-koperasi-terlibat-dalam-pasar-karbon-dan-ekonomi-sirkular/"
     },
     {
+      "title": "Permintaan Tinggi, Picu Kenaikan HPE dan Harga Referensi Emas 0,65% - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 15 Aug 2026 15:36:00 GMT",
+      "link": "https://investortrust.id/business/113120/permintaan-tinggi-picu-kenaikan-hpe-dan-harga-referensi-emas-0-65"
+    },
+    {
       "title": "Emas Kian Bersinar, Investor Ramai-Ramai Tinggalkan Deposito - indoposco.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 13:51:06 GMT",
       "link": "https://nasional.sindonews.com/read/1739495/15/akademisi-dukung-rencana-presiden-prabowo-beri-bintang-kehormatan-untuk-pimpinan-danantara-1786806524"
-    },
-    {
-      "title": "Merasa Didiskriminalisasi, Terdakwa Perkara Penggelapan Dana KSU, Lapor ke Kementrian Koperasi - RIAUTERKINI.COM",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 13:35:10 GMT",
-      "link": "https://www.riauterkini.com/index.php?com=isi&id_news=15115233918&Merasa-Didiskriminalisasi,-Terdakwa-Perkara-Penggelapan-Dana-KSU,-Lapor-ke-Kementrian-Koperasi"
-    },
-    {
-      "title": "Dekopinda Kota Kediri Dikukuhkan, Dorong Koperasi Lebih Mandiri dan Modern - serayunusantara.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 13:03:24 GMT",
-      "link": "https://serayunusantara.com/dekopinda-kota-kediri-dikukuhkan-dorong-koperasi-lebih-mandiri-dan-modern/"
     }
   ]
 }
