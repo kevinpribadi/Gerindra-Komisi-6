@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T01:07:51.610408",
+  "generated_at": "2026-08-16T02:56:59.297117",
   "party_counts_7d": {
-    "Gerindra": 35,
+    "Gerindra": 36,
     "PDI-P": 46,
     "Golkar": 6,
     "NasDem": 6,
-    "PKB": 19,
+    "PKB": 16,
     "PKS": 5,
     "PAN": 1,
     "Demokrat": 3
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
+    "bumn": 67,
     "umkm": 24,
-    "danantara": 43,
+    "danantara": 42,
     "koperasi": 42,
-    "investasi": 27,
-    "ekspor": 9,
+    "investasi": 26,
+    "ekspor": 10,
     "perdagangan": 4,
     "impor": 3,
     "kartel-monopoli": 7,
@@ -89,10 +89,24 @@
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 70,
     "Kinerja BUMN": 13,
-    "Perdagangan": 26,
+    "Perdagangan": 27,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Harga Patokan Ekspor Emas Naik 0,65 Persen, Dipicu Tren Penurunan Suku Bunga Global - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 02:22:04 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5452661/harga-patokan-ekspor-emas-naik-065-persen-dipicu-tren-penurunan-suku-bunga-global?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5452661"
+    },
+    {
+      "title": "Guru Besar: Bintang Kehormatan untuk Pimpinan Danantara Bisa Motivasi BUMN - RM.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 01:58:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/321968/guru-besar-bintang-kehormatan-untuk-pimpinan-danantara-bisa-motivasi-bumn"
+    },
     {
       "title": "Akademisi Dukung Rencana Presiden Prabowo Beri Bintang Kehormatan untuk Pimpinan Danantara - Media Indonesia",
       "entity": "Danantara",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 15 Aug 2026 12:45:00 GMT",
       "link": "https://www.suaradewata.com/berita/202405216820/danantara-tunjukkan-kinerja-positif-sebagai-mesin-investasi-strategis-negara"
-    },
-    {
-      "title": "DPR Dorong Reformasi Tata Kelola BUMN dan Penegakan Akuntabilitas - law-justice.co",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Sat, 15 Aug 2026 12:34:00 GMT",
-      "link": "https://www.law-justice.co/artikel/208925/dpr-dorong-reformasi-tata-kelola-bumn-dan-penegakan-akuntabilitas/"
-    },
-    {
-      "title": "Kinerja Danantara Tunjukkan Peluang Jadi Pilar Baru Penguatan Ekonomi Nasional - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 15 Aug 2026 12:25:00 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216818/kinerja-danantara-tunjukkan-peluang-jadi-pilar-baru-penguatan-ekonomi-nasional%7D"
     }
   ]
 }
