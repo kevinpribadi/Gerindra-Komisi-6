@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T17:16:57.330476",
+  "generated_at": "2026-08-16T18:23:41.409380",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
+    "bumn": 73,
     "umkm": 21,
     "danantara": 46,
     "koperasi": 43,
@@ -93,6 +93,13 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Soal Wacana Dwi Kewarganegaraan Terbatas, Legislator Ungkap 5 Catatan Kritis - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 17:35:00 GMT",
+      "link": "https://www.jpnn.com/news/soal-wacana-dwi-kewarganegaraan-terbatas-legislator-ungkap-5-catatan-kritis"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -164,6 +171,13 @@
       "link": "https://nasional.sindonews.com/read/1739707/12/rieke-pdip-usul-dpr-bentuk-pansus-bahas-kewarganegaraan-ganda-terbatas-1786878522"
     },
     {
+      "title": "BPKN Desak BUMN dan BUMD Jadi Pionir Penerapan Diskon 20 Persen bagi Penyandang Disabilitas - Jatengdaily.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 16 Aug 2026 11:31:56 GMT",
+      "link": "https://jatengdaily.com/2026/bpkn-desak-bumn-dan-bumd-jadi-pionir-penerapan-diskon-20-persen-bagi-penyandang-disabilitas/"
+    },
+    {
       "title": "Harga Emas Naik, HPE Ekspor Tembus US$131.777 per Kilogram - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -183,20 +197,6 @@
       "kind": "anggota",
       "published": "Sun, 16 Aug 2026 09:41:29 GMT",
       "link": "https://gerindra.id/2026/08/16/andre-rosiade-apresiasi-danantara-kinerja-bumn-dinilai-makin-moncer/"
-    },
-    {
-      "title": "Optimistis Ekonomi Melesat, Andre Rosiade Puji Gebrakan Presiden Prabowo di Pendidikan dan Kesehatan - kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 09:34:12 GMT",
-      "link": "https://kabarpolitik.com/optimistis-ekonomi-melesat-andre-rosiade-puji-gebrakan-presiden-prabowo-di-pendidikan-dan-kesehatan/"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi Danantara, Kinerja BUMN Dinilai Makin Moncer - kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 08:43:49 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-apresiasi-danantara-kinerja-bumn-dinilai-makin-moncer/"
     }
   ]
 }
