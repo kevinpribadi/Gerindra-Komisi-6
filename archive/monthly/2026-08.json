@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T03:51:36.381131",
+  "generated_at": "2026-08-17T04:38:25.914295",
   "party_counts_7d": {
-    "Gerindra": 45,
+    "Gerindra": 46,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
@@ -12,7 +12,7 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 67,
     "PDI-P": 71,
     "Golkar": 47,
     "NasDem": 31,
@@ -37,8 +37,8 @@
     "bumn": 73,
     "umkm": 20,
     "danantara": 44,
-    "koperasi": 41,
-    "investasi": 21,
+    "koperasi": 40,
+    "investasi": 20,
     "ekspor": 12,
     "perdagangan": 3,
     "kartel-monopoli": 7,
@@ -48,7 +48,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 8,
-    "Mulan Jameela": 1,
+    "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 1,
@@ -86,12 +86,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 61,
     "Kinerja BUMN": 13,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Peringati HUT ke-81 RI, Menkop Tegaskan Komitmen Kemerdekaan Ekonomi Kerakyatan - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 03:42:42 GMT",
+      "link": "https://indoposco.id/2026/08/17/peringati-hut-ke-81-ri-menkop-tegaskan-komitmen-kemerdekaan-ekonomi-kerakyatan/"
+    },
     {
       "title": "Peringati HUT RI ke-81, Menkop Tegaskan Komitmen Wujudkan Kemerdekaan Ekonomi Rakyat - Kabarjoglo",
       "entity": "Kementerian Koperasi",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 13:20:00 GMT",
       "link": "https://rentak.id/airnav-kerahkan-relawan-bumn-mengabdi-di-boyolali/"
-    },
-    {
-      "title": "PDIP Usulkan Pembentukan Pansus untuk Bahas RUU Kewarganegaraan Ganda Terbatas - Okezone.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 13:05:30 GMT",
-      "link": "https://news.okezone.com/read/2026/08/16/337/3236557/pdip-usulkan-pembentukan-pansus-untuk-bahas-ruu-kewarganegaraan-ganda-terbatas"
     }
   ]
 }
