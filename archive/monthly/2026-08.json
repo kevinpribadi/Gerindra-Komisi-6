@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T11:21:58.356906",
+  "generated_at": "2026-08-17T12:37:56.536529",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -12,10 +12,10 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 67,
+    "Gerindra": 66,
     "PDI-P": 71,
     "Golkar": 47,
-    "NasDem": 30,
+    "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
     "PAN": 22,
@@ -37,7 +37,7 @@
     "bumn": 73,
     "umkm": 19,
     "danantara": 41,
-    "koperasi": 40,
+    "koperasi": 38,
     "investasi": 21,
     "ekspor": 11,
     "perdagangan": 3,
@@ -50,7 +50,7 @@
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 14,
+    "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 3,
     "Darmadi Durianto": 20,
@@ -64,7 +64,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 8,
+    "Rachmat Gobel": 6,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -86,12 +86,33 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 60,
+    "Koperasi/UMKM": 58,
     "Kinerja BUMN": 13,
     "Perdagangan": 27,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Pesan Menkop Ferry di HUT RI ke-81: Pemerintah Prabowo Siap “Memerdekakan” Ekonomi Rakyat - DelikAsia.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 12:11:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/pesan-menkop-ferry-di-hut-ri-ke-81-pemerintah-prabowo-siap-memerdekakan-ekonomi-rakyat"
+    },
+    {
+      "title": "Menkop: Pemerintah hadir untuk memerdekakan masyarakat secara ekonomi - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 12:01:13 GMT",
+      "link": "https://www.antaranews.com/berita/5698616/menkop-pemerintah-hadir-untuk-memerdekakan-masyarakat-secara-ekonomi"
+    },
+    {
+      "title": "Menkop Ferry tegaskan kemerdekaan ekonomi jadi fokus koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 12:00:46 GMT",
+      "link": "https://elshinta.com/kategori/1/politik/menkop-ferry-tegaskan-kemerdekaan-ekonomi-jadi-fokus-koperasi-173855"
+    },
     {
       "title": "Kemendag Naikan Harga Patokan Ekspor Emas Periode II Agustus 2026 - achmadnurhidayat.id",
       "entity": "Kementerian Perdagangan",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 03:42:42 GMT",
       "link": "https://indoposco.id/2026/08/17/peringati-hut-ke-81-ri-menkop-tegaskan-komitmen-kemerdekaan-ekonomi-kerakyatan/"
-    },
-    {
-      "title": "Peringati HUT RI ke-81, Menkop Tegaskan Komitmen Wujudkan Kemerdekaan Ekonomi Rakyat - Kabarjoglo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 03:42:18 GMT",
-      "link": "https://kabarjoglo.com/2026/08/17/peringati-hut-ri-ke-81-menkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-rakyat/"
-    },
-    {
-      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penggerak Ekonomi - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 03:29:18 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penggerak-ekonomi"
-    },
-    {
-      "title": "Presiden Sampaikan Laba BUMN Naik Signifikan, Nanda Satria: Uda Dony Oskaria Kunci Inggris Pembenahan BUMN - HarianHaluan.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 03:26:41 GMT",
-      "link": "https://harianhaluan.id/presiden-sampaikan-laba-bumn-naik-signifikan-nanda-satria-uda-dony-oskaria-kunci-inggris-pembenahan-bumn-178428/"
     }
   ]
 }
