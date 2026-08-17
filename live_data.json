@@ -2447,13 +2447,6 @@
                 "link_resolved": "https://abatanews.com/nurdin-halid-apresiasi-musda-xi-golkar-sulsel-ini-proses-demokrasi-yang-beradat/amp/",
                 "published": "Sun, 19 Jul 2026 05:52:27 GMT",
                 "fetched_at": "2026-07-19T11:56:12.146240"
-            },
-            {
-                "title": "Nurdin Halid sebut Setya Novanto segera ditarik dari jabatan Ketua DPR - Merdeka.com",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3JfTnQ3M0ZxaGZxOU1NUS11QXVyZGwwYy05QnZwS1ZIeWJNZXpVcXVCZ0lUVldKSkhzNmJ3dmFFbjU2X0EwYlZ5SnFsTXduekpZR1FXdDJDdlJDc3VFRGRXdmRDQzdMaUlBZkw2eERpM0theUIzM1lyQUJ1LVRrVDVtSkZnQVF0ZzFZZFJoazR2cEd0RlVhUEtHU1IwQy1ic3F2eFNzTGZqTlpLdDVRaGdFSE9GZw?oc=5",
-                "link_resolved": "https://www.merdeka.com/politik/read/7229495/nurdin-halid-sebut-setya-novanto-segera-ditarik-dari-jabatan-ketua-dpr",
-                "published": "Sat, 18 Jul 2026 20:00:45 GMT",
-                "fetched_at": "2026-07-19T13:15:51.903855"
             }
         ],
         "Gde Sumarjaya Linggih": [
@@ -3838,20 +3831,20 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17832,
+        "value": 17830,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-17T18:35:02.027187",
+        "fetched_at": "2026-08-17T20:22:59.537479",
         "prev_close": 17863,
-        "change_pct": -0.17
+        "change_pct": -0.18
     },
     "ihsg": {
         "value": 6401.89,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-17T18:35:02.027187",
+        "fetched_at": "2026-08-17T20:22:59.537479",
         "prev_close": 6301.77,
         "change_pct": 1.59
     },
@@ -3861,7 +3854,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3110,
             "change_pct": 0.32
@@ -3871,7 +3864,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Bank Mandiri",
             "prev_close": 4130,
             "change_pct": 0.97
@@ -3881,7 +3874,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Bank Negara Indonesia",
             "prev_close": 3610,
             "change_pct": 0.55
@@ -3891,7 +3884,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Bank Tabungan Negara",
             "prev_close": 1220,
             "change_pct": 0.0
@@ -3901,7 +3894,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Telkom Indonesia",
             "prev_close": 2590,
             "change_pct": 1.16
@@ -3911,7 +3904,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Semen Indonesia",
             "prev_close": 1510,
             "change_pct": 4.64
@@ -3921,7 +3914,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Aneka Tambang",
             "prev_close": 3000,
             "change_pct": 2.33
@@ -3931,7 +3924,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1475,
             "change_pct": 1.36
@@ -3941,7 +3934,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Bukit Asam",
             "prev_close": 2340,
             "change_pct": 0.85
@@ -3951,7 +3944,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-17T18:35:02.027187",
+            "fetched_at": "2026-08-17T20:22:59.537479",
             "name": "Jasa Marga",
             "prev_close": 2740,
             "change_pct": -0.36
@@ -3963,5 +3956,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-17T18:35:02.027187"
+    "last_updated": "2026-08-17T20:22:59.537479"
 }
