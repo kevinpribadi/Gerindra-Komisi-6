@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T13:36:45.876313",
+  "generated_at": "2026-08-17T14:24:17.881597",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
@@ -37,8 +37,8 @@
     "bumn": 73,
     "umkm": 19,
     "danantara": 41,
-    "koperasi": 38,
-    "investasi": 21,
+    "koperasi": 37,
+    "investasi": 23,
     "ekspor": 11,
     "perdagangan": 3,
     "kartel-monopoli": 7,
@@ -86,12 +86,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 58,
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 13,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Dorong Hilirisasi Sawit Berbasis Koperasi, Menkop Resmikan Pabrik CPO KUD Sejahtera di Musi Banyuasin - agrofarm.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 13:57:49 GMT",
+      "link": "http://www.agrofarm.co.id/2026/08/dorong-hilirisasi-sawit-berbasis-koperasi-menkop-resmikan-pabrik-cpo-kud-sejahtera-di-musi-banyuasin/"
+    },
     {
       "title": "Pesan Menkop Ferry di HUT RI ke-81: Pemerintah Prabowo Siap “Memerdekakan” Ekonomi Rakyat - DelikAsia.com",
       "entity": "Kementerian Koperasi",
@@ -119,6 +126,13 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 10:33:19 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-naikkan-hpe-emas-agustus"
+    },
+    {
+      "title": "Harga Referensi Emas Naik Jadi US$ 4.098,75 - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 10:27:00 GMT",
+      "link": "https://investor.id/market/450638/harga-referensi-emas-naik-jadi-us-409875"
     },
     {
       "title": "Mendag Pastikan Pasokan Bahan Pokok Korban Gempa NTT Tetap Terjaga - Suara Surabaya",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 07:35:47 GMT",
       "link": "https://www.agricom.id/news/5140/produk-cokelat-bubuk-dan-karbon-aktif-indonesia-raup-mou-ekspor-rp3-5-miliar-ke-timur-tengah"
-    },
-    {
-      "title": "Momen Nurdin Halid Rayakan HUT Kemerdekaan Bareng Andi Sudi dan Aco di Kantor Gubernur - kabarika",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Mon, 17 Aug 2026 07:08:24 GMT",
-      "link": "https://kabarika.id/berita/2026/08/17/momen-nurdin-halid-rayakan-hut-kemerdekaan-bareng-andi-sudi-dan-aco-di-kantor-gubernur/"
-    },
-    {
-      "title": "HUT ke-81 RI, Menkop Tegaskan Komitmen Kemerdekaan Ekonomi Kerakyatan - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 04:49:00 GMT",
-      "link": "https://rm.id/baca-berita/nasional/322082/hut-ke81-ri-menkop-tegaskan-komitmen-kemerdekaan-ekonomi-kerakyatan"
     }
   ]
 }
