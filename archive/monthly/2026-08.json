@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-16T23:17:03.210549",
+  "generated_at": "2026-08-17T01:06:02.232297",
   "party_counts_7d": {
-    "Gerindra": 43,
+    "Gerindra": 44,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
@@ -15,7 +15,7 @@
     "Gerindra": 66,
     "PDI-P": 72,
     "Golkar": 49,
-    "NasDem": 32,
+    "NasDem": 31,
     "PKB": 34,
     "PKS": 40,
     "PAN": 22,
@@ -50,8 +50,8 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 1,
-    "Kawendra Lukistian": 19,
-    "Mulyadi": 15,
+    "Kawendra Lukistian": 20,
+    "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 4,
     "Darmadi Durianto": 20,
@@ -65,7 +65,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 1,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 10,
+    "Rachmat Gobel": 9,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -86,13 +86,20 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 14,
+    "Hukum/Audit": 13,
     "Koperasi/UMKM": 65,
     "Kinerja BUMN": 13,
     "Perdagangan": 30,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Ucapan Hari Kemerdekaan Indonesia ke 81- Kawendra Lukistian (Anggota DPR Komisi VI Fraksi Gerindra) - SinPo.id",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Mon, 17 Aug 2026 00:20:00 GMT",
+      "link": "https://tv.sinpo.id/detail/ucapan-hari-kemerdekaan-indonesia-ke-81-kawendra-lukistian-anggota-dpr-komisi-vi-fraksi-gerindra"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - berita.cilegon.go.id",
       "entity": "Dekopin",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 10:54:27 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/08/16/harga-emas-naik-hpe-ekspor-tembus-us131-777-per-kilogram/"
-    },
-    {
-      "title": "Prabowo Siapkan Bursa Komoditas 2027, Gagasan Kawendra soal Indonesia Metal Exchange Kembali Disorot - NusantaraTV",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 10:15:13 GMT",
-      "link": "https://www.nusantaratv.com/finance/prabowo-siapkan-bursa-komoditas-2027-gagasan-kawendra-soal-indonesia-metal-exchange-kembali-disorot"
     }
   ]
 }
