@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T08:39:24.312523",
+  "generated_at": "2026-08-17T09:37:58.578694",
   "party_counts_7d": {
     "Gerindra": 44,
     "PDI-P": 44,
@@ -15,7 +15,7 @@
     "Gerindra": 67,
     "PDI-P": 71,
     "Golkar": 46,
-    "NasDem": 31,
+    "NasDem": 30,
     "PKB": 34,
     "PKS": 39,
     "PAN": 22,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 73,
     "umkm": 19,
-    "danantara": 43,
+    "danantara": 42,
     "koperasi": 40,
     "investasi": 20,
     "ekspor": 12,
@@ -64,7 +64,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 9,
-    "Rachmat Gobel": 9,
+    "Rachmat Gobel": 8,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -92,6 +92,13 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "4 Pasar Rusak Akibat Gempa, Mendag Pantau Pasokan Bahan Pokok di NTT - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 08:59:16 GMT",
+      "link": "https://www.rctiplus.com/news/detail/okezone/5453444/4-pasar-rusak-akibat-gempa--mendag-pantau-pasokan-bahan-pokok-di-ntt"
+    },
     {
       "title": "Kemendag salurkan bantuan untuk korban bencana gempa NTT - ANTARA News",
       "entity": "Kementerian Perdagangan",
@@ -126,6 +133,13 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 03:42:18 GMT",
       "link": "https://kabarjoglo.com/2026/08/17/peringati-hut-ri-ke-81-menkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-rakyat/"
+    },
+    {
+      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penggerak Ekonomi - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 03:29:18 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penggerak-ekonomi"
     },
     {
       "title": "Presiden Sampaikan Laba BUMN Naik Signifikan, Nanda Satria: Uda Dony Oskaria Kunci Inggris Pembenahan BUMN - HarianHaluan.id",
@@ -182,20 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 16 Aug 2026 17:35:00 GMT",
       "link": "https://www.jpnn.com/news/soal-wacana-dwi-kewarganegaraan-terbatas-legislator-ungkap-5-catatan-kritis"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 17:15:29 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260817/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Kemenkop Dorong 2.587 Koperasi Perkebunan Ambil Peran Utama Rantai Pasok Sawit - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 16:02:02 GMT",
-      "link": "https://haisawit.co.id/news/detail/kemenkop-dorong-2587-koperasi-perkebunan-ambil-peran-utama-rantai-pasok-sawit"
     }
   ]
 }
