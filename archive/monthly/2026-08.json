@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T10:29:08.409254",
+  "generated_at": "2026-08-17T11:21:58.356906",
   "party_counts_7d": {
-    "Gerindra": 44,
+    "Gerindra": 43,
     "PDI-P": 44,
-    "Golkar": 7,
+    "Golkar": 8,
     "NasDem": 5,
     "PKB": 9,
     "PKS": 5,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 71,
-    "Golkar": 46,
+    "Golkar": 47,
     "NasDem": 30,
     "PKB": 34,
     "PKS": 39,
@@ -36,13 +36,13 @@
   "topic_counts_30d": {
     "bumn": 73,
     "umkm": 19,
-    "danantara": 42,
+    "danantara": 41,
     "koperasi": 40,
     "investasi": 21,
-    "ekspor": 10,
+    "ekspor": 11,
     "perdagangan": 3,
     "kartel-monopoli": 7,
-    "ipo": 3
+    "ipo": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -57,7 +57,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 5,
+    "Nurdin Halid": 6,
     "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
@@ -93,6 +93,13 @@
   },
   "top_headlines": [
     {
+      "title": "Kemendag Naikan Harga Patokan Ekspor Emas Periode II Agustus 2026 - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 10:33:19 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-naikkan-hpe-emas-agustus"
+    },
+    {
       "title": "Mendag Pastikan Pasokan Bahan Pokok Korban Gempa NTT Tetap Terjaga - Suara Surabaya",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -107,6 +114,13 @@
       "link": "https://www.rctiplus.com/news/detail/terkini/5453474/4-pasar-tradisional-di-ntt-rusak-akibat-gempa-kemendag-pantau-distribusi-kebutuhan-pokok?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5453474"
     },
     {
+      "title": "4 Pasar Tradisional di NTT Rusak Akibat Gempa, Kemendag Pantau Distribusi Kebutuhan Pokok - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 10:10:04 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5453474/4-pasar-tradisional-di-ntt-rusak-akibat-gempa--kemendag-pantau-distribusi-kebutuhan-pokok"
+    },
+    {
       "title": "Kementerian Koperasi Berikan Penghargaan Koperasi Awards 2026 - achmadnurhidayat.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -114,11 +128,25 @@
       "link": "https://achmadnurhidayat.id/kemenkop-koperasi-awards-2026"
     },
     {
+      "title": "AirNav Kerahkan Relawan BUMN Mengabdi di Boyolali - Koran Jakarta ®",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 09:23:00 GMT",
+      "link": "https://koran-jakarta.com/2026-08-17/airnav-kerahkan-relawan-bumn-mengabdi-di-boyolali"
+    },
+    {
       "title": "4 Pasar Rusak Akibat Gempa, Mendag Pantau Pasokan Bahan Pokok di NTT - RCTI+",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 08:59:16 GMT",
       "link": "https://www.rctiplus.com/news/detail/okezone/5453444/4-pasar-rusak-akibat-gempa--mendag-pantau-pasokan-bahan-pokok-di-ntt"
+    },
+    {
+      "title": "Penuni Undangan Andi Sudirman, Nurdin Halid Pulang Kampung Rayakan HUT Kemerdekaan - Bonepos.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Mon, 17 Aug 2026 08:34:00 GMT",
+      "link": "https://www.bonepos.com/2026/08/17/penuni-undangan-andi-sudirman-nurdin-halid-pulang-kampung-rayakan-hut-kemerdekaan"
     },
     {
       "title": "Kemendag salurkan bantuan untuk korban bencana gempa NTT - ANTARA News",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 03:26:41 GMT",
       "link": "https://harianhaluan.id/presiden-sampaikan-laba-bumn-naik-signifikan-nanda-satria-uda-dony-oskaria-kunci-inggris-pembenahan-bumn-178428/"
-    },
-    {
-      "title": "Investor Buru Emas, Kemendag Naikkan HPE Periode II - Emitennews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 02:30:00 GMT",
-      "link": "https://www.emitennews.com/news/investor-buru-emas-kemendag-naikkan-hpe-periode-ii"
-    },
-    {
-      "title": "Kontribusi untuk Koperasi Indonesia Dapat Apresiasi, Ini Kategorinya - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 02:00:25 GMT",
-      "link": "https://news.detik.com/berita/d-8620700/kontribusi-untuk-koperasi-indonesia-dapat-apresiasi-ini-kategorinya"
-    },
-    {
-      "title": "Menkop Ferry di HUT ke-81 RI: Negara Harus Hadir Memerdekakan Rakyat Secara Ekonomi - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 01:44:00 GMT",
-      "link": "https://investortrust.id/national/113170/menkop-ferry-di-hut-ke-81-ri-negara-harus-hadir-memerdekakan-rakyat-secara-ekonomi"
-    },
-    {
-      "title": "Ucapan Hari Kemerdekaan Indonesia ke 81- Kawendra Lukistian (Anggota DPR Komisi VI Fraksi Gerindra) - SinPo.id",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Mon, 17 Aug 2026 00:20:00 GMT",
-      "link": "https://tv.sinpo.id/detail/ucapan-hari-kemerdekaan-indonesia-ke-81-kawendra-lukistian-anggota-dpr-komisi-vi-fraksi-gerindra"
     }
   ]
 }
