@@ -1,19 +1,19 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T01:06:02.232297",
+  "generated_at": "2026-08-17T02:57:05.691983",
   "party_counts_7d": {
     "Gerindra": 44,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
-    "PKB": 15,
+    "PKB": 12,
     "PKS": 5,
     "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 72,
+    "PDI-P": 71,
     "Golkar": 49,
     "NasDem": 31,
     "PKB": 34,
@@ -35,13 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 73,
-    "umkm": 21,
+    "umkm": 20,
     "danantara": 45,
-    "koperasi": 43,
+    "koperasi": 42,
     "investasi": 22,
     "ekspor": 12,
     "perdagangan": 3,
-    "impor": 2,
     "kartel-monopoli": 7,
     "ipo": 4
   },
@@ -53,7 +52,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 1,
-    "Mufti Anam": 4,
+    "Mufti Anam": 3,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -87,18 +86,46 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 65,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 13,
-    "Perdagangan": 30,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Investor Buru Emas, Kemendag Naikkan HPE Periode II - Emitennews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 02:30:00 GMT",
+      "link": "https://www.emitennews.com/news/investor-buru-emas-kemendag-naikkan-hpe-periode-ii"
+    },
+    {
+      "title": "Kontribusi untuk Koperasi Indonesia Dapat Apresiasi, Ini Kategorinya - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 02:00:25 GMT",
+      "link": "https://news.detik.com/berita/d-8620700/kontribusi-untuk-koperasi-indonesia-dapat-apresiasi-ini-kategorinya"
+    },
+    {
+      "title": "Menkop Ferry di HUT ke-81 RI: Negara Harus Hadir Memerdekakan Rakyat Secara Ekonomi - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 01:44:00 GMT",
+      "link": "https://investortrust.id/national/113170/menkop-ferry-di-hut-ke-81-ri-negara-harus-hadir-memerdekakan-rakyat-secara-ekonomi"
+    },
     {
       "title": "Ucapan Hari Kemerdekaan Indonesia ke 81- Kawendra Lukistian (Anggota DPR Komisi VI Fraksi Gerindra) - SinPo.id",
       "entity": "Kawendra Lukistian",
       "kind": "anggota",
       "published": "Mon, 17 Aug 2026 00:20:00 GMT",
       "link": "https://tv.sinpo.id/detail/ucapan-hari-kemerdekaan-indonesia-ke-81-kawendra-lukistian-anggota-dpr-komisi-vi-fraksi-gerindra"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Main Film Lagi Usai Jadi Anggota DPR - Upplan",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 16 Aug 2026 18:49:48 GMT",
+      "link": "https://www.upplan.sg/news/594a299403.html"
     },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - berita.cilegon.go.id",
@@ -169,34 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 12:30:24 GMT",
       "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026"
-    },
-    {
-      "title": "Kawendra dukung layanan ambulans dan dokter terbang - ANTARA News",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 11:45:11 GMT",
-      "link": "https://www.antaranews.com/berita/5697308/kawendra-dukung-layanan-ambulans-dan-dokter-terbang"
-    },
-    {
-      "title": "Rieke PDIP Usul DPR Bentuk Pansus Bahas Kewarganegaraan Ganda Terbatas - SINDOnews Nasional",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 11:41:52 GMT",
-      "link": "https://nasional.sindonews.com/read/1739707/12/rieke-pdip-usul-dpr-bentuk-pansus-bahas-kewarganegaraan-ganda-terbatas-1786878522"
-    },
-    {
-      "title": "BPKN Desak BUMN dan BUMD Jadi Pionir Penerapan Diskon 20 Persen bagi Penyandang Disabilitas - Jatengdaily.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 11:31:56 GMT",
-      "link": "https://jatengdaily.com/2026/bpkn-desak-bumn-dan-bumd-jadi-pionir-penerapan-diskon-20-persen-bagi-penyandang-disabilitas/"
-    },
-    {
-      "title": "Harga Emas Naik, HPE Ekspor Tembus US$131.777 per Kilogram - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 10:54:27 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/16/harga-emas-naik-hpe-ekspor-tembus-us131-777-per-kilogram/"
     }
   ]
 }
