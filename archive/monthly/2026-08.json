@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T12:37:56.536529",
+  "generated_at": "2026-08-17T13:36:45.876313",
   "party_counts_7d": {
     "Gerindra": 43,
     "PDI-P": 44,
-    "Golkar": 8,
+    "Golkar": 9,
     "NasDem": 5,
     "PKB": 9,
     "PKS": 5,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 71,
-    "Golkar": 47,
+    "Golkar": 48,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -57,7 +57,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 6,
+    "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
@@ -88,7 +88,7 @@
     "Hukum/Audit": 13,
     "Koperasi/UMKM": 58,
     "Kinerja BUMN": 13,
-    "Perdagangan": 27,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
@@ -184,18 +184,18 @@
       "link": "https://www.agricom.id/news/5140/produk-cokelat-bubuk-dan-karbon-aktif-indonesia-raup-mou-ekspor-rp3-5-miliar-ke-timur-tengah"
     },
     {
+      "title": "Momen Nurdin Halid Rayakan HUT Kemerdekaan Bareng Andi Sudi dan Aco di Kantor Gubernur - kabarika",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Mon, 17 Aug 2026 07:08:24 GMT",
+      "link": "https://kabarika.id/berita/2026/08/17/momen-nurdin-halid-rayakan-hut-kemerdekaan-bareng-andi-sudi-dan-aco-di-kantor-gubernur/"
+    },
+    {
       "title": "HUT ke-81 RI, Menkop Tegaskan Komitmen Kemerdekaan Ekonomi Kerakyatan - RM.ID",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 04:49:00 GMT",
       "link": "https://rm.id/baca-berita/nasional/322082/hut-ke81-ri-menkop-tegaskan-komitmen-kemerdekaan-ekonomi-kerakyatan"
-    },
-    {
-      "title": "Peringati HUT ke-81 RI, Menkop Tegaskan Komitmen Kemerdekaan Ekonomi Kerakyatan - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 03:42:42 GMT",
-      "link": "https://indoposco.id/2026/08/17/peringati-hut-ke-81-ri-menkop-tegaskan-komitmen-kemerdekaan-ekonomi-kerakyatan/"
     }
   ]
 }
