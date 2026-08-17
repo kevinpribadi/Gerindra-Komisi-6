@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T02:57:05.691983",
+  "generated_at": "2026-08-17T03:51:36.381131",
   "party_counts_7d": {
-    "Gerindra": 44,
+    "Gerindra": 45,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 71,
-    "Golkar": 49,
+    "Golkar": 47,
     "NasDem": 31,
     "PKB": 34,
     "PKS": 40,
@@ -36,13 +36,13 @@
   "topic_counts_30d": {
     "bumn": 73,
     "umkm": 20,
-    "danantara": 45,
-    "koperasi": 42,
-    "investasi": 22,
+    "danantara": 44,
+    "koperasi": 41,
+    "investasi": 21,
     "ekspor": 12,
     "perdagangan": 3,
     "kartel-monopoli": 7,
-    "ipo": 4
+    "ipo": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 5,
-    "Gde Sumarjaya Linggih": 18,
+    "Gde Sumarjaya Linggih": 16,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
@@ -86,12 +86,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 63,
+    "Koperasi/UMKM": 62,
     "Kinerja BUMN": 13,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Peringati HUT RI ke-81, Menkop Tegaskan Komitmen Wujudkan Kemerdekaan Ekonomi Rakyat - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 03:42:18 GMT",
+      "link": "https://kabarjoglo.com/2026/08/17/peringati-hut-ri-ke-81-menkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-rakyat/"
+    },
+    {
+      "title": "Presiden Sampaikan Laba BUMN Naik Signifikan, Nanda Satria: Uda Dony Oskaria Kunci Inggris Pembenahan BUMN - HarianHaluan.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 03:26:41 GMT",
+      "link": "https://harianhaluan.id/presiden-sampaikan-laba-bumn-naik-signifikan-nanda-satria-uda-dony-oskaria-kunci-inggris-pembenahan-bumn-178428/"
+    },
     {
       "title": "Investor Buru Emas, Kemendag Naikkan HPE Periode II - Emitennews.com",
       "entity": "Kementerian Perdagangan",
@@ -182,20 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 16 Aug 2026 13:05:30 GMT",
       "link": "https://news.okezone.com/read/2026/08/16/337/3236557/pdip-usulkan-pembentukan-pansus-untuk-bahas-ruu-kewarganegaraan-ganda-terbatas"
-    },
-    {
-      "title": "Kawendra Lukistian Pernah Dorong Indonesia Punya Bursa Komoditas, Kini Prabowo Targetkan Beroperasi 2027 - fraksi gerindra dpr-ri",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Sun, 16 Aug 2026 13:00:41 GMT",
-      "link": "https://www.fraksigerindra.id/kawendra-lukistian-pernah-dorong-indonesia-punya-bursa-komoditas-kini-prabowo-targetkan-beroperasi-2027/"
-    },
-    {
-      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penggerak Ekonomi Rakyat - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 12:30:24 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026"
     }
   ]
 }
