@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T06:49:10.150415",
+  "generated_at": "2026-08-17T07:50:42.624752",
   "party_counts_7d": {
-    "Gerindra": 45,
+    "Gerindra": 44,
     "PDI-P": 44,
     "Golkar": 6,
     "NasDem": 5,
-    "PKB": 10,
+    "PKB": 9,
     "PKS": 5,
     "PAN": 1,
     "Demokrat": 3
@@ -39,7 +39,7 @@
     "danantara": 43,
     "koperasi": 40,
     "investasi": 20,
-    "ekspor": 12,
+    "ekspor": 13,
     "perdagangan": 3,
     "kartel-monopoli": 7,
     "ipo": 3
@@ -88,10 +88,17 @@
     "Hukum/Audit": 13,
     "Koperasi/UMKM": 61,
     "Kinerja BUMN": 13,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Produk Cokelat Bubuk dan Karbon Aktif Indonesia Raup MoU Ekspor Rp3,5 Miliar ke Timur Tengah - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 07:35:47 GMT",
+      "link": "https://www.agricom.id/news/5140/produk-cokelat-bubuk-dan-karbon-aktif-indonesia-raup-mou-ekspor-rp3-5-miliar-ke-timur-tengah"
+    },
     {
       "title": "HUT ke-81 RI, Menkop Tegaskan Komitmen Kemerdekaan Ekonomi Kerakyatan - RM.ID",
       "entity": "Kementerian Koperasi",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 16 Aug 2026 15:42:37 GMT",
       "link": "https://www.kompasiana.com/faridasyhadi1528/6a81c443c925c424f502c487/saatnya-dorong-kopi-kita-menguasai-pasar-dunia"
-    },
-    {
-      "title": "Laba Himbara Capai Rp39,92 Triliun di Kuartal I/2026, Mengindikasikan Transformasi BUMN ke Arah Positif - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 16 Aug 2026 15:12:00 GMT",
-      "link": "https://swa.co.id/read/476133/laba-himbara-capai-rp3992-triliun-di-kuartal-i2026-mengindikasikan-transformasi-bumn-ke-arah-positif"
     }
   ]
 }
