@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-17T22:21:23.149935",
+  "generated_at": "2026-08-18T01:03:44.673774",
   "party_counts_7d": {
     "Gerindra": 43,
-    "PDI-P": 44,
+    "PDI-P": 43,
     "Golkar": 9,
     "NasDem": 5,
     "PKB": 11,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 71,
-    "Golkar": 46,
+    "Golkar": 45,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -39,9 +39,9 @@
     "danantara": 41,
     "koperasi": 36,
     "investasi": 23,
-    "ekspor": 11,
-    "perdagangan": 3,
+    "ekspor": 10,
     "kartel-monopoli": 7,
+    "perdagangan": 2,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
@@ -88,10 +88,24 @@
     "Hukum/Audit": 13,
     "Koperasi/UMKM": 56,
     "Kinerja BUMN": 13,
-    "Perdagangan": 29,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Siapkan Strategi Diversifikasi Pasar Ekspor di Tengah Gejolak Global - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 00:39:22 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260818/12/1996903/kemendag-siapkan-strategi-diversifikasi-pasar-ekspor-di-tengah-gejolak-global"
+    },
+    {
+      "title": "Gempa NTT, Kemendag Identifikasi 4 Pasar Alami Kerusakan - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 00:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/118627/gempa-ntt-kemendag-identifikasi-4-pasar-alami-kerusakan"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 10:20:30 GMT",
       "link": "https://www.suarasurabaya.net/kelanakota/2026/mendag-pastikan-pasokan-bahan-pokok-korban-gempa-ntt-tetap-terjaga/"
-    },
-    {
-      "title": "4 Pasar Tradisional di NTT Rusak Akibat Gempa, Kemendag Pantau Distribusi Kebutuhan Pokok - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 10:10:04 GMT",
-      "link": "https://www.rctiplus.com/news/detail/terkini/5453474/4-pasar-tradisional-di-ntt-rusak-akibat-gempa-kemendag-pantau-distribusi-kebutuhan-pokok?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5453474"
-    },
-    {
-      "title": "4 Pasar Tradisional di NTT Rusak Akibat Gempa, Kemendag Pantau Distribusi Kebutuhan Pokok - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 10:10:04 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5453474/4-pasar-tradisional-di-ntt-rusak-akibat-gempa--kemendag-pantau-distribusi-kebutuhan-pokok"
     }
   ]
 }
