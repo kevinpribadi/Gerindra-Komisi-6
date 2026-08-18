@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T12:39:46.239897",
+  "generated_at": "2026-08-18T13:40:05.067524",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 35,
     "PDI-P": 39,
-    "Golkar": 9,
+    "Golkar": 10,
     "NasDem": 5,
     "PKB": 11,
     "PKS": 4,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 71,
-    "Golkar": 42,
+    "Golkar": 43,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -34,13 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 77,
-    "umkm": 20,
-    "danantara": 43,
+    "danantara": 44,
+    "bumn": 79,
+    "dividen": 2,
+    "umkm": 21,
     "koperasi": 36,
     "investasi": 16,
+    "ekspor": 10,
     "impor": 1,
-    "ekspor": 9,
     "ipo": 3,
     "kartel-monopoli": 7,
     "perdagangan": 2
@@ -64,7 +65,7 @@
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 9,
+    "Muhammad Sarmuji": 10,
     "Rachmat Gobel": 6,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 3,
@@ -87,18 +88,60 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 58,
+    "Koperasi/UMKM": 59,
     "Kinerja BUMN": 11,
-    "Perdagangan": 29,
+    "Perdagangan": 30,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Purbaya Ungkap Danantara Siapkan Dividen BUMN untuk Cadangan APBN - Bloomberg Technoz",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 13:32:10 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/118761/purbaya-ungkap-danantara-siapkan-dividen-bumn-untuk-cadangan-apbn"
+    },
+    {
+      "title": "UMKM Binaan IPB University Ekspor Pinang ke Bangladesh dan Maladewa Senilai Rp2,2 Miliar - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 13:30:00 GMT",
+      "link": "https://swa.co.id/read/476197/umkm-binaan-ipb-university-ekspor-pinang-ke-bangladesh-dan-maladewa-senilai-rp22-miliar"
+    },
+    {
+      "title": "Sarmuji : Dua Pedoman Fraksi Golkar, Sukseskan Program Prabowo dan Kawal Aspirasi Rakyat - VOI.ID",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Tue, 18 Aug 2026 13:15:00 GMT",
+      "link": "https://voi.id/berita/590196/sarmuji-dua-pedoman-fraksi-golkar-sukseskan-program-prabowo-dan-kawal-aspirasi-rakyat"
+    },
+    {
+      "title": "Danantara Kelola Saham BEI, Ekonom Dorong Lebih Banyak BUMN IPO - Suara Surabaya",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 12:46:25 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/danantara-kelola-saham-bei-ekonom-dorong-lebih-banyak-bumn-ipo/"
+    },
+    {
+      "title": "Dividen BUMN Dikelola Danantara, PNBP 2027 Diproyeksi Turun 10% - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 12:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/118746/dividen-bumn-dikelola-danantara-pnbp-2027-diproyeksi-turun-10"
+    },
     {
       "title": "Ketua Komisi V DPRD Kota Padang Buya Iskandar Support Atlet Penyandang Disabilitas pada Pesonas II 2026 di Kupang - Mimbarsumbar.id",
       "entity": "Iskandar",
       "kind": "anggota",
       "published": "Tue, 18 Aug 2026 12:31:32 GMT",
       "link": "https://mimbarsumbar.id/ketua-komisi-v-dprd-kota-padang-buya-iskandar-support-atlet-penyandang-disabilitas-pada-pesonas-ii-2026-di-kupang/"
+    },
+    {
+      "title": "Danantara Ikut Rapat Perpres Ojol, Ini Hal yang Dibahas - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 12:30:05 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5454234/danantara-ikut-rapat-perpres-ojol-ini-hal-yang-dibahas?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454234"
     },
     {
       "title": "Kemenkop Berikan Penghargaan di Koperasi Awards 2026 Dorong Ekonomi Kerakyatan - achmadnurhidayat.id",
@@ -155,48 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 09:15:04 GMT",
       "link": "https://www.antaranews.com/berita/5699860/ekonom-sambut-positif-rencana-danantara-mengelola-saham-bei"
-    },
-    {
-      "title": "Ekonom sambut positif rencana Danantara mengelola saham BEI - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 09:15:04 GMT",
-      "link": "https://www.antaranews.com/berita/5699860/ekonom-sambut-positif-rencana-danantara-mengelola-saham-bei"
-    },
-    {
-      "title": "Danantara Dorong Investasi Berkualitas dan Transformasi BUMN - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 07:45:46 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/923056/danantara-dorong-investasi-berkualitas-dan-transformasi-bumn"
-    },
-    {
-      "title": "Video: Salurkan Dana Bergulir Rp 2,1 T, LPDB Tebar Kredit Bunga Rendah - CNBC Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 06:14:28 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260818124318-8-760265/video-salurkan-dana-bergulir-rp-21-t-lpdb-tebar-kredit-bunga-rendah"
-    },
-    {
-      "title": "BAZNAS, Danantara, Kemenkop, dan MES Perkuat Ekosistem Zakat... - Langit7.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 06:02:00 GMT",
-      "link": "https://langit7.id/read/61242/1/baznas-danantara-kemenkop-dan-mes-perkuat-ekosistem-zakat-dan-koperasi-syariah-1787026131"
-    },
-    {
-      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penguatan Ekonomi Rakyat - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 05:31:18 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penguatan-ekonomi-rakyat"
-    },
-    {
-      "title": "KADI inisiasi penyelidikan antidumping produk impor SAP asal China - ANTARA News Sulteng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 05:08:23 GMT",
-      "link": "https://sulteng.antaranews.com/berita/390225/kadi-inisiasi-penyelidikan-antidumping-produk-impor-sap-asal-china"
     }
   ]
 }
