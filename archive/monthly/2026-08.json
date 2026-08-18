@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T14:30:18.258572",
+  "generated_at": "2026-08-18T15:28:21.221907",
   "party_counts_7d": {
-    "Gerindra": 35,
-    "PDI-P": 39,
+    "Gerindra": 34,
+    "PDI-P": 38,
     "Golkar": 11,
     "NasDem": 5,
     "PKB": 11,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 44,
+    "danantara": 46,
     "bumn": 79,
     "dividen": 2,
     "umkm": 21,
@@ -94,6 +94,27 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Presiden Prabowo Puas dengan Kinerja Danantara - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 14:56:06 GMT",
+      "link": "https://www.metrotvnews.com/play/NleC9dZA-presiden-prabowo-puas-dengan-kinerja-danantara"
+    },
+    {
+      "title": "Andre Rosiade: Komisi VI DPR dan Danantara Komitmen Sehatkan Pos Indonesia - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 18 Aug 2026 14:53:06 GMT",
+      "link": "https://news.detik.com/berita/d-8624631/andre-rosiade-komisi-vi-dpr-dan-danantara-komitmen-sehatkan-pos-indonesia"
+    },
+    {
+      "title": "Andre Rosiade: DPR-Danantara Berjuang Agar PT Pos Indonesia Kembali Bangkit - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 18 Aug 2026 14:47:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-dpr-danantara-berjuang-agar-pt-pos-indonesia-kembali-bangkit-280lrUJ1d94"
+    },
     {
       "title": "Purbaya Ungkap Danantara Siapkan Dividen BUMN untuk Cadangan APBN - Bloomberg Technoz",
       "entity": "Kementerian BUMN",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 10:01:04 GMT",
       "link": "https://wartaekonomi.co.id/read629211/danantara-bakal-jajakan-rumah-bumn-belum-laku-mulai-27-agustus-2026"
-    },
-    {
-      "title": "DKUKM Sukabumi Sisir Kesiapan Koperasi Merah Putih - Radar Sukabumi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 09:52:35 GMT",
-      "link": "https://radarsukabumi.com/kabupaten-sukabumi/dkukm-sukabumi-sisir-kesiapan-koperasi-merah-putih/"
-    },
-    {
-      "title": "Ekonom Optimistis Rencana Danantara Kelola Saham BEI Pacu IPO BUMN - JPNN.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 09:51:25 GMT",
-      "link": "https://www.jpnn.com/news/ekonom-optimistis-rencana-danantara-kelola-saham-bei-pacu-ipo-bumn"
-    },
-    {
-      "title": "Mirae Aset Sekuritas Memproyeksikan Dampak Demutualisasi BEI, Pelaku Pasar Menantikan Laporan Keuangan Danantara - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 09:30:00 GMT",
-      "link": "https://swa.co.id/read/476189/mirae-aset-sekuritas-memproyeksikan-dampak-demutualisasi-bei-pelaku-pasar-menantikan-laporan-keuangan-danantara"
     }
   ]
 }
