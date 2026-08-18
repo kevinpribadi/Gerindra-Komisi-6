@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T22:19:55.507957",
+  "generated_at": "2026-08-18T23:19:11.942647",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -38,7 +38,7 @@
     "bumn": 78,
     "dividen": 2,
     "umkm": 21,
-    "koperasi": 37,
+    "koperasi": 38,
     "investasi": 16,
     "ekspor": 10,
     "impor": 1,
@@ -87,13 +87,27 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 14,
-    "Koperasi/UMKM": 60,
+    "Hukum/Audit": 15,
+    "Koperasi/UMKM": 61,
     "Kinerja BUMN": 11,
     "Perdagangan": 30,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "HPE dan HR Emas Periode II Agustus 2026 USD 131.777,67 per Kilogram - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 23:08:40 GMT",
+      "link": "https://www.niaga.asia/hpe-dan-hr-emas-periode-ii-agustus-2026-usd-131-77767-per-kilogram/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dukung Presiden Prabowo Usut Tuntas Dugaan Korupsi Koperasi Desa Merah Putih - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 18 Aug 2026 22:18:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dukung-presiden-prabowo-usut-tuntas-dugaan-korupsi-koperasi-desa-merah-putih-b2pY8Zbht6"
+    },
     {
       "title": "Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara - Kompas.com",
       "entity": "Badan Pengaturan BUMN",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 12:30:05 GMT",
       "link": "https://rctiplus.com/news/detail/terkini/5454234/danantara-ikut-rapat-perpres-ojol-ini-hal-yang-dibahas?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454234"
-    },
-    {
-      "title": "Nasdem Wanti-wanti APBN 2027 Tak Tanggung Risiko BUMN Berlebihan - Bloomberg Technoz",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 12:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/118742/nasdem-wanti-wanti-apbn-2027-tak-tanggung-risiko-bumn-berlebihan"
-    },
-    {
-      "title": "Kemenkop Berikan Penghargaan di Koperasi Awards 2026 Dorong Ekonomi Kerakyatan - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 11:09:47 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-penghargaan-koperasi-awards-2026"
     }
   ]
 }
