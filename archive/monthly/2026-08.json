@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T08:33:07.092605",
+  "generated_at": "2026-08-18T09:29:44.636235",
   "party_counts_7d": {
-    "Gerindra": 41,
-    "PDI-P": 42,
+    "Gerindra": 40,
+    "PDI-P": 41,
     "Golkar": 9,
     "NasDem": 5,
     "PKB": 11,
-    "PKS": 5,
+    "PKS": 4,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 77,
+    "bumn": 76,
     "umkm": 20,
-    "danantara": 42,
-    "koperasi": 35,
+    "danantara": 43,
+    "koperasi": 34,
     "investasi": 19,
     "impor": 1,
     "ekspor": 9,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 57,
-    "Kinerja BUMN": 13,
+    "Koperasi/UMKM": 56,
+    "Kinerja BUMN": 12,
     "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Ekonom sambut positif rencana Danantara mengelola saham BEI - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 09:15:04 GMT",
+      "link": "https://www.antaranews.com/berita/5699860/ekonom-sambut-positif-rencana-danantara-mengelola-saham-bei"
+    },
     {
       "title": "Danantara Dorong Investasi Berkualitas dan Transformasi BUMN - Media Indonesia",
       "entity": "Danantara",
@@ -106,6 +113,13 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 06:14:28 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260818124318-8-760265/video-salurkan-dana-bergulir-rp-21-t-lpdb-tebar-kredit-bunga-rendah"
+    },
+    {
+      "title": "BAZNAS, Danantara, Kemenkop, dan MES Perkuat Ekosistem Zakat... - Langit7.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 06:02:00 GMT",
+      "link": "https://langit7.id/read/61242/1/baznas-danantara-kemenkop-dan-mes-perkuat-ekosistem-zakat-dan-koperasi-syariah-1787026131"
     },
     {
       "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penguatan Ekonomi Rakyat - achmadnurhidayat.id",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 03:13:17 GMT",
       "link": "https://nasional.tempo.co/read/2117738/hut-ri-ke-81-kemendag-peduli-salurkan-rp-250-juta-untuk-korban-gempa-ntt"
-    },
-    {
-      "title": "HUT RI ke-81, Kemendag Peduli Salurkan Rp 250 Juta untuk Korban Gempa NTT - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 03:13:00 GMT",
-      "link": "https://www.tempo.co/politik/hut-ri-ke-81-kemendag-peduli-salurkan-rp-250-juta-untuk-korban-gempa-ntt-2282554"
-    },
-    {
-      "title": "Rayakan HUT RI ke-81, Rieke Dukung Prabowo Bongkar Dugaan Korupsi Koperasi Desa Merah Putih - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 03:10:32 GMT",
-      "link": "https://aktual.com/rayakan-hut-ri-ke-81-rieke-dukung-prabowo-bongkar-dugaan-korupsi-koperasi-desa-merah-putih/"
     }
   ]
 }
