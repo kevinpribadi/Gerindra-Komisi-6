@@ -1280,6 +1280,13 @@
         ],
         "Badan Pengaturan BUMN": [
             {
+                "title": "Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara - Kompas.com",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmExWmtCNURjell1WVVNU3lyUTQ4clZXRHdSQ2ZUS3R0RHduUFRRejhRU3RTamxtTzdmWXRCNktHOVZrYk9GV2hJS29tczBMNmdHYjMtVGppSW0xSGZhaEUzU3FrUENBVHQ2MFg1eHpkTDY0Rm5UOUVjSjUxRno5X0lxVEdxUHVpcEVxZlJFenVwSm1JN1RrcDd4U2x2bHdOVjdJLUlCOVZFeXBHVzVQdGVB?oc=5",
+                "link_resolved": "https://money.kompas.com/read/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara",
+                "published": "Tue, 18 Aug 2026 22:06:00 GMT",
+                "fetched_at": "2026-08-18T22:20:01.981017"
+            },
+            {
                 "title": "Danantara Tegaskan Penyaluran Kredit Kopdes oleh Himbara Dijamin Penuh Kemenkeu - RCTI+",
                 "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxObnJBcmNWMUt2R2d1X2E0NFhKUWx2YXRhZjlGWU94U2NEdDRLaDNRbWpUcE1BaEpiSndNNGFaNzRnaFNKS0pUbkpiVmg2T0xWSUk4NXdiSkhyTnNIVFg1RFRFRVZQUDFOVV9Sd0ZFTGJLTWd6N3ZDeVR6QkczVDFNNi1Fb1hWbXpSckY3UjBhRzh1Y1AwOFdFNFJKZ0dOajR4VEJma3dyZUNQWi1KcWNSVVR4bUhhNmtHb2lVbDYyYWUtQXkzeTZHYTFFYkpfTFRJT002Q1AzM21MUkxpQWM2SXNZWGY0YVlTMVdJc3pySEtzNFZVNnNRMThZMFNLcm9Fb2hUblBncWs2RzUyTm03V1BiU2VuOVdmZlNCa0YyVzEtT2tsUGN5YjI0VEVoTms?oc=5",
                 "link_resolved": "https://m.rctiplus.com/news/detail/terkini/5454452/danantara-tegaskan-penyaluran-kredit-kopdes-oleh-himbara-dijamin-penuh-kemenkeu?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454452",
@@ -1411,13 +1418,6 @@
                 "link_resolved": "https://ekbis.sindonews.com/newsread/1738119/34/agustusan-di-bp-bumn-meriahkan-kemerdekaan-dengan-kebersamaan-dan-sportivitas-1786504112",
                 "published": "Wed, 12 Aug 2026 03:32:16 GMT",
                 "fetched_at": "2026-08-12T08:15:04.450451"
-            },
-            {
-                "title": "Agustusan di BP BUMN: Adu Seru, Kompak Bersama, Semarakkan Kemerdekaan - RM.ID",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFTM3lhUHlOY3c0ZGFtNThGOVRPQkJaTzREbWhKT2dfYmJ1ZTNNb3IyeDJ5WGNwNi1sbHV0UDNUVVFpR3J3eGlETWZtUUgxdWVuM2QxRW84Y2NwWFpqWDZneFE1cU5UTnBNcHpHZ1QzMGhlY0ttVUJsczFWbG9vYlAyMFprMGtSb1RaWExxNm9USzhVTzFHdnRVV3ZsdVE4eHJTMWxXT0lfRXEyUy04cVZMcWNZQQ?oc=5",
-                "link_resolved": "https://rm.id/baca-berita/ekonomi-bisnis/321281/agustusan-di-bp-bumn-adu-seru-kompak-bersama-semarakkan-kemerdekaan",
-                "published": "Tue, 11 Aug 2026 08:38:00 GMT",
-                "fetched_at": "2026-08-11T09:57:51.293637"
             }
         ]
     },
@@ -3814,7 +3814,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-18T19:24:51.279121",
+        "fetched_at": "2026-08-18T22:19:55.507957",
         "prev_close": 17830,
         "change_pct": 0.12
     },
@@ -3823,110 +3823,110 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-18T19:24:51.279121",
+        "fetched_at": "2026-08-18T22:19:55.507957",
         "prev_close": 6301.77,
         "change_pct": 1.59
     },
     "bumn_stocks": {
         "BBRI": {
-            "value": 3120,
+            "value": 3080,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Bank Rakyat Indonesia",
-            "prev_close": 3110,
-            "change_pct": 0.32
+            "prev_close": 3120,
+            "change_pct": -1.28
         },
         "BMRI": {
-            "value": 4170,
+            "value": 4150,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Bank Mandiri",
-            "prev_close": 4130,
-            "change_pct": 0.97
+            "prev_close": 4170,
+            "change_pct": -0.48
         },
         "BBNI": {
-            "value": 3630,
+            "value": 3590,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Bank Negara Indonesia",
-            "prev_close": 3610,
-            "change_pct": 0.55
+            "prev_close": 3630,
+            "change_pct": -1.1
         },
         "BBTN": {
-            "value": 1220,
+            "value": 1215,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Bank Tabungan Negara",
             "prev_close": 1220,
-            "change_pct": 0.0
+            "change_pct": -0.41
         },
         "TLKM": {
-            "value": 2620,
+            "value": 2600,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Telkom Indonesia",
-            "prev_close": 2590,
-            "change_pct": 1.16
+            "prev_close": 2620,
+            "change_pct": -0.76
         },
         "SMGR": {
-            "value": 1580,
+            "value": 1550,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Semen Indonesia",
-            "prev_close": 1510,
-            "change_pct": 4.64
+            "prev_close": 1580,
+            "change_pct": -1.9
         },
         "ANTM": {
-            "value": 3070,
+            "value": 3100,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Aneka Tambang",
-            "prev_close": 3000,
-            "change_pct": 2.33
+            "prev_close": 3070,
+            "change_pct": 0.98
         },
         "PGAS": {
-            "value": 1495,
+            "value": 1515,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Perusahaan Gas Negara",
-            "prev_close": 1475,
-            "change_pct": 1.36
+            "prev_close": 1495,
+            "change_pct": 1.34
         },
         "PTBA": {
-            "value": 2360,
+            "value": 2370,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Bukit Asam",
-            "prev_close": 2340,
-            "change_pct": 0.85
+            "prev_close": 2360,
+            "change_pct": 0.42
         },
         "JSMR": {
-            "value": 2730,
+            "value": 2760,
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-18T19:24:51.279121",
+            "fetched_at": "2026-08-18T22:19:55.507957",
             "name": "Jasa Marga",
-            "prev_close": 2740,
-            "change_pct": -0.36
+            "prev_close": 2730,
+            "change_pct": 1.1
         }
     },
     "scrape_status": {
@@ -3935,5 +3935,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-18T19:24:51.279121"
+    "last_updated": "2026-08-18T22:19:55.507957"
 }

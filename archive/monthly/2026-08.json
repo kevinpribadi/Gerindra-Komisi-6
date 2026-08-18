@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T19:24:51.279121",
+  "generated_at": "2026-08-18T22:19:55.507957",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 46,
+    "danantara": 47,
     "bumn": 78,
     "dividen": 2,
     "umkm": 21,
@@ -94,6 +94,13 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 22:06:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara"
+    },
     {
       "title": "Danantara Tegaskan Penyaluran Kredit Kopdes oleh Himbara Dijamin Penuh Kemenkeu - RCTI+",
       "entity": "Badan Pengaturan BUMN",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 11:09:47 GMT",
       "link": "https://achmadnurhidayat.id/kemenkop-penghargaan-koperasi-awards-2026"
-    },
-    {
-      "title": "Koperasi Awards 2026, Ajang Apresiasi Penggerak Ekonomi Kerakyatan - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 11:00:15 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8623704/koperasi-awards-2026-ajang-apresiasi-penggerak-ekonomi-kerakyatan"
     }
   ]
 }
