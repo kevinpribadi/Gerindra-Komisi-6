@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T07:34:55.852225",
+  "generated_at": "2026-08-18T08:33:07.092605",
   "party_counts_7d": {
     "Gerindra": 41,
     "PDI-P": 42,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 76,
+    "bumn": 77,
     "umkm": 20,
-    "danantara": 41,
+    "danantara": 42,
     "koperasi": 35,
     "investasi": 19,
     "impor": 1,
@@ -94,6 +94,13 @@
   },
   "top_headlines": [
     {
+      "title": "Danantara Dorong Investasi Berkualitas dan Transformasi BUMN - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 07:45:46 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/923056/danantara-dorong-investasi-berkualitas-dan-transformasi-bumn"
+    },
+    {
       "title": "Video: Salurkan Dana Bergulir Rp 2,1 T, LPDB Tebar Kredit Bunga Rendah - CNBC Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -143,6 +150,13 @@
       "link": "https://industri.kontan.co.id/news/kemendag-rekomendasi-platform-lain-replikasi-cara-shopee-berikan-transparansi-biaya-1"
     },
     {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:43:12 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
+    {
       "title": "Dukung UMKM, Kemendag Puji Shopee yang Terapkan Transparansi Biaya - cnbcindonesia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -183,20 +197,6 @@
       "kind": "anggota",
       "published": "Tue, 18 Aug 2026 03:10:32 GMT",
       "link": "https://aktual.com/rayakan-hut-ri-ke-81-rieke-dukung-prabowo-bongkar-dugaan-korupsi-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penggerak Ekonomi - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 03:09:16 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penggerak-ekonomi-1787022556"
-    },
-    {
-      "title": "Shopee Hadirkan Pengelolaan Program Promosi, Kemendag: Layak Direplikasi - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 03:01:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/18/100100026/shopee-hadirkan-pengelolaan-program-promosi-kemendag--layak-direplikasi"
     }
   ]
 }
