@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T17:24:13.018074",
+  "generated_at": "2026-08-18T18:33:52.985393",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "danantara": 46,
-    "bumn": 79,
+    "bumn": 78,
     "dividen": 2,
     "umkm": 21,
-    "koperasi": 36,
+    "koperasi": 37,
     "investasi": 16,
     "ekspor": 10,
     "impor": 1,
-    "ipo": 3,
+    "ipo": 2,
     "kartel-monopoli": 7,
     "perdagangan": 2
   },
@@ -88,12 +88,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 59,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 11,
     "Perdagangan": 30,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Danantara Tegaskan Penyaluran Kredit Kopdes oleh Himbara Dijamin Penuh Kemenkeu - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 17:34:04 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5454452/danantara-tegaskan-penyaluran-kredit-kopdes-oleh-himbara-dijamin-penuh-kemenkeu?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454452"
+    },
     {
       "title": "Presiden Prabowo Puas dengan Kinerja Danantara - MetroTVNews.com",
       "entity": "Danantara",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 11:00:15 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8623704/koperasi-awards-2026-ajang-apresiasi-penggerak-ekonomi-kerakyatan"
-    },
-    {
-      "title": "Transformasi BUMN Mulai Tunjukkan Hasil Positif - olenka.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 10:33:45 GMT",
-      "link": "https://olenka.id/transformasi-bumn-mulai-tunjukkan-hasil-positif"
     }
   ]
 }
