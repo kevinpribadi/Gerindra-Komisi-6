@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T03:41:32.663529",
+  "generated_at": "2026-08-18T04:32:46.863020",
   "party_counts_7d": {
     "Gerindra": 41,
     "PDI-P": 42,
@@ -38,8 +38,8 @@
     "umkm": 20,
     "danantara": 41,
     "koperasi": 36,
-    "investasi": 21,
-    "ekspor": 9,
+    "investasi": 19,
+    "ekspor": 10,
     "kartel-monopoli": 7,
     "perdagangan": 2,
     "ipo": 2
@@ -88,10 +88,24 @@
     "Hukum/Audit": 14,
     "Koperasi/UMKM": 57,
     "Kinerja BUMN": 13,
-    "Perdagangan": 27,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Permintaan Global Meningkat, Harga Patokan Ekspor Emas Terkerek - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 04:15:14 GMT",
+      "link": "https://www.metrotvnews.com/read/b3JC5zBj-permintaan-global-meningkat-harga-patokan-ekspor-emas-terkerek"
+    },
+    {
+      "title": "Kemendag Rekomendasi Platform Lain Replikasi Cara Shopee Berikan Transparansi Biaya - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 04:00:06 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-rekomendasi-platform-lain-replikasi-cara-shopee-berikan-transparansi-biaya-1"
+    },
     {
       "title": "Dukung UMKM, Kemendag Puji Shopee yang Terapkan Transparansi Biaya - cnbcindonesia.com",
       "entity": "Kementerian Perdagangan",
@@ -105,6 +119,13 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 03:22:48 GMT",
       "link": "https://www.vibizmedia.com/index.php/2026/08/18/harga-emas-kembali-naik-hpe-tembus-us131-777-per-kilogram/"
+    },
+    {
+      "title": "HUT RI ke-81, Kemendag Peduli Salurkan Rp 250 Juta untuk Korban Gempa NTT - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:13:00 GMT",
+      "link": "https://www.tempo.co/politik/hut-ri-ke-81-kemendag-peduli-salurkan-rp-250-juta-untuk-korban-gempa-ntt-2282554"
     },
     {
       "title": "Rayakan HUT RI ke-81, Rieke Dukung Prabowo Bongkar Dugaan Korupsi Koperasi Desa Merah Putih - Aktual.com",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 19:56:38 GMT",
       "link": "https://sinpo.id/detail/126532/hut-ke-81-ri-kemenkop-tegaskan-negara-hadir-untuk-rakyat-yang-berjuang-di-sektor-ekonomi"
-    },
-    {
-      "title": "4 Pasar Rusak Akibat Gempa NTT, Kemendag Pastikan Pasokan Bahan Pokok Aman - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 15:00:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260817/12/1996926/4-pasar-rusak-akibat-gempa-ntt-kemendag-pastikan-pasokan-bahan-pokok-aman"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dorong Pembentukan Pansus Bahas RUU Dwi Kewarganegaraan Terbatas - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 17 Aug 2026 14:15:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dorong-pembentukan-pansus-bahas-ruu-dwi-kewarganegaraan-terbatas-b2pY7Zbhsf"
-    },
-    {
-      "title": "Dorong Hilirisasi Sawit Berbasis Koperasi, Menkop Resmikan Pabrik CPO KUD Sejahtera di Musi Banyuasin - agrofarm.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 13:57:49 GMT",
-      "link": "http://www.agrofarm.co.id/2026/08/dorong-hilirisasi-sawit-berbasis-koperasi-menkop-resmikan-pabrik-cpo-kud-sejahtera-di-musi-banyuasin/"
     }
   ]
 }
