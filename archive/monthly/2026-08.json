@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T10:25:16.395970",
+  "generated_at": "2026-08-18T11:22:26.642127",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 40,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 76,
+    "bumn": 77,
     "umkm": 20,
     "danantara": 43,
-    "koperasi": 34,
-    "investasi": 19,
+    "koperasi": 36,
+    "investasi": 16,
     "impor": 1,
     "ekspor": 9,
     "ipo": 3,
@@ -87,12 +87,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 14,
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 58,
     "Kinerja BUMN": 11,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Berikan Penghargaan di Koperasi Awards 2026 Dorong Ekonomi Kerakyatan - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 11:09:47 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-penghargaan-koperasi-awards-2026"
+    },
+    {
+      "title": "Koperasi Awards 2026, Ajang Apresiasi Penggerak Ekonomi Kerakyatan - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 11:00:15 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8623704/koperasi-awards-2026-ajang-apresiasi-penggerak-ekonomi-kerakyatan"
+    },
+    {
+      "title": "Transformasi BUMN Mulai Tunjukkan Hasil Positif - olenka.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 10:33:45 GMT",
+      "link": "https://olenka.id/transformasi-bumn-mulai-tunjukkan-hasil-positif"
+    },
+    {
+      "title": "Danantara Bakal Jajakan Rumah BUMN Belum Laku Mulai 27 Agustus 2026 - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 10:01:04 GMT",
+      "link": "https://wartaekonomi.co.id/read629211/danantara-bakal-jajakan-rumah-bumn-belum-laku-mulai-27-agustus-2026"
+    },
+    {
+      "title": "DKUKM Sukabumi Sisir Kesiapan Koperasi Merah Putih - Radar Sukabumi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 09:52:35 GMT",
+      "link": "https://radarsukabumi.com/kabupaten-sukabumi/dkukm-sukabumi-sisir-kesiapan-koperasi-merah-putih/"
+    },
     {
       "title": "Ekonom Optimistis Rencana Danantara Kelola Saham BEI Pacu IPO BUMN - JPNN.com",
       "entity": "Danantara",
@@ -162,41 +197,6 @@
       "kind": "anggota",
       "published": "Tue, 18 Aug 2026 04:54:35 GMT",
       "link": "https://posmetropadang.co.id/puji-pidato-kenegaraan-andre-rosiade-kami-kawal-visi-besar-presiden-prabowo-dari-bumn-hingga-hilirisasi-430303/"
-    },
-    {
-      "title": "Kehadiran Danantara Jembatani Kebijakan Fiskal dan Investasi Strategis - olenka.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 04:42:56 GMT",
-      "link": "https://olenka.id/kehadiran-danantara-jembatani-kebijakan-fiskal-dan-investasi-strategis"
-    },
-    {
-      "title": "Permintaan Global Meningkat, Harga Patokan Ekspor Emas Terkerek - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 04:15:14 GMT",
-      "link": "https://www.metrotvnews.com/read/b3JC5zBj-permintaan-global-meningkat-harga-patokan-ekspor-emas-terkerek"
-    },
-    {
-      "title": "Kemendag Rekomendasi Platform Lain Replikasi Cara Shopee Berikan Transparansi Biaya - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 04:00:06 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-rekomendasi-platform-lain-replikasi-cara-shopee-berikan-transparansi-biaya-1"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 03:43:12 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Dukung UMKM, Kemendag Puji Shopee yang Terapkan Transparansi Biaya - cnbcindonesia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 03:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/tech/20260818074353-37-760145/dukung-umkm-kemendag-puji-shopee-yang-terapkan-transparansi-biaya"
     }
   ]
 }
