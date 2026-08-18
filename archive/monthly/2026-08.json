@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T01:03:44.673774",
+  "generated_at": "2026-08-18T02:52:43.552040",
   "party_counts_7d": {
     "Gerindra": 43,
-    "PDI-P": 43,
+    "PDI-P": 42,
     "Golkar": 9,
     "NasDem": 5,
     "PKB": 11,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 71,
-    "Golkar": 45,
+    "Golkar": 44,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -37,9 +37,9 @@
     "bumn": 75,
     "umkm": 19,
     "danantara": 41,
-    "koperasi": 36,
-    "investasi": 23,
-    "ekspor": 10,
+    "koperasi": 35,
+    "investasi": 21,
+    "ekspor": 12,
     "kartel-monopoli": 7,
     "perdagangan": 2,
     "ipo": 2
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 11,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
@@ -86,12 +86,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 55,
     "Kinerja BUMN": 13,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Harga Patokan Ekspor Emas Naik Gegara Ini - VIVA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 02:24:25 GMT",
+      "link": "https://www.viva.co.id/bisnis/1922195-harga-patokan-ekspor-emas-naik-gegara-ini"
+    },
+    {
+      "title": "Permintaan Global Naik, Harga Patokan Ekspor Emas Ikut Menguat - Suara Surabaya",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 02:20:00 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/permintaan-global-naik-harga-patokan-ekspor-emas-ikut-menguat/"
+    },
     {
       "title": "Kemendag Siapkan Strategi Diversifikasi Pasar Ekspor di Tengah Gejolak Global - Bisnis.com - Ekonomi",
       "entity": "Kementerian Perdagangan",
@@ -112,6 +126,13 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 21:42:02 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260818/MTEyNg%3D%3D"
+    },
+    {
+      "title": "HUT ke-81 RI, Kemenkop Tegaskan Negara Hadir untuk Rakyat yang Berjuang di Sektor Ekonomi - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 17 Aug 2026 19:56:38 GMT",
+      "link": "https://sinpo.id/detail/126532/hut-ke-81-ri-kemenkop-tegaskan-negara-hadir-untuk-rakyat-yang-berjuang-di-sektor-ekonomi"
     },
     {
       "title": "4 Pasar Rusak Akibat Gempa NTT, Kemendag Pastikan Pasokan Bahan Pokok Aman - Bisnis.com - Ekonomi",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 12:00:46 GMT",
       "link": "https://elshinta.com/kategori/1/politik/menkop-ferry-tegaskan-kemerdekaan-ekonomi-jadi-fokus-koperasi-173855"
-    },
-    {
-      "title": "Kemendag Naikan Harga Patokan Ekspor Emas Periode II Agustus 2026 - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 10:33:19 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-naikkan-hpe-emas-agustus"
-    },
-    {
-      "title": "Harga Referensi Emas Naik Jadi US$ 4.098,75 - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 10:27:00 GMT",
-      "link": "https://investor.id/market/450638/harga-referensi-emas-naik-jadi-us-409875"
-    },
-    {
-      "title": "Mendag Pastikan Pasokan Bahan Pokok Korban Gempa NTT Tetap Terjaga - Suara Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 10:20:30 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/mendag-pastikan-pasokan-bahan-pokok-korban-gempa-ntt-tetap-terjaga/"
     }
   ]
 }
