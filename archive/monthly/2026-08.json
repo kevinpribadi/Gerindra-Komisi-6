@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T05:25:53.876458",
+  "generated_at": "2026-08-18T06:37:54.407550",
   "party_counts_7d": {
     "Gerindra": 41,
     "PDI-P": 42,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 71,
-    "Golkar": 44,
+    "Golkar": 42,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -37,7 +37,7 @@
     "bumn": 76,
     "umkm": 20,
     "danantara": 41,
-    "koperasi": 36,
+    "koperasi": 35,
     "investasi": 19,
     "impor": 1,
     "ekspor": 9,
@@ -58,7 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 6,
+    "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 11,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
@@ -93,6 +93,20 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Video: Salurkan Dana Bergulir Rp 2,1 T, LPDB Tebar Kredit Bunga Rendah - CNBC Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 06:14:28 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260818124318-8-760265/video-salurkan-dana-bergulir-rp-21-t-lpdb-tebar-kredit-bunga-rendah"
+    },
+    {
+      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penguatan Ekonomi Rakyat - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 05:31:18 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penguatan-ekonomi-rakyat"
+    },
     {
       "title": "KADI inisiasi penyelidikan antidumping produk impor SAP asal China - ANTARA News Sulteng",
       "entity": "Kementerian Perdagangan",
@@ -143,6 +157,13 @@
       "link": "https://www.vibizmedia.com/index.php/2026/08/18/harga-emas-kembali-naik-hpe-tembus-us131-777-per-kilogram/"
     },
     {
+      "title": "Solidaritas HUT Ke-81 RI, Mendag Busan Serahkan Bantuan Kemendag Peduli untuk Korban Gempa NTT - Kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:21:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/08/18/10210091/solidaritas-hut-ke-81-ri-mendag-busan-serahkan-bantuan-kemendag-peduli-untuk"
+    },
+    {
       "title": "HUT RI ke-81, Kemendag Peduli Salurkan Rp 250 Juta untuk Korban Gempa NTT - Tempo.co",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 03:01:00 GMT",
       "link": "https://money.kompas.com/read/2026/08/18/100100026/shopee-hadirkan-pengelolaan-program-promosi-kemendag--layak-direplikasi"
-    },
-    {
-      "title": "4 Pasar Rusak Terdampak Gempa di NTT, Mendag Pastikan Pasokan Tetap Aman - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 02:25:09 GMT",
-      "link": "https://indoposco.id/2026/08/18/4-pasar-rusak-terdampak-gempa-di-ntt-mendag-pastikan-pasokan-tetap-aman/"
-    },
-    {
-      "title": "Harga Patokan Ekspor Emas Naik Gegara Ini - VIVA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 02:24:25 GMT",
-      "link": "https://www.viva.co.id/bisnis/1922195-harga-patokan-ekspor-emas-naik-gegara-ini"
-    },
-    {
-      "title": "Permintaan Global Naik, Harga Patokan Ekspor Emas Ikut Menguat - Suara Surabaya",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 02:20:00 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/permintaan-global-naik-harga-patokan-ekspor-emas-ikut-menguat/"
     }
   ]
 }
