@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T02:52:43.552040",
+  "generated_at": "2026-08-18T03:41:32.663529",
   "party_counts_7d": {
-    "Gerindra": 43,
+    "Gerindra": 41,
     "PDI-P": 42,
     "Golkar": 9,
     "NasDem": 5,
@@ -12,7 +12,7 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 65,
     "PDI-P": 71,
     "Golkar": 44,
     "NasDem": 28,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 75,
-    "umkm": 19,
+    "umkm": 20,
     "danantara": 41,
-    "koperasi": 35,
+    "koperasi": 36,
     "investasi": 21,
-    "ekspor": 12,
+    "ekspor": 9,
     "kartel-monopoli": 7,
     "perdagangan": 2,
     "ipo": 2
@@ -50,7 +50,7 @@
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 13,
+    "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 3,
     "Darmadi Durianto": 20,
@@ -85,13 +85,55 @@
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 13,
-    "Koperasi/UMKM": 55,
+    "Hukum/Audit": 14,
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 13,
-    "Perdagangan": 29,
+    "Perdagangan": 27,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Dukung UMKM, Kemendag Puji Shopee yang Terapkan Transparansi Biaya - cnbcindonesia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/tech/20260818074353-37-760145/dukung-umkm-kemendag-puji-shopee-yang-terapkan-transparansi-biaya"
+    },
+    {
+      "title": "Harga Emas Kembali Naik, HPE Tembus US$131.777 per Kilogram - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:22:48 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/18/harga-emas-kembali-naik-hpe-tembus-us131-777-per-kilogram/"
+    },
+    {
+      "title": "Rayakan HUT RI ke-81, Rieke Dukung Prabowo Bongkar Dugaan Korupsi Koperasi Desa Merah Putih - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 18 Aug 2026 03:10:32 GMT",
+      "link": "https://aktual.com/rayakan-hut-ri-ke-81-rieke-dukung-prabowo-bongkar-dugaan-korupsi-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "Kemenkop Gelar Koperasi Awards 2026 Apresiasi Penggerak Ekonomi - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:09:16 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-gelar-koperasi-awards-2026-apresiasi-penggerak-ekonomi-1787022556"
+    },
+    {
+      "title": "Shopee Hadirkan Pengelolaan Program Promosi, Kemendag: Layak Direplikasi - Kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 03:01:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/18/100100026/shopee-hadirkan-pengelolaan-program-promosi-kemendag--layak-direplikasi"
+    },
+    {
+      "title": "4 Pasar Rusak Terdampak Gempa di NTT, Mendag Pastikan Pasokan Tetap Aman - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 02:25:09 GMT",
+      "link": "https://indoposco.id/2026/08/18/4-pasar-rusak-terdampak-gempa-di-ntt-mendag-pastikan-pasokan-tetap-aman/"
+    },
     {
       "title": "Harga Patokan Ekspor Emas Naik Gegara Ini - VIVA.co.id",
       "entity": "Kementerian Perdagangan",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 17 Aug 2026 13:57:49 GMT",
       "link": "http://www.agrofarm.co.id/2026/08/dorong-hilirisasi-sawit-berbasis-koperasi-menkop-resmikan-pabrik-cpo-kud-sejahtera-di-musi-banyuasin/"
-    },
-    {
-      "title": "Nasim Khan: Transformasi BUMN Harus Membuat Rakyat Sejahtera - Jakartanews.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Mon, 17 Aug 2026 13:02:09 GMT",
-      "link": "https://www.jakartanews.id/2026/08/17/nasim-khan-transformasi-bumn-harus-membuat-rakyat-sejahtera/?amp=1"
-    },
-    {
-      "title": "Nasim Khan: Transformasi BUMN Harus Membuat Rakyat Sejahtera - Jakartanews.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Mon, 17 Aug 2026 13:02:09 GMT",
-      "link": "https://www.jakartanews.id/2026/08/17/nasim-khan-transformasi-bumn-harus-membuat-rakyat-sejahtera/"
-    },
-    {
-      "title": "Menkop: Pemerintah hadir untuk memerdekakan masyarakat secara ekonomi - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 12:50:59 GMT",
-      "link": "https://jogja.antaranews.com/berita/848504/menkop-pemerintah-hadir-untuk-memerdekakan-masyarakat-secara-ekonomi"
-    },
-    {
-      "title": "Pesan Menkop Ferry di HUT RI ke-81: Pemerintah Prabowo Siap “Memerdekakan” Ekonomi Rakyat - DelikAsia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 12:11:00 GMT",
-      "link": "https://www.delikasia.com/headline-news/pesan-menkop-ferry-di-hut-ri-ke-81-pemerintah-prabowo-siap-memerdekakan-ekonomi-rakyat"
-    },
-    {
-      "title": "Menkop: Pemerintah hadir untuk memerdekakan masyarakat secara ekonomi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 12:01:13 GMT",
-      "link": "https://www.antaranews.com/berita/5698616/menkop-pemerintah-hadir-untuk-memerdekakan-masyarakat-secara-ekonomi"
-    },
-    {
-      "title": "Menkop Ferry tegaskan kemerdekaan ekonomi jadi fokus koperasi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 17 Aug 2026 12:00:46 GMT",
-      "link": "https://elshinta.com/kategori/1/politik/menkop-ferry-tegaskan-kemerdekaan-ekonomi-jadi-fokus-koperasi-173855"
     }
   ]
 }
