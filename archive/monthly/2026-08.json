@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T01:04:36.125223",
+  "generated_at": "2026-08-19T02:54:40.634328",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
-    "Golkar": 11,
+    "Golkar": 12,
     "NasDem": 5,
     "PKB": 11,
-    "PKS": 4,
+    "PKS": 3,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 71,
-    "Golkar": 44,
+    "Golkar": 45,
     "NasDem": 28,
     "PKB": 34,
     "PKS": 39,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "danantara": 49,
-    "bumn": 79,
+    "bumn": 78,
     "dividen": 2,
     "umkm": 21,
     "koperasi": 38,
@@ -60,7 +60,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 11,
+    "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 7,
@@ -94,6 +94,20 @@
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Gde Sumarjaya Linggih Dipercaya Menjadi Sekretaris Fraksi Golkar DPR RI - atnews.id",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 01:17:01 GMT",
+      "link": "https://atnews.id/portal/news/33247/gde-sumarjaya-linggih-dipercaya-menjadi-sekretaris-fraksi-golkar-dpr-ri"
+    },
+    {
+      "title": "Kementerian Koperasi Gelar Koperasi Awards 2026 Apresiasi Tokoh Ekonomi Kerakyatan - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 01:16:42 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-koperasi-gelar-awards-2026"
+    },
     {
       "title": "Danantara Prioritaskan Penyehatan Fundamental BUMN Karya dan Risiko Delisting - pdiperjuanganbali.id",
       "entity": "Badan Pengaturan BUMN",
@@ -151,6 +165,13 @@
       "link": "https://money.kompas.com/read/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara"
     },
     {
+      "title": "Danantara Bicara soal Potensi Delisting Saham Waskita Karya (WSKT) - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 18 Aug 2026 21:24:04 GMT",
+      "link": "https://rctiplus.com/news/detail/ekonomi/5454495/danantara-bicara-soal-potensi-delisting-saham-waskita-karya-wskt?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454495"
+    },
+    {
       "title": "Danantara Tegaskan Penyaluran Kredit Kopdes oleh Himbara Dijamin Penuh Kemenkeu - RCTI+",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -177,27 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 18 Aug 2026 14:47:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-dpr-danantara-berjuang-agar-pt-pos-indonesia-kembali-bangkit-280lrUJ1d94"
-    },
-    {
-      "title": "Purbaya Ungkap Danantara Siapkan Dividen BUMN untuk Cadangan APBN - Bloomberg Technoz",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 13:32:10 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/118761/purbaya-ungkap-danantara-siapkan-dividen-bumn-untuk-cadangan-apbn"
-    },
-    {
-      "title": "UMKM Binaan IPB University Ekspor Pinang ke Bangladesh dan Maladewa Senilai Rp2,2 Miliar - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 13:30:00 GMT",
-      "link": "https://swa.co.id/read/476197/umkm-binaan-ipb-university-ekspor-pinang-ke-bangladesh-dan-maladewa-senilai-rp22-miliar"
-    },
-    {
-      "title": "Sarmuji : Dua Pedoman Fraksi Golkar, Sukseskan Program Prabowo dan Kawal Aspirasi Rakyat - VOI.ID",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 13:21:31 GMT",
-      "link": "https://voi.id/amp/590196/sarmuji-dua-pedoman-fraksi-golkar-sukseskan-program-prabowo-dan-kawal-aspirasi-rakyat"
     }
   ]
 }
