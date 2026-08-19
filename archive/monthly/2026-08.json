@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T04:33:50.339539",
+  "generated_at": "2026-08-19T05:26:37.971033",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 48,
+    "danantara": 47,
     "bumn": 79,
     "dividen": 2,
     "umkm": 21,
@@ -94,6 +94,20 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menteri PKP: Tim koordinasi untuk petakan aset negara bagi perumahan - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 05:03:55 GMT",
+      "link": "https://www.antaranews.com/berita/5701032/menteri-pkp-tim-koordinasi-untuk-petakan-aset-negara-bagi-perumahan"
+    },
+    {
+      "title": "BP BUMN Targetkan Laba Dahana Capai Rp 2 T hingga 2030 - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 05:02:19 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-targetkan-laba-dahana-capai-rp-2-t-hingga-2030/"
+    },
     {
       "title": "Peningkatan Permintaan Emas Picu Kenaikan HPE dan HR Emas Periode II Agustus 2026 - topbusiness.id",
       "entity": "Kementerian Perdagangan",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 00:34:18 GMT",
       "link": "https://achmadnurhidayat.id/danantara-restrukturisasi-beban-utang-bumn-karya"
-    },
-    {
-      "title": "Persoalan Pelik BUMN Karya: Utangnya Besar-besar! - detikFinance",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 00:25:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8624710/persoalan-pelik-bumn-karya-utangnya-besar-besar"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 00:24:52 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260819/Mjc0NDQ0"
     }
   ]
 }
