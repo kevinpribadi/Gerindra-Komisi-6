@@ -144,6 +144,13 @@
         ],
         "Kementerian Perdagangan": [
             {
+                "title": "Business Matching Kemendag Bukukan Rp5,95 Triliun, Libatkan 1.021 UMKM - SWA.co.id",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmtoUGoxTDFmaFRXVnV5ZlR0Z045UlI5MWlFT2NESi1fMExlU1hxSmhtTkJvRFJjcWRqZGtWWk1rNEpqcFJrXzlmVlNsbkppVFZZVXJmd25SX0I3em5YeDVxSHRaVF91TmFoN1RLb29aeGFaY0pIWDkzMUZHTGYxQnNUeTdmbnRuVzdaYk1Wa2VxZ1RjR09oMm9sQWRvdw?oc=5",
+                "link_resolved": "https://swa.co.id/read/476250/business-matching-kemendag-bukukan-rp595-triliun-libatkan-1021-umkm",
+                "published": "Wed, 19 Aug 2026 23:00:00 GMT",
+                "fetched_at": "2026-08-19T23:19:44.579224"
+            },
+            {
                 "title": "Shopee dan Kemendag Perkuat Daya Saing Produk Dalam Negeri lewat Enam Cara Ini - RCTI+",
                 "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdDJzeTBUY09NcXRZanRKcHNOUWpJbEU0NVBFTGpmbXFfMjk4c2I0T01sSU80ekZnVXhPT3U3R3VHb2NWcG9JZjRRTHhUWkVieEFkalRBdDUzMWNVMXRoRDBIU0dRTGx3LXVIN2t5RGpCaS1mM0ZYYjRUVzhlWWlIRTdUcGhvbFRxaFA1QlB3alhpb3RqUDJwamZCRjNhb3pVR3R3cFNGcWhiZ2piM1NzZ2xWbkk2WlZMWUY5NUdMckhBUmdBamNtZTd0aHhvaGlPa0pUbHItaTdIcmhCRDdsN2pveXdQYTNWcmlaN3hrVGViWWdoWGFPaWo0SWEtQ0NZb1dSWjlIdzlMdU0yWkJEMzZiUHZ6NFRxYW9CSW1HQ21pdWp0VVBoaVJkVQ?oc=5",
                 "link_resolved": "https://rctiplus.com/news/detail/terkini/5455144/shopee-dan-kemendag-perkuat-daya-saing-produk-dalam-negeri-lewat-enam-cara-ini?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5455144",
@@ -275,13 +282,6 @@
                 "link_resolved": "https://sulteng.antaranews.com/berita/390225/kadi-inisiasi-penyelidikan-antidumping-produk-impor-sap-asal-china",
                 "published": "Tue, 18 Aug 2026 05:08:23 GMT",
                 "fetched_at": "2026-08-18T05:25:54.949717"
-            },
-            {
-                "title": "Permintaan Global Meningkat, Harga Patokan Ekspor Emas Terkerek - MetroTVNews.com",
-                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUc4RjJ5dFYyS1ZqckdjVVQyRGJLM25VTnFLNU9UeU5uRk1FNUlyUWJPRG1oVDc1M1V5SHBZemxITU1MOFFYYUs1TmNDX3BBSWU2WEV5dFA0WVduOVgwa1dWMU9lUXNCb3Eyb3R3clNmR1M3alJjcXpTUTVqWE5sdzRIZDlBUUhwRnpyaDZkNlp6cGtSUi1SS3JRN2EycndRYk1kMmRxbw?oc=5",
-                "link_resolved": "https://www.metrotvnews.com/read/b3JC5zBj-permintaan-global-meningkat-harga-patokan-ekspor-emas-terkerek",
-                "published": "Tue, 18 Aug 2026 04:15:14 GMT",
-                "fetched_at": "2026-08-18T04:32:48.045644"
             }
         ],
         "Kementerian Koperasi": [
@@ -3789,20 +3789,20 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17839,
+        "value": 17768,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-19T22:21:17.252718",
+        "fetched_at": "2026-08-19T23:19:43.377194",
         "prev_close": 17824,
-        "change_pct": 0.08
+        "change_pct": -0.31
     },
     "ihsg": {
         "value": 6449.83,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-19T22:21:17.252718",
+        "fetched_at": "2026-08-19T23:19:43.377194",
         "prev_close": 6401.89,
         "change_pct": 0.75
     },
@@ -3812,7 +3812,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3080,
             "change_pct": 0.0
@@ -3822,7 +3822,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Bank Mandiri",
             "prev_close": 4150,
             "change_pct": -0.24
@@ -3832,7 +3832,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Bank Negara Indonesia",
             "prev_close": 3590,
             "change_pct": -0.84
@@ -3842,7 +3842,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Bank Tabungan Negara",
             "prev_close": 1215,
             "change_pct": -1.23
@@ -3852,7 +3852,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Telkom Indonesia",
             "prev_close": 2600,
             "change_pct": 0.0
@@ -3862,7 +3862,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Semen Indonesia",
             "prev_close": 1550,
             "change_pct": -1.61
@@ -3872,7 +3872,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Aneka Tambang",
             "prev_close": 3100,
             "change_pct": -2.26
@@ -3882,7 +3882,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1515,
             "change_pct": -0.66
@@ -3892,7 +3892,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Bukit Asam",
             "prev_close": 2370,
             "change_pct": 0.0
@@ -3902,7 +3902,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-19T22:21:17.252718",
+            "fetched_at": "2026-08-19T23:19:43.377194",
             "name": "Jasa Marga",
             "prev_close": 2760,
             "change_pct": 0.36
@@ -3914,5 +3914,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-19T22:21:17.252718"
+    "last_updated": "2026-08-19T23:19:43.377194"
 }

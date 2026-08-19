@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T22:21:17.252718",
+  "generated_at": "2026-08-19T23:19:43.377194",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 35,
@@ -37,11 +37,11 @@
     "danantara": 48,
     "bumn": 84,
     "dividen": 2,
-    "umkm": 19,
+    "umkm": 20,
     "koperasi": 41,
     "investasi": 20,
     "perdagangan": 3,
-    "ekspor": 8,
+    "ekspor": 7,
     "impor": 1,
     "ipo": 2,
     "kartel-monopoli": 6
@@ -88,12 +88,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
+    "Perdagangan": 27,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Business Matching Kemendag Bukukan Rp5,95 Triliun, Libatkan 1.021 UMKM - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 23:00:00 GMT",
+      "link": "https://swa.co.id/read/476250/business-matching-kemendag-bukukan-rp595-triliun-libatkan-1021-umkm"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 13:37:17 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-terbitkan-aturan-baru-ekspor"
-    },
-    {
-      "title": "Andre Rosiade: Groundbreaking Stadion GHAS Paling Lambat Pertengahan September 2026 - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 13:07:36 GMT",
-      "link": "https://news.detik.com/berita/d-8626140/andre-rosiade-groundbreaking-stadion-ghas-paling-lambat-pertengahan-september-2026"
     }
   ]
 }
