@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T06:38:35.013728",
+  "generated_at": "2026-08-19T07:35:31.515517",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
     "Golkar": 12,
     "NasDem": 5,
-    "PKB": 11,
-    "PKS": 3,
+    "PKB": 12,
+    "PKS": 2,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
-    "PDI-P": 71,
+    "PDI-P": 70,
     "Golkar": 46,
     "NasDem": 28,
-    "PKB": 34,
+    "PKB": 35,
     "PKS": 37,
     "PAN": 22,
     "Demokrat": 27
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "danantara": 48,
-    "bumn": 79,
+    "bumn": 81,
     "dividen": 2,
-    "umkm": 21,
+    "umkm": 20,
     "koperasi": 37,
-    "investasi": 15,
+    "investasi": 16,
     "ekspor": 8,
     "impor": 1,
     "ipo": 2,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 1,
-    "Mufti Anam": 3,
+    "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
@@ -72,7 +72,7 @@
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 4,
-    "Anggia Erma Rini": 10,
+    "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -88,18 +88,60 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 15,
-    "Koperasi/UMKM": 60,
-    "Kinerja BUMN": 13,
-    "Perdagangan": 27,
+    "Koperasi/UMKM": 59,
+    "Kinerja BUMN": 14,
+    "Perdagangan": 29,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Anggia: Jangan Sampai Indonesia Jadi Produsen Besar tapi Tak Bisa Tentukan Harga Komoditas - sudut kota",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 07:23:55 GMT",
+      "link": "https://sudutkota.id/anggia-jangan-sampai-indonesia-jadi-produsen-besar-tapi-tak-bisa-tentukan-harga-komoditas/"
+    },
+    {
+      "title": "Badan Pengaturan BUMN Targetkan Penghematan Lebih Rp70 Triliun - achmadnurhidayat.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 07:19:21 GMT",
+      "link": "https://achmadnurhidayat.id/badan-pengaturan-bumn-targetkan-penghematan-70-triliun"
+    },
+    {
+      "title": "Utang BUMN Karya Ratusan Triliun Hambat Restrukturisasi - Listrik Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 07:14:52 GMT",
+      "link": "https://listrikindonesia.com/detail/20954/utang-ratusan-triliun-hambat-restrukturisasi-bumn-karya"
+    },
+    {
+      "title": "Pemerintah Bentuk Tim Koordinasi Pemanfaatan Aset Negara untuk Perumahan - MOST 1058",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 06:58:33 GMT",
+      "link": "https://most1058fm.com/2026/08/pemerintah-bentuk-tim-koordinasi-pemanfaatan-aset-negara-untuk-perumahan/"
+    },
+    {
+      "title": "Danantara Siapkan Perampingan BUMN, Penghematan Diproyeksi Puluhan Triliun - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 06:52:40 GMT",
+      "link": "https://investor.id/business/450875/danantara-siapkan-perampingan-bumn-penghematan-diproyeksi-puluhan-triliun"
+    },
     {
       "title": "Golkar Rombak Struktur Fraksi DPR, Sarmuji Akui Tak Mudah - Berita Borneo",
       "entity": "Muhammad Sarmuji",
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 05:49:18 GMT",
       "link": "https://beritaborneo.com/main/golkar-rombak-struktur-fraksi-dpr-sarmuji-akui-tak-mudah/"
+    },
+    {
+      "title": "Andre Rosiade: Datangkan Adhi Karya, Komisi VI DPR-Danantara Kawal soal LRT City - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 05:47:18 GMT",
+      "link": "https://news.detik.com/berita/d-8625241/andre-rosiade-datangkan-adhi-karya-komisi-vi-dpr-danantara-kawal-soal-lrt-city/amp"
     },
     {
       "title": "Andre Rosiade: Datangkan Adhi Karya, Komisi VI DPR-Danantara Kawal soal LRT City - news.detik.com",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 03:07:16 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-minta-platform-digital-contoh-transparansi-biaya-shopee"
-    },
-    {
-      "title": "Uji Permendag Baru, Kemendag Dorong Platform Lain Terapkan Transparansi - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 03:00:48 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8624276/uji-permendag-baru-kemendag-dorong-platform-lain-terapkan-transparansi"
-    },
-    {
-      "title": "Pemerintah Bentuk Tim Koordinasi Khusus untuk Pemanfaatan Aset Negara Jadi Hunian MBR - Beritakota",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 02:38:00 GMT",
-      "link": "https://beritakota.id/pemerintah-bentuk-tim-koordinasi-khusus-untuk-pemanfaatan-aset-negara-jadi-hunian-mbr/"
-    },
-    {
-      "title": "Foto : Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara Halaman 1 - money.kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 01:57:16 GMT",
-      "link": "https://money.kompas.com/image/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara?page=1"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih Dipercaya Menjadi Sekretaris Fraksi Golkar DPR RI - atnews.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 01:17:01 GMT",
-      "link": "https://atnews.id/portal/news/33247/gde-sumarjaya-linggih-dipercaya-menjadi-sekretaris-fraksi-golkar-dpr-ri"
-    },
-    {
-      "title": "Kementerian Koperasi Gelar Koperasi Awards 2026 Apresiasi Tokoh Ekonomi Kerakyatan - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 01:16:42 GMT",
-      "link": "https://achmadnurhidayat.id/kementerian-koperasi-gelar-awards-2026"
-    },
-    {
-      "title": "Platform Niaga Elektronik Sinergikan Visibilitas Produk Lokal - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 01:03:29 GMT",
-      "link": "https://www.niaga.asia/platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal/"
     }
   ]
 }
