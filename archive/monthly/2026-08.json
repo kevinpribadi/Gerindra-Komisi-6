@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T03:43:34.640876",
+  "generated_at": "2026-08-19T04:33:50.339539",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
-    "Golkar": 12,
+    "Golkar": 11,
     "NasDem": 5,
     "PKB": 11,
     "PKS": 3,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 49,
-    "bumn": 78,
+    "danantara": 48,
+    "bumn": 79,
     "dividen": 2,
     "umkm": 21,
     "koperasi": 37,
     "investasi": 15,
-    "ekspor": 9,
+    "ekspor": 8,
     "impor": 1,
     "ipo": 2,
     "kartel-monopoli": 7,
@@ -90,10 +90,24 @@
     "Hukum/Audit": 15,
     "Koperasi/UMKM": 60,
     "Kinerja BUMN": 13,
-    "Perdagangan": 28,
-    "Konflik Publik": 3
+    "Perdagangan": 27,
+    "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Peningkatan Permintaan Emas Picu Kenaikan HPE dan HR Emas Periode II Agustus 2026 - topbusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 04:19:00 GMT",
+      "link": "https://www.topbusiness.id/134486/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026.html"
+    },
+    {
+      "title": "Busan Serahkan Bantuan Kemendag Peduli untuk Korban Gempa NTT - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 04:15:36 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260819110513-97-1393888/busan-serahkan-bantuan-kemendag-peduli-untuk-korban-gempa-ntt"
+    },
     {
       "title": "Semangat Kemerdekaan, Kemendag Dorong Produk Lokal Indonesia Tembus Pasar Global - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
@@ -123,6 +137,20 @@
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8624276/uji-permendag-baru-kemendag-dorong-platform-lain-terapkan-transparansi"
     },
     {
+      "title": "Pemerintah Bentuk Tim Koordinasi Khusus untuk Pemanfaatan Aset Negara Jadi Hunian MBR - Beritakota",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 02:38:00 GMT",
+      "link": "https://beritakota.id/pemerintah-bentuk-tim-koordinasi-khusus-untuk-pemanfaatan-aset-negara-jadi-hunian-mbr/"
+    },
+    {
+      "title": "Foto : Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara Halaman 1 - money.kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 01:57:16 GMT",
+      "link": "https://money.kompas.com/image/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara?page=1"
+    },
+    {
       "title": "Gde Sumarjaya Linggih Dipercaya Menjadi Sekretaris Fraksi Golkar DPR RI - atnews.id",
       "entity": "Gde Sumarjaya Linggih",
       "kind": "anggota",
@@ -135,6 +163,13 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 01:16:42 GMT",
       "link": "https://achmadnurhidayat.id/kementerian-koperasi-gelar-awards-2026"
+    },
+    {
+      "title": "Platform Niaga Elektronik Sinergikan Visibilitas Produk Lokal - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 01:03:29 GMT",
+      "link": "https://www.niaga.asia/platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal/"
     },
     {
       "title": "Danantara Prioritaskan Penyehatan Fundamental BUMN Karya dan Risiko Delisting - pdiperjuanganbali.id",
@@ -163,41 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 00:24:52 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260819/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 00:02:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260819/MTEyNg%3D%3D"
-    },
-    {
-      "title": "HPE dan HR Emas Periode II Agustus 2026 USD 131.777,67 per Kilogram - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 23:08:40 GMT",
-      "link": "https://www.niaga.asia/hpe-dan-hr-emas-periode-ii-agustus-2026-usd-131-77767-per-kilogram/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dukung Presiden Prabowo Usut Tuntas Dugaan Korupsi Koperasi Desa Merah Putih - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 22:18:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dukung-presiden-prabowo-usut-tuntas-dugaan-korupsi-koperasi-desa-merah-putih-b2pY8Zbht6"
-    },
-    {
-      "title": "Saham Dua BUMN Karya Terancam Delisting, Ini Respons Danantara - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 22:06:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/19/050600926/saham-dua-bumn-karya-terancam-delisting-ini-respons-danantara"
-    },
-    {
-      "title": "Danantara Bicara soal Potensi Delisting Saham Waskita Karya (WSKT) - RCTI+",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 21:24:04 GMT",
-      "link": "https://rctiplus.com/news/detail/ekonomi/5454495/danantara-bicara-soal-potensi-delisting-saham-waskita-karya-wskt?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454495"
     }
   ]
 }
