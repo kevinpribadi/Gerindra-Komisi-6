@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T07:35:31.515517",
+  "generated_at": "2026-08-19T08:33:55.210285",
   "party_counts_7d": {
     "Gerindra": 32,
-    "PDI-P": 38,
+    "PDI-P": 37,
     "Golkar": 12,
     "NasDem": 5,
     "PKB": 12,
-    "PKS": 2,
+    "PKS": 1,
     "PAN": 2,
     "Demokrat": 3
   },
@@ -38,7 +38,7 @@
     "bumn": 81,
     "dividen": 2,
     "umkm": 20,
-    "koperasi": 37,
+    "koperasi": 38,
     "investasi": 16,
     "ekspor": 8,
     "impor": 1,
@@ -88,7 +88,7 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 15,
-    "Koperasi/UMKM": 59,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 14,
     "Perdagangan": 29,
     "Konflik Publik": 2
@@ -128,6 +128,13 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 06:52:40 GMT",
       "link": "https://investor.id/business/450875/danantara-siapkan-perampingan-bumn-penghematan-diproyeksi-puluhan-triliun"
+    },
+    {
+      "title": "Wamenkop Ajak Wisudawan IPB Berkarya Melalui Semangat Koperasi - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 06:47:40 GMT",
+      "link": "https://indoposco.id/2026/08/19/wamenkop-ajak-wisudawan-ipb-berkarya-melalui-semangat-koperasi/"
     },
     {
       "title": "Golkar Rombak Struktur Fraksi DPR, Sarmuji Akui Tak Mudah - Berita Borneo",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 03:11:37 GMT",
       "link": "https://suarapemerintah.id/2026/08/hut-ke-81-ri-kemenkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-bagi-masyarakat/"
-    },
-    {
-      "title": "Kemendag Minta Platform Digital Contoh Transparansi Biaya Shopee - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 03:07:16 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-minta-platform-digital-contoh-transparansi-biaya-shopee"
     }
   ]
 }
