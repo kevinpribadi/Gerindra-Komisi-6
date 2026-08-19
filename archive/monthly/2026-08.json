@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T02:54:40.634328",
+  "generated_at": "2026-08-19T03:43:34.640876",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -17,7 +17,7 @@
     "Golkar": 45,
     "NasDem": 28,
     "PKB": 34,
-    "PKS": 39,
+    "PKS": 37,
     "PAN": 22,
     "Demokrat": 27
   },
@@ -38,9 +38,9 @@
     "bumn": 78,
     "dividen": 2,
     "umkm": 21,
-    "koperasi": 38,
-    "investasi": 16,
-    "ekspor": 10,
+    "koperasi": 37,
+    "investasi": 15,
+    "ekspor": 9,
     "impor": 1,
     "ipo": 2,
     "kartel-monopoli": 7,
@@ -77,7 +77,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 14,
-    "Rizal Bawazier": 5,
+    "Rizal Bawazier": 3,
     "Ghufran": 2,
     "Ismail": 18,
     "Eko Patrio": 2,
@@ -88,12 +88,40 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 15,
-    "Koperasi/UMKM": 61,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 13,
-    "Perdagangan": 30,
+    "Perdagangan": 28,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Semangat Kemerdekaan, Kemendag Dorong Produk Lokal Indonesia Tembus Pasar Global - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 03:23:55 GMT",
+      "link": "https://suarapemerintah.id/2026/08/semangat-kemerdekaan-kemendag-dorong-produk-lokal-indonesia-tembus-pasar-global/"
+    },
+    {
+      "title": "HUT ke-81 RI, Kemenkop Tegaskan Komitmen Wujudkan Kemerdekaan Ekonomi bagi Masyarakat - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 03:11:37 GMT",
+      "link": "https://suarapemerintah.id/2026/08/hut-ke-81-ri-kemenkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-bagi-masyarakat/"
+    },
+    {
+      "title": "Kemendag Minta Platform Digital Contoh Transparansi Biaya Shopee - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 03:07:16 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-minta-platform-digital-contoh-transparansi-biaya-shopee"
+    },
+    {
+      "title": "Uji Permendag Baru, Kemendag Dorong Platform Lain Terapkan Transparansi - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 03:00:48 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8624276/uji-permendag-baru-kemendag-dorong-platform-lain-terapkan-transparansi"
+    },
     {
       "title": "Gde Sumarjaya Linggih Dipercaya Menjadi Sekretaris Fraksi Golkar DPR RI - atnews.id",
       "entity": "Gde Sumarjaya Linggih",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Tue, 18 Aug 2026 21:24:04 GMT",
       "link": "https://rctiplus.com/news/detail/ekonomi/5454495/danantara-bicara-soal-potensi-delisting-saham-waskita-karya-wskt?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454495"
-    },
-    {
-      "title": "Danantara Tegaskan Penyaluran Kredit Kopdes oleh Himbara Dijamin Penuh Kemenkeu - RCTI+",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 17:34:04 GMT",
-      "link": "https://m.rctiplus.com/news/detail/terkini/5454452/danantara-tegaskan-penyaluran-kredit-kopdes-oleh-himbara-dijamin-penuh-kemenkeu?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454452"
-    },
-    {
-      "title": "Presiden Prabowo Puas dengan Kinerja Danantara - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 14:56:06 GMT",
-      "link": "https://www.metrotvnews.com/play/NleC9dZA-presiden-prabowo-puas-dengan-kinerja-danantara"
-    },
-    {
-      "title": "Andre Rosiade: Komisi VI DPR dan Danantara Komitmen Sehatkan Pos Indonesia - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 14:53:06 GMT",
-      "link": "https://news.detik.com/berita/d-8624631/andre-rosiade-komisi-vi-dpr-dan-danantara-komitmen-sehatkan-pos-indonesia"
-    },
-    {
-      "title": "Andre Rosiade: DPR-Danantara Berjuang Agar PT Pos Indonesia Kembali Bangkit - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 14:47:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-dpr-danantara-berjuang-agar-pt-pos-indonesia-kembali-bangkit-280lrUJ1d94"
     }
   ]
 }
