@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T08:33:55.210285",
+  "generated_at": "2026-08-19T09:30:48.410387",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 37,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 48,
-    "bumn": 81,
+    "danantara": 49,
+    "bumn": 82,
     "dividen": 2,
-    "umkm": 20,
+    "umkm": 21,
     "koperasi": 38,
-    "investasi": 16,
-    "ekspor": 8,
+    "investasi": 17,
+    "ekspor": 7,
     "impor": 1,
     "ipo": 2,
     "kartel-monopoli": 7,
@@ -88,12 +88,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 15,
-    "Koperasi/UMKM": 60,
-    "Kinerja BUMN": 14,
-    "Perdagangan": 29,
+    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 28,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kapolda Banten Pimpin RAT Primkop Gakuba, Tekankan Koperasi Harus Tingkatkan Kesejahteraan Anggota - Media POLRI",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 09:02:29 GMT",
+      "link": "https://mediapolri.id/kapolda-banten-pimpin-rat-primkop-gakuba-tekankan-koperasi-harus-tingkatkan-kesejahteraan-anggota.html"
+    },
+    {
+      "title": "Danantara Indonesia Targetkan Keuntungan Konsolidasi BUMN Rp 360 Triliun pada 2026 - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 08:59:53 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-indonesia-targetkan-keuntungan-bumn"
+    },
+    {
+      "title": "Kemendag catat penjajakan bisnis UMKM capai Rp5 triliun - antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 08:56:11 GMT",
+      "link": "https://www.antaranews.com/berita/5701568/kemendag-catat-penjajakan-bisnis-umkm-capai-rp5-triliun"
+    },
+    {
+      "title": "Penyaluran Kemendag Peduli untuk Bencana NTT - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 08:54:10 GMT",
+      "link": "https://www.hetanews.com/article/310235/penyaluran-kemendag-peduli-untuk-bencana-ntt"
+    },
+    {
+      "title": "Transformasi BUMN, Bos Danantara Bidik Laba Konsolidasi Rp 360 Triliun - BeritaSatu.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 08:36:22 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3020249/transformasi-bumn-bos-danantara-bidik-laba-konsolidasi-rp-360-triliun"
+    },
     {
       "title": "Anggia: Jangan Sampai Indonesia Jadi Produsen Besar tapi Tak Bisa Tentukan Harga Komoditas - sudut kota",
       "entity": "Anggia Erma Rini",
@@ -137,6 +172,13 @@
       "link": "https://indoposco.id/2026/08/19/wamenkop-ajak-wisudawan-ipb-berkarya-melalui-semangat-koperasi/"
     },
     {
+      "title": "Dony Oskaria Ungkap 2 Isu Besar BUMN dalam Forum Investor Daily - BeritaSatu.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 06:45:43 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3020221/dony-oskaria-ungkap-2-isu-besar-bumn-dalam-forum-investor-daily"
+    },
+    {
       "title": "Golkar Rombak Struktur Fraksi DPR, Sarmuji Akui Tak Mudah - Berita Borneo",
       "entity": "Muhammad Sarmuji",
       "kind": "anggota",
@@ -156,48 +198,6 @@
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 05:47:18 GMT",
       "link": "https://news.detik.com/berita/d-8625241/andre-rosiade-datangkan-adhi-karya-komisi-vi-dpr-danantara-kawal-soal-lrt-city"
-    },
-    {
-      "title": "Menteri PKP: Tim koordinasi untuk petakan aset negara bagi perumahan - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 05:03:55 GMT",
-      "link": "https://www.antaranews.com/berita/5701032/menteri-pkp-tim-koordinasi-untuk-petakan-aset-negara-bagi-perumahan"
-    },
-    {
-      "title": "BP BUMN Targetkan Laba Dahana Capai Rp 2 T hingga 2030 - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 05:02:19 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-targetkan-laba-dahana-capai-rp-2-t-hingga-2030/"
-    },
-    {
-      "title": "Peningkatan Permintaan Emas Picu Kenaikan HPE dan HR Emas Periode II Agustus 2026 - topbusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 04:19:00 GMT",
-      "link": "https://www.topbusiness.id/134486/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026.html"
-    },
-    {
-      "title": "Busan Serahkan Bantuan Kemendag Peduli untuk Korban Gempa NTT - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 04:15:36 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260819110513-97-1393888/busan-serahkan-bantuan-kemendag-peduli-untuk-korban-gempa-ntt"
-    },
-    {
-      "title": "Semangat Kemerdekaan, Kemendag Dorong Produk Lokal Indonesia Tembus Pasar Global - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 03:23:55 GMT",
-      "link": "https://suarapemerintah.id/2026/08/semangat-kemerdekaan-kemendag-dorong-produk-lokal-indonesia-tembus-pasar-global/"
-    },
-    {
-      "title": "HUT ke-81 RI, Kemenkop Tegaskan Komitmen Wujudkan Kemerdekaan Ekonomi bagi Masyarakat - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 03:11:37 GMT",
-      "link": "https://suarapemerintah.id/2026/08/hut-ke-81-ri-kemenkop-tegaskan-komitmen-wujudkan-kemerdekaan-ekonomi-bagi-masyarakat/"
     }
   ]
 }
