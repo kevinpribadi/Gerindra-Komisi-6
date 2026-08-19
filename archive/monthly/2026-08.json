@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T14:30:08.356909",
+  "generated_at": "2026-08-19T15:28:11.826278",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 37,
+    "PDI-P": 35,
     "Golkar": 13,
     "NasDem": 6,
     "PKB": 12,
@@ -19,7 +19,7 @@
     "PKB": 35,
     "PKS": 35,
     "PAN": 22,
-    "Demokrat": 24
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,9 +37,9 @@
     "danantara": 49,
     "bumn": 84,
     "dividen": 2,
-    "umkm": 18,
+    "umkm": 19,
     "koperasi": 40,
-    "investasi": 19,
+    "investasi": 20,
     "ekspor": 8,
     "impor": 1,
     "ipo": 2,
@@ -83,17 +83,45 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
-    "Herman Khaeron": 13,
+    "Herman Khaeron": 12,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 60,
+    "Koperasi/UMKM": 61,
     "Kinerja BUMN": 17,
-    "Perdagangan": 29,
+    "Perdagangan": 28,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Shopee dan Kemendag Perkuat Daya Saing Produk Dalam Negeri lewat Enam Cara Ini - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 15:20:05 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5455144/shopee-dan-kemendag-perkuat-daya-saing-produk-dalam-negeri-lewat-enam-cara-ini?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5455144"
+    },
+    {
+      "title": "Kemendag Fasilitasi Business Matching UMKM Senilai Rp 5,95 Triliun - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 14:37:19 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-fasilitasi-business-matching-umkm"
+    },
+    {
+      "title": "BPA pada Air Minum Dalam Kemasan Aman? Begini Tanggapan Ketua BPKN RI - mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 14:33:00 GMT",
+      "link": "https://www.mediakarya.id/bpa-pada-air-minum-dalam-kemasan-aman-begini-tanggapan-ketua-bpkn-ri/"
+    },
+    {
+      "title": "Kemendag Fasilitasi Business Matching UMKM Senilai Rp 5,95 Triliun - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 14:31:26 GMT",
+      "link": "https://investor.id/business/450935/kemendag-fasilitasi-business-matching-umkm-senilai-rp-595-triliun"
+    },
     {
       "title": "RDPU Dengan Korban KSP Mekarsari, Legislator Minta Kemenkop Lakukan Audit Forensik - merahputih.com",
       "entity": "Kementerian Koperasi",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 10:53:00 GMT",
       "link": "https://www.beritakoperasi.com/menkop-tegaskan-komitmen-pemerintah-wujudkan-kemerdekaan-ekonomi-bagi-masyarakat/"
-    },
-    {
-      "title": "Laba Semu, Arsitektur Baru, dan Ujian Tata Kelola BUMN - Media Indonesia",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 09:31:40 GMT",
-      "link": "https://mediaindonesia.com/opini/923573/laba-semu-arsitektur-baru-dan-ujian-tata-kelola-bumn"
-    },
-    {
-      "title": "Dony Oskaria Ungkap Penyebab Restrukturisasi BUMN Karya Belum Rampung - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 09:13:00 GMT",
-      "link": "https://voi.id/ekonomi/590334/dony-oskaria-ungkap-penyebab-restrukturisasi-bumn-karya-belum-rampung"
-    },
-    {
-      "title": "Kapolda Banten Pimpin RAT Primkop Gakuba, Tekankan Koperasi Harus Tingkatkan Kesejahteraan Anggota - Media POLRI",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 09:02:29 GMT",
-      "link": "https://mediapolri.id/kapolda-banten-pimpin-rat-primkop-gakuba-tekankan-koperasi-harus-tingkatkan-kesejahteraan-anggota.html"
-    },
-    {
-      "title": "Danantara Indonesia Targetkan Keuntungan Konsolidasi BUMN Rp 360 Triliun pada 2026 - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 08:59:53 GMT",
-      "link": "https://achmadnurhidayat.id/danantara-indonesia-targetkan-keuntungan-bumn"
     }
   ]
 }
