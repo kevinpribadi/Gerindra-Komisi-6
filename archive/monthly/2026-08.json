@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-18T23:19:11.942647",
+  "generated_at": "2026-08-19T01:04:36.125223",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 38,
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 47,
-    "bumn": 78,
+    "danantara": 49,
+    "bumn": 79,
     "dividen": 2,
     "umkm": 21,
     "koperasi": 38,
@@ -89,11 +89,46 @@
   "early_warning_counts": {
     "Hukum/Audit": 15,
     "Koperasi/UMKM": 61,
-    "Kinerja BUMN": 11,
+    "Kinerja BUMN": 13,
     "Perdagangan": 30,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Danantara Prioritaskan Penyehatan Fundamental BUMN Karya dan Risiko Delisting - pdiperjuanganbali.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 01:02:19 GMT",
+      "link": "https://www.pdiperjuanganbali.id/danantara-prioritaskan-penyehatan-bumn-karya"
+    },
+    {
+      "title": "Danantara Restrukturisasi Beban Utang BUMN Karya - achmadnurhidayat.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 00:34:18 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-restrukturisasi-beban-utang-bumn-karya"
+    },
+    {
+      "title": "Persoalan Pelik BUMN Karya: Utangnya Besar-besar! - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 00:25:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8624710/persoalan-pelik-bumn-karya-utangnya-besar-besar"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 00:24:52 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260819/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 00:02:28 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260819/MTEyNg%3D%3D"
+    },
     {
       "title": "HPE dan HR Emas Periode II Agustus 2026 USD 131.777,67 per Kilogram - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
@@ -163,41 +198,6 @@
       "kind": "anggota",
       "published": "Tue, 18 Aug 2026 13:21:31 GMT",
       "link": "https://voi.id/amp/590196/sarmuji-dua-pedoman-fraksi-golkar-sukseskan-program-prabowo-dan-kawal-aspirasi-rakyat"
-    },
-    {
-      "title": "Sarmuji : Dua Pedoman Fraksi Golkar, Sukseskan Program Prabowo dan Kawal Aspirasi Rakyat - VOI.ID",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 13:15:00 GMT",
-      "link": "https://voi.id/berita/590196/sarmuji-dua-pedoman-fraksi-golkar-sukseskan-program-prabowo-dan-kawal-aspirasi-rakyat"
-    },
-    {
-      "title": "Danantara Kelola Saham BEI, Ekonom Dorong Lebih Banyak BUMN IPO - Suara Surabaya",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 12:46:25 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/danantara-kelola-saham-bei-ekonom-dorong-lebih-banyak-bumn-ipo/"
-    },
-    {
-      "title": "Dividen BUMN Dikelola Danantara, PNBP 2027 Diproyeksi Turun 10% - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 12:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/118746/dividen-bumn-dikelola-danantara-pnbp-2027-diproyeksi-turun-10"
-    },
-    {
-      "title": "Ketua Komisi V DPRD Kota Padang Buya Iskandar Support Atlet Penyandang Disabilitas pada Pesonas II 2026 di Kupang - Mimbarsumbar.id",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Tue, 18 Aug 2026 12:31:32 GMT",
-      "link": "https://mimbarsumbar.id/ketua-komisi-v-dprd-kota-padang-buya-iskandar-support-atlet-penyandang-disabilitas-pada-pesonas-ii-2026-di-kupang/"
-    },
-    {
-      "title": "Danantara Ikut Rapat Perpres Ojol, Ini Hal yang Dibahas - RCTI+",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 18 Aug 2026 12:30:05 GMT",
-      "link": "https://rctiplus.com/news/detail/terkini/5454234/danantara-ikut-rapat-perpres-ojol-ini-hal-yang-dibahas?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5454234"
     }
   ]
 }
