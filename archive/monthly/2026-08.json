@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T10:25:03.955072",
+  "generated_at": "2026-08-19T11:21:38.533209",
   "party_counts_7d": {
     "Gerindra": 31,
     "PDI-P": 37,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 49,
-    "bumn": 83,
+    "danantara": 50,
+    "bumn": 84,
     "dividen": 2,
     "umkm": 21,
-    "koperasi": 38,
+    "koperasi": 40,
     "investasi": 17,
     "ekspor": 7,
     "impor": 1,
     "ipo": 2,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 6,
     "perdagangan": 2
   },
   "member_counts_30d": {
@@ -88,12 +88,33 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 15,
-    "Koperasi/UMKM": 61,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Wujudkan Tender Transparan, KPPU Kanwil II Edukasi BPBJ dan Inspektorat se-Provinsi Jambi - jambilink.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 11:18:01 GMT",
+      "link": "https://jambilink.id/post/9889/wujudkan-tender-transparan-kppu-kanwil-ii-edukasi-bpbj-dan-inspektorat-se-provinsi-jambi"
+    },
+    {
+      "title": "Siapa yang Bakal Bawa Pulang Penghargaan Koperasi Awards 2026? - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 11:00:29 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8625126/siapa-yang-bakal-bawa-pulang-penghargaan-koperasi-awards-2026"
+    },
+    {
+      "title": "Menkop Tegaskan Komitmen Pemerintah Wujudkan Kemerdekaan Ekonomi bagi Masyarakat - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 10:53:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-tegaskan-komitmen-pemerintah-wujudkan-kemerdekaan-ekonomi-bagi-masyarakat/"
+    },
     {
       "title": "Laba Semu, Arsitektur Baru, dan Ujian Tata Kelola BUMN - Media Indonesia",
       "entity": "Asep Wahyuwijaya",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 06:52:40 GMT",
       "link": "https://investor.id/business/450875/danantara-siapkan-perampingan-bumn-penghematan-diproyeksi-puluhan-triliun"
-    },
-    {
-      "title": "Wamenkop Ajak Wisudawan IPB Berkarya Melalui Semangat Koperasi - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 06:47:40 GMT",
-      "link": "https://indoposco.id/2026/08/19/wamenkop-ajak-wisudawan-ipb-berkarya-melalui-semangat-koperasi/"
-    },
-    {
-      "title": "Dony Oskaria Ungkap 2 Isu Besar BUMN dalam Forum Investor Daily - BeritaSatu.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 06:45:43 GMT",
-      "link": "https://www.beritasatu.com/ekonomi/3020221/dony-oskaria-ungkap-2-isu-besar-bumn-dalam-forum-investor-daily"
-    },
-    {
-      "title": "Golkar Rombak Struktur Fraksi DPR, Sarmuji Akui Tak Mudah - Berita Borneo",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 05:49:18 GMT",
-      "link": "https://beritaborneo.com/main/golkar-rombak-struktur-fraksi-dpr-sarmuji-akui-tak-mudah/"
     }
   ]
 }
