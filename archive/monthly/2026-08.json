@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T09:30:48.410387",
+  "generated_at": "2026-08-19T10:25:03.955072",
   "party_counts_7d": {
-    "Gerindra": 32,
+    "Gerindra": 31,
     "PDI-P": 37,
     "Golkar": 12,
-    "NasDem": 5,
+    "NasDem": 6,
     "PKB": 12,
     "PKS": 1,
     "PAN": 2,
@@ -14,10 +14,10 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 46,
-    "NasDem": 28,
+    "Golkar": 45,
+    "NasDem": 29,
     "PKB": 35,
-    "PKS": 37,
+    "PKS": 35,
     "PAN": 22,
     "Demokrat": 27
   },
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "danantara": 49,
-    "bumn": 82,
+    "bumn": 83,
     "dividen": 2,
     "umkm": 21,
     "koperasi": 38,
@@ -62,12 +62,12 @@
     "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 5,
+    "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 12,
     "Rachmat Gobel": 6,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
@@ -79,7 +79,7 @@
     "Amin Ak.": 14,
     "Rizal Bawazier": 3,
     "Ghufran": 2,
-    "Ismail": 18,
+    "Ismail": 16,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
@@ -89,11 +89,25 @@
   "early_warning_counts": {
     "Hukum/Audit": 15,
     "Koperasi/UMKM": 61,
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 17,
     "Perdagangan": 28,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Laba Semu, Arsitektur Baru, dan Ujian Tata Kelola BUMN - Media Indonesia",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 09:31:40 GMT",
+      "link": "https://mediaindonesia.com/opini/923573/laba-semu-arsitektur-baru-dan-ujian-tata-kelola-bumn"
+    },
+    {
+      "title": "Dony Oskaria Ungkap Penyebab Restrukturisasi BUMN Karya Belum Rampung - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 09:13:00 GMT",
+      "link": "https://voi.id/ekonomi/590334/dony-oskaria-ungkap-penyebab-restrukturisasi-bumn-karya-belum-rampung"
+    },
     {
       "title": "Kapolda Banten Pimpin RAT Primkop Gakuba, Tekankan Koperasi Harus Tingkatkan Kesejahteraan Anggota - Media POLRI",
       "entity": "Dekopin",
@@ -184,20 +198,6 @@
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 05:49:18 GMT",
       "link": "https://beritaborneo.com/main/golkar-rombak-struktur-fraksi-dpr-sarmuji-akui-tak-mudah/"
-    },
-    {
-      "title": "Andre Rosiade: Datangkan Adhi Karya, Komisi VI DPR-Danantara Kawal soal LRT City - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 05:47:18 GMT",
-      "link": "https://news.detik.com/berita/d-8625241/andre-rosiade-datangkan-adhi-karya-komisi-vi-dpr-danantara-kawal-soal-lrt-city/amp"
-    },
-    {
-      "title": "Andre Rosiade: Datangkan Adhi Karya, Komisi VI DPR-Danantara Kawal soal LRT City - news.detik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 05:47:18 GMT",
-      "link": "https://news.detik.com/berita/d-8625241/andre-rosiade-datangkan-adhi-karya-komisi-vi-dpr-danantara-kawal-soal-lrt-city"
     }
   ]
 }
