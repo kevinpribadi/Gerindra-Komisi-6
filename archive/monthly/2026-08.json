@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T13:41:06.416753",
+  "generated_at": "2026-08-19T14:30:08.356909",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 37,
-    "Golkar": 12,
+    "Golkar": 13,
     "NasDem": 6,
     "PKB": 12,
     "PKS": 1,
@@ -14,12 +14,12 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 45,
+    "Golkar": 46,
     "NasDem": 29,
     "PKB": 35,
     "PKS": 35,
     "PAN": 22,
-    "Demokrat": 27
+    "Demokrat": 24
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,10 +37,10 @@
     "danantara": 49,
     "bumn": 84,
     "dividen": 2,
-    "umkm": 21,
+    "umkm": 18,
     "koperasi": 40,
-    "investasi": 18,
-    "ekspor": 7,
+    "investasi": 19,
+    "ekspor": 8,
     "impor": 1,
     "ipo": 2,
     "kartel-monopoli": 6,
@@ -65,7 +65,7 @@
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 12,
+    "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 6,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
@@ -83,23 +83,65 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
-    "Herman Khaeron": 16,
+    "Herman Khaeron": 13,
     "Faujia Helga": 4
   },
   "early_warning_counts": {
-    "Hukum/Audit": 15,
-    "Koperasi/UMKM": 63,
+    "Hukum/Audit": 17,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "RDPU Dengan Korban KSP Mekarsari, Legislator Minta Kemenkop Lakukan Audit Forensik - merahputih.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 13:53:51 GMT",
+      "link": "https://www.merahputih.com/post/read/rdpu-dengan-korban-ksp-mekarsari-legislator-minta-kemenkop-lakukan-audit-forensik"
+    },
+    {
+      "title": "Kemenkeu: Danantara Development Management Fund Tidak Pakai APBN - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 13:51:00 GMT",
+      "link": "https://tirto.id/kemenkeu-danantara-development-management-fund-tidak-pakai-apbn-hBvC"
+    },
+    {
+      "title": "Kawendra Dorong Audit Forensik KSP Mekarsari, Minta Kemenkop Perkuat Pengawasan Koperasi - fraksi gerindra dpr-ri",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 13:45:27 GMT",
+      "link": "https://www.fraksigerindra.id/kawendra-dorong-audit-forensik-ksp-mekarsari-minta-kemenkop-perkuat-pengawasan-koperasi/"
+    },
+    {
+      "title": "Kawal Kasus LRT City, Andre Rosiade Pastikan Pemerintah Hadir Bereskan Masalah - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 13:41:34 GMT",
+      "link": "https://news.detik.com/berita/d-8626181/kawal-kasus-lrt-city-andre-rosiade-pastikan-pemerintah-hadir-bereskan-masalah"
+    },
+    {
+      "title": "Kemendag Terbitkan Aturan Baru Ekspor Beras Pisang Dan Nanas - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 13:37:17 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-terbitkan-aturan-baru-ekspor"
+    },
     {
       "title": "Andre Rosiade: Groundbreaking Stadion GHAS Paling Lambat Pertengahan September 2026 - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 13:07:36 GMT",
       "link": "https://news.detik.com/berita/d-8626140/andre-rosiade-groundbreaking-stadion-ghas-paling-lambat-pertengahan-september-2026"
+    },
+    {
+      "title": "Andre Rosiade: Groundbreaking Stadion GHAS Paling Lambat Pertengahan September - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 12:57:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-groundbreaking-stadion-ghas-paling-lambat-pertengahan-september-2818ZkfD2nL"
     },
     {
       "title": "Shopee Gandeng Kemendag Perkuat Daya Saing Produk Lokal - MetroTVNews.com",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 08:59:53 GMT",
       "link": "https://achmadnurhidayat.id/danantara-indonesia-targetkan-keuntungan-bumn"
-    },
-    {
-      "title": "Kemendag catat penjajakan bisnis UMKM capai Rp5 triliun - antaranews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 08:56:11 GMT",
-      "link": "https://www.antaranews.com/berita/5701568/kemendag-catat-penjajakan-bisnis-umkm-capai-rp5-triliun"
-    },
-    {
-      "title": "Penyaluran Kemendag Peduli untuk Bencana NTT - Heta News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 08:54:10 GMT",
-      "link": "https://www.hetanews.com/article/310235/penyaluran-kemendag-peduli-untuk-bencana-ntt"
-    },
-    {
-      "title": "Transformasi BUMN, Bos Danantara Bidik Laba Konsolidasi Rp 360 Triliun - BeritaSatu.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 08:36:22 GMT",
-      "link": "https://www.beritasatu.com/ekonomi/3020249/transformasi-bumn-bos-danantara-bidik-laba-konsolidasi-rp-360-triliun"
-    },
-    {
-      "title": "Anggia: Jangan Sampai Indonesia Jadi Produsen Besar tapi Tak Bisa Tentukan Harga Komoditas - sudut kota",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 07:23:55 GMT",
-      "link": "https://sudutkota.id/anggia-jangan-sampai-indonesia-jadi-produsen-besar-tapi-tak-bisa-tentukan-harga-komoditas/"
-    },
-    {
-      "title": "Badan Pengaturan BUMN Targetkan Penghematan Lebih Rp70 Triliun - achmadnurhidayat.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 07:19:21 GMT",
-      "link": "https://achmadnurhidayat.id/badan-pengaturan-bumn-targetkan-penghematan-70-triliun"
-    },
-    {
-      "title": "Utang BUMN Karya Ratusan Triliun Hambat Restrukturisasi - Listrik Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 07:14:52 GMT",
-      "link": "https://listrikindonesia.com/detail/20954/utang-ratusan-triliun-hambat-restrukturisasi-bumn-karya"
     }
   ]
 }
