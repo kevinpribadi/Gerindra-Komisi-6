@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T12:40:18.799357",
+  "generated_at": "2026-08-19T13:41:06.416753",
   "party_counts_7d": {
-    "Gerindra": 31,
+    "Gerindra": 29,
     "PDI-P": 37,
     "Golkar": 12,
     "NasDem": 6,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 50,
+    "danantara": 49,
     "bumn": 84,
     "dividen": 2,
     "umkm": 21,
@@ -94,6 +94,20 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade: Groundbreaking Stadion GHAS Paling Lambat Pertengahan September 2026 - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 13:07:36 GMT",
+      "link": "https://news.detik.com/berita/d-8626140/andre-rosiade-groundbreaking-stadion-ghas-paling-lambat-pertengahan-september-2026"
+    },
+    {
+      "title": "Shopee Gandeng Kemendag Perkuat Daya Saing Produk Lokal - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 12:46:36 GMT",
+      "link": "https://www.metrotvnews.com/read/bVDCPz53-shopee-gandeng-kemendag-perkuat-daya-saing-produk-lokal"
+    },
     {
       "title": "Wujudkan Tender Transparan, KPPU Kanwil II Edukasi BPBJ dan Inspektorat se-Provinsi Jambi - jambilink.id",
       "entity": "KPPU",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 07:14:52 GMT",
       "link": "https://listrikindonesia.com/detail/20954/utang-ratusan-triliun-hambat-restrukturisasi-bumn-karya"
-    },
-    {
-      "title": "Pemerintah Bentuk Tim Koordinasi Pemanfaatan Aset Negara untuk Perumahan - MOST 1058",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 06:58:33 GMT",
-      "link": "https://most1058fm.com/2026/08/pemerintah-bentuk-tim-koordinasi-pemanfaatan-aset-negara-untuk-perumahan/"
-    },
-    {
-      "title": "Danantara Siapkan Perampingan BUMN, Penghematan Diproyeksi Puluhan Triliun - investor.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 06:52:40 GMT",
-      "link": "https://investor.id/business/450875/danantara-siapkan-perampingan-bumn-penghematan-diproyeksi-puluhan-triliun"
     }
   ]
 }
