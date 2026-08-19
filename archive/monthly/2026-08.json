@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-19T18:30:53.616222",
+  "generated_at": "2026-08-19T19:22:20.003959",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 35,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 49,
+    "danantara": 48,
     "bumn": 84,
     "dividen": 2,
     "umkm": 19,
     "koperasi": 40,
     "investasi": 20,
+    "perdagangan": 3,
     "ekspor": 8,
     "impor": 1,
     "ipo": 2,
-    "kartel-monopoli": 6,
-    "perdagangan": 2
+    "kartel-monopoli": 6
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -123,6 +123,13 @@
       "link": "https://achmadnurhidayat.id/kemendag-fasilitasi-business-matching-umkm"
     },
     {
+      "title": "Menteri Perdagangan Budi Santoso Gantikan LAZ Jadi Ketua DPW PAN NTB - Radar Lombok",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 19 Aug 2026 14:33:40 GMT",
+      "link": "https://radarlombok.co.id/menteri-perdagangan-budi-santoso-gantikan-laz-jadi-ketua-dpw-pan-ntb.html"
+    },
+    {
       "title": "BPA pada Air Minum Dalam Kemasan Aman? Begini Tanggapan Ketua BPKN RI - mediakarya.id",
       "entity": "BPKN",
       "kind": "lembaga",
@@ -162,6 +169,13 @@
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 13:41:34 GMT",
+      "link": "https://news.detik.com/berita/d-8626181/kawal-kasus-lrt-city-andre-rosiade-pastikan-pemerintah-hadir-bereskan-masalah/amp"
+    },
+    {
+      "title": "Kawal Kasus LRT City, Andre Rosiade Pastikan Pemerintah Hadir Bereskan Masalah - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 19 Aug 2026 13:41:34 GMT",
       "link": "https://news.detik.com/berita/d-8626181/kawal-kasus-lrt-city-andre-rosiade-pastikan-pemerintah-hadir-bereskan-masalah"
     },
     {
@@ -184,20 +198,6 @@
       "kind": "anggota",
       "published": "Wed, 19 Aug 2026 12:57:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-groundbreaking-stadion-ghas-paling-lambat-pertengahan-september-2818ZkfD2nL"
-    },
-    {
-      "title": "Shopee Gandeng Kemendag Perkuat Daya Saing Produk Lokal - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 12:46:36 GMT",
-      "link": "https://www.metrotvnews.com/read/bVDCPz53-shopee-gandeng-kemendag-perkuat-daya-saing-produk-lokal"
-    },
-    {
-      "title": "Wujudkan Tender Transparan, KPPU Kanwil II Edukasi BPBJ dan Inspektorat se-Provinsi Jambi - jambilink.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 11:18:01 GMT",
-      "link": "https://jambilink.id/post/9889/wujudkan-tender-transparan-kppu-kanwil-ii-edukasi-bpbj-dan-inspektorat-se-provinsi-jambi"
     }
   ]
 }
