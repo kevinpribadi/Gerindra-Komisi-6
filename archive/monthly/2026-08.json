@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T16:31:37.437024",
+  "generated_at": "2026-08-20T17:25:26.804508",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
-    "Golkar": 16,
+    "Golkar": 17,
     "NasDem": 6,
     "PKB": 14,
     "PKS": 9,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 70,
-    "Golkar": 42,
+    "Golkar": 43,
     "NasDem": 29,
     "PKB": 37,
     "PKS": 41,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 35,
-    "bumn": 85,
+    "danantara": 36,
+    "bumn": 84,
     "dividen": 2,
     "umkm": 16,
     "koperasi": 46,
-    "investasi": 20,
+    "investasi": 21,
     "ekspor": 8,
     "perdagangan": 3,
     "ipo": 2,
@@ -59,7 +59,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
@@ -88,11 +88,18 @@
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 63,
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 22,
     "Perdagangan": 27,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "| Rieke PDIP: Profesi Kurator Harus Akuntabel, Profesional dan Terlindungi - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 16:46:20 GMT",
+      "link": "https://www.jurnas.com/artikel/1664009/rieke-pdip-profesi-kurator-harus-akuntabel-profesional-dan-terlindungi/"
+    },
     {
       "title": "Menkop Ferry Harap Koperasi Awards Jadi Motivasi Lanjutkan Cita-cita Bung Hatta - detikNews",
       "entity": "Kementerian Koperasi",
@@ -106,6 +113,13 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 16:18:26 GMT",
       "link": "https://www.nusantaratv.com/finance/rosan-investor-asia-respons-positif-proyek-pfii"
+    },
+    {
+      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - AriraNews.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 16:15:20 GMT",
+      "link": "https://ariranews.com/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/amp/"
     },
     {
       "title": "Kemenkop Anugerahkan Koperasi Awards 2026 Kepada Tokoh Bangsa - achmadnurhidayat.id",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 14:41:00 GMT",
       "link": "https://news.detik.com/berita/d-8627730/daftar-tokoh-penerima-penghargaan-bakti-koperasi-pradana-nayaka-koperasi-awards-2026"
-    },
-    {
-      "title": "KDS Raih Penghargaan Bakti Koperasi Kemenkop RI, Penguatan Ekonomi Rakyat Jadi Komitmen Kabupaten Bandung - www.balebandung.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 14:17:52 GMT",
-      "link": "https://www.balebandung.com/kds-raih-penghargaan-bakti-koperasi-kemenkop-ri-penguatan-ekonomi-rakyat-jadi-komitmen-kabupaten-bandung/"
-    },
-    {
-      "title": "Komisi I DPRD Jabar Dukung Rencana Dedi Mulyadi untuk Merampingkan OPD Agar Selaraskan dengan RPJMD - Harapan Rakyat",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 14:04:29 GMT",
-      "link": "https://www.harapanrakyat.com/2026/08/komisi-i-dprd-jabar-dukung-rencana-dedi-mulyadi-untuk-merampingkan-opd-agar-selaraskan-dengan-rpjmd/"
     }
   ]
 }
