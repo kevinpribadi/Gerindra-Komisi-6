@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T12:42:20.021235",
+  "generated_at": "2026-08-20T13:43:33.135530",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 32,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 38,
-    "bumn": 88,
+    "danantara": 37,
+    "bumn": 87,
     "dividen": 2,
     "umkm": 16,
-    "koperasi": 42,
+    "koperasi": 43,
     "investasi": 20,
     "ekspor": 8,
     "perdagangan": 3,
@@ -86,13 +86,55 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 21,
-    "Koperasi/UMKM": 59,
+    "Hukum/Audit": 22,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 18,
     "Perdagangan": 25,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Sidak SPBU di Sumbar, Andre Rosiade Soroti Dugaan Penyalahgunaan Solar Subsidi - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 13:34:27 GMT",
+      "link": "https://news.detik.com/berita/d-8627631/sidak-spbu-di-sumbar-andre-rosiade-soroti-dugaan-penyalahgunaan-solar-subsidi"
+    },
+    {
+      "title": "Daftar Penerima Bakti Koperasi Satya Bhakti Pamong Artha Koperasi Awards 2026 - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:33:27 GMT",
+      "link": "https://news.detik.com/berita/d-8627629/daftar-penerima-bakti-koperasi-satya-bhakti-pamong-artha-koperasi-awards-2026"
+    },
+    {
+      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - Wajah Batam",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:22:32 GMT",
+      "link": "https://wajahbatam.id/2026/08/20/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
+    },
+    {
+      "title": "Wamenkop Farida Farichah Dorong Koperasi Aji Tera Klaten Tembus Pasar Global - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:12:51 GMT",
+      "link": "https://indoposco.id/2026/08/20/wamenkop-farida-farichah-dorong-koperasi-aji-tera-klaten-tembus-pasar-global/"
+    },
+    {
+      "title": "Danantara dorong upaya pembangunan charging station pacu adopsi EV - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:03:38 GMT",
+      "link": "https://www.antaranews.com/berita/5703905/danantara-dorong-upaya-pembangunan-charging-station-pacu-adopsi-ev"
+    },
+    {
+      "title": "KPPU – Pusan National University Bahas Perbandingan Penegakan Persaingan Usaha Indonesia–Korea Selatan - KilasJatim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 12:48:18 GMT",
+      "link": "https://kilasjatim.com/2026/08/20/kppu-pusan-national-university-bahas-perbandingan-penegakan-persaingan-usaha-indonesia-korea-selatan/"
+    },
     {
       "title": "Koperasi Aji Tera Klaten Didorong Tembus Pasar Global - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 11:11:50 GMT",
       "link": "https://otomotif.bisnis.com/read/20260820/273/1997809/kppu-pelototi-4-tantangan-utama-transisi-motor-konvensional-ke-motor-listrik"
-    },
-    {
-      "title": "300 BUMN Lagi Bakal Dirampingkan Hingga Akhir 2026 - Prokabar",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 10:49:00 GMT",
-      "link": "https://prokabar.com/300-bumn-lagi-bakal-dirampingkan-hingga-akhir-2026/"
-    },
-    {
-      "title": "Pemerintah Targetkan BUMN Lebih Ramping, Sehat, dan Produktif pada Akhir 2026 - Minews ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 10:48:19 GMT",
-      "link": "https://minews.id/news/pemerintah-targetkan-bumn-lebih-ramping-sehat-dan-produktif-pada-akhir-2026"
-    },
-    {
-      "title": "Selamat Bertugas! Gde Sumarjaya Linggih Dipercaya Jadi Sekretaris Fraksi Golkar DPR RI - Bela Rakyat",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 10:44:07 GMT",
-      "link": "https://belarakyat.com/selamat-bertugas-gde-sumarjaya-linggih-dipercaya-jadi-sekretaris-fraksi-golkar-dpr-ri/"
-    },
-    {
-      "title": "BP Batam Jadi Juara Nasional JDIH 2026, Raih Nilai Sempurna 100 - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 10:33:59 GMT",
-      "link": "https://metropolis.batampos.co.id/bp-batam-jadi-juara-nasional-jdih-2026-raih-nilai-sempurna-100/"
-    },
-    {
-      "title": "Kawendra Minta Kemenkop Audit Dana Koperasi Bermasalah dan Bangun Sistem Pengawasan Digital - Towa.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 10:26:12 GMT",
-      "link": "https://towa.co.id/postingan/kawendra-minta-kemenkop-audit-dana-koperasi-bermasalah-dan-bangun-sistem-pengawasan-digital"
-    },
-    {
-      "title": "BP Batam Raih Peringkat 1 Nasional Pengelolaan JDIH 2026 - Kampiun News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 10:19:23 GMT",
-      "link": "https://kampiunnews.com/bp-batam-raih-peringkat-1-nasional-pengelolaan-jdih-2026/"
     }
   ]
 }
