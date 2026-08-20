@@ -1,20 +1,19 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T01:04:19.950898",
+  "generated_at": "2026-08-20T02:53:59.422016",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 34,
-    "Golkar": 13,
+    "Golkar": 14,
     "NasDem": 7,
     "PKB": 12,
-    "PKS": 1,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 47,
+    "Golkar": 48,
     "NasDem": 30,
     "PKB": 35,
     "PKS": 35,
@@ -34,17 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 48,
-    "bumn": 84,
+    "danantara": 47,
+    "bumn": 85,
     "dividen": 2,
-    "umkm": 20,
+    "umkm": 19,
     "koperasi": 41,
     "investasi": 20,
-    "perdagangan": 3,
     "ekspor": 7,
-    "impor": 1,
+    "perdagangan": 3,
     "ipo": 2,
-    "kartel-monopoli": 6
+    "kartel-monopoli": 7
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -60,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
@@ -88,12 +86,75 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 63,
+    "Koperasi/UMKM": 62,
     "Kinerja BUMN": 17,
-    "Perdagangan": 27,
+    "Perdagangan": 26,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Buntut Mobil Terbakar di Tol Cikampek, Kemendag Panggil BYD Indonesia - merahputih.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 02:20:46 GMT",
+      "link": "https://www.merahputih.com/post/read/buntut-mobil-terbakar-di-tol-cikampek-kemendag-panggil-byd-indonesia"
+    },
+    {
+      "title": "KPPU dan Pemprov Kepri Perkuat Sinergi Ciptakan Persaingan Usaha yang Sehat — Batam Today - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 02:10:24 GMT",
+      "link": "https://batamtoday.com/news/kppu-dan-pemprov-kepri-perkuat-sinergi-ciptakan-persaingan-usaha-yang-sehat"
+    },
+    {
+      "title": "Kemendag Terbitkan Aturan Baru Ekspor Beras, Pisang, Dan Nanas Ke Jepang - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 02:08:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/08/20/kemendag-terbitkan-aturan-baru-ekspor-beras-pisang-dan-nanas-ke-jepang-090800625"
+    },
+    {
+      "title": "Demer Jabat Sekretaris Fraksi Golkar DPR RI - NUSABALI.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 01:55:53 GMT",
+      "link": "https://www.nusabali.com/berita/228819/demer-jabat-sekretaris-fraksi-golkar-dpr-ri"
+    },
+    {
+      "title": "Apa Kabar BUMN Waskita Setelah Ditinggal Jokowi - riau24.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 01:45:00 GMT",
+      "link": "https://www.riau24.com/berita/baca/1787190518-apa-kabar-bumn-waskita-setelah-ditinggal-jokowi"
+    },
+    {
+      "title": "Ketua BPKN Minta Tudingan Terhadap BPA Berbahaya Galon Guna Ulang Harus Berdasarkan Bukti Ilmiah - sinarharapan.net",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 01:18:42 GMT",
+      "link": "https://www.sinarharapan.net/ketua-bpkn-minta-tudingan-terhadap-bpa-berbahaya-galon-guna-ulang-harus-berdasarkan-bukti-ilmiah/"
+    },
+    {
+      "title": "Kementerian Koperasi Berikan Penghargaan di Koperasi Awards 2026 - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 01:09:48 GMT",
+      "link": "https://achmadnurhidayat.id/kementerian-koperasi-penghargaan-awards-2026"
+    },
+    {
+      "title": "Andre Rosiade Apresiasi Pemerintah Beri Kepastian Status Guru PPPK - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 00:54:29 GMT",
+      "link": "https://news.detik.com/berita/d-8626443/andre-rosiade-apresiasi-pemerintah-beri-kepastian-status-guru-pppk"
+    },
+    {
+      "title": "Mobil Listrik Bermasalah, Kemendag Panggil BYD Indonesia - Emitennews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 00:49:00 GMT",
+      "link": "https://www.emitennews.com/news/mobil-listrik-bermasalah-kemendag-panggil-byd-indonesia"
+    },
     {
       "title": "Business Matching Kemendag Bukukan Rp5,95 Triliun, Libatkan 1.021 UMKM - SWA.co.id",
       "entity": "Kementerian Perdagangan",
@@ -135,69 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 14:33:40 GMT",
       "link": "https://radarlombok.co.id/menteri-perdagangan-budi-santoso-gantikan-laz-jadi-ketua-dpw-pan-ntb.html"
-    },
-    {
-      "title": "BPA pada Air Minum Dalam Kemasan Aman? Begini Tanggapan Ketua BPKN RI - mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 14:33:00 GMT",
-      "link": "https://www.mediakarya.id/bpa-pada-air-minum-dalam-kemasan-aman-begini-tanggapan-ketua-bpkn-ri/"
-    },
-    {
-      "title": "Kemendag Fasilitasi Business Matching UMKM Senilai Rp 5,95 Triliun - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 14:31:26 GMT",
-      "link": "https://investor.id/business/450935/kemendag-fasilitasi-business-matching-umkm-senilai-rp-595-triliun"
-    },
-    {
-      "title": "RDPU Dengan Korban KSP Mekarsari, Legislator Minta Kemenkop Lakukan Audit Forensik - merahputih.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 13:53:51 GMT",
-      "link": "https://www.merahputih.com/post/read/rdpu-dengan-korban-ksp-mekarsari-legislator-minta-kemenkop-lakukan-audit-forensik"
-    },
-    {
-      "title": "Kemenkeu: Danantara Development Management Fund Tidak Pakai APBN - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 13:51:00 GMT",
-      "link": "https://tirto.id/kemenkeu-danantara-development-management-fund-tidak-pakai-apbn-hBvC"
-    },
-    {
-      "title": "Tenaga Ahli Kementerian Koperasi, Gielbran Promosikan Kopdes pada PBAK UIN Walisongo 2026 - Amanat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 13:49:04 GMT",
-      "link": "https://amanat.id/tenaga-ahli-kementerian-koperasi-gielbran-promosikan-kopdes-pada-pbak-uin-walisongo-2026/"
-    },
-    {
-      "title": "Kawendra Dorong Audit Forensik KSP Mekarsari, Minta Kemenkop Perkuat Pengawasan Koperasi - fraksi gerindra dpr-ri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 13:45:27 GMT",
-      "link": "https://www.fraksigerindra.id/kawendra-dorong-audit-forensik-ksp-mekarsari-minta-kemenkop-perkuat-pengawasan-koperasi/"
-    },
-    {
-      "title": "Kawal Kasus LRT City, Andre Rosiade Pastikan Pemerintah Hadir Bereskan Masalah - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 13:41:34 GMT",
-      "link": "https://news.detik.com/berita/d-8626181/kawal-kasus-lrt-city-andre-rosiade-pastikan-pemerintah-hadir-bereskan-masalah/amp"
-    },
-    {
-      "title": "Kawal Kasus LRT City, Andre Rosiade Pastikan Pemerintah Hadir Bereskan Masalah - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 13:41:34 GMT",
-      "link": "https://news.detik.com/berita/d-8626181/kawal-kasus-lrt-city-andre-rosiade-pastikan-pemerintah-hadir-bereskan-masalah"
-    },
-    {
-      "title": "Kemendag Terbitkan Aturan Baru Ekspor Beras Pisang Dan Nanas - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 13:37:17 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-terbitkan-aturan-baru-ekspor"
     }
   ]
 }
