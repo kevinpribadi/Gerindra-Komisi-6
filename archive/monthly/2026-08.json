@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T05:27:28.377272",
+  "generated_at": "2026-08-20T06:40:30.867966",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 33,
     "Golkar": 13,
-    "NasDem": 7,
-    "PKB": 13,
-    "PKS": 1,
+    "NasDem": 6,
+    "PKB": 14,
+    "PKS": 3,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 47,
+    "Golkar": 46,
     "NasDem": 30,
-    "PKB": 36,
-    "PKS": 36,
+    "PKB": 37,
+    "PKS": 38,
     "PAN": 22,
     "Demokrat": 21
   },
@@ -38,12 +38,12 @@
     "bumn": 87,
     "dividen": 2,
     "umkm": 19,
-    "koperasi": 42,
+    "koperasi": 41,
     "investasi": 20,
-    "ekspor": 8,
+    "ekspor": 9,
     "perdagangan": 3,
     "ipo": 2,
-    "kartel-monopoli": 7
+    "kartel-monopoli": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -64,19 +64,19 @@
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 14,
+    "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Subardi": 4,
-    "Anggia Erma Rini": 12,
+    "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 14,
-    "Rizal Bawazier": 4,
+    "Rizal Bawazier": 6,
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
@@ -87,12 +87,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
-    "Koperasi/UMKM": 63,
+    "Koperasi/UMKM": 62,
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Rizal Bawazier Serahkan Ambulans Bantuan BRI untuk Relindo Batang, Siap Layani Warga Gratis - VIVA Jogja",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 06:14:00 GMT",
+      "link": "https://jogja.viva.co.id/gaya-hidup/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
+    },
+    {
+      "title": "KPPU Kanwil V Koordinasi dengan KSOP Balikpapan, Petakan Persaingan Usaha Jasa Kepelabuhanan - KaltimKita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 06:10:01 GMT",
+      "link": "https://kaltimkita.com/detailpost/kppu-kanwil-v-koordinasi-dengan-ksop-balikpapan-petakan-persaingan-usaha-jasa-kepelabuhanan"
+    },
+    {
+      "title": "Pemerintah Daerah Dikebut PSN, Kemenkop: Gerai KDKMP Ditargetkan Beroperasi Awal Oktober - MediaAksara.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 05:47:00 GMT",
+      "link": "https://mediaaksara.id/pemerintah-daerah-dikebut-psn-kemenkop-gerai-kdkmp-ditargetkan-beroperasi-awal-oktober/"
+    },
+    {
+      "title": "Relindo Batang Terima Ambulans CSR BRI Rp399 Juta, Rizal Bawazier Tekankan Pelayanan untuk Warga - Pekalongan News",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 05:46:06 GMT",
+      "link": "https://www.pekalongan-news.com/2026/08/Relindo-Batang-Terima-Ambulans-CSR-BRI-Rp399-Juta-Rizal-Bawazier-Tekankan-Pelayanan-untuk-Warga.html"
+    },
+    {
+      "title": "Andre Rosiade Apresiasi DPR-Pemerintah Beri Kepastian Nasib Guru PPPK pada 2027 - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 05:30:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-apresiasi-dpr-pemerintah-beri-kepastian-nasib-guru-pppk-pada-2027-281PYNYgSex"
+    },
     {
       "title": "Komisi VI DPR: Indonesia Harus Perkuat Posisi Tawar dalam Menentukan Harga Komoditas - Media Nikel Indonesia",
       "entity": "Anggia Erma Rini",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 02:10:24 GMT",
       "link": "https://batamtoday.com/news/kppu-dan-pemprov-kepri-perkuat-sinergi-ciptakan-persaingan-usaha-yang-sehat"
-    },
-    {
-      "title": "Kemendag Terbitkan Aturan Baru Ekspor Beras, Pisang, Dan Nanas Ke Jepang - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 02:08:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/08/20/kemendag-terbitkan-aturan-baru-ekspor-beras-pisang-dan-nanas-ke-jepang-090800625"
-    },
-    {
-      "title": "Demer Jabat Sekretaris Fraksi Golkar DPR RI - NUSABALI.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 01:55:53 GMT",
-      "link": "https://www.nusabali.com/berita/228819/demer-jabat-sekretaris-fraksi-golkar-dpr-ri"
-    },
-    {
-      "title": "Apa Kabar BUMN Waskita Setelah Ditinggal Jokowi - Riau24.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 01:45:00 GMT",
-      "link": "https://citizen.riau24.com/berita/baca/1787190518-apa-kabar-bumn-waskita-setelah-ditinggal-jokowi"
-    },
-    {
-      "title": "Apa Kabar BUMN Waskita Setelah Ditinggal Jokowi - riau24.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 01:45:00 GMT",
-      "link": "https://www.riau24.com/berita/baca/1787190518-apa-kabar-bumn-waskita-setelah-ditinggal-jokowi"
-    },
-    {
-      "title": "Ketua BPKN Minta Tudingan Terhadap BPA Berbahaya Galon Guna Ulang Harus Berdasarkan Bukti Ilmiah - sinarharapan.net",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 01:18:42 GMT",
-      "link": "https://www.sinarharapan.net/ketua-bpkn-minta-tudingan-terhadap-bpa-berbahaya-galon-guna-ulang-harus-berdasarkan-bukti-ilmiah/"
     }
   ]
 }
