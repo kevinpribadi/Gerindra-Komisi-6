@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T10:26:49.902910",
+  "generated_at": "2026-08-20T11:23:32.453744",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 32,
-    "Golkar": 14,
+    "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
-    "PKS": 6,
+    "PKS": 7,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 44,
+    "Golkar": 46,
     "NasDem": 29,
     "PKB": 37,
-    "PKS": 39,
+    "PKS": 40,
     "PAN": 22,
     "Demokrat": 21
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 41,
+    "danantara": 39,
     "bumn": 87,
     "dividen": 2,
-    "umkm": 18,
-    "koperasi": 42,
+    "umkm": 16,
+    "koperasi": 43,
     "investasi": 21,
-    "perdagangan": 2,
+    "perdagangan": 3,
     "ekspor": 9,
     "ipo": 2,
-    "kartel-monopoli": 8
+    "kartel-monopoli": 9
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -59,9 +59,9 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 2,
+    "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 13,
@@ -76,7 +76,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 14,
-    "Rizal Bawazier": 9,
+    "Rizal Bawazier": 10,
     "Ghufran": 2,
     "Ismail": 14,
     "Eko Patrio": 2,
@@ -86,13 +86,76 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 20,
-    "Koperasi/UMKM": 61,
-    "Kinerja BUMN": 18,
+    "Hukum/Audit": 21,
+    "Koperasi/UMKM": 60,
+    "Kinerja BUMN": 17,
     "Perdagangan": 30,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "KPPU Pelototi 4 Tantangan Utama Transisi Motor Konvensional ke Motor Listrik - Bisnis.com - Otomotif",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 11:11:50 GMT",
+      "link": "https://otomotif.bisnis.com/read/20260820/273/1997809/kppu-pelototi-4-tantangan-utama-transisi-motor-konvensional-ke-motor-listrik"
+    },
+    {
+      "title": "300 BUMN Lagi Bakal Dirampingkan Hingga Akhir 2026 - Prokabar",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 10:49:00 GMT",
+      "link": "https://prokabar.com/300-bumn-lagi-bakal-dirampingkan-hingga-akhir-2026/"
+    },
+    {
+      "title": "Pemerintah Targetkan BUMN Lebih Ramping, Sehat, dan Produktif pada Akhir 2026 - Minews ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 10:48:19 GMT",
+      "link": "https://minews.id/news/pemerintah-targetkan-bumn-lebih-ramping-sehat-dan-produktif-pada-akhir-2026"
+    },
+    {
+      "title": "Selamat Bertugas! Gde Sumarjaya Linggih Dipercaya Jadi Sekretaris Fraksi Golkar DPR RI - Bela Rakyat",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 10:44:07 GMT",
+      "link": "https://belarakyat.com/selamat-bertugas-gde-sumarjaya-linggih-dipercaya-jadi-sekretaris-fraksi-golkar-dpr-ri/"
+    },
+    {
+      "title": "BP Batam Jadi Juara Nasional JDIH 2026, Raih Nilai Sempurna 100 - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 10:33:59 GMT",
+      "link": "https://metropolis.batampos.co.id/bp-batam-jadi-juara-nasional-jdih-2026-raih-nilai-sempurna-100/"
+    },
+    {
+      "title": "Kawendra Minta Kemenkop Audit Dana Koperasi Bermasalah dan Bangun Sistem Pengawasan Digital - Towa.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 10:26:12 GMT",
+      "link": "https://towa.co.id/postingan/kawendra-minta-kemenkop-audit-dana-koperasi-bermasalah-dan-bangun-sistem-pengawasan-digital"
+    },
+    {
+      "title": "Koperasi Desa Merah Putih Masuk Tahap Verifikasi, Sukabumi Siapkan Gerai hingga Dokumen - Sukabuminow.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 09:49:39 GMT",
+      "link": "https://sukabuminow.com/gerai-kdkmp-sukabumi-verifikasi/"
+    },
+    {
+      "title": "Mendag Target Transaksi Trade Expo di Atas US$ 22,8 Miliar - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 09:42:56 GMT",
+      "link": "https://www.tempo.co/ekonomi/mendag-target-transaksi-trade-expo-di-atas-us-22-8-miliar-2282960"
+    },
+    {
+      "title": "Legislator Pertanyakan Kejanggalan Sanksi Koperasi Simpan Pinjam Mekarsari - Media Indonesia",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 09:37:13 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/924005/legislator-pertanyakan-kejanggalan-sanksi-koperasi-simpan-pinjam-mekarsari"
+    },
     {
       "title": "Ke Solo, Menteri Perdagangan Sosialisasikan Trade Expo Indonesia ke Pengusaha - Espos.id",
       "entity": "Kementerian Perdagangan",
@@ -103,6 +166,13 @@
     {
       "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
       "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:35:20 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif"
+    },
+    {
+      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 08:35:20 GMT",
       "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif"
@@ -127,76 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 08:19:57 GMT",
       "link": "https://www.suaradewata.com/berita/202405216927/pembersihan-bumn-dipercepat-pemerintah-hemat-overhead-hingga-rp50-triliun"
-    },
-    {
-      "title": "Pemerintah Targetkan BUMN Lebih Ramping, Sehat, dan Produktif pada Akhir 2026 - PT Suara Dewata Media",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:19:53 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216928/pemerintah-targetkan-bumn-lebih-ramping-sehat-dan-produktif-pada-akhir-2026"
-    },
-    {
-      "title": "Kemendag Targetkan Waralaba Lokal Tumbuh 7 Persen di 2026 - Infobanknews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 07:48:35 GMT",
-      "link": "https://infobanknews.com/kemendag-targetkan-waralaba-lokal-tumbuh-7-persen-di-2026"
-    },
-    {
-      "title": "Penghargaan Koperasi Award 2026 Kepada Mimika Dinilai Tidak Sesuai Kenyataan di Lapangan - seputarpapua.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 07:46:15 GMT",
-      "link": "https://seputarpapua.com/view/penghargaan-koperasi-award-2026-kepada-mimika-dinilai-tidak-sesuai-kenyataan-di-lapangan.html"
-    },
-    {
-      "title": "Kemendag Sosialisasikan Aturan Baru Ekspor Beras dan Tambahan Kuota Pisang-Nanas ke Jepang - Agricom.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 07:44:00 GMT",
-      "link": "https://www.agricom.id/news/5150/kemendag-sosialisasikan-aturan-baru-ekspor-beras-dan-tambahan-kuota-pisang-nanas-ke-jepang"
-    },
-    {
-      "title": "Kemendag Minta Klarifikasi Kebakaran Mobil BYD di Tol Japek - Marketeers",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 07:40:45 GMT",
-      "link": "https://www.marketeers.com/kemendag-minta-klarifikasi-kebakaran-mobil-byd-di-tol-japek/"
-    },
-    {
-      "title": "Ke Koto Rawang, Andre Rosiade Pastikan 3 Jembatan Gantung di Pessel Rampung - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 07:22:47 GMT",
-      "link": "https://news.detik.com/berita/d-8627051/ke-koto-rawang-andre-rosiade-pastikan-3-jembatan-gantung-di-pessel-rampung"
-    },
-    {
-      "title": "Komisi VI DPR Dorong Audit Koperasi Bermasalah dan Perkuat Pengawasan - Pakuan Raya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 07:06:45 GMT",
-      "link": "https://pakuanraya.com/komisi-vi-dpr-dorong-audit-koperasi-bermasalah-dan-perkuat-pengawasan/"
-    },
-    {
-      "title": "Relindo Terima Ambulans CSR BRI Rp399 Juta, Rizal Bawazier Minta Siap Bantu Gratis Pelayanan Kemanusiaan dan Sosial - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 06:41:00 GMT",
-      "link": "https://www.batiktv.id/index.php/news/relindo-terima-ambulans-csr-bri-rp399-juta--rizal-bawazier-minta-siap-bantu-gratis-pelayanan-kemanusiaan-dan-sosial"
-    },
-    {
-      "title": "Rizal Bawazier Serahkan Ambulans Bantuan BRI untuk Relindo Batang, Siap Layani Warga Gratis - VIVA Jogja",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 06:14:00 GMT",
-      "link": "https://jogja.viva.co.id/gaya-hidup/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
-    },
-    {
-      "title": "Rizal Bawazier Serahkan Ambulans Bantuan BRI untuk Relindo Batang, Siap Layani Warga Gratis - jogja.viva.co.id",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 06:14:00 GMT",
-      "link": "https://jogja.viva.co.id/amp/pantura-raya/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
     }
   ]
 }
