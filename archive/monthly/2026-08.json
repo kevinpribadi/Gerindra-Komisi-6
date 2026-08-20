@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T02:53:59.422016",
+  "generated_at": "2026-08-20T03:43:25.515664",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 34,
@@ -13,12 +13,12 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 48,
+    "Golkar": 47,
     "NasDem": 30,
     "PKB": 35,
     "PKS": 35,
     "PAN": 22,
-    "Demokrat": 23
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,9 +37,9 @@
     "bumn": 85,
     "dividen": 2,
     "umkm": 19,
-    "koperasi": 41,
+    "koperasi": 42,
     "investasi": 20,
-    "ekspor": 7,
+    "ekspor": 8,
     "perdagangan": 3,
     "ipo": 2,
     "kartel-monopoli": 7
@@ -60,7 +60,7 @@
     "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 4,
+    "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 14,
@@ -82,16 +82,23 @@
     "Iskandar": 20,
     "Sartono": 7,
     "Herman Khaeron": 12,
-    "Faujia Helga": 4
+    "Faujia Helga": 2
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 17,
-    "Perdagangan": 26,
+    "Perdagangan": 27,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kritik Koperasi Awards Pemkab Mimika, Fraksi Gerindra DPRK: Kontradiktif dengan Realitas - Papua60Detik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 03:42:04 GMT",
+      "link": "https://papua60detik.id/berita/kritik-koperasi-awards-pemkab-mimika-fraksi-gerindra-dprk-kontradiktif-dengan-realitas"
+    },
     {
       "title": "Buntut Mobil Terbakar di Tol Cikampek, Kemendag Panggil BYD Indonesia - merahputih.com",
       "entity": "Kementerian Perdagangan",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 19 Aug 2026 14:37:19 GMT",
       "link": "https://achmadnurhidayat.id/kemendag-fasilitasi-business-matching-umkm"
-    },
-    {
-      "title": "Menteri Perdagangan Budi Santoso Gantikan LAZ Jadi Ketua DPW PAN NTB - Radar Lombok",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 14:33:40 GMT",
-      "link": "https://radarlombok.co.id/menteri-perdagangan-budi-santoso-gantikan-laz-jadi-ketua-dpw-pan-ntb.html"
     }
   ]
 }
