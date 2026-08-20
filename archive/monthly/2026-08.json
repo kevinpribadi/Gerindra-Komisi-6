@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T13:43:33.135530",
+  "generated_at": "2026-08-20T14:32:59.201829",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 30,
     "PDI-P": 32,
     "Golkar": 16,
     "NasDem": 6,
@@ -12,7 +12,7 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 66,
     "PDI-P": 70,
     "Golkar": 42,
     "NasDem": 29,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 37,
-    "bumn": 87,
+    "danantara": 36,
+    "bumn": 86,
     "dividen": 2,
     "umkm": 16,
-    "koperasi": 43,
+    "koperasi": 44,
     "investasi": 20,
     "ekspor": 8,
     "perdagangan": 3,
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 8,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 12,
+    "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
@@ -87,12 +87,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 22,
-    "Koperasi/UMKM": 60,
-    "Kinerja BUMN": 18,
+    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 20,
     "Perdagangan": 25,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "KDS Raih Penghargaan Bakti Koperasi Kemenkop RI, Penguatan Ekonomi Rakyat Jadi Komitmen Kabupaten Bandung - www.balebandung.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 14:17:52 GMT",
+      "link": "https://www.balebandung.com/kds-raih-penghargaan-bakti-koperasi-kemenkop-ri-penguatan-ekonomi-rakyat-jadi-komitmen-kabupaten-bandung/"
+    },
+    {
+      "title": "Komisi I DPRD Jabar Dukung Rencana Dedi Mulyadi untuk Merampingkan OPD Agar Selaraskan dengan RPJMD - Harapan Rakyat",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 14:04:29 GMT",
+      "link": "https://www.harapanrakyat.com/2026/08/komisi-i-dprd-jabar-dukung-rencana-dedi-mulyadi-untuk-merampingkan-opd-agar-selaraskan-dengan-rpjmd/"
+    },
+    {
+      "title": "Danantara Kawal Restrukturisasi WIKA, Laporan Keuangan Diminta Presisi Sesuai Kondisi Riil - Kabarjoglo",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:52:52 GMT",
+      "link": "https://kabarjoglo.com/2026/08/20/danantara-kawal-restrukturisasi-wika-laporan-keuangan-diminta-presisi-sesuai-kondisi-riil/"
+    },
+    {
+      "title": "Video Menkop di Koperasi Awards: Kita Ingin Koperasi Dekat dengan Rakyat - 20detik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:46:00 GMT",
+      "link": "https://20.detik.com/detikupdate/20260820-260820075/video-menkop-di-koperasi-awards-kita-ingin-koperasi-dekat-dengan-rakyat"
+    },
+    {
+      "title": "Menkop: Koperasi Bukan Sekadar Badan Usaha, tapi Gagasan Ekonomi Gotong Royong - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 13:43:19 GMT",
+      "link": "https://news.detik.com/berita/d-8627647/menkop-koperasi-bukan-sekadar-badan-usaha-tapi-gagasan-ekonomi-gotong-royong"
+    },
     {
       "title": "Sidak SPBU di Sumbar, Andre Rosiade Soroti Dugaan Penyalahgunaan Solar Subsidi - detikNews",
       "entity": "Andre Rosiade",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 12:04:33 GMT",
       "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif%7D"
-    },
-    {
-      "title": "Legislator: Koperasi Wajib Hentikan Kegiatan Usaha yang Tidak Berizin - VIVA.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 11:55:08 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1922851-legislator-koperasi-wajib-hentikan-kegiatan-usaha-yang-tidak-berizin"
-    },
-    {
-      "title": "Pemprov Jambi tunggu aturan teknis operasional 325 KDKMP - ANTARA News Jambi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 11:42:15 GMT",
-      "link": "https://jambi.antaranews.com/berita/664649/pemprov-jambi-tunggu-aturan-teknis-operasional-325-kdkmp"
-    },
-    {
-      "title": "KPPU Dalami Dampak Integrasi Agen IndiHome Dan Telkomsel Terhadap Persaingan Usaha - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 11:32:46 GMT",
-      "link": "https://www.waspada.id/berita/kppu-dalami-dampak-integrasi-agen-indihome-dan-telkomsel-terhadap-persaingan-usaha"
-    },
-    {
-      "title": "Mendag Pastikan Pasokan Sembako ke NTT Aman Pascagempa - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 11:27:15 GMT",
-      "link": "https://www.metrotvnews.com/read/KZmCQZxo-mendag-pastikan-pasokan-sembako-ke-ntt-aman-pascagempa"
-    },
-    {
-      "title": "KPPU Pelototi 4 Tantangan Utama Transisi Motor Konvensional ke Motor Listrik - Bisnis.com - Otomotif",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 11:11:50 GMT",
-      "link": "https://otomotif.bisnis.com/read/20260820/273/1997809/kppu-pelototi-4-tantangan-utama-transisi-motor-konvensional-ke-motor-listrik"
     }
   ]
 }
