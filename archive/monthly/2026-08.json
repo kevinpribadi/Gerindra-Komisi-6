@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T14:32:59.201829",
+  "generated_at": "2026-08-20T15:30:22.478673",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
     "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
-    "PKS": 8,
+    "PKS": 9,
     "PAN": 2,
     "Demokrat": 2
   },
@@ -17,7 +17,7 @@
     "Golkar": 42,
     "NasDem": 29,
     "PKB": 37,
-    "PKS": 40,
+    "PKS": 41,
     "PAN": 22,
     "Demokrat": 21
   },
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "danantara": 36,
-    "bumn": 86,
+    "bumn": 85,
     "dividen": 2,
     "umkm": 16,
-    "koperasi": 44,
+    "koperasi": 45,
     "investasi": 20,
     "ekspor": 8,
     "perdagangan": 3,
@@ -78,7 +78,7 @@
     "Amin Ak.": 13,
     "Rizal Bawazier": 10,
     "Ghufran": 2,
-    "Ismail": 15,
+    "Ismail": 16,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
@@ -86,13 +86,62 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 22,
-    "Koperasi/UMKM": 61,
+    "Hukum/Audit": 20,
+    "Koperasi/UMKM": 62,
     "Kinerja BUMN": 20,
-    "Perdagangan": 25,
+    "Perdagangan": 26,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Komisi IV DPRD Samarinda Dorong Tes Urine Pelajar untuk Deteksi Dini Narkoba - kutaipanrita.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 15:28:31 GMT",
+      "link": "https://kutaipanrita.id/komisi-iv-dprd-samarinda-dorong-tes-urine-pelajar-untuk-deteksi-dini-narkoba/"
+    },
+    {
+      "title": "Danantara Bidik Sektor Transportasi Guna Tingkatkan Kualitas Layanan Publik - MOST 1058",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 15:26:08 GMT",
+      "link": "https://most1058fm.com/2026/08/danantara-bidik-sektor-transportasi-guna-tingkatkan-kualitas-layanan-publik/"
+    },
+    {
+      "title": "Video Sederet Kepala Daerah Terima Bakti Koperasi Nayaka Mahambara - 20detik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 15:25:00 GMT",
+      "link": "https://20.detik.com/detikupdate/20260820-260820084/video-sederet-kepala-daerah-terima-bakti-koperasi-nayaka-mahambara"
+    },
+    {
+      "title": "Kemenkop berikan penghargaan bagi penggerak koperasi Indonesia - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 15:15:36 GMT",
+      "link": "https://jogja.antaranews.com/berita/849208/kemenkop-berikan-penghargaan-bagi-penggerak-koperasi-indonesia"
+    },
+    {
+      "title": "Kunjungan Staf Ahli Kebijakan Publik Kementerian Koperasi, Buka Jalan Baru untuk Teknik Pengelasan MAN 2 Sijunjung - HarianHaluan.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 15:03:49 GMT",
+      "link": "https://harianhaluan.id/kunjungan-staf-ahli-kebijakan-publik-kementerian-koperasi-buka-jalan-baru-untuk-teknik-pengelasan-man-2-sijunjung-179145/"
+    },
+    {
+      "title": "BP BUMN Kawal Ketat Proses Restrukturisasi Wijaya Karya - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 14:48:26 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-kawal-ketat-proses-restrukturisasi-wijaya-karya/"
+    },
+    {
+      "title": "Daftar Tokoh Penerima Penghargaan Bakti Koperasi Pradana Nayaka Koperasi Awards 2026 - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 14:41:00 GMT",
+      "link": "https://news.detik.com/berita/d-8627730/daftar-tokoh-penerima-penghargaan-bakti-koperasi-pradana-nayaka-koperasi-awards-2026"
+    },
     {
       "title": "KDS Raih Penghargaan Bakti Koperasi Kemenkop RI, Penguatan Ekonomi Rakyat Jadi Komitmen Kabupaten Bandung - www.balebandung.com",
       "entity": "Kementerian Koperasi",
@@ -148,55 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 13:22:32 GMT",
       "link": "https://wajahbatam.id/2026/08/20/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
-    },
-    {
-      "title": "Wamenkop Farida Farichah Dorong Koperasi Aji Tera Klaten Tembus Pasar Global - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:12:51 GMT",
-      "link": "https://indoposco.id/2026/08/20/wamenkop-farida-farichah-dorong-koperasi-aji-tera-klaten-tembus-pasar-global/"
-    },
-    {
-      "title": "Danantara dorong upaya pembangunan charging station pacu adopsi EV - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:03:38 GMT",
-      "link": "https://www.antaranews.com/berita/5703905/danantara-dorong-upaya-pembangunan-charging-station-pacu-adopsi-ev"
-    },
-    {
-      "title": "KPPU – Pusan National University Bahas Perbandingan Penegakan Persaingan Usaha Indonesia–Korea Selatan - KilasJatim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 12:48:18 GMT",
-      "link": "https://kilasjatim.com/2026/08/20/kppu-pusan-national-university-bahas-perbandingan-penegakan-persaingan-usaha-indonesia-korea-selatan/"
-    },
-    {
-      "title": "Koperasi Aji Tera Klaten Didorong Tembus Pasar Global - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 12:25:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/20/719015/koperasi-aji-tera-klaten-didorong-tembus-pasar-global-"
-    },
-    {
-      "title": "KPPU dan Pusan National University Bandingkan Penegakan Persaingan Usaha Indonesia-Korea Selatan - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 12:25:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136598/kppu-dan-pusan-national-university-bandingkan-penegakan-persaingan-usaha-indonesia-korea-selatan"
-    },
-    {
-      "title": "Pasar Global Dibuka, Industri Mebel Indonesia Bidik Ekspor US$6 Miliar - Mettanews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 12:06:30 GMT",
-      "link": "https://mettanews.id/pasar-global-dibuka-industri-mebel-indonesia-bidik-ekspor-us6-miliar/"
-    },
-    {
-      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 12:04:33 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif%7D"
     }
   ]
 }
