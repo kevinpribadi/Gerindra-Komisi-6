@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T15:30:22.478673",
+  "generated_at": "2026-08-20T16:31:37.437024",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
@@ -29,16 +29,16 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 18,
+    "BPK Sabang": 17,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 36,
+    "danantara": 35,
     "bumn": 85,
     "dividen": 2,
     "umkm": 16,
-    "koperasi": 45,
+    "koperasi": 46,
     "investasi": 20,
     "ekspor": 8,
     "perdagangan": 3,
@@ -86,13 +86,41 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 20,
-    "Koperasi/UMKM": 62,
+    "Hukum/Audit": 19,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 20,
-    "Perdagangan": 26,
+    "Perdagangan": 27,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menkop Ferry Harap Koperasi Awards Jadi Motivasi Lanjutkan Cita-cita Bung Hatta - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 16:24:27 GMT",
+      "link": "https://news.detik.com/berita/d-8627838/menkop-ferry-harap-koperasi-awards-jadi-motivasi-lanjutkan-cita-cita-bung-hatta"
+    },
+    {
+      "title": "Rosan: Investor Asia Respons Positif Proyek PFII - NusantaraTV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 16:18:26 GMT",
+      "link": "https://www.nusantaratv.com/finance/rosan-investor-asia-respons-positif-proyek-pfii"
+    },
+    {
+      "title": "Kemenkop Anugerahkan Koperasi Awards 2026 Kepada Tokoh Bangsa - achmadnurhidayat.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 16:14:21 GMT",
+      "link": "https://achmadnurhidayat.id/kemenkop-anugerahkan-koperasi-awards-2026"
+    },
+    {
+      "title": "Andre Rosiade Kawal Aspirasi Warga Pessel, Jembatan Gantung Duku-Subarang Solok Segera Rampung - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 16:01:01 GMT",
+      "link": "https://news.detik.com/berita/d-8627672/andre-rosiade-kawal-aspirasi-warga-pessel-jembatan-gantung-duku-subarang-solok-segera-rampung"
+    },
     {
       "title": "Komisi IV DPRD Samarinda Dorong Tes Urine Pelajar untuk Deteksi Dini Narkoba - kutaipanrita.id",
       "entity": "Ismail",
@@ -122,11 +150,25 @@
       "link": "https://jogja.antaranews.com/berita/849208/kemenkop-berikan-penghargaan-bagi-penggerak-koperasi-indonesia"
     },
     {
+      "title": "Kemenkop berikan penghargaan bagi penggerak koperasi Indonesia - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 15:10:25 GMT",
+      "link": "https://www.antaranews.com/berita/5704156/kemenkop-berikan-penghargaan-bagi-penggerak-koperasi-indonesia"
+    },
+    {
       "title": "Kunjungan Staf Ahli Kebijakan Publik Kementerian Koperasi, Buka Jalan Baru untuk Teknik Pengelasan MAN 2 Sijunjung - HarianHaluan.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 15:03:49 GMT",
       "link": "https://harianhaluan.id/kunjungan-staf-ahli-kebijakan-publik-kementerian-koperasi-buka-jalan-baru-untuk-teknik-pengelasan-man-2-sijunjung-179145/"
+    },
+    {
+      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - Posmetrobatam.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 14:51:58 GMT",
+      "link": "https://posmetrobatam.co.id/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
     },
     {
       "title": "BP BUMN Kawal Ketat Proses Restrukturisasi Wijaya Karya - Iconomics",
@@ -155,48 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 14:04:29 GMT",
       "link": "https://www.harapanrakyat.com/2026/08/komisi-i-dprd-jabar-dukung-rencana-dedi-mulyadi-untuk-merampingkan-opd-agar-selaraskan-dengan-rpjmd/"
-    },
-    {
-      "title": "Danantara Kawal Restrukturisasi WIKA, Laporan Keuangan Diminta Presisi Sesuai Kondisi Riil - Kabarjoglo",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:52:52 GMT",
-      "link": "https://kabarjoglo.com/2026/08/20/danantara-kawal-restrukturisasi-wika-laporan-keuangan-diminta-presisi-sesuai-kondisi-riil/"
-    },
-    {
-      "title": "Video Menkop di Koperasi Awards: Kita Ingin Koperasi Dekat dengan Rakyat - 20detik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:46:00 GMT",
-      "link": "https://20.detik.com/detikupdate/20260820-260820075/video-menkop-di-koperasi-awards-kita-ingin-koperasi-dekat-dengan-rakyat"
-    },
-    {
-      "title": "Menkop: Koperasi Bukan Sekadar Badan Usaha, tapi Gagasan Ekonomi Gotong Royong - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:43:19 GMT",
-      "link": "https://news.detik.com/berita/d-8627647/menkop-koperasi-bukan-sekadar-badan-usaha-tapi-gagasan-ekonomi-gotong-royong"
-    },
-    {
-      "title": "Sidak SPBU di Sumbar, Andre Rosiade Soroti Dugaan Penyalahgunaan Solar Subsidi - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 13:34:27 GMT",
-      "link": "https://news.detik.com/berita/d-8627631/sidak-spbu-di-sumbar-andre-rosiade-soroti-dugaan-penyalahgunaan-solar-subsidi"
-    },
-    {
-      "title": "Daftar Penerima Bakti Koperasi Satya Bhakti Pamong Artha Koperasi Awards 2026 - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:33:27 GMT",
-      "link": "https://news.detik.com/berita/d-8627629/daftar-penerima-bakti-koperasi-satya-bhakti-pamong-artha-koperasi-awards-2026"
-    },
-    {
-      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - Wajah Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 13:22:32 GMT",
-      "link": "https://wajahbatam.id/2026/08/20/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
     }
   ]
 }
