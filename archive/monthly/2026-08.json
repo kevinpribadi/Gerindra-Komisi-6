@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T06:40:30.867966",
+  "generated_at": "2026-08-20T07:38:13.217371",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 33,
-    "Golkar": 13,
+    "PDI-P": 32,
+    "Golkar": 14,
     "NasDem": 6,
     "PKB": 14,
-    "PKS": 3,
+    "PKS": 6,
     "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 46,
+    "Golkar": 45,
     "NasDem": 30,
     "PKB": 37,
-    "PKS": 38,
+    "PKS": 41,
     "PAN": 22,
     "Demokrat": 21
   },
@@ -29,19 +29,19 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 20,
+    "BPK Sabang": 18,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "danantara": 45,
-    "bumn": 87,
+    "bumn": 86,
     "dividen": 2,
     "umkm": 19,
     "koperasi": 41,
-    "investasi": 20,
-    "ekspor": 9,
-    "perdagangan": 3,
+    "investasi": 21,
+    "ekspor": 8,
+    "perdagangan": 1,
     "ipo": 2,
     "kartel-monopoli": 8
   },
@@ -61,7 +61,7 @@
     "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 3,
+    "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 13,
@@ -76,7 +76,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 14,
-    "Rizal Bawazier": 6,
+    "Rizal Bawazier": 9,
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
@@ -86,19 +86,47 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
+    "Hukum/Audit": 20,
     "Koperasi/UMKM": 62,
     "Kinerja BUMN": 17,
-    "Perdagangan": 29,
+    "Perdagangan": 28,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Ke Koto Rawang, Andre Rosiade Pastikan 3 Jembatan Gantung di Pessel Rampung - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 07:22:47 GMT",
+      "link": "https://news.detik.com/berita/d-8627051/ke-koto-rawang-andre-rosiade-pastikan-3-jembatan-gantung-di-pessel-rampung"
+    },
+    {
+      "title": "Komisi VI DPR Dorong Audit Koperasi Bermasalah dan Perkuat Pengawasan - Pakuan Raya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 07:06:45 GMT",
+      "link": "https://pakuanraya.com/komisi-vi-dpr-dorong-audit-koperasi-bermasalah-dan-perkuat-pengawasan/"
+    },
+    {
+      "title": "Relindo Terima Ambulans CSR BRI Rp399 Juta, Rizal Bawazier Minta Siap Bantu Gratis Pelayanan Kemanusiaan dan Sosial - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 06:41:00 GMT",
+      "link": "https://www.batiktv.id/index.php/news/relindo-terima-ambulans-csr-bri-rp399-juta--rizal-bawazier-minta-siap-bantu-gratis-pelayanan-kemanusiaan-dan-sosial"
+    },
     {
       "title": "Rizal Bawazier Serahkan Ambulans Bantuan BRI untuk Relindo Batang, Siap Layani Warga Gratis - VIVA Jogja",
       "entity": "Rizal Bawazier",
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 06:14:00 GMT",
       "link": "https://jogja.viva.co.id/gaya-hidup/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
+    },
+    {
+      "title": "Rizal Bawazier Serahkan Ambulans Bantuan BRI untuk Relindo Batang, Siap Layani Warga Gratis - jogja.viva.co.id",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 06:14:00 GMT",
+      "link": "https://jogja.viva.co.id/amp/pantura-raya/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
     },
     {
       "title": "KPPU Kanwil V Koordinasi dengan KSOP Balikpapan, Petakan Persaingan Usaha Jasa Kepelabuhanan - KaltimKita.com",
@@ -150,6 +178,13 @@
       "link": "https://radarpekalongan.disway.id/batang/read/114292/serahkan-ambulans-csr-bri-untuk-relindo-batang-rizal-bawazier-minta-digunakan-maksimal-layani-warga"
     },
     {
+      "title": "Serahkan Ambulans CSR BRI untuk Relindo Batang, Rizal Bawazier Minta Digunakan Maksimal Layani Warga - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 04:51:00 GMT",
+      "link": "https://radarpekalongan.disway.id/amp/114292/serahkan-ambulans-csr-bri-untuk-relindo-batang-rizal-bawazier-minta-digunakan-maksimal-layani-warga"
+    },
+    {
       "title": "Kawendra Lukistian Dorong Audit Forensik Kasus Koperasi Simpan Pinjam - Towa.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -162,41 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 04:23:40 GMT",
       "link": "https://towa.co.id/postingan/kawendra-lukistian-dorong-audit-forensik-kasus-koperasi-simpan-pinjam"
-    },
-    {
-      "title": "Kemendag Klarifikasi BYD Soal Mobil Listrik Terbakar di Tol Japek - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 04:04:28 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260820110238-4-760854/kemendag-klarifikasi-byd-soal-mobil-listrik-terbakar-di-tol-japek"
-    },
-    {
-      "title": "Kritik Koperasi Awards Pemkab Mimika, Fraksi Gerindra DPRK: Kontradiktif dengan Realitas - Papua60Detik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 03:42:04 GMT",
-      "link": "https://papua60detik.id/berita/kritik-koperasi-awards-pemkab-mimika-fraksi-gerindra-dprk-kontradiktif-dengan-realitas"
-    },
-    {
-      "title": "Kemendag Minta Klarifikasi BYD soal Insiden Mobil Listrik Terbakar di Tol Cikampek - Bisnis.com - Otomotif",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 03:38:00 GMT",
-      "link": "https://otomotif.bisnis.com/read/20260820/46/1997672/kemendag-minta-klarifikasi-byd-soal-insiden-mobil-listrik-terbakar-di-tol-cikampek"
-    },
-    {
-      "title": "Buntut Mobil Terbakar di Tol Cikampek, Kemendag Panggil BYD Indonesia - merahputih.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 02:20:46 GMT",
-      "link": "https://www.merahputih.com/post/read/buntut-mobil-terbakar-di-tol-cikampek-kemendag-panggil-byd-indonesia"
-    },
-    {
-      "title": "KPPU dan Pemprov Kepri Perkuat Sinergi Ciptakan Persaingan Usaha yang Sehat — Batam Today - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 02:10:24 GMT",
-      "link": "https://batamtoday.com/news/kppu-dan-pemprov-kepri-perkuat-sinergi-ciptakan-persaingan-usaha-yang-sehat"
     }
   ]
 }
