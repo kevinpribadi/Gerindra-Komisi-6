@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T07:38:13.217371",
+  "generated_at": "2026-08-20T08:34:38.970073",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
@@ -15,7 +15,7 @@
     "Gerindra": 65,
     "PDI-P": 70,
     "Golkar": 45,
-    "NasDem": 30,
+    "NasDem": 29,
     "PKB": 37,
     "PKS": 41,
     "PAN": 22,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 45,
-    "bumn": 86,
+    "danantara": 42,
+    "bumn": 87,
     "dividen": 2,
     "umkm": 19,
-    "koperasi": 41,
+    "koperasi": 42,
     "investasi": 21,
-    "ekspor": 8,
+    "ekspor": 9,
     "perdagangan": 1,
     "ipo": 2,
     "kartel-monopoli": 8
@@ -70,7 +70,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 4,
+    "Subardi": 3,
     "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
@@ -86,13 +86,62 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 20,
+    "Hukum/Audit": 21,
     "Koperasi/UMKM": 62,
     "Kinerja BUMN": 17,
-    "Perdagangan": 28,
+    "Perdagangan": 30,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Bermasalah Disorot, Kawendra Desak Audit Forensik dan Pengawasan Digital - Gerindra",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:28:15 GMT",
+      "link": "https://gerindra.id/2026/08/20/koperasi-bermasalah-disorot-kawendra-desak-audit-forensik-dan-pengawasan-digital/"
+    },
+    {
+      "title": "Lahan Danantara Jadi Incaran, Airlangga Buka Suara Soal Teka-teki Lokasi PFII di Bali - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:28:00 GMT",
+      "link": "https://www.inilah.com/lahan-danantara-jadi-incaran-airlangga-buka-suara-soal-teka-teki-lokasi-pfii-di-bali"
+    },
+    {
+      "title": "Pembersihan BUMN Dipercepat, Pemerintah Hemat Overhead hingga Rp50 Triliun - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:19:57 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216927/pembersihan-bumn-dipercepat-pemerintah-hemat-overhead-hingga-rp50-triliun"
+    },
+    {
+      "title": "Pemerintah Targetkan BUMN Lebih Ramping, Sehat, dan Produktif pada Akhir 2026 - PT Suara Dewata Media",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:19:53 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216928/pemerintah-targetkan-bumn-lebih-ramping-sehat-dan-produktif-pada-akhir-2026"
+    },
+    {
+      "title": "Penghargaan Koperasi Award 2026 Kepada Mimika Dinilai Tidak Sesuai Kenyataan di Lapangan - seputarpapua.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 07:46:15 GMT",
+      "link": "https://seputarpapua.com/view/penghargaan-koperasi-award-2026-kepada-mimika-dinilai-tidak-sesuai-kenyataan-di-lapangan.html"
+    },
+    {
+      "title": "Kemendag Sosialisasikan Aturan Baru Ekspor Beras dan Tambahan Kuota Pisang-Nanas ke Jepang - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 07:44:00 GMT",
+      "link": "https://www.agricom.id/news/5150/kemendag-sosialisasikan-aturan-baru-ekspor-beras-dan-tambahan-kuota-pisang-nanas-ke-jepang"
+    },
+    {
+      "title": "Kemendag Minta Klarifikasi Kebakaran Mobil BYD di Tol Japek - Marketeers",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 07:40:45 GMT",
+      "link": "https://www.marketeers.com/kemendag-minta-klarifikasi-kebakaran-mobil-byd-di-tol-japek/"
+    },
     {
       "title": "Ke Koto Rawang, Andre Rosiade Pastikan 3 Jembatan Gantung di Pessel Rampung - detikNews",
       "entity": "Andre Rosiade",
@@ -148,55 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 05:46:06 GMT",
       "link": "https://www.pekalongan-news.com/2026/08/Relindo-Batang-Terima-Ambulans-CSR-BRI-Rp399-Juta-Rizal-Bawazier-Tekankan-Pelayanan-untuk-Warga.html"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi DPR-Pemerintah Beri Kepastian Nasib Guru PPPK pada 2027 - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 05:30:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-apresiasi-dpr-pemerintah-beri-kepastian-nasib-guru-pppk-pada-2027-281PYNYgSex"
-    },
-    {
-      "title": "Komisi VI DPR: Indonesia Harus Perkuat Posisi Tawar dalam Menentukan Harga Komoditas - Media Nikel Indonesia",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 05:18:20 GMT",
-      "link": "https://nikel.co.id/2026/08/20/komisi-vi-dpr-indonesia-harus-perkuat-posisi-tawar-dalam-menentukan-harga-komoditas/"
-    },
-    {
-      "title": "Aset BUMN Jadi “Bank Tanah” Perumahan, Pemerintah Bentuk Tim Khusus - kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 05:04:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/20/120400921/aset-bumn-jadi-bank-tanah-perumahan-pemerintah-bentuk-tim-khusus"
-    },
-    {
-      "title": "Serahkan Ambulans CSR BRI untuk Relindo Batang, Rizal Bawazier Minta Digunakan Maksimal Layani Warga - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 04:51:00 GMT",
-      "link": "https://radarpekalongan.disway.id/batang/read/114292/serahkan-ambulans-csr-bri-untuk-relindo-batang-rizal-bawazier-minta-digunakan-maksimal-layani-warga"
-    },
-    {
-      "title": "Serahkan Ambulans CSR BRI untuk Relindo Batang, Rizal Bawazier Minta Digunakan Maksimal Layani Warga - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 04:51:00 GMT",
-      "link": "https://radarpekalongan.disway.id/amp/114292/serahkan-ambulans-csr-bri-untuk-relindo-batang-rizal-bawazier-minta-digunakan-maksimal-layani-warga"
-    },
-    {
-      "title": "Kawendra Lukistian Dorong Audit Forensik Kasus Koperasi Simpan Pinjam - Towa.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 04:23:40 GMT",
-      "link": "https://towa.co.id/postingan/kawendra-lukistian-dorong-audit-forensik-kasus-koperasi-simpan-pinjam"
-    },
-    {
-      "title": "Kawendra Lukistian Dorong Audit Forensik Kasus Koperasi Simpan Pinjam - Towa.co.id",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 04:23:40 GMT",
-      "link": "https://towa.co.id/postingan/kawendra-lukistian-dorong-audit-forensik-kasus-koperasi-simpan-pinjam"
     }
   ]
 }
