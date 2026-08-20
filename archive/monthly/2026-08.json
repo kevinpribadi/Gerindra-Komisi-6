@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T17:25:26.804508",
+  "generated_at": "2026-08-20T18:34:34.474963",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
-    "Golkar": 17,
+    "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
     "PKS": 9,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 36,
+    "danantara": 35,
     "bumn": 84,
     "dividen": 2,
     "umkm": 16,
@@ -43,7 +43,7 @@
     "ekspor": 8,
     "perdagangan": 3,
     "ipo": 2,
-    "kartel-monopoli": 11
+    "kartel-monopoli": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -93,6 +93,27 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Antrean Panjang SPBU Sumbar Tak Kunjung Usai, Andre Rosiade Tegur Pertamina - Bisnis.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 18:15:37 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260821/533/1997912/antrean-panjang-spbu-sumbar-tak-kunjung-usai-andre-rosiade-tegur-pertamina"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 17:45:56 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260821/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 17:43:04 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260821/MTEyNg%3D%3D"
+    },
     {
       "title": "| Rieke PDIP: Profesi Kurator Harus Akuntabel, Profesional dan Terlindungi - jurnas.com",
       "entity": "Rieke Diah Pitaloka",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 15:03:49 GMT",
       "link": "https://harianhaluan.id/kunjungan-staf-ahli-kebijakan-publik-kementerian-koperasi-buka-jalan-baru-untuk-teknik-pengelasan-man-2-sijunjung-179145/"
-    },
-    {
-      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - Posmetrobatam.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 14:51:58 GMT",
-      "link": "https://posmetrobatam.co.id/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
-    },
-    {
-      "title": "BP BUMN Kawal Ketat Proses Restrukturisasi Wijaya Karya - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 14:48:26 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-kawal-ketat-proses-restrukturisasi-wijaya-karya/"
-    },
-    {
-      "title": "Daftar Tokoh Penerima Penghargaan Bakti Koperasi Pradana Nayaka Koperasi Awards 2026 - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 14:41:00 GMT",
-      "link": "https://news.detik.com/berita/d-8627730/daftar-tokoh-penerima-penghargaan-bakti-koperasi-pradana-nayaka-koperasi-awards-2026"
     }
   ]
 }
