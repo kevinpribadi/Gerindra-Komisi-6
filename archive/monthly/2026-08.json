@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T08:34:38.970073",
+  "generated_at": "2026-08-20T09:31:08.743266",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
@@ -14,10 +14,10 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 45,
+    "Golkar": 44,
     "NasDem": 29,
     "PKB": 37,
-    "PKS": 41,
+    "PKS": 40,
     "PAN": 22,
     "Demokrat": 21
   },
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 42,
+    "danantara": 41,
     "bumn": 87,
     "dividen": 2,
-    "umkm": 19,
+    "umkm": 18,
     "koperasi": 42,
     "investasi": 21,
+    "perdagangan": 2,
     "ekspor": 9,
-    "perdagangan": 1,
     "ipo": 2,
     "kartel-monopoli": 8
   },
@@ -59,7 +59,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 7,
@@ -78,7 +78,7 @@
     "Amin Ak.": 14,
     "Rizal Bawazier": 9,
     "Ghufran": 2,
-    "Ismail": 16,
+    "Ismail": 15,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
@@ -86,13 +86,27 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 21,
-    "Koperasi/UMKM": 62,
-    "Kinerja BUMN": 17,
+    "Hukum/Audit": 20,
+    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 18,
     "Perdagangan": 30,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Ke Solo, Menteri Perdagangan Sosialisasikan Trade Expo Indonesia ke Pengusaha - Espos.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 09:05:14 GMT",
+      "link": "https://solopos.espos.id/ke-solo-menteri-perdagangan-sosialisasikan-trade-expo-indonesia-ke-pengusaha-2243831"
+    },
+    {
+      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 08:35:20 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif"
+    },
     {
       "title": "Koperasi Bermasalah Disorot, Kawendra Desak Audit Forensik dan Pengawasan Digital - Gerindra",
       "entity": "Kementerian Koperasi",
@@ -120,6 +134,13 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 08:19:53 GMT",
       "link": "https://www.suaradewata.com/berita/202405216928/pemerintah-targetkan-bumn-lebih-ramping-sehat-dan-produktif-pada-akhir-2026"
+    },
+    {
+      "title": "Kemendag Targetkan Waralaba Lokal Tumbuh 7 Persen di 2026 - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 07:48:35 GMT",
+      "link": "https://infobanknews.com/kemendag-targetkan-waralaba-lokal-tumbuh-7-persen-di-2026"
     },
     {
       "title": "Penghargaan Koperasi Award 2026 Kepada Mimika Dinilai Tidak Sesuai Kenyataan di Lapangan - seputarpapua.com",
@@ -176,27 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 06:14:00 GMT",
       "link": "https://jogja.viva.co.id/amp/pantura-raya/11071-rizal-bawazier-serahkan-ambulans-bantuan-bri-untuk-relindo-batang-siap-layani-warga-gratis"
-    },
-    {
-      "title": "KPPU Kanwil V Koordinasi dengan KSOP Balikpapan, Petakan Persaingan Usaha Jasa Kepelabuhanan - KaltimKita.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 06:10:01 GMT",
-      "link": "https://kaltimkita.com/detailpost/kppu-kanwil-v-koordinasi-dengan-ksop-balikpapan-petakan-persaingan-usaha-jasa-kepelabuhanan"
-    },
-    {
-      "title": "Pemerintah Daerah Dikebut PSN, Kemenkop: Gerai KDKMP Ditargetkan Beroperasi Awal Oktober - MediaAksara.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 05:47:00 GMT",
-      "link": "https://mediaaksara.id/pemerintah-daerah-dikebut-psn-kemenkop-gerai-kdkmp-ditargetkan-beroperasi-awal-oktober/"
-    },
-    {
-      "title": "Relindo Batang Terima Ambulans CSR BRI Rp399 Juta, Rizal Bawazier Tekankan Pelayanan untuk Warga - Pekalongan News",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 05:46:06 GMT",
-      "link": "https://www.pekalongan-news.com/2026/08/Relindo-Batang-Terima-Ambulans-CSR-BRI-Rp399-Juta-Rizal-Bawazier-Tekankan-Pelayanan-untuk-Warga.html"
     }
   ]
 }
