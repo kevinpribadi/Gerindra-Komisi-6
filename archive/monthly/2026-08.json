@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T03:43:25.515664",
+  "generated_at": "2026-08-20T04:33:50.056351",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 34,
+    "Gerindra": 30,
+    "PDI-P": 33,
     "Golkar": 14,
     "NasDem": 7,
     "PKB": 12,
@@ -33,8 +33,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 47,
-    "bumn": 85,
+    "danantara": 46,
+    "bumn": 86,
     "dividen": 2,
     "umkm": 19,
     "koperasi": 42,
@@ -85,7 +85,7 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 19,
     "Koperasi/UMKM": 63,
     "Kinerja BUMN": 17,
     "Perdagangan": 27,
@@ -93,11 +93,39 @@
   },
   "top_headlines": [
     {
+      "title": "Kawendra Lukistian Dorong Audit Forensik Kasus Koperasi Simpan Pinjam - Towa.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 04:23:40 GMT",
+      "link": "https://towa.co.id/postingan/kawendra-lukistian-dorong-audit-forensik-kasus-koperasi-simpan-pinjam"
+    },
+    {
+      "title": "Kawendra Lukistian Dorong Audit Forensik Kasus Koperasi Simpan Pinjam - Towa.co.id",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Thu, 20 Aug 2026 04:23:40 GMT",
+      "link": "https://towa.co.id/postingan/kawendra-lukistian-dorong-audit-forensik-kasus-koperasi-simpan-pinjam"
+    },
+    {
+      "title": "Kemendag Klarifikasi BYD Soal Mobil Listrik Terbakar di Tol Japek - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 04:04:28 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260820110238-4-760854/kemendag-klarifikasi-byd-soal-mobil-listrik-terbakar-di-tol-japek"
+    },
+    {
       "title": "Kritik Koperasi Awards Pemkab Mimika, Fraksi Gerindra DPRK: Kontradiktif dengan Realitas - Papua60Detik",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 03:42:04 GMT",
       "link": "https://papua60detik.id/berita/kritik-koperasi-awards-pemkab-mimika-fraksi-gerindra-dprk-kontradiktif-dengan-realitas"
+    },
+    {
+      "title": "Kemendag Minta Klarifikasi BYD soal Insiden Mobil Listrik Terbakar di Tol Cikampek - Bisnis.com - Otomotif",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 03:38:00 GMT",
+      "link": "https://otomotif.bisnis.com/read/20260820/46/1997672/kemendag-minta-klarifikasi-byd-soal-insiden-mobil-listrik-terbakar-di-tol-cikampek"
     },
     {
       "title": "Buntut Mobil Terbakar di Tol Cikampek, Kemendag Panggil BYD Indonesia - merahputih.com",
@@ -126,6 +154,13 @@
       "kind": "anggota",
       "published": "Thu, 20 Aug 2026 01:55:53 GMT",
       "link": "https://www.nusabali.com/berita/228819/demer-jabat-sekretaris-fraksi-golkar-dpr-ri"
+    },
+    {
+      "title": "Apa Kabar BUMN Waskita Setelah Ditinggal Jokowi - Riau24.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 01:45:00 GMT",
+      "link": "https://citizen.riau24.com/berita/baca/1787190518-apa-kabar-bumn-waskita-setelah-ditinggal-jokowi"
     },
     {
       "title": "Apa Kabar BUMN Waskita Setelah Ditinggal Jokowi - riau24.com",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 00:49:00 GMT",
       "link": "https://www.emitennews.com/news/mobil-listrik-bermasalah-kemendag-panggil-byd-indonesia"
-    },
-    {
-      "title": "Business Matching Kemendag Bukukan Rp5,95 Triliun, Libatkan 1.021 UMKM - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 23:00:00 GMT",
-      "link": "https://swa.co.id/read/476250/business-matching-kemendag-bukukan-rp595-triliun-libatkan-1021-umkm"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 17:16:19 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260820/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Golkar Rotasi Pimpinan Komisi DPR, Agun Gunandjar Gantikan Zulkifli Arse di Komisi II - ketik.com",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Wed, 19 Aug 2026 15:43:00 GMT",
-      "link": "https://ketik.com/amp/golkar-rotasi-pimpinan-komisi-dpr-agun-gunandjar-gantikan-zulkifli-arse-di-komisi-ii"
-    },
-    {
-      "title": "Shopee dan Kemendag Perkuat Daya Saing Produk Dalam Negeri lewat Enam Cara Ini - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 15:20:05 GMT",
-      "link": "https://rctiplus.com/news/detail/terkini/5455144/shopee-dan-kemendag-perkuat-daya-saing-produk-dalam-negeri-lewat-enam-cara-ini?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5455144"
-    },
-    {
-      "title": "Kemendag Fasilitasi Business Matching UMKM Senilai Rp 5,95 Triliun - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 19 Aug 2026 14:37:19 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-fasilitasi-business-matching-umkm"
     }
   ]
 }
