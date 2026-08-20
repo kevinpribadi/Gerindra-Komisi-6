@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T11:23:32.453744",
+  "generated_at": "2026-08-20T12:42:20.021235",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 32,
     "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
-    "PKS": 7,
+    "PKS": 8,
     "PAN": 2,
-    "Demokrat": 3
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 46,
+    "Golkar": 42,
     "NasDem": 29,
     "PKB": 37,
     "PKS": 40,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 39,
-    "bumn": 87,
+    "danantara": 38,
+    "bumn": 88,
     "dividen": 2,
     "umkm": 16,
-    "koperasi": 43,
-    "investasi": 21,
+    "koperasi": 42,
+    "investasi": 20,
+    "ekspor": 8,
     "perdagangan": 3,
-    "ekspor": 9,
     "ipo": 2,
-    "kartel-monopoli": 9
+    "kartel-monopoli": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -64,7 +64,7 @@
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 13,
+    "Muhammad Sarmuji": 9,
     "Rachmat Gobel": 7,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
@@ -75,10 +75,10 @@
     "Rivqy Abdul Halim": 2,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 14,
+    "Amin Ak.": 13,
     "Rizal Bawazier": 10,
     "Ghufran": 2,
-    "Ismail": 14,
+    "Ismail": 15,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
@@ -87,12 +87,68 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 21,
-    "Koperasi/UMKM": 60,
-    "Kinerja BUMN": 17,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 59,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 25,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Aji Tera Klaten Didorong Tembus Pasar Global - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 12:25:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/20/719015/koperasi-aji-tera-klaten-didorong-tembus-pasar-global-"
+    },
+    {
+      "title": "KPPU dan Pusan National University Bandingkan Penegakan Persaingan Usaha Indonesia-Korea Selatan - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 12:25:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136598/kppu-dan-pusan-national-university-bandingkan-penegakan-persaingan-usaha-indonesia-korea-selatan"
+    },
+    {
+      "title": "Pasar Global Dibuka, Industri Mebel Indonesia Bidik Ekspor US$6 Miliar - Mettanews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 12:06:30 GMT",
+      "link": "https://mettanews.id/pasar-global-dibuka-industri-mebel-indonesia-bidik-ekspor-us6-miliar/"
+    },
+    {
+      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 12:04:33 GMT",
+      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif%7D"
+    },
+    {
+      "title": "Legislator: Koperasi Wajib Hentikan Kegiatan Usaha yang Tidak Berizin - VIVA.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 11:55:08 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1922851-legislator-koperasi-wajib-hentikan-kegiatan-usaha-yang-tidak-berizin"
+    },
+    {
+      "title": "Pemprov Jambi tunggu aturan teknis operasional 325 KDKMP - ANTARA News Jambi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 11:42:15 GMT",
+      "link": "https://jambi.antaranews.com/berita/664649/pemprov-jambi-tunggu-aturan-teknis-operasional-325-kdkmp"
+    },
+    {
+      "title": "KPPU Dalami Dampak Integrasi Agen IndiHome Dan Telkomsel Terhadap Persaingan Usaha - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 11:32:46 GMT",
+      "link": "https://www.waspada.id/berita/kppu-dalami-dampak-integrasi-agen-indihome-dan-telkomsel-terhadap-persaingan-usaha"
+    },
+    {
+      "title": "Mendag Pastikan Pasokan Sembako ke NTT Aman Pascagempa - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 20 Aug 2026 11:27:15 GMT",
+      "link": "https://www.metrotvnews.com/read/KZmCQZxo-mendag-pastikan-pasokan-sembako-ke-ntt-aman-pascagempa"
+    },
     {
       "title": "KPPU Pelototi 4 Tantangan Utama Transisi Motor Konvensional ke Motor Listrik - Bisnis.com - Otomotif",
       "entity": "KPPU",
@@ -136,67 +192,11 @@
       "link": "https://towa.co.id/postingan/kawendra-minta-kemenkop-audit-dana-koperasi-bermasalah-dan-bangun-sistem-pengawasan-digital"
     },
     {
-      "title": "Koperasi Desa Merah Putih Masuk Tahap Verifikasi, Sukabumi Siapkan Gerai hingga Dokumen - Sukabuminow.com",
-      "entity": "Kementerian Koperasi",
+      "title": "BP Batam Raih Peringkat 1 Nasional Pengelolaan JDIH 2026 - Kampiun News",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 09:49:39 GMT",
-      "link": "https://sukabuminow.com/gerai-kdkmp-sukabumi-verifikasi/"
-    },
-    {
-      "title": "Mendag Target Transaksi Trade Expo di Atas US$ 22,8 Miliar - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 09:42:56 GMT",
-      "link": "https://www.tempo.co/ekonomi/mendag-target-transaksi-trade-expo-di-atas-us-22-8-miliar-2282960"
-    },
-    {
-      "title": "Legislator Pertanyakan Kejanggalan Sanksi Koperasi Simpan Pinjam Mekarsari - Media Indonesia",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 09:37:13 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/924005/legislator-pertanyakan-kejanggalan-sanksi-koperasi-simpan-pinjam-mekarsari"
-    },
-    {
-      "title": "Ke Solo, Menteri Perdagangan Sosialisasikan Trade Expo Indonesia ke Pengusaha - Espos.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 09:05:14 GMT",
-      "link": "https://solopos.espos.id/ke-solo-menteri-perdagangan-sosialisasikan-trade-expo-indonesia-ke-pengusaha-2243831"
-    },
-    {
-      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:35:20 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif"
-    },
-    {
-      "title": "Restrukturisasi BUMN Berjalan, Dikelola Makin Bersih dan Produktif - PT Suara Dewata Media",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:35:20 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216936/restrukturisasi-bumn-berjalan-dikelola-makin-bersih-dan-produktif"
-    },
-    {
-      "title": "Koperasi Bermasalah Disorot, Kawendra Desak Audit Forensik dan Pengawasan Digital - Gerindra",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:28:15 GMT",
-      "link": "https://gerindra.id/2026/08/20/koperasi-bermasalah-disorot-kawendra-desak-audit-forensik-dan-pengawasan-digital/"
-    },
-    {
-      "title": "Lahan Danantara Jadi Incaran, Airlangga Buka Suara Soal Teka-teki Lokasi PFII di Bali - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:28:00 GMT",
-      "link": "https://www.inilah.com/lahan-danantara-jadi-incaran-airlangga-buka-suara-soal-teka-teki-lokasi-pfii-di-bali"
-    },
-    {
-      "title": "Pembersihan BUMN Dipercepat, Pemerintah Hemat Overhead hingga Rp50 Triliun - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 08:19:57 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216927/pembersihan-bumn-dipercepat-pemerintah-hemat-overhead-hingga-rp50-triliun"
+      "published": "Thu, 20 Aug 2026 10:19:23 GMT",
+      "link": "https://kampiunnews.com/bp-batam-raih-peringkat-1-nasional-pengelolaan-jdih-2026/"
     }
   ]
 }
