@@ -1,21 +1,21 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T12:40:41.393647",
+  "generated_at": "2026-08-21T13:42:13.653243",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 13,
-    "Golkar": 16,
+    "Golkar": 17,
     "NasDem": 3,
-    "PKB": 10,
+    "PKB": 11,
     "PKS": 9,
     "PAN": 3
   },
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 45,
+    "Golkar": 46,
     "NasDem": 29,
-    "PKB": 39,
+    "PKB": 40,
     "PKS": 40,
     "PAN": 22,
     "Demokrat": 19
@@ -36,9 +36,9 @@
     "danantara": 27,
     "bumn": 82,
     "dividen": 1,
-    "umkm": 14,
+    "umkm": 15,
     "koperasi": 48,
-    "investasi": 21,
+    "investasi": 20,
     "ekspor": 10,
     "perdagangan": 1,
     "merger-akuisisi": 9,
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 14,
+    "Gde Sumarjaya Linggih": 15,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
@@ -71,7 +71,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 3,
     "Anggia Erma Rini": 13,
-    "Rivqy Abdul Halim": 4,
+    "Rivqy Abdul Halim": 5,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
@@ -85,12 +85,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 63,
+    "Koperasi/UMKM": 64,
     "Kinerja BUMN": 23,
     "Perdagangan": 32,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Demer Minta Rencana Pengembangan PFII di Bali Jadi Penggerak Ekonomi hingga Bali Utara, Timur dan Barat - NUSABALI.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 13:30:43 GMT",
+      "link": "https://www.nusabali.com/berita/228992/demer-minta-rencana-pengembangan-pfii-di-bali-jadi-penggerak-ekonomi-hingga-bali-utara-timur-dan-barat"
+    },
+    {
+      "title": "Berkontribusi Besar Bagi Ekonomi Umat, Menag Nasaruddin Umar Raih Penghargaan Bakti Koperasi Pradana Nayaka 2026 - MAN 2 Kota Jambi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 13:22:08 GMT",
+      "link": "https://man3bungo.mdrsh.id/news/80864/berkontribusi-besar-bagi-ekonomi-umat-menag-nasaruddin-umar-raih-penghargaan-bakti-koperasi-pradana-nayaka-2026.html"
+    },
     {
       "title": "Perkuat Sinergi Keamanan dan Dukung Investasi, BP Batam dan Polri Tandatangani Nota Kesepahaman - TRIBRATA NEWS POLDA KEPRI",
       "entity": "BP Batam",
@@ -113,6 +127,20 @@
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
     },
     {
+      "title": "LPDB Siap Biayai Koperasi Sawit Bangun Pabrik Pengolahan - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 11:50:01 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
+    },
+    {
+      "title": "BP Batam-Polri kerja sama perluas pengamanan di wilayah 22 pulau - ANTARA News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 11:11:45 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5705457/bp-batam-polri-kerja-sama-perluas-pengamanan-di-wilayah-22-pulau"
+    },
+    {
       "title": "BP Batam-Polri kerja sama perluas pengamanan di wilayah 22 pulau - ANTARA News",
       "entity": "BP Batam",
       "kind": "lembaga",
@@ -132,6 +160,13 @@
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 10:52:49 GMT",
       "link": "https://news.detik.com/berita/d-8629076/prabowo-bangun-kembali-jembatan-anduriang-andre-rosiade-dikerjakan-februari-2027"
+    },
+    {
+      "title": "Dari Bandara hingga UMKM, Gus Rivqy Dorong Konektivitas Menjadi Pengungkit Pertumbuhan Ekonomi Daera - Radar Jember",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 10:45:37 GMT",
+      "link": "https://radarjember.jawapos.com/amp/jember/2608210084/dari-bandara-hingga-umkm-gus-rivqy-dorong-konektivitas-menjadi-pengungkit-pertumbuhan-ekonomi-daera"
     },
     {
       "title": "Dari Bandara hingga UMKM, Gus Rivqy Dorong Konektivitas Menjadi Pengungkit Pertumbuhan Ekonomi Daera - Radar Jember",
@@ -160,41 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 10:41:00 GMT",
       "link": "http://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
-    },
-    {
-      "title": "Gus Rivqy Dorong Potensi Jember-Lumajang Naik Kelas Lewat Penguatan UMKM, Koperasi, dan Konektivitas - Radar Jember",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 10:38:02 GMT",
-      "link": "https://radarjember.jawapos.com/jember/2608210083/gus-rivqy-dorong-potensi-jember-lumajang-naik-kelas-lewat-penguatan-umkm-koperasi-dan-konektivitas"
-    },
-    {
-      "title": "Soal Mobil Listrik BYD Terbakar di Tol Cikampek, Kemendag Ambil Langkah Cepat - JPNN.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 10:23:00 GMT",
-      "link": "https://www.jpnn.com/news/soal-mobil-listrik-byd-terbakar-di-tol-cikampek-kemendag-ambil-langkah-cepat"
-    },
-    {
-      "title": "KPPU Ingatkan Risiko Persaingan Timpang di Industri Motor Listrik - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 10:21:00 GMT",
-      "link": "https://otomotif.kompas.com/read/2026/08/21/172100615/kppu-ingatkan-risiko-persaingan-timpang-di-industri-motor-listrik"
-    },
-    {
-      "title": "Dony Oskaria: WIKA Buat Laporan yang Realistis Saja - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 09:54:26 GMT",
-      "link": "https://aspek.id/dony-oskaria-wika-buat-laporan-yang-realistis-saja/"
-    },
-    {
-      "title": "MINYAKITA Terkendali dari Kemendag RI \"PR Program of the Year 2026\" Creative Corporate Reputation Program Category-Judges Assessment - MIX Marcomm",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 09:50:00 GMT",
-      "link": "https://mix.co.id/read/103014/minyakita-terkendali-dari-kemendag-ri-pr-program-of-the-year-2026-creative-corporate-reputation-program-category-judges-assessment"
     }
   ]
 }
