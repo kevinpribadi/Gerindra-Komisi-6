@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T09:33:24.654651",
+  "generated_at": "2026-08-21T10:26:51.702379",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 17,
+    "PDI-P": 14,
     "Golkar": 16,
     "NasDem": 3,
     "PKB": 12,
@@ -11,12 +11,12 @@
     "PAN": 3
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 64,
     "PDI-P": 70,
     "Golkar": 45,
     "NasDem": 29,
     "PKB": 37,
-    "PKS": 41,
+    "PKS": 40,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -33,21 +33,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 29,
-    "bumn": 83,
+    "danantara": 28,
+    "bumn": 82,
     "dividen": 1,
-    "umkm": 13,
+    "umkm": 12,
     "koperasi": 47,
     "investasi": 18,
-    "ekspor": 12,
+    "ekspor": 10,
     "perdagangan": 1,
     "merger-akuisisi": 9,
-    "kartel-monopoli": 15
+    "kartel-monopoli": 14
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 7,
+    "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
@@ -75,7 +75,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 10,
+    "Rizal Bawazier": 9,
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
@@ -85,12 +85,40 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 61,
     "Kinerja BUMN": 23,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "KPPU Ingatkan Risiko Persaingan Timpang di Industri Motor Listrik - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 10:21:00 GMT",
+      "link": "https://otomotif.kompas.com/read/2026/08/21/172100615/kppu-ingatkan-risiko-persaingan-timpang-di-industri-motor-listrik"
+    },
+    {
+      "title": "Dony Oskaria: WIKA Buat Laporan yang Realistis Saja - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 09:54:26 GMT",
+      "link": "https://aspek.id/dony-oskaria-wika-buat-laporan-yang-realistis-saja/"
+    },
+    {
+      "title": "MINYAKITA Terkendali dari Kemendag RI \"PR Program of the Year 2026\" Creative Corporate Reputation Program Category-Judges Assessment - MIX Marcomm",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 09:50:00 GMT",
+      "link": "https://mix.co.id/read/103014/minyakita-terkendali-dari-kemendag-ri-pr-program-of-the-year-2026-creative-corporate-reputation-program-category-judges-assessment"
+    },
+    {
+      "title": "Kemendag Targetkan Transaksi TEI Ke-41 Capai US$ 17,5 Miliar - pdiperjuanganbali.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 09:12:15 GMT",
+      "link": "https://www.pdiperjuanganbali.id/kemendag-targetkan-transaksi-tei-41"
+    },
     {
       "title": "Menag Raih Koperasi Awards 2026, Kemenag Perkuat Komitmen Pengembangan Koperasi Berbasis Keagamaan - UIN Malang",
       "entity": "Kementerian Koperasi",
@@ -167,34 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 08:10:05 GMT",
       "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
-    },
-    {
-      "title": "Pusan National University Kunjungi KPPU di Surabaya, Bahas Perbandingan Penegakan Persaingan Usaha Indonesia–Korea Selatan - redaksi.duta.co",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:49:57 GMT",
-      "link": "https://duta.co/pusan-national-university-kunjungi-kppu-di-surabaya-bahas-perbandingan-penegakan-persaingan-usaha-indonesia-korea-selatan"
-    },
-    {
-      "title": "Danantara Rancang Ekosistem Molinas dari Baterai hingga Pembiayaan Konsumen - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:30:00 GMT",
-      "link": "https://swa.co.id/read/476327/danantara-rancang-ekosistem-molinas-dari-baterai-hingga-pembiayaan-konsumen"
-    },
-    {
-      "title": "Danantara Merancang Molinas Terintegrasi Industri Motor Listrik Nasional - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:30:00 GMT",
-      "link": "https://swa.co.id/read/476327/danantara-merancang-molinas-terintegrasi-industri-motor-listrik-nasional"
-    },
-    {
-      "title": "Batas Wewenang OJK dan KPPU Jadi Sorotan dalam Kasus Bunga Pindar - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:21:07 GMT",
-      "link": "https://keuangan.kontan.co.id/news/batas-wewenang-ojk-dan-kppu-jadi-sorotan-dalam-kasus-bunga-pindar"
     }
   ]
 }
