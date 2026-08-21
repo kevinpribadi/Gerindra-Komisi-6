@@ -3784,7 +3784,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-21T19:23:49.906233",
+        "fetched_at": "2026-08-21T20:22:18.410691",
         "prev_close": 17807,
         "change_pct": -0.6
     },
@@ -3793,7 +3793,7 @@
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-21T19:23:49.906233",
+        "fetched_at": "2026-08-21T20:22:18.410691",
         "prev_close": 6394.12,
         "change_pct": 1.68
     },
@@ -3803,7 +3803,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3080,
             "change_pct": 1.95
@@ -3813,7 +3813,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Bank Mandiri",
             "prev_close": 4140,
             "change_pct": 0.24
@@ -3823,7 +3823,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Bank Negara Indonesia",
             "prev_close": 3560,
             "change_pct": 0.84
@@ -3833,7 +3833,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Bank Tabungan Negara",
             "prev_close": 1200,
             "change_pct": 0.42
@@ -3843,7 +3843,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Telkom Indonesia",
             "prev_close": 2600,
             "change_pct": 0.38
@@ -3853,7 +3853,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Semen Indonesia",
             "prev_close": 1525,
             "change_pct": 1.31
@@ -3863,7 +3863,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Aneka Tambang",
             "prev_close": 3030,
             "change_pct": 3.63
@@ -3873,7 +3873,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1505,
             "change_pct": 1.33
@@ -3883,7 +3883,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Bukit Asam",
             "prev_close": 2370,
             "change_pct": 1.27
@@ -3893,17 +3893,17 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-21T19:23:49.906233",
+            "fetched_at": "2026-08-21T20:22:18.410691",
             "name": "Jasa Marga",
             "prev_close": 2770,
             "change_pct": 0.72
         }
     },
     "scrape_status": {
-        "phase_1_agency": "ok",
-        "phase_2_members": "ok",
+        "phase_1_agency": "failed",
+        "phase_2_members": "partial",
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-21T19:23:49.906233"
+    "last_updated": "2026-08-21T20:22:18.410691"
 }
