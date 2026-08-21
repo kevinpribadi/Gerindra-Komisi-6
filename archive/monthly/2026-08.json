@@ -1,25 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T01:08:05.972899",
+  "generated_at": "2026-08-21T02:59:38.123280",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 32,
-    "Golkar": 17,
+    "PDI-P": 31,
+    "Golkar": 15,
     "NasDem": 6,
     "PKB": 14,
     "PKS": 9,
-    "PAN": 3,
-    "Demokrat": 1
+    "PAN": 3
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 65,
     "PDI-P": 70,
     "Golkar": 44,
     "NasDem": 29,
     "PKB": 37,
     "PKS": 41,
     "PAN": 22,
-    "Demokrat": 21
+    "Demokrat": 19
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -29,26 +28,27 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 18,
+    "BPK Sabang": 17,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 35,
-    "bumn": 84,
+    "danantara": 34,
+    "bumn": 88,
     "dividen": 2,
-    "umkm": 14,
+    "umkm": 13,
     "koperasi": 47,
-    "investasi": 20,
-    "ekspor": 8,
-    "perdagangan": 3,
+    "investasi": 18,
+    "ekspor": 9,
+    "perdagangan": 2,
     "ipo": 2,
+    "merger-akuisisi": 4,
     "kartel-monopoli": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 8,
+    "Muhammad Husein Fadlulloh": 7,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
@@ -82,121 +82,120 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 7,
-    "Herman Khaeron": 12,
-    "Faujia Helga": 2
+    "Herman Khaeron": 12
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 62,
-    "Kinerja BUMN": 22,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 23,
+    "Perdagangan": 34,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Panggil BYD Soal Kebakaran Mobil Listrik Seal di Tol Cikampek - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 02:45:19 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-panggil-byd-kebakaran-mobil-listrik-seal"
+    },
+    {
+      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - HMStimes.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 02:44:32 GMT",
+      "link": "https://hmstimes.com/2026/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
+    },
+    {
+      "title": "GAYO LUES UKIR PRESTASI NASIONAL, BUPATI SUHAIDI RAIH PENGHARGAAN KOPERASI AWARDS 2026 - Pemerintah Kabupaten Gayo Lues",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 02:24:31 GMT",
+      "link": "https://prokopim.gayolueskab.go.id/berita/kategori/berita/gayo-lues-ukir-prestasi-nasional-bupati-suhaidi-raih-penghargaan-koperasi-awards-2026"
+    },
+    {
+      "title": "Andre Rosiade: Era Prabowo, Jembatan Gantung Limau Gadang Dibangun Kembali - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 02:23:59 GMT",
+      "link": "https://news.detik.com/berita/d-8628063/andre-rosiade-era-prabowo-jembatan-gantung-limau-gadang-dibangun-kembali"
+    },
+    {
+      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News Sulteng",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 02:09:57 GMT",
+      "link": "https://sulteng.antaranews.com/berita/390512/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
+    },
+    {
+      "title": "Kawal Penataan BUMN, KPPU Bentuk Satgas Khusus - Emitennews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:59:00 GMT",
+      "link": "https://www.emitennews.com/news/kawal-penataan-bumn-kppu-bentuk-satgas-khusus"
+    },
+    {
+      "title": "Kawal Penataan BUMN, KPPU Bentuk Satgas Khusus - Emitennews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:59:00 GMT",
+      "link": "https://www.emitennews.com/news/kawal-penataan-bumn-kppu-bentuk-satgas-khusus"
+    },
+    {
+      "title": "BP BUMN Dorong Percepatan Merger dan Restrukturisasi PT PP, Ini Alasannya - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:48:13 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dorong-percepatan-merger-dan-restrukturisasi-pt-pp-ini-alasannya/"
+    },
+    {
+      "title": "Ning Ita Raih Penghargaan dari Menkop RI, Penggerak Koperasi Terbaik Tingkat Nasional - Kabarpas",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:43:30 GMT",
+      "link": "https://kabarpas.com/ning-ita-raih-penghargaan-dari-menkop-ri-penggerak-koperasi-terbaik-tingkat-nasional/"
+    },
+    {
+      "title": "BP BUMN Dorong PTPP Perbesar Skala Usaha Lewat Merger - Rmol.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:43:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger-"
+    },
+    {
+      "title": "Menkop Hidupkan Semangat Juang Bung Hatta Di Malam Koperasi Award 2026 - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:42:19 GMT",
+      "link": "https://indoposco.id/2026/08/21/menkop-hidupkan-semangat-juang-bung-hatta-di-malam-koperasi-award-2026/"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN, Merger dan Akuisisi Diminta Dikonsultasikan Sejak Awal - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:34:32 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-bentuk-satgas-kawal-penataan-bumn-merger-dan-akuisisi-diminta-dikonsultasikan-sejak-awal/"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN, Merger dan Akuisisi Diminta Dikonsultasikan Sejak Awal - Gerbang Kaltim",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:34:32 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-bentuk-satgas-kawal-penataan-bumn-merger-dan-akuisisi-diminta-dikonsultasikan-sejak-awal/"
+    },
+    {
+      "title": "Sukses Majukan Koperasi, Ning Ita Raih Penghargaan Dari Menkop Ri - Pemerintah Kota Mojokerto",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:33:00 GMT",
+      "link": "https://web.mojokertokota.go.id/berita/sukses-majukan-koperasi-ning-ita-raih-penghargaan-dari-menkop-ri-ulhxsxchth"
+    },
     {
       "title": "Dorong Koperasi Naik Kelas, Kementerian Koperasi Anugerahi Bupati Sleman Penghargaan Nayaka Mahambara - ketik.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 01:01:00 GMT",
       "link": "https://ketik.com/sleman/politik-pemerintahan/dorong-koperasi-naik-kelas-kementerian-koperasi-anugerahi-bupati-sleman-penghargaan-nayaka-mahambara"
-    },
-    {
-      "title": "Komitmen Majukan Ekonomi Kerakyatan, Bupati Kasmarni Raih Penghargaan Bakti Koperasi Nayaka Mahambara 2026 - diskominfotik.bengkaliskab.go.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 00:54:37 GMT",
-      "link": "https://diskominfotik.bengkaliskab.go.id/web/detailberita/21555/komitmen-majukan-ekonomi-kerakyatan-bupati-kasmarni-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
-    },
-    {
-      "title": "Cegah Monopoli Logistik, KPPU Petakan Persaingan Usaha Jasa Kepelabuhanan di Balikpapan - ProPublika",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 00:53:22 GMT",
-      "link": "https://propublika.id/berita/cegah-monopoli-logistik-kppu-petakan-persaingan-usaha-jasa-kepelabuhanan-di-balikpapan/"
-    },
-    {
-      "title": "Daftar Kementerian dan Lembaga dengan Anggaran Terkecil di RAPBN 2027 - CNN Indonesia",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 00:46:01 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260820173827-20-1394607/daftar-kementerian-dan-lembaga-dengan-anggaran-terkecil-di-rapbn-2027"
-    },
-    {
-      "title": "Menkop Ferry: Keberhasilan Koperasi Tak Cukup Diukur dari Besarnya Organisasi - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/21/070000026/menkop-ferry--keberhasilan-koperasi-tak-cukup-diukur-dari-besarnya-organisasi"
-    },
-    {
-      "title": "Komit Memperkuat Rantai Pasok Pangan Nasional, ID FOOD Raih Koperasi Award 2026 - pasardana.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 22:49:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/21/komit-memperkuat-rantai-pasok-pangan-nasional-id-food-raih-koperasi-award-2026"
-    },
-    {
-      "title": "Bupati Kasmarni Jadi Satu-Satunya Bupati di Riau Penerima Penghargaan Bakti Koperasi Nayaka Mahambara - prokopim.bengkaliskab.go.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 22:39:56 GMT",
-      "link": "https://prokopim.bengkaliskab.go.id/web/detailberita/17722/2026/08/21/bupati-kasmarni-jadi-satu-satunya-bupati-di-riau-penerima-penghargaan-bakti-koperasi-nayaka-mahambara"
-    },
-    {
-      "title": "Antrean Panjang SPBU Sumbar Tak Kunjung Usai, Andre Rosiade Tegur Pertamina - Bisnis.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 18:15:37 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260821/533/1997912/antrean-panjang-spbu-sumbar-tak-kunjung-usai-andre-rosiade-tegur-pertamina"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 17:45:56 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260821/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 17:43:04 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260821/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - batamclick.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 17:05:23 GMT",
-      "link": "https://batamclick.com/21/08/2026/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
-    },
-    {
-      "title": "| Rieke PDIP: Profesi Kurator Harus Akuntabel, Profesional dan Terlindungi - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 16:46:20 GMT",
-      "link": "https://www.jurnas.com/artikel/1664009/rieke-pdip-profesi-kurator-harus-akuntabel-profesional-dan-terlindungi/"
-    },
-    {
-      "title": "Menkop Ferry Harap Koperasi Awards Jadi Motivasi Lanjutkan Cita-cita Bung Hatta - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 16:24:27 GMT",
-      "link": "https://news.detik.com/berita/d-8627838/menkop-ferry-harap-koperasi-awards-jadi-motivasi-lanjutkan-cita-cita-bung-hatta"
-    },
-    {
-      "title": "Rosan: Investor Asia Respons Positif Proyek PFII - NusantaraTV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 16:18:26 GMT",
-      "link": "https://www.nusantaratv.com/finance/rosan-investor-asia-respons-positif-proyek-pfii"
-    },
-    {
-      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - AriraNews.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 16:15:20 GMT",
-      "link": "https://ariranews.com/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/amp/"
     }
   ]
 }
