@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T08:37:04.332581",
+  "generated_at": "2026-08-21T09:33:24.654651",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 19,
+    "PDI-P": 17,
     "Golkar": 16,
-    "NasDem": 4,
-    "PKB": 14,
+    "NasDem": 3,
+    "PKB": 12,
     "PKS": 9,
     "PAN": 3
   },
@@ -33,15 +33,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 28,
-    "bumn": 84,
+    "danantara": 29,
+    "bumn": 83,
     "dividen": 1,
     "umkm": 13,
     "koperasi": 47,
     "investasi": 18,
-    "ekspor": 11,
-    "perdagangan": 2,
-    "merger-akuisisi": 7,
+    "ekspor": 12,
+    "perdagangan": 1,
+    "merger-akuisisi": 9,
     "kartel-monopoli": 15
   },
   "member_counts_30d": {
@@ -87,10 +87,45 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 62,
     "Kinerja BUMN": 23,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menag Raih Koperasi Awards 2026, Kemenag Perkuat Komitmen Pengembangan Koperasi Berbasis Keagamaan - UIN Malang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 09:10:53 GMT",
+      "link": "https://uin-malang.ac.id/blog/berita-2/menag-raih-koperasi-awards-2026-kemenag-perkuat-komitmen-pengembangan-koperasi-berbasis-keagamaan-624"
+    },
+    {
+      "title": "BP BUMN Instruksikan Percepat Restrukturisasi dan Merger PT PP - Tirto.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 09:09:00 GMT",
+      "link": "https://tirto.id/bp-bumn-instruksikan-percepat-restrukturisasi-dan-merger-pt-pp-hBCD"
+    },
+    {
+      "title": "Gubernur Sulsel raih Penghargaan Bakti Koperasi 2026 dari Kemenkop - ANTARA News Makassar",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:57:21 GMT",
+      "link": "https://makassar.antaranews.com/berita/636483/gubernur-sulsel-raih-penghargaan-bakti-koperasi-2026-dari-kemenkop"
+    },
+    {
+      "title": "Kemendag Buka Suara soal Tudingan Transshipment AS ke RI - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:40:16 GMT",
+      "link": "https://nasional.kontan.co.id/news/kemendag-buka-suara-soal-tudingan-transshipment-as-ke-ri"
+    },
+    {
+      "title": "Danantara siapkan skema merger dan restrukturisasi PT PP - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:38:40 GMT",
+      "link": "https://www.antaranews.com/berita/5705099/danantara-siapkan-skema-merger-dan-restrukturisasi-pt-pp"
+    },
     {
       "title": "Dony Oskaria ke WIKA: Jangan Buat Laporan Keuangan Khayalan - Bloomberg Technoz",
       "entity": "Danantara",
@@ -127,6 +162,13 @@
       "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
     },
     {
+      "title": "Kemendag buka peluang perluasan ekspor beras Indonesia - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:10:05 GMT",
+      "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
+    },
+    {
       "title": "Pusan National University Kunjungi KPPU di Surabaya, Bahas Perbandingan Penegakan Persaingan Usaha Indonesia–Korea Selatan - redaksi.duta.co",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -153,48 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 07:21:07 GMT",
       "link": "https://keuangan.kontan.co.id/news/batas-wewenang-ojk-dan-kppu-jadi-sorotan-dalam-kasus-bunga-pindar"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN agar Selaras dengan Prinsip Persaingan Usaha - Telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:14:48 GMT",
-      "link": "https://telusur.co.id/detail/kppu-bentuk-satgas-kawal-penataan-bumn-agar-selaras-dengan-prinsip-persaingan-usaha"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN agar Selaras dengan Prinsip Persaingan Usaha - Telusur.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 07:14:48 GMT",
-      "link": "https://telusur.co.id/detail/kppu-bentuk-satgas-kawal-penataan-bumn-agar-selaras-dengan-prinsip-persaingan-usaha"
-    },
-    {
-      "title": "Andre Rosiade: Prabowo Kucurkan Rp1 T Benahi PDAM Padang, SPAM Palukahan Segera Dibangun - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 06:34:09 GMT",
-      "link": "https://news.detik.com/berita/d-8628513/andre-rosiade-prabowo-kucurkan-rp1-t-benahi-pdam-padang-spam-palukahan-segera-dibangun"
-    },
-    {
-      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 06:12:18 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/420195/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
-    },
-    {
-      "title": "Danantara Housing Expo Tawarkan Promo Bunga KPR 2,75% hingga DP 1% - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 06:02:50 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260821113850-17-761236/danantara-housing-expo-tawarkan-promo-bunga-kpr-275-hingga-dp-1"
-    },
-    {
-      "title": "Prabowo Anggarkan Rp 175 M, Andre Rosiade Pastikan Gunung Nago Dibangun Kembali - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 05:56:00 GMT",
-      "link": "https://kumparan.com/kumparannews/prabowo-anggarkan-rp-175-m-andre-rosiade-pastikan-gunung-nago-dibangun-kembali-281oQxNTuBZ"
     }
   ]
 }
