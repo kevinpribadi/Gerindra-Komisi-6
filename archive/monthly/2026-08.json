@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T03:55:55.152141",
+  "generated_at": "2026-08-21T04:36:24.720903",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 30,
+    "PDI-P": 28,
     "Golkar": 15,
     "NasDem": 6,
     "PKB": 14,
@@ -33,8 +33,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 34,
-    "bumn": 88,
+    "danantara": 33,
+    "bumn": 87,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 47,
@@ -92,6 +92,13 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Kucurkan Rp175 M, Andre Rosiade Pastikan Jembatan-Sabo Dam Gunung Nago Dibangun November - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 04:05:23 GMT",
+      "link": "https://news.detik.com/berita/d-8628239/prabowo-kucurkan-rp175-m-andre-rosiade-pastikan-jembatan-sabo-dam-gunung-nago-dibangun-november"
+    },
     {
       "title": "Kemendag dan BI Perkuat Sinergi, Dorong UMKM Indonesia Tembus Pasar Global - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 01:43:00 GMT",
       "link": "https://rmol.id/amp/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger-"
-    },
-    {
-      "title": "Menkop Hidupkan Semangat Juang Bung Hatta Di Malam Koperasi Award 2026 - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:42:19 GMT",
-      "link": "https://indoposco.id/2026/08/21/menkop-hidupkan-semangat-juang-bung-hatta-di-malam-koperasi-award-2026/"
     }
   ]
 }
