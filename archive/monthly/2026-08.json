@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T04:36:24.720903",
+  "generated_at": "2026-08-21T05:29:17.226280",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 28,
-    "Golkar": 15,
+    "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
     "PKS": 9,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 70,
-    "Golkar": 44,
+    "Golkar": 45,
     "NasDem": 29,
     "PKB": 37,
     "PKS": 41,
@@ -34,16 +34,16 @@
   },
   "topic_counts_30d": {
     "danantara": 33,
-    "bumn": 87,
+    "bumn": 88,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 47,
-    "investasi": 18,
-    "ekspor": 9,
+    "investasi": 17,
+    "ekspor": 10,
     "perdagangan": 2,
     "ipo": 2,
-    "merger-akuisisi": 5,
-    "kartel-monopoli": 12
+    "kartel-monopoli": 12,
+    "merger-akuisisi": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -61,7 +61,7 @@
     "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 3,
+    "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 10,
@@ -88,16 +88,58 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 62,
     "Kinerja BUMN": 22,
-    "Perdagangan": 34,
+    "Perdagangan": 33,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kapolda Banten Pimpin RAT Primkop Gakuba Tahun Buku 2025 - Tribrata News Banten",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 05:15:41 GMT",
+      "link": "https://tribratanews.banten.polri.go.id/kapolda-banten-pimpin-rat-primkop-gakuba-tahun-buku-2025/"
+    },
+    {
+      "title": "Doni Akbar Soroti Sanksi Administratif Koperasi Simpan Pinjam Mekarsari - RM.ID",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 04:47:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/322700/doni-akbar-soroti-sanksi-administratif-koperasi-simpan-pinjam-mekarsari"
+    },
+    {
+      "title": "Potensi Monopoli Jasa Pelabuhan Balikpapan Masuk Radar KPPU - Katakaltim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 04:38:52 GMT",
+      "link": "https://katakaltim.com/potensi-monopoli-jasa-pelabuhan-balikpapan-masuk-radar-kppu"
+    },
+    {
+      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 04:27:17 GMT",
+      "link": "https://ambon.antaranews.com/berita/340608/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
+    },
     {
       "title": "Prabowo Kucurkan Rp175 M, Andre Rosiade Pastikan Jembatan-Sabo Dam Gunung Nago Dibangun November - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 04:05:23 GMT",
       "link": "https://news.detik.com/berita/d-8628239/prabowo-kucurkan-rp175-m-andre-rosiade-pastikan-jembatan-sabo-dam-gunung-nago-dibangun-november"
+    },
+    {
+      "title": "Gagasan Koperasi Bung Hatta Tetap Relevan di Era Modern - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 04:01:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/08/21/719073/gagasan-koperasi-bung-hatta-tetap-relevan-di-era-modern"
+    },
+    {
+      "title": "Bupati Mimika dan Kadis Koperasi Raih Koperasi Award, Menteri Juliantono: Award Berpijak Dedikasi - ODIYAIWUU",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 03:54:51 GMT",
+      "link": "https://www.odiyaiwuu.com/bupati-mimika-dan-kadis-koperasi-raih-koperasi-award-menteri-juliantono-award-berpijak-dedikasi/"
     },
     {
       "title": "Kemendag dan BI Perkuat Sinergi, Dorong UMKM Indonesia Tembus Pasar Global - Suara Pemerintah",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 02:09:57 GMT",
       "link": "https://sulteng.antaranews.com/berita/390512/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
-    },
-    {
-      "title": "Kawal Penataan BUMN, KPPU Bentuk Satgas Khusus - Emitennews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:59:00 GMT",
-      "link": "https://www.emitennews.com/news/kawal-penataan-bumn-kppu-bentuk-satgas-khusus"
-    },
-    {
-      "title": "Kawal Penataan BUMN, KPPU Bentuk Satgas Khusus - Emitennews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:59:00 GMT",
-      "link": "https://www.emitennews.com/news/kawal-penataan-bumn-kppu-bentuk-satgas-khusus"
-    },
-    {
-      "title": "BP BUMN Dorong Percepatan Merger dan Restrukturisasi PT PP, Ini Alasannya - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:48:13 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dorong-percepatan-merger-dan-restrukturisasi-pt-pp-ini-alasannya/"
-    },
-    {
-      "title": "Ning Ita Raih Penghargaan dari Menkop RI, Penggerak Koperasi Terbaik Tingkat Nasional - Kabarpas",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:43:30 GMT",
-      "link": "https://kabarpas.com/ning-ita-raih-penghargaan-dari-menkop-ri-penggerak-koperasi-terbaik-tingkat-nasional/"
-    },
-    {
-      "title": "BP BUMN Dorong PTPP Perbesar Skala Usaha Lewat Merger - Rmol.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:43:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger"
-    },
-    {
-      "title": "BP BUMN Dorong PTPP Perbesar Skala Usaha Lewat Merger - Rmol.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:43:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger-"
     }
   ]
 }
