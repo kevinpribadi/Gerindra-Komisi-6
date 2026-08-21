@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T21:20:51.184569",
+  "generated_at": "2026-08-21T22:20:36.526083",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 14,
     "Golkar": 17,
     "NasDem": 3,
-    "PKB": 11,
+    "PKB": 12,
     "PKS": 9,
     "PAN": 4
   },
@@ -15,7 +15,7 @@
     "PDI-P": 70,
     "Golkar": 46,
     "NasDem": 29,
-    "PKB": 40,
+    "PKB": 41,
     "PKS": 40,
     "PAN": 22,
     "Demokrat": 19
@@ -34,15 +34,15 @@
   },
   "topic_counts_30d": {
     "danantara": 24,
-    "bumn": 82,
+    "bumn": 83,
     "dividen": 1,
-    "umkm": 14,
-    "koperasi": 49,
+    "umkm": 15,
+    "koperasi": 50,
     "investasi": 19,
     "perdagangan": 1,
     "ekspor": 10,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 15
+    "kartel-monopoli": 16
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -71,7 +71,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 3,
     "Anggia Erma Rini": 13,
-    "Rivqy Abdul Halim": 5,
+    "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
@@ -85,7 +85,7 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 64,
+    "Koperasi/UMKM": 65,
     "Kinerja BUMN": 22,
     "Perdagangan": 32,
     "Konflik Publik": 3
@@ -97,6 +97,13 @@
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 17:31:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-usul-bypass-bukittinggi-solusi-polemik-tol-dan-fly-over-sumbar-2820K6fQHEl"
+    },
+    {
+      "title": "LPKSM Borneo Kalimantan Bawa Gagasan Baru Perlindungan Konsumen Ke Go Mall - Teras7.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 16:59:58 GMT",
+      "link": "https://teras7.com/lpksm-borneo-kalimantan-bawa-gagasan-baru-perlindungan-konsumen-ke-go-mall/"
     },
     {
       "title": "Andre Rosiade Tinjau Youth Center Kota Pariaman, Pastikan Revitalisasi GOR Rawang Terus Berlanjut - Website Kota Pariaman",
@@ -188,13 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 11:50:01 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
-    },
-    {
-      "title": "BP Batam-Polri kerja sama perluas pengamanan di wilayah 22 pulau - ANTARA News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 11:11:45 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5705457/bp-batam-polri-kerja-sama-perluas-pengamanan-di-wilayah-22-pulau"
     }
   ]
 }
