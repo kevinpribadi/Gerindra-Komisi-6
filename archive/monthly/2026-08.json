@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T11:22:30.017095",
+  "generated_at": "2026-08-21T12:40:41.393647",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 13,
     "Golkar": 16,
     "NasDem": 3,
-    "PKB": 11,
+    "PKB": 10,
     "PKS": 9,
     "PAN": 3
   },
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 28,
+    "danantara": 27,
     "bumn": 82,
     "dividen": 1,
     "umkm": 14,
     "koperasi": 48,
-    "investasi": 20,
+    "investasi": 21,
     "ekspor": 10,
     "perdagangan": 1,
     "merger-akuisisi": 9,
-    "kartel-monopoli": 14
+    "kartel-monopoli": 15
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -92,6 +92,41 @@
   },
   "top_headlines": [
     {
+      "title": "Perkuat Sinergi Keamanan dan Dukung Investasi, BP Batam dan Polri Tandatangani Nota Kesepahaman - TRIBRATA NEWS POLDA KEPRI",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 12:02:34 GMT",
+      "link": "https://tribratanews.kepri.polri.go.id/perkuat-sinergi-keamanan-dan-dukung-investasi-bp-batam-dan-polri-tandatangani-nota-kesepahaman/"
+    },
+    {
+      "title": "Menkop ajak komunitas industri kreatif bentuk koperasi dukung produksi - ANTARA News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 11:54:11 GMT",
+      "link": "https://www.antaranews.com/berita/5705527/menkop-ajak-komunitas-industri-kreatif-bentuk-koperasi-dukung-produksi"
+    },
+    {
+      "title": "LPDB Siap Biayai Koperasi Sawit Bangun Pabrik Pengolahan - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 11:50:01 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
+    },
+    {
+      "title": "BP Batam-Polri kerja sama perluas pengamanan di wilayah 22 pulau - ANTARA News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 11:11:45 GMT",
+      "link": "https://www.antaranews.com/berita/5705457/bp-batam-polri-kerja-sama-perluas-pengamanan-di-wilayah-22-pulau"
+    },
+    {
+      "title": "Prabowo Bangun Kembali Jembatan Anduriang, Andre Rosiade: Dikerjakan Februari 2027 - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 10:52:49 GMT",
+      "link": "https://news.detik.com/berita/d-8629076/prabowo-bangun-kembali-jembatan-anduriang-andre-rosiade-dikerjakan-februari-2027"
+    },
+    {
       "title": "Prabowo Bangun Kembali Jembatan Anduriang, Andre Rosiade: Dikerjakan Februari 2027 - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
@@ -118,6 +153,13 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 10:41:00 GMT",
       "link": "https://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Khusus Awasi Penataan BUMN demi Jaga Persaingan Usaha Sehat - kabarbisnis.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 10:41:00 GMT",
+      "link": "http://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
     },
     {
       "title": "Gus Rivqy Dorong Potensi Jember-Lumajang Naik Kelas Lewat Penguatan UMKM, Koperasi, dan Konektivitas - Radar Jember",
@@ -153,48 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 09:50:00 GMT",
       "link": "https://mix.co.id/read/103014/minyakita-terkendali-dari-kemendag-ri-pr-program-of-the-year-2026-creative-corporate-reputation-program-category-judges-assessment"
-    },
-    {
-      "title": "Kemendag Targetkan Transaksi TEI Ke-41 Capai US$ 17,5 Miliar - pdiperjuanganbali.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 09:12:15 GMT",
-      "link": "https://www.pdiperjuanganbali.id/kemendag-targetkan-transaksi-tei-41"
-    },
-    {
-      "title": "Menag Raih Koperasi Awards 2026, Kemenag Perkuat Komitmen Pengembangan Koperasi Berbasis Keagamaan - UIN Malang",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 09:10:53 GMT",
-      "link": "https://uin-malang.ac.id/blog/berita-2/menag-raih-koperasi-awards-2026-kemenag-perkuat-komitmen-pengembangan-koperasi-berbasis-keagamaan-624"
-    },
-    {
-      "title": "BP BUMN Instruksikan Percepat Restrukturisasi dan Merger PT PP - Tirto.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 09:09:00 GMT",
-      "link": "https://tirto.id/bp-bumn-instruksikan-percepat-restrukturisasi-dan-merger-pt-pp-hBCD"
-    },
-    {
-      "title": "Gubernur Sulsel raih Penghargaan Bakti Koperasi 2026 dari Kemenkop - ANTARA News Makassar",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:57:21 GMT",
-      "link": "https://makassar.antaranews.com/berita/636483/gubernur-sulsel-raih-penghargaan-bakti-koperasi-2026-dari-kemenkop"
-    },
-    {
-      "title": "Kemendag Buka Suara soal Tudingan Transshipment AS ke RI - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:40:16 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemendag-buka-suara-soal-tudingan-transshipment-as-ke-ri"
-    },
-    {
-      "title": "Danantara siapkan skema merger dan restrukturisasi PT PP - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:38:40 GMT",
-      "link": "https://www.antaranews.com/berita/5705099/danantara-siapkan-skema-merger-dan-restrukturisasi-pt-pp"
     }
   ]
 }
