@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T06:40:49.801271",
+  "generated_at": "2026-08-21T07:39:44.735442",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 24,
+    "PDI-P": 23,
     "Golkar": 16,
-    "NasDem": 6,
+    "NasDem": 5,
     "PKB": 14,
     "PKS": 9,
     "PAN": 3
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 32,
-    "bumn": 88,
+    "danantara": 30,
+    "bumn": 87,
     "dividen": 2,
     "umkm": 13,
     "koperasi": 47,
     "investasi": 18,
-    "ekspor": 11,
+    "ekspor": 10,
     "perdagangan": 2,
-    "ipo": 2,
-    "kartel-monopoli": 12,
+    "ipo": 1,
+    "kartel-monopoli": 14,
     "merger-akuisisi": 5
   },
   "member_counts_30d": {
@@ -88,10 +88,38 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 61,
     "Kinerja BUMN": 22,
-    "Perdagangan": 33,
+    "Perdagangan": 30,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Danantara Merancang Molinas Terintegrasi Industri Motor Listrik Nasional - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:30:00 GMT",
+      "link": "https://swa.co.id/read/476327/danantara-merancang-molinas-terintegrasi-industri-motor-listrik-nasional"
+    },
+    {
+      "title": "Batas Wewenang OJK dan KPPU Jadi Sorotan dalam Kasus Bunga Pindar - kontan.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:21:07 GMT",
+      "link": "https://keuangan.kontan.co.id/news/batas-wewenang-ojk-dan-kppu-jadi-sorotan-dalam-kasus-bunga-pindar"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN agar Selaras dengan Prinsip Persaingan Usaha - Telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:14:48 GMT",
+      "link": "https://telusur.co.id/detail/kppu-bentuk-satgas-kawal-penataan-bumn-agar-selaras-dengan-prinsip-persaingan-usaha"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN agar Selaras dengan Prinsip Persaingan Usaha - Telusur.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:14:48 GMT",
+      "link": "https://telusur.co.id/detail/kppu-bentuk-satgas-kawal-penataan-bumn-agar-selaras-dengan-prinsip-persaingan-usaha"
+    },
     {
       "title": "Andre Rosiade: Prabowo Kucurkan Rp1 T Benahi PDAM Padang, SPAM Palukahan Segera Dibangun - detikNews",
       "entity": "Andre Rosiade",
@@ -112,6 +140,13 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 06:02:50 GMT",
       "link": "https://www.cnbcindonesia.com/market/20260821113850-17-761236/danantara-housing-expo-tawarkan-promo-bunga-kpr-275-hingga-dp-1"
+    },
+    {
+      "title": "Prabowo Anggarkan Rp 175 M, Andre Rosiade Pastikan Gunung Nago Dibangun Kembali - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 05:56:00 GMT",
+      "link": "https://kumparan.com/kumparannews/prabowo-anggarkan-rp-175-m-andre-rosiade-pastikan-gunung-nago-dibangun-kembali-281oQxNTuBZ"
     },
     {
       "title": "Mobil Listrik BYD Seal Terbakar di Tol Cikampek, Kemendag Langsung Turun Tangan! - Deliknews.com",
@@ -135,6 +170,13 @@
       "link": "https://tribratanews.banten.polri.go.id/kapolda-banten-pimpin-rat-primkop-gakuba-tahun-buku-2025/"
     },
     {
+      "title": "Andre Rosiade Kawal Aspirasi, Jembatan Duku-Subarang Solok Segera Rampung - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 04:54:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-kawal-aspirasi-jembatan-duku-subarang-solok-segera-rampung-281nQ5tOoGx"
+    },
+    {
       "title": "Doni Akbar Soroti Sanksi Administratif Koperasi Simpan Pinjam Mekarsari - RM.ID",
       "entity": "Doni Akbar",
       "kind": "anggota",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 04:27:17 GMT",
       "link": "https://ambon.antaranews.com/berita/340608/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
-    },
-    {
-      "title": "Prabowo Kucurkan Rp175 M, Andre Rosiade Pastikan Jembatan-Sabo Dam Gunung Nago Dibangun November - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 04:05:23 GMT",
-      "link": "https://news.detik.com/berita/d-8628239/prabowo-kucurkan-rp175-m-andre-rosiade-pastikan-jembatan-sabo-dam-gunung-nago-dibangun-november"
-    },
-    {
-      "title": "Gagasan Koperasi Bung Hatta Tetap Relevan di Era Modern - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 04:01:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/08/21/719073/gagasan-koperasi-bung-hatta-tetap-relevan-di-era-modern"
-    },
-    {
-      "title": "Bupati Mimika dan Kadis Koperasi Raih Koperasi Award, Menteri Juliantono: Award Berpijak Dedikasi - ODIYAIWUU",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 03:54:51 GMT",
-      "link": "https://www.odiyaiwuu.com/bupati-mimika-dan-kadis-koperasi-raih-koperasi-award-menteri-juliantono-award-berpijak-dedikasi/"
-    },
-    {
-      "title": "Kemendag dan BI Perkuat Sinergi, Dorong UMKM Indonesia Tembus Pasar Global - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 03:20:36 GMT",
-      "link": "https://suarapemerintah.id/2026/08/kemendag-dan-bi-perkuat-sinergi-dorong-umkm-indonesia-tembus-pasar-global/"
-    },
-    {
-      "title": "Menkop perkuat pembinaan 130 ribu koperasi demi ekonomi nasional - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 03:10:49 GMT",
-      "link": "https://www.antaranews.com/berita/5704596/menkop-perkuat-pembinaan-130-ribu-koperasi-demi-ekonomi-nasional"
-    },
-    {
-      "title": "Video Menkop Ferry Ingin Cita-cita Bung Hatta soal Koperasi Terus Dilanjutkan - 20detik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 02:57:07 GMT",
-      "link": "https://20.detik.com/detikupdate/20260821-260821001/video-raih-koperasi-awards-andra-soni-bertekad-kembangkan-koperasi-di-banten"
     }
   ]
 }
