@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T02:59:38.123280",
+  "generated_at": "2026-08-21T03:55:55.152141",
   "party_counts_7d": {
-    "Gerindra": 30,
-    "PDI-P": 31,
+    "Gerindra": 29,
+    "PDI-P": 30,
     "Golkar": 15,
     "NasDem": 6,
     "PKB": 14,
@@ -36,13 +36,13 @@
     "danantara": 34,
     "bumn": 88,
     "dividen": 2,
-    "umkm": 13,
+    "umkm": 14,
     "koperasi": 47,
     "investasi": 18,
     "ekspor": 9,
     "perdagangan": 2,
     "ipo": 2,
-    "merger-akuisisi": 4,
+    "merger-akuisisi": 5,
     "kartel-monopoli": 12
   },
   "member_counts_30d": {
@@ -86,12 +86,33 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 61,
-    "Kinerja BUMN": 23,
+    "Koperasi/UMKM": 62,
+    "Kinerja BUMN": 22,
     "Perdagangan": 34,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemendag dan BI Perkuat Sinergi, Dorong UMKM Indonesia Tembus Pasar Global - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 03:20:36 GMT",
+      "link": "https://suarapemerintah.id/2026/08/kemendag-dan-bi-perkuat-sinergi-dorong-umkm-indonesia-tembus-pasar-global/"
+    },
+    {
+      "title": "Menkop perkuat pembinaan 130 ribu koperasi demi ekonomi nasional - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 03:10:49 GMT",
+      "link": "https://www.antaranews.com/berita/5704596/menkop-perkuat-pembinaan-130-ribu-koperasi-demi-ekonomi-nasional"
+    },
+    {
+      "title": "Video Menkop Ferry Ingin Cita-cita Bung Hatta soal Koperasi Terus Dilanjutkan - 20detik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 02:57:07 GMT",
+      "link": "https://20.detik.com/detikupdate/20260821-260821001/video-raih-koperasi-awards-andra-soni-bertekad-kembangkan-koperasi-di-banten"
+    },
     {
       "title": "Kemendag Panggil BYD Soal Kebakaran Mobil Listrik Seal di Tol Cikampek - achmadnurhidayat.id",
       "entity": "Kementerian Perdagangan",
@@ -160,6 +181,13 @@
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 01:43:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger"
+    },
+    {
+      "title": "BP BUMN Dorong PTPP Perbesar Skala Usaha Lewat Merger - Rmol.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:43:00 GMT",
       "link": "https://rmol.id/amp/2026/08/21/719055/bp-bumn-dorong-ptpp-perbesar-skala-usaha-lewat-merger-"
     },
     {
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 01:42:19 GMT",
       "link": "https://indoposco.id/2026/08/21/menkop-hidupkan-semangat-juang-bung-hatta-di-malam-koperasi-award-2026/"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN, Merger dan Akuisisi Diminta Dikonsultasikan Sejak Awal - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:34:32 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-bentuk-satgas-kawal-penataan-bumn-merger-dan-akuisisi-diminta-dikonsultasikan-sejak-awal/"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN, Merger dan Akuisisi Diminta Dikonsultasikan Sejak Awal - Gerbang Kaltim",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:34:32 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-bentuk-satgas-kawal-penataan-bumn-merger-dan-akuisisi-diminta-dikonsultasikan-sejak-awal/"
-    },
-    {
-      "title": "Sukses Majukan Koperasi, Ning Ita Raih Penghargaan Dari Menkop Ri - Pemerintah Kota Mojokerto",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:33:00 GMT",
-      "link": "https://web.mojokertokota.go.id/berita/sukses-majukan-koperasi-ning-ita-raih-penghargaan-dari-menkop-ri-ulhxsxchth"
-    },
-    {
-      "title": "Dorong Koperasi Naik Kelas, Kementerian Koperasi Anugerahi Bupati Sleman Penghargaan Nayaka Mahambara - ketik.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 01:01:00 GMT",
-      "link": "https://ketik.com/sleman/politik-pemerintahan/dorong-koperasi-naik-kelas-kementerian-koperasi-anugerahi-bupati-sleman-penghargaan-nayaka-mahambara"
     }
   ]
 }
