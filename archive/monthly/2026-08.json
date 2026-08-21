@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T15:30:00.240134",
+  "generated_at": "2026-08-21T16:30:19.904279",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 13,
+    "PDI-P": 14,
     "Golkar": 17,
     "NasDem": 3,
     "PKB": 11,
@@ -16,7 +16,7 @@
     "Golkar": 46,
     "NasDem": 29,
     "PKB": 40,
-    "PKS": 40,
+    "PKS": 39,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -33,14 +33,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 27,
-    "bumn": 82,
+    "danantara": 26,
+    "bumn": 81,
     "dividen": 1,
     "umkm": 14,
     "koperasi": 49,
     "investasi": 20,
-    "ekspor": 10,
     "perdagangan": 1,
+    "ekspor": 10,
     "merger-akuisisi": 9,
     "kartel-monopoli": 15
   },
@@ -75,7 +75,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 9,
+    "Rizal Bawazier": 8,
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
@@ -91,6 +91,27 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Tinjau Youth Center Kota Pariaman, Pastikan Revitalisasi GOR Rawang Terus Berlanjut - Website Kota Pariaman",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 16:23:31 GMT",
+      "link": "https://pariamankota.go.id/berita/andre-rosiade-tinjau-youth-center-kota-pariaman-pastikan-revitalisasi-gor-rawang-terus-berlanjut"
+    },
+    {
+      "title": "Restrukturisasi PT PP Disiapkan, Babak Baru Konsolidasi BUMN Dimulai - Koran Jakarta ®",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 15:40:00 GMT",
+      "link": "https://koran-jakarta.com/2026-08-21/restrukturisasi-pt-pp-disiapkan-babak-baru-konsolidasi-bumn-dimulai"
+    },
+    {
+      "title": "Peran Danantara Perkuat Ekonomi: Fokuskan Investasi ke Industri Berdampak - olenka.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 15:20:00 GMT",
+      "link": "https://olenka.id/peran-danantara-perkuat-ekonomi-fokuskan-investasi-ke-industri-berdampak"
+    },
     {
       "title": "Ning Ita Kembali Raih Penghargaan Nasional, Dinilai Berhasil Perkuat Koperasi di Kota Mojokerto - Sekilas Media -",
       "entity": "Dekopin",
@@ -118,6 +139,13 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 12:29:21 GMT",
       "link": "https://jatim.antaranews.com/amp/berita/1092243/menkop-ajak-komunitas-industri-kreatif-bentuk-koperasi-demi-dukung-produksi"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Suarakan RUU Profesi Kurator - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 12:09:00 GMT",
+      "link": "https://www.gesuri.id/amp/pemerintahan/rieke-diah-pitaloka-suarakan-ruu-profesi-kurator-b2pYBZbhxE"
     },
     {
       "title": "Perkuat Sinergi Keamanan dan Dukung Investasi, BP Batam dan Polri Tandatangani Nota Kesepahaman - TRIBRATA NEWS POLDA KEPRI",
@@ -167,34 +195,6 @@
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 10:52:49 GMT",
       "link": "https://news.detik.com/berita/d-8629076/prabowo-bangun-kembali-jembatan-anduriang-andre-rosiade-dikerjakan-februari-2027"
-    },
-    {
-      "title": "Prabowo Bangun Kembali Jembatan Anduriang, Andre Rosiade: Dikerjakan Februari 2027 - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 10:52:49 GMT",
-      "link": "https://news.detik.com/berita/d-8629076/prabowo-bangun-kembali-jembatan-anduriang-andre-rosiade-dikerjakan-februari-2027"
-    },
-    {
-      "title": "Dari Bandara hingga UMKM, Gus Rivqy Dorong Konektivitas Menjadi Pengungkit Pertumbuhan Ekonomi Daera - Radar Jember",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 10:45:37 GMT",
-      "link": "https://radarjember.jawapos.com/amp/jember/2608210084/dari-bandara-hingga-umkm-gus-rivqy-dorong-konektivitas-menjadi-pengungkit-pertumbuhan-ekonomi-daera"
-    },
-    {
-      "title": "Dari Bandara hingga UMKM, Gus Rivqy Dorong Konektivitas Menjadi Pengungkit Pertumbuhan Ekonomi Daera - Radar Jember",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 10:45:37 GMT",
-      "link": "https://radarjember.jawapos.com/jember/2608210084/dari-bandara-hingga-umkm-gus-rivqy-dorong-konektivitas-menjadi-pengungkit-pertumbuhan-ekonomi-daera"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Khusus Awasi Penataan BUMN demi Jaga Persaingan Usaha Sehat - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 10:41:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
     }
   ]
 }
