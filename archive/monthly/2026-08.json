@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T07:39:44.735442",
+  "generated_at": "2026-08-21T08:37:04.332581",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 23,
+    "PDI-P": 19,
     "Golkar": 16,
-    "NasDem": 5,
+    "NasDem": 4,
     "PKB": 14,
     "PKS": 9,
     "PAN": 3
@@ -33,17 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 30,
-    "bumn": 87,
-    "dividen": 2,
+    "danantara": 28,
+    "bumn": 84,
+    "dividen": 1,
     "umkm": 13,
     "koperasi": 47,
     "investasi": 18,
-    "ekspor": 10,
+    "ekspor": 11,
     "perdagangan": 2,
-    "ipo": 1,
-    "kartel-monopoli": 14,
-    "merger-akuisisi": 5
+    "merger-akuisisi": 7,
+    "kartel-monopoli": 15
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -86,12 +85,61 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 61,
-    "Kinerja BUMN": 22,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 62,
+    "Kinerja BUMN": 23,
+    "Perdagangan": 32,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Dony Oskaria ke WIKA: Jangan Buat Laporan Keuangan Khayalan - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:20:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/119122/dony-oskaria-ke-wika-jangan-buat-laporan-keuangan-khayalan"
+    },
+    {
+      "title": "BPI Danantara Siapkan Merger dan Restrukturisasi PTPP - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:19:24 GMT",
+      "link": "https://achmadnurhidayat.id/bpi-danantara-siapkan-merger-restrukturisasi-ptpp"
+    },
+    {
+      "title": "Jalin Sinergi dengan Kementerian Koperasi, BPJS Kesehatan Raih Penghargaan Bakti Koperasi Pradana Nayaka - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:17:05 GMT",
+      "link": "https://www.tempo.co/info-tempo/jalin-sinergi-dengan-kementerian-koperasi-bpjs-kesehatan-raih-penghargaan-bakti-koperasi-pradana-nayaka-2283192"
+    },
+    {
+      "title": "PT PP Mau Dimerger! - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:15:31 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8628762/pt-pp-mau-dimerger"
+    },
+    {
+      "title": "Kemendag buka peluang perluasan ekspor beras Indonesia - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 08:10:05 GMT",
+      "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
+    },
+    {
+      "title": "Pusan National University Kunjungi KPPU di Surabaya, Bahas Perbandingan Penegakan Persaingan Usaha Indonesia–Korea Selatan - redaksi.duta.co",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:49:57 GMT",
+      "link": "https://duta.co/pusan-national-university-kunjungi-kppu-di-surabaya-bahas-perbandingan-penegakan-persaingan-usaha-indonesia-korea-selatan"
+    },
+    {
+      "title": "Danantara Rancang Ekosistem Molinas dari Baterai hingga Pembiayaan Konsumen - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 07:30:00 GMT",
+      "link": "https://swa.co.id/read/476327/danantara-rancang-ekosistem-molinas-dari-baterai-hingga-pembiayaan-konsumen"
+    },
     {
       "title": "Danantara Merancang Molinas Terintegrasi Industri Motor Listrik Nasional - SWA.co.id",
       "entity": "Danantara",
@@ -147,55 +195,6 @@
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 05:56:00 GMT",
       "link": "https://kumparan.com/kumparannews/prabowo-anggarkan-rp-175-m-andre-rosiade-pastikan-gunung-nago-dibangun-kembali-281oQxNTuBZ"
-    },
-    {
-      "title": "Mobil Listrik BYD Seal Terbakar di Tol Cikampek, Kemendag Langsung Turun Tangan! - Deliknews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 05:36:00 GMT",
-      "link": "https://www.deliknews.com/2026/08/21/mobil-listrik-byd-seal-terbakar-di-tol-cikampek-kemendag-langsung-turun-tangan/"
-    },
-    {
-      "title": "Danantara Housing Expo Tawarkan Rumah dengan Cicilan Mulai Rp1 Jutaan - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 05:32:46 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/924360/danantara-housing-expo-tawarkan-rumah-dengan-cicilan-mulai-rp1-jutaan"
-    },
-    {
-      "title": "Kapolda Banten Pimpin RAT Primkop Gakuba Tahun Buku 2025 - Tribrata News Banten",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 05:15:41 GMT",
-      "link": "https://tribratanews.banten.polri.go.id/kapolda-banten-pimpin-rat-primkop-gakuba-tahun-buku-2025/"
-    },
-    {
-      "title": "Andre Rosiade Kawal Aspirasi, Jembatan Duku-Subarang Solok Segera Rampung - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 04:54:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-kawal-aspirasi-jembatan-duku-subarang-solok-segera-rampung-281nQ5tOoGx"
-    },
-    {
-      "title": "Doni Akbar Soroti Sanksi Administratif Koperasi Simpan Pinjam Mekarsari - RM.ID",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 04:47:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/322700/doni-akbar-soroti-sanksi-administratif-koperasi-simpan-pinjam-mekarsari"
-    },
-    {
-      "title": "Potensi Monopoli Jasa Pelabuhan Balikpapan Masuk Radar KPPU - Katakaltim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 04:38:52 GMT",
-      "link": "https://katakaltim.com/potensi-monopoli-jasa-pelabuhan-balikpapan-masuk-radar-kppu"
-    },
-    {
-      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 04:27:17 GMT",
-      "link": "https://ambon.antaranews.com/berita/340608/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
     }
   ]
 }
