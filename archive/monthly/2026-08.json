@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T10:26:51.702379",
+  "generated_at": "2026-08-21T11:22:30.017095",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 14,
+    "PDI-P": 13,
     "Golkar": 16,
     "NasDem": 3,
-    "PKB": 12,
+    "PKB": 11,
     "PKS": 9,
     "PAN": 3
   },
@@ -15,7 +15,7 @@
     "PDI-P": 70,
     "Golkar": 45,
     "NasDem": 29,
-    "PKB": 37,
+    "PKB": 39,
     "PKS": 40,
     "PAN": 22,
     "Demokrat": 19
@@ -36,9 +36,9 @@
     "danantara": 28,
     "bumn": 82,
     "dividen": 1,
-    "umkm": 12,
-    "koperasi": 47,
-    "investasi": 18,
+    "umkm": 14,
+    "koperasi": 48,
+    "investasi": 20,
     "ekspor": 10,
     "perdagangan": 1,
     "merger-akuisisi": 9,
@@ -71,7 +71,7 @@
     "Rudi Hartono Bangun": 8,
     "Subardi": 3,
     "Anggia Erma Rini": 13,
-    "Rivqy Abdul Halim": 2,
+    "Rivqy Abdul Halim": 4,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
@@ -85,12 +85,54 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 61,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 23,
     "Perdagangan": 32,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Bangun Kembali Jembatan Anduriang, Andre Rosiade: Dikerjakan Februari 2027 - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 10:52:49 GMT",
+      "link": "https://news.detik.com/berita/d-8629076/prabowo-bangun-kembali-jembatan-anduriang-andre-rosiade-dikerjakan-februari-2027"
+    },
+    {
+      "title": "Dari Bandara hingga UMKM, Gus Rivqy Dorong Konektivitas Menjadi Pengungkit Pertumbuhan Ekonomi Daera - Radar Jember",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 10:45:37 GMT",
+      "link": "https://radarjember.jawapos.com/jember/2608210084/dari-bandara-hingga-umkm-gus-rivqy-dorong-konektivitas-menjadi-pengungkit-pertumbuhan-ekonomi-daera"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Khusus Awasi Penataan BUMN demi Jaga Persaingan Usaha Sehat - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 10:41:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Khusus Awasi Penataan BUMN demi Jaga Persaingan Usaha Sehat - kabarbisnis.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 10:41:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136611/kppu-bentuk-satgas-khusus-awasi-penataan-bumn-demi-jaga-persaingan-usaha-sehat"
+    },
+    {
+      "title": "Gus Rivqy Dorong Potensi Jember-Lumajang Naik Kelas Lewat Penguatan UMKM, Koperasi, dan Konektivitas - Radar Jember",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 10:38:02 GMT",
+      "link": "https://radarjember.jawapos.com/jember/2608210083/gus-rivqy-dorong-potensi-jember-lumajang-naik-kelas-lewat-penguatan-umkm-koperasi-dan-konektivitas"
+    },
+    {
+      "title": "Soal Mobil Listrik BYD Terbakar di Tol Cikampek, Kemendag Ambil Langkah Cepat - JPNN.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 10:23:00 GMT",
+      "link": "https://www.jpnn.com/news/soal-mobil-listrik-byd-terbakar-di-tol-cikampek-kemendag-ambil-langkah-cepat"
+    },
     {
       "title": "KPPU Ingatkan Risiko Persaingan Timpang di Industri Motor Listrik - Kompas.com",
       "entity": "KPPU",
@@ -153,48 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 08:38:40 GMT",
       "link": "https://www.antaranews.com/berita/5705099/danantara-siapkan-skema-merger-dan-restrukturisasi-pt-pp"
-    },
-    {
-      "title": "Dony Oskaria ke WIKA: Jangan Buat Laporan Keuangan Khayalan - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:20:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/119122/dony-oskaria-ke-wika-jangan-buat-laporan-keuangan-khayalan"
-    },
-    {
-      "title": "BPI Danantara Siapkan Merger dan Restrukturisasi PTPP - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:19:24 GMT",
-      "link": "https://achmadnurhidayat.id/bpi-danantara-siapkan-merger-restrukturisasi-ptpp"
-    },
-    {
-      "title": "Jalin Sinergi dengan Kementerian Koperasi, BPJS Kesehatan Raih Penghargaan Bakti Koperasi Pradana Nayaka - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:17:05 GMT",
-      "link": "https://www.tempo.co/info-tempo/jalin-sinergi-dengan-kementerian-koperasi-bpjs-kesehatan-raih-penghargaan-bakti-koperasi-pradana-nayaka-2283192"
-    },
-    {
-      "title": "PT PP Mau Dimerger! - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:15:31 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8628762/pt-pp-mau-dimerger"
-    },
-    {
-      "title": "Kemendag buka peluang perluasan ekspor beras Indonesia - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:10:05 GMT",
-      "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
-    },
-    {
-      "title": "Kemendag buka peluang perluasan ekspor beras Indonesia - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 08:10:05 GMT",
-      "link": "https://www.antaranews.com/berita/5705028/kemendag-buka-peluang-perluasan-ekspor-beras-indonesia"
     }
   ]
 }
