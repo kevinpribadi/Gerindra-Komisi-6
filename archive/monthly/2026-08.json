@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T05:29:17.226280",
+  "generated_at": "2026-08-21T06:40:49.801271",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 28,
+    "PDI-P": 24,
     "Golkar": 16,
     "NasDem": 6,
     "PKB": 14,
@@ -28,18 +28,18 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 17,
+    "BPK Sabang": 15,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 33,
+    "danantara": 32,
     "bumn": 88,
     "dividen": 2,
-    "umkm": 14,
+    "umkm": 13,
     "koperasi": 47,
-    "investasi": 17,
-    "ekspor": 10,
+    "investasi": 18,
+    "ekspor": 11,
     "perdagangan": 2,
     "ipo": 2,
     "kartel-monopoli": 12,
@@ -86,12 +86,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 61,
     "Kinerja BUMN": 22,
     "Perdagangan": 33,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade: Prabowo Kucurkan Rp1 T Benahi PDAM Padang, SPAM Palukahan Segera Dibangun - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 06:34:09 GMT",
+      "link": "https://news.detik.com/berita/d-8628513/andre-rosiade-prabowo-kucurkan-rp1-t-benahi-pdam-padang-spam-palukahan-segera-dibangun"
+    },
+    {
+      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 06:12:18 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/420195/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
+    },
+    {
+      "title": "Danantara Housing Expo Tawarkan Promo Bunga KPR 2,75% hingga DP 1% - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 06:02:50 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260821113850-17-761236/danantara-housing-expo-tawarkan-promo-bunga-kpr-275-hingga-dp-1"
+    },
+    {
+      "title": "Mobil Listrik BYD Seal Terbakar di Tol Cikampek, Kemendag Langsung Turun Tangan! - Deliknews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 05:36:00 GMT",
+      "link": "https://www.deliknews.com/2026/08/21/mobil-listrik-byd-seal-terbakar-di-tol-cikampek-kemendag-langsung-turun-tangan/"
+    },
+    {
+      "title": "Danantara Housing Expo Tawarkan Rumah dengan Cicilan Mulai Rp1 Jutaan - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 05:32:46 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/924360/danantara-housing-expo-tawarkan-rumah-dengan-cicilan-mulai-rp1-jutaan"
+    },
     {
       "title": "Kapolda Banten Pimpin RAT Primkop Gakuba Tahun Buku 2025 - Tribrata News Banten",
       "entity": "Dekopin",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 02:57:07 GMT",
       "link": "https://20.detik.com/detikupdate/20260821-260821001/video-raih-koperasi-awards-andra-soni-bertekad-kembangkan-koperasi-di-banten"
-    },
-    {
-      "title": "Kemendag Panggil BYD Soal Kebakaran Mobil Listrik Seal di Tol Cikampek - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 02:45:19 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-panggil-byd-kebakaran-mobil-listrik-seal"
-    },
-    {
-      "title": "Catatkan Nilai Sempurna, BP Batam Raih Prestasi Tingkat Nasional dalam Pengelolaan JDIH 2026 - HMStimes.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 02:44:32 GMT",
-      "link": "https://hmstimes.com/2026/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/"
-    },
-    {
-      "title": "GAYO LUES UKIR PRESTASI NASIONAL, BUPATI SUHAIDI RAIH PENGHARGAAN KOPERASI AWARDS 2026 - Pemerintah Kabupaten Gayo Lues",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 02:24:31 GMT",
-      "link": "https://prokopim.gayolueskab.go.id/berita/kategori/berita/gayo-lues-ukir-prestasi-nasional-bupati-suhaidi-raih-penghargaan-koperasi-awards-2026"
-    },
-    {
-      "title": "Andre Rosiade: Era Prabowo, Jembatan Gantung Limau Gadang Dibangun Kembali - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 02:23:59 GMT",
-      "link": "https://news.detik.com/berita/d-8628063/andre-rosiade-era-prabowo-jembatan-gantung-limau-gadang-dibangun-kembali"
-    },
-    {
-      "title": "Mendag dorong mahasiswa rintis usaha dan jadi eksportir - ANTARA News Sulteng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 02:09:57 GMT",
-      "link": "https://sulteng.antaranews.com/berita/390512/mendag-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir"
     }
   ]
 }
