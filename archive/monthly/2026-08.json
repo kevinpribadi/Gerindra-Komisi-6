@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-20T23:22:09.045708",
+  "generated_at": "2026-08-21T01:08:05.972899",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 32,
@@ -9,7 +9,7 @@
     "PKB": 14,
     "PKS": 9,
     "PAN": 3,
-    "Demokrat": 2
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 66,
@@ -29,7 +29,7 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 17,
+    "BPK Sabang": 18,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
@@ -37,9 +37,9 @@
     "danantara": 35,
     "bumn": 84,
     "dividen": 2,
-    "umkm": 16,
-    "koperasi": 46,
-    "investasi": 21,
+    "umkm": 14,
+    "koperasi": 47,
+    "investasi": 20,
     "ekspor": 8,
     "perdagangan": 3,
     "ipo": 2,
@@ -86,13 +86,48 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
-    "Koperasi/UMKM": 63,
+    "Hukum/Audit": 16,
+    "Koperasi/UMKM": 62,
     "Kinerja BUMN": 22,
-    "Perdagangan": 28,
+    "Perdagangan": 30,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Dorong Koperasi Naik Kelas, Kementerian Koperasi Anugerahi Bupati Sleman Penghargaan Nayaka Mahambara - ketik.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 01:01:00 GMT",
+      "link": "https://ketik.com/sleman/politik-pemerintahan/dorong-koperasi-naik-kelas-kementerian-koperasi-anugerahi-bupati-sleman-penghargaan-nayaka-mahambara"
+    },
+    {
+      "title": "Komitmen Majukan Ekonomi Kerakyatan, Bupati Kasmarni Raih Penghargaan Bakti Koperasi Nayaka Mahambara 2026 - diskominfotik.bengkaliskab.go.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 00:54:37 GMT",
+      "link": "https://diskominfotik.bengkaliskab.go.id/web/detailberita/21555/komitmen-majukan-ekonomi-kerakyatan-bupati-kasmarni-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
+    },
+    {
+      "title": "Cegah Monopoli Logistik, KPPU Petakan Persaingan Usaha Jasa Kepelabuhanan di Balikpapan - ProPublika",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 00:53:22 GMT",
+      "link": "https://propublika.id/berita/cegah-monopoli-logistik-kppu-petakan-persaingan-usaha-jasa-kepelabuhanan-di-balikpapan/"
+    },
+    {
+      "title": "Daftar Kementerian dan Lembaga dengan Anggaran Terkecil di RAPBN 2027 - CNN Indonesia",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 00:46:01 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260820173827-20-1394607/daftar-kementerian-dan-lembaga-dengan-anggaran-terkecil-di-rapbn-2027"
+    },
+    {
+      "title": "Menkop Ferry: Keberhasilan Koperasi Tak Cukup Diukur dari Besarnya Organisasi - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/21/070000026/menkop-ferry--keberhasilan-koperasi-tak-cukup-diukur-dari-besarnya-organisasi"
+    },
     {
       "title": "Komit Memperkuat Rantai Pasok Pangan Nasional, ID FOOD Raih Koperasi Award 2026 - pasardana.id",
       "entity": "Kementerian Koperasi",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 20 Aug 2026 16:15:20 GMT",
       "link": "https://ariranews.com/catatkan-nilai-sempurna-bp-batam-raih-prestasi-tingkat-nasional-dalam-pengelolaan-jdih-2026/amp/"
-    },
-    {
-      "title": "Kemenkop Anugerahkan Koperasi Awards 2026 Kepada Tokoh Bangsa - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 16:14:21 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-anugerahkan-koperasi-awards-2026"
-    },
-    {
-      "title": "Bank Mandiri Raih Penghargaan Bakti Koperasi Pradana Nayaka 2026 - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 16:09:47 GMT",
-      "link": "https://achmadnurhidayat.id/bank-mandiri-raih-penghargaan-koperasi-2026"
-    },
-    {
-      "title": "Andre Rosiade Kawal Aspirasi Warga Pessel, Jembatan Gantung Duku-Subarang Solok Segera Rampung - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 16:01:01 GMT",
-      "link": "https://news.detik.com/berita/d-8627672/andre-rosiade-kawal-aspirasi-warga-pessel-jembatan-gantung-duku-subarang-solok-segera-rampung"
-    },
-    {
-      "title": "Komisi IV DPRD Samarinda Dorong Tes Urine Pelajar untuk Deteksi Dini Narkoba - kutaipanrita.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Thu, 20 Aug 2026 15:28:31 GMT",
-      "link": "https://kutaipanrita.id/komisi-iv-dprd-samarinda-dorong-tes-urine-pelajar-untuk-deteksi-dini-narkoba/"
-    },
-    {
-      "title": "Danantara Bidik Sektor Transportasi Guna Tingkatkan Kualitas Layanan Publik - MOST 1058",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 20 Aug 2026 15:26:08 GMT",
-      "link": "https://most1058fm.com/2026/08/danantara-bidik-sektor-transportasi-guna-tingkatkan-kualitas-layanan-publik/"
     }
   ]
 }
