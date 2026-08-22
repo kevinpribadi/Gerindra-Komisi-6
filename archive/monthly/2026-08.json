@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T03:38:39.560074",
+  "generated_at": "2026-08-22T04:29:53.539663",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 14,
@@ -34,7 +34,7 @@
   },
   "topic_counts_30d": {
     "danantara": 24,
-    "bumn": 83,
+    "bumn": 84,
     "dividen": 1,
     "umkm": 15,
     "koperasi": 51,
@@ -42,7 +42,7 @@
     "ekspor": 12,
     "perdagangan": 2,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 15
+    "kartel-monopoli": 16
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -86,11 +86,25 @@
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 22,
+    "Kinerja BUMN": 21,
     "Perdagangan": 34,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXZqQmU5RGlXNlUxbEpPNU5QVzNYUlBxbWNQWk1OX1g5SVc5YnlobGNkMk1JYlRoQ2Z5aTJWTTNJS2F6WVJJU1BLc1lfcEVUNloyZ21nREJjRWd1Z28tbFpwbDFlRUF1ZEpGd1lXTXY3c1VKcHlYaGxOQmVvTFFpM0FnbXdEMjd3V1NOaVUxSGZCX0w2OHlQaEl5SFpIYUVURVZPZV9VdmsyTW11Wi1hTDQ2LVFSRDBoenoxU0ZfamdPei00SG93?oc=5"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnl1OHR3S1JzMkF6aEtpRWdYdGw5X0dEelp1X1VzTkNmMFJKVy1oVTFiMW9UNi1KQkVfVWdtall3S0JQd3pjNEhIT3NadC1vd01BMDFfVUxKUzdtZEtoU3pyTkFDQjRIUFRsOFFfbU1hMlJQU1JUX0xBQ0MyQ3hXZTdFd3hLRERod01Fa3Nuem5BaDI2YXQ3ek0yVlg5c1pmdVVwVXd6aGJyZmw2OXM0RVg2LW85SGx3aV90azQ2S3J6dXNLcm54RUdDRG9iaU9RV0JEVm56U0xLdnJCUk9OZVVUb0M?oc=5"
+    },
     {
       "title": "Andre Rosiade Temui Wali Kota Padang, Bahas SPAM, Penghijauan dan Sampah - detikNews",
       "entity": "Andre Rosiade",
@@ -181,20 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 14:26:05 GMT",
       "link": "https://sekilasmedia.com/2026/08/ning-ita-kembali-raih-penghargaan-nasional-dinilai-berhasil-perkuat-koperasi-di-kota-mojokerto/"
-    },
-    {
-      "title": "KPPU Dorong Kemitraan Adil Sektor Perunggasan Sulsel - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 14:26:00 GMT",
-      "link": "https://rri.co.id/makassar/regional/2669839/kppu-dorong-kemitraan-adil-sektor-perunggasan-sulsel"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 14:04:04 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
     }
   ]
 }
