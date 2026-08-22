@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T12:33:06.004119",
+  "generated_at": "2026-08-22T13:29:04.411618",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 11,
     "Golkar": 18,
-    "NasDem": 3,
+    "NasDem": 2,
     "PKB": 9,
     "PKS": 9,
     "PAN": 3
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 47,
+    "Golkar": 46,
     "NasDem": 27,
     "PKB": 41,
     "PKS": 38,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 26,
-    "bumn": 82,
+    "danantara": 25,
+    "bumn": 81,
     "dividen": 1,
     "umkm": 17,
     "koperasi": 50,
     "investasi": 24,
-    "ekspor": 11,
-    "perdagangan": 2,
+    "perdagangan": 3,
+    "ekspor": 10,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 17
+    "kartel-monopoli": 18
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
@@ -86,11 +86,39 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 18,
-    "Perdagangan": 33,
+    "Kinerja BUMN": 19,
+    "Perdagangan": 32,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Anggot DPR-RI Andre Rosiade Komit Kawal Pembangunan SPAM Palukahan, Pemko Padang Segera Tuntaskan Lahan - KlikPositif.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 12:59:49 GMT",
+      "link": "https://klikpositif.com/anggot-dpr-ri-andre-rosiade-komit-kawal-pembangunan-spam-palukahan-pemko-padang-segera-tuntaskan-lahan/"
+    },
+    {
+      "title": "Penerbangan Dibatalkan Imbas Karhutla, BPKN: Konsumen Jangan Sampai Dirugikan - detikFinance",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 12:50:48 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8630366/penerbangan-dibatalkan-imbas-karhutla-bpkn-konsumen-jangan-sampai-dirugikan"
+    },
+    {
+      "title": "I-EU CEPA Ditargetkan Diteken Oktober, 98% Pos Tarif Diliberalisasi - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 12:45:00 GMT",
+      "link": "https://swa.co.id/read/476376/i-eu-cepa-ditargetkan-diteken-oktober-98-pos-tarif-diliberalisasi"
+    },
+    {
+      "title": "KPPU dan UHN Dorong Pemahaman Hukum Persaingan Usaha melalui Kuliah Umum - ketikberita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 12:30:46 GMT",
+      "link": "https://ketikberita.com/kppu-dan-uhn-dorong-pemahaman-hukum-persaingan-usaha-melalui-kuliah-umum/"
+    },
     {
       "title": "Fadly Amran dan Andre Rosiade Bahas Percepatan SPAM Palukahan Senilai Rp400 Miliar - Prokabar",
       "entity": "Andre Rosiade",
@@ -167,34 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 07:50:59 GMT",
       "link": "https://salampapua.com/editorial/read/2026/08/jangan-salah-koperasi-award-2026-yang-diterima-mimika-adalah-penghargaan-atas-komitmen-pemerintah-bukan-hasilnya.html"
-    },
-    {
-      "title": "Jogging Track Rampung, Andre Rosiade Bantu Pembangunan Fasilitas GOR Rawang Pariaman - Padangkita.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 07:42:10 GMT",
-      "link": "https://padangkita.com/jogging-track-rampung-andre-rosiade-bantu-pembangunan-fasilitas-gor-rawang-pariaman/"
-    },
-    {
-      "title": "Andre Rosiade Usulkan Trase Bypass Bukittinggi Jadi Solusi Polemik Tol 7 Fly Over Padang Luar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 06:59:40 GMT",
-      "link": "https://news.detik.com/berita/d-8629911/andre-rosiade-usulkan-trase-bypass-bukittinggi-jadi-solusi-polemik-tol-7-fly-over-padang-luar"
-    },
-    {
-      "title": "Andre Rosiade Usulkan Trase Bypass Bukittinggi Jadi Solusi Polemik Tol dan Fly Over Padang Luar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 06:59:40 GMT",
-      "link": "https://news.detik.com/berita/d-8629911/andre-rosiade-usulkan-trase-bypass-bukittinggi-jadi-solusi-polemik-tol-dan-fly-over-padang-luar"
-    },
-    {
-      "title": "Pemkot Malang Siapkan Koperasi Komunitas untuk Pelaku UMKM dan Ekraf - Lentera.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 05:55:12 GMT",
-      "link": "https://lentera.co/post/item/237475/Pemkot-Malang-Siapkan-Koperasi-Komunitas-untuk-Pelaku-UMKM-dan-Ekraf"
     }
   ]
 }
