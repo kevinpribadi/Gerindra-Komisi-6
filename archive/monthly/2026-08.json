@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T01:04:24.677471",
+  "generated_at": "2026-08-22T02:51:16.891994",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 14,
-    "Golkar": 17,
+    "Golkar": 16,
     "NasDem": 3,
     "PKB": 12,
     "PKS": 9,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 23,
+    "danantara": 24,
     "bumn": 83,
     "dividen": 1,
     "umkm": 15,
     "koperasi": 51,
-    "investasi": 19,
-    "ekspor": 11,
+    "investasi": 21,
+    "ekspor": 12,
     "perdagangan": 2,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 16
+    "kartel-monopoli": 15
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -87,10 +87,38 @@
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 22,
-    "Perdagangan": 33,
+    "Perdagangan": 34,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Temui Wali Kota Padang, Bahas SPAM, Penghijauan dan Sampah - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 02:33:56 GMT",
+      "link": "https://news.detik.com/berita/d-8629617/andre-rosiade-temui-wali-kota-padang-bahas-spam-penghijauan-dan-sampah"
+    },
+    {
+      "title": "Kemendag Buka Peluang Perluas Ekspor Beras - NUSABALI.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 02:27:06 GMT",
+      "link": "https://www.nusabali.com/berita/229014/kemendag-buka-peluang-perluas-ekspor-beras"
+    },
+    {
+      "title": "DPR dan Pemerintah Sepakat Bawa Revisi UU BUMN ke Rapat Paripurna untuk Disahkan - InvestorTrust",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 01:05:22 GMT",
+      "link": "https://investortrust.id/national/80268/dpr-dan-pemerintah-sepakat-bawa-revisi-uu-bumn-ke-rapat-paripurnauntuk-disahkan?page=english-edition"
+    },
+    {
+      "title": "BPKN RI: Meski ada Satgas Keamanan Pangan, Negara Perlu Hadir atasi Keracunan MBG dan Cemaran Lainnya - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 23:46:00 GMT",
+      "link": "https://www.mediakarya.id/bpkn-ri-meski-ada-satgas-keamanan-pangan-negara-perlu-hadir-atasi-keracunan-mbg-dan-cemaran-lainnya/"
+    },
     {
       "title": "IEU-CEPA Diteken Oktober 2026, Ekspor CPO hingga Tekstil Dapat Tarif 0% - Bisnis.com - Ekonomi",
       "entity": "Kementerian Perdagangan",
@@ -148,6 +176,13 @@
       "link": "https://sekilasmedia.com/2026/08/ning-ita-kembali-raih-penghargaan-nasional-dinilai-berhasil-perkuat-koperasi-di-kota-mojokerto/"
     },
     {
+      "title": "KPPU Dorong Kemitraan Adil Sektor Perunggasan Sulsel - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 14:26:00 GMT",
+      "link": "https://rri.co.id/makassar/regional/2669839/kppu-dorong-kemitraan-adil-sektor-perunggasan-sulsel"
+    },
+    {
       "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -160,41 +195,6 @@
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 13:30:43 GMT",
       "link": "https://www.nusabali.com/berita/228992/demer-minta-rencana-pengembangan-pfii-di-bali-jadi-penggerak-ekonomi-hingga-bali-utara-timur-dan-barat"
-    },
-    {
-      "title": "Berkontribusi Besar Bagi Ekonomi Umat, Menag Nasaruddin Umar Raih Penghargaan Bakti Koperasi Pradana Nayaka 2026 - MAN 2 Kota Jambi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 13:22:08 GMT",
-      "link": "https://man3bungo.mdrsh.id/news/80864/berkontribusi-besar-bagi-ekonomi-umat-menag-nasaruddin-umar-raih-penghargaan-bakti-koperasi-pradana-nayaka-2026.html"
-    },
-    {
-      "title": "Menkop ajak komunitas industri kreatif bentuk koperasi demi dukung produksi - Antara News jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 12:29:21 GMT",
-      "link": "https://jatim.antaranews.com/amp/berita/1092243/menkop-ajak-komunitas-industri-kreatif-bentuk-koperasi-demi-dukung-produksi"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Suarakan RUU Profesi Kurator - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 12:09:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/rieke-diah-pitaloka-suarakan-ruu-profesi-kurator-b2pYBZbhxE"
-    },
-    {
-      "title": "Perkuat Sinergi Keamanan dan Dukung Investasi, BP Batam dan Polri Tandatangani Nota Kesepahaman - TRIBRATA NEWS POLDA KEPRI",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 12:02:34 GMT",
-      "link": "https://tribratanews.kepri.polri.go.id/perkuat-sinergi-keamanan-dan-dukung-investasi-bp-batam-dan-polri-tandatangani-nota-kesepahaman/"
-    },
-    {
-      "title": "Menkop ajak komunitas industri kreatif bentuk koperasi dukung produksi - ANTARA News",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 11:54:11 GMT",
-      "link": "https://www.antaranews.com/berita/5705527/menkop-ajak-komunitas-industri-kreatif-bentuk-koperasi-dukung-produksi"
     }
   ]
 }
