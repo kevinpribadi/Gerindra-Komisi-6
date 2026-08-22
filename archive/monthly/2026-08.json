@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T05:23:49.935359",
+  "generated_at": "2026-08-22T06:34:43.596091",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 14,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 3,
     "PKB": 12,
     "PKS": 9,
@@ -13,8 +13,8 @@
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 47,
-    "NasDem": 29,
+    "Golkar": 48,
+    "NasDem": 28,
     "PKB": 41,
     "PKS": 40,
     "PAN": 22,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 24,
-    "bumn": 84,
+    "danantara": 25,
+    "bumn": 83,
     "dividen": 1,
-    "umkm": 16,
+    "umkm": 17,
     "koperasi": 50,
-    "investasi": 21,
+    "investasi": 22,
     "ekspor": 12,
     "perdagangan": 2,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 16
+    "kartel-monopoli": 17
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -63,8 +63,8 @@
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 10,
-    "Rachmat Gobel": 7,
+    "Muhammad Sarmuji": 11,
+    "Rachmat Gobel": 6,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -86,11 +86,32 @@
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 21,
-    "Perdagangan": 35,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 34,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Pemkot Malang Siapkan Koperasi Komunitas untuk Pelaku UMKM dan Ekraf - Lentera.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 05:55:12 GMT",
+      "link": "https://lentera.co/post/item/237475/Pemkot-Malang-Siapkan-Koperasi-Komunitas-untuk-Pelaku-UMKM-dan-Ekraf"
+    },
+    {
+      "title": "Anggota DPR RI M Sarmuji Serahkan Bantuan Traktor Besar dari Presiden Prabowo Ke Kelompok Tani Blitar - mitratoday",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 05:54:05 GMT",
+      "link": "https://www.mitratoday.com/anggota-dpr-ri-m-sarmuji-serahkan-bantuan-traktor-besar-dari-presiden-prabowo-ke-kelompok-tani-blitar/"
+    },
+    {
+      "title": "Danantara Perkuat Investasi Strategis untuk Pembangunan Nasional - lintastotabuan.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 05:25:11 GMT",
+      "link": "https://lintastotabuan.com/danantara-perkuat-investasi-strategis-untuk-pembangunan-nasional/"
+    },
     {
       "title": "Menkop inginproduk UMKM lokal dapat prioritas pemasaran di KDKMP - ANTARA News Gorontalo",
       "entity": "Kementerian Koperasi",
@@ -115,6 +136,13 @@
     {
       "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
       "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/22/110508826/kppu-bentuk-satgas-kawal-penataan-bumn-untuk-jaga-persaingan-usaha-yang-sehat"
+    },
+    {
+      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 04:05:00 GMT",
       "link": "https://money.kompas.com/read/2026/08/22/110508826/kppu-bentuk-satgas-kawal-penataan-bumn-untuk-jaga-persaingan-usaha-yang-sehat"
@@ -167,34 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 23:46:00 GMT",
       "link": "https://www.mediakarya.id/bpkn-ri-meski-ada-satgas-keamanan-pangan-negara-perlu-hadir-atasi-keracunan-mbg-dan-cemaran-lainnya/"
-    },
-    {
-      "title": "IEU-CEPA Diteken Oktober 2026, Ekspor CPO hingga Tekstil Dapat Tarif 0% - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 23:30:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260822/12/1998155/ieu-cepa-diteken-oktober-2026-ekspor-cpo-hingga-tekstil-dapat-tarif-0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 19:14:31 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260822/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Andre Rosiade Usul Bypass Bukittinggi, Solusi Polemik Tol dan Fly Over Sumbar - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 17:31:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-usul-bypass-bukittinggi-solusi-polemik-tol-dan-fly-over-sumbar-2820K6fQHEl"
-    },
-    {
-      "title": "Andre Rosiade Pastikan Jembatan Kayu Gadang Sikabu Segera Dibangun - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 21 Aug 2026 17:27:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-pastikan-jembatan-kayu-gadang-sikabu-segera-dibangun-2820FoRXuov"
     }
   ]
 }
