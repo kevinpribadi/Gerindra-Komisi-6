@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T15:17:50.301786",
+  "generated_at": "2026-08-22T16:19:58.554272",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 11,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 47,
+    "Golkar": 46,
     "NasDem": 27,
     "PKB": 41,
     "PKS": 39,
@@ -60,7 +60,7 @@
     "Nurdin Halid": 4,
     "Gde Sumarjaya Linggih": 15,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 4,
+    "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 11,
@@ -87,10 +87,24 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 19,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Rebranding dan Digitalisasi Jadi Strategi Transformasi Koperasi - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 15:51:56 GMT",
+      "link": "https://indoposco.id/2026/08/22/menkop-rebranding-dan-digitalisasi-jadi-strategi-transformasi-koperasi/"
+    },
+    {
+      "title": "Menkop: Koperasi harus kembali fokus kembangkan bisnis - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 15:38:19 GMT",
+      "link": "https://www.antaranews.com/berita/5707093/menkop-koperasi-harus-kembali-fokus-kembangkan-bisnis"
+    },
     {
       "title": "BPKN mengawal konsumen terdampak karhutla dan gangguan penerbangan - achmadnurhidayat.id",
       "entity": "BPKN",
@@ -118,6 +132,13 @@
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 13:28:12 GMT",
       "link": "https://www.tempo.co/ekonomi/bpkn-akan-dampingi-konsumen-penerbangan-terdampak-karhutla-2283388"
+    },
+    {
+      "title": "KPPU dan UHN Medan Perkuat Pemahaman Mahasiswa soal Hukum Persaingan Usaha - Mawartanews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 13:26:51 GMT",
+      "link": "https://mawartanews.com/kppu-uhn-medan-hukum-persaingan-usaha/"
     },
     {
       "title": "Anggot DPR-RI Andre Rosiade Komit Kawal Pembangunan SPAM Palukahan, Pemko Padang Segera Tuntaskan Lahan - KlikPositif.com",
@@ -174,27 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 10:47:00 GMT",
       "link": "https://www.kupasonline.com/berita/248229/gor-rawang-makin-bersinar-wakil-ketua-komisi-vi-dpr-ri-andre-rosiade-akan-ada-bantuan-lanjutan"
-    },
-    {
-      "title": "Danantara Perkuat Investasi untuk Pembangunan Nasional - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 10:46:26 GMT",
-      "link": "https://www.suaradewata.com/berita/202405216988/danantara-perkuat-investasi-untuk-pembangunan-nasional"
-    },
-    {
-      "title": "Andre Rosiade Dorong Bypass Jadi Jalan Tengah Polemik Tol Sicincin-Bukittinggi - Kata Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 10:32:00 GMT",
-      "link": "https://katasumbar.com/andre-rosiade-dorong-bypass-jadi-jalan-tengah-polemik-tol-sicincin-bukittinggi/"
-    },
-    {
-      "title": "Andre Rosiade Kunjungi SMA 1 Sumbar, Tegaskan Program Prabowo Perbaiki Sekolah - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 10:00:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-kunjungi-sma-1-sumbar-tegaskan-program-prabowo-perbaiki-sekolah-282G2JOgpoi"
     }
   ]
 }
