@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-21T23:20:07.381218",
+  "generated_at": "2026-08-22T01:04:24.677471",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 30,
     "PDI-P": 14,
     "Golkar": 17,
     "NasDem": 3,
@@ -33,14 +33,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 24,
+    "danantara": 23,
     "bumn": 83,
     "dividen": 1,
     "umkm": 15,
-    "koperasi": 50,
+    "koperasi": 51,
     "investasi": 19,
-    "perdagangan": 1,
-    "ekspor": 10,
+    "ekspor": 11,
+    "perdagangan": 2,
     "merger-akuisisi": 10,
     "kartel-monopoli": 16
   },
@@ -84,19 +84,33 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 16,
-    "Koperasi/UMKM": 65,
+    "Hukum/Audit": 17,
+    "Koperasi/UMKM": 66,
     "Kinerja BUMN": 22,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "IEU-CEPA Diteken Oktober 2026, Ekspor CPO hingga Tekstil Dapat Tarif 0% - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 21 Aug 2026 23:30:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260822/12/1998155/ieu-cepa-diteken-oktober-2026-ekspor-cpo-hingga-tekstil-dapat-tarif-0"
+    },
     {
       "title": "Andre Rosiade Usul Bypass Bukittinggi, Solusi Polemik Tol dan Fly Over Sumbar - kumparan.com - Kumparan.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Fri, 21 Aug 2026 17:31:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-usul-bypass-bukittinggi-solusi-polemik-tol-dan-fly-over-sumbar-2820K6fQHEl"
+    },
+    {
+      "title": "Andre Rosiade Pastikan Jembatan Kayu Gadang Sikabu Segera Dibangun - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 21 Aug 2026 17:27:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-pastikan-jembatan-kayu-gadang-sikabu-segera-dibangun-2820FoRXuov"
     },
     {
       "title": "LPKSM Borneo Kalimantan Bawa Gagasan Baru Perlindungan Konsumen Ke Go Mall - Teras7.com",
@@ -181,20 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 21 Aug 2026 11:54:11 GMT",
       "link": "https://www.antaranews.com/berita/5705527/menkop-ajak-komunitas-industri-kreatif-bentuk-koperasi-dukung-produksi"
-    },
-    {
-      "title": "LPDB Siap Biayai Koperasi Sawit Bangun Pabrik Pengolahan - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 11:50:01 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
-    },
-    {
-      "title": "LPDB Siap Biayai Koperasi Sawit Bangun Pabrik Pengolahan - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 21 Aug 2026 11:50:01 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8629172/lpdb-siap-biayai-koperasi-sawit-bangun-pabrik-pengolahan"
     }
   ]
 }
