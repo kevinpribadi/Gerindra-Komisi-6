@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T09:23:36.129371",
+  "generated_at": "2026-08-22T10:20:00.584179",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 13,
     "Golkar": 18,
     "NasDem": 3,
-    "PKB": 10,
+    "PKB": 9,
     "PKS": 9,
     "PAN": 3
   },
@@ -14,7 +14,7 @@
     "Gerindra": 64,
     "PDI-P": 70,
     "Golkar": 47,
-    "NasDem": 28,
+    "NasDem": 27,
     "PKB": 41,
     "PKS": 38,
     "PAN": 22,
@@ -33,12 +33,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 25,
-    "bumn": 83,
+    "danantara": 26,
+    "bumn": 82,
     "dividen": 1,
     "umkm": 17,
     "koperasi": 50,
-    "investasi": 22,
+    "investasi": 23,
     "ekspor": 11,
     "perdagangan": 2,
     "merger-akuisisi": 10,
@@ -69,7 +69,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 3,
+    "Subardi": 2,
     "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
@@ -84,19 +84,33 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 19,
     "Perdagangan": 33,
-    "Konflik Publik": 4
+    "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Danantara Mengubah Investasi Negara Menjadi Nilai Tambah bagi Rakyat - Minews ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 09:22:48 GMT",
+      "link": "https://minews.id/cuitan-mi/danantara-mengubah-investasi-negara-menjadi-nilai-tambah-bagi-rakyat"
+    },
     {
       "title": "Kunjungi Pasar Amor, Andre Rosiade Dorong Trase Bypass Jadi Solusi Tol dan Kemacetan - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 08:59:29 GMT",
       "link": "https://news.detik.com/berita/d-8630090/kunjungi-pasar-amor-andre-rosiade-dorong-trase-bypass-jadi-solusi-tol-dan-kemacetan"
+    },
+    {
+      "title": "Andre Rosiade Dorong Trase Bypass Jadi Solusi Tol Sicincin-Bukittinggi - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 08:42:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-dorong-trase-bypass-jadi-solusi-tol-sicincin-bukittinggi-282FhqjdS37"
     },
     {
       "title": "Implementasi I-EU CEPA Dikebut, Akses Pasar Eropa Senilai USD22 Triliun Segera Terbuka - KabarBursa.com",
@@ -125,6 +139,13 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 06:59:40 GMT",
       "link": "https://news.detik.com/berita/d-8629911/andre-rosiade-usulkan-trase-bypass-bukittinggi-jadi-solusi-polemik-tol-7-fly-over-padang-luar"
+    },
+    {
+      "title": "Andre Rosiade Usulkan Trase Bypass Bukittinggi Jadi Solusi Polemik Tol dan Fly Over Padang Luar - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 06:59:40 GMT",
+      "link": "https://news.detik.com/berita/d-8629911/andre-rosiade-usulkan-trase-bypass-bukittinggi-jadi-solusi-polemik-tol-dan-fly-over-padang-luar"
     },
     {
       "title": "Pemkot Malang Siapkan Koperasi Komunitas untuk Pelaku UMKM dan Ekraf - Lentera.co",
@@ -174,27 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 04:30:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-siapkan-rp-700-800-juta-untuk-pengembangan-fasilitas-di-gor-rawang-282AxPIvxYE"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/22/110508826/kppu-bentuk-satgas-kawal-penataan-bumn-untuk-jaga-persaingan-usaha-yang-sehat"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/22/110508826/kppu-bentuk-satgas-kawal-penataan-bumn-untuk-jaga-persaingan-usaha-yang-sehat"
-    },
-    {
-      "title": "KPPU Bentuk Satgas Kawal Penataan BUMN untuk Jaga Persaingan Usaha yang Sehat - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 04:05:00 GMT",
-      "link": "http://money.kompas.com/read/2026/08/22/110508826/kppu-bentuk-satgas-kawal-penataan-bumn-untuk-jaga-persaingan-usaha-yang-sehat?source=terkini_artikel"
     }
   ]
 }
