@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T21:18:46.721499",
+  "generated_at": "2026-08-22T22:18:19.820080",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 10,
@@ -86,11 +86,18 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 20,
     "Perdagangan": 31,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BPKN RI Siap Dampingi Konsumen Terdampak Karhutla, Termasuk Penumpang Penerbangan yang Dirugikan - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 21:31:00 GMT",
+      "link": "https://www.mediakarya.id/bpkn-ri-siap-dampingi-konsumen-terdampak-karhutla-termasuk-penumpang-penerbangan-yang-dirugikan/"
+    },
     {
       "title": "Rasio Wirausaha Indonesia Targetkan Tembus Hingga Dua Belas Persen - Stapo.id",
       "entity": "Kementerian Perdagangan",
@@ -188,13 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 12:45:00 GMT",
       "link": "https://swa.co.id/read/476376/i-eu-cepa-ditargetkan-diteken-oktober-98-pos-tarif-diliberalisasi"
-    },
-    {
-      "title": "KPPU dan UHN Dorong Pemahaman Hukum Persaingan Usaha melalui Kuliah Umum - ketikberita.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 12:30:46 GMT",
-      "link": "https://ketikberita.com/kppu-dan-uhn-dorong-pemahaman-hukum-persaingan-usaha-melalui-kuliah-umum/"
     }
   ]
 }
