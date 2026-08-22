@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T14:18:10.453975",
+  "generated_at": "2026-08-22T15:17:50.301786",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 11,
-    "Golkar": 18,
+    "Golkar": 19,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 9,
+    "PKS": 10,
     "PAN": 3
   },
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 46,
+    "Golkar": 47,
     "NasDem": 27,
     "PKB": 41,
-    "PKS": 38,
+    "PKS": 39,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -28,7 +28,7 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 12,
+    "BPK Sabang": 10,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
@@ -38,9 +38,9 @@
     "dividen": 1,
     "umkm": 17,
     "koperasi": 50,
-    "investasi": 24,
+    "investasi": 25,
     "perdagangan": 3,
-    "ekspor": 10,
+    "ekspor": 11,
     "merger-akuisisi": 10,
     "kartel-monopoli": 18
   },
@@ -58,7 +58,7 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 14,
+    "Gde Sumarjaya Linggih": 15,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 7,
@@ -75,7 +75,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 9,
+    "Rizal Bawazier": 10,
     "Ghufran": 2,
     "Ismail": 14,
     "Eko Patrio": 2,
@@ -87,10 +87,31 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 19,
-    "Perdagangan": 32,
+    "Perdagangan": 33,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BPKN mengawal konsumen terdampak karhutla dan gangguan penerbangan - achmadnurhidayat.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 15:03:13 GMT",
+      "link": "https://achmadnurhidayat.id/bapkn-kawal-konsumen-karhutla-penerbangan"
+    },
+    {
+      "title": "Gelora Merdeka di Comal , Langkah Tegas Amggota DPR RI Kobarkan Tradisi Estafet Obor 2026 - TIMES Indonesia",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 14:22:00 GMT",
+      "link": "https://timesindonesia.co.id/peristiwa-daerah/605050/gelora-merdeka-di-comal-langkah-tegas-amggota-dpr-ri-kobarkan-tradisi-estafet-obor-2026"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih: Konsolidasi Golkar Bali Diperkuat hingga Desa, Solid Hadapi Tantangan Politik ke Depan - Bela Rakyat",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 14:21:34 GMT",
+      "link": "https://belarakyat.com/gde-sumarjaya-linggih-konsolidasi-golkar-bali-diperkuat-hingga-desa-solid-hadapi-tantangan-politik-ke-depan/"
+    },
     {
       "title": "BPKN akan Dampingi Konsumen Penerbangan Terdampak Karhutla - Tempo.co",
       "entity": "BPKN",
@@ -174,27 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 10:00:00 GMT",
       "link": "https://kumparan.com/kumparannews/andre-rosiade-kunjungi-sma-1-sumbar-tegaskan-program-prabowo-perbaiki-sekolah-282G2JOgpoi"
-    },
-    {
-      "title": "Danantara Mengubah Investasi Negara Menjadi Nilai Tambah bagi Rakyat - Minews ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 09:22:48 GMT",
-      "link": "https://minews.id/cuitan-mi/danantara-mengubah-investasi-negara-menjadi-nilai-tambah-bagi-rakyat"
-    },
-    {
-      "title": "Kunjungi Pasar Amor, Andre Rosiade Dorong Trase Bypass Jadi Solusi Tol dan Kemacetan - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 08:59:29 GMT",
-      "link": "https://news.detik.com/berita/d-8630090/kunjungi-pasar-amor-andre-rosiade-dorong-trase-bypass-jadi-solusi-tol-dan-kemacetan"
-    },
-    {
-      "title": "Andre Rosiade Dorong Trase Bypass Jadi Solusi Tol Sicincin-Bukittinggi - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 08:42:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-dorong-trase-bypass-jadi-solusi-tol-sicincin-bukittinggi-282FhqjdS37"
     }
   ]
 }
