@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T16:19:58.554272",
+  "generated_at": "2026-08-22T17:17:41.738291",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 11,
@@ -33,14 +33,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 25,
+    "danantara": 24,
     "bumn": 81,
     "dividen": 1,
     "umkm": 17,
     "koperasi": 50,
     "investasi": 25,
     "perdagangan": 3,
-    "ekspor": 11,
+    "ekspor": 10,
     "merger-akuisisi": 10,
     "kartel-monopoli": 18
   },
@@ -87,10 +87,17 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 19,
-    "Perdagangan": 32,
+    "Perdagangan": 31,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Rasio Wirausaha Indonesia Targetkan Tembus Hingga Dua Belas Persen - Stapo.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 16:51:47 GMT",
+      "link": "https://www.stapo.id/news/rasio-wirausaha-indonesia-targetkan-tembus/"
+    },
     {
       "title": "Menkop: Rebranding dan Digitalisasi Jadi Strategi Transformasi Koperasi - indoposco.id",
       "entity": "Kementerian Koperasi",
@@ -188,13 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 11:49:44 GMT",
       "link": "https://news.detik.com/berita/d-8630284/andre-rosiade-kunjungi-sma-1-sumbar-tegaskan-program-perbaikan-sekolah"
-    },
-    {
-      "title": "Gor Rawang Makin Bersinar, Wakil Ketua Komisi VI DPR RI, Andre Rosiade, Akan Ada Bantuan Lanjutan - Kupasonline.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 10:47:00 GMT",
-      "link": "https://www.kupasonline.com/berita/248229/gor-rawang-makin-bersinar-wakil-ketua-komisi-vi-dpr-ri-andre-rosiade-akan-ada-bantuan-lanjutan"
     }
   ]
 }
