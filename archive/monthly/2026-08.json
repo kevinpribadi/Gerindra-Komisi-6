@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T12:34:09.276019",
+  "generated_at": "2026-08-23T13:29:50.102973",
   "party_counts_7d": {
-    "Gerindra": 25,
+    "Gerindra": 24,
     "PDI-P": 8,
     "Golkar": 22,
     "NasDem": 2,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 70,
+    "PDI-P": 71,
     "Golkar": 46,
     "NasDem": 24,
     "PKB": 41,
@@ -29,13 +29,13 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 9,
+    "BPK Sabang": 8,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "danantara": 24,
-    "bumn": 80,
+    "bumn": 81,
     "dividen": 1,
     "umkm": 19,
     "koperasi": 49,
@@ -58,6 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
+    "Budi Sulistyono": 1,
     "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
@@ -86,11 +87,25 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 67,
-    "Kinerja BUMN": 20,
-    "Perdagangan": 34,
+    "Kinerja BUMN": 19,
+    "Perdagangan": 33,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Eksisting Terancam “Generasi Terlupakan” di Balik Euforia Pembentukan 80.000 KDMP - WARTA KOPERASI",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 13:15:01 GMT",
+      "link": "https://wartakoperasi.net/koperasi-eksisting-terancam-generasi-terlupakan-di-balik-euforia-pembentukan-80-000-kdmp-detail-464261.html"
+    },
+    {
+      "title": "Relawan Bakti BUMN 2026: Sebelas Lokasi, Satu Panggilan untuk Negeri - TopBusiness.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 12:38:00 GMT",
+      "link": "https://www.topbusiness.id/134768/relawan-bakti-bumn-2026-sebelas-lokasi-satu-panggilan-untuk-negeri.html"
+    },
     {
       "title": "Andre Rosiade Minta Distribusi LPG 3 Kg di Sumbar Dikawal Ketat - detikNews",
       "entity": "Andre Rosiade",
@@ -104,6 +119,13 @@
       "kind": "lembaga",
       "published": "Sun, 23 Aug 2026 11:17:00 GMT",
       "link": "https://ekonomi.bisnis.com/read/20260823/98/1998390/bpkn-soroti-nasib-konsumen-penerbangan-yang-terdampak-karhutla"
+    },
+    {
+      "title": "Budi Sulistyono: Air Bersih Jadi Prioritas PMI Bantu Warga Terdampak Kekeringan - gesuri.id",
+      "entity": "Budi Sulistyono",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 11:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/budi-sulistyono-air-bersih-jadi-prioritas-pmi-bantu-warga-terdampak-kekeringan-b2pYDZbhzU"
     },
     {
       "title": "Membaca Politik Kebijakan Prabowo: MBG, Efisiensi, dan Danantara Halaman 1 - Kompasiana.com",
@@ -174,27 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 23 Aug 2026 04:40:42 GMT",
       "link": "https://pusaranmedia.com/read/51470/bupati-kutim-raih-penghargaan-tertinggi-bidang-koperasi-di-koperasi-awards-2026"
-    },
-    {
-      "title": "Rizal Bawazier Serahkan Ambulans CSR BRI, Minta Relindo Batang Sigap Bantu Warga - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 04:36:15 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/0617542781/rizal-bawazier-serahkan-ambulans-csr-bri-minta-relindo-batang-sigap-bantu-warga"
-    },
-    {
-      "title": "Ribuan Warga Ikuti Jalan Sehat di Wuled, Rizal Bawazier Dorong Olahraga dan UMKM Makin Bergeliat - VIVA Jogja",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 04:33:00 GMT",
-      "link": "https://jogja.viva.co.id/pantura-raya/11130-ribuan-warga-ikuti-jalan-sehat-di-wuled-rizal-bawazier-dorong-olahraga-dan-umkm-makin-bergeliat"
-    },
-    {
-      "title": "Ribuan Warga Ikuti Jalan Sehat di Wuled, Rizal Bawazier Dorong Olahraga dan UMKM Makin Bergeliat - VIVA Jogja",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 04:33:00 GMT",
-      "link": "https://jogja.viva.co.id/gaya-hidup/11130-ribuan-warga-ikuti-jalan-sehat-di-wuled-rizal-bawazier-dorong-olahraga-dan-umkm-makin-bergeliat"
     }
   ]
 }
