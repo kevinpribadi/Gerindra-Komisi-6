@@ -1,14 +1,15 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T07:31:04.022732",
+  "generated_at": "2026-08-23T08:25:31.278736",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 9,
     "Golkar": 22,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 18,
-    "PAN": 4
+    "PKS": 21,
+    "PAN": 4,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 64,
@@ -16,9 +17,9 @@
     "Golkar": 46,
     "NasDem": 25,
     "PKB": 41,
-    "PKS": 48,
+    "PKS": 50,
     "PAN": 22,
-    "Demokrat": 19
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,9 +35,9 @@
   },
   "topic_counts_30d": {
     "danantara": 24,
-    "bumn": 81,
+    "bumn": 80,
     "dividen": 1,
-    "umkm": 17,
+    "umkm": 18,
     "koperasi": 49,
     "investasi": 24,
     "ekspor": 11,
@@ -75,22 +76,36 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 18,
+    "Rizal Bawazier": 20,
     "Ghufran": 2,
     "Ismail": 15,
     "Eko Patrio": 2,
     "Iskandar": 20,
-    "Sartono": 7,
-    "Herman Khaeron": 12
+    "Sartono": 8,
+    "Herman Khaeron": 13
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 65,
-    "Kinerja BUMN": 20,
+    "Koperasi/UMKM": 66,
+    "Kinerja BUMN": 19,
     "Perdagangan": 33,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Komisi XII: Revisi UU Migas Jadi Kunci Kembalikan Lifting 1 Juta Barel - Bela Rakyat",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 07:57:02 GMT",
+      "link": "https://belarakyat.com/komisi-xii-revisi-uu-migas-jadi-kunci-kembalikan-lifting-1-juta-barel/"
+    },
+    {
+      "title": "Prabowo Cek Karhutla Kalimantan, Demokrat Harap Polusi Udara Segera Turun - Inilah.com",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 07:33:00 GMT",
+      "link": "https://www.inilah.com/prabowo-cek-karhutla-kalimantan-demokrat-harap-polusi-udara-segera-turun"
+    },
     {
       "title": "Kemenkop Siapkan Tiga Strategi Reformasi dan Transformasi Koperasi - achmadnurhidayat.id",
       "entity": "Kementerian Koperasi",
@@ -113,11 +128,25 @@
       "link": "https://investor.id/macroeconomy/451317/pemerintah-jalankan-tiga-strategi-dalam-transformasi-koperasi"
     },
     {
+      "title": "Rizal Bawazier Hadiri Jalan Sehat Desa Wuled, 2.000 Warga Tumpah Ruah - Suara Merdeka Pantura - Suara Merdeka Pantura",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 05:28:00 GMT",
+      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617542922/rizal-bawazier-hadiri-jalan-sehat-desa-wuled-2000-warga-tumpah-ruah"
+    },
+    {
       "title": "Jaga Kebersamaan dan Hidup Sehat, Pesan Rizal Bawazier di Tengah Antusias Tinggi Ribuan Peserta Jalan Sehat - Batik TV",
       "entity": "Rizal Bawazier",
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 05:06:00 GMT",
       "link": "https://www.batiktv.id/index.php/news/jaga-kebersamaan-dan-hidup-sehat--pesan-rizal-bawazier-di-tengah-antusias-tinggi-ribuan-peserta-jalan-sehat"
+    },
+    {
+      "title": "Jaga Kebersamaan dan Hidup Sehat, Pesan Rizal Bawazier di Tengah Antusias Tinggi Ribuan Peserta Jalan Sehat - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 05:06:00 GMT",
+      "link": "https://www.batiktv.id/news/jaga-kebersamaan-dan-hidup-sehat--pesan-rizal-bawazier-di-tengah-antusias-tinggi-ribuan-peserta-jalan-sehat"
     },
     {
       "title": "Bupati Kutim Raih Penghargaan Tertinggi Bidang Koperasi di Koperasi Awards 2026 - PusaranMedia.com",
@@ -132,6 +161,13 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 04:36:15 GMT",
       "link": "https://pantura.suaramerdeka.com/pantura-raya/0617542781/rizal-bawazier-serahkan-ambulans-csr-bri-minta-relindo-batang-sigap-bantu-warga"
+    },
+    {
+      "title": "Ribuan Warga Ikuti Jalan Sehat di Wuled, Rizal Bawazier Dorong Olahraga dan UMKM Makin Bergeliat - VIVA Jogja",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 04:33:00 GMT",
+      "link": "https://jogja.viva.co.id/pantura-raya/11130-ribuan-warga-ikuti-jalan-sehat-di-wuled-rizal-bawazier-dorong-olahraga-dan-umkm-makin-bergeliat"
     },
     {
       "title": "Menkop Dorong Koperasi Fokus Kembangkan Bisnis, Tinggalkan Pola Bisnis Kuno - MetroTVNews.com",
@@ -160,41 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 02:45:39 GMT",
       "link": "https://news.detik.com/berita/d-8630758/andre-rosiade-resmikan-bts-telkomsel-warga-nan-tujuah-kini-dapat-sinyal"
-    },
-    {
-      "title": "Jl Payakumbuh-Sitangkai Rampung, Andre Rosiade: Komitmen Prabowo Bangun Sumbar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 02:12:40 GMT",
-      "link": "https://news.detik.com/berita/d-8630736/jl-payakumbuh-sitangkai-rampung-andre-rosiade-komitmen-prabowo-bangun-sumbar"
-    },
-    {
-      "title": "Bawa Bantuan Presiden Prabowo, Sarmuji Serahkan 3 Traktor untuk Petani Blitar - Golkarpedia",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 01:26:00 GMT",
-      "link": "https://golkarpedia.com/bawa-bantuan-presiden-prabowo-sarmuji-serahkan-3-traktor-untuk-petani-blitar/"
-    },
-    {
-      "title": "Hadiri Estafet Obor Comal 2026, Rizal Bawazier Ajak Kobarkan Semangat Generasi Muda - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 01:16:00 GMT",
-      "link": "https://www.batiktv.id/index.php/news/hadiri-estafet-obor-comal-2026--rizal-bawazier-ajak-kobarkan-semangat-generasi-muda"
-    },
-    {
-      "title": "Hadiri Estafet Obor Comal 2026, Rizal Bawazier Ajak Kobarkan Semangat Generasi Muda - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 01:16:00 GMT",
-      "link": "https://www.batiktv.id/news/hadiri-estafet-obor-comal-2026--rizal-bawazier-ajak-kobarkan-semangat-generasi-muda"
-    },
-    {
-      "title": "Cetak Nilai Tambah Komoditas Tambak, Kemenkop Dorong Hilirisasi Zero-Waste Rumput Laut di Sidoarjo - Grafika News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 01:11:56 GMT",
-      "link": "https://www.grafikanews.com/berita-cetak-nilai-tambah-komoditas-tambak-kemenkop-dorong-hilirisasi-zerowaste-rumput-laut-di-sidoarjo.html"
     }
   ]
 }
