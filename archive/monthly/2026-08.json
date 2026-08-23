@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T11:18:31.272628",
+  "generated_at": "2026-08-23T12:34:09.276019",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 9,
+    "Gerindra": 25,
+    "PDI-P": 8,
     "Golkar": 22,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 21,
+    "PKS": 22,
     "PAN": 4,
     "Demokrat": 2
   },
@@ -37,7 +37,7 @@
     "danantara": 24,
     "bumn": 80,
     "dividen": 1,
-    "umkm": 18,
+    "umkm": 19,
     "koperasi": 49,
     "investasi": 24,
     "ekspor": 11,
@@ -85,12 +85,26 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 67,
     "Kinerja BUMN": 20,
     "Perdagangan": 34,
-    "Konflik Publik": 6
+    "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Minta Distribusi LPG 3 Kg di Sumbar Dikawal Ketat - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 11:32:05 GMT",
+      "link": "https://news.detik.com/berita/d-8631435/andre-rosiade-minta-distribusi-lpg-3-kg-di-sumbar-dikawal-ketat"
+    },
+    {
+      "title": "BPKN Soroti Nasib Konsumen Penerbangan yang Terdampak Karhutla - Bisnis.com - Ekonomi",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 11:17:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260823/98/1998390/bpkn-soroti-nasib-konsumen-penerbangan-yang-terdampak-karhutla"
+    },
     {
       "title": "Membaca Politik Kebijakan Prabowo: MBG, Efisiensi, dan Danantara Halaman 1 - Kompasiana.com",
       "entity": "Danantara",
@@ -176,25 +190,11 @@
       "link": "https://jogja.viva.co.id/pantura-raya/11130-ribuan-warga-ikuti-jalan-sehat-di-wuled-rizal-bawazier-dorong-olahraga-dan-umkm-makin-bergeliat"
     },
     {
-      "title": "Menkop Dorong Koperasi Fokus Kembangkan Bisnis, Tinggalkan Pola Bisnis Kuno - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 03:43:36 GMT",
-      "link": "https://www.metrotvnews.com/read/KvJCJgw7-menkop-dorong-koperasi-fokus-kembangkan-bisnis-tinggalkan-pola-bisnis-kuno"
-    },
-    {
-      "title": "Kemendag Lepas Ekspor Kopi Jawa Barat Senilai Rp2,64 Miliar ke Inggris - agrofarm.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 03:21:32 GMT",
-      "link": "http://www.agrofarm.co.id/2026/08/kemendag-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris/"
-    },
-    {
-      "title": "Jalan Payakumbuh-Sitangkai Beres, Andre Rosiade: Komitmen Presiden Bangun Sumbar - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
+      "title": "Ribuan Warga Ikuti Jalan Sehat di Wuled, Rizal Bawazier Dorong Olahraga dan UMKM Makin Bergeliat - VIVA Jogja",
+      "entity": "Rizal Bawazier",
       "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 03:12:00 GMT",
-      "link": "https://kumparan.com/kumparannews/jalan-payakumbuh-sitangkai-beres-andre-rosiade-komitmen-presiden-bangun-sumbar-282YgB7yrE8"
+      "published": "Sun, 23 Aug 2026 04:33:00 GMT",
+      "link": "https://jogja.viva.co.id/gaya-hidup/11130-ribuan-warga-ikuti-jalan-sehat-di-wuled-rizal-bawazier-dorong-olahraga-dan-umkm-makin-bergeliat"
     }
   ]
 }
