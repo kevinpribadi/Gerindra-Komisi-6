@@ -1,8 +1,8 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T08:25:31.278736",
+  "generated_at": "2026-08-23T11:18:31.272628",
   "party_counts_7d": {
-    "Gerindra": 30,
+    "Gerindra": 27,
     "PDI-P": 9,
     "Golkar": 22,
     "NasDem": 2,
@@ -15,7 +15,7 @@
     "Gerindra": 64,
     "PDI-P": 70,
     "Golkar": 46,
-    "NasDem": 25,
+    "NasDem": 24,
     "PKB": 41,
     "PKS": 50,
     "PAN": 22,
@@ -70,7 +70,6 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 1,
     "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
@@ -87,11 +86,18 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 19,
-    "Perdagangan": 33,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 34,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Membaca Politik Kebijakan Prabowo: MBG, Efisiensi, dan Danantara Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 10:47:50 GMT",
+      "link": "https://www.kompasiana.com/deddiajir9469/6a8acfd6c925c46a4858d0a9/membaca-politik-kebijakan-prabowo-mbg-efisiensi-dan-danantara"
+    },
     {
       "title": "Komisi XII: Revisi UU Migas Jadi Kunci Kembalikan Lifting 1 Juta Barel - Bela Rakyat",
       "entity": "Sartono",
@@ -189,13 +195,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 03:12:00 GMT",
       "link": "https://kumparan.com/kumparannews/jalan-payakumbuh-sitangkai-beres-andre-rosiade-komitmen-presiden-bangun-sumbar-282YgB7yrE8"
-    },
-    {
-      "title": "Andre Rosiade Resmikan BTS Telkomsel, Warga Nan Tujuah Kini Dapat Sinyal - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 02:45:39 GMT",
-      "link": "https://news.detik.com/berita/d-8630758/andre-rosiade-resmikan-bts-telkomsel-warga-nan-tujuah-kini-dapat-sinyal"
     }
   ]
 }
