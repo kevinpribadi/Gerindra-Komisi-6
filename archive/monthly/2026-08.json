@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T14:19:53.594597",
+  "generated_at": "2026-08-23T15:19:10.793949",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 8,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 71,
+    "PDI-P": 70,
     "Golkar": 46,
-    "NasDem": 24,
+    "NasDem": 23,
     "PKB": 41,
     "PKS": 50,
     "PAN": 22,
@@ -43,7 +43,7 @@
     "ekspor": 11,
     "perdagangan": 3,
     "merger-akuisisi": 10,
-    "kartel-monopoli": 18
+    "kartel-monopoli": 19
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -56,7 +56,7 @@
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 7,
+    "Sadarestuwati": 6,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 5,
@@ -66,7 +66,7 @@
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 13,
-    "Rachmat Gobel": 5,
+    "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
@@ -92,6 +92,13 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "KPPU dan Universitas HKBP Nommensen Dorong Pemahaman Hukum Persaingan Usaha - Seputar Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 14:39:56 GMT",
+      "link": "https://www.seputarsumut.com/berita/kppu-dan-universitas-hkbp-nommensen-dorong-pemahaman-hukum-persaingan-usaha/"
+    },
     {
       "title": "Koperasi Eksisting Terancam “Generasi Terlupakan” di Balik Euforia Pembentukan 80.000 KDMP - WARTA KOPERASI",
       "entity": "Kementerian Koperasi",
@@ -189,13 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 05:06:00 GMT",
       "link": "https://www.batiktv.id/news/jaga-kebersamaan-dan-hidup-sehat--pesan-rizal-bawazier-di-tengah-antusias-tinggi-ribuan-peserta-jalan-sehat"
-    },
-    {
-      "title": "Bupati Kutim Raih Penghargaan Tertinggi Bidang Koperasi di Koperasi Awards 2026 - PusaranMedia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 04:40:42 GMT",
-      "link": "https://pusaranmedia.com/read/51470/bupati-kutim-raih-penghargaan-tertinggi-bidang-koperasi-di-koperasi-awards-2026"
     }
   ]
 }
