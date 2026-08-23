@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T02:59:25.368112",
+  "generated_at": "2026-08-23T03:56:08.020096",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 9,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 14,
+    "PKS": 15,
     "PAN": 4
   },
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 45,
+    "Golkar": 46,
     "NasDem": 25,
     "PKB": 41,
-    "PKS": 44,
+    "PKS": 45,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -39,8 +39,8 @@
     "umkm": 17,
     "koperasi": 49,
     "investasi": 23,
+    "ekspor": 11,
     "perdagangan": 3,
-    "ekspor": 10,
     "merger-akuisisi": 10,
     "kartel-monopoli": 18
   },
@@ -57,7 +57,7 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
-    "Nurdin Halid": 4,
+    "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 3,
@@ -75,7 +75,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 14,
+    "Rizal Bawazier": 15,
     "Ghufran": 2,
     "Ismail": 15,
     "Eko Patrio": 2,
@@ -87,10 +87,31 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 65,
     "Kinerja BUMN": 20,
-    "Perdagangan": 31,
+    "Perdagangan": 33,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Menkop Dorong Koperasi Fokus Kembangkan Bisnis, Tinggalkan Pola Bisnis Kuno - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 03:43:36 GMT",
+      "link": "https://www.metrotvnews.com/read/KvJCJgw7-menkop-dorong-koperasi-fokus-kembangkan-bisnis-tinggalkan-pola-bisnis-kuno"
+    },
+    {
+      "title": "Kemendag Lepas Ekspor Kopi Jawa Barat Senilai Rp2,64 Miliar ke Inggris - agrofarm.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 03:21:32 GMT",
+      "link": "http://www.agrofarm.co.id/2026/08/kemendag-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris/"
+    },
+    {
+      "title": "Jalan Payakumbuh-Sitangkai Beres, Andre Rosiade: Komitmen Presiden Bangun Sumbar - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 03:12:00 GMT",
+      "link": "https://kumparan.com/kumparannews/jalan-payakumbuh-sitangkai-beres-andre-rosiade-komitmen-presiden-bangun-sumbar-282YgB7yrE8"
+    },
     {
       "title": "Jl Payakumbuh-Sitangkai Rampung, Andre Rosiade: Komitmen Prabowo Bangun Sumbar - detikNews",
       "entity": "Andre Rosiade",
@@ -127,6 +148,13 @@
       "link": "https://radarpekalongan.disway.id/jateng/read/114351/rizal-bawazier-dorong-estafet-obor-comal-jadi-event-khas-pemalang"
     },
     {
+      "title": "Rizal Bawazier Dorong Estafet Obor Comal Jadi Event Khas Pemalang - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 23:53:00 GMT",
+      "link": "https://radarpekalongan.disway.id/amp/114351/rizal-bawazier-dorong-estafet-obor-comal-jadi-event-khas-pemalang"
+    },
+    {
       "title": "BPKN RI Siap Dampingi Konsumen Terdampak Karhutla, Termasuk Penumpang Penerbangan yang Dirugikan - Mediakarya.id",
       "entity": "BPKN",
       "kind": "lembaga",
@@ -155,46 +183,18 @@
       "link": "https://indoposco.id/2026/08/22/menkop-rebranding-dan-digitalisasi-jadi-strategi-transformasi-koperasi/"
     },
     {
+      "title": "KPPU dan UHN Dorong Pemahaman Hukum Persaingan Usaha melalui Kuliah Umum - Oke Medan",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 15:50:15 GMT",
+      "link": "https://okemedan.com/2026/08/22/kppu-dan-uhn-dorong-pemahaman-hukum-persaingan-usaha-melalui-kuliah-umum/"
+    },
+    {
       "title": "Menkop: Koperasi harus kembali fokus kembangkan bisnis - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 15:38:19 GMT",
       "link": "https://www.antaranews.com/berita/5707093/menkop-koperasi-harus-kembali-fokus-kembangkan-bisnis"
-    },
-    {
-      "title": "Anggota DPR Dorong Pemko Padang Percepat Pemenuhan Lahan SPAM Palukahan - Langgam.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 15:16:45 GMT",
-      "link": "https://langgam.id/anggota-dpr-dorong-pemko-padang-percepat-pemenuhan-lahan-spam-palukahan/"
-    },
-    {
-      "title": "BPKN mengawal konsumen terdampak karhutla dan gangguan penerbangan - achmadnurhidayat.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 15:03:13 GMT",
-      "link": "https://achmadnurhidayat.id/bapkn-kawal-konsumen-karhutla-penerbangan"
-    },
-    {
-      "title": "Kobarkan Semangat Juang, Rizal Bawazier Buka Lomba Lari Estafet Obor Malam Hari - suara indonesia",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 14:30:00 GMT",
-      "link": "https://suaraindonesia.co.id/news/news/6a89b1700b56c/Kobarkan-Semangat-Juang-Rizal-Bawazier-Buka-Lomba-Lari-Estafet-Obor-Malam-Hari"
-    },
-    {
-      "title": "Kobarkan Semangat Juang, Rizal Bawazier Buka Lomba Lari Estafet Obor Malam Hari - suara indonesia",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 14:30:00 GMT",
-      "link": "https://suaraindonesia.co.id/amp/news/news/6a89b1700b56c/kobarkan-semangat--juang-rizal-bawazier-buka-lomba-lari-estafet-obor-malam-hari"
-    },
-    {
-      "title": "Gelora Merdeka di Comal , Langkah Tegas Amggota DPR RI Kobarkan Tradisi Estafet Obor 2026 - TIMES Indonesia",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 14:22:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-daerah/605050/gelora-merdeka-di-comal-langkah-tegas-amggota-dpr-ri-kobarkan-tradisi-estafet-obor-2026"
     }
   ]
 }
