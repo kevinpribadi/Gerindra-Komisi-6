@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T17:17:54.115104",
+  "generated_at": "2026-08-23T18:24:59.594493",
   "party_counts_7d": {
     "Gerindra": 24,
-    "PDI-P": 8,
+    "PDI-P": 7,
     "Golkar": 22,
     "NasDem": 2,
     "PKB": 9,
@@ -38,7 +38,7 @@
     "bumn": 81,
     "dividen": 1,
     "umkm": 19,
-    "koperasi": 49,
+    "koperasi": 50,
     "investasi": 24,
     "ekspor": 11,
     "perdagangan": 3,
@@ -86,9 +86,9 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 67,
+    "Koperasi/UMKM": 68,
     "Kinerja BUMN": 19,
-    "Perdagangan": 33,
+    "Perdagangan": 34,
     "Konflik Publik": 5
   },
   "top_headlines": [
@@ -98,6 +98,13 @@
       "kind": "lembaga",
       "published": "Sun, 23 Aug 2026 14:39:56 GMT",
       "link": "https://www.seputarsumut.com/berita/kppu-dan-universitas-hkbp-nommensen-dorong-pemahaman-hukum-persaingan-usaha/"
+    },
+    {
+      "title": "Estafet Obor Comal 2026 Berpotensi Jadi Event Tingkat Kabupaten Pemalang - ketik.com",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 14:09:00 GMT",
+      "link": "https://ketik.com/amp/estafet-obor-comal-2026-berpotensi-jadi-event-tingkat-kabupaten-pemalang"
     },
     {
       "title": "Koperasi Eksisting Terancam “Generasi Terlupakan” di Balik Euforia Pembentukan 80.000 KDMP - WARTA KOPERASI",
@@ -142,6 +149,13 @@
       "link": "https://www.kompasiana.com/deddiajir9469/6a8acfd6c925c46a4858d0a9/membaca-politik-kebijakan-prabowo-mbg-efisiensi-dan-danantara"
     },
     {
+      "title": "Raih Dua Penghargaan Koperasi Award 2026, Samuel Yogi: Kebanggaan Masyarakat Mimika - beritabuana.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 10:00:14 GMT",
+      "link": "https://beritabuana.co/2026/08/23/raih-dua-penghargaan-koperasi-award-2026-samuel-yogi-kebanggaan-masyarakat-mimika/"
+    },
+    {
       "title": "Komisi XII: Revisi UU Migas Jadi Kunci Kembalikan Lifting 1 Juta Barel - Bela Rakyat",
       "entity": "Sartono",
       "kind": "anggota",
@@ -182,20 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 05:28:00 GMT",
       "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617542922/rizal-bawazier-hadiri-jalan-sehat-desa-wuled-2000-warga-tumpah-ruah"
-    },
-    {
-      "title": "Jaga Kebersamaan dan Hidup Sehat, Pesan Rizal Bawazier di Tengah Antusias Tinggi Ribuan Peserta Jalan Sehat - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 05:06:00 GMT",
-      "link": "https://www.batiktv.id/index.php/news/jaga-kebersamaan-dan-hidup-sehat--pesan-rizal-bawazier-di-tengah-antusias-tinggi-ribuan-peserta-jalan-sehat"
-    },
-    {
-      "title": "Jaga Kebersamaan dan Hidup Sehat, Pesan Rizal Bawazier di Tengah Antusias Tinggi Ribuan Peserta Jalan Sehat - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 05:06:00 GMT",
-      "link": "https://www.batiktv.id/news/jaga-kebersamaan-dan-hidup-sehat--pesan-rizal-bawazier-di-tengah-antusias-tinggi-ribuan-peserta-jalan-sehat"
     }
   ]
 }
