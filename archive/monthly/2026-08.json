@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T01:09:08.925552",
+  "generated_at": "2026-08-23T02:59:25.368112",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 9,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 13,
+    "PKS": 14,
     "PAN": 4
   },
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 70,
-    "Golkar": 46,
-    "NasDem": 26,
+    "Golkar": 45,
+    "NasDem": 25,
     "PKB": 41,
-    "PKS": 43,
+    "PKS": 44,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -28,7 +28,7 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 10,
+    "BPK Sabang": 9,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
@@ -37,8 +37,8 @@
     "bumn": 81,
     "dividen": 1,
     "umkm": 17,
-    "koperasi": 50,
-    "investasi": 25,
+    "koperasi": 49,
+    "investasi": 23,
     "perdagangan": 3,
     "ekspor": 10,
     "merger-akuisisi": 10,
@@ -58,24 +58,24 @@
     "Sadarestuwati": 7,
     "Ida Nurlaela": 20,
     "Nurdin Halid": 4,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
-    "Muhammad Sarmuji": 11,
+    "Muhammad Sarmuji": 12,
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Subardi": 2,
+    "Subardi": 1,
     "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 13,
+    "Rizal Bawazier": 14,
     "Ghufran": 2,
     "Ismail": 15,
     "Eko Patrio": 2,
@@ -85,12 +85,40 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 65,
     "Kinerja BUMN": 20,
     "Perdagangan": 31,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Jl Payakumbuh-Sitangkai Rampung, Andre Rosiade: Komitmen Prabowo Bangun Sumbar - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 02:12:40 GMT",
+      "link": "https://news.detik.com/berita/d-8630736/jl-payakumbuh-sitangkai-rampung-andre-rosiade-komitmen-prabowo-bangun-sumbar"
+    },
+    {
+      "title": "Bawa Bantuan Presiden Prabowo, Sarmuji Serahkan 3 Traktor untuk Petani Blitar - Golkarpedia",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 01:26:00 GMT",
+      "link": "https://golkarpedia.com/bawa-bantuan-presiden-prabowo-sarmuji-serahkan-3-traktor-untuk-petani-blitar/"
+    },
+    {
+      "title": "Hadiri Estafet Obor Comal 2026, Rizal Bawazier Ajak Kobarkan Semangat Generasi Muda - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 01:16:00 GMT",
+      "link": "https://www.batiktv.id/news/hadiri-estafet-obor-comal-2026--rizal-bawazier-ajak-kobarkan-semangat-generasi-muda"
+    },
+    {
+      "title": "Cetak Nilai Tambah Komoditas Tambak, Kemenkop Dorong Hilirisasi Zero-Waste Rumput Laut di Sidoarjo - Grafika News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 23 Aug 2026 01:11:56 GMT",
+      "link": "https://www.grafikanews.com/berita-cetak-nilai-tambah-komoditas-tambak-kemenkop-dorong-hilirisasi-zerowaste-rumput-laut-di-sidoarjo.html"
+    },
     {
       "title": "Rizal Bawazier Dorong Estafet Obor Comal Jadi Event Khas Pemalang - radarpekalongan.disway.id - Radar Pekalongan",
       "entity": "Rizal Bawazier",
@@ -104,6 +132,13 @@
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 21:31:00 GMT",
       "link": "https://www.mediakarya.id/bpkn-ri-siap-dampingi-konsumen-terdampak-karhutla-termasuk-penumpang-penerbangan-yang-dirugikan/"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 22 Aug 2026 20:17:59 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260823/MTEyNg%3D%3D"
     },
     {
       "title": "Rasio Wirausaha Indonesia Targetkan Tembus Hingga Dua Belas Persen - Stapo.id",
@@ -160,41 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 22 Aug 2026 14:22:00 GMT",
       "link": "https://timesindonesia.co.id/peristiwa-daerah/605050/gelora-merdeka-di-comal-langkah-tegas-amggota-dpr-ri-kobarkan-tradisi-estafet-obor-2026"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: Konsolidasi Golkar Bali Diperkuat hingga Desa, Solid Hadapi Tantangan Politik ke Depan - Bela Rakyat",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 14:21:34 GMT",
-      "link": "https://belarakyat.com/gde-sumarjaya-linggih-konsolidasi-golkar-bali-diperkuat-hingga-desa-solid-hadapi-tantangan-politik-ke-depan/"
-    },
-    {
-      "title": "BPKN akan Dampingi Konsumen Penerbangan Terdampak Karhutla - Tempo.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 13:28:12 GMT",
-      "link": "https://www.tempo.co/ekonomi/bpkn-akan-dampingi-konsumen-penerbangan-terdampak-karhutla-2283388"
-    },
-    {
-      "title": "KPPU dan UHN Medan Perkuat Pemahaman Mahasiswa soal Hukum Persaingan Usaha - Mawartanews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 13:26:51 GMT",
-      "link": "https://mawartanews.com/kppu-uhn-medan-hukum-persaingan-usaha/"
-    },
-    {
-      "title": "Anggot DPR-RI Andre Rosiade Komit Kawal Pembangunan SPAM Palukahan, Pemko Padang Segera Tuntaskan Lahan - KlikPositif.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 22 Aug 2026 12:59:49 GMT",
-      "link": "https://klikpositif.com/anggot-dpr-ri-andre-rosiade-komit-kawal-pembangunan-spam-palukahan-pemko-padang-segera-tuntaskan-lahan/"
-    },
-    {
-      "title": "Penerbangan Dibatalkan Imbas Karhutla, BPKN: Konsumen Jangan Sampai Dirugikan - detikFinance",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 12:50:48 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8630366/penerbangan-dibatalkan-imbas-karhutla-bpkn-konsumen-jangan-sampai-dirugikan"
     }
   ]
 }
