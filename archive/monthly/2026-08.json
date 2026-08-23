@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-22T22:18:19.820080",
+  "generated_at": "2026-08-23T01:09:08.925552",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 10,
+    "PDI-P": 9,
     "Golkar": 19,
     "NasDem": 2,
     "PKB": 9,
-    "PKS": 12,
+    "PKS": 13,
     "PAN": 4
   },
   "party_counts_30d": {
@@ -16,7 +16,7 @@
     "Golkar": 46,
     "NasDem": 26,
     "PKB": 41,
-    "PKS": 42,
+    "PKS": 43,
     "PAN": 22,
     "Demokrat": 19
   },
@@ -75,7 +75,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
     "Amin Ak.": 13,
-    "Rizal Bawazier": 12,
+    "Rizal Bawazier": 13,
     "Ghufran": 2,
     "Ismail": 15,
     "Eko Patrio": 2,
@@ -91,6 +91,13 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Rizal Bawazier Dorong Estafet Obor Comal Jadi Event Khas Pemalang - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 22 Aug 2026 23:53:00 GMT",
+      "link": "https://radarpekalongan.disway.id/jateng/read/114351/rizal-bawazier-dorong-estafet-obor-comal-jadi-event-khas-pemalang"
+    },
     {
       "title": "BPKN RI Siap Dampingi Konsumen Terdampak Karhutla, Termasuk Penumpang Penerbangan yang Dirugikan - Mediakarya.id",
       "entity": "BPKN",
@@ -188,13 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 22 Aug 2026 12:50:48 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8630366/penerbangan-dibatalkan-imbas-karhutla-bpkn-konsumen-jangan-sampai-dirugikan"
-    },
-    {
-      "title": "I-EU CEPA Ditargetkan Diteken Oktober, 98% Pos Tarif Diliberalisasi - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 22 Aug 2026 12:45:00 GMT",
-      "link": "https://swa.co.id/read/476376/i-eu-cepa-ditargetkan-diteken-oktober-98-pos-tarif-diliberalisasi"
     }
   ]
 }
