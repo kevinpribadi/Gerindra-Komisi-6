@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T04:40:56.754098",
+  "generated_at": "2026-08-24T05:35:38.425053",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 8,
@@ -8,7 +8,7 @@
     "NasDem": 2,
     "PKB": 10,
     "PKS": 22,
-    "PAN": 4,
+    "PAN": 3,
     "Demokrat": 3
   },
   "party_counts_30d": {
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 24,
+    "danantara": 25,
     "bumn": 80,
     "dividen": 1,
     "umkm": 20,
     "koperasi": 51,
-    "investasi": 24,
+    "investasi": 23,
     "ekspor": 12,
     "perdagangan": 3,
     "merger-akuisisi": 8,
@@ -90,9 +90,30 @@
     "Koperasi/UMKM": 69,
     "Kinerja BUMN": 19,
     "Perdagangan": 35,
-    "Konflik Publik": 5
+    "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Temasek Lewat, Untung Danantara Jauh Lebih Besar - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 05:15:17 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260824103316-17-761793/temasek-lewat-untung-danantara-jauh-lebih-besar"
+    },
+    {
+      "title": "Andre Rosiade Resmikan BTS Tahura Bung Hatta, Geram 15 Tiang Telkom Dicuri - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 05:00:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-resmikan-bts-tahura-bung-hatta-geram-15-tiang-telkom-dicuri-282ynIM41nh"
+    },
+    {
+      "title": "Bersama Andre Rosiade, Bupati Solok Resmikan Restoran Bebek Sapan Huler Mama Cupak - Kupasonline.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 04:59:00 GMT",
+      "link": "https://www.kupasonline.com/berita/248315/bersama-andre-rosiade-bupati-solok-resmikan-restoran-bebek-sapan-huler-mama-cupak"
+    },
     {
       "title": "Sebanyak 90 pengurus KDKMP ikut program magang model bisnis koperasi - ANTARA News",
       "entity": "Kementerian Koperasi",
@@ -176,27 +197,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 15:00:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/adisatrya-dukung-perampingan-jumlah-bumn-guna-pacu-efisiensi-dan-daya-saing-b2pY8ZbhtW"
-    },
-    {
-      "title": "KPPU dan Universitas HKBP Nommensen Dorong Pemahaman Hukum Persaingan Usaha - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 14:39:56 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-dan-universitas-hkbp-nommensen-dorong-pemahaman-hukum-persaingan-usaha/"
-    },
-    {
-      "title": "Estafet Obor Comal 2026 Berpotensi Jadi Event Tingkat Kabupaten Pemalang - ketik.com",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 14:09:00 GMT",
-      "link": "https://ketik.com/amp/estafet-obor-comal-2026-berpotensi-jadi-event-tingkat-kabupaten-pemalang"
-    },
-    {
-      "title": "Koperasi Eksisting Terancam “Generasi Terlupakan” di Balik Euforia Pembentukan 80.000 KDMP - WARTA KOPERASI",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 13:15:01 GMT",
-      "link": "https://wartakoperasi.net/koperasi-eksisting-terancam-generasi-terlupakan-di-balik-euforia-pembentukan-80-000-kdmp-detail-464261.html"
     }
   ]
 }
