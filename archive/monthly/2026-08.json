@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T08:46:40.632005",
+  "generated_at": "2026-08-24T09:43:22.910640",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 12,
+    "PDI-P": 13,
     "Golkar": 20,
     "NasDem": 2,
     "PKB": 10,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 26,
-    "bumn": 81,
+    "danantara": 27,
+    "bumn": 83,
     "dividen": 1,
     "umkm": 20,
     "koperasi": 51,
-    "investasi": 20,
+    "investasi": 21,
     "ekspor": 12,
     "perdagangan": 3,
-    "merger-akuisisi": 6,
+    "merger-akuisisi": 5,
     "kartel-monopoli": 19,
     "ipo": 1
   },
@@ -88,11 +88,53 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 69,
-    "Kinerja BUMN": 19,
-    "Perdagangan": 36,
-    "Konflik Publik": 3
+    "Kinerja BUMN": 20,
+    "Perdagangan": 35,
+    "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN dan Danantara Akan Terapkan Single Grading System - BeritaSatu.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 09:33:27 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3021540/bp-bumn-dan-danantara-akan-terapkan-single-grading-system"
+    },
+    {
+      "title": "Agrinas Palma Nusantara Dorong Kemitraan Berbasis Koperasi di Rokan Hulu - RIAUTERKINI.COM",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 09:23:15 GMT",
+      "link": "https://www.riauterkini.com/index.php?com=isi&id_news=15115234070&Agrinas-Palma-Nusantara-Dorong-Kemitraan-Berbasis-Koperasi-di-Rokan-Hulu"
+    },
+    {
+      "title": "Danantara Restrukturisasi BUMN dan Selesaikan Laporan Keuangan - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 09:07:49 GMT",
+      "link": "https://achmadnurhidayat.id/danantara-restrukturisasi-bumn-laporan-keuangan"
+    },
+    {
+      "title": "DPR akan Panggil Bank Mandiri soal Rekening Aktivis Pati yang Diblokir - investor.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 09:06:51 GMT",
+      "link": "https://investor.id/finance/451450/dpr-akan-panggil-bank-mandiri-soal-rekening-aktivis-pati-yang-diblokir"
+    },
+    {
+      "title": "Rieke Dukung Prabowo Tindak Korporasi Karhutla, Jangan Hanya Tangkap Pelaku Lapangan - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 09:00:09 GMT",
+      "link": "https://aktual.com/rieke-dukung-prabowo-tindak-korporasi-karhutla-jangan-hanya-tangkap-pelaku-lapangan/"
+    },
+    {
+      "title": "BPI Danantara Butuh Rp100 Triliun Benahi Masalah Keuangan BUMN - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 08:54:13 GMT",
+      "link": "https://suaragarut.id/danantara-butuh-100-triliun-benahi-bumn"
+    },
     {
       "title": "| PPATK Diminta Kejar Aliran Dana Sindikat Uang Palsu - jurnas.com",
       "entity": "Rieke Diah Pitaloka",
@@ -155,48 +197,6 @@
       "kind": "anggota",
       "published": "Mon, 24 Aug 2026 07:05:54 GMT",
       "link": "https://www.kedaipena.com/audiensi-dengan-forum-komunikasi-rakyat-pati-waka-dpr-mereka-minta-kepastian-hukum/"
-    },
-    {
-      "title": "Soal Rekening Aktivis Pati Diblokir, Andre Rosiade: Bank Himbara Tak Mungkin Main Sepihak - Suara.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 06:51:34 GMT",
-      "link": "https://www.suara.com/news/2026/08/24/135134/soal-rekening-aktivis-pati-diblokir-andre-rosiade-bank-himbara-tak-mungkin-main-sepihak"
-    },
-    {
-      "title": "I-EU CEPA Segera Diimplementasikan, Indonesia Bidik Perluasan Pasar ke Eropa - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 06:44:43 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/24/i-eu-cepa-segera-diimplementasikan-indonesia-bidik-perluasan-pasar-ke-eropa/"
-    },
-    {
-      "title": "Komisi XIII Dukung Prabowo Proses Hukum Korporasi Pelaku Karhutla - JPNN.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 06:12:00 GMT",
-      "link": "https://www.jpnn.com/news/komisi-xiii-dukung-prabowo-proses-hukum-korporasi-pelaku-karhutla"
-    },
-    {
-      "title": "Bos Danantara Sebut Butuh Rp100 T Buat Bersihkan 'Dosa Lama' BUMN - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 05:50:47 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260824110303-17-761810/bos-danantara-sebut-butuh-rp100-t-buat-bersihkan-dosa-lama-bumn"
-    },
-    {
-      "title": "| Karhutla Meluas, Legislator PDIP Desak Korporasi dan Aktor Utama Diusut - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 05:36:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1664185/karhutla-meluas-legislator-pdip-desak-korporasi-dan-aktor-utama-diusut/"
-    },
-    {
-      "title": "Bom Waktu Dapen BUMN, Pos Indonesia Kurang Rp4 Triliun - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 05:35:04 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260824103906-17-761797/bom-waktu-dapen-bumn-pos-indonesia-kurang-rp4-triliun/amp"
     }
   ]
 }
