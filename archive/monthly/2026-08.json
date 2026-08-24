@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T17:27:53.439366",
+  "generated_at": "2026-08-24T18:35:47.795543",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 17,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 62,
     "PDI-P": 71,
-    "Golkar": 43,
+    "Golkar": 44,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 51,
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "danantara": 32,
-    "bumn": 84,
-    "dividen": 1,
+    "bumn": 85,
+    "dividen": 2,
     "umkm": 14,
     "koperasi": 52,
     "investasi": 20,
@@ -60,7 +60,7 @@
     "Sadarestuwati": 6,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
-    "Nurdin Halid": 5,
+    "Nurdin Halid": 6,
     "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 3,
@@ -93,6 +93,13 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Dividen BUMN Disiapkan Jadi Bantalan Fiskal demi Jaga Keuangan Negara - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 18:09:10 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217025/dividen-bumn-disiapkan-jadi-bantalan-fiskal-demi-jaga-keuangan-negara"
+    },
     {
       "title": "Lepas dari Elnusa, Hera Handayani Dipercaya Jadi Senior Direktur HR Danantara - Rmol.id",
       "entity": "Danantara",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 12:31:00 GMT",
       "link": "https://bukamatanews.id/read/2026/08/24/menteri-koperasi-ajak-kolaborasi-wahdah-islamiyah-bangun-ekonomi-umat-yang-produktif-dan-mandiri"
-    },
-    {
-      "title": "Temuan Uang Palsu Rp36 Miliar di BSD, Rieke Diah Pitaloka Minta PPATK Usut Aliran Dana - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 12:10:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/temuan-uang-palsu-rp36-miliar-di-bsd-rieke-diah-pitaloka-minta-ppatk-usut-aliran-dana-b2pYEZbh2b"
     }
   ]
 }
