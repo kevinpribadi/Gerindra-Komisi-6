@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T14:38:40.707093",
+  "generated_at": "2026-08-24T15:36:29.820217",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 13,
+    "PDI-P": 15,
     "Golkar": 20,
     "NasDem": 2,
     "PKB": 8,
@@ -17,7 +17,7 @@
     "Golkar": 43,
     "NasDem": 22,
     "PKB": 42,
-    "PKS": 50,
+    "PKS": 51,
     "PAN": 22,
     "Demokrat": 22
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 32,
+    "danantara": 31,
     "bumn": 84,
     "dividen": 1,
-    "umkm": 16,
-    "koperasi": 51,
-    "investasi": 21,
+    "umkm": 15,
+    "koperasi": 52,
+    "investasi": 20,
     "ekspor": 11,
-    "perdagangan": 4,
-    "merger-akuisisi": 3,
+    "perdagangan": 5,
     "kartel-monopoli": 19,
+    "merger-akuisisi": 2,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -79,7 +79,7 @@
     "Amin Ak.": 13,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
-    "Ismail": 15,
+    "Ismail": 16,
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 8,
@@ -88,11 +88,39 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 64,
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 18,
     "Perdagangan": 35,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Sorot Kesenjangan Kota-Desa dan Malnutrisi 3T, Menkop Ferry Juliantono Dobrak Skema Bantuan Lewat Koperasi Desa - Panjimas",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 14:44:57 GMT",
+      "link": "https://www.panjimas.com/news/2026/08/24/sorot-kesenjangan-kota-desa-dan-malnutrisi-3t-menkop-ferry-juliantono-dobrak-skema-bantuan-lewat-koperasi-desa/"
+    },
+    {
+      "title": "Dukung Prabowo Tindak Tegas Korporasi Pelaku Karhutla, Rieke: Negara Tidak Boleh Membiarkan - Kosadata",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 14:40:00 GMT",
+      "link": "https://kosadata.com/dukung-prabowo-tindak-tegas-korporasi-pelaku-karhutla-rieke-negara-tidak-boleh-membiarkan"
+    },
+    {
+      "title": "Dukung Prabowo Berantas Karhutla, Rieke Diah Pitaloka Tegaskan Lawan Otak Korporasi - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 14:32:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/dukung-prabowo-berantas-karhutla-rieke-diah-pitaloka-tegaskan-lawan-otak-korporasi-b2pYEZbh2f"
+    },
+    {
+      "title": "DSI Pantau Transaksi Ekspor Tiga Komoditas Strategis Rp1.239 T - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 14:27:27 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260824205546-92-1396008/dsi-pantau-transaksi-ekspor-tiga-komoditas-strategis-rp1239-t"
+    },
     {
       "title": "Menteri Koperasi Ajak Wahdah Islamiyah Kolaborasi Bangun Ekonomi Umat yang Produktif dan Mandiri - Sulsel Terkini",
       "entity": "Kementerian Koperasi",
@@ -106,6 +134,13 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 14:00:00 GMT",
       "link": "https://olenka.id/sinergi-dengan-mnc-university-kemendag-siapkan-mahasiswa-untuk-industri-berorientasi-ekspor"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan sedang mempromosikan solusi untuk mencapai target pertumbuhan dua digit. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 13:52:25 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-giai-phap-dat-muc-tieu-tang-truong-2-con-so"
     },
     {
       "title": "KPPU dan UHN dorong pemahaman hukum persaingan usaha melalui kuliah umum - Elshinta",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 11:29:01 GMT",
       "link": "https://www.aa.com.tr/id/ekonomi/turkiye-bidik-peningkatan-ekspor-ke-negara-negara-islam-hingga-2028/4035790"
-    },
-    {
-      "title": "BP BUMN Dorong Pembangunan Sistem SDM Terintegrasi di Perusahaan Milik Negara - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 11:19:35 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dorong-pembangunan-sistem-sdm-terintegrasi-di-perusahaan-milik-negara/"
-    },
-    {
-      "title": "Keluarga GSL Gelar Upacara Tigang Sasih untuk Agung Jayananda Linggih - Bela Rakyat",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 11:18:00 GMT",
-      "link": "https://belarakyat.com/keluarga-gsl-gelar-upacara-tigang-sasih-untuk-agung-jayananda-linggih/"
-    },
-    {
-      "title": "Kritik Keras Ketua Dewan Pimpinan Daerah POSPERA Sumsel, Muhammad Iqbal: Blunder Pemblokiran Rekening Donasi Warga Pati Hancurkan Kepercayaan Publik, Desak Kementerian BUMN & Danantara Evaluasi Total Direksi Bank Mandiri - ampuh news",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 11:02:18 GMT",
-      "link": "https://ampuhnews.com/kritik-keras-ketua-dewan-pimpinan-daerah-pospera-sumsel-muhammad-iqbal-blunder-pemblokiran-rekening-donasi-warga-pati-hancurkan-kepercayaan-publik-desak-kementerian-bumn-danantara-evaluasi-total/"
-    },
-    {
-      "title": "BP BUMN dan Danantara Susun Standar Grading SDM Terpadu - achmadnurhidayat.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 10:48:05 GMT",
-      "link": "https://achmadnurhidayat.id/bp-bumn-danantara-susun-standar-grading-sdm"
-    },
-    {
-      "title": "Danantara Siapkan Sistem SDM Terintegrasi untuk Seluruh BUMN - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 10:35:20 GMT",
-      "link": "https://wartaekonomi.co.id/read630425/danantara-siapkan-sistem-sdm-terintegrasi-untuk-seluruh-bumn"
     }
   ]
 }
