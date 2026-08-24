@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T01:07:17.312806",
+  "generated_at": "2026-08-24T03:00:27.013205",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 7,
@@ -9,7 +9,7 @@
     "PKB": 10,
     "PKS": 22,
     "PAN": 4,
-    "Demokrat": 2
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 64,
@@ -19,7 +19,7 @@
     "PKB": 42,
     "PKS": 50,
     "PAN": 22,
-    "Demokrat": 21
+    "Demokrat": 22
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -40,10 +40,11 @@
     "umkm": 20,
     "koperasi": 51,
     "investasi": 24,
-    "ekspor": 11,
+    "ekspor": 12,
     "perdagangan": 3,
     "merger-akuisisi": 9,
-    "kartel-monopoli": 19
+    "kartel-monopoli": 19,
+    "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -82,16 +83,37 @@
     "Eko Patrio": 2,
     "Iskandar": 20,
     "Sartono": 8,
-    "Herman Khaeron": 13
+    "Herman Khaeron": 14
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 69,
     "Kinerja BUMN": 20,
-    "Perdagangan": 34,
+    "Perdagangan": 35,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Perkuat Ekosistem Ekspor, Kemendag dan MNC University Kolaborasi Kembangkan Talenta Desain - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 01:58:37 GMT",
+      "link": "https://suarapemerintah.id/2026/08/perkuat-ekosistem-ekspor-kemendag-dan-mnc-university-kolaborasi-kembangkan-talenta-desain/"
+    },
+    {
+      "title": "Pengurus Koperasi Desa Merah Putih Magang di Pesantren demi Percepat Operasional - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 01:45:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/24/084544526/pengurus-koperasi-desa-merah-putih-magang-di-pesantren-demi-percepat"
+    },
+    {
+      "title": "Nih, Catatan Aspirasi Warga Jakarta yang Diserahkan pada Herman Khaeron dan Ibas Saat HUT PD ke-25 - Ipol.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 00:30:42 GMT",
+      "link": "https://ipol.id/2026/08/nih-catatan-aspirasi-warga-jakarta-yang-diserahkan-pada-herman-khaeron-dan-ibas-saat-hut-pd-ke-25/"
+    },
     {
       "title": "KPPU Makassar Dorong Persaingan Sehat dan Kemitraan Adil di Sektor Perunggasan Sulsel - Gosulsel.com",
       "entity": "KPPU",
@@ -175,27 +197,6 @@
       "kind": "anggota",
       "published": "Sun, 23 Aug 2026 07:57:02 GMT",
       "link": "https://belarakyat.com/komisi-xii-revisi-uu-migas-jadi-kunci-kembalikan-lifting-1-juta-barel/"
-    },
-    {
-      "title": "Prabowo Cek Karhutla Kalimantan, Demokrat Harap Polusi Udara Segera Turun - Inilah.com",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 07:33:00 GMT",
-      "link": "https://www.inilah.com/prabowo-cek-karhutla-kalimantan-demokrat-harap-polusi-udara-segera-turun"
-    },
-    {
-      "title": "Kemenkop Siapkan Tiga Strategi Reformasi dan Transformasi Koperasi - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 07:18:16 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-siapkan-tiga-strategi-reformasi-koperasi"
-    },
-    {
-      "title": "Bupati Pasuruan Rusdi Sutejo Raih Penghargaan Bakti Koperasi Nayaka Mahambara 2026 - beritajatim.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 07:16:19 GMT",
-      "link": "https://beritajatim.com/bupati-pasuruan-rusdi-sutejo-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
     }
   ]
 }
