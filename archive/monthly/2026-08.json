@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T10:34:23.349956",
+  "generated_at": "2026-08-24T11:24:35.358378",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 13,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 2,
     "PKB": 10,
     "PKS": 22,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 71,
-    "Golkar": 45,
+    "Golkar": 46,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 50,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 27,
-    "bumn": 84,
+    "danantara": 30,
+    "bumn": 85,
     "dividen": 1,
     "umkm": 20,
     "koperasi": 51,
     "investasi": 21,
-    "ekspor": 12,
+    "ekspor": 11,
     "perdagangan": 3,
-    "merger-akuisisi": 5,
+    "merger-akuisisi": 4,
     "kartel-monopoli": 19,
     "ipo": 1
   },
@@ -61,7 +61,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 5,
-    "Gde Sumarjaya Linggih": 11,
+    "Gde Sumarjaya Linggih": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
@@ -88,11 +88,53 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 69,
-    "Kinerja BUMN": 20,
+    "Kinerja BUMN": 18,
     "Perdagangan": 35,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Dorong Pembangunan Sistem SDM Terintegrasi di Perusahaan Milik Negara - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 11:19:35 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dorong-pembangunan-sistem-sdm-terintegrasi-di-perusahaan-milik-negara/"
+    },
+    {
+      "title": "Keluarga GSL Gelar Upacara Tigang Sasih untuk Agung Jayananda Linggih - Bela Rakyat",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 11:18:00 GMT",
+      "link": "https://belarakyat.com/keluarga-gsl-gelar-upacara-tigang-sasih-untuk-agung-jayananda-linggih/"
+    },
+    {
+      "title": "Kritik Keras Ketua Dewan Pimpinan Daerah POSPERA Sumsel, Muhammad Iqbal: Blunder Pemblokiran Rekening Donasi Warga Pati Hancurkan Kepercayaan Publik, Desak Kementerian BUMN & Danantara Evaluasi Total Direksi Bank Mandiri - ampuh news",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 11:02:18 GMT",
+      "link": "https://ampuhnews.com/kritik-keras-ketua-dewan-pimpinan-daerah-pospera-sumsel-muhammad-iqbal-blunder-pemblokiran-rekening-donasi-warga-pati-hancurkan-kepercayaan-publik-desak-kementerian-bumn-danantara-evaluasi-total/"
+    },
+    {
+      "title": "BP BUMN dan Danantara Susun Standar Grading SDM Terpadu - achmadnurhidayat.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 10:48:05 GMT",
+      "link": "https://achmadnurhidayat.id/bp-bumn-danantara-susun-standar-grading-sdm"
+    },
+    {
+      "title": "Danantara Siapkan Sistem SDM Terintegrasi untuk Seluruh BUMN - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 10:35:20 GMT",
+      "link": "https://wartaekonomi.co.id/read630425/danantara-siapkan-sistem-sdm-terintegrasi-untuk-seluruh-bumn"
+    },
+    {
+      "title": "Andre Rosiade Yakin Bank Tak Blokir Rekening Secara Sepihak: Pasti Ada Permintaan Pihak Berwenang - Kompas.tv",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 10:19:00 GMT",
+      "link": "https://www.kompas.tv/nasional/687157/andre-rosiade-yakin-bank-tak-blokir-rekening-secara-sepihak-pasti-ada-permintaan-pihak-berwenang"
+    },
     {
       "title": "Andre Rosiade Serahkan Ambulans untuk Warga Nagari Kubang - detikNews",
       "entity": "Andre Rosiade",
@@ -155,48 +197,6 @@
       "kind": "anggota",
       "published": "Mon, 24 Aug 2026 08:39:00 GMT",
       "link": "https://www.jurnas.com/artikel/1664213/ppatk-diminta-kejar-aliran-dana-sindikat-uang-palsu/"
-    },
-    {
-      "title": "Rekening Donasi Masyarakat Pati Diblokir, Anggota DPR Andre Rosiade: Tidak Mungkin Keputusan Dilakukan Sepihak - Herald ID",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 08:36:00 GMT",
-      "link": "https://herald.id/2026/08/24/rekening-donasi-masyarakat-pati-diblokir-anggota-dpr-andre-rosiade-tidak-mungkin-keputusan-dilakukan-sepihak/"
-    },
-    {
-      "title": "Momen Pimpinan DPR Cucun Dibisiki Andre Rosiade Saat Jawab Rekening Pedemo Pati Diblokir - Kompas.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 08:33:31 GMT",
-      "link": "https://video.kompas.com/watch/1950453/momen-pimpinan-dpr-cucun-dibisiki-andre-rosiade-saat-jawab-rekening-pedemo-pati-diblokir"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dukung Presiden Tindak Tegas Korporasi Terlibat Karhutla - Lensa Medan",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 08:26:00 GMT",
-      "link": "https://www.lensamedan.co.id/2026/08/rieke-diah-pitaloka-dukung-presiden.html"
-    },
-    {
-      "title": "Rapor Danantara: 70% Beres, Sisa PR Tinggal Karya, Pos dan Dapen - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 08:15:10 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260824144410-17-761931/rapor-danantara-70-beres-sisa-pr-tinggal-karya-pos-dan-dapen"
-    },
-    {
-      "title": "BPKN Kawal Hak Konsumen Penerbangan Terdampak Kebakaran Hutan - SuaraGarut.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 08:10:51 GMT",
-      "link": "https://suaragarut.id/bpkn-kawal-hak-konsumen-penerbangan-karhutla"
-    },
-    {
-      "title": "Bupati Fahmi Raih Penghargaan Bakti Koperasi Nayaka Mahambara 2026 - PusaranMedia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 08:03:45 GMT",
-      "link": "https://pusaranmedia.com/read/51493/bupati-fahmi-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
     }
   ]
 }
