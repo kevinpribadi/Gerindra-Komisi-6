@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T11:24:35.358378",
+  "generated_at": "2026-08-24T12:42:47.315536",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 13,
-    "Golkar": 21,
+    "PDI-P": 14,
+    "Golkar": 20,
     "NasDem": 2,
     "PKB": 10,
     "PKS": 22,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 71,
-    "Golkar": 46,
+    "Golkar": 43,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 50,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 30,
-    "bumn": 85,
+    "danantara": 31,
+    "bumn": 84,
     "dividen": 1,
-    "umkm": 20,
+    "umkm": 17,
     "koperasi": 51,
     "investasi": 21,
+    "perdagangan": 4,
     "ekspor": 11,
-    "perdagangan": 3,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 19,
+    "kartel-monopoli": 18,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -62,7 +62,7 @@
     "Budi Sulistyono": 1,
     "Nurdin Halid": 5,
     "Gde Sumarjaya Linggih": 12,
-    "Sarifah Suraidah": 4,
+    "Sarifah Suraidah": 1,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 2,
@@ -87,12 +87,47 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 69,
+    "Koperasi/UMKM": 66,
     "Kinerja BUMN": 18,
     "Perdagangan": 35,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menteri Koperasi Ajak Kolaborasi Wahdah Islamiyah Bangun Ekonomi Umat yang Produktif dan Mandiri - Bukamatanews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 12:31:00 GMT",
+      "link": "https://bukamatanews.id/read/2026/08/24/menteri-koperasi-ajak-kolaborasi-wahdah-islamiyah-bangun-ekonomi-umat-yang-produktif-dan-mandiri"
+    },
+    {
+      "title": "Temuan Uang Palsu Rp36 Miliar di BSD, Rieke Diah Pitaloka Minta PPATK Usut Aliran Dana - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 12:10:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/temuan-uang-palsu-rp36-miliar-di-bsd-rieke-diah-pitaloka-minta-ppatk-usut-aliran-dana-b2pYEZbh2b"
+    },
+    {
+      "title": "Dony Oskaria: Laba Danantara Rp330 triliun, lampaui Temasek - idnfinancials.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/67834/dony-oskaria-laba-danantara-rp330-triliun-lampaui-temasek"
+    },
+    {
+      "title": "Andre Rosiade Serahkan Bantuan Rp 50 Juta untuk Bangun Masjid di Solok - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 11:47:46 GMT",
+      "link": "https://news.detik.com/berita/d-8632991/andre-rosiade-serahkan-bantuan-rp-50-juta-untuk-bangun-masjid-di-solok"
+    },
+    {
+      "title": "Turkiye perkuat integrasi perdagangan dengan negara-negara Islam - Anadolu Ajansı",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 11:29:01 GMT",
+      "link": "https://www.aa.com.tr/id/ekonomi/turkiye-bidik-peningkatan-ekspor-ke-negara-negara-islam-hingga-2028/4035790"
+    },
     {
       "title": "BP BUMN Dorong Pembangunan Sistem SDM Terintegrasi di Perusahaan Milik Negara - Iconomics",
       "entity": "Badan Pengaturan BUMN",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 09:23:15 GMT",
       "link": "https://www.riauterkini.com/index.php?com=isi&id_news=15115234070&Agrinas-Palma-Nusantara-Dorong-Kemitraan-Berbasis-Koperasi-di-Rokan-Hulu"
-    },
-    {
-      "title": "Danantara Restrukturisasi BUMN dan Selesaikan Laporan Keuangan - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 09:07:49 GMT",
-      "link": "https://achmadnurhidayat.id/danantara-restrukturisasi-bumn-laporan-keuangan"
-    },
-    {
-      "title": "DPR akan Panggil Bank Mandiri soal Rekening Aktivis Pati yang Diblokir - investor.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 09:06:51 GMT",
-      "link": "https://investor.id/finance/451450/dpr-akan-panggil-bank-mandiri-soal-rekening-aktivis-pati-yang-diblokir"
-    },
-    {
-      "title": "Rieke Dukung Prabowo Tindak Korporasi Karhutla, Jangan Hanya Tangkap Pelaku Lapangan - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 09:00:09 GMT",
-      "link": "https://aktual.com/rieke-dukung-prabowo-tindak-korporasi-karhutla-jangan-hanya-tangkap-pelaku-lapangan/"
-    },
-    {
-      "title": "BPI Danantara Butuh Rp100 Triliun Benahi Masalah Keuangan BUMN - SuaraGarut.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 08:54:13 GMT",
-      "link": "https://suaragarut.id/danantara-butuh-100-triliun-benahi-bumn"
-    },
-    {
-      "title": "| PPATK Diminta Kejar Aliran Dana Sindikat Uang Palsu - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 08:39:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1664213/ppatk-diminta-kejar-aliran-dana-sindikat-uang-palsu/"
     }
   ]
 }
