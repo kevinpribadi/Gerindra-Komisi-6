@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T06:52:24.153334",
+  "generated_at": "2026-08-24T07:56:16.866703",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 10,
-    "Golkar": 22,
+    "Golkar": 21,
     "NasDem": 2,
     "PKB": 10,
     "PKS": 22,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 64,
     "PDI-P": 71,
-    "Golkar": 46,
+    "Golkar": 45,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 50,
@@ -39,10 +39,10 @@
     "dividen": 1,
     "umkm": 19,
     "koperasi": 51,
-    "investasi": 21,
-    "ekspor": 12,
+    "investasi": 20,
+    "ekspor": 11,
     "perdagangan": 3,
-    "merger-akuisisi": 7,
+    "merger-akuisisi": 6,
     "kartel-monopoli": 19,
     "ipo": 1
   },
@@ -61,7 +61,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 5,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 11,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 7,
@@ -90,9 +90,30 @@
     "Koperasi/UMKM": 68,
     "Kinerja BUMN": 19,
     "Perdagangan": 35,
-    "Konflik Publik": 4
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Rakor Pengendalian Inflasi Daerah Bahas Stabilitas Harga dan Ketersediaan Panga - Disdagperinkopukm Buleleng",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 07:43:34 GMT",
+      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/94_rakor-pengendalian-inflasi-daerah-bahas-stabilitas-harga-dan-ketersediaan-panga"
+    },
+    {
+      "title": "Audiensi dengan Forum Komunikasi Rakyat Pati, Waka DPR: Mereka Minta Kepastian Hukum - Kedai Pena",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 07:05:54 GMT",
+      "link": "https://www.kedaipena.com/audiensi-dengan-forum-komunikasi-rakyat-pati-waka-dpr-mereka-minta-kepastian-hukum/"
+    },
+    {
+      "title": "Soal Rekening Aktivis Pati Diblokir, Andre Rosiade: Bank Himbara Tak Mungkin Main Sepihak - Suara.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 06:51:34 GMT",
+      "link": "https://www.suara.com/news/2026/08/24/135134/soal-rekening-aktivis-pati-diblokir-andre-rosiade-bank-himbara-tak-mungkin-main-sepihak"
+    },
     {
       "title": "I-EU CEPA Segera Diimplementasikan, Indonesia Bidik Perluasan Pasar ke Eropa - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -120,6 +141,13 @@
       "kind": "anggota",
       "published": "Mon, 24 Aug 2026 05:36:00 GMT",
       "link": "https://www.jurnas.com/artikel/1664185/karhutla-meluas-legislator-pdip-desak-korporasi-dan-aktor-utama-diusut/"
+    },
+    {
+      "title": "Bom Waktu Dapen BUMN, Pos Indonesia Kurang Rp4 Triliun - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 05:35:04 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260824103906-17-761797/bom-waktu-dapen-bumn-pos-indonesia-kurang-rp4-triliun/amp"
     },
     {
       "title": "Bom Waktu Dapen BUMN, Pos Indonesia Kurang Rp4 Triliun - CNBC Indonesia",
@@ -169,34 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 04:07:58 GMT",
       "link": "https://detiknews.id/ekonomi-bisnis/kppu-siapkan-satgas-kawal-penataan-bumn/"
-    },
-    {
-      "title": "Pastikan Revitalisasi GOR Rawang, Andre Rosiade Tinjau Youth Center Kota Pariaman - Suha News",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 04:02:16 GMT",
-      "link": "https://suhanews.co.id/pastikan-revitalisasi-gor-rawang-andre-rosiade-t/"
-    },
-    {
-      "title": "Video: Dony Oskaria Sebut Rekayasa Keuangan Jadi Sumber Masalah BUMN - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 03:53:41 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260824092849-8-761766/video-dony-oskaria-sebut-rekayasa-keuangan-jadi-sumber-masalah-bumn"
-    },
-    {
-      "title": "Andre Rosiade: Jembatan Kayu Gadang Sikabu Segera Dibangun, Anggaran Inpres Jalan Daerah - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 03:39:10 GMT",
-      "link": "https://news.detik.com/berita/d-8632027/andre-rosiade-jembatan-kayu-gadang-sikabu-segera-dibangun-anggaran-inpres-jalan-daerah"
-    },
-    {
-      "title": "Komisi XIII DPR Dukung Prabowo Seret Pelaku Korporasi Karhutla ke Meja Hijau! - Rmol.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 03:34:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/08/24/719346/komisi-xiii-dpr-dukung-prabowo-seret-pelaku-korporasi-karhutla-ke-meja-hijau"
     }
   ]
 }
