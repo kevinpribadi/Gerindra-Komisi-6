@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T22:22:39.285026",
+  "generated_at": "2026-08-24T23:19:54.733961",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 17,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 33,
+    "danantara": 34,
     "bumn": 86,
     "dividen": 2,
     "umkm": 14,
@@ -42,7 +42,7 @@
     "investasi": 20,
     "ekspor": 11,
     "perdagangan": 5,
-    "kartel-monopoli": 19,
+    "kartel-monopoli": 18,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -93,6 +93,20 @@
   },
   "top_headlines": [
     {
+      "title": "KPPU Makassar tinjau perjanjian kemitraan imbas kenaikan harga pakan ternak - ANTARA News Makassar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 22:49:57 GMT",
+      "link": "https://makassar.antaranews.com/berita/636715/kppu-makassar-tinjau-perjanjian-kemitraan-imbas-kenaikan-harga-pakan-ternak"
+    },
+    {
+      "title": "Mundur dari Elnusa, Hera Handayani Jadi Senior Direktur Human Resources Director Danantara - Dunia Energi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 22:37:35 GMT",
+      "link": "https://www.dunia-energi.com/mundur-dari-elnusa-hera-handayani-jadi-senior-direktur-human-resources-director-danantara/"
+    },
+    {
       "title": "Dividen BUMN Disiapkan Jadi Bantalan Fiskal demi Jaga Keuangan Negara - PT Suara Dewata Media",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -105,6 +119,13 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 16:37:00 GMT",
       "link": "https://rmol.id/amp/2026/08/24/719426/lepas-dari-elnusa--hera-handayani-dipercaya-jadi-senior-direktur-hr-danantara-"
+    },
+    {
+      "title": "Menkop Tegaskan Relevansi Semangat Bung Hatta dalam Memajukan Koperasi Modern - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 16:29:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-tegaskan-relevansi-semangat-bung-hatta-dalam-memajukan-koperasi-modern-berita-parafrase/"
     },
     {
       "title": "Soal Rekening Bank Aktivis Pati Diblokir, Ini Kata Politisi Gerindra Andre Rosiade - Warta Ekonomi",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 13:52:25 GMT",
       "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-giai-phap-dat-muc-tieu-tang-truong-2-con-so"
-    },
-    {
-      "title": "Andre Rosiade: Bank Himbara tak Mungkin Blokir Rekening Sepihak - republika.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 13:47:02 GMT",
-      "link": "https://news.republika.co.id/berita/tka0ye377/andre-rosiade-bank-himbara-tak-mungkin-blokir-rekening-sepihak"
-    },
-    {
-      "title": "KPPU dan UHN dorong pemahaman hukum persaingan usaha melalui kuliah umum - Elshinta",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 13:40:46 GMT",
-      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kppu-dan-uhn-dorong-pemahaman-hukum-persaingan-usaha-melalui-kuliah-umum-174583"
-    },
-    {
-      "title": "Danantara Restrukturisasi BUMN dan Bidik Laba Rp360 Triliun - Peradaban.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 13:33:04 GMT",
-      "link": "https://peradaban.id/danantara-restrukturisasi-bumn-laba-360-triliun"
     }
   ]
 }
