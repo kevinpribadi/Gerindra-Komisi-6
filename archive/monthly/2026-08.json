@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T13:48:49.645755",
+  "generated_at": "2026-08-24T14:38:40.707093",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 14,
+    "PDI-P": 13,
     "Golkar": 20,
     "NasDem": 2,
     "PKB": 8,
@@ -35,15 +35,15 @@
   },
   "topic_counts_30d": {
     "danantara": 32,
-    "bumn": 85,
+    "bumn": 84,
     "dividen": 1,
-    "umkm": 17,
+    "umkm": 16,
     "koperasi": 51,
     "investasi": 21,
-    "perdagangan": 4,
     "ekspor": 11,
+    "perdagangan": 4,
     "merger-akuisisi": 3,
-    "kartel-monopoli": 18,
+    "kartel-monopoli": 19,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -87,12 +87,33 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 65,
+    "Koperasi/UMKM": 64,
     "Kinerja BUMN": 19,
     "Perdagangan": 35,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menteri Koperasi Ajak Wahdah Islamiyah Kolaborasi Bangun Ekonomi Umat yang Produktif dan Mandiri - Sulsel Terkini",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 14:07:26 GMT",
+      "link": "https://sulsel.terkini.id/2026/08/24/menteri-koperasi-ajak-wahdah-islamiyah-kolaborasi-bangun-ekonomi-umat-yang-produktif-dan-mandiri"
+    },
+    {
+      "title": "Sinergi dengan MNC University, Kemendag Siapkan Mahasiswa untuk Industri Berorientasi Ekspor - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 14:00:00 GMT",
+      "link": "https://olenka.id/sinergi-dengan-mnc-university-kemendag-siapkan-mahasiswa-untuk-industri-berorientasi-ekspor"
+    },
+    {
+      "title": "KPPU dan UHN dorong pemahaman hukum persaingan usaha melalui kuliah umum - Elshinta",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 13:40:46 GMT",
+      "link": "https://elshinta.com/kategori/1/aktual-dalam-negeri/kppu-dan-uhn-dorong-pemahaman-hukum-persaingan-usaha-melalui-kuliah-umum-174583"
+    },
     {
       "title": "Danantara Restrukturisasi BUMN dan Bidik Laba Rp360 Triliun - Peradaban.id",
       "entity": "Danantara",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 10:35:20 GMT",
       "link": "https://wartaekonomi.co.id/read630425/danantara-siapkan-sistem-sdm-terintegrasi-untuk-seluruh-bumn"
-    },
-    {
-      "title": "Andre Rosiade Yakin Bank Tak Blokir Rekening Secara Sepihak: Pasti Ada Permintaan Pihak Berwenang - Kompas.tv",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 10:19:00 GMT",
-      "link": "https://www.kompas.tv/nasional/687157/andre-rosiade-yakin-bank-tak-blokir-rekening-secara-sepihak-pasti-ada-permintaan-pihak-berwenang"
-    },
-    {
-      "title": "Andre Rosiade Serahkan Ambulans untuk Warga Nagari Kubang - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 10:18:21 GMT",
-      "link": "https://news.detik.com/berita/d-8632860/andre-rosiade-serahkan-ambulans-untuk-warga-nagari-kubang"
-    },
-    {
-      "title": "Danantara Bakal Samakan Sistem Grading Pegawai di Semua BUMN - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 10:16:25 GMT",
-      "link": "https://aspek.id/danantara-bakal-samakan-sistem-grading-pegawai-di-semua-bumn/"
     }
   ]
 }
