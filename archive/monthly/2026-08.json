@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-23T20:18:56.718117",
+  "generated_at": "2026-08-24T01:07:17.312806",
   "party_counts_7d": {
-    "Gerindra": 24,
-    "PDI-P": 6,
+    "Gerindra": 23,
+    "PDI-P": 7,
     "Golkar": 22,
     "NasDem": 2,
     "PKB": 10,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 70,
+    "PDI-P": 71,
     "Golkar": 46,
     "NasDem": 23,
     "PKB": 42,
@@ -42,7 +42,7 @@
     "investasi": 24,
     "ekspor": 11,
     "perdagangan": 3,
-    "merger-akuisisi": 10,
+    "merger-akuisisi": 9,
     "kartel-monopoli": 19
   },
   "member_counts_30d": {
@@ -52,7 +52,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
-    "Adisatrya Suryo Sulisto": 1,
+    "Adisatrya Suryo Sulisto": 2,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -87,11 +87,25 @@
   "early_warning_counts": {
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 69,
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 20,
     "Perdagangan": 34,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "KPPU Makassar Dorong Persaingan Sehat dan Kemitraan Adil di Sektor Perunggasan Sulsel - Gosulsel.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 00:22:00 GMT",
+      "link": "https://gosulsel.com/08/2026/kppu-makassar-dorong-persaingan-sehat-dan-kemitraan-adil-di-sektor-perunggasan-sulsel/"
+    },
+    {
+      "title": "Adisatrya Dukung Perampingan Jumlah BUMN Guna Pacu Efisiensi dan Daya Saing - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sun, 23 Aug 2026 15:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-dukung-perampingan-jumlah-bumn-guna-pacu-efisiensi-dan-daya-saing-b2pY8ZbhtW"
+    },
     {
       "title": "KPPU dan Universitas HKBP Nommensen Dorong Pemahaman Hukum Persaingan Usaha - Seputar Sumut",
       "entity": "KPPU",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 23 Aug 2026 07:16:19 GMT",
       "link": "https://beritajatim.com/bupati-pasuruan-rusdi-sutejo-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
-    },
-    {
-      "title": "Pemerintah Jalankan Tiga Strategi dalam Transformasi Koperasi - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 23 Aug 2026 07:11:08 GMT",
-      "link": "https://investor.id/macroeconomy/451317/pemerintah-jalankan-tiga-strategi-dalam-transformasi-koperasi"
-    },
-    {
-      "title": "Rizal Bawazier Hadiri Jalan Sehat Desa Wuled, 2.000 Warga Tumpah Ruah - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 23 Aug 2026 05:28:00 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617542922/rizal-bawazier-hadiri-jalan-sehat-desa-wuled-2000-warga-tumpah-ruah"
     }
   ]
 }
