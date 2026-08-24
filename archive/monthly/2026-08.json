@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-24T07:56:16.866703",
+  "generated_at": "2026-08-24T08:46:40.632005",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 10,
-    "Golkar": 21,
+    "PDI-P": 12,
+    "Golkar": 20,
     "NasDem": 2,
     "PKB": 10,
     "PKS": 22,
@@ -12,7 +12,7 @@
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 64,
+    "Gerindra": 63,
     "PDI-P": 71,
     "Golkar": 45,
     "NasDem": 22,
@@ -37,10 +37,10 @@
     "danantara": 26,
     "bumn": 81,
     "dividen": 1,
-    "umkm": 19,
+    "umkm": 20,
     "koperasi": 51,
     "investasi": 20,
-    "ekspor": 11,
+    "ekspor": 12,
     "perdagangan": 3,
     "merger-akuisisi": 6,
     "kartel-monopoli": 19,
@@ -50,7 +50,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 6,
-    "Mulan Jameela": 2,
+    "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
     "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 2,
@@ -87,12 +87,61 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 16,
-    "Koperasi/UMKM": 68,
+    "Koperasi/UMKM": 69,
     "Kinerja BUMN": 19,
-    "Perdagangan": 35,
+    "Perdagangan": 36,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "| PPATK Diminta Kejar Aliran Dana Sindikat Uang Palsu - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 08:39:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1664213/ppatk-diminta-kejar-aliran-dana-sindikat-uang-palsu/"
+    },
+    {
+      "title": "Rekening Donasi Masyarakat Pati Diblokir, Anggota DPR Andre Rosiade: Tidak Mungkin Keputusan Dilakukan Sepihak - Herald ID",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 08:36:00 GMT",
+      "link": "https://herald.id/2026/08/24/rekening-donasi-masyarakat-pati-diblokir-anggota-dpr-andre-rosiade-tidak-mungkin-keputusan-dilakukan-sepihak/"
+    },
+    {
+      "title": "Momen Pimpinan DPR Cucun Dibisiki Andre Rosiade Saat Jawab Rekening Pedemo Pati Diblokir - Kompas.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 08:33:31 GMT",
+      "link": "https://video.kompas.com/watch/1950453/momen-pimpinan-dpr-cucun-dibisiki-andre-rosiade-saat-jawab-rekening-pedemo-pati-diblokir"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dukung Presiden Tindak Tegas Korporasi Terlibat Karhutla - Lensa Medan",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 24 Aug 2026 08:26:00 GMT",
+      "link": "https://www.lensamedan.co.id/2026/08/rieke-diah-pitaloka-dukung-presiden.html"
+    },
+    {
+      "title": "Rapor Danantara: 70% Beres, Sisa PR Tinggal Karya, Pos dan Dapen - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 08:15:10 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260824144410-17-761931/rapor-danantara-70-beres-sisa-pr-tinggal-karya-pos-dan-dapen"
+    },
+    {
+      "title": "BPKN Kawal Hak Konsumen Penerbangan Terdampak Kebakaran Hutan - SuaraGarut.ID",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 08:10:51 GMT",
+      "link": "https://suaragarut.id/bpkn-kawal-hak-konsumen-penerbangan-karhutla"
+    },
+    {
+      "title": "Bupati Fahmi Raih Penghargaan Bakti Koperasi Nayaka Mahambara 2026 - PusaranMedia.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 24 Aug 2026 08:03:45 GMT",
+      "link": "https://pusaranmedia.com/read/51493/bupati-fahmi-raih-penghargaan-bakti-koperasi-nayaka-mahambara-2026"
+    },
     {
       "title": "Rakor Pengendalian Inflasi Daerah Bahas Stabilitas Harga dan Ketersediaan Panga - Disdagperinkopukm Buleleng",
       "entity": "Kementerian Perdagangan",
@@ -148,55 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 05:35:04 GMT",
       "link": "https://www.cnbcindonesia.com/market/20260824103906-17-761797/bom-waktu-dapen-bumn-pos-indonesia-kurang-rp4-triliun/amp"
-    },
-    {
-      "title": "Bom Waktu Dapen BUMN, Pos Indonesia Kurang Rp4 Triliun - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 05:35:04 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260824103906-17-761797/bom-waktu-dapen-bumn-pos-indonesia-kurang-rp4-triliun"
-    },
-    {
-      "title": "Temasek Lewat, Untung Danantara Jauh Lebih Besar - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 05:15:17 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260824103316-17-761793/temasek-lewat-untung-danantara-jauh-lebih-besar"
-    },
-    {
-      "title": "Andre Rosiade Resmikan BTS Tahura Bung Hatta, Geram 15 Tiang Telkom Dicuri - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 05:00:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-resmikan-bts-tahura-bung-hatta-geram-15-tiang-telkom-dicuri-282ynIM41nh"
-    },
-    {
-      "title": "Bersama Andre Rosiade, Bupati Solok Resmikan Restoran Bebek Sapan Huler Mama Cupak - Kupasonline.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 04:59:00 GMT",
-      "link": "https://www.kupasonline.com/berita/248315/bersama-andre-rosiade-bupati-solok-resmikan-restoran-bebek-sapan-huler-mama-cupak"
-    },
-    {
-      "title": "Sebanyak 90 pengurus KDKMP ikut program magang model bisnis koperasi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 04:09:35 GMT",
-      "link": "https://www.antaranews.com/berita/5708489/sebanyak-90-pengurus-kdkmp-ikut-program-magang-model-bisnis-koperasi"
-    },
-    {
-      "title": "Sebanyak 90 pengurus KDKMP ikut program magang model bisnis koperasi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 04:09:35 GMT",
-      "link": "https://www.antaranews.com/berita/5708489/sebanyak-90-pengurus-kdkmp-ikut-program-magang-model-bisnis-koperasi"
-    },
-    {
-      "title": "KPPU Siapkan Satgas Kawal Penataan BUMN - detiknews.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 04:07:58 GMT",
-      "link": "https://detiknews.id/ekonomi-bisnis/kppu-siapkan-satgas-kawal-penataan-bumn/"
     }
   ]
 }
