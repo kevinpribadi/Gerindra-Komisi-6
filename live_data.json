@@ -712,6 +712,13 @@
         ],
         "KPPU": [
             {
+                "title": "Beras 5 Kg Langka di Ritel Sumsel, KPPU Soroti Harga Gabah - Bisnis.com",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3ZqTUdOUmdQU0VJSVJndlZwMWZndjUyQ3BEQ3hwbHBwYXBNWHlfQzd1S3p1amhVVzVZZDJrb3ZXTHBZTWFOcTFPQTJnNWR5YkllcE0xWEEyZzVEWU4xUmRPRURHVDVLa1FOem41aVdVZFFscGNBZ0RvaDNPaTh6RVpRT3lOYlpQY0R4OTBwTEpYYnFPR2pBdFJ5M2ZzZjBUYXlJQWNhR0lfSkN3VTdN?oc=5",
+                "link_resolved": "https://sumatra.bisnis.com/read/20260825/533/1998764/beras-5-kg-langka-di-ritel-sumsel-kppu-soroti-harga-gabah",
+                "published": "Tue, 25 Aug 2026 13:08:07 GMT",
+                "fetched_at": "2026-08-25T13:47:24.965275"
+            },
+            {
                 "title": "KPPU Makassar tinjau perjanjian kemitraan imbas kenaikan harga pakan ternak - ANTARA News Makassar",
                 "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG1RRFFaWGJwdFk2MnpITExQZjdzWW5QMDM4Mko3NWNRVzBrUjJhSjdQUi1oYWZYcDhmM3psTDZTeG5UWTh4SUgza1pwU3JzMXJndHRvSEpKSnZ6Z0R5MjVKckQtY1JicnJHUW13UGR2NnJwTDVLZlB4TGlKTU9FTlA0RkluMHlCbjg2YzFVc2ZTYUhmUWJfb1gyY1d5WGs4WXFVMU5YQjZmbTFMRGU5LWtzRnFuQ2hZZU9pOGlR?oc=5",
                 "link_resolved": "https://makassar.antaranews.com/berita/636715/kppu-makassar-tinjau-perjanjian-kemitraan-imbas-kenaikan-harga-pakan-ternak",
@@ -843,13 +850,6 @@
                 "link_resolved": "https://keuangan.kontan.co.id/news/batas-wewenang-ojk-dan-kppu-jadi-sorotan-dalam-kasus-bunga-pindar",
                 "published": "Fri, 21 Aug 2026 07:21:07 GMT",
                 "fetched_at": "2026-08-21T07:39:47.869046"
-            },
-            {
-                "title": "KPPU Bentuk Satgas Kawal Penataan BUMN agar Selaras dengan Prinsip Persaingan Usaha - Telusur.co.id",
-                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2k4NWFhbDRRZTZqclZVcFM3aTB2S05JWnY4Q1FnZDFYeElfeHBXT24zT29QREJEX0o0andwUnVsR2NSU2JVN0FBWkpnQWFvLXVPQ3VwLWJGUDVuaXEyUVhkOXlkX2ZLamxFclBPLU1ycE5JVmxCX0hHNFlYLVhEYVN4ZHBrNi10RDhkWWpOYXNTMFlZV25mMjFzbGQ2Sm9Kc1ZUaXFHYW9lN0JzN1BjcnFR?oc=5",
-                "link_resolved": "https://telusur.co.id/detail/kppu-bentuk-satgas-kawal-penataan-bumn-agar-selaras-dengan-prinsip-persaingan-usaha",
-                "published": "Fri, 21 Aug 2026 07:14:48 GMT",
-                "fetched_at": "2026-08-21T07:39:47.869040"
             }
         ],
         "BP Batam": [
@@ -3764,20 +3764,20 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17705,
+        "value": 17699,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-25T12:41:53.241195",
+        "fetched_at": "2026-08-25T13:47:21.642191",
         "prev_close": 17655,
-        "change_pct": 0.28
+        "change_pct": 0.25
     },
     "ihsg": {
         "value": 6501.67,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-08-25T12:41:53.241195",
+        "fetched_at": "2026-08-25T13:47:21.642191",
         "prev_close": 6525.69,
         "change_pct": -0.37
     },
@@ -3787,7 +3787,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3230,
             "change_pct": -1.55
@@ -3797,7 +3797,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Bank Mandiri",
             "prev_close": 4220,
             "change_pct": -0.47
@@ -3807,7 +3807,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Bank Negara Indonesia",
             "prev_close": 3730,
             "change_pct": -1.34
@@ -3817,7 +3817,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Bank Tabungan Negara",
             "prev_close": 1225,
             "change_pct": -1.22
@@ -3827,7 +3827,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Telkom Indonesia",
             "prev_close": 2610,
             "change_pct": 0.38
@@ -3837,7 +3837,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Semen Indonesia",
             "prev_close": 1565,
             "change_pct": -3.83
@@ -3847,7 +3847,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Aneka Tambang",
             "prev_close": 3170,
             "change_pct": 0.63
@@ -3857,7 +3857,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1520,
             "change_pct": 1.32
@@ -3867,7 +3867,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Bukit Asam",
             "prev_close": 2400,
             "change_pct": 3.33
@@ -3877,7 +3877,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-08-25T12:41:53.241195",
+            "fetched_at": "2026-08-25T13:47:21.642191",
             "name": "Jasa Marga",
             "prev_close": 2790,
             "change_pct": -1.08
@@ -3889,5 +3889,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-08-25T12:41:53.241195"
+    "last_updated": "2026-08-25T13:47:21.642191"
 }
