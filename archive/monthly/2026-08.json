@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T02:55:52.583845",
+  "generated_at": "2026-08-25T03:47:13.650580",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 18,
+    "PDI-P": 17,
     "Golkar": 21,
     "NasDem": 2,
     "PKB": 8,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 34,
+    "danantara": 33,
     "bumn": 86,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 52,
-    "investasi": 19,
-    "ekspor": 12,
+    "investasi": 18,
+    "ekspor": 13,
     "perdagangan": 5,
     "kartel-monopoli": 17,
     "ipo": 1
@@ -92,6 +92,13 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "DSI Ungkap Potensi Optimalisasi Ekspor SDA hingga Rp88,4 T per Tahun - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 03:30:00 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260825005956-92-1396035/dsi-ungkap-potensi-optimalisasi-ekspor-sda-hingga-rp884-t-per-tahun"
+    },
     {
       "title": "Agrinas Palma Nusantara dorong kemitraan berbasis koperasi - ANTARA News Riau",
       "entity": "Kementerian Koperasi",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 24 Aug 2026 14:44:57 GMT",
       "link": "https://www.panjimas.com/news/2026/08/24/sorot-kesenjangan-kota-desa-dan-malnutrisi-3t-menkop-ferry-juliantono-dobrak-skema-bantuan-lewat-koperasi-desa/"
-    },
-    {
-      "title": "Dukung Prabowo Tindak Tegas Korporasi Pelaku Karhutla, Rieke: Negara Tidak Boleh Membiarkan - Kosadata",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 24 Aug 2026 14:40:00 GMT",
-      "link": "https://kosadata.com/dukung-prabowo-tindak-tegas-korporasi-pelaku-karhutla-rieke-negara-tidak-boleh-membiarkan"
     }
   ]
 }
