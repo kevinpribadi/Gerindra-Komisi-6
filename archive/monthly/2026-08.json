@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T09:32:28.301175",
+  "generated_at": "2026-08-25T11:24:07.677104",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 18,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 33,
-    "bumn": 86,
+    "danantara": 32,
+    "bumn": 84,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 53,
-    "investasi": 16,
+    "investasi": 17,
     "perdagangan": 5,
     "ekspor": 14,
     "kartel-monopoli": 17,
@@ -87,11 +87,46 @@
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 65,
-    "Kinerja BUMN": 14,
+    "Kinerja BUMN": 13,
     "Perdagangan": 37,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Puji Bos Danantara, Sebut Layak Dapat Bintang Tanda Kehormatan - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:48:48 GMT",
+      "link": "https://nasional.kontan.co.id/news/prabowo-puji-bos-danantara-sebut-layak-dapat-bintang-tanda-kehormatan"
+    },
+    {
+      "title": "Presiden Prabowo Apresiasi Kinerja Danantara Dongkrak Keuntungan BUMN - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:42:35 GMT",
+      "link": "https://achmadnurhidayat.id/presiden-prabowo-apresiasi-danantara"
+    },
+    {
+      "title": "Presiden Prabowo Sebut Pimpinan Danantara Layak Terima Bintang Kehormatan - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:30:41 GMT",
+      "link": "https://investor.id/national/451568/presiden-prabowo-sebut-pimpinan-danantara-layak-terima-bintang-kehormatan"
+    },
+    {
+      "title": "Kumpulkan Bos-Bos Batu Bara-CPO, Ini Penjelasan Lengkap Rosan Soal DSI - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:30:05 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260825161035-4-762136/kumpulkan-bos-bos-batu-bara-cpo-ini-penjelasan-lengkap-rosan-soal-dsi"
+    },
+    {
+      "title": "Prabowo: Pimpinan Danantara Pantas Dapat Tanda Kehormatan, Prestasinya Membanggakan - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:30:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/terkini/5459172/prabowo-pimpinan-danantara-pantas-dapat-tanda-kehormatan-prestasinya-membanggakan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5459172"
+    },
     {
       "title": "Prabowo Sebut Pimpinan Danantara Pantas Dapat Bintang Tanda Kehormatan, Apa Alasannya? - VIVA.co.id",
       "entity": "Danantara",
@@ -105,6 +140,13 @@
       "kind": "anggota",
       "published": "Tue, 25 Aug 2026 09:22:21 GMT",
       "link": "https://mediaindonesia.com/ekonomi/925720/dpr-minta-publik-tunggu-klarifikasi-resmi-terkait-pemblokiran-rekening"
+    },
+    {
+      "title": "Kemenkop, Kementan, dan LPDB Koperasi Perkuat Ekosistem Gula Nasional Berbasis Koperasi - detik suara rakyat",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 09:21:37 GMT",
+      "link": "https://detiksuararakyat.id/kemenkop-kementan-dan-lpdb-koperasi-perkuat-ekosistem-gula-nasional-berbasis-koperasi/"
     },
     {
       "title": "Presiden Prabowo: Pimpinan Danantara Pantas Terima Bintang Kehormatan - Media Indonesia",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 07:55:55 GMT",
       "link": "https://news.detik.com/berita/d-8633783/kemenkop-kementan-lpdb-perkuat-ekosistem-gula-nasional-dari-koperasi"
-    },
-    {
-      "title": "IEU CEPA Segera Diteken, Produk Indonesia Bakal Dapat Tarif 0% ke Eropa - Ikatan Konsultan Pajak Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 05:54:46 GMT",
-      "link": "https://ikpi.or.id/ieu-cepa-segera-diteken-produk-indonesia-bakal-dapat-tarif-0-ke-eropa/"
-    },
-    {
-      "title": "Mendag Ungkap Strategi Perkuat Ekosistem Ekspor Indonesia - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 05:32:19 GMT",
-      "link": "https://www.metrotvnews.com/read/N0BC1XXZ-mendag-ungkap-strategi-perkuat-ekosistem-ekspor-indonesia"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 04:25:32 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260825/MTEyNg%3D%3D"
-    },
-    {
-      "title": "DSI Ungkap Potensi Optimalisasi Ekspor SDA hingga Rp88,4 T per Tahun - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 03:30:00 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260825005956-92-1396035/dsi-ungkap-potensi-optimalisasi-ekspor-sda-hingga-rp884-t-per-tahun"
-    },
-    {
-      "title": "Agrinas Palma Nusantara dorong kemitraan berbasis koperasi - ANTARA News Riau",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 02:39:32 GMT",
-      "link": "https://riau.antaranews.com/berita/451521/agrinas-palma-nusantara-dorong-kemitraan-berbasis-koperasi"
-    },
-    {
-      "title": "Danantara Umumkan Jajaran Pimpinan DSI: Ada Bos Freeport, Cipung, Hingga Eks Direksi PLN! - Sinar Harapan - Sinar Harapan",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 02:26:27 GMT",
-      "link": "https://www.sinarharapan.co/ekonomi/38517550161/danantara-umumkan-jajaran-pimpinan-dsi-ada-bos-freeport-cipung-hingga-eks-direksi-pln"
     }
   ]
 }
