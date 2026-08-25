@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T03:47:13.650580",
+  "generated_at": "2026-08-25T04:35:43.867034",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 17,
-    "Golkar": 21,
+    "Golkar": 22,
     "NasDem": 2,
     "PKB": 8,
     "PKS": 22,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 62,
     "PDI-P": 70,
-    "Golkar": 45,
+    "Golkar": 46,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 51,
@@ -60,7 +60,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 13,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 8,
@@ -88,10 +88,17 @@
     "Hukum/Audit": 16,
     "Koperasi/UMKM": 65,
     "Kinerja BUMN": 16,
-    "Perdagangan": 36,
+    "Perdagangan": 37,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 04:25:32 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260825/MTEyNg%3D%3D"
+    },
     {
       "title": "DSI Ungkap Potensi Optimalisasi Ekspor SDA hingga Rp88,4 T per Tahun - CNN Indonesia",
       "entity": "Danantara",
@@ -189,13 +196,6 @@
       "kind": "anggota",
       "published": "Mon, 24 Aug 2026 16:29:00 GMT",
       "link": "https://wartaekonomi.co.id/amp/read630500/soal-rekening-bank-aktivis-pati-diblokir-ini-kata-politisi-gerindra-andre-rosiade"
-    },
-    {
-      "title": "Sorot Kesenjangan Kota-Desa dan Malnutrisi 3T, Menkop Ferry Juliantono Dobrak Skema Bantuan Lewat Koperasi Desa - Panjimas",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 14:44:57 GMT",
-      "link": "https://www.panjimas.com/news/2026/08/24/sorot-kesenjangan-kota-desa-dan-malnutrisi-3t-menkop-ferry-juliantono-dobrak-skema-bantuan-lewat-koperasi-desa/"
     }
   ]
 }
