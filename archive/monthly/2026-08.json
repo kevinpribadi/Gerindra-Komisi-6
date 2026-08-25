@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T11:24:07.677104",
+  "generated_at": "2026-08-25T12:41:53.241195",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 18,
-    "Golkar": 24,
+    "PDI-P": 19,
+    "Golkar": 25,
     "NasDem": 2,
     "PKB": 8,
     "PKS": 22,
-    "PAN": 3,
+    "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "danantara": 32,
-    "bumn": 84,
+    "bumn": 83,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 53,
@@ -61,10 +61,9 @@
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
     "Gde Sumarjaya Linggih": 14,
-    "Sarifah Suraidah": 1,
     "Doni Akbar": 3,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 2,
+    "Rizki Faisal": 3,
     "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
@@ -125,7 +124,21 @@
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 10:30:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/inews/5459172/prabowo--pimpinan-danantara-pantas-dapat-tanda-kehormatan--prestasinya-membanggakan"
+    },
+    {
+      "title": "Prabowo: Pimpinan Danantara Pantas Dapat Tanda Kehormatan, Prestasinya Membanggakan - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 10:30:00 GMT",
       "link": "https://www.rctiplus.com/news/detail/terkini/5459172/prabowo-pimpinan-danantara-pantas-dapat-tanda-kehormatan-prestasinya-membanggakan?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5459172"
+    },
+    {
+      "title": "THM Legal Boleh Beroperasi, Rizki Faisal: Jangan Jadi Tempat Peredaran Narkotika - Jawa Pos",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Tue, 25 Aug 2026 10:10:31 GMT",
+      "link": "https://batampos.jawapos.com/amp/batam/2608250021/thm-legal-boleh-beroperasi-rizki-faisal-jangan-jadi-tempat-peredaran-narkotika"
     },
     {
       "title": "Prabowo Sebut Pimpinan Danantara Pantas Dapat Bintang Tanda Kehormatan, Apa Alasannya? - VIVA.co.id",
@@ -182,20 +195,6 @@
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 08:03:45 GMT",
       "link": "https://www.theiconomics.com/accelerated-growth/danantara-sumberdaya-indonesia-umumkan-susunan-pengurus-ada-bos-freeport-indonesia-hingga-eks-cfo-pln/"
-    },
-    {
-      "title": "Uang Palsu Rp36 Miliar Terbongkar, Legislator Desak Polisi dan PPATK Bongkar Jaringan - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 08:00:05 GMT",
-      "link": "https://aktual.com/uang-palsu-rp36-miliar-terbongkar-legislator-desak-polisi-dan-ppatk-bongkar-jaringan/"
-    },
-    {
-      "title": "Kemenkop, Kementan, & LPDB Perkuat Ekosistem Gula Nasional dari Koperasi - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 07:55:55 GMT",
-      "link": "https://news.detik.com/berita/d-8633783/kemenkop-kementan-lpdb-perkuat-ekosistem-gula-nasional-dari-koperasi"
     }
   ]
 }
