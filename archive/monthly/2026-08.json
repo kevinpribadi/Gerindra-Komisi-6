@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T13:47:21.642191",
+  "generated_at": "2026-08-25T14:41:29.050928",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 19,
@@ -40,8 +40,8 @@
     "umkm": 14,
     "koperasi": 53,
     "investasi": 17,
+    "ekspor": 15,
     "perdagangan": 6,
-    "ekspor": 14,
     "kartel-monopoli": 16,
     "ipo": 1
   },
@@ -87,7 +87,7 @@
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 65,
     "Kinerja BUMN": 13,
-    "Perdagangan": 38,
+    "Perdagangan": 39,
     "Konflik Publik": 2
   },
   "top_headlines": [
@@ -169,6 +169,13 @@
       "link": "https://detiksuararakyat.id/kemenkop-kementan-dan-lpdb-koperasi-perkuat-ekosistem-gula-nasional-berbasis-koperasi/"
     },
     {
+      "title": "IEU-CEPA Siap Jadi Pintu Baru Ekspansi Ekspor Indonesia ke Eropa - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 09:20:26 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/25/ieu-cepa-siap-jadi-pintu-baru-ekspansi-ekspor-indonesia-ke-eropa/"
+    },
+    {
       "title": "Presiden Prabowo: Pimpinan Danantara Pantas Terima Bintang Kehormatan - Media Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -188,13 +195,6 @@
       "kind": "anggota",
       "published": "Tue, 25 Aug 2026 08:28:36 GMT",
       "link": "https://belarakyat.com/gde-sumarjaya-linggih-sampaikan-selamat-maulid-nabi-muhammad-saw/"
-    },
-    {
-      "title": "Pola Kemitraan Berbasis Koperasi di Rokan Hulu Dukung Ketahanan Pangan dan Energi - SINDOnews Daerah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 08:13:01 GMT",
-      "link": "https://daerah.sindonews.com/read/1742755/174/pola-kemitraan-berbasis-koperasi-di-rokan-hulu-dukung-ketahanan-pangan-dan-energi-1787645329"
     }
   ]
 }
