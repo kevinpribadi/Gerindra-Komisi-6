@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T08:38:27.770442",
+  "generated_at": "2026-08-25T09:32:28.301175",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 17,
-    "Golkar": 22,
+    "PDI-P": 18,
+    "Golkar": 24,
     "NasDem": 2,
     "PKB": 8,
     "PKS": 22,
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 69,
-    "Golkar": 46,
+    "Golkar": 48,
     "NasDem": 22,
     "PKB": 42,
     "PKS": 51,
-    "PAN": 21,
+    "PAN": 22,
     "Demokrat": 22
   },
   "agency_counts_30d": {
@@ -38,8 +38,8 @@
     "bumn": 86,
     "dividen": 2,
     "umkm": 14,
-    "koperasi": 52,
-    "investasi": 17,
+    "koperasi": 53,
+    "investasi": 16,
     "perdagangan": 5,
     "ekspor": 14,
     "kartel-monopoli": 17,
@@ -60,10 +60,10 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 14,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 3,
-    "Firnando Hadityo Ganinduto": 8,
+    "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 2,
     "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 4,
@@ -80,18 +80,81 @@
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
-    "Iskandar": 19,
+    "Iskandar": 20,
     "Sartono": 8,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Hukum/Audit": 16,
-    "Koperasi/UMKM": 64,
-    "Kinerja BUMN": 15,
+    "Hukum/Audit": 17,
+    "Koperasi/UMKM": 65,
+    "Kinerja BUMN": 14,
     "Perdagangan": 37,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Sebut Pimpinan Danantara Pantas Dapat Bintang Tanda Kehormatan, Apa Alasannya? - VIVA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 09:25:00 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1923930-prabowo-sebut-pimpinan-danantara-pantas-dapat-bintang-tanda-kehormatan-apa-alasannya"
+    },
+    {
+      "title": "DPR Minta Publik Tunggu Klarifikasi Resmi Terkait Pemblokiran Rekening - Media Indonesia",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Tue, 25 Aug 2026 09:22:21 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/925720/dpr-minta-publik-tunggu-klarifikasi-resmi-terkait-pemblokiran-rekening"
+    },
+    {
+      "title": "Presiden Prabowo: Pimpinan Danantara Pantas Terima Bintang Kehormatan - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 09:16:40 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/925716/presiden-prabowo-pimpinan-danantara-pantas-terima-bintang-kehormatan"
+    },
+    {
+      "title": "Andre Rosiade Tegaskan Rekening Aktivis AMPB Tidak Boleh Diblokir Sepihak - achmadnurhidayat.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 25 Aug 2026 08:35:05 GMT",
+      "link": "https://achmadnurhidayat.id/andre-rosiade-tegaskan-rekening-aktivis"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih Sampaikan Selamat Maulid Nabi Muhammad SAW - Bela Rakyat",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Tue, 25 Aug 2026 08:28:36 GMT",
+      "link": "https://belarakyat.com/gde-sumarjaya-linggih-sampaikan-selamat-maulid-nabi-muhammad-saw/"
+    },
+    {
+      "title": "Pola Kemitraan Berbasis Koperasi di Rokan Hulu Dukung Ketahanan Pangan dan Energi - SINDOnews Daerah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 08:13:01 GMT",
+      "link": "https://daerah.sindonews.com/read/1742755/174/pola-kemitraan-berbasis-koperasi-di-rokan-hulu-dukung-ketahanan-pangan-dan-energi-1787645329"
+    },
+    {
+      "title": "Danantara Sumberdaya Indonesia Umumkan Susunan Pengurus, Ada Bos Freeport Indonesia hingga Eks CFO PLN - Iconomics",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 08:03:45 GMT",
+      "link": "https://www.theiconomics.com/accelerated-growth/danantara-sumberdaya-indonesia-umumkan-susunan-pengurus-ada-bos-freeport-indonesia-hingga-eks-cfo-pln/"
+    },
+    {
+      "title": "Uang Palsu Rp36 Miliar Terbongkar, Legislator Desak Polisi dan PPATK Bongkar Jaringan - Aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 25 Aug 2026 08:00:05 GMT",
+      "link": "https://aktual.com/uang-palsu-rp36-miliar-terbongkar-legislator-desak-polisi-dan-ppatk-bongkar-jaringan/"
+    },
+    {
+      "title": "Kemenkop, Kementan, & LPDB Perkuat Ekosistem Gula Nasional dari Koperasi - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 07:55:55 GMT",
+      "link": "https://news.detik.com/berita/d-8633783/kemenkop-kementan-lpdb-perkuat-ekosistem-gula-nasional-dari-koperasi"
+    },
     {
       "title": "IEU CEPA Segera Diteken, Produk Indonesia Bakal Dapat Tarif 0% ke Eropa - Ikatan Konsultan Pajak Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -133,69 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 02:26:27 GMT",
       "link": "https://www.sinarharapan.co/ekonomi/38517550161/danantara-umumkan-jajaran-pimpinan-dsi-ada-bos-freeport-cipung-hingga-eks-direksi-pln"
-    },
-    {
-      "title": "Dony Oskaria: Danantara Raup Laba Rp330 triliun - HMStimes.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 02:21:06 GMT",
-      "link": "https://hmstimes.com/2026/dony-oskaria-danantara-raup-laba-rp330-triliun/"
-    },
-    {
-      "title": "Andre Rosiade Kawal Normalisasi Sungai Rp218 Miliar di Padang Pariaman - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 02:03:47 GMT",
-      "link": "https://news.detik.com/berita/d-8633487/andre-rosiade-kawal-normalisasi-sungai-rp218-miliar-di-padang-pariaman"
-    },
-    {
-      "title": "Laba Danantara Melebihi Temasek Singapura, 300 Triliun untuk Negara Halaman 1 - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 02:00:34 GMT",
-      "link": "https://www.kompasiana.com/praslurahkombat6518/6a8cf742c925c47ff6488272/laba-danantara-melebihi-temasek-singapura-300-triliun-untuk-negara"
-    },
-    {
-      "title": "Potensi Investasi Batam Makin Menjanjikan pada 2026, Investasi Semester I Capai Rp38,97 Triliun - Stapo.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 00:21:32 GMT",
-      "link": "https://www.stapo.id/news/investasi-batam-semester-i-2026/"
-    },
-    {
-      "title": "Legislator PDIP Tegaskan: Jaminan Pemerintah Pada KDMP Bukan Penghilang Risiko Pembiayaan - Kedai Pena",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 00:17:43 GMT",
-      "link": "https://www.kedaipena.com/legislator-pdip-tegaskan-jaminan-pemerintah-pada-kdmp-bukan-penghilang-risiko-pembiayaan/"
-    },
-    {
-      "title": "Soal Pemblokiran Rekening AMPB, Firnando Tekankan Pentingnya Klarifikasi Menyeluruh Pihak Terkait - Kedai Pena",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 00:02:56 GMT",
-      "link": "https://www.kedaipena.com/soal-pemblokiran-rekening-ampb-firnando-tekankan-pentingnya-klarifikasi-menyeluruh-pihak-terkait/"
-    },
-    {
-      "title": "Java Halu Coffee Ekspor 10 Ton Biji Kopi Senilai Rp2,64 Miliar ke Inggris - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "link": "https://swa.co.id/read/476450/java-halu-coffee-ekspor-10-ton-biji-kopi-senilai-rp264-miliar-ke-inggris"
-    },
-    {
-      "title": "KPPU Makassar tinjau perjanjian kemitraan imbas kenaikan harga pakan ternak - ANTARA News Makassar",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 22:49:57 GMT",
-      "link": "https://makassar.antaranews.com/berita/636715/kppu-makassar-tinjau-perjanjian-kemitraan-imbas-kenaikan-harga-pakan-ternak"
-    },
-    {
-      "title": "Mundur dari Elnusa, Hera Handayani Jadi Senior Direktur Human Resources Director Danantara - Dunia Energi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 24 Aug 2026 22:37:35 GMT",
-      "link": "https://www.dunia-energi.com/mundur-dari-elnusa-hera-handayani-jadi-senior-direktur-human-resources-director-danantara/"
     }
   ]
 }
