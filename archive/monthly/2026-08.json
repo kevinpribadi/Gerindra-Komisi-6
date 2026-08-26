@@ -1,22 +1,22 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T05:31:19.366942",
+  "generated_at": "2026-08-26T06:42:51.840154",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 21,
-    "Golkar": 20,
+    "PDI-P": 22,
+    "Golkar": 19,
     "NasDem": 1,
-    "PKB": 8,
+    "PKB": 9,
     "PKS": 22,
     "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 61,
-    "PDI-P": 69,
+    "Gerindra": 60,
+    "PDI-P": 70,
     "Golkar": 48,
     "NasDem": 21,
-    "PKB": 42,
+    "PKB": 43,
     "PKS": 51,
     "PAN": 22,
     "Demokrat": 22
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "danantara": 35,
-    "bumn": 79,
+    "bumn": 80,
     "dividen": 1,
     "umkm": 14,
     "koperasi": 51,
@@ -47,13 +47,13 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 1,
-    "Mufti Anam": 1,
+    "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 6,
@@ -70,7 +70,7 @@
     "I Nengah Senantara": 1,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Anggia Erma Rini": 13,
+    "Anggia Erma Rini": 14,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -92,6 +92,34 @@
   },
   "top_headlines": [
     {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 06:30:24 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260826/MTEyNg%3D%3D"
+    },
+    {
+      "title": "DPR Terima Pekerja PT Pos, Bahas Kepastian Gaji 1 September Mendatang - detikNews",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 06:05:10 GMT",
+      "link": "https://news.detik.com/berita/d-8634883/dpr-terima-pekerja-pt-pos-bahas-kepastian-gaji-1-september-mendatang"
+    },
+    {
+      "title": "Danantara Targetkan Proyek Sampah Jadi Listrik di Bekasi Suplai Energi ke 55.000 Rumah - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 05:33:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/inews/5459581/danantara-targetkan-proyek-sampah-jadi-listrik-di-bekasi-suplai-energi-ke-55-000-rumah"
+    },
+    {
+      "title": "Live Now! COO Danantara Ungkap Progres Transfornasi BUMN - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 05:32:22 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260826101553-4-762266/live-now-coo-danantara-ungkap-progres-transfornasi-bumn"
+    },
+    {
       "title": "Soroti Pemblokiran Rekening Botok, Akom VI Minta Bank BUMN Jaga Kepercayaan Masyarakat - Kedai Pena",
       "entity": "Ida Nurlaela",
       "kind": "anggota",
@@ -104,6 +132,13 @@
       "kind": "anggota",
       "published": "Wed, 26 Aug 2026 05:16:22 GMT",
       "link": "https://posmetropadang.co.id/lintasan-lari-selesai-andre-rosiade-tinjau-youth-center-kota-pariaman-431403/"
+    },
+    {
+      "title": "Pemblokiran Rekening Aktivis Pati, Mufti Anam: Semudah Itukah Bank BUMN Hentikan Akses Seseorang? - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 05:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/pemblokiran-rekening-aktivis-pati-mufti-anam-semudah-itukah-bank-bumn-hentikan-akses-seseorang-b2pYGZbh4N"
     },
     {
       "title": "KPPU Cermati Pasar dan Distribusi Semen di Sumatera Utara - Radar Sulbar",
@@ -160,41 +195,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 03:22:31 GMT",
       "link": "https://suarametropolitan.com/kppu-temukan-beras-10-kg-tembus-rp156-ribu-disdag-palembang-kami-tidak-menemukan-harga-segitu/"
-    },
-    {
-      "title": "Stok Semen Langka di Sumut, KPPU Telusuri Dugaan Permainan Harga Produsen dan Distributor - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 03:14:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/26/101407326/stok-semen-langka-di-sumut-kppu-telusuri-dugaan-permainan-harga-produsen-dan"
-    },
-    {
-      "title": "Stok Semen Langka di Sumut, KPPU Telusuri Dugaan Permainan Harga Produsen dan Distributor - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 03:14:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/26/101407326/stok-semen-langka-di-sumut-kppu-telusuri-dugaan-permainan-harga-produsen-dan?source=terkini_artikel"
-    },
-    {
-      "title": "BPJS Ketenagakerjaan Raih Penghargaan Koperasi Awards 2026, Perkuat Perlindungan Pekerja - Berita Kota Makassar",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:58:18 GMT",
-      "link": "https://beritakotamakassar.com/2026/08/26/bpjs-ketenagakerjaan-raih-penghargaan-koperasi-awards-2026-perkuat-perlindungan-pekerja/"
-    },
-    {
-      "title": "Kemendag dan HKTI Perkuat Kolaborasi Bangun Ekosistem Pangan Nasional - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:46:49 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/08/26/kemendag-dan-hkti-perkuat-kolaborasi-bangun-ekosistem-pangan-nasional/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:30:15 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260826/Mjc0NDQ0"
     }
   ]
 }
