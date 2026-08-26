@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-25T23:22:38.189674",
+  "generated_at": "2026-08-26T01:08:00.769436",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 35,
+    "danantara": 36,
     "bumn": 82,
     "dividen": 2,
     "umkm": 14,
     "koperasi": 52,
     "investasi": 18,
-    "ekspor": 15,
+    "ekspor": 14,
     "perdagangan": 6,
-    "kartel-monopoli": 13,
+    "kartel-monopoli": 12,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -91,6 +91,13 @@
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Harga Ayam di Sumut Naik 7,9 Persen, KPPU Turun Tangan - waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 00:30:00 GMT",
+      "link": "https://www.waspada.id/berita/harga-ayam-di-sumut-naik-7-9-persen-kppu-turun-tangan"
+    },
     {
       "title": "PDIP Dukung Ketegasan Prabowo Tangani Karhutla: Bawa Korporasi ke Ranah Hukum - Inilah.com",
       "entity": "Rieke Diah Pitaloka",
@@ -188,13 +195,6 @@
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 10:48:48 GMT",
       "link": "https://nasional.kontan.co.id/news/prabowo-puji-bos-danantara-sebut-layak-dapat-bintang-tanda-kehormatan"
-    },
-    {
-      "title": "Presiden Prabowo Apresiasi Kinerja Danantara Dongkrak Keuntungan BUMN - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 10:42:35 GMT",
-      "link": "https://achmadnurhidayat.id/presiden-prabowo-apresiasi-danantara"
     }
   ]
 }
