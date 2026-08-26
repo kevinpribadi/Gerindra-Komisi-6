@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T12:45:54.970145",
+  "generated_at": "2026-08-26T13:52:22.264557",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 24,
-    "Golkar": 19,
+    "Golkar": 21,
     "PKB": 16,
     "PKS": 22,
     "PAN": 1,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 70,
-    "Golkar": 47,
+    "Golkar": 49,
     "NasDem": 20,
     "PKB": 49,
     "PKS": 51,
@@ -60,7 +60,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 15,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 3,
@@ -85,11 +85,32 @@
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 48,
+    "Perdagangan": 49,
     "Kinerja BUMN": 12,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Demer: PLTS 100 GWp Gilimanuk Dorong Industri Hijau-Pariwisata Berkualitas - Pos Merdeka",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 13:21:02 GMT",
+      "link": "https://posmerdeka.com/demer-plts-100-gwp-gilimanuk-dorong-industri-hijau-pariwisata-berkualitas/"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Jadi Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - atnews.id",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 13:16:40 GMT",
+      "link": "https://atnews.id/portal/news/33453/"
+    },
+    {
+      "title": "KPPU Akan Selidiki Kenaikan Harga Ayam Ras di Sumut, Tembus Rp52.400 per Kilogram - edisimedan.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 12:46:10 GMT",
+      "link": "https://edisimedan.com/kppu-akan-selidiki-kenaikan-harga-ayam-ras-di-sumut-tembus-rp52-400-per-kilogram/"
+    },
     {
       "title": "Danantara Mulai Proyek PSEL Rp3 Triliun di Bekasi - Listrik Indonesia",
       "entity": "Danantara",
@@ -173,27 +194,6 @@
       "kind": "anggota",
       "published": "Wed, 26 Aug 2026 08:08:39 GMT",
       "link": "https://pontianakpost.jawapos.com/amp/nasional/2608260103/gaji-31-ribu-karyawan-pos-indonesia-terlambat-dpr-turun-tangan"
-    },
-    {
-      "title": "Gaji 31 Ribu Karyawan Pos Indonesia Terlambat, DPR Turun Tangan - Pontianak Post",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 08:08:39 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2608260103/gaji-31-ribu-karyawan-pos-indonesia-terlambat-dpr-turun-tangan"
-    },
-    {
-      "title": "DPR Terima PT Pos Indonesia Bahas Kepastian Gaji Pegawai Dibayar 1 September - VOI.ID",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 07:48:00 GMT",
-      "link": "https://voi.id/berita/591286/dpr-terima-pt-pos-indonesia-bahas-kepastian-gaji-pegawai-dibayar-1-september"
-    },
-    {
-      "title": "DPR Terima PT Pos Indonesia Bahas Kepastian Gaji Pegawai Dibayar 1 September - VOI.ID",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 07:48:00 GMT",
-      "link": "https://voi.id/en/news/591286"
     }
   ]
 }
