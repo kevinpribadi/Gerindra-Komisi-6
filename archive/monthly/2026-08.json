@@ -1,9 +1,9 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T04:36:28.904359",
+  "generated_at": "2026-08-26T05:31:19.366942",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 20,
+    "PDI-P": 21,
     "Golkar": 20,
     "NasDem": 1,
     "PKB": 8,
@@ -40,9 +40,9 @@
     "umkm": 14,
     "koperasi": 51,
     "investasi": 17,
-    "ekspor": 14,
-    "perdagangan": 6,
-    "kartel-monopoli": 9,
+    "ekspor": 13,
+    "perdagangan": 5,
+    "kartel-monopoli": 8,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -84,13 +84,48 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 19,
     "Koperasi/UMKM": 63,
     "Kinerja BUMN": 12,
     "Perdagangan": 45,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Soroti Pemblokiran Rekening Botok, Akom VI Minta Bank BUMN Jaga Kepercayaan Masyarakat - Kedai Pena",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 05:27:05 GMT",
+      "link": "https://www.kedaipena.com/soroti-pemblokiran-rekening-botok-akom-vi-minta-bank-bumn-jaga-kepercayaan-masyarakat/"
+    },
+    {
+      "title": "Lintasan Lari Selesai, Andre Rosiade Tinjau Youth Center Kota Pariaman - Posmetro Padang",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 05:16:22 GMT",
+      "link": "https://posmetropadang.co.id/lintasan-lari-selesai-andre-rosiade-tinjau-youth-center-kota-pariaman-431403/"
+    },
+    {
+      "title": "KPPU Cermati Pasar dan Distribusi Semen di Sumatera Utara - Radar Sulbar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 05:00:51 GMT",
+      "link": "https://radarsulbar.fajar.co.id/2026/08/26/kppu-cermati-pasar-dan-distribusi-semen-di-sumatera-utara/"
+    },
+    {
+      "title": "Rekening Warga Pati Diblokir, Andre Rosiade: Bank Mandiri Tak Ambil Keputusan Sepihak - VOI.ID",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 04:40:00 GMT",
+      "link": "https://voi.id/berita/591257/rekening-warga-pati-diblokir-andre-rosiade-bank-mandiri-tak-ambil-keputusan-sepihak"
+    },
+    {
+      "title": "Kemendag: Produk olahan buah dan sayur RI laku Rp510 juta di Chile - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 04:38:07 GMT",
+      "link": "https://www.antaranews.com/berita/5711245/kemendag-produk-olahan-buah-dan-sayur-ri-laku-rp510-juta-di-chile"
+    },
     {
       "title": "Menkop: Rebranding dan Digitalisasi Jadi Strategi Transformasi Koperasi - TopBusiness.id",
       "entity": "Kementerian Koperasi",
@@ -131,6 +166,13 @@
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 03:14:00 GMT",
+      "link": "https://money.kompas.com/read/2026/08/26/101407326/stok-semen-langka-di-sumut-kppu-telusuri-dugaan-permainan-harga-produsen-dan"
+    },
+    {
+      "title": "Stok Semen Langka di Sumut, KPPU Telusuri Dugaan Permainan Harga Produsen dan Distributor - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 03:14:00 GMT",
       "link": "https://money.kompas.com/read/2026/08/26/101407326/stok-semen-langka-di-sumut-kppu-telusuri-dugaan-permainan-harga-produsen-dan?source=terkini_artikel"
     },
     {
@@ -153,48 +195,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 02:30:15 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260826/Mjc0NDQ0"
-    },
-    {
-      "title": "Harga Semen di Sumut Masih Tinggi dan Sempat Kosong, KPPU Perluas Investigasi Rantai Pasok - AnalisaDaily.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:22:35 GMT",
-      "link": "https://analisadaily.com/berita/baca/2026/08/26/1076959/harga-semen-di-sumut-masih-tinggi-dan-sempat-kosong-kppu-perluas-investigasi-rantai-pasok/"
-    },
-    {
-      "title": "Menteri Bahlil Siap Selesaikan Target Presiden Bangun PLTS 100 GWp Dalam 3 Tahun - pasardana.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:13:00 GMT",
-      "link": "https://pasardana.id/news/2026/8/26/menteri-bahlil-siap-selesaikan-target-presiden-bangun-plts-100-g-wp-dalam-3-tahun"
-    },
-    {
-      "title": "KPPU Perluas Pendalaman Harga dan Pasokan Semen di Sumatera Utara - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 02:10:06 GMT",
-      "link": "https://batamtoday.com/news/kppu-perluas-pendalaman-harga-dan-pasokan-semen-di-sumatera-utara"
-    },
-    {
-      "title": "Harga Ayam Melonjak, KPPU Telusuri Rantai Pasok hingga Pedagang - GoSumut.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 01:56:00 GMT",
-      "link": "https://www.gosumut.com/berita/baca/2026/08/26/harga-ayam-melonjak-kppu-telusuri-rantai-pasok-hingga-pedagang"
-    },
-    {
-      "title": "Sukses Benahi BUMN, Prabowo Sanjung Bos Danantara: Layak Dapat Penghargaan dari Negara - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 01:09:00 GMT",
-      "link": "https://www.inilah.com/sukses-benahi-bumn-prabowo-sanjung-bos-danantara-layak-dapat-penghargaan-dari-negara"
-    },
-    {
-      "title": "Harga Ayam di Sumut Naik 7,9 Persen, KPPU Turun Tangan - waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 00:30:00 GMT",
-      "link": "https://www.waspada.id/berita/harga-ayam-di-sumut-naik-7-9-persen-kppu-turun-tangan"
     }
   ]
 }
