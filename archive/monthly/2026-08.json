@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T10:32:21.270281",
+  "generated_at": "2026-08-26T11:26:57.837368",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 23,
     "Golkar": 19,
-    "PKB": 14,
+    "PKB": 15,
     "PKS": 22,
     "PAN": 1,
     "Demokrat": 3
@@ -38,9 +38,9 @@
     "dividen": 1,
     "umkm": 14,
     "koperasi": 51,
-    "ekspor": 12,
-    "perdagangan": 5,
-    "investasi": 16,
+    "perdagangan": 6,
+    "ekspor": 11,
+    "investasi": 15,
     "kartel-monopoli": 3,
     "merger-akuisisi": 1,
     "ipo": 1
@@ -85,7 +85,7 @@
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 49,
+    "Perdagangan": 48,
     "Kinerja BUMN": 12,
     "Konflik Publik": 2
   },
@@ -168,6 +168,13 @@
       "link": "https://voi.id/berita/591286/dpr-terima-pt-pos-indonesia-bahas-kepastian-gaji-pegawai-dibayar-1-september"
     },
     {
+      "title": "DPR Terima PT Pos Indonesia Bahas Kepastian Gaji Pegawai Dibayar 1 September - VOI.ID",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 07:48:00 GMT",
+      "link": "https://voi.id/en/news/591286"
+    },
+    {
       "title": "Gaji 31 Ribu Karyawan Terancam, DPR Desak Piutang PT Pos Rp158 Miliar Segera Cair - Suara.com",
       "entity": "Anggia Erma Rini",
       "kind": "anggota",
@@ -187,13 +194,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 07:07:00 GMT",
       "link": "https://rm.id/baca-berita/ekonomi-bisnis/323333/danantara-mulai-bangun-psel-bekasi-investasi-capai-3-triliun-beroperasi-2028"
-    },
-    {
-      "title": "Pimpinan DPR dorong kepastian gaji karyawan PT Pos segera cair - ANTARA News",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 07:05:04 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5711465/pimpinan-dpr-dorong-kepastian-gaji-karyawan-pt-pos-segera-cair"
     }
   ]
 }
