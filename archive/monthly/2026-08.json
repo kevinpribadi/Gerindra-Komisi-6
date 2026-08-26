@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T16:15:24.375028",
+  "generated_at": "2026-08-26T18:56:52.697968",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 24,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 59,
     "PDI-P": 70,
-    "Golkar": 50,
+    "Golkar": 51,
     "NasDem": 20,
     "PKB": 49,
     "PKS": 51,
@@ -33,7 +33,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 80,
+    "bumn": 81,
     "danantara": 41,
     "dividen": 1,
     "umkm": 14,
@@ -59,7 +59,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 16,
+    "Gde Sumarjaya Linggih": 17,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 3,
@@ -85,10 +85,17 @@
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 64,
     "Perdagangan": 49,
-    "Kinerja BUMN": 12,
+    "Kinerja BUMN": 13,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Prabowo Puji Kinerja Danantara dan Targetkan Restrukturisasi BUMN - achmadnurhidayat.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 17:52:00 GMT",
+      "link": "https://achmadnurhidayat.id/prabowo-puji-danantara-restrukturisasi-bumn"
+    },
     {
       "title": "Kemenpar-Danantara ingin kembangkan destinasi guna buka lapangan kerja - ANTARA News",
       "entity": "Danantara",
@@ -146,6 +153,13 @@
       "link": "https://edisimedan.com/kppu-akan-selidiki-kenaikan-harga-ayam-ras-di-sumut-tembus-rp52-400-per-kilogram/"
     },
     {
+      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - DPR RI",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 12:17:37 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Gde-Sumarjaya-Linggih-PLTS-100-GWp-Momentum-Dorong-Energi-Hijau-dan-Pariwisata-Berkualitas-68361"
+    },
+    {
       "title": "Danantara Mulai Proyek PSEL Rp3 Triliun di Bekasi - Listrik Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -179,20 +193,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 09:25:45 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260826141246-8-762379/video-benahi-masalah-1074-bumn-danatara-lakukan-likuidasi--merger"
-    },
-    {
-      "title": "Pulihkan Keuangan PT Pos Indonesia, Danantara Bakal Bayar Gaji 31 Ribu Karyawan Pekan Ini - Forum Keadilan",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 08:50:26 GMT",
-      "link": "https://forumkeadilan.com/2026/08/26/pulihkan-keuangan-pt-pos-indonesia-danantara-bakal-bayar-gaji-31-ribu-karyawan-pekan-ini/"
-    },
-    {
-      "title": "KPPU Telusuri Penyebab Kenaikan Harga Ayam di Sumut - Waspada Online",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 08:45:00 GMT",
-      "link": "https://waspada.co.id/kppu-telusuri-penyebab-kenaikan-harga-ayam-di-sumut/"
     }
   ]
 }
