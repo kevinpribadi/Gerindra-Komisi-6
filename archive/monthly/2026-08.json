@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T13:52:22.264557",
+  "generated_at": "2026-08-26T14:41:23.557284",
   "party_counts_7d": {
     "Gerindra": 25,
     "PDI-P": 24,
-    "Golkar": 21,
+    "Golkar": 22,
     "PKB": 16,
     "PKS": 22,
     "PAN": 1,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 70,
-    "Golkar": 49,
+    "Golkar": 50,
     "NasDem": 20,
     "PKB": 49,
     "PKS": 51,
@@ -60,7 +60,7 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 16,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 3,
@@ -85,17 +85,31 @@
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 49,
+    "Perdagangan": 48,
     "Kinerja BUMN": 12,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Ketua BPKN: Blokir Rekening Mandiri Wajib Dibuka Jika Tidak Ada Dasar Hukum - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 13:57:00 GMT",
+      "link": "https://www.mediakarya.id/ketua-bpkn-blokir-rekening-mandiri-wajib-dibuka-jika-tidak-ada-dasar-hukum/"
+    },
     {
       "title": "Demer: PLTS 100 GWp Gilimanuk Dorong Industri Hijau-Pariwisata Berkualitas - Pos Merdeka",
       "entity": "Gde Sumarjaya Linggih",
       "kind": "anggota",
       "published": "Wed, 26 Aug 2026 13:21:02 GMT",
       "link": "https://posmerdeka.com/demer-plts-100-gwp-gilimanuk-dorong-industri-hijau-pariwisata-berkualitas/"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Jadi Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - atnews.id",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 13:16:40 GMT",
+      "link": "https://atnews.id/portal/news/33453/gde-sumarjaya-linggih-plts-100-gwp-jadi-momentum-dorong-energi-hijau-dan-pariwisata-berkualitas"
     },
     {
       "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Jadi Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - atnews.id",
@@ -180,20 +194,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 08:10:45 GMT",
       "link": "https://www.seputarsumut.com/berita/kppu-kanwil-i-soroti-kenaikan-harga-daging-ayam-ras-di-sumatera-utara/"
-    },
-    {
-      "title": "KPPU dalami lonjakan harga dan keterbatasan beras di Sumsel - ANTARA News Sumsel",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 08:09:06 GMT",
-      "link": "https://sumsel.antaranews.com/berita/823416/kppu-dalami-lonjakan-harga-dan-keterbatasan-beras-di-sumsel"
-    },
-    {
-      "title": "Gaji 31 Ribu Karyawan Pos Indonesia Terlambat, DPR Turun Tangan - Pontianak Post",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 08:08:39 GMT",
-      "link": "https://pontianakpost.jawapos.com/amp/nasional/2608260103/gaji-31-ribu-karyawan-pos-indonesia-terlambat-dpr-turun-tangan"
     }
   ]
 }
