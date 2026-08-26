@@ -1,11 +1,11 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T11:26:57.837368",
+  "generated_at": "2026-08-26T12:45:54.970145",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 23,
+    "Gerindra": 25,
+    "PDI-P": 24,
     "Golkar": 19,
-    "PKB": 15,
+    "PKB": 16,
     "PKS": 22,
     "PAN": 1,
     "Demokrat": 3
@@ -34,7 +34,7 @@
   },
   "topic_counts_30d": {
     "bumn": 80,
-    "danantara": 38,
+    "danantara": 40,
     "dividen": 1,
     "umkm": 14,
     "koperasi": 51,
@@ -91,6 +91,20 @@
   },
   "top_headlines": [
     {
+      "title": "Danantara Mulai Proyek PSEL Rp3 Triliun di Bekasi - Listrik Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 12:00:00 GMT",
+      "link": "https://listrikindonesia.com/detail/21014/danantara-mulai-proyek-psel-rp3-triliun-di-bekasi"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Sebut Reformasi Kewarganegaraan Harus Pastikan WNI dan Jaga Kedaulatan - Telusur.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 11:37:37 GMT",
+      "link": "https://telusur.co.id/detail/rieke-diah-pitaloka-sebut-reformasi-kewarganegaraan-harus-pastikan-wni-dan-jaga-kedaulatan"
+    },
+    {
       "title": "Pupuk Kaltim Berdayakan Masyarakat Kumango Lewat Relawan Bakti BUMN 2026 - ANTARA News Sumbar",
       "entity": "Kementerian BUMN",
       "kind": "lembaga",
@@ -103,6 +117,13 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 09:25:45 GMT",
       "link": "https://www.cnbcindonesia.com/news/20260826141246-8-762379/video-benahi-masalah-1074-bumn-danatara-lakukan-likuidasi--merger"
+    },
+    {
+      "title": "Pulihkan Keuangan PT Pos Indonesia, Danantara Bakal Bayar Gaji 31 Ribu Karyawan Pekan Ini - Forum Keadilan",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 08:50:26 GMT",
+      "link": "https://forumkeadilan.com/2026/08/26/pulihkan-keuangan-pt-pos-indonesia-danantara-bakal-bayar-gaji-31-ribu-karyawan-pekan-ini/"
     },
     {
       "title": "KPPU Telusuri Penyebab Kenaikan Harga Ayam di Sumut - Waspada Online",
@@ -173,27 +194,6 @@
       "kind": "anggota",
       "published": "Wed, 26 Aug 2026 07:48:00 GMT",
       "link": "https://voi.id/en/news/591286"
-    },
-    {
-      "title": "Gaji 31 Ribu Karyawan Terancam, DPR Desak Piutang PT Pos Rp158 Miliar Segera Cair - Suara.com",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 07:39:59 GMT",
-      "link": "https://amp.suara.com/news/2026/08/26/143959/gaji-31-ribu-karyawan-terancam-dpr-desak-piutang-pt-pos-rp158-miliar-segera-cair"
-    },
-    {
-      "title": "BPJS Ketenagakerjaan Raih Penghargaan Koperasi Awards 2026, Perkuat Perlindungan Pekerja Koperasi - waspada.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 07:25:46 GMT",
-      "link": "https://www.waspada.id/berita/bpjs-ketenagakerjaan-raih-penghargaan-koperasi-awards-2026-perkuat-perlindungan-pekerja-koperasi"
-    },
-    {
-      "title": "Danantara Mulai Bangun PSEL Bekasi, Investasi Capai 3 Triliun, Beroperasi 2028 - RM.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 07:07:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/323333/danantara-mulai-bangun-psel-bekasi-investasi-capai-3-triliun-beroperasi-2028"
     }
   ]
 }
