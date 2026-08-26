@@ -1,14 +1,14 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T01:08:00.769436",
+  "generated_at": "2026-08-26T03:01:43.459931",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 20,
-    "Golkar": 22,
+    "Golkar": 20,
     "NasDem": 1,
     "PKB": 8,
     "PKS": 22,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 36,
-    "bumn": 82,
-    "dividen": 2,
+    "danantara": 35,
+    "bumn": 81,
+    "dividen": 1,
     "umkm": 14,
-    "koperasi": 52,
-    "investasi": 18,
+    "koperasi": 51,
+    "investasi": 17,
     "ekspor": 14,
     "perdagangan": 6,
-    "kartel-monopoli": 12,
+    "kartel-monopoli": 11,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -85,18 +85,74 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 64,
+    "Koperasi/UMKM": 63,
     "Kinerja BUMN": 12,
-    "Perdagangan": 40,
+    "Perdagangan": 42,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemendag dan HKTI Perkuat Kolaborasi Bangun Ekosistem Pangan Nasional - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 02:46:49 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/08/26/kemendag-dan-hkti-perkuat-kolaborasi-bangun-ekosistem-pangan-nasional/"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 02:30:15 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260826/Mjc0NDQ0"
+    },
+    {
+      "title": "Harga Semen di Sumut Masih Tinggi dan Sempat Kosong, KPPU Perluas Investigasi Rantai Pasok - AnalisaDaily.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 02:22:35 GMT",
+      "link": "https://analisadaily.com/berita/baca/2026/08/26/1076959/harga-semen-di-sumut-masih-tinggi-dan-sempat-kosong-kppu-perluas-investigasi-rantai-pasok/"
+    },
+    {
+      "title": "Menteri Bahlil Siap Selesaikan Target Presiden Bangun PLTS 100 GWp Dalam 3 Tahun - pasardana.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 02:13:00 GMT",
+      "link": "https://pasardana.id/news/2026/8/26/menteri-bahlil-siap-selesaikan-target-presiden-bangun-plts-100-g-wp-dalam-3-tahun"
+    },
+    {
+      "title": "KPPU Perluas Pendalaman Harga dan Pasokan Semen di Sumatera Utara - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 02:10:06 GMT",
+      "link": "https://batamtoday.com/news/kppu-perluas-pendalaman-harga-dan-pasokan-semen-di-sumatera-utara"
+    },
+    {
+      "title": "Harga Ayam Melonjak, KPPU Telusuri Rantai Pasok hingga Pedagang - GoSumut.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 01:56:00 GMT",
+      "link": "https://www.gosumut.com/berita/baca/2026/08/26/harga-ayam-melonjak-kppu-telusuri-rantai-pasok-hingga-pedagang"
+    },
+    {
+      "title": "Sukses Benahi BUMN, Prabowo Sanjung Bos Danantara: Layak Dapat Penghargaan dari Negara - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 01:09:00 GMT",
+      "link": "https://www.inilah.com/sukses-benahi-bumn-prabowo-sanjung-bos-danantara-layak-dapat-penghargaan-dari-negara"
+    },
     {
       "title": "Harga Ayam di Sumut Naik 7,9 Persen, KPPU Turun Tangan - waspada.id",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 00:30:00 GMT",
       "link": "https://www.waspada.id/berita/harga-ayam-di-sumut-naik-7-9-persen-kppu-turun-tangan"
+    },
+    {
+      "title": "Nelayan Batam Dapat Fasilitas Baru, Kemenkop Siapkan Cold Storage hingga Kapal Tenaga Surya - Jawa Pos",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 25 Aug 2026 23:59:21 GMT",
+      "link": "https://batampos.jawapos.com/batam/2608260002/nelayan-batam-dapat-fasilitas-baru-kemenkop-siapkan-cold-storage-hingga-kapal-tenaga-surya"
     },
     {
       "title": "PDIP Dukung Ketegasan Prabowo Tangani Karhutla: Bawa Korporasi ke Ranah Hukum - Inilah.com",
@@ -139,62 +195,6 @@
       "kind": "lembaga",
       "published": "Tue, 25 Aug 2026 17:00:00 GMT",
       "link": "https://epaper.mediaindonesia.com/detail/bp-bumn-danantara-siapkan-sistem-sdm-terintegrasi"
-    },
-    {
-      "title": "Soroti Lonjakan Harga Daging Ayam di Sumut, KPPU Telusuri Pola Pasokan dari Peternakan Hingga ke Pasar - VIVA Medan",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 16:59:00 GMT",
-      "link": "https://medan.viva.co.id/medan/14834-soroti-lonjakan-harga-daging-ayam-di-sumut-kppu-telusuri-pola-pasokan-dari-peternakan-hingga-ke-pasar"
-    },
-    {
-      "title": "Prabowo Puji Danantara Saat Pembenahan Dapen BUMN Bergulir - SuaraGarut.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 16:31:02 GMT",
-      "link": "https://suaragarut.id/prabowo-puji-danantara-pembenahan-dapen-bumn"
-    },
-    {
-      "title": "Kemenkop perkuat pemberdayaan nelayan di Pulau Sembur-Batam - ANTARA News Kepri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 16:14:36 GMT",
-      "link": "https://kepri.antaranews.com/berita/265949/kemenkop-perkuat-pemberdayaan-nelayan-di-pulau-sembur-batam"
-    },
-    {
-      "title": "Rieke Minta Aktor Dibalik Karhutla Disentuh Hukum - politikindonesia.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 16:02:43 GMT",
-      "link": "https://www.politikindonesia.id/rieke-minta-aktor-dibalik-karhutla-disentuh-hukum"
-    },
-    {
-      "title": "Kppu Perluas Pendalaman, Uji Pembentukan Harga Dan Pasokan Semen Di Sumatera Utara - wartajogja.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 15:28:00 GMT",
-      "link": "https://www.wartajogja.id/2026/08/kppu-perluas-pendalaman-uji-pembentukan.html"
-    },
-    {
-      "title": "Beras 5 Kg Langka di Ritel Sumsel, KPPU Soroti Harga Gabah - Bisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 13:08:07 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260825/533/1998764/beras-5-kg-langka-di-ritel-sumsel-kppu-soroti-harga-gabah"
-    },
-    {
-      "title": "Andre Rosiade Tinjau GOR Rawang, Pastikan Revitalisasi Terus Berlanjut - Lintas Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 25 Aug 2026 12:25:36 GMT",
-      "link": "https://www.lintassumbar.co.id/2026/08/andre-rosiade-tinjau-gor-rawang-pastikan-revitalisasi-terus-berlanjut.html"
-    },
-    {
-      "title": "Prabowo Puji Bos Danantara, Sebut Layak Dapat Bintang Tanda Kehormatan - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 25 Aug 2026 10:48:48 GMT",
-      "link": "https://nasional.kontan.co.id/news/prabowo-puji-bos-danantara-sebut-layak-dapat-bintang-tanda-kehormatan"
     }
   ]
 }
