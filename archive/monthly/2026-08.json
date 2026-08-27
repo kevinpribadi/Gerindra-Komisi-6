@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-27T02:53:25.815561",
+  "generated_at": "2026-08-27T13:44:57.064665",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 25,
-    "Golkar": 20,
-    "PKB": 16,
-    "PKS": 22,
+    "Gerindra": 26,
+    "PDI-P": 27,
+    "Golkar": 18,
+    "PKB": 15,
+    "PKS": 19,
     "PAN": 1,
-    "Demokrat": 3
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 70,
-    "Golkar": 51,
+    "Golkar": 52,
     "NasDem": 20,
     "PKB": 49,
-    "PKS": 51,
-    "PAN": 21,
-    "Demokrat": 22
+    "PKS": 50,
+    "PAN": 22,
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 81,
-    "danantara": 42,
+    "bumn": 80,
+    "danantara": 45,
     "dividen": 1,
-    "umkm": 14,
-    "koperasi": 51,
-    "perdagangan": 6,
-    "ekspor": 11,
-    "investasi": 15,
+    "umkm": 18,
+    "koperasi": 48,
+    "investasi": 17,
+    "perdagangan": 7,
+    "ekspor": 7,
     "kartel-monopoli": 1,
-    "merger-akuisisi": 3,
+    "merger-akuisisi": 4,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 13,
+    "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
@@ -59,11 +59,11 @@
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 17,
+    "Gde Sumarjaya Linggih": 16,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 3,
-    "Muhammad Sarmuji": 14,
+    "Rizki Faisal": 4,
+    "Muhammad Sarmuji": 15,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
@@ -72,127 +72,128 @@
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
-    "Amin Ak.": 13,
+    "Amin Ak.": 15,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
-    "Ismail": 16,
+    "Ismail": 13,
     "Eko Patrio": 2,
+    "Nasril Bahar": 1,
     "Iskandar": 19,
-    "Sartono": 8,
+    "Sartono": 7,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
-    "Koperasi/UMKM": 64,
-    "Perdagangan": 50,
-    "Kinerja BUMN": 13,
-    "Konflik Publik": 2
+    "Hukum/Audit": 17,
+    "Koperasi/UMKM": 63,
+    "Perdagangan": 44,
+    "Kinerja BUMN": 14,
+    "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Danantara Incar Investasi Raksasa Pangan JBS Group US$5 Miliar Masuk RI - Bisnis.com - Market",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 02:46:27 GMT",
-      "link": "https://market.bisnis.com/read/20260827/192/1999199/danantara-incar-investasi-raksasa-pangan-jbs-group-us5-miliar-masuk-ri"
-    },
-    {
-      "title": "Live Now! Bos Danantara Ungkap Progres Pembenahan BUMN Karya & Farmasi - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 02:06:58 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260826224537-17-762558/live-now-bos-danantara-ungkap-progres-pembenahan-bumn-karya-farmasi"
-    },
-    {
-      "title": "Audiensi dengan Pekerja PT Pos Indonesia, DPR Dorong Pencairan Dana Tagihan Rp 158 Miliar untuk Bayar Gaji Karyawan - Balipuspanews.com",
-      "entity": "Anggia Erma Rini",
+      "title": "Soal Fit and Proper Test Pimpinan BI, Amin Ak Dorong Kebijakan yang Pro UMKM dan Ekonomi Syariah - Beritakota",
+      "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 01:09:02 GMT",
-      "link": "https://www.balipuspanews.com/audiensi-dengan-pekerja-pt-pos-indonesia-dpr-dorong-pencairan-dana-tagihan-rp-158-miliar-untuk-bayar-gaji-karyawan.html"
+      "published": "Thu, 27 Aug 2026 13:20:00 GMT",
+      "link": "https://beritakota.id/fit-and-proper-test-pimpinan-bi-amin-ak-dorong-kebijakan-yang-pro-umkm-dan-ekonomi-syariah/"
     },
     {
-      "title": "BPJS Ketenagakerjaan Raih Penghargaan Koperasi Awards 2026, Perkuat Perlindungan Pekerja Koperasi - Bogor-Kita.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 01:06:42 GMT",
-      "link": "https://bogor-kita.com/bpjs-ketenagakerjaan-raih-penghargaan-koperasi-awards-2026-perkuat-perlindungan-pekerja-koperasi/"
-    },
-    {
-      "title": "Profil Dr Mulyadi, Resmi Menjabat Sekjen Komisi Yudisial RI - pejabatpublik.com",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 00:18:12 GMT",
-      "link": "https://pejabatpublik.com/2026/08/27/profil-dr-mulyadi-resmi-menjabat-sekjen-komisi-yudisial-ri/"
-    },
-    {
-      "title": "Pemerintah Arahkan Koperasi Merah Putih Jadi Jalur Baru Cegah Kebocoran Subsidi - Deliknews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 23:43:00 GMT",
-      "link": "https://www.deliknews.com/2026/08/27/pemerintah-arahkan-koperasi-merah-putih-jadi-jalur-baru-cegah-kebocoran-subsidi/"
-    },
-    {
-      "title": "Penyebab Elektabilitas Gubernur Dedi Mulyadi Makin Melejit - Tempo.co",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 23:10:00 GMT",
-      "link": "https://www.tempo.co/politik/elektabilitas-dedi-mulyadi-survei-tempo-2284027"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 22:42:47 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260827/Mjc0NDQ0"
-    },
-    {
-      "title": "Prabowo Puji Kinerja Danantara dan Targetkan Restrukturisasi BUMN - achmadnurhidayat.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 17:52:00 GMT",
-      "link": "https://achmadnurhidayat.id/prabowo-puji-danantara-restrukturisasi-bumn"
-    },
-    {
-      "title": "Digelar Besar-besaran, Danantara Housing Expo 2026 Sasar Semua Segmen - Epaper Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 17:00:00 GMT",
-      "link": "https://epaper.mediaindonesia.com/detail/digelar-besar-besaran-danantara-housing-expo-2026-sasar-semua-segmen"
-    },
-    {
-      "title": "Bintang Kehormatan Disiapkan untuk Pimpinan Danantara - Epaper Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 17:00:00 GMT",
-      "link": "https://epaper.mediaindonesia.com/detail/bintang-kehormatan-disiapkan-untuk-pimpinan-danantara"
-    },
-    {
-      "title": "Kemenpar-Danantara ingin kembangkan destinasi guna buka lapangan kerja - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 14:33:29 GMT",
-      "link": "https://www.antaranews.com/berita/5712508/kemenpar-danantara-ingin-kembangkan-destinasi-guna-buka-lapangan-kerja"
-    },
-    {
-      "title": "KPPU Dalami Harga Beras Sumsel Tembus Rp156 Ribu per 10 Kilogram - Radarbangsa.com",
+      "title": "Harga Ayam di Sumut Tembus Rp52.400 per Kg, KPPU Selidiki Rantai Pasok dan Dampak Program MBG - Oke Medan",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 14:31:00 GMT",
-      "link": "https://www.radarbangsa.com/news/62284/kppu-dalami-harga-beras-sumsel-tembus-rp156-ribu-per-10-kilogram"
+      "published": "Thu, 27 Aug 2026 12:58:23 GMT",
+      "link": "https://okemedan.com/2026/08/27/harga-ayam-di-sumut-tembus-rp52-400-per-kg-kppu-selidiki-rantai-pasok-dan-dampak-program-mbg/"
     },
     {
-      "title": "Ketua BPKN: Blokir Rekening Mandiri Wajib Dibuka Jika Tidak Ada Dasar Hukum - Mediakarya.id",
-      "entity": "BPKN",
+      "title": "Pemerintah Arahkan Koperasi Merah Putih Jadi Jalur Baru Cegah Kebocoran Subsidi - Minews ID",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 13:57:00 GMT",
-      "link": "https://www.mediakarya.id/ketua-bpkn-blokir-rekening-mandiri-wajib-dibuka-jika-tidak-ada-dasar-hukum/"
+      "published": "Thu, 27 Aug 2026 12:56:33 GMT",
+      "link": "https://minews.id/news/pemerintah-arahkan-koperasi-merah-putih-jadi-jalur-baru-cegah-kebocoran-subsidi"
     },
     {
-      "title": "Rawan Kecelakaan, Jalan Cot Bak Geutom Balohan - Anoi Itam Ditutup Total - Kanalinspirasi.com",
-      "entity": "BPK Sabang",
+      "title": "Relawan Bakti BUMN 2026, BRI Ajak Relawan Memberdayakan Desa BRILiaN Sanur Kaja Bali - Radar Jember",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 13:41:13 GMT",
-      "link": "https://www.kanalinspirasi.com/news/rawan-kecelakaan-jalan-cot-bak-geutom-balohan-anoi-itam-ditutup-total/index.html"
+      "published": "Thu, 27 Aug 2026 12:26:48 GMT",
+      "link": "https://radarjember.jawapos.com/sinergi/2608270044/relawan-bakti-bumn-2026-bri-ajak-relawan-memberdayakan-desa-brilian-sanur-kaja-bali"
+    },
+    {
+      "title": "Kemenpar Gandeng Danantara Kembangkan Destinasi Wisata dan Buka Lapangan Kerja - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 12:23:40 GMT",
+      "link": "https://infobanknews.com/kemenpar-gandeng-danantara-kembangkan-destinasi-wisata-dan-buka-lapangan-kerja"
+    },
+    {
+      "title": "Anggota Komisi XII DPR Dorong Pemerintah Segera Lunasi Utang Kompensasi-Subsidi ke Pertamina - TEROPONGSENAYAN.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 12:17:50 GMT",
+      "link": "https://www.teropongsenayan.com/138268-anggota-komisi-xii-dpr-dorong-pemerintah-segera-lunasi-utang-kompensasi-subsidi-ke-pertamina"
+    },
+    {
+      "title": "Danantara Suntik Rp456 Miliar Selesaikan Proyek LRT City Mangkrak - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 12:15:41 GMT",
+      "link": "https://suaragarut.id/danantara-suntik-dana-proyek-lrt-city"
+    },
+    {
+      "title": "Nasril Bahar Soroti Penyusunan RUU KADIN: Dorong Regulasi Dunia Usaha Lebih Adaptif dan Berpihak kepada Pengusaha Daerah - Bela Rakyat",
+      "entity": "Nasril Bahar",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 12:13:33 GMT",
+      "link": "https://belarakyat.com/nasril-bahar-soroti-penyusunan-ruu-kadin-dorong-regulasi-dunia-usaha-lebih-adaptif-dan-berpihak-kepada-pengusaha-daerah/"
+    },
+    {
+      "title": "Danantara Housing Expo Hadirkan 120.000 Pilihan Properti, Harga Mulai Rp 120 Juta - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 12:01:43 GMT",
+      "link": "https://investor.id/business/451855/danantara-housing-expo-hadirkan-120000-pilihan-properti-harga-mulai-rp-120-juta"
+    },
+    {
+      "title": "Andre Rosiade temui massa aksi, sampaikan progres RUU Perampasan Aset - ANTARA News Jambi",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 11:59:34 GMT",
+      "link": "https://jambi.antaranews.com/video/5713664/dpr-temui-demonstran-untuk-sampaikan-progres-ruu-perampasan-aset"
+    },
+    {
+      "title": "Danantara Dukung KPR Rp 50 T pada 2026 - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 11:57:07 GMT",
+      "link": "https://aspek.id/danantara-dukung-kpr-rp-50-t-pada-2026/"
+    },
+    {
+      "title": "Event Ritel dan Harbolnas Diandalkan Angkat Konsumsi - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 11:50:57 GMT",
+      "link": "https://investor.id/business/451851/event-ritel-dan-harbolnas-diandalkan-angkat-konsumsi"
+    },
+    {
+      "title": "KPPU Sorot Proses MUFG Akuisisi Mandala Finance, Ada Apa? - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 11:50:01 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260827154729-17-762806/kppu-sorot-proses-mufg-akuisisi-mandala-finance-ada-apa"
+    },
+    {
+      "title": "[FULL] Andre Rosiade & Usman Hamid Soroti Tuntutan Massa soal RUU Perampasan Aset - Kompas.tv",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 11:46:00 GMT",
+      "link": "https://www.kompas.tv/nasional/687717/full-andre-rosiade-usman-hamid-soroti-tuntutan-massa-soal-ruu-perampasan-aset"
+    },
+    {
+      "title": "Anggota DPR: 15 Desember 2026 Harus Jadi Titik Balik RUU Perampasan Aset - Kompas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 11:45:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/08/27/18455401/anggota-dpr-15-desember-2026-harus-jadi-titik-balik-ruu-perampasan-aset"
     }
   ]
 }
