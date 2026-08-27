@@ -1,10 +1,10 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-27T13:44:57.064665",
+  "generated_at": "2026-08-27T23:34:33.622469",
   "party_counts_7d": {
-    "Gerindra": 26,
+    "Gerindra": 25,
     "PDI-P": 27,
-    "Golkar": 18,
+    "Golkar": 19,
     "PKB": 15,
     "PKS": 19,
     "PAN": 1,
@@ -13,12 +13,12 @@
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 70,
-    "Golkar": 52,
+    "Golkar": 53,
     "NasDem": 20,
     "PKB": 49,
-    "PKS": 50,
+    "PKS": 51,
     "PAN": 22,
-    "Demokrat": 21
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 80,
+    "bumn": 79,
     "danantara": 45,
     "dividen": 1,
     "umkm": 18,
     "koperasi": 48,
-    "investasi": 17,
+    "investasi": 16,
     "perdagangan": 7,
-    "ekspor": 7,
+    "ekspor": 6,
     "kartel-monopoli": 1,
-    "merger-akuisisi": 4,
+    "merger-akuisisi": 5,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -63,7 +63,7 @@
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 4,
-    "Muhammad Sarmuji": 15,
+    "Muhammad Sarmuji": 16,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
@@ -75,27 +75,111 @@
     "Amin Ak.": 15,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
-    "Ismail": 13,
+    "Ismail": 14,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 19,
     "Sartono": 7,
-    "Herman Khaeron": 14
+    "Herman Khaeron": 13
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 63,
-    "Perdagangan": 44,
+    "Perdagangan": 39,
     "Kinerja BUMN": 14,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Golkar akan kawal penyelesaian RUU Perampasan Aset di DPR - ANTARA News Manado",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 22:28:38 GMT",
+      "link": "https://manado.antaranews.com/berita/319868/golkar-akan-kawal-penyelesaian-ruu-perampasan-aset-di-dpr"
+    },
+    {
+      "title": "Kemendag Targetkan Transaksi Harbolnas 2026 Melonjak 10% dari Rp36,4 triliun - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 22:00:00 GMT",
+      "link": "https://swa.co.id/read/476567/kemendag-targetkan-transaksi-harbolnas-2026-melonjak-10-dari-rp364-triliun"
+    },
+    {
+      "title": "Danantara Housing Expo mencatat 300 akad hunian saat pembukaan pameran - ANTARA News Mataram",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 21:21:04 GMT",
+      "link": "https://mataram.antaranews.com/berita/567873/danantara-housing-expo-mencatat-300-akad-hunian-saat-pembukaan-pameran"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 20:30:17 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260828/Mjc0NDQ0"
+    },
+    {
+      "title": "Pemkab Bogor gulurkan koperasi inspiratif jadi mentor koperasi lain - ANTARA News Megapolitan",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 19:10:34 GMT",
+      "link": "https://megapolitan.antaranews.com/amp/berita/547173/pemkab-bogor-gulurkan-koperasi-inspiratif-jadi-mentor-koperasi-lain"
+    },
+    {
+      "title": "Danantara Housing Expo Bidik Transaksi Rp10 Triliun - Epaper Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 17:00:00 GMT",
+      "link": "https://epaper.mediaindonesia.com/detail/danantara-housing-expo-bidik-transaksi-rp10-triliun"
+    },
+    {
+      "title": "KPPU dan Pemprov DIY Satukan Langkah Awasi Kemitraan Unggas Daerah - wartajogja.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 15:29:00 GMT",
+      "link": "https://www.wartajogja.id/2026/08/kppu-dan-pemprov-diy-satukan-langkah_0439080811.html"
+    },
+    {
+      "title": "RUU Perampasan Aset Ditarget Selesai Akhir 2026, Rieke Paparkan 3 Catatan Kritis - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 14:37:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ruu-perampasan-aset-ditarget-selesai-akhir-2026-rieke-paparkan-3-catatan-kritis-b2pYHZbh6P"
+    },
+    {
+      "title": "Danantara Siapkan Rp 456 Miliar untuk Selamatkan Proyek LRT City - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 14:28:53 GMT",
+      "link": "https://suaragarut.id/danantara-siapkan-rp-456-miliar-lrt-city"
+    },
+    {
+      "title": "Aksi di DPR Jadi Alarm Demokrasi, Akademisi: Jangan Dibalas Represi - indoposco.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 13:40:50 GMT",
+      "link": "https://indoposco.id/2026/08/27/aksi-di-dpr-jadi-alarm-demokrasi-akademisi-jangan-dibalas-represi/"
+    },
     {
       "title": "Soal Fit and Proper Test Pimpinan BI, Amin Ak Dorong Kebijakan yang Pro UMKM dan Ekonomi Syariah - Beritakota",
       "entity": "Amin Ak.",
       "kind": "anggota",
       "published": "Thu, 27 Aug 2026 13:20:00 GMT",
       "link": "https://beritakota.id/fit-and-proper-test-pimpinan-bi-amin-ak-dorong-kebijakan-yang-pro-umkm-dan-ekonomi-syariah/"
+    },
+    {
+      "title": "Tim PKM Poltesa Edukasi Perpajakan Koperasi Merah Putih di Singkawang - sambas times",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 13:02:00 GMT",
+      "link": "https://sambastimes.com/tim-pkm-poltesa-edukasi-perpajakan-koperasi-merah-putih-di-singkawang/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dorong Percepatan RUU Perampasan Aset dan Minta Perlindungan Hak Korban - Jakartanews.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 12:59:27 GMT",
+      "link": "https://www.jakartanews.id/2026/08/27/rieke-diah-pitaloka-dorong-percepatan-ruu-perampasan-aset-dan-minta-perlindungan-hak-korban/"
     },
     {
       "title": "Harga Ayam di Sumut Tembus Rp52.400 per Kg, KPPU Selidiki Rantai Pasok dan Dampak Program MBG - Oke Medan",
@@ -110,90 +194,6 @@
       "kind": "lembaga",
       "published": "Thu, 27 Aug 2026 12:56:33 GMT",
       "link": "https://minews.id/news/pemerintah-arahkan-koperasi-merah-putih-jadi-jalur-baru-cegah-kebocoran-subsidi"
-    },
-    {
-      "title": "Relawan Bakti BUMN 2026, BRI Ajak Relawan Memberdayakan Desa BRILiaN Sanur Kaja Bali - Radar Jember",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 12:26:48 GMT",
-      "link": "https://radarjember.jawapos.com/sinergi/2608270044/relawan-bakti-bumn-2026-bri-ajak-relawan-memberdayakan-desa-brilian-sanur-kaja-bali"
-    },
-    {
-      "title": "Kemenpar Gandeng Danantara Kembangkan Destinasi Wisata dan Buka Lapangan Kerja - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 12:23:40 GMT",
-      "link": "https://infobanknews.com/kemenpar-gandeng-danantara-kembangkan-destinasi-wisata-dan-buka-lapangan-kerja"
-    },
-    {
-      "title": "Anggota Komisi XII DPR Dorong Pemerintah Segera Lunasi Utang Kompensasi-Subsidi ke Pertamina - TEROPONGSENAYAN.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 12:17:50 GMT",
-      "link": "https://www.teropongsenayan.com/138268-anggota-komisi-xii-dpr-dorong-pemerintah-segera-lunasi-utang-kompensasi-subsidi-ke-pertamina"
-    },
-    {
-      "title": "Danantara Suntik Rp456 Miliar Selesaikan Proyek LRT City Mangkrak - SuaraGarut.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 12:15:41 GMT",
-      "link": "https://suaragarut.id/danantara-suntik-dana-proyek-lrt-city"
-    },
-    {
-      "title": "Nasril Bahar Soroti Penyusunan RUU KADIN: Dorong Regulasi Dunia Usaha Lebih Adaptif dan Berpihak kepada Pengusaha Daerah - Bela Rakyat",
-      "entity": "Nasril Bahar",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 12:13:33 GMT",
-      "link": "https://belarakyat.com/nasril-bahar-soroti-penyusunan-ruu-kadin-dorong-regulasi-dunia-usaha-lebih-adaptif-dan-berpihak-kepada-pengusaha-daerah/"
-    },
-    {
-      "title": "Danantara Housing Expo Hadirkan 120.000 Pilihan Properti, Harga Mulai Rp 120 Juta - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 12:01:43 GMT",
-      "link": "https://investor.id/business/451855/danantara-housing-expo-hadirkan-120000-pilihan-properti-harga-mulai-rp-120-juta"
-    },
-    {
-      "title": "Andre Rosiade temui massa aksi, sampaikan progres RUU Perampasan Aset - ANTARA News Jambi",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 11:59:34 GMT",
-      "link": "https://jambi.antaranews.com/video/5713664/dpr-temui-demonstran-untuk-sampaikan-progres-ruu-perampasan-aset"
-    },
-    {
-      "title": "Danantara Dukung KPR Rp 50 T pada 2026 - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 11:57:07 GMT",
-      "link": "https://aspek.id/danantara-dukung-kpr-rp-50-t-pada-2026/"
-    },
-    {
-      "title": "Event Ritel dan Harbolnas Diandalkan Angkat Konsumsi - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 11:50:57 GMT",
-      "link": "https://investor.id/business/451851/event-ritel-dan-harbolnas-diandalkan-angkat-konsumsi"
-    },
-    {
-      "title": "KPPU Sorot Proses MUFG Akuisisi Mandala Finance, Ada Apa? - CNBC Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 27 Aug 2026 11:50:01 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260827154729-17-762806/kppu-sorot-proses-mufg-akuisisi-mandala-finance-ada-apa"
-    },
-    {
-      "title": "[FULL] Andre Rosiade & Usman Hamid Soroti Tuntutan Massa soal RUU Perampasan Aset - Kompas.tv",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 11:46:00 GMT",
-      "link": "https://www.kompas.tv/nasional/687717/full-andre-rosiade-usman-hamid-soroti-tuntutan-massa-soal-ruu-perampasan-aset"
-    },
-    {
-      "title": "Anggota DPR: 15 Desember 2026 Harus Jadi Titik Balik RUU Perampasan Aset - Kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 27 Aug 2026 11:45:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/08/27/18455401/anggota-dpr-15-desember-2026-harus-jadi-titik-balik-ruu-perampasan-aset"
     }
   ]
 }
