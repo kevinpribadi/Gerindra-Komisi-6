@@ -1,23 +1,23 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-26T21:40:50.318698",
+  "generated_at": "2026-08-27T02:53:25.815561",
   "party_counts_7d": {
-    "Gerindra": 25,
-    "PDI-P": 24,
-    "Golkar": 21,
+    "Gerindra": 27,
+    "PDI-P": 25,
+    "Golkar": 20,
     "PKB": 16,
     "PKS": 22,
     "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 58,
+    "Gerindra": 60,
     "PDI-P": 70,
     "Golkar": 51,
     "NasDem": 20,
     "PKB": 49,
     "PKS": 51,
-    "PAN": 22,
+    "PAN": 21,
     "Demokrat": 22
   },
   "agency_counts_30d": {
@@ -34,7 +34,7 @@
   },
   "topic_counts_30d": {
     "bumn": 81,
-    "danantara": 41,
+    "danantara": 42,
     "dividen": 1,
     "umkm": 14,
     "koperasi": 51,
@@ -42,7 +42,7 @@
     "ekspor": 11,
     "investasi": 15,
     "kartel-monopoli": 1,
-    "merger-akuisisi": 2,
+    "merger-akuisisi": 3,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 11,
+    "Mulyadi": 13,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
@@ -77,24 +77,87 @@
     "Ghufran": 2,
     "Ismail": 16,
     "Eko Patrio": 2,
-    "Iskandar": 20,
+    "Iskandar": 19,
     "Sartono": 8,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 49,
+    "Perdagangan": 50,
     "Kinerja BUMN": 13,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Danantara Incar Investasi Raksasa Pangan JBS Group US$5 Miliar Masuk RI - Bisnis.com - Market",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 02:46:27 GMT",
+      "link": "https://market.bisnis.com/read/20260827/192/1999199/danantara-incar-investasi-raksasa-pangan-jbs-group-us5-miliar-masuk-ri"
+    },
+    {
+      "title": "Live Now! Bos Danantara Ungkap Progres Pembenahan BUMN Karya & Farmasi - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 02:06:58 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260826224537-17-762558/live-now-bos-danantara-ungkap-progres-pembenahan-bumn-karya-farmasi"
+    },
+    {
+      "title": "Audiensi dengan Pekerja PT Pos Indonesia, DPR Dorong Pencairan Dana Tagihan Rp 158 Miliar untuk Bayar Gaji Karyawan - Balipuspanews.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 01:09:02 GMT",
+      "link": "https://www.balipuspanews.com/audiensi-dengan-pekerja-pt-pos-indonesia-dpr-dorong-pencairan-dana-tagihan-rp-158-miliar-untuk-bayar-gaji-karyawan.html"
+    },
+    {
+      "title": "BPJS Ketenagakerjaan Raih Penghargaan Koperasi Awards 2026, Perkuat Perlindungan Pekerja Koperasi - Bogor-Kita.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 27 Aug 2026 01:06:42 GMT",
+      "link": "https://bogor-kita.com/bpjs-ketenagakerjaan-raih-penghargaan-koperasi-awards-2026-perkuat-perlindungan-pekerja-koperasi/"
+    },
+    {
+      "title": "Profil Dr Mulyadi, Resmi Menjabat Sekjen Komisi Yudisial RI - pejabatpublik.com",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Thu, 27 Aug 2026 00:18:12 GMT",
+      "link": "https://pejabatpublik.com/2026/08/27/profil-dr-mulyadi-resmi-menjabat-sekjen-komisi-yudisial-ri/"
+    },
+    {
+      "title": "Pemerintah Arahkan Koperasi Merah Putih Jadi Jalur Baru Cegah Kebocoran Subsidi - Deliknews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 23:43:00 GMT",
+      "link": "https://www.deliknews.com/2026/08/27/pemerintah-arahkan-koperasi-merah-putih-jadi-jalur-baru-cegah-kebocoran-subsidi/"
+    },
+    {
+      "title": "Penyebab Elektabilitas Gubernur Dedi Mulyadi Makin Melejit - Tempo.co",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Wed, 26 Aug 2026 23:10:00 GMT",
+      "link": "https://www.tempo.co/politik/elektabilitas-dedi-mulyadi-survei-tempo-2284027"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 22:42:47 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260827/Mjc0NDQ0"
+    },
     {
       "title": "Prabowo Puji Kinerja Danantara dan Targetkan Restrukturisasi BUMN - achmadnurhidayat.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 17:52:00 GMT",
       "link": "https://achmadnurhidayat.id/prabowo-puji-danantara-restrukturisasi-bumn"
+    },
+    {
+      "title": "Digelar Besar-besaran, Danantara Housing Expo 2026 Sasar Semua Segmen - Epaper Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 26 Aug 2026 17:00:00 GMT",
+      "link": "https://epaper.mediaindonesia.com/detail/digelar-besar-besaran-danantara-housing-expo-2026-sasar-semua-segmen"
     },
     {
       "title": "Bintang Kehormatan Disiapkan untuk Pimpinan Danantara - Epaper Media Indonesia",
@@ -130,69 +193,6 @@
       "kind": "lembaga",
       "published": "Wed, 26 Aug 2026 13:41:13 GMT",
       "link": "https://www.kanalinspirasi.com/news/rawan-kecelakaan-jalan-cot-bak-geutom-balohan-anoi-itam-ditutup-total/index.html"
-    },
-    {
-      "title": "Demer: PLTS 100 GWp Gilimanuk Dorong Industri Hijau-Pariwisata Berkualitas - Pos Merdeka",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 13:21:02 GMT",
-      "link": "https://posmerdeka.com/demer-plts-100-gwp-gilimanuk-dorong-industri-hijau-pariwisata-berkualitas/"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Jadi Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - atnews.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 13:16:40 GMT",
-      "link": "https://atnews.id/portal/news/33453/gde-sumarjaya-linggih-plts-100-gwp-jadi-momentum-dorong-energi-hijau-dan-pariwisata-berkualitas"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Jadi Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - atnews.id",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 13:16:40 GMT",
-      "link": "https://atnews.id/portal/news/33453/"
-    },
-    {
-      "title": "KPPU Akan Selidiki Kenaikan Harga Ayam Ras di Sumut, Tembus Rp52.400 per Kilogram - edisimedan.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 12:46:10 GMT",
-      "link": "https://edisimedan.com/kppu-akan-selidiki-kenaikan-harga-ayam-ras-di-sumut-tembus-rp52-400-per-kilogram/"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: PLTS 100 GWp Momentum Dorong Energi Hijau dan Pariwisata Berkualitas - DPR RI",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 12:17:37 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Gde-Sumarjaya-Linggih-PLTS-100-GWp-Momentum-Dorong-Energi-Hijau-dan-Pariwisata-Berkualitas-68361"
-    },
-    {
-      "title": "Danantara Mulai Proyek PSEL Rp3 Triliun di Bekasi - Listrik Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 12:00:00 GMT",
-      "link": "https://listrikindonesia.com/detail/21014/danantara-mulai-proyek-psel-rp3-triliun-di-bekasi"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Sebut Reformasi Kewarganegaraan Harus Pastikan WNI dan Jaga Kedaulatan - Telusur.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 26 Aug 2026 11:37:37 GMT",
-      "link": "https://telusur.co.id/detail/rieke-diah-pitaloka-sebut-reformasi-kewarganegaraan-harus-pastikan-wni-dan-jaga-kedaulatan"
-    },
-    {
-      "title": "Pupuk Kaltim Berdayakan Masyarakat Kumango Lewat Relawan Bakti BUMN 2026 - ANTARA News Sumbar",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 09:55:10 GMT",
-      "link": "https://sumbar.antaranews.com/berita/775917/pupuk-kaltim-berdayakan-masyarakat-kumango-lewat-relawan-bakti-bumn-2026"
-    },
-    {
-      "title": "Video: Benahi Masalah 1.074 BUMN, Danantara Lakukan Likuidasi - Merger - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 26 Aug 2026 09:25:45 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260826141246-8-762379/video-benahi-masalah-1074-bumn-danantara-lakukan-likuidasi--merger"
     }
   ]
 }
