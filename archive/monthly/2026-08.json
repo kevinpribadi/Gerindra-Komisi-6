@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-28T21:04:36.136596",
+  "generated_at": "2026-08-29T03:28:40.468547",
   "party_counts_7d": {
-    "Gerindra": 28,
+    "Gerindra": 31,
     "PDI-P": 27,
     "Golkar": 19,
     "NasDem": 1,
-    "PKB": 11,
+    "PKB": 13,
     "PKS": 21,
-    "PAN": 1,
+    "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 63,
+    "Gerindra": 65,
     "PDI-P": 67,
     "Golkar": 54,
     "NasDem": 21,
-    "PKB": 48,
+    "PKB": 49,
     "PKS": 53,
-    "PAN": 20,
+    "PAN": 21,
     "Demokrat": 17
   },
   "agency_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 74,
-    "danantara": 47,
-    "dividen": 3,
+    "bumn": 71,
+    "danantara": 45,
+    "dividen": 4,
     "umkm": 20,
-    "koperasi": 48,
-    "ekspor": 6,
-    "perdagangan": 7,
-    "investasi": 17,
+    "koperasi": 49,
+    "ekspor": 7,
+    "perdagangan": 4,
+    "investasi": 16,
     "kartel-monopoli": 2,
     "merger-akuisisi": 5,
     "ipo": 1
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 16,
+    "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 1,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
@@ -70,7 +70,7 @@
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
-    "Anggia Erma Rini": 19,
+    "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
     "Ida Fauziyah": 2,
@@ -78,19 +78,111 @@
     "Rizal Bawazier": 20,
     "Ghufran": 2,
     "Ismail": 15,
+    "Eko Patrio": 1,
     "Nasril Bahar": 1,
     "Iskandar": 19,
     "Sartono": 7,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Hukum/Audit": 18,
-    "Koperasi/UMKM": 65,
+    "Hukum/Audit": 19,
+    "Koperasi/UMKM": 66,
     "Perdagangan": 37,
     "Kinerja BUMN": 15,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Raih detikSumatera Awards, Andre Rosiade: Komitmen Presiden ke Sumbar Sangat Besar - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 02:49:54 GMT",
+      "link": "https://news.detik.com/berita/d-8639136/raih-detiksumatera-awards-andre-rosiade-komitmen-presiden-ke-sumbar-sangat-besar"
+    },
+    {
+      "title": "Danantara Soroti Rencana Pengalihan Dividen Rp120 Triliun ke APBN - Harianjogja.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 02:27:13 GMT",
+      "link": "https://ekbis.harianjogja.com/r-1269165/danantara-soroti-rencana-pengalihan-dividen-rp120-triliun-ke-apbn"
+    },
+    {
+      "title": "| Komisi VI DPR Minta KDKMP Punya Bisnis Jelas Jangan Hanya Formalitas - jurnas.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 01:17:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1664483/komisi-vi-dpr-minta-kdkmp-punya-bisnis-jelas-jangan-hanya-formalitas/"
+    },
+    {
+      "title": "Dony Oskaria Bongkar Penataan BUMN: 290 Selesai, 254 Jadi Target - Rmol.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 01:03:00 GMT",
+      "link": "https://rmol.id/amp/2026/08/29/719988/dony-oskaria-bongkar-penataan-bumn--290-selesai--254-jadi-target-"
+    },
+    {
+      "title": "Mendag Lepas Ekspor Koral Banyuwangi ke AS, Nilainya Capai 2.500 Dolar AS - KilasJatim.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 00:53:50 GMT",
+      "link": "https://kilasjatim.com/2026/08/29/mendag-lepas-ekspor-koral-banyuwangi-ke-as-nilainya-capai-2-500-dolar-as/"
+    },
+    {
+      "title": "Koral Banyuwangi Tembus Pasar 20 Negara - NUSABALI.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 00:27:17 GMT",
+      "link": "https://www.nusabali.com/berita/229553/koral-banyuwangi-tembus-pasar-20-negara"
+    },
+    {
+      "title": "Harbolnas 2026 Bidik Transaksi Rp 40 Triliun, Ekonomi Tumbuh 6 Persen - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 28 Aug 2026 23:45:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/323780/bidik-transaksi-rp-40-triliun-harbolnas-2026-siap-kerek-ekonomi-ke-level-6-persen"
+    },
+    {
+      "title": "Mulyadi Minta Bea Cukai Tak Hanya Andalkan Rokok Sebagai Penerimaan Negara - Kedai Pena",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Fri, 28 Aug 2026 23:40:05 GMT",
+      "link": "https://www.kedaipena.com/mulyadi-minta-bea-cukai-tak-hanya-andalkan-rokok-sebagai-penerimaan-negara/"
+    },
+    {
+      "title": "Danantara akan Gunakan Gedung Danareksa Sebagai Kantor PFII - Bisnis.com - Market",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 28 Aug 2026 23:30:54 GMT",
+      "link": "https://market.bisnis.com/read/20260829/192/1999678/danantara-akan-gunakan-gedung-danareksa-sebagai-kantor-pfii"
+    },
+    {
+      "title": "Anggota DPR tekankan transparansi dalam penerapan RUU Perampasan Aset - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 28 Aug 2026 23:15:57 GMT",
+      "link": "https://ambon.antaranews.com/amp/berita/341543/anggota-dpr-tekankan-transparansi-dalam-penerapan-ruu-perampasan-aset"
+    },
+    {
+      "title": "Anggota DPR tekankan transparansi dalam penerapan RUU Perampasan Aset - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 28 Aug 2026 23:15:57 GMT",
+      "link": "https://ambon.antaranews.com/berita/341543/anggota-dpr-tekankan-transparansi-dalam-penerapan-ruu-perampasan-aset"
+    },
+    {
+      "title": "Janji Dasco Soal RUU Perampasan Aset, Kawendra: Beliau Orang yang Paling Komit - Tangerang Pos",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 28 Aug 2026 23:13:52 GMT",
+      "link": "https://tangerangpos.id/janji-dasco-soal-ruu-perampasan-aset-kawendra-beliau-orang-yang-paling-komit/"
+    },
+    {
+      "title": "Ada Dugaan Pelanggaran Hukum LRT City, Ara Panggil BP BUMN dan ADCP - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 28 Aug 2026 22:30:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/29/053000121/ada-dugaan-pelanggaran-hukum-lrt-city-ara-panggil-bp-bumn-dan-adcp-"
+    },
     {
       "title": "Andre Rosiade Raih detikSumatera Awards 'Tokoh Percepatan Pembangunan Sumbar' - detikNews",
       "entity": "Andre Rosiade",
@@ -104,97 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 28 Aug 2026 14:58:00 GMT",
       "link": "https://money.kompas.com/read/2026/08/28/215805126/indonesia-jadi-eksportir-koral-terbesar-kedua-dunia-kemendag-berikan"
-    },
-    {
-      "title": "Polda Metro Jaya Tetapkan 45 Tersangka Terkait Kerusuhan Unjuk Rasa di DPR - Kedai Pena",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 28 Aug 2026 14:41:30 GMT",
-      "link": "https://www.kedaipena.com/polda-metro-jaya-tetapkan-45-tersangka-terkait-kerusuhan-unjuk-rasa-di-dpr/"
-    },
-    {
-      "title": "Pemkab Mura dan Kemendag RI Bersinergi Tingkatkan Kompetensi SDM Kemetrologian - Berita Seputar Borneo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 14:02:38 GMT",
-      "link": "https://seputarborneo.com/news/25525_Pemkab_Mura_dan_Kemendag_RI_Bersinergi_Tingkatkan_Kompetensi_SDM_Kemetrologian.html"
-    },
-    {
-      "title": "Buka Prodi Baru, Menteri Perdagangan Apresiasi Langkah Unidsoe Banyuwangi - TIMES Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 14:02:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-nasional/605969/buka-prodi-baru-menteri-perdagangan-apresiasi-langkah-unidsoe-banyuwangi"
-    },
-    {
-      "title": "Rieke dorong RUU SDI disahkan dukung Perampasan Aset - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 28 Aug 2026 14:00:42 GMT",
-      "link": "https://www.antaranews.com/berita/5716003/rieke-dorong-ruu-sdi-disahkan-dukung-perampasan-aset"
-    },
-    {
-      "title": "Purbaya: Danantara Akan Setor Rp120 Triliun untuk APBN 2026 - RiauOnline",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 13:46:00 GMT",
-      "link": "https://www.riauonline.co.id/derap-nusantara/read/2026/08/28/purbaya-danantara-akan-setor-rp120-triliun-untuk-apbn-2026"
-    },
-    {
-      "title": "Anggota DPR Apresiasi Buku Hidup Berkah - Tagar.co",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Fri, 28 Aug 2026 13:44:08 GMT",
-      "link": "https://tagar.co/anggota-dpr-apresiasi-buku-hidup-berkah/"
-    },
-    {
-      "title": "Pemerintah Perkuat Pengawasan Perdagangan Melalui PP Nomor 3 Tahun 2026 - Kompasiana.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 13:42:34 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a91904ac925c438ff3b69d4/pemerintah-perkuat-pengawasan-perdagangan-melalui-pp-nomor-3-tahun-2026"
-    },
-    {
-      "title": "| Komitmen 15 Desember Bukti DPR Serius Bahas RUU Perampasan Aset - jurnas.com",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 28 Aug 2026 13:31:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1664453/komitmen-15-desember-bukti-dpr-serius-bahas-ruu-perampasan-aset/"
-    },
-    {
-      "title": "Business Matching Kemendag Buka Jalan Koral Banyuwangi Tembus AS - detikcom",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 11:45:41 GMT",
-      "link": "https://www.detik.com/jatim/bisnis/d-8638389/business-matching-kemendag-buka-jalan-koral-banyuwangi-tembus-as"
-    },
-    {
-      "title": "Purbaya Ungkap Danantara Setor Dividen Rp 120 Triliun ke Kas Negara - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 09:45:00 GMT",
-      "link": "https://money.kompas.com/read/2026/08/28/164506626/purbaya-ungkap-danantara-setor-dividen-rp-120-triliun-ke-kas-negara"
-    },
-    {
-      "title": "Waralaba Thailand Bidik Pasar Indonesia, 9 Merek Tampil di IFRA 2026 - Infobanknews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 09:40:44 GMT",
-      "link": "https://infobanknews.com/waralaba-thailand-bidik-pasar-indonesia-9-merek-tampil-di-ifra-2026"
-    },
-    {
-      "title": "Danantara Bakal Setor Dividen Rp 120 Triliun ke Kas Negara Tahun Ini - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 09:40:29 GMT",
-      "link": "https://aspek.id/danantara-bakal-setor-dividen-rp-120-triliun-ke-kas-negara-tahun-ini/"
-    },
-    {
-      "title": "Kemendag fasilitasi UMKM ekspor produk lewat \"businees matching\" - Antara News jatim",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 28 Aug 2026 09:35:00 GMT",
-      "link": "https://jatim.antaranews.com/berita/1093937/kemendag-fasilitasi-umkm-ekspor-produk-lewat-businees-matching"
     }
   ]
 }
