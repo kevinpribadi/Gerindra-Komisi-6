@@ -1,13 +1,13 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-29T10:45:37.990266",
+  "generated_at": "2026-08-29T15:28:20.186744",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 28,
-    "Golkar": 20,
+    "Golkar": 19,
     "NasDem": 1,
-    "PKB": 17,
-    "PKS": 22,
+    "PKB": 18,
+    "PKS": 18,
     "PAN": 2,
     "Demokrat": 4
   },
@@ -16,7 +16,7 @@
     "PDI-P": 68,
     "Golkar": 58,
     "NasDem": 21,
-    "PKB": 49,
+    "PKB": 48,
     "PKS": 53,
     "PAN": 21,
     "Demokrat": 17
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 69,
-    "danantara": 42,
+    "danantara": 41,
     "dividen": 4,
-    "umkm": 23,
+    "umkm": 24,
     "koperasi": 50,
+    "ekspor": 11,
     "perdagangan": 6,
-    "ekspor": 9,
-    "investasi": 16,
-    "kartel-monopoli": 2,
+    "investasi": 15,
+    "kartel-monopoli": 3,
     "merger-akuisisi": 5,
     "ipo": 1
   },
@@ -73,7 +73,7 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 2,
+    "Ida Fauziyah": 1,
     "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
@@ -85,13 +85,69 @@
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
-    "Koperasi/UMKM": 70,
-    "Perdagangan": 41,
-    "Kinerja BUMN": 15,
+    "Hukum/Audit": 18,
+    "Koperasi/UMKM": 71,
+    "Perdagangan": 42,
+    "Kinerja BUMN": 16,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Gelar Padel Youth Series, 200 Peserta Ikut Bertanding - MetroTVNews.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 13:16:18 GMT",
+      "link": "https://www.metrotvnews.com/read/bmRCYa1W-andre-rosiade-gelar-padel-youth-series-200-peserta-ikut-bertanding"
+    },
+    {
+      "title": "Mendag Ajak UMKM Banyuwangi Manfaatkan Program Pengembangan Ekspor Kemendag - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 13:13:16 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t4ag3m4-mendag-ajak-umkm-banyuwangi-manfaatkan-program-pengembangan-ekspor-kemendag"
+    },
+    {
+      "title": "SE Menkomdigi soal Perlindungan Kuota Internet Sudah Tepat, Tak Perlu Tergesa Revisi Aturan - Suara.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 13:11:33 GMT",
+      "link": "https://amp.suara.com/tekno/2026/08/29/201133/se-menkomdigi-soal-perlindungan-kuota-internet-sudah-tepat-tak-perlu-tergesa-revisi-aturan"
+    },
+    {
+      "title": "Pemerintah Perkuat Visibilitas Ekspor via DSI, Maksimalkan Nilai SDA Nasional - PT Suara Dewata Media",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 13:00:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217148/pemerintah-perkuat-visibilitas-ekspor-via-dsi-maksimalkan-nilai-sda-nasional%7D"
+    },
+    {
+      "title": "Nasim Khan Dukung Perampingan BUMN, Minta Efisiensi tapi Tak Korbankan Pekerja - TIMES Indonesia",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 12:33:00 GMT",
+      "link": "https://timesindonesia.co.id/read/news/606100/nasim-khan-dukung-perampingan-bumn-minta-efisiensi-tapi-tak-korbankan-pekerja"
+    },
+    {
+      "title": "Andre Rosiade Gelar Padel Youth Series, Dorong Padel Jadi Olahraga Rakyat - Suara.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 12:30:09 GMT",
+      "link": "https://www.suara.com/sport/2026/08/29/193009/andre-rosiade-gelar-padel-youth-series-dorong-padel-jadi-olahraga-rakyat"
+    },
+    {
+      "title": "Pemkab Mura Perkuat SDM Kemetrologian Bersama Kemendag RI - kaltengdaily",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 11:12:00 GMT",
+      "link": "https://kaltengdaily.com/daerah/pemkab-mura-perkuat-sdm-kemetrologian-bersama-kemendag-ri/"
+    },
+    {
+      "title": "Sidak Pasar Rogojampi, Menteri Perdagangan Sebut Harga Kebutuhan Pokok Relatif Stabil - BWI24JAM",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 10:06:24 GMT",
+      "link": "https://bwi24jam.co.id/sidak-pasar-rogojampi-menteri-perdagangan-sebut-harga-kebutuhan-pokok-relatif-stabil"
+    },
     {
       "title": "Komisi VI Ingatkan KDKMP Jangan Sekadar Kejar Jumlah, Bisnis dan Tata Kelola Harus Sehat - sudut kota",
       "entity": "Anggia Erma Rini",
@@ -140,62 +196,6 @@
       "kind": "anggota",
       "published": "Sat, 29 Aug 2026 07:14:00 GMT",
       "link": "https://www.ngopibareng.id/read/bulog-bojonegoro-salurkan-19-200-ton-beras-untuk-640-002-keluarga-lamongan-pastikan-tepat-sasaran"
-    },
-    {
-      "title": "Mendag Budi Santoso Lepas Ekspor Koral Banyuwangi, Komitmen Perluas Pasar UMKM hingga ke Tiga Benua - Beranda Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 06:48:00 GMT",
-      "link": "https://www.berandaindonesia.id/2026/08/29/mendag-budi-santoso-lepas-ekspor-koral-banyuwangi-komitmen-perluas-pasar-umkm-hingga-ke-tiga-benua"
-    },
-    {
-      "title": "Keuntungan Danantara Rp120 T Masuk ke Pemerintah, Purbaya: Defisit APBN Bisa Turun - Kompas.tv",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 06:44:00 GMT",
-      "link": "https://www.kompas.tv/ekonomi/688011/keuntungan-danantara-rp120-t-masuk-ke-pemerintah-purbaya-defisit-apbn-bisa-turun"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dorong Transparansi dan Kontrol Peradilan dalam Penerapan RUU Perampasan Aset - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 06:12:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dorong-transparansi-dan-kontrol-peradilan-dalam-penerapan-ruu-perampasan-aset-b2pYJZbh8X"
-    },
-    {
-      "title": "Gelar Musda, Tantangan Berat Menanti Dekopinda Ponorogo Perjuangkan Gerakan Koperasi - Pemerintah Kabupaten Ponorogo",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 06:00:00 GMT",
-      "link": "https://ponorogo.go.id/2026/08/29/gelar-musda-tantangan-berat-menanti-dekopinda-ponorogo-perjuangkan-gerakan-koperasi/"
-    },
-    {
-      "title": "Adisatrya Dorong UMKM Cilacap dan Masyarakat Optimalkan Produk dan Layanan Perbankan - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 05:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/adisatrya-dorong-umkm-cilacap-dan-masyarakat-optimalkan-produk-dan-layanan-perbankan-b2pYHZbh7s"
-    },
-    {
-      "title": "Bukan Sekadar Juara! Jatim Borong Penghargaan Tertinggi Koperasi RI, Ini Rahasianya - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 04:46:00 GMT",
-      "link": "https://www.beritakoperasi.com/bukan-sekadar-juara-jatim-borong-penghargaan-tertinggi-koperasi-ri-ini-rahasianya/"
-    },
-    {
-      "title": "Anggota DPR tekankan transparansi dalam penerapan RUU Perampasan Aset - ANTARA News Yogyakarta",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 04:35:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/850827/anggota-dpr-tekankan-transparansi-dalam-penerapan-ruu-perampasan-aset"
-    },
-    {
-      "title": "Anggota DPR tekankan transparansi dalam penerapan RUU Perampasan Aset - ANTARA News Yogyakarta",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 04:35:00 GMT",
-      "link": "https://jogja.antaranews.com/berita/850827/anggota-dpr-tekankan-transparansi-dalam-penerapan-ruu-perampasan-aset"
     }
   ]
 }
