@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-29T15:28:20.186744",
+  "generated_at": "2026-08-29T19:10:28.074213",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 28,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 1,
     "PKB": 18,
-    "PKS": 18,
+    "PKS": 17,
     "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 68,
-    "Golkar": 58,
+    "Golkar": 59,
     "NasDem": 21,
     "PKB": 48,
     "PKS": 53,
     "PAN": 21,
-    "Demokrat": 17
+    "Demokrat": 15
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -38,7 +38,7 @@
     "danantara": 41,
     "dividen": 4,
     "umkm": 24,
-    "koperasi": 50,
+    "koperasi": 51,
     "ekspor": 11,
     "perdagangan": 6,
     "investasi": 15,
@@ -59,7 +59,7 @@
     "Sadarestuwati": 3,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 1,
-    "Nurdin Halid": 8,
+    "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 2,
     "Doni Akbar": 2,
@@ -82,16 +82,30 @@
     "Nasril Bahar": 1,
     "Iskandar": 19,
     "Sartono": 7,
-    "Herman Khaeron": 10
+    "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 71,
+    "Koperasi/UMKM": 72,
     "Perdagangan": 42,
     "Kinerja BUMN": 16,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "200 Peserta Ramaikan Andre Rosiade Padel Youth Series - Rmol.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 17:00:00 GMT",
+      "link": "https://rmol.id/olahraga/read/2026/08/30/720031/200-peserta-ramaikan-andre-rosiade-padel-youth-series"
+    },
+    {
+      "title": "Perhatian Besar Andre Rosiade untuk Kota Pariaman - Sumbarsatu",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 16:26:00 GMT",
+      "link": "https://sumbarsatu.com/berita/35438-perhatian-besar-andre-rosiade-untuk-kota-pariaman"
+    },
     {
       "title": "Andre Rosiade Gelar Padel Youth Series, 200 Peserta Ikut Bertanding - MetroTVNews.com",
       "entity": "Andre Rosiade",
@@ -126,6 +140,13 @@
       "kind": "anggota",
       "published": "Sat, 29 Aug 2026 12:33:00 GMT",
       "link": "https://timesindonesia.co.id/read/news/606100/nasim-khan-dukung-perampingan-bumn-minta-efisiensi-tapi-tak-korbankan-pekerja"
+    },
+    {
+      "title": "Soroti UU Perkoperasian 1992, Nurdin Halid: KDKMP Perlu Ekosistem Bisnis Berbasis Teknologi - DPR RI",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 12:31:33 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-UU-Perkoperasian-1992-Nurdin-Halid-KDKMP-Perlu-Ekosistem-Bisnis-Berbasis-Teknologi-68489"
     },
     {
       "title": "Andre Rosiade Gelar Padel Youth Series, Dorong Padel Jadi Olahraga Rakyat - Suara.com",
@@ -175,27 +196,6 @@
       "kind": "anggota",
       "published": "Sat, 29 Aug 2026 08:10:39 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Tak-Sekadar-Salurkan-Bantuan-Nurdin-Halid-KDKMP-Jadi-Pusat-Ekonomi-Desa-68486"
-    },
-    {
-      "title": "Resmi Terpilih Ketua Dekopinda Cilegon, Lilis Komariah Dorong Digitalisasi dan Penguatan Koperasi - Faktabanten.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 07:36:46 GMT",
-      "link": "https://faktabanten.co.id/cilegon/resmi-terpilih-ketua-dekopinda-cilegon-lilis-komariah-dorong-digitalisasi-dan-penguatan-koperasi/"
-    },
-    {
-      "title": "Andre Rosiade Buka Kejuaraan Rosiade Padel Tournament Youth Series 2026 - Telusur.co.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 07:18:43 GMT",
-      "link": "https://telusur.co.id/detail/andre-rosiade-buka-kejuaraan-rosiade-padel-tournament-youth-series-2026"
-    },
-    {
-      "title": "Bulog Bojonegoro Salurkan 19.200 Ton Beras untuk 640.002 Keluarga, Lamongan Pastikan Tepat Sasaran - Ngopibareng.id",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 07:14:00 GMT",
-      "link": "https://www.ngopibareng.id/read/bulog-bojonegoro-salurkan-19-200-ton-beras-untuk-640-002-keluarga-lamongan-pastikan-tepat-sasaran"
     }
   ]
 }
