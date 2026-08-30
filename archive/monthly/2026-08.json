@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-30T13:31:08.103233",
+  "generated_at": "2026-08-30T17:53:46.890692",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 28,
-    "Golkar": 21,
+    "Golkar": 22,
     "NasDem": 1,
     "PKB": 21,
-    "PKS": 6,
+    "PKS": 5,
     "PAN": 3,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 68,
-    "Golkar": 60,
+    "PDI-P": 69,
+    "Golkar": 61,
     "NasDem": 21,
     "PKB": 47,
     "PKS": 53,
-    "PAN": 22,
+    "PAN": 21,
     "Demokrat": 12
   },
   "agency_counts_30d": {
@@ -34,10 +34,10 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
-    "investasi": 17,
+    "bumn": 67,
+    "investasi": 16,
     "danantara": 40,
-    "dividen": 4,
+    "dividen": 5,
     "umkm": 23,
     "koperasi": 54,
     "ekspor": 10,
@@ -56,10 +56,11 @@
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
+    "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 9,
+    "Nurdin Halid": 10,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 3,
     "Doni Akbar": 2,
@@ -79,18 +80,60 @@
     "Ismail": 15,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 19,
+    "Iskandar": 18,
     "Sartono": 4,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
     "Koperasi/UMKM": 73,
-    "Perdagangan": 37,
+    "Perdagangan": 35,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kemenkeu Siap Tampung Rp 120 T Dividen Danantara Tahun Ini - JPNN.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 15:01:00 GMT",
+      "link": "https://www.jpnn.com/news/kemenkeu-siap-tampung-rp-120-t-dividen-danantara-tahun-ini?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
+    },
+    {
+      "title": "Kesuma Kelakan Ingatkan Pemerintah Tidak Seragamkan Model Bisnis Koperasi Desa Merah Putih - gesuri.id",
+      "entity": "I Gusti Ngurah Kesuma Kelakan",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/kesuma-kelakan-ingatkan-pemerintah-tidak-seragamkan-model-bisnis-koperasi-desa-merah-putih-b2pYJZbhAf"
+    },
+    {
+      "title": "DPR: KDMP harus Jadi Ekosistem Ekonomi Gotong Royong Terintegrasi - Media Indonesia",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 14:58:57 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/927745/dpr-kdmp-harus-jadi-ekosistem-ekonomi-gotong-royong-terintegrasi"
+    },
+    {
+      "title": "Dekopinda Cianjur Peringati Harkopnas ke-79, Adakan Jalan Sehat Hingga Beri Penghargaan Para Tokoh Koperasi - Cianjur Update",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 14:55:08 GMT",
+      "link": "https://www.cianjurupdate.com/dekopinda-cianjur-peringati-harkopnas-ke-79-adakan-jalan-sehat-hingga-beri-penghargaan-para-tokoh-koperasi"
+    },
+    {
+      "title": "Kemenkop minta pengurus KDKMP terapkan hasil magang di daerah - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 14:15:00 GMT",
+      "link": "https://jatim.antaranews.com/berita/1094468/kemenkop-minta-pengurus-kdkmp-terapkan-hasil-magang-di-daerah"
+    },
+    {
+      "title": "Menteri Koperasi Ferry Juliantono Tegaskan Koperasi Jangan Hanya Jadi Tempat Pinjam Uang - VOI.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 13:30:00 GMT",
+      "link": "https://voi.id/berita/591902/menteri-koperasi-ferry-juliantono-tegaskan-koperasi-jangan-hanya-jadi-tempat-pinjam-uang"
+    },
     {
       "title": "Menkop: Koperasi Tak Boleh hanya Jadi Tempat Pinjam Uang - MetroTVNews.com",
       "entity": "Kementerian Koperasi",
@@ -153,48 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 30 Aug 2026 06:50:00 GMT",
       "link": "https://rri.co.id/nasional/2691880/magang-pengurus-kdkmp-jadi-bekal-bangun-koperasi-modern"
-    },
-    {
-      "title": "KPPU Selidiki 5 Perkara Kemitraan Sawit di Kaltim, Hak Petani Jadi Sorotan - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 06:40:25 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-selidiki-5-perkara-kemitraan-sawit-di-kaltim-hak-petani-jadi-sorotan/"
-    },
-    {
-      "title": "Kemenkop dorong 317 KDKMP Lamongan jadi koperasi modern - Antara News jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 06:22:48 GMT",
-      "link": "https://jatim.antaranews.com/berita/1094364/kemenkop-dorong-317-kdkmp-lamongan-jadi-koperasi-modern"
-    },
-    {
-      "title": "Video: Tidak Bisa Diselamatkan, Anak Usaha Indofarma Terpaksa Pailit - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 06:00:52 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260827090712-8-762606/video-tidak-bisa-diselamatkan-anak-usaha-indofarma-terpaksa-pailit"
-    },
-    {
-      "title": "Produk Furnitur Banyuwangi Tembus Pasar Mancanegara, Mendag Ingin Indonesia jadi Raja Furnitur Dunia - Ngopibareng.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 06:00:00 GMT",
-      "link": "https://www.ngopibareng.id/read/produk-furnitur-banyuwangi-tembus-pasar-mancanegara-mendag-ingin-indonesia-jadi-raja-furnitur-dunia"
-    },
-    {
-      "title": "Upaya Mendorong Tenun Toraja Naik Kelas Lewat Wadah Koperasi - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 05:05:48 GMT",
-      "link": "https://indoposco.id/2026/08/30/upaya-mendorong-tenun-toraja-naik-kelas-lewat-wadah-koperasi/"
-    },
-    {
-      "title": "KPPU dan Pemprov Kaltim Perkuat Pengawasan Kemitraan Sawit, Pastikan Petani Terlindungi - KaltimKita.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 04:02:40 GMT",
-      "link": "https://kaltimkita.com/detailpost/kppu-dan-pemprov-kaltim-perkuat-pengawasan-kemitraan-sawit-pastikan-petani-terlindungi"
     }
   ]
 }
