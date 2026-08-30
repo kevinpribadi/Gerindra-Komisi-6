@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-30T01:01:49.571181",
+  "generated_at": "2026-08-30T07:50:56.275427",
   "party_counts_7d": {
-    "Gerindra": 32,
+    "Gerindra": 33,
     "PDI-P": 28,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 1,
-    "PKB": 18,
-    "PKS": 15,
+    "PKB": 19,
+    "PKS": 6,
     "PAN": 2,
-    "Demokrat": 4
+    "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 69,
-    "Golkar": 60,
+    "Gerindra": 67,
+    "PDI-P": 68,
+    "Golkar": 59,
     "NasDem": 21,
-    "PKB": 48,
+    "PKB": 47,
     "PKS": 53,
     "PAN": 21,
-    "Demokrat": 15
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "danantara": 41,
+    "bumn": 68,
+    "danantara": 40,
     "dividen": 4,
     "umkm": 24,
-    "koperasi": 51,
-    "ekspor": 12,
+    "koperasi": 53,
+    "ekspor": 11,
     "perdagangan": 7,
     "investasi": 15,
-    "kartel-monopoli": 3,
+    "kartel-monopoli": 4,
     "merger-akuisisi": 5,
     "ipo": 1
   },
@@ -51,15 +51,15 @@
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
-    "Mulyadi": 19,
+    "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 2,
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 3,
+    "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 9,
+    "Nurdin Halid": 8,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 3,
     "Doni Akbar": 2,
@@ -73,7 +73,6 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 1,
     "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 2,
@@ -81,17 +80,87 @@
     "Eko Patrio": 1,
     "Nasril Bahar": 1,
     "Iskandar": 19,
-    "Sartono": 7,
+    "Sartono": 6,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 74,
+    "Perdagangan": 39,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Magang Pengurus KDKMP Jadi Bekal Bangun Koperasi Modern - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 06:50:00 GMT",
+      "link": "https://rri.co.id/nasional/2691880/magang-pengurus-kdkmp-jadi-bekal-bangun-koperasi-modern"
+    },
+    {
+      "title": "KPPU Selidiki 5 Perkara Kemitraan Sawit di Kaltim, Hak Petani Jadi Sorotan - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 06:40:25 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-selidiki-5-perkara-kemitraan-sawit-di-kaltim-hak-petani-jadi-sorotan/"
+    },
+    {
+      "title": "Kemenkop dorong 317 KDKMP Lamongan jadi koperasi modern - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 06:22:48 GMT",
+      "link": "https://jatim.antaranews.com/berita/1094364/kemenkop-dorong-317-kdkmp-lamongan-jadi-koperasi-modern"
+    },
+    {
+      "title": "Video: Tidak Bisa Diselamatkan, Anak Usaha Indofarma Terpaksa Pailit - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 06:00:52 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260827090712-8-762606/video-tidak-bisa-diselamatkan-anak-usaha-indofarma-terpaksa-pailit"
+    },
+    {
+      "title": "Produk Furnitur Banyuwangi Tembus Pasar Mancanegara, Mendag Ingin Indonesia jadi Raja Furnitur Dunia - Ngopibareng.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 06:00:00 GMT",
+      "link": "https://www.ngopibareng.id/read/produk-furnitur-banyuwangi-tembus-pasar-mancanegara-mendag-ingin-indonesia-jadi-raja-furnitur-dunia"
+    },
+    {
+      "title": "Upaya Mendorong Tenun Toraja Naik Kelas Lewat Wadah Koperasi - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 05:05:48 GMT",
+      "link": "https://indoposco.id/2026/08/30/upaya-mendorong-tenun-toraja-naik-kelas-lewat-wadah-koperasi/"
+    },
+    {
+      "title": "KPPU dan Pemprov Kaltim Perkuat Pengawasan Kemitraan Sawit, Pastikan Petani Terlindungi - KaltimKita.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 04:02:40 GMT",
+      "link": "https://kaltimkita.com/detailpost/kppu-dan-pemprov-kaltim-perkuat-pengawasan-kemitraan-sawit-pastikan-petani-terlindungi"
+    },
+    {
+      "title": "KPPU Makassar Internalisasi Persaingan Usaha Dalam Kebijakan Perdagangan Bapokting - Radar Sulbar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 02:03:10 GMT",
+      "link": "https://radarsulbar.fajar.co.id/2026/08/30/kppu-makassar-internalisasi-persaingan-usaha-dalam-kebijakan-perdagangan-bapokting/"
+    },
+    {
+      "title": "Menkop Dorong Kain Tenun Toraja Naik Kelas Lewat Koperasi - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 02:01:00 GMT",
+      "link": "https://wartaekonomi.co.id/read631403/menkop-dorong-kain-tenun-toraja-naik-kelas-lewat-koperasi"
+    },
+    {
+      "title": "Ketua KY Lantik Mulyadi sebagai Sekretaris Jenderal, Siap Perkuat Integritas Lembaga - Monitor Pos",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 01:13:00 GMT",
+      "link": "https://www.monitorpos.net/2026/08/ketua-ky-lantik-mulyadi-sebagai.html"
+    },
     {
       "title": "Pemerintah Perketat Tata Kelola Ekspor Karet Alam SIR - Kompasiana.com",
       "entity": "Kementerian Perdagangan",
@@ -126,76 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 29 Aug 2026 16:26:00 GMT",
       "link": "https://sumbarsatu.com/berita/35438-perhatian-besar-andre-rosiade-untuk-kota-pariaman"
-    },
-    {
-      "title": "KPPU Dukung Peningkatan Harga Ubi Kayu dan Penguatan Industri Tapioka di Lampung - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 13:53:00 GMT",
-      "link": "https://rri.co.id/bandar-lampung/regional/2689496/kppu-dukung-peningkatan-harga-ubi-kayu-dan-penguatan-industri-tapioka-di-lampung"
-    },
-    {
-      "title": "Andre Rosiade Gelar Padel Youth Series, 200 Peserta Ikut Bertanding - MetroTVNews.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 13:16:18 GMT",
-      "link": "https://www.metrotvnews.com/read/bmRCYa1W-andre-rosiade-gelar-padel-youth-series-200-peserta-ikut-bertanding"
-    },
-    {
-      "title": "Mendag Ajak UMKM Banyuwangi Manfaatkan Program Pengembangan Ekspor Kemendag - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 13:13:16 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t4ag3m4-mendag-ajak-umkm-banyuwangi-manfaatkan-program-pengembangan-ekspor-kemendag"
-    },
-    {
-      "title": "SE Menkomdigi soal Perlindungan Kuota Internet Sudah Tepat, Tak Perlu Tergesa Revisi Aturan - Suara.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 13:11:33 GMT",
-      "link": "https://amp.suara.com/tekno/2026/08/29/201133/se-menkomdigi-soal-perlindungan-kuota-internet-sudah-tepat-tak-perlu-tergesa-revisi-aturan"
-    },
-    {
-      "title": "Pemerintah Perkuat Visibilitas Ekspor via DSI, Maksimalkan Nilai SDA Nasional - PT Suara Dewata Media",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 13:00:00 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217148/pemerintah-perkuat-visibilitas-ekspor-via-dsi-maksimalkan-nilai-sda-nasional%7D"
-    },
-    {
-      "title": "Nasim Khan Dukung Perampingan BUMN, Minta Efisiensi tapi Tak Korbankan Pekerja - TIMES Indonesia",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 12:33:00 GMT",
-      "link": "https://timesindonesia.co.id/read/news/606100/nasim-khan-dukung-perampingan-bumn-minta-efisiensi-tapi-tak-korbankan-pekerja"
-    },
-    {
-      "title": "Menteri Perdagangan Dorong Furnitur Jati Banyuwangi Naik Kelas ke Pasar Dunia - spektroom.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 12:32:20 GMT",
-      "link": "https://spektroom.co.id/menteri-perdagangan-dorong-furnitur-jati-banyuwangi-naik-kelas-ke-pasar-dunia/"
-    },
-    {
-      "title": "Soroti UU Perkoperasian 1992, Nurdin Halid: KDKMP Perlu Ekosistem Bisnis Berbasis Teknologi - DPR RI",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 12:31:33 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-UU-Perkoperasian-1992-Nurdin-Halid-KDKMP-Perlu-Ekosistem-Bisnis-Berbasis-Teknologi-68489"
-    },
-    {
-      "title": "Andre Rosiade Gelar Padel Youth Series, Dorong Padel Jadi Olahraga Rakyat - Suara.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 12:30:09 GMT",
-      "link": "https://www.suara.com/sport/2026/08/29/193009/andre-rosiade-gelar-padel-youth-series-dorong-padel-jadi-olahraga-rakyat"
-    },
-    {
-      "title": "Pemkab Mura Perkuat SDM Kemetrologian Bersama Kemendag RI - kaltengdaily",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 11:12:00 GMT",
-      "link": "https://kaltengdaily.com/daerah/pemkab-mura-perkuat-sdm-kemetrologian-bersama-kemendag-ri/"
     }
   ]
 }
