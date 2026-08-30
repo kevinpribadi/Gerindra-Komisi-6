@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-30T20:32:12.310453",
+  "generated_at": "2026-08-30T23:08:58.586088",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 28,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
+    "bumn": 66,
     "investasi": 16,
     "danantara": 40,
     "dividen": 5,
@@ -85,13 +85,27 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 18,
     "Koperasi/UMKM": 73,
     "Perdagangan": 35,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah Siap Audit ADCP, Termasuk Jajaran Direksi Lama dan Baru - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 23:00:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/08/31/060000021/pemerintah-siap-audit-adcp-termasuk-jajaran-direksi-lama-dan-baru"
+    },
+    {
+      "title": "Danantara dan Rencana Pengambilalihan Sritex - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 21:16:57 GMT",
+      "link": "https://insight.kontan.co.id/news/danantara-dan-rencana-pengambilalihan-sritex"
+    },
     {
       "title": "KPPU Perluas Pendalaman Harga dan Pasokan Semen di Sumatera Utara - - Telusur.co.id",
       "entity": "KPPU",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 30 Aug 2026 12:12:58 GMT",
       "link": "https://www.metrotvnews.com/read/bw6C2nw4-ragam-properti-rp120-juta-hingga-rp3-miliar-di-danantara-housing-expo"
-    },
-    {
-      "title": "Anggota DPR RI Dukung Pemerintah Sederhanakan BUMN Jadi 300 Perusahaan - Harian Bhirawa",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 12:08:21 GMT",
-      "link": "https://harianbhirawa.co.id/anggota-dpr-ri-dukung-pemerintah-sederhanakan-bumn-jadi-300-perusahaan/"
-    },
-    {
-      "title": "Eko Patrio: Kopdes Merah Putih Jangan Hanya Banyak, Harus Bikin Anggota Sejahtera - Bela Rakyat",
-      "entity": "Eko Patrio",
-      "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 12:01:07 GMT",
-      "link": "https://belarakyat.com/eko-patrio-kopdes-merah-putih-jangan-hanya-banyak-harus-bikin-anggota-sejahtera/"
     }
   ]
 }
