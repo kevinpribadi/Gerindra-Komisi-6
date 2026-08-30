@@ -1,25 +1,25 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-30T07:50:56.275427",
+  "generated_at": "2026-08-30T13:31:08.103233",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 28,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 1,
-    "PKB": 19,
+    "PKB": 21,
     "PKS": 6,
-    "PAN": 2,
-    "Demokrat": 3
+    "PAN": 3,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 68,
-    "Golkar": 59,
+    "Golkar": 60,
     "NasDem": 21,
     "PKB": 47,
     "PKS": 53,
-    "PAN": 21,
-    "Demokrat": 14
+    "PAN": 22,
+    "Demokrat": 12
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -29,19 +29,19 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 8,
+    "BPK Sabang": 9,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 68,
+    "investasi": 17,
     "danantara": 40,
     "dividen": 4,
-    "umkm": 24,
-    "koperasi": 53,
-    "ekspor": 11,
-    "perdagangan": 7,
-    "investasi": 15,
+    "umkm": 23,
+    "koperasi": 54,
+    "ekspor": 10,
+    "perdagangan": 8,
     "kartel-monopoli": 4,
     "merger-akuisisi": 5,
     "ipo": 1
@@ -59,7 +59,7 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 8,
+    "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 3,
     "Doni Akbar": 2,
@@ -77,20 +77,76 @@
     "Rizal Bawazier": 20,
     "Ghufran": 2,
     "Ismail": 15,
-    "Eko Patrio": 1,
+    "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 19,
-    "Sartono": 6,
+    "Sartono": 4,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 17,
-    "Koperasi/UMKM": 74,
-    "Perdagangan": 39,
+    "Koperasi/UMKM": 73,
+    "Perdagangan": 37,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Menkop: Koperasi Tak Boleh hanya Jadi Tempat Pinjam Uang - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 13:20:20 GMT",
+      "link": "https://www.metrotvnews.com/read/ba4CPEgj-menkop-koperasi-tak-boleh-hanya-jadi-tempat-pinjam-uang"
+    },
+    {
+      "title": "Rabia Al Adawia Fasilitasi Bupati Konkep Bertemu Kemendag, Dorong Revitalisasi Pasar Rakyat - Sorot News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 12:50:11 GMT",
+      "link": "https://www.sorotnews.co.id/rabia-al-adawia-fasilitasi-bupati-konkep-bertemu-kemendag-dorong-revitalisasi-pasar-rakyat/"
+    },
+    {
+      "title": "Musda, Sekda Ponorogo Dorong Dekopinda Jadi Penggerak Kemajuan dan Daya Saing Koperasi - Pemerintah Kabupaten Ponorogo",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 12:24:32 GMT",
+      "link": "https://prokopim.ponorogo.go.id/2026/08/musda-sekda-ponorogo-dorong-dekopinda-jadi-penggerak-kemajuan-dan-daya-saing-koperasi/"
+    },
+    {
+      "title": "Anggia Erma Rini Tegaskan KDKMP Harus Berdampak Ekonomi, Bukan Hanya Kejar Kuantitas - Bela Rakyat",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 12:16:08 GMT",
+      "link": "https://belarakyat.com/anggia-erma-rini-tegaskan-kdkmp-harus-berdampak-ekonomi-bukan-hanya-kejar-kuantitas/"
+    },
+    {
+      "title": "Anggota DPR RI Dukung Pemerintah Sederhanakan BUMN Jadi 300 Perusahaan - Harian Bhirawa",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 12:08:21 GMT",
+      "link": "https://harianbhirawa.co.id/anggota-dpr-ri-dukung-pemerintah-sederhanakan-bumn-jadi-300-perusahaan/"
+    },
+    {
+      "title": "Eko Patrio: Kopdes Merah Putih Jangan Hanya Banyak, Harus Bikin Anggota Sejahtera - Bela Rakyat",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 12:01:07 GMT",
+      "link": "https://belarakyat.com/eko-patrio-kopdes-merah-putih-jangan-hanya-banyak-harus-bikin-anggota-sejahtera/"
+    },
+    {
+      "title": "54 Pengurus KDKMP dari 31 Provinsi Digembleng di Lamongan - beritajatim.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 30 Aug 2026 11:20:38 GMT",
+      "link": "https://beritajatim.com/54-pengurus-kdkmp-dari-31-provinsi-digembleng-di-lamongan"
+    },
+    {
+      "title": "Andre Rosiade Gelar Padel Youth Series, 200 Peserta Ikut Bertanding - JPNN.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 30 Aug 2026 11:09:37 GMT",
+      "link": "https://www.jpnn.com/news/andre-rosiade-gelar-padel-youth-series-200-peserta-ikut-bertanding"
+    },
     {
       "title": "Magang Pengurus KDKMP Jadi Bekal Bangun Koperasi Modern - RRI.co.id",
       "entity": "Kementerian Koperasi",
@@ -139,62 +195,6 @@
       "kind": "lembaga",
       "published": "Sun, 30 Aug 2026 04:02:40 GMT",
       "link": "https://kaltimkita.com/detailpost/kppu-dan-pemprov-kaltim-perkuat-pengawasan-kemitraan-sawit-pastikan-petani-terlindungi"
-    },
-    {
-      "title": "KPPU Makassar Internalisasi Persaingan Usaha Dalam Kebijakan Perdagangan Bapokting - Radar Sulbar",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 02:03:10 GMT",
-      "link": "https://radarsulbar.fajar.co.id/2026/08/30/kppu-makassar-internalisasi-persaingan-usaha-dalam-kebijakan-perdagangan-bapokting/"
-    },
-    {
-      "title": "Menkop Dorong Kain Tenun Toraja Naik Kelas Lewat Koperasi - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 02:01:00 GMT",
-      "link": "https://wartaekonomi.co.id/read631403/menkop-dorong-kain-tenun-toraja-naik-kelas-lewat-koperasi"
-    },
-    {
-      "title": "Ketua KY Lantik Mulyadi sebagai Sekretaris Jenderal, Siap Perkuat Integritas Lembaga - Monitor Pos",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 01:13:00 GMT",
-      "link": "https://www.monitorpos.net/2026/08/ketua-ky-lantik-mulyadi-sebagai.html"
-    },
-    {
-      "title": "Pemerintah Perketat Tata Kelola Ekspor Karet Alam SIR - Kompasiana.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 23:35:58 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a936cdeed64150a381411f9/pemerintah-perketat-tata-kelola-ekspor-karet-alam-sir"
-    },
-    {
-      "title": "Perhatian Besar Andre Rosiade untuk Kota Pariaman - Forum Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 21:18:39 GMT",
-      "link": "https://forumsumbar.com/berita/59114/perhatian-besar-andre-rosiade-untuk-kota-pariaman/"
-    },
-    {
-      "title": "Program Streamlining Danantara Tak Boleh Identik dengan PHK - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 19:38:00 GMT",
-      "link": "https://rmol.id/amp/2026/08/30/720040/program-%3Ci%3Estreamlining%3C/i%3E-danantara-tak-boleh-identik-dengan-phk-"
-    },
-    {
-      "title": "200 Peserta Ramaikan Andre Rosiade Padel Youth Series - Rmol.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 17:00:00 GMT",
-      "link": "https://rmol.id/olahraga/read/2026/08/30/720031/200-peserta-ramaikan-andre-rosiade-padel-youth-series"
-    },
-    {
-      "title": "Perhatian Besar Andre Rosiade untuk Kota Pariaman - Sumbarsatu",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 16:26:00 GMT",
-      "link": "https://sumbarsatu.com/berita/35438-perhatian-besar-andre-rosiade-untuk-kota-pariaman"
     }
   ]
 }
