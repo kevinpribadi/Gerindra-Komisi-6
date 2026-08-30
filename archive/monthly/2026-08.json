@@ -1,20 +1,20 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-29T22:19:33.311118",
+  "generated_at": "2026-08-30T01:01:49.571181",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 28,
-    "Golkar": 20,
+    "Golkar": 21,
     "NasDem": 1,
     "PKB": 18,
-    "PKS": 17,
+    "PKS": 15,
     "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 68,
-    "Golkar": 59,
+    "PDI-P": 69,
+    "Golkar": 60,
     "NasDem": 21,
     "PKB": 48,
     "PKS": 53,
@@ -39,8 +39,8 @@
     "dividen": 4,
     "umkm": 24,
     "koperasi": 51,
-    "ekspor": 11,
-    "perdagangan": 6,
+    "ekspor": 12,
+    "perdagangan": 7,
     "investasi": 15,
     "kartel-monopoli": 3,
     "merger-akuisisi": 5,
@@ -58,10 +58,10 @@
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 20,
-    "Budi Sulistyono": 1,
+    "Budi Sulistyono": 2,
     "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 2,
+    "Ahmad Labib": 3,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 5,
@@ -85,13 +85,27 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 17,
     "Koperasi/UMKM": 72,
-    "Perdagangan": 42,
+    "Perdagangan": 43,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah Perketat Tata Kelola Ekspor Karet Alam SIR - Kompasiana.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 23:35:58 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a936cdeed64150a381411f9/pemerintah-perketat-tata-kelola-ekspor-karet-alam-sir"
+    },
+    {
+      "title": "Perhatian Besar Andre Rosiade untuk Kota Pariaman - Forum Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 29 Aug 2026 21:18:39 GMT",
+      "link": "https://forumsumbar.com/berita/59114/perhatian-besar-andre-rosiade-untuk-kota-pariaman/"
+    },
     {
       "title": "Program Streamlining Danantara Tak Boleh Identik dengan PHK - Rmol.id",
       "entity": "Danantara",
@@ -112,6 +126,13 @@
       "kind": "anggota",
       "published": "Sat, 29 Aug 2026 16:26:00 GMT",
       "link": "https://sumbarsatu.com/berita/35438-perhatian-besar-andre-rosiade-untuk-kota-pariaman"
+    },
+    {
+      "title": "KPPU Dukung Peningkatan Harga Ubi Kayu dan Penguatan Industri Tapioka di Lampung - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 13:53:00 GMT",
+      "link": "https://rri.co.id/bandar-lampung/regional/2689496/kppu-dukung-peningkatan-harga-ubi-kayu-dan-penguatan-industri-tapioka-di-lampung"
     },
     {
       "title": "Andre Rosiade Gelar Padel Youth Series, 200 Peserta Ikut Bertanding - MetroTVNews.com",
@@ -149,6 +170,13 @@
       "link": "https://timesindonesia.co.id/read/news/606100/nasim-khan-dukung-perampingan-bumn-minta-efisiensi-tapi-tak-korbankan-pekerja"
     },
     {
+      "title": "Menteri Perdagangan Dorong Furnitur Jati Banyuwangi Naik Kelas ke Pasar Dunia - spektroom.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 29 Aug 2026 12:32:20 GMT",
+      "link": "https://spektroom.co.id/menteri-perdagangan-dorong-furnitur-jati-banyuwangi-naik-kelas-ke-pasar-dunia/"
+    },
+    {
       "title": "Soroti UU Perkoperasian 1992, Nurdin Halid: KDKMP Perlu Ekosistem Bisnis Berbasis Teknologi - DPR RI",
       "entity": "Nurdin Halid",
       "kind": "anggota",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Sat, 29 Aug 2026 11:12:00 GMT",
       "link": "https://kaltengdaily.com/daerah/pemkab-mura-perkuat-sdm-kemetrologian-bersama-kemendag-ri/"
-    },
-    {
-      "title": "Sidak Pasar Rogojampi, Menteri Perdagangan Sebut Harga Kebutuhan Pokok Relatif Stabil - BWI24JAM",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 10:06:24 GMT",
-      "link": "https://bwi24jam.co.id/sidak-pasar-rogojampi-menteri-perdagangan-sebut-harga-kebutuhan-pokok-relatif-stabil"
-    },
-    {
-      "title": "Komisi VI Ingatkan KDKMP Jangan Sekadar Kejar Jumlah, Bisnis dan Tata Kelola Harus Sehat - sudut kota",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 09:44:46 GMT",
-      "link": "https://sudutkota.id/komisi-vi-ingatkan-kdkmp-jangan-sekadar-kejar-jumlah-bisnis-dan-tata-kelola-harus-sehat/"
-    },
-    {
-      "title": "Menteri Perdagangan Budi Santoso Cek Harga dan Stok Bahan Pokok di Pasar Rogojampi Banyuwangi - Ngopibareng.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 29 Aug 2026 09:04:00 GMT",
-      "link": "https://www.ngopibareng.id/read/menteri-perdagangan-budi-santoso-cek-harga-dan-stok-bahan-pokok-di-pasar-rogojampi-banyuwangi"
-    },
-    {
-      "title": "Golkar Siap Komunikasi Lintas Fraksi, Kawal RUU Perampasan Aset Sampai Ketok Palu - tangselpos.id",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Sat, 29 Aug 2026 08:43:53 GMT",
-      "link": "https://tangselpos.id/detail/53644/golkar-siap-komunikasi-lintas-fraksi-kawal-ruu-perampasan-aset-sampai-ketok-palu"
     }
   ]
 }
