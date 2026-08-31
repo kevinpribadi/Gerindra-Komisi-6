@@ -1,21 +1,21 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-31T03:34:04.845202",
+  "generated_at": "2026-08-31T10:30:06.060506",
   "party_counts_7d": {
-    "Gerindra": 33,
-    "PDI-P": 28,
-    "Golkar": 23,
+    "Gerindra": 35,
+    "PDI-P": 31,
+    "Golkar": 24,
     "NasDem": 1,
-    "PKB": 21,
+    "PKB": 22,
     "PKS": 5,
     "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 67,
-    "PDI-P": 69,
-    "Golkar": 62,
-    "NasDem": 21,
+    "Gerindra": 68,
+    "PDI-P": 70,
+    "Golkar": 63,
+    "NasDem": 20,
     "PKB": 47,
     "PKS": 53,
     "PAN": 19,
@@ -34,20 +34,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "investasi": 16,
-    "danantara": 39,
-    "dividen": 5,
-    "umkm": 22,
-    "koperasi": 54,
-    "ekspor": 10,
-    "perdagangan": 8,
+    "bumn": 67,
+    "investasi": 20,
+    "danantara": 36,
+    "dividen": 4,
+    "umkm": 21,
+    "koperasi": 55,
+    "perdagangan": 7,
+    "ekspor": 11,
+    "merger-akuisisi": 12,
     "kartel-monopoli": 4,
-    "merger-akuisisi": 5,
     "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
+    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
     "Mulan Jameela": 1,
     "Kawendra Lukistian": 20,
@@ -56,18 +57,18 @@
     "Mufti Anam": 2,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 1,
+    "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 11,
+    "Nurdin Halid": 12,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 3,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 17,
-    "Rachmat Gobel": 5,
+    "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
@@ -87,115 +88,115 @@
   "early_warning_counts": {
     "Hukum/Audit": 18,
     "Koperasi/UMKM": 73,
-    "Perdagangan": 34,
-    "Kinerja BUMN": 17,
+    "Perdagangan": 36,
+    "Kinerja BUMN": 15,
     "Konflik Publik": 2
   },
   "top_headlines": [
     {
-      "title": "FSP BUMN-IRA Dukung Rekrutmen Direksi BUMN dari Internal, Minta Dua Direksi Asing Garuda Dievaluasi - JPNN.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 03:26:42 GMT",
-      "link": "https://www.jpnn.com/news/fsp-bumn-ira-dukung-rekrutmen-direksi-bumn-dari-internal-minta-dua-direksi-asing-garuda-dievaluasi"
-    },
-    {
-      "title": "Kemendag Buka Pendaftaran Harbolnas 2026 untuk Brand Lokal, Segera Daftar! - UKMINDONESIA.ID",
+      "title": "Pemerintah Targetkan Perjanjian Dagang I GCC FTA Selesai Akhir 2026 - SuaraGarut.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 02:30:38 GMT",
-      "link": "https://ukmindonesia.id/baca-deskripsi-program/kemendag-buka-pendaftaran-harbolnas-2026-untuk-brand-lokal-segera-daftar"
+      "published": "Mon, 31 Aug 2026 10:13:15 GMT",
+      "link": "https://suaragarut.id/pemerintah-targetkan-perjanjian-dagang-igcc-fta"
     },
     {
-      "title": "Keuntungan BUMN Dikelola Danantara, Negara Bakal Terima Rp120 Triliun - Indopolitika.com",
+      "title": "Ida Nurlaela Kepada Menteri Perdagangan, Jangan Sampai Pasar Rakyat Terpinggirkan - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 10:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-kepada-menteri-perdagangan-jangan-sampai-pasar-rakyat-terpinggirkan-b2pYLZbhC3"
+    },
+    {
+      "title": "DPR Pastikan Danantara Jadi Investor Awal Pusat Finansial RI - Bloomberg Technoz",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 02:13:00 GMT",
-      "link": "https://indopolitika.com/keuntungan-bumn-dikelola-danantara-negara-bakal-terima-rp120-triliun/"
+      "published": "Mon, 31 Aug 2026 09:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/120031/dpr-pastikan-danantara-jadi-investor-awal-pusat-finansial-ri"
     },
     {
-      "title": "Nikita Mirzani Menang Banding Perkara Perdata, Rieke Diah Pitaloka Minta Kasus Pidana Lawan Reza Gladys Diuji Ulang - Grid.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 02:09:00 GMT",
-      "link": "https://www.grid.id/read/044408619/nikita-mirzani-menang-banding-perkara-perdata-rieke-diah-pitaloka-minta-kasus-pidana-lawan-reza-gladys-diuji-ulang"
+      "title": "DWP Kemenkop Bangun Budaya Peduli lewat Donor Darah - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 09:26:21 GMT",
+      "link": "https://rri.co.id/nasional/2695591/dwp-kemenkop-bangun-budaya-peduli-lewat-donor-darah"
     },
     {
-      "title": "Andre Rosiade Raih Anugerah Figur Akselerator Kemajuan detikSumatera Awards 2026 - BiNews.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 01:58:27 GMT",
-      "link": "https://binews.id/berita/26195/andre-rosiade-raih-anugerah-figur-akselerator-kemajuan-detiksumatera-awards-2026.html"
+      "title": "Lokasi Koperasi Merah Putih: Hasil Musyawarah Desa, Harus Dibaca dengan Konteks Lokal - Minews ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 08:57:18 GMT",
+      "link": "https://minews.id/cuitan-mi/lokasi-koperasi-merah-putih-hasil-musyawarah-desa-harus-dibaca-dengan-konteks-lokal"
     },
     {
-      "title": "Gelar Turnamen Padel, Andre Rosiade Dorong Padel Jadi Olahraga Rakyat - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 01:25:02 GMT",
-      "link": "https://news.detik.com/berita/d-8641275/gelar-turnamen-padel-andre-rosiade-dorong-padel-jadi-olahraga-rakyat"
-    },
-    {
-      "title": "Nurdin Halid Dorong Koperasi Desa Terintegrasi dengan BUMN dan Swasta - SuaraGarut.ID",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 01:19:21 GMT",
-      "link": "https://suaragarut.id/nurdin-halid-dorong-koperasi-terintegrasi"
-    },
-    {
-      "title": "FSP BUMN-IRA minta BP BUMN dan Danantara evaluasi dua warga negara asing sebagai direksi di PT Garuda - trawlmediaindonesia.id",
+      "title": "Merger PTPP & ADHI Dipacu Beres Tahun Ini - investor.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 01:12:00 GMT",
-      "link": "https://www.trawlmediaindonesia.id/2026/08/fsp-bumn-ira-minta-bp-bumn-dan.html"
+      "published": "Mon, 31 Aug 2026 08:53:52 GMT",
+      "link": "https://investor.id/market/452272/merger-ptpp-adhi-dipacu-beres-tahun-ini"
     },
     {
-      "title": "Pemerintah Siap Audit ADCP, Termasuk Jajaran Direksi Lama dan Baru - Kompas.com",
+      "title": "BPOM Perketat Batas Migrasi BPA pada Kemasan Pangan: 12 Kali Lebih Rendah - MetroTVNews.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 08:40:16 GMT",
+      "link": "https://www.metrotvnews.com/read/Ky6C5DOV-bpom-perketat-batas-migrasi-bpa-pada-kemasan-pangan-12-kali-lebih-rendah"
+    },
+    {
+      "title": "Bukan Langka, Nasim Khan Ungkap Penyebab Pasokan LPG 3 Kg di Banyuwangi dan Situbondo Terganggu - Penarakyat.Com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 08:27:02 GMT",
+      "link": "https://penarakyat.com/bukan-langka-nasim-khan-ungkap-penyebab-pasokan-lpg-3-kg-di-banyuwangi-dan-situbondo-terganggu/"
+    },
+    {
+      "title": "Ada Opsi Pindah Unit untuk Konsumen Apartemen LRT City yang Mangkrak - detikcom",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 08:17:49 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8641902/ada-opsi-pindah-unit-untuk-konsumen-apartemen-lrt-city-yang-mangkrak"
+    },
+    {
+      "title": "Perkuat Perdagangan di Konkep, Sinergi DPD RI, Pemkab, dan Kemendag Dorong Akses Tol Laut hingga Pasar Rakyat - Radar Kendari",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 08:07:04 GMT",
+      "link": "https://radarkendari.id/perkuat-perdagangan-di-konkep-sinergi-dpd-ri-pemkab-dan-kemendag-dorong-akses-tol-laut-hingga-pasar-rakyat/"
+    },
+    {
+      "title": "DPR Panggil BI, Purbaya, OJK hingga Danantara, Soroti Investasi Rp1.200 Triliun untuk Kejar Pertumbuhan Ekonomi 6% - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 07:39:00 GMT",
+      "link": "https://wartaekonomi.co.id/read631596/dpr-panggil-bi-purbaya-ojk-hingga-danantara-soroti-investasi-rp1200-triliun-untuk-kejar-pertumbuhan-ekonomi-6"
+    },
+    {
+      "title": "Soal Isu Merger MTEL dengan TBIG, Danantara Buka Suara - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 07:35:37 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260831131538-17-763643/soal-isu-merger-mtel-dengan-tbig-danantara-buka-suara/amp"
+    },
+    {
+      "title": "BP Batam transformasi layanan dongkrak investasi Batam - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 07:32:50 GMT",
+      "link": "https://kepri.antaranews.com/berita/266385/bp-batam-transformasi-layanan-dongkrak-investasi-batam"
+    },
+    {
+      "title": "Danantara Percepat Merger BUMN Karya, PT PP dan Adhi Karya Digabung Tahun Ini - kumparan.com - Kumparan.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 23:00:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/08/31/060000021/pemerintah-siap-audit-adcp-termasuk-jajaran-direksi-lama-dan-baru"
+      "published": "Mon, 31 Aug 2026 07:30:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/danantara-percepat-merger-bumn-karya-pt-pp-dan-adhi-karya-digabung-tahun-ini-285mnXVZGsi"
     },
     {
-      "title": "Danantara dan Rencana Pengambilalihan Sritex - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 21:16:57 GMT",
-      "link": "https://insight.kontan.co.id/news/danantara-dan-rencana-pengambilalihan-sritex"
-    },
-    {
-      "title": "KPPU Perluas Pendalaman Harga dan Pasokan Semen di Sumatera Utara - - Telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 18:56:35 GMT",
-      "link": "https://telusur.co.id/detail/kppu-perluas-pendalaman-harga-dan-pasokan-semen-di-sumatera-utara"
-    },
-    {
-      "title": "Kemenkeu Siap Tampung Rp 120 T Dividen Danantara Tahun Ini - JPNN.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 15:01:00 GMT",
-      "link": "https://www.jpnn.com/news/kemenkeu-siap-tampung-rp-120-t-dividen-danantara-tahun-ini?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
-    },
-    {
-      "title": "Kesuma Kelakan Ingatkan Pemerintah Tidak Seragamkan Model Bisnis Koperasi Desa Merah Putih - gesuri.id",
-      "entity": "I Gusti Ngurah Kesuma Kelakan",
+      "title": "Khilmi Dorong KDKMP Miliki Model Bisnis Berbasis Potensi Desa - fraksi gerindra dpr-ri",
+      "entity": "Khilmi",
       "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 15:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/kesuma-kelakan-ingatkan-pemerintah-tidak-seragamkan-model-bisnis-koperasi-desa-merah-putih-b2pYJZbhAf"
-    },
-    {
-      "title": "DPR: KDMP harus Jadi Ekosistem Ekonomi Gotong Royong Terintegrasi - Media Indonesia",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 14:58:57 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/927745/dpr-kdmp-harus-jadi-ekosistem-ekonomi-gotong-royong-terintegrasi"
-    },
-    {
-      "title": "Dekopinda Cianjur Peringati Harkopnas ke-79, Adakan Jalan Sehat Hingga Beri Penghargaan Para Tokoh Koperasi - Cianjur Update",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 14:55:08 GMT",
-      "link": "https://www.cianjurupdate.com/dekopinda-cianjur-peringati-harkopnas-ke-79-adakan-jalan-sehat-hingga-beri-penghargaan-para-tokoh-koperasi"
+      "published": "Mon, 31 Aug 2026 07:11:50 GMT",
+      "link": "https://www.fraksigerindra.id/khilmi-dorong-kdkmp-miliki-model-bisnis-berbasis-potensi-desa/"
     }
   ]
 }
