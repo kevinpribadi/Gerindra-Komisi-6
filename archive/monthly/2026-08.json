@@ -1,12 +1,12 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-31T10:30:06.060506",
+  "generated_at": "2026-08-31T17:51:53.034614",
   "party_counts_7d": {
-    "Gerindra": 35,
+    "Gerindra": 36,
     "PDI-P": 31,
-    "Golkar": 24,
+    "Golkar": 27,
     "NasDem": 1,
-    "PKB": 22,
+    "PKB": 23,
     "PKS": 5,
     "PAN": 3,
     "Demokrat": 1
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 70,
-    "Golkar": 63,
+    "Golkar": 67,
     "NasDem": 20,
     "PKB": 47,
     "PKS": 53,
@@ -29,20 +29,20 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 9,
+    "BPK Sabang": 10,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
-    "investasi": 20,
-    "danantara": 36,
+    "bumn": 66,
+    "investasi": 24,
+    "danantara": 39,
     "dividen": 4,
-    "umkm": 21,
-    "koperasi": 55,
-    "perdagangan": 7,
+    "umkm": 22,
+    "koperasi": 56,
     "ekspor": 11,
-    "merger-akuisisi": 12,
+    "perdagangan": 7,
+    "merger-akuisisi": 11,
     "kartel-monopoli": 4,
     "ipo": 1
   },
@@ -61,13 +61,13 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 12,
+    "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 3,
+    "Ahmad Labib": 4,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 5,
-    "Muhammad Sarmuji": 17,
+    "Muhammad Sarmuji": 18,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
@@ -87,116 +87,116 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 73,
-    "Perdagangan": 36,
+    "Koperasi/UMKM": 75,
+    "Perdagangan": 35,
     "Kinerja BUMN": 15,
-    "Konflik Publik": 2
+    "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Pemerintah Targetkan Perjanjian Dagang I GCC FTA Selesai Akhir 2026 - SuaraGarut.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 10:13:15 GMT",
-      "link": "https://suaragarut.id/pemerintah-targetkan-perjanjian-dagang-igcc-fta"
-    },
-    {
-      "title": "Ida Nurlaela Kepada Menteri Perdagangan, Jangan Sampai Pasar Rakyat Terpinggirkan - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 10:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/ida-nurlaela-kepada-menteri-perdagangan-jangan-sampai-pasar-rakyat-terpinggirkan-b2pYLZbhC3"
-    },
-    {
-      "title": "DPR Pastikan Danantara Jadi Investor Awal Pusat Finansial RI - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 09:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/120031/dpr-pastikan-danantara-jadi-investor-awal-pusat-finansial-ri"
-    },
-    {
-      "title": "DWP Kemenkop Bangun Budaya Peduli lewat Donor Darah - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 09:26:21 GMT",
-      "link": "https://rri.co.id/nasional/2695591/dwp-kemenkop-bangun-budaya-peduli-lewat-donor-darah"
-    },
-    {
-      "title": "Lokasi Koperasi Merah Putih: Hasil Musyawarah Desa, Harus Dibaca dengan Konteks Lokal - Minews ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 08:57:18 GMT",
-      "link": "https://minews.id/cuitan-mi/lokasi-koperasi-merah-putih-hasil-musyawarah-desa-harus-dibaca-dengan-konteks-lokal"
-    },
-    {
-      "title": "Merger PTPP & ADHI Dipacu Beres Tahun Ini - investor.id",
+      "title": "BP BUMN dan Danantara Dorong Pembangunan Sistem SDM yang Terintegrasi - Iconomics",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 08:53:52 GMT",
-      "link": "https://investor.id/market/452272/merger-ptpp-adhi-dipacu-beres-tahun-ini"
+      "published": "Mon, 31 Aug 2026 17:42:35 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dan-danantara-dorong-pembangunan-sistem-sdm-yang-terintegrasi/"
     },
     {
-      "title": "BPOM Perketat Batas Migrasi BPA pada Kemasan Pangan: 12 Kali Lebih Rendah - MetroTVNews.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 08:40:16 GMT",
-      "link": "https://www.metrotvnews.com/read/Ky6C5DOV-bpom-perketat-batas-migrasi-bpa-pada-kemasan-pangan-12-kali-lebih-rendah"
-    },
-    {
-      "title": "Bukan Langka, Nasim Khan Ungkap Penyebab Pasokan LPG 3 Kg di Banyuwangi dan Situbondo Terganggu - Penarakyat.Com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 08:27:02 GMT",
-      "link": "https://penarakyat.com/bukan-langka-nasim-khan-ungkap-penyebab-pasokan-lpg-3-kg-di-banyuwangi-dan-situbondo-terganggu/"
-    },
-    {
-      "title": "Ada Opsi Pindah Unit untuk Konsumen Apartemen LRT City yang Mangkrak - detikcom",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 08:17:49 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8641902/ada-opsi-pindah-unit-untuk-konsumen-apartemen-lrt-city-yang-mangkrak"
-    },
-    {
-      "title": "Perkuat Perdagangan di Konkep, Sinergi DPD RI, Pemkab, dan Kemendag Dorong Akses Tol Laut hingga Pasar Rakyat - Radar Kendari",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 08:07:04 GMT",
-      "link": "https://radarkendari.id/perkuat-perdagangan-di-konkep-sinergi-dpd-ri-pemkab-dan-kemendag-dorong-akses-tol-laut-hingga-pasar-rakyat/"
-    },
-    {
-      "title": "DPR Panggil BI, Purbaya, OJK hingga Danantara, Soroti Investasi Rp1.200 Triliun untuk Kejar Pertumbuhan Ekonomi 6% - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 07:39:00 GMT",
-      "link": "https://wartaekonomi.co.id/read631596/dpr-panggil-bi-purbaya-ojk-hingga-danantara-soroti-investasi-rp1200-triliun-untuk-kejar-pertumbuhan-ekonomi-6"
-    },
-    {
-      "title": "Soal Isu Merger MTEL dengan TBIG, Danantara Buka Suara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 07:35:37 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260831131538-17-763643/soal-isu-merger-mtel-dengan-tbig-danantara-buka-suara/amp"
-    },
-    {
-      "title": "BP Batam transformasi layanan dongkrak investasi Batam - ANTARA News Kepri",
+      "title": "Amsakar - Li Claudia Fokus Benahi Penataan dan Pengembangan Kawasan: Investasi Melesat, Ekonomi Tumbuh - centralnews.id",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 07:32:50 GMT",
-      "link": "https://kepri.antaranews.com/berita/266385/bp-batam-transformasi-layanan-dongkrak-investasi-batam"
+      "published": "Mon, 31 Aug 2026 16:49:58 GMT",
+      "link": "https://centralnews.id/amsakar-li-claudia-fokus-benahi-penataan-dan-pengembangan-kawasan-investasi-melesat-ekonomi-tumbuh/"
     },
     {
-      "title": "Danantara Percepat Merger BUMN Karya, PT PP dan Adhi Karya Digabung Tahun Ini - kumparan.com - Kumparan.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Keuchik Balohan Minta BPKS Segera Benahi Drainase Pelabuhan - RRI.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 07:30:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/danantara-percepat-merger-bumn-karya-pt-pp-dan-adhi-karya-digabung-tahun-ini-285mnXVZGsi"
+      "published": "Mon, 31 Aug 2026 16:33:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2697952/keuchik-balohan-minta-bpks-segera-benahi-drainase-pelabuhan"
     },
     {
-      "title": "Khilmi Dorong KDKMP Miliki Model Bisnis Berbasis Potensi Desa - fraksi gerindra dpr-ri",
-      "entity": "Khilmi",
+      "title": "Permintaan Meningkat, Harga Patokan Ekspor dan Referensi Emas Naik di Periode Pertama September 2026 - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:34:04 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5463206/permintaan-meningkat-harga-patokan-ekspor-dan-referensi-emas-naik-di-periode-pertama-september-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5463206"
+    },
+    {
+      "title": "Christiany Paruntu Dorong Produk Daerah Tembus Pasar Ekspor Global - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:14:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/324078/christiany-paruntu-dorong-produk-daerah-tembus-pasar-ekspor-global"
+    },
+    {
+      "title": "Malam Apresiasi Koperasi Awards 2026 - 20detik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 14:38:00 GMT",
+      "link": "https://20.detik.com/program-spesial/20260827-260827042/malam-apresiasi-koperasi-awards-2026"
+    },
+    {
+      "title": "Emas Makin Berkilau, HPE September Naik 7,87 Persen! - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 14:31:11 GMT",
+      "link": "https://indoposco.id/2026/08/31/emas-makin-berkilau-hpe-september-naik-787-persen/"
+    },
+    {
+      "title": "Polemik Desil, PDIP Desak Pemerintah Evaluasi Metodologi Data Sensus - rmol.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 07:11:50 GMT",
-      "link": "https://www.fraksigerindra.id/khilmi-dorong-kdkmp-miliki-model-bisnis-berbasis-potensi-desa/"
+      "published": "Mon, 31 Aug 2026 14:28:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/08/31/720222/polemik-desil-pdip-desak-pemerintah-evaluasi-metodologi-data-sensus"
+    },
+    {
+      "title": "Mendag Ajak UMKM Manfaatkan Program Pengembangan Ekspor - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 14:20:19 GMT",
+      "link": "https://www.niaga.asia/mendag-ajak-umkm-manfaatkan-program-pengembangan-ekspor/"
+    },
+    {
+      "title": "DPR RI Imbau Masyarakat Tak Panik dengan LPG - RRI.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 14:17:01 GMT",
+      "link": "https://rri.co.id/jember/regional/2695991/dpr-ri-imbau-masyarakat-tak-panik-dengan-lpg"
+    },
+    {
+      "title": "Komisi XI DPR: Setoran Dividen Danantara ke APBN Perlu Disesuaikan dengan Kebutuhan Investasi - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 13:51:37 GMT",
+      "link": "https://investor.id/business/452316/komisi-xi-dpr-setoran-dividen-danantara-ke-apbn-perlu-disesuaikan-dengan-kebutuhan-investasi"
+    },
+    {
+      "title": "Tok! Gus Kikin dan Kiai Miftachul Pimpin PBNU, Golkar Titip Pesan Jaga Wajah Islam Indonesia - Inilah.com",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 13:49:00 GMT",
+      "link": "https://www.inilah.com/tok-gus-kikin-dan-kiai-miftachul-pimpin-pbnu-golkar-titip-pesan-jaga-wajah-islam-indonesia"
+    },
+    {
+      "title": "BP Batam Sebut, Investasi Semester I 2026 Capai Rp29,89 Triliun - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 13:44:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2697291/bp-batam-sebut-investasi-semester-i-2026-capai-rp2989-triliun"
+    },
+    {
+      "title": "Lokasi Koperasi Merah Putih: Hasil Musyawarah Desa, Harus Dibaca dengan Konteks Lokal - suaradewata.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 13:00:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217196/lokasi-koperasi-merah-putih-hasil-musyawarah-desa-harus-dibaca-dengan-konteks-lokal%7D"
+    },
+    {
+      "title": "Polemik Data Desil, Rieke Desak Pemerintah Keluarkan Surpres SDI - politikindonesia.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 12:16:20 GMT",
+      "link": "https://www.politikindonesia.id/polemik-data-desil-rieke-desak-pemerintah-keluarkan-surpres-sdi"
     }
   ]
 }
