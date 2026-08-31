@@ -1,24 +1,24 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-30T23:08:58.586088",
+  "generated_at": "2026-08-31T03:34:04.845202",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 28,
-    "Golkar": 22,
+    "Golkar": 23,
     "NasDem": 1,
     "PKB": 21,
     "PKS": 5,
     "PAN": 3,
-    "Demokrat": 2
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 69,
-    "Golkar": 61,
+    "Golkar": 62,
     "NasDem": 21,
     "PKB": 47,
     "PKS": 53,
-    "PAN": 21,
+    "PAN": 19,
     "Demokrat": 12
   },
   "agency_counts_30d": {
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
+    "bumn": 69,
     "investasi": 16,
-    "danantara": 40,
+    "danantara": 39,
     "dividen": 5,
     "umkm": 22,
     "koperasi": 54,
@@ -60,7 +60,7 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 10,
+    "Nurdin Halid": 11,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 3,
     "Doni Akbar": 2,
@@ -80,18 +80,74 @@
     "Ismail": 15,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 18,
+    "Iskandar": 16,
     "Sartono": 4,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
     "Koperasi/UMKM": 73,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Kinerja BUMN": 17,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "FSP BUMN-IRA Dukung Rekrutmen Direksi BUMN dari Internal, Minta Dua Direksi Asing Garuda Dievaluasi - JPNN.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 03:26:42 GMT",
+      "link": "https://www.jpnn.com/news/fsp-bumn-ira-dukung-rekrutmen-direksi-bumn-dari-internal-minta-dua-direksi-asing-garuda-dievaluasi"
+    },
+    {
+      "title": "Kemendag Buka Pendaftaran Harbolnas 2026 untuk Brand Lokal, Segera Daftar! - UKMINDONESIA.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 02:30:38 GMT",
+      "link": "https://ukmindonesia.id/baca-deskripsi-program/kemendag-buka-pendaftaran-harbolnas-2026-untuk-brand-lokal-segera-daftar"
+    },
+    {
+      "title": "Keuntungan BUMN Dikelola Danantara, Negara Bakal Terima Rp120 Triliun - Indopolitika.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 02:13:00 GMT",
+      "link": "https://indopolitika.com/keuntungan-bumn-dikelola-danantara-negara-bakal-terima-rp120-triliun/"
+    },
+    {
+      "title": "Nikita Mirzani Menang Banding Perkara Perdata, Rieke Diah Pitaloka Minta Kasus Pidana Lawan Reza Gladys Diuji Ulang - Grid.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 02:09:00 GMT",
+      "link": "https://www.grid.id/read/044408619/nikita-mirzani-menang-banding-perkara-perdata-rieke-diah-pitaloka-minta-kasus-pidana-lawan-reza-gladys-diuji-ulang"
+    },
+    {
+      "title": "Andre Rosiade Raih Anugerah Figur Akselerator Kemajuan detikSumatera Awards 2026 - BiNews.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 01:58:27 GMT",
+      "link": "https://binews.id/berita/26195/andre-rosiade-raih-anugerah-figur-akselerator-kemajuan-detiksumatera-awards-2026.html"
+    },
+    {
+      "title": "Gelar Turnamen Padel, Andre Rosiade Dorong Padel Jadi Olahraga Rakyat - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 01:25:02 GMT",
+      "link": "https://news.detik.com/berita/d-8641275/gelar-turnamen-padel-andre-rosiade-dorong-padel-jadi-olahraga-rakyat"
+    },
+    {
+      "title": "Nurdin Halid Dorong Koperasi Desa Terintegrasi dengan BUMN dan Swasta - SuaraGarut.ID",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Mon, 31 Aug 2026 01:19:21 GMT",
+      "link": "https://suaragarut.id/nurdin-halid-dorong-koperasi-terintegrasi"
+    },
+    {
+      "title": "FSP BUMN-IRA minta BP BUMN dan Danantara evaluasi dua warga negara asing sebagai direksi di PT Garuda - trawlmediaindonesia.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 01:12:00 GMT",
+      "link": "https://www.trawlmediaindonesia.id/2026/08/fsp-bumn-ira-minta-bp-bumn-dan.html"
+    },
     {
       "title": "Pemerintah Siap Audit ADCP, Termasuk Jajaran Direksi Lama dan Baru - Kompas.com",
       "entity": "Badan Pengaturan BUMN",
@@ -140,62 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 30 Aug 2026 14:55:08 GMT",
       "link": "https://www.cianjurupdate.com/dekopinda-cianjur-peringati-harkopnas-ke-79-adakan-jalan-sehat-hingga-beri-penghargaan-para-tokoh-koperasi"
-    },
-    {
-      "title": "Kemenkop minta pengurus KDKMP terapkan hasil magang di daerah - Antara News jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 14:15:00 GMT",
-      "link": "https://jatim.antaranews.com/berita/1094468/kemenkop-minta-pengurus-kdkmp-terapkan-hasil-magang-di-daerah"
-    },
-    {
-      "title": "Menteri Koperasi Ferry Juliantono Tegaskan Koperasi Jangan Hanya Jadi Tempat Pinjam Uang - VOI.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 13:30:00 GMT",
-      "link": "https://voi.id/berita/591902/menteri-koperasi-ferry-juliantono-tegaskan-koperasi-jangan-hanya-jadi-tempat-pinjam-uang"
-    },
-    {
-      "title": "Menkop: Koperasi Tak Boleh hanya Jadi Tempat Pinjam Uang - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 13:20:20 GMT",
-      "link": "https://www.metrotvnews.com/read/ba4CPEgj-menkop-koperasi-tak-boleh-hanya-jadi-tempat-pinjam-uang"
-    },
-    {
-      "title": "Rabia Al Adawia Fasilitasi Bupati Konkep Bertemu Kemendag, Dorong Revitalisasi Pasar Rakyat - Sorot News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 12:50:11 GMT",
-      "link": "https://www.sorotnews.co.id/rabia-al-adawia-fasilitasi-bupati-konkep-bertemu-kemendag-dorong-revitalisasi-pasar-rakyat/"
-    },
-    {
-      "title": "DPRD Jember Soroti Ratusan Koperasi Baru Terkait Program MBG - beritajatim.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 12:44:23 GMT",
-      "link": "https://beritajatim.com/dprd-jember-soroti-ratusan-koperasi-baru-terkait-program-mbg"
-    },
-    {
-      "title": "Musda, Sekda Ponorogo Dorong Dekopinda Jadi Penggerak Kemajuan dan Daya Saing Koperasi - Pemerintah Kabupaten Ponorogo",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 12:24:32 GMT",
-      "link": "https://prokopim.ponorogo.go.id/2026/08/musda-sekda-ponorogo-dorong-dekopinda-jadi-penggerak-kemajuan-dan-daya-saing-koperasi/"
-    },
-    {
-      "title": "Anggia Erma Rini Tegaskan KDKMP Harus Berdampak Ekonomi, Bukan Hanya Kejar Kuantitas - Bela Rakyat",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sun, 30 Aug 2026 12:16:08 GMT",
-      "link": "https://belarakyat.com/anggia-erma-rini-tegaskan-kdkmp-harus-berdampak-ekonomi-bukan-hanya-kejar-kuantitas/"
-    },
-    {
-      "title": "Ragam Properti Rp120 Juta hingga Rp3 Miliar di Danantara Housing Expo - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 30 Aug 2026 12:12:58 GMT",
-      "link": "https://www.metrotvnews.com/read/bw6C2nw4-ragam-properti-rp120-juta-hingga-rp3-miliar-di-danantara-housing-expo"
     }
   ]
 }
