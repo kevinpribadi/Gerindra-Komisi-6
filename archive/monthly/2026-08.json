@@ -1,6 +1,6 @@
 {
   "period": "2026-08",
-  "generated_at": "2026-08-31T17:51:53.034614",
+  "generated_at": "2026-08-31T22:25:29.685227",
   "party_counts_7d": {
     "Gerindra": 36,
     "PDI-P": 31,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 66,
-    "investasi": 24,
+    "investasi": 25,
     "danantara": 39,
-    "dividen": 4,
-    "umkm": 22,
-    "koperasi": 56,
+    "dividen": 5,
+    "umkm": 21,
+    "koperasi": 54,
     "ekspor": 11,
     "perdagangan": 7,
     "merger-akuisisi": 11,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 75,
-    "Perdagangan": 35,
+    "Koperasi/UMKM": 72,
+    "Perdagangan": 34,
     "Kinerja BUMN": 15,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Jangan Sampai Pindar Kena Sanksi Dua Kali - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 22:10:00 GMT",
+      "link": "https://www.cnbcindonesia.com/opini/20260829215151-14-763358/jangan-sampai-pindar-kena-sanksi-dua-kali"
+    },
     {
       "title": "BP BUMN dan Danantara Dorong Pembangunan Sistem SDM yang Terintegrasi - Iconomics",
       "entity": "Badan Pengaturan BUMN",
@@ -122,11 +129,32 @@
       "link": "https://m.rctiplus.com/news/detail/terkini/5463206/permintaan-meningkat-harga-patokan-ekspor-dan-referensi-emas-naik-di-periode-pertama-september-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5463206"
     },
     {
+      "title": "Menkop Jadikan KSP Balo’ta Penggerak Ekonomi Kerakyatan - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:19:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tsobmct-menkop-jadikan-ksp-balota-penggerak-ekonomi-kerakyatan"
+    },
+    {
       "title": "Christiany Paruntu Dorong Produk Daerah Tembus Pasar Ekspor Global - RM.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 31 Aug 2026 15:14:00 GMT",
       "link": "https://rm.id/baca-berita/parlemen/324078/christiany-paruntu-dorong-produk-daerah-tembus-pasar-ekspor-global"
+    },
+    {
+      "title": "INKOPPAS-Kemenkop UKM Bahas Digitalisasi Pasar hingga Kerja Sama dengan KDMP - INAnews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:07:11 GMT",
+      "link": "https://www.inanews.co.id/2026/08/inkoppas-kemenkop-ukm-bahas-digitalisasi-pasar-hingga-kerja-sama-dengan-kdmp/"
+    },
+    {
+      "title": "Kemendag Naikkan Harga Patokan Ekspor dan Referensi Emas - suaragarut.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 14:44:17 GMT",
+      "link": "https://suaragarut.id/kemendag-naikkan-harga-patokan-ekspor-emas"
     },
     {
       "title": "Malam Apresiasi Koperasi Awards 2026 - 20detik",
@@ -169,34 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 31 Aug 2026 13:51:37 GMT",
       "link": "https://investor.id/business/452316/komisi-xi-dpr-setoran-dividen-danantara-ke-apbn-perlu-disesuaikan-dengan-kebutuhan-investasi"
-    },
-    {
-      "title": "Tok! Gus Kikin dan Kiai Miftachul Pimpin PBNU, Golkar Titip Pesan Jaga Wajah Islam Indonesia - Inilah.com",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 13:49:00 GMT",
-      "link": "https://www.inilah.com/tok-gus-kikin-dan-kiai-miftachul-pimpin-pbnu-golkar-titip-pesan-jaga-wajah-islam-indonesia"
-    },
-    {
-      "title": "BP Batam Sebut, Investasi Semester I 2026 Capai Rp29,89 Triliun - RRI.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 13:44:00 GMT",
-      "link": "https://rri.co.id/batam/regional/2697291/bp-batam-sebut-investasi-semester-i-2026-capai-rp2989-triliun"
-    },
-    {
-      "title": "Lokasi Koperasi Merah Putih: Hasil Musyawarah Desa, Harus Dibaca dengan Konteks Lokal - suaradewata.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 13:00:00 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217196/lokasi-koperasi-merah-putih-hasil-musyawarah-desa-harus-dibaca-dengan-konteks-lokal%7D"
-    },
-    {
-      "title": "Polemik Data Desil, Rieke Desak Pemerintah Keluarkan Surpres SDI - politikindonesia.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 31 Aug 2026 12:16:20 GMT",
-      "link": "https://www.politikindonesia.id/polemik-data-desil-rieke-desak-pemerintah-keluarkan-surpres-sdi"
     }
   ]
 }
