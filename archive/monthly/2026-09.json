@@ -1,0 +1,202 @@
+{
+  "period": "2026-09",
+  "generated_at": "2026-09-01T01:37:14.988088",
+  "party_counts_7d": {
+    "Gerindra": 36,
+    "PDI-P": 30,
+    "Golkar": 26,
+    "NasDem": 1,
+    "PKB": 23,
+    "PKS": 5,
+    "PAN": 3,
+    "Demokrat": 2
+  },
+  "party_counts_30d": {
+    "Gerindra": 68,
+    "PDI-P": 70,
+    "Golkar": 67,
+    "NasDem": 20,
+    "PKB": 47,
+    "PKS": 53,
+    "PAN": 19,
+    "Demokrat": 13
+  },
+  "agency_counts_30d": {
+    "Kementerian BUMN": 20,
+    "Kementerian Perdagangan": 20,
+    "Kementerian Koperasi": 20,
+    "Danantara": 20,
+    "BPKN": 20,
+    "KPPU": 20,
+    "BP Batam": 20,
+    "BPK Sabang": 10,
+    "Dekopin": 20,
+    "Badan Pengaturan BUMN": 20
+  },
+  "topic_counts_30d": {
+    "bumn": 66,
+    "investasi": 25,
+    "danantara": 38,
+    "dividen": 5,
+    "umkm": 21,
+    "koperasi": 54,
+    "perdagangan": 5,
+    "ekspor": 11,
+    "merger-akuisisi": 11,
+    "kartel-monopoli": 4,
+    "ipo": 1
+  },
+  "member_counts_30d": {
+    "Andre Rosiade": 20,
+    "Khilmi": 1,
+    "Muhammad Husein Fadlulloh": 6,
+    "Mulan Jameela": 1,
+    "Kawendra Lukistian": 20,
+    "Mulyadi": 20,
+    "Adisatrya Suryo Sulisto": 2,
+    "Mufti Anam": 2,
+    "Darmadi Durianto": 20,
+    "Rieke Diah Pitaloka": 20,
+    "I Gusti Ngurah Kesuma Kelakan": 2,
+    "Sadarestuwati": 2,
+    "Ida Nurlaela": 20,
+    "Budi Sulistyono": 2,
+    "Nurdin Halid": 14,
+    "Gde Sumarjaya Linggih": 15,
+    "Ahmad Labib": 4,
+    "Doni Akbar": 2,
+    "Firnando Hadityo Ganinduto": 9,
+    "Rizki Faisal": 5,
+    "Muhammad Sarmuji": 18,
+    "Rachmat Gobel": 4,
+    "Asep Wahyuwijaya": 7,
+    "Randi Zulmariadi": 1,
+    "Rudi Hartono Bangun": 8,
+    "Anggia Erma Rini": 20,
+    "Rivqy Abdul Halim": 7,
+    "Nasim Khan": 20,
+    "Amin Ak.": 16,
+    "Rizal Bawazier": 20,
+    "Ghufran": 2,
+    "Ismail": 15,
+    "Eko Patrio": 2,
+    "Nasril Bahar": 1,
+    "Iskandar": 16,
+    "Sartono": 4,
+    "Herman Khaeron": 9
+  },
+  "early_warning_counts": {
+    "Hukum/Audit": 18,
+    "Koperasi/UMKM": 72,
+    "Perdagangan": 32,
+    "Kinerja BUMN": 16,
+    "Konflik Publik": 4
+  },
+  "top_headlines": [
+    {
+      "title": "Kemendag: Permintaan meningkat dorong kenaikan HPE emas - sulteng.antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 01:22:37 GMT",
+      "link": "https://sulteng.antaranews.com/berita/391641/kemendag-permintaan-meningkat-dorong-kenaikan-hpe-emas"
+    },
+    {
+      "title": "Danantara: Tugas Insan BUMN Tak Cuma Bikin Perusahaan Sehat - Suara.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 01:15:18 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/01/081518/danantara-tugas-insan-bumn-tak-cuma-bikin-perusahaan-sehat"
+    },
+    {
+      "title": "HPE Emas Periode I September 2026 Naik, Kemendag Beber Penyebabnya - KabarBursa.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 00:51:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/hpe-emas-periode-i-september-2026-naik-kemendag-beber-penyebabnya"
+    },
+    {
+      "title": "Menteri Perdagangan Dorong Perluasan Industri Mebel dan Kerajinan Indonesia Menuju Pasar Global di Kota Surakarta - Klikwarta.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 00:40:16 GMT",
+      "link": "https://www.klikwarta.com/menteri-perdagangan-dorong-perluasan-industri-mebel-dan-kerajinan-indonesia-menuju-pasar-global-di"
+    },
+    {
+      "title": "Prabowo Target Tutup 700 BUMN Rugi, Danantara Kejar Merger Raksasa BUMN Karya Tahun Ini - Infokini.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 00:08:16 GMT",
+      "link": "https://infokini.id/2026/09/01/prabowo-target-tutup-700-bumn-rugi-danantara-kejar-merger-raksasa-bumn-karya-tahun-ini/"
+    },
+    {
+      "title": "Yakin Istana Tidak Terlibat, Demokrat Harap Gus Kikin Bawa Jamiyah NU Semakin Maju - Kedai Pena",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 00:06:11 GMT",
+      "link": "https://www.kedaipena.com/yakin-istana-tidak-terlibat-demokrat-harap-gus-kikin-bawa-jamiyah-nu-semakin-maju/"
+    },
+    {
+      "title": "Furnitur PT Warisan Eurindo Banyuwangi - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 23:37:30 GMT",
+      "link": "https://www.niaga.asia/furnitur-pt-warisan-eurindo-banyuwangi/"
+    },
+    {
+      "title": "Anggaran BP Batam 2027 sebesar Rp2,44 Triliun, Fokus Pengembangan Investasi Inklusif dan Kawasan - bpbatam.go.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 23:25:42 GMT",
+      "link": "https://bpbatam.go.id/anggaran-bp-batam-2027-sebesar-rp244-triliun-fokus-pengembangan-investasi-inklusif-dan-kawasan/"
+    },
+    {
+      "title": "Jangan Sampai Pindar Kena Sanksi Dua Kali - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 22:10:00 GMT",
+      "link": "https://www.cnbcindonesia.com/opini/20260829215151-14-763358/jangan-sampai-pindar-kena-sanksi-dua-kali"
+    },
+    {
+      "title": "BP BUMN dan Danantara Dorong Pembangunan Sistem SDM yang Terintegrasi - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 17:42:35 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dan-danantara-dorong-pembangunan-sistem-sdm-yang-terintegrasi/"
+    },
+    {
+      "title": "Amsakar - Li Claudia Fokus Benahi Penataan dan Pengembangan Kawasan: Investasi Melesat, Ekonomi Tumbuh - centralnews.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 16:49:58 GMT",
+      "link": "https://centralnews.id/amsakar-li-claudia-fokus-benahi-penataan-dan-pengembangan-kawasan-investasi-melesat-ekonomi-tumbuh/"
+    },
+    {
+      "title": "Keuchik Balohan Minta BPKS Segera Benahi Drainase Pelabuhan - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 16:33:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2697952/keuchik-balohan-minta-bpks-segera-benahi-drainase-pelabuhan"
+    },
+    {
+      "title": "Permintaan Meningkat, Harga Patokan Ekspor dan Referensi Emas Naik di Periode Pertama September 2026 - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:34:04 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5463206/permintaan-meningkat-harga-patokan-ekspor-dan-referensi-emas-naik-di-periode-pertama-september-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5463206"
+    },
+    {
+      "title": "Menkop Jadikan KSP Balo’ta Penggerak Ekonomi Kerakyatan - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:19:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tsobmct-menkop-jadikan-ksp-balota-penggerak-ekonomi-kerakyatan"
+    },
+    {
+      "title": "Christiany Paruntu Dorong Produk Daerah Tembus Pasar Ekspor Global - RM.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 31 Aug 2026 15:14:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/324078/christiany-paruntu-dorong-produk-daerah-tembus-pasar-ekspor-global"
+    }
+  ]
+}
