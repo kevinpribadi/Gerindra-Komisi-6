@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-01T13:04:17.686155",
+  "generated_at": "2026-09-01T17:35:01.295857",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 31,
     "Golkar": 25,
     "NasDem": 1,
-    "PKB": 25,
+    "PKB": 26,
     "PKS": 5,
-    "PAN": 6,
+    "PAN": 7,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 70,
-    "Golkar": 70,
+    "Golkar": 71,
     "NasDem": 19,
     "PKB": 47,
-    "PKS": 53,
-    "PAN": 22,
+    "PKS": 54,
+    "PAN": 23,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -29,7 +29,7 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 11,
+    "BPK Sabang": 12,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
@@ -38,10 +38,10 @@
     "investasi": 35,
     "danantara": 34,
     "dividen": 4,
-    "umkm": 19,
+    "umkm": 20,
     "koperasi": 53,
-    "perdagangan": 8,
-    "ekspor": 9,
+    "perdagangan": 11,
+    "ekspor": 8,
     "ipo": 2,
     "merger-akuisisi": 14,
     "kartel-monopoli": 4
@@ -61,7 +61,7 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 16,
+    "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
@@ -77,22 +77,85 @@
     "Nasim Khan": 20,
     "Amin Ak.": 16,
     "Rizal Bawazier": 20,
-    "Ghufran": 2,
+    "Ghufran": 3,
     "Ismail": 15,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 19,
+    "Iskandar": 20,
     "Sartono": 5,
     "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
     "Koperasi/UMKM": 66,
-    "Perdagangan": 25,
+    "Perdagangan": 24,
     "Kinerja BUMN": 16,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "26 Tahun FTZ Sabang, Sejauh Mana Janji Negara Terwujud? - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 16:41:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2699980/26-tahun-ftz-sabang-sejauh-mana-janji-negara-terwujud"
+    },
+    {
+      "title": "Harga Reference CPO September Naik 1,10 Persen, Jadi USD1.007,51 per MT - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 16:20:00 GMT",
+      "link": "https://rri.co.id/ekonomi/makro/2700223/harga-reference-cpo-september-naik-110-persen-jadi-usd100751-per-mt"
+    },
+    {
+      "title": "Kemenkop Usulkan Tambahan Anggaran Rp4,53 Triliun untuk Perkuat Kopdes Merah Putih - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 15:10:00 GMT",
+      "link": "https://www.kompas.tv/ekonomi/688519/kemenkop-usulkan-tambahan-anggaran-rp4-53-triliun-untuk-perkuat-kopdes-merah-putih"
+    },
+    {
+      "title": "Kemenkop jelaskan alasan penempatan manajer KDKMP belum dilakukan - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 13:18:26 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/422104/kemenkop-jelaskan-alasan-penempatan-manajer-kdkmp-belum-dilakukan"
+    },
+    {
+      "title": "Dorong Hilirisasi dan Penguatan Perlindungan Konsumen, Demer Minta Tambahan Anggaran untuk Kementerian Perdagangan - atnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 13:15:39 GMT",
+      "link": "https://atnews.id/portal/news/33629/dorong-hilirisasi-dan-penguatan-perlindungan-konsumen-demer-minta-tambahan-anggaran-untuk-kementerian-perdagangan"
+    },
+    {
+      "title": "Dorong Hilirisasi dan Penguatan Perlindungan Konsumen, Demer Minta Tambahan Anggaran untuk Kementerian Perdagangan - atnews.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 13:15:39 GMT",
+      "link": "https://atnews.id/portal/news/33629/dorong-hilirisasi-dan-penguatan-perlindungan-konsumen-demer-minta-tambahan-anggaran-untuk-kementerian-perdagangan"
+    },
+    {
+      "title": "| Anggota DPR Pertanyakan Anggaran 83.980 Posbankum Desa/Kelurahan - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 13:09:32 GMT",
+      "link": "https://www.jurnas.com/artikel/1664686/anggota-dpr-pertanyakan-anggaran-83980-posbankum-desa-kelurahan/"
+    },
+    {
+      "title": "Anggaran Koperasi Dominasi Belanja Kemenkop - Bisnis.com - Foto",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 13:00:52 GMT",
+      "link": "https://foto.bisnis.com/view/20260901/2000511/anggaran-koperasi-dominasi-belanja-kemenkop"
+    },
+    {
+      "title": "Kementerian Koperasi Minta Tambahan Anggaran Rp 4,53 Triliun Pada 2027 - Kompas.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 12:51:20 GMT",
+      "link": "https://www.kompas.id/artikel/koperasi-merah-putih-belum-banyak-beroperasi-anggaran-kemenkop-diusulkan-naik"
+    },
     {
       "title": "Purbaya: Investasi Ditarget Tumbuh 7%, Andalkan Swasta-Danantara - investor.id",
       "entity": "Danantara",
@@ -129,74 +192,11 @@
       "link": "https://www.kompas.id/artikel/investasi-ditargetkan-tumbuh-7-persen-untuk-kejar-ekonomi-6-persen"
     },
     {
-      "title": "KPPU Denda PT Evans Indonesia Rp2 Miliar karena Terlambat Laporkan Akuisisi Perusahaan Sawit - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 11:05:06 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-denda-pt-evans-indonesia-rp2-miliar-karena-terlambat-laporkan-akuisisi-perusahaan-sawit/"
-    },
-    {
-      "title": "Kementerian Koperasi Minta Tambahan Anggaran Rp4,53 Triliun - Harianjogja.com",
+      "title": "Kementerian Koperasi Ungkap Alasan Manajer KDKMP Belum Ditempatkan - borneoflash.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 10:47:45 GMT",
-      "link": "https://news.harianjogja.com/r-1269619/kementerian-koperasi-minta-tambahan-anggaran-rp453-triliun"
-    },
-    {
-      "title": "Demi Keselamatan Konsumen, BPOM Turunkan Batas Migrasi BPA 12x Lebih Rendah - Tempo.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 10:30:36 GMT",
-      "link": "https://www.tempo.co/politik/demi-keselamatan-konsumen-bpom-turunkan-batas-migrasi-bpa-12x-lebih-rendah-2284771"
-    },
-    {
-      "title": "Purbaya Bidik Ekonomi RI Tumbuh 6 Persen pada 2027, Investasi Ditarget 7 Persen - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 10:25:44 GMT",
-      "link": "https://m.rctiplus.com/news/detail/ekonomi/5463815/purbaya-bidik-ekonomi-ri-tumbuh-6-persen-pada-2027-investasi-ditarget-7-persen?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5463815"
-    },
-    {
-      "title": "Foto : Lewat Relawan Bakti BUMN 2026, Askrindo Dorong Pemberdayaan Warga - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 10:08:39 GMT",
-      "link": "https://money.kompas.com/image/2026/09/01/141343526/lewat-relawan-bakti-bumn-2026-askrindo-dorong-pemberdayaan-warga"
-    },
-    {
-      "title": "Kemenkop Minta Rp4,53 Triliun, Ternyata Rp1,25 Triliun Tak Cuma untuk Kopdes Merah Putih - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 10:03:00 GMT",
-      "link": "https://wartaekonomi.co.id/read631887/kemenkop-minta-rp453-triliun-ternyata-rp125-triliun-tak-cuma-untuk-kopdes-merah-putih"
-    },
-    {
-      "title": "Kemenkop Ajukan Tambahan Anggaran Rp 4,53 Triliun pada 2027, Sebagian untuk KDMP - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 09:55:31 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemenkop-ajukan-tambahan-anggaran-rp-453-triliun-pada-2027-sebagian-untuk-kdmp"
-    },
-    {
-      "title": "RDP dengan Komisi VI DPR RI, Pagu Anggaran BP Batam 2027 Ditetapkan Rp2,44 Triliun - Lendoot.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 09:48:41 GMT",
-      "link": "http://lendoot.com/rdp-dengan-komisi-vi-dpr-ri-pagu-anggaran-bp-batam-2027-ditetapkan-rp244-triliun/"
-    },
-    {
-      "title": "| Legislator PDIP: Anggaran HAM Harus Sejalan dengan Mandat UU - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 01 Sep 2026 09:44:13 GMT",
-      "link": "https://www.jurnas.com/artikel/1664677/legislator-pdip-anggaran-ham-harus-sejalan-dengan-mandat-uu/"
-    },
-    {
-      "title": "Kemenkop Usul Tambahan Anggaran Rp4,53 Triliun pada Pagu 2027 - SuaraGarut.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 08:46:17 GMT",
-      "link": "https://suaragarut.id/kemenkop-usul-tambahan-anggaran-2027"
+      "published": "Tue, 01 Sep 2026 12:16:00 GMT",
+      "link": "https://borneoflash.com/2026/09/01/kementerian-koperasi-ungkap-alasan-manajer-kdkmp-belum-ditempatkan"
     }
   ]
 }
