@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-01T17:35:01.295857",
+  "generated_at": "2026-09-01T20:32:30.532413",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 31,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 66,
-    "investasi": 35,
+    "investasi": 38,
     "danantara": 34,
     "dividen": 4,
     "umkm": 20,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 65,
     "Perdagangan": 24,
     "Kinerja BUMN": 16,
-    "Konflik Publik": 4
+    "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Diteriaki “Pembohong” saat Janjikan RUU Perampasan Aset - KoranKota",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 19:03:21 GMT",
+      "link": "https://korankota.com/v151/t502/92089/andre-rosiade-diteriaki-pembohong-saat-janjikan-ruu-perampasan-aset"
+    },
     {
       "title": "26 Tahun FTZ Sabang, Sejauh Mana Janji Negara Terwujud? - RRI.co.id",
       "entity": "BPK Sabang",
@@ -106,6 +113,20 @@
       "kind": "lembaga",
       "published": "Tue, 01 Sep 2026 16:20:00 GMT",
       "link": "https://rri.co.id/ekonomi/makro/2700223/harga-reference-cpo-september-naik-110-persen-jadi-usd100751-per-mt"
+    },
+    {
+      "title": "Penempatan Manajer Kopdes Merah Putih Belum Dimulai, Kemenkop Ungkap Alasannya - Kompas.tv",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 15:54:00 GMT",
+      "link": "https://www.kompas.tv/ekonomi/688531/penempatan-manajer-kopdes-merah-putih-belum-dimulai-kemenkop-ungkap-alasannya"
+    },
+    {
+      "title": "Menkop Ferry Usulkan Tambahan Anggaran Rp 4,53 Triliun untuk 2027 - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 15:17:00 GMT",
+      "link": "https://investortrust.id/business/114886/menkop-ferry-usulkan-tambahan-anggaran-rp-4-53-triliun-untuk-2027"
     },
     {
       "title": "Kemenkop Usulkan Tambahan Anggaran Rp4,53 Triliun untuk Perkuat Kopdes Merah Putih - Kompas.tv",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 01 Sep 2026 12:30:33 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8643609/kemenkop-minta-tambah-anggaran-rp-1-25-t-untuk-program-kopdes-di-2027"
-    },
-    {
-      "title": "RDP BP Batam dan Komisi VI DPR RI Bahas Anggaran 2027 Rp2,44 Triliun untuk Percepatan Investasi - Kampiun News",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:26:11 GMT",
-      "link": "https://kampiunnews.com/rdp-bp-batam-dan-komisi-vi-dpr-ri-bahas-anggaran-2027-rp244-triliun-untuk-percepatan-investasi/"
-    },
-    {
-      "title": "Investasi Ditargetkan Tumbuh 7 Persen untuk Kejar Ekonomi 6 Persen - Kompas.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:18:56 GMT",
-      "link": "https://www.kompas.id/artikel/investasi-ditargetkan-tumbuh-7-persen-untuk-kejar-ekonomi-6-persen"
-    },
-    {
-      "title": "Kementerian Koperasi Ungkap Alasan Manajer KDKMP Belum Ditempatkan - borneoflash.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:16:00 GMT",
-      "link": "https://borneoflash.com/2026/09/01/kementerian-koperasi-ungkap-alasan-manajer-kdkmp-belum-ditempatkan"
     }
   ]
 }
