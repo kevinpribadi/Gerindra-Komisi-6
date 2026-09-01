@@ -1,15 +1,15 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-01T01:37:14.988088",
+  "generated_at": "2026-09-01T07:14:17.708106",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 30,
+    "PDI-P": 31,
     "Golkar": 26,
     "NasDem": 1,
-    "PKB": 23,
+    "PKB": 25,
     "PKS": 5,
     "PAN": 3,
-    "Demokrat": 2
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
@@ -19,7 +19,7 @@
     "PKB": 47,
     "PKS": 53,
     "PAN": 19,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -29,22 +29,22 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 10,
+    "BPK Sabang": 11,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 66,
-    "investasi": 25,
-    "danantara": 38,
-    "dividen": 5,
-    "umkm": 21,
+    "investasi": 30,
+    "danantara": 37,
+    "dividen": 4,
+    "umkm": 20,
     "koperasi": 54,
-    "perdagangan": 5,
-    "ekspor": 11,
+    "ekspor": 10,
+    "perdagangan": 7,
+    "ipo": 2,
     "merger-akuisisi": 11,
-    "kartel-monopoli": 4,
-    "ipo": 1
+    "kartel-monopoli": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -82,121 +82,121 @@
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 16,
-    "Sartono": 4,
+    "Sartono": 5,
     "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 32,
-    "Kinerja BUMN": 16,
+    "Koperasi/UMKM": 71,
+    "Perdagangan": 31,
+    "Kinerja BUMN": 17,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Kemendag: Permintaan meningkat dorong kenaikan HPE emas - sulteng.antaranews.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "BP Batam Ajukan Anggaran Rp2,44 Triliun untuk Investasi 2027 - Batamtoday.com",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 01:22:37 GMT",
-      "link": "https://sulteng.antaranews.com/berita/391641/kemendag-permintaan-meningkat-dorong-kenaikan-hpe-emas"
+      "published": "Tue, 01 Sep 2026 06:50:18 GMT",
+      "link": "https://batamtoday.com/news/bp-batam-ajukan-anggaran-rp-244-triliun-percepatan-investasi-dan-pengembangan-kawasan-di-2027"
     },
     {
-      "title": "Danantara: Tugas Insan BUMN Tak Cuma Bikin Perusahaan Sehat - Suara.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Pagu anggaran BP Batam 2027 ditetapkan Rp2,44 triliun - ANTARA News Kepri",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 01:15:18 GMT",
-      "link": "https://www.suara.com/bisnis/2026/09/01/081518/danantara-tugas-insan-bumn-tak-cuma-bikin-perusahaan-sehat"
+      "published": "Tue, 01 Sep 2026 06:18:29 GMT",
+      "link": "https://kepri.antaranews.com/berita/266481/pagu-anggaran-bp-batam-2027-ditetapkan-rp244-triliun"
     },
     {
-      "title": "HPE Emas Periode I September 2026 Naik, Kemendag Beber Penyebabnya - KabarBursa.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "Anggaran BP Batam 2027 sebesar Rp2,44 Triliun, Fokus Pengembangan Investasi Inklusif dan Kawasan - Bisnis.com",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 00:51:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/hpe-emas-periode-i-september-2026-naik-kemendag-beber-penyebabnya"
+      "published": "Tue, 01 Sep 2026 05:30:15 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260901/534/2000354/anggaran-bp-batam-2027-sebesar-rp244-triliun-fokus-pengembangan-investasi-inklusif-dan-kawasan"
     },
     {
-      "title": "Menteri Perdagangan Dorong Perluasan Industri Mebel dan Kerajinan Indonesia Menuju Pasar Global di Kota Surakarta - Klikwarta.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 00:40:16 GMT",
-      "link": "https://www.klikwarta.com/menteri-perdagangan-dorong-perluasan-industri-mebel-dan-kerajinan-indonesia-menuju-pasar-global-di"
-    },
-    {
-      "title": "Prabowo Target Tutup 700 BUMN Rugi, Danantara Kejar Merger Raksasa BUMN Karya Tahun Ini - Infokini.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 00:08:16 GMT",
-      "link": "https://infokini.id/2026/09/01/prabowo-target-tutup-700-bumn-rugi-danantara-kejar-merger-raksasa-bumn-karya-tahun-ini/"
-    },
-    {
-      "title": "Yakin Istana Tidak Terlibat, Demokrat Harap Gus Kikin Bawa Jamiyah NU Semakin Maju - Kedai Pena",
-      "entity": "Herman Khaeron",
+      "title": "Gelar Tournament Youth Series Gratis, Andre Rosiade Dorong Padel jadi Olahraga Rakyat - Posmetro Padang",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Tue, 01 Sep 2026 00:06:11 GMT",
-      "link": "https://www.kedaipena.com/yakin-istana-tidak-terlibat-demokrat-harap-gus-kikin-bawa-jamiyah-nu-semakin-maju/"
+      "published": "Tue, 01 Sep 2026 05:30:07 GMT",
+      "link": "https://posmetropadang.co.id/gelar-tournament-youth-series-gratis-andre-rosiade-dorong-padel-jadi-olahraga-rakyat-432117/"
     },
     {
-      "title": "Furnitur PT Warisan Eurindo Banyuwangi - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 23:37:30 GMT",
-      "link": "https://www.niaga.asia/furnitur-pt-warisan-eurindo-banyuwangi/"
+      "title": "| Anggaran BNPT Naik, Legislator PDIP Minta Daya Cegah Terorisme Diperkuat - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 05:22:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1664647/anggaran-bnpt-naik-legislator-pdip-minta-daya-cegah-terorisme-diperkuat/"
     },
     {
-      "title": "Anggaran BP Batam 2027 sebesar Rp2,44 Triliun, Fokus Pengembangan Investasi Inklusif dan Kawasan - bpbatam.go.id",
+      "title": "Singapura Dominasi Investasi Batam Triwulan II 2026 - Batamtoday.com",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 23:25:42 GMT",
-      "link": "https://bpbatam.go.id/anggaran-bp-batam-2027-sebesar-rp244-triliun-fokus-pengembangan-investasi-inklusif-dan-kawasan/"
+      "published": "Tue, 01 Sep 2026 04:52:54 GMT",
+      "link": "https://batamtoday.com/news/singapura-dominasi-investasi-batam-pada-triwulan-ii-2026"
     },
     {
-      "title": "Jangan Sampai Pindar Kena Sanksi Dua Kali - CNBC Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 22:10:00 GMT",
-      "link": "https://www.cnbcindonesia.com/opini/20260829215151-14-763358/jangan-sampai-pindar-kena-sanksi-dua-kali"
-    },
-    {
-      "title": "BP BUMN dan Danantara Dorong Pembangunan Sistem SDM yang Terintegrasi - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 17:42:35 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-dan-danantara-dorong-pembangunan-sistem-sdm-yang-terintegrasi/"
-    },
-    {
-      "title": "Amsakar - Li Claudia Fokus Benahi Penataan dan Pengembangan Kawasan: Investasi Melesat, Ekonomi Tumbuh - centralnews.id",
+      "title": "BP Batam Siapkan Anggaran Rp2,44 Triliun untuk Percepat Investasi 2027 - Batam Pos",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 16:49:58 GMT",
-      "link": "https://centralnews.id/amsakar-li-claudia-fokus-benahi-penataan-dan-pengembangan-kawasan-investasi-melesat-ekonomi-tumbuh/"
+      "published": "Tue, 01 Sep 2026 04:44:42 GMT",
+      "link": "https://metropolis.batampos.co.id/bp-batam-siapkan-anggaran-rp244-triliun-untuk-percepat-investasi-2027/"
     },
     {
-      "title": "Keuchik Balohan Minta BPKS Segera Benahi Drainase Pelabuhan - RRI.co.id",
-      "entity": "BPK Sabang",
+      "title": "BP Batam Siapkan Rp2,44 Triliun untuk Percepatan Investasi 2027 - gokepri",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 16:33:00 GMT",
-      "link": "https://rri.co.id/sabang/regional/2697952/keuchik-balohan-minta-bpks-segera-benahi-drainase-pelabuhan"
+      "published": "Tue, 01 Sep 2026 04:42:24 GMT",
+      "link": "https://gokepri.com/bp-batam-siapkan-rp244-triliun-untuk-percepatan-investasi-2027/"
     },
     {
-      "title": "Permintaan Meningkat, Harga Patokan Ekspor dan Referensi Emas Naik di Periode Pertama September 2026 - RCTI+",
+      "title": "Nikita Mirzani Menang Banding, Rieke Diah Pitaloka Minta MA Uji Ulang Kasus Pidananya - VIVA.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 04:30:00 GMT",
+      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1925422-nikita-mirzani-menang-banding-rieke-diah-pitaloka-minta-ma-uji-ulang-kasus-pidananya"
+    },
+    {
+      "title": "Makin Diburu, Harga Patokan Ekspor Emas Merangkak Naik - Rmol.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 15:34:04 GMT",
-      "link": "https://m.rctiplus.com/news/detail/terkini/5463206/permintaan-meningkat-harga-patokan-ekspor-dan-referensi-emas-naik-di-periode-pertama-september-2026?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5463206"
+      "published": "Tue, 01 Sep 2026 04:27:00 GMT",
+      "link": "https://rmol.id/amp/2026/09/01/720279/makin-diburu--harga-patokan-ekspor-emas-merangkak-naik-"
     },
     {
-      "title": "Menkop Jadikan KSP Balo’ta Penggerak Ekonomi Kerakyatan - TVRI News",
+      "title": "Ribuan Koperasi Belum Gelar RAT, Diskop UKM Bali Ingatkan Ancaman Sanksi - BALIPOST.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 15:19:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tsobmct-menkop-jadikan-ksp-balota-penggerak-ekonomi-kerakyatan"
+      "published": "Tue, 01 Sep 2026 04:10:28 GMT",
+      "link": "https://www.balipost.com/news/2026/09/01/578064/Ribuan-Koperasi-Belum-Gelar-RAT,...html"
     },
     {
-      "title": "Christiany Paruntu Dorong Produk Daerah Tembus Pasar Ekspor Global - RM.ID",
-      "entity": "Kementerian Perdagangan",
+      "title": "BUMN Dorong Kontribusi Langsung bagi Masyarakat - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 31 Aug 2026 15:14:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/324078/christiany-paruntu-dorong-produk-daerah-tembus-pasar-ekspor-global"
+      "published": "Tue, 01 Sep 2026 03:40:28 GMT",
+      "link": "https://www.metrotvnews.com/read/N0BC1Pn1-bumn-dorong-kontribusi-langsung-bagi-masyarakat"
+    },
+    {
+      "title": "Danantara Suntik Rp 456 M untuk Selesaikan Proyek Apartemen LRT City - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 03:23:57 GMT",
+      "link": "https://suaragarut.id/danantara-suntik-rp-456-m-lrt-city"
+    },
+    {
+      "title": "Terkait Pasokan LPG 3 Kilogram Terhambat, Ini Kata HM Nasim Khan Anggota Komisi VI DPR RI - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 02:28:00 GMT",
+      "link": "https://ketik.com/jakarta/politik-pemerintahan/terkait-pasokan-lpg-3-kilogram-terhambat-ini-kata-hm-nasim-khan-anggota-komisi-vi-dpr-ri"
+    },
+    {
+      "title": "Pasokan LPG 3 Kg Tersendat, Nasim Khan: Bukan Kelangkaan - TIMES Indonesia",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 01 Sep 2026 01:53:00 GMT",
+      "link": "https://timesindonesia.co.id/politik/606465/pasokan-lpg-3-kg-tersendat-nasim-khan-bukan-kelangkaan"
     }
   ]
 }
