@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-01T20:32:30.532413",
+  "generated_at": "2026-09-01T22:59:42.863365",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 31,
     "Golkar": 25,
     "NasDem": 1,
-    "PKB": 26,
+    "PKB": 27,
     "PKS": 5,
     "PAN": 7,
     "Demokrat": 3
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 66,
-    "investasi": 38,
-    "danantara": 34,
+    "bumn": 67,
+    "investasi": 39,
+    "danantara": 33,
     "dividen": 4,
     "umkm": 20,
-    "koperasi": 53,
-    "perdagangan": 11,
+    "koperasi": 52,
+    "perdagangan": 9,
     "ekspor": 8,
     "ipo": 2,
     "merger-akuisisi": 14,
@@ -87,12 +87,19 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 19,
-    "Koperasi/UMKM": 65,
-    "Perdagangan": 24,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 25,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Parlemen Kritisi Lonjakan Anggaran Kementerian Koperasi - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 22:10:21 GMT",
+      "link": "https://insight.kontan.co.id/news/parlemen-kritisi-lonjakan-anggaran-kementerian-koperasi"
+    },
     {
       "title": "Andre Rosiade Diteriaki “Pembohong” saat Janjikan RUU Perampasan Aset - KoranKota",
       "entity": "Andre Rosiade",
@@ -122,6 +129,13 @@
       "link": "https://www.kompas.tv/ekonomi/688531/penempatan-manajer-kopdes-merah-putih-belum-dimulai-kemenkop-ungkap-alasannya"
     },
     {
+      "title": "HPE Emas Periode September Naik 7,87 Persen, Jadi USD142.154 - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 15:50:00 GMT",
+      "link": "https://rri.co.id/ekonomi/keuangan/2700124/hpe-emas-periode-september-naik-787-persen-jadi-usd142154"
+    },
+    {
       "title": "Menkop Ferry Usulkan Tambahan Anggaran Rp 4,53 Triliun untuk 2027 - InvestorTrust",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -134,6 +148,13 @@
       "kind": "lembaga",
       "published": "Tue, 01 Sep 2026 15:10:00 GMT",
       "link": "https://www.kompas.tv/ekonomi/688519/kemenkop-usulkan-tambahan-anggaran-rp4-53-triliun-untuk-perkuat-kopdes-merah-putih"
+    },
+    {
+      "title": "Kemendag Patok Harga Referensi CPO September 2026 Sebesar US$ 1.007,51 - achmadnurhidayat.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 14:42:26 GMT",
+      "link": "https://achmadnurhidayat.id/kemendag-patok-harga-referensi-cpo-september-2026"
     },
     {
       "title": "Kemenkop jelaskan alasan penempatan manajer KDKMP belum dilakukan - ANTARA News Gorontalo",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 01 Sep 2026 12:51:20 GMT",
       "link": "https://www.kompas.id/artikel/koperasi-merah-putih-belum-banyak-beroperasi-anggaran-kemenkop-diusulkan-naik"
-    },
-    {
-      "title": "Purbaya: Investasi Ditarget Tumbuh 7%, Andalkan Swasta-Danantara - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:49:04 GMT",
-      "link": "https://investor.id/macroeconomy/452492/purbaya-investasi-ditarget-tumbuh-7-andalkan-swastadanantara"
-    },
-    {
-      "title": "KPPU Denda Perusahaan Sawit PT Evans Indonesia Rp 2 Miliar Gara-Gara Telat Notifikasi Akuisisi Saham - RMOL JATENG",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:37:00 GMT",
-      "link": "https://www.rmoljawatengah.id/kppu-denda-perusahaan-sawit-pt-evans-indonesia-rp-2-miliar-gara-gara-telat-notifikasi-akuisisi-saham"
-    },
-    {
-      "title": "Kemenkop Minta Tambah Anggaran Rp 1,25 T untuk Program Kopdes di 2027 - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:30:33 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8643609/kemenkop-minta-tambah-anggaran-rp-1-25-t-untuk-program-kopdes-di-2027"
     }
   ]
 }
