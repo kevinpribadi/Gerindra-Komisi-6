@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-01T22:59:42.863365",
+  "generated_at": "2026-09-02T00:58:08.416687",
   "party_counts_7d": {
     "Gerindra": 37,
     "PDI-P": 31,
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 67,
     "investasi": 39,
-    "danantara": 33,
+    "danantara": 32,
     "dividen": 4,
-    "umkm": 20,
+    "umkm": 19,
     "koperasi": 52,
-    "perdagangan": 9,
     "ekspor": 8,
+    "perdagangan": 10,
     "ipo": 2,
     "merger-akuisisi": 14,
     "kartel-monopoli": 4
@@ -86,13 +86,34 @@
     "Herman Khaeron": 9
   },
   "early_warning_counts": {
-    "Hukum/Audit": 19,
-    "Koperasi/UMKM": 64,
+    "Hukum/Audit": 18,
+    "Koperasi/UMKM": 63,
     "Perdagangan": 25,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Kemendag: HR CPO September naik jadi 1.007,51 dolar AS per MT - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 00:39:43 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/422156/kemendag-hr-cpo-september-naik-jadi-100751-dolar-as-per-mt"
+    },
+    {
+      "title": "Kejar Pertumbuhan 6 Persen, Pemerintah Andalkan Investasi dan Hilirisasi - RADAR BONTANG",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 00:08:34 GMT",
+      "link": "https://radarbontang.com/kejar-pertumbuhan-6-persen-pemerintah-andalkan-investasi-dan-hilirisasi/"
+    },
+    {
+      "title": "29.830 Manajer KDKMP Belum Ditempatkan, Kemenkop: Masih Sesuai Jadwal - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 00:08:00 GMT",
+      "link": "https://www.beritakoperasi.com/29-830-manajer-kdkmp-belum-ditempatkan-kemenkop-masih-sesuai-jadwal/"
+    },
     {
       "title": "Parlemen Kritisi Lonjakan Anggaran Kementerian Koperasi - KONTAN",
       "entity": "Kementerian Koperasi",
@@ -157,6 +178,13 @@
       "link": "https://achmadnurhidayat.id/kemendag-patok-harga-referensi-cpo-september-2026"
     },
     {
+      "title": "Kemendag Tetapkan Harga Patokan Emas Ekspor Sekitar US$ 142 Ribu/Kg di Periode Pertama 2026 - Iconomics",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 01 Sep 2026 14:00:46 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemendag-tetapkan-harga-patokan-emas-ekspor-sekitar-us-142-ribu-kg-di-periode-pertama-2026/"
+    },
+    {
       "title": "Kemenkop jelaskan alasan penempatan manajer KDKMP belum dilakukan - ANTARA News Gorontalo",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -169,34 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 01 Sep 2026 13:15:39 GMT",
       "link": "https://atnews.id/portal/news/33629/dorong-hilirisasi-dan-penguatan-perlindungan-konsumen-demer-minta-tambahan-anggaran-untuk-kementerian-perdagangan"
-    },
-    {
-      "title": "Dorong Hilirisasi dan Penguatan Perlindungan Konsumen, Demer Minta Tambahan Anggaran untuk Kementerian Perdagangan - atnews.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 13:15:39 GMT",
-      "link": "https://atnews.id/portal/news/33629/dorong-hilirisasi-dan-penguatan-perlindungan-konsumen-demer-minta-tambahan-anggaran-untuk-kementerian-perdagangan"
-    },
-    {
-      "title": "| Anggota DPR Pertanyakan Anggaran 83.980 Posbankum Desa/Kelurahan - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 01 Sep 2026 13:09:32 GMT",
-      "link": "https://www.jurnas.com/artikel/1664686/anggota-dpr-pertanyakan-anggaran-83980-posbankum-desa-kelurahan/"
-    },
-    {
-      "title": "Anggaran Koperasi Dominasi Belanja Kemenkop - Bisnis.com - Foto",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 13:00:52 GMT",
-      "link": "https://foto.bisnis.com/view/20260901/2000511/anggaran-koperasi-dominasi-belanja-kemenkop"
-    },
-    {
-      "title": "Kementerian Koperasi Minta Tambahan Anggaran Rp 4,53 Triliun Pada 2027 - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 12:51:20 GMT",
-      "link": "https://www.kompas.id/artikel/koperasi-merah-putih-belum-banyak-beroperasi-anggaran-kemenkop-diusulkan-naik"
     }
   ]
 }
