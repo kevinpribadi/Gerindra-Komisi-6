@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-02T00:58:08.416687",
+  "generated_at": "2026-09-02T05:34:29.436096",
   "party_counts_7d": {
-    "Gerindra": 37,
-    "PDI-P": 31,
-    "Golkar": 25,
+    "Gerindra": 36,
+    "PDI-P": 29,
+    "Golkar": 26,
     "NasDem": 1,
     "PKB": 27,
     "PKS": 5,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 70,
-    "Golkar": 71,
+    "PDI-P": 68,
+    "Golkar": 72,
     "NasDem": 19,
     "PKB": 47,
-    "PKS": 54,
+    "PKS": 51,
     "PAN": 23,
     "Demokrat": 14
   },
@@ -35,16 +35,16 @@
   },
   "topic_counts_30d": {
     "bumn": 67,
-    "investasi": 39,
-    "danantara": 32,
-    "dividen": 4,
-    "umkm": 19,
+    "investasi": 40,
+    "danantara": 31,
+    "dividen": 3,
+    "umkm": 20,
     "koperasi": 52,
-    "ekspor": 8,
+    "ekspor": 6,
     "perdagangan": 10,
-    "ipo": 2,
-    "merger-akuisisi": 14,
-    "kartel-monopoli": 4
+    "merger-akuisisi": 15,
+    "kartel-monopoli": 4,
+    "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -58,11 +58,11 @@
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 2,
-    "Sadarestuwati": 2,
-    "Ida Nurlaela": 20,
+    "Sadarestuwati": 1,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
     "Nurdin Halid": 17,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 10,
@@ -78,7 +78,7 @@
     "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 15,
+    "Ismail": 12,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 20,
@@ -87,12 +87,96 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 25,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 21,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Harga patokan ekspor emas naik 7,87% jadi USD 142.154/kg per September - IDNFinancials",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 05:10:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/68242/harga-patokan-ekspor-emas-naik-7-87-jadi-usd-142-154kg-per-september"
+    },
+    {
+      "title": "Danantara Siap Suntik Rp2 Triliun ke Emiten EV Bakrie VKTR - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 05:05:00 GMT",
+      "link": "https://tirto.id/danantara-siap-suntik-rp2-triliun-ke-emiten-ev-bakrie-vktr-hCcQ"
+    },
+    {
+      "title": "Gara-gara Ini, KPPU Denda PT Evans Indonesia Rp2 Miliar - infobanknews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 04:55:23 GMT",
+      "link": "https://infobanknews.com/gara-gara-ini-kppu-denda-pt-evans-indonesia-rp2-miliar"
+    },
+    {
+      "title": "Menkop Ferry Luruskan Anggaran Rp103 Miliar Bukan Khusus Podcast, Melainkan untuk Komunikasi Publik - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 04:42:00 GMT",
+      "link": "https://wartaekonomi.co.id/read632064/menkop-ferry-luruskan-anggaran-rp103-miliar-bukan-khusus-podcast-melainkan-untuk-komunikasi-publik"
+    },
+    {
+      "title": "Bantah Tudingan DPR, Menkop Ferry Juliantono Sebut Anggaran Rp103 Miliar Bukan Cuma Buat Podcast - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 04:39:32 GMT",
+      "link": "https://afu.id/nasional/bantah-tudingan-dpr-menkop-ferry-juliantono-sebut-anggaran-rp103-miliar-bukan-cuma-buat-podcast"
+    },
+    {
+      "title": "Menkop Tegaskan Anggaran 2027 Difokuskan untuk Perkuat Koperasi - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 03:59:15 GMT",
+      "link": "https://news.detik.com/berita/d-8644633/menkop-tegaskan-anggaran-2027-difokuskan-untuk-perkuat-koperasi"
+    },
+    {
+      "title": "BEI Batal Gelar RUPSLB 15 September 2026, Ada Apa? - infobanknews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 03:42:53 GMT",
+      "link": "https://infobanknews.com/bei-batal-gelar-rupslb-15-september-2026-ada-apa"
+    },
+    {
+      "title": "Menkop Ferry Bantah Kritik PDIP soal Anggaran Podcast Rp 103 Miliar - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 03:30:00 GMT",
+      "link": "https://investortrust.id/national/114932/menkop-ferry-bantah-kritik-pdip-soal-anggaran-podcast-rp-103-miliar"
+    },
+    {
+      "title": "Anggaran Kemenkop 2027 Difokuskan Perkuat Kopdes Merah Putih - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 03:25:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/09/02/720386/anggaran-kemenkop-2027-difokuskan-perkuat-kopdes-merah-putih"
+    },
+    {
+      "title": "Hitung Budget Posbankum Desa Cuma Rp287 Ribu Sebulan, Rieke Diah Pitaloka: Tak Masuk Akal! - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 02 Sep 2026 02:31:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/hitung-budget-posbankum-desa-cuma-rp287-ribu-sebulan-rieke-diah-pitaloka-tak-masuk-akal-b2qaVZbhET"
+    },
+    {
+      "title": "Audiensi dengan Kemendag, Bupati Teddy Rahman Jajakan Produk Lokal hingga Tingkat Nasional - Bengkulutoday",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 02:05:53 GMT",
+      "link": "https://www.bengkulutoday.com/index.php/audiensi-dengan-kemendag-bupati-teddy-rahman-jajakan-produk-lokal-hingga-tingkat-nasional"
+    },
+    {
+      "title": "Kemendag Dukung Usulan Pembangunan Pasar Harian di Kabupaten Seluma - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 01:58:00 GMT",
+      "link": "https://rri.co.id/bengkulu/regional/2700817/kemendag-dukung-usulan-pembangunan-pasar-harian-di-kabupaten-seluma"
+    },
     {
       "title": "Kemendag: HR CPO September naik jadi 1.007,51 dolar AS per MT - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
@@ -113,90 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 00:08:00 GMT",
       "link": "https://www.beritakoperasi.com/29-830-manajer-kdkmp-belum-ditempatkan-kemenkop-masih-sesuai-jadwal/"
-    },
-    {
-      "title": "Parlemen Kritisi Lonjakan Anggaran Kementerian Koperasi - KONTAN",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 22:10:21 GMT",
-      "link": "https://insight.kontan.co.id/news/parlemen-kritisi-lonjakan-anggaran-kementerian-koperasi"
-    },
-    {
-      "title": "Andre Rosiade Diteriaki “Pembohong” saat Janjikan RUU Perampasan Aset - KoranKota",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 01 Sep 2026 19:03:21 GMT",
-      "link": "https://korankota.com/v151/t502/92089/andre-rosiade-diteriaki-pembohong-saat-janjikan-ruu-perampasan-aset"
-    },
-    {
-      "title": "26 Tahun FTZ Sabang, Sejauh Mana Janji Negara Terwujud? - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 16:41:00 GMT",
-      "link": "https://rri.co.id/sabang/regional/2699980/26-tahun-ftz-sabang-sejauh-mana-janji-negara-terwujud"
-    },
-    {
-      "title": "Harga Reference CPO September Naik 1,10 Persen, Jadi USD1.007,51 per MT - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 16:20:00 GMT",
-      "link": "https://rri.co.id/ekonomi/makro/2700223/harga-reference-cpo-september-naik-110-persen-jadi-usd100751-per-mt"
-    },
-    {
-      "title": "Penempatan Manajer Kopdes Merah Putih Belum Dimulai, Kemenkop Ungkap Alasannya - Kompas.tv",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 15:54:00 GMT",
-      "link": "https://www.kompas.tv/ekonomi/688531/penempatan-manajer-kopdes-merah-putih-belum-dimulai-kemenkop-ungkap-alasannya"
-    },
-    {
-      "title": "HPE Emas Periode September Naik 7,87 Persen, Jadi USD142.154 - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 15:50:00 GMT",
-      "link": "https://rri.co.id/ekonomi/keuangan/2700124/hpe-emas-periode-september-naik-787-persen-jadi-usd142154"
-    },
-    {
-      "title": "Menkop Ferry Usulkan Tambahan Anggaran Rp 4,53 Triliun untuk 2027 - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 15:17:00 GMT",
-      "link": "https://investortrust.id/business/114886/menkop-ferry-usulkan-tambahan-anggaran-rp-4-53-triliun-untuk-2027"
-    },
-    {
-      "title": "Kemenkop Usulkan Tambahan Anggaran Rp4,53 Triliun untuk Perkuat Kopdes Merah Putih - Kompas.tv",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 15:10:00 GMT",
-      "link": "https://www.kompas.tv/ekonomi/688519/kemenkop-usulkan-tambahan-anggaran-rp4-53-triliun-untuk-perkuat-kopdes-merah-putih"
-    },
-    {
-      "title": "Kemendag Patok Harga Referensi CPO September 2026 Sebesar US$ 1.007,51 - achmadnurhidayat.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 14:42:26 GMT",
-      "link": "https://achmadnurhidayat.id/kemendag-patok-harga-referensi-cpo-september-2026"
-    },
-    {
-      "title": "Kemendag Tetapkan Harga Patokan Emas Ekspor Sekitar US$ 142 Ribu/Kg di Periode Pertama 2026 - Iconomics",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 14:00:46 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/kemendag-tetapkan-harga-patokan-emas-ekspor-sekitar-us-142-ribu-kg-di-periode-pertama-2026/"
-    },
-    {
-      "title": "Kemenkop jelaskan alasan penempatan manajer KDKMP belum dilakukan - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 13:18:26 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/422104/kemenkop-jelaskan-alasan-penempatan-manajer-kdkmp-belum-dilakukan"
-    },
-    {
-      "title": "Dorong Hilirisasi dan Penguatan Perlindungan Konsumen, Demer Minta Tambahan Anggaran untuk Kementerian Perdagangan - atnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 01 Sep 2026 13:15:39 GMT",
-      "link": "https://atnews.id/portal/news/33629/dorong-hilirisasi-dan-penguatan-perlindungan-konsumen-demer-minta-tambahan-anggaran-untuk-kementerian-perdagangan"
     }
   ]
 }
