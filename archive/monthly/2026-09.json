@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-02T14:57:40.294840",
+  "generated_at": "2026-09-02T18:29:44.686487",
   "party_counts_7d": {
     "Gerindra": 35,
     "PDI-P": 29,
-    "Golkar": 22,
+    "Golkar": 23,
     "NasDem": 1,
     "PKB": 17,
     "PKS": 5,
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 69,
-    "Golkar": 73,
+    "Golkar": 74,
     "NasDem": 18,
     "PKB": 47,
     "PKS": 48,
-    "PAN": 23,
+    "PAN": 21,
     "Demokrat": 13
   },
   "agency_counts_30d": {
@@ -36,15 +36,15 @@
   "topic_counts_30d": {
     "danantara": 30,
     "bumn": 66,
-    "investasi": 41,
+    "investasi": 40,
     "dividen": 3,
     "umkm": 19,
     "koperasi": 53,
-    "perdagangan": 15,
+    "perdagangan": 18,
     "impor": 1,
-    "ekspor": 5,
-    "merger-akuisisi": 12,
-    "kartel-monopoli": 4,
+    "ekspor": 4,
+    "merger-akuisisi": 13,
+    "kartel-monopoli": 3,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -62,7 +62,7 @@
     "Sadarestuwati": 1,
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 3,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 19,
     "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
@@ -82,14 +82,14 @@
     "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 20,
+    "Iskandar": 18,
     "Sartono": 5,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 16,
     "Koperasi/UMKM": 66,
-    "Perdagangan": 22,
+    "Perdagangan": 20,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
@@ -109,11 +109,25 @@
       "link": "https://suaragarut.id/mendag-minta-bulog-perkuat-beras-ritel"
     },
     {
+      "title": "Kemendag Luncurkan Cetak Biru SDM Perdagangan Menuju 2045 - foto.bisnis.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 14:00:15 GMT",
+      "link": "https://foto.bisnis.com/view/20260902/2000917/kemendag-luncurkan-cetak-biru-sdm-perdagangan-menuju-2045"
+    },
+    {
       "title": "Rp103 Miliar Disebut Anggaran Podcast, Menkop Ferry Buka Fakta Sebenarnya - Balijani.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 13:53:00 GMT",
       "link": "https://balijani.id/2026/09/02/rp103-miliar-disebut-anggaran-podcast-menkop-ferry-buka-fakta-sebenarnya/"
+    },
+    {
+      "title": "Kemendag Luncurkan Cetak Biru SDM dan Trade CorpU Menuju Indonesia Emas 2045 - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 13:10:00 GMT",
+      "link": "https://wartaekonomi.co.id/read632197/kemendag-luncurkan-cetak-biru-sdm-dan-trade-corpu-menuju-indonesia-emas-2045"
     },
     {
       "title": "Kemendag Panggil MAP soal Keluhan Promo Buy 1 Get 1 - CNN Indonesia",
@@ -130,6 +144,13 @@
       "link": "https://news.detik.com/berita/d-8645755/menpan-rb-harap-trade-corpu-jadi-mesin-pencetak-asn-perdagangan-unggul"
     },
     {
+      "title": "Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 12:36:46 GMT",
+      "link": "https://www.menpan.go.id/site/berita-terkini/menteri-panrb-bukan-sekadar-pelatihan-trade-corporate-university-jadi-mesin-pencetak-asn-perdagangan-unggul"
+    },
+    {
       "title": "Menteri PANRB: Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -142,6 +163,13 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 11:44:00 GMT",
       "link": "https://redaksisulut.com/vicky-lumentut-sebut-dekopinda-minut-penggerak-koperasi-di-sulut/"
+    },
+    {
+      "title": "Menteri Perdagangan AS Lutnick: Kanada Perlakukan AS dengan 'Tidak Hormat' - fxstreet-id.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 11:34:38 GMT",
+      "link": "https://www.fxstreet-id.com/news/menteri-perdagangan-as-lutnick-kanada-memperlakukan-as-dengan-tidak-hormat-202609021130"
     },
     {
       "title": "DPR \"Cecar\" Dana Podcast Menteri Koperasi Rp 103 Miliar, Sebut Rakyat Tak Butuh Pencitraan - Kompas.com",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 10:18:01 GMT",
       "link": "https://www.antaranews.com/berita/5722693/kemendag-luncurkan-cetak-biru-sdm-perdagangan-menuju-indonesia-emas"
-    },
-    {
-      "title": "Kemendag Siapkan SDM Perdagangan Menuju Indonesia Emas 2045 - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 10:11:56 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/02/kemendag-siapkan-sdm-perdagangan-menuju-indonesia-emas-2045/"
-    },
-    {
-      "title": "Mendag: Impor Bahan Baku 91% Bukti Industri RI Bergerak - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 09:54:08 GMT",
-      "link": "https://www.metrotvnews.com/read/bJECj858-mendag-impor-bahan-baku-91-bukti-industri-ri-bergerak"
-    },
-    {
-      "title": "Trade Corpu Disiapkan untuk Tingkatkan Kompetensi ASN Kemendag - rri.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 09:40:00 GMT",
-      "link": "https://rri.co.id/info-kementerian/2702065/trade-corpu-disiapkan-untuk-tingkatkan-kompetensi-asn-kemendag"
-    },
-    {
-      "title": "Kemenkop klarifikasi isu anggaran podcast Rp103 miliar: Mencakup fungsi humas, IT, hingga publikasi program koperasi - ANTARA News Bengkulu",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 09:26:24 GMT",
-      "link": "https://bengkulu.antaranews.com/berita/478532/kemenkop-klarifikasi-isu-anggaran-podcast-rp103-miliar-mencakup-fungsi-humas-it-hingga-publikasi-program-koperasi"
     }
   ]
 }
