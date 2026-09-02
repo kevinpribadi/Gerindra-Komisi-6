@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-02T18:29:44.686487",
+  "generated_at": "2026-09-02T21:34:49.658929",
   "party_counts_7d": {
     "Gerindra": 35,
     "PDI-P": 29,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 30,
+    "danantara": 31,
     "bumn": 66,
     "investasi": 40,
     "dividen": 3,
-    "umkm": 19,
-    "koperasi": 53,
-    "perdagangan": 18,
+    "umkm": 20,
+    "koperasi": 52,
+    "perdagangan": 19,
     "impor": 1,
     "ekspor": 4,
-    "merger-akuisisi": 13,
+    "merger-akuisisi": 14,
     "kartel-monopoli": 3,
     "ipo": 1
   },
@@ -87,9 +87,9 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 16,
+    "Hukum/Audit": 15,
     "Koperasi/UMKM": 66,
-    "Perdagangan": 20,
+    "Perdagangan": 18,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
@@ -123,6 +123,20 @@
       "link": "https://balijani.id/2026/09/02/rp103-miliar-disebut-anggaran-podcast-menkop-ferry-buka-fakta-sebenarnya/"
     },
     {
+      "title": "KPPU Denda PT Evans Indonesia Rp2 Miliar Akibat Keterlambatan Notifikasi Akuisisi - Gosulsel.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 13:52:00 GMT",
+      "link": "https://gosulsel.com/09/2026/kppu-denda-pt-evans-indonesia-rp2-miliar-akibat-keterlambatan-notifikasi-akuisisi/"
+    },
+    {
+      "title": "Menteri PANRB: Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 13:14:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/09/02/20142241/menteri-panrb-bukan-sekadar-pelatihan-trade-corporate-university-jadi-mesin"
+    },
+    {
       "title": "Kemendag Luncurkan Cetak Biru SDM dan Trade CorpU Menuju Indonesia Emas 2045 - Warta Ekonomi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -142,6 +156,13 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 12:59:12 GMT",
       "link": "https://news.detik.com/berita/d-8645755/menpan-rb-harap-trade-corpu-jadi-mesin-pencetak-asn-perdagangan-unggul"
+    },
+    {
+      "title": "Kemendag Resmikan Cetak Biru SDM Perdagangan 2045, Perkuat Kompetensi ASN - Sinar Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 12:52:14 GMT",
+      "link": "https://sinarindonesia.id/kemendag-resmikan-cetak-biru-sdm-perdagangan-2045-perkuat-kompetensi-asn/"
     },
     {
       "title": "Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 11:28:23 GMT",
       "link": "https://video.kompas.com/watch/1952235/dpr-cecar-dana-podcast-menteri-koperasi-rp--miliar-sebut-rakyat-tak-butuh-pencitraan"
-    },
-    {
-      "title": "Mandiri Anggaran, BP Batam Optimalkan PNBP Rp 2,4 Triliun di 2027 - rm.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 11:28:00 GMT",
-      "link": "https://rm.id/baca-berita/nasional/324362/mandiri-anggaran-bp-batam-optimalkan-pnbp-rp-24-triliun-di-2027"
-    },
-    {
-      "title": "Budi Sulistyono Ajak Warga Jaga Kerukunan dan Kelestarian Alam di Tengah Tantangan Global - gesuri.id",
-      "entity": "Budi Sulistyono",
-      "kind": "anggota",
-      "published": "Wed, 02 Sep 2026 11:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/budi-sulistyono-ajak-warga-jaga-kerukunan-dan-kelestarian-alam-di-tengah-tantangan-global-b2pYLZbhC9"
-    },
-    {
-      "title": "Kemendag luncurkan cetak biru SDM perdagangan menuju Indonesia Emas - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 10:18:01 GMT",
-      "link": "https://www.antaranews.com/berita/5722693/kemendag-luncurkan-cetak-biru-sdm-perdagangan-menuju-indonesia-emas"
     }
   ]
 }
