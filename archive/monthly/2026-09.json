@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-02T05:34:29.436096",
+  "generated_at": "2026-09-02T10:36:40.879610",
   "party_counts_7d": {
     "Gerindra": 36,
-    "PDI-P": 29,
+    "PDI-P": 28,
     "Golkar": 26,
     "NasDem": 1,
-    "PKB": 27,
+    "PKB": 18,
     "PKS": 5,
-    "PAN": 7,
+    "PAN": 6,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 68,
-    "Golkar": 72,
+    "Golkar": 73,
     "NasDem": 19,
     "PKB": 47,
-    "PKS": 51,
+    "PKS": 48,
     "PAN": 23,
-    "Demokrat": 14
+    "Demokrat": 13
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 67,
-    "investasi": 40,
     "danantara": 31,
+    "bumn": 66,
+    "investasi": 39,
     "dividen": 3,
     "umkm": 20,
-    "koperasi": 52,
+    "koperasi": 55,
+    "perdagangan": 11,
     "ekspor": 6,
-    "perdagangan": 10,
-    "merger-akuisisi": 15,
+    "merger-akuisisi": 14,
     "kartel-monopoli": 4,
     "ipo": 1
   },
@@ -61,7 +61,7 @@
     "Sadarestuwati": 1,
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 2,
-    "Nurdin Halid": 17,
+    "Nurdin Halid": 18,
     "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
@@ -78,125 +78,125 @@
     "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 12,
+    "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 20,
     "Sartono": 5,
-    "Herman Khaeron": 9
+    "Herman Khaeron": 8
   },
   "early_warning_counts": {
     "Hukum/Audit": 18,
-    "Koperasi/UMKM": 64,
-    "Perdagangan": 21,
+    "Koperasi/UMKM": 68,
+    "Perdagangan": 24,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Harga patokan ekspor emas naik 7,87% jadi USD 142.154/kg per September - IDNFinancials",
+      "title": "Kemendag luncurkan cetak biru SDM perdagangan menuju Indonesia Emas - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 05:10:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/68242/harga-patokan-ekspor-emas-naik-7-87-jadi-usd-142-154kg-per-september"
+      "published": "Wed, 02 Sep 2026 10:18:01 GMT",
+      "link": "https://www.antaranews.com/berita/5722693/kemendag-luncurkan-cetak-biru-sdm-perdagangan-menuju-indonesia-emas"
     },
     {
-      "title": "Danantara Siap Suntik Rp2 Triliun ke Emiten EV Bakrie VKTR - Tirto.id",
+      "title": "Kemendag Siapkan SDM Perdagangan Menuju Indonesia Emas 2045 - vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 10:11:56 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/09/02/kemendag-siapkan-sdm-perdagangan-menuju-indonesia-emas-2045/"
+    },
+    {
+      "title": "Trade Corpu Disiapkan untuk Tingkatkan Kompetensi ASN Kemendag - rri.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 09:40:00 GMT",
+      "link": "https://rri.co.id/info-kementerian/2702065/trade-corpu-disiapkan-untuk-tingkatkan-kompetensi-asn-kemendag"
+    },
+    {
+      "title": "Kemenkop klarifikasi isu anggaran podcast Rp103 miliar: Mencakup fungsi humas, IT, hingga publikasi program koperasi - ANTARA News Bengkulu",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 09:26:24 GMT",
+      "link": "https://bengkulu.antaranews.com/berita/478532/kemenkop-klarifikasi-isu-anggaran-podcast-rp103-miliar-mencakup-fungsi-humas-it-hingga-publikasi-program-koperasi"
+    },
+    {
+      "title": "Semua Bakal Berlalu - Infobanknews",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 05:05:00 GMT",
-      "link": "https://tirto.id/danantara-siap-suntik-rp2-triliun-ke-emiten-ev-bakrie-vktr-hCcQ"
+      "published": "Wed, 02 Sep 2026 08:58:19 GMT",
+      "link": "https://infobanknews.com/semua-bakal-berlalu"
     },
     {
-      "title": "Gara-gara Ini, KPPU Denda PT Evans Indonesia Rp2 Miliar - infobanknews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 04:55:23 GMT",
-      "link": "https://infobanknews.com/gara-gara-ini-kppu-denda-pt-evans-indonesia-rp2-miliar"
-    },
-    {
-      "title": "Menkop Ferry Luruskan Anggaran Rp103 Miliar Bukan Khusus Podcast, Melainkan untuk Komunikasi Publik - Warta Ekonomi",
+      "title": "DPR \"Cecar\" Dana Podcast Menteri Koperasi Rp 103 Miliar, Sebut Rakyat Tak Butuh Pencitraan - Kompas.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 04:42:00 GMT",
-      "link": "https://wartaekonomi.co.id/read632064/menkop-ferry-luruskan-anggaran-rp103-miliar-bukan-khusus-podcast-melainkan-untuk-komunikasi-publik"
+      "published": "Wed, 02 Sep 2026 08:50:01 GMT",
+      "link": "https://video.kompas.com/watch/1952235/dpr-cecar-dana-podcast-menteri-koperasi-rp-103-miliar-sebut-rakyat-tak-butuh-pencitraan"
     },
     {
-      "title": "Bantah Tudingan DPR, Menkop Ferry Juliantono Sebut Anggaran Rp103 Miliar Bukan Cuma Buat Podcast - AFU.id",
+      "title": "Mendag Buka Suara soal Beras Premium 5 Kg Langka - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 08:39:36 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260902145843-92-1399209/mendag-buka-suara-soal-beras-premium-5-kg-langka"
+    },
+    {
+      "title": "Dituding Habiskan Rp103 Miliar untuk Podcast, Menkop Beri Penjelasan - Warta Ekonomi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 04:39:32 GMT",
-      "link": "https://afu.id/nasional/bantah-tudingan-dpr-menkop-ferry-juliantono-sebut-anggaran-rp103-miliar-bukan-cuma-buat-podcast"
+      "published": "Wed, 02 Sep 2026 08:18:00 GMT",
+      "link": "https://wartaekonomi.co.id/read632113/dituding-habiskan-rp103-miliar-untuk-podcast-menkop-beri-penjelasan"
     },
     {
-      "title": "Menkop Tegaskan Anggaran 2027 Difokuskan untuk Perkuat Koperasi - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 03:59:15 GMT",
-      "link": "https://news.detik.com/berita/d-8644633/menkop-tegaskan-anggaran-2027-difokuskan-untuk-perkuat-koperasi"
-    },
-    {
-      "title": "BEI Batal Gelar RUPSLB 15 September 2026, Ada Apa? - infobanknews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 03:42:53 GMT",
-      "link": "https://infobanknews.com/bei-batal-gelar-rupslb-15-september-2026-ada-apa"
-    },
-    {
-      "title": "Menkop Ferry Bantah Kritik PDIP soal Anggaran Podcast Rp 103 Miliar - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 03:30:00 GMT",
-      "link": "https://investortrust.id/national/114932/menkop-ferry-bantah-kritik-pdip-soal-anggaran-podcast-rp-103-miliar"
-    },
-    {
-      "title": "Anggaran Kemenkop 2027 Difokuskan Perkuat Kopdes Merah Putih - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 03:25:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/09/02/720386/anggaran-kemenkop-2027-difokuskan-perkuat-kopdes-merah-putih"
-    },
-    {
-      "title": "Hitung Budget Posbankum Desa Cuma Rp287 Ribu Sebulan, Rieke Diah Pitaloka: Tak Masuk Akal! - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Mulyadi Dorong Bea Cukai Jawa Timur Perluas Sumber Penerimaan Negara - fraksi gerindra dpr-ri",
+      "entity": "Mulyadi",
       "kind": "anggota",
-      "published": "Wed, 02 Sep 2026 02:31:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/hitung-budget-posbankum-desa-cuma-rp287-ribu-sebulan-rieke-diah-pitaloka-tak-masuk-akal-b2qaVZbhET"
+      "published": "Wed, 02 Sep 2026 07:42:33 GMT",
+      "link": "https://www.fraksigerindra.id/suara-gerindra/mulyadi-dorong-bea-cukai-jawa-timur-perluas-sumber-penerimaan-negara/"
     },
     {
-      "title": "Audiensi dengan Kemendag, Bupati Teddy Rahman Jajakan Produk Lokal hingga Tingkat Nasional - Bengkulutoday",
+      "title": "Peluncuran Trade Corporate University & Cetak Biru SDM Perdagangan Menuju Indonesia Emas 2045 - Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 02:05:53 GMT",
-      "link": "https://www.bengkulutoday.com/index.php/audiensi-dengan-kemendag-bupati-teddy-rahman-jajakan-produk-lokal-hingga-tingkat-nasional"
+      "published": "Wed, 02 Sep 2026 07:25:22 GMT",
+      "link": "https://www.menpan.go.id/site/berita-foto/peluncuran-trade-corporate-university-cetak-biru-sdm-perdagangan-menuju-indonesia-emas-2045"
     },
     {
-      "title": "Kemendag Dukung Usulan Pembangunan Pasar Harian di Kabupaten Seluma - RRI.co.id",
+      "title": "Mendag Bidik Neraca Perdagangan RI Surplus hingga Akhir 2026 - Bisnis.com - Ekonomi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 01:58:00 GMT",
-      "link": "https://rri.co.id/bengkulu/regional/2700817/kemendag-dukung-usulan-pembangunan-pasar-harian-di-kabupaten-seluma"
+      "published": "Wed, 02 Sep 2026 06:51:47 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260902/12/2000745/mendag-bidik-neraca-perdagangan-ri-surplus-hingga-akhir-2026"
     },
     {
-      "title": "Kemendag: HR CPO September naik jadi 1.007,51 dolar AS per MT - ANTARA News Gorontalo",
+      "title": "Kemendag Perluas Pasar Ekspor Nontradisional di Tengah Gejolak Geopolitik - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 00:39:43 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/422156/kemendag-hr-cpo-september-naik-jadi-100751-dolar-as-per-mt"
+      "published": "Wed, 02 Sep 2026 06:32:48 GMT",
+      "link": "https://www.metrotvnews.com/read/kj2CDxp9-kemendag-perluas-pasar-ekspor-nontradisional-di-tengah-gejolak-geopolitik"
     },
     {
-      "title": "Kejar Pertumbuhan 6 Persen, Pemerintah Andalkan Investasi dan Hilirisasi - RADAR BONTANG",
-      "entity": "Danantara",
+      "title": "Nurdin Halid: Koperasi Jadi Penggerak Ekonomi Desa - rri.co.id",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 00:08:34 GMT",
-      "link": "https://radarbontang.com/kejar-pertumbuhan-6-persen-pemerintah-andalkan-investasi-dan-hilirisasi/"
+      "published": "Wed, 02 Sep 2026 06:32:00 GMT",
+      "link": "https://rri.co.id/makassar/asta-cita/2701003/nurdin-halid-koperasi-jadi-penggerak-ekonomi-desa"
     },
     {
-      "title": "29.830 Manajer KDKMP Belum Ditempatkan, Kemenkop: Masih Sesuai Jadwal - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
+      "title": "Nurdin Halid: Koperasi Jadi Penggerak Ekonomi Desa - rri.co.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Wed, 02 Sep 2026 06:32:00 GMT",
+      "link": "https://rri.co.id/makassar/asta-cita/2701003/nurdin-halid-koperasi-jadi-penggerak-ekonomi-desa"
+    },
+    {
+      "title": "Membandingkan Laba Danantara dengan Era Kementerian BUMN - Tirto.id",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 00:08:00 GMT",
-      "link": "https://www.beritakoperasi.com/29-830-manajer-kdkmp-belum-ditempatkan-kemenkop-masih-sesuai-jadwal/"
+      "published": "Wed, 02 Sep 2026 06:17:00 GMT",
+      "link": "https://tirto.id/membandingkan-laba-danantara-dengan-era-kementerian-bumn-hCdg"
     }
   ]
 }
