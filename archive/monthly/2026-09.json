@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-03T02:53:40.393434",
+  "generated_at": "2026-09-03T07:46:15.246537",
   "party_counts_7d": {
     "Gerindra": 33,
-    "PDI-P": 29,
-    "Golkar": 23,
+    "PDI-P": 30,
+    "Golkar": 21,
     "NasDem": 1,
     "PKB": 15,
-    "PKS": 5,
+    "PKS": 4,
     "PAN": 6,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 69,
+    "PDI-P": 70,
     "Golkar": 74,
     "NasDem": 18,
     "PKB": 47,
-    "PKS": 48,
+    "PKS": 47,
     "PAN": 17,
     "Demokrat": 13
   },
@@ -39,12 +39,11 @@
     "investasi": 38,
     "dividen": 3,
     "umkm": 19,
-    "koperasi": 52,
+    "koperasi": 48,
     "perdagangan": 18,
-    "impor": 1,
-    "merger-akuisisi": 13,
-    "kartel-monopoli": 4,
     "ekspor": 3,
+    "merger-akuisisi": 12,
+    "kartel-monopoli": 3,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -55,7 +54,7 @@
     "Kawendra Lukistian": 20,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 2,
-    "Mufti Anam": 2,
+    "Mufti Anam": 3,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 2,
@@ -76,10 +75,10 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
-    "Amin Ak.": 16,
+    "Amin Ak.": 14,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 9,
+    "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 14,
@@ -87,117 +86,117 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 11,
-    "Koperasi/UMKM": 67,
-    "Perdagangan": 15,
+    "Hukum/Audit": 13,
+    "Koperasi/UMKM": 65,
+    "Perdagangan": 14,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Pemkab Seluma Dorong Pembangunan Pasar Harian dan PLUT dengan Dukungan Kemendag - SuaraGarut.ID",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pastikan Dividen Danantara Masuk Kas Negara, Purbaya: Itu Janji Rosan ke Prabowo - investor.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 02:14:36 GMT",
-      "link": "https://suaragarut.id/pemkab-seluma-dorong-pasar-harian-plut"
+      "published": "Thu, 03 Sep 2026 07:39:41 GMT",
+      "link": "https://investor.id/macroeconomy/452724/pastikan-dividen-danantara-masuk-kas-negara-purbaya-itu-janji-rosan-ke-prabowo"
     },
     {
-      "title": "Legislator PDIP Menduga Ada Rekayasa Sistematis Atas Kacaunya Data Desil BPS - rmoljatim",
+      "title": "“Cetak Biru Pengembangan SDM Perdagangan” dan “Trade CorpU”, Perkuat SDM Perdagangan untuk Jawab Tantangan Global - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 07:10:00 GMT",
+      "link": "https://www.topbusiness.id/135563/cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-perdagangan-untuk-jawab-tantangan-global.html"
+    },
+    {
+      "title": "Indonesia-Malaysia Perkuat Perdagangan Lintas Batas di Entikong-Tebedu - Pontianak Post",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 07:07:40 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2609030088/indonesia-malaysia-perkuat-perdagangan-lintas-batas-di-entikong-tebedu"
+    },
+    {
+      "title": "Kemenkop Raih Opini WTP BPK Tahun Anggaran 2025 - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 07:05:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/324473/kemenkop-raih-opini-wtp-bpk-tahun-anggaran-2025"
+    },
+    {
+      "title": "Raih Opini WTP Bukti Kemenkop Kelola APBN Akuntabel - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 06:47:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/09/03/720541/raih-opini-wtp-bukti-kemenkop-kelola-apbn-akuntabel"
+    },
+    {
+      "title": "Mendag sebut RI-Malaysia bahas hambatan akses pasar produk pertanian - ANTARA News Sulteng",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 06:41:37 GMT",
+      "link": "https://sulteng.antaranews.com/berita/391925/mendag-sebut-ri-malaysia-bahas-hambatan-akses-pasar-produk-pertanian"
+    },
+    {
+      "title": "Kementerian Komunikasi dan Digital RI - Kementerian Komunikasi dan Digital (Komdigi)",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 06:28:33 GMT",
+      "link": "https://www.komdigi.go.id/berita/siaran-pers/detail/wamen-nezar-patria-konektivitas-digital-buka-pasar-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "RDPU dengan Kadin, Kawendra: RUU Kadin Harus Jadi Perwujudan Gotong Royong Terstruktur untuk Pertumbuhan Ekonomi 8% - NusantaraTV",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Thu, 03 Sep 2026 06:25:52 GMT",
+      "link": "https://www.nusantaratv.com/finance/rdpu-dengan-kadin-kawendra-ruu-kadin-harus-jadi-perwujudan-gotong-royong-terstruktur-untuk-pertumbuhan-ekonomi-8"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dorong Audit Investigatif dan Tim Independen Usut Kacaunya Data Desil BPS - gesuri.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 03 Sep 2026 01:29:00 GMT",
-      "link": "https://www.rmoljatim.id/legislator-pdip-menduga-ada-rekayasa-sistematis-atas-kacaunya-data-desil-bps"
+      "published": "Thu, 03 Sep 2026 06:20:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dorong-audit-investigatif-dan-tim-independen-usut-kacaunya-data-desil-bps-b2qaWZbhG7"
     },
     {
-      "title": "KPPU Diminta Telaah Hak Eksklusif Bali Towerindo hingga 2047 di Badung - Fajar Bali",
+      "title": "Komite Bersama Perdagangan dan Investasi Indonesia-Malaysia - Bisnis.com - Foto",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 06:00:48 GMT",
+      "link": "https://foto.bisnis.com/view/20260903/2001092/komite-bersama-perdagangan-dan-investasi-indonesia-malaysia"
+    },
+    {
+      "title": "RI & Malaysia Sepakat Genjot Perdagangan-Investasi - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 05:48:48 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646479/ri-malaysia-sepakat-genjot-perdagangan-investasi"
+    },
+    {
+      "title": "ATSI Dukung Penataan Platform Digital Global demi Persaingan Setara, Asal Tak Bebani Pengguna - Kabarjoglo",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 00:46:47 GMT",
-      "link": "https://fajarbali.com/kppu-diminta-telaah-hak-eksklusif-bali-towerindo-hingga-2047-di-badung/"
+      "published": "Thu, 03 Sep 2026 05:22:58 GMT",
+      "link": "https://kabarjoglo.com/2026/09/03/atsi-dukung-penataan-platform-digital-global-demi-persaingan-setara-asal-tak-bebani-pengguna/"
     },
     {
-      "title": "Ribuan Koperasi Bali Belum Gelar RAT, Terancam Dinonaktifkan dari Database ODS - NUSABALI.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 00:30:29 GMT",
-      "link": "https://www.nusabali.com/berita/229937/ribuan-koperasi-bali-belum-gelar-rat-terancam-dinonaktifkan-dari-database-ods"
+      "title": "Kemenkop Minta Anggaran Podcast Rp103 Miliar, Mufti Anam Beri Kritik Menohok - Suara.com",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Thu, 03 Sep 2026 05:05:00 GMT",
+      "link": "https://www.suara.com/video/2026/09/03/120500/kemenkop-minta-anggaran-podcast-rp103-miliar-mufti-anam-beri-kritik-menohok"
     },
     {
-      "title": "KPPU Denda Perusahaan Ini Rp2 Miliar karena Terlambat Laporkan Akuisisi Saham Dua Perusahaan Kelapa Sawit - telusur.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 19:38:23 GMT",
-      "link": "https://telusur.co.id/detail/kppu-denda-perusahaan-ini-rp2-miliar-karena-terlambat-laporkan-akuisisi-saham-dua-perusahaan-kelapa-sawit"
-    },
-    {
-      "title": "KPPU Diminta Menelaah Potensi Monopoli Eksklusivitas Bali Towerindo di Badung - JPNN.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 18:42:00 GMT",
-      "link": "https://www.jpnn.com/news/kppu-diminta-menelaah-potensi-monopoli-eksklusivitas-bali-towerindo-di-badung"
-    },
-    {
-      "title": "Bupati Seluma Temui Mendag, Usulan Pasar Harian Didorong Masuk Program 2027 - Sinarfakta.com",
+      "title": "Kemendag Gandeng Kadin Cetak Lebih Banyak Eksportir Baru - Kompas.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 16:33:54 GMT",
-      "link": "https://www.sinarfakta.com/2026/09/02/bupati-seluma-temui-mendag-usulan-pasar-harian-didorong-masuk-program-2027/"
+      "published": "Thu, 03 Sep 2026 04:43:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/03/114300326/kemendag-gandeng-kadin-cetak-lebih-banyak-eksportir-baru"
     },
     {
-      "title": "Kemendag luncurkan Trade CorpU dan peta jalan SDM 20 tahun - jambi.antaranews.com",
+      "title": "Kemendag Siapkan Cetak Biru SDM Perdagangan hingga 2045 - Validnews",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 16:04:25 GMT",
-      "link": "https://jambi.antaranews.com/video/5723231/kemendag-luncurkan-trade-corpu-dan-peta-jalan-sdm-20-tahun"
-    },
-    {
-      "title": "Kemendag Siapkan SDM Perdagangan, Indonesia Emas Jadi Taruhan - Koran Jakarta ®",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 15:30:00 GMT",
-      "link": "https://koran-jakarta.com/2026-09-02/kemendag-siapkan-sdm-perdagangan-indonesia-emas-jadi-taruhan"
-    },
-    {
-      "title": "Kepala LAN: Perdagangan Hadapi Disrupsi Pasar, Global, dan Teknologi - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 14:45:00 GMT",
-      "link": "https://rri.co.id/nasional/2702580/kepala-lan-perdagangan-hadapi-disrupsi-pasar-global-dan-teknologi"
-    },
-    {
-      "title": "Mendag Minta Bulog Perkuat Pasokan Beras ke Ritel Modern - suaragarut.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 14:37:27 GMT",
-      "link": "https://suaragarut.id/mendag-minta-bulog-perkuat-beras-ritel"
-    },
-    {
-      "title": "Beras 5 Kg di Toko Ritel Langka, Mendag Minta Bulog Bantu Pasokan - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 14:18:02 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8645847/beras-5-kg-di-toko-ritel-langka-mendag-minta-bulog-bantu-pasokan"
-    },
-    {
-      "title": "Kemendag Luncurkan Cetak Biru SDM Perdagangan Menuju 2045 - foto.bisnis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 14:00:15 GMT",
-      "link": "https://foto.bisnis.com/view/20260902/2000917/kemendag-luncurkan-cetak-biru-sdm-perdagangan-menuju-2045"
-    },
-    {
-      "title": "Rp103 Miliar Disebut Anggaran Podcast, Menkop Ferry Buka Fakta Sebenarnya - Balijani.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 13:53:00 GMT",
-      "link": "https://balijani.id/2026/09/02/rp103-miliar-disebut-anggaran-podcast-menkop-ferry-buka-fakta-sebenarnya/"
-    },
-    {
-      "title": "KPPU Denda PT Evans Indonesia Rp2 Miliar Akibat Keterlambatan Notifikasi Akuisisi - Gosulsel.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 13:52:00 GMT",
-      "link": "https://gosulsel.com/09/2026/kppu-denda-pt-evans-indonesia-rp2-miliar-akibat-keterlambatan-notifikasi-akuisisi/"
+      "published": "Thu, 03 Sep 2026 04:37:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/kemendag-siapkan-cetak-biru-sdm-perdagangan-hingga-2045-1788405793"
     }
   ]
 }
