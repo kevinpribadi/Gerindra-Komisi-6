@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-03T07:46:15.246537",
+  "generated_at": "2026-09-03T12:35:07.746620",
   "party_counts_7d": {
-    "Gerindra": 33,
+    "Gerindra": 31,
     "PDI-P": 30,
     "Golkar": 21,
     "NasDem": 1,
     "PKB": 15,
-    "PKS": 4,
-    "PAN": 6,
-    "Demokrat": 3
+    "PKS": 3,
+    "PAN": 5,
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 70,
-    "Golkar": 74,
+    "Golkar": 70,
     "NasDem": 18,
     "PKB": 47,
     "PKS": 47,
-    "PAN": 17,
+    "PAN": 16,
     "Demokrat": 13
   },
   "agency_counts_30d": {
@@ -40,7 +40,7 @@
     "dividen": 3,
     "umkm": 19,
     "koperasi": 48,
-    "perdagangan": 18,
+    "perdagangan": 20,
     "ekspor": 3,
     "merger-akuisisi": 12,
     "kartel-monopoli": 3,
@@ -62,10 +62,10 @@
     "Ida Nurlaela": 19,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 19,
-    "Gde Sumarjaya Linggih": 16,
+    "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
-    "Firnando Hadityo Ganinduto": 10,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 18,
     "Rachmat Gobel": 4,
@@ -81,18 +81,32 @@
     "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 14,
+    "Iskandar": 13,
     "Sartono": 5,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 13,
+    "Hukum/Audit": 12,
     "Koperasi/UMKM": 65,
     "Perdagangan": 14,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Peluncuran “Cetak Biru Pengembangan SDM Perdagangan Menuju Indonesia Emas 2045” dan “Trade Corpu Kementerian Perdagangan - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 08:37:06 GMT",
+      "link": "https://www.hetanews.com/article/310628/peluncuran-cetak-biru-pengembangan-sdm-perdagangan-menuju-indonesia-emas-2045-dan-trade-corpu-kementerian-perdagangan"
+    },
+    {
+      "title": "BPKN Dorong Transparansi Data Ilmiah Terkait Keamanan BPA Galon Guna Ulang - Media Indonesia",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 08:26:18 GMT",
+      "link": "https://mediaindonesia.com/humaniora/929289/bpkn-dorong-transparansi-data-ilmiah-terkait-keamanan-bpa-galon-guna-ulang"
+    },
     {
       "title": "Pastikan Dividen Danantara Masuk Kas Negara, Purbaya: Itu Janji Rosan ke Prabowo - investor.id",
       "entity": "Danantara",
@@ -106,6 +120,13 @@
       "kind": "lembaga",
       "published": "Thu, 03 Sep 2026 07:10:00 GMT",
       "link": "https://www.topbusiness.id/135563/cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-perdagangan-untuk-jawab-tantangan-global.html"
+    },
+    {
+      "title": "Indonesia-Malaysia Perkuat Perdagangan Lintas Batas di Entikong-Tebedu - Pontianak Post",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 07:07:40 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2609030088/indonesia-malaysia-perkuat-perdagangan-lintas-batas-di-entikong-tebedu"
     },
     {
       "title": "Indonesia-Malaysia Perkuat Perdagangan Lintas Batas di Entikong-Tebedu - Pontianak Post",
@@ -171,32 +192,11 @@
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646479/ri-malaysia-sepakat-genjot-perdagangan-investasi"
     },
     {
-      "title": "ATSI Dukung Penataan Platform Digital Global demi Persaingan Setara, Asal Tak Bebani Pengguna - Kabarjoglo",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 05:22:58 GMT",
-      "link": "https://kabarjoglo.com/2026/09/03/atsi-dukung-penataan-platform-digital-global-demi-persaingan-setara-asal-tak-bebani-pengguna/"
-    },
-    {
-      "title": "Kemenkop Minta Anggaran Podcast Rp103 Miliar, Mufti Anam Beri Kritik Menohok - Suara.com",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Thu, 03 Sep 2026 05:05:00 GMT",
-      "link": "https://www.suara.com/video/2026/09/03/120500/kemenkop-minta-anggaran-podcast-rp103-miliar-mufti-anam-beri-kritik-menohok"
-    },
-    {
-      "title": "Kemendag Gandeng Kadin Cetak Lebih Banyak Eksportir Baru - Kompas.com",
+      "title": "RI & Malaysia Sepakat Genjot Perdagangan-Investasi - detikFinance",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 04:43:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/03/114300326/kemendag-gandeng-kadin-cetak-lebih-banyak-eksportir-baru"
-    },
-    {
-      "title": "Kemendag Siapkan Cetak Biru SDM Perdagangan hingga 2045 - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 04:37:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/kemendag-siapkan-cetak-biru-sdm-perdagangan-hingga-2045-1788405793"
+      "published": "Thu, 03 Sep 2026 05:48:48 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646479/ri-malaysia-sepakat-genjot-perdagangan-investasi"
     }
   ]
 }
