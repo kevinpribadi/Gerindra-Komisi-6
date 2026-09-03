@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-02T23:50:44.359193",
+  "generated_at": "2026-09-03T02:53:40.393434",
   "party_counts_7d": {
-    "Gerindra": 34,
+    "Gerindra": 33,
     "PDI-P": 29,
     "Golkar": 23,
     "NasDem": 1,
-    "PKB": 17,
+    "PKB": 15,
     "PKS": 5,
     "PAN": 6,
     "Demokrat": 3
@@ -18,7 +18,7 @@
     "NasDem": 18,
     "PKB": 47,
     "PKS": 48,
-    "PAN": 21,
+    "PAN": 17,
     "Demokrat": 13
   },
   "agency_counts_30d": {
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 32,
+    "danantara": 31,
     "bumn": 66,
     "investasi": 38,
     "dividen": 3,
-    "umkm": 20,
+    "umkm": 19,
     "koperasi": 52,
-    "perdagangan": 17,
+    "perdagangan": 18,
     "impor": 1,
-    "ekspor": 4,
-    "merger-akuisisi": 12,
+    "merger-akuisisi": 13,
     "kartel-monopoli": 4,
+    "ekspor": 3,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -82,18 +82,53 @@
     "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 18,
+    "Iskandar": 14,
     "Sartono": 5,
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 15,
+    "Hukum/Audit": 11,
     "Koperasi/UMKM": 67,
-    "Perdagangan": 17,
+    "Perdagangan": 15,
     "Kinerja BUMN": 16,
     "Konflik Publik": 3
   },
   "top_headlines": [
+    {
+      "title": "Pemkab Seluma Dorong Pembangunan Pasar Harian dan PLUT dengan Dukungan Kemendag - SuaraGarut.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 02:14:36 GMT",
+      "link": "https://suaragarut.id/pemkab-seluma-dorong-pasar-harian-plut"
+    },
+    {
+      "title": "Legislator PDIP Menduga Ada Rekayasa Sistematis Atas Kacaunya Data Desil BPS - rmoljatim",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 03 Sep 2026 01:29:00 GMT",
+      "link": "https://www.rmoljatim.id/legislator-pdip-menduga-ada-rekayasa-sistematis-atas-kacaunya-data-desil-bps"
+    },
+    {
+      "title": "KPPU Diminta Telaah Hak Eksklusif Bali Towerindo hingga 2047 di Badung - Fajar Bali",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 00:46:47 GMT",
+      "link": "https://fajarbali.com/kppu-diminta-telaah-hak-eksklusif-bali-towerindo-hingga-2047-di-badung/"
+    },
+    {
+      "title": "Ribuan Koperasi Bali Belum Gelar RAT, Terancam Dinonaktifkan dari Database ODS - NUSABALI.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 00:30:29 GMT",
+      "link": "https://www.nusabali.com/berita/229937/ribuan-koperasi-bali-belum-gelar-rat-terancam-dinonaktifkan-dari-database-ods"
+    },
+    {
+      "title": "KPPU Denda Perusahaan Ini Rp2 Miliar karena Terlambat Laporkan Akuisisi Saham Dua Perusahaan Kelapa Sawit - telusur.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 19:38:23 GMT",
+      "link": "https://telusur.co.id/detail/kppu-denda-perusahaan-ini-rp2-miliar-karena-terlambat-laporkan-akuisisi-saham-dua-perusahaan-kelapa-sawit"
+    },
     {
       "title": "KPPU Diminta Menelaah Potensi Monopoli Eksklusivitas Bali Towerindo di Badung - JPNN.com",
       "entity": "KPPU",
@@ -114,6 +149,13 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 16:04:25 GMT",
       "link": "https://jambi.antaranews.com/video/5723231/kemendag-luncurkan-trade-corpu-dan-peta-jalan-sdm-20-tahun"
+    },
+    {
+      "title": "Kemendag Siapkan SDM Perdagangan, Indonesia Emas Jadi Taruhan - Koran Jakarta ®",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 02 Sep 2026 15:30:00 GMT",
+      "link": "https://koran-jakarta.com/2026-09-02/kemendag-siapkan-sdm-perdagangan-indonesia-emas-jadi-taruhan"
     },
     {
       "title": "Kepala LAN: Perdagangan Hadapi Disrupsi Pasar, Global, dan Teknologi - RRI.co.id",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 02 Sep 2026 13:52:00 GMT",
       "link": "https://gosulsel.com/09/2026/kppu-denda-pt-evans-indonesia-rp2-miliar-akibat-keterlambatan-notifikasi-akuisisi/"
-    },
-    {
-      "title": "Menteri PANRB: Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 13:14:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/09/02/20142241/menteri-panrb-bukan-sekadar-pelatihan-trade-corporate-university-jadi-mesin"
-    },
-    {
-      "title": "Kemendag Luncurkan Cetak Biru SDM dan Trade CorpU Menuju Indonesia Emas 2045 - Warta Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 13:10:00 GMT",
-      "link": "https://wartaekonomi.co.id/read632197/kemendag-luncurkan-cetak-biru-sdm-dan-trade-corpu-menuju-indonesia-emas-2045"
-    },
-    {
-      "title": "Kemendag Panggil MAP soal Keluhan Promo Buy 1 Get 1 - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 13:05:37 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260902194115-92-1399345/kemendag-panggil-map-soal-keluhan-promo-buy-1-get-1"
-    },
-    {
-      "title": "MenPAN-RB Harap Trade CorpU Jadi Mesin Pencetak ASN Perdagangan Unggul - news.detik.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 12:59:12 GMT",
-      "link": "https://news.detik.com/berita/d-8645755/menpan-rb-harap-trade-corpu-jadi-mesin-pencetak-asn-perdagangan-unggul"
-    },
-    {
-      "title": "Kemendag Resmikan Cetak Biru SDM Perdagangan 2045, Perkuat Kompetensi ASN - Sinar Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 12:52:14 GMT",
-      "link": "https://sinarindonesia.id/kemendag-resmikan-cetak-biru-sdm-perdagangan-2045-perkuat-kompetensi-asn/"
-    },
-    {
-      "title": "Bukan Sekadar Pelatihan, Trade Corporate University Jadi Mesin Pencetak ASN Perdagangan Unggul - Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 02 Sep 2026 12:36:46 GMT",
-      "link": "https://www.menpan.go.id/site/berita-terkini/menteri-panrb-bukan-sekadar-pelatihan-trade-corporate-university-jadi-mesin-pencetak-asn-perdagangan-unggul"
     }
   ]
 }
