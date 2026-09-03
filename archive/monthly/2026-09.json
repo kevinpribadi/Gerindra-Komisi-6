@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-03T19:38:09.402393",
+  "generated_at": "2026-09-03T22:15:49.104057",
   "party_counts_7d": {
-    "Gerindra": 33,
-    "PDI-P": 32,
+    "Gerindra": 34,
+    "PDI-P": 33,
     "Golkar": 21,
     "NasDem": 3,
     "PKB": 15,
@@ -12,8 +12,8 @@
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 68,
-    "PDI-P": 72,
+    "Gerindra": 69,
+    "PDI-P": 73,
     "Golkar": 69,
     "NasDem": 20,
     "PKB": 47,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 29,
-    "bumn": 68,
-    "investasi": 37,
+    "danantara": 30,
+    "bumn": 69,
+    "investasi": 36,
     "dividen": 2,
     "umkm": 20,
-    "koperasi": 48,
+    "koperasi": 50,
     "perdagangan": 17,
     "ekspor": 3,
-    "merger-akuisisi": 11,
+    "merger-akuisisi": 10,
     "kartel-monopoli": 2,
     "ipo": 1
   },
@@ -50,7 +50,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 6,
-    "Mulan Jameela": 1,
+    "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 3,
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 20,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 19,
     "Gde Sumarjaya Linggih": 15,
@@ -86,8 +86,8 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 11,
-    "Koperasi/UMKM": 63,
+    "Hukum/Audit": 12,
+    "Koperasi/UMKM": 64,
     "Perdagangan": 12,
     "Konflik Publik": 3,
     "Kinerja BUMN": 16
@@ -99,6 +99,13 @@
       "kind": "anggota",
       "published": "Thu, 03 Sep 2026 16:37:00 GMT",
       "link": "https://rri.co.id/yogyakarta/hukum/hukum/2705554/komisi-xiii-puji-posbankum-tak-hanya-terbentuk-tetapi-berfungsi-bagi-publik"
+    },
+    {
+      "title": "BP Batam Bidik Investor Jepang, Tawarkan Kemudahan Investasi - Jawa Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 16:28:02 GMT",
+      "link": "https://batampos.jawapos.com/ekbis/2609030042/bp-batam-bidik-investor-jepang-tawarkan-kemudahan-investasi"
     },
     {
       "title": "Portal Berita Terpercaya Indonesia - TVRI News",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 03 Sep 2026 10:05:02 GMT",
       "link": "https://infobanknews.com/geger-anggaran-rp103-miliar-untuk-podcast-kemenkop-buka-suara"
-    },
-    {
-      "title": "Dekopinda Dikukuhkan, Koperasi Bondowoso Didorong Berbenah, - Radar Jember",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 09:45:14 GMT",
-      "link": "https://radarjember.jawapos.com/bondowoso/2609030021/dekopinda-dikukuhkan-koperasi-bondowoso-didorong-berbenah"
     }
   ]
 }
