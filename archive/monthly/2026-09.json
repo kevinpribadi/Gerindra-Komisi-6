@@ -1,11 +1,11 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-03T16:55:16.122349",
+  "generated_at": "2026-09-03T19:38:09.402393",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 32,
     "Golkar": 21,
-    "NasDem": 2,
+    "NasDem": 3,
     "PKB": 15,
     "PKS": 3,
     "PAN": 5,
@@ -15,7 +15,7 @@
     "Gerindra": 68,
     "PDI-P": 72,
     "Golkar": 69,
-    "NasDem": 19,
+    "NasDem": 20,
     "PKB": 47,
     "PKS": 48,
     "PAN": 16,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 30,
-    "bumn": 67,
-    "investasi": 36,
+    "danantara": 29,
+    "bumn": 68,
+    "investasi": 37,
     "dividen": 2,
     "umkm": 20,
-    "koperasi": 47,
+    "koperasi": 48,
     "perdagangan": 17,
     "ekspor": 3,
-    "merger-akuisisi": 12,
-    "kartel-monopoli": 3,
+    "merger-akuisisi": 11,
+    "kartel-monopoli": 2,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -65,11 +65,11 @@
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
-    "Firnando Hadityo Ganinduto": 6,
+    "Firnando Hadityo Ganinduto": 5,
     "Rizki Faisal": 5,
-    "Muhammad Sarmuji": 18,
+    "Muhammad Sarmuji": 19,
     "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
     "Rudi Hartono Bangun": 8,
     "Anggia Erma Rini": 20,
@@ -87,7 +87,7 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 11,
-    "Koperasi/UMKM": 64,
+    "Koperasi/UMKM": 63,
     "Perdagangan": 12,
     "Konflik Publik": 3,
     "Kinerja BUMN": 16
@@ -99,6 +99,13 @@
       "kind": "anggota",
       "published": "Thu, 03 Sep 2026 16:37:00 GMT",
       "link": "https://rri.co.id/yogyakarta/hukum/hukum/2705554/komisi-xiii-puji-posbankum-tak-hanya-terbentuk-tetapi-berfungsi-bagi-publik"
+    },
+    {
+      "title": "Portal Berita Terpercaya Indonesia - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 15:47:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tlt4hnp-kemenkop-tegaskan-anggaran-rp103-miliar-bukan-untuk-podcast"
     },
     {
       "title": "Rp103 Miliar Untuk Podcast dan Video Kemenkop, Mufti Anam: Rakyat Hari Ini Tidak Perlu Pak.. - gesuri.id",
@@ -136,6 +143,13 @@
       "link": "https://olenka.id/ketentuan-kemendag-september-2026-untuk-hr-dan-hpe-cpo-biji-kakao-getah-pinus-produk-kulit-serta-produk-kayu"
     },
     {
+      "title": "Asep Wahyuwijaya Soroti Kesiapan Bandara Hadapi Pesawat Berbadan Lebar - Partai NasDem",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Thu, 03 Sep 2026 12:55:56 GMT",
+      "link": "https://partainasdem.id/2026/09/03/asep-wahyuwijaya-soroti-kesiapan-bandara-hadapi-pesawat-berbadan-lebar/"
+    },
+    {
       "title": "Buntut Dikritik DPR karena Sewa Kantor, Badan Gizi Nasional Pindah ke Gedung Telkom - AFU.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -171,32 +185,18 @@
       "link": "https://money.kompas.com/read/2026/09/03/171757326/disorot-anggaran-rp-103-miliar-untuk-podcast-kemenkop-buka-suara"
     },
     {
-      "title": "Kemenkop: Anggaran Rp103 M untuk komunikasi publik masih berupa usulan - ANTARA News Sulteng",
+      "title": "Geger Anggaran Rp103 Miliar untuk Podcast, Kemenkop Buka Suara - Infobanknews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 09:34:16 GMT",
-      "link": "https://sulteng.antaranews.com/berita/391949/kemenkop-anggaran-rp103-m-untuk-komunikasi-publik-masih-berupa-usulan"
+      "published": "Thu, 03 Sep 2026 10:05:02 GMT",
+      "link": "https://infobanknews.com/geger-anggaran-rp103-miliar-untuk-podcast-kemenkop-buka-suara"
     },
     {
-      "title": "Masuk Kategori Sehat, Hutama Karya Jadi Tolak Ukur Danantara - cnbcindonesia.com",
-      "entity": "Danantara",
+      "title": "Dekopinda Dikukuhkan, Koperasi Bondowoso Didorong Berbenah, - Radar Jember",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 09:04:45 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260903160130-4-764725/masuk-kategori-sehat-hutama-karya-jadi-tolak-ukur-danantara"
-    },
-    {
-      "title": "Indonesia – Malaysia Bahas Akses Pasar Produk Pertanian dan Pangan - Tani Merdeka",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 08:54:54 GMT",
-      "link": "https://tanimerdeka.com/indonesia-malaysia-bahas-akses-pasar-produk-pertanian-dan-pangan/"
-    },
-    {
-      "title": "Prabowo: Danantara Jadi Jembatan Investasi Strategis RI-Rusia - metrotvnews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 08:52:53 GMT",
-      "link": "https://www.metrotvnews.com/read/Ky6C536r-prabowo-danantara-jadi-jembatan-investasi-strategis-ri-rusia"
+      "published": "Thu, 03 Sep 2026 09:45:14 GMT",
+      "link": "https://radarjember.jawapos.com/bondowoso/2609030021/dekopinda-dikukuhkan-koperasi-bondowoso-didorong-berbenah"
     }
   ]
 }
