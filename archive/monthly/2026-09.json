@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-04T21:13:37.550788",
+  "generated_at": "2026-09-04T23:42:20.931651",
   "party_counts_7d": {
-    "Gerindra": 31,
+    "Gerindra": 29,
     "PDI-P": 34,
     "Golkar": 19,
     "NasDem": 2,
-    "PKB": 16,
+    "PKB": 15,
     "PKS": 3,
     "PAN": 6,
     "Demokrat": 2
@@ -15,11 +15,11 @@
     "Gerindra": 69,
     "PDI-P": 75,
     "Golkar": 68,
-    "NasDem": 17,
+    "NasDem": 16,
     "PKB": 47,
     "PKS": 49,
     "PAN": 17,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 71,
-    "danantara": 26,
-    "investasi": 26,
+    "danantara": 25,
+    "investasi": 27,
     "dividen": 2,
     "umkm": 22,
     "koperasi": 50,
@@ -71,7 +71,7 @@
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
-    "Rudi Hartono Bangun": 5,
+    "Rudi Hartono Bangun": 4,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
@@ -83,7 +83,7 @@
     "Nasril Bahar": 1,
     "Iskandar": 14,
     "Sartono": 5,
-    "Herman Khaeron": 8
+    "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
@@ -93,6 +93,13 @@
     "Kinerja BUMN": 14
   },
   "top_headlines": [
+    {
+      "title": "Menkop: KDKMP jadi pembeli siaga produk unggulan desa - ANTARA News Lampung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 22:34:24 GMT",
+      "link": "https://lampung.antaranews.com/berita/828379/menkop-kdkmp-jadi-pembeli-siaga-produk-unggulan-desa"
+    },
     {
       "title": "Danantara Mulai Transformasi RS BUMN dari RSPP - aspek.id",
       "entity": "Danantara",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 04 Sep 2026 13:02:50 GMT",
       "link": "https://lampungpro.co/news/pemkot-bandar-lampung-kucurkan-rp50-juta-untuk-126-koperasi-kelurahan"
-    },
-    {
-      "title": "Menkop: Perpres KDKMP segera terbit, atur tugas fungsi koperasi - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 13:02:35 GMT",
-      "link": "https://jogja.antaranews.com/berita/852061/menkop-perpres-kdkmp-segera-terbit-atur-tugas-fungsi-koperasi"
     }
   ]
 }
