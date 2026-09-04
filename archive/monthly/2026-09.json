@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-04T14:46:14.912637",
+  "generated_at": "2026-09-04T18:04:42.921749",
   "party_counts_7d": {
-    "Gerindra": 32,
-    "PDI-P": 34,
+    "Gerindra": 31,
+    "PDI-P": 33,
     "Golkar": 19,
     "NasDem": 2,
     "PKB": 16,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
-    "danantara": 24,
-    "investasi": 28,
+    "bumn": 70,
+    "danantara": 25,
+    "investasi": 26,
     "dividen": 2,
     "umkm": 20,
-    "koperasi": 49,
-    "perdagangan": 13,
+    "koperasi": 50,
+    "perdagangan": 12,
     "ekspor": 2,
     "merger-akuisisi": 7,
     "kartel-monopoli": 2,
@@ -86,13 +86,62 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 15,
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 12,
+    "Hukum/Audit": 13,
+    "Koperasi/UMKM": 61,
+    "Perdagangan": 13,
     "Konflik Publik": 4,
     "Kinerja BUMN": 14
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 17:48:53 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260905/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 17:08:45 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260905/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Aturan Operasional KDKMP Segera Terbit, Ferry: Jadi Pedoman Pengelolaan Koperasi - Pontianak Post",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 16:25:35 GMT",
+      "link": "https://pontianakpost.jawapos.com/nasional/2609040131/aturan-operasional-kdkmp-segera-terbit-ferry-jadi-pedoman-pengelolaan-koperasi"
+    },
+    {
+      "title": "Perkuat Hilirisasi Desa, Menkop Dorong KDKMP Jadi Offtaker Produk Unggulan - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 16:11:46 GMT",
+      "link": "https://news.detik.com/berita/d-8649135/perkuat-hilirisasi-desa-menkop-dorong-kdkmp-jadi-offtaker-produk-unggulan"
+    },
+    {
+      "title": "Menkop Dorong KDKMP Jadi Offtaker Produk Unggulan Masyarakat - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 16:05:14 GMT",
+      "link": "https://indoposco.id/2026/09/04/menkop-dorong-kdkmp-jadi-offtaker-produk-unggulan-masyarakat/"
+    },
+    {
+      "title": "Kemendag Soroti Regenerasi Perajin Rotan di Sukoharjo - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 15:45:00 GMT",
+      "link": "https://rri.co.id/nasional/2707733/kemendag-soroti-regenerasi-perajin-rotan-di-sukoharjo"
+    },
+    {
+      "title": "Menkop sebut KDKMP jadi pembeli siaga produk unggulan desa - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 15:29:43 GMT",
+      "link": "https://jogja.antaranews.com/berita/852115/menkop-sebut-kdkmp-jadi-pembeli-siaga-produk-unggulan-desa"
+    },
     {
       "title": "BPI Danantara Dorong Transformasi IHC Menuju Standar Global - SuaraGarut.ID",
       "entity": "Danantara",
@@ -106,6 +155,13 @@
       "kind": "lembaga",
       "published": "Fri, 04 Sep 2026 14:17:28 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8649074/layanan-rs-bumn-mau-naik-kelas-rspp-bakal-dipugar"
+    },
+    {
+      "title": "Danantara Dorong Transformasi Rumah Sakit BUMN, RSPP Jadi Prototipe - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 13:27:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/04/202741826/danantara-dorong-transformasi-rumah-sakit-bumn-rspp-jadi-prototipe"
     },
     {
       "title": "Pemkot Bandar Lampung Kucurkan Rp50 Juta untuk 126 Koperasi Kelurahan - Lampungpro",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 04 Sep 2026 11:30:26 GMT",
       "link": "https://humasindonesia.id/berita/penjurian-ahi-2026-memanfaatkan-ai-untuk-melayani-publik-3484"
-    },
-    {
-      "title": "COO Danantara Dony Oskaria minta pengembangan Teluk Bayur dan Muara Padang diselaraskan - ANTARA News Sumbar",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 11:23:50 GMT",
-      "link": "https://sumbar.antaranews.com/berita/777145/coo-danantara-dony-oskaria-minta-pengembangan-teluk-bayur-dan-muara-padang-diselaraskan"
-    },
-    {
-      "title": "Wamendag Kunjungi Laweyan dan Kauman, Ingin Produk Solo Mendunia - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 11:11:00 GMT",
-      "link": "https://rri.co.id/surakarta/regional/2707257/wamendag-kunjungi-laweyan-dan-kauman-ingin-produk-solo-mendunia"
-    },
-    {
-      "title": "Adhi Karya Pangkas Anak Usaha, Dony Oskaria: Jangan Ada yang Baru - RM.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 10:50:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/324665/adhi-karya-pangkas-anak-usaha-dony-oskaria-jangan-ada-yang-baru"
-    },
-    {
-      "title": "KPPU Denda PT Evans Indonesia Lantaran Telat Laporkan Akuisisi - Hukumonline",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 10:37:06 GMT",
-      "link": "https://www.hukumonline.com/berita/a/kppu-denda-pt-evans-indonesia-lantaran-telat-laporkan-akuisisi-lt6a9a9a7713a32/"
-    },
-    {
-      "title": "Badan Pemeriksa Keuangan Republik Indonesia - bpk.go.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 10:17:13 GMT",
-      "link": "https://www.bpk.go.id/news/bpk-serahkan-lhp-atas-lk-kementerian-perdagangan-dan-kementerian-koperasi-tahun-2025"
-    },
-    {
-      "title": "Badan Pemeriksa Keuangan Republik Indonesia - bpk.go.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 10:17:13 GMT",
-      "link": "https://www.bpk.go.id/news/bpk-serahkan-lhp-atas-lk-kementerian-perdagangan-dan-kementerian-koperasi-tahun-2025"
-    },
-    {
-      "title": "Pembangunan Jalan Jalur 2 Akses ke Pelabuhan Tanjung Geliga Bertahap Sesuai dengan Perencanaan - HarianHaluanKepri.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 09:46:49 GMT",
-      "link": "https://harianhaluankepri.com/pembangunan-jalan-jalur-2-akses-ke-pelabuhan-tanjung-geliga-bertahap-sesuai-dengan-perencanaan/"
-    },
-    {
-      "title": "BP BUMN Minta Adhi Karya Sederhanakan Struktur Anak Usaha - metrotvnews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 09:05:42 GMT",
-      "link": "https://www.metrotvnews.com/read/kM6C4MYB-bp-bumn-minta-adhi-karya-sederhanakan-struktur-anak-usaha"
     }
   ]
 }
