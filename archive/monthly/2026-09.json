@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-04T05:29:09.723023",
+  "generated_at": "2026-09-04T10:34:17.546920",
   "party_counts_7d": {
-    "Gerindra": 34,
+    "Gerindra": 33,
     "PDI-P": 34,
     "Golkar": 20,
-    "NasDem": 3,
+    "NasDem": 2,
     "PKB": 16,
     "PKS": 2,
     "PAN": 6,
-    "Demokrat": 1
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 69,
     "PDI-P": 74,
-    "Golkar": 69,
+    "Golkar": 68,
     "NasDem": 20,
     "PKB": 47,
     "PKS": 48,
     "PAN": 17,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 31,
-    "bumn": 69,
-    "investasi": 35,
+    "danantara": 26,
+    "bumn": 70,
+    "investasi": 30,
     "dividen": 2,
     "umkm": 21,
     "koperasi": 48,
-    "perdagangan": 15,
-    "ekspor": 3,
-    "merger-akuisisi": 10,
+    "perdagangan": 14,
+    "ekspor": 2,
+    "merger-akuisisi": 7,
     "kartel-monopoli": 2,
     "ipo": 1
   },
@@ -65,7 +65,7 @@
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
     "Doni Akbar": 2,
-    "Firnando Hadityo Ganinduto": 5,
+    "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 19,
     "Rachmat Gobel": 4,
@@ -83,120 +83,120 @@
     "Nasril Bahar": 1,
     "Iskandar": 14,
     "Sartono": 5,
-    "Herman Khaeron": 8
+    "Herman Khaeron": 9
   },
   "early_warning_counts": {
-    "Hukum/Audit": 13,
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 13,
+    "Hukum/Audit": 15,
+    "Koperasi/UMKM": 61,
+    "Perdagangan": 12,
     "Konflik Publik": 3,
     "Kinerja BUMN": 15
   },
   "top_headlines": [
     {
-      "title": "Komisi VI Soroti Kendala Pendanaan UMKM dalam RUU KADIN - Rmol.id",
-      "entity": "Adisatrya Suryo Sulisto",
+      "title": "Badan Pemeriksa Keuangan Republik Indonesia - bpk.go.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 10:17:13 GMT",
+      "link": "https://www.bpk.go.id/news/bpk-serahkan-lhp-atas-lk-kementerian-perdagangan-dan-kementerian-koperasi-tahun-2025"
+    },
+    {
+      "title": "Badan Pemeriksa Keuangan Republik Indonesia - bpk.go.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 10:17:13 GMT",
+      "link": "https://www.bpk.go.id/news/bpk-serahkan-lhp-atas-lk-kementerian-perdagangan-dan-kementerian-koperasi-tahun-2025"
+    },
+    {
+      "title": "Pembangunan Jalan Jalur 2 Akses ke Pelabuhan Tanjung Geliga Bertahap Sesuai dengan Perencanaan - HarianHaluanKepri.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 09:46:49 GMT",
+      "link": "https://harianhaluankepri.com/pembangunan-jalan-jalur-2-akses-ke-pelabuhan-tanjung-geliga-bertahap-sesuai-dengan-perencanaan/"
+    },
+    {
+      "title": "BP BUMN Minta Adhi Karya Sederhanakan Struktur Anak Usaha - metrotvnews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 09:05:42 GMT",
+      "link": "https://www.metrotvnews.com/read/kM6C4MYB-bp-bumn-minta-adhi-karya-sederhanakan-struktur-anak-usaha"
+    },
+    {
+      "title": "Adhi Karya Pangkas Seluruh Anak Usaha Atas Arahan BPI Danantara - suaragarut.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 08:35:12 GMT",
+      "link": "https://suaragarut.id/adhi-karya-pangkas-anak-usaha"
+    },
+    {
+      "title": "Adhi Karya Pangkas Seluruh Anak Usaha! - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 08:28:49 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8648498/adhi-karya-pangkas-seluruh-anak-usaha"
+    },
+    {
+      "title": "Adhi Karya Pangkas Seluruh Anak Usaha! - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 08:28:49 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8648498/adhi-karya-pangkas-seluruh-anak-usaha"
+    },
+    {
+      "title": "SIG ajak relawan bakti BUMN 2026 perkuat ekosistem pesisir Probolinggo - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 08:04:43 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5725899/sig-ajak-relawan-bakti-bumn-2026-perkuat-ekosistem-pesisir-probolinggo"
+    },
+    {
+      "title": "Kementerian Koperasi Sebut Isu Anggaran Rp100 Miliar Lebih untuk Podcast tidak Tepat - Media Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 07:44:36 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/929721/kementerian-koperasi-sebut-isu-anggaran-rp100-miliar-lebih-untuk-podcast-tidak-tepat"
+    },
+    {
+      "title": "Kontribusi Dunia Usaha 92,5% ke PDB, DPR Dorong RUU Kadin Segera Direvisi - Bela Rakyat",
+      "entity": "Herman Khaeron",
       "kind": "anggota",
-      "published": "Fri, 04 Sep 2026 05:06:00 GMT",
-      "link": "https://rmol.id/amp/2026/09/04/720637/komisi-vi-soroti-kendala-pendanaan-umkm-dalam-ruu-kadin-"
+      "published": "Fri, 04 Sep 2026 07:32:58 GMT",
+      "link": "https://belarakyat.com/kontribusi-dunia-usaha-925-ke-pdb-dpr-dorong-ruu-kadin-segera-direvisi/"
     },
     {
-      "title": "Danantara Buka-Bukaan Soal Transformasi Telkom Jadi Strategic Holding - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 04:54:27 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260904114010-17-764946/danantara-buka-bukaan-soal-transformasi-telkom-jadi-strategic-holding"
-    },
-    {
-      "title": "Jalan Payakumbuh-Sitangkai Rampung, Andre Rosiade: Bukti Komitmen Presiden Prabowo Bangun Sumbar - Posmetro Padang",
-      "entity": "Andre Rosiade",
+      "title": "Rieke Diah Pitaloka Geram Soal Desil, Data Salah, Rakyat Terdampak - Suara Surabaya",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Fri, 04 Sep 2026 04:04:15 GMT",
-      "link": "https://posmetropadang.co.id/jalan-payakumbuh-sitangkai-rampung-andre-rosiade-bukti-komitmen-presiden-prabowo-bangun-sumbar-432676/"
+      "published": "Fri, 04 Sep 2026 07:31:11 GMT",
+      "link": "https://www.suarasurabaya.net/politik/2026/rieke-diah-pitaloka-geram-soal-desil-data-salah-rakyat-terdampak/"
     },
     {
-      "title": "Poros Baru Jakarta-Moskow: Investasi dan Perkapalan - nasional.tvrinews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 03:16:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tv38dww-poros-baru-jakarta-moskow-investasi-dan-perkapalan"
-    },
-    {
-      "title": "Kemenkop Tegaskan Usulan Anggaran Rp103 Miliar untuk Penguatan Kehumasan dan Sistem Informasi Publik - beritanasionalupdate.com",
+      "title": "Budi Kanang: Anggaran Kemenkop 2027 Jangan Tumpang Tindih dengan Program Agrinas - gesuri.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 03:14:35 GMT",
-      "link": "https://beritanasionalupdate.com/news/details/1694/kemenkop-tegaskan-usulan-anggaran-rp103-miliar-untuk-penguatan-kehumasan-dan-sistem-informasi-publik"
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/budi-kanang-anggaran-kemenkop-2027-jangan-tumpang-tindih-dengan-program-agrinas-b2qaVZbhFE"
     },
     {
-      "title": "Kenapa 29.830 Calon Manajer Kopdes Merah Putih Belum Kerja? Ini Kata Kementerian Koperasi - Informasi.com",
+      "title": "Kemenkop Tegaskan Usulan Anggaran Rp103 Miliar Bukan Spesifik Hanya untuk Podcast - SinPo.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 03:00:00 GMT",
-      "link": "https://informasi.com/ekonomi/infrms-27833/kenapa-29830-calon-manajer-kopdes-merah-putih-belum-kerja-ini-kata-kementerian-koperasi"
+      "published": "Fri, 04 Sep 2026 06:56:36 GMT",
+      "link": "https://sinpo.id/detail/127696/kemenkop-tegaskan-usulan-anggaran-rp103-miliar-bukan-spesifik-hanya-untuk-podcast"
     },
     {
-      "title": "Investasi Danantara di Bus Listrik Bakrie - Tempo.co",
+      "title": "Purbaya Pusing Lagi Gegara Setoran Rp120 Triliun Tak Kunjung Masuk, Danantara Malah Bilang Tidak Tahu - AFU.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 02:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/investasi-danantara-di-bus-listrik-bakrie-2285414"
+      "published": "Fri, 04 Sep 2026 06:29:36 GMT",
+      "link": "https://afu.id/ekonomi/purbaya-pusing-lagi-gegara-setoran-rp120-triliun-tak-kunjung-masuk-danantara-malah-bilang-tidak-tahu"
     },
     {
-      "title": "Surplus Neraca Perdagangan Indonesia Capai US$3,70 Miliar hingga Juli 2026 - SWA.co.id",
+      "title": "Kemendag Kembali Raih Opini WTP, Mendag Busan: Wujud Komitmen Peningkatan Kualitas dan Kinerja - TopBusiness.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 01:55:00 GMT",
-      "link": "https://swa.co.id/read/476866/surplus-neraca-perdagangan-indonesia-capai-us370-miliar-hingga-juli-2026"
-    },
-    {
-      "title": "Mendag Budi: WTP ke-14 Wujud Komitmen Tingkatkan Kinerja Kemendag - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 01:40:00 GMT",
-      "link": "https://rri.co.id/nasional/2705348/mendag-budi-wtp-ke-14-wujud-komitmen-tingkatkan-kinerja-kemendag"
-    },
-    {
-      "title": "Ekspor Nonmigas Juli 2026 Tumbuh 6,84%, Lemak dan Minyak Nabati Jadi Penopang Surplus - InfoSAWIT",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 01:35:00 GMT",
-      "link": "https://www.infosawit.com/2026/09/04/ekspor-nonmigas-juli-2026-tumbuh-684-lemak-dan-minyak-nabati-jadi-penopang-surplus/"
-    },
-    {
-      "title": "Komisi VI Dorong Kemendag Kendalikan Harga Beras - FPKB DPR RI",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 01:26:31 GMT",
-      "link": "https://www.fraksipkb.com/2026/09/04/komisi-vi-dorong-kemendag-kendalikan-harga-beras/"
-    },
-    {
-      "title": "Balas G20, China: Itu hanya dalih untuk dorong proteksionisme - IDNFinancials",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 01:00:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/68331/balas-g20-china-itu-hanya-dalih-untuk-dorong-proteksionisme"
-    },
-    {
-      "title": "Kemenkop Klarifikasi Usulan Anggaran Podcast Rp 103 Miliar - SuaraGarut.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 00:41:19 GMT",
-      "link": "https://suaragarut.id/kemenkop-klarifikasi-usulan-anggaran-podcast"
-    },
-    {
-      "title": "Prabowo Undang Pengusaha Rusia ke Indonesia: Bekerjalah Bersama Kami - investortrust.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 00:41:00 GMT",
-      "link": "https://investortrust.id/national/115148/prabowo-undang-pengusaha-rusia-ke-indonesia-bekerjalah-bersama-kami"
-    },
-    {
-      "title": "Kemendag kembali meraih opini WTP dari BPK - ANTARA News Mataram",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 00:00:44 GMT",
-      "link": "https://mataram.antaranews.com/berita/569201/kemendag-kembali-meraih-opini-wtp-dari-bpk"
+      "published": "Fri, 04 Sep 2026 06:12:00 GMT",
+      "link": "https://www.topbusiness.id/135629/kemendag-kembali-raih-opini-wtp-mendag-busan-wujud-komitmen-peningkatan-kualitas-dan-kinerja.html"
     }
   ]
 }
