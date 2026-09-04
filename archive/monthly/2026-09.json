@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-03T22:15:49.104057",
+  "generated_at": "2026-09-04T00:45:05.838206",
   "party_counts_7d": {
     "Gerindra": 34,
     "PDI-P": 33,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 3,
     "PKB": 15,
     "PKS": 3,
@@ -86,13 +86,41 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 12,
+    "Hukum/Audit": 13,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 12,
+    "Perdagangan": 11,
     "Konflik Publik": 3,
-    "Kinerja BUMN": 16
+    "Kinerja BUMN": 15
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Klarifikasi Usulan Anggaran Podcast Rp 103 Miliar - SuaraGarut.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 00:41:19 GMT",
+      "link": "https://suaragarut.id/kemenkop-klarifikasi-usulan-anggaran-podcast"
+    },
+    {
+      "title": "Prabowo Undang Pengusaha Rusia ke Indonesia: Bekerjalah Bersama Kami - investortrust.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 00:41:00 GMT",
+      "link": "https://investortrust.id/national/115148/prabowo-undang-pengusaha-rusia-ke-indonesia-bekerjalah-bersama-kami"
+    },
+    {
+      "title": "Kemendag kembali meraih opini WTP dari BPK - ANTARA News Mataram",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 00:00:44 GMT",
+      "link": "https://mataram.antaranews.com/berita/569201/kemendag-kembali-meraih-opini-wtp-dari-bpk"
+    },
+    {
+      "title": "Kemendag Luncurkan 'Cetak Biru Pengembangan SDM Perdagangan' dan 'Trade CorpU', Perkuat SDM Unggul Indonesia - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 03 Sep 2026 23:00:00 GMT",
+      "link": "https://olenka.id/kemendag-luncurkan-cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-unggul-indonesia"
+    },
     {
       "title": "Komisi XIII Puji Posbankum, Tak Hanya Terbentuk tetapi Berfungsi bagi Publik - RRI.co.id",
       "entity": "Rieke Diah Pitaloka",
@@ -169,34 +197,6 @@
       "kind": "anggota",
       "published": "Thu, 03 Sep 2026 11:20:08 GMT",
       "link": "https://telusur.co.id/detail/asep-wahyuwijaya-soroti-dua-pr-angkasa-pura-infrastruktur-bandara-dan-hak-pensiunan"
-    },
-    {
-      "title": "Penempatan 30.000 Manajer Kopdes Merah Putih Tunggu SK dari BP BUMN - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 10:50:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/03/175054026/penempatan-30000-manajer-kopdes-merah-putih-tunggu-sk-dari-bp-bumn"
-    },
-    {
-      "title": "Soroti Kerja Sama Bandara Kualanamu, Andre Rosiade Minta Angkasa Pura Evaluasi - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 03 Sep 2026 10:39:32 GMT",
-      "link": "https://news.detik.com/berita/d-8647145/soroti-kerja-sama-bandara-kualanamu-andre-rosiade-minta-angkasa-pura-evaluasi"
-    },
-    {
-      "title": "Disorot Anggaran Rp 103 Miliar untuk Podcast, Kemenkop Buka Suara - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 10:17:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/03/171757326/disorot-anggaran-rp-103-miliar-untuk-podcast-kemenkop-buka-suara"
-    },
-    {
-      "title": "Geger Anggaran Rp103 Miliar untuk Podcast, Kemenkop Buka Suara - Infobanknews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 03 Sep 2026 10:05:02 GMT",
-      "link": "https://infobanknews.com/geger-anggaran-rp103-miliar-untuk-podcast-kemenkop-buka-suara"
     }
   ]
 }
