@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-04T18:04:42.921749",
+  "generated_at": "2026-09-04T21:13:37.550788",
   "party_counts_7d": {
     "Gerindra": 31,
-    "PDI-P": 33,
+    "PDI-P": 34,
     "Golkar": 19,
     "NasDem": 2,
     "PKB": 16,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 74,
+    "PDI-P": 75,
     "Golkar": 68,
     "NasDem": 17,
     "PKB": 47,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
-    "danantara": 25,
+    "bumn": 71,
+    "danantara": 26,
     "investasi": 26,
     "dividen": 2,
-    "umkm": 20,
+    "umkm": 22,
     "koperasi": 50,
-    "perdagangan": 12,
-    "ekspor": 2,
+    "ekspor": 3,
+    "perdagangan": 11,
     "merger-akuisisi": 7,
     "kartel-monopoli": 2,
     "ipo": 1
@@ -53,7 +53,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 20,
-    "Adisatrya Suryo Sulisto": 4,
+    "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 4,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
@@ -87,12 +87,33 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 13,
+    "Koperasi/UMKM": 63,
+    "Perdagangan": 14,
     "Konflik Publik": 4,
     "Kinerja BUMN": 14
   },
   "top_headlines": [
+    {
+      "title": "Danantara Mulai Transformasi RS BUMN dari RSPP - aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 19:13:34 GMT",
+      "link": "https://aspek.id/danantara-mulai-transformasi-rs-bumn-dari-rspp/"
+    },
+    {
+      "title": "Danantara Mulai Transformasi RS BUMN dari RSPP - aspek.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 19:13:34 GMT",
+      "link": "https://aspek.id/danantara-mulai-transformasi-rs-bumn-dari-rspp/"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas Juli 2026 Turun 5,36%, Kemendag Ungkap Penyebabnya - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 18:10:01 GMT",
+      "link": "https://investortrust.id/business/108134/harga-patokan-ekspor-emas-juli-2026-turun-5-36-kemendag-ungkap-penyebabnya?page=english-edition"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 04 Sep 2026 13:02:35 GMT",
       "link": "https://jogja.antaranews.com/berita/852061/menkop-perpres-kdkmp-segera-terbit-atur-tugas-fungsi-koperasi"
-    },
-    {
-      "title": "BP BUMN Minta ADHI Lepas Seluruh Anak Usaha demi Transformasi - Tirto.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 12:30:00 GMT",
-      "link": "https://tirto.id/bp-bumn-minta-adhi-lepas-seluruh-anak-usaha-demi-transformasi-hCor"
-    },
-    {
-      "title": "BP BUMN Minta ADHI Lepas Seluruh Anak Usaha demi Transformasi - Tirto.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 12:30:00 GMT",
-      "link": "https://tirto.id/bp-bumn-minta-adhi-lepas-seluruh-anak-usaha-demi-transformasi-hCor"
-    },
-    {
-      "title": "Penjurian AHI 2026: Memanfaatkan AI untuk Melayani Publik - Humas Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 11:30:26 GMT",
-      "link": "https://humasindonesia.id/berita/penjurian-ahi-2026-memanfaatkan-ai-untuk-melayani-publik-3484"
     }
   ]
 }
