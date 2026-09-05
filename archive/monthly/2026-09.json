@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-05T07:24:04.331706",
+  "generated_at": "2026-09-05T11:37:22.183802",
   "party_counts_7d": {
-    "Gerindra": 25,
-    "PDI-P": 34,
-    "Golkar": 17,
-    "NasDem": 2,
-    "PKB": 11,
-    "PKS": 2,
-    "PAN": 6,
+    "Gerindra": 26,
+    "PDI-P": 35,
+    "Golkar": 16,
+    "NasDem": 4,
+    "PKB": 10,
+    "PKS": 3,
+    "PAN": 7,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 69,
     "PDI-P": 74,
     "Golkar": 69,
-    "NasDem": 16,
+    "NasDem": 14,
     "PKB": 47,
     "PKS": 45,
-    "PAN": 15,
-    "Demokrat": 14
+    "PAN": 16,
+    "Demokrat": 13
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
-    "danantara": 25,
+    "bumn": 71,
+    "danantara": 24,
     "investasi": 28,
-    "dividen": 2,
+    "dividen": 1,
     "umkm": 22,
-    "koperasi": 51,
+    "perdagangan": 8,
     "ekspor": 3,
-    "perdagangan": 11,
-    "merger-akuisisi": 7,
-    "kartel-monopoli": 2,
+    "koperasi": 51,
+    "kartel-monopoli": 3,
+    "merger-akuisisi": 5,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -57,8 +57,7 @@
     "Mufti Anam": 4,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 3,
-    "Sadarestuwati": 1,
+    "I Gusti Ngurah Kesuma Kelakan": 4,
     "Ida Nurlaela": 18,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 19,
@@ -68,10 +67,10 @@
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 20,
-    "Rachmat Gobel": 4,
+    "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 7,
+    "I Nengah Senantara": 1,
     "Randi Zulmariadi": 1,
-    "Rudi Hartono Bangun": 4,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
@@ -81,122 +80,122 @@
     "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 12,
+    "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 9
+    "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Hukum/Audit": 12,
+    "Kinerja BUMN": 15,
+    "Hukum/Audit": 11,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 13,
-    "Konflik Publik": 4,
-    "Kinerja BUMN": 14
+    "Perdagangan": 17,
+    "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Adhi Karya Pangkas Anak Usaha, Danantara Targetkan Satu Entitas - Industry.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 02:40:00 GMT",
-      "link": "https://www.industry.co.id/read/155461/adhi-karya-pangkas-anak-usaha-danantara-targetkan-satu-entitas"
-    },
-    {
-      "title": "Wisatawan Capai 6,9 Juta, Bali Perlu Kajian Carrying Capacity - detikNews",
-      "entity": "I Gusti Ngurah Kesuma Kelakan",
-      "kind": "anggota",
-      "published": "Sat, 05 Sep 2026 02:20:13 GMT",
-      "link": "https://news.detik.com/berita/d-8649390/wisatawan-capai-6-9-juta-bali-perlu-kajian-carrying-capacity"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Naik Kelas Lewat Akses Pasar Global - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 01:49:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/324779/kemenkop-dorong-koperasi-naik-kelas-lewat-akses-pasar-global"
-    },
-    {
-      "title": "Prabowo Minta Hilirisasi Dipercepat & Penataan BUMN Dilanjutkan - Tirto.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 01:22:00 GMT",
-      "link": "https://tirto.id/prabowo-minta-hilirisasi-dipercepat-penataan-bumn-dilanjutkan-hCpu"
-    },
-    {
-      "title": "KPPU dan BPKN Soroti Ketimpangan Struktur Pasar Digital Indonesia - achmadnurhidayat.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 01:05:45 GMT",
-      "link": "https://achmadnurhidayat.id/kppu-bpkn-ketimpangan-pasar-digital"
-    },
-    {
-      "title": "KPPU dan BPKN Soroti Ketimpangan Struktur Pasar Digital Indonesia - achmadnurhidayat.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 01:05:45 GMT",
-      "link": "https://achmadnurhidayat.id/kppu-bpkn-ketimpangan-pasar-digital"
-    },
-    {
-      "title": "Menkop menyebut aturan operasional KDKMP segera keluar - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 01:02:48 GMT",
-      "link": "https://kalsel.antaranews.com/berita/533800/menkop-menyebut-aturan-operasional-kdkmp-segera-keluar"
-    },
-    {
-      "title": "KPPU dan BPKN Soroti Platform Digital - investor.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 00:51:09 GMT",
-      "link": "https://investor.id/business/452940/kppu-dan-bpkn-soroti-platform-digital"
-    },
-    {
-      "title": "Berharap Kursi DPR Nambah Sekjen Golkar Minta Kader Kompak Dukung Pemerintah - RM.ID",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Fri, 04 Sep 2026 23:50:00 GMT",
-      "link": "https://rm.id/baca-berita/parpol/324732/berharap-kursi-dpr-nambah-sekjen-golkar-minta-kader-kompak-dukung-pemerintah"
-    },
-    {
-      "title": "Penjurian AHI 2026: Optimalisasi AI untuk Akselerasi Layanan Publik - prindonesia.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 23:48:20 GMT",
-      "link": "https://www.prindonesia.co/detail/4341/Penjurian-AHI-2026-Optimalisasi-AI-untuk-Akselerasi-Layanan-Publik"
-    },
-    {
-      "title": "Menkop: KDKMP jadi pembeli siaga produk unggulan desa - ANTARA News Lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 22:34:24 GMT",
-      "link": "https://lampung.antaranews.com/berita/828379/menkop-kdkmp-jadi-pembeli-siaga-produk-unggulan-desa"
-    },
-    {
-      "title": "Danantara Mulai Transformasi RS BUMN dari RSPP - aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 19:13:34 GMT",
-      "link": "https://aspek.id/danantara-mulai-transformasi-rs-bumn-dari-rspp/"
-    },
-    {
-      "title": "Danantara Mulai Transformasi RS BUMN dari RSPP - aspek.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 19:13:34 GMT",
-      "link": "https://aspek.id/danantara-mulai-transformasi-rs-bumn-dari-rspp/"
-    },
-    {
-      "title": "Harga Patokan Ekspor Emas Juli 2026 Turun 5,36%, Kemendag Ungkap Penyebabnya - InvestorTrust",
+      "title": "Jelang IEU-CEPA, RI dan Irlandia Bakal Perkuat Perdagangan serta Investasi - kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 18:10:01 GMT",
-      "link": "https://investortrust.id/business/108134/harga-patokan-ekspor-emas-juli-2026-turun-5-36-kemendag-ungkap-penyebabnya?page=english-edition"
+      "published": "Sat, 05 Sep 2026 11:12:45 GMT",
+      "link": "https://nasional.kontan.co.id/news/jelang-ieu-cepa-ri-dan-irlandia-bakal-perkuat-perdagangan-serta-investasi"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Tinjau Pasar Nusukan, Kemendag Pastikan Harga Minyakita Sesuai HET - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 17:48:53 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260905/Mjc0NDQ0"
+      "published": "Sat, 05 Sep 2026 10:46:00 GMT",
+      "link": "https://investortrust.id/business/115309/tinjau-pasar-nusukan-kemendag-pastikan-harga-minyakita-sesuai-het"
+    },
+    {
+      "title": "700 BUMN Ditargetkan Tutup Hingga Akhir Tahun - detikcom",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 10:01:35 GMT",
+      "link": "https://www.detik.com/sumut/berita/d-8649636/700-bumn-ditargetkan-tutup-hingga-akhir-tahun"
+    },
+    {
+      "title": "Permintaan Ayam di Sumut Meningkat Gara-Gara MBG, KPPU Ingatkan Petingnya Keseimbangan Pasokan - VIVA Medan",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 09:09:00 GMT",
+      "link": "https://medan.viva.co.id/sumut/14963-permintaan-ayam-di-sumut-meningkat-gara-gara-mbg-kppu-ingatkan-petingnya-keseimbangan-pasokan"
+    },
+    {
+      "title": "Bulog Usulkan Penyaluran DMO Minyakita 100 Persen, Masih Tunggu Keputusan Kemendag - MOST 1058",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 08:01:46 GMT",
+      "link": "https://most1058fm.com/2026/09/bulog-usulkan-penyaluran-dmo-minyakita-100-persen-masih-tunggu-keputusan-kemendag/"
+    },
+    {
+      "title": "Bulog tunggu keputusan Kemendag soal DMO Minyakita 100 persen - jogja.antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:52:29 GMT",
+      "link": "https://jogja.antaranews.com/berita/852191/bulog-tunggu-keputusan-kemendag-soal-dmo-minyakita-100-persen"
+    },
+    {
+      "title": "Kemenkop Bantah Anggaran Rp103 Miliar untuk Podcast, Lalu Buat Apa? - KabarBursa.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:51:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/kemenkop-bantah-anggaran-rp103-miliar-untuk-podcast-lalu-buat-apa"
+    },
+    {
+      "title": "Dorong Hilirisasi di Hambalang, Presiden Prabowo Targetkan Efisiensi BUMN Rp100 T - news.indozone.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:36:00 GMT",
+      "link": "https://news.indozone.id/politik/2486731541/dorong-hilirisasi-di-hambalang-presiden-prabowo-targetkan-efisiensi-bumn-rp100-t"
+    },
+    {
+      "title": "Bulog Usul DMO Minyakita 100 Persen, Tunggu Keputusan Kemendag - Harianjogja.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:32:40 GMT",
+      "link": "https://news.harianjogja.com/r-1270079/bulog-usul-dmo-minyakita-100-persen-tunggu-keputusan-kemendag"
+    },
+    {
+      "title": "Kemenkop Ungkap 3 Tantangan Koperasi Naik Kelas Jadi Pemain Global - Infobanknews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:14:03 GMT",
+      "link": "https://infobanknews.com/kemenkop-ungkap-3-tantangan-koperasi-naik-kelas-jadi-pemain-global"
+    },
+    {
+      "title": "KPPU Bahas Persaingan Usaha dan Regulasi Pasar Digital di Indonesia - achmadnurhidayat.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 07:02:46 GMT",
+      "link": "https://achmadnurhidayat.id/kppu-bahas-persaingan-pasar-digital"
+    },
+    {
+      "title": "KPPU Dorong Regulasi Baru Atur Persaingan Pasar Digital - SuaraGarut.ID",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 06:54:16 GMT",
+      "link": "https://suaragarut.id/kppu-dorong-regulasi-baru-pasar-digital"
+    },
+    {
+      "title": "Pariwisata Meningkat, Kesuma Kelakan: Sudah Saatnya Hitung Carrying Capacity Bali - Tempo.co",
+      "entity": "I Gusti Ngurah Kesuma Kelakan",
+      "kind": "anggota",
+      "published": "Sat, 05 Sep 2026 06:50:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/pariwisata-meningkat-kesuma-kelakan-sudah-saatnya-hitung-carrying-capacity-bali--2285637"
+    },
+    {
+      "title": "Sisa Kuota tak Boleh Hangus, Abdul Halim: Komisi I Awasi Kepatuhan Operator - Inilah.com",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Sat, 05 Sep 2026 06:11:00 GMT",
+      "link": "https://www.inilah.com/sisa-kuota-tak-boleh-hangus-abdul-halim-komisi-i-awasi-kepatuhan-operator"
+    },
+    {
+      "title": "Dr. Rieke Diah Pitaloka: Reforma Agraria Tak Boleh Jadi Obat Sementara - Teras Media",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 05 Sep 2026 05:55:34 GMT",
+      "link": "https://terasmedia.co/nasional/44321/dr-rieke-diah-pitaloka-reforma-agraria-tak-boleh-jadi-obat-sementara/"
     }
   ]
 }
