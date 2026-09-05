@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-04T23:42:20.931651",
+  "generated_at": "2026-09-05T02:55:09.650267",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 34,
-    "Golkar": 19,
+    "Gerindra": 28,
+    "PDI-P": 35,
+    "Golkar": 20,
     "NasDem": 2,
-    "PKB": 15,
+    "PKB": 14,
     "PKS": 3,
     "PAN": 6,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 75,
-    "Golkar": 68,
+    "PDI-P": 76,
+    "Golkar": 69,
     "NasDem": 16,
     "PKB": 47,
-    "PKS": 49,
+    "PKS": 47,
     "PAN": 17,
     "Demokrat": 14
   },
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
+    "bumn": 70,
     "danantara": 25,
-    "investasi": 27,
+    "investasi": 28,
     "dividen": 2,
     "umkm": 22,
-    "koperasi": 50,
+    "koperasi": 51,
     "ekspor": 3,
     "perdagangan": 11,
     "merger-akuisisi": 7,
@@ -57,7 +57,7 @@
     "Mufti Anam": 4,
     "Darmadi Durianto": 20,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 2,
+    "I Gusti Ngurah Kesuma Kelakan": 3,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 20,
     "Budi Sulistyono": 3,
@@ -67,7 +67,7 @@
     "Doni Akbar": 2,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
-    "Muhammad Sarmuji": 19,
+    "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 7,
     "Randi Zulmariadi": 1,
@@ -75,7 +75,7 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
-    "Amin Ak.": 16,
+    "Amin Ak.": 14,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
     "Ismail": 10,
@@ -87,12 +87,82 @@
   },
   "early_warning_counts": {
     "Hukum/Audit": 13,
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 14,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 13,
     "Konflik Publik": 4,
     "Kinerja BUMN": 14
   },
   "top_headlines": [
+    {
+      "title": "Adhi Karya Pangkas Anak Usaha, Danantara Targetkan Satu Entitas - Industry.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 02:40:00 GMT",
+      "link": "https://www.industry.co.id/read/155461/adhi-karya-pangkas-anak-usaha-danantara-targetkan-satu-entitas"
+    },
+    {
+      "title": "Wisatawan Capai 6,9 Juta, Bali Perlu Kajian Carrying Capacity - detikNews",
+      "entity": "I Gusti Ngurah Kesuma Kelakan",
+      "kind": "anggota",
+      "published": "Sat, 05 Sep 2026 02:20:13 GMT",
+      "link": "https://news.detik.com/berita/d-8649390/wisatawan-capai-6-9-juta-bali-perlu-kajian-carrying-capacity"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Naik Kelas Lewat Akses Pasar Global - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 01:49:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/324779/kemenkop-dorong-koperasi-naik-kelas-lewat-akses-pasar-global"
+    },
+    {
+      "title": "Prabowo Minta Hilirisasi Dipercepat & Penataan BUMN Dilanjutkan - Tirto.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 01:22:00 GMT",
+      "link": "https://tirto.id/prabowo-minta-hilirisasi-dipercepat-penataan-bumn-dilanjutkan-hCpu"
+    },
+    {
+      "title": "KPPU dan BPKN Soroti Ketimpangan Struktur Pasar Digital Indonesia - achmadnurhidayat.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 01:05:45 GMT",
+      "link": "https://achmadnurhidayat.id/kppu-bpkn-ketimpangan-pasar-digital"
+    },
+    {
+      "title": "KPPU dan BPKN Soroti Ketimpangan Struktur Pasar Digital Indonesia - achmadnurhidayat.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 01:05:45 GMT",
+      "link": "https://achmadnurhidayat.id/kppu-bpkn-ketimpangan-pasar-digital"
+    },
+    {
+      "title": "Menkop menyebut aturan operasional KDKMP segera keluar - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 01:02:48 GMT",
+      "link": "https://kalsel.antaranews.com/berita/533800/menkop-menyebut-aturan-operasional-kdkmp-segera-keluar"
+    },
+    {
+      "title": "KPPU dan BPKN Soroti Platform Digital - investor.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 00:51:09 GMT",
+      "link": "https://investor.id/business/452940/kppu-dan-bpkn-soroti-platform-digital"
+    },
+    {
+      "title": "Berharap Kursi DPR Nambah Sekjen Golkar Minta Kader Kompak Dukung Pemerintah - RM.ID",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Fri, 04 Sep 2026 23:50:00 GMT",
+      "link": "https://rm.id/baca-berita/parpol/324732/berharap-kursi-dpr-nambah-sekjen-golkar-minta-kader-kompak-dukung-pemerintah"
+    },
+    {
+      "title": "Penjurian AHI 2026: Optimalisasi AI untuk Akselerasi Layanan Publik - prindonesia.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 04 Sep 2026 23:48:20 GMT",
+      "link": "https://www.prindonesia.co/detail/4341/Penjurian-AHI-2026-Optimalisasi-AI-untuk-Akselerasi-Layanan-Publik"
+    },
     {
       "title": "Menkop: KDKMP jadi pembeli siaga produk unggulan desa - ANTARA News Lampung",
       "entity": "Kementerian Koperasi",
@@ -127,76 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 04 Sep 2026 17:48:53 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260905/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 17:08:45 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260905/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Aturan Operasional KDKMP Segera Terbit, Ferry: Jadi Pedoman Pengelolaan Koperasi - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 16:25:35 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2609040131/aturan-operasional-kdkmp-segera-terbit-ferry-jadi-pedoman-pengelolaan-koperasi"
-    },
-    {
-      "title": "Perkuat Hilirisasi Desa, Menkop Dorong KDKMP Jadi Offtaker Produk Unggulan - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 16:11:46 GMT",
-      "link": "https://news.detik.com/berita/d-8649135/perkuat-hilirisasi-desa-menkop-dorong-kdkmp-jadi-offtaker-produk-unggulan"
-    },
-    {
-      "title": "Menkop Dorong KDKMP Jadi Offtaker Produk Unggulan Masyarakat - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 16:05:14 GMT",
-      "link": "https://indoposco.id/2026/09/04/menkop-dorong-kdkmp-jadi-offtaker-produk-unggulan-masyarakat/"
-    },
-    {
-      "title": "Kemendag Soroti Regenerasi Perajin Rotan di Sukoharjo - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 15:45:00 GMT",
-      "link": "https://rri.co.id/nasional/2707733/kemendag-soroti-regenerasi-perajin-rotan-di-sukoharjo"
-    },
-    {
-      "title": "Menkop sebut KDKMP jadi pembeli siaga produk unggulan desa - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 15:29:43 GMT",
-      "link": "https://jogja.antaranews.com/berita/852115/menkop-sebut-kdkmp-jadi-pembeli-siaga-produk-unggulan-desa"
-    },
-    {
-      "title": "BPI Danantara Dorong Transformasi IHC Menuju Standar Global - SuaraGarut.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 14:30:17 GMT",
-      "link": "https://suaragarut.id/bpi-danantara-dorong-transformasi-ihc"
-    },
-    {
-      "title": "Layanan RS BUMN Mau Naik Kelas, RSPP Bakal Dipugar - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 14:17:28 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8649074/layanan-rs-bumn-mau-naik-kelas-rspp-bakal-dipugar"
-    },
-    {
-      "title": "Danantara Dorong Transformasi Rumah Sakit BUMN, RSPP Jadi Prototipe - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 13:27:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/04/202741826/danantara-dorong-transformasi-rumah-sakit-bumn-rspp-jadi-prototipe"
-    },
-    {
-      "title": "Pemkot Bandar Lampung Kucurkan Rp50 Juta untuk 126 Koperasi Kelurahan - Lampungpro",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 04 Sep 2026 13:02:50 GMT",
-      "link": "https://lampungpro.co/news/pemkot-bandar-lampung-kucurkan-rp50-juta-untuk-126-koperasi-kelurahan"
     }
   ]
 }
