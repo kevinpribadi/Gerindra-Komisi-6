@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-05T23:33:08.354938",
+  "generated_at": "2026-09-06T02:53:19.506842",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 22,
     "PDI-P": 36,
     "Golkar": 16,
     "NasDem": 4,
     "PKB": 7,
-    "PKS": 3,
+    "PKS": 4,
     "PAN": 8,
     "Demokrat": 3
   },
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 72,
-    "danantara": 25,
+    "danantara": 26,
     "investasi": 28,
     "dividen": 1,
     "umkm": 21,
@@ -44,7 +44,7 @@
     "koperasi": 50,
     "ipo": 2,
     "kartel-monopoli": 3,
-    "merger-akuisisi": 4
+    "merger-akuisisi": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -74,9 +74,9 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
-    "Amin Ak.": 12,
+    "Amin Ak.": 11,
     "Rizal Bawazier": 20,
-    "Ghufran": 3,
+    "Ghufran": 4,
     "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
@@ -86,18 +86,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Hukum/Audit": 11,
+    "Hukum/Audit": 12,
     "Koperasi/UMKM": 62,
     "Perdagangan": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
+      "title": "Rampingkan 300 Anak Usaha BUMN, Komisi VI Minta BPI Danantara Lindungi Hak Pekerja - Herald.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 02:32:00 GMT",
+      "link": "https://herald.id/2026/09/06/rampingkan-300-anak-usaha-bumn-komisi-vi-minta-bpi-danantara-lindungi-hak-pekerja/"
+    },
+    {
+      "title": "Soroti Ketimpangan Platform Digital, KPPU dan BPKN Dorong Regulasi Baru Atur Perlindungan Konsumen - Media Indonesia",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 02:30:35 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/930317/soroti-ketimpangan-platform-digital-kppu-dan-bpkn-dorong-regulasi-baru-atur-perlindungan-konsumen"
+    },
+    {
+      "title": "KPPU Jalan, Dugaan Pidana Geomembrane PHR Jangan Dibiarkan Menguap – Kalimantan Kita - kakinews.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 00:36:57 GMT",
+      "link": "https://kakinews.id/kppu-jalan-dugaan-pidana-geomembrane-phr-jangan-dibiarkan-menguap/"
+    },
+    {
       "title": "Restrukturisasi BUMN Jangan Sampai Korbankan Tenaga Kerja Operasional - Kedai Pena",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Sat, 05 Sep 2026 22:49:13 GMT",
       "link": "https://www.kedaipena.com/restrukturisasi-bumn-jangan-sampai-korbankan-tenaga-kerja-operasional/"
+    },
+    {
+      "title": "Dinilai Aspiratif dan Peduli Pembangunan Aceh, Ghufran ZA Terima Anugerah SMSI Award 2026 - harianrakyataceh.com",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Sat, 05 Sep 2026 22:27:09 GMT",
+      "link": "https://harianrakyataceh.com/news/dinilai-aspiratif-dan-peduli-pembangunan-aceh-ghufran-za-terima-anugerah-smsi-award-2026/index.html"
     },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
@@ -126,6 +154,13 @@
       "kind": "lembaga",
       "published": "Sat, 05 Sep 2026 15:25:00 GMT",
       "link": "https://rri.co.id/nasional/2709121/wamendag-cek-minyakita-di-pasar-nusukan-harga-sesuai-het"
+    },
+    {
+      "title": "KPPU Jaga Persaingan dan Inovasi Transaksi Belanja Digital - Bisnis.com - Ekonomi",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 05 Sep 2026 13:30:11 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260905/12/2001688/kppu-jaga-persaingan-dan-inovasi-transaksi-belanja-digital"
     },
     {
       "title": "DPR Soroti Biaya Besar di Balik Hibah Kapal Induk Giuseppe Garibaldi - Satumedia.id",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Sat, 05 Sep 2026 11:12:45 GMT",
       "link": "https://nasional.kontan.co.id/news/jelang-ieu-cepa-ri-dan-irlandia-bakal-perkuat-perdagangan-serta-investasi"
-    },
-    {
-      "title": "Tinjau Pasar Nusukan, Kemendag Pastikan Harga Minyakita Sesuai HET - InvestorTrust",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 10:46:00 GMT",
-      "link": "https://investortrust.id/business/115309/tinjau-pasar-nusukan-kemendag-pastikan-harga-minyakita-sesuai-het"
-    },
-    {
-      "title": "700 BUMN Ditargetkan Tutup Hingga Akhir Tahun - detikcom",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 10:01:35 GMT",
-      "link": "https://www.detik.com/sumut/berita/d-8649636/700-bumn-ditargetkan-tutup-hingga-akhir-tahun"
-    },
-    {
-      "title": "Aturan Operasional Koperasi Desa Merah Putih Segera Terbit - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 09:22:00 GMT",
-      "link": "https://www.beritakoperasi.com/aturan-operasional-koperasi-desa-merah-putih-segera-terbit/"
-    },
-    {
-      "title": "Wamendag Dyah Roro Sidak Pasar, Harga Cabai Naik - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 09:17:55 GMT",
-      "link": "https://www.tempo.co/ekonomi/wamendag-dyah-roro-sidak-pasar-harga-cabai-naik-2285662"
-    },
-    {
-      "title": "Permintaan Ayam di Sumut Meningkat Gara-Gara MBG, KPPU Ingatkan Petingnya Keseimbangan Pasokan - VIVA Medan",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 05 Sep 2026 09:09:00 GMT",
-      "link": "https://medan.viva.co.id/sumut/14963-permintaan-ayam-di-sumut-meningkat-gara-gara-mbg-kppu-ingatkan-petingnya-keseimbangan-pasokan"
     }
   ]
 }
