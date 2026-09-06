@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-06T11:56:46.039227",
+  "generated_at": "2026-09-06T15:05:06.143151",
   "party_counts_7d": {
     "Gerindra": 22,
-    "PDI-P": 39,
-    "Golkar": 16,
-    "NasDem": 5,
-    "PKB": 7,
+    "PDI-P": 38,
+    "Golkar": 15,
+    "NasDem": 8,
+    "PKB": 5,
     "PKS": 4,
-    "PAN": 8,
+    "PAN": 7,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 69,
     "PDI-P": 76,
     "Golkar": 70,
-    "NasDem": 14,
+    "NasDem": 17,
     "PKB": 46,
-    "PKS": 44,
+    "PKS": 42,
     "PAN": 16,
     "Demokrat": 13
   },
@@ -36,15 +36,16 @@
   "topic_counts_30d": {
     "bumn": 73,
     "danantara": 28,
-    "investasi": 31,
+    "investasi": 33,
     "dividen": 1,
-    "umkm": 25,
-    "ekspor": 3,
-    "perdagangan": 8,
-    "koperasi": 51,
-    "ipo": 2,
+    "umkm": 26,
+    "ekspor": 4,
+    "perdagangan": 9,
+    "impor": 1,
+    "koperasi": 52,
     "kartel-monopoli": 3,
-    "merger-akuisisi": 3
+    "ipo": 2,
+    "merger-akuisisi": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -68,13 +69,13 @@
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 7,
-    "I Nengah Senantara": 2,
+    "Asep Wahyuwijaya": 8,
+    "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
-    "Amin Ak.": 11,
+    "Amin Ak.": 9,
     "Rizal Bawazier": 20,
     "Ghufran": 4,
     "Ismail": 9,
@@ -86,18 +87,67 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 17,
-    "Hukum/Audit": 9,
-    "Koperasi/UMKM": 68,
-    "Perdagangan": 21,
-    "Konflik Publik": 5
+    "Hukum/Audit": 8,
+    "Koperasi/UMKM": 70,
+    "Perdagangan": 24,
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BPKN Minta Perlindungan Konsumen Terdampak Erupsi Anak Krakatau - achmadnurhidayat.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 14:12:40 GMT",
+      "link": "https://achmadnurhidayat.id/bpkn-perlindungan-konsumen-anak-krakatau"
+    },
+    {
+      "title": "BPKN Desak Perlindungan Konsumen Terdampak Erupsi Gunung Anak Krakatau - SuaraGarut.ID",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 14:06:20 GMT",
+      "link": "https://suaragarut.id/bpkn-desak-perlindungan-konsumen-erupsi-krakatau"
+    },
+    {
+      "title": "Tolak Wacana Kadin Jadi Lembaga Negara, Nengah: Jangan Sampai Ada 'Menteri Kadin' dan 'DPR' Kadin - industry.co.id",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Sun, 06 Sep 2026 13:53:00 GMT",
+      "link": "https://www.industry.co.id/read/155529/tolak-wacana-kadin-jadi-lembaga-negara-nengah-jangan-sampai-ada-menteri-kadin-dan-dpr-kadin"
+    },
+    {
+      "title": "Sarmuji Jadi Legislator dengan Kinerja Terbaik di Jatim, Masuk Bursa Pilgub - detikcom",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Sun, 06 Sep 2026 13:45:42 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub"
+    },
+    {
+      "title": "Kemenkop dorong koperasi penuhi sertifikasi untuk tembus ekspor - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 13:21:05 GMT",
+      "link": "https://www.antaranews.com/berita/5728752/kemenkop-dorong-koperasi-penuhi-sertifikasi-untuk-tembus-ekspor"
+    },
     {
       "title": "Mendag minta produsen \"pet food\" optimalkan pasar domestik dan ekspor - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 11:27:31 GMT",
       "link": "https://gorontalo.antaranews.com/berita/422896/mendag-minta-produsen-pet-food-optimalkan-pasar-domestik-dan-ekspor"
+    },
+    {
+      "title": "RI-Irlandia Perkuat Kerja Sama Perdagangan & Investasi, Bersiap Implementasi IEU-CEPA - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 11:23:04 GMT",
+      "link": "https://nasional.kontan.co.id/news/ri-irlandia-perkuat-kerja-sama-perdagangan-investasi-bersiap-implementasi-ieu-cepa"
+    },
+    {
+      "title": "KPPU Kanwil I awasi rantai pasok ayam Sumut seiring kembali berjalannya Program MBG - Elshinta",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 10:10:28 GMT",
+      "link": "https://elshinta.com/kategori/1/ekonomi/kppu-kanwil-i-awasi-rantai-pasok-ayam-sumut-seiring-kembali-berjalannya-program-mbg-175970"
     },
     {
       "title": "Danantara Perkuat Arah Investasi Pemerintah untuk Akselerasi Ekonomi - lintastotabuan.com",
@@ -112,6 +162,13 @@
       "kind": "anggota",
       "published": "Sun, 06 Sep 2026 08:18:25 GMT",
       "link": "https://www.dpr.go.id/kegiatan-dpr/berita/I-Nengah-Senantara-Tolak-Kadin-Jadi-Lembaga-Negara-Soroti-Potensi-Dualisme-68811"
+    },
+    {
+      "title": "KPPU Kanwil IV: Belum Temukan Kartel di Balik Kenaikan Harga Daging Sapi di Surabaya - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 07:36:00 GMT",
+      "link": "https://rri.co.id/surabaya/regional/2710330/kppu-kanwil-iv-belum-temukan-kartel-di-balik-kenaikan-harga-daging-sapi-di-surabaya"
     },
     {
       "title": "Kemenkop Dorong Koperasi Indonesia Tembus Pasar Global - achmadnurhidayat.id",
@@ -135,67 +192,11 @@
       "link": "https://www.fraksigerindra.id/mulan-jameela-realisasikan-program-sumur-bor-untuk-perluas-akses-air-bersih-di-garut-dan-tasikmalaya/"
     },
     {
-      "title": "Danantara, Mesin Investasi Strategis bagi Pertumbuhan Ekonomi Nasional - Minews ID",
+      "title": "Danantara Siapkan Rencana Investasi untuk Dukung RAPBN 2027 - Minews ID",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 05:50:51 GMT",
-      "link": "https://minews.id/cuitan-mi/danantara-mesin-investasi-strategis-bagi-pertumbuhan-ekonomi-nasional"
-    },
-    {
-      "title": "Adisatrya Suryo: RUU Kadin Perlu Respons Perkembangan Dunia Usaha yang Semakin Kompleks - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 05:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-ruu-kadin-perlu-respons-perkembangan-dunia-usaha-yang-semakin-kompleks-b2qaXZbhHA"
-    },
-    {
-      "title": "Dorong UMKM Tembus Pasar Global, BRI Raih Penghargaan Niaga Werdhitama dari Kemendag - Radar Banjarmasin",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 04:54:12 GMT",
-      "link": "https://radarbanjarmasin.jawapos.com/bisnis/2609060006/dorong-umkm-tembus-pasar-global-bri-raih-penghargaan-niaga-werdhitama-dari-kemendag"
-    },
-    {
-      "title": "Tinjau Pasar Nusukan Surakarta, Wamendag Pastikan Harga Minyakita Sesuai HET - agrofarm.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 04:41:08 GMT",
-      "link": "http://www.agrofarm.co.id/2026/09/tinjau-pasar-nusukan-surakarta-wamendag-pastikan-harga-minyakita-sesuai-het/"
-    },
-    {
-      "title": "BRI Raih Penghargaan Niaga Werdhitama dari Kementerian Perdagangan atas Komitmen Dorong UMKM Tembus Pasar Global - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 04:04:48 GMT",
-      "link": "https://www.metrotvnews.com/read/bzGCeQEn-bri-raih-penghargaan-niaga-werdhitama-dari-kementerian-perdagangan-atas-komitmen-dorong-umkm-tembus-pasar-global"
-    },
-    {
-      "title": "Pangkas 300 Anak BUMN, DPR Minta Danantara Cegah PHK - Emitennews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 04:00:00 GMT",
-      "link": "https://www.emitennews.com/news/pangkas-300-anak-bumn-dpr-minta-danantara-cegah-phk"
-    },
-    {
-      "title": "Pangkas 300 Anak BUMN, DPR Minta Danantara Cegah PHK - Emitennews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 04:00:00 GMT",
-      "link": "https://emitennews.com/news/pangkas-300-anak-bumn-dpr-minta-danantara-cegah-phk"
-    },
-    {
-      "title": "Mufti Anam Ajak Masyarakat Perkuat Budaya Gotong Royong, Modal Sosial Hadapi Tekanan - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 03:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/mufti-anam-ajak-masyarakat-perkuat-budaya-gotong-royong-modal-sosial-hadapi-tekanan-b2qaXZbhIl"
-    },
-    {
-      "title": "Rampingkan 300 Anak Usaha BUMN, Komisi VI DPR Minta BPI Danantara Lindungi Hak Pekerja - Suara Investor",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 02:32:28 GMT",
-      "link": "https://www.suarainvestor.com/rampingkan-300-anak-usaha-bumn-komisi-vi-dpr-minta-bpi-danantara-lindungi-hak-pekerja/"
+      "published": "Sun, 06 Sep 2026 05:55:45 GMT",
+      "link": "https://minews.id/news/danantara-siapkan-rencana-investasi-untuk-dukung-rapbn-2027"
     }
   ]
 }
