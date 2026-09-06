@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-06T20:19:47.689101",
+  "generated_at": "2026-09-06T22:40:26.888146",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
     "Golkar": 16,
-    "NasDem": 8,
+    "NasDem": 9,
     "PKB": 5,
     "PKS": 4,
     "PAN": 7,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 76,
     "Golkar": 70,
-    "NasDem": 17,
+    "NasDem": 18,
     "PKB": 46,
     "PKS": 42,
     "PAN": 16,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 73,
-    "danantara": 27,
+    "bumn": 75,
+    "dividen": 2,
+    "danantara": 28,
     "investasi": 32,
-    "dividen": 1,
-    "umkm": 27,
+    "umkm": 26,
     "perdagangan": 10,
-    "ekspor": 5,
+    "ekspor": 6,
     "impor": 1,
-    "koperasi": 52,
+    "koperasi": 53,
     "kartel-monopoli": 3,
     "ipo": 2,
     "merger-akuisisi": 2
@@ -68,7 +68,7 @@
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 20,
-    "Rachmat Gobel": 4,
+    "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 4,
     "Randi Zulmariadi": 1,
@@ -83,16 +83,30 @@
     "Nasril Bahar": 1,
     "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 8
+    "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Hukum/Audit": 8,
+    "Hukum/Audit": 7,
+    "Perdagangan": 27,
     "Koperasi/UMKM": 71,
-    "Perdagangan": 26,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "OPINI: Dividen BUMN untuk Mempertebal Fiskal - Bisnis.com - Ekonomi",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 22:00:05 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260907/9/2001826/opini-dividen-bumn-untuk-mempertebal-fiskal"
+    },
+    {
+      "title": "Kinerja Danantara: Klaim Laba “Jumbo” Tanpa Laporan Keuangan - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 21:55:00 GMT",
+      "link": "https://infobanknews.com/kinerja-danantara-klaim-laba-jumbo-tanpa-laporan-keuangan"
+    },
     {
       "title": "Komisi VI Terima Pagu Anggaran BP Batam Rp2,44 Triliun - RRI.co.id",
       "entity": "BP Batam",
@@ -113,6 +127,13 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 15:48:10 GMT",
       "link": "https://www.sinarharapan.net/bpkn-ri-minta-langkah-konkret-lindungi-penumpang-terdampak-erupsi-anak-krakatau/"
+    },
+    {
+      "title": "Kemenkop dorong koperasi penuhi sertifikasi untuk tembus ekspor - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 15:45:00 GMT",
+      "link": "https://jatim.antaranews.com/berita/1096409/kemenkop-dorong-koperasi-penuhi-sertifikasi-untuk-tembus-ekspor"
     },
     {
       "title": "Kabupaten Pati Berguru KDKMP ke Kelurahan Srimulyo Bantul - Humas Kabupaten Pati",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 11:55:20 GMT",
       "link": "https://www.antaranews.com/berita/5728631/bri-raih-penghargaan-niaga-werdhitama-dari-kementerian-perdagangan-atas-komitmen-dorong-umkm-tembus-pasar-global"
-    },
-    {
-      "title": "Mendag minta produsen \"pet food\" optimalkan pasar domestik dan ekspor - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 11:27:31 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/422896/mendag-minta-produsen-pet-food-optimalkan-pasar-domestik-dan-ekspor"
-    },
-    {
-      "title": "RI-Irlandia Perkuat Kerja Sama Perdagangan & Investasi, Bersiap Implementasi IEU-CEPA - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 11:23:04 GMT",
-      "link": "https://nasional.kontan.co.id/news/ri-irlandia-perkuat-kerja-sama-perdagangan-investasi-bersiap-implementasi-ieu-cepa"
-    },
-    {
-      "title": "BRI Raih Niaga Werdhitama, Dorong Ekspor UMKM - feedberry.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 10:11:58 GMT",
-      "link": "https://feedberry.com/artikel/bri-raih-niaga-werdhitama-dorong-ekspor-umkm"
     }
   ]
 }
