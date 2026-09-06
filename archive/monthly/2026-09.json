@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-06T18:00:39.476317",
+  "generated_at": "2026-09-06T20:19:47.689101",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 73,
-    "danantara": 28,
-    "investasi": 33,
+    "danantara": 27,
+    "investasi": 32,
     "dividen": 1,
     "umkm": 27,
     "perdagangan": 10,
@@ -86,13 +86,20 @@
     "Herman Khaeron": 8
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
+    "Kinerja BUMN": 18,
     "Hukum/Audit": 8,
     "Koperasi/UMKM": 71,
     "Perdagangan": 26,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Komisi VI Terima Pagu Anggaran BP Batam Rp2,44 Triliun - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 17:54:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2711234/komisi-vi-terima-pagu-anggaran-bp-batam-rp244-triliun"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -190,13 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 10:11:58 GMT",
       "link": "https://feedberry.com/artikel/bri-raih-niaga-werdhitama-dorong-ekspor-umkm"
-    },
-    {
-      "title": "KPPU Kanwil I awasi rantai pasok ayam Sumut seiring kembali berjalannya Program MBG - Elshinta",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 10:10:28 GMT",
-      "link": "https://elshinta.com/kategori/1/ekonomi/kppu-kanwil-i-awasi-rantai-pasok-ayam-sumut-seiring-kembali-berjalannya-program-mbg-175970"
     }
   ]
 }
