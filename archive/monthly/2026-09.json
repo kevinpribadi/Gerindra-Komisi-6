@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-06T15:05:06.143151",
+  "generated_at": "2026-09-06T18:00:39.476317",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 38,
-    "Golkar": 15,
+    "Golkar": 16,
     "NasDem": 8,
     "PKB": 5,
     "PKS": 4,
@@ -12,7 +12,7 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 69,
+    "Gerindra": 70,
     "PDI-P": 76,
     "Golkar": 70,
     "NasDem": 17,
@@ -38,9 +38,9 @@
     "danantara": 28,
     "investasi": 33,
     "dividen": 1,
-    "umkm": 26,
-    "ekspor": 4,
-    "perdagangan": 9,
+    "umkm": 27,
+    "perdagangan": 10,
+    "ekspor": 5,
     "impor": 1,
     "koperasi": 52,
     "kartel-monopoli": 3,
@@ -49,7 +49,7 @@
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
+    "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 5,
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 20,
@@ -88,17 +88,45 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Hukum/Audit": 8,
-    "Koperasi/UMKM": 70,
-    "Perdagangan": 24,
+    "Koperasi/UMKM": 71,
+    "Perdagangan": 26,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 17:34:37 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260907/Mjc0NDQ0"
+    },
+    {
+      "title": "BPKN RI Minta Langkah Konkret Lindungi Penumpang Terdampak Erupsi Anak Krakatau - sinarharapan.net",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 15:48:10 GMT",
+      "link": "https://www.sinarharapan.net/bpkn-ri-minta-langkah-konkret-lindungi-penumpang-terdampak-erupsi-anak-krakatau/"
+    },
+    {
+      "title": "Kabupaten Pati Berguru KDKMP ke Kelurahan Srimulyo Bantul - Humas Kabupaten Pati",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 15:31:28 GMT",
+      "link": "https://humas.patikab.go.id/frontpanel/berita/detail/ZWRleFhWUVMzV0x2ejVVcmpCMjBFUT09"
+    },
     {
       "title": "BPKN Minta Perlindungan Konsumen Terdampak Erupsi Anak Krakatau - achmadnurhidayat.id",
       "entity": "BPKN",
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 14:12:40 GMT",
       "link": "https://achmadnurhidayat.id/bpkn-perlindungan-konsumen-anak-krakatau"
+    },
+    {
+      "title": "BPKN Minta Maskapai Refund Tiket Penerbangan Terdampak Krakatau 100 Persen - Peradaban.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 14:08:19 GMT",
+      "link": "https://peradaban.id/bpkn-minta-maskapai-refund-tiket-krakatau"
     },
     {
       "title": "BPKN Desak Perlindungan Konsumen Terdampak Erupsi Gunung Anak Krakatau - SuaraGarut.ID",
@@ -119,6 +147,13 @@
       "entity": "Muhammad Sarmuji",
       "kind": "anggota",
       "published": "Sun, 06 Sep 2026 13:45:42 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub/amp"
+    },
+    {
+      "title": "Sarmuji Jadi Legislator dengan Kinerja Terbaik di Jatim, Masuk Bursa Pilgub - detikcom",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Sun, 06 Sep 2026 13:45:42 GMT",
       "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub"
     },
     {
@@ -127,6 +162,13 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 13:21:05 GMT",
       "link": "https://www.antaranews.com/berita/5728752/kemenkop-dorong-koperasi-penuhi-sertifikasi-untuk-tembus-ekspor"
+    },
+    {
+      "title": "BRI Raih Penghargaan Niaga Werdhitama dari Kementerian Perdagangan atas Komitmen Dorong UMKM Tembus Pasar Global - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 11:55:20 GMT",
+      "link": "https://www.antaranews.com/berita/5728631/bri-raih-penghargaan-niaga-werdhitama-dari-kementerian-perdagangan-atas-komitmen-dorong-umkm-tembus-pasar-global"
     },
     {
       "title": "Mendag minta produsen \"pet food\" optimalkan pasar domestik dan ekspor - ANTARA News Gorontalo",
@@ -143,60 +185,18 @@
       "link": "https://nasional.kontan.co.id/news/ri-irlandia-perkuat-kerja-sama-perdagangan-investasi-bersiap-implementasi-ieu-cepa"
     },
     {
+      "title": "BRI Raih Niaga Werdhitama, Dorong Ekspor UMKM - feedberry.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 10:11:58 GMT",
+      "link": "https://feedberry.com/artikel/bri-raih-niaga-werdhitama-dorong-ekspor-umkm"
+    },
+    {
       "title": "KPPU Kanwil I awasi rantai pasok ayam Sumut seiring kembali berjalannya Program MBG - Elshinta",
       "entity": "KPPU",
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 10:10:28 GMT",
       "link": "https://elshinta.com/kategori/1/ekonomi/kppu-kanwil-i-awasi-rantai-pasok-ayam-sumut-seiring-kembali-berjalannya-program-mbg-175970"
-    },
-    {
-      "title": "Danantara Perkuat Arah Investasi Pemerintah untuk Akselerasi Ekonomi - lintastotabuan.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 10:05:20 GMT",
-      "link": "https://lintastotabuan.com/danantara-perkuat-arah-investasi-pemerintah-untuk-akselerasi-ekonomi/"
-    },
-    {
-      "title": "I Nengah Senantara Tolak Kadin Jadi Lembaga Negara, Soroti Potensi Dualisme - DPR RI",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 08:18:25 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/I-Nengah-Senantara-Tolak-Kadin-Jadi-Lembaga-Negara-Soroti-Potensi-Dualisme-68811"
-    },
-    {
-      "title": "KPPU Kanwil IV: Belum Temukan Kartel di Balik Kenaikan Harga Daging Sapi di Surabaya - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 07:36:00 GMT",
-      "link": "https://rri.co.id/surabaya/regional/2710330/kppu-kanwil-iv-belum-temukan-kartel-di-balik-kenaikan-harga-daging-sapi-di-surabaya"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Indonesia Tembus Pasar Global - achmadnurhidayat.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 07:07:14 GMT",
-      "link": "https://achmadnurhidayat.id/kemenkop-dorong-koperasi-tembus-pasar"
-    },
-    {
-      "title": "Bukan Cuma Modal, Ini Syarat Koperasi Indonesia Bisa Tembus Pasar Internasional - investor.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 06:58:04 GMT",
-      "link": "https://investor.id/macroeconomy/453009/bukan-cuma-modal-ini-syarat-koperasi-indonesia-bisa-tembus-pasar-internasional"
-    },
-    {
-      "title": "Mulan Jameela Realisasikan Program Sumur Bor untuk Perluas Akses Air Bersih di Garut dan Tasikmalaya - fraksi gerindra dpr-ri",
-      "entity": "Mulan Jameela",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 06:03:25 GMT",
-      "link": "https://www.fraksigerindra.id/mulan-jameela-realisasikan-program-sumur-bor-untuk-perluas-akses-air-bersih-di-garut-dan-tasikmalaya/"
-    },
-    {
-      "title": "Danantara Siapkan Rencana Investasi untuk Dukung RAPBN 2027 - Minews ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 05:55:45 GMT",
-      "link": "https://minews.id/news/danantara-siapkan-rencana-investasi-untuk-dukung-rapbn-2027"
     }
   ]
 }
