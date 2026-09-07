@@ -1,11 +1,11 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-07T00:40:28.969763",
+  "generated_at": "2026-09-07T05:40:05.264300",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 38,
-    "Golkar": 16,
-    "NasDem": 9,
+    "Gerindra": 22,
+    "PDI-P": 37,
+    "Golkar": 13,
+    "NasDem": 10,
     "PKB": 5,
     "PKS": 4,
     "PAN": 7,
@@ -15,9 +15,9 @@
     "Gerindra": 70,
     "PDI-P": 76,
     "Golkar": 70,
-    "NasDem": 18,
+    "NasDem": 19,
     "PKB": 46,
-    "PKS": 42,
+    "PKS": 41,
     "PAN": 16,
     "Demokrat": 14
   },
@@ -29,18 +29,18 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 11,
+    "BPK Sabang": 10,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 75,
+    "bumn": 74,
     "dividen": 2,
-    "danantara": 29,
+    "danantara": 30,
     "investasi": 32,
-    "umkm": 26,
-    "perdagangan": 10,
+    "umkm": 27,
     "ekspor": 6,
+    "perdagangan": 10,
     "impor": 1,
     "koperasi": 53,
     "kartel-monopoli": 3,
@@ -70,14 +70,14 @@
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
-    "I Nengah Senantara": 4,
+    "I Nengah Senantara": 5,
     "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 6,
     "Nasim Khan": 20,
     "Amin Ak.": 9,
     "Rizal Bawazier": 20,
-    "Ghufran": 4,
+    "Ghufran": 3,
     "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
@@ -88,17 +88,73 @@
   "early_warning_counts": {
     "Kinerja BUMN": 18,
     "Hukum/Audit": 7,
-    "Perdagangan": 27,
+    "Perdagangan": 28,
     "Koperasi/UMKM": 72,
-    "Konflik Publik": 6
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Nengah Senantara Tolak Kadin Jadi Lembaga Negara - NUSABALI.com",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Mon, 07 Sep 2026 03:27:13 GMT",
+      "link": "https://www.nusabali.com/berita/230295/nengah-senantara-tolak-kadin-jadi-lembaga-negara"
+    },
+    {
+      "title": "Andre Rosiade Penuhi Aspirasi Nelayan Pariaman, Serahkan Ambulans untuk Warga Pesisir - Posmetro Padang",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 07 Sep 2026 03:07:30 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-penuhi-aspirasi-nelayan-pariaman-serahkan-ambulans-untuk-warga-pesisir-432975/"
+    },
+    {
+      "title": "Wamendag Cek Harga Bapok di Pasar Nusukan Solo, MINYAKITA Sesuai HET - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 03:03:10 GMT",
+      "link": "https://suarapemerintah.id/2026/09/wamendag-cek-harga-bapok-di-pasar-nusukan-solo-minyakita-sesuai-het/"
+    },
+    {
+      "title": "Manajer Kopdes Menanti Nasib Penugasan, Gaji, dan Masa Depan - DW.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 03:01:35 GMT",
+      "link": "https://www.dw.com/id/manajer-kopdes-menanti-nasib-penugasan-gaji-dan-masa-depan/a-78854432"
+    },
+    {
+      "title": "Pemerintah Siapkan Rp120 Triliun dari Danantara untuk Perkuat Buffer Fiskal 2026 - beritanasionalupdate.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 02:48:59 GMT",
+      "link": "https://beritanasionalupdate.com/news/details/1708/pemerintah-siapkan-rp120-triliun-dari-danantara-untuk-perkuat-buffer-fiskal-2026"
+    },
+    {
+      "title": "Perkuat UMKM, Wamendag Dorong UMKM Kriya Tembus Pasar Ekspor - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 02:00:00 GMT",
+      "link": "https://rri.co.id/surabaya/ekonomi/umkm/2711486/perkuat-umkm-wamendag-dorong-umkm-kriya-tembus-pasar-ekspor"
+    },
+    {
+      "title": "Wamenkop Ungkap 3 Hambatan Koperasi Naik Kelas ke Pasar Global - Editor Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 01:45:59 GMT",
+      "link": "https://editorindonesia.com/hambatan-koperasi-naik-kelas/"
+    },
     {
       "title": "Danantara Perkuat Arah Investasi Pemerintah untuk Akselerasi Ekonomi - PT Suara Dewata Media",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 22:57:38 GMT",
       "link": "https://www.suaradewata.com/berita/202405217325/danantara-perkuat-arah-investasi-pemerintah-untuk-akselerasi-ekonomi"
+    },
+    {
+      "title": "Danantara Siapkan Rencana Investasi untuk Dukung RAPBN 2027 - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 22:57:38 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217326/danantara-siapkan-rencana-investasi-untuk-dukung-rapbn-2027"
     },
     {
       "title": "OPINI: Dividen BUMN untuk Mempertebal Fiskal - Bisnis.com - Ekonomi",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 15:48:10 GMT",
       "link": "https://www.sinarharapan.net/bpkn-ri-minta-langkah-konkret-lindungi-penumpang-terdampak-erupsi-anak-krakatau/"
-    },
-    {
-      "title": "Kemenkop dorong koperasi penuhi sertifikasi untuk tembus ekspor - Antara News jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 15:45:00 GMT",
-      "link": "https://jatim.antaranews.com/berita/1096409/kemenkop-dorong-koperasi-penuhi-sertifikasi-untuk-tembus-ekspor"
-    },
-    {
-      "title": "Kabupaten Pati Berguru KDKMP ke Kelurahan Srimulyo Bantul - Humas Kabupaten Pati",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 15:31:28 GMT",
-      "link": "https://humas.patikab.go.id/frontpanel/berita/detail/ZWRleFhWUVMzV0x2ejVVcmpCMjBFUT09"
-    },
-    {
-      "title": "BPKN Minta Perlindungan Konsumen Terdampak Erupsi Anak Krakatau - achmadnurhidayat.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 14:12:40 GMT",
-      "link": "https://achmadnurhidayat.id/bpkn-perlindungan-konsumen-anak-krakatau"
-    },
-    {
-      "title": "BPKN Minta Maskapai Refund Tiket Penerbangan Terdampak Krakatau 100 Persen - Peradaban.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 14:08:19 GMT",
-      "link": "https://peradaban.id/bpkn-minta-maskapai-refund-tiket-krakatau"
-    },
-    {
-      "title": "BPKN Desak Perlindungan Konsumen Terdampak Erupsi Gunung Anak Krakatau - SuaraGarut.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 14:06:20 GMT",
-      "link": "https://suaragarut.id/bpkn-desak-perlindungan-konsumen-erupsi-krakatau"
-    },
-    {
-      "title": "Tolak Wacana Kadin Jadi Lembaga Negara, Nengah: Jangan Sampai Ada 'Menteri Kadin' dan 'DPR' Kadin - industry.co.id",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 13:53:00 GMT",
-      "link": "https://www.industry.co.id/read/155529/tolak-wacana-kadin-jadi-lembaga-negara-nengah-jangan-sampai-ada-menteri-kadin-dan-dpr-kadin"
-    },
-    {
-      "title": "Sarmuji Jadi Legislator dengan Kinerja Terbaik di Jatim, Masuk Bursa Pilgub - detikcom",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 13:45:42 GMT",
-      "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub/amp"
-    },
-    {
-      "title": "Sarmuji Jadi Legislator dengan Kinerja Terbaik di Jatim, Masuk Bursa Pilgub - detikcom",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Sun, 06 Sep 2026 13:45:42 GMT",
-      "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub"
     }
   ]
 }
