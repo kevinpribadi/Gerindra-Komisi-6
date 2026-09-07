@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-06T22:40:26.888146",
+  "generated_at": "2026-09-07T00:40:28.969763",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 23,
     "PDI-P": 38,
     "Golkar": 16,
     "NasDem": 9,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 75,
     "dividen": 2,
-    "danantara": 28,
+    "danantara": 29,
     "investasi": 32,
     "umkm": 26,
     "perdagangan": 10,
@@ -89,10 +89,17 @@
     "Kinerja BUMN": 18,
     "Hukum/Audit": 7,
     "Perdagangan": 27,
-    "Koperasi/UMKM": 71,
+    "Koperasi/UMKM": 72,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Danantara Perkuat Arah Investasi Pemerintah untuk Akselerasi Ekonomi - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 22:57:38 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217325/danantara-perkuat-arah-investasi-pemerintah-untuk-akselerasi-ekonomi"
+    },
     {
       "title": "OPINI: Dividen BUMN untuk Mempertebal Fiskal - Bisnis.com - Ekonomi",
       "entity": "Kementerian BUMN",
@@ -106,6 +113,13 @@
       "kind": "lembaga",
       "published": "Sun, 06 Sep 2026 21:55:00 GMT",
       "link": "https://infobanknews.com/kinerja-danantara-klaim-laba-jumbo-tanpa-laporan-keuangan"
+    },
+    {
+      "title": "Pembentukan Koperasi Desa Merah Putih di Kabupaten Pati Ditargetkan Lebih Awal Daripada Daerah Lain - Humas Kabupaten Pati",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 06 Sep 2026 21:02:41 GMT",
+      "link": "https://humas.patikab.go.id/frontpanel/berita/detail/V09INUV1d01UQjRpRnk3Y3E0Nm5VQT09"
     },
     {
       "title": "Komisi VI Terima Pagu Anggaran BP Batam Rp2,44 Triliun - RRI.co.id",
@@ -183,20 +197,6 @@
       "kind": "anggota",
       "published": "Sun, 06 Sep 2026 13:45:42 GMT",
       "link": "https://www.detik.com/jatim/berita/d-8651286/sarmuji-jadi-legislator-dengan-kinerja-terbaik-di-jatim-masuk-bursa-pilgub"
-    },
-    {
-      "title": "Kemenkop dorong koperasi penuhi sertifikasi untuk tembus ekspor - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 13:21:05 GMT",
-      "link": "https://www.antaranews.com/berita/5728752/kemenkop-dorong-koperasi-penuhi-sertifikasi-untuk-tembus-ekspor"
-    },
-    {
-      "title": "BRI Raih Penghargaan Niaga Werdhitama dari Kementerian Perdagangan atas Komitmen Dorong UMKM Tembus Pasar Global - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 11:55:20 GMT",
-      "link": "https://www.antaranews.com/berita/5728631/bri-raih-penghargaan-niaga-werdhitama-dari-kementerian-perdagangan-atas-komitmen-dorong-umkm-tembus-pasar-global"
     }
   ]
 }
