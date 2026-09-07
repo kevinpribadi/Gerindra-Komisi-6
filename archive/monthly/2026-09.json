@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-07T17:13:15.963562",
+  "generated_at": "2026-09-07T21:06:05.444294",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 19,
     "PDI-P": 30,
     "Golkar": 14,
     "NasDem": 11,
     "PKB": 4,
-    "PKS": 5,
+    "PKS": 6,
     "PAN": 8,
     "Demokrat": 6
   },
@@ -17,7 +17,7 @@
     "Golkar": 72,
     "NasDem": 20,
     "PKB": 47,
-    "PKS": 40,
+    "PKS": 41,
     "PAN": 16,
     "Demokrat": 15
   },
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 75,
+    "bumn": 74,
     "dividen": 2,
-    "danantara": 32,
-    "investasi": 32,
+    "danantara": 31,
+    "investasi": 33,
     "perdagangan": 11,
     "ekspor": 6,
     "umkm": 27,
     "impor": 1,
-    "koperasi": 56,
+    "koperasi": 55,
     "kartel-monopoli": 2,
     "ipo": 2,
     "merger-akuisisi": 1
@@ -78,7 +78,7 @@
     "Nasim Khan": 20,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
-    "Ghufran": 4,
+    "Ghufran": 5,
     "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
@@ -94,6 +94,20 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "PSEL Serang Raya siap kelola 1.161 ton sampah per hari jadi listrik - ANTARA News Banten",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 20:10:55 GMT",
+      "link": "https://banten.antaranews.com/berita/390268/psel-serang-raya-siap-kelola-1161-ton-sampah-per-hari-jadi-listrik"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 17:44:50 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260908/Mjc0NDQ0"
+    },
     {
       "title": "Revisi UU Kadin, Doni Akbar Dorong Kepastian bagi Dunia Usaha - TVRI News",
       "entity": "Doni Akbar",
@@ -184,20 +198,6 @@
       "kind": "lembaga",
       "published": "Mon, 07 Sep 2026 12:06:35 GMT",
       "link": "https://insight.kontan.co.id/news/dapat-lampu-hijau-kurator-siap-mencari-dan-berburu-aset-sritex-di-negeri-merlion"
-    },
-    {
-      "title": "Danantara dan Strategi Dalam Membangun Masa Depan Finansial Negara - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 11:26:36 GMT",
-      "link": "https://www.kompasiana.com/tebegus148089/6a9e9f6c34777c485a0504b8/danantara-dan-strategi-dalam-membangun-masa-depan-finansial-negara"
-    },
-    {
-      "title": "Kemendag optimalkan distribusi Minyakita ke Indonesia Timur - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 10:42:59 GMT",
-      "link": "https://www.antaranews.com/berita/5729936/kemendag-optimalkan-distribusi-minyakita-ke-indonesia-timur"
     }
   ]
 }
