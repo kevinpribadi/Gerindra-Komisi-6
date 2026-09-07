@@ -1,11 +1,11 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-07T05:40:05.264300",
+  "generated_at": "2026-09-07T11:33:36.593439",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 37,
-    "Golkar": 13,
-    "NasDem": 10,
+    "Gerindra": 20,
+    "PDI-P": 32,
+    "Golkar": 12,
+    "NasDem": 11,
     "PKB": 5,
     "PKS": 4,
     "PAN": 7,
@@ -15,10 +15,10 @@
     "Gerindra": 70,
     "PDI-P": 76,
     "Golkar": 70,
-    "NasDem": 19,
-    "PKB": 46,
+    "NasDem": 20,
+    "PKB": 47,
     "PKS": 41,
-    "PAN": 16,
+    "PAN": 15,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -29,23 +29,23 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 10,
+    "BPK Sabang": 9,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 74,
     "dividen": 2,
-    "danantara": 30,
-    "investasi": 32,
+    "danantara": 32,
+    "investasi": 31,
     "umkm": 27,
     "ekspor": 6,
     "perdagangan": 10,
     "impor": 1,
-    "koperasi": 53,
-    "kartel-monopoli": 3,
+    "koperasi": 54,
+    "kartel-monopoli": 2,
     "ipo": 2,
-    "merger-akuisisi": 2
+    "merger-akuisisi": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -70,10 +70,10 @@
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
-    "I Nengah Senantara": 5,
+    "I Nengah Senantara": 6,
     "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 6,
+    "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
     "Amin Ak.": 9,
     "Rizal Bawazier": 20,
@@ -81,18 +81,95 @@
     "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 13,
+    "Iskandar": 12,
     "Sartono": 5,
     "Herman Khaeron": 9
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
     "Hukum/Audit": 7,
-    "Perdagangan": 28,
-    "Koperasi/UMKM": 72,
+    "Perdagangan": 27,
+    "Koperasi/UMKM": 73,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Danantara Ungkap Sektor Ini Bakal Jadi Motor Investasi Baru - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 10:29:56 GMT",
+      "link": "https://cnbcindonesia.com/market/20260907172529-17-765945/danantara-ungkap-sektor-ini-bakal-jadi-motor-investasi-baru"
+    },
+    {
+      "title": "Targetkan Revitalisasi Pasar, Wali Kota Lhokseumawe Audiensi ke Kemendag RI - waspada.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 10:12:46 GMT",
+      "link": "https://www.waspada.id/berita/targetkan-revitalisasi-pasar-wali-kota-lhokseumawe-audiensi-ke-kemendag-ri"
+    },
+    {
+      "title": "Danantara Ungkap Kriteria Sektor Layak Investasi, Apa Saja? - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 09:58:25 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260907165318-17-765922/danantara-ungkap-kriteria-sektor-layak-investasi-apa-saja"
+    },
+    {
+      "title": "Kemenkeu: Kenaikan PNBP 2027 Bukan karena Setoran Danantara - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 09:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/120760/kemenkeu-kenaikan-pnbp-2027-bukan-karena-setoran-danantara"
+    },
+    {
+      "title": "KPPU Pantau Dampak Putusan Hak Eksklusif Menara di Badung - JPNN.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 09:04:09 GMT",
+      "link": "https://www.jpnn.com/news/kppu-pantau-dampak-putusan-hak-eksklusif-menara-di-badung"
+    },
+    {
+      "title": "Bahas RUU Reforma Agraria, Bos BP BUMN Minta Redistribusi Aset BUMN Tak Serampangan - Inilah.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 08:56:00 GMT",
+      "link": "https://www.inilah.com/bahas-ruu-reforma-agraria-bos-bp-bumn-minta-redistribusi-aset-bumn-tak-serampangan"
+    },
+    {
+      "title": "Foto : ATSI Dukung Persaingan Setara Platform Digital Global, asal Tak Bebani Pengguna Halaman 1 - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 08:47:50 GMT",
+      "link": "https://money.kompas.com/image/2026/09/07/143657726/atsi-dukung-persaingan-setara-platform-digital-global-asal-tak-bebani?page=1"
+    },
+    {
+      "title": "Travel Wisata Keluhkan Tiket KM Nol Rp15 Ribu, BKSDA: Sesuai Aturan - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 08:43:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2712452/travel-wisata-keluhkan-tiket-km-nol-rp15-ribu-bksda-sesuai-aturan"
+    },
+    {
+      "title": "BPKN minta lindungi penumpang terdampak erupsi Anak Krakatau - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 07:59:01 GMT",
+      "link": "https://m.antaranews.com/berita/5729589/bpkn-minta-lindungi-penumpang-terdampak-erupsi-anak-krakatau?page=1"
+    },
+    {
+      "title": "ATSI Dukung Persaingan Setara Platform Digital Global, asal Tak Bebani Pengguna - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 07:36:00 GMT",
+      "link": "https://money.kompas.com/read/cm/2026/09/07/143657726/atsi-dukung-persaingan-setara-platform-digital-global-asal-tak-bebani"
+    },
+    {
+      "title": "Kemenkop Ungkap 3 Tantangan Koperasi Indonesia untuk Naik Kelas ke Pasar Global » - dialeksis.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "link": "https://dialeksis.com/ekonomi/kemenkop-ungkap-3-tantangan-koperasi-indonesia-untuk-naik-kelas-ke-pasar-global/"
+    },
     {
       "title": "Nengah Senantara Tolak Kadin Jadi Lembaga Negara - NUSABALI.com",
       "entity": "I Nengah Senantara",
@@ -120,83 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 07 Sep 2026 03:01:35 GMT",
       "link": "https://www.dw.com/id/manajer-kopdes-menanti-nasib-penugasan-gaji-dan-masa-depan/a-78854432"
-    },
-    {
-      "title": "Pemerintah Siapkan Rp120 Triliun dari Danantara untuk Perkuat Buffer Fiskal 2026 - beritanasionalupdate.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 02:48:59 GMT",
-      "link": "https://beritanasionalupdate.com/news/details/1708/pemerintah-siapkan-rp120-triliun-dari-danantara-untuk-perkuat-buffer-fiskal-2026"
-    },
-    {
-      "title": "Perkuat UMKM, Wamendag Dorong UMKM Kriya Tembus Pasar Ekspor - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 02:00:00 GMT",
-      "link": "https://rri.co.id/surabaya/ekonomi/umkm/2711486/perkuat-umkm-wamendag-dorong-umkm-kriya-tembus-pasar-ekspor"
-    },
-    {
-      "title": "Wamenkop Ungkap 3 Hambatan Koperasi Naik Kelas ke Pasar Global - Editor Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 01:45:59 GMT",
-      "link": "https://editorindonesia.com/hambatan-koperasi-naik-kelas/"
-    },
-    {
-      "title": "Danantara Perkuat Arah Investasi Pemerintah untuk Akselerasi Ekonomi - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 22:57:38 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217325/danantara-perkuat-arah-investasi-pemerintah-untuk-akselerasi-ekonomi"
-    },
-    {
-      "title": "Danantara Siapkan Rencana Investasi untuk Dukung RAPBN 2027 - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 22:57:38 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217326/danantara-siapkan-rencana-investasi-untuk-dukung-rapbn-2027"
-    },
-    {
-      "title": "OPINI: Dividen BUMN untuk Mempertebal Fiskal - Bisnis.com - Ekonomi",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 22:00:05 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260907/9/2001826/opini-dividen-bumn-untuk-mempertebal-fiskal"
-    },
-    {
-      "title": "Kinerja Danantara: Klaim Laba “Jumbo” Tanpa Laporan Keuangan - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 21:55:00 GMT",
-      "link": "https://infobanknews.com/kinerja-danantara-klaim-laba-jumbo-tanpa-laporan-keuangan"
-    },
-    {
-      "title": "Pembentukan Koperasi Desa Merah Putih di Kabupaten Pati Ditargetkan Lebih Awal Daripada Daerah Lain - Humas Kabupaten Pati",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 21:02:41 GMT",
-      "link": "https://humas.patikab.go.id/frontpanel/berita/detail/V09INUV1d01UQjRpRnk3Y3E0Nm5VQT09"
-    },
-    {
-      "title": "Komisi VI Terima Pagu Anggaran BP Batam Rp2,44 Triliun - RRI.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 17:54:00 GMT",
-      "link": "https://rri.co.id/batam/regional/2711234/komisi-vi-terima-pagu-anggaran-bp-batam-rp244-triliun"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 17:34:37 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260907/Mjc0NDQ0"
-    },
-    {
-      "title": "BPKN RI Minta Langkah Konkret Lindungi Penumpang Terdampak Erupsi Anak Krakatau - sinarharapan.net",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 06 Sep 2026 15:48:10 GMT",
-      "link": "https://www.sinarharapan.net/bpkn-ri-minta-langkah-konkret-lindungi-penumpang-terdampak-erupsi-anak-krakatau/"
     }
   ]
 }
