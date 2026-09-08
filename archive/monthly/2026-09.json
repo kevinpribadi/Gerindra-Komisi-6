@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-08T04:03:53.460589",
+  "generated_at": "2026-09-08T09:20:47.753014",
   "party_counts_7d": {
     "Gerindra": 20,
-    "PDI-P": 28,
-    "Golkar": 14,
+    "PDI-P": 26,
+    "Golkar": 13,
     "NasDem": 11,
     "PKB": 1,
-    "PKS": 7,
-    "PAN": 7,
-    "Demokrat": 5
+    "PKS": 8,
+    "PAN": 4,
+    "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 76,
-    "Golkar": 72,
+    "Golkar": 74,
     "NasDem": 20,
     "PKB": 47,
-    "PKS": 42,
+    "PKS": 43,
     "PAN": 16,
-    "Demokrat": 15
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,10 +37,10 @@
     "bumn": 74,
     "dividen": 2,
     "danantara": 31,
-    "investasi": 33,
+    "investasi": 32,
+    "umkm": 26,
     "perdagangan": 10,
     "ekspor": 6,
-    "umkm": 27,
     "impor": 1,
     "koperasi": 54,
     "kartel-monopoli": 2,
@@ -65,7 +65,8 @@
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
-    "Doni Akbar": 4,
+    "Sarifah Suraidah": 1,
+    "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
     "Muhammad Sarmuji": 20,
@@ -79,21 +80,105 @@
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 5,
-    "Ismail": 10,
+    "Ismail": 11,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 10
+    "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
+    "Kinerja BUMN": 21,
     "Hukum/Audit": 8,
     "Koperasi/UMKM": 75,
-    "Perdagangan": 24,
+    "Perdagangan": 23,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Herman Khaeron Dorong Percepatan Restrukturisasi dan Perampingan Anak Usaha BUMN - Suara Pemerintah",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 08:18:10 GMT",
+      "link": "https://suarapemerintah.id/2026/09/herman-khaeron-dorong-percepatan-restrukturisasi-dan-perampingan-anak-usaha-bumn/"
+    },
+    {
+      "title": "Herman Khaeron Dorong Percepatan Restrukturisasi dan Perampingan Anak Usaha BUMN - Suara Pemerintah",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 08:18:10 GMT",
+      "link": "https://suarapemerintah.id/2026/09/herman-khaeron-dorong-percepatan-restrukturisasi-dan-perampingan-anak-usaha-bumn/"
+    },
+    {
+      "title": "Anggaran Kemenkop 2027 untuk Perkuat Koperasi Desa - Kompasiana.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 07:59:48 GMT",
+      "link": "https://www.kompasiana.com/yurihiju/6a9fc07434777c1b7c02ba02/anggaran-kemenkop-2027-untuk-perkuat-koperasi-desa"
+    },
+    {
+      "title": "Menkop Dorong KDKMP Perkuat Hilirisasi Desa - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 07:52:00 GMT",
+      "link": "https://rri.co.id/denpasar/nasional/2715099/menkop-dorong-kdkmp-perkuat-hilirisasi-desa"
+    },
+    {
+      "title": "DPR Soroti Revisi UU Kadin dan Lembaga Sengketa Bisnis - SuaraGarut.ID",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 07:44:15 GMT",
+      "link": "https://suaragarut.id/dpr-soroti-revisi-uu-kadin-dan-lembaga-sengketa-bisnis"
+    },
+    {
+      "title": "Komisi III DPRD SBT: Pembangunan Jalan Afang-Werinama Berlanjut hingga 2029 - RRI.co.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 07:18:00 GMT",
+      "link": "https://rri.co.id/bula/daerah-3t/2714923/komisi-iii-dprd-sbt-pembangunan-jalan-afang-werinama-berlanjut-hingga-2029"
+    },
+    {
+      "title": "Sarifah Suraidah: Gerakkan Ekonomi Rakyat, Prioritaskan Revitalisasi Pasar - rm.id",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 06:46:00 GMT",
+      "link": "https://rm.id/baca-berita/nasional/325235/sarifah-suraidah-gerakkan-ekonomi-rakyat-prioritaskan-revitalisasi-pasar"
+    },
+    {
+      "title": "Batam Bidik Hub Data Center ASEAN, Andre Rosiade Desak Pasokan Gas dan HGBT Diamankan - gerindra.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 06:22:30 GMT",
+      "link": "https://gerindra.id/2026/09/08/batam-bidik-hub-data-center-asean-andre-rosiade-desak-pasokan-gas-dan-hgbt-diamankan/"
+    },
+    {
+      "title": "Wamendag Dorong UMKM Keramik Manfaatkan Jejaring Perwakilan Perdagangan - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 05:37:00 GMT",
+      "link": "https://rri.co.id/nasional/2714819/wamendag-dorong-umkm-keramik-manfaatkan-jejaring-perwakilan-perdagangan"
+    },
+    {
+      "title": "Utang Whoosh Segera Diambil Alih Kemenkeu pada Pekan Ketiga September - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 05:10:06 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260908102803-17-766081/utang-whoosh-segera-diambil-alih-kemenkeu-pada-pekan-ketiga-september"
+    },
+    {
+      "title": "Setahun Berlalu, Hasil Penanganan KPPU di PT Kayung Agro Lestari Belum Juga Diketahui Masyarakat - Mitra Mabes News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 04:48:00 GMT",
+      "link": "https://www.mitramabesnews.id/2026/09/setahun-berlalu-hasil-penanganan-kppu.html"
+    },
+    {
+      "title": "Sarmuji Sabet Dua Gelar Sekaligus: Legislator Terbaik dan Terelektabel versi ARCI, Namanya Moncer di Bursa Pilgub Jatim - jatimupdate.id",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 04:47:00 GMT",
+      "link": "https://jatimupdate.id/baca-19305-sarmuji-sabet-dua-gelar-sekaligus-legislator-terbaik-dan-terelektabel-versi-arci-namanya-moncer-di-bursa-pilgub-jatim"
+    },
     {
       "title": "Bukan Cuma Soal Tanah, Bos BUMN Ingatkan Aspek ‘Return’ Aset Korporasi di RUU Reforma Agraria - Industry.co.id",
       "entity": "Badan Pengaturan BUMN",
@@ -109,95 +194,11 @@
       "link": "https://posmetropadang.co.id/andre-rosiade-kawal-aspirasi-warga-pessel-jembatan-gantung-duku-subarang-solok-rampung-433147/"
     },
     {
-      "title": "Kolaborasi Kemenkop dan Akademisi: Akselerasi 80 Ribu Kopdes Merah Putih Dimulai - balijani.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 02:40:45 GMT",
-      "link": "https://balijani.id/kolaborasi-kemenkop-dan-akademisi-akselerasi-80-ribu-kopdes-merah-putih-dimulai/"
-    },
-    {
-      "title": "Inovasi Satgas BBM Bone, Berpeluang Jadi Model Percontohan Nasional - RRI.co.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 02:17:00 GMT",
-      "link": "https://rri.co.id/bone/regional/2713200/inovasi-satgas-bbm-bone-berpeluang-jadi-model-percontohan-nasional"
-    },
-    {
-      "title": "Wali Kota Lhokseumawe Dorong Revitalisasi Pasar Inpres ke Kemendag - RRI.co.id",
+      "title": "RI Defisit US$4,76 M, Bayangi Evaluasi CEPA Dengan Australia - Validnews.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 00:50:00 GMT",
-      "link": "https://rri.co.id/lhokseumawe/info-pemda/2713918/wali-kota-lhokseumawe-dorong-revitalisasi-pasar-inpres-ke-kemendag"
-    },
-    {
-      "title": "PSEL Serang Raya siap kelola 1.161 ton sampah per hari jadi listrik - ANTARA News Banten",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 20:10:55 GMT",
-      "link": "https://banten.antaranews.com/berita/390268/psel-serang-raya-siap-kelola-1161-ton-sampah-per-hari-jadi-listrik"
-    },
-    {
-      "title": "BPKN Desak Maskapai Lindungi Penumpang Terdampak Erupsi - koran-jakarta.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 20:07:00 GMT",
-      "link": "https://koran-jakarta.com/2026-09-08/bpkn-desak-maskapai-lindungi-penumpang-terdampak-erupsi/amp"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 17:44:50 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260908/Mjc0NDQ0"
-    },
-    {
-      "title": "Revisi UU Kadin, Doni Akbar Dorong Kepastian bagi Dunia Usaha - TVRI News",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Mon, 07 Sep 2026 16:07:54 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/t9dub68-revisi-uu-kadin-doni-akbar-dorong-kepastian-bagi-dunia-usaha"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 15:11:16 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Benny Taopan dan Amos Lafu Tegaskan Sason Helan Sah Pimpin Swasti Sari, Tercatat di Kementerian Hukum dan Kementerian Koperasi - portalntt.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 14:18:12 GMT",
-      "link": "https://www.portalntt.com/benny-taopan-dan-amos-lafu-tegaskan-sason-helan-sah-pimpin-swasti-sari-tercatat-di-kementerian-hukum-dan-kementerian-koperasi/"
-    },
-    {
-      "title": "Singapura-Laos Sepakati Perdagangan Kredit Karbon, Atur Mekanisme Corresponding Adjustment - Ecobiz Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 14:16:00 GMT",
-      "link": "https://ecobiz.asia/singapura-laos-sepakati-perdagangan-kredit-karbon-atur-mekanisme-corresponding-adjustment/"
-    },
-    {
-      "title": "Survei ARCI: Sarmuji legislator dengan kinerja terbaik di Jatim - Antara News jatim",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Mon, 07 Sep 2026 13:06:39 GMT",
-      "link": "https://jatim.antaranews.com/berita/1096688/survei-arci-sarmuji-legislator-dengan-kinerja-terbaik-di-jatim"
-    },
-    {
-      "title": "Indonesia dan Irlandia Perkuat Kemitraan Ekonomi, Buka Peluang Perdagangan dan Investasi - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 12:58:07 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/07/indonesia-dan-irlandia-perkuat-kemitraan-ekonomi-buka-peluang-perdagangan-dan-investasi/"
-    },
-    {
-      "title": "Pembubaran 300 Anak Usaha BUMN, DPR Ingatkan Perlindungan Hak Pekerja - Inilah.com",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 07 Sep 2026 12:53:00 GMT",
-      "link": "https://www.inilah.com/pembubaran-300-anak-usaha-bumn-dpr-ingatkan-perlindungan-hak-pekerja"
+      "published": "Tue, 08 Sep 2026 02:41:49 GMT",
+      "link": "https://www.validnews.id/ekonomi/indonesia-defisit-us476-miliar-bayangi-evaluasi-ia-cepa-dengan-australia-1788843199"
     }
   ]
 }
