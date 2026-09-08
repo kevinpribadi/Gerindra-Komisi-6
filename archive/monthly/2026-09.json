@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-08T14:07:12.993347",
+  "generated_at": "2026-09-08T18:17:56.221420",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 24,
@@ -38,13 +38,13 @@
     "dividen": 2,
     "danantara": 30,
     "investasi": 31,
+    "perdagangan": 11,
     "umkm": 25,
-    "perdagangan": 9,
     "ekspor": 6,
     "impor": 1,
     "koperasi": 56,
     "kartel-monopoli": 2,
-    "ipo": 2
+    "ipo": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -88,11 +88,32 @@
   "early_warning_counts": {
     "Kinerja BUMN": 24,
     "Hukum/Audit": 8,
-    "Perdagangan": 23,
+    "Perdagangan": 21,
     "Koperasi/UMKM": 75,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - berita.cilegon.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 17:48:34 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260909/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Kerjasama Perdagangan Indonesia-Australia Masuki Babak Stage One Report, Saling Tinjau Kesepakatan - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 15:30:00 GMT",
+      "link": "https://swa.co.id/read/477062/kerjasama-perdagangan-indonesia-australia-masuki-babak-stage-one-report-saling-tinjau-kesepakatan"
+    },
+    {
+      "title": "BPKN: Perlu Satgas atasi dana UMKM dibekukan Tokopedia dan TikTok Shop - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 14:49:10 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5732089/bpkn-perlu-satgas-atasi-dana-umkm-dibekukan-tokopedia-dan-tiktok-shop"
+    },
     {
       "title": "KPPU Soroti Dominasi Platform Digital Global di Indonesia - SuaraGarut.ID",
       "entity": "KPPU",
@@ -129,6 +150,27 @@
       "link": "https://www.mediakarya.id/bpkn-ri-dorong-pemulihan-menyeluruh-hak-konsumen-dalam-kasus-kpr-btn-di-karawang/"
     },
     {
+      "title": "Kementerian Perdagangan dorong penguatan dagang Indonesia-Rusia lewat TEI 2026 - Traders Union",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 11:07:24 GMT",
+      "link": "https://tradersunion.com/ind/news/financial-news/show/3262009-indonesia-rusia-dagang-tei-2026/"
+    },
+    {
+      "title": "Rahmat Saleh Dorong Maskapai Lindungi Konsumen Si Tengah Bencana - mimbarsumbar.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 10:56:12 GMT",
+      "link": "https://mimbarsumbar.id/rahmat-saleh-dorong-maskapai-lindungi-konsumen-si-tengah-bencana/"
+    },
+    {
+      "title": "RAT Koperasi di Bali Baru 51 Persen, Ketua Dekopinwil Soroti Kedisiplinan Administrasi - BALIPOST.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 10:52:00 GMT",
+      "link": "https://www.balipost.com/news/2026/09/08/580043/RAT-Koperasi-di-Bali-Baru...html"
+    },
+    {
       "title": "Sarifah: Prioritaskan Revitalisasi Pasar untuk Gerakkan Ekonomi Rakyat - SINDOnews Nasional",
       "entity": "Sarifah Suraidah",
       "kind": "anggota",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 08 Sep 2026 09:21:38 GMT",
       "link": "https://www.kompasiana.com/alifarjuli9327/6a9fd3a234777c62560cbb66/membangun-bumn-yang-lebih-lincah-cerita-di-balik-pp-38-tahun-2026"
-    },
-    {
-      "title": "Herman Khaeron Dorong Percepatan Restrukturisasi dan Perampingan Anak Usaha BUMN - Suara Pemerintah",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 08:18:10 GMT",
-      "link": "https://suarapemerintah.id/2026/09/herman-khaeron-dorong-percepatan-restrukturisasi-dan-perampingan-anak-usaha-bumn/"
-    },
-    {
-      "title": "Herman Khaeron Dorong Percepatan Restrukturisasi dan Perampingan Anak Usaha BUMN - Suara Pemerintah",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 08:18:10 GMT",
-      "link": "https://suarapemerintah.id/2026/09/herman-khaeron-dorong-percepatan-restrukturisasi-dan-perampingan-anak-usaha-bumn/"
-    },
-    {
-      "title": "Anggaran Kemenkop 2027 untuk Perkuat Koperasi Desa - Kompasiana.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 07:59:48 GMT",
-      "link": "https://www.kompasiana.com/yurihiju/6a9fc07434777c1b7c02ba02/anggaran-kemenkop-2027-untuk-perkuat-koperasi-desa"
-    },
-    {
-      "title": "Menkop Dorong KDKMP Perkuat Hilirisasi Desa - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 07:52:00 GMT",
-      "link": "https://rri.co.id/denpasar/nasional/2715099/menkop-dorong-kdkmp-perkuat-hilirisasi-desa"
-    },
-    {
-      "title": "DPR Soroti Revisi UU Kadin dan Lembaga Sengketa Bisnis - SuaraGarut.ID",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 07:44:15 GMT",
-      "link": "https://suaragarut.id/dpr-soroti-revisi-uu-kadin-dan-lembaga-sengketa-bisnis"
-    },
-    {
-      "title": "Komisi III DPRD SBT: Pembangunan Jalan Afang-Werinama Berlanjut hingga 2029 - RRI.co.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 07:18:00 GMT",
-      "link": "https://rri.co.id/bula/daerah-3t/2714923/komisi-iii-dprd-sbt-pembangunan-jalan-afang-werinama-berlanjut-hingga-2029"
     }
   ]
 }
