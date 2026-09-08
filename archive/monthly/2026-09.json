@@ -1,21 +1,21 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-08T09:20:47.753014",
+  "generated_at": "2026-09-08T14:07:12.993347",
   "party_counts_7d": {
     "Gerindra": 20,
-    "PDI-P": 26,
-    "Golkar": 13,
+    "PDI-P": 24,
+    "Golkar": 14,
     "NasDem": 11,
     "PKB": 1,
     "PKS": 8,
-    "PAN": 4,
+    "PAN": 3,
     "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 76,
-    "Golkar": 74,
-    "NasDem": 20,
+    "PDI-P": 75,
+    "Golkar": 76,
+    "NasDem": 19,
     "PKB": 47,
     "PKS": 43,
     "PAN": 16,
@@ -34,18 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 74,
+    "bumn": 75,
     "dividen": 2,
-    "danantara": 31,
-    "investasi": 32,
-    "umkm": 26,
-    "perdagangan": 10,
+    "danantara": 30,
+    "investasi": 31,
+    "umkm": 25,
+    "perdagangan": 9,
     "ekspor": 6,
     "impor": 1,
-    "koperasi": 54,
+    "koperasi": 56,
     "kartel-monopoli": 2,
-    "ipo": 2,
-    "merger-akuisisi": 1
+    "ipo": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -56,16 +55,16 @@
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 4,
-    "Darmadi Durianto": 18,
+    "Darmadi Durianto": 16,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 18,
+    "Ida Nurlaela": 19,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
-    "Sarifah Suraidah": 1,
+    "Sarifah Suraidah": 3,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
@@ -73,7 +72,6 @@
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 6,
-    "Randi Zulmariadi": 1,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 7,
     "Nasim Khan": 20,
@@ -88,13 +86,76 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
+    "Kinerja BUMN": 24,
     "Hukum/Audit": 8,
-    "Koperasi/UMKM": 75,
     "Perdagangan": 23,
+    "Koperasi/UMKM": 75,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Soroti Dominasi Platform Digital Global di Indonesia - SuaraGarut.ID",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 12:07:33 GMT",
+      "link": "https://suaragarut.id/kppu-soroti-dominasi-platform-digital"
+    },
+    {
+      "title": "Menkop Ajak DNIKS Perkuat Koperasi Desa Sebagai Instrumen Kesejahteraan Sosial - suarainvestor.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 11:58:30 GMT",
+      "link": "https://www.suarainvestor.com/menkop-ajak-dniks-perkuat-koperasi-desa-sebagai-instrumen-kesejahteraan-sosial/"
+    },
+    {
+      "title": "ATSI Dukung Penataan Platform Digital Global untuk Persaingan Setara - detikInet",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 11:54:52 GMT",
+      "link": "https://inet.detik.com/law-and-policy/d-8654325/atsi-dukung-penataan-platform-digital-global-untuk-persaingan-setara"
+    },
+    {
+      "title": "Ida Nurlaela Kritik Pemerintah Soal Dana Desa untuk Bayar Utang Kopdes: Itu Uang Rakyat - Suara.com",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 11:52:24 GMT",
+      "link": "https://www.suara.com/news/2026/09/08/185224/ida-nurlaela-kritik-pemerintah-soal-dana-desa-untuk-bayar-utang-kopdes-itu-uang-rakyat"
+    },
+    {
+      "title": "BPKN RI Dorong Pemulihan Menyeluruh Hak Konsumen dalam Kasus KPR BTN di Karawang - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 11:51:00 GMT",
+      "link": "https://www.mediakarya.id/bpkn-ri-dorong-pemulihan-menyeluruh-hak-konsumen-dalam-kasus-kpr-btn-di-karawang/"
+    },
+    {
+      "title": "Sarifah: Prioritaskan Revitalisasi Pasar untuk Gerakkan Ekonomi Rakyat - SINDOnews Nasional",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 10:33:19 GMT",
+      "link": "https://nasional.sindonews.com/read/1747651/15/sarifah-prioritaskan-revitalisasi-pasar-untuk-gerakkan-ekonomi-rakyat-1788862162"
+    },
+    {
+      "title": "Kemendag Tegaskan Belum Ada Perubahanan Aturan DMO Minyakita, Porsi BUMN Masih 35% - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 10:05:21 GMT",
+      "link": "https://nasional.kontan.co.id/news/kemendag-tegaskan-belum-ada-perubahanan-aturan-dmo-minyakita-porsi-bumn-masih-35"
+    },
+    {
+      "title": "Pemerintah Ambil Utang Whoosh, Cicilan 80 Tahun Senilai Rp 1 Triliun per Tahun - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 09:59:29 GMT",
+      "link": "https://nasional.kontan.co.id/news/pemerintah-ambil-utang-whoosh-cicilan-80-tahun-senilai-rp-1-triliun-per-tahun"
+    },
+    {
+      "title": "Membangun BUMN yang Lebih Lincah: Cerita di Balik PP 38 Tahun 2026 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 09:21:38 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6a9fd3a234777c62560cbb66/membangun-bumn-yang-lebih-lincah-cerita-di-balik-pp-38-tahun-2026"
+    },
     {
       "title": "Herman Khaeron Dorong Percepatan Restrukturisasi dan Perampingan Anak Usaha BUMN - Suara Pemerintah",
       "entity": "Badan Pengaturan BUMN",
@@ -136,69 +197,6 @@
       "kind": "anggota",
       "published": "Tue, 08 Sep 2026 07:18:00 GMT",
       "link": "https://rri.co.id/bula/daerah-3t/2714923/komisi-iii-dprd-sbt-pembangunan-jalan-afang-werinama-berlanjut-hingga-2029"
-    },
-    {
-      "title": "Sarifah Suraidah: Gerakkan Ekonomi Rakyat, Prioritaskan Revitalisasi Pasar - rm.id",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 06:46:00 GMT",
-      "link": "https://rm.id/baca-berita/nasional/325235/sarifah-suraidah-gerakkan-ekonomi-rakyat-prioritaskan-revitalisasi-pasar"
-    },
-    {
-      "title": "Batam Bidik Hub Data Center ASEAN, Andre Rosiade Desak Pasokan Gas dan HGBT Diamankan - gerindra.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 06:22:30 GMT",
-      "link": "https://gerindra.id/2026/09/08/batam-bidik-hub-data-center-asean-andre-rosiade-desak-pasokan-gas-dan-hgbt-diamankan/"
-    },
-    {
-      "title": "Wamendag Dorong UMKM Keramik Manfaatkan Jejaring Perwakilan Perdagangan - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 05:37:00 GMT",
-      "link": "https://rri.co.id/nasional/2714819/wamendag-dorong-umkm-keramik-manfaatkan-jejaring-perwakilan-perdagangan"
-    },
-    {
-      "title": "Utang Whoosh Segera Diambil Alih Kemenkeu pada Pekan Ketiga September - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 05:10:06 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260908102803-17-766081/utang-whoosh-segera-diambil-alih-kemenkeu-pada-pekan-ketiga-september"
-    },
-    {
-      "title": "Setahun Berlalu, Hasil Penanganan KPPU di PT Kayung Agro Lestari Belum Juga Diketahui Masyarakat - Mitra Mabes News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 04:48:00 GMT",
-      "link": "https://www.mitramabesnews.id/2026/09/setahun-berlalu-hasil-penanganan-kppu.html"
-    },
-    {
-      "title": "Sarmuji Sabet Dua Gelar Sekaligus: Legislator Terbaik dan Terelektabel versi ARCI, Namanya Moncer di Bursa Pilgub Jatim - jatimupdate.id",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 04:47:00 GMT",
-      "link": "https://jatimupdate.id/baca-19305-sarmuji-sabet-dua-gelar-sekaligus-legislator-terbaik-dan-terelektabel-versi-arci-namanya-moncer-di-bursa-pilgub-jatim"
-    },
-    {
-      "title": "Bukan Cuma Soal Tanah, Bos BUMN Ingatkan Aspek ‘Return’ Aset Korporasi di RUU Reforma Agraria - Industry.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 03:50:00 GMT",
-      "link": "https://www.industry.co.id/read/155604/bukan-cuma-soal-tanah-bos-bumn-ingatkan-aspek-return-aset-korporasi-di-ruu-reforma-agraria"
-    },
-    {
-      "title": "Andre Rosiade Kawal Aspirasi Warga Pessel, Jembatan Gantung Duku–Subarang Solok Rampung - Posmetro Padang",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 03:27:46 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-kawal-aspirasi-warga-pessel-jembatan-gantung-duku-subarang-solok-rampung-433147/"
-    },
-    {
-      "title": "RI Defisit US$4,76 M, Bayangi Evaluasi CEPA Dengan Australia - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 02:41:49 GMT",
-      "link": "https://www.validnews.id/ekonomi/indonesia-defisit-us476-miliar-bayangi-evaluasi-ia-cepa-dengan-australia-1788843199"
     }
   ]
 }
