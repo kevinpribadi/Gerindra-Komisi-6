@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-08T21:33:02.028893",
+  "generated_at": "2026-09-08T23:49:00.733232",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 20,
     "PDI-P": 24,
-    "Golkar": 14,
+    "Golkar": 15,
     "NasDem": 11,
     "PKB": 1,
     "PKS": 8,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 75,
-    "Golkar": 76,
+    "Golkar": 77,
     "NasDem": 19,
     "PKB": 47,
     "PKS": 43,
@@ -34,7 +34,7 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 74,
+    "bumn": 73,
     "dividen": 2,
     "danantara": 30,
     "investasi": 32,
@@ -63,7 +63,7 @@
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
-    "Sarifah Suraidah": 3,
+    "Sarifah Suraidah": 4,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
@@ -92,6 +92,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Utang Whoosh Dicicil hingga 80 Tahun, Negara Kini Berpotensi Tanggung Risiko - nasional.kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 22:55:50 GMT",
+      "link": "https://nasional.kontan.co.id/news/utang-whoosh-dicicil-hingga-80-tahun-negara-kini-berpotensi-tanggung-risiko"
+    },
     {
       "title": "Ekspor Produk Pakan Hewan Peliharaan Indonesia Tumbuh 31,98 Persen - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 08 Sep 2026 10:52:00 GMT",
       "link": "https://www.balipost.com/news/2026/09/08/580043/RAT-Koperasi-di-Bali-Baru...html"
-    },
-    {
-      "title": "Sarifah: Prioritaskan Revitalisasi Pasar untuk Gerakkan Ekonomi Rakyat - SINDOnews Nasional",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Tue, 08 Sep 2026 10:33:19 GMT",
-      "link": "https://nasional.sindonews.com/read/1747651/15/sarifah-prioritaskan-revitalisasi-pasar-untuk-gerakkan-ekonomi-rakyat-1788862162"
     }
   ]
 }
