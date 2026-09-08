@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-07T23:58:25.208853",
+  "generated_at": "2026-09-08T04:03:53.460589",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 29,
+    "Gerindra": 20,
+    "PDI-P": 28,
     "Golkar": 14,
     "NasDem": 11,
-    "PKB": 4,
-    "PKS": 6,
-    "PAN": 8,
-    "Demokrat": 6
+    "PKB": 1,
+    "PKS": 7,
+    "PAN": 7,
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 77,
+    "PDI-P": 76,
     "Golkar": 72,
     "NasDem": 20,
     "PKB": 47,
-    "PKS": 41,
+    "PKS": 42,
     "PAN": 16,
     "Demokrat": 15
   },
@@ -42,7 +42,7 @@
     "ekspor": 6,
     "umkm": 27,
     "impor": 1,
-    "koperasi": 55,
+    "koperasi": 54,
     "kartel-monopoli": 2,
     "ipo": 2,
     "merger-akuisisi": 1
@@ -56,7 +56,7 @@
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 4,
-    "Darmadi Durianto": 19,
+    "Darmadi Durianto": 18,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
@@ -79,7 +79,7 @@
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 5,
-    "Ismail": 9,
+    "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -89,11 +89,46 @@
   "early_warning_counts": {
     "Kinerja BUMN": 18,
     "Hukum/Audit": 8,
-    "Koperasi/UMKM": 76,
-    "Perdagangan": 25,
+    "Koperasi/UMKM": 75,
+    "Perdagangan": 24,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Bukan Cuma Soal Tanah, Bos BUMN Ingatkan Aspek ‘Return’ Aset Korporasi di RUU Reforma Agraria - Industry.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 03:50:00 GMT",
+      "link": "https://www.industry.co.id/read/155604/bukan-cuma-soal-tanah-bos-bumn-ingatkan-aspek-return-aset-korporasi-di-ruu-reforma-agraria"
+    },
+    {
+      "title": "Andre Rosiade Kawal Aspirasi Warga Pessel, Jembatan Gantung Duku–Subarang Solok Rampung - Posmetro Padang",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 03:27:46 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-kawal-aspirasi-warga-pessel-jembatan-gantung-duku-subarang-solok-rampung-433147/"
+    },
+    {
+      "title": "Kolaborasi Kemenkop dan Akademisi: Akselerasi 80 Ribu Kopdes Merah Putih Dimulai - balijani.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 02:40:45 GMT",
+      "link": "https://balijani.id/kolaborasi-kemenkop-dan-akademisi-akselerasi-80-ribu-kopdes-merah-putih-dimulai/"
+    },
+    {
+      "title": "Inovasi Satgas BBM Bone, Berpeluang Jadi Model Percontohan Nasional - RRI.co.id",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 08 Sep 2026 02:17:00 GMT",
+      "link": "https://rri.co.id/bone/regional/2713200/inovasi-satgas-bbm-bone-berpeluang-jadi-model-percontohan-nasional"
+    },
+    {
+      "title": "Wali Kota Lhokseumawe Dorong Revitalisasi Pasar Inpres ke Kemendag - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 00:50:00 GMT",
+      "link": "https://rri.co.id/lhokseumawe/info-pemda/2713918/wali-kota-lhokseumawe-dorong-revitalisasi-pasar-inpres-ke-kemendag"
+    },
     {
       "title": "PSEL Serang Raya siap kelola 1.161 ton sampah per hari jadi listrik - ANTARA News Banten",
       "entity": "Danantara",
@@ -163,41 +198,6 @@
       "kind": "anggota",
       "published": "Mon, 07 Sep 2026 12:53:00 GMT",
       "link": "https://www.inilah.com/pembubaran-300-anak-usaha-bumn-dpr-ingatkan-perlindungan-hak-pekerja"
-    },
-    {
-      "title": "DEN: Danantara Harus Jadi Motor Pertumbuhan dan Kemandirian Industri - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 12:45:26 GMT",
-      "link": "https://investor.id/macroeconomy/453161/den-danantara-harus-jadi-motor-pertumbuhan-dan-kemandirian-industri"
-    },
-    {
-      "title": "Dorong Revitalisasi Pasar, Wali Kota Lhokseumawe Audiensi ke Kemendag RI* - satupena.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 12:39:18 GMT",
-      "link": "https://satupena.co.id/2026/09/07/dorong-revitalisasi-pasar-wali-kota-lhokseumawe-audiensi-ke-kemendag-ri/"
-    },
-    {
-      "title": "Kemendag: RI dorong IA-CEPA perkuat investasi dan rantai pasok - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 07 Sep 2026 12:39:05 GMT",
-      "link": "https://www.antaranews.com/berita/5730205/kemendag-ri-dorong-ia-cepa-perkuat-investasi-dan-rantai-pasok"
-    },
-    {
-      "title": "DPR: Kadin harus Mampu Jembatani Kepentingan Dunia Usaha dan Pemerintah - Media Indonesia",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Mon, 07 Sep 2026 12:16:36 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/930702/dpr-kadin-harus-mampu-jembatani-kepentingan-dunia-usaha-dan-pemerintah"
-    },
-    {
-      "title": "Mulyadi Dorong Penguatan Infrastruktur Puncak dan Pantai Selatan Jawa Barat - fraksi gerindra dpr-ri",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Mon, 07 Sep 2026 12:09:14 GMT",
-      "link": "https://www.fraksigerindra.id/suara-gerindra/mulyadi-dorong-penguatan-infrastruktur-puncak-dan-pantai-selatan-jawa-barat/"
     }
   ]
 }
