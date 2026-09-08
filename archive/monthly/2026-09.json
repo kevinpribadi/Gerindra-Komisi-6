@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-08T18:17:56.221420",
+  "generated_at": "2026-09-08T21:33:02.028893",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 19,
     "PDI-P": 24,
     "Golkar": 14,
     "NasDem": 11,
@@ -34,15 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 75,
+    "bumn": 74,
     "dividen": 2,
     "danantara": 30,
-    "investasi": 31,
+    "investasi": 32,
+    "ekspor": 7,
     "perdagangan": 11,
     "umkm": 25,
-    "ekspor": 6,
-    "impor": 1,
-    "koperasi": 56,
+    "koperasi": 55,
     "kartel-monopoli": 2,
     "ipo": 3
   },
@@ -89,16 +88,30 @@
     "Kinerja BUMN": 24,
     "Hukum/Audit": 8,
     "Perdagangan": 21,
-    "Koperasi/UMKM": 75,
+    "Koperasi/UMKM": 74,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Ekspor Produk Pakan Hewan Peliharaan Indonesia Tumbuh 31,98 Persen - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 20:04:18 GMT",
+      "link": "https://www.niaga.asia/ekspor-produk-pakan-hewan-peliharaan-indonesia-tumbuh-3198-persen/"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - berita.cilegon.go.id",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 08 Sep 2026 17:48:34 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260909/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Kritisi Purbaya jangan kayak ’preman’, soal Danantara setor Rp120 T ke kas negara - lensaindonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 15:39:28 GMT",
+      "link": "https://www.lensaindonesia.com/kritisi-purbaya-jangan-kayak-preman-soal-danantara-setor-rp120-t-ke-kas-negara/"
     },
     {
       "title": "Kerjasama Perdagangan Indonesia-Australia Masuki Babak Stage One Report, Saling Tinjau Kesepakatan - SWA.co.id",
@@ -113,6 +126,13 @@
       "kind": "lembaga",
       "published": "Tue, 08 Sep 2026 14:49:10 GMT",
       "link": "https://m.antaranews.com/amp/berita/5732089/bpkn-perlu-satgas-atasi-dana-umkm-dibekukan-tokopedia-dan-tiktok-shop"
+    },
+    {
+      "title": "Menkop-DNIKS Sepakat Kolaborasi Untuk Mewujudkan Kesejahteraan Sosial - Suara Investor",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 08 Sep 2026 14:17:35 GMT",
+      "link": "https://www.suarainvestor.com/menkop-dniks-sepakat-kolaborasi-untuk-mewujudkan-kesejahteraan-sosial/"
     },
     {
       "title": "KPPU Soroti Dominasi Platform Digital Global di Indonesia - SuaraGarut.ID",
@@ -176,27 +196,6 @@
       "kind": "anggota",
       "published": "Tue, 08 Sep 2026 10:33:19 GMT",
       "link": "https://nasional.sindonews.com/read/1747651/15/sarifah-prioritaskan-revitalisasi-pasar-untuk-gerakkan-ekonomi-rakyat-1788862162"
-    },
-    {
-      "title": "Kemendag Tegaskan Belum Ada Perubahanan Aturan DMO Minyakita, Porsi BUMN Masih 35% - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 10:05:21 GMT",
-      "link": "https://nasional.kontan.co.id/news/kemendag-tegaskan-belum-ada-perubahanan-aturan-dmo-minyakita-porsi-bumn-masih-35"
-    },
-    {
-      "title": "Pemerintah Ambil Utang Whoosh, Cicilan 80 Tahun Senilai Rp 1 Triliun per Tahun - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 09:59:29 GMT",
-      "link": "https://nasional.kontan.co.id/news/pemerintah-ambil-utang-whoosh-cicilan-80-tahun-senilai-rp-1-triliun-per-tahun"
-    },
-    {
-      "title": "Membangun BUMN yang Lebih Lincah: Cerita di Balik PP 38 Tahun 2026 - Kompasiana.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 08 Sep 2026 09:21:38 GMT",
-      "link": "https://www.kompasiana.com/alifarjuli9327/6a9fd3a234777c62560cbb66/membangun-bumn-yang-lebih-lincah-cerita-di-balik-pp-38-tahun-2026"
     }
   ]
 }
