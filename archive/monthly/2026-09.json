@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-09T20:23:25.077409",
+  "generated_at": "2026-09-09T22:54:40.024134",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 29,
     "PDI-P": 21,
     "Golkar": 17,
     "NasDem": 12,
     "PKB": 8,
-    "PKS": 9,
+    "PKS": 8,
     "PAN": 3,
-    "Demokrat": 6
+    "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 71,
+    "Gerindra": 72,
     "PDI-P": 76,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 50,
     "PKS": 44,
     "PAN": 16,
-    "Demokrat": 16
+    "Demokrat": 17
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 72,
+    "bumn": 73,
     "dividen": 2,
     "danantara": 24,
     "investasi": 27,
     "umkm": 29,
     "perdagangan": 5,
     "ekspor": 6,
-    "koperasi": 56,
+    "koperasi": 58,
     "kartel-monopoli": 8,
     "ipo": 3
   },
@@ -49,7 +49,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 5,
-    "Mulan Jameela": 4,
+    "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
@@ -82,7 +82,7 @@
     "Nasril Bahar": 1,
     "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 11
+    "Herman Khaeron": 12
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
@@ -92,6 +92,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN: Kopdes Merah Putih Berpotensi Hemat Subsidi hingga Rp 150 T - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 22:06:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/10/050600226/bp-bumn--kopdes-merah-putih-berpotensi-hemat-subsidi-hingga-rp-150-t"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 09 Sep 2026 13:30:11 GMT",
       "link": "https://foto.bisnis.com/view/20260909/2002863/kemendag-dan-meta-bekali-umkm-tembus-pasar-global-dengan-ai"
-    },
-    {
-      "title": "BP BUMN: Harga Sewa Gedung Telkom ke BGN di Atas Harga Pasar - Tirto.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 13:25:00 GMT",
-      "link": "https://tirto.id/bp-bumn-harga-sewa-gedung-telkom-ke-bgn-di-atas-harga-pasar-hCDY"
     }
   ]
 }
