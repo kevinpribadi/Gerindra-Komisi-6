@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-09T17:32:29.469675",
+  "generated_at": "2026-09-09T20:23:25.077409",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 21,
     "Golkar": 17,
     "NasDem": 12,
-    "PKB": 7,
-    "PKS": 8,
+    "PKB": 8,
+    "PKS": 9,
     "PAN": 3,
     "Demokrat": 6
   },
@@ -16,8 +16,8 @@
     "PDI-P": 76,
     "Golkar": 80,
     "NasDem": 20,
-    "PKB": 49,
-    "PKS": 43,
+    "PKB": 50,
+    "PKS": 44,
     "PAN": 16,
     "Demokrat": 16
   },
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 73,
+    "bumn": 72,
     "dividen": 2,
     "danantara": 24,
     "investasi": 27,
-    "umkm": 28,
-    "perdagangan": 6,
+    "umkm": 29,
+    "perdagangan": 5,
     "ekspor": 6,
     "koperasi": 56,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 8,
     "ipo": 3
   },
   "member_counts_30d": {
@@ -72,12 +72,12 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 11,
+    "Rivqy Abdul Halim": 12,
     "Nasim Khan": 18,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 5,
-    "Ismail": 11,
+    "Ismail": 12,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -87,17 +87,38 @@
   "early_warning_counts": {
     "Kinerja BUMN": 27,
     "Hukum/Audit": 8,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 24,
+    "Koperasi/UMKM": 73,
+    "Perdagangan": 23,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 17:35:50 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260910/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Purbaya dan Ferry Bahas Cicilan Koperasi Merah Putih, Himbara tak Perlu Khawatir - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 17:15:00 GMT",
+      "link": "https://www.inilah.com/purbaya-dan-ferry-bahas-cicilan-koperasi-merah-putih-himbara-tak-perlu-khawatir"
+    },
     {
       "title": "Kemendag Buka Akses Ritel Modern bagi UMKM, Simak Syaratnya - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Wed, 09 Sep 2026 16:49:57 GMT",
       "link": "https://www.metrotvnews.com/read/b2lC6DOY-kemendag-buka-akses-ritel-modern-bagi-umkm-simak-syaratnya"
+    },
+    {
+      "title": "Kemendag Dorong UMKM Tembus Pasar Global dengan AI - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 16:35:00 GMT",
+      "link": "https://rri.co.id/nasional/2718713/kemendag-dorong-umkm-tembus-pasar-global-dengan-ai"
     },
     {
       "title": "Menkeu: Kewajiban Pembiayaan KDKMP Dibayar Langsung ke Himbara - MetroTVNews.com",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 09 Sep 2026 13:25:00 GMT",
       "link": "https://tirto.id/bp-bumn-harga-sewa-gedung-telkom-ke-bgn-di-atas-harga-pasar-hCDY"
-    },
-    {
-      "title": "Pemerintah Janji Bayar Cicilan Utang Koperasi Merah Putih Sebelum Jatuh Tempo - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 13:06:51 GMT",
-      "link": "https://www.kompas.id/artikel/pemerintah-pastikan-pembayaran-utang-kdmp-tidak-ganggu-perbankan"
-    },
-    {
-      "title": "Purbaya Jamin Cicilan Utang Kopdes ke Bank Negara Tak Akan Gagal Bayar - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 13:03:21 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260909193259-532-1402090/purbaya-jamin-cicilan-utang-kopdes-ke-bank-negara-tak-akan-gagal-bayar"
-    },
-    {
-      "title": "Baru 51,01 Persen Koperasi di Bali Gelar RAT, Dekopinwil Soroti Disiplin Administrasi - NUSABALI.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 12:57:59 GMT",
-      "link": "https://www.nusabali.com/berita/230570/baru-5101-persen-koperasi-di-bali-gelar-rat-dekopinwil-soroti-disiplin-administrasi"
     }
   ]
 }
