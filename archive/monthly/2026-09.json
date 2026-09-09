@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-09T08:36:06.717421",
+  "generated_at": "2026-09-09T13:22:48.813108",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 22,
-    "Golkar": 14,
+    "Gerindra": 27,
+    "PDI-P": 21,
+    "Golkar": 15,
     "NasDem": 12,
-    "PKB": 4,
+    "PKB": 6,
     "PKS": 8,
     "PAN": 3,
     "Demokrat": 6
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 71,
     "PDI-P": 76,
-    "Golkar": 77,
+    "Golkar": 78,
     "NasDem": 20,
-    "PKB": 46,
+    "PKB": 48,
     "PKS": 43,
     "PAN": 16,
     "Demokrat": 16
@@ -29,20 +29,20 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 9,
+    "BPK Sabang": 11,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 73,
+    "bumn": 74,
     "dividen": 2,
-    "danantara": 28,
-    "investasi": 28,
-    "umkm": 23,
-    "ekspor": 6,
+    "danantara": 27,
+    "investasi": 27,
+    "umkm": 27,
+    "ekspor": 5,
     "perdagangan": 9,
-    "koperasi": 54,
-    "kartel-monopoli": 6,
+    "koperasi": 55,
+    "kartel-monopoli": 7,
     "ipo": 3
   },
   "member_counts_30d": {
@@ -63,7 +63,7 @@
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
-    "Sarifah Suraidah": 4,
+    "Sarifah Suraidah": 5,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 5,
@@ -72,7 +72,7 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 9,
+    "Rivqy Abdul Halim": 11,
     "Nasim Khan": 17,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
@@ -85,117 +85,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 24,
+    "Kinerja BUMN": 26,
     "Hukum/Audit": 8,
-    "Perdagangan": 24,
-    "Koperasi/UMKM": 71,
+    "Koperasi/UMKM": 72,
+    "Perdagangan": 23,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Rosan Tepis Isu Danantara Bakal Setor Rp120 T ke Pemerintah - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 08:21:00 GMT",
-      "link": "https://tirto.id/rosan-tepis-isu-danantara-bakal-setor-rp120-t-ke-pemerintah-hCCy"
-    },
-    {
-      "title": "Danantara Diminta Tak Jadi Kasir APBN, Ekonom Ingatkan Risiko Investasi - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:53:53 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-diminta-tak-jadi-kasir-apbn-ekonom-ingatkan-risiko-investasi"
-    },
-    {
-      "title": "Mendag dorong UMKM manfaatkan AI untuk perluas pasar ekspor - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:46:20 GMT",
-      "link": "https://www.antaranews.com/berita/5732931/mendag-dorong-umkm-manfaatkan-ai-untuk-perluas-pasar-ekspor"
-    },
-    {
-      "title": "Wabup OKU Temui Menteri Koperasi, Dorong Koperasi Jadi Motor Ekonomi Daerah - palpos.disway.id - Palpos.id",
+      "title": "Purbaya Jamin Cicilan Utang Kopdes ke Bank Negara Tak Akan Gagal Bayar - CNN Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:42:00 GMT",
-      "link": "https://palpos.disway.id/ogan-komering-ulu/read/721167/wabup-oku-temui-menteri-koperasi-dorong-koperasi-jadi-motor-ekonomi-daerah"
+      "published": "Wed, 09 Sep 2026 13:03:21 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260909193259-532-1402090/purbaya-jamin-cicilan-utang-kopdes-ke-bank-negara-tak-akan-gagal-bayar"
     },
     {
-      "title": "Harga Minyakita Tembus HET, Kemendag Belum Berubah Sikap - Kontan TV",
+      "title": "Baru 51,01 Persen Koperasi di Bali Gelar RAT, Dekopinwil Soroti Disiplin Administrasi - NUSABALI.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:57:59 GMT",
+      "link": "https://www.nusabali.com/berita/230570/baru-5101-persen-koperasi-di-bali-gelar-rat-dekopinwil-soroti-disiplin-administrasi"
+    },
+    {
+      "title": "BP BUMN sebut KDMP bisa hemat subsidi hingga Rp150 triliun per tahun - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:52:11 GMT",
+      "link": "https://www.antaranews.com/berita/5733684/bp-bumn-sebut-kdmp-bisa-hemat-subsidi-hingga-rp150-triliun-per-tahun"
+    },
+    {
+      "title": "Mendag dorong UMKM perkuat promosi untuk saingi produk asing - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:30:30 GMT",
-      "link": "https://tv.kontan.co.id/video/ntCz33EnKN0?source=home_tv"
+      "published": "Wed, 09 Sep 2026 12:49:16 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/423385/mendag-dorong-umkm-perkuat-promosi-untuk-saingi-produk-asing"
     },
     {
-      "title": "Kuota Internet Tak Boleh Lagi Hangus, BPKN Desak Sanksi Tegas bagi Operator yang Bandel - Mediakarya.id",
+      "title": "Purbaya-Ferry-Donny Bentuk Satgas Kopdes, Awasi Penyaluran Barang Subsidi - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:16:21 GMT",
+      "link": "https://investor.id/macroeconomy/453466/purbayaferrydonny-bentuk-satgas-kopdes-awasi-penyaluran-barang-subsidi"
+    },
+    {
+      "title": "Naik 2 Kali Lipat, Ekspor UMKM Tembus USD333 Juta Hingga Juli - Suara.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:14:42 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/09/191442/naik-2-kali-lipat-ekspor-umkm-tembus-usd333-juta-hingga-juli"
+    },
+    {
+      "title": "Menkeu Pastikan Pembayaran KDKMP Langsung ke Himbara - BorneoFlash.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:13:00 GMT",
+      "link": "https://borneoflash.com/2026/09/09/menkeu-pastikan-pembayaran-kdkmp-langsung-ke-himbara"
+    },
+    {
+      "title": "Cicilan Kopdes Jatuh Tempo, Pemerintah Jamin Tak akan Gagal Bayar ke Himbara - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:01:46 GMT",
+      "link": "https://investor.id/macroeconomy/453463/cicilan-kopdes-jatuh-tempo-pemerintah-jamin-tak-akan-gagal-bayar-ke-himbara"
+    },
+    {
+      "title": "BP BUMN: Pemindahan kantor BGN ke gedung Telkom jadi optimalisasi aset - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 12:01:29 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5733551/bp-bumn-pemindahan-kantor-bgn-ke-gedung-telkom-jadi-optimalisasi-aset"
+    },
+    {
+      "title": "BPKN Awasi Pelaksanaan Kebijakan MK Soal Kuota Internet - Validnews.id",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:15:00 GMT",
-      "link": "https://www.mediakarya.id/kuota-internet-tak-boleh-lagi-hangus-bpkn-desak-sanksi-tegas-bagi-operator-yang-bandel/"
+      "published": "Wed, 09 Sep 2026 11:55:00 GMT",
+      "link": "https://www.validnews.id/nasional/2026/09/09/bpkn-awasi-pelaksanaan-kebijakan-mk-soal-kuota-internet-180700846"
     },
     {
-      "title": "Jasa Marga Siapkan Investasi Rp 12 Triliun untuk Pengembangan Tol Tahun 2026 - SuaraGarut.ID",
+      "title": "BPKN Buka Babak Baru: Sisa Kuota Internet Harus Jadi Hak Konsumen - Koran Jakarta ®",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 11:50:00 GMT",
+      "link": "https://koran-jakarta.com/2026-09-09/bpkn-buka-babak-baru-sisa-kuota-internet-harus-jadi-hak-konsumen"
+    },
+    {
+      "title": "BGN Sewa Gedung Merah Putih di Atas Harga Pasar, Danantara Klaim Telkom Tak akan Rugi - Warta Ekonomi",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 07:06:56 GMT",
-      "link": "https://suaragarut.id/jasa-marga-investasi-pengembangan-tol"
+      "published": "Wed, 09 Sep 2026 11:30:20 GMT",
+      "link": "https://wartaekonomi.co.id/read633643/bgn-sewa-gedung-merah-putih-di-atas-harga-pasar-danantara-klaim-telkom-tak-akan-rugi"
     },
     {
-      "title": "Andre Rosiade Bantu Cleaning Service Lansia yang Kakinya Diamputasi akibat Diabetes - detikNews",
+      "title": "Danantara Bakal Pegang Saham BEI - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 11:25:27 GMT",
+      "link": "https://aspek.id/danantara-bakal-pegang-saham-bei/"
+    },
+    {
+      "title": "Gaji ASN dari BPD Bakal ke Himbara, Komisi VI DPR RI Akan Koordinasikan - Bisnis.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 07:02:19 GMT",
-      "link": "https://news.detik.com/berita/d-8655333/andre-rosiade-bantu-cleaning-service-lansia-yang-kakinya-diamputasi-akibat-diabetes"
+      "published": "Wed, 09 Sep 2026 11:16:22 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260909/533/2002789/gaji-asn-dari-bpd-bakal-ke-himbara-komisi-vi-dpr-ri-akan-koordinasikan"
     },
     {
-      "title": "DPR Soroti Harga Masker Melonjak, Kemendag Diminta Tegas - lidik.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 06:11:00 GMT",
-      "link": "https://lidik.id/dpr-soroti-harga-masker-melambung-kemendag-diminta-bertindak-tegas"
-    },
-    {
-      "title": "DPR Soroti Harga Masker Melonjak, Kemendag Diminta Tegas - lidik.id",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 06:11:00 GMT",
-      "link": "https://lidik.id/dpr-soroti-harga-masker-melambung-kemendag-diminta-bertindak-tegas"
-    },
-    {
-      "title": "Andre Rosiade Serahkan Bantuan Rp 50 Juta untuk Masjid di Padang Timur - detikNews",
+      "title": "Andre Rosiade: GOR H Agus Salim dibangun modern berstandar internasional - ANTARA News Sumbar",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 05:53:33 GMT",
-      "link": "https://news.detik.com/berita/d-8655178/andre-rosiade-serahkan-bantuan-rp-50-juta-untuk-masjid-di-padang-timur"
-    },
-    {
-      "title": "KPPU Pantau Monopoli Perusahaan Teknologi dan Media Sosial di RI - cnbcindonesia.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 05:45:00 GMT",
-      "link": "https://www.cnbcindonesia.com/tech/20260909112629-37-766458/kppu-pantau-monopoli-perusahaan-teknologi-dan-media-sosial-di-ri"
-    },
-    {
-      "title": "DPR minta pemerintah kendalikan harga masker di tengah bencana - sultra.antaranews.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 05:29:16 GMT",
-      "link": "https://sultra.antaranews.com/berita/540628/dpr-minta-pemerintah-kendalikan-harga-masker-di-tengah-bencana"
-    },
-    {
-      "title": "Andre Rosiade Serahkan Ambulans untuk Nelayan Riak Laut, Dorong Pelayanan Kesehatan Masyarakat Pesisir - kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 04:08:05 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-serahkan-ambulans-untuk-nelayan-riak-laut-dorong-pelayanan-kesehatan-masyarakat-pesisir/"
-    },
-    {
-      "title": "Menteri Koperasi Ajak Masyarakat Wujudkan Kesejahteraan Sosial - Sonora.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 03:56:00 GMT",
-      "link": "https://www.sonora.co.id/news/45895/menteri-koperasi-ajak-masyarakat-wujudkan-kesejahteraan-sosial"
+      "published": "Wed, 09 Sep 2026 11:06:51 GMT",
+      "link": "https://sumbar.antaranews.com/berita/777912/andre-rosiade-gor-h-agus-salim-dibangun-modern-berstandar-internasional"
     }
   ]
 }
