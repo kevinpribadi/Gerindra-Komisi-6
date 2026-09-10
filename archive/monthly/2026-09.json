@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-10T14:48:13.228151",
+  "generated_at": "2026-09-10T18:04:31.429569",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 23,
+    "PDI-P": 22,
     "Golkar": 17,
     "NasDem": 9,
-    "PKB": 9,
+    "PKB": 11,
     "PKS": 7,
     "PAN": 3,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 68,
-    "PDI-P": 72,
+    "Gerindra": 66,
+    "PDI-P": 73,
     "Golkar": 80,
     "NasDem": 20,
-    "PKB": 51,
+    "PKB": 53,
     "PKS": 42,
     "PAN": 16,
     "Demokrat": 17
@@ -38,11 +38,11 @@
     "bumn": 65,
     "dividen": 2,
     "danantara": 22,
-    "investasi": 25,
+    "investasi": 24,
     "umkm": 30,
     "perdagangan": 8,
     "impor": 1,
-    "ekspor": 2,
+    "ekspor": 1,
     "kartel-monopoli": 7,
     "ipo": 3
   },
@@ -51,10 +51,10 @@
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 20,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
-    "Mufti Anam": 5,
+    "Mufti Anam": 6,
     "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
@@ -73,7 +73,7 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 13,
+    "Rivqy Abdul Halim": 15,
     "Nasim Khan": 18,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
@@ -94,11 +94,46 @@
   },
   "top_headlines": [
     {
+      "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 15:27:47 GMT",
+      "link": "https://ekbis.sindonews.com/read/1748555/34/anggota-komisi-vi-dpr-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-segera-ditinjau-ulang-1789052989"
+    },
+    {
+      "title": "Pengurangan Perjalanan KRL, Mufti Anam: INKA Harus Jelaskan Apa Masalah Sebenarnya? - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/pengurangan-perjalanan-krl-mufti-anam-inka-harus-jelaskan-apa-masalah-sebenarnya-b2qbeZbhP8"
+    },
+    {
+      "title": "10 UMKM Pangan Binaan Kemendag Tembus 19 Gerai AEON Indonesia - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 14:55:00 GMT",
+      "link": "https://wartaekonomi.co.id/read633986/10-umkm-pangan-binaan-kemendag-tembus-19-gerai-aeon-indonesia"
+    },
+    {
+      "title": "Danantara Belum Setor Rp120 Triliun ke Pemerintah, Purbaya dan Rosan Berbeda Suara - Sumbarsatu",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 14:32:00 GMT",
+      "link": "https://sumbarsatu.com/berita/35504-danantara-belum-setor-rp120-triliun-ke-pemerintah-purbaya-dan-rosan-berbeda-suara"
+    },
+    {
       "title": "BP BUMN & Danantara Bidik 90% Pimpinan BUMN dari Internal pada 2029 - MetroTVNews.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Thu, 10 Sep 2026 12:36:58 GMT",
       "link": "https://www.metrotvnews.com/read/KvJCJ7Wx-bp-bumn-danantara-bidik-90-pimpinan-bumn-dari-internal-pada-2029"
+    },
+    {
+      "title": "Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Ditinjau Ulang - VIVA.co.id",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 12:24:02 GMT",
+      "link": "https://www.viva.co.id/berita/nasional/1927725-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-ditinjau-ulang"
     },
     {
       "title": "DPR Ungkap Alasan Pasal 50A UU P2SK: Buka Ruang Danantara Cari Sumber Pendanaan - indoposco.id",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 10 Sep 2026 10:40:00 GMT",
       "link": "https://www.idnfinancials.com/id/news/68651/cicilan-koperasi-merah-putih-dibayar-pemerintah-langsung-ke-himbara"
-    },
-    {
-      "title": "Andre Rosiade Bantu Fatih, Balita 3,5 Tahun yang Berjuang Melawan Tumor Kepala - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 10:35:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-bantu-fatih-balita-3-5-tahun-yang-berjuang-melawan-tumor-kepala-289nvYfxSXi"
-    },
-    {
-      "title": "Sadarestuwati Imbau Warga Mojokerto Tak Jual Beras Bantuan, Simpan untuk Cadangan Pangan - beritajatim.com",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 10:01:27 GMT",
-      "link": "https://beritajatim.com/sadarestuwati-imbau-warga-mojokerto-tak-jual-beras-bantuan-simpan-untuk-cadangan-pangan"
-    },
-    {
-      "title": "Bupati Blora Ajukan Revitalisasi Pasar Plaza Cepu Ke Kementerian Perdagangan - SuaraBaru.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 09:53:37 GMT",
-      "link": "https://suarabaru.id/2026/09/10/bupati-blora-ajukan-revitalisasi-pasar-plaza-cepu-ke-kementerian-perdagangan"
-    },
-    {
-      "title": "Andre Rosiade Salurkan Bantuan Rp10 Juta untuk Fatih, Balita Pengidap Tumor - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 09:44:52 GMT",
-      "link": "https://news.detik.com/berita/d-8657213/andre-rosiade-salurkan-bantuan-rp10-juta-untuk-fatih-balita-pengidap-tumor"
-    },
-    {
-      "title": "Komisi XIII Dorong RUU Satu Data Indonesia Segera Disahkan - indonesiainfo.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 09:30:00 GMT",
-      "link": "https://www.indonesiainfo.id/artikel/68684/komisi-xiii-dorong-ruu-satu-data-indonesia-segera-disahkan/"
     }
   ]
 }
