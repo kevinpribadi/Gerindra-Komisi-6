@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-10T18:04:31.429569",
+  "generated_at": "2026-09-10T21:23:15.902679",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 22,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 9,
-    "PKB": 11,
+    "PKB": 12,
     "PKS": 7,
     "PAN": 3,
     "Demokrat": 7
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 66,
     "PDI-P": 73,
-    "Golkar": 80,
+    "Golkar": 81,
     "NasDem": 20,
-    "PKB": 53,
+    "PKB": 54,
     "PKS": 42,
     "PAN": 16,
     "Demokrat": 17
@@ -67,13 +67,13 @@
     "Sarifah Suraidah": 7,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 5,
+    "Rizki Faisal": 6,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 15,
+    "Rivqy Abdul Halim": 16,
     "Nasim Khan": 18,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
@@ -93,6 +93,13 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 15:27:47 GMT",
+      "link": "https://ekbis.sindonews.com/newsread/1748555/34/anggota-komisi-vi-dpr-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-segera-ditinjau-ulang-1789052989"
+    },
     {
       "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
       "entity": "Rivqy Abdul Halim",
@@ -120,6 +127,13 @@
       "kind": "lembaga",
       "published": "Thu, 10 Sep 2026 14:32:00 GMT",
       "link": "https://sumbarsatu.com/berita/35504-danantara-belum-setor-rp120-triliun-ke-pemerintah-purbaya-dan-rosan-berbeda-suara"
+    },
+    {
+      "title": "Kemenkop Dorong Industri Kulit Garut Naik Kelas Lewat Koperasi - Sudutpandang.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 13:47:21 GMT",
+      "link": "https://sudutpandang.id/kemenkop-dorong-industri-kulit-garut-naik-kelas-lewat-koperasi/"
     },
     {
       "title": "BP BUMN & Danantara Bidik 90% Pimpinan BUMN dari Internal pada 2029 - MetroTVNews.com",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 10 Sep 2026 10:42:00 GMT",
       "link": "https://www.beritakoperasi.com/purbaya-tak-ada-gagal-bayar-pinjaman-kopdes-merah-putih-dana-sudah-disiapkan/"
-    },
-    {
-      "title": "Rieke Dorong Bekasi Jadi Percontohan Nasional Penegakan HAM Disabilitas - detikNews",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 10:40:51 GMT",
-      "link": "https://news.detik.com/berita/d-8657330/rieke-dorong-bekasi-jadi-percontohan-nasional-penegakan-ham-disabilitas"
-    },
-    {
-      "title": "Cicilan Koperasi Merah Putih dibayar pemerintah, langsung ke Himbara - IDNFinancials",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 10:40:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/68651/cicilan-koperasi-merah-putih-dibayar-pemerintah-langsung-ke-himbara"
     }
   ]
 }
