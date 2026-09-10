@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-09T22:54:40.024134",
+  "generated_at": "2026-09-10T00:49:40.817768",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 21,
     "Golkar": 17,
     "NasDem": 12,
-    "PKB": 8,
+    "PKB": 9,
     "PKS": 8,
     "PAN": 3,
     "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 72,
-    "PDI-P": 76,
+    "PDI-P": 75,
     "Golkar": 80,
     "NasDem": 20,
-    "PKB": 50,
+    "PKB": 51,
     "PKS": 44,
     "PAN": 16,
     "Demokrat": 17
@@ -34,14 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 73,
+    "koperasi": 59,
+    "bumn": 72,
     "dividen": 2,
     "danantara": 24,
     "investasi": 27,
+    "impor": 1,
     "umkm": 29,
-    "perdagangan": 5,
-    "ekspor": 6,
-    "koperasi": 58,
+    "perdagangan": 4,
+    "ekspor": 5,
     "kartel-monopoli": 8,
     "ipo": 3
   },
@@ -54,7 +55,7 @@
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 5,
-    "Darmadi Durianto": 16,
+    "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
@@ -72,7 +73,7 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 12,
+    "Rivqy Abdul Halim": 13,
     "Nasim Khan": 18,
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
@@ -85,13 +86,27 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 74,
+    "Kinerja BUMN": 26,
     "Hukum/Audit": 8,
-    "Koperasi/UMKM": 73,
-    "Perdagangan": 23,
+    "Perdagangan": 25,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Mendag Klaim Harga Pangan Masih Stabil di Wilayah Terdampak Erupsi - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 00:20:50 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260910062915-92-1402160/mendag-klaim-harga-pangan-masih-stabil-di-wilayah-terdampak-erupsi"
+    },
+    {
+      "title": "Mendag Ungkap Aturan Baru Produk Impor Jelang Wajib Halal Oktober 2026 - mozaik.inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 23:00:00 GMT",
+      "link": "https://mozaik.inilah.com/halal-living/mendag-ungkap-aturan-baru-produk-impor-jelang-wajib-halal-oktober-2026"
+    },
     {
       "title": "BP BUMN: Kopdes Merah Putih Berpotensi Hemat Subsidi hingga Rp 150 T - Kompas.com",
       "entity": "Badan Pengaturan BUMN",
@@ -105,6 +120,13 @@
       "kind": "lembaga",
       "published": "Wed, 09 Sep 2026 17:35:50 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260910/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Purbaya dan Ferry Bahas Cicilan Koperasi Merah Putih, Himbara tak Perlu Khawatir - Inilah.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 09 Sep 2026 17:15:00 GMT",
+      "link": "https://www.inilah.com/purbaya-dan-ferry-bahas-cicilan-koperasi-merah-putih-himbara-tak-perlu-khawatir"
     },
     {
       "title": "Purbaya dan Ferry Bahas Cicilan Koperasi Merah Putih, Himbara tak Perlu Khawatir - Inilah.com",
@@ -175,27 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 09 Sep 2026 14:04:16 GMT",
       "link": "https://investor.id/macroeconomy/453483/negara-diklaim-bisa-hemat-rp-150-t-karena-kopdes-merah-putih"
-    },
-    {
-      "title": "Mendag Sebut Produk Asing Kuasai Pasar RI Berkat Iklan: Modal Besar - cnnindonesia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 14:02:17 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260909203430-92-1402113/mendag-sebut-produk-asing-kuasai-pasar-ri-berkat-iklan-modal-besar"
-    },
-    {
-      "title": "Pemerintah Siapkan Satgas Kopdes & Pastikan Tak Gagal Bayar - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 13:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121084/pemerintah-siapkan-satgas-kopdes-pastikan-tak-gagal-bayar"
-    },
-    {
-      "title": "Kemendag dan Meta Bekali UMKM Tembus Pasar Global dengan AI - Bisnis.com - Foto",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 13:30:11 GMT",
-      "link": "https://foto.bisnis.com/view/20260909/2002863/kemendag-dan-meta-bekali-umkm-tembus-pasar-global-dengan-ai"
     }
   ]
 }
