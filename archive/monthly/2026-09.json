@@ -1,11 +1,11 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-10T00:49:40.817768",
+  "generated_at": "2026-09-10T05:34:47.726824",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 30,
     "PDI-P": 21,
     "Golkar": 17,
-    "NasDem": 12,
+    "NasDem": 11,
     "PKB": 9,
     "PKS": 8,
     "PAN": 3,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 72,
-    "PDI-P": 75,
+    "PDI-P": 74,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 51,
@@ -29,20 +29,20 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 12,
+    "BPK Sabang": 13,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 59,
-    "bumn": 72,
+    "koperasi": 60,
+    "bumn": 71,
     "dividen": 2,
-    "danantara": 24,
-    "investasi": 27,
+    "danantara": 22,
+    "investasi": 26,
+    "umkm": 31,
+    "perdagangan": 8,
     "impor": 1,
-    "umkm": 29,
-    "perdagangan": 4,
-    "ekspor": 5,
+    "ekspor": 4,
     "kartel-monopoli": 8,
     "ipo": 3
   },
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 19,
+    "Ida Nurlaela": 18,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -86,117 +86,117 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 74,
-    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 76,
+    "Kinerja BUMN": 28,
     "Hukum/Audit": 8,
-    "Perdagangan": 25,
-    "Konflik Publik": 7
+    "Perdagangan": 21,
+    "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "Mendag Klaim Harga Pangan Masih Stabil di Wilayah Terdampak Erupsi - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 00:20:50 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260910062915-92-1402160/mendag-klaim-harga-pangan-masih-stabil-di-wilayah-terdampak-erupsi"
+      "title": "Kawendra Terima Aspirasi Pemuda Sungai Bungur soal Konflik Lahan Redistribusi - Gerindra",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 05:34:03 GMT",
+      "link": "https://gerindra.id/2026/09/10/kawendra-terima-aspirasi-pemuda-sungai-bungur-soal-konflik-lahan-redistribusi/"
     },
     {
-      "title": "Mendag Ungkap Aturan Baru Produk Impor Jelang Wajib Halal Oktober 2026 - mozaik.inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 23:00:00 GMT",
-      "link": "https://mozaik.inilah.com/halal-living/mendag-ungkap-aturan-baru-produk-impor-jelang-wajib-halal-oktober-2026"
+      "title": "| Lulus S1 Hukum, Rieke Dorong RUU Satu Data Indonesia Segera Disahkan - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 05:06:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1665187/lulus-s1-hukum-rieke-dorong-ruu-satu-data-indonesia-segera-disahkan/"
     },
     {
-      "title": "BP BUMN: Kopdes Merah Putih Berpotensi Hemat Subsidi hingga Rp 150 T - Kompas.com",
+      "title": "Legislator dorong RUU Satu Data Indonesia segera disahkan - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 05:00:29 GMT",
+      "link": "https://ambon.antaranews.com/berita/343019/legislator-dorong-ruu-satu-data-indonesia-segera-disahkan"
+    },
+    {
+      "title": "DPR Dorong Bekasi Jadi Percontohan Penegakan HAM Disabilitas Mental - RM.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 04:36:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/325535/dpr-dorong-bekasi-jadi-percontohan-penegakan-ham-disabilitas-mental"
+    },
+    {
+      "title": "10 Produk UMKM Pangan Binaan Kemendag Masuk Jaringan Ritel - Radio DMS Ambon",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 04:22:42 GMT",
+      "link": "https://radiodms.com/10-produk-umkm-pangan-binaan-kemendag-masuk-ritel/"
+    },
+    {
+      "title": "Temui Kementerian Perdagangan, Bupati Sebut Blora Siap Kuasai Pintu Timur Jateng - Herald.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 04:19:00 GMT",
+      "link": "https://herald.id/2026/09/10/temui-kementerian-perdagangan-bupati-sebut-blora-siap-kuasai-pintu-timur-jateng/"
+    },
+    {
+      "title": "Pemerintah Bentuk Satgas Koperasi Merah Putih, Purbaya Beber Tujuannya - KabarBursa.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/pemerintah-bentuk-satgas-koperasi-merah-putih-purbaya-beber-tujuannya"
+    },
+    {
+      "title": "10 produk UMKM pangan binaan Kemendag masuk jaringan ritel - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 03:41:42 GMT",
+      "link": "https://www.antaranews.com/berita/5734315/10-produk-umkm-pangan-binaan-kemendag-masuk-jaringan-ritel"
+    },
+    {
+      "title": "BGN Pindah ke Graha Merah Putih, BP BUMN: Optimalisasi Aset Telkom - Validnews.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 22:06:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/10/050600226/bp-bumn--kopdes-merah-putih-berpotensi-hemat-subsidi-hingga-rp-150-t"
+      "published": "Thu, 10 Sep 2026 03:37:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/09/10/bgn-pindah-ke-graha-merah-putih-bp-bumn-optimalisasi-aset-telkom-103700880"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 17:35:50 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260910/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Purbaya dan Ferry Bahas Cicilan Koperasi Merah Putih, Himbara tak Perlu Khawatir - Inilah.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 17:15:00 GMT",
-      "link": "https://www.inilah.com/purbaya-dan-ferry-bahas-cicilan-koperasi-merah-putih-himbara-tak-perlu-khawatir"
-    },
-    {
-      "title": "Purbaya dan Ferry Bahas Cicilan Koperasi Merah Putih, Himbara tak Perlu Khawatir - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 17:15:00 GMT",
-      "link": "https://www.inilah.com/purbaya-dan-ferry-bahas-cicilan-koperasi-merah-putih-himbara-tak-perlu-khawatir"
-    },
-    {
-      "title": "Kemendag Buka Akses Ritel Modern bagi UMKM, Simak Syaratnya - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 16:49:57 GMT",
-      "link": "https://www.metrotvnews.com/read/b2lC6DOY-kemendag-buka-akses-ritel-modern-bagi-umkm-simak-syaratnya"
-    },
-    {
-      "title": "Kemendag Dorong UMKM Tembus Pasar Global dengan AI - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 16:35:00 GMT",
-      "link": "https://rri.co.id/nasional/2718713/kemendag-dorong-umkm-tembus-pasar-global-dengan-ai"
-    },
-    {
-      "title": "Menkeu: Kewajiban Pembiayaan KDKMP Dibayar Langsung ke Himbara - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 15:56:10 GMT",
-      "link": "https://www.metrotvnews.com/read/N0BC1Rl9-menkeu-kewajiban-pembiayaan-kdkmp-dibayar-langsung-ke-himbara"
-    },
-    {
-      "title": "BPKS Perkuat Posisi Sabang Sebagai Gerbang Maritim IMT-GT - Acehinfo",
+      "title": "BPKS Dorong Sabang Jadi Gerbang Maritim IMT-GT - RRI.co.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 15:03:12 GMT",
-      "link": "https://www.acehinfo.id/bpks-perkuat-posisi-sabang-sebagai-gerbang-maritim-imt-gt/"
+      "published": "Thu, 10 Sep 2026 03:35:00 GMT",
+      "link": "https://rri.co.id/sabang/nasional/2718910/bpks-dorong-sabang-jadi-gerbang-maritim-imt-gt"
     },
     {
-      "title": "Wabup OKU Temui Menkop, Bahas Penguatan Koperasi-Akses Permodalan - detikcom",
+      "title": "APKASINDO Bersama 15 Koperasi Sawit Akses Pembiayaan LPDB Kemenkop dari Hilirisasi Sampai Sarana Perkebunan - Majalah Sawit Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 15:00:00 GMT",
-      "link": "https://www.detik.com/sumbagsel/berita/d-8654988/wabup-oku-temui-menkop-bahas-penguatan-koperasi-akses-permodalan"
+      "published": "Thu, 10 Sep 2026 03:05:09 GMT",
+      "link": "https://sawitindonesia.com/apkasindo-bersama-15-koperasi-sawit-akses-pembiayaan-lpdb-kemenkop-dari-hilirisasi-sampai-sarana-perkebunan/"
     },
     {
-      "title": "Pemuda Katolik Banten Gandeng Kemendag Cetak Eksportir Muda - RM.ID",
+      "title": "10 Produk Pangan UMKM Binaan Kemendag Tembus Jaringan Ritel AEON - CNN Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 14:59:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/325475/pemuda-katolik-banten-gandeng-kemendag-cetak-eksportir-muda"
+      "published": "Thu, 10 Sep 2026 02:29:47 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260910092450-92-1402240/10-produk-pangan-umkm-binaan-kemendag-tembus-jaringan-ritel-aeon"
     },
     {
-      "title": "Sejak Jaman Belanda Menanti Sertifikat, Warga Kilensari Terkendala Surat PT KAI, Nasim Khan Turun Tangan - Penarakyat.Com",
-      "entity": "Nasim Khan",
+      "title": "PP 38 Tahun 2026 Resmi Berlaku, Pemerintah Reformasi Total Tata Kelola BUMN - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 02:10:15 GMT",
+      "link": "https://www.kompasiana.com/alifarjuli9327/6aa21187ed64157050126e62/pp-38-tahun-2026-resmi-berlaku-pemerintah-reformasi-total-tata-kelola-bumn"
+    },
+    {
+      "title": "Bos Danantara Sebut Pemindahan Kantor BGN ke Graha Merah Putih Tak Rugikan Telkom, Ini Alasannya - Kompas.tv",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 01:59:00 GMT",
+      "link": "https://www.kompas.tv/amp/nasional/689884/bos-danantara-sebut-pemindahan-kantor-bgn-ke-graha-merah-putih-tak-rugikan-telkom-ini-alasannya"
+    },
+    {
+      "title": "Andre Rosiade: Belum Ada Instruksi Payroll ASN ke Himbara - RRI.co.id",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 09 Sep 2026 14:35:48 GMT",
-      "link": "https://penarakyat.com/sejak-jaman-belanda-menanti-sertifikat-warga-kilensari-terkendala-surat-pt-kai-nasim-khan-turun-tangan/"
-    },
-    {
-      "title": "Kopdes Merah Putih Jadi Jalur Distribusi Barang Subsidi, Pemerintah Bentuk Satgas - saibumi.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 14:33:46 GMT",
-      "link": "https://www.saibumi.com/artikel-140159-kopdes-merah-putih-jadi-jalur-distribusi-barang-subsidi-pemerintah-bentuk-satgas.html"
-    },
-    {
-      "title": "Negara Diklaim Bisa Hemat Rp 150 T karena Kopdes Merah Putih - investor.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 09 Sep 2026 14:04:16 GMT",
-      "link": "https://investor.id/macroeconomy/453483/negara-diklaim-bisa-hemat-rp-150-t-karena-kopdes-merah-putih"
+      "published": "Thu, 10 Sep 2026 01:42:00 GMT",
+      "link": "https://rri.co.id/padang/nasional/2718801/andre-rosiade-belum-ada-instruksi-payroll-asn-ke-himbara"
     }
   ]
 }
