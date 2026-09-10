@@ -1,19 +1,19 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-10T10:35:17.956650",
+  "generated_at": "2026-09-10T14:48:13.228151",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 20,
+    "PDI-P": 23,
     "Golkar": 17,
-    "NasDem": 11,
+    "NasDem": 9,
     "PKB": 9,
     "PKS": 7,
     "PAN": 3,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 70,
-    "PDI-P": 74,
+    "Gerindra": 68,
+    "PDI-P": 72,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 51,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 63,
-    "bumn": 67,
+    "koperasi": 64,
+    "bumn": 65,
     "dividen": 2,
-    "danantara": 20,
-    "investasi": 24,
+    "danantara": 22,
+    "investasi": 25,
     "umkm": 30,
-    "perdagangan": 7,
+    "perdagangan": 8,
     "impor": 1,
     "ekspor": 2,
     "kartel-monopoli": 7,
@@ -49,7 +49,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 2,
-    "Muhammad Husein Fadlulloh": 3,
+    "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 20,
     "Mulyadi": 20,
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 16,
+    "Ida Nurlaela": 14,
     "Budi Sulistyono": 4,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -86,7 +86,7 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 76,
+    "Koperasi/UMKM": 77,
     "Kinerja BUMN": 27,
     "Hukum/Audit": 8,
     "Perdagangan": 20,
@@ -94,11 +94,95 @@
   },
   "top_headlines": [
     {
+      "title": "BP BUMN & Danantara Bidik 90% Pimpinan BUMN dari Internal pada 2029 - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 12:36:58 GMT",
+      "link": "https://www.metrotvnews.com/read/KvJCJ7Wx-bp-bumn-danantara-bidik-90-pimpinan-bumn-dari-internal-pada-2029"
+    },
+    {
+      "title": "DPR Ungkap Alasan Pasal 50A UU P2SK: Buka Ruang Danantara Cari Sumber Pendanaan - indoposco.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 12:04:08 GMT",
+      "link": "https://indoposco.id/2026/09/10/dpr-ungkap-alasan-pasal-50a-uu-p2sk-buka-ruang-danantara-cari-sumber-pendanaan/"
+    },
+    {
+      "title": "Peneliti: Danantara dapat menjadi jembatan antara pemerintah-investor - ANTARA News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 11:43:37 GMT",
+      "link": "https://www.antaranews.com/berita/5735196/peneliti-danantara-dapat-menjadi-jembatan-antara-pemerintah-investor"
+    },
+    {
+      "title": "Danantara Dorong Investasi B2B, DBS: Ekosistem Bisnis Makin Jalan - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 11:43:19 GMT",
+      "link": "https://infobanknews.com/danantara-dorong-investasi-b2b-dbs-ekosistem-bisnis-makin-jalan"
+    },
+    {
+      "title": "Rakorwil Dekopinwil Sumbar Resmi Dibuka, Perkuat Arah Gerakan Koperasi Se-Sumatera Barat - PASBANA",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 11:30:00 GMT",
+      "link": "https://www.pasbana.com/2026/09/rakorwil-dekopinwil-sumbar-resmi-dibuka-perkuat-arah-gerakan-koperasi-se-sumatera-barat.html"
+    },
+    {
+      "title": "Mendag Busan Dorong Optimalisasi AI untuk Pemasaran Produk UMKM - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 11:30:00 GMT",
+      "link": "https://olenka.id/mendag-busan-dorong-optimalisasi-ai-untuk-pemasaran-produk-umkm"
+    },
+    {
+      "title": "Rieke Dorong Perlindungan Khusus Pekerja Media Lewat RUU - Rmol.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 11:27:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/09/10/721326/rieke-dorong-perlindungan-khusus-pekerja-media-lewat-ruu"
+    },
+    {
+      "title": "Purbaya: Tak Ada Gagal Bayar Pinjaman Kopdes Merah Putih, Dana Sudah Disiapkan - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 10:42:00 GMT",
+      "link": "https://www.beritakoperasi.com/purbaya-tak-ada-gagal-bayar-pinjaman-kopdes-merah-putih-dana-sudah-disiapkan/"
+    },
+    {
+      "title": "Rieke Dorong Bekasi Jadi Percontohan Nasional Penegakan HAM Disabilitas - detikNews",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 10:40:51 GMT",
+      "link": "https://news.detik.com/berita/d-8657330/rieke-dorong-bekasi-jadi-percontohan-nasional-penegakan-ham-disabilitas"
+    },
+    {
+      "title": "Cicilan Koperasi Merah Putih dibayar pemerintah, langsung ke Himbara - IDNFinancials",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 10:40:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/68651/cicilan-koperasi-merah-putih-dibayar-pemerintah-langsung-ke-himbara"
+    },
+    {
+      "title": "Andre Rosiade Bantu Fatih, Balita 3,5 Tahun yang Berjuang Melawan Tumor Kepala - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 10 Sep 2026 10:35:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-bantu-fatih-balita-3-5-tahun-yang-berjuang-melawan-tumor-kepala-289nvYfxSXi"
+    },
+    {
       "title": "Sadarestuwati Imbau Warga Mojokerto Tak Jual Beras Bantuan, Simpan untuk Cadangan Pangan - beritajatim.com",
       "entity": "Sadarestuwati",
       "kind": "anggota",
       "published": "Thu, 10 Sep 2026 10:01:27 GMT",
       "link": "https://beritajatim.com/sadarestuwati-imbau-warga-mojokerto-tak-jual-beras-bantuan-simpan-untuk-cadangan-pangan"
+    },
+    {
+      "title": "Bupati Blora Ajukan Revitalisasi Pasar Plaza Cepu Ke Kementerian Perdagangan - SuaraBaru.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 10 Sep 2026 09:53:37 GMT",
+      "link": "https://suarabaru.id/2026/09/10/bupati-blora-ajukan-revitalisasi-pasar-plaza-cepu-ke-kementerian-perdagangan"
     },
     {
       "title": "Andre Rosiade Salurkan Bantuan Rp10 Juta untuk Fatih, Balita Pengidap Tumor - detikNews",
@@ -108,95 +192,11 @@
       "link": "https://news.detik.com/berita/d-8657213/andre-rosiade-salurkan-bantuan-rp10-juta-untuk-fatih-balita-pengidap-tumor"
     },
     {
-      "title": "Purbaya Jamin Utang Kopdes Tak Gagal Bayar: Uangnya Sudah Dianggarkan - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 09:20:00 GMT",
-      "link": "https://wartaekonomi.co.id/read633917/purbaya-jamin-utang-kopdes-tak-gagal-bayar-uangnya-sudah-dianggarkan"
-    },
-    {
-      "title": "Andre Rosiade Bantu Rp25 Juta, Gadis Pasaman Wujudkan Mimpi Kuliah di Mesir - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 09:15:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-bantu-rp25-juta-gadis-pasaman-wujudkan-mimpi-kuliah-di-mesir-289mWMm8mpe"
-    },
-    {
-      "title": "Gaji Manajer Kopdes Merah Putih Selama 2 Tahun Ditanggung Negara - beritakoperasi.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 09:14:00 GMT",
-      "link": "https://www.beritakoperasi.com/gaji-manajer-kopdes-merah-putih-selama-2-tahun-ditanggung-negara/"
-    },
-    {
-      "title": "DPR Jelaskan Kenapa Pasal 50A UU P2SK Dibuat untuk Danantara - Informasi.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 09:00:00 GMT",
-      "link": "https://informasi.com/nasional/infrms-27920/dpr-jelaskan-kenapa-pasal-50a-uu-p2sk-dibuat-untuk-danantara"
-    },
-    {
-      "title": "BGN Sewa Gedung Telkom di Atas Harga Pasar - investor.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 08:58:06 GMT",
-      "link": "https://investor.id/market/453602/bgn-sewa-gedung-telkom-di-atas-harga-pasar"
-    },
-    {
-      "title": "Pemkab Nisbar Siapkan BUMD Perluas Penjualan Produk Lokal Hingga Ke Level Nasional - waspada.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 08:29:02 GMT",
-      "link": "https://www.waspada.id/berita/pemkab-nisbar-siapkan-bumd-perluas-penjualan-produk-lokal-hingga-ke-level-nasional"
-    },
-    {
-      "title": "Kopdes Merah Putih Diklaim Bisa Selamatkan Rp150 Triliun Uang Negara - Inilah.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 08:03:00 GMT",
-      "link": "https://www.inilah.com/kopdes-merah-putih-diklaim-bisa-selamatkan-rp150-triliun-uang-negara"
-    },
-    {
-      "title": "Indonesia dan Australia Mulai Tahapan Awal Reviu IA-CEPA - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 07:59:54 GMT",
-      "link": "https://www.niaga.asia/indonesia-dan-australia-mulai-tahapan-awal-reviu-ia-cepa/"
-    },
-    {
-      "title": "Putusan KPPU Perkuat Kepastian Bisnis dalam Distribusi AC AUX - JPNN.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 07:48:31 GMT",
-      "link": "https://www.jpnn.com/news/putusan-kppu-perkuat-kepastian-bisnis-dalam-distribusi-ac-aux"
-    },
-    {
-      "title": "Pemerintah Tanggung Gaji Manajer Koperasi Desa Merah Putih Dua Tahun - SuaraGarut.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 07:39:14 GMT",
-      "link": "https://suaragarut.id/pemerintah-tanggung-gaji-manajer-koperasi-desa"
-    },
-    {
-      "title": "Rieke “Oneng” Diah Pitaloka Dorong RUU Satu Data Disahkan, Soroti Risiko Ketergantungan Vendor Teknologi - VOI.ID",
+      "title": "Komisi XIII Dorong RUU Satu Data Indonesia Segera Disahkan - indonesiainfo.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 07:31:50 GMT",
-      "link": "https://voi.id/amp/593484/rieke-oneng-diah-pitaloka-dorong-ruu-satu-data-disahkan-soroti-risiko-ketergantungan-vendor-teknologi"
-    },
-    {
-      "title": "Mendag Dorong UMKM Manfaatkan AI untuk Tembus Pasar Global - batamtoday.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 06:51:32 GMT",
-      "link": "https://batamtoday.com/news/mendag-dorong-umkm-manfaatkan-ai-untuk-tembus-pasar-global"
-    },
-    {
-      "title": "APKASINDO Fasilitasi 15 Koperasi Sawit Akses Dana Bergulir LPDB Kemenkop - HaiSawit",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 06:39:09 GMT",
-      "link": "https://haisawit.co.id/news/detail/apkasindo-fasilitasi-15-koperasi-sawit-akses-dana-bergulir-lpdb-kemenkop"
+      "published": "Thu, 10 Sep 2026 09:30:00 GMT",
+      "link": "https://www.indonesiainfo.id/artikel/68684/komisi-xiii-dorong-ruu-satu-data-indonesia-segera-disahkan/"
     }
   ]
 }
