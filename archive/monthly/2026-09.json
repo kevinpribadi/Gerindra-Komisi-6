@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-11T07:54:28.678215",
+  "generated_at": "2026-09-11T12:36:08.054377",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 22,
+    "PDI-P": 24,
     "Golkar": 19,
     "NasDem": 9,
     "PKB": 12,
@@ -12,12 +12,12 @@
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 67,
-    "PDI-P": 72,
+    "Gerindra": 66,
+    "PDI-P": 73,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 54,
-    "PKS": 40,
+    "PKS": 39,
     "PAN": 16,
     "Demokrat": 17
   },
@@ -29,21 +29,20 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 15,
+    "BPK Sabang": 16,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 65,
-    "bumn": 60,
+    "koperasi": 63,
+    "bumn": 58,
     "dividen": 2,
-    "danantara": 24,
+    "danantara": 26,
     "investasi": 23,
     "umkm": 30,
     "perdagangan": 10,
     "impor": 1,
-    "ekspor": 1,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 9,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -51,10 +50,10 @@
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
-    "Mufti Anam": 7,
+    "Mufti Anam": 8,
     "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
@@ -78,7 +77,7 @@
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 10,
+    "Ismail": 9,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -86,13 +85,90 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
+    "Kinerja BUMN": 22,
     "Koperasi/UMKM": 80,
-    "Kinerja BUMN": 24,
-    "Hukum/Audit": 8,
-    "Perdagangan": 20,
+    "Hukum/Audit": 7,
+    "Perdagangan": 19,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "BPKS: Kawasan Sabang siap jadi simpul konektivitas - ANTARA News Aceh",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 11:49:13 GMT",
+      "link": "https://aceh.antaranews.com/berita/410807/bpks-kawasan-sabang-siap-jadi-simpul-konektivitas"
+    },
+    {
+      "title": "Danantara Ungkap Laba Telkom Bisa Naik 30% Gara-Gara Ini - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 10:55:22 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260911163822-17-767297/danantara-ungkap-laba-telkom-bisa-naik-30-gara-gara-ini"
+    },
+    {
+      "title": "Transformasi ID Food, Pangkas 26 Entitas Jadi 3 Perusahaan - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 10:37:39 GMT",
+      "link": "https://www.metrotvnews.com/read/b1oCO1o1-transformasi-id-food-pangkas-26-entitas-jadi-3-perusahaan"
+    },
+    {
+      "title": "Kawal Tol Bukittinggi-Sicincin, Andre Rosiade: Exit Pasar Amor dan Lanjut Bypass - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 10:23:00 GMT",
+      "link": "https://kumparan.com/kumparannews/kawal-tol-bukittinggi-sicincin-andre-rosiade-exit-pasar-amor-dan-lanjut-bypass-28ACFZb7Fe1"
+    },
+    {
+      "title": "Danantara: GRC Harus Jadi Strategic Enabler Perusahaan - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:43:29 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/932349/danantara-grc-harus-jadi-strategic-enabler-perusahaan"
+    },
+    {
+      "title": "Mengapa Purbaya Ngotot Danantara Setor Rp120 Triliun ke APBN? - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:19:25 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/11/161925/mengapa-purbaya-ngotot-danantara-setor-rp120-triliun-ke-apbn"
+    },
+    {
+      "title": "KDMP Tinggal Tunggu Perpres, Tapi Gaji Managernya Belum Jelas - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:10:00 GMT",
+      "link": "https://wartaekonomi.co.id/read634124/kdmp-tinggal-tunggu-perpres-tapi-gaji-managernya-belum-jelas"
+    },
+    {
+      "title": "KPPU Bekali Calon Advokat Pahami Hukum Persaingan Usaha - kanalsatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:08:00 GMT",
+      "link": "https://kanalsatu.com/id/post/69036/kppu-bekali-calon-advokat-pahami-hukum-persaingan-usaha"
+    },
+    {
+      "title": "KPPU Surabaya Tingkatkan Literasi Hukum Persaingan Usaha bagi Peserta PKPA - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:02:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28136925/kppu-surabaya-tingkatkan-literasi-hukum-persaingan-usaha-bagi-peserta-pkpa"
+    },
+    {
+      "title": "KRL Baru PT INKA Masuk Bengkel, Mufti Anam Pertanyakan Keandalan Produksi Dalam Negeri - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 09:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/krl-baru-pt-inka-masuk-bengkel-mufti-anam-pertanyakan-keandalan-produksi-dalam-negeri-b2qbdZbhOb"
+    },
+    {
+      "title": "Pertamina Target Rampingkan 118 Anak Usaha di 2026 - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 08:40:35 GMT",
+      "link": "https://wartaekonomi.co.id/read634132/pertamina-target-rampingkan-118-anak-usaha-di-2026"
+    },
     {
       "title": "Menkeu Dorong Satgas Kopdes, Begini Reaksi Agrinas - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
@@ -115,88 +191,11 @@
       "link": "https://www.cnbcindonesia.com/market/20260911143317-17-767240/lapor-ke-danantara-pertamina-rampungkan-streamlining-31-perusahaan"
     },
     {
-      "title": "Pemerintah Jamin Kopdes Tak Gagal Bayar, ini Rencana Berikutnya - KabarBursa.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Kantongi Restu OJK, Ony Suprihartono Efektif Jabat Komisaris TUGU - Infobanknews",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 07:13:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/pemerintah-jamin-kopdes-tak-gagal-bayar-ini-rencana-berikutnya"
-    },
-    {
-      "title": "10 Kementerian/Lembaga dengan Anggaran Terkecil dalam RAPBN 2027 - GoodStats",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 06:53:42 GMT",
-      "link": "https://data.goodstats.id/statistic/10-kementerianlembaga-dengan-anggaran-terkecil-dalam-rapbn-2027-TDLIv"
-    },
-    {
-      "title": "Raih Gelar Sarjana Hukum di IBLAM, Rieke Diah Pitaloka Soroti Ancaman Ketergantungan Teknologi - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 06:42:00 GMT",
-      "link": "https://www.gesuri.id/serba-serbi/raih-gelar-sarjana-hukum-di-iblam-rieke-diah-pitaloka-soroti-ancaman-ketergantungan-teknologi-b2qbfZbhQj"
-    },
-    {
-      "title": "Bupati Nias Barat Sambangi Kantor Kemendag - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 06:35:00 GMT",
-      "link": "https://rri.co.id/gunung-sitoli/regional/2721724/bupati-nias-barat-sambangi-kantor-kemendag"
-    },
-    {
-      "title": "| Legislator PDIP Minta Perlindungan Pekerja Media Diperkuat - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 05:03:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1665275/legislator-pdip-minta-perlindungan-pekerja-media-diperkuat/"
-    },
-    {
-      "title": "BBPOM Aceh Bangun Sinergi Lintas Instansi di Sabang - acehstandar.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 04:58:45 GMT",
-      "link": "https://www.acehstandar.com/news/bbpom-aceh-bangun-sinergi-lintas-instansi-di-sabang/index.html"
-    },
-    {
-      "title": "Soedeson Tandra: Pasal 50A UU P2SK Dibentuk untuk Perluas Sumber Pembiayaan Danantara - Golkarpedia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 04:57:02 GMT",
-      "link": "https://golkarpedia.com/soedeson-tandra-pasal-50a-uu-p2sk-dibentuk-untuk-perluas-sumber-pembiayaan-danantara/"
-    },
-    {
-      "title": "Pertamina Bakal Pangkas 118 Entitas Usaha Tahun Ini - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 04:53:59 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8289576/pertamina-bakal-pangkas-118-entitas-usaha-tahun-ini"
-    },
-    {
-      "title": "Andre Rosiade Targetkan Tol Padang Panjang-Pasar Amor Rampung Sebelum 2029 - Kata Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 04:23:00 GMT",
-      "link": "https://katasumbar.com/andre-rosiade-targetkan-tol-padang-panjang-pasar-amor-rampung-sebelum-2029/"
-    },
-    {
-      "title": "Kemendag: Furnitur RI catat potensi transaksi Rp39,7 miliar di India - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 04:10:10 GMT",
-      "link": "https://www.antaranews.com/berita/5736088/kemendag-furnitur-ri-catat-potensi-transaksi-rp397-miliar-di-india"
-    },
-    {
-      "title": "BAM DPR RI Terima Aduan Konflik Lahan Sungai Bungur, Kawendra Dorong Pendampingan Hukum - fraksi gerindra dpr-ri",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 03:48:14 GMT",
-      "link": "https://www.fraksigerindra.id/bam-dpr-ri-terima-aduan-konflik-lahan-sungai-bungur-kawendra-dorong-pendampingan-hukum/"
-    },
-    {
-      "title": "Ikuti PKN I di Bali, Kakanwil Kemenkum Kalbar Pelajari Strategi Penguatan Koperasi Merah Putih - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 03:40:06 GMT",
-      "link": "https://pontianakpost.jawapos.com/metropolis/2609110042/ikuti-pkn-i-di-bali-kakanwil-kemenkum-kalbar-pelajari-strategi-penguatan-koperasi-merah-putih"
+      "published": "Fri, 11 Sep 2026 07:30:20 GMT",
+      "link": "https://infobanknews.com/kantongi-restu-ojk-ony-suprihartono-efektif-jabat-komisaris-tugu"
     }
   ]
 }
