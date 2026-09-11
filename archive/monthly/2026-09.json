@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-10T23:42:02.676607",
+  "generated_at": "2026-09-11T02:57:49.236061",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 28,
     "PDI-P": 23,
     "Golkar": 18,
     "NasDem": 9,
@@ -17,7 +17,7 @@
     "Golkar": 81,
     "NasDem": 20,
     "PKB": 54,
-    "PKS": 42,
+    "PKS": 41,
     "PAN": 16,
     "Demokrat": 17
   },
@@ -35,16 +35,16 @@
   },
   "topic_counts_30d": {
     "koperasi": 64,
-    "bumn": 66,
+    "bumn": 65,
     "dividen": 2,
     "danantara": 22,
     "investasi": 24,
-    "umkm": 30,
-    "perdagangan": 8,
+    "umkm": 31,
+    "perdagangan": 9,
     "impor": 1,
     "ekspor": 1,
     "kartel-monopoli": 7,
-    "ipo": 3
+    "ipo": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -78,7 +78,7 @@
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 12,
+    "Ismail": 11,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -86,13 +86,48 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 77,
-    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 79,
+    "Kinerja BUMN": 25,
     "Hukum/Audit": 8,
     "Perdagangan": 20,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "| Perkara Distribusi AC AUX, KPPU Nyatakan Tak Ada Pelanggaran - jurnas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 02:27:55 GMT",
+      "link": "https://www.jurnas.com/artikel/1665263/perkara-distribusi-ac-aux-kppu-nyatakan-tak-ada-pelanggaran-/"
+    },
+    {
+      "title": "Pangkas 26 jadi 3 Entitas, ID Food Ditargetkan Raup Rp40 Triliun di 2027 - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 01:39:40 GMT",
+      "link": "https://wartaekonomi.co.id/read634039/pangkas-26-jadi-3-entitas-id-food-ditargetkan-raup-rp40-triliun-di-2027"
+    },
+    {
+      "title": "Bos Danantara Pangkas Massal Entitas ID Food, Bersiap Jadi TradingCo - Industry.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 01:22:00 GMT",
+      "link": "https://www.industry.co.id/read/155771/bos-danantara-pangkas-massal-entitas-id-food-bersiap-jadi-tradingco"
+    },
+    {
+      "title": "Mendag Klaim Produk UMKM Kini Kuasai 60 Persen Etalase Ritel Modern - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 00:20:00 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260910122211-92-1402335/mendag-klaim-produk-umkm-kini-kuasai-60-persen-etalase-ritel-modern"
+    },
+    {
+      "title": "Pemerintah Tanggung Gaji Manajer Koperasi Desa Selama Dua Tahun - SuaraGarut.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 00:05:13 GMT",
+      "link": "https://suaragarut.id/pemerintah-tanggung-gaji-manajer-koperasi-desa-selama-dua-tahun"
+    },
     {
       "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
       "entity": "Rivqy Abdul Halim",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 10 Sep 2026 11:43:37 GMT",
       "link": "https://www.antaranews.com/berita/5735196/peneliti-danantara-dapat-menjadi-jembatan-antara-pemerintah-investor"
-    },
-    {
-      "title": "Danantara Dorong Investasi B2B, DBS: Ekosistem Bisnis Makin Jalan - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 11:43:19 GMT",
-      "link": "https://infobanknews.com/danantara-dorong-investasi-b2b-dbs-ekosistem-bisnis-makin-jalan"
-    },
-    {
-      "title": "Rakorwil Dekopinwil Sumbar Resmi Dibuka, Perkuat Arah Gerakan Koperasi Se-Sumatera Barat - PASBANA",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 11:30:00 GMT",
-      "link": "https://www.pasbana.com/2026/09/rakorwil-dekopinwil-sumbar-resmi-dibuka-perkuat-arah-gerakan-koperasi-se-sumatera-barat.html"
-    },
-    {
-      "title": "Mendag Busan Dorong Optimalisasi AI untuk Pemasaran Produk UMKM - olenka.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 11:30:00 GMT",
-      "link": "https://olenka.id/mendag-busan-dorong-optimalisasi-ai-untuk-pemasaran-produk-umkm"
-    },
-    {
-      "title": "Rieke Dorong Perlindungan Khusus Pekerja Media Lewat RUU - Rmol.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 11:27:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/09/10/721326/rieke-dorong-perlindungan-khusus-pekerja-media-lewat-ruu"
-    },
-    {
-      "title": "Purbaya: Tak Ada Gagal Bayar Pinjaman Kopdes Merah Putih, Dana Sudah Disiapkan - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 10:42:00 GMT",
-      "link": "https://www.beritakoperasi.com/purbaya-tak-ada-gagal-bayar-pinjaman-kopdes-merah-putih-dana-sudah-disiapkan/"
     }
   ]
 }
