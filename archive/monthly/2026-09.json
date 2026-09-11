@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-11T02:57:49.236061",
+  "generated_at": "2026-09-11T07:54:28.678215",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 23,
-    "Golkar": 18,
+    "Gerindra": 29,
+    "PDI-P": 22,
+    "Golkar": 19,
     "NasDem": 9,
     "PKB": 12,
     "PKS": 7,
     "PAN": 3,
-    "Demokrat": 7
+    "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 73,
-    "Golkar": 81,
+    "Gerindra": 67,
+    "PDI-P": 72,
+    "Golkar": 80,
     "NasDem": 20,
     "PKB": 54,
-    "PKS": 41,
+    "PKS": 40,
     "PAN": 16,
     "Demokrat": 17
   },
@@ -29,18 +29,18 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 13,
+    "BPK Sabang": 15,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 64,
-    "bumn": 65,
+    "koperasi": 65,
+    "bumn": 60,
     "dividen": 2,
-    "danantara": 22,
-    "investasi": 24,
-    "umkm": 31,
-    "perdagangan": 9,
+    "danantara": 24,
+    "investasi": 23,
+    "umkm": 30,
+    "perdagangan": 10,
     "impor": 1,
     "ekspor": 1,
     "kartel-monopoli": 7,
@@ -51,22 +51,22 @@
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
-    "Mufti Anam": 6,
+    "Mufti Anam": 7,
     "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 14,
-    "Budi Sulistyono": 4,
+    "Ida Nurlaela": 13,
+    "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 4,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 4,
+    "Firnando Hadityo Ganinduto": 3,
     "Rizki Faisal": 6,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 5,
@@ -78,7 +78,7 @@
     "Amin Ak.": 7,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 11,
+    "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -86,117 +86,117 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 79,
-    "Kinerja BUMN": 25,
+    "Koperasi/UMKM": 80,
+    "Kinerja BUMN": 24,
     "Hukum/Audit": 8,
     "Perdagangan": 20,
     "Konflik Publik": 5
   },
   "top_headlines": [
     {
-      "title": "| Perkara Distribusi AC AUX, KPPU Nyatakan Tak Ada Pelanggaran - jurnas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 02:27:55 GMT",
-      "link": "https://www.jurnas.com/artikel/1665263/perkara-distribusi-ac-aux-kppu-nyatakan-tak-ada-pelanggaran-/"
-    },
-    {
-      "title": "Pangkas 26 jadi 3 Entitas, ID Food Ditargetkan Raup Rp40 Triliun di 2027 - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 01:39:40 GMT",
-      "link": "https://wartaekonomi.co.id/read634039/pangkas-26-jadi-3-entitas-id-food-ditargetkan-raup-rp40-triliun-di-2027"
-    },
-    {
-      "title": "Bos Danantara Pangkas Massal Entitas ID Food, Bersiap Jadi TradingCo - Industry.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 01:22:00 GMT",
-      "link": "https://www.industry.co.id/read/155771/bos-danantara-pangkas-massal-entitas-id-food-bersiap-jadi-tradingco"
-    },
-    {
-      "title": "Mendag Klaim Produk UMKM Kini Kuasai 60 Persen Etalase Ritel Modern - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 00:20:00 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260910122211-92-1402335/mendag-klaim-produk-umkm-kini-kuasai-60-persen-etalase-ritel-modern"
-    },
-    {
-      "title": "Pemerintah Tanggung Gaji Manajer Koperasi Desa Selama Dua Tahun - SuaraGarut.ID",
+      "title": "Menkeu Dorong Satgas Kopdes, Begini Reaksi Agrinas - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 00:05:13 GMT",
-      "link": "https://suaragarut.id/pemerintah-tanggung-gaji-manajer-koperasi-desa-selama-dua-tahun"
+      "published": "Fri, 11 Sep 2026 07:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121272/menkeu-dorong-satgas-kopdes-begini-reaksi-agrinas"
     },
     {
-      "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 15:27:47 GMT",
-      "link": "https://ekbis.sindonews.com/newsread/1748555/34/anggota-komisi-vi-dpr-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-segera-ditinjau-ulang-1789052989"
-    },
-    {
-      "title": "Anggota Komisi VI DPR Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Segera Ditinjau Ulang - SINDOnews Ekbis",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 15:27:47 GMT",
-      "link": "https://ekbis.sindonews.com/read/1748555/34/anggota-komisi-vi-dpr-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-segera-ditinjau-ulang-1789052989"
-    },
-    {
-      "title": "Pengurangan Perjalanan KRL, Mufti Anam: INKA Harus Jelaskan Apa Masalah Sebenarnya? - gesuri.id",
+      "title": "Mufti Anam Soroti Pengurangan 17 Perjalanan KRL, Minta KAI Commuter Siapkan Armada Cadangan - beritabuana.co",
       "entity": "Mufti Anam",
       "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 15:01:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/pengurangan-perjalanan-krl-mufti-anam-inka-harus-jelaskan-apa-masalah-sebenarnya-b2qbeZbhP8"
+      "published": "Fri, 11 Sep 2026 07:47:18 GMT",
+      "link": "https://beritabuana.co/2026/09/11/mufti-anam-soroti-pengurangan-17-perjalanan-krl-minta-kai-commuter-siapkan-armada-cadangan/"
     },
     {
-      "title": "10 UMKM Pangan Binaan Kemendag Tembus 19 Gerai AEON Indonesia - Warta Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 14:55:00 GMT",
-      "link": "https://wartaekonomi.co.id/read633986/10-umkm-pangan-binaan-kemendag-tembus-19-gerai-aeon-indonesia"
-    },
-    {
-      "title": "Danantara Belum Setor Rp120 Triliun ke Pemerintah, Purbaya dan Rosan Berbeda Suara - Sumbarsatu",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 14:32:00 GMT",
-      "link": "https://sumbarsatu.com/berita/35504-danantara-belum-setor-rp120-triliun-ke-pemerintah-purbaya-dan-rosan-berbeda-suara"
-    },
-    {
-      "title": "Kemenkop Dorong Industri Kulit Garut Naik Kelas Lewat Koperasi - Sudutpandang.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 13:47:21 GMT",
-      "link": "https://sudutpandang.id/kemenkop-dorong-industri-kulit-garut-naik-kelas-lewat-koperasi/"
-    },
-    {
-      "title": "BP BUMN & Danantara Bidik 90% Pimpinan BUMN dari Internal pada 2029 - MetroTVNews.com",
+      "title": "Lapor ke Danantara, Pertamina Rampungkan Streamlining 31 Perusahaan - CNBC Indonesia",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 12:36:58 GMT",
-      "link": "https://www.metrotvnews.com/read/KvJCJ7Wx-bp-bumn-danantara-bidik-90-pimpinan-bumn-dari-internal-pada-2029"
+      "published": "Fri, 11 Sep 2026 07:43:02 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260911143317-17-767240/lapor-ke-danantara-pertamina-rampungkan-streamlining-31-perusahaan"
     },
     {
-      "title": "Gus Rivqy Soroti Aturan Baru Bagasi Garuda, Minta Ditinjau Ulang - VIVA.co.id",
-      "entity": "Rivqy Abdul Halim",
+      "title": "Pemerintah Jamin Kopdes Tak Gagal Bayar, ini Rencana Berikutnya - KabarBursa.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 07:13:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/pemerintah-jamin-kopdes-tak-gagal-bayar-ini-rencana-berikutnya"
+    },
+    {
+      "title": "10 Kementerian/Lembaga dengan Anggaran Terkecil dalam RAPBN 2027 - GoodStats",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 06:53:42 GMT",
+      "link": "https://data.goodstats.id/statistic/10-kementerianlembaga-dengan-anggaran-terkecil-dalam-rapbn-2027-TDLIv"
+    },
+    {
+      "title": "Raih Gelar Sarjana Hukum di IBLAM, Rieke Diah Pitaloka Soroti Ancaman Ketergantungan Teknologi - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 10 Sep 2026 12:24:02 GMT",
-      "link": "https://www.viva.co.id/berita/nasional/1927725-gus-rivqy-soroti-aturan-baru-bagasi-garuda-minta-ditinjau-ulang"
+      "published": "Fri, 11 Sep 2026 06:42:00 GMT",
+      "link": "https://www.gesuri.id/serba-serbi/raih-gelar-sarjana-hukum-di-iblam-rieke-diah-pitaloka-soroti-ancaman-ketergantungan-teknologi-b2qbfZbhQj"
     },
     {
-      "title": "DPR Ungkap Alasan Pasal 50A UU P2SK: Buka Ruang Danantara Cari Sumber Pendanaan - indoposco.id",
-      "entity": "Danantara",
+      "title": "Bupati Nias Barat Sambangi Kantor Kemendag - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 12:04:08 GMT",
-      "link": "https://indoposco.id/2026/09/10/dpr-ungkap-alasan-pasal-50a-uu-p2sk-buka-ruang-danantara-cari-sumber-pendanaan/"
+      "published": "Fri, 11 Sep 2026 06:35:00 GMT",
+      "link": "https://rri.co.id/gunung-sitoli/regional/2721724/bupati-nias-barat-sambangi-kantor-kemendag"
     },
     {
-      "title": "Peneliti: Danantara dapat menjadi jembatan antara pemerintah-investor - ANTARA News",
+      "title": "| Legislator PDIP Minta Perlindungan Pekerja Media Diperkuat - jurnas.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 05:03:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1665275/legislator-pdip-minta-perlindungan-pekerja-media-diperkuat/"
+    },
+    {
+      "title": "BBPOM Aceh Bangun Sinergi Lintas Instansi di Sabang - acehstandar.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 04:58:45 GMT",
+      "link": "https://www.acehstandar.com/news/bbpom-aceh-bangun-sinergi-lintas-instansi-di-sabang/index.html"
+    },
+    {
+      "title": "Soedeson Tandra: Pasal 50A UU P2SK Dibentuk untuk Perluas Sumber Pembiayaan Danantara - Golkarpedia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 10 Sep 2026 11:43:37 GMT",
-      "link": "https://www.antaranews.com/berita/5735196/peneliti-danantara-dapat-menjadi-jembatan-antara-pemerintah-investor"
+      "published": "Fri, 11 Sep 2026 04:57:02 GMT",
+      "link": "https://golkarpedia.com/soedeson-tandra-pasal-50a-uu-p2sk-dibentuk-untuk-perluas-sumber-pembiayaan-danantara/"
+    },
+    {
+      "title": "Pertamina Bakal Pangkas 118 Entitas Usaha Tahun Ini - Liputan6.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 04:53:59 GMT",
+      "link": "https://www.liputan6.com/bisnis/read/8289576/pertamina-bakal-pangkas-118-entitas-usaha-tahun-ini"
+    },
+    {
+      "title": "Andre Rosiade Targetkan Tol Padang Panjang-Pasar Amor Rampung Sebelum 2029 - Kata Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 04:23:00 GMT",
+      "link": "https://katasumbar.com/andre-rosiade-targetkan-tol-padang-panjang-pasar-amor-rampung-sebelum-2029/"
+    },
+    {
+      "title": "Kemendag: Furnitur RI catat potensi transaksi Rp39,7 miliar di India - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 04:10:10 GMT",
+      "link": "https://www.antaranews.com/berita/5736088/kemendag-furnitur-ri-catat-potensi-transaksi-rp397-miliar-di-india"
+    },
+    {
+      "title": "BAM DPR RI Terima Aduan Konflik Lahan Sungai Bungur, Kawendra Dorong Pendampingan Hukum - fraksi gerindra dpr-ri",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 03:48:14 GMT",
+      "link": "https://www.fraksigerindra.id/bam-dpr-ri-terima-aduan-konflik-lahan-sungai-bungur-kawendra-dorong-pendampingan-hukum/"
+    },
+    {
+      "title": "Ikuti PKN I di Bali, Kakanwil Kemenkum Kalbar Pelajari Strategi Penguatan Koperasi Merah Putih - Pontianak Post",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 03:40:06 GMT",
+      "link": "https://pontianakpost.jawapos.com/metropolis/2609110042/ikuti-pkn-i-di-bali-kakanwil-kemenkum-kalbar-pelajari-strategi-penguatan-koperasi-merah-putih"
     }
   ]
 }
