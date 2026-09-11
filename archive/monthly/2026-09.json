@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-11T12:36:08.054377",
+  "generated_at": "2026-09-11T16:54:25.213574",
   "party_counts_7d": {
     "Gerindra": 29,
     "PDI-P": 24,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 9,
     "PKB": 12,
     "PKS": 7,
@@ -12,8 +12,8 @@
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 73,
+    "Gerindra": 65,
+    "PDI-P": 71,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 54,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "koperasi": 63,
-    "bumn": 58,
+    "bumn": 56,
     "dividen": 2,
-    "danantara": 26,
+    "danantara": 27,
     "investasi": 23,
-    "umkm": 30,
+    "umkm": 29,
     "perdagangan": 10,
     "impor": 1,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 10,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 17,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 8,
@@ -58,7 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 13,
+    "Ida Nurlaela": 11,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -86,18 +86,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Koperasi/UMKM": 80,
+    "Koperasi/UMKM": 79,
     "Hukum/Audit": 7,
-    "Perdagangan": 19,
+    "Perdagangan": 17,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Memasuki Fase Transisi, Integrasi Data Lintas Kementerian Bakal Jadi Kunci Keberhasilan DSI - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 14:35:42 GMT",
+      "link": "https://olenka.id/memasuki-fase-transisi-integrasi-data-lintas-kementerian-bakal-jadi-kunci-keberhasilan-dsi"
+    },
+    {
+      "title": "Dekopinwil Sumbar Gelar Rakorwil, Gun Sugianto; Paparkan Arah Gerakan Koperasi Lima Tahun Kedepan - Jurnal Sumbar",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 13:55:46 GMT",
+      "link": "https://jurnalsumbar.com/2026/09/dekopinwil-sumbar-gelar-rakorwil-gun-sugianto-paparkan-arah-gerakan-koperasi-lima-tahun-kedepan/"
+    },
+    {
+      "title": "Komisi VI DPR: Ekonomi Pancasila landasan menuju indonesia emas - ANTARA News",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 13:43:39 GMT",
+      "link": "https://www.antaranews.com/berita/5737100/komisi-vi-dpr-ekonomi-pancasila-landasan-menuju-indonesia-emas"
+    },
     {
       "title": "BPKS: Kawasan Sabang siap jadi simpul konektivitas - ANTARA News Aceh",
       "entity": "BPK Sabang",
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 11:49:13 GMT",
       "link": "https://aceh.antaranews.com/berita/410807/bpks-kawasan-sabang-siap-jadi-simpul-konektivitas"
+    },
+    {
+      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 11:15:00 GMT",
+      "link": "https://surabaya.suaramerdeka.com/pendidikan/amp/106117622707/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha"
     },
     {
       "title": "Danantara Ungkap Laba Telkom Bisa Naik 30% Gara-Gara Ini - CNBC Indonesia",
@@ -135,6 +163,13 @@
       "link": "https://www.suara.com/bisnis/2026/09/11/161925/mengapa-purbaya-ngotot-danantara-setor-rp120-triliun-ke-apbn"
     },
     {
+      "title": "Mengapa Purbaya Ngotot Danantara Setor Rp120 Triliun ke APBN? - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 09:19:25 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/11/161925/mengapa-purbaya-ngotot-danantara-setor-rp120-triliun-ke-apbn"
+    },
+    {
       "title": "KDMP Tinggal Tunggu Perpres, Tapi Gaji Managernya Belum Jelas - Warta Ekonomi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -161,41 +196,6 @@
       "kind": "anggota",
       "published": "Fri, 11 Sep 2026 09:00:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/krl-baru-pt-inka-masuk-bengkel-mufti-anam-pertanyakan-keandalan-produksi-dalam-negeri-b2qbdZbhOb"
-    },
-    {
-      "title": "Pertamina Target Rampingkan 118 Anak Usaha di 2026 - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 08:40:35 GMT",
-      "link": "https://wartaekonomi.co.id/read634132/pertamina-target-rampingkan-118-anak-usaha-di-2026"
-    },
-    {
-      "title": "Menkeu Dorong Satgas Kopdes, Begini Reaksi Agrinas - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 07:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121272/menkeu-dorong-satgas-kopdes-begini-reaksi-agrinas"
-    },
-    {
-      "title": "Mufti Anam Soroti Pengurangan 17 Perjalanan KRL, Minta KAI Commuter Siapkan Armada Cadangan - beritabuana.co",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 07:47:18 GMT",
-      "link": "https://beritabuana.co/2026/09/11/mufti-anam-soroti-pengurangan-17-perjalanan-krl-minta-kai-commuter-siapkan-armada-cadangan/"
-    },
-    {
-      "title": "Lapor ke Danantara, Pertamina Rampungkan Streamlining 31 Perusahaan - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 07:43:02 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260911143317-17-767240/lapor-ke-danantara-pertamina-rampungkan-streamlining-31-perusahaan"
-    },
-    {
-      "title": "Kantongi Restu OJK, Ony Suprihartono Efektif Jabat Komisaris TUGU - Infobanknews",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 07:30:20 GMT",
-      "link": "https://infobanknews.com/kantongi-restu-ojk-ony-suprihartono-efektif-jabat-komisaris-tugu"
     }
   ]
 }
