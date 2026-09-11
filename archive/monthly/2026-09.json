@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-11T16:54:25.213574",
+  "generated_at": "2026-09-11T19:27:00.379076",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 30,
     "PDI-P": 24,
     "Golkar": 20,
     "NasDem": 9,
-    "PKB": 12,
-    "PKS": 7,
+    "PKB": 13,
+    "PKS": 8,
     "PAN": 3,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 66,
     "PDI-P": 71,
     "Golkar": 80,
     "NasDem": 20,
-    "PKB": 54,
-    "PKS": 39,
+    "PKB": 55,
+    "PKS": 40,
     "PAN": 16,
     "Demokrat": 17
   },
@@ -38,11 +38,11 @@
     "bumn": 56,
     "dividen": 2,
     "danantara": 27,
-    "investasi": 23,
-    "umkm": 29,
+    "investasi": 22,
     "perdagangan": 10,
+    "umkm": 28,
     "impor": 1,
-    "kartel-monopoli": 10,
+    "kartel-monopoli": 11,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 8,
@@ -72,9 +72,9 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 7,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 16,
+    "Rivqy Abdul Halim": 17,
     "Nasim Khan": 18,
-    "Amin Ak.": 7,
+    "Amin Ak.": 8,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
     "Ismail": 9,
@@ -92,6 +92,20 @@
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - SURYAKABAR.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 17:56:00 GMT",
+      "link": "https://suryakabar.com/2026/09/12/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
+    },
+    {
+      "title": "Sambang ke Kementerian Perdagangan RI, DPRK Wondama Dorong Revitalisasi Pasar Iriati Jadi Pasar Modern - kabartimur.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 15:59:30 GMT",
+      "link": "https://kabartimur.com/sambang-ke-kementerian-perdagangan-ri-dprk-wondama-dorong-revitalisasi-pasar-iriati-jadi-pasar-modern/?amp"
+    },
     {
       "title": "Memasuki Fase Transisi, Integrasi Data Lintas Kementerian Bakal Jadi Kunci Keberhasilan DSI - olenka.id",
       "entity": "Kementerian Perdagangan",
@@ -112,6 +126,13 @@
       "kind": "anggota",
       "published": "Fri, 11 Sep 2026 13:43:39 GMT",
       "link": "https://www.antaranews.com/berita/5737100/komisi-vi-dpr-ekonomi-pancasila-landasan-menuju-indonesia-emas"
+    },
+    {
+      "title": "Sentil Aturan Baru Bagasi Garuda, Gus Rivqy: Jangan Bebani Penumpang! - Jakartanews.id",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 13:32:03 GMT",
+      "link": "https://www.jakartanews.id/2026/09/11/sentil-aturan-baru-bagasi-garuda-gus-rivqy-jangan-bebani-penumpang/?amp=1"
     },
     {
       "title": "BPKS: Kawasan Sabang siap jadi simpul konektivitas - ANTARA News Aceh",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 09:10:00 GMT",
       "link": "https://wartaekonomi.co.id/read634124/kdmp-tinggal-tunggu-perpres-tapi-gaji-managernya-belum-jelas"
-    },
-    {
-      "title": "KPPU Bekali Calon Advokat Pahami Hukum Persaingan Usaha - kanalsatu.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 09:08:00 GMT",
-      "link": "https://kanalsatu.com/id/post/69036/kppu-bekali-calon-advokat-pahami-hukum-persaingan-usaha"
-    },
-    {
-      "title": "KPPU Surabaya Tingkatkan Literasi Hukum Persaingan Usaha bagi Peserta PKPA - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 09:02:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28136925/kppu-surabaya-tingkatkan-literasi-hukum-persaingan-usaha-bagi-peserta-pkpa"
-    },
-    {
-      "title": "KRL Baru PT INKA Masuk Bengkel, Mufti Anam Pertanyakan Keandalan Produksi Dalam Negeri - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 09:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/krl-baru-pt-inka-masuk-bengkel-mufti-anam-pertanyakan-keandalan-produksi-dalam-negeri-b2qbdZbhOb"
     }
   ]
 }
