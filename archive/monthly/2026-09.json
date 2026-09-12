@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-12T10:04:25.572608",
+  "generated_at": "2026-09-12T13:51:26.162224",
   "party_counts_7d": {
-    "Gerindra": 30,
+    "Gerindra": 28,
     "PDI-P": 20,
     "Golkar": 22,
-    "NasDem": 7,
-    "PKB": 14,
+    "NasDem": 6,
+    "PKB": 17,
     "PKS": 7,
     "PAN": 1,
     "Demokrat": 6
@@ -16,10 +16,10 @@
     "PDI-P": 69,
     "Golkar": 81,
     "NasDem": 21,
-    "PKB": 56,
-    "PKS": 39,
+    "PKB": 58,
+    "PKS": 40,
     "PAN": 16,
-    "Demokrat": 17
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 64,
-    "bumn": 54,
+    "koperasi": 63,
+    "bumn": 55,
     "dividen": 2,
     "danantara": 26,
-    "investasi": 22,
+    "investasi": 21,
     "perdagangan": 12,
-    "umkm": 29,
+    "umkm": 28,
+    "kartel-monopoli": 14,
     "impor": 1,
-    "kartel-monopoli": 13,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -72,9 +72,9 @@
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 18,
+    "Rivqy Abdul Halim": 20,
     "Nasim Khan": 18,
-    "Amin Ak.": 8,
+    "Amin Ak.": 9,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
     "Ismail": 8,
@@ -82,16 +82,58 @@
     "Nasril Bahar": 1,
     "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 12
+    "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Kinerja BUMN": 24,
-    "Koperasi/UMKM": 78,
-    "Hukum/Audit": 8,
+    "Koperasi/UMKM": 77,
+    "Hukum/Audit": 10,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Surabaya Bekali Calon Advokat Unesa Pahami Hukum Acara Persaingan Usaha - majalahnurani.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 13:09:45 GMT",
+      "link": "https://majalahnurani.com/2026/09/12/kppu-surabaya-bekali-calon-advokat-unesa-pahami-hukum-acara-persaingan-usaha/"
+    },
+    {
+      "title": "Sinyal Kontraksi PMI Agustus 2026, Komisi XI Dorong Bantalan Kebijakan Industri Manufaktur - Kedai Pena",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 13:00:13 GMT",
+      "link": "https://www.kedaipena.com/sinyal-kontraksi-pmi-agustus-2026-komisi-xi-dorong-bantalan-kebijakan-industri-manufaktur/"
+    },
+    {
+      "title": "Kasus Korupsi KPR BTN Karawang, Gus Rivqy Soroti Lemahnya Pengawasan - JPNN.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 12:25:00 GMT",
+      "link": "https://www.jpnn.com/news/kasus-korupsi-kpr-btn-karawang-gus-rivqy-soroti-lemahnya-pengawasan"
+    },
+    {
+      "title": "Pejabat BTN Terseret Korupsi, Komisi VI DPR Desak Evaluasi Prinsip Prudential Banking - Suara Investor",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 12:19:35 GMT",
+      "link": "https://www.suarainvestor.com/pejabat-btn-terseret-korupsi-komisi-vi-dpr-desak-evaluasi-prinsip-prudential-banking/"
+    },
+    {
+      "title": "Dukung Perampingan BUMN, Ateng Sutisna Tegaskan Jangan Sampai BUMN Sehat Jadi Korban Akibat Pelimpahan SDM Baru - Fraksi PKS",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 11:19:54 GMT",
+      "link": "https://fraksi.pks.id/2026/09/12/dukung-perampingan-bumn-ateng-sutisna-tegaskan-jangan-sampai-bumn-sehat-jadi-korban-akibat-pelimpahan-sdm-baru/"
+    },
+    {
+      "title": "Dukung Perampingan BUMN, Ateng Sutisna Tegaskan Jangan Sampai BUMN Sehat Jadi Korban Akibat Pelimpahan SDM Baru - Fraksi PKS",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 11:19:54 GMT",
+      "link": "https://fraksi.pks.id/2026/09/12/dukung-perampingan-bumn-ateng-sutisna-tegaskan-jangan-sampai-bumn-sehat-jadi-korban-akibat-pelimpahan-sdm-baru/"
+    },
     {
       "title": "Pejabat BTN Terseret Kasus Korupsi, Gus Rivqy Desak Evaluasi Prinsip Prudential Banking - FPKB DPR RI",
       "entity": "Rivqy Abdul Halim",
@@ -112,6 +154,13 @@
       "kind": "lembaga",
       "published": "Sat, 12 Sep 2026 08:52:00 GMT",
       "link": "https://www.beritakoperasi.com/perkuat-tata-kelola-kdkmp-kementerian-koperasi-libatkan-lintas-kementerian-dalam-penyusunan-rperpres/"
+    },
+    {
+      "title": "Aturan Sistem Bagasi Makapai Garuda Berubah, DPR Pertanyakan Potensi Biaya Tambahan - KlikJatim",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 08:16:00 GMT",
+      "link": "https://klikjatim.com/news-49597-aturan-sistem-bagasi-makapai-garuda-berubah-dpr-pertanyakan-potensi-biaya-tambahan"
     },
     {
       "title": "Andre Rosiade Beri Bantuan untuk Balita Penderita Tumor di Padang - gerindra.id",
@@ -147,55 +196,6 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 01:53:53 GMT",
       "link": "https://mercusuar.web.id/pendidikan/nurdin-halid-dorong-kewirausahaan-sebagai-pilar-daya-saing/"
-    },
-    {
-      "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Sektor Riil - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 01:05:38 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121331/belum-ada-kopdes-lolos-verifikasi-bagaimana-bayar-utang-himbara/2"
-    },
-    {
-      "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 00:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121331/belum-ada-kopdes-lolos-verifikasi-bagaimana-bayar-utang-himbara"
-    },
-    {
-      "title": "Kadin Mau Disetarakan Dengan Lembaga Negara, I Nengah Senantara: Saya Tolak! - RM.ID",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 00:10:00 GMT",
-      "link": "https://rm.id/baca-berita/blakblakan/325776/ide-kadin-mau-disetarakan-dengan-lembaga-negara-menuai-polemik-i-nengah-senantara-saya-tolak-karena-berpotensi-dualisme"
-    },
-    {
-      "title": "Kadin Mau Disetarakan Dengan Lembaga Negara, I Nengah Senantara: Saya Tolak! - Hal.2 - RM.ID",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 00:10:00 GMT",
-      "link": "https://rm.id/baca-berita/blakblakan/325776/ide-kadin-mau-disetarakan-dengan-lembaga-negara-menuai-polemik-i-nengah-senantara-saya-tolak-karena-berpotensi-dualisme/2"
-    },
-    {
-      "title": "Advisor Asosiasi Franchise Indonesia dan Wakil Ketua Bidang Perdagangan APINDO Pusat, Jahja B. Soenarjo Dorong Waralaba Indonesia Naik Kelas di Pembukaan IFBC 2026 Surabaya - Jejak Profil",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 23:27:57 GMT",
-      "link": "https://jejakprofil.com/2026/09/12/advisor-asosiasi-franchise-indonesia-dan-wakil-ketua-bidang-perdagangan-apindo-pusat-jahja-b-soenarjo-dorong-waralaba-indonesia-naik-kelas-di-pembukaan-ifbc-2026-surabaya/"
-    },
-    {
-      "title": "Wakil Ketua Komisi VI DPR RI Dorong Generasi Muda Kritis dan Berjiwa Enterpreneur - RRI.co.id",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 23:11:00 GMT",
-      "link": "https://rri.co.id/palu/regional/2723482/wakil-ketua-komisi-vi-dpr-ri-dorong-generasi-muda-kritis-dan-berjiwa-enterpreneur"
-    },
-    {
-      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - SURYAKABAR.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 17:56:00 GMT",
-      "link": "https://suryakabar.com/2026/09/12/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
     }
   ]
 }
