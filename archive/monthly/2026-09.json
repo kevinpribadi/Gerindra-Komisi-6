@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-11T22:14:21.894782",
+  "generated_at": "2026-09-12T00:53:45.182462",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 24,
-    "Golkar": 21,
+    "Golkar": 20,
     "NasDem": 9,
     "PKB": 13,
     "PKS": 8,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 71,
+    "PDI-P": 72,
     "Golkar": 80,
     "NasDem": 20,
     "PKB": 55,
@@ -39,8 +39,8 @@
     "dividen": 2,
     "danantara": 27,
     "investasi": 22,
-    "perdagangan": 11,
-    "umkm": 28,
+    "perdagangan": 12,
+    "umkm": 29,
     "kartel-monopoli": 11,
     "ipo": 2
   },
@@ -51,7 +51,7 @@
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 18,
     "Mulyadi": 20,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 8,
     "Darmadi Durianto": 15,
     "Rieke Diah Pitaloka": 20,
@@ -84,13 +84,27 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 22,
+    "Kinerja BUMN": 23,
     "Koperasi/UMKM": 79,
     "Hukum/Audit": 7,
-    "Perdagangan": 15,
+    "Perdagangan": 14,
     "Konflik Publik": 5
   },
   "top_headlines": [
+    {
+      "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 00:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121331/belum-ada-kopdes-lolos-verifikasi-bagaimana-bayar-utang-himbara"
+    },
+    {
+      "title": "Advisor Asosiasi Franchise Indonesia dan Wakil Ketua Bidang Perdagangan APINDO Pusat, Jahja B. Soenarjo Dorong Waralaba Indonesia Naik Kelas di Pembukaan IFBC 2026 Surabaya - Jejak Profil",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 11 Sep 2026 23:27:57 GMT",
+      "link": "https://jejakprofil.com/2026/09/12/advisor-asosiasi-franchise-indonesia-dan-wakil-ketua-bidang-perdagangan-apindo-pusat-jahja-b-soenarjo-dorong-waralaba-indonesia-naik-kelas-di-pembukaan-ifbc-2026-surabaya/"
+    },
     {
       "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - SURYAKABAR.com",
       "entity": "KPPU",
@@ -125,6 +139,13 @@
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 13:55:46 GMT",
       "link": "https://jurnalsumbar.com/2026/09/dekopinwil-sumbar-gelar-rakorwil-gun-sugianto-paparkan-arah-gerakan-koperasi-lima-tahun-kedepan/"
+    },
+    {
+      "title": "Komisi VI DPR tegaskan ekonomi Pancasila landasan menuju Indonesia emas - ANTARA News Sulteng",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 13:53:59 GMT",
+      "link": "https://sulteng.antaranews.com/berita/392787/komisi-vi-dpr-tegaskan-ekonomi-pancasila-landasan-menuju-indonesia-emas"
     },
     {
       "title": "Komisi VI DPR: Ekonomi Pancasila landasan menuju indonesia emas - ANTARA News",
@@ -174,27 +195,6 @@
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 10:46:00 GMT",
       "link": "https://betv.disway.id/daerah/read/76699/pertimbangkan-aspek-keamanan-dan-anggaran-usulan-pasar-harian-seluma-di-kemendag-belum-pasti"
-    },
-    {
-      "title": "Transformasi ID Food, Pangkas 26 Entitas Jadi 3 Perusahaan - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 10:37:39 GMT",
-      "link": "https://www.metrotvnews.com/read/b1oCO1o1-transformasi-id-food-pangkas-26-entitas-jadi-3-perusahaan"
-    },
-    {
-      "title": "Kawal Tol Bukittinggi-Sicincin, Andre Rosiade: Exit Pasar Amor dan Lanjut Bypass - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 10:23:00 GMT",
-      "link": "https://kumparan.com/kumparannews/kawal-tol-bukittinggi-sicincin-andre-rosiade-exit-pasar-amor-dan-lanjut-bypass-28ACFZb7Fe1"
-    },
-    {
-      "title": "Danantara: GRC Harus Jadi Strategic Enabler Perusahaan - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 09:43:29 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/932349/danantara-grc-harus-jadi-strategic-enabler-perusahaan"
     }
   ]
 }
