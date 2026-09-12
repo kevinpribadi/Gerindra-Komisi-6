@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-12T16:44:28.091919",
+  "generated_at": "2026-09-12T18:56:20.059684",
   "party_counts_7d": {
     "Gerindra": 28,
-    "PDI-P": 20,
+    "PDI-P": 21,
     "Golkar": 22,
     "NasDem": 7,
     "PKB": 17,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 70,
+    "PDI-P": 71,
     "Golkar": 81,
     "NasDem": 22,
     "PKB": 58,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 63,
+    "koperasi": 64,
     "bumn": 55,
     "dividen": 2,
     "danantara": 26,
-    "investasi": 20,
+    "investasi": 19,
     "perdagangan": 12,
     "umkm": 28,
     "kartel-monopoli": 15,
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 18,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
-    "Mufti Anam": 8,
+    "Mufti Anam": 9,
     "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -92,6 +92,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Rp1,9 Triliun Untuk Pelatihan Manajer Kopdes? Mufti Anam: Jangan Hambur-Hamburkan Uang - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 17:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rp1-9-triliun-untuk-pelatihan-manajer-kopdes-mufti-anam-jangan-hambur-hamburkan-uang-b2qbdZbhOn"
+    },
     {
       "title": "Ketika Penegakan Hukum Persaingan Usaha Berhadapan dengan Kepentingan Inklusi Keuangan: Studi Kasus Kartel Bunga Pindar - Hukumonline",
       "entity": "KPPU",
@@ -133,6 +140,13 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 13:00:13 GMT",
       "link": "https://www.kedaipena.com/sinyal-kontraksi-pmi-agustus-2026-komisi-xi-dorong-bantalan-kebijakan-industri-manufaktur/"
+    },
+    {
+      "title": "ISS 2026 Jadi Momentum Danantara Buka Peluang Pendanaan Jangka Panjang untuk Olahraga Indonesia - Kementerian Pemuda dan Olahraga",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 12:41:10 GMT",
+      "link": "https://www.kemenpora.go.id/detail/7089/iss-2026-jadi-momentum-danantara-buka-peluang-pendanaan-jangka-pa"
     },
     {
       "title": "Kasus Korupsi KPR BTN Karawang, Gus Rivqy Soroti Lemahnya Pengawasan - JPNN.com",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Sat, 12 Sep 2026 08:52:00 GMT",
       "link": "https://www.beritakoperasi.com/perkuat-tata-kelola-kdkmp-kementerian-koperasi-libatkan-lintas-kementerian-dalam-penyusunan-rperpres/"
-    },
-    {
-      "title": "Aturan Sistem Bagasi Makapai Garuda Berubah, DPR Pertanyakan Potensi Biaya Tambahan - KlikJatim",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 08:16:00 GMT",
-      "link": "https://klikjatim.com/news-49597-aturan-sistem-bagasi-makapai-garuda-berubah-dpr-pertanyakan-potensi-biaya-tambahan"
-    },
-    {
-      "title": "Andre Rosiade Beri Bantuan untuk Balita Penderita Tumor di Padang - gerindra.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 08:07:08 GMT",
-      "link": "https://gerindra.id/2026/09/12/andre-rosiade-beri-bantuan-untuk-balita-penderita-tumor-di-padang/"
     }
   ]
 }
