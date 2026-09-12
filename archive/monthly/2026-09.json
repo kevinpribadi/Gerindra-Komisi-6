@@ -1,21 +1,21 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-12T13:51:26.162224",
+  "generated_at": "2026-09-12T16:44:28.091919",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 20,
     "Golkar": 22,
-    "NasDem": 6,
+    "NasDem": 7,
     "PKB": 17,
     "PKS": 7,
     "PAN": 1,
-    "Demokrat": 6
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 65,
-    "PDI-P": 69,
+    "Gerindra": 66,
+    "PDI-P": 70,
     "Golkar": 81,
-    "NasDem": 21,
+    "NasDem": 22,
     "PKB": 58,
     "PKS": 40,
     "PAN": 16,
@@ -38,16 +38,16 @@
     "bumn": 55,
     "dividen": 2,
     "danantara": 26,
-    "investasi": 21,
+    "investasi": 20,
     "perdagangan": 12,
     "umkm": 28,
-    "kartel-monopoli": 14,
+    "kartel-monopoli": 15,
     "impor": 1,
     "ipo": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 18,
@@ -56,7 +56,7 @@
     "Mufti Anam": 8,
     "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 5,
+    "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 9,
     "Budi Sulistyono": 3,
@@ -69,7 +69,7 @@
     "Rizki Faisal": 7,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 8,
+    "Asep Wahyuwijaya": 9,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -85,13 +85,41 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 24,
-    "Koperasi/UMKM": 77,
+    "Kinerja BUMN": 23,
+    "Koperasi/UMKM": 78,
     "Hukum/Audit": 10,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Ketika Penegakan Hukum Persaingan Usaha Berhadapan dengan Kepentingan Inklusi Keuangan: Studi Kasus Kartel Bunga Pindar - Hukumonline",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 16:23:15 GMT",
+      "link": "https://www.hukumonline.com/berita/a/ketika-penegakan-hukum-persaingan-usaha-berhadapan-dengan-kepentingan-inklusi-keuangan--studi-kasus-kartel-bunga-pindar-lt6aa57a7747964/"
+    },
+    {
+      "title": "Danantara Buka Peluang Pendanaan Jangka Panjang Olahraga - Sudutpandang.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 14:40:11 GMT",
+      "link": "https://sudutpandang.id/danantara-buka-peluang-pendanaan-jangka-panjang-olahraga/"
+    },
+    {
+      "title": "Pemerintah Bentuk Satgas Khusus Perkuat Koperasi Desa Merah Putih - Mnctrijaya.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 14:31:00 GMT",
+      "link": "https://www.mnctrijaya.com/news/detail/77869/pemerintah-bentuk-satgas-khusus-perkuat-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "Bukan Cuma Pileg, Asep Wahyuwijaya Dorong Partai NasDem Kabupaten Bogor Siapkan Figur untuk Pilkada - rmoljabar.id",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 14:24:14 GMT",
+      "link": "https://www.rmoljabar.id/bukan-cuma-pileg-asep-wahyuwijaya-dorong-partai-nasdem-kabupaten-bogor-siapkan-figur-untuk-pilkada"
+    },
     {
       "title": "KPPU Surabaya Bekali Calon Advokat Unesa Pahami Hukum Acara Persaingan Usaha - majalahnurani.com",
       "entity": "KPPU",
@@ -168,34 +196,6 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 08:07:08 GMT",
       "link": "https://gerindra.id/2026/09/12/andre-rosiade-beri-bantuan-untuk-balita-penderita-tumor-di-padang/"
-    },
-    {
-      "title": "KPPU Pantau Alur Logistik Impor di Terminal Teluk Lamong Surabaya - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 04:00:00 GMT",
-      "link": "https://surabaya.suaramerdeka.com/ekonomi/106117624638/kppu-pantau-alur-logistik-impor-di-terminal-teluk-lamong-surabaya"
-    },
-    {
-      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - Pena Rakyat News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 03:52:56 GMT",
-      "link": "https://penarakyatnews.id/2026/09/12/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
-    },
-    {
-      "title": "Nurdin Halid Ajak Mahasiswa Untad Tak Sekadar Kejar Ijazah - Sulteng Raya",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 02:24:11 GMT",
-      "link": "https://sultengraya.com/read/219517/nurdin-halid-ajak-mahasiswa-untad-tak-sekadar-kejar-ijazah/"
-    },
-    {
-      "title": "Nurdin Halid Dorong Kewirausahaan sebagai Pilar Daya Saing - mercusuar.web.id",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 01:53:53 GMT",
-      "link": "https://mercusuar.web.id/pendidikan/nurdin-halid-dorong-kewirausahaan-sebagai-pilar-daya-saing/"
     }
   ]
 }
