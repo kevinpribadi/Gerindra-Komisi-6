@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-12T05:23:34.849782",
+  "generated_at": "2026-09-12T10:04:25.572608",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 23,
+    "PDI-P": 20,
     "Golkar": 22,
-    "NasDem": 8,
-    "PKB": 13,
+    "NasDem": 7,
+    "PKB": 14,
     "PKS": 7,
-    "PAN": 3,
+    "PAN": 1,
     "Demokrat": 6
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 70,
-    "Golkar": 80,
-    "NasDem": 22,
-    "PKB": 55,
+    "Gerindra": 65,
+    "PDI-P": 69,
+    "Golkar": 81,
+    "NasDem": 21,
+    "PKB": 56,
     "PKS": 39,
     "PAN": 16,
     "Demokrat": 17
@@ -29,20 +29,20 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 16,
+    "BPK Sabang": 17,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 63,
-    "bumn": 55,
+    "koperasi": 64,
+    "bumn": 54,
     "dividen": 2,
-    "danantara": 27,
-    "investasi": 21,
+    "danantara": 26,
+    "investasi": 22,
     "perdagangan": 12,
     "umkm": 29,
     "impor": 1,
-    "kartel-monopoli": 12,
+    "kartel-monopoli": 13,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -51,14 +51,14 @@
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 5,
     "Kawendra Lukistian": 18,
-    "Mulyadi": 20,
+    "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 8,
     "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 9,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -66,13 +66,13 @@
     "Sarifah Suraidah": 7,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 3,
-    "Rizki Faisal": 6,
+    "Rizki Faisal": 7,
     "Muhammad Sarmuji": 20,
-    "Rachmat Gobel": 5,
+    "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 8,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
-    "Rivqy Abdul Halim": 17,
+    "Rivqy Abdul Halim": 18,
     "Nasim Khan": 18,
     "Amin Ak.": 8,
     "Rizal Bawazier": 20,
@@ -85,13 +85,41 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 23,
-    "Koperasi/UMKM": 79,
-    "Hukum/Audit": 7,
+    "Kinerja BUMN": 24,
+    "Koperasi/UMKM": 78,
+    "Hukum/Audit": 8,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Pejabat BTN Terseret Kasus Korupsi, Gus Rivqy Desak Evaluasi Prinsip Prudential Banking - FPKB DPR RI",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 09:43:24 GMT",
+      "link": "https://www.fraksipkb.com/2026/09/12/pejabat-btn-terseret-kasus-korupsi-gus-rivqy-desak-evaluasi-prinsip-prudential-banking/"
+    },
+    {
+      "title": "Aspimtel dan KPPU Kawal Kesetaraan Usaha Menara Telekomunikasi di Badung - Bisnis Tekno",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 09:00:55 GMT",
+      "link": "https://teknologi.bisnis.com/read/20260912/101/2003619/aspimtel-dan-kppu-kawal-kesetaraan-usaha-menara-telekomunikasi-di-badung"
+    },
+    {
+      "title": "Perkuat Tata Kelola KDKMP, Kementerian Koperasi Libatkan Lintas Kementerian dalam Penyusunan RPerpres - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 08:52:00 GMT",
+      "link": "https://www.beritakoperasi.com/perkuat-tata-kelola-kdkmp-kementerian-koperasi-libatkan-lintas-kementerian-dalam-penyusunan-rperpres/"
+    },
+    {
+      "title": "Andre Rosiade Beri Bantuan untuk Balita Penderita Tumor di Padang - gerindra.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 08:07:08 GMT",
+      "link": "https://gerindra.id/2026/09/12/andre-rosiade-beri-bantuan-untuk-balita-penderita-tumor-di-padang/"
+    },
     {
       "title": "KPPU Pantau Alur Logistik Impor di Terminal Teluk Lamong Surabaya - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
       "entity": "KPPU",
@@ -119,6 +147,13 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 01:53:53 GMT",
       "link": "https://mercusuar.web.id/pendidikan/nurdin-halid-dorong-kewirausahaan-sebagai-pilar-daya-saing/"
+    },
+    {
+      "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Sektor Riil - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 01:05:38 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121331/belum-ada-kopdes-lolos-verifikasi-bagaimana-bayar-utang-himbara/2"
     },
     {
       "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Bloomberg Technoz",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 17:56:00 GMT",
       "link": "https://suryakabar.com/2026/09/12/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
-    },
-    {
-      "title": "Sambang ke Kementerian Perdagangan RI, DPRK Wondama Dorong Revitalisasi Pasar Iriati Jadi Pasar Modern - kabartimur.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 15:59:30 GMT",
-      "link": "https://kabartimur.com/sambang-ke-kementerian-perdagangan-ri-dprk-wondama-dorong-revitalisasi-pasar-iriati-jadi-pasar-modern/?amp"
-    },
-    {
-      "title": "Sambang ke Kementerian Perdagangan RI, DPRK Wondama Dorong Revitalisasi Pasar Iriati Jadi Pasar Modern - kabartimur.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 15:59:30 GMT",
-      "link": "https://kabartimur.com/sambang-ke-kementerian-perdagangan-ri-dprk-wondama-dorong-revitalisasi-pasar-iriati-jadi-pasar-modern/"
-    },
-    {
-      "title": "Memasuki Fase Transisi, Integrasi Data Lintas Kementerian Bakal Jadi Kunci Keberhasilan DSI - olenka.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 14:35:42 GMT",
-      "link": "https://olenka.id/memasuki-fase-transisi-integrasi-data-lintas-kementerian-bakal-jadi-kunci-keberhasilan-dsi"
-    },
-    {
-      "title": "Dekopinwil Sumbar Gelar Rakorwil, Gun Sugianto; Paparkan Arah Gerakan Koperasi Lima Tahun Kedepan - Jurnal Sumbar",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 13:55:46 GMT",
-      "link": "https://jurnalsumbar.com/2026/09/dekopinwil-sumbar-gelar-rakorwil-gun-sugianto-paparkan-arah-gerakan-koperasi-lima-tahun-kedepan/"
-    },
-    {
-      "title": "Komisi VI DPR tegaskan ekonomi Pancasila landasan menuju Indonesia emas - ANTARA News Sulteng",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 13:53:59 GMT",
-      "link": "https://sulteng.antaranews.com/berita/392787/komisi-vi-dpr-tegaskan-ekonomi-pancasila-landasan-menuju-indonesia-emas"
     }
   ]
 }
