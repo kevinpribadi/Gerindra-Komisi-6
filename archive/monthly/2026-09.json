@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-12T00:53:45.182462",
+  "generated_at": "2026-09-12T05:23:34.849782",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 24,
-    "Golkar": 20,
-    "NasDem": 9,
+    "PDI-P": 23,
+    "Golkar": 22,
+    "NasDem": 8,
     "PKB": 13,
-    "PKS": 8,
+    "PKS": 7,
     "PAN": 3,
     "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 72,
+    "PDI-P": 70,
     "Golkar": 80,
-    "NasDem": 20,
+    "NasDem": 22,
     "PKB": 55,
-    "PKS": 40,
+    "PKS": 39,
     "PAN": 16,
     "Demokrat": 17
   },
@@ -35,13 +35,14 @@
   },
   "topic_counts_30d": {
     "koperasi": 63,
-    "bumn": 56,
+    "bumn": 55,
     "dividen": 2,
     "danantara": 27,
-    "investasi": 22,
+    "investasi": 21,
     "perdagangan": 12,
     "umkm": 29,
-    "kartel-monopoli": 11,
+    "impor": 1,
+    "kartel-monopoli": 12,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -53,11 +54,11 @@
     "Mulyadi": 20,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 8,
-    "Darmadi Durianto": 15,
+    "Darmadi Durianto": 14,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 11,
+    "Ida Nurlaela": 10,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -69,14 +70,14 @@
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 5,
     "Asep Wahyuwijaya": 8,
-    "I Nengah Senantara": 7,
+    "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 17,
     "Nasim Khan": 18,
     "Amin Ak.": 8,
     "Rizal Bawazier": 20,
     "Ghufran": 3,
-    "Ismail": 9,
+    "Ismail": 8,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
@@ -87,10 +88,38 @@
     "Kinerja BUMN": 23,
     "Koperasi/UMKM": 79,
     "Hukum/Audit": 7,
-    "Perdagangan": 14,
-    "Konflik Publik": 5
+    "Perdagangan": 15,
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Pantau Alur Logistik Impor di Terminal Teluk Lamong Surabaya - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 04:00:00 GMT",
+      "link": "https://surabaya.suaramerdeka.com/ekonomi/106117624638/kppu-pantau-alur-logistik-impor-di-terminal-teluk-lamong-surabaya"
+    },
+    {
+      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - Pena Rakyat News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 12 Sep 2026 03:52:56 GMT",
+      "link": "https://penarakyatnews.id/2026/09/12/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
+    },
+    {
+      "title": "Nurdin Halid Ajak Mahasiswa Untad Tak Sekadar Kejar Ijazah - Sulteng Raya",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 02:24:11 GMT",
+      "link": "https://sultengraya.com/read/219517/nurdin-halid-ajak-mahasiswa-untad-tak-sekadar-kejar-ijazah/"
+    },
+    {
+      "title": "Nurdin Halid Dorong Kewirausahaan sebagai Pilar Daya Saing - mercusuar.web.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 01:53:53 GMT",
+      "link": "https://mercusuar.web.id/pendidikan/nurdin-halid-dorong-kewirausahaan-sebagai-pilar-daya-saing/"
+    },
     {
       "title": "Belum Ada Kopdes Lolos Verifikasi, Bagaimana Bayar Utang Himbara? - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
@@ -99,11 +128,32 @@
       "link": "https://www.bloombergtechnoz.com/detail-news/121331/belum-ada-kopdes-lolos-verifikasi-bagaimana-bayar-utang-himbara"
     },
     {
+      "title": "Kadin Mau Disetarakan Dengan Lembaga Negara, I Nengah Senantara: Saya Tolak! - RM.ID",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 00:10:00 GMT",
+      "link": "https://rm.id/baca-berita/blakblakan/325776/ide-kadin-mau-disetarakan-dengan-lembaga-negara-menuai-polemik-i-nengah-senantara-saya-tolak-karena-berpotensi-dualisme"
+    },
+    {
+      "title": "Kadin Mau Disetarakan Dengan Lembaga Negara, I Nengah Senantara: Saya Tolak! - Hal.2 - RM.ID",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Sat, 12 Sep 2026 00:10:00 GMT",
+      "link": "https://rm.id/baca-berita/blakblakan/325776/ide-kadin-mau-disetarakan-dengan-lembaga-negara-menuai-polemik-i-nengah-senantara-saya-tolak-karena-berpotensi-dualisme/2"
+    },
+    {
       "title": "Advisor Asosiasi Franchise Indonesia dan Wakil Ketua Bidang Perdagangan APINDO Pusat, Jahja B. Soenarjo Dorong Waralaba Indonesia Naik Kelas di Pembukaan IFBC 2026 Surabaya - Jejak Profil",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 11 Sep 2026 23:27:57 GMT",
       "link": "https://jejakprofil.com/2026/09/12/advisor-asosiasi-franchise-indonesia-dan-wakil-ketua-bidang-perdagangan-apindo-pusat-jahja-b-soenarjo-dorong-waralaba-indonesia-naik-kelas-di-pembukaan-ifbc-2026-surabaya/"
+    },
+    {
+      "title": "Wakil Ketua Komisi VI DPR RI Dorong Generasi Muda Kritis dan Berjiwa Enterpreneur - RRI.co.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 11 Sep 2026 23:11:00 GMT",
+      "link": "https://rri.co.id/palu/regional/2723482/wakil-ketua-komisi-vi-dpr-ri-dorong-generasi-muda-kritis-dan-berjiwa-enterpreneur"
     },
     {
       "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - SURYAKABAR.com",
@@ -146,55 +196,6 @@
       "kind": "anggota",
       "published": "Fri, 11 Sep 2026 13:53:59 GMT",
       "link": "https://sulteng.antaranews.com/berita/392787/komisi-vi-dpr-tegaskan-ekonomi-pancasila-landasan-menuju-indonesia-emas"
-    },
-    {
-      "title": "Komisi VI DPR: Ekonomi Pancasila landasan menuju indonesia emas - ANTARA News",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 13:43:39 GMT",
-      "link": "https://www.antaranews.com/berita/5737100/komisi-vi-dpr-ekonomi-pancasila-landasan-menuju-indonesia-emas"
-    },
-    {
-      "title": "Sentil Aturan Baru Bagasi Garuda, Gus Rivqy: Jangan Bebani Penumpang! - Jakartanews.id",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 13:32:03 GMT",
-      "link": "https://www.jakartanews.id/2026/09/11/sentil-aturan-baru-bagasi-garuda-gus-rivqy-jangan-bebani-penumpang/?amp=1"
-    },
-    {
-      "title": "Nurdin Halid Minta Distribusi BBM Sulsel Dievaluasi: Rakyat Jangan Jadi Korban - abatanews.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 11 Sep 2026 13:22:54 GMT",
-      "link": "https://abatanews.com/nurdin-halid-minta-distribusi-bbm-sulsel-dievaluasi-rakyat-jangan-jadi-korban/"
-    },
-    {
-      "title": "BPKS: Kawasan Sabang siap jadi simpul konektivitas - ANTARA News Aceh",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 11:49:13 GMT",
-      "link": "https://aceh.antaranews.com/berita/410807/bpks-kawasan-sabang-siap-jadi-simpul-konektivitas"
-    },
-    {
-      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 11:15:00 GMT",
-      "link": "https://surabaya.suaramerdeka.com/pendidikan/amp/106117622707/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha"
-    },
-    {
-      "title": "Danantara Ungkap Laba Telkom Bisa Naik 30% Gara-Gara Ini - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 10:55:22 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260911163822-17-767297/danantara-ungkap-laba-telkom-bisa-naik-30-gara-gara-ini"
-    },
-    {
-      "title": "Pertimbangkan Aspek Keamanan dan Anggaran, Usulan Pasar Harian Seluma di Kemendag Belum Pasti - betv.disway.id - Disway",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 11 Sep 2026 10:46:00 GMT",
-      "link": "https://betv.disway.id/daerah/read/76699/pertimbangkan-aspek-keamanan-dan-anggaran-usulan-pasar-harian-seluma-di-kemendag-belum-pasti"
     }
   ]
 }
