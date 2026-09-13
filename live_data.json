@@ -712,6 +712,13 @@
         ],
         "KPPU": [
             {
+                "title": "KPPU Telusuri Rantai Pasok Kedelai di Terminal Teluk Lamong - kanalsatu.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2p6T0xHX1FHV0JPMEc1VExUOUQxZTFudlZvTHBaME9VR1dBVHlodU5tWGVDTmZmWFBwR3h0M01TVThnbXBsWDJUb2ViOG5STVZsY09yOElDMFM3elJFVGQwM19QZFQzZTFYR2VGQ1RSS09uZE1kTENNSV9FR0ZkYkhmazFvb1U2cmpySHZJRjQyZEpQWmxZVHI4QQ?oc=5",
+                "link_resolved": "https://kanalsatu.com/id/post/69048/kppu-telusuri-rantai-pasok-kedelai-di-terminal-teluk-lamong",
+                "published": "Sun, 13 Sep 2026 11:45:00 GMT",
+                "fetched_at": "2026-09-13T20:18:06.559004"
+            },
+            {
                 "title": "KPPU Telusuri Jalur Kedelai di Terminal Teluk Lamong - kanalsatu.com",
                 "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZE1CSjl5Ymc0YkJFUllia2VaQXpjTEk5MEljZHNTcnVOSlFnNVZkMzlFeFlNVEY1ZHI2czdNdVVJNE5fUGNYaElQajUyZU9UYk5UemZUWVFmZVJLTzRpRGM1ZFJfZzFTRHgyUGpFYlNBbXprdm1CblVycVRqN3RGVlBiVDNoaTlpSXpUb2dzZnhSSXAtcHVGc1V5SXJPOWtaM2Z6Z2czbkFsOVpGeUdsTWMwZEJ5QXY1dEE5eU81c3dqQW9SamlWSjFjWFlCTHNtdk84VlpOYW8?oc=5",
                 "link_resolved": "https://kanalsatu.com/id/post/69048/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong",
@@ -843,13 +850,6 @@
                 "link_resolved": "https://www.kaltimkita.com/detailpost/kppu-putuskan-tiga-perusahaan-tidak-terbukti-langgar-persaingan-usaha-dalam-distribusi-ac-aux",
                 "published": "Wed, 09 Sep 2026 02:42:07 GMT",
                 "fetched_at": "2026-09-09T20:23:28.578100"
-            },
-            {
-                "title": "KPPU Nyatakan Tiga Perusahaan Distribusi AC AUX Tak Terbukti Langgar Persaingan Usaha - Gerbang Kaltim",
-                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazU4RXFwTzB2NHhyV3lzT0lvTzBnYllwcmdnRVQtVWw2bkw4TmFoaTBObzlYYVdTa0Z0MWhITUpfZzVQTmxvM3ZhNjhEd01mcDVKZXF5Mi12b2hlSGtKcWwwd3VEanpLNEtVcWdQQTVnczVBODAtd2s5X3FXNHhsVlV1UTlYdm1oam1NTzFWWVpoNExaRlRsRGJJMWxLWVN5S0Y3V2dRRWRGR2ZkVlpjNzVCTEZQZGs?oc=5",
-                "link_resolved": "https://www.gerbangkaltim.com/kppu-nyatakan-tiga-perusahaan-distribusi-ac-aux-tak-terbukti-langgar-persaingan-usaha/",
-                "published": "Wed, 09 Sep 2026 02:38:41 GMT",
-                "fetched_at": "2026-09-09T03:02:04.421293"
             }
         ],
         "BP Batam": [
@@ -3955,20 +3955,20 @@
         ]
     },
     "kurs_usd_idr": {
-        "value": 17595,
+        "value": 17606,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/IDR%3DX/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-09-13T17:14:57.314563",
+        "fetched_at": "2026-09-13T20:18:03.014278",
         "prev_close": 17588,
-        "change_pct": 0.04
+        "change_pct": 0.1
     },
     "ihsg": {
         "value": 6541.38,
         "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
         "source_url": "https://finance.yahoo.com/quote/%5EJKSE/",
         "confidence": "UNAUDITED",
-        "fetched_at": "2026-09-13T17:14:57.314563",
+        "fetched_at": "2026-09-13T20:18:03.014278",
         "prev_close": 6589.34,
         "change_pct": -0.73
     },
@@ -3978,7 +3978,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Bank Rakyat Indonesia",
             "prev_close": 3320,
             "change_pct": -1.51
@@ -3988,7 +3988,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BMRI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Bank Mandiri",
             "prev_close": 4370,
             "change_pct": -0.23
@@ -3998,7 +3998,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBNI:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Bank Negara Indonesia",
             "prev_close": 3800,
             "change_pct": -1.32
@@ -4008,7 +4008,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/BBTN:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Bank Tabungan Negara",
             "prev_close": 1210,
             "change_pct": -2.89
@@ -4018,7 +4018,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/TLKM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Telkom Indonesia",
             "prev_close": 2630,
             "change_pct": -1.14
@@ -4028,7 +4028,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/SMGR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Semen Indonesia",
             "prev_close": 1730,
             "change_pct": -2.02
@@ -4038,7 +4038,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/ANTM:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Aneka Tambang",
             "prev_close": 3270,
             "change_pct": 0.0
@@ -4048,7 +4048,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PGAS:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Perusahaan Gas Negara",
             "prev_close": 1515,
             "change_pct": 0.33
@@ -4058,7 +4058,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/PTBA:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Bukit Asam",
             "prev_close": 3100,
             "change_pct": 0.0
@@ -4068,7 +4068,7 @@
             "source": "Yahoo Finance (data pasar, bukan rilis resmi)",
             "source_url": "https://www.google.com/finance/quote/JSMR:IDX",
             "confidence": "UNAUDITED",
-            "fetched_at": "2026-09-13T17:14:57.314563",
+            "fetched_at": "2026-09-13T20:18:03.014278",
             "name": "Jasa Marga",
             "prev_close": 2990,
             "change_pct": -1.34
@@ -4080,5 +4080,5 @@
         "phase_3_macro": "ok",
         "errors": []
     },
-    "last_updated": "2026-09-13T17:14:57.314563"
+    "last_updated": "2026-09-13T20:18:03.014278"
 }
