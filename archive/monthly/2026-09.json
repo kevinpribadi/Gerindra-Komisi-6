@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-13T03:06:16.890796",
+  "generated_at": "2026-09-13T13:38:43.005279",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 20,
-    "Golkar": 22,
-    "NasDem": 7,
+    "Gerindra": 27,
+    "PDI-P": 19,
+    "Golkar": 24,
+    "NasDem": 6,
     "PKB": 17,
     "PKS": 8,
     "PAN": 1,
-    "Demokrat": 4
+    "Demokrat": 3
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 70,
-    "Golkar": 79,
-    "NasDem": 22,
-    "PKB": 58,
-    "PKS": 42,
+    "Gerindra": 65,
+    "PDI-P": 63,
+    "Golkar": 78,
+    "NasDem": 19,
+    "PKB": 55,
+    "PKS": 44,
     "PAN": 16,
-    "Demokrat": 14
+    "Demokrat": 13
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 63,
-    "bumn": 55,
+    "koperasi": 60,
+    "bumn": 49,
     "dividen": 2,
     "danantara": 26,
-    "investasi": 19,
+    "investasi": 18,
     "perdagangan": 12,
-    "umkm": 28,
+    "umkm": 26,
     "kartel-monopoli": 15,
     "impor": 1,
     "ipo": 2
@@ -49,16 +49,16 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
-    "Mulan Jameela": 5,
+    "Mulan Jameela": 4,
     "Kawendra Lukistian": 18,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 9,
-    "Darmadi Durianto": 13,
+    "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 9,
+    "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -66,32 +66,109 @@
     "Sarifah Suraidah": 7,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 3,
-    "Rizki Faisal": 5,
+    "Rizki Faisal": 4,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 9,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 18,
-    "Amin Ak.": 11,
+    "Nasim Khan": 15,
+    "Amin Ak.": 12,
     "Rizal Bawazier": 20,
-    "Ghufran": 3,
+    "Ghufran": 4,
     "Ismail": 8,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 13,
     "Sartono": 3,
-    "Herman Khaeron": 11
+    "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 24,
-    "Koperasi/UMKM": 77,
-    "Hukum/Audit": 10,
+    "Kinerja BUMN": 20,
+    "Koperasi/UMKM": 74,
+    "Hukum/Audit": 11,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "KPPU Telusuri Jalur Kedelai di Terminal Teluk Lamong - kanalsatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 11:45:00 GMT",
+      "link": "https://kanalsatu.com/id/post/69048/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong"
+    },
+    {
+      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - KilasJatim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 11:43:20 GMT",
+      "link": "https://kilasjatim.com/2026/09/13/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
+    },
+    {
+      "title": "Menkop: Koperasi Tidak Dapat Dilepaskan dari Perjuangan Syarikat Islam - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 11:26:36 GMT",
+      "link": "https://indoposco.id/2026/09/13/menkop-koperasi-tidak-dapat-dilepaskan-dari-perjuangan-syarikat-islam/"
+    },
+    {
+      "title": "Menkeu Optimis Operasional KDMP Mampu Tekan Kebocoran Subsidi - tv.sinpo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 10:20:00 GMT",
+      "link": "https://tv.sinpo.id/detail/menkeu-optimis-operasional-kdmp-mampu-tekan-kebocoran-subsidi"
+    },
+    {
+      "title": "Nurdin Halid Soroti Antrean BBM di Sulsel, Minta Pertamina Cari Akar Masalah - bonepos.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 09:22:00 GMT",
+      "link": "https://www.bonepos.com/2026/09/13/nurdin-halid-soroti-antrean-bbm-di-sulsel-minta-pertamina-cari-akar-masalah"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan telah meminta agar daerah-daerah berkoordinasi dalam mengelola kawasan industri dan sumber daya mineral. - vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 07:46:52 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-nghi-cac-dia-phuong-phoi-hop-quan-ly-khu-cong-nghiep-khoang-san"
+    },
+    {
+      "title": "PMI Manufaktur Anjlok ke 49,8, Amin Ak Ingatkan Risiko PHK di Sektor Padat Karya - Beritakota",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 04:54:00 GMT",
+      "link": "https://beritakota.id/pmi-manufaktur-anjlok-ke-498-amin-ak-ingatkan-risiko-phk-di-sektor-padat-karya/"
+    },
+    {
+      "title": "Kasus Dugaan Korupsi KPR Mencuat, DPR Desak Evaluasi Tata Kelola Kredit Rumah - Jawa Pos",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 04:30:52 GMT",
+      "link": "https://batampos.jawapos.com/nasional/2609130012/kasus-dugaan-korupsi-kpr-mencuat-dpr-desak-evaluasi-tata-kelola-kredit-rumah"
+    },
+    {
+      "title": "Danantara Buka Peluang Kolaborasi Pendanaan Ekosistem Olahraga - RRI.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 13 Sep 2026 03:05:00 GMT",
+      "link": "https://rri.co.id/bengkulu/nasional/2725139/danantara-buka-peluang-kolaborasi-pendanaan-ekosistem-olahraga"
+    },
+    {
+      "title": "Anggota DPR RI Ghufran Dorong Sekolah Lapang Cuaca Nelayan Diperluas ke Pesisir Aceh - harianrakyataceh.com",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 02:43:53 GMT",
+      "link": "https://harianrakyataceh.com/news/anggota-dpr-ri-ghufran-dorong-sekolah-lapang-cuaca-nelayan-diperluas-ke-pesisir-aceh/index.html"
+    },
+    {
+      "title": "Untad Hadirkan Nurdin Halid Kuliah Umum, Empat Mahasiswa Dapat Hadiah Umrah - Metrosulawesi",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 01:00:00 GMT",
+      "link": "https://metrosulawesi.net/untad-hadirkan-nurdin-halid-kuliah-umum-empat-mahasiswa-dapat-hadiah-umrah"
+    },
     {
       "title": "Rp1,9 Triliun Untuk Pelatihan Manajer Kopdes? Mufti Anam: Jangan Hambur-Hamburkan Uang - gesuri.id",
       "entity": "Mufti Anam",
@@ -119,83 +196,6 @@
       "kind": "lembaga",
       "published": "Sat, 12 Sep 2026 14:40:11 GMT",
       "link": "https://sudutpandang.id/danantara-buka-peluang-pendanaan-jangka-panjang-olahraga/"
-    },
-    {
-      "title": "Pemerintah Bentuk Satgas Khusus Perkuat Koperasi Desa Merah Putih - Mnctrijaya.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 14:31:00 GMT",
-      "link": "https://www.mnctrijaya.com/news/detail/77869/pemerintah-bentuk-satgas-khusus-perkuat-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "Bukan Cuma Pileg, Asep Wahyuwijaya Dorong Partai NasDem Kabupaten Bogor Siapkan Figur untuk Pilkada - rmoljabar.id",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 14:24:14 GMT",
-      "link": "https://www.rmoljabar.id/bukan-cuma-pileg-asep-wahyuwijaya-dorong-partai-nasdem-kabupaten-bogor-siapkan-figur-untuk-pilkada"
-    },
-    {
-      "title": "DPR RI Dapil IV Jatim Amin, Ak: Dorong Bantalan Kebijakan bagi Industri Manufaktur di Tengah Sinyal Kontraksi PMI Agustus 2026 - barometer99.com",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 13:21:18 GMT",
-      "link": "https://barometer99.com/dpr-ri-dapil-iv-jatim-amin-ak-dorong-bantalan-kebijakan-bagi-industri-manufaktur-di-tengah-sinyal-kontraksi-pmi-agustus-2026/"
-    },
-    {
-      "title": "KPPU Surabaya Bekali Calon Advokat Unesa Pahami Hukum Acara Persaingan Usaha - majalahnurani.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 13:09:45 GMT",
-      "link": "https://majalahnurani.com/2026/09/12/kppu-surabaya-bekali-calon-advokat-unesa-pahami-hukum-acara-persaingan-usaha/"
-    },
-    {
-      "title": "Sinyal Kontraksi PMI Agustus 2026, Komisi XI Dorong Bantalan Kebijakan Industri Manufaktur - Kedai Pena",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 13:00:13 GMT",
-      "link": "https://www.kedaipena.com/sinyal-kontraksi-pmi-agustus-2026-komisi-xi-dorong-bantalan-kebijakan-industri-manufaktur/"
-    },
-    {
-      "title": "ISS 2026 Jadi Momentum Danantara Buka Peluang Pendanaan Jangka Panjang untuk Olahraga Indonesia - Kementerian Pemuda dan Olahraga",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 12:41:10 GMT",
-      "link": "https://www.kemenpora.go.id/detail/7089/iss-2026-jadi-momentum-danantara-buka-peluang-pendanaan-jangka-pa"
-    },
-    {
-      "title": "Kasus Korupsi KPR BTN Karawang, Gus Rivqy Soroti Lemahnya Pengawasan - JPNN.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 12:25:00 GMT",
-      "link": "https://www.jpnn.com/news/kasus-korupsi-kpr-btn-karawang-gus-rivqy-soroti-lemahnya-pengawasan"
-    },
-    {
-      "title": "Pejabat BTN Terseret Korupsi, Komisi VI DPR Desak Evaluasi Prinsip Prudential Banking - Suara Investor",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 12:19:35 GMT",
-      "link": "https://www.suarainvestor.com/pejabat-btn-terseret-korupsi-komisi-vi-dpr-desak-evaluasi-prinsip-prudential-banking/"
-    },
-    {
-      "title": "Dukung Perampingan BUMN, Ateng Sutisna Tegaskan Jangan Sampai BUMN Sehat Jadi Korban Akibat Pelimpahan SDM Baru - Fraksi PKS",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 11:19:54 GMT",
-      "link": "https://fraksi.pks.id/2026/09/12/dukung-perampingan-bumn-ateng-sutisna-tegaskan-jangan-sampai-bumn-sehat-jadi-korban-akibat-pelimpahan-sdm-baru/"
-    },
-    {
-      "title": "Dukung Perampingan BUMN, Ateng Sutisna Tegaskan Jangan Sampai BUMN Sehat Jadi Korban Akibat Pelimpahan SDM Baru - Fraksi PKS",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 11:19:54 GMT",
-      "link": "https://fraksi.pks.id/2026/09/12/dukung-perampingan-bumn-ateng-sutisna-tegaskan-jangan-sampai-bumn-sehat-jadi-korban-akibat-pelimpahan-sdm-baru/"
-    },
-    {
-      "title": "YLKI Minta DPR Dalami Integritas Calon Komisioner BPKN - suaralandak.co.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 10:30:59 GMT",
-      "link": "https://www.suaralandak.co.id/ylki-dpr-integritas-komisioner-bpkn"
     }
   ]
 }
