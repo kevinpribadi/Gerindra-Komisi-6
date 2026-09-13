@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-13T13:38:43.005279",
+  "generated_at": "2026-09-13T17:14:57.314563",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 19,
-    "Golkar": 24,
-    "NasDem": 6,
+    "Golkar": 22,
+    "NasDem": 5,
     "PKB": 17,
-    "PKS": 8,
+    "PKS": 9,
     "PAN": 1,
     "Demokrat": 3
   },
@@ -17,7 +17,7 @@
     "Golkar": 78,
     "NasDem": 19,
     "PKB": 55,
-    "PKS": 44,
+    "PKS": 45,
     "PAN": 16,
     "Demokrat": 13
   },
@@ -76,7 +76,7 @@
     "Nasim Khan": 15,
     "Amin Ak.": 12,
     "Rizal Bawazier": 20,
-    "Ghufran": 4,
+    "Ghufran": 5,
     "Ismail": 8,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
@@ -92,6 +92,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Ghufran Buka Sekolah Lapang Cuaca Nelayan di Aceh Besar - Fraksi PKS",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 14:00:56 GMT",
+      "link": "https://fraksi.pks.id/2026/09/13/ghufran-buka-sekolah-lapang-cuaca-nelayan-di-aceh-besar/"
+    },
     {
       "title": "KPPU Telusuri Jalur Kedelai di Terminal Teluk Lamong - kanalsatu.com",
       "entity": "KPPU",
@@ -189,13 +196,6 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 15:12:59 GMT",
       "link": "https://indoposco.id/2026/09/12/sektor-manufaktur-berkontraksi-gelombang-phk-mengancam/"
-    },
-    {
-      "title": "Danantara Buka Peluang Pendanaan Jangka Panjang Olahraga - Sudutpandang.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 14:40:11 GMT",
-      "link": "https://sudutpandang.id/danantara-buka-peluang-pendanaan-jangka-panjang-olahraga/"
     }
   ]
 }
