@@ -1,45 +1,45 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-14T11:45:53.590096",
+  "generated_at": "2026-09-14T17:40:10.432374",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 23,
     "PDI-P": 19,
-    "Golkar": 21,
+    "Golkar": 19,
     "NasDem": 4,
-    "PKB": 19,
-    "PKS": 9,
-    "Demokrat": 3
+    "PKB": 21,
+    "PKS": 11,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 65,
     "PDI-P": 60,
-    "Golkar": 78,
-    "NasDem": 19,
+    "Golkar": 79,
+    "NasDem": 18,
     "PKB": 53,
-    "PKS": 45,
+    "PKS": 47,
     "PAN": 15,
     "Demokrat": 14
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 20,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 18,
+    "BPK Sabang": 19,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 60,
-    "bumn": 44,
-    "dividen": 2,
-    "danantara": 26,
+    "danantara": 28,
+    "bumn": 45,
+    "dividen": 4,
+    "koperasi": 59,
     "investasi": 18,
-    "perdagangan": 12,
-    "umkm": 23,
+    "perdagangan": 11,
+    "umkm": 21,
     "kartel-monopoli": 14,
     "impor": 1,
     "ipo": 2,
@@ -62,14 +62,14 @@
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 4,
+    "Ahmad Labib": 5,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 3,
     "Rizki Faisal": 4,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -77,7 +77,7 @@
     "Amin Ak.": 12,
     "Rizal Bawazier": 20,
     "Ghufran": 5,
-    "Ismail": 8,
+    "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 12,
@@ -85,117 +85,117 @@
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
-    "Koperasi/UMKM": 70,
-    "Hukum/Audit": 12,
-    "Perdagangan": 15,
+    "Kinerja BUMN": 17,
+    "Koperasi/UMKM": 66,
+    "Perdagangan": 16,
+    "Hukum/Audit": 13,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Jangan Tunggu Antrean Mengular, Legislator Dorong Sistem Peringatan Dini Atasi Kelangkaan BBM - Kedai Pena",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Mon, 14 Sep 2026 05:31:25 GMT",
-      "link": "https://www.kedaipena.com/jangan-tunggu-antrean-mengular-legislator-dorong-sistem-peringatan-dini-atasi-kelangkaan-bbm/"
-    },
-    {
-      "title": "Kopdes Merah Putih Disebut Bisa Hemat Subsidi hingga Rp150 Triliun per Tahun - jatimupdate.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Mon, 14 Sep 2026 05:25:00 GMT",
-      "link": "https://jatimupdate.id/baca-19428-kopdes-merah-putih-disebut-bisa-hemat-subsidi-hingga-rp150-triliun-per-tahun"
+      "published": "Mon, 14 Sep 2026 17:17:26 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260915/MTEyNg%3D%3D"
     },
     {
-      "title": "Mandek, Masih Ada Ratusan Pemda Belum Buat Tim Audit Kopdes - Bloomberg Technoz",
+      "title": "Danantara Buka Suara Soal Kabar Kepemilikan Saham BEI - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 16:38:16 GMT",
+      "link": "https://suaragarut.id/danantara-buka-suara-soal-kabar-kepemilikan-saham-bei"
+    },
+    {
+      "title": "Koperasi Desa Merah Putih Banjarnegara Bersiap, Menkop Beberkan 3 Langkah Percepatan - DelikAsia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 14 Sep 2026 04:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121445/mandek-masih-ada-ratusan-pemda-belum-buat-tim-audit-kopdes"
+      "published": "Mon, 14 Sep 2026 16:36:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/koperasi-desa-merah-putih-banjarnegara-bersiap-menkop-beberkan-3-langkah-percepatan"
     },
     {
-      "title": "BPKN dorong transformasi keselamatan pelayaran berbasis teknologi - ANTARA News",
-      "entity": "BPKN",
+      "title": "Danantara Buka Suara soal Kabar Mau Pegang 40% Saham Bursa Efek - detikFinance",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 14 Sep 2026 03:14:40 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5739380/bpkn-dorong-transformasi-keselamatan-pelayaran-berbasis-teknologi"
+      "published": "Mon, 14 Sep 2026 16:26:29 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8662970/danantara-buka-suara-soal-kabar-mau-pegang-40-saham-bursa-efek"
     },
     {
-      "title": "Bagasi Garuda Kini Hitung Jumlah Koper, DPR Desak Tinjau Ulang! - Liputan Jatim",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Mon, 14 Sep 2026 03:10:00 GMT",
-      "link": "https://liputanjatim.com/berita/bagasi-garuda-kini-hitung-jumlah-koper-dpr-desak-tinjau-ulang"
+      "title": "Kemenkop Percepat Operasional Koperasi Desa Merah Putih - SuaraGarut.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 15:46:27 GMT",
+      "link": "https://suaragarut.id/kemenkop-percepat-operasional-koperasi-desa"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan mengusulkan pengelolaan terkoordinasi untuk kawasan industri dan sumber daya mineral. - Vietnam.vn",
+      "title": "Operasional Kopdes Merah Putih Dikebut - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 15:28:32 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8662940/operasional-kopdes-merah-putih-dikebut"
+    },
+    {
+      "title": "Mendag: RI dan Bulgaria perkuat kerja sama perdagangan dan investasi - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 14 Sep 2026 01:49:16 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-nghi-phoi-hop-quan-ly-khu-cong-nghiep-khoang-san"
+      "published": "Mon, 14 Sep 2026 14:54:38 GMT",
+      "link": "https://www.antaranews.com/berita/5740915/mendag-ri-dan-bulgaria-perkuat-kerja-sama-perdagangan-dan-investasi"
     },
     {
-      "title": "Ghufran Buka Sekolah Lapang Cuaca Nelayan di Aceh Besar - Fraksi PKS",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 14:00:56 GMT",
-      "link": "https://fraksi.pks.id/2026/09/13/ghufran-buka-sekolah-lapang-cuaca-nelayan-di-aceh-besar/"
-    },
-    {
-      "title": "KPPU Telusuri Rantai Pasok Kedelai di Terminal Teluk Lamong - kanalsatu.com",
-      "entity": "KPPU",
+      "title": "Respons Rosan usai Suahasil Jadi Menkeu: Bawa Angin Positif - CNN Indonesia",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 11:45:00 GMT",
-      "link": "https://kanalsatu.com/id/post/69048/kppu-telusuri-rantai-pasok-kedelai-di-terminal-teluk-lamong"
+      "published": "Mon, 14 Sep 2026 14:40:53 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260914210030-92-1403899/respons-rosan-usai-suahasil-jadi-menkeu-bawa-angin-positif"
     },
     {
-      "title": "KPPU Telusuri Jalur Kedelai di Terminal Teluk Lamong - kanalsatu.com",
-      "entity": "KPPU",
+      "title": "Warga Balohan Harap Drainase Kawasan Pelabuhan Segera Dibenahi - rri.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 11:45:00 GMT",
-      "link": "https://kanalsatu.com/id/post/69048/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong/kppu-telusuri-jalur-kedelai-di-terminal-teluk-lamong"
+      "published": "Mon, 14 Sep 2026 14:37:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2729215/warga-balohan-harap-drainase-kawasan-pelabuhan-segera-dibenahi"
     },
     {
-      "title": "KPPU Surabaya Bekali Calon Advokat Pahami Hukum Acara Persaingan Usaha - KilasJatim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 11:43:20 GMT",
-      "link": "https://kilasjatim.com/2026/09/13/kppu-surabaya-bekali-calon-advokat-pahami-hukum-acara-persaingan-usaha/"
-    },
-    {
-      "title": "Menkop: Koperasi Tidak Dapat Dilepaskan dari Perjuangan Syarikat Islam - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 11:26:36 GMT",
-      "link": "https://indoposco.id/2026/09/13/menkop-koperasi-tidak-dapat-dilepaskan-dari-perjuangan-syarikat-islam/"
-    },
-    {
-      "title": "Menkeu Optimis Operasional KDMP Mampu Tekan Kebocoran Subsidi - tv.sinpo.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 10:20:00 GMT",
-      "link": "https://tv.sinpo.id/detail/menkeu-optimis-operasional-kdmp-mampu-tekan-kebocoran-subsidi"
-    },
-    {
-      "title": "Nurdin Halid Soroti Antrean BBM di Sulsel, Minta Pertamina Cari Akar Masalah - bonepos.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 09:22:00 GMT",
-      "link": "https://www.bonepos.com/2026/09/13/nurdin-halid-soroti-antrean-bbm-di-sulsel-minta-pertamina-cari-akar-masalah"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan telah meminta agar daerah-daerah berkoordinasi dalam mengelola kawasan industri dan sumber daya mineral. - vietnam.vn",
+      "title": "AI untuk UMKM : Peluang atau tantangan Halaman 1 - Kompasiana.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 07:46:52 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-nghi-cac-dia-phuong-phoi-hop-quan-ly-khu-cong-nghiep-khoang-san"
+      "published": "Mon, 14 Sep 2026 14:23:02 GMT",
+      "link": "https://www.kompasiana.com/adamraihan1686/6aa80346c925c429126899a2/ai-untuk-umkm-peluang-atau-tantangan"
     },
     {
-      "title": "PMI Manufaktur Anjlok ke 49,8, Amin Ak Ingatkan Risiko PHK di Sektor Padat Karya - Beritakota",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 04:54:00 GMT",
-      "link": "https://beritakota.id/pmi-manufaktur-anjlok-ke-498-amin-ak-ingatkan-risiko-phk-di-sektor-padat-karya/"
+      "title": "1.900 Lebih Koperasi Sumenep Tercatat, Tapi Yang Aktif Baru 48 Persen - SIGAP88",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 14:00:08 GMT",
+      "link": "https://sigap88.com/koperasi-sumenep-1900-lebih-48-persen-aktif/"
+    },
+    {
+      "title": "Bukukan Omzet Rp625 Juta, KDMP Panerusan Wetan Banjarnegara Dapat Apresiasi Menteri Koperasi RI - timesindonesia.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 13:12:00 GMT",
+      "link": "https://timesindonesia.co.id/ekonomi/608534/bukukan-omzet-rp625-juta-kdmp-panerusan-wetan-banjarnegara-dapat-apresiasi-menteri-koperasi-ri"
+    },
+    {
+      "title": "Pertamina Patra Niaga Jamin Keamanan Produk Elpiji di SPBE Seluruh Indonesia - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 13:05:22 GMT",
+      "link": "https://www.metrotvnews.com/read/K5nCRzd9-pertamina-patra-niaga-jamin-keamanan-produk-elpiji-di-spbe-seluruh-indonesia"
+    },
+    {
+      "title": "Minyak Goreng Sumbang Kenaikan IPH, Kemendag Minta Bulog dan ID FOOD Jaga Pasokan - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 12:04:07 GMT",
+      "link": "https://nasional.kontan.co.id/news/minyak-goreng-sumbang-kenaikan-iph-kemendag-minta-bulog-dan-id-food-jaga-pasokan"
+    },
+    {
+      "title": "Danantara Mau Genggam 40% Saham Bursa Efek! - detikFinance",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "link": "https://finance.detik.com/bursa-dan-valas/d-8662700/danantara-mau-genggam-40-saham-bursa-efek"
     }
   ]
 }
