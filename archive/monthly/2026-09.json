@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-14T00:42:25.829190",
+  "generated_at": "2026-09-14T05:46:25.019947",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 19,
-    "Golkar": 22,
-    "NasDem": 5,
-    "PKB": 18,
+    "Golkar": 21,
+    "NasDem": 4,
+    "PKB": 19,
     "PKS": 9,
     "PAN": 1,
     "Demokrat": 3
@@ -19,7 +19,7 @@
     "PKB": 55,
     "PKS": 45,
     "PAN": 15,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -29,18 +29,18 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 17,
+    "BPK Sabang": 18,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 59,
-    "bumn": 49,
+    "koperasi": 60,
+    "bumn": 48,
     "dividen": 2,
     "danantara": 26,
     "investasi": 18,
     "perdagangan": 12,
-    "umkm": 25,
+    "umkm": 23,
     "kartel-monopoli": 14,
     "impor": 1,
     "ipo": 2,
@@ -82,17 +82,59 @@
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
     "Iskandar": 12,
-    "Sartono": 3,
+    "Sartono": 4,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Koperasi/UMKM": 73,
-    "Hukum/Audit": 12,
+    "Koperasi/UMKM": 70,
+    "Hukum/Audit": 13,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Jangan Tunggu Antrean Mengular, Legislator Dorong Sistem Peringatan Dini Atasi Kelangkaan BBM - Kedai Pena",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Mon, 14 Sep 2026 05:31:25 GMT",
+      "link": "https://www.kedaipena.com/jangan-tunggu-antrean-mengular-legislator-dorong-sistem-peringatan-dini-atasi-kelangkaan-bbm/"
+    },
+    {
+      "title": "Kopdes Merah Putih Disebut Bisa Hemat Subsidi hingga Rp150 Triliun per Tahun - jatimupdate.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 05:25:00 GMT",
+      "link": "https://jatimupdate.id/baca-19428-kopdes-merah-putih-disebut-bisa-hemat-subsidi-hingga-rp150-triliun-per-tahun"
+    },
+    {
+      "title": "Mandek, Masih Ada Ratusan Pemda Belum Buat Tim Audit Kopdes - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 04:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121445/mandek-masih-ada-ratusan-pemda-belum-buat-tim-audit-kopdes"
+    },
+    {
+      "title": "BPKN dorong transformasi keselamatan pelayaran berbasis teknologi - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 03:14:40 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5739380/bpkn-dorong-transformasi-keselamatan-pelayaran-berbasis-teknologi"
+    },
+    {
+      "title": "Bagasi Garuda Kini Hitung Jumlah Koper, DPR Desak Tinjau Ulang! - Liputan Jatim",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Mon, 14 Sep 2026 03:10:00 GMT",
+      "link": "https://liputanjatim.com/berita/bagasi-garuda-kini-hitung-jumlah-koper-dpr-desak-tinjau-ulang"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan mengusulkan pengelolaan terkoordinasi untuk kawasan industri dan sumber daya mineral. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 14 Sep 2026 01:49:16 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-de-nghi-phoi-hop-quan-ly-khu-cong-nghiep-khoang-san"
+    },
     {
       "title": "Ghufran Buka Sekolah Lapang Cuaca Nelayan di Aceh Besar - Fraksi PKS",
       "entity": "Ghufran",
@@ -155,48 +197,6 @@
       "kind": "anggota",
       "published": "Sun, 13 Sep 2026 04:54:00 GMT",
       "link": "https://beritakota.id/pmi-manufaktur-anjlok-ke-498-amin-ak-ingatkan-risiko-phk-di-sektor-padat-karya/"
-    },
-    {
-      "title": "Kasus Dugaan Korupsi KPR Mencuat, DPR Desak Evaluasi Tata Kelola Kredit Rumah - Jawa Pos",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 04:30:52 GMT",
-      "link": "https://batampos.jawapos.com/nasional/2609130012/kasus-dugaan-korupsi-kpr-mencuat-dpr-desak-evaluasi-tata-kelola-kredit-rumah"
-    },
-    {
-      "title": "Danantara Buka Peluang Kolaborasi Pendanaan Ekosistem Olahraga - RRI.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 13 Sep 2026 03:05:00 GMT",
-      "link": "https://rri.co.id/bengkulu/nasional/2725139/danantara-buka-peluang-kolaborasi-pendanaan-ekosistem-olahraga"
-    },
-    {
-      "title": "Anggota DPR RI Ghufran Dorong Sekolah Lapang Cuaca Nelayan Diperluas ke Pesisir Aceh - harianrakyataceh.com",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 02:43:53 GMT",
-      "link": "https://harianrakyataceh.com/news/anggota-dpr-ri-ghufran-dorong-sekolah-lapang-cuaca-nelayan-diperluas-ke-pesisir-aceh/index.html"
-    },
-    {
-      "title": "Pejabat BTN Terseret Kasus Korupsi, DPR Desak Evaluasi Prinsip Prudential Banking - Beritaind",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 02:03:39 GMT",
-      "link": "https://beritaind.com/2026/09/13/pejabat-btn-terseret-kasus-korupsi-dpr-desak-evaluasi-prinsip-prudential-banking/"
-    },
-    {
-      "title": "Untad Hadirkan Nurdin Halid Kuliah Umum, Empat Mahasiswa Dapat Hadiah Umrah - Metrosulawesi",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 13 Sep 2026 01:00:00 GMT",
-      "link": "https://metrosulawesi.net/untad-hadirkan-nurdin-halid-kuliah-umum-empat-mahasiswa-dapat-hadiah-umrah"
-    },
-    {
-      "title": "Rp1,9 Triliun Untuk Pelatihan Manajer Kopdes? Mufti Anam: Jangan Hambur-Hamburkan Uang - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sat, 12 Sep 2026 17:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rp1-9-triliun-untuk-pelatihan-manajer-kopdes-mufti-anam-jangan-hambur-hamburkan-uang-b2qbdZbhOn"
     }
   ]
 }
