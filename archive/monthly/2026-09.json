@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-13T20:18:03.014278",
+  "generated_at": "2026-09-14T00:42:25.829190",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 19,
     "Golkar": 22,
     "NasDem": 5,
-    "PKB": 17,
+    "PKB": 18,
     "PKS": 9,
     "PAN": 1,
     "Demokrat": 3
@@ -18,7 +18,7 @@
     "NasDem": 19,
     "PKB": 55,
     "PKS": 45,
-    "PAN": 16,
+    "PAN": 15,
     "Demokrat": 13
   },
   "agency_counts_30d": {
@@ -34,16 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "koperasi": 60,
+    "koperasi": 59,
     "bumn": 49,
     "dividen": 2,
     "danantara": 26,
     "investasi": 18,
     "perdagangan": 12,
-    "umkm": 26,
+    "umkm": 25,
     "kartel-monopoli": 14,
     "impor": 1,
-    "ipo": 2
+    "ipo": 2,
+    "ekspor": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -80,14 +81,14 @@
     "Ismail": 8,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 13,
+    "Iskandar": 12,
     "Sartono": 3,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
     "Kinerja BUMN": 20,
-    "Koperasi/UMKM": 74,
-    "Hukum/Audit": 11,
+    "Koperasi/UMKM": 73,
+    "Hukum/Audit": 12,
     "Perdagangan": 15,
     "Konflik Publik": 7
   },
@@ -177,6 +178,13 @@
       "link": "https://harianrakyataceh.com/news/anggota-dpr-ri-ghufran-dorong-sekolah-lapang-cuaca-nelayan-diperluas-ke-pesisir-aceh/index.html"
     },
     {
+      "title": "Pejabat BTN Terseret Kasus Korupsi, DPR Desak Evaluasi Prinsip Prudential Banking - Beritaind",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 13 Sep 2026 02:03:39 GMT",
+      "link": "https://beritaind.com/2026/09/13/pejabat-btn-terseret-kasus-korupsi-dpr-desak-evaluasi-prinsip-prudential-banking/"
+    },
+    {
       "title": "Untad Hadirkan Nurdin Halid Kuliah Umum, Empat Mahasiswa Dapat Hadiah Umrah - Metrosulawesi",
       "entity": "Nurdin Halid",
       "kind": "anggota",
@@ -189,13 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 12 Sep 2026 17:00:00 GMT",
       "link": "https://www.gesuri.id/pemerintahan/rp1-9-triliun-untuk-pelatihan-manajer-kopdes-mufti-anam-jangan-hambur-hamburkan-uang-b2qbdZbhOn"
-    },
-    {
-      "title": "Ketika Penegakan Hukum Persaingan Usaha Berhadapan dengan Kepentingan Inklusi Keuangan: Studi Kasus Kartel Bunga Pindar - Hukumonline",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 12 Sep 2026 16:23:15 GMT",
-      "link": "https://www.hukumonline.com/berita/a/ketika-penegakan-hukum-persaingan-usaha-berhadapan-dengan-kepentingan-inklusi-keuangan--studi-kasus-kartel-bunga-pindar-lt6aa57a7747964/"
     }
   ]
 }
