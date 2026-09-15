@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-15T19:58:32.256176",
+  "generated_at": "2026-09-15T22:48:14.460381",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 23,
@@ -36,7 +36,7 @@
     "danantara": 29,
     "bumn": 49,
     "dividen": 6,
-    "koperasi": 55,
+    "koperasi": 56,
     "investasi": 19,
     "impor": 4,
     "perdagangan": 6,
@@ -86,12 +86,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Koperasi/UMKM": 63,
+    "Koperasi/UMKM": 64,
     "Perdagangan": 19,
     "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Menkop Ajak Mahasiswa Jadikan Koperasi Wadah Usaha Kolektif dan Inovasi Ekonomi - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 15 Sep 2026 21:02:46 GMT",
+      "link": "https://sumbar.antaranews.com/berita/778756/menkop-ajak-mahasiswa-jadikan-koperasi-wadah-usaha-kolektif-dan-inovasi-ekonomi"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 15 Sep 2026 20:01:11 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260916/Mjc0NDQ0"
+    },
     {
       "title": "Menkop Ajak Mahasiswa Jadikan Koperasi sebagai Wadah Usaha Kolektif dan Inovasi Ekonomi - Media Indonesia",
       "entity": "Kementerian Koperasi",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 15 Sep 2026 12:39:37 GMT",
       "link": "https://finance.detik.com/infrastruktur/d-8664377/bp-bumn-dan-adhi-karya-minta-maaf-ke-konsumen-lrt-city"
-    },
-    {
-      "title": "BP BUMN Janji Kawal Seluruh Masalah LRT City hingga Tuntas - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 12:31:40 GMT",
-      "link": "https://wartaekonomi.co.id/read634914/bp-bumn-janji-kawal-seluruh-masalah-lrt-city-hingga-tuntas"
-    },
-    {
-      "title": "Bupati Bojonegoro Hadiri Puncak Kegiatan Hari Koperasi, Serahkan Bantuan Bagi Kelompok Rentan - Pemkab Bojonegoro",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 12:21:07 GMT",
-      "link": "https://bojonegorokab.go.id/berita/9992/bupati-bojonegoro-hadiri-puncak-kegiatan-hari-koperasi-serahkan-bantuan-bagi-kelompok-rentan"
     }
   ]
 }
