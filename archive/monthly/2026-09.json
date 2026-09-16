@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-15T22:48:14.460381",
+  "generated_at": "2026-09-16T01:04:45.365052",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 23,
     "Golkar": 23,
     "NasDem": 4,
     "PKB": 23,
-    "PKS": 12,
+    "PKS": 13,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 59,
+    "Gerindra": 58,
     "PDI-P": 62,
     "Golkar": 87,
     "NasDem": 18,
     "PKB": 53,
-    "PKS": 50,
+    "PKS": 51,
     "PAN": 15,
     "Demokrat": 14
   },
@@ -33,11 +33,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 29,
-    "bumn": 49,
+    "danantara": 28,
+    "bumn": 50,
     "dividen": 6,
     "koperasi": 56,
-    "investasi": 19,
+    "investasi": 20,
     "impor": 4,
     "perdagangan": 6,
     "ekspor": 2,
@@ -50,7 +50,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 11,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 9,
@@ -74,7 +74,7 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
-    "Amin Ak.": 15,
+    "Amin Ak.": 16,
     "Rizal Bawazier": 20,
     "Ghufran": 5,
     "Ismail": 10,
@@ -87,11 +87,46 @@
   "early_warning_counts": {
     "Kinerja BUMN": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 19,
+    "Perdagangan": 20,
     "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "80 Ribu KDMP Dibidik, Baru 24 Ribu Jadi: Barang Sudah Dibeli, Koperasi Belum Beroperasi - RanahRiau.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 00:33:00 GMT",
+      "link": "https://www.ranahriau.com/berita-28238-80-ribu-kdmp-dibidik-baru-24-ribu-jadi-barang-sudah-dibeli-koperasi-belum-beroperasi.html"
+    },
+    {
+      "title": "BP BUMN Janji Tak Akan 'Cuci Tangan' soal Proyek LRT City - detikcom",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 00:09:41 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8664562/bp-bumn-janji-tak-akan-cuci-tangan-soal-proyek-lrt-city"
+    },
+    {
+      "title": "Menkeu Suahasil Nazara Diminta Perkuat Kredibilitas Fiskal dan Jaga Kepercayaan Investor - Kedai Pena",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 15 Sep 2026 23:38:20 GMT",
+      "link": "https://www.kedaipena.com/menkeu-suahasil-nazara-diminta-perkuat-kredibilitas-fiskal-dan-jaga-kepercayaan-investor/"
+    },
+    {
+      "title": "OJK Ungkap Update Terbaru Aturan Demutualisasi BEI - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 15 Sep 2026 23:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121633/ojk-ungkap-update-terbaru-aturan-demutualisasi-bei"
+    },
+    {
+      "title": "Amuk Bos Agrinas soal Kopdes: Kementerian Kerja Kalau Ada Duit - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 15 Sep 2026 23:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121634/amuk-bos-agrinas-soal-kopdes-kementerian-kerja-kalau-ada-duit"
+    },
     {
       "title": "Menkop Ajak Mahasiswa Jadikan Koperasi Wadah Usaha Kolektif dan Inovasi Ekonomi - ANTARA News",
       "entity": "Kementerian Koperasi",
@@ -135,6 +170,13 @@
       "link": "https://www.vibizmedia.com/index.php/2026/09/15/indonesia-bulgaria-perkuat-kemitraan-ekonomi-bidik-peluang-pasar-eropa/"
     },
     {
+      "title": "Pembangunan LRT City Bakal Dilanjutkan - Liputan6.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 15 Sep 2026 14:45:32 GMT",
+      "link": "https://www.liputan6.com/bisnis/read/8292475/pembangunan-lrt-city-bakal-dilanjutkan"
+    },
+    {
       "title": "BEI Tunda RUPSLB dan Respon Kabar Rencana Kepemilikan Saham Danantara - SuaraGarut.ID",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 15 Sep 2026 14:10:00 GMT",
       "link": "https://money.kompas.com/read/2026/09/15/211000226/proyek-lrt-city-bermasalah-bp-bumn-dan-adhi-karya-minta-maaf"
-    },
-    {
-      "title": "Bentrokan Setokok, DPR Minta Polisi Cegah Aksi Balasan dan Usut Tuntas - Jawa Pos",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Tue, 15 Sep 2026 14:01:56 GMT",
-      "link": "https://batampos.jawapos.com/batam/2609150036/bentrokan-setokok-dpr-minta-polisi-cegah-aksi-balasan-dan-usut-tuntas"
-    },
-    {
-      "title": "BP BUMN Minta Maaf Proyek LRT City Mangkrak - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 13:24:28 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8292439/bp-bumn-minta-maaf-proyek-lrt-city-mangkrak"
-    },
-    {
-      "title": "Bos BUMN Ungkap Dapat Rp456 M untuk Bangun 12 Titik LRT City - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 13:15:02 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260915191902-17-768199/bos-bumn-ungkap-dapat-rp456-m-untuk-bangun-12-titik-lrt-city"
-    },
-    {
-      "title": "BP BUMN dan Adhi Karya Minta Maaf Soal Proyek LRT City - SuaraGarut.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 12:46:28 GMT",
-      "link": "https://suaragarut.id/bp-bumn-adhi-karya-minta-maaf-lrt-city"
-    },
-    {
-      "title": "Wamenkop: KDKMP disiapkan jadi pusat distribusi produk perikanan - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 12:45:26 GMT",
-      "link": "https://www.antaranews.com/berita/5742460/wamenkop-kdkmp-disiapkan-jadi-pusat-distribusi-produk-perikanan"
-    },
-    {
-      "title": "BP BUMN dan Adhi Karya Minta Maaf ke Konsumen LRT City - finance.detik.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 12:39:37 GMT",
-      "link": "https://finance.detik.com/infrastruktur/d-8664377/bp-bumn-dan-adhi-karya-minta-maaf-ke-konsumen-lrt-city"
     }
   ]
 }
