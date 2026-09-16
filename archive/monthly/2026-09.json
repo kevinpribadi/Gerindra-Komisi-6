@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-16T01:04:45.365052",
+  "generated_at": "2026-09-16T07:12:11.356360",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 18,
     "PDI-P": 23,
-    "Golkar": 23,
-    "NasDem": 4,
-    "PKB": 23,
-    "PKS": 13,
+    "Golkar": 26,
+    "NasDem": 3,
+    "PKB": 19,
+    "PKS": 16,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 58,
-    "PDI-P": 62,
-    "Golkar": 87,
+    "Gerindra": 59,
+    "PDI-P": 63,
+    "Golkar": 89,
     "NasDem": 18,
     "PKB": 53,
-    "PKS": 51,
-    "PAN": 15,
+    "PKS": 54,
+    "PAN": 14,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 28,
-    "bumn": 50,
+    "bumn": 51,
+    "danantara": 27,
     "dividen": 6,
-    "koperasi": 56,
-    "investasi": 20,
+    "koperasi": 55,
+    "investasi": 18,
+    "perdagangan": 7,
     "impor": 4,
-    "perdagangan": 6,
-    "ekspor": 2,
-    "umkm": 17,
-    "kartel-monopoli": 14,
+    "ekspor": 1,
+    "umkm": 16,
+    "kartel-monopoli": 13,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 11,
+    "Kawendra Lukistian": 12,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 9,
@@ -58,15 +58,15 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 9,
+    "Ida Nurlaela": 10,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 5,
+    "Ahmad Labib": 6,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 3,
-    "Rizki Faisal": 11,
+    "Rizki Faisal": 12,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 4,
     "Asep Wahyuwijaya": 5,
@@ -74,128 +74,128 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 13,
-    "Amin Ak.": 16,
+    "Amin Ak.": 18,
     "Rizal Bawazier": 20,
-    "Ghufran": 5,
+    "Ghufran": 6,
     "Ismail": 10,
     "Eko Patrio": 2,
     "Nasril Bahar": 1,
-    "Iskandar": 12,
+    "Iskandar": 11,
     "Sartono": 4,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
-    "Koperasi/UMKM": 64,
-    "Perdagangan": 20,
-    "Hukum/Audit": 14,
+    "Kinerja BUMN": 20,
+    "Koperasi/UMKM": 63,
+    "Perdagangan": 18,
+    "Hukum/Audit": 17,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "80 Ribu KDMP Dibidik, Baru 24 Ribu Jadi: Barang Sudah Dibeli, Koperasi Belum Beroperasi - RanahRiau.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Perkuat Perlindungan Wisatawan dan Pariwisata Nasional, BPKN Dukung Asuransi Wajib Turis Asing - Mediakarya.id",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 00:33:00 GMT",
-      "link": "https://www.ranahriau.com/berita-28238-80-ribu-kdmp-dibidik-baru-24-ribu-jadi-barang-sudah-dibeli-koperasi-belum-beroperasi.html"
+      "published": "Wed, 16 Sep 2026 06:59:00 GMT",
+      "link": "https://www.mediakarya.id/perkuat-perlindungan-wisatawan-dan-pariwisata-nasional-bpkn-dukung-asuransi-wajib-turis-asing/"
     },
     {
-      "title": "BP BUMN Janji Tak Akan 'Cuci Tangan' soal Proyek LRT City - detikcom",
+      "title": "INKA Buka Suara usai BP BUMN Soroti Rugi Rp677 M hingga Utang Rp4,7 T - CNN Indonesia",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 00:09:41 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8664562/bp-bumn-janji-tak-akan-cuci-tangan-soal-proyek-lrt-city"
+      "published": "Wed, 16 Sep 2026 06:39:36 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260916131220-92-1404561/inka-buka-suara-usai-bp-bumn-soroti-rugi-rp677-m-hingga-utang-rp47-t"
     },
     {
-      "title": "Menkeu Suahasil Nazara Diminta Perkuat Kredibilitas Fiskal dan Jaga Kepercayaan Investor - Kedai Pena",
-      "entity": "Amin Ak.",
+      "title": "Kawendra Yakin Literasi adalah Kunci Agar Semakin Banyak yang Mendaftarkan Desain Produk - NusantaraTV",
+      "entity": "Kawendra Lukistian",
       "kind": "anggota",
-      "published": "Tue, 15 Sep 2026 23:38:20 GMT",
-      "link": "https://www.kedaipena.com/menkeu-suahasil-nazara-diminta-perkuat-kredibilitas-fiskal-dan-jaga-kepercayaan-investor/"
+      "published": "Wed, 16 Sep 2026 06:37:38 GMT",
+      "link": "https://www.nusantaratv.com/finance/kawendra-yakin-literasi-adalah-kunci-agar-semakin-banyak-yang-mendaftarkan-desain-produk"
     },
     {
-      "title": "OJK Ungkap Update Terbaru Aturan Demutualisasi BEI - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 23:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121633/ojk-ungkap-update-terbaru-aturan-demutualisasi-bei"
-    },
-    {
-      "title": "Amuk Bos Agrinas soal Kopdes: Kementerian Kerja Kalau Ada Duit - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 23:10:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121634/amuk-bos-agrinas-soal-kopdes-kementerian-kerja-kalau-ada-duit"
-    },
-    {
-      "title": "Menkop Ajak Mahasiswa Jadikan Koperasi Wadah Usaha Kolektif dan Inovasi Ekonomi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 21:02:46 GMT",
-      "link": "https://sumbar.antaranews.com/berita/778756/menkop-ajak-mahasiswa-jadikan-koperasi-wadah-usaha-kolektif-dan-inovasi-ekonomi"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 20:01:11 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260916/Mjc0NDQ0"
-    },
-    {
-      "title": "Menkop Ajak Mahasiswa Jadikan Koperasi sebagai Wadah Usaha Kolektif dan Inovasi Ekonomi - Media Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 17:36:11 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/933840/menkop-ajak-mahasiswa-jadikan-koperasi-sebagai-wadah-usaha-kolektif-dan-inovasi-ekonomi"
-    },
-    {
-      "title": "Kemenkop Sinergikan Koperasi dengan Kampung Nelayan Merah Putih - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 16:24:05 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tz1a6gk-kemenkop-sinergikan-koperasi-dengan-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "Bukan Sekadar Bangunan, 83 Ribu Koperasi Desa Kini Bergerak Cepat Menuju Operasional Penuh - Minangkabaunews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 15:47:40 GMT",
-      "link": "https://minangkabaunews.com/bukan-sekadar-bangunan-83-ribu-koperasi-desa-kini-bergerak-cepat-menuju-operasional-penuh/"
-    },
-    {
-      "title": "Indonesia-Bulgaria Perkuat Kemitraan Ekonomi, Bidik Peluang Pasar Eropa - vibizmedia.com",
+      "title": "Indonesia Mulai Atur Perdagangan Teknologi Strategis, Sektor Nuklir Jadi Prioritas - money.kompas.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 15:19:46 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/15/indonesia-bulgaria-perkuat-kemitraan-ekonomi-bidik-peluang-pasar-eropa/"
+      "published": "Wed, 16 Sep 2026 06:25:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/16/132528826/indonesia-mulai-atur-perdagangan-teknologi-strategis-sektor-nuklir-jadi"
     },
     {
-      "title": "Pembangunan LRT City Bakal Dilanjutkan - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "DPR Minta Menkeu Baru Pastikan Penyelesaian Kewajiban KCIC tak Bebani Fiskal - Media Indonesia",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Wed, 16 Sep 2026 06:18:07 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/933977/dpr-minta-menkeu-baru-pastikan-penyelesaian-kewajiban-kcic-tak-bebani-fiskal"
+    },
+    {
+      "title": "Mendag sebut sektor nuklir masuk pembahasan awal kerangka STM - ANTARA News Gorontalo",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 14:45:32 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8292475/pembangunan-lrt-city-bakal-dilanjutkan"
+      "published": "Wed, 16 Sep 2026 06:16:24 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/424495/mendag-sebut-sektor-nuklir-masuk-pembahasan-awal-kerangka-stm"
     },
     {
-      "title": "BEI Tunda RUPSLB dan Respon Kabar Rencana Kepemilikan Saham Danantara - SuaraGarut.ID",
+      "title": "Andre Rosiade Bantu Fatih, Balita 3,5 Tahun yang Berjuang Melawan Tumor Kepala - Posmetro Padang",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 16 Sep 2026 06:02:27 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-fatih-balita-35-tahun-yang-berjuang-melawan-tumor-kepala-434283/"
+    },
+    {
+      "title": "KPPU Sidangkan Dugaan Praktik Diskriminasi di Platform Jual Beli Mobil Digital - batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 05:30:13 GMT",
+      "link": "https://batamtoday.com/news/kppu-sidangkan-dugaan-praktik-diskriminasi-di-platform-jual-beli-mobil-digital"
+    },
+    {
+      "title": "Peraturan baru mengenai fungsi dan tugas Kantor Kementerian Perindustrian dan Perdagangan. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 05:21:04 GMT",
+      "link": "https://www.vietnam.vn/id/quy-dinh-moi-ve-chuc-nang-nhiem-vu-cua-van-phong-bo-cong-thuong"
+    },
+    {
+      "title": "Rencana Danantara Pegang 40% Saham BEI Picu Kekhawatiran Konflik Kepentingan - KONTAN",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 14:32:12 GMT",
-      "link": "https://suaragarut.id/bei-tunda-rupslb-danantara-buka-suara"
+      "published": "Wed, 16 Sep 2026 04:59:48 GMT",
+      "link": "https://insight.kontan.co.id/news/rencana-danantara-pegang-40-saham-bei-picu-kekhawatiran-konflik-kepentingan"
     },
     {
-      "title": "Proyek LRT City Bakal Diaudit, Aparat Penegak Hukum Dilibatkan - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Press Rilis Diskominfo Kabupaten Bogor - Portal Resmi Kabupaten Bogor",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 14:30:54 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8292473/proyek-lrt-city-bakal-diaudit-aparat-penegak-hukum-dilibatkan"
+      "published": "Wed, 16 Sep 2026 04:51:12 GMT",
+      "link": "https://bogorkab.go.id/berita/detail-berita/db83fe74-ed5c-4a3d-804e-5e7734cd2446"
     },
     {
-      "title": "Proyek LRT City Bermasalah, BP BUMN dan Adhi Karya Minta Maaf - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "8 Koperasi Merah Putih di Kendari siap beroperasi - ANTARA News Sultra",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 15 Sep 2026 14:10:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/15/211000226/proyek-lrt-city-bermasalah-bp-bumn-dan-adhi-karya-minta-maaf"
+      "published": "Wed, 16 Sep 2026 04:43:17 GMT",
+      "link": "https://sultra.antaranews.com/berita/541063/8-koperasi-merah-putih-di-kendari-siap-beroperasi"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 04:38:38 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
+    {
+      "title": "Untuk Apa BUMN Ada? - Kompas.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 04:00:07 GMT",
+      "link": "https://www.kompas.id/artikel/untuk-apa-bumn-ada"
+    },
+    {
+      "title": "Untuk Apa BUMN Ada? - Kompas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 04:00:07 GMT",
+      "link": "https://www.kompas.id/artikel/untuk-apa-bumn-ada"
     }
   ]
 }
