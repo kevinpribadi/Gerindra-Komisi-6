@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-16T17:57:15.622949",
+  "generated_at": "2026-09-16T21:01:08.264414",
   "party_counts_7d": {
     "Gerindra": 13,
-    "PDI-P": 24,
+    "PDI-P": 25,
     "Golkar": 27,
     "NasDem": 3,
     "PKB": 18,
@@ -12,7 +12,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 59,
-    "PDI-P": 64,
+    "PDI-P": 65,
     "Golkar": 91,
     "NasDem": 18,
     "PKB": 51,
@@ -58,7 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 11,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -87,11 +87,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 19,
     "Koperasi/UMKM": 64,
-    "Perdagangan": 15,
+    "Perdagangan": 16,
     "Hukum/Audit": 19,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Pemkab Bogor lakukan verifikasi kondisi Koperasi Merah Putih di lapangan - ANTARA News Megapolitan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 18:30:00 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/550371/pemkab-bogor-lakukan-verifikasi-kondisi-koperasi-merah-putih-di-lapangan"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 18:09:33 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260917/MTEyNg%3D%3D"
+    },
     {
       "title": "Prabowo Minta Danantara Bantu Jakarta - Epaper Media Indonesia",
       "entity": "Danantara",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 16 Sep 2026 11:37:00 GMT",
       "link": "https://www.jpnn.com/news/di-hadapan-prabowo-pramono-minta-danantara-bantu-biayai-lrt-jakarta-fase-selanjutnya"
-    },
-    {
-      "title": "Dikabarkan Mau Caplok 40,12 Persen Saham BEI, Begini Kata Danantara - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 11:08:53 GMT",
-      "link": "https://infobanknews.com/dikabarkan-mau-caplok-4012-persen-saham-bei-begini-kata-danantara"
-    },
-    {
-      "title": "Indonesia Butuhkan Manajemen Dagang Strategis untuk Perluas Ekspor - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 10:59:41 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260916/12/2004714/indonesia-butuhkan-manajemen-dagang-strategis-untuk-perluas-ekspor"
     }
   ]
 }
