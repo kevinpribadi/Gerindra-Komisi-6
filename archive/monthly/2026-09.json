@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-16T07:12:11.356360",
+  "generated_at": "2026-09-16T13:06:32.865222",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 23,
-    "Golkar": 26,
+    "Gerindra": 13,
+    "PDI-P": 24,
+    "Golkar": 25,
     "NasDem": 3,
     "PKB": 19,
     "PKS": 16,
@@ -12,11 +12,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 59,
-    "PDI-P": 63,
+    "PDI-P": 64,
     "Golkar": 89,
     "NasDem": 18,
-    "PKB": 53,
-    "PKS": 54,
+    "PKB": 51,
+    "PKS": 55,
     "PAN": 14,
     "Demokrat": 14
   },
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
+    "bumn": 50,
     "danantara": 27,
-    "dividen": 6,
-    "koperasi": 55,
-    "investasi": 18,
-    "perdagangan": 7,
-    "impor": 4,
+    "dividen": 5,
+    "koperasi": 57,
+    "investasi": 16,
+    "perdagangan": 10,
     "ekspor": 1,
+    "impor": 4,
     "umkm": 16,
-    "kartel-monopoli": 13,
+    "kartel-monopoli": 11,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 12,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
-    "Mufti Anam": 9,
+    "Mufti Anam": 10,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -73,8 +73,8 @@
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 13,
-    "Amin Ak.": 18,
+    "Nasim Khan": 11,
+    "Amin Ak.": 19,
     "Rizal Bawazier": 20,
     "Ghufran": 6,
     "Ismail": 10,
@@ -88,114 +88,114 @@
     "Kinerja BUMN": 20,
     "Koperasi/UMKM": 63,
     "Perdagangan": 18,
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 18,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Perkuat Perlindungan Wisatawan dan Pariwisata Nasional, BPKN Dukung Asuransi Wajib Turis Asing - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 06:59:00 GMT",
-      "link": "https://www.mediakarya.id/perkuat-perlindungan-wisatawan-dan-pariwisata-nasional-bpkn-dukung-asuransi-wajib-turis-asing/"
-    },
-    {
-      "title": "INKA Buka Suara usai BP BUMN Soroti Rugi Rp677 M hingga Utang Rp4,7 T - CNN Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 06:39:36 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260916131220-92-1404561/inka-buka-suara-usai-bp-bumn-soroti-rugi-rp677-m-hingga-utang-rp47-t"
-    },
-    {
-      "title": "Kawendra Yakin Literasi adalah Kunci Agar Semakin Banyak yang Mendaftarkan Desain Produk - NusantaraTV",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Wed, 16 Sep 2026 06:37:38 GMT",
-      "link": "https://www.nusantaratv.com/finance/kawendra-yakin-literasi-adalah-kunci-agar-semakin-banyak-yang-mendaftarkan-desain-produk"
-    },
-    {
-      "title": "Indonesia Mulai Atur Perdagangan Teknologi Strategis, Sektor Nuklir Jadi Prioritas - money.kompas.com",
+      "title": "Perkuat Keamanan Perdagangan, RI Mulai Bahas Sektor Nuklir Di STM - validnews.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 06:25:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/16/132528826/indonesia-mulai-atur-perdagangan-teknologi-strategis-sektor-nuklir-jadi"
+      "published": "Wed, 16 Sep 2026 13:03:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/09/16/perkuat-keamanan-perdagangan-ri-mulai-bahas-sektor-nuklir-di-stm-200300307"
     },
     {
-      "title": "DPR Minta Menkeu Baru Pastikan Penyelesaian Kewajiban KCIC tak Bebani Fiskal - Media Indonesia",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Wed, 16 Sep 2026 06:18:07 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/933977/dpr-minta-menkeu-baru-pastikan-penyelesaian-kewajiban-kcic-tak-bebani-fiskal"
+      "title": "Bangun LRT Masih Butuh Rp 2,7 T, DKI Buka Opsi Obligasi-Danantara - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 12:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121774/bangun-lrt-masih-butuh-rp-2-7-t-dki-buka-opsi-obligasi-danantara"
     },
     {
-      "title": "Mendag sebut sektor nuklir masuk pembahasan awal kerangka STM - ANTARA News Gorontalo",
+      "title": "Di Hadapan Prabowo, Pramono Minta Danantara Bantu Biayai LRT Jakarta Fase Selanjutnya - JPNN.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 11:37:00 GMT",
+      "link": "https://www.jpnn.com/news/di-hadapan-prabowo-pramono-minta-danantara-bantu-biayai-lrt-jakarta-fase-selanjutnya"
+    },
+    {
+      "title": "Dikabarkan Mau Caplok 40,12 Persen Saham BEI, Begini Kata Danantara - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 11:08:53 GMT",
+      "link": "https://infobanknews.com/dikabarkan-mau-caplok-4012-persen-saham-bei-begini-kata-danantara"
+    },
+    {
+      "title": "Indonesia Butuhkan Manajemen Dagang Strategis untuk Perluas Ekspor - Bisnis.com - Ekonomi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 06:16:24 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/424495/mendag-sebut-sektor-nuklir-masuk-pembahasan-awal-kerangka-stm"
+      "published": "Wed, 16 Sep 2026 10:59:41 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260916/12/2004714/indonesia-butuhkan-manajemen-dagang-strategis-untuk-perluas-ekspor"
     },
     {
-      "title": "Andre Rosiade Bantu Fatih, Balita 3,5 Tahun yang Berjuang Melawan Tumor Kepala - Posmetro Padang",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 16 Sep 2026 06:02:27 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-fatih-balita-35-tahun-yang-berjuang-melawan-tumor-kepala-434283/"
+      "title": "DPR Desak RUU Keuangan Negara Perjelas Status PMN, BUMN, dan Danantara - Ikatan Konsultan Pajak Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 10:45:46 GMT",
+      "link": "https://ikpi.or.id/articles/dpr-desak-ruu-keuangan-negara-perjelas-status-pmn-bumn-dan-danantara"
     },
     {
-      "title": "KPPU Sidangkan Dugaan Praktik Diskriminasi di Platform Jual Beli Mobil Digital - batamtoday.com",
+      "title": "KPPU Sidangkan Dugaan Tying LPG, Pangkalan Disebut Wajib Beli Bright Gas - Gerbang Kaltim",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 05:30:13 GMT",
-      "link": "https://batamtoday.com/news/kppu-sidangkan-dugaan-praktik-diskriminasi-di-platform-jual-beli-mobil-digital"
+      "published": "Wed, 16 Sep 2026 10:21:37 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-sidangkan-dugaan-tying-lpg-pangkalan-disebut-wajib-beli-bright-gas/"
     },
     {
-      "title": "Peraturan baru mengenai fungsi dan tugas Kantor Kementerian Perindustrian dan Perdagangan. - Vietnam.vn",
+      "title": "Kementerian Perdagangan dukung inisiatif ICE untuk perluas ekosistem perdagangan internasional - Traders Union",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 05:21:04 GMT",
-      "link": "https://www.vietnam.vn/id/quy-dinh-moi-ve-chuc-nang-nhiem-vu-cua-van-phong-bo-cong-thuong"
+      "published": "Wed, 16 Sep 2026 09:58:24 GMT",
+      "link": "https://tradersunion.com/ind/news/financial-news/show/3355164-kemendag-supports-ice-international-trade/"
     },
     {
-      "title": "Rencana Danantara Pegang 40% Saham BEI Picu Kekhawatiran Konflik Kepentingan - KONTAN",
-      "entity": "Danantara",
+      "title": "Sektor Nuklir Masuk Pembahasan Perdagangan Strategis Indonesia-AS - waspada.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:59:48 GMT",
-      "link": "https://insight.kontan.co.id/news/rencana-danantara-pegang-40-saham-bei-picu-kekhawatiran-konflik-kepentingan"
+      "published": "Wed, 16 Sep 2026 09:42:01 GMT",
+      "link": "https://www.waspada.id/berita/sektor-nuklir-masuk-pembahasan-perdagangan-strategis-indonesia-as"
     },
     {
-      "title": "Press Rilis Diskominfo Kabupaten Bogor - Portal Resmi Kabupaten Bogor",
+      "title": "Grease Shell Mulai Beroperasi - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 09:30:10 GMT",
+      "link": "https://www.niaga.asia/grease-shell-mulai-beroperasi/"
+    },
+    {
+      "title": "UPI Raih Penghargaan Niaga Werdhitama dari Kementerian Perdagangan RI - berita.upi.edu",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 16 Sep 2026 09:12:45 GMT",
+      "link": "https://berita.upi.edu/upi-raih-penghargaan-niaga-werdhitama-dari-kementerian-perdagangan-ri/"
+    },
+    {
+      "title": "Pemkab Pringsewu Gelar Lokakarya Fasilitasi Penguatan Jaringan Usaha Koperasi Merah Putih - media rakata",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:51:12 GMT",
-      "link": "https://bogorkab.go.id/berita/detail-berita/db83fe74-ed5c-4a3d-804e-5e7734cd2446"
+      "published": "Wed, 16 Sep 2026 08:56:29 GMT",
+      "link": "https://mediarakata.com/2026/09/16/pemkab-pringsewu-gelar-lokakarya-fasilitasi-penguatan-jaringan-usaha-koperasi-merah-putih/"
     },
     {
-      "title": "8 Koperasi Merah Putih di Kendari siap beroperasi - ANTARA News Sultra",
-      "entity": "Kementerian Koperasi",
+      "title": "INKA Respons Arahan BP BUMN, Percepat Pembenahan Menyeluruh - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:43:17 GMT",
-      "link": "https://sultra.antaranews.com/berita/541063/8-koperasi-merah-putih-di-kendari-siap-beroperasi"
+      "published": "Wed, 16 Sep 2026 08:32:05 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260916131253-17-768358/inka-respons-arahan-bp-bumn-percepat-pembenahan-menyeluruh"
     },
     {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:38:38 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+      "title": "Suahasil Gantikan Purbaya, Legislator PKS Amin Ak: Transisi Kemenkeu Harus Jaga Kepercayaan Pasar - Edisi - edisi.co.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Wed, 16 Sep 2026 08:08:00 GMT",
+      "link": "https://www.edisi.co.id/berita/amp/9717641338/suahasil-gantikan-purbaya-legislator-pks-amin-ak-transisi-kemenkeu-harus-jaga-kepercayaan-pasar"
     },
     {
-      "title": "Untuk Apa BUMN Ada? - Kompas.id",
-      "entity": "Kementerian BUMN",
+      "title": "Cokky Wijaya Garansi Kemudahan Izin Usaha dan Infrastruktur bagi Investor ICBC di FTZ Tanjungpinang - batamtv.com",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:00:07 GMT",
-      "link": "https://www.kompas.id/artikel/untuk-apa-bumn-ada"
-    },
-    {
-      "title": "Untuk Apa BUMN Ada? - Kompas.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 04:00:07 GMT",
-      "link": "https://www.kompas.id/artikel/untuk-apa-bumn-ada"
+      "published": "Wed, 16 Sep 2026 08:04:44 GMT",
+      "link": "https://batamtv.com/cokky-wijaya-garansi-kemudahan-izin-usaha-dan-infrastruktur-bagi-investor-icbc-di-ftz-tanjungpinang/"
     }
   ]
 }
