@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-17T19:31:37.311621",
+  "generated_at": "2026-09-17T22:38:52.017867",
   "party_counts_7d": {
-    "Gerindra": 14,
+    "Gerindra": 15,
     "PDI-P": 19,
     "Golkar": 28,
     "NasDem": 4,
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "danantara": 28,
+    "danantara": 27,
     "dividen": 6,
-    "koperasi": 55,
-    "investasi": 17,
+    "koperasi": 54,
+    "investasi": 16,
     "perdagangan": 8,
     "ekspor": 5,
     "impor": 3,
@@ -89,12 +89,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 19,
-    "Koperasi/UMKM": 61,
+    "Koperasi/UMKM": 60,
     "Perdagangan": 12,
-    "Konflik Publik": 9,
+    "Konflik Publik": 10,
     "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Usulan Tambahan Anggaran Kemenkop Rp4,53 Triliun Ditolak DPR, Ini Nilai yang Disetujui untuk 2027 - RCTI+",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 21:20:04 GMT",
+      "link": "https://m.rctiplus.com/news/detail/terkini/5475372/usulan-tambahan-anggaran-kemenkop-rp453-triliun-ditolak-dpr-ini-nilai-yang-disetujui-untuk-2027?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5475372"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -173,6 +180,13 @@
       "link": "https://money.kompas.com/read/2026/09/17/205025026/dpr-desak-kemenkop-selesaikan-kasus-gagal-bayar-ksp-mekarsari"
     },
     {
+      "title": "DPR Dorong RUU Pelindungan Ketenagakerjaan Bedakan Aturan Pekerja BUMN dan Awak Kapal - Liputan Jatim",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 13:39:13 GMT",
+      "link": "https://liputanjatim.com/berita/dpr-dorong-ruu-pelindungan-ketenagakerjaan-bedakan-aturan-pekerja-bumn-dan-awak-kapal"
+    },
+    {
       "title": "Turun Langsung dari Makassar, Capt. Unru Baso Janji Perjuangkan Kebutuhan Warga Pinrang ke DPR RI - KPK TIPIKOR NEWS",
       "entity": "Unru Baso",
       "kind": "anggota",
@@ -185,20 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 17 Sep 2026 13:32:02 GMT",
       "link": "https://www.antaranews.com/berita/5746219/kemenkop-modal-kerja-kdkmp-andalkan-penyertaan-dan-konsinyasi"
-    },
-    {
-      "title": "Anggaran Terbatas, Asep Wahyuwijaya Minta Kemenkop Perkuat Fungsi Regulator dan Pengawasan Koperasi - kedaipena.com",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 13:31:21 GMT",
-      "link": "https://www.kedaipena.com/anggaran-terbatas-asep-wahyuwijaya-minta-kemenkop-perkuat-fungsi-regulator-dan-pengawasan-koperasi/"
-    },
-    {
-      "title": "Mendag buka peluang ubah aturan \"e-commerce\" ikuti perkembangan - gorontalo.antaranews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 13:25:54 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/424707/mendag-buka-peluang-ubah-aturan-e-commerce-ikuti-perkembangan"
     }
   ]
 }
