@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-17T15:26:46.796834",
+  "generated_at": "2026-09-17T19:31:37.311621",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 19,
     "Golkar": 28,
     "NasDem": 4,
     "PKB": 18,
-    "PKS": 22,
+    "PKS": 24,
     "PAN": 1,
     "Demokrat": 1
   },
@@ -17,7 +17,7 @@
     "Golkar": 93,
     "NasDem": 18,
     "PKB": 51,
-    "PKS": 58,
+    "PKS": 60,
     "PAN": 14,
     "Demokrat": 14
   },
@@ -35,9 +35,9 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "danantara": 29,
+    "danantara": 28,
     "dividen": 6,
-    "koperasi": 57,
+    "koperasi": 55,
     "investasi": 17,
     "perdagangan": 8,
     "ekspor": 5,
@@ -80,7 +80,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 6,
-    "Ismail": 12,
+    "Ismail": 14,
     "Eko Patrio": 2,
     "Nasril Bahar": 2,
     "Iskandar": 10,
@@ -95,6 +95,41 @@
     "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 18:02:00 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260918/Mjc0NDQ0"
+    },
+    {
+      "title": "28.626 Manajer Koperasi Merah Putih Ditempatkan Pekan Depan, Gaji Segera Ditetapkan - VOI.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 16:30:00 GMT",
+      "link": "https://voi.id/ekonomi/594621/28-626-manajer-koperasi-merah-putih-ditempatkan-pekan-depan-gaji-segera-ditetapkan"
+    },
+    {
+      "title": "Anggaran Rp28,75 Miliar, BPKN Dorong Sengketa Konsumen Selesai Lebih Cepat Lewat ODR - realita.co",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 16:18:00 GMT",
+      "link": "https://realita.co/baca-51134-anggaran-rp2875-miliar-bpkn-dorong-sengketa-konsumen-selesai-lebih-cepat-lewat-odr"
+    },
+    {
+      "title": "Usulan untuk mentransfer EVN ke Kementerian Perindustrian dan Perdagangan. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 16:10:32 GMT",
+      "link": "https://www.vietnam.vn/id/de-xuat-chuyen-evn-ve-bo-cong-thuong"
+    },
+    {
+      "title": "28.626 Manajer KDKMP Tunggu Perpres - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 15:57:00 GMT",
+      "link": "https://rri.co.id/ekonomi/bisnis/2738693/28626-manajer-kdkmp-tunggu-perpres"
+    },
     {
       "title": "KPPU Makassar dan Pemkot Parepare Dorong Iklim Usaha Adil, Efisien, dan Kompetitif - Gosulsel.com",
       "entity": "KPPU",
@@ -131,6 +166,13 @@
       "link": "https://wartaekonomi.co.id/read635404/danantara-dorong-bio-farma-bawa-industri-kesehatan-ri-ke-pasar-global"
     },
     {
+      "title": "DPR Desak Kemenkop Selesaikan Kasus Gagal Bayar KSP Mekarsari - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 13:50:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/17/205025026/dpr-desak-kemenkop-selesaikan-kasus-gagal-bayar-ksp-mekarsari"
+    },
+    {
       "title": "Turun Langsung dari Makassar, Capt. Unru Baso Janji Perjuangkan Kebutuhan Warga Pinrang ke DPR RI - KPK TIPIKOR NEWS",
       "entity": "Unru Baso",
       "kind": "anggota",
@@ -157,48 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 17 Sep 2026 13:25:54 GMT",
       "link": "https://gorontalo.antaranews.com/berita/424707/mendag-buka-peluang-ubah-aturan-e-commerce-ikuti-perkembangan"
-    },
-    {
-      "title": "Koperasi Merah Putih Membuktikan Pemerintah Serius Menutup Kebocoran Subsidi - PT Suara Dewata Media",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 13:00:00 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217609/koperasi-merah-putih-membuktikan-pemerintah-serius-menutup-kebocoran-subsidi"
-    },
-    {
-      "title": "Menteri Koperasi Klaim Sudah Verval 7.028 Koperasi Desa - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 13:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121931/menteri-koperasi-klaim-sudah-verval-7-028-koperasi-desa"
-    },
-    {
-      "title": "KPPU Kanwil VII Gelar Bimtek Pengawasan Pengadaan Barang dan Jasa di DIY - wartajogja.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 12:44:00 GMT",
-      "link": "https://www.wartajogja.id/2026/09/kppu-kanwil-vii-gelar-bimtek-pengawasan.html"
-    },
-    {
-      "title": "BP BUMN Siapkan 5 Pilar Transformasi Perum: Tak Lagi Cari Keuntungan - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 12:29:40 GMT",
-      "link": "https://wartaekonomi.co.id/read635381/bp-bumn-siapkan-5-pilar-transformasi-perum-tak-lagi-cari-keuntungan"
-    },
-    {
-      "title": "Kopdes Merah Putih Segera Jalan, Menkop Ferry: Penempatan Manager Paling Lambat 25 September - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 12:04:00 GMT",
-      "link": "https://www.inilah.com/kopdes-merah-putih-segera-jalan-menkop-ferry-penempatan-manager-paling-lambat-25-september"
-    },
-    {
-      "title": "17.288 Koperasi Merah Putih Ditarget Kemenkop Mulai Beroperasi Awal Oktober - Suara Surabaya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 12:00:15 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/17-288-koperasi-merah-putih-ditarget-kemenkop-mulai-beroperasi-awal-oktober/"
     }
   ]
 }
