@@ -1,23 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-17T05:42:38.096363",
+  "generated_at": "2026-09-17T10:56:27.081538",
   "party_counts_7d": {
-    "Gerindra": 13,
-    "PDI-P": 24,
-    "Golkar": 27,
+    "Gerindra": 11,
+    "PDI-P": 22,
+    "Golkar": 28,
     "NasDem": 3,
     "PKB": 20,
-    "PKS": 20,
+    "PKS": 21,
+    "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 66,
-    "Golkar": 91,
+    "PDI-P": 65,
+    "Golkar": 92,
     "NasDem": 18,
     "PKB": 51,
     "PKS": 57,
-    "PAN": 14,
+    "PAN": 15,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -35,14 +36,14 @@
   "topic_counts_30d": {
     "bumn": 49,
     "danantara": 27,
-    "dividen": 5,
+    "dividen": 6,
     "koperasi": 57,
-    "investasi": 14,
-    "perdagangan": 11,
-    "ekspor": 4,
+    "investasi": 17,
+    "ekspor": 5,
+    "perdagangan": 8,
     "impor": 4,
-    "umkm": 15,
     "kartel-monopoli": 9,
+    "umkm": 12,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -57,12 +58,13 @@
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
-    "Sadarestuwati": 2,
+    "Sadarestuwati": 1,
     "Ida Nurlaela": 12,
-    "Budi Sulistyono": 3,
+    "Budi Sulistyono": 2,
+    "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 7,
+    "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 3,
@@ -79,123 +81,123 @@
     "Ghufran": 6,
     "Ismail": 11,
     "Eko Patrio": 2,
-    "Nasril Bahar": 1,
+    "Nasril Bahar": 2,
     "Iskandar": 11,
     "Sartono": 4,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 64,
-    "Perdagangan": 15,
-    "Hukum/Audit": 20,
-    "Konflik Publik": 8
+    "Kinerja BUMN": 20,
+    "Koperasi/UMKM": 62,
+    "Perdagangan": 14,
+    "Konflik Publik": 9,
+    "Hukum/Audit": 20
   },
   "top_headlines": [
     {
-      "title": "Danantara Buka-bukaan Rencana Kuasai 40 Persen Saham BEI, Tunggu Lampu Hijau OJK - KabarBursa.com",
-      "entity": "Danantara",
+      "title": "DPR Tolak Tambahan Anggaran Kementerian Koperasi Rp 4,53 Triliun pada 2027 - Kompas.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 05:06:00 GMT",
-      "link": "https://www.kabarbursa.com/market-hari-ini/danantara-buka-bukaan-rencana-kuasai-40-persen-saham-bei-tunggu-lampu-hijau-ojk"
+      "published": "Thu, 17 Sep 2026 10:51:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/17/175127726/dpr-tolak-tambahan-anggaran-kementerian-koperasi-rp-453-triliun-pada-2027"
     },
     {
-      "title": "Warga Pangandaran Patungan Perbaiki Jalan Rusak, Ida Nurlaela Turun Tangan Kirim Bantuan - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 05:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/warga-pangandaran-patungan-perbaiki-jalan-rusak-ida-nurlaela-turun-tangan-kirim-bantuan-b2qbjZbhV4"
+      "title": "Kemenkop menargetkan 17.288 KDKMP siap operasional Oktober 2026 - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 10:34:09 GMT",
+      "link": "https://www.antaranews.com/berita/5745775/kemenkop-menargetkan-17288-kdkmp-siap-operasional-oktober-2026"
     },
     {
-      "title": "Andre Rosiade Bantu Cleaning Service Lansia yang Kakinya Diamputasi akibat Diabetes, Kini Sulit Bekerja - Posmetro Padang",
+      "title": "Andre Rosiade Dorong Pembuatan Bypass Exit Tol Pasar Amor dengan Simpang Taluak - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 04:54:56 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-cleaning-service-lansia-yang-kakinya-diamputasi-akibat-diabetes-kini-sulit-bekerja-434406/"
+      "published": "Thu, 17 Sep 2026 10:25:45 GMT",
+      "link": "https://news.detik.com/berita/d-8667307/andre-rosiade-dorong-pembuatan-bypass-exit-tol-pasar-amor-dengan-simpang-taluak"
     },
     {
-      "title": "Mendag Minta Tambah Anggaran Rp 1,86 T buat Bangun-Revitalisasi 200 Pasar - finance.detik.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 04:44:02 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8666599/mendag-minta-tambah-anggaran-rp-1-86-t-buat-bangun-revitalisasi-200-pasar"
-    },
-    {
-      "title": "Danantara: PSEL Bogor Raya 1 bisa suplai energi hijau ke rumah warga - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 04:26:23 GMT",
-      "link": "https://www.antaranews.com/berita/5745125/danantara-psel-bogor-raya-1-bisa-suplai-energi-hijau-ke-rumah-warga"
-    },
-    {
-      "title": "Kemendag Usul Tambahan Anggaran jadi Rp1,86 Triliun pada 2027 - ekonomi.bisnis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 04:10:53 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260917/12/2004931/kemendag-usul-tambahan-anggaran-jadi-rp186-triliun-pada-2027"
-    },
-    {
-      "title": "Bertemu Menteri Perdagangan Internasional Kanada, Menko Airlangga Dorong Percepatan Implementasi ICA-CEPA - nasional.kompas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 03:56:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/09/17/10565131/bertemu-menteri-perdagangan-internasional-kanada-menkoairlangga-dorong"
-    },
-    {
-      "title": "Suahasil Bungkam, Setoran Rp120 Triliun Danantara Masih Menggantung - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 03:51:32 GMT",
-      "link": "https://nasional.kontan.co.id/news/suahasil-bungkam-setoran-rp120-triliun-danantara-masih-menggantung"
-    },
-    {
-      "title": "Fasilitas Dagang Berakhir 2027, Kemendag Dorong Percepatan I-UK CEPA - VOI.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 03:31:00 GMT",
-      "link": "https://voi.id/ekonomi/594481/fasilitas-dagang-berakhir-2027-kemendag-dorong-percepatan-uk-cepa"
-    },
-    {
-      "title": "Mendag Ungkap Strategi Indonesia Perkuat Kepercayaan Mitra Dagang dan Perluas Ekspor - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 03:25:14 GMT",
-      "link": "https://suarapemerintah.id/2026/09/mendag-ungkap-strategi-indonesia-perkuat-kepercayaan-mitra-dagang-dan-perluas-ekspor/"
-    },
-    {
-      "title": "Arief Poyuono: Danantara Harus Jadi Penopang Ekonomi dan Kesejahteraan Generasi Mendatang - VOI.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 03:20:00 GMT",
-      "link": "https://voi.id/berita/594476/arief-poyuono-danantara-harus-jadi-penopang-ekonomi-dan-kesejahteraan-generasi-mendatang"
-    },
-    {
-      "title": "KPPU Sidangkan Dugaan Diskriminasi Platform Jual Beli Mobil - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 02:58:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28137003/kppu-sidangkan-dugaan-diskriminasi-platform-jual-beli-mobil"
-    },
-    {
-      "title": "Tuntut Keadilan, Rieke Minta Komnas Perempuan dapat Anggaran Khusus - Kosadata",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Andre Rosiade Dialog Bareng Warga Bahas Tol Sicincin-Bukittinggi - detikNews",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 02:27:35 GMT",
-      "link": "https://kosadata.com/tuntut-keadilan-rieke-minta-komnas-perempuan-dapat-anggaran-khusus"
+      "published": "Thu, 17 Sep 2026 10:10:41 GMT",
+      "link": "https://news.detik.com/berita/d-8667272/andre-rosiade-dialog-bareng-warga-bahas-tol-sicincin-bukittinggi"
     },
     {
-      "title": "Hadir di Banjarnegara, Menteri Koperasi Ferry Juliantono Ajak Kaum SI Bangkitkan Ekonomi Umat - Joglo Jateng",
-      "entity": "Kementerian Koperasi",
+      "title": "Prabowo Beri Tugas Danantara Tarik Investasi dengan 3 Syarat Ini - metrotvnews.com",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 02:12:18 GMT",
-      "link": "https://joglojateng.com/2026/09/17/hadir-di-banjarnegara-menteri-koperasi-ferry-juliantono-ajak-kaum-si-bangkitkan-ekonomi-umat/"
+      "published": "Thu, 17 Sep 2026 10:10:05 GMT",
+      "link": "https://www.metrotvnews.com/read/N4ECoVaa-prabowo-beri-tugas-danantara-tarik-investasi-dengan-3-syarat-ini"
     },
     {
-      "title": "Baru 3 dari 24.000 Kopdes Diverifikasi, Belum Ada yang Siap - Bloomberg Technoz",
+      "title": "Dorong Akuntabilitas DTSEN, Wakil Ketua BAKN DPR Amin Ak Minta Kesalahan Dapat Ditelusuri dan Dikoreksi - Fraksi PKS",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 10:03:55 GMT",
+      "link": "https://fraksi.pks.id/2026/09/17/dorong-akuntabilitas-dtsen-wakil-ketua-bakn-dpr-amin-ak-minta-kesalahan-dapat-ditelusuri-dan-dikoreksi/"
+    },
+    {
+      "title": "Danantara bangun PSEL Bogor, investasi capai Rp2,8 triliun - IDNFinancials",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 10:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/68999/danantara-bangun-psel-bogor-investasi-capai-rp2-8-triliun"
+    },
+    {
+      "title": "Koperasi Desa Merah Putih Mulai Masuk Tahap Operasional dan Pemberdayaan Masyarakat - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 01:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121807/baru-3-dari-24-000-kopdes-diverifikasi-belum-ada-yang-siap"
+      "published": "Thu, 17 Sep 2026 09:56:00 GMT",
+      "link": "https://www.beritakoperasi.com/koperasi-desa-merah-putih-mulai-masuk-tahap-operasional-dan-pemberdayaan-masyarakat/"
+    },
+    {
+      "title": "Kemendag Ajukan Tambahan Anggaran Rp1,86 Triliun, Buat Apa? - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:51:11 GMT",
+      "link": "https://infobanknews.com/kemendag-ajukan-tambahan-anggaran-rp186-triliun-buat-apa"
+    },
+    {
+      "title": "Koperasi Merah Putih Bantu Subsidi Lebih Tepat Sasaran - Minews ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:43:42 GMT",
+      "link": "https://minews.id/news/koperasi-merah-putih-bantu-subsidi-lebih-tepat-sasaran"
+    },
+    {
+      "title": "Baru 3 dari 24.000 Kopdes Diverifikasi, Belum Ada yang Siap - Sektor Riil - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:35:43 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121807/baru-3-dari-24-000-kopdes-diverifikasi-belum-ada-yang-siap/2"
+    },
+    {
+      "title": "SK Manajer Koperasi Desa Merah Putih Terbit Dua Hari Lagi - SuaraGarut.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:33:28 GMT",
+      "link": "https://suaragarut.id/sk-manajer-koperasi-desa-terbit"
+    },
+    {
+      "title": "Anggaran Rp 28,75 Miliar, BPKN Dorong Penyelesaian Sengketa Konsumen Lebih Cepat - Kompas.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:20:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/17/162049726/anggaran-rp-2875-miliar-bpkn-dorong-penyelesaian-sengketa-konsumen-lebih-cepat"
+    },
+    {
+      "title": "BPKN Soroti Celah Perlindungan Konsumen di Program MBG - suara.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 09:04:07 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/17/160407/bpkn-soroti-celah-perlindungan-konsumen-di-program-mbg"
+    },
+    {
+      "title": "420 Aduan Masuk ke BPKN, Total Kerugian Konsumen Rp 30,89 M - finance.detik.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 08:49:30 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8667124/420-aduan-masuk-ke-bpkn-total-kerugian-konsumen-rp-30-89-m"
     }
   ]
 }
