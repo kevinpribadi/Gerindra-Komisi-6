@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-17T10:56:27.081538",
+  "generated_at": "2026-09-17T15:26:46.796834",
   "party_counts_7d": {
-    "Gerindra": 11,
-    "PDI-P": 22,
+    "Gerindra": 14,
+    "PDI-P": 19,
     "Golkar": 28,
-    "NasDem": 3,
-    "PKB": 20,
-    "PKS": 21,
+    "NasDem": 4,
+    "PKB": 18,
+    "PKS": 22,
     "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 65,
-    "Golkar": 92,
+    "Golkar": 93,
     "NasDem": 18,
     "PKB": 51,
-    "PKS": 57,
-    "PAN": 15,
+    "PKS": 58,
+    "PAN": 14,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 27,
+    "bumn": 48,
+    "danantara": 29,
     "dividen": 6,
     "koperasi": 57,
     "investasi": 17,
-    "ekspor": 5,
     "perdagangan": 8,
-    "impor": 4,
+    "ekspor": 5,
+    "impor": 3,
     "kartel-monopoli": 9,
     "umkm": 12,
     "ipo": 2
@@ -52,6 +52,7 @@
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 13,
+    "Unru Baso": 1,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 10,
@@ -67,11 +68,11 @@
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
-    "Firnando Hadityo Ganinduto": 3,
+    "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 20,
-    "Rachmat Gobel": 4,
-    "Asep Wahyuwijaya": 5,
+    "Rachmat Gobel": 3,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -79,125 +80,125 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 6,
-    "Ismail": 11,
+    "Ismail": 12,
     "Eko Patrio": 2,
     "Nasril Bahar": 2,
-    "Iskandar": 11,
+    "Iskandar": 10,
     "Sartono": 4,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
-    "Koperasi/UMKM": 62,
-    "Perdagangan": 14,
+    "Kinerja BUMN": 19,
+    "Koperasi/UMKM": 61,
+    "Perdagangan": 12,
     "Konflik Publik": 9,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 21
   },
   "top_headlines": [
     {
-      "title": "DPR Tolak Tambahan Anggaran Kementerian Koperasi Rp 4,53 Triliun pada 2027 - Kompas.com",
-      "entity": "Kementerian Koperasi",
+      "title": "KPPU Makassar dan Pemkot Parepare Dorong Iklim Usaha Adil, Efisien, dan Kompetitif - Gosulsel.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 10:51:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/17/175127726/dpr-tolak-tambahan-anggaran-kementerian-koperasi-rp-453-triliun-pada-2027"
+      "published": "Thu, 17 Sep 2026 15:16:00 GMT",
+      "link": "https://gosulsel.com/09/2026/kppu-makassar-dan-pemkot-parepare-dorong-iklim-usaha-adil-efisien-dan-kompetitif/"
     },
     {
-      "title": "Kemenkop menargetkan 17.288 KDKMP siap operasional Oktober 2026 - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 10:34:09 GMT",
-      "link": "https://www.antaranews.com/berita/5745775/kemenkop-menargetkan-17288-kdkmp-siap-operasional-oktober-2026"
-    },
-    {
-      "title": "Andre Rosiade Dorong Pembuatan Bypass Exit Tol Pasar Amor dengan Simpang Taluak - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 10:25:45 GMT",
-      "link": "https://news.detik.com/berita/d-8667307/andre-rosiade-dorong-pembuatan-bypass-exit-tol-pasar-amor-dengan-simpang-taluak"
-    },
-    {
-      "title": "Andre Rosiade Dialog Bareng Warga Bahas Tol Sicincin-Bukittinggi - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 10:10:41 GMT",
-      "link": "https://news.detik.com/berita/d-8667272/andre-rosiade-dialog-bareng-warga-bahas-tol-sicincin-bukittinggi"
-    },
-    {
-      "title": "Prabowo Beri Tugas Danantara Tarik Investasi dengan 3 Syarat Ini - metrotvnews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 10:10:05 GMT",
-      "link": "https://www.metrotvnews.com/read/N4ECoVaa-prabowo-beri-tugas-danantara-tarik-investasi-dengan-3-syarat-ini"
-    },
-    {
-      "title": "Dorong Akuntabilitas DTSEN, Wakil Ketua BAKN DPR Amin Ak Minta Kesalahan Dapat Ditelusuri dan Dikoreksi - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 17 Sep 2026 10:03:55 GMT",
-      "link": "https://fraksi.pks.id/2026/09/17/dorong-akuntabilitas-dtsen-wakil-ketua-bakn-dpr-amin-ak-minta-kesalahan-dapat-ditelusuri-dan-dikoreksi/"
-    },
-    {
-      "title": "Danantara bangun PSEL Bogor, investasi capai Rp2,8 triliun - IDNFinancials",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 10:00:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/68999/danantara-bangun-psel-bogor-investasi-capai-rp2-8-triliun"
-    },
-    {
-      "title": "Koperasi Desa Merah Putih Mulai Masuk Tahap Operasional dan Pemberdayaan Masyarakat - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:56:00 GMT",
-      "link": "https://www.beritakoperasi.com/koperasi-desa-merah-putih-mulai-masuk-tahap-operasional-dan-pemberdayaan-masyarakat/"
-    },
-    {
-      "title": "Kemendag Ajukan Tambahan Anggaran Rp1,86 Triliun, Buat Apa? - Infobanknews",
+      "title": "RUU Komoditas Strategis Perlu Fleksibel, Pemerintah Tekankan Keseimbangan Pasokan dan Perdagangan - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:51:11 GMT",
-      "link": "https://infobanknews.com/kemendag-ajukan-tambahan-anggaran-rp186-triliun-buat-apa"
+      "published": "Thu, 17 Sep 2026 14:36:27 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/09/17/ruu-komoditas-strategis-perlu-fleksibel-pemerintah-tekankan-keseimbangan-pasokan-dan-perdagangan/"
     },
     {
-      "title": "Koperasi Merah Putih Bantu Subsidi Lebih Tepat Sasaran - Minews ID",
+      "title": "Kemenkop Harus Perkuat Fungsi Pengawasan dan Penjamin Mutu Koperasi - Partai NasDem",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:43:42 GMT",
-      "link": "https://minews.id/news/koperasi-merah-putih-bantu-subsidi-lebih-tepat-sasaran"
+      "published": "Thu, 17 Sep 2026 14:35:25 GMT",
+      "link": "https://partainasdem.id/2026/09/17/kemenkop-harus-perkuat-fungsi-pengawasan-dan-penjamin-mutu-koperasi/"
     },
     {
-      "title": "Baru 3 dari 24.000 Kopdes Diverifikasi, Belum Ada yang Siap - Sektor Riil - Bloomberg Technoz",
+      "title": "Pengamat Sebut Seharusnya Danantara Setor Sebagian Laba ke Kas Negara, Ini Alasannya - kedaipena.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 14:31:45 GMT",
+      "link": "https://www.kedaipena.com/pengamat-sebut-seharusnya-danantara-setor-sebagian-laba-ke-kas-negara-ini-alasannya/"
+    },
+    {
+      "title": "Danantara Dorong Bio Farma Bawa Industri Kesehatan RI ke Pasar Global - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 14:17:00 GMT",
+      "link": "https://wartaekonomi.co.id/read635404/danantara-dorong-bio-farma-bawa-industri-kesehatan-ri-ke-pasar-global"
+    },
+    {
+      "title": "Turun Langsung dari Makassar, Capt. Unru Baso Janji Perjuangkan Kebutuhan Warga Pinrang ke DPR RI - KPK TIPIKOR NEWS",
+      "entity": "Unru Baso",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 13:35:16 GMT",
+      "link": "https://perskpknews.com/2026/09/17/turun-langsung-dari-makassar-capt-unru-baso-janji-perjuangkan-kebutuhan-warga-pinrang-ke-dpr-ri/"
+    },
+    {
+      "title": "Kemenkop: Modal kerja KDKMP andalkan penyertaan dan konsinyasi - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:35:43 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121807/baru-3-dari-24-000-kopdes-diverifikasi-belum-ada-yang-siap/2"
+      "published": "Thu, 17 Sep 2026 13:32:02 GMT",
+      "link": "https://www.antaranews.com/berita/5746219/kemenkop-modal-kerja-kdkmp-andalkan-penyertaan-dan-konsinyasi"
     },
     {
-      "title": "SK Manajer Koperasi Desa Merah Putih Terbit Dua Hari Lagi - SuaraGarut.ID",
+      "title": "Anggaran Terbatas, Asep Wahyuwijaya Minta Kemenkop Perkuat Fungsi Regulator dan Pengawasan Koperasi - kedaipena.com",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 13:31:21 GMT",
+      "link": "https://www.kedaipena.com/anggaran-terbatas-asep-wahyuwijaya-minta-kemenkop-perkuat-fungsi-regulator-dan-pengawasan-koperasi/"
+    },
+    {
+      "title": "Mendag buka peluang ubah aturan \"e-commerce\" ikuti perkembangan - gorontalo.antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 13:25:54 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/424707/mendag-buka-peluang-ubah-aturan-e-commerce-ikuti-perkembangan"
+    },
+    {
+      "title": "Koperasi Merah Putih Membuktikan Pemerintah Serius Menutup Kebocoran Subsidi - PT Suara Dewata Media",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:33:28 GMT",
-      "link": "https://suaragarut.id/sk-manajer-koperasi-desa-terbit"
+      "published": "Thu, 17 Sep 2026 13:00:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217609/koperasi-merah-putih-membuktikan-pemerintah-serius-menutup-kebocoran-subsidi"
     },
     {
-      "title": "Anggaran Rp 28,75 Miliar, BPKN Dorong Penyelesaian Sengketa Konsumen Lebih Cepat - Kompas.com",
-      "entity": "BPKN",
+      "title": "Menteri Koperasi Klaim Sudah Verval 7.028 Koperasi Desa - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:20:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/17/162049726/anggaran-rp-2875-miliar-bpkn-dorong-penyelesaian-sengketa-konsumen-lebih-cepat"
+      "published": "Thu, 17 Sep 2026 13:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121931/menteri-koperasi-klaim-sudah-verval-7-028-koperasi-desa"
     },
     {
-      "title": "BPKN Soroti Celah Perlindungan Konsumen di Program MBG - suara.com",
-      "entity": "BPKN",
+      "title": "KPPU Kanwil VII Gelar Bimtek Pengawasan Pengadaan Barang dan Jasa di DIY - wartajogja.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 09:04:07 GMT",
-      "link": "https://www.suara.com/bisnis/2026/09/17/160407/bpkn-soroti-celah-perlindungan-konsumen-di-program-mbg"
+      "published": "Thu, 17 Sep 2026 12:44:00 GMT",
+      "link": "https://www.wartajogja.id/2026/09/kppu-kanwil-vii-gelar-bimtek-pengawasan.html"
     },
     {
-      "title": "420 Aduan Masuk ke BPKN, Total Kerugian Konsumen Rp 30,89 M - finance.detik.com",
-      "entity": "BPKN",
+      "title": "BP BUMN Siapkan 5 Pilar Transformasi Perum: Tak Lagi Cari Keuntungan - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 08:49:30 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8667124/420-aduan-masuk-ke-bpkn-total-kerugian-konsumen-rp-30-89-m"
+      "published": "Thu, 17 Sep 2026 12:29:40 GMT",
+      "link": "https://wartaekonomi.co.id/read635381/bp-bumn-siapkan-5-pilar-transformasi-perum-tak-lagi-cari-keuntungan"
+    },
+    {
+      "title": "Kopdes Merah Putih Segera Jalan, Menkop Ferry: Penempatan Manager Paling Lambat 25 September - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 12:04:00 GMT",
+      "link": "https://www.inilah.com/kopdes-merah-putih-segera-jalan-menkop-ferry-penempatan-manager-paling-lambat-25-september"
+    },
+    {
+      "title": "17.288 Koperasi Merah Putih Ditarget Kemenkop Mulai Beroperasi Awal Oktober - Suara Surabaya",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 12:00:15 GMT",
+      "link": "https://www.suarasurabaya.net/kelanakota/2026/17-288-koperasi-merah-putih-ditarget-kemenkop-mulai-beroperasi-awal-oktober/"
     }
   ]
 }
