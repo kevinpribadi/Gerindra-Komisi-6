@@ -1,18 +1,18 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-17T00:03:56.607685",
+  "generated_at": "2026-09-17T05:42:38.096363",
   "party_counts_7d": {
     "Gerindra": 13,
-    "PDI-P": 25,
+    "PDI-P": 24,
     "Golkar": 27,
     "NasDem": 3,
-    "PKB": 18,
-    "PKS": 18,
+    "PKB": 20,
+    "PKS": 20,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 59,
-    "PDI-P": 65,
+    "Gerindra": 60,
+    "PDI-P": 66,
     "Golkar": 91,
     "NasDem": 18,
     "PKB": 51,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "danantara": 26,
-    "dividen": 6,
+    "bumn": 49,
+    "danantara": 27,
+    "dividen": 5,
     "koperasi": 57,
-    "investasi": 15,
-    "ekspor": 3,
-    "impor": 5,
-    "perdagangan": 12,
-    "umkm": 17,
-    "kartel-monopoli": 10,
+    "investasi": 14,
+    "perdagangan": 11,
+    "ekspor": 4,
+    "impor": 4,
+    "umkm": 15,
+    "kartel-monopoli": 9,
     "ipo": 2
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 13,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 10,
@@ -58,7 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 11,
+    "Ida Nurlaela": 12,
     "Budi Sulistyono": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 15,
@@ -85,117 +85,117 @@
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
-    "Koperasi/UMKM": 65,
-    "Perdagangan": 16,
-    "Hukum/Audit": 19,
-    "Konflik Publik": 7
+    "Kinerja BUMN": 16,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 15,
+    "Hukum/Audit": 20,
+    "Konflik Publik": 8
   },
   "top_headlines": [
     {
-      "title": "Dividen Rp120 Triliun Dipertanyakan, Rosan Akan Bahas dengan Suahasil - Bisnis.com - Ekonomi",
+      "title": "Danantara Buka-bukaan Rencana Kuasai 40 Persen Saham BEI, Tunggu Lampu Hijau OJK - KabarBursa.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 23:45:36 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260917/9/2004857/dividen-rp120-triliun-dipertanyakan-rosan-akan-bahas-dengan-suahasil"
+      "published": "Thu, 17 Sep 2026 05:06:00 GMT",
+      "link": "https://www.kabarbursa.com/market-hari-ini/danantara-buka-bukaan-rencana-kuasai-40-persen-saham-bei-tunggu-lampu-hijau-ojk"
     },
     {
-      "title": "BP BUMN mendukung Bio Farma perluas pasar global - ANTARA News Mataram",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 23:03:58 GMT",
-      "link": "https://mataram.antaranews.com/berita/571405/bp-bumn-mendukung-bio-farma-perluas-pasar-global"
+      "title": "Warga Pangandaran Patungan Perbaiki Jalan Rusak, Ida Nurlaela Turun Tangan Kirim Bantuan - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 05:00:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/warga-pangandaran-patungan-perbaiki-jalan-rusak-ida-nurlaela-turun-tangan-kirim-bantuan-b2qbjZbhV4"
     },
     {
-      "title": "Danantara mendorong Sarinah jaga keberlanjutan produk lokal Indonesia - ANTARA News Mataram",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 22:54:48 GMT",
-      "link": "https://mataram.antaranews.com/berita/571395/danantara-mendorong-sarinah-jaga-keberlanjutan-produk-lokal-indonesia"
+      "title": "Andre Rosiade Bantu Cleaning Service Lansia yang Kakinya Diamputasi akibat Diabetes, Kini Sulit Bekerja - Posmetro Padang",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 04:54:56 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-cleaning-service-lansia-yang-kakinya-diamputasi-akibat-diabetes-kini-sulit-bekerja-434406/"
     },
     {
-      "title": "Menjawab Dinamika Perdagangan Dunia, BINUS @Bekasi Hadirkan Program S1 Global Trade Management Gandeng Kementerian Perdagangan dan Praktisi Ekspor-Impor dalam Peluncuran Program Baru - Industry.co.id",
+      "title": "Mendag Minta Tambah Anggaran Rp 1,86 T buat Bangun-Revitalisasi 200 Pasar - finance.detik.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 22:29:00 GMT",
-      "link": "https://www.industry.co.id/read/156065/menjawab-dinamika-perdagangan-dunia-binus-bekasi-hadirkan-program-s1-global-trade-management-gandeng-kementerian-perdagangan-dan-praktisi-ekspor-impor-dalam-peluncuran-program-baru"
+      "published": "Thu, 17 Sep 2026 04:44:02 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8666599/mendag-minta-tambah-anggaran-rp-1-86-t-buat-bangun-revitalisasi-200-pasar"
     },
     {
-      "title": "Pemkab Bogor lakukan verifikasi kondisi Koperasi Merah Putih di lapangan - ANTARA News Megapolitan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 18:30:00 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/550371/pemkab-bogor-lakukan-verifikasi-kondisi-koperasi-merah-putih-di-lapangan"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 18:09:33 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260917/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Prabowo Minta Danantara Bantu Jakarta - Epaper Media Indonesia",
+      "title": "Danantara: PSEL Bogor Raya 1 bisa suplai energi hijau ke rumah warga - ANTARA News",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
-      "link": "https://epaper.mediaindonesia.com/detail/prabowo-minta-danantara-bantu-jakarta"
+      "published": "Thu, 17 Sep 2026 04:26:23 GMT",
+      "link": "https://www.antaranews.com/berita/5745125/danantara-psel-bogor-raya-1-bisa-suplai-energi-hijau-ke-rumah-warga"
     },
     {
-      "title": "BP BUMN dukung Bio Farma perluas pasar global - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 16:53:04 GMT",
-      "link": "https://www.antaranews.com/berita/5744801/bp-bumn-dukung-bio-farma-perluas-pasar-global"
-    },
-    {
-      "title": "Perdagangan Global Bergerak, Apa yang Harus Disiapkan Indonesia? - Beritakota",
+      "title": "Kemendag Usul Tambahan Anggaran jadi Rp1,86 Triliun pada 2027 - ekonomi.bisnis.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 16:53:00 GMT",
-      "link": "https://beritakota.id/perdagangan-global-bergerak-apa-yang-harus-disiapkan-indonesia/"
+      "published": "Thu, 17 Sep 2026 04:10:53 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260917/12/2004931/kemendag-usul-tambahan-anggaran-jadi-rp186-triliun-pada-2027"
     },
     {
-      "title": "Strategic Trade Management Buka Peluang Produk Indonesia Tembus Pasar Global - vibizmedia.com",
+      "title": "Bertemu Menteri Perdagangan Internasional Kanada, Menko Airlangga Dorong Percepatan Implementasi ICA-CEPA - nasional.kompas.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 16:05:36 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/16/strategic-trade-management-buka-peluang-produk-indonesia-tembus-pasar-global/"
+      "published": "Thu, 17 Sep 2026 03:56:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/09/17/10565131/bertemu-menteri-perdagangan-internasional-kanada-menkoairlangga-dorong"
     },
     {
-      "title": "Dekopin Sumbar Gagas Koperasi Olahraga, Sasar Atlet hingga Pelatih - Langgam.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 14:38:00 GMT",
-      "link": "https://langgam.id/dekopin-sumbar-gagas-koperasi-olahraga-sasar-atlet-hingga-pelatih/"
-    },
-    {
-      "title": "Kejelasan Dividen Danantara Rp 120 Triliun Masih Menunggu Diskusi - SuaraGarut.ID",
+      "title": "Suahasil Bungkam, Setoran Rp120 Triliun Danantara Masih Menggantung - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 14:01:14 GMT",
-      "link": "https://suaragarut.id/kejelasan-dividen-danantara-masih-menunggu-diskusi"
+      "published": "Thu, 17 Sep 2026 03:51:32 GMT",
+      "link": "https://nasional.kontan.co.id/news/suahasil-bungkam-setoran-rp120-triliun-danantara-masih-menggantung"
     },
     {
-      "title": "Soal Setoran Dividen Rp 120 Triliun, Bos Danantara Mau Bertemu Menkeu Baru - finance.detik.com",
+      "title": "Fasilitas Dagang Berakhir 2027, Kemendag Dorong Percepatan I-UK CEPA - VOI.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 03:31:00 GMT",
+      "link": "https://voi.id/ekonomi/594481/fasilitas-dagang-berakhir-2027-kemendag-dorong-percepatan-uk-cepa"
+    },
+    {
+      "title": "Mendag Ungkap Strategi Indonesia Perkuat Kepercayaan Mitra Dagang dan Perluas Ekspor - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 03:25:14 GMT",
+      "link": "https://suarapemerintah.id/2026/09/mendag-ungkap-strategi-indonesia-perkuat-kepercayaan-mitra-dagang-dan-perluas-ekspor/"
+    },
+    {
+      "title": "Arief Poyuono: Danantara Harus Jadi Penopang Ekonomi dan Kesejahteraan Generasi Mendatang - VOI.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 13:58:52 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8666025/soal-setoran-dividen-rp-120-triliun-bos-danantara-mau-bertemu-menkeu-baru"
+      "published": "Thu, 17 Sep 2026 03:20:00 GMT",
+      "link": "https://voi.id/berita/594476/arief-poyuono-danantara-harus-jadi-penopang-ekonomi-dan-kesejahteraan-generasi-mendatang"
     },
     {
-      "title": "KPPU Turun di Bengkulu, UMKM Dibentengi dari Monopoli dan Persaingan Usaha Tak Sehat - Info Negeri",
+      "title": "KPPU Sidangkan Dugaan Diskriminasi Platform Jual Beli Mobil - kabarbisnis.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 13:51:26 GMT",
-      "link": "https://infonegeri.id/2026/09/16/kppu-turun-di-bengkulu-umkm-dibentengi-dari-monopoli-dan-persaingan-usaha-tak-sehat/"
+      "published": "Thu, 17 Sep 2026 02:58:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28137003/kppu-sidangkan-dugaan-diskriminasi-platform-jual-beli-mobil"
     },
     {
-      "title": "BPKN dukung wacana kewajiban asuransi perjalanan wisman di Indonesia - ANTARA News",
-      "entity": "BPKN",
+      "title": "Tuntut Keadilan, Rieke Minta Komnas Perempuan dapat Anggaran Khusus - Kosadata",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 17 Sep 2026 02:27:35 GMT",
+      "link": "https://kosadata.com/tuntut-keadilan-rieke-minta-komnas-perempuan-dapat-anggaran-khusus"
+    },
+    {
+      "title": "Hadir di Banjarnegara, Menteri Koperasi Ferry Juliantono Ajak Kaum SI Bangkitkan Ekonomi Umat - Joglo Jateng",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 16 Sep 2026 13:11:51 GMT",
-      "link": "https://www.antaranews.com/berita/5744437/bpkn-dukung-wacana-kewajiban-asuransi-perjalanan-wisman-di-indonesia"
+      "published": "Thu, 17 Sep 2026 02:12:18 GMT",
+      "link": "https://joglojateng.com/2026/09/17/hadir-di-banjarnegara-menteri-koperasi-ferry-juliantono-ajak-kaum-si-bangkitkan-ekonomi-umat/"
+    },
+    {
+      "title": "Baru 3 dari 24.000 Kopdes Diverifikasi, Belum Ada yang Siap - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 17 Sep 2026 01:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/121807/baru-3-dari-24-000-kopdes-diverifikasi-belum-ada-yang-siap"
     }
   ]
 }
