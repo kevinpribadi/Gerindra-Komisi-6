@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T21:24:33.788874",
+  "generated_at": "2026-09-18T23:52:08.170427",
   "party_counts_7d": {
     "Gerindra": 22,
     "PDI-P": 13,
-    "Golkar": 31,
+    "Golkar": 30,
     "NasDem": 5,
     "PKB": 18,
     "PKS": 31,
@@ -41,7 +41,7 @@
     "investasi": 18,
     "perdagangan": 8,
     "ekspor": 1,
-    "umkm": 14,
+    "umkm": 15,
     "kartel-monopoli": 12,
     "impor": 2,
     "ipo": 1
@@ -88,13 +88,27 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 21,
+    "Kinerja BUMN": 22,
     "Koperasi/UMKM": 62,
     "Perdagangan": 9,
-    "Hukum/Audit": 23,
+    "Hukum/Audit": 22,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "BP Batam dan Pertamina Patra Niaga Perkuat Layanan Energi Penerbangan Bandara Internasional Hang Nadim - BP Batam",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 23:25:35 GMT",
+      "link": "https://bpbatam.go.id/bp-batam-dan-pertamina-patra-niaga-perkuat-layanan-energi-penerbangan-bandara-internasional-hang-nadim/"
+    },
+    {
+      "title": "Pemda Diminta Kurasi UMKM untuk Bentuk Koperasi - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 22:14:00 GMT",
+      "link": "https://www.beritakoperasi.com/pemda-diminta-kurasi-umkm-untuk-bentuk-koperasi/"
+    },
     {
       "title": "KDKMP Digenjot, Komisi VI DPR Ingatkan Risiko Tata Kelola dan Pengawasan - Liputan Jatim",
       "entity": "Kementerian Koperasi",
@@ -185,20 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 18 Sep 2026 13:42:00 GMT",
       "link": "https://investortrust.id/business/116771/bpk-mulai-audit-laporan-keuangan-konsolidasian-bpi-danantara-tahun-2025"
-    },
-    {
-      "title": "Menkop minta pemda kurasi UMKM untuk bentuk koperasi - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 13:33:19 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/424921/menkop-minta-pemda-kurasi-umkm-untuk-bentuk-koperasi"
-    },
-    {
-      "title": "Kemenkop Gandeng Muhammadiyah Kembangkan Koperasi Masjid di Indonesia - suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 13:03:23 GMT",
-      "link": "https://www.suaralandak.co.id/kemenkop-gandeng-muhammadiyah-kembangkan-koperasi-masjid"
     }
   ]
 }
