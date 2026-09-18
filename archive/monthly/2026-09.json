@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T00:59:59.381369",
+  "generated_at": "2026-09-18T05:47:16.484418",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 19,
+    "Gerindra": 14,
+    "PDI-P": 17,
     "Golkar": 28,
     "NasDem": 4,
-    "PKB": 19,
+    "PKB": 18,
     "PKS": 24,
-    "PAN": 1,
-    "Demokrat": 1
+    "PAN": 2,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 65,
-    "Golkar": 93,
+    "Golkar": 91,
     "NasDem": 18,
     "PKB": 51,
     "PKS": 60,
     "PAN": 14,
-    "Demokrat": 14
+    "Demokrat": 15
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "danantara": 27,
-    "dividen": 6,
-    "koperasi": 55,
+    "bumn": 49,
+    "danantara": 24,
+    "dividen": 7,
+    "koperasi": 56,
     "investasi": 16,
-    "perdagangan": 8,
-    "ekspor": 5,
+    "perdagangan": 7,
+    "ekspor": 4,
     "impor": 3,
-    "kartel-monopoli": 9,
-    "umkm": 12,
-    "ipo": 2
+    "umkm": 13,
+    "kartel-monopoli": 10,
+    "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -64,7 +64,7 @@
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
@@ -82,123 +82,123 @@
     "Ghufran": 6,
     "Ismail": 14,
     "Eko Patrio": 2,
-    "Nasril Bahar": 2,
-    "Iskandar": 10,
+    "Nasril Bahar": 3,
+    "Iskandar": 9,
     "Sartono": 4,
-    "Herman Khaeron": 10
+    "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
+    "Kinerja BUMN": 18,
     "Koperasi/UMKM": 60,
     "Perdagangan": 12,
-    "Konflik Publik": 10,
+    "Konflik Publik": 11,
     "Hukum/Audit": 21
   },
   "top_headlines": [
     {
-      "title": "RKA 2027 Rp2,44 Triliun, BP Batam Perkuat Infrastruktur dan Percepatan Investasi - BP Batam",
+      "title": "Nasril Bahar: Dari Parlemen, Mengawal Regulasi untuk Dunia Usaha dan Ekonomi Rakyat - Bela Rakyat",
+      "entity": "Nasril Bahar",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 05:41:55 GMT",
+      "link": "https://belarakyat.com/nasril-bahar-dari-parlemen-mengawal-regulasi-untuk-dunia-usaha-dan-ekonomi-rakyat/"
+    },
+    {
+      "title": "Manajer Kopdes Mulai Ngantor Paling Lambat 25 September, Berapa Gajinya? - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 05:07:34 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260918/12/2005256/manajer-kopdes-mulai-ngantor-paling-lambat-25-september-berapa-gajinya"
+    },
+    {
+      "title": "RKA 2027 Rp2,44 Triliun, BP Batam Perkuat Infrastruktur dan Percepatan Investasi - posmetrobatam.co.id",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 00:14:25 GMT",
-      "link": "https://bpbatam.go.id/rka-2027-rp244-triliun-bp-batam-perkuat-infrastruktur-dan-percepatan-investasi/"
+      "published": "Fri, 18 Sep 2026 05:04:56 GMT",
+      "link": "https://posmetrobatam.co.id/rka-2027-rp244-triliun-bp-batam-perkuat-infrastruktur-dan-percepatan-investasi/"
     },
     {
-      "title": "DPR Soroti Tata Kelola Koperasi Desa Merah Putih dan Aduan Gagal Bayar Koperasi Mekar Sari - Bela Rakyat",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 00:09:18 GMT",
-      "link": "https://belarakyat.com/dpr-soroti-tata-kelola-koperasi-desa-merah-putih-dan-aduan-gagal-bayar-koperasi-mekar-sari/"
-    },
-    {
-      "title": "DPR Soroti Tata Kelola Koperasi Desa Merah Putih dan Aduan Gagal Bayar Koperasi Mekar Sari - Bela Rakyat",
-      "entity": "Anggia Erma Rini",
+      "title": "Andre Rosiade Bantu Pengobatan Salsabilla, Anak Penderita Penyakit Jantung di Padang - Posmetro Padang",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 00:09:18 GMT",
-      "link": "https://belarakyat.com/dpr-soroti-tata-kelola-koperasi-desa-merah-putih-dan-aduan-gagal-bayar-koperasi-mekar-sari/"
+      "published": "Fri, 18 Sep 2026 05:03:02 GMT",
+      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-pengobatan-salsabilla-anak-penderita-penyakit-jantung-di-padang-434593/"
     },
     {
-      "title": "Reaksi Menkop usai Dituding Agrinas Sabotase Proyek Kopdes - Bloomberg Technoz",
+      "title": "Danantara Resmikan Proyek PSEL Bogor Raya Rp 2,8 Triliun - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 04:51:49 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-resmikan-proyek-psel-bogor-raya-rp-2-8-triliun-2287746"
+    },
+    {
+      "title": "BP BUMN-Danantara Turun Tangan, Adhi Karya Diperintahkan Tuntaskan Polemik 2.400 Unit LRT City - Industry.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 04:51:00 GMT",
+      "link": "https://www.industry.co.id/read/156148/bp-bumn-danantara-turun-tangan-adhi-karya-diperintahkan-tuntaskan-polemik-2400-unit-lrt-city"
+    },
+    {
+      "title": "Pemerintah Siapkan Tata Kelola dan Operasionalisasi Koperasi Desa - SuaraGarut.ID",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 23:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/121943/reaksi-menkop-usai-dituding-agrinas-sabotase-proyek-kopdes"
+      "published": "Fri, 18 Sep 2026 04:31:22 GMT",
+      "link": "https://suaragarut.id/pemerintah-siapkan-tata-kelola-koperasi-desa"
     },
     {
-      "title": "Usulan Tambahan Anggaran Kemenkop Rp4,53 Triliun Ditolak DPR, Ini Nilai yang Disetujui untuk 2027 - RCTI+",
+      "title": "INFOGRAFIS: RKA 2027 BP Batam Rp2,44 Triliun, Rp665,11 Miliar Dialokasikan untuk Infrastruktur - kutipan.co",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 04:28:46 GMT",
+      "link": "https://kutipan.co/infografis-rka-2027-bp-batam-rp244-triliun-rp66511-miliar-dialokasikan-untuk-infrastruktur/"
+    },
+    {
+      "title": "Besaran Gaji Manager Kopdes Merah Putih Keluar 2 Hari Lagi - CNN Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 21:20:04 GMT",
-      "link": "https://m.rctiplus.com/news/detail/terkini/5475372/usulan-tambahan-anggaran-kemenkop-rp453-triliun-ditolak-dpr-ini-nilai-yang-disetujui-untuk-2027?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5475372"
+      "published": "Fri, 18 Sep 2026 04:27:00 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260918103841-92-1405341/besaran-gaji-manager-kopdes-merah-putih-keluar-2-hari-lagi"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 18:02:00 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260918/Mjc0NDQ0"
-    },
-    {
-      "title": "28.626 Manajer Koperasi Merah Putih Ditempatkan Pekan Depan, Gaji Segera Ditetapkan - VOI.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 16:30:00 GMT",
-      "link": "https://voi.id/ekonomi/594621/28-626-manajer-koperasi-merah-putih-ditempatkan-pekan-depan-gaji-segera-ditetapkan"
-    },
-    {
-      "title": "Anggaran Rp28,75 Miliar, BPKN Dorong Sengketa Konsumen Selesai Lebih Cepat Lewat ODR - realita.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 16:18:00 GMT",
-      "link": "https://realita.co/baca-51134-anggaran-rp2875-miliar-bpkn-dorong-sengketa-konsumen-selesai-lebih-cepat-lewat-odr"
-    },
-    {
-      "title": "Usulan untuk mentransfer EVN ke Kementerian Perindustrian dan Perdagangan. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 16:10:32 GMT",
-      "link": "https://www.vietnam.vn/id/de-xuat-chuyen-evn-ve-bo-cong-thuong"
-    },
-    {
-      "title": "28.626 Manajer KDKMP Tunggu Perpres - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 15:57:00 GMT",
-      "link": "https://rri.co.id/ekonomi/bisnis/2738693/28626-manajer-kdkmp-tunggu-perpres"
-    },
-    {
-      "title": "KPPU Makassar dan Pemkot Parepare Dorong Iklim Usaha Adil, Efisien, dan Kompetitif - Gosulsel.com",
+      "title": "Trafik Media Tertekan AI Overviews, AMSI dan KPPU Kaji Persoalan Persaingan Usaha - Kompas.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 15:16:00 GMT",
-      "link": "https://gosulsel.com/09/2026/kppu-makassar-dan-pemkot-parepare-dorong-iklim-usaha-adil-efisien-dan-kompetitif/"
+      "published": "Fri, 18 Sep 2026 04:22:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/18/112245626/trafik-media-tertekan-ai-overviews-amsi-dan-kppu-kaji-persoalan-persaingan"
     },
     {
-      "title": "RUU Komoditas Strategis Perlu Fleksibel, Pemerintah Tekankan Keseimbangan Pasokan dan Perdagangan - vibizmedia.com",
+      "title": "KPPU dan AMSI Bahas Dampak AI Terhadap Persaingan Usaha di Industri Media Digital - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 03:47:55 GMT",
+      "link": "https://rri.co.id/pekanbaru/berita-lain/2739517/kppu-dan-amsi-bahas-dampak-ai-terhadap-persaingan-usaha-di-industri-media-digital"
+    },
+    {
+      "title": "Mendag Optimis RUU Komoditas Strategis Mampu Menjawab Persoalan Daya Saing - Rmol.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 14:36:27 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/17/ruu-komoditas-strategis-perlu-fleksibel-pemerintah-tekankan-keseimbangan-pasokan-dan-perdagangan/"
+      "published": "Fri, 18 Sep 2026 03:29:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/09/18/722148/mendag-optimis-ruu-komoditas-strategis-mampu-menjawab-persoalan-daya-saing"
     },
     {
-      "title": "Kemenkop Harus Perkuat Fungsi Pengawasan dan Penjamin Mutu Koperasi - Partai NasDem",
+      "title": "AI Ubah Cara Publik Cari Berita, KPPU dan AMSI Bahas Persaingan Media Digital - Mawartanews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 03:18:48 GMT",
+      "link": "https://mawartanews.com/ai-ubah-cara-cari-berita-kppu-amsi-media-digital/"
+    },
+    {
+      "title": "Herman Khaeron: Business Judgment Rule Bukan Kekebalan Hukum bagi Direksi BUMN - Iconomics",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 03:12:58 GMT",
+      "link": "https://www.theiconomics.com/change-management/herman-khaeron-business-judgment-rule-bukan-kekebalan-hukum-bagi-direksi-bumn/"
+    },
+    {
+      "title": "Menteri Ferry Kebut 17.288 Koperasi Desa Merah Putih Beroperasi Oktober - aktual.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 14:35:25 GMT",
-      "link": "https://partainasdem.id/2026/09/17/kemenkop-harus-perkuat-fungsi-pengawasan-dan-penjamin-mutu-koperasi/"
-    },
-    {
-      "title": "Pengamat Sebut Seharusnya Danantara Setor Sebagian Laba ke Kas Negara, Ini Alasannya - kedaipena.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 14:31:45 GMT",
-      "link": "https://www.kedaipena.com/pengamat-sebut-seharusnya-danantara-setor-sebagian-laba-ke-kas-negara-ini-alasannya/"
-    },
-    {
-      "title": "Danantara Dorong Bio Farma Bawa Industri Kesehatan RI ke Pasar Global - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 17 Sep 2026 14:17:00 GMT",
-      "link": "https://wartaekonomi.co.id/read635404/danantara-dorong-bio-farma-bawa-industri-kesehatan-ri-ke-pasar-global"
+      "published": "Fri, 18 Sep 2026 03:00:09 GMT",
+      "link": "https://aktual.com/menteri-ferry-kebut-17-288-koperasi-desa-merah-putih-beroperasi-oktober/"
     }
   ]
 }
