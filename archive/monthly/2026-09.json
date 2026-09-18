@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T18:03:39.681815",
+  "generated_at": "2026-09-18T21:24:33.788874",
   "party_counts_7d": {
-    "Gerindra": 21,
+    "Gerindra": 22,
     "PDI-P": 13,
     "Golkar": 31,
     "NasDem": 5,
@@ -88,13 +88,27 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 20,
-    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 21,
+    "Koperasi/UMKM": 62,
     "Perdagangan": 9,
-    "Konflik Publik": 10,
-    "Hukum/Audit": 24
+    "Hukum/Audit": 23,
+    "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "KDKMP Digenjot, Komisi VI DPR Ingatkan Risiko Tata Kelola dan Pengawasan - Liputan Jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 19:48:32 GMT",
+      "link": "https://liputanjatim.com/berita/kdkmp-digenjot-komisi-vi-dpr-ingatkan-risiko-tata-kelola-dan-pengawasan"
+    },
+    {
+      "title": "BPKN Desak Produsen Beras Fortifikasi Palsu Berikan Ganti Rugi kepada Konsumen - IDX Channel",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 19:02:00 GMT",
+      "link": "https://www.idxchannel.com/amp/news/bpkn-desak-produsen-beras-fortifikasi-palsu-berikan-ganti-rugi-kepada-konsumen"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -117,6 +131,13 @@
       "link": "https://biroadpim.lampungprov.go.id/detail-post/pemprov-lampung-dorong-persaingan-usaha-sehat-untuk-perkuat-investasi-dan-hilirisasi"
     },
     {
+      "title": "Prabowo Ungkap Penghasilan Danantara Melonjak 400 Persen - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 14:55:15 GMT",
+      "link": "https://suaragarut.id/prabowo-ungkap-penghasilan-danantara-melonjak"
+    },
+    {
       "title": "Andre Rosiade: Rp19 Triliun Disiapkan untuk Bangun Sumbar, Tol Sicincin--Bukittinggi Jadi Prioritas - Tribun Sumbar",
       "entity": "Andre Rosiade",
       "kind": "anggota",
@@ -124,11 +145,32 @@
       "link": "https://www.tribunsumbar.com/berita/43225/andre-rosiade-rp19-triliun-disiapkan-untuk-bangun-sumbar-tol-sicincinbukittinggi-jadi-prioritas"
     },
     {
+      "title": "Kemenkop Perkuat Pendampingan Koperasi dan Verifikasi KDKMP untuk Program 2027 - Serayu Nusantara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 14:34:34 GMT",
+      "link": "https://serayunusantara.com/kemenkop-perkuat-pendampingan-koperasi-dan-verifikasi-kdkmp-untuk-program-2027/"
+    },
+    {
       "title": "Kemenkop dan Muhammadiyah Bakal Jadikan Masjid Pusat Ekonomi - InvestorTrust",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 18 Sep 2026 14:22:00 GMT",
       "link": "https://investortrust.id/macro/116780/kemenkop-dan-muhammadiyah-bakal-jadikan-masjid-pusat-ekonomi"
+    },
+    {
+      "title": "Andre Rosiade: Rp19 Triliun Disiapkan untuk Bangun Sumbar, Tol Sicincin--Bukittinggi Jadi Prioritas - ANTARA News Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 14:13:05 GMT",
+      "link": "https://sumbar.antaranews.com/berita/779165/andre-rosiade-rp19-triliun-disiapkan-untuk-bangun-sumbar-tol-sicincin-bukittinggi-jadi-prioritas"
+    },
+    {
+      "title": "Targetkan 6.000 Masjid, Kemenkop dan Muhammadiyah Rancang Koperasi Berbasis Rumah Ibadah - Aktual.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 14:04:08 GMT",
+      "link": "https://aktual.com/targetkan-6-000-masjid-kemenkop-dan-muhammadiyah-rancang-koperasi-berbasis-rumah-ibadah/"
     },
     {
       "title": "Andre Rosiade dan Kepala BJN Tinjau Rencana Lanjutan Pembangunan Jalan Lingkar Utara Kota Solok - Top Satu",
@@ -157,48 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 18 Sep 2026 13:03:23 GMT",
       "link": "https://www.suaralandak.co.id/kemenkop-gandeng-muhammadiyah-kembangkan-koperasi-masjid"
-    },
-    {
-      "title": "Kemenkop Gandeng Muhammadiyah dan Utusan Khusus Presiden Perkuat Ekosistem Koperasi - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 13:01:25 GMT",
-      "link": "https://indoposco.id/2026/09/18/kemenkop-gandeng-muhammadiyah-dan-utusan-khusus-presiden-perkuat-ekosistem-koperasi/"
-    },
-    {
-      "title": "Jon Firman Pandu Dampingi Andre Rosiade Tinjau Jalan Rawang Sulit Air Penghubung Solok dan Sawahlunto - Majalah Intrust",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 12:19:18 GMT",
-      "link": "https://majalahintrust.com/jon-firman-pandu-dampingi-andre-rosiade-tinjau-jalan-rawang-sulit-air-penghubung-solok-dan-sawahlunto/"
-    },
-    {
-      "title": "BPK Mulai Audit Laporan Keuangan Danantara - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 12:14:33 GMT",
-      "link": "https://www.tempo.co/ekonomi/bpk-mulai-audit-laporan-keuangan-danantara-2287843"
-    },
-    {
-      "title": "Rp2,44 Triliun untuk Batam 2027: Rp665 Miliar Mengalir ke Infrastruktur - Batam Pos",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 12:06:45 GMT",
-      "link": "https://metropolis.batampos.co.id/rp244-triliun-untuk-batam-2027-rp665-miliar-mengalir-ke-infrastruktur/"
-    },
-    {
-      "title": "BPKN Desak Pelaku Pemalsuan Beras Fortifikasi Ganti Rugi Konsumen - RCTI+",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 12:05:38 GMT",
-      "link": "https://www.rctiplus.com/news/detail/ekonomi/5475962/bpkn-desak-pelaku-pemalsuan-beras-fortifikasi-ganti-rugi-konsumen?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5475962"
-    },
-    {
-      "title": "Pemprov Lampung dan KPPU Perkuat Pengawasan Persaingan Usaha - Gerbang Patriot",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 12:03:51 GMT",
-      "link": "https://gerbangpatriot.com/2026/09/18/pemprov-lampung-dan-kppu-perkuat-pengawasan-persaingan-usaha/"
     }
   ]
 }
