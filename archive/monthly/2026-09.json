@@ -1,21 +1,21 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T05:47:16.484418",
+  "generated_at": "2026-09-18T10:33:08.384430",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 17,
-    "Golkar": 28,
+    "Gerindra": 15,
+    "PDI-P": 13,
+    "Golkar": 29,
     "NasDem": 4,
     "PKB": 18,
-    "PKS": 24,
+    "PKS": 26,
     "PAN": 2,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 65,
-    "Golkar": 91,
-    "NasDem": 18,
+    "Golkar": 92,
+    "NasDem": 17,
     "PKB": 51,
     "PKS": 60,
     "PAN": 14,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 24,
-    "dividen": 7,
+    "bumn": 48,
+    "danantara": 23,
+    "dividen": 5,
     "koperasi": 56,
     "investasi": 16,
-    "perdagangan": 7,
-    "ekspor": 4,
-    "impor": 3,
+    "perdagangan": 8,
+    "ekspor": 1,
     "umkm": 13,
-    "kartel-monopoli": 10,
+    "kartel-monopoli": 11,
+    "impor": 2,
     "ipo": 1
   },
   "member_counts_30d": {
@@ -69,10 +69,10 @@
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 13,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 3,
-    "Asep Wahyuwijaya": 6,
+    "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 18,
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 12,
-    "Konflik Publik": 11,
+    "Kinerja BUMN": 19,
+    "Koperasi/UMKM": 61,
+    "Perdagangan": 9,
+    "Konflik Publik": 10,
     "Hukum/Audit": 21
   },
   "top_headlines": [
     {
-      "title": "Nasril Bahar: Dari Parlemen, Mengawal Regulasi untuk Dunia Usaha dan Ekonomi Rakyat - Bela Rakyat",
-      "entity": "Nasril Bahar",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 05:41:55 GMT",
-      "link": "https://belarakyat.com/nasril-bahar-dari-parlemen-mengawal-regulasi-untuk-dunia-usaha-dan-ekonomi-rakyat/"
-    },
-    {
-      "title": "Manajer Kopdes Mulai Ngantor Paling Lambat 25 September, Berapa Gajinya? - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 05:07:34 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260918/12/2005256/manajer-kopdes-mulai-ngantor-paling-lambat-25-september-berapa-gajinya"
-    },
-    {
-      "title": "RKA 2027 Rp2,44 Triliun, BP Batam Perkuat Infrastruktur dan Percepatan Investasi - posmetrobatam.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 05:04:56 GMT",
-      "link": "https://posmetrobatam.co.id/rka-2027-rp244-triliun-bp-batam-perkuat-infrastruktur-dan-percepatan-investasi/"
-    },
-    {
-      "title": "Andre Rosiade Bantu Pengobatan Salsabilla, Anak Penderita Penyakit Jantung di Padang - Posmetro Padang",
+      "title": "Andre Rosiade: Dengan Inpres, Prabowo Bangun Jalan Lingkar Kota Solok Rp 49 M - kumparan.com - Kumparan.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 05:03:02 GMT",
-      "link": "https://posmetropadang.co.id/andre-rosiade-bantu-pengobatan-salsabilla-anak-penderita-penyakit-jantung-di-padang-434593/"
+      "published": "Fri, 18 Sep 2026 10:16:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-dengan-inpres-prabowo-bangun-jalan-lingkar-kota-solok-rp-49-m-28CxpNTl0vB"
     },
     {
-      "title": "Danantara Resmikan Proyek PSEL Bogor Raya Rp 2,8 Triliun - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:51:49 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-resmikan-proyek-psel-bogor-raya-rp-2-8-triliun-2287746"
-    },
-    {
-      "title": "BP BUMN-Danantara Turun Tangan, Adhi Karya Diperintahkan Tuntaskan Polemik 2.400 Unit LRT City - Industry.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:51:00 GMT",
-      "link": "https://www.industry.co.id/read/156148/bp-bumn-danantara-turun-tangan-adhi-karya-diperintahkan-tuntaskan-polemik-2400-unit-lrt-city"
-    },
-    {
-      "title": "Pemerintah Siapkan Tata Kelola dan Operasionalisasi Koperasi Desa - SuaraGarut.ID",
+      "title": "Dapat Tambahan Anggaran, Kemenkop Perkuat KDKMP dan Tata Kelola Koperasi Nasional - mediaindonesia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:31:22 GMT",
-      "link": "https://suaragarut.id/pemerintah-siapkan-tata-kelola-koperasi-desa"
+      "published": "Fri, 18 Sep 2026 09:18:39 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/934914/dapat-tambahan-anggaran-kemenkop-perkuat-kdkmp-dan-tata-kelola-koperasi-nasional"
     },
     {
-      "title": "INFOGRAFIS: RKA 2027 BP Batam Rp2,44 Triliun, Rp665,11 Miliar Dialokasikan untuk Infrastruktur - kutipan.co",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:28:46 GMT",
-      "link": "https://kutipan.co/infografis-rka-2027-bp-batam-rp244-triliun-rp66511-miliar-dialokasikan-untuk-infrastruktur/"
-    },
-    {
-      "title": "Besaran Gaji Manager Kopdes Merah Putih Keluar 2 Hari Lagi - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:27:00 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260918103841-92-1405341/besaran-gaji-manager-kopdes-merah-putih-keluar-2-hari-lagi"
-    },
-    {
-      "title": "Trafik Media Tertekan AI Overviews, AMSI dan KPPU Kaji Persoalan Persaingan Usaha - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 04:22:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/18/112245626/trafik-media-tertekan-ai-overviews-amsi-dan-kppu-kaji-persoalan-persaingan"
-    },
-    {
-      "title": "KPPU dan AMSI Bahas Dampak AI Terhadap Persaingan Usaha di Industri Media Digital - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 03:47:55 GMT",
-      "link": "https://rri.co.id/pekanbaru/berita-lain/2739517/kppu-dan-amsi-bahas-dampak-ai-terhadap-persaingan-usaha-di-industri-media-digital"
-    },
-    {
-      "title": "Mendag Optimis RUU Komoditas Strategis Mampu Menjawab Persoalan Daya Saing - Rmol.id",
+      "title": "Kemendag Bahas Peran Perdagangan Digital dalam Mendorong Ekonomi Kawasan RCEP - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 03:29:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/09/18/722148/mendag-optimis-ruu-komoditas-strategis-mampu-menjawab-persoalan-daya-saing"
+      "published": "Fri, 18 Sep 2026 09:14:08 GMT",
+      "link": "https://suarapemerintah.id/2026/09/kemendag-bahas-peran-perdagangan-digital-dalam-mendorong-ekonomi-kawasan-rcep/"
     },
     {
-      "title": "AI Ubah Cara Publik Cari Berita, KPPU dan AMSI Bahas Persaingan Media Digital - Mawartanews.com",
-      "entity": "KPPU",
+      "title": "Kolaborasi Penting Perkuat Ekosistem Perdagangan - investor.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 03:18:48 GMT",
-      "link": "https://mawartanews.com/ai-ubah-cara-cari-berita-kppu-amsi-media-digital/"
+      "published": "Fri, 18 Sep 2026 09:07:11 GMT",
+      "link": "https://investor.id/business/454635/kolaborasi-penting-perkuat-ekosistem-perdagangan"
     },
     {
-      "title": "Herman Khaeron: Business Judgment Rule Bukan Kekebalan Hukum bagi Direksi BUMN - Iconomics",
-      "entity": "Herman Khaeron",
+      "title": "Semarak Kirab Maulid Habib Idrus di Pekalongan, Rizal Bawazier Soroti Kebersamaan - jogja.viva.co.id",
+      "entity": "Rizal Bawazier",
       "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 03:12:58 GMT",
-      "link": "https://www.theiconomics.com/change-management/herman-khaeron-business-judgment-rule-bukan-kekebalan-hukum-bagi-direksi-bumn/"
+      "published": "Fri, 18 Sep 2026 09:07:00 GMT",
+      "link": "https://jogja.viva.co.id/pantura-raya/11681-semarak-kirab-maulid-habib-idrus-di-pekalongan-rizal-bawazier-soroti-kebersamaan"
     },
     {
-      "title": "Menteri Ferry Kebut 17.288 Koperasi Desa Merah Putih Beroperasi Oktober - aktual.com",
+      "title": "BEI: Porsi Kepemilikan Saham Danantara Belum Final - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 09:04:39 GMT",
+      "link": "https://www.tempo.co/ekonomi/bei-porsi-kepemilikan-saham-danantara-belum-final-2287802"
+    },
+    {
+      "title": "Anggap Pekalongan Rumah Sendiri, Rizal Bawazier Kembali Ikuti Kirab Maulid Habib Idrus - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 08:48:00 GMT",
+      "link": "https://radarpekalongan.disway.id/pekalongan/read/115251/anggap-pekalongan-rumah-sendiri-rizal-bawazier-kembali-ikuti-kirab-maulid-habib-idrus"
+    },
+    {
+      "title": "Rapat Kerja Kementerian Perdagangan dengan Komisi VI DPR RI - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 08:43:58 GMT",
+      "link": "https://www.hetanews.com/article/311017/rapat-kerja-kementerian-perdagangan-dengan-komisi-vi-dpr-ri"
+    },
+    {
+      "title": "HEBOH 25 Merek Beras Fortifikasi Bermasalah, BPKN Desak Tarik Dari Pasaran dan Penjara Pelakunya - realita.co",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 08:16:00 GMT",
+      "link": "https://realita.co/baca-51144-heboh-25-merek-beras-fortifikasi-bermasalah-bpkn-desak-tarik-dari-pasaran-dan-penjara-pelakunya"
+    },
+    {
+      "title": "Kemenkop Dorong Pengembangan Koperasi Berbasis Rumah Ibadah - Rmol.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 03:00:09 GMT",
-      "link": "https://aktual.com/menteri-ferry-kebut-17-288-koperasi-desa-merah-putih-beroperasi-oktober/"
+      "published": "Fri, 18 Sep 2026 08:08:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/09/18/722177/kemenkop-dorong-pengembangan-koperasi-berbasis-rumah-ibadah"
+    },
+    {
+      "title": "KPPU Buka-Bukaan Praktik Monopoli Raksasa Asing di RI, Tunjuk Google - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 08:00:00 GMT",
+      "link": "https://www.cnbcindonesia.com/tech/20260918121610-37-768980/kppu-buka-bukaan-praktik-monopoli-raksasa-asing-di-ri-tunjuk-google"
+    },
+    {
+      "title": "Kadisdagkop: 29 KDKMP Labura akan diverifikasi validasi - ANTARA News Sumatera Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 07:27:12 GMT",
+      "link": "https://sumut.antaranews.com/berita/670837/kadisdagkop-29-kdkmp-labura-akan-diverifikasi-validasi"
+    },
+    {
+      "title": "Pengalihan Utang Whoosh ke Kemenkeu Belum Rampung, Ini Alasannya - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 07:10:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260918134405-4-769023/pengalihan-utang-whoosh-ke-kemenkeu-belum-rampung-ini-alasannya"
+    },
+    {
+      "title": "Curhat Menkop tak Punya Wewenang Hukum Koperasi Bermasalah - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 07:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/122010/curhat-menkop-tak-punya-wewenang-hukum-koperasi-bermasalah"
+    },
+    {
+      "title": "Andre Rosiade Beri Solusi Air Bersih RS M Djamil dengan Sumur Bor 124 Meter - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 07:07:19 GMT",
+      "link": "https://news.detik.com/berita/d-8668549/andre-rosiade-beri-solusi-air-bersih-rs-m-djamil-dengan-sumur-bor-124-meter"
     }
   ]
 }
