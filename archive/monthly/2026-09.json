@@ -1,21 +1,21 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T10:33:08.384430",
+  "generated_at": "2026-09-18T14:46:37.939134",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 18,
     "PDI-P": 13,
     "Golkar": 29,
-    "NasDem": 4,
+    "NasDem": 5,
     "PKB": 18,
-    "PKS": 26,
+    "PKS": 30,
     "PAN": 2,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 61,
+    "Gerindra": 62,
     "PDI-P": 65,
-    "Golkar": 92,
-    "NasDem": 17,
+    "Golkar": 94,
+    "NasDem": 18,
     "PKB": 51,
     "PKS": 60,
     "PAN": 14,
@@ -29,19 +29,19 @@
     "BPKN": 20,
     "KPPU": 20,
     "BP Batam": 20,
-    "BPK Sabang": 19,
+    "BPK Sabang": 20,
     "Dekopin": 20,
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "danantara": 23,
-    "dividen": 5,
-    "koperasi": 56,
-    "investasi": 16,
+    "danantara": 24,
+    "dividen": 4,
+    "koperasi": 58,
+    "investasi": 17,
     "perdagangan": 8,
     "ekspor": 1,
-    "umkm": 13,
+    "umkm": 14,
     "kartel-monopoli": 11,
     "impor": 2,
     "ipo": 1
@@ -51,7 +51,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 13,
+    "Kawendra Lukistian": 14,
     "Unru Baso": 1,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
@@ -64,15 +64,15 @@
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 13,
+    "Gde Sumarjaya Linggih": 14,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 14,
+    "Rizki Faisal": 15,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 3,
-    "Asep Wahyuwijaya": 5,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 9,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 19,
-    "Koperasi/UMKM": 61,
+    "Kinerja BUMN": 20,
+    "Koperasi/UMKM": 63,
     "Perdagangan": 9,
     "Konflik Publik": 10,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 23
   },
   "top_headlines": [
     {
-      "title": "Andre Rosiade: Dengan Inpres, Prabowo Bangun Jalan Lingkar Kota Solok Rp 49 M - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 10:16:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-dengan-inpres-prabowo-bangun-jalan-lingkar-kota-solok-rp-49-m-28CxpNTl0vB"
-    },
-    {
-      "title": "Dapat Tambahan Anggaran, Kemenkop Perkuat KDKMP dan Tata Kelola Koperasi Nasional - mediaindonesia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 09:18:39 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/934914/dapat-tambahan-anggaran-kemenkop-perkuat-kdkmp-dan-tata-kelola-koperasi-nasional"
-    },
-    {
-      "title": "Kemendag Bahas Peran Perdagangan Digital dalam Mendorong Ekonomi Kawasan RCEP - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 09:14:08 GMT",
-      "link": "https://suarapemerintah.id/2026/09/kemendag-bahas-peran-perdagangan-digital-dalam-mendorong-ekonomi-kawasan-rcep/"
-    },
-    {
-      "title": "Kolaborasi Penting Perkuat Ekosistem Perdagangan - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 09:07:11 GMT",
-      "link": "https://investor.id/business/454635/kolaborasi-penting-perkuat-ekosistem-perdagangan"
-    },
-    {
-      "title": "Semarak Kirab Maulid Habib Idrus di Pekalongan, Rizal Bawazier Soroti Kebersamaan - jogja.viva.co.id",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 09:07:00 GMT",
-      "link": "https://jogja.viva.co.id/pantura-raya/11681-semarak-kirab-maulid-habib-idrus-di-pekalongan-rizal-bawazier-soroti-kebersamaan"
-    },
-    {
-      "title": "BEI: Porsi Kepemilikan Saham Danantara Belum Final - Tempo.co",
+      "title": "BPK Mulai Audit Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - InvestorTrust",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 09:04:39 GMT",
-      "link": "https://www.tempo.co/ekonomi/bei-porsi-kepemilikan-saham-danantara-belum-final-2287802"
+      "published": "Fri, 18 Sep 2026 13:42:00 GMT",
+      "link": "https://investortrust.id/business/116771/bpk-mulai-audit-laporan-keuangan-konsolidasian-bpi-danantara-tahun-2025"
     },
     {
-      "title": "Anggap Pekalongan Rumah Sendiri, Rizal Bawazier Kembali Ikuti Kirab Maulid Habib Idrus - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 08:48:00 GMT",
-      "link": "https://radarpekalongan.disway.id/pekalongan/read/115251/anggap-pekalongan-rumah-sendiri-rizal-bawazier-kembali-ikuti-kirab-maulid-habib-idrus"
-    },
-    {
-      "title": "Rapat Kerja Kementerian Perdagangan dengan Komisi VI DPR RI - Heta News",
-      "entity": "Kementerian Perdagangan",
+      "title": "Menkop minta pemda kurasi UMKM untuk bentuk koperasi - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 08:43:58 GMT",
-      "link": "https://www.hetanews.com/article/311017/rapat-kerja-kementerian-perdagangan-dengan-komisi-vi-dpr-ri"
+      "published": "Fri, 18 Sep 2026 13:33:19 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/424921/menkop-minta-pemda-kurasi-umkm-untuk-bentuk-koperasi"
     },
     {
-      "title": "HEBOH 25 Merek Beras Fortifikasi Bermasalah, BPKN Desak Tarik Dari Pasaran dan Penjara Pelakunya - realita.co",
+      "title": "Kemenkop Gandeng Muhammadiyah Kembangkan Koperasi Masjid di Indonesia - suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 13:03:23 GMT",
+      "link": "https://www.suaralandak.co.id/kemenkop-gandeng-muhammadiyah-kembangkan-koperasi-masjid"
+    },
+    {
+      "title": "Kemenkop Gandeng Muhammadiyah dan Utusan Khusus Presiden Perkuat Ekosistem Koperasi - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 13:01:25 GMT",
+      "link": "https://indoposco.id/2026/09/18/kemenkop-gandeng-muhammadiyah-dan-utusan-khusus-presiden-perkuat-ekosistem-koperasi/"
+    },
+    {
+      "title": "BPK Mulai Audit Laporan Keuangan Danantara - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 12:14:33 GMT",
+      "link": "https://www.tempo.co/ekonomi/bpk-mulai-audit-laporan-keuangan-danantara-2287843"
+    },
+    {
+      "title": "Rp2,44 Triliun untuk Batam 2027: Rp665 Miliar Mengalir ke Infrastruktur - Batam Pos",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 12:06:45 GMT",
+      "link": "https://metropolis.batampos.co.id/rp244-triliun-untuk-batam-2027-rp665-miliar-mengalir-ke-infrastruktur/"
+    },
+    {
+      "title": "BPKN Desak Pelaku Pemalsuan Beras Fortifikasi Ganti Rugi Konsumen - RCTI+",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 08:16:00 GMT",
-      "link": "https://realita.co/baca-51144-heboh-25-merek-beras-fortifikasi-bermasalah-bpkn-desak-tarik-dari-pasaran-dan-penjara-pelakunya"
+      "published": "Fri, 18 Sep 2026 12:05:38 GMT",
+      "link": "https://www.rctiplus.com/news/detail/ekonomi/5475962/bpkn-desak-pelaku-pemalsuan-beras-fortifikasi-ganti-rugi-konsumen?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5475962"
     },
     {
-      "title": "Kemenkop Dorong Pengembangan Koperasi Berbasis Rumah Ibadah - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 08:08:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/09/18/722177/kemenkop-dorong-pengembangan-koperasi-berbasis-rumah-ibadah"
-    },
-    {
-      "title": "KPPU Buka-Bukaan Praktik Monopoli Raksasa Asing di RI, Tunjuk Google - CNBC Indonesia",
+      "title": "Pemprov Lampung dan KPPU Perkuat Pengawasan Persaingan Usaha - Gerbang Patriot",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 08:00:00 GMT",
-      "link": "https://www.cnbcindonesia.com/tech/20260918121610-37-768980/kppu-buka-bukaan-praktik-monopoli-raksasa-asing-di-ri-tunjuk-google"
+      "published": "Fri, 18 Sep 2026 12:03:51 GMT",
+      "link": "https://gerbangpatriot.com/2026/09/18/pemprov-lampung-dan-kppu-perkuat-pengawasan-persaingan-usaha/"
     },
     {
-      "title": "Kadisdagkop: 29 KDKMP Labura akan diverifikasi validasi - ANTARA News Sumatera Utara",
+      "title": "Kemenkop Siapkan Tambahan Anggaran 2027 untuk Pendampingan KDKMP - TVRI News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 07:27:12 GMT",
-      "link": "https://sumut.antaranews.com/berita/670837/kadisdagkop-29-kdkmp-labura-akan-diverifikasi-validasi"
+      "published": "Fri, 18 Sep 2026 12:02:54 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t3lrku2-kemenkop-siapkan-tambahan-anggaran-2027-untuk-pendampingan-kdkmp"
     },
     {
-      "title": "Pengalihan Utang Whoosh ke Kemenkeu Belum Rampung, Ini Alasannya - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 07:10:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260918134405-4-769023/pengalihan-utang-whoosh-ke-kemenkeu-belum-rampung-ini-alasannya"
-    },
-    {
-      "title": "Curhat Menkop tak Punya Wewenang Hukum Koperasi Bermasalah - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 07:10:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/122010/curhat-menkop-tak-punya-wewenang-hukum-koperasi-bermasalah"
-    },
-    {
-      "title": "Andre Rosiade Beri Solusi Air Bersih RS M Djamil dengan Sumur Bor 124 Meter - detikNews",
+      "title": "Andre Rosiade Resmikan BTS Telkomsel di Sulik Aia Solok, Dorong Pemerataan Sinyal - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 07:07:19 GMT",
-      "link": "https://news.detik.com/berita/d-8668549/andre-rosiade-beri-solusi-air-bersih-rs-m-djamil-dengan-sumur-bor-124-meter"
+      "published": "Fri, 18 Sep 2026 12:02:24 GMT",
+      "link": "https://news.detik.com/berita/d-8669084/andre-rosiade-resmikan-bts-telkomsel-di-sulik-aia-solok-dorong-pemerataan-sinyal"
+    },
+    {
+      "title": "BPK Mulai Proses Audit Laporan Keuangan Danantara - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 11:55:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260918182858-4-769146/bpk-mulai-proses-audit-laporan-keuangan-danantara"
+    },
+    {
+      "title": "Pemprov-KPPU Komit Ciptakan Iklim Usaha Sehat dan Kompetitif - Lintas Lampung",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 11:44:00 GMT",
+      "link": "https://web.lintaslampung.com/pemprov-kppu-komit-ciptakan-iklim-usaha-sehat-dan-kompetitif/"
+    },
+    {
+      "title": "Ikuti Kirab Maulid Nabi Muhammad, DPR Rizal Bawazier Acungi Jempol Toleransi di Pekalongan - jateng.disway.id - DISWAY JATENG",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 11:42:00 GMT",
+      "link": "https://jateng.disway.id/amp/723643/ikuti-kirab-maulid-nabi-muhammad-dpr-rizal-bawazier-acungi-jempol-toleransi-di-pekalongan"
+    },
+    {
+      "title": "BPK Mulai Pemeriksaan atas Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 11:30:30 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/934989/bpk-mulai-pemeriksaan-atas-laporan-keuangan-konsolidasian--bpi-danantara-tahun-2025-"
+    },
+    {
+      "title": "Andre Rosiade Sebut Via Inpres, Prabowo Bangun Jalan Lingkar Solok Rp 49 M - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 18 Sep 2026 11:22:23 GMT",
+      "link": "https://news.detik.com/berita/d-8668752/andre-rosiade-sebut-via-inpres-prabowo-bangun-jalan-lingkar-solok-rp-49-m"
     }
   ]
 }
