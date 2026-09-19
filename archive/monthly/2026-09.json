@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-18T23:52:08.170427",
+  "generated_at": "2026-09-19T03:05:35.098569",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 23,
     "PDI-P": 13,
     "Golkar": 30,
-    "NasDem": 5,
+    "NasDem": 3,
     "PKB": 18,
-    "PKS": 31,
+    "PKS": 32,
     "PAN": 2,
     "Demokrat": 2
   },
@@ -17,7 +17,7 @@
     "Golkar": 95,
     "NasDem": 18,
     "PKB": 51,
-    "PKS": 60,
+    "PKS": 61,
     "PAN": 14,
     "Demokrat": 15
   },
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 47,
+    "bumn": 46,
     "danantara": 24,
     "dividen": 4,
-    "koperasi": 56,
-    "investasi": 18,
+    "koperasi": 55,
+    "investasi": 19,
+    "ekspor": 2,
     "perdagangan": 8,
-    "ekspor": 1,
-    "umkm": 15,
-    "kartel-monopoli": 12,
+    "umkm": 14,
+    "kartel-monopoli": 13,
     "impor": 2,
     "ipo": 1
   },
@@ -64,12 +64,12 @@
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 14,
+    "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 16,
+    "Rizki Faisal": 17,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 6,
@@ -80,7 +80,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 6,
-    "Ismail": 14,
+    "Ismail": 15,
     "Eko Patrio": 2,
     "Nasril Bahar": 3,
     "Iskandar": 9,
@@ -90,11 +90,60 @@
   "early_warning_counts": {
     "Kinerja BUMN": 22,
     "Koperasi/UMKM": 62,
-    "Perdagangan": 9,
+    "Perdagangan": 10,
     "Hukum/Audit": 22,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "KPPU Minta Pemda di Lampung Perhatikan Prinsip Persaingan Usaha saat Buat Peraturan - Kupas Tuntas",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 02:32:00 GMT",
+      "link": "https://kupastuntas.co/2026/09/19/kppu-minta-pemda-di-lampung-perhatikan-prinsip-persaingan-usaha-saat-buat-peraturan"
+    },
+    {
+      "title": "Kemenkop Gandeng Muhammadiyah Perkuat Koperasi Berbasis Masjid - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 02:20:00 GMT",
+      "link": "https://rri.co.id/nasional/2741542/kemenkop-gandeng-muhammadiyah-perkuat-koperasi-berbasis-masjid"
+    },
+    {
+      "title": "Wali Kota Solok Bersama Andre Rosiade Tinjau Rencana Lanjutan Pembangunan Jalan Lingkar Utara - Mattanews.co",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 02:10:18 GMT",
+      "link": "https://mattanews.co/wali-kota-solok-bersama-andre-rosiade-tinjau-rencana-lanjutan-pembangunan-jalan-lingkar-utara/"
+    },
+    {
+      "title": "Mendag Dorong Investasi Berorientasi Ekspor - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 02:00:00 GMT",
+      "link": "https://swa.co.id/read/477476/mendag-dorong-investasi-berorientasi-ekspor"
+    },
+    {
+      "title": "Nurdin Halid Pastikan Bantu Pembangunan Atap Lapangan Tenis Untad - Sulteng Raya",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 01:38:49 GMT",
+      "link": "https://sultengraya.com/read/219891/nurdin-halid-pastikan-bantu-pembangunan-atap-lapangan-tenis-untad/"
+    },
+    {
+      "title": "Bupati Solok Andre Rosiade Tinjau Jalan Rawang Sulit Air Penghubung Kabupaten Solok dan Kota Sawahlunto - BIDIKKASUSNEWS.COM",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 00:16:00 GMT",
+      "link": "https://www.bidikkasusnews.com/2026/09/bupati-solok-andre-rosiade-tinjau-jalan.html"
+    },
+    {
+      "title": "BP BUMN Pertahankan Status Perum, Rencana Ubah Jadi PT Ditunda - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 18 Sep 2026 23:47:00 GMT",
+      "link": "https://voi.id/ekonomi/594787/bp-bumn-pertahankan-status-perum-rencana-ubah-jadi-pt-ditunda"
+    },
     {
       "title": "BP Batam dan Pertamina Patra Niaga Perkuat Layanan Energi Penerbangan Bandara Internasional Hang Nadim - BP Batam",
       "entity": "BP Batam",
@@ -150,55 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 18 Sep 2026 14:55:15 GMT",
       "link": "https://suaragarut.id/prabowo-ungkap-penghasilan-danantara-melonjak"
-    },
-    {
-      "title": "Andre Rosiade: Rp19 Triliun Disiapkan untuk Bangun Sumbar, Tol Sicincin--Bukittinggi Jadi Prioritas - Tribun Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 14:53:00 GMT",
-      "link": "https://www.tribunsumbar.com/berita/43225/andre-rosiade-rp19-triliun-disiapkan-untuk-bangun-sumbar-tol-sicincinbukittinggi-jadi-prioritas"
-    },
-    {
-      "title": "Kemenkop Perkuat Pendampingan Koperasi dan Verifikasi KDKMP untuk Program 2027 - Serayu Nusantara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 14:34:34 GMT",
-      "link": "https://serayunusantara.com/kemenkop-perkuat-pendampingan-koperasi-dan-verifikasi-kdkmp-untuk-program-2027/"
-    },
-    {
-      "title": "Kemenkop dan Muhammadiyah Bakal Jadikan Masjid Pusat Ekonomi - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 14:22:00 GMT",
-      "link": "https://investortrust.id/macro/116780/kemenkop-dan-muhammadiyah-bakal-jadikan-masjid-pusat-ekonomi"
-    },
-    {
-      "title": "Andre Rosiade: Rp19 Triliun Disiapkan untuk Bangun Sumbar, Tol Sicincin--Bukittinggi Jadi Prioritas - ANTARA News Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 14:13:05 GMT",
-      "link": "https://sumbar.antaranews.com/berita/779165/andre-rosiade-rp19-triliun-disiapkan-untuk-bangun-sumbar-tol-sicincin-bukittinggi-jadi-prioritas"
-    },
-    {
-      "title": "Targetkan 6.000 Masjid, Kemenkop dan Muhammadiyah Rancang Koperasi Berbasis Rumah Ibadah - Aktual.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 14:04:08 GMT",
-      "link": "https://aktual.com/targetkan-6-000-masjid-kemenkop-dan-muhammadiyah-rancang-koperasi-berbasis-rumah-ibadah/"
-    },
-    {
-      "title": "Andre Rosiade dan Kepala BJN Tinjau Rencana Lanjutan Pembangunan Jalan Lingkar Utara Kota Solok - Top Satu",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 13:52:24 GMT",
-      "link": "https://www.topsatu.com/andre-rosiade-dan-kepala-bjn-tinjau-rencana-lanjutan-pembangunan-jalan-lingkar-utara-kota-solok-292607/"
-    },
-    {
-      "title": "BPK Mulai Audit Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 13:42:00 GMT",
-      "link": "https://investortrust.id/business/116771/bpk-mulai-audit-laporan-keuangan-konsolidasian-bpi-danantara-tahun-2025"
     }
   ]
 }
