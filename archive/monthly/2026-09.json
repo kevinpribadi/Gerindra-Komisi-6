@@ -1,19 +1,19 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-19T03:05:35.098569",
+  "generated_at": "2026-09-19T08:30:50.827793",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 13,
+    "PDI-P": 16,
     "Golkar": 30,
     "NasDem": 3,
-    "PKB": 18,
-    "PKS": 32,
+    "PKB": 17,
+    "PKS": 36,
     "PAN": 2,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 62,
-    "PDI-P": 65,
+    "Gerindra": 60,
+    "PDI-P": 68,
     "Golkar": 95,
     "NasDem": 18,
     "PKB": 51,
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 46,
     "danantara": 24,
-    "dividen": 4,
+    "dividen": 3,
     "koperasi": 55,
     "investasi": 19,
+    "perdagangan": 11,
     "ekspor": 2,
-    "perdagangan": 8,
-    "umkm": 14,
+    "umkm": 13,
     "kartel-monopoli": 13,
     "impor": 2,
     "ipo": 1
@@ -51,16 +51,16 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 14,
+    "Kawendra Lukistian": 12,
     "Unru Baso": 1,
     "Mulyadi": 19,
     "Adisatrya Suryo Sulisto": 8,
-    "Mufti Anam": 10,
-    "Darmadi Durianto": 5,
+    "Mufti Anam": 11,
+    "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 12,
+    "Ida Nurlaela": 13,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 22,
-    "Koperasi/UMKM": 62,
-    "Perdagangan": 10,
+    "Kinerja BUMN": 21,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 13,
     "Hukum/Audit": 22,
     "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "KPPU Minta Pemda di Lampung Perhatikan Prinsip Persaingan Usaha saat Buat Peraturan - Kupas Tuntas",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 02:32:00 GMT",
-      "link": "https://kupastuntas.co/2026/09/19/kppu-minta-pemda-di-lampung-perhatikan-prinsip-persaingan-usaha-saat-buat-peraturan"
+      "title": "Waga Limpung Kini Punya Jogging Track Baru, Berkat CSR BNI Lewat Rizal Bawazier - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 08:21:00 GMT",
+      "link": "https://www.batiktv.id/news/waga-limpung-kini-punya-jogging-track-baru--berkat-csr-bni-lewat-rizal-bawazier"
     },
     {
-      "title": "Kemenkop Gandeng Muhammadiyah Perkuat Koperasi Berbasis Masjid - RRI.co.id",
+      "title": "Pastikan Sarpras Kopdes Sesuai, Pemkot Kediri bersama Kemenkop Lakukan Verifikasi dan Validasi - BANGSAONLINE.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 02:20:00 GMT",
-      "link": "https://rri.co.id/nasional/2741542/kemenkop-gandeng-muhammadiyah-perkuat-koperasi-berbasis-masjid"
+      "published": "Sat, 19 Sep 2026 08:06:00 GMT",
+      "link": "https://bangsaonline.com/berita/167392/pastikan-sarpras-kopdes-sesuai-pemkot-kediri-bersama-kemenkop-lakukan-verifikasi-dan-validasi"
     },
     {
-      "title": "Wali Kota Solok Bersama Andre Rosiade Tinjau Rencana Lanjutan Pembangunan Jalan Lingkar Utara - Mattanews.co",
+      "title": "Andre Rosiade Resmikan BTS Telkomsel, Dorong Perkuat Sinyal di Sulik Aia, Solok - kumparan.com - kumparan.com",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Sat, 19 Sep 2026 02:10:18 GMT",
-      "link": "https://mattanews.co/wali-kota-solok-bersama-andre-rosiade-tinjau-rencana-lanjutan-pembangunan-jalan-lingkar-utara/"
+      "published": "Sat, 19 Sep 2026 07:58:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-resmikan-bts-telkomsel-dorong-perkuat-sinyal-di-sulik-aia-solok-28DK1SlgPHX"
     },
     {
-      "title": "Mendag Dorong Investasi Berorientasi Ekspor - SWA.co.id",
+      "title": "Andre Rosiade Ungkap Jalan Lingkar Utara Kota Solok Dapat Rp 49 M dari Inpres - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 07:14:45 GMT",
+      "link": "https://news.detik.com/berita/d-8669980/andre-rosiade-ungkap-jalan-lingkar-utara-kota-solok-dapat-rp-49-m-dari-inpres"
+    },
+    {
+      "title": "Harga Minyak Goreng Jauh di Atas HET, DPR Desak Kemendag Bertindak - ketik.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 02:00:00 GMT",
-      "link": "https://swa.co.id/read/477476/mendag-dorong-investasi-berorientasi-ekspor"
+      "published": "Sat, 19 Sep 2026 06:52:00 GMT",
+      "link": "https://ketik.com/jakarta/nusantara/harga-minyak-goreng-jauh-di-atas-het-dpr-desak-kemendag-bertindak"
     },
     {
-      "title": "Nurdin Halid Pastikan Bantu Pembangunan Atap Lapangan Tenis Untad - Sulteng Raya",
-      "entity": "Nurdin Halid",
+      "title": "Rizal Bawazier Gandeng BNI, Jogging Track 400 Meter Kini Jadi Ruang Olahraga Warga Limpung - VIVA Jogja",
+      "entity": "Rizal Bawazier",
       "kind": "anggota",
-      "published": "Sat, 19 Sep 2026 01:38:49 GMT",
-      "link": "https://sultengraya.com/read/219891/nurdin-halid-pastikan-bantu-pembangunan-atap-lapangan-tenis-untad/"
+      "published": "Sat, 19 Sep 2026 05:57:00 GMT",
+      "link": "https://jogja.viva.co.id/amp/pantura-raya/11701-rizal-bawazier-gandeng-bni-jogging-track-400-meter-kini-jadi-ruang-olahraga-warga-limpung"
     },
     {
-      "title": "Bupati Solok Andre Rosiade Tinjau Jalan Rawang Sulit Air Penghubung Kabupaten Solok dan Kota Sawahlunto - BIDIKKASUSNEWS.COM",
-      "entity": "Andre Rosiade",
+      "title": "74% Laba ASDP Bergantung pada Merak-Bakauheni, DPR Khawatir Bisnis Bisa Kolaps - kirka.co",
+      "entity": "Darmadi Durianto",
       "kind": "anggota",
-      "published": "Sat, 19 Sep 2026 00:16:00 GMT",
-      "link": "https://www.bidikkasusnews.com/2026/09/bupati-solok-andre-rosiade-tinjau-jalan.html"
+      "published": "Sat, 19 Sep 2026 05:42:22 GMT",
+      "link": "https://kirka.co/74-laba-asdp-bergantung-pada-merak-bakauheni-dpr-khawatir-bisnis-bisa-kolaps/"
     },
     {
-      "title": "BP BUMN Pertahankan Status Perum, Rencana Ubah Jadi PT Ditunda - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 23:47:00 GMT",
-      "link": "https://voi.id/ekonomi/594787/bp-bumn-pertahankan-status-perum-rencana-ubah-jadi-pt-ditunda"
-    },
-    {
-      "title": "BP Batam dan Pertamina Patra Niaga Perkuat Layanan Energi Penerbangan Bandara Internasional Hang Nadim - BP Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 23:25:35 GMT",
-      "link": "https://bpbatam.go.id/bp-batam-dan-pertamina-patra-niaga-perkuat-layanan-energi-penerbangan-bandara-internasional-hang-nadim/"
-    },
-    {
-      "title": "Pemda Diminta Kurasi UMKM untuk Bentuk Koperasi - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 22:14:00 GMT",
-      "link": "https://www.beritakoperasi.com/pemda-diminta-kurasi-umkm-untuk-bentuk-koperasi/"
-    },
-    {
-      "title": "KDKMP Digenjot, Komisi VI DPR Ingatkan Risiko Tata Kelola dan Pengawasan - Liputan Jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 19:48:32 GMT",
-      "link": "https://liputanjatim.com/berita/kdkmp-digenjot-komisi-vi-dpr-ingatkan-risiko-tata-kelola-dan-pengawasan"
-    },
-    {
-      "title": "BPKN Desak Produsen Beras Fortifikasi Palsu Berikan Ganti Rugi kepada Konsumen - IDX Channel",
+      "title": "BPKN Temukan Beras Fortifikasi Tak Sesuai Standar Tahun Lalu - Tempo.co",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 19:02:00 GMT",
-      "link": "https://www.idxchannel.com/amp/news/bpkn-desak-produsen-beras-fortifikasi-palsu-berikan-ganti-rugi-kepada-konsumen"
+      "published": "Sat, 19 Sep 2026 05:41:49 GMT",
+      "link": "https://www.tempo.co/ekonomi/bpkn-temukan-beras-fortifikasi-tak-sesuai-standar-tahun-lalu-2287952"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 17:29:16 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260919/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Kasus Uang Palsu SGD 340 Ribu Naik Sidik, Legislator asal Kepri Rizki Faisal Desak Polisi Bongkar Pabrik dan Jaringannya - Posmetrobatam.co.id",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Fri, 18 Sep 2026 16:16:17 GMT",
-      "link": "https://posmetrobatam.co.id/kasus-uang-palsu-sgd-340-ribu-naik-sidik-legislator-asal-kepri-rizki-faisal-desak-polisi-bongkar-pabrik-dan-jaringannya/"
-    },
-    {
-      "title": "Pemprov Lampung Dorong Persaingan Usaha Sehat untuk Perkuat Investasi dan Hilirisasi - Pemerintah Provinsi Lampung",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 15:55:00 GMT",
-      "link": "https://biroadpim.lampungprov.go.id/detail-post/pemprov-lampung-dorong-persaingan-usaha-sehat-untuk-perkuat-investasi-dan-hilirisasi"
-    },
-    {
-      "title": "Prabowo Ungkap Penghasilan Danantara Melonjak 400 Persen - SuaraGarut.ID",
+      "title": "Danantara Akan Kuasai 40 Persen Saham, BEI Pastikan Independensi Tetap Terjaga - Kedai Pena",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 18 Sep 2026 14:55:15 GMT",
-      "link": "https://suaragarut.id/prabowo-ungkap-penghasilan-danantara-melonjak"
+      "published": "Sat, 19 Sep 2026 05:20:34 GMT",
+      "link": "https://www.kedaipena.com/danantara-akan-kuasai-40-persen-saham-bei-pastikan-independensi-tetap-terjaga/"
+    },
+    {
+      "title": "BPK Mulai Audit Laporan Keuangan Danantara Tahun 2025 - Ikatan Konsultan Pajak Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 05:20:12 GMT",
+      "link": "https://ikpi.or.id/articles/bpk-mulai-audit-laporan-keuangan-danantara-tahun-2025"
+    },
+    {
+      "title": "DPR Sebut Harga Minyak Goreng Rp 22 Ribu, Kinerja Menteri Perdagangan Disorot - GenPI.co - GenPI.co",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 04:20:56 GMT",
+      "link": "https://www.genpi.co/polhukam/288947/dpr-sebut-harga-minyak-goreng-rp-22-ribu-kinerja-menteri-perdagangan-disorot?page=2"
+    },
+    {
+      "title": "DPR Sebut Harga Minyak Goreng Rp 22 Ribu, Kinerja Menteri Perdagangan Disorot - GenPI.co - GenPI.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 04:20:56 GMT",
+      "link": "https://www.genpi.co/polhukam/288947/dpr-sebut-harga-minyak-goreng-rp-22-ribu-kinerja-menteri-perdagangan-disorot"
+    },
+    {
+      "title": "Aspirasi Warga Limpung Dijawab, Rizal Bawazier Fasilitasi Pembangunan Jogging Track Gandeng CSR BNI - radarpekalongan.disway.id - Radar Pekalongan",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 04:04:00 GMT",
+      "link": "https://radarpekalongan.disway.id/amp/115255/aspirasi-warga-limpung-dijawab-rizal-bawazier-fasilitasi-pembangunan-jogging-track-gandeng-csr-bni"
+    },
+    {
+      "title": "Kemenkop Gandeng Muhammadiyah Kembangkan Koperasi Berbasis Masjid - VOI.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 03:43:00 GMT",
+      "link": "https://voi.id/ekonomi/594804/kemenkop-gandeng-muhammadiyah-kembangkan-koperasi-berbasis-masjid"
+    },
+    {
+      "title": "BP Batam dan Pertamina Patra Niaga perkuat layanan energi penerbangan - ANTARA News",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 03:42:21 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5748724/bp-batam-dan-pertamina-patra-niaga-perkuat-layanan-energi-penerbangan"
     }
   ]
 }
