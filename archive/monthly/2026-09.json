@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-20T00:37:42.965143",
+  "generated_at": "2026-09-20T05:41:45.078026",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 17,
-    "Golkar": 31,
+    "Golkar": 30,
     "NasDem": 3,
-    "PKB": 14,
+    "PKB": 13,
     "PKS": 39,
     "PAN": 2,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 59,
+    "Gerindra": 60,
     "PDI-P": 71,
-    "Golkar": 92,
+    "Golkar": 91,
     "NasDem": 20,
-    "PKB": 51,
+    "PKB": 52,
     "PKS": 59,
     "PAN": 13,
     "Demokrat": 15
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "danantara": 27,
+    "bumn": 47,
+    "danantara": 29,
     "dividen": 2,
     "koperasi": 57,
-    "investasi": 13,
+    "investasi": 12,
     "umkm": 11,
     "ekspor": 2,
     "perdagangan": 11,
@@ -51,7 +51,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 13,
     "Unru Baso": 1,
     "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 8,
@@ -67,7 +67,7 @@
     "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
-    "Doni Akbar": 5,
+    "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 17,
     "Muhammad Sarmuji": 20,
@@ -77,6 +77,7 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
+    "Ida Fauziyah": 1,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 6,
@@ -88,13 +89,83 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
+    "Kinerja BUMN": 26,
     "Koperasi/UMKM": 63,
     "Perdagangan": 13,
-    "Hukum/Audit": 28,
+    "Hukum/Audit": 31,
     "Konflik Publik": 10
   },
   "top_headlines": [
+    {
+      "title": "Rencana Danantara Biayai LRT Bisa Kurangi Obligasi Daerah hingga Jaga Ruang Fiskal - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 05:36:59 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260920/98/2005608/rencana-danantara-biayai-lrt-bisa-kurangi-obligasi-daerah-hingga-jaga-ruang-fiskal"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Konsolidasian BPI Danantara 2025 - suaragarut.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 05:15:58 GMT",
+      "link": "https://suaragarut.id/bpk-periksa-laporan-keuangan-danantara"
+    },
+    {
+      "title": "Kemenkop Fokus Perkuat KDKMP dan Tata Kelola Koperasi Nasional - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 05:04:00 GMT",
+      "link": "https://rri.co.id/denpasar/nasional/2742807/kemenkop-fokus-perkuat-kdkmp-dan-tata-kelola-koperasi-nasional"
+    },
+    {
+      "title": "Rizal Bawazier Fasilitasi CSR BNI, Limpung Kini Punya Jogging Track - Suara Merdeka Pantura - Suara Merdeka Pantura",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 20 Sep 2026 04:15:00 GMT",
+      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617656008/rizal-bawazier-fasilitasi-csr-bni-limpung-kini-punya-jogging-track"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 04:12:40 GMT",
+      "link": "https://nasional.kontan.co.id/news/bpk-mulai-periksa-laporan-keuangan-danantara"
+    },
+    {
+      "title": "BPK Periksa Laporan Keuangan BPI Danantara Tahun 2025 - Peradaban.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 03:37:14 GMT",
+      "link": "https://peradaban.id/bpk-periksa-laporan-keuangan-danantara"
+    },
+    {
+      "title": "Laporan Keuangan Danantara Mulai Diperiksa BPK - finance.detik.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 03:30:05 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670765/laporan-keuangan-danantara-mulai-diperiksa-bpk"
+    },
+    {
+      "title": "BPK mulai audit laporan keuangan Danantara tahun 2025 - IDNFinancials",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 03:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/69110/bpk-mulai-audit-laporan-keuangan-danantara-tahun-2025"
+    },
+    {
+      "title": "BPK mulai audit laporan keuangan Danantara tahun 2025 - IDNFinancials",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 03:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/69110/bpk-mulai-audit-laporan-keuangan-danantara-tahun-2025"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Danantara, Ini yang Diaudit - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 01:11:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/20/081100826/bpk-mulai-periksa-laporan-keuangan-danantara-ini-yang-diaudit"
+    },
     {
       "title": "KPPU Perkuat Persaingan Usaha dan Hilirisasi di Lampung - rri.co.id",
       "entity": "KPPU",
@@ -110,6 +181,13 @@
       "link": "https://voi.id/berita/594878/dirjen-pen-kemendag-ri-transaksi-ekspor-umkm-tahun-ini-mencapai-rp-5-824-triliun-ditargetkan-tumbuh-lagi"
     },
     {
+      "title": "Ida Fauziyah Soroti Absennya Pimpinan Jaksel di Forum Pengelolaan Sampah - spektroom.co.id",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Sat, 19 Sep 2026 23:38:38 GMT",
+      "link": "https://spektroom.co.id/ida-fauziyah-soroti-absennya-pimpinan-jaksel-di-forum-pengelolaan-sampah/"
+    },
+    {
       "title": "Kasus Manipulasi 25 Merek Beras Fortifikasi: Izin Edar Dicabut Kementan, Kerugian Konsumen Rp89 Triliun - AFU.id",
       "entity": "BPKN",
       "kind": "lembaga",
@@ -122,83 +200,6 @@
       "kind": "lembaga",
       "published": "Sat, 19 Sep 2026 21:10:00 GMT",
       "link": "https://voi.id/berita/594860/bpkn-minta-konsumen-simpan-bukti-pembelian-beras-fortifikasi-ganti-rugi-bisa-dituntut"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 17:09:20 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260920/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Menanti Opini Laporan Keuangan 2025: BPK Sedang Periksa Laporan Keuangan BPI Danantara Tahun 2025 - Iconomics",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 16:52:30 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/menanti-opini-laporan-keuangan-2025-bpk-sedang-periksa-laporan-keuangan-bpi-danantara-tahun-2025/"
-    },
-    {
-      "title": "Arus logistik menguat, BP Batam catat pertumbuhan kinerja kepelabuhanan hingga Agustus 2026 - Jurnal Terkini",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 16:12:24 GMT",
-      "link": "https://jurnalterkini.id/berita/81798/arus-logistik-menguat-bp-batam-catat-pertumbuhan-kinerja-kepelabuhanan-hingga-agustus-2026/"
-    },
-    {
-      "title": "BPK Audit Laporan Keuangan Danantara 2025, Pemeriksaan ke Seluruh BUMN - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 15:32:00 GMT",
-      "link": "https://wartaekonomi.co.id/read635731/bpk-audit-laporan-keuangan-danantara-2025-pemeriksaan-ke-seluruh-bumn"
-    },
-    {
-      "title": "BPK Audit Laporan Keuangan Danantara 2025, Pemeriksaan ke Seluruh BUMN - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 15:32:00 GMT",
-      "link": "https://wartaekonomi.co.id/read635731/bpk-audit-laporan-keuangan-danantara-2025-pemeriksaan-ke-seluruh-bumn"
-    },
-    {
-      "title": "BPK Audit Laporan Keuangan Danantara 2025, Pemeriksaan ke Seluruh BUMN - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 15:32:00 GMT",
-      "link": "https://wartaekonomi.co.id/read635731/bpk-audit-laporan-keuangan-danantara-2025-pemeriksaan-ke-seluruh-bumn"
-    },
-    {
-      "title": "BPK Mulai Audit Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 15:24:04 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5476586/bpk-mulai-audit-laporan-keuangan-konsolidasian-bpi-danantara-tahun-2025"
-    },
-    {
-      "title": "BPK Mulai Audit Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 15:24:04 GMT",
-      "link": "https://www.rctiplus.com/news/detail/terkini/5476586/bpk-mulai-audit-laporan-keuangan-konsolidasian-bpi-danantara-tahun-2025?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5476586"
-    },
-    {
-      "title": "Karya Pengrajin Bali Kerap Dijiplak, Mufti Anam: Negara Tak Cukup Hanya Beri Sertifikat - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sat, 19 Sep 2026 15:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/karya-pengrajin-bali-kerap-dijiplak-mufti-anam-negara-tak-cukup-hanya-beri-sertifikat-b2qbjZbhVG"
-    },
-    {
-      "title": "Anggaran KPPU 2027 Melonjak Tiga Kali Lipat, DPR Pertanyakan Manfaat untuk Rakyat - OWRITE",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 14:30:00 GMT",
-      "link": "https://www.owrite.id/nasional/2026/09/19/anggaran-kppu-2027-melonjak-tiga-kali-lipat-dpr-pertanyakan-manfaat-untuk-rakyat/"
-    },
-    {
-      "title": "Pemprov Lampung dan KPPU Perkuat Sinergi, Dorong Iklim Usaha Sehat - radartanggamus.disway.id - Radar Tanggamus",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 14:17:00 GMT",
-      "link": "https://radartanggamus.disway.id/provinsi/read/22088/pemprov-lampung-dan-kppu-perkuat-sinergi-dorong-iklim-usaha-sehat"
     }
   ]
 }
