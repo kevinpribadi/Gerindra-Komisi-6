@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-19T22:05:43.920396",
+  "generated_at": "2026-09-20T00:37:42.965143",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 17,
@@ -39,10 +39,10 @@
     "dividen": 2,
     "koperasi": 57,
     "investasi": 13,
+    "umkm": 11,
+    "ekspor": 2,
     "perdagangan": 11,
-    "ekspor": 1,
-    "umkm": 10,
-    "kartel-monopoli": 12,
+    "kartel-monopoli": 13,
     "impor": 2,
     "ipo": 1
   },
@@ -89,12 +89,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 12,
-    "Hukum/Audit": 29,
+    "Koperasi/UMKM": 63,
+    "Perdagangan": 13,
+    "Hukum/Audit": 28,
     "Konflik Publik": 10
   },
   "top_headlines": [
+    {
+      "title": "KPPU Perkuat Persaingan Usaha dan Hilirisasi di Lampung - rri.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 00:28:00 GMT",
+      "link": "https://rri.co.id/bandar-lampung/regional/2741775/kppu-perkuat-persaingan-usaha-dan-hilirisasi-di-lampung"
+    },
+    {
+      "title": "Dirjen PEN Kemendag RI: Transaksi Ekspor UMKM Tahun Ini Mencapai Rp 5,824 Triliun Ditargetkan Tumbuh Lagi - VOI.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 19 Sep 2026 23:49:00 GMT",
+      "link": "https://voi.id/berita/594878/dirjen-pen-kemendag-ri-transaksi-ekspor-umkm-tahun-ini-mencapai-rp-5-824-triliun-ditargetkan-tumbuh-lagi"
+    },
     {
       "title": "Kasus Manipulasi 25 Merek Beras Fortifikasi: Izin Edar Dicabut Kementan, Kerugian Konsumen Rp89 Triliun - AFU.id",
       "entity": "BPKN",
@@ -185,20 +199,6 @@
       "kind": "lembaga",
       "published": "Sat, 19 Sep 2026 14:17:00 GMT",
       "link": "https://radartanggamus.disway.id/provinsi/read/22088/pemprov-lampung-dan-kppu-perkuat-sinergi-dorong-iklim-usaha-sehat"
-    },
-    {
-      "title": "BPK Mulai Audit Laporan Keuangan Danantara 2025, Tata Kelola dan Risiko Jadi Sorotan - Kalbar News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 13:34:00 GMT",
-      "link": "https://www.kalbarnews.co.id/2026/09/bpk-mulai-audit-laporan-keuangan.html"
-    },
-    {
-      "title": "Rizal Bawazier Soroti Koperasi Merah Putih: Anggaran Sudah Disiapkan, Pelaksanaan Harus Segera Jalan - VIVA Jogja",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 19 Sep 2026 13:17:00 GMT",
-      "link": "https://jogja.viva.co.id/pantura-raya/11715-rizal-bawazier-soroti-koperasi-merah-putih-anggaran-sudah-disiapkan-pelaksanaan-harus-segera-jalan"
     }
   ]
 }
