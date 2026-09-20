@@ -1,19 +1,19 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-20T10:36:23.979828",
+  "generated_at": "2026-09-20T14:28:14.674184",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 18,
-    "Golkar": 29,
+    "PDI-P": 19,
+    "Golkar": 30,
     "NasDem": 3,
     "PKB": 13,
-    "PKS": 39,
+    "PKS": 38,
     "PAN": 2,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 72,
+    "PDI-P": 73,
     "Golkar": 91,
     "NasDem": 20,
     "PKB": 52,
@@ -37,13 +37,13 @@
     "bumn": 48,
     "danantara": 30,
     "dividen": 2,
-    "koperasi": 57,
-    "investasi": 10,
+    "koperasi": 58,
+    "investasi": 11,
     "umkm": 11,
     "ekspor": 3,
     "perdagangan": 11,
     "ipo": 2,
-    "kartel-monopoli": 14,
+    "kartel-monopoli": 13,
     "impor": 2
   },
   "member_counts_30d": {
@@ -59,17 +59,17 @@
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
-    "Sadarestuwati": 1,
+    "Sadarestuwati": 2,
     "Ida Nurlaela": 14,
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 11,
+    "Gde Sumarjaya Linggih": 10,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 17,
+    "Rizki Faisal": 18,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 7,
@@ -92,10 +92,45 @@
     "Kinerja BUMN": 27,
     "Koperasi/UMKM": 63,
     "Perdagangan": 15,
-    "Hukum/Audit": 33,
-    "Konflik Publik": 10
+    "Konflik Publik": 12,
+    "Hukum/Audit": 34
   },
   "top_headlines": [
+    {
+      "title": "340 Ribu SGD Palsu Diduga Beredar, Rizki Faisal Minta Polisi Ungkap Jaringannya - Fraksi Partai Golkar",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sun, 20 Sep 2026 14:19:32 GMT",
+      "link": "https://fraksigolkar.com/read/2634/340-ribu-sgd-palsu-diduga-beredar-rizki-faisal-minta-polisi-ungkap-jaringannya"
+    },
+    {
+      "title": "Menkop Ajak Mahasiswa Jadikan Koperasi Wadah Usaha Kolektif dan Inovasi Ekonomi - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 13:26:00 GMT",
+      "link": "https://rri.co.id/baubau/info-kementerian/2742813/menkop-ajak-mahasiswa-jadikan-koperasi-wadah-usaha-kolektif-dan-inovasi-ekonomi"
+    },
+    {
+      "title": "BPK Mulai Audit Danantara, Minta Akses Penuh Data dan Informasi - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 12:58:00 GMT",
+      "link": "https://tirto.id/bpk-mulai-audit-danantara-minta-akses-penuh-data-dan-informasi-hC5o"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 12:10:04 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260920160351-532-1406071/bpk-mulai-periksa-laporan-keuangan-danantara"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 11:50:00 GMT",
+      "link": "https://investortrust.id/financial/116885/bpk-mulai-periksa-laporan-keuangan-danantara"
+    },
     {
       "title": "BPK Mulai Periksa Laporan Keuangan Danantara 2025, Ruang Lingkupnya Luas - beritabuana.co",
       "entity": "Danantara",
@@ -116,6 +151,20 @@
       "kind": "lembaga",
       "published": "Sun, 20 Sep 2026 09:04:03 GMT",
       "link": "https://nasional.kontan.co.id/news/bpk-periksa-laporan-keuangan-danantara-2025-seluruh-bumn-masuk-cakupan-audit"
+    },
+    {
+      "title": "Sadarestuwati: Padi MSP 65 Atau GP 65 Bogor Salah Satu Solusi Swasembada Pangan - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Sun, 20 Sep 2026 09:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sadarestuwati-padi-msp-65-atau-gp-65-bogor-salah-satu-solusi-swasembada-pangan-b2qbmZbiaK"
+    },
+    {
+      "title": "Polemik Kopdes: Ketidakpastian Gaji hingga Intervensi Pusat - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 09:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/122138/polemik-kopdes-ketidakpastian-gaji-hingga-intervensi-pusat"
     },
     {
       "title": "Pemprov Lampung-KPPU Perkuat Sinergi Ciptakan Iklim Usaha Sehat dan Kompetitif - - trennews.co",
@@ -139,67 +188,18 @@
       "link": "https://kumparan.com/kumparannews/andre-rosiade-prabowo-bangun-jalan-lubuk-pinang-talimato-rp-26-8-m-dengan-ijd-28DhkB0GWPq"
     },
     {
+      "title": "Kisruh penempatan manajer Koperasi Merah Putih molor – 'Banyak yang resign dari pekerjaan lama, tapi belum ada kepastian sampai sekarang' - BBC",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 20 Sep 2026 06:58:54 GMT",
+      "link": "https://www.bbc.com/indonesia/articles/ck3rezy54ldlo"
+    },
+    {
       "title": "BPK Mulai Audit Laporan Keuangan Danantara - Ipol.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Sun, 20 Sep 2026 06:21:35 GMT",
       "link": "https://ipol.id/2026/09/300915/"
-    },
-    {
-      "title": "KPPU: Perlu Perhatian Struktur dan Penawaran Persaingan Usaha Lampung - IDN Times Lampung",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 06:02:00 GMT",
-      "link": "https://lampung.idntimes.com/news/lampung/kppu-perlu-perhatian-struktur-dan-penawaran-persaingan-usaha-lampung-00-jx8f8-3grlgr"
-    },
-    {
-      "title": "BP Batam dan Pertamina Patra Niaga Perkuat Layanan Energi Penerbangan Bandara Hang Nadim - Batamtoday.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 05:37:11 GMT",
-      "link": "https://batamtoday.com/news/bp-batam-dan-pertamina-patra-niaga-perkuat-layanan-energi-penerbangan-bandara-hang-nadim"
-    },
-    {
-      "title": "Rencana Danantara Biayai LRT Bisa Kurangi Obligasi Daerah hingga Jaga Ruang Fiskal - Bisnis.com - Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 05:36:59 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260920/98/2005608/rencana-danantara-biayai-lrt-bisa-kurangi-obligasi-daerah-hingga-jaga-ruang-fiskal"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Konsolidasian BPI Danantara 2025 - suaragarut.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 05:15:58 GMT",
-      "link": "https://suaragarut.id/bpk-periksa-laporan-keuangan-danantara"
-    },
-    {
-      "title": "Kemenkop Fokus Perkuat KDKMP dan Tata Kelola Koperasi Nasional - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 05:04:00 GMT",
-      "link": "https://rri.co.id/denpasar/nasional/2742807/kemenkop-fokus-perkuat-kdkmp-dan-tata-kelola-koperasi-nasional"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Konsolidasian Danantara Tahun 2025 - ChatNews.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 04:39:46 GMT",
-      "link": "https://chatnews.id/bpk-periksa-laporan-danantara"
-    },
-    {
-      "title": "Rizal Bawazier Fasilitasi CSR BNI, Limpung Kini Punya Jogging Track - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 20 Sep 2026 04:15:00 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617656008/rizal-bawazier-fasilitasi-csr-bni-limpung-kini-punya-jogging-track"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 04:12:40 GMT",
-      "link": "https://nasional.kontan.co.id/news/bpk-mulai-periksa-laporan-keuangan-danantara"
     }
   ]
 }
