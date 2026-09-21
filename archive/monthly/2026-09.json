@@ -1,20 +1,20 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-21T00:56:32.901461",
+  "generated_at": "2026-09-21T05:57:11.634729",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 19,
+    "PDI-P": 20,
     "Golkar": 30,
     "NasDem": 3,
-    "PKB": 13,
+    "PKB": 10,
     "PKS": 38,
     "PAN": 2,
-    "Demokrat": 2
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 73,
-    "Golkar": 91,
+    "PDI-P": 74,
+    "Golkar": 89,
     "NasDem": 20,
     "PKB": 52,
     "PKS": 60,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "danantara": 31,
+    "bumn": 49,
+    "danantara": 30,
     "dividen": 2,
     "koperasi": 59,
-    "investasi": 11,
-    "umkm": 11,
-    "ekspor": 3,
+    "investasi": 9,
+    "umkm": 9,
+    "ekspor": 2,
     "perdagangan": 11,
     "ipo": 2,
     "kartel-monopoli": 13,
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 13,
     "Unru Baso": 1,
     "Mulyadi": 18,
-    "Adisatrya Suryo Sulisto": 8,
+    "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 14,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
@@ -64,13 +64,13 @@
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 10,
+    "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 7,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 18,
-    "Muhammad Sarmuji": 20,
+    "Muhammad Sarmuji": 19,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 10,
@@ -89,117 +89,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 64,
+    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 63,
     "Perdagangan": 17,
     "Konflik Publik": 13,
     "Hukum/Audit": 35
   },
   "top_headlines": [
     {
-      "title": "Bupati Solok Dampingi Ketua Komisi VI DPR RI Tinjau Jalan Rawang Sulit Air - Suha News",
+      "title": "Koperasi Desa Merah Putih Mulai Soft Launching Oktober 2026 - SuaraGarut.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:46:29 GMT",
+      "link": "https://suaragarut.id/koperasi-desa-merah-putih-soft-launching-oktober"
+    },
+    {
+      "title": "Mendag: MBG dapat seimbangkan pasokan dan permintaan bapok di pasaran - ANTARA News Yogyakarta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:42:03 GMT",
+      "link": "https://jogja.antaranews.com/berita/855243/mendag-mbg-dapat-seimbangkan-pasokan-dan-permintaan-bapok-di-pasaran"
+    },
+    {
+      "title": "BPK Mulai Periksa Laporan Keuangan Danantara dan Seluruh BUMN Tahun 2025 - aktual.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:29:15 GMT",
+      "link": "https://aktual.com/bpk-mulai-periksa-laporan-keuangan-danantara-dan-seluruh-bumn-tahun-2025/"
+    },
+    {
+      "title": "Menanti Janji Perlindungan Konsumen Pasca Kasus Beras Fortifikasi - bataviapos.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:26:24 GMT",
+      "link": "https://bataviapos.id/ella-devianti-effendi/menanti-janji-perlindungan-konsumen-pasca-kasus-beras-fortifikasi/"
+    },
+    {
+      "title": "15 Distributor Minyakita Dapat Teguran Tertulis, Jual Harga Melebihi HET Sampai Tidak Batasi Pembelian - merahputih.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:16:15 GMT",
+      "link": "https://www.merahputih.com/post/read/15-distributor-minyakita-dapat-teguran-tertulis-jual-harga-melebihi-het-sampai-tidak-batasi-pembelian"
+    },
+    {
+      "title": "BPK Laksanakan Audit, Laporan Keuangan Danantara Segera Dirilis ke Publik - Data Indonesia.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 05:14:43 GMT",
+      "link": "https://dataindonesia.id/keuangan/detail/bpk-laksanakan-audit-laporan-keuangan-danantara-segera-dirilis-ke-publik"
+    },
+    {
+      "title": "Wali Kota Solok Bersama Andre Rosiade, Pastikan Pembangunan Jalan Lingkar Utara Dilanjutkan - Posmetro Padang",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 00:00:41 GMT",
-      "link": "https://suhanews.co.id/bupati-solok-dampingi-ketua-komisi-vi-dpr-ri-tinjau/"
+      "published": "Mon, 21 Sep 2026 05:05:38 GMT",
+      "link": "https://posmetropadang.co.id/wali-kota-solok-bersama-andre-rosiade-pastikan-pembangunan-jalan-lingkar-utara-dilanjutkan-435042/"
     },
     {
-      "title": "BPK Audit Laporan Keuangan Konsolidasian BPI Danantara Tahun 2025 - SuaraGarut.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 00:00:16 GMT",
-      "link": "https://suaragarut.id/bpk-audit-laporan-keuangan-bpi-danantara-2025"
-    },
-    {
-      "title": "Ini yang Diperiksa BPK di Laporan Keuangan Danantara - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 23:56:31 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671520/ini-yang-diperiksa-bpk-di-laporan-keuangan-danantara"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Danantara Tahun Buku 2025 - Bisnis.com - Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 17:25:24 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260921/9/2005677/bpk-mulai-periksa-laporan-keuangan-danantara-tahun-buku-2025"
-    },
-    {
-      "title": "BPK Resmi Audit Laporan Keuangan Konsolidasian BPI Danantara dan Seluruh BUMN - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 16:39:23 GMT",
-      "link": "https://afu.id/ekonomi/bpk-resmi-audit-laporan-keuangan-konsolidasian-bpi-danantara-dan-seluruh-bumn"
-    },
-    {
-      "title": "BPK Resmi Audit Laporan Keuangan Konsolidasian BPI Danantara dan Seluruh BUMN - AFU.id",
+      "title": "BP BUMN apresiasi Bulog jaga ketahanan pangan nasional - ANTARA News Jambi",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 16:39:23 GMT",
-      "link": "https://afu.id/ekonomi/bpk-resmi-audit-laporan-keuangan-konsolidasian-bpi-danantara-dan-seluruh-bumn"
+      "published": "Mon, 21 Sep 2026 04:42:35 GMT",
+      "link": "https://jambi.antaranews.com/amp/berita/667709/bp-bumn-apresiasi-bulog-jaga-ketahanan-pangan-nasional"
     },
     {
-      "title": "Koperasi Desa Merah Putih Siap Menggeliat! 17.288 Unit Segera Beroperasi Akhir 2026 - Minangkabaunews.com",
+      "title": "BP BUMN apresiasi Bulog jaga ketahanan pangan nasional - ANTARA News Jambi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 04:42:35 GMT",
+      "link": "https://jambi.antaranews.com/berita/667709/bp-bumn-apresiasi-bulog-jaga-ketahanan-pangan-nasional"
+    },
+    {
+      "title": "Beras Fortifikasi Diduga Tak Sesuai Kandungan Gizi, BPKN: Hak Konsumen Harus Dilindungi - Info Ekonomi",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 04:00:10 GMT",
+      "link": "https://infoekonomi.id/2026/09/beras-fortifikasi-diduga-tak-sesuai-kandungan-gizi-bpkn-hak-konsumen-harus-dilindungi/"
+    },
+    {
+      "title": "Verval Koperasi Desa Merah Putih Dipercepat, Pemerintah Kejar Akurasi Data Nasional - idisnews.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 15:25:26 GMT",
-      "link": "https://minangkabaunews.com/koperasi-desa-merah-putih-siap-menggeliat-17-288-unit-segera-beroperasi-akhir-2026/"
+      "published": "Mon, 21 Sep 2026 03:48:00 GMT",
+      "link": "https://idisnews.co.id/berita/verval-koperasi-desa-merah-putih-dipercepat-pemerintah-kejar-akurasi-data-nasional"
     },
     {
-      "title": "340 Ribu SGD Palsu Diduga Beredar, Rizki Faisal Minta Polisi Ungkap Jaringannya - Fraksi Partai Golkar",
-      "entity": "Rizki Faisal",
+      "title": "BP BUMN Apresiasi Perum Bulog Jaga Ketahanan Pangan Nasional - Pontianak Post",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 03:36:04 GMT",
+      "link": "https://pontianakpost.jawapos.com/amp/ekonomi/2609210023/bp-bumn-apresiasi-perum-bulog-jaga-ketahanan-pangan-nasional"
+    },
+    {
+      "title": "BP BUMN Apresiasi Perum Bulog Jaga Ketahanan Pangan Nasional - Pontianak Post",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 03:36:04 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2609210023/bp-bumn-apresiasi-perum-bulog-jaga-ketahanan-pangan-nasional"
+    },
+    {
+      "title": "Adisatrya Suryo Sulisto: Komisi VI DPR Setujui Anggaran Kemendag 2027 Rp1,562 Triliun - gesuri.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 03:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-komisi-vi-dpr-setujui-anggaran-kemendag-2027-rp1-562-triliun-b2qbnZbic2"
+    },
+    {
+      "title": "Adisatrya Suryo Sulisto: Komisi VI DPR Setujui Anggaran Kemendag 2027 Rp1,562 Triliun - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
-      "published": "Sun, 20 Sep 2026 14:19:32 GMT",
-      "link": "https://fraksigolkar.com/read/2634/340-ribu-sgd-palsu-diduga-beredar-rizki-faisal-minta-polisi-ungkap-jaringannya"
-    },
-    {
-      "title": "Menteri Koperasi Apresiasi Percepatan Verval KDKMP di Riau - Media Center Riau",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 14:14:00 GMT",
-      "link": "https://mediacenter.riau.go.id/read/menteri-koperasi-apresiasi-percepatan-verval-kdkmp-di-riau"
-    },
-    {
-      "title": "Menkop Ajak Mahasiswa Jadikan Koperasi Wadah Usaha Kolektif dan Inovasi Ekonomi - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 13:26:00 GMT",
-      "link": "https://rri.co.id/baubau/info-kementerian/2742813/menkop-ajak-mahasiswa-jadikan-koperasi-wadah-usaha-kolektif-dan-inovasi-ekonomi"
-    },
-    {
-      "title": "BPK Mulai Audit Danantara, Minta Akses Penuh Data dan Informasi - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 12:58:00 GMT",
-      "link": "https://tirto.id/bpk-mulai-audit-danantara-minta-akses-penuh-data-dan-informasi-hC5o"
-    },
-    {
-      "title": "Gubernur Kalteng Raih Penghargaan Sebagai Tokoh Penggerak Koperasi - Hai Kalteng",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 12:26:17 GMT",
-      "link": "https://haikalteng.id/berita/read/1452/Gubernur%20Kalteng%20Agustiar%20Sabran%20Bersama%20Wagub%20Kalteng%20Edy%20Pratowo%20Kunjungan%20ke%20Kejaksaan%20Tinggi%20Kalteng%20dan%20Korem%20102/Gubernur%20Kalteng%20Agustiar%20Sabran%20Salurkan%20Bantuan%20Pangan%20kepada%20324%20Relawan%20Penanganan%20Karhutla"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 12:10:04 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260920160351-532-1406071/bpk-mulai-periksa-laporan-keuangan-danantara"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Danantara - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 11:50:00 GMT",
-      "link": "https://investortrust.id/financial/116885/bpk-mulai-periksa-laporan-keuangan-danantara"
-    },
-    {
-      "title": "BPK Mulai Periksa Laporan Keuangan Danantara 2025, Ruang Lingkupnya Luas - beritabuana.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 20 Sep 2026 09:52:40 GMT",
-      "link": "https://beritabuana.co/2026/09/20/bpk-mulai-periksa-laporan-keuangan-danantara-2025-ruang-lingkupnya-luas/"
+      "published": "Mon, 21 Sep 2026 03:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-komisi-vi-dpr-setujui-anggaran-kemendag-2027-rp1-562-triliun-b2qbnZbic2"
     }
   ]
 }
