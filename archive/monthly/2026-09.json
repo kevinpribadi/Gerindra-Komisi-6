@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-21T18:27:29.886258",
+  "generated_at": "2026-09-21T22:25:31.397664",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 27,
+    "PDI-P": 31,
     "Golkar": 30,
     "NasDem": 3,
-    "PKB": 11,
+    "PKB": 13,
     "PKS": 33,
-    "PAN": 3,
+    "PAN": 4,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 75,
+    "PDI-P": 76,
     "Golkar": 89,
     "NasDem": 20,
-    "PKB": 57,
+    "PKB": 59,
     "PKS": 61,
-    "PAN": 14,
+    "PAN": 15,
     "Demokrat": 15
   },
   "agency_counts_30d": {
@@ -38,13 +38,13 @@
     "danantara": 28,
     "dividen": 2,
     "koperasi": 60,
-    "investasi": 10,
+    "investasi": 11,
     "umkm": 10,
     "perdagangan": 8,
     "ekspor": 3,
     "ipo": 2,
     "kartel-monopoli": 12,
-    "impor": 3
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -55,7 +55,7 @@
     "Unru Baso": 1,
     "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 9,
-    "Mufti Anam": 15,
+    "Mufti Anam": 16,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -76,7 +76,7 @@
     "I Nengah Senantara": 10,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 14,
+    "Nasim Khan": 16,
     "Ida Fauziyah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
@@ -84,18 +84,46 @@
     "Ismail": 13,
     "Eko Patrio": 2,
     "Nasril Bahar": 4,
-    "Iskandar": 8,
+    "Iskandar": 9,
     "Sartono": 4,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Kinerja BUMN": 26,
     "Koperasi/UMKM": 65,
-    "Perdagangan": 25,
+    "Perdagangan": 27,
     "Konflik Publik": 12,
     "Hukum/Audit": 33
   },
   "top_headlines": [
+    {
+      "title": "Erin Wartia Resmi Laporkan Rieke Diah Pitaloka ke MKD DPR RI - Sumut Pos",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 21:00:15 GMT",
+      "link": "https://sumutpos.jawapos.com/infotainment/2609220007/erin-wartia-resmi-laporkan-rieke-diah-pitaloka-ke-mkd-dpr-ri"
+    },
+    {
+      "title": "Pihak Erin Laporkan Rieke Diah Pitaloka ke MKD, Singgung Sikap Anggota DPR yang Dinilai Overlap - VIVA.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 20:28:00 GMT",
+      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1930144-pihak-erin-laporkan-rieke-diah-pitaloka-ke-mkd-singgung-sikap-anggota-dpr-yang-dinilai-overlap"
+    },
+    {
+      "title": "Sinergi BP Batam dan Kejari Batam, Rp18,82 Miliar PNBP Sewa Perairan Tersus Berhasil Diselesaikan - wajahbatam.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 20:26:16 GMT",
+      "link": "https://wajahbatam.id/2026/09/22/sinergi-bp-batam-dan-kejari-batam-rp1882-miliar-pnbp-sewa-perairan-tersus-berhasil-diselesaikan/"
+    },
+    {
+      "title": "Gula Rafinasi Impor Masuk ke Pasar, DPR: .Merusak Harga Gula Kristal Putih Milik Petani Tebu Lokal - suarainvestor.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 18:40:18 GMT",
+      "link": "https://www.suarainvestor.com/gula-rafinasi-impor-masuk-ke-pasar-dpr-merusak-harga-gula-kristal-putih-milik-petani-tebu-lokal/"
+    },
     {
       "title": "Koperasi Didorong Jadi Motor Hilirisasi Perkebunan Rakyat - RRI.co.id",
       "entity": "Kementerian Koperasi",
@@ -139,6 +167,13 @@
       "link": "https://www.metrotvnews.com/read/kBVCM0XO-mendag-dorong-umkm-maksimalkan-marketplace-untuk-perluas-pasar"
     },
     {
+      "title": "Dua Platform Jadi Kanal Pertama Pilihan BuSan, Angkat Produk Kurasi Kemendag - Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 14:06:02 GMT",
+      "link": "https://mediaindonesia.com/nusantara/935910/dua-platform-jadi-kanal-pertama-pilihan-busan-angkat-produk-kurasi-kemendag"
+    },
+    {
       "title": "Gde Sumarjaya Linggih Dorong Koordinasi Lintas Sektor Diperkuat untuk Percepat Pembangunan - Fraksi Partai Golkar",
       "entity": "Gde Sumarjaya Linggih",
       "kind": "anggota",
@@ -165,41 +200,6 @@
       "kind": "anggota",
       "published": "Mon, 21 Sep 2026 13:02:25 GMT",
       "link": "https://harianrakyataceh.com/news/anggota-dpr-ri-ghufran-za-apresiasi-turnamen-mini-soccer-nurul-fikri-cup-dan-dorong-edukasi-bencana-di-dayah/index.html"
-    },
-    {
-      "title": "Sinergi BP Batam dan Kejari Batam Perkuat Tata Kelola Perairan Tersus, Rp18,82 Miliar PNBP Berhasil Diselesaikan - Mandala POS",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 12:53:37 GMT",
-      "link": "https://www.mandalapos.co.id/sinergi-bp-batam-dan-kejari-batam-perkuat-tata-kelola-perairan-tersus-rp1882-miliar-pnbp-berhasil-diselesaikan/"
-    },
-    {
-      "title": "Prabowo Minta Koperasi Kejar Ketertinggalan dari BUMN dan Swasta - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 12:10:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260921/12/2005810/prabowo-minta-koperasi-kejar-ketertinggalan-dari-bumn-dan-swasta"
-    },
-    {
-      "title": "Streamlining BUMN Dinilai Jadi Prestasi Fundamental Pemerintah - JPNN.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 11:46:24 GMT",
-      "link": "https://www.jpnn.com/news/streamlining-bumn-dinilai-jadi-prestasi-fundamental-pemerintah"
-    },
-    {
-      "title": "Tokopedia dan TikTok Shop Jadi Platform Digital Pertama Tampilkan Produk Lokal Kurasi Kemendag - Mettanews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 11:29:43 GMT",
-      "link": "https://mettanews.id/tokopedia-dan-tiktok-shop-jadi-platform-digital-pertama-tampilkan-produk-lokal-kurasi-kemendag/"
-    },
-    {
-      "title": "Menkop Tekankan Percepatan Reforma Agraria Berbasis Koperasi - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 11:19:00 GMT",
-      "link": "https://news.detik.com/berita/d-8672893/menkop-tekankan-percepatan-reforma-agraria-berbasis-koperasi"
     }
   ]
 }
