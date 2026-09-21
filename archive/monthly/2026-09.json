@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-21T12:18:14.557278",
+  "generated_at": "2026-09-21T18:27:29.886258",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 24,
-    "Golkar": 28,
+    "PDI-P": 27,
+    "Golkar": 30,
     "NasDem": 3,
-    "PKB": 10,
-    "PKS": 32,
+    "PKB": 11,
+    "PKS": 33,
     "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 74,
-    "Golkar": 88,
+    "PDI-P": 75,
+    "Golkar": 89,
     "NasDem": 20,
-    "PKB": 56,
-    "PKS": 60,
+    "PKB": 57,
+    "PKS": 61,
     "PAN": 14,
     "Demokrat": 15
   },
@@ -37,13 +37,13 @@
     "bumn": 52,
     "danantara": 28,
     "dividen": 2,
-    "koperasi": 61,
+    "koperasi": 60,
     "investasi": 10,
-    "perdagangan": 10,
+    "umkm": 10,
+    "perdagangan": 8,
     "ekspor": 3,
-    "umkm": 9,
     "ipo": 2,
-    "kartel-monopoli": 13,
+    "kartel-monopoli": 12,
     "impor": 3
   },
   "member_counts_30d": {
@@ -55,7 +55,7 @@
     "Unru Baso": 1,
     "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 9,
-    "Mufti Anam": 14,
+    "Mufti Anam": 15,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -69,7 +69,7 @@
     "Sarifah Suraidah": 7,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 18,
+    "Rizki Faisal": 19,
     "Muhammad Sarmuji": 18,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 7,
@@ -77,10 +77,10 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 14,
-    "Ida Fauziyah": 2,
+    "Ida Fauziyah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 7,
+    "Ghufran": 8,
     "Ismail": 13,
     "Eko Patrio": 2,
     "Nasril Bahar": 4,
@@ -92,10 +92,87 @@
     "Kinerja BUMN": 26,
     "Koperasi/UMKM": 65,
     "Perdagangan": 25,
-    "Konflik Publik": 13,
-    "Hukum/Audit": 34
+    "Konflik Publik": 12,
+    "Hukum/Audit": 33
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Didorong Jadi Motor Hilirisasi Perkebunan Rakyat - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 15:25:00 GMT",
+      "link": "https://rri.co.id/nasional/2747647/koperasi-didorong-jadi-motor-hilirisasi-perkebunan-rakyat"
+    },
+    {
+      "title": "Mufti Anam Pertanyakan Urgensi Tambahan Anggaran KPPU dan Apa Manfaat Konkret Bagi Rakyat? - gesuri.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-pertanyakan-urgensi-tambahan-anggaran-kppu-dan-apa-manfaat-konkret-bagi-rakyat-b2qboZbicG"
+    },
+    {
+      "title": "Mufti Anam Pertanyakan Urgensi Tambahan Anggaran KPPU dan Apa Manfaat Konkret Bagi Rakyat? - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-pertanyakan-urgensi-tambahan-anggaran-kppu-dan-apa-manfaat-konkret-bagi-rakyat-b2qboZbicG"
+    },
+    {
+      "title": "Serikat Petani Dorong Pembangunan Pabrik CPO Koperasi di Setiap Sentra Sawit - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 14:53:00 GMT",
+      "link": "https://investortrust.id/business/117011/serikat-petani-dorong-pembangunan-pabrik-cpo-koperasi-di-setiap-sentra-sawit"
+    },
+    {
+      "title": "Ida Fauziyah Ajak Generasi Muda Rawat Toleransi Jakarta lewat Empat Pilar Kebangsaan - daerah.sindonews.com",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 14:49:14 GMT",
+      "link": "https://daerah.sindonews.com/read/1752255/6/ida-fauziyah-ajak-generasi-muda-rawat-toleransi-jakarta-lewat-empat-pilar-kebangsaan-1789999763"
+    },
+    {
+      "title": "Mendag Dorong UMKM Maksimalkan Marketplace untuk Perluas Pasar - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 14:33:27 GMT",
+      "link": "https://www.metrotvnews.com/read/kBVCM0XO-mendag-dorong-umkm-maksimalkan-marketplace-untuk-perluas-pasar"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih Dorong Koordinasi Lintas Sektor Diperkuat untuk Percepat Pembangunan - Fraksi Partai Golkar",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 13:14:46 GMT",
+      "link": "https://fraksigolkar.com/read/2637/gde-sumarjaya-linggih-dorong-koordinasi-lintas-sektor-diperkuat-untuk-percepat-pembangunan"
+    },
+    {
+      "title": "Erin Wartia Laporkan Rieke Diah Pitaloka ke MKD DPR, Ini Alasannya - SINDOnews Lifestyle",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 13:14:00 GMT",
+      "link": "https://lifestyle.sindonews.com/read/1752217/187/erin-wartia-laporkan-rieke-diah-pitaloka-ke-mkd-dpr-ini-alasannya-1789996184"
+    },
+    {
+      "title": "Menkop Targetkan KDKMP Mulai Operasional Akhir September atau Awal Oktober - BorneoFlash.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 13:11:00 GMT",
+      "link": "https://borneoflash.com/2026/09/21/menkop-targetkan-kdkmp-mulai-operasional-akhir-september-atau-awal-oktober"
+    },
+    {
+      "title": "Anggota DPR RI Ghufran ZA Apresiasi Turnamen Mini Soccer Nurul Fikri Cup dan Dorong Edukasi Bencana di Dayah - harianrakyataceh.com",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Mon, 21 Sep 2026 13:02:25 GMT",
+      "link": "https://harianrakyataceh.com/news/anggota-dpr-ri-ghufran-za-apresiasi-turnamen-mini-soccer-nurul-fikri-cup-dan-dorong-edukasi-bencana-di-dayah/index.html"
+    },
+    {
+      "title": "Sinergi BP Batam dan Kejari Batam Perkuat Tata Kelola Perairan Tersus, Rp18,82 Miliar PNBP Berhasil Diselesaikan - Mandala POS",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 21 Sep 2026 12:53:37 GMT",
+      "link": "https://www.mandalapos.co.id/sinergi-bp-batam-dan-kejari-batam-perkuat-tata-kelola-perairan-tersus-rp1882-miliar-pnbp-berhasil-diselesaikan/"
+    },
     {
       "title": "Prabowo Minta Koperasi Kejar Ketertinggalan dari BUMN dan Swasta - Bisnis.com - Ekonomi",
       "entity": "Kementerian Koperasi",
@@ -123,83 +200,6 @@
       "kind": "lembaga",
       "published": "Mon, 21 Sep 2026 11:19:00 GMT",
       "link": "https://news.detik.com/berita/d-8672893/menkop-tekankan-percepatan-reforma-agraria-berbasis-koperasi"
-    },
-    {
-      "title": "Erin Wartia Resmi Laporkan Rieke Diah Pitaloka ke MKD Usai Bela Eks ART - celebrity.okezone.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 10:37:27 GMT",
-      "link": "https://celebrity.okezone.com/read/2026/09/21/33/3243370/erin-wartia-resmi-laporkan-rieke-diah-pitaloka-ke-mkd-usai-bela-eks-art"
-    },
-    {
-      "title": "Streamlining BUMN Dinilai Jadi Prestasi Fundamental Pemerintah - RM.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 10:26:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/327052/streamlining-bumn-dinilai-jadi-prestasi-fundamental-pemerintah"
-    },
-    {
-      "title": "Dituding Ikut Campur Kasus Dugaan Penganiayaan ART, Rieke Diah Pitaloka Resmi Dilaporkan Pihak Erin ke MKD - Grid.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 10:15:00 GMT",
-      "link": "https://www.grid.id/read/044414753/dituding-ikut-campur-kasus-dugaan-penganiayaan-art-rieke-diah-pitaloka-resmi-dilaporkan-pihak-erin-ke-mkd"
-    },
-    {
-      "title": "Sosialisasi Empat Pilar di GOR Mampang, Ida Fauziyah Ajak Warga Jakarta Perkuat Nilai Kebangsaan - FPKB DPR RI",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 10:05:07 GMT",
-      "link": "https://www.fraksipkb.com/2026/09/21/sosialisasi-empat-pilar-di-gor-mampang-ida-fauziyah-ajak-warga-jakarta-perkuat-nilai-kebangsaan/"
-    },
-    {
-      "title": "Nasril Bahar Minta Kemendag Fokus Jaga Stabilitas Harga dan Daya Beli - Bela Rakyat",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 10:00:35 GMT",
-      "link": "https://belarakyat.com/nasril-bahar-minta-kemendag-fokus-jaga-stabilitas-harga-dan-daya-beli/"
-    },
-    {
-      "title": "Nasril Bahar Minta Kemendag Fokus Jaga Stabilitas Harga dan Daya Beli - Bela Rakyat",
-      "entity": "Nasril Bahar",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 10:00:35 GMT",
-      "link": "https://belarakyat.com/nasril-bahar-minta-kemendag-fokus-jaga-stabilitas-harga-dan-daya-beli/"
-    },
-    {
-      "title": "Sinergi BP Batam dan Kejari Batam, Rp18,82 Miliar PNBP Sewa Perairan Tersus Berhasil Diselesaikan - BP Batam",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 09:59:01 GMT",
-      "link": "https://bpbatam.go.id/sinergi-bp-batam-dan-kejari-batam-rp1882-miliar-pnbp-sewa-perairan-tersus-berhasil-diselesaikan/"
-    },
-    {
-      "title": "Menkop Ferry Dorong Koperasi Petani Sawit Bangun Pabrik CPO Mandiri - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 09:59:00 GMT",
-      "link": "https://investortrust.id/business/116968/menkop-ferry-dorong-koperasi-petani-sawit-bangun-pabrik-cpo-mandiri"
-    },
-    {
-      "title": "Koperasi Desa Merah Putih Mulai Soft Launching Operasional Oktober 2026 - NusantaraTV",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 09:56:13 GMT",
-      "link": "https://www.nusantaratv.com/finance/koperasi-desa-merah-putih-mulai-soft-launching-operasional-oktober-2026"
-    },
-    {
-      "title": "Erin Wartia Laporkan Rieke Diah Pitaloka ke MKD usai Bela Eks ART - RCTI+",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 09:50:00 GMT",
-      "link": "https://www.rctiplus.com/news/detail/inews/5477493/erin-wartia-laporkan-rieke-diah-pitaloka-ke-mkd-usai-bela-eks-art"
-    },
-    {
-      "title": "Menkop Dorong Petani Sawit Bentuk Koperasi hingga Bangun Pabrik CPO - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 09:42:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/21/164200326/menkop-dorong-petani-sawit-bentuk-koperasi-hingga-bangun-pabrik-cpo"
     }
   ]
 }
