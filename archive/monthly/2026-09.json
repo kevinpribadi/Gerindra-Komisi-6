@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-22T20:55:17.254622",
+  "generated_at": "2026-09-22T23:28:42.202372",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 34,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 59,
-    "danantara": 23,
+    "bumn": 60,
+    "danantara": 22,
     "dividen": 3,
     "koperasi": 72,
     "investasi": 13,
-    "umkm": 16,
-    "ekspor": 6,
-    "perdagangan": 9,
+    "umkm": 17,
+    "ekspor": 7,
+    "perdagangan": 8,
     "impor": 8,
     "kartel-monopoli": 12,
     "ipo": 1
@@ -90,18 +90,32 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 25,
-    "Koperasi/UMKM": 74,
-    "Perdagangan": 31,
-    "Hukum/Audit": 22,
+    "Koperasi/UMKM": 75,
+    "Perdagangan": 32,
+    "Hukum/Audit": 21,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Rieke Diah Pitaloka Dilaporkan Mantan Istri Andre Taulany - putraindonews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 21:45:10 GMT",
+      "link": "https://putraindonews.com/berita/rieke-diah-pitaloka-dilaporkan-mantan-istri-andre-taulany"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 22 Sep 2026 17:28:43 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260923/Mjc0NDQ0"
+    },
+    {
+      "title": "Lewat InaExport, UMKM Indonesia Didorong Makin Agresif Menembus Pasar Ekspor - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 16:37:22 GMT",
+      "link": "https://indoposco.id/2026/09/22/lewat-inaexport-umkm-indonesia-didorong-makin-agresif-menembus-pasar-ekspor/"
     },
     {
       "title": "Kemendag: Pengakses InaExport Naik Hampir 500 Persen pada 2026 - MetroTVNews.com",
@@ -146,6 +160,13 @@
       "link": "https://www.jpnn.com/news/mkd-dpr-bakal-panggil-rieke-diah-pitaloka-terkait-aduan-mantan-istri-andre-taulany"
     },
     {
+      "title": "Prabowo minta Himbara biayai pembaruan mesin industri tekstil - ANTARA News Jambi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 14:09:26 GMT",
+      "link": "https://jambi.antaranews.com/berita/667840/prabowo-minta-himbara-biayai-pembaruan-mesin-industri-tekstil"
+    },
+    {
       "title": "Dony Oskaria: Manajer Kopdes Merah Putih Bukan Pegawai BUMN - Tempo.co",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -179,27 +200,6 @@
       "kind": "lembaga",
       "published": "Tue, 22 Sep 2026 13:16:00 GMT",
       "link": "https://www.cnnindonesia.com/ekonomi/20260922195716-92-1407011/rosan-ungkap-perkembangan-wacana-pembentukan-bumn-tekstil"
-    },
-    {
-      "title": "Kemendag dan Kementerian UMKM Perluas Akses Ekspor Melalui Platform InaExport - InvestorTrust",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 13:15:00 GMT",
-      "link": "https://investortrust.id/business/117135/kemendag-dan-kementerian-umkm-perluas-akses-ekspor-melalui-platform-inaexport"
-    },
-    {
-      "title": "Bulog bersama DPR kawal penyaluran bantuan pangan di Jakarta - antaranews.com",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 13:14:15 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5753479/bulog-bersama-dpr-kawal-penyaluran-bantuan-pangan-di-jakarta"
-    },
-    {
-      "title": "Kementerian UMKM dan Kemendag Perluas Akses Ekspor, InaExport Jadi Pintu UMKM ke Pasar Global - rmbanten.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 13:02:00 GMT",
-      "link": "https://rmbanten.com/berita/kementerian-umkm-dan-kemendag-perluas-akses-ekspor-inaexport-jadi-pintu-umkm-ke-pasar-global"
     }
   ]
 }
