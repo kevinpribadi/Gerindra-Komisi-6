@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-22T07:16:49.127796",
+  "generated_at": "2026-09-22T13:04:32.372469",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 31,
-    "Golkar": 26,
+    "PDI-P": 33,
+    "Golkar": 20,
     "NasDem": 3,
-    "PKB": 10,
-    "PKS": 31,
-    "PAN": 5,
-    "Demokrat": 1
+    "PKB": 14,
+    "PKS": 29,
+    "PAN": 6,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 60,
-    "PDI-P": 76,
-    "Golkar": 90,
+    "PDI-P": 75,
+    "Golkar": 91,
     "NasDem": 20,
-    "PKB": 60,
+    "PKB": 61,
     "PKS": 60,
-    "PAN": 16,
-    "Demokrat": 15
+    "PAN": 17,
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "danantara": 26,
+    "bumn": 58,
+    "danantara": 25,
     "dividen": 3,
-    "koperasi": 63,
-    "investasi": 10,
-    "impor": 5,
-    "umkm": 11,
-    "perdagangan": 8,
-    "ekspor": 1,
+    "koperasi": 71,
+    "investasi": 11,
+    "umkm": 14,
+    "ekspor": 4,
+    "perdagangan": 9,
+    "impor": 7,
     "kartel-monopoli": 12,
     "ipo": 1
   },
@@ -61,12 +61,12 @@
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 14,
-    "Budi Sulistyono": 2,
+    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 1,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 8,
-    "Sarifah Suraidah": 8,
+    "Sarifah Suraidah": 9,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 20,
@@ -76,130 +76,130 @@
     "I Nengah Senantara": 10,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 17,
+    "Nasim Khan": 18,
     "Ida Fauziyah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 19,
     "Ghufran": 8,
     "Ismail": 13,
     "Eko Patrio": 2,
-    "Nasril Bahar": 4,
+    "Nasril Bahar": 5,
     "Iskandar": 10,
-    "Sartono": 4,
+    "Sartono": 3,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 68,
-    "Perdagangan": 26,
-    "Hukum/Audit": 30,
-    "Konflik Publik": 10
+    "Koperasi/UMKM": 72,
+    "Perdagangan": 29,
+    "Hukum/Audit": 27,
+    "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "Dony Oskaria Tegaskan Manajer Kopdes Bukan Berstatus Pegawai BUMN - detikFinance",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 06:59:51 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673907/dony-oskaria-tegaskan-manajer-kopdes-bukan-berstatus-pegawai-bumn"
-    },
-    {
-      "title": "Manajer Kopdes Berstatus Pegawai BUMN, Dikontrak Dua Tahun - CNN Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 06:57:28 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260922133301-92-1406802/manajer-kopdes-berstatus-pegawai-bumn-dikontrak-dua-tahun"
-    },
-    {
-      "title": "Pihak Erin Wartia Laporkan Rieke Diah Pitaloka ke MKD, Ini Alasannya - Kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 06:34:00 GMT",
-      "link": "https://entertainment.kompas.com/read/2026/09/22/133448466/pihak-erin-wartia-laporkan-rieke-diah-pitaloka-ke-mkd-ini-alasannya"
-    },
-    {
-      "title": "Pramono Minta Danantara Bantu Biayai Perpanjangan Rute LRT, Rano Karno: Jakarta Milik Indonesia - VOI.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 06:26:00 GMT",
-      "link": "https://voi.id/berita/595183/pramono-minta-danantara-bantu-biayai-perpanjangan-rute-lrt-rano-karno-jakarta-milik-indonesia"
-    },
-    {
-      "title": "Bea Cukai Ungkap Modus Penyeludupan Impor Beras-Balpres Ilegal - Bloomberg Technoz",
+      "title": "Pemerintah perluas akses ekspor bagi UMKM lewat InaExport - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 06:17:34 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/122327/bea-cukai-ungkap-modus-penyeludupan-impor-beras-balpres-ilegal"
+      "published": "Tue, 22 Sep 2026 12:41:15 GMT",
+      "link": "https://www.antaranews.com/berita/5753393/pemerintah-perluas-akses-ekspor-bagi-umkm-lewat-inaexport?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
     },
     {
-      "title": "Rizki Faisal Minta Polisi Ungkap Jaringan Peredaran 340 Ribu Dolar Singapura Palsu - Batamtoday.com",
-      "entity": "Rizki Faisal",
+      "title": "Harga Minyak Dunia Tinggi, Mendag Wanti-wanti Neraca Dagang RI Bakal Menyusut - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 12:28:00 GMT",
+      "link": "https://investor.id/macroeconomy/455092/harga-minyak-dunia-tinggi-mendag-wantiwanti-neraca-dagang-ri-bakal-menyusut"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dipanggil MKD Soal Etika - malutpost.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 06:14:21 GMT",
-      "link": "https://batamtoday.com/news/rizki-faisal-minta-polisi-ungkap-jaringan-peredaran-340-ribu-dolar-singapura-palsu"
+      "published": "Tue, 22 Sep 2026 12:25:19 GMT",
+      "link": "https://malutpost.id/berita/rieke-diah-pitaloka-dipanggil-mkd-soal-etika/"
     },
     {
-      "title": "Manajer Koperasi Desa dan Kampung Nelayan Jadi Pegawai BUMN, Kontrak 2 Tahun - KilasJatim.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Gandeng Tokopedia dan TikTok Shop Pasarkan Produk Lokal Terkurasi - wartaekonomi.co.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 05:58:35 GMT",
-      "link": "https://kilasjatim.com/2026/09/22/manajer-koperasi-desa-dan-kampung-nelayan-jadi-pegawai-bumn-kontrak-2-tahun/"
+      "published": "Tue, 22 Sep 2026 12:19:00 GMT",
+      "link": "https://wartaekonomi.co.id/read636268/kemendag-gandeng-tokopedia-dan-tiktok-shop-pasarkan-produk-lokal-terkurasi"
     },
     {
-      "title": "Manajer Koperasi Desa dan Kampung Nelayan Jadi Pegawai BUMN, Kontrak 2 Tahun - KilasJatim.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Mendag Ungkap Penyebab Harga Cabai Rawit Tembus Rp70 Ribu - BorneoFlash.com",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 05:58:35 GMT",
-      "link": "https://kilasjatim.com/2026/09/22/manajer-koperasi-desa-dan-kampung-nelayan-jadi-pegawai-bumn-kontrak-2-tahun/"
+      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "link": "https://borneoflash.com/2026/09/22/mendag-ungkap-penyebab-harga-cabai-rawit-tembus-rp70-ribu"
     },
     {
-      "title": "Andre Rosiade Kirim 3 Ekskavator & 2 Dump Truck Tangani Galodo Kabupaten Solok - detikNews",
-      "entity": "Andre Rosiade",
+      "title": "Cegah Rembesan Gula Rafinasi, DPR Dorong Benahi Tata Kelola Impor - Telusur",
+      "entity": "Nasril Bahar",
       "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 05:49:00 GMT",
-      "link": "https://news.detik.com/berita/d-8673766/andre-rosiade-kirim-3-ekskavator-2-dump-truck-tangani-galodo-kabupaten-solok"
+      "published": "Tue, 22 Sep 2026 11:49:09 GMT",
+      "link": "https://telusur.co.id/polhukam-2/cegah-rembesan-gula-rafinasi-dpr-dorong-benahi-tata-kelola-impor"
     },
     {
-      "title": "BP BUMN Apresiasi Bulog Jaga Ketahanan Pangan Nasional - Suara.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 05:45:40 GMT",
-      "link": "https://www.suara.com/bisnis/2026/09/22/124540/bp-bumn-apresiasi-bulog-jaga-ketahanan-pangan-nasional"
+      "title": "Fraksi PKB setujui RUU Kadin jadi inisiatif DPR untuk perkuat UMKM - ANTARA News",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 11:38:45 GMT",
+      "link": "https://www.antaranews.com/berita/5753225/fraksi-pkb-setujui-ruu-kadin-jadi-inisiatif-dpr-untuk-perkuat-umkm"
     },
     {
-      "title": "Alasan Pemprov DKI Dorong Danantara Mendanai Proyek Lanjutan LRT Jakarta - MetroTVNews.com",
+      "title": "Danantara Bakal Bentuk BUMN Tekstil Baru, Gandeng Perusahaan Eksisting - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 05:42:23 GMT",
-      "link": "https://www.metrotvnews.com/read/KZmCQE8L-alasan-pemprov-dki-dorong-danantara-mendanai-proyek-lanjutan-lrt-jakarta"
+      "published": "Tue, 22 Sep 2026 11:28:36 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-bakal-bentuk-bumn-tekstil-baru-gandeng-perusahaan-eksisting"
     },
     {
-      "title": "Sarifah Suraidah Pastikan Bantuan Beras Pemerintah Tepat Sasaran di Kaltim - KaltimKita.com",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 05:27:01 GMT",
-      "link": "https://kaltimkita.com/detailpost/sarifah-suraidah-pastikan-bantuan-beras-pemerintah-tepat-sasaran-di-kaltim"
+      "title": "Kemendag Dorong Kopdes Merah Putih Masuk Program Desa Bisa Ekspor - Validnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 11:17:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/09/22/kemendag-dorong-kopdes-merah-putih-masuk-program-desa-bisa-ekspor-181700643"
     },
     {
-      "title": "Bulog Serap 3,9 Juta Ton Beras, BP BUMN Apresiasi Kinerja Jaga Ketahanan Pangan - rentak.id",
+      "title": "BP BUMN Puji Peran Bulog dalam Menjaga Ketahanan Pangan Nasional - CNN Indonesia",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 05:01:00 GMT",
-      "link": "https://rentak.id/bulog-serap-39-juta-ton-beras-bp-bumn-apresiasi-kinerja-jaga-ketahanan-pangan/"
+      "published": "Tue, 22 Sep 2026 11:06:07 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260922174419-97-1406936/bp-bumn-puji-peran-bulog-dalam-menjaga-ketahanan-pangan-nasional"
     },
     {
-      "title": "Andre Rosiade Dorong Pembenahan Menyeluruh Tata Niaga Gula Nasional - fraksi gerindra dpr-ri",
-      "entity": "Andre Rosiade",
+      "title": "Dony Oskaria Pastikan Manajer Kopdes Tak Berstatus Pegawai BUMN - idntimes.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 10:48:38 GMT",
+      "link": "https://www.idntimes.com/business/economy/dony-oskaria-pastikan-manajer-kopdes-tak-berstatus-pegawai-bumn-00-rgfwk-fz8qyt"
+    },
+    {
+      "title": "Fraksi PKB Setuju RUU Kadin Jadi Inisiatif DPR - SINDOnews Nasional",
+      "entity": "Rivqy Abdul Halim",
       "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 04:48:53 GMT",
-      "link": "https://www.fraksigerindra.id/andre-rosiade-dorong-pembenahan-menyeluruh-tata-niaga-gula-nasional/"
+      "published": "Tue, 22 Sep 2026 10:47:17 GMT",
+      "link": "https://nasional.sindonews.com/newsread/1752537/12/fraksi-pkb-setuju-ruu-kadin-jadi-inisiatif-dpr-1790071792"
     },
     {
-      "title": "Tak Mau Buru-buru, Pemerintah Matangkan Kontrak-Gaji Manajer Kopdes - CNN Indonesia",
+      "title": "Dony Oskaria: Manajer Kopdes-KNMP Bukan Pegawai BUMN - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 10:43:56 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20260922172818-17-769985/dony-oskaria-manajer-kopdes-knmp-bukan-pegawai-bumn"
+    },
+    {
+      "title": "Kemendag Buka Peluang KopDes Merah Putih Tembus Pasar Ekspor - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 10:24:02 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260922/12/2006219/kemendag-buka-peluang-kopdes-merah-putih-tembus-pasar-ekspor"
+    },
+    {
+      "title": "Kementerian Koperasi Rebranding dan Dorong Digitalisasi Lembaga - Demokratis.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 04:02:10 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260922104243-532-1406665/tak-mau-buru-buru-pemerintah-matangkan-kontrak-gaji-manajer-kopdes"
+      "published": "Tue, 22 Sep 2026 10:22:03 GMT",
+      "link": "https://demokratis.co.id/kementerian-koperasi-rebranding-digitalisasi-lembaga"
     }
   ]
 }
