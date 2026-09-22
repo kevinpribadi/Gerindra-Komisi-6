@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-22T01:25:10.796982",
+  "generated_at": "2026-09-22T07:16:49.127796",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 32,
-    "Golkar": 30,
+    "PDI-P": 31,
+    "Golkar": 26,
     "NasDem": 3,
-    "PKB": 11,
-    "PKS": 33,
-    "PAN": 4,
+    "PKB": 10,
+    "PKS": 31,
+    "PAN": 5,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 76,
-    "Golkar": 88,
+    "Golkar": 90,
     "NasDem": 20,
-    "PKB": 59,
-    "PKS": 61,
-    "PAN": 15,
+    "PKB": 60,
+    "PKS": 60,
+    "PAN": 16,
     "Demokrat": 15
   },
   "agency_counts_30d": {
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
-    "danantara": 28,
-    "dividen": 2,
-    "koperasi": 60,
+    "bumn": 55,
+    "danantara": 26,
+    "dividen": 3,
+    "koperasi": 63,
     "investasi": 10,
-    "umkm": 10,
-    "perdagangan": 6,
-    "ekspor": 2,
-    "ipo": 2,
+    "impor": 5,
+    "umkm": 11,
+    "perdagangan": 8,
+    "ekspor": 1,
     "kartel-monopoli": 12,
-    "impor": 4
+    "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -66,140 +66,140 @@
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 8,
-    "Sarifah Suraidah": 7,
+    "Sarifah Suraidah": 8,
     "Doni Akbar": 4,
     "Firnando Hadityo Ganinduto": 4,
-    "Rizki Faisal": 19,
+    "Rizki Faisal": 20,
     "Muhammad Sarmuji": 17,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 10,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 16,
+    "Nasim Khan": 17,
     "Ida Fauziyah": 3,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 20,
+    "Rizal Bawazier": 19,
     "Ghufran": 8,
     "Ismail": 13,
     "Eko Patrio": 2,
     "Nasril Bahar": 4,
-    "Iskandar": 9,
+    "Iskandar": 10,
     "Sartono": 4,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 66,
-    "Perdagangan": 27,
-    "Hukum/Audit": 33,
+    "Koperasi/UMKM": 68,
+    "Perdagangan": 26,
+    "Hukum/Audit": 30,
     "Konflik Publik": 10
   },
   "top_headlines": [
     {
-      "title": "Koperasi Sawit Didorong Naik Kelas, Kemenkop Bidik Pabrik CPO 45-60 Ton per Jam - sawitsetara.co",
-      "entity": "Kementerian Koperasi",
+      "title": "Dony Oskaria Tegaskan Manajer Kopdes Bukan Berstatus Pegawai BUMN - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 01:04:07 GMT",
-      "link": "https://www.sawitsetara.co/artikel/Berita/koperasi-sawit-didorong-naik-kelas-kemenkop-bidik-pabrik-cpo-45-60-ton-per-jam"
+      "published": "Tue, 22 Sep 2026 06:59:51 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673907/dony-oskaria-tegaskan-manajer-kopdes-bukan-berstatus-pegawai-bumn"
     },
     {
-      "title": "Sinergi BP Batam dan Kejari Batam, Rp18,82 Miliar PNBP Sewa Perairan Tersus Berhasil Diselesaikan - HMStimes.com",
-      "entity": "BP Batam",
+      "title": "Manajer Kopdes Berstatus Pegawai BUMN, Dikontrak Dua Tahun - CNN Indonesia",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 00:58:08 GMT",
-      "link": "https://hmstimes.com/2026/sinergi-bp-batam-dan-kejari-batam-rp1882-miliar-pnbp-sewa-perairan-tersus-berhasil-diselesaikan/"
+      "published": "Tue, 22 Sep 2026 06:57:28 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260922133301-92-1406802/manajer-kopdes-berstatus-pegawai-bumn-dikontrak-dua-tahun"
     },
     {
-      "title": "DED Dikoreksi Kementerian PU, Pasar Badak Bakal Dibongkar Total - radarbanten.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 00:27:24 GMT",
-      "link": "https://www.radarbanten.co.id/2026/09/22/ded-dikoreksi-kementerian-pu-pasar-badak-bakal-dibongkar-total/"
-    },
-    {
-      "title": "Menkop Dorong Koperasi Percepat Transformasi Bisnis dan Digitalisasi - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 00:14:00 GMT",
-      "link": "https://www.beritakoperasi.com/menkop-dorong-koperasi-percepat-transformasi-bisnis-dan-digitalisasi/"
-    },
-    {
-      "title": "15 Pengusaha Pelanggar Distribusi Minyakita Kena Sanksi Kemendag - Duta TV",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 22:42:50 GMT",
-      "link": "https://dutatv.com/15-pengusaha-pelanggar-distribusi-minyakita-kena-sanksi-kemendag/"
-    },
-    {
-      "title": "Erin Wartia Resmi Laporkan Rieke Diah Pitaloka ke MKD DPR RI - Sumut Pos",
+      "title": "Pihak Erin Wartia Laporkan Rieke Diah Pitaloka ke MKD, Ini Alasannya - Kompas.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 21:00:15 GMT",
-      "link": "https://sumutpos.jawapos.com/infotainment/2609220007/erin-wartia-resmi-laporkan-rieke-diah-pitaloka-ke-mkd-dpr-ri"
+      "published": "Tue, 22 Sep 2026 06:34:00 GMT",
+      "link": "https://entertainment.kompas.com/read/2026/09/22/133448466/pihak-erin-wartia-laporkan-rieke-diah-pitaloka-ke-mkd-ini-alasannya"
     },
     {
-      "title": "Pihak Erin Laporkan Rieke Diah Pitaloka ke MKD, Singgung Sikap Anggota DPR yang Dinilai Overlap - VIVA.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 20:28:00 GMT",
-      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1930144-pihak-erin-laporkan-rieke-diah-pitaloka-ke-mkd-singgung-sikap-anggota-dpr-yang-dinilai-overlap?page=2"
-    },
-    {
-      "title": "Pihak Erin Laporkan Rieke Diah Pitaloka ke MKD, Singgung Sikap Anggota DPR yang Dinilai Overlap - VIVA.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 20:28:00 GMT",
-      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1930144-pihak-erin-laporkan-rieke-diah-pitaloka-ke-mkd-singgung-sikap-anggota-dpr-yang-dinilai-overlap"
-    },
-    {
-      "title": "Sinergi BP Batam dan Kejari Batam, Rp18,82 Miliar PNBP Sewa Perairan Tersus Berhasil Diselesaikan - wajahbatam.id",
-      "entity": "BP Batam",
+      "title": "Pramono Minta Danantara Bantu Biayai Perpanjangan Rute LRT, Rano Karno: Jakarta Milik Indonesia - VOI.ID",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 20:26:16 GMT",
-      "link": "https://wajahbatam.id/2026/09/22/sinergi-bp-batam-dan-kejari-batam-rp1882-miliar-pnbp-sewa-perairan-tersus-berhasil-diselesaikan/"
+      "published": "Tue, 22 Sep 2026 06:26:00 GMT",
+      "link": "https://voi.id/berita/595183/pramono-minta-danantara-bantu-biayai-perpanjangan-rute-lrt-rano-karno-jakarta-milik-indonesia"
     },
     {
-      "title": "Gula Rafinasi Impor Masuk ke Pasar, DPR: .Merusak Harga Gula Kristal Putih Milik Petani Tebu Lokal - suarainvestor.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 18:40:18 GMT",
-      "link": "https://www.suarainvestor.com/gula-rafinasi-impor-masuk-ke-pasar-dpr-merusak-harga-gula-kristal-putih-milik-petani-tebu-lokal/"
-    },
-    {
-      "title": "Platform Digital Angkat Produk Kurasi Kemendag - epaper.mediaindonesia.com",
+      "title": "Bea Cukai Ungkap Modus Penyeludupan Impor Beras-Balpres Ilegal - Bloomberg Technoz",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 17:00:00 GMT",
-      "link": "https://epaper.mediaindonesia.com/detail/platform-digital-angkat-produk-kurasi-kemendag"
+      "published": "Tue, 22 Sep 2026 06:17:34 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/122327/bea-cukai-ungkap-modus-penyeludupan-impor-beras-balpres-ilegal"
     },
     {
-      "title": "Koperasi Didorong Jadi Motor Hilirisasi Perkebunan Rakyat - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 15:25:00 GMT",
-      "link": "https://rri.co.id/nasional/2747647/koperasi-didorong-jadi-motor-hilirisasi-perkebunan-rakyat"
-    },
-    {
-      "title": "Mufti Anam Pertanyakan Urgensi Tambahan Anggaran KPPU dan Apa Manfaat Konkret Bagi Rakyat? - gesuri.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 15:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-pertanyakan-urgensi-tambahan-anggaran-kppu-dan-apa-manfaat-konkret-bagi-rakyat-b2qboZbicG"
-    },
-    {
-      "title": "Mufti Anam Pertanyakan Urgensi Tambahan Anggaran KPPU dan Apa Manfaat Konkret Bagi Rakyat? - gesuri.id",
-      "entity": "Mufti Anam",
+      "title": "Rizki Faisal Minta Polisi Ungkap Jaringan Peredaran 340 Ribu Dolar Singapura Palsu - Batamtoday.com",
+      "entity": "Rizki Faisal",
       "kind": "anggota",
-      "published": "Mon, 21 Sep 2026 15:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-pertanyakan-urgensi-tambahan-anggaran-kppu-dan-apa-manfaat-konkret-bagi-rakyat-b2qboZbicG"
+      "published": "Tue, 22 Sep 2026 06:14:21 GMT",
+      "link": "https://batamtoday.com/news/rizki-faisal-minta-polisi-ungkap-jaringan-peredaran-340-ribu-dolar-singapura-palsu"
     },
     {
-      "title": "Serikat Petani Dorong Pembangunan Pabrik CPO Koperasi di Setiap Sentra Sawit - InvestorTrust",
+      "title": "Manajer Koperasi Desa dan Kampung Nelayan Jadi Pegawai BUMN, Kontrak 2 Tahun - KilasJatim.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 21 Sep 2026 14:53:00 GMT",
-      "link": "https://investortrust.id/business/117011/serikat-petani-dorong-pembangunan-pabrik-cpo-koperasi-di-setiap-sentra-sawit"
+      "published": "Tue, 22 Sep 2026 05:58:35 GMT",
+      "link": "https://kilasjatim.com/2026/09/22/manajer-koperasi-desa-dan-kampung-nelayan-jadi-pegawai-bumn-kontrak-2-tahun/"
+    },
+    {
+      "title": "Manajer Koperasi Desa dan Kampung Nelayan Jadi Pegawai BUMN, Kontrak 2 Tahun - KilasJatim.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 05:58:35 GMT",
+      "link": "https://kilasjatim.com/2026/09/22/manajer-koperasi-desa-dan-kampung-nelayan-jadi-pegawai-bumn-kontrak-2-tahun/"
+    },
+    {
+      "title": "Andre Rosiade Kirim 3 Ekskavator & 2 Dump Truck Tangani Galodo Kabupaten Solok - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 05:49:00 GMT",
+      "link": "https://news.detik.com/berita/d-8673766/andre-rosiade-kirim-3-ekskavator-2-dump-truck-tangani-galodo-kabupaten-solok"
+    },
+    {
+      "title": "BP BUMN Apresiasi Bulog Jaga Ketahanan Pangan Nasional - Suara.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 05:45:40 GMT",
+      "link": "https://www.suara.com/bisnis/2026/09/22/124540/bp-bumn-apresiasi-bulog-jaga-ketahanan-pangan-nasional"
+    },
+    {
+      "title": "Alasan Pemprov DKI Dorong Danantara Mendanai Proyek Lanjutan LRT Jakarta - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 05:42:23 GMT",
+      "link": "https://www.metrotvnews.com/read/KZmCQE8L-alasan-pemprov-dki-dorong-danantara-mendanai-proyek-lanjutan-lrt-jakarta"
+    },
+    {
+      "title": "Sarifah Suraidah Pastikan Bantuan Beras Pemerintah Tepat Sasaran di Kaltim - KaltimKita.com",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 05:27:01 GMT",
+      "link": "https://kaltimkita.com/detailpost/sarifah-suraidah-pastikan-bantuan-beras-pemerintah-tepat-sasaran-di-kaltim"
+    },
+    {
+      "title": "Bulog Serap 3,9 Juta Ton Beras, BP BUMN Apresiasi Kinerja Jaga Ketahanan Pangan - rentak.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 05:01:00 GMT",
+      "link": "https://rentak.id/bulog-serap-39-juta-ton-beras-bp-bumn-apresiasi-kinerja-jaga-ketahanan-pangan/"
+    },
+    {
+      "title": "Andre Rosiade Dorong Pembenahan Menyeluruh Tata Niaga Gula Nasional - fraksi gerindra dpr-ri",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 04:48:53 GMT",
+      "link": "https://www.fraksigerindra.id/andre-rosiade-dorong-pembenahan-menyeluruh-tata-niaga-gula-nasional/"
+    },
+    {
+      "title": "Tak Mau Buru-buru, Pemerintah Matangkan Kontrak-Gaji Manajer Kopdes - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 04:02:10 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260922104243-532-1406665/tak-mau-buru-buru-pemerintah-matangkan-kontrak-gaji-manajer-kopdes"
     }
   ]
 }
