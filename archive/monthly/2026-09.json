@@ -1,14 +1,14 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-22T13:04:32.372469",
+  "generated_at": "2026-09-22T17:55:56.366112",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 33,
-    "Golkar": 20,
+    "PDI-P": 34,
+    "Golkar": 19,
     "NasDem": 3,
-    "PKB": 14,
+    "PKB": 16,
     "PKS": 29,
-    "PAN": 6,
+    "PAN": 7,
     "Demokrat": 2
   },
   "party_counts_30d": {
@@ -16,9 +16,9 @@
     "PDI-P": 75,
     "Golkar": 91,
     "NasDem": 20,
-    "PKB": 61,
-    "PKS": 60,
-    "PAN": 17,
+    "PKB": 63,
+    "PKS": 59,
+    "PAN": 18,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
-    "danantara": 25,
+    "bumn": 59,
+    "danantara": 23,
     "dividen": 3,
-    "koperasi": 71,
-    "investasi": 11,
-    "umkm": 14,
-    "ekspor": 4,
+    "koperasi": 72,
+    "investasi": 13,
+    "umkm": 16,
+    "ekspor": 6,
     "perdagangan": 9,
-    "impor": 7,
+    "impor": 8,
     "kartel-monopoli": 12,
     "ipo": 1
   },
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 13,
     "Unru Baso": 1,
     "Mulyadi": 18,
-    "Adisatrya Suryo Sulisto": 9,
+    "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 16,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
@@ -62,7 +62,7 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 14,
     "Budi Sulistyono": 1,
-    "Totok Hedi Santosa": 1,
+    "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 8,
@@ -77,129 +77,129 @@
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 18,
-    "Ida Fauziyah": 3,
+    "Ida Fauziyah": 5,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 19,
+    "Rizal Bawazier": 18,
     "Ghufran": 8,
     "Ismail": 13,
     "Eko Patrio": 2,
-    "Nasril Bahar": 5,
+    "Nasril Bahar": 6,
     "Iskandar": 10,
     "Sartono": 3,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 29,
-    "Hukum/Audit": 27,
-    "Konflik Publik": 9
+    "Kinerja BUMN": 25,
+    "Koperasi/UMKM": 74,
+    "Perdagangan": 31,
+    "Hukum/Audit": 22,
+    "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Kemendag: Pengakses InaExport Naik Hampir 500 Persen pada 2026 - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 16:10:25 GMT",
+      "link": "https://www.metrotvnews.com/read/bD2CweM3-kemendag-pengakses-inaexport-naik-hampir-500-persen-pada-2026"
+    },
+    {
+      "title": "Danantara Siapkan BUMN Tekstil Baru Terintegrasi di Satu Kawasan - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 15:32:00 GMT",
+      "link": "https://investortrust.id/business/117136/danantara-siapkan-bumn-tekstil-baru-terintegrasi-di-satu-kawasan"
+    },
+    {
+      "title": "Tuding Adanya Intervensi Kasus ART, Pihak Erin Laporkan Rieke Diah Pitaloka ke MKD - Inilah.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 15:22:00 GMT",
+      "link": "https://www.inilah.com/tuding-adanya-intervensi-kasus-art-pihak-erin-laporkan-rieke-diah-pitaloka-ke-mkd"
+    },
+    {
+      "title": "Tokopedia dan TikTok Shop Tampilkan Pilihan BuSan, Produk UMKM Lokal Pilihan Kemendag - GenPI.co - GenPI.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 14:30:00 GMT",
+      "link": "https://www.genpi.co/ekonomi/289167/tokopedia-dan-tiktok-shop-tampilkan-pilihan-busan-produk-umkm-lokal-pilihan-kemendag"
+    },
+    {
+      "title": "Danantara Siapkan Kawasan Terintegrasi Hulu-Hilir untuk Bangkitkan Industri Tekstil - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 14:15:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260922/257/2006297/danantara-siapkan-kawasan-terintegrasi-hulu-hilir-untuk-bangkitkan-industri-tekstil"
+    },
+    {
+      "title": "MKD DPR Bakal Panggil Rieke Diah Pitaloka Terkait Aduan Mantan Istri Andre Taulany - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 14:10:00 GMT",
+      "link": "https://www.jpnn.com/news/mkd-dpr-bakal-panggil-rieke-diah-pitaloka-terkait-aduan-mantan-istri-andre-taulany"
+    },
+    {
+      "title": "Dony Oskaria: Manajer Kopdes Merah Putih Bukan Pegawai BUMN - Tempo.co",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 14:08:00 GMT",
+      "link": "https://www.tempo.co/politik/dony-oskaria-manajer-kopdes-merah-putih-bukan-pegawai-bumn-2288481"
+    },
+    {
+      "title": "Kemendag bawa fitur baru pada platform digital InaExport - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 13:32:25 GMT",
+      "link": "https://www.antaranews.com/berita/5753515/kemendag-bawa-fitur-baru-pada-platform-digital-inaexport"
+    },
+    {
+      "title": "Andre Rosiade Kirim Alat Berat Tangani Banjir Bandang di Kabupaten Solok - Gerindra",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 13:28:05 GMT",
+      "link": "https://gerindra.id/2026/09/22/andre-rosiade-kirim-alat-berat-tangani-banjir-bandang-di-kabupaten-solok/"
+    },
+    {
+      "title": "Rosan Ungkap Perkembangan Wacana Pembentukan BUMN Tekstil - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 13:16:00 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260922195716-92-1407011/rosan-ungkap-perkembangan-wacana-pembentukan-bumn-tekstil"
+    },
+    {
+      "title": "Kemendag dan Kementerian UMKM Perluas Akses Ekspor Melalui Platform InaExport - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 13:15:00 GMT",
+      "link": "https://investortrust.id/business/117135/kemendag-dan-kementerian-umkm-perluas-akses-ekspor-melalui-platform-inaexport"
+    },
+    {
+      "title": "Bulog bersama DPR kawal penyaluran bantuan pangan di Jakarta - antaranews.com",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 13:14:15 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5753479/bulog-bersama-dpr-kawal-penyaluran-bantuan-pangan-di-jakarta"
+    },
+    {
+      "title": "Kementerian UMKM dan Kemendag Perluas Akses Ekspor, InaExport Jadi Pintu UMKM ke Pasar Global - rmbanten.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 22 Sep 2026 13:02:00 GMT",
+      "link": "https://rmbanten.com/berita/kementerian-umkm-dan-kemendag-perluas-akses-ekspor-inaexport-jadi-pintu-umkm-ke-pasar-global"
+    },
+    {
+      "title": "Totok Hedi Tekankan Kontribusi Bagi Daerah dari Kepatuhan Membayar Pajak Tepat Waktu - gesuri.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Tue, 22 Sep 2026 13:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/totok-hedi-tekankan-kontribusi-bagi-daerah-dari-kepatuhan-membayar-pajak-tepat-waktu-b2qboZbicS"
+    },
     {
       "title": "Pemerintah perluas akses ekspor bagi UMKM lewat InaExport - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Tue, 22 Sep 2026 12:41:15 GMT",
       "link": "https://www.antaranews.com/berita/5753393/pemerintah-perluas-akses-ekspor-bagi-umkm-lewat-inaexport?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
-    },
-    {
-      "title": "Harga Minyak Dunia Tinggi, Mendag Wanti-wanti Neraca Dagang RI Bakal Menyusut - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 12:28:00 GMT",
-      "link": "https://investor.id/macroeconomy/455092/harga-minyak-dunia-tinggi-mendag-wantiwanti-neraca-dagang-ri-bakal-menyusut"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dipanggil MKD Soal Etika - malutpost.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 12:25:19 GMT",
-      "link": "https://malutpost.id/berita/rieke-diah-pitaloka-dipanggil-mkd-soal-etika/"
-    },
-    {
-      "title": "Kemendag Gandeng Tokopedia dan TikTok Shop Pasarkan Produk Lokal Terkurasi - wartaekonomi.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 12:19:00 GMT",
-      "link": "https://wartaekonomi.co.id/read636268/kemendag-gandeng-tokopedia-dan-tiktok-shop-pasarkan-produk-lokal-terkurasi"
-    },
-    {
-      "title": "Mendag Ungkap Penyebab Harga Cabai Rawit Tembus Rp70 Ribu - BorneoFlash.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "link": "https://borneoflash.com/2026/09/22/mendag-ungkap-penyebab-harga-cabai-rawit-tembus-rp70-ribu"
-    },
-    {
-      "title": "Cegah Rembesan Gula Rafinasi, DPR Dorong Benahi Tata Kelola Impor - Telusur",
-      "entity": "Nasril Bahar",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 11:49:09 GMT",
-      "link": "https://telusur.co.id/polhukam-2/cegah-rembesan-gula-rafinasi-dpr-dorong-benahi-tata-kelola-impor"
-    },
-    {
-      "title": "Fraksi PKB setujui RUU Kadin jadi inisiatif DPR untuk perkuat UMKM - ANTARA News",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 11:38:45 GMT",
-      "link": "https://www.antaranews.com/berita/5753225/fraksi-pkb-setujui-ruu-kadin-jadi-inisiatif-dpr-untuk-perkuat-umkm"
-    },
-    {
-      "title": "Danantara Bakal Bentuk BUMN Tekstil Baru, Gandeng Perusahaan Eksisting - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 11:28:36 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-bakal-bentuk-bumn-tekstil-baru-gandeng-perusahaan-eksisting"
-    },
-    {
-      "title": "Kemendag Dorong Kopdes Merah Putih Masuk Program Desa Bisa Ekspor - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 11:17:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/09/22/kemendag-dorong-kopdes-merah-putih-masuk-program-desa-bisa-ekspor-181700643"
-    },
-    {
-      "title": "BP BUMN Puji Peran Bulog dalam Menjaga Ketahanan Pangan Nasional - CNN Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 11:06:07 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260922174419-97-1406936/bp-bumn-puji-peran-bulog-dalam-menjaga-ketahanan-pangan-nasional"
-    },
-    {
-      "title": "Dony Oskaria Pastikan Manajer Kopdes Tak Berstatus Pegawai BUMN - idntimes.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 10:48:38 GMT",
-      "link": "https://www.idntimes.com/business/economy/dony-oskaria-pastikan-manajer-kopdes-tak-berstatus-pegawai-bumn-00-rgfwk-fz8qyt"
-    },
-    {
-      "title": "Fraksi PKB Setuju RUU Kadin Jadi Inisiatif DPR - SINDOnews Nasional",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Tue, 22 Sep 2026 10:47:17 GMT",
-      "link": "https://nasional.sindonews.com/newsread/1752537/12/fraksi-pkb-setuju-ruu-kadin-jadi-inisiatif-dpr-1790071792"
-    },
-    {
-      "title": "Dony Oskaria: Manajer Kopdes-KNMP Bukan Pegawai BUMN - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 10:43:56 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260922172818-17-769985/dony-oskaria-manajer-kopdes-knmp-bukan-pegawai-bumn"
-    },
-    {
-      "title": "Kemendag Buka Peluang KopDes Merah Putih Tembus Pasar Ekspor - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 10:24:02 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260922/12/2006219/kemendag-buka-peluang-kopdes-merah-putih-tembus-pasar-ekspor"
-    },
-    {
-      "title": "Kementerian Koperasi Rebranding dan Dorong Digitalisasi Lembaga - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 22 Sep 2026 10:22:03 GMT",
-      "link": "https://demokratis.co.id/kementerian-koperasi-rebranding-digitalisasi-lembaga"
     }
   ]
 }
