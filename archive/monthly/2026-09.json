@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-23T18:49:11.949704",
+  "generated_at": "2026-09-23T22:02:03.855449",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 34,
+    "PDI-P": 35,
     "Golkar": 23,
     "NasDem": 5,
     "PKB": 22,
-    "PKS": 30,
+    "PKS": 31,
     "PAN": 6,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 76,
+    "PDI-P": 77,
     "Golkar": 97,
     "NasDem": 22,
     "PKB": 67,
-    "PKS": 62,
+    "PKS": 63,
     "PAN": 18,
-    "Demokrat": 15
+    "Demokrat": 16
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 70,
+    "bumn": 69,
     "danantara": 25,
     "dividen": 3,
     "koperasi": 69,
-    "investasi": 13,
+    "investasi": 12,
     "ekspor": 9,
     "umkm": 21,
     "perdagangan": 6,
@@ -54,7 +54,7 @@
     "Unru Baso": 1,
     "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 9,
-    "Mufti Anam": 16,
+    "Mufti Anam": 17,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -78,14 +78,14 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 7,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 19,
+    "Rizal Bawazier": 20,
     "Ghufran": 9,
     "Ismail": 14,
     "Eko Patrio": 2,
     "Nasril Bahar": 6,
     "Iskandar": 10,
     "Sartono": 3,
-    "Herman Khaeron": 12
+    "Herman Khaeron": 13
   },
   "early_warning_counts": {
     "Kinerja BUMN": 33,
@@ -96,11 +96,39 @@
   },
   "top_headlines": [
     {
+      "title": "Manfat dan Mudarat Membentuk BUMN Tekstil - KONTAN",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 21:20:20 GMT",
+      "link": "https://insight.kontan.co.id/news/manfat-dan-mudarat-membentuk-bumn-tekstil"
+    },
+    {
+      "title": "BUMN Siapkan 400 Calon Pemimpin Masa Depan Lewat Program Khusus - CNN Indonesia",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 20:45:33 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260923202232-92-1407466/bumn-siapkan-400-calon-pemimpin-masa-depan-lewat-program-khusus"
+    },
+    {
+      "title": "Dorong Petani Sawit Mandiri, Kemenkop Dorong Koperasi Punya Pabrik CPO Sendiri - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 20:09:00 GMT",
+      "link": "https://www.beritakoperasi.com/dorong-petani-sawit-mandiri-kemenkop-dorong-koperasi-punya-pabrik-cpo-sendiri/"
+    },
+    {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - berita.cilegon.go.id",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Wed, 23 Sep 2026 17:14:26 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260924/Mjc0NDQ0"
+    },
+    {
+      "title": "Minyak Goreng Tembus Rp22 Ribu, Mufti Anam Minta Kemendag Tegakkan Aturan HET - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Wed, 23 Sep 2026 15:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/minyak-goreng-tembus-rp22-ribu-mufti-anam-minta-kemendag-tegakkan-aturan-het-b2qbnZbibV"
     },
     {
       "title": "Rieke Diah Pitaloka Dilaporkan ke MKD, Diduga Langgar Etik Dampingi Eks ART Erin - CaraPandang",
@@ -171,34 +199,6 @@
       "kind": "lembaga",
       "published": "Wed, 23 Sep 2026 11:18:15 GMT",
       "link": "https://indoposco.id/2026/09/23/danantara-bakal-bentuk-bumn-tekstil-dpr-sebut-jadi-solusi-gelombang-phk/"
-    },
-    {
-      "title": "Danantara Bakal Bentuk BUMN Tekstil, DPR Sebut Jadi Solusi Gelombang PHK - indoposco.id",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 11:18:15 GMT",
-      "link": "https://indoposco.id/2026/09/23/danantara-bakal-bentuk-bumn-tekstil-dpr-sebut-jadi-solusi-gelombang-phk/"
-    },
-    {
-      "title": "Gerai Koperasi Merah Putih Grogol Diverifikasi, DKUM Depok Pastikan Kesiapan Sarpras - Pemerintah Kota Depok",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 11:15:00 GMT",
-      "link": "https://berita.depok.go.id/gerai-koperasi-merah-putih-grogol-diverifikasi-dkum-depok-pastikan-kesiapan-sarpras"
-    },
-    {
-      "title": "Setop 'Palugada' Perusahaan Negara, BP BUMN Buka Porsi Swasta - Bisnis.com - Market",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 10:43:40 GMT",
-      "link": "https://market.bisnis.com/read/20260923/192/2006600/setop-palugada-perusahaan-negara-bp-bumn-buka-porsi-swasta"
-    },
-    {
-      "title": "SK Manajer Terbit, Istana Minta Kopdes Merah Putih Segera Beroperasi - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 10:04:00 GMT",
-      "link": "https://investortrust.id/business/117211/sk-manajer-terbit-istana-minta-kopdes-merah-putih-segera-beroperasi"
     }
   ]
 }
