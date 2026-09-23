@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-23T03:16:50.791087",
+  "generated_at": "2026-09-23T09:03:26.031607",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 21,
     "PDI-P": 33,
-    "Golkar": 18,
+    "Golkar": 20,
     "NasDem": 3,
-    "PKB": 18,
+    "PKB": 20,
     "PKS": 27,
-    "PAN": 7,
+    "PAN": 6,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 75,
-    "Golkar": 91,
+    "Golkar": 94,
     "NasDem": 20,
-    "PKB": 65,
+    "PKB": 66,
     "PKS": 60,
     "PAN": 18,
     "Demokrat": 14
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 62,
-    "danantara": 20,
+    "bumn": 66,
+    "danantara": 21,
     "dividen": 3,
-    "koperasi": 72,
+    "koperasi": 73,
     "investasi": 13,
-    "umkm": 17,
-    "ekspor": 8,
-    "perdagangan": 7,
-    "impor": 8,
-    "kartel-monopoli": 12
+    "umkm": 21,
+    "ekspor": 10,
+    "perdagangan": 6,
+    "kartel-monopoli": 12,
+    "impor": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -67,7 +67,7 @@
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 4,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 17,
     "Rachmat Gobel": 3,
@@ -75,7 +75,7 @@
     "I Nengah Senantara": 10,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 18,
+    "Nasim Khan": 19,
     "Ida Fauziyah": 7,
     "Amin Ak.": 20,
     "Rizal Bawazier": 19,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 25,
-    "Koperasi/UMKM": 75,
-    "Perdagangan": 31,
-    "Hukum/Audit": 17,
-    "Konflik Publik": 8
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 79,
+    "Perdagangan": 32,
+    "Hukum/Audit": 13,
+    "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Gaji Manajer Kopdes Pakai UMK, Bagaimana Tunjangan & Fasilitas? - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 03:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/122401/gaji-manajer-kopdes-pakai-umk-bagaimana-tunjangan-fasilitas"
+      "title": "Duduk Perkara Anggota DPR Rieke Diah Pitaloka, Dilaporkan ke MKD oleh Mantan Istri Andre Taulany - AFU.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 23 Sep 2026 08:28:09 GMT",
+      "link": "https://afu.id/hukum-kriminal/duduk-perkara-anggota-dpr-rieke-diah-pitaloka-dilaporkan-ke-mkd-oleh-mantan-istri-andre-taulany"
     },
     {
-      "title": "Dekopinwil Sulteng Bakal Bentuk Koperasi Tambang - Sulteng Raya",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 02:41:43 GMT",
-      "link": "https://sultengraya.com/read/220068/dekopinwil-sulteng-bakal-bentuk-koperasi-tambang/"
+      "title": "Firnando Dorong BUMN Tekstil Danantara Fokus Bangkitkan Industri Hulu dan Serap Korban PHK - telusur.co.id",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Wed, 23 Sep 2026 08:18:33 GMT",
+      "link": "https://telusur.co.id/ekuin/firnando-dorong-bumn-tekstil-danantara-fokus-bangkitkan-industri-hulu-dan-serap-korban-phk"
     },
     {
-      "title": "Danantara Diminta Turun Tangan Selamatkan Industri Tekstil, Bank BUMN Didorong Kucurkan Kredit - detik suara rakyat",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 02:36:04 GMT",
-      "link": "https://detiksuararakyat.id/danantara-diminta-turun-tangan-selamatkan-industri-tekstil-bank-bumn-didorong-kucurkan-kredit/"
-    },
-    {
-      "title": "Produk Lokal Solo Kurasi Kemendag Hadir di Tokopedia dan TikTok Shop - Uzone.id",
+      "title": "Tokopedia & TikTok Shop Jadi Platform Digital Pertama yang Tampilkan Produk Lokal Kurasi Kemendag - JPNN.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 02:30:00 GMT",
-      "link": "https://uzone.id/produk-lokal-solo-kurasi-kemendag-hadir-di-tokopedia-dan-tiktok-shop"
+      "published": "Wed, 23 Sep 2026 07:52:37 GMT",
+      "link": "https://www.jpnn.com/news/tokopedia-tiktok-shop-jadi-platform-digital-pertama-yang-tampilkan-produk-lokal-kurasi-kemendag?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
     },
     {
-      "title": "Rapat Monitoring Dan Evaluasi Pelaksanaan Verifikasi Dan Validasi Koperasi Desa/Kelurahan Merah Putih - Disdagperinkopukm Buleleng",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 02:15:17 GMT",
-      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/70_rapat-monitoring-dan-evaluasi-pelaksanaan-verifikasi-dan-validasi-koperasi-desakelurahan-merah-putih"
-    },
-    {
-      "title": "Aspirasi Wanasari Dibuka Hj. Ratnawati Bersama Herman Khaeron - IndramayuJeh",
-      "entity": "Herman Khaeron",
+      "title": "Legislator Sebut BUMN Tekstil Baru Harus Perkuat Industri Hulu dan Serap Korban PHK - Media Indonesia",
+      "entity": "Firnando Hadityo Ganinduto",
       "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 02:08:27 GMT",
-      "link": "https://www.indramayujeh.com/berita-terbaru/sekjen-demokrat-hadir-di-wanasari-hj-ratnawati-buka-ruang-aspirasi/"
+      "published": "Wed, 23 Sep 2026 07:45:08 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/936598/legislator-sebut-bumn-tekstil-baru-harus-perkuat-industri-hulu-dan-serap-korban-phk"
     },
     {
-      "title": "Rieke Diah Pitaloka Dilaporkan ke MKD DPR, Pelapor dan Terlapor Akan Dipanggil - Herald.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 02:01:00 GMT",
-      "link": "https://herald.id/2026/09/23/rieke-diah-pitaloka-dilaporkan-ke-mkd-dpr-pelapor-dan-terlapor-akan-dipanggil/"
-    },
-    {
-      "title": "MKD DPR RI akan Panggil Rieke Diah Pitaloka, Pertemukan dengan Pihak Erin - Sumut Pos",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 02:00:10 GMT",
-      "link": "https://sumutpos.jawapos.com/infotainment/2609230016/mkd-dpr-ri-akan-panggil-rieke-diah-pitaloka-pertemukan-dengan-pihak-erin"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dilaporkan Eks Istri Andre Taulany, MKD Siapkan Pemanggilan - inilah.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 01:20:00 GMT",
-      "link": "https://www.inilah.com/rieke-diah-pitaloka-dilaporkan-eks-istri-andre-taulany-mkd-siapkan-pemanggilan"
-    },
-    {
-      "title": "DPR Tinjau Langsung Penyaluran Bantuan Pangan Bulog di Kelurahan Pegangsaan - RRI.co.id",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 01:17:00 GMT",
-      "link": "https://rri.co.id/jakarta/nasional/2750820/dpr-tinjau-langsung-penyaluran-bantuan-pangan-bulog-di-kelurahan-pegangsaan"
-    },
-    {
-      "title": "Verifikasi Faktual 10 Titik Bangunan KDKMP - SUARANTB.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 00:52:27 GMT",
-      "link": "https://suarantb.com/2026/09/23/verifikasi-faktual-10-titik-bangunan-kdkmp/"
-    },
-    {
-      "title": "KPPU Dorong Persaingan Usaha Sehat dan Kemitraan Setara di Maluku - Makassar Terkini",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 00:39:00 GMT",
-      "link": "https://makassar.terkini.id/kppu-dorong-persaingan-usaha-sehat-dan-kemitraan-setara-di-maluku/"
-    },
-    {
-      "title": "MKD DPR Bakal Panggil Rieke Diah Pitaloka Usai Dilaporkan Erin Wartia - SINDOnews Lifestyle",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 00:12:52 GMT",
-      "link": "https://lifestyle.sindonews.com/newsread/1752659/187/mkd-dpr-bakal-panggil-rieke-diah-pitaloka-usai-dilaporkan-erin-wartia-1790122186"
-    },
-    {
-      "title": "Pemerintah Siapkan SK dan Perpres 28626 Manajer Koperasi Desa - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 00:12:38 GMT",
-      "link": "https://demokratis.co.id/pemerintah-siapkan-sk-manajer-koperasi-desa"
-    },
-    {
-      "title": "Dony Oskaria Sebut Manajer Kopdes Tak Berstatus Pegawai BUMN - Bisnis.com - Ekonomi",
+      "title": "1.000 BUMN Bakal Disusutkan Jadi 250, Tak Boleh Lagi Palugada! - detikFinance",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 00:07:03 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260923/12/2006375/dony-oskaria-sebut-manajer-kopdes-tak-berstatus-pegawai-bumn"
+      "published": "Wed, 23 Sep 2026 07:44:31 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8675328/1-000-bumn-bakal-disusutkan-jadi-250-tak-boleh-lagi-palugada"
+    },
+    {
+      "title": "Pemerintah Finalisasi SK dan Operasional Manajer Koperasi Desa - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 07:37:25 GMT",
+      "link": "https://demokratis.co.id/pemerintah-finalisasi-sk-manajer-koperasi-desa"
+    },
+    {
+      "title": "BP BUMN siapkan 400 calon pemimpin untuk penguatan perusahaan - ANTARA News Jambi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 07:33:13 GMT",
+      "link": "https://jambi.antaranews.com/berita/667940/bp-bumn-siapkan-400-calon-pemimpin-untuk-penguatan-perusahaan"
+    },
+    {
+      "title": "Menkeu Suahasil Sebut Danantara Jadi Alat Negara untuk Dorong Investasi - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 07:23:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/23/142345726/menkeu-suahasil-sebut-danantara-jadi-alat-negara-untuk-dorong-investasi"
+    },
+    {
+      "title": "Badan Pemeriksa Keuangan Republik Indonesia - BPK RI",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 07:22:52 GMT",
+      "link": "https://www.bpk.go.id/news/bpk-mulai-pemeriksaan-lk-konsolidasian-bpi-danantara-tahun-2025"
+    },
+    {
+      "title": "BP BUMN : SK manajer Koperasi Desa Merah Putih dalam tahap finalisasi - ANTARA News Kepri",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 07:06:40 GMT",
+      "link": "https://kepri.antaranews.com/berita/268228/bp-bumn-sk-manajer-koperasi-desa-merah-putih-dalam-tahap-finalisasi"
+    },
+    {
+      "title": "Pengangkatan Manajer Koperasi Desa Merah Putih Masih Tahap Finalisasi, Oktober Soft Launching Operasional - merahputih.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 06:56:41 GMT",
+      "link": "https://www.merahputih.com/post/read/pengangkatan-manajer-koperasi-desa-merah-putih-masih-tahap-finalisasi-oktober-soft-launching-operasional"
+    },
+    {
+      "title": "HIMPUH Audiensi dengan BPKN RI, Bahas Perlindungan Konsumen dalam Ekosistem Haji dan Umrah - HIMPUH",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 06:47:10 GMT",
+      "link": "https://himpuh.or.id/blog/detail/4924/himpuh-audiensi-dengan-bpkn-ri-bahas-perlindungan-konsumen-dalam-ekosistem-haji-dan-umrah"
+    },
+    {
+      "title": "Dugaan Pelanggaran Beras Fortifikasi, BPKN Soroti Tanggung Jawab Pelaku Usaha dari Perspektif Dolus Eventualis - Heta News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 06:40:11 GMT",
+      "link": "https://www.hetanews.com/article/311135/dugaan-pelanggaran-beras-fortifikasi-bpkn-soroti-tanggung-jawab-pelaku-usaha-dari-perspektif-dolus-eventualis"
+    },
+    {
+      "title": "BP BUMN Ungkap Danantara Selesaikan Setengah Masalah Perusahaan Negara, Ini Transformasinya - inews.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 06:35:00 GMT",
+      "link": "https://www.inews.id/news/nasional/bp-bumn-ungkap-danantara-selesaikan-setengah-masalah-perusahaan-negara-ini-transformasinya"
+    },
+    {
+      "title": "BP BUMN Ungkap Danantara Selesaikan Setengah Masalah Perusahaan Negara, Ini Transformasinya - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 06:35:00 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5478877/bp-bumn-ungkap-danantara-selesaikan-setengah-masalah-perusahaan-negara-ini-transformasinya?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5478877"
     }
   ]
 }
