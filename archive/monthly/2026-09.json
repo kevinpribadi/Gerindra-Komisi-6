@@ -1,20 +1,20 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-23T14:39:37.918366",
+  "generated_at": "2026-09-23T18:49:11.949704",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 33,
-    "Golkar": 22,
+    "PDI-P": 34,
+    "Golkar": 23,
     "NasDem": 5,
     "PKB": 22,
-    "PKS": 29,
+    "PKS": 30,
     "PAN": 6,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 75,
-    "Golkar": 96,
+    "PDI-P": 76,
+    "Golkar": 97,
     "NasDem": 22,
     "PKB": 67,
     "PKS": 62,
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 69,
+    "bumn": 70,
     "danantara": 25,
     "dividen": 3,
     "koperasi": 69,
-    "investasi": 12,
+    "investasi": 13,
     "ekspor": 9,
     "umkm": 21,
     "perdagangan": 6,
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 14,
     "Unru Baso": 1,
     "Mulyadi": 18,
-    "Adisatrya Suryo Sulisto": 8,
+    "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 16,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
@@ -67,7 +67,7 @@
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 10,
+    "Firnando Hadityo Ganinduto": 11,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 17,
     "Rachmat Gobel": 3,
@@ -88,13 +88,27 @@
     "Herman Khaeron": 12
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 32,
-    "Koperasi/UMKM": 77,
+    "Kinerja BUMN": 33,
+    "Koperasi/UMKM": 76,
     "Perdagangan": 34,
-    "Hukum/Audit": 13,
+    "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - berita.cilegon.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 17:14:26 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260924/Mjc0NDQ0"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dilaporkan ke MKD, Diduga Langgar Etik Dampingi Eks ART Erin - CaraPandang",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 23 Sep 2026 14:20:00 GMT",
+      "link": "https://carapandang.com/news/read/rieke-diah-pitaloka-dilaporkan-ke-mkd-diduga-langgar-etik-dampingi-eks-art-erin"
+    },
     {
       "title": "Kemenkop-KSP Bahas Penguatan KDKMP Jadi Simpul Distribusi Barang Subsidi - detikNews",
       "entity": "Kementerian Koperasi",
@@ -180,25 +194,11 @@
       "link": "https://market.bisnis.com/read/20260923/192/2006600/setop-palugada-perusahaan-negara-bp-bumn-buka-porsi-swasta"
     },
     {
-      "title": "Siapkan Rp106 Triliun, Danantara Mau Dirikan BUMN Tekstil dan Modernisasi Mesin - kabarbursa.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 10:02:58 GMT",
-      "link": "https://www.kabarbursa.com/makro/siapkan-rp106-triliun-danantara-mau-dirikan-bumn-tekstil-dan-modernisasi-mesin"
-    },
-    {
-      "title": "Menkop Dorong Petani Sawit Bentuk Badan Usaha Koperasi - SinPo.id",
+      "title": "SK Manajer Terbit, Istana Minta Kopdes Merah Putih Segera Beroperasi - InvestorTrust",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 09:34:00 GMT",
-      "link": "https://tv.sinpo.id/detail/menkop-dorong-petani-sawit-bentuk-badan-usaha-koperasi"
-    },
-    {
-      "title": "Ghufran Lakukan Kunjungan Dapil ke Kantor KSOP Sabang - harianrakyataceh.com",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 09:16:35 GMT",
-      "link": "https://harianrakyataceh.com/news/ghufran-lakukan-kunjungan-dapil-ke-kantor-ksop-sabang/index.html"
+      "published": "Wed, 23 Sep 2026 10:04:00 GMT",
+      "link": "https://investortrust.id/business/117211/sk-manajer-terbit-istana-minta-kopdes-merah-putih-segera-beroperasi"
     }
   ]
 }
