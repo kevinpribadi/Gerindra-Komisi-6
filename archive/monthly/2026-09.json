@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-24T18:10:00.496520",
+  "generated_at": "2026-09-24T21:56:58.148181",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 33,
     "Golkar": 27,
     "NasDem": 5,
-    "PKB": 24,
+    "PKB": 25,
     "PKS": 29,
     "PAN": 6,
     "Demokrat": 5
@@ -35,15 +35,15 @@
   },
   "topic_counts_30d": {
     "bumn": 68,
-    "danantara": 28,
+    "danantara": 27,
     "dividen": 2,
-    "koperasi": 67,
-    "investasi": 13,
+    "koperasi": 66,
+    "investasi": 12,
+    "impor": 13,
     "perdagangan": 8,
-    "umkm": 16,
-    "ekspor": 4,
-    "kartel-monopoli": 12,
-    "impor": 12
+    "umkm": 15,
+    "ekspor": 2,
+    "kartel-monopoli": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -89,12 +89,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 35,
-    "Koperasi/UMKM": 70,
-    "Perdagangan": 34,
+    "Koperasi/UMKM": 69,
+    "Perdagangan": 33,
     "Hukum/Audit": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Minta Bisnis Sejenis Perusahaan Pelat Merah Tak Perlu Bersaing - cnnindonesia.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 20:37:23 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260924051923-92-1407498/bp-bumn-minta-bisnis-sejenis-perusahaan-pelat-merah-tak-perlu-bersaing"
+    },
+    {
+      "title": "BP BUMN Minta Bisnis Sejenis Perusahaan Pelat Merah Tak Perlu Bersaing - cnnindonesia.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 20:37:23 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260924051923-92-1407498/bp-bumn-minta-bisnis-sejenis-perusahaan-pelat-merah-tak-perlu-bersaing"
+    },
+    {
+      "title": "Kemendag Target I-EAEU FTA Berlaku Akhir Tahun - Rmol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 19:00:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/09/25/722863/kemendag-target-i-eaeu-fta-berlaku-akhir-tahun"
+    },
+    {
+      "title": "DPR RI Terima Kunjungan Duta Besar Iran - spektroom.co.id",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Thu, 24 Sep 2026 18:21:15 GMT",
+      "link": "https://spektroom.co.id/dpr-ri-terima-kunjungan-duta-besar-iran/"
+    },
+    {
+      "title": "Klarifikasi Rieke Diah Pitaloka Dilaporkan Ke MKD Mengenai Tugas Pengawasan DPR - janalokajournal.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 24 Sep 2026 18:16:51 GMT",
+      "link": "https://janalokajournal.id/klarifikasi-rieke-diah-pitaloka-dilaporkan-ke-mkd/"
+    },
+    {
+      "title": "Kemendag Tegaskan Wajib Halal Bukan Pelarangan Impor, Melainkan Jaminan Kualitas Produk - MUI - Majelis Ulama Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 17:30:00 GMT",
+      "link": "https://mui.or.id/public/baca/berita/kemendag-tegaskan-wajib-halal-bukan-pelarangan-impor-melainkan-jaminan-kualitas-produk"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -152,53 +194,11 @@
       "link": "https://jogja.antaranews.com/berita/855972/menkop-sebut-penempatan-manajer-kopdes-dilakukan-agrinas"
     },
     {
-      "title": "Cicilan Perdana Utang Koperasi Merah Putih Jatuh Tempo, Pemerintah Siapkan Rp37,7 Triliun - Aktual.com",
-      "entity": "Kementerian Koperasi",
+      "title": "KPPU Dorong Ekosistem Usaha Sehat untuk Perkuat Industri Media - SURYAKABAR.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 13:30:41 GMT",
-      "link": "https://aktual.com/cicilan-perdana-utang-koperasi-merah-putih-jatuh-tempo-pemerintah-siapkan-rp377-triliun/"
-    },
-    {
-      "title": "30.000 Kopdes Merah Putih Disiapkan, Pemerintah Ingin Warga Tinggalkan Rentenir dan Pinjol - Media Asuransi News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 13:08:00 GMT",
-      "link": "https://mediaasuransinews.co.id/ekonomi/30-000-kopdes-merah-putih-disiapkan-pemerintah-ingin-warga-tinggalkan-rentenir-dan-pinjol/"
-    },
-    {
-      "title": "Pemerintah Siapkan Anggaran Pembayaran Utang Koperasi Merah Putih - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 12:15:24 GMT",
-      "link": "https://demokratis.co.id/pemerintah-siapkan-anggaran-utang-koperasi"
-    },
-    {
-      "title": "Menteri Koperasi Mendorong BKMT Mendirikan Koperasi Ekonomi Umat - suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 12:10:18 GMT",
-      "link": "https://www.suaralandak.co.id/menteri-koperasi-dorong-bkmt-dirikan-koperasi"
-    },
-    {
-      "title": "Menkop Dorong BKMT Dirikan Koperasi untuk Pembinaan Umat - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 12:05:06 GMT",
-      "link": "https://indoposco.id/2026/09/24/menkop-dorong-bkmt-dirikan-koperasi-untuk-pembinaan-umat/"
-    },
-    {
-      "title": "Beda Penjelasan BP BUMN dan Agrinas soal Status Pegawai Manajer Kopdes - CNN Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 12:04:32 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260924185457-92-1407910/beda-penjelasan-bp-bumn-dan-agrinas-soal-status-pegawai-manajer-kopdes"
-    },
-    {
-      "title": "Iskandar Angkat Suara soal Dugaan Perundungan SMAN 3 Banda Aceh: Sekolah Harus Jadi Tempat Aman - Acehinfo",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 11:35:26 GMT",
-      "link": "https://www.acehinfo.id/iskandar-angkat-suara-soal-dugaan-perundungan-sman-3-banda-aceh-sekolah-harus-jadi-tempat-aman/"
+      "published": "Thu, 24 Sep 2026 13:41:28 GMT",
+      "link": "https://suryakabar.com/2026/09/24/kppu-dorong-ekosistem-usaha-sehat-untuk-perkuat-industri-media/"
     }
   ]
 }
