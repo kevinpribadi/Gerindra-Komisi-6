@@ -1,21 +1,21 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-24T07:09:51.078608",
+  "generated_at": "2026-09-24T13:10:52.397916",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 32,
-    "Golkar": 25,
-    "NasDem": 5,
-    "PKB": 22,
-    "PKS": 31,
+    "Golkar": 26,
+    "NasDem": 6,
+    "PKB": 23,
+    "PKS": 29,
     "PAN": 5,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 76,
-    "Golkar": 96,
-    "NasDem": 22,
+    "Golkar": 94,
+    "NasDem": 23,
     "PKB": 67,
     "PKS": 63,
     "PAN": 18,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 71,
-    "danantara": 26,
+    "bumn": 68,
+    "danantara": 27,
     "dividen": 2,
-    "koperasi": 69,
-    "investasi": 11,
-    "umkm": 21,
-    "ekspor": 6,
-    "perdagangan": 6,
+    "koperasi": 68,
+    "investasi": 12,
+    "umkm": 18,
+    "ekspor": 5,
+    "perdagangan": 7,
     "kartel-monopoli": 12,
-    "impor": 10
+    "impor": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -63,15 +63,15 @@
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 8,
+    "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
-    "Doni Akbar": 4,
+    "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 10,
-    "Rizki Faisal": 20,
+    "Rizki Faisal": 18,
     "Muhammad Sarmuji": 17,
     "Rachmat Gobel": 3,
-    "Asep Wahyuwijaya": 9,
+    "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 10,
     "Anggia Erma Rini": 20,
     "Rivqy Abdul Halim": 20,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 33,
-    "Koperasi/UMKM": 75,
-    "Perdagangan": 32,
+    "Kinerja BUMN": 34,
+    "Koperasi/UMKM": 74,
+    "Perdagangan": 33,
     "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Dilaporkan Erin Wartia ke MKD DPR, Rieke Diah Pitaloka Buka Suara - lifestyle.sindonews.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 06:26:28 GMT",
-      "link": "https://lifestyle.sindonews.com/read/1753151/187/dilaporkan-erin-wartia-ke-mkd-dpr-rieke-diah-pitaloka-buka-suara-1790230162"
-    },
-    {
-      "title": "SK Manajer Koperasi Desa Merah Putih Resmi Terbit - Demokratis.co.id",
+      "title": "Pemerintah Siapkan Anggaran Pembayaran Utang Koperasi Merah Putih - Demokratis.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 06:09:50 GMT",
-      "link": "https://demokratis.co.id/sk-manajer-koperasi-desa-merah-putih-terbit"
+      "published": "Thu, 24 Sep 2026 12:15:24 GMT",
+      "link": "https://demokratis.co.id/pemerintah-siapkan-anggaran-utang-koperasi"
     },
     {
-      "title": "BPI Danantara Rencanakan Pembentukan BUMN Tekstil Baru - Demokratis.co.id",
+      "title": "Menkop Dorong BKMT Dirikan Koperasi untuk Pembinaan Umat - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 12:05:06 GMT",
+      "link": "https://indoposco.id/2026/09/24/menkop-dorong-bkmt-dirikan-koperasi-untuk-pembinaan-umat/"
+    },
+    {
+      "title": "Beda Penjelasan BP BUMN dan Agrinas soal Status Pegawai Manajer Kopdes - CNN Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 12:04:32 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260924185457-92-1407910/beda-penjelasan-bp-bumn-dan-agrinas-soal-status-pegawai-manajer-kopdes"
+    },
+    {
+      "title": "Program ODA Smart Factory Dorong Produktivitas Koperasi dan UKM - SWA.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 11:00:00 GMT",
+      "link": "https://swa.co.id/read/477679/program-oda-smart-factory-dorong-produktivitas-koperasi-dan-ukm"
+    },
+    {
+      "title": "Pengusaha Dorong Danantara Jadi Agregator Kawasan Tekstil Terintegrasi - ekonomi.bisnis.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 06:06:42 GMT",
-      "link": "https://demokratis.co.id/bpi-danantara-rencanakan-pembentukan-bumn-tekstil"
+      "published": "Thu, 24 Sep 2026 10:45:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260924/257/2006745/pengusaha-dorong-danantara-jadi-agregator-kawasan-tekstil-terintegrasi"
     },
     {
-      "title": "BPI Danantara Rencanakan Pembentukan BUMN Tekstil Baru - Demokratis.co.id",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 06:06:42 GMT",
-      "link": "https://demokratis.co.id/bpi-danantara-rencanakan-pembentukan-bumn-tekstil"
-    },
-    {
-      "title": "Rieke: Kawal Korban Kekerasan Seksual DPR Bukan Intervensi Proses Hukum - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 06:00:36 GMT",
-      "link": "https://aktual.com/rieke-kawal-korban-kekerasan-seksual-dpr-bukan-intervensi-proses-hukum/"
-    },
-    {
-      "title": "Tim Erin Laporkan Rieke Diah Pitaloka ke MKD DPR RI - Demokratis.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 05:59:39 GMT",
-      "link": "https://demokratis.co.id/tim-erin-laporkan-rieke-diah-pitaloka-mkd"
-    },
-    {
-      "title": "Andre Rosiade Dorong KAI Perkuat Keselamatan dan Kualitas Layanan - fraksi gerindra dpr-ri",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 05:34:21 GMT",
-      "link": "https://www.fraksigerindra.id/andre-rosiade-dorong-kai-perkuat-keselamatan-dan-kualitas-layanan/"
-    },
-    {
-      "title": "KSP usulkan pembentukan tim terpadu untuk jaga pasokan KDKMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 05:23:56 GMT",
-      "link": "https://ambon.antaranews.com/berita/344692/ksp-usulkan-pembentukan-tim-terpadu-untuk-jaga-pasokan-kdkmp"
-    },
-    {
-      "title": "Menunggangi CAFTA 3.0: Misi Indonesia Memburu Investasi AI dan Pasar Baru Produk UMKM di Nanning - Riau Pos",
+      "title": "Kemendag Siapkan SDM Unggul Hadapi Era Digital dan AI - detikcom",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 05:20:37 GMT",
-      "link": "https://riaupos.jawapos.com/ekonomi/2609240037/menunggangi-cafta-30-misi-indonesia-memburu-investasi-ai-dan-pasar-baru-produk-umkm-di-nanning"
+      "published": "Thu, 24 Sep 2026 10:31:05 GMT",
+      "link": "https://www.detik.com/jabar/bisnis/d-8677292/kemendag-siapkan-sdm-unggul-hadapi-era-digital-dan-ai"
     },
     {
-      "title": "Rupiah Terus Tertekan, DPR Ingatkan Dampaknya bagi Rakyat Kecil dan UMKM - indoposco.id",
+      "title": "Koperasi BKMT Bisa Jadi Kekuatan Ekonomi Baru - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 09:07:00 GMT",
+      "link": "https://rmol.id/amp/2026/09/24/722810/koperasi-bkmt-bisa-jadi-kekuatan-ekonomi-baru-"
+    },
+    {
+      "title": "Kemendag Perkuat Keterbukaan Informasi Publik melalui Peningkatan Kompetensi PPID - Heta News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 08:38:36 GMT",
+      "link": "https://www.hetanews.com/article/311177/kemendag-perkuat-keterbukaan-informasi-publik-melalui-peningkatan-kompetensi-ppid"
+    },
+    {
+      "title": "Danantara Berencana Bentuk BUMN Tekstil Terintegrasi untuk Industri - Demokratis.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 08:30:17 GMT",
+      "link": "https://demokratis.co.id/danantara-rencana-bentuk-bumn-tekstil"
+    },
+    {
+      "title": "Desak Usut Tuntas Kekerasan Seksual di Pesantren, Rieke Diah Pitaloka: Agama Bukan Kedok - Paradigma - paradigma.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 24 Sep 2026 08:24:07 GMT",
+      "link": "https://www.paradigma.co.id/politik/1167531810/desak-usut-tuntas-kekerasan-seksual-di-pesantren-rieke-diah-pitaloka-agama-bukan-kedok"
+    },
+    {
+      "title": "Menkop Dorong BKMT Dirikan Koperasi untuk Pembinaan Umat - Telusur",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 08:17:24 GMT",
+      "link": "https://telusur.co.id/ekuin/menkop-dorong-bkmt-dirikan-koperasi-untuk-pembinaan-umat"
+    },
+    {
+      "title": "Kemendag dukung lulusan metrologi kembangkan alat ukur dalam negeri - antaranews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 08:14:11 GMT",
+      "link": "https://www.antaranews.com/berita/5756497/kemendag-dukung-lulusan-metrologi-kembangkan-alat-ukur-dalam-negeri?utm_source=antaranews&utm_medium=desktop&utm_campaign=editor_picks"
+    },
+    {
+      "title": "Perkuat Ketahanan Siber dan AI, Danantara Gandeng Perusahaan Raksasa Prancis Thales - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 07:35:00 GMT",
+      "link": "https://investortrust.id/business/117315/perkuat-ketahanan-siber-dan-ai-danantara-gandeng-perusahaan-raksasa-prancis-thales"
+    },
+    {
+      "title": "Asep Wahyuwijaya Soroti Kesiapan Layanan KAI, Dorong Kereta Jadi Pilihan Utama Warga - Telusur",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Thu, 24 Sep 2026 07:32:12 GMT",
+      "link": "https://telusur.co.id/nasional/asep-wahyuwijaya-soroti-kesiapan-layanan-kai-dorong-kereta-jadi-pilihan-utama-warga"
+    },
+    {
+      "title": "Rupiah Terus Tertekan, Amin Ak Minta Pemerintah dan BI Satu Suara Jaga Stabilitas dan Daya Beli Rakyat - Fraksi PKS",
       "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 04:11:07 GMT",
-      "link": "https://indoposco.id/2026/09/24/rupiah-terus-tertekan-dpr-ingatkan-dampaknya-bagi-rakyat-kecil-dan-umkm/"
-    },
-    {
-      "title": "Diadukan Pihak Erin ke MKD DPR, Rieke Diah Pitaloka Buka Suara - detikNews",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 03:32:50 GMT",
-      "link": "https://news.detik.com/berita/d-8676734/diadukan-pihak-erin-ke-mkd-dpr-rieke-diah-pitaloka-buka-suara"
-    },
-    {
-      "title": "Pemerintah Incar IEU-CEPA Berlaku Tahun Depan, 15 Perundingan Dagang Dikebut - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 03:30:13 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260924/12/2006621/pemerintah-incar-ieu-cepa-berlaku-tahun-depan-15-perundingan-dagang-dikebut"
-    },
-    {
-      "title": "Dilaporkan Erin, Rieke Diah Pitaloka: Anggota DPR Dampingi Korban Bukan Intervensi Hukum - Kompas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 03:28:00 GMT",
-      "link": "https://nasional.kompas.com/read/2026/09/24/10283621/dilaporkan-erin-rieke-diah-pitaloka-anggota-dpr-dampingi-korban-bukan"
-    },
-    {
-      "title": "Potensi dan Risiko Pembentukan BUMN Tekstil Terhadap Emiten Sektor Tekstil - KONTAN",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 03:00:41 GMT",
-      "link": "https://insight.kontan.co.id/news/potensi-dan-risiko-pembentukan-bumn-tekstil-terhadap-emiten-sektor-tekstil"
-    },
-    {
-      "title": "Sertifikasi Halal Wajib 18 Oktober 2026, Pemerintah Pastikan... - Langit7.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 01:58:53 GMT",
-      "link": "https://langit7.id/read/62388/1/sertifikasi-halal-wajib-18-oktober-2026-pemerintah-pastikan-perdagangan-tetap-lancar-1790212194"
+      "published": "Thu, 24 Sep 2026 06:44:09 GMT",
+      "link": "https://fraksi.pks.id/2026/09/24/rupiah-terus-tertekan-amin-ak-minta-pemerintah-dan-bi-satu-suara-jaga-stabilitas-dan-daya-beli-rakyat/"
     }
   ]
 }
