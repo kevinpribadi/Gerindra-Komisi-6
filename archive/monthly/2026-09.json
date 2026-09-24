@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-23T22:02:03.855449",
+  "generated_at": "2026-09-24T01:03:03.518510",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 35,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 77,
-    "Golkar": 97,
+    "PDI-P": 76,
+    "Golkar": 96,
     "NasDem": 22,
     "PKB": 67,
     "PKS": 63,
@@ -40,7 +40,7 @@
     "koperasi": 69,
     "investasi": 12,
     "ekspor": 9,
-    "umkm": 21,
+    "umkm": 22,
     "perdagangan": 6,
     "kartel-monopoli": 12,
     "impor": 10
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 14,
+    "Ida Nurlaela": 13,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
@@ -67,7 +67,7 @@
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 4,
-    "Firnando Hadityo Ganinduto": 11,
+    "Firnando Hadityo Ganinduto": 10,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 17,
     "Rachmat Gobel": 3,
@@ -96,6 +96,20 @@
   },
   "top_headlines": [
     {
+      "title": "Mendag dan Perjuangan Jaga Harga Sembako-Ketenangan Masyarakat - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 24 Sep 2026 00:40:51 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260924071856-92-1407537/mendag-dan-perjuangan-jaga-harga-sembako-ketenangan-masyarakat"
+    },
+    {
+      "title": "Kepala BP BUMN: Manajer Koperasi Merah Putih bukan pegawai BUMN - ANTARA News Sultra",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 22:14:38 GMT",
+      "link": "https://sultra.antaranews.com/berita/541524/kepala-bp-bumn-manajer-koperasi-merah-putih-bukan-pegawai-bumn"
+    },
+    {
       "title": "Manfat dan Mudarat Membentuk BUMN Tekstil - KONTAN",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -105,6 +119,13 @@
     {
       "title": "BUMN Siapkan 400 Calon Pemimpin Masa Depan Lewat Program Khusus - CNN Indonesia",
       "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 23 Sep 2026 20:45:33 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260923202232-92-1407466/bumn-siapkan-400-calon-pemimpin-masa-depan-lewat-program-khusus"
+    },
+    {
+      "title": "BUMN Siapkan 400 Calon Pemimpin Masa Depan Lewat Program Khusus - CNN Indonesia",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
       "published": "Wed, 23 Sep 2026 20:45:33 GMT",
       "link": "https://www.cnnindonesia.com/ekonomi/20260923202232-92-1407466/bumn-siapkan-400-calon-pemimpin-masa-depan-lewat-program-khusus"
@@ -178,27 +199,6 @@
       "kind": "anggota",
       "published": "Wed, 23 Sep 2026 12:52:37 GMT",
       "link": "https://beritanasional.id/rdp-dengan-kai-anggota-komisi-vi-dpr-ri-nasim-khan-usulkan-kereta-cepat-di-jatim/"
-    },
-    {
-      "title": "Perpres Koperasi Merah Putih Terbit, Masalah Pasokan hingga Modal Kerja Belum Tuntas - VOI.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 12:45:00 GMT",
-      "link": "https://voi.id/berita/595366/perpres-koperasi-merah-putih-terbit-masalah-pasokan-hingga-modal-kerja-belum-tuntas"
-    },
-    {
-      "title": "Asep Wahyuwijaya Dorong KAI Benahi Kesiapan Layanan agar Kereta Makin Dinikmati Warga - Kedai Pena",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Wed, 23 Sep 2026 12:07:23 GMT",
-      "link": "https://www.kedaipena.com/asep-wahyuwijaya-dorong-kai-benahi-kesiapan-layanan-agar-kereta-makin-dinikmati-warga/"
-    },
-    {
-      "title": "Danantara Bakal Bentuk BUMN Tekstil, DPR Sebut Jadi Solusi Gelombang PHK - indoposco.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 23 Sep 2026 11:18:15 GMT",
-      "link": "https://indoposco.id/2026/09/23/danantara-bakal-bentuk-bumn-tekstil-dpr-sebut-jadi-solusi-gelombang-phk/"
     }
   ]
 }
