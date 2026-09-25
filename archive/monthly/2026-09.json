@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-25T00:19:40.091046",
+  "generated_at": "2026-09-25T05:47:07.937556",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 33,
-    "Golkar": 27,
+    "Golkar": 26,
     "NasDem": 5,
-    "PKB": 24,
+    "PKB": 26,
     "PKS": 29,
     "PAN": 6,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 61,
-    "PDI-P": 77,
+    "Gerindra": 60,
+    "PDI-P": 74,
     "Golkar": 93,
     "NasDem": 23,
     "PKB": 67,
     "PKS": 63,
-    "PAN": 19,
+    "PAN": 20,
     "Demokrat": 16
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 68,
+    "bumn": 62,
     "danantara": 27,
     "dividen": 2,
     "koperasi": 66,
-    "investasi": 11,
-    "ekspor": 3,
-    "impor": 13,
-    "perdagangan": 9,
+    "investasi": 13,
+    "impor": 17,
     "umkm": 14,
+    "ekspor": 2,
+    "perdagangan": 7,
     "kartel-monopoli": 11
   },
   "member_counts_30d": {
@@ -50,16 +50,16 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 14,
+    "Kawendra Lukistian": 13,
     "Unru Baso": 1,
     "Mulyadi": 18,
     "Adisatrya Suryo Sulisto": 10,
-    "Mufti Anam": 17,
+    "Mufti Anam": 16,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 13,
+    "Ida Nurlaela": 11,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
@@ -83,122 +83,122 @@
     "Ismail": 14,
     "Eko Patrio": 2,
     "Nasril Bahar": 6,
-    "Iskandar": 11,
+    "Iskandar": 12,
     "Sartono": 3,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 36,
-    "Koperasi/UMKM": 69,
-    "Perdagangan": 34,
+    "Kinerja BUMN": 35,
+    "Koperasi/UMKM": 67,
+    "Perdagangan": 37,
     "Hukum/Audit": 15,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Sinergi APBN, Danantara & Fiskal-Moneter Tiga Pilar Jadi Jurus Baru Jaga Ekonomi - RM.ID",
+      "title": "Danantara-Thales jajaki investasi bidang AI hingga keamanan siber - ANTARA News",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 23:30:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/327551/sinergi-apbn-danantara-fiskalmoneter-tiga-pilar-jadi-jurus-baru-jaga-ekonomi"
+      "published": "Fri, 25 Sep 2026 05:29:19 GMT",
+      "link": "https://www.antaranews.com/berita/5757988/danantara-thales-jajaki-investasi-bidang-ai-hingga-keamanan-siber"
     },
     {
-      "title": "Skandal Silfester: Cermin Busuk Tata Kelola BUMN di Bawah Danantara - Mata Hukum",
+      "title": "Kemendag Tegaskan Wajib Halal Oktober 2026 Bukan Larangan Impor - Cahaya Kompas",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 05:01:00 GMT",
+      "link": "https://cahaya.kompas.com/aktual/26I25120100090/kemendag-tegaskan-wajib-halal-oktober-2026-bukan-larangan-impor"
+    },
+    {
+      "title": "Kemendag Gandeng Tokopedia-TikTok Shop Perluas Akses UMKM ke Pasar Digital - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 04:15:35 GMT",
+      "link": "https://www.rctiplus.com/news/detail/okezone/5480311/kemendag-gandeng-tokopedia-tiktok-shop-perluas-akses-umkm-ke-pasar-digital"
+    },
+    {
+      "title": "Wisuda Akmet 2026, Wamendag Tekankan Pentingnya SDM Metrologi Hadapi Era Teknologi - suarapemerintah.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 03:10:03 GMT",
+      "link": "https://suarapemerintah.id/2026/09/wisuda-akmet-2026-wamendag-tekankan-pentingnya-sdm-metrologi-hadapi-era-teknologi/"
+    },
+    {
+      "title": "Jatuh Tempo Hari Ini, Suahasil Pastikan Anggaran Kopdes Tersedia - Market - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 03:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/122694/jatuh-tempo-hari-ini-suahasil-pastikan-anggaran-kopdes-tersedia"
+    },
+    {
+      "title": "Menyigi Minat Danantara Menjadi Pemegang Saham BEI - Infobanknews",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 23:12:43 GMT",
-      "link": "https://matahukum.net/skandal-silfester-cermin-busuk-tata-kelola-bumn-di-bawah-danantara/"
+      "published": "Fri, 25 Sep 2026 02:56:00 GMT",
+      "link": "https://infobanknews.com/menyigi-minat-danantara-menjadi-pemegang-saham-bei"
     },
     {
-      "title": "Menko Airlangga Usulkan Simpanan Koperasi Dijamin LPS - VOI.id",
+      "title": "Dorong Penambahan KRL, Rivqy PKB: Kepadatan Penumpang di Jam Kerja Mengkhawatirkan - FPKB DPR RI",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Fri, 25 Sep 2026 02:53:00 GMT",
+      "link": "https://www.fraksipkb.com/2026/09/25/dorong-penambahan-krl-rivqy-pkb-kepadatan-penumpang-di-jam-kerja-mengkhawatirkan/"
+    },
+    {
+      "title": "MES Dorong Wirausaha Muslim Muda Jadi Penggerak Ekosistem Keuangan Syariah - indoposco.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 23:06:00 GMT",
-      "link": "https://voi.id/ekonomi/595593/menko-airlangga-usulkan-simpanan-koperasi-dijamin-lps"
+      "published": "Fri, 25 Sep 2026 02:41:54 GMT",
+      "link": "https://indoposco.id/2026/09/25/mes-dorong-wirausaha-muslim-muda-jadi-penggerak-ekosistem-keuangan-syariah/"
     },
     {
-      "title": "Pemerintah Verifikasi Pembangunan Koperasi Desa Merah Putih Sebelum Bayar Utang - SuaraGarut.ID",
+      "title": "Wajib Halal Mulai Oktober 2026, Barang Impor Bakal Dibatasi?... - Langit7.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 02:03:15 GMT",
+      "link": "https://langit7.id/read/62436/1/wajib-halal-mulai-oktober-2026-barang-impor-bakal-dibatasi-ini-penjelasan-kemendag-1790298573"
+    },
+    {
+      "title": "Perkuat Sektor Mineral, Danantara Dorong Kerjasama MIND ID-CITIC Group - cnbcindonesia.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 01:35:06 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260925075423-4-770783/perkuat-sektor-mineral-danantara-dorong-kerjasama-mind-id-citic-group"
+    },
+    {
+      "title": "KPPU Perkuat Kepatuhan Persaingan Usaha Grab Indonesia di Era Digital - GoSumut.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 01:01:00 GMT",
+      "link": "https://www.gosumut.com/berita/baca/2026/09/25/kppu-perkuat-kepatuhan-persaingan-usaha-grab-indonesia-di-era-digital"
+    },
+    {
+      "title": "Menkop sebut penempatan manajer Kopdes dilakukan Agrinas - ANTARA News Gorontalo",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 22:33:00 GMT",
-      "link": "https://suaragarut.id/pemerintah-verifikasi-pembangunan-koperasi-desa-merah-putih"
+      "published": "Fri, 25 Sep 2026 00:55:58 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/425951/menkop-sebut-penempatan-manajer-kopdes-dilakukan-agrinas"
     },
     {
-      "title": "InaExport Gerbang Ekspor Skala Nasional - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
+      "title": "Danantara Siap Perkuat Daya Saing Industri Tekstil dan Sepatu Nasional - RCTI+",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 22:11:39 GMT",
-      "link": "https://www.niaga.asia/inaexport-gerbang-ekspor-skala-nasional/"
+      "published": "Fri, 25 Sep 2026 00:44:04 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5480177/danantara-siap-perkuat-daya-saing-industri-tekstil-dan-sepatu-nasional-"
     },
     {
-      "title": "BP BUMN Minta Bisnis Sejenis Perusahaan Pelat Merah Tak Perlu Bersaing - cnnindonesia.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 20:37:23 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260924051923-92-1407498/bp-bumn-minta-bisnis-sejenis-perusahaan-pelat-merah-tak-perlu-bersaing"
-    },
-    {
-      "title": "BP BUMN Minta Bisnis Sejenis Perusahaan Pelat Merah Tak Perlu Bersaing - cnnindonesia.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 20:37:23 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260924051923-92-1407498/bp-bumn-minta-bisnis-sejenis-perusahaan-pelat-merah-tak-perlu-bersaing"
-    },
-    {
-      "title": "Kemendag Target I-EAEU FTA Berlaku Akhir Tahun - Rmol.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 19:00:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/09/25/722863/kemendag-target-i-eaeu-fta-berlaku-akhir-tahun"
-    },
-    {
-      "title": "DPR RI Terima Kunjungan Duta Besar Iran - spektroom.co.id",
-      "entity": "Anggia Erma Rini",
+      "title": "Kereta 40 Tahun, DPR Izinkan KAI Impor 23 KRL Bekas dari Jepang - RM.ID",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 18:21:15 GMT",
-      "link": "https://spektroom.co.id/dpr-ri-terima-kunjungan-duta-besar-iran/"
+      "published": "Fri, 25 Sep 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/327547/banyak-kereta-berusia-40-tahun-dpr-beri-lampu-hijau-pt-kai-impor-krl-bekas-dari-jepang"
     },
     {
-      "title": "Klarifikasi Rieke Diah Pitaloka Dilaporkan Ke MKD Mengenai Tugas Pengawasan DPR - janalokajournal.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 18:16:51 GMT",
-      "link": "https://janalokajournal.id/klarifikasi-rieke-diah-pitaloka-dilaporkan-ke-mkd/"
-    },
-    {
-      "title": "Kemendag Tegaskan Wajib Halal Bukan Pelarangan Impor, Melainkan Jaminan Kualitas Produk - MUI - Majelis Ulama Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 17:30:00 GMT",
-      "link": "https://mui.or.id/public/baca/berita/kemendag-tegaskan-wajib-halal-bukan-pelarangan-impor-melainkan-jaminan-kualitas-produk"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 17:20:19 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260925/Mjc0NDQ0"
-    },
-    {
-      "title": "Menkop Ungkap Agrinas Pegang SK Manajer Koperasi Desa Merah Putih, Statusnya PKWT 2 Tahun - Warta Ekonomi",
+      "title": "Koperasi Rasa Korporasi: Menkop 'Lempar Bola' Penempatan Manajer Kopdes ke PT Agrinas - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 15:41:00 GMT",
-      "link": "https://wartaekonomi.co.id/read636820/menkop-ungkap-agrinas-pegang-sk-manajer-koperasi-desa-merah-putih-statusnya-pkwt-2-tahun"
-    },
-    {
-      "title": "Indonesia-Iran Tak Cukup Berdagang, Anggia Dorong Transfer Teknologi dan Kerja Sama Bisnis - sudut kota",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Thu, 24 Sep 2026 15:36:05 GMT",
-      "link": "https://sudutkota.id/indonesia-iran-tak-cukup-berdagang-anggia-dorong-transfer-teknologi-dan-kerja-sama-bisnis/"
-    },
-    {
-      "title": "BP BUMN Salurkan Tali Asih untuk Keluarga Jurnalis dan ABK Hilang Kontak - Digital Okezone",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 24 Sep 2026 15:27:23 GMT",
-      "link": "https://digital.okezone.com/view/2026/09/24/1/106177/bp-bumn-salurkan-tali-asih-untuk-keluarga-jurnalis-dan-abk-hilang-kontak"
+      "published": "Thu, 24 Sep 2026 23:56:00 GMT",
+      "link": "https://www.beritakoperasi.com/koperasi-rasa-korporasi-menkop-lempar-bola-penempatan-manajer-kopdes-ke-pt-agrinas/"
     }
   ]
 }
