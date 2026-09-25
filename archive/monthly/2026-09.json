@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-25T11:06:58.545372",
+  "generated_at": "2026-09-25T16:30:34.955249",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 33,
-    "Golkar": 18,
+    "Golkar": 17,
     "NasDem": 3,
-    "PKB": 27,
-    "PKS": 24,
-    "PAN": 7,
+    "PKB": 29,
+    "PKS": 22,
+    "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 57,
+    "Gerindra": 56,
     "PDI-P": 73,
-    "Golkar": 92,
+    "Golkar": 88,
     "NasDem": 23,
-    "PKB": 61,
+    "PKB": 60,
     "PKS": 63,
-    "PAN": 20,
+    "PAN": 21,
     "Demokrat": 16
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 27,
-    "bumn": 62,
+    "bumn": 65,
+    "danantara": 26,
     "dividen": 2,
-    "koperasi": 61,
+    "koperasi": 56,
+    "umkm": 16,
+    "impor": 19,
     "perdagangan": 8,
-    "umkm": 15,
-    "ekspor": 3,
-    "impor": 18,
-    "investasi": 12,
+    "ekspor": 2,
+    "investasi": 10,
     "kartel-monopoli": 11
   },
   "member_counts_30d": {
@@ -52,7 +52,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 10,
     "Unru Baso": 1,
-    "Mulyadi": 18,
+    "Mulyadi": 17,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 16,
     "Darmadi Durianto": 6,
@@ -63,7 +63,7 @@
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 7,
+    "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
@@ -73,7 +73,7 @@
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 10,
-    "Anggia Erma Rini": 14,
+    "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 7,
@@ -83,122 +83,122 @@
     "Ismail": 14,
     "Eko Patrio": 1,
     "Nasril Bahar": 6,
-    "Iskandar": 13,
+    "Iskandar": 14,
     "Sartono": 3,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 35,
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 36,
-    "Hukum/Audit": 16,
+    "Kinerja BUMN": 32,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 37,
+    "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Wamendag Roro Ungkap Strategi Perdagangan RI di Tengah Gempuran AI - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 10:51:00 GMT",
-      "link": "https://www.inilah.com/wamendag-roro-ungkap-strategi-perdagangan-ri-di-tengah-gempuran-ai"
-    },
-    {
-      "title": "Zubir Sahim: Sabang Harus Rebut Bisnis Layanan Kapal Internasional » - dialeksis.com",
+      "title": "BPKS, Bappenas Dan ADB Matangkan Proyek Pariwisata Berkelanjutan Di Sabang - Acehinfo",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 10:16:40 GMT",
-      "link": "https://dialeksis.com/nasional/zubir-sahim-sabang-harus-rebut-bisnis-layanan-kapal-internasional/"
+      "published": "Fri, 25 Sep 2026 16:09:15 GMT",
+      "link": "https://www.acehinfo.id/bpks-bappenas-dan-adb-matangkan-proyek-pariwisata-berkelanjutan-di-sabang/"
     },
     {
-      "title": "Tak Sekadar Pengajian, BKMT Didorong Cetak Pengusaha Muslim - Mozaik Islam",
+      "title": "Kemenkop-KKP perkuat sinergi koperasi dan kampung nelayan Sinjai - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 10:15:00 GMT",
-      "link": "https://mozaik.inilah.com/news/tak-sekadar-pengajian-bkmt-didorong-cetak-pengusaha-muslim"
+      "published": "Fri, 25 Sep 2026 16:02:42 GMT",
+      "link": "https://www.antaranews.com/berita/5759093/kemenkop-kkp-perkuat-sinergi-koperasi-dan-kampung-nelayan-sinjai"
     },
     {
-      "title": "Iskandar Desak BPSDM Aceh Segera Salurkan Beasiswa, Tak Perlu Tunggu Data Rampung 100 Persen - Acehinfo",
-      "entity": "Iskandar",
+      "title": "Kemendag Gandeng BINUS University Masuk Campuspreneur - olenka.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 15:40:00 GMT",
+      "link": "https://olenka.id/kemendag-gandeng-binus-university-masuk-campuspreneur"
+    },
+    {
+      "title": "KRL Jabodetabek Makin Padat, DPR Minta Tambah Armada untuk Layani 1,3 Juta Penumpang - VOI.ID",
+      "entity": "Rivqy Abdul Halim",
       "kind": "anggota",
-      "published": "Fri, 25 Sep 2026 09:35:16 GMT",
-      "link": "https://www.acehinfo.id/iskandar-desak-bpsdm-aceh-segera-salurkan-beasiswa-tak-perlu-tunggu-data-rampung-100-persen-banda-aceh-anggota-komisi-vi-dpr-aceh-dari-fraksi-partai-kebangkitan-bangsa-pkb-iskandar-men/"
+      "published": "Fri, 25 Sep 2026 15:30:00 GMT",
+      "link": "https://voi.id/berita/595735/krl-jabodetabek-makin-padat-dpr-minta-tambah-armada-untuk-layani-1-3-juta-penumpang"
     },
     {
-      "title": "Kepala BPKS Beberkan Progres Terkini Sabang - Andaman » - dialeksis.com",
+      "title": "BPKS, Bappenas dan ADB Matangkan Proyek Pariwisata Berkelanjutan Sabang » - dialeksis.com",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 09:26:32 GMT",
-      "link": "https://dialeksis.com/pemerintahan/kepala-bpks-beberkan-progres-terkini-sabang-andaman/"
+      "published": "Fri, 25 Sep 2026 14:30:00 GMT",
+      "link": "https://www.dialeksis.com/pemerintahan/bpks-bappenas-dan-adb-matangkan-proyek-pariwisata-berkelanjutan-sabang/"
     },
     {
-      "title": "Wali Kota Sabang Hadiri FGD Bersama BPKS, Bappenas dan ADB Bahas Pengembangan Sabang. - Pemerintah Kota Sabang",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 09:15:27 GMT",
-      "link": "https://www.sabangkota.go.id/berita/kategori/berita-media/wali-kota-sabang-hadiri-fgd-bersama-bpks-bappenas-dan-adb-bahas-pengembangan-sabang"
-    },
-    {
-      "title": "Mahasiswa HES UMP Bedah Tantangan Perlindungan Konsumen di Era Digital - ump.ac.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 09:06:50 GMT",
-      "link": "https://ump.ac.id/Berita-4550-Mahasiswa.HES.UMP.Bedah.Tantangan.Perlindungan.Konsumen.di.Era.Digital.html"
-    },
-    {
-      "title": "Kemendag Dukung UMKM di Solo lewat Discovery Commerce - SINDOnews Daerah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 08:53:53 GMT",
-      "link": "https://daerah.sindonews.com/read/1753627/174/kemendag-dukung-umkm-di-solo-lewat-discovery-commerce-1790323795"
-    },
-    {
-      "title": "KKP Gandeng Kementerian Koperasi Kelola Kampung Nelayan Merah Putih - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 08:38:50 GMT",
-      "link": "https://www.metrotvnews.com/read/KZmCQE21-kkp-gandeng-kementerian-koperasi-kelola-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "MoU KNMP Ditandatangani di Tongke-Tongke, Bupati Sinjai Minta Program Nasional Ini Beri Manfaat Nyata bagi Nelayan Sinjai - Pemerintah Kabupaten Sinjai",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 08:22:00 GMT",
-      "link": "https://protokol.sinjaikab.go.id/2026/09/mou-knmp-ditandatangani-di-tongke.html"
-    },
-    {
-      "title": "Mendag ajak mahasiswa jadi eksportir lewat program Campuspreneur - ANTARA News Gorontalo",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 08:12:37 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/426052/mendag-ajak-mahasiswa-jadi-eksportir-lewat-program-campuspreneur"
-    },
-    {
-      "title": "Profil Rieke Diah Pitaloka, Anggota DPR RI yang Dilaporkan Erin Mantan Istri Andre Taulany - Grid.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 25 Sep 2026 08:09:00 GMT",
-      "link": "https://www.grid.id/read/044415815/profil-rieke-diah-pitaloka-anggota-dpr-ri-yang-dilaporkan-erin-mantan-istri-andre-taulany"
-    },
-    {
-      "title": "KPPU Mulai Sidangkan Dugaan Persekongkolan Revitalisasi Pasar Desa Ciparay Rp65,48 Miliar - KaltimKita.com",
+      "title": "KPPU Makassar Gelar Advokasi Persaingan Usaha untuk Wilayah Maluku - Gosulsel.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 07:31:16 GMT",
-      "link": "https://kaltimkita.com/detailpost/kppu-mulai-sidangkan-dugaan-persekongkolan-revitalisasi-pasar-desa-ciparay-rp65-48-miliar"
+      "published": "Fri, 25 Sep 2026 14:19:00 GMT",
+      "link": "https://gosulsel.com/09/2026/kppu-makassar-gelar-advokasi-persaingan-usaha-untuk-wilayah-maluku/"
     },
     {
-      "title": "KKP Gandeng Kemenkop-BP BUMN Kelola Kampung Nelayan - RRI.co.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Dari 1.182 Permohonan Izin di Batam, Baru 423 Ditangani, Ratusan Masih Terkendala Persyaratan - VOI.ID",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 07:15:00 GMT",
-      "link": "https://rri.co.id/nasional/2759599/kkp-gandeng-kemenkop-bp-bumn-kelola-kampung-nelayan"
+      "published": "Fri, 25 Sep 2026 13:30:00 GMT",
+      "link": "https://voi.id/ekonomi/595721/dari-1-182-permohonan-izin-di-batam-baru-423-ditangani-ratusan-masih-terkendala-persyaratan"
     },
     {
-      "title": "OJK dan Danantara Tinjau Kondisi Dana Pensiun BUMN - Demokratis.co.id",
+      "title": "Kemendag Gelar Kick Off Sertifikasi Barcode Gratis untuk UMKM Jabodetabek 2026 - UKMINDONESIA.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 13:22:19 GMT",
+      "link": "https://ukmindonesia.id/baca-deskripsi-program/kemendag-gelar-kick-off-sertifikasi-barcode-gratis-untuk-umkm-jabodetabek-2026"
+    },
+    {
+      "title": "Dongkrak Perekonomian Nelayan, KNMP Dikelola 3 Kementerian hingga BUMN - Kompas.com",
       "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 07:13:16 GMT",
-      "link": "https://demokratis.co.id/ojk-danantara-tinjau-dana-pensiun-bumn"
+      "published": "Fri, 25 Sep 2026 13:05:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/25/200500726/dongkrak-perekonomian-nelayan-knmp-dikelola-3-kementerian-hingga-bumn"
+    },
+    {
+      "title": "Dongkrak Perekonomian Nelayan, KNMP Dikelola 3 Kementerian hingga BUMN - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 13:05:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/25/200500726/dongkrak-perekonomian-nelayan-knmp-dikelola-3-kementerian-hingga-bumn"
+    },
+    {
+      "title": "Dongkrak Perekonomian Nelayan, KNMP Dikelola 3 Kementerian hingga BUMN - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 13:05:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/25/200500726/dongkrak-perekonomian-nelayan-knmp-dikelola-3-kementerian-hingga-bumn"
+    },
+    {
+      "title": "KKP Gandeng Kemenkop dan BP BUMN Kelola Kampung Nelayan Merah Putih - Media Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 12:16:26 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/937628/kkp-gandeng-kemenkop-dan-bp-bumn-kelola-kampung-nelayan-merah-putih"
+    },
+    {
+      "title": "Menkop Minta Kopdes Tak Bangun Gedung di Kampung Nelayan Merah Putih - CNBC Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 11:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20260925140542-4-770941/menkop-minta-kopdes-tak-bangun-gedung-di-kampung-nelayan-merah-putih"
+    },
+    {
+      "title": "Kemendag Gandeng Tokopedia/Tiktok Shop Buka Akses Pasar UMKM Solo - CNBC Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 11:03:38 GMT",
+      "link": "https://www.cnbcindonesia.com/tech/20260925175523-37-771039/kemendag-gandeng-tokopedia-tiktok-shop-buka-akses-pasar-umkm-solo"
+    },
+    {
+      "title": "Sabang Perkuat Pariwisata dan Konektivitas Bersama Bappenas-ADB - rri.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 10:58:00 GMT",
+      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2759890/sabang-perkuat-pariwisata-dan-konektivitas-bersama-bappenas-adb"
     }
   ]
 }
