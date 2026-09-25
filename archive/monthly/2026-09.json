@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-25T16:30:34.955249",
+  "generated_at": "2026-09-25T20:14:11.515542",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 33,
     "Golkar": 17,
     "NasDem": 3,
-    "PKB": 29,
-    "PKS": 22,
+    "PKB": 30,
+    "PKS": 21,
     "PAN": 8,
     "Demokrat": 4
   },
@@ -16,7 +16,7 @@
     "PDI-P": 73,
     "Golkar": 88,
     "NasDem": 23,
-    "PKB": 60,
+    "PKB": 61,
     "PKS": 63,
     "PAN": 21,
     "Demokrat": 16
@@ -76,7 +76,7 @@
     "Anggia Erma Rini": 13,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 7,
+    "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 9,
@@ -90,11 +90,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 32,
     "Koperasi/UMKM": 60,
-    "Perdagangan": 37,
+    "Perdagangan": 38,
     "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - berita.cilegon.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 17:21:26 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260926/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - berita.cilegon.go.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 17:20:21 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260926/MTEyNg%3D%3D"
+    },
     {
       "title": "BPKS, Bappenas Dan ADB Matangkan Proyek Pariwisata Berkelanjutan Di Sabang - Acehinfo",
       "entity": "BPK Sabang",
@@ -138,6 +152,13 @@
       "link": "https://gosulsel.com/09/2026/kppu-makassar-gelar-advokasi-persaingan-usaha-untuk-wilayah-maluku/"
     },
     {
+      "title": "Dari 1.182 Permohonan Izin di Batam, Baru 423 Ditangani, Ratusan Masih Terkendala Persyaratan - voi.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 25 Sep 2026 13:42:03 GMT",
+      "link": "https://voi.id/amp/595721/dari-1-182-permohonan-izin-di-batam-baru-423-ditangani-ratusan-masih-terkendala-persyaratan"
+    },
+    {
       "title": "Dari 1.182 Permohonan Izin di Batam, Baru 423 Ditangani, Ratusan Masih Terkendala Persyaratan - VOI.ID",
       "entity": "BP Batam",
       "kind": "lembaga",
@@ -178,27 +199,6 @@
       "kind": "lembaga",
       "published": "Fri, 25 Sep 2026 12:16:26 GMT",
       "link": "https://mediaindonesia.com/ekonomi/937628/kkp-gandeng-kemenkop-dan-bp-bumn-kelola-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "Menkop Minta Kopdes Tak Bangun Gedung di Kampung Nelayan Merah Putih - CNBC Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 11:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20260925140542-4-770941/menkop-minta-kopdes-tak-bangun-gedung-di-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "Kemendag Gandeng Tokopedia/Tiktok Shop Buka Akses Pasar UMKM Solo - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 11:03:38 GMT",
-      "link": "https://www.cnbcindonesia.com/tech/20260925175523-37-771039/kemendag-gandeng-tokopedia-tiktok-shop-buka-akses-pasar-umkm-solo"
-    },
-    {
-      "title": "Sabang Perkuat Pariwisata dan Konektivitas Bersama Bappenas-ADB - rri.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 25 Sep 2026 10:58:00 GMT",
-      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2759890/sabang-perkuat-pariwisata-dan-konektivitas-bersama-bappenas-adb"
     }
   ]
 }
