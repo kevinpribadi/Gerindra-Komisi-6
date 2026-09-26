@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-26T03:28:47.230660",
+  "generated_at": "2026-09-26T09:05:22.946884",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 33,
-    "Golkar": 16,
+    "Gerindra": 16,
+    "PDI-P": 29,
+    "Golkar": 17,
     "NasDem": 3,
-    "PKB": 32,
-    "PKS": 23,
+    "PKB": 34,
+    "PKS": 20,
     "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 54,
+    "Gerindra": 53,
     "PDI-P": 74,
-    "Golkar": 88,
+    "Golkar": 86,
     "NasDem": 23,
     "PKB": 59,
     "PKS": 63,
     "PAN": 21,
-    "Demokrat": 16
+    "Demokrat": 15
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
+    "bumn": 64,
     "danantara": 26,
     "dividen": 2,
     "koperasi": 57,
-    "umkm": 16,
+    "umkm": 17,
+    "ekspor": 4,
     "impor": 20,
-    "perdagangan": 8,
-    "ekspor": 2,
-    "investasi": 11,
-    "kartel-monopoli": 11
+    "perdagangan": 6,
+    "investasi": 10,
+    "kartel-monopoli": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,7 +52,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 10,
     "Unru Baso": 1,
-    "Mulyadi": 15,
+    "Mulyadi": 14,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 17,
     "Darmadi Durianto": 6,
@@ -64,12 +64,12 @@
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
-    "Ahmad Labib": 8,
+    "Ahmad Labib": 7,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 17,
-    "Muhammad Sarmuji": 17,
+    "Rizki Faisal": 18,
+    "Muhammad Sarmuji": 15,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 10,
@@ -84,121 +84,121 @@
     "Eko Patrio": 1,
     "Nasril Bahar": 6,
     "Iskandar": 14,
-    "Sartono": 3,
+    "Sartono": 2,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 30,
-    "Koperasi/UMKM": 62,
-    "Perdagangan": 40,
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 42,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Ariastuty Sirait: 1.182 Permohonan Masuk OSS, BP Batam Perkuat Kepastian Perizinan - Kampiun News",
+      "title": "Revitalisasi Industri Tekstil, Akademisi Soroti Teknologi dan Produktivitas - indoposco",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 07:47:33 GMT",
+      "link": "https://indoposco.id/2026/09/26/revitalisasi-industri-tekstil-akademisi-soroti-teknologi-dan-produktivitas/"
+    },
+    {
+      "title": "Satu Koperasi Desa/Kelurahan Merah Putih di Sangihe Rampung Dibangun - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 07:04:00 GMT",
+      "link": "https://rri.co.id/tahuna/daerah-3t/2761289/satu-koperasi-desakelurahan-merah-putih-di-sangihe-rampung-dibangun"
+    },
+    {
+      "title": "Menkop Ajak BKMT Sinergikan Dakwah Ekonomi Syariah dan Koperasi Masjid - indonesiadaily.net",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 06:38:07 GMT",
+      "link": "https://indonesiadaily.net/2026/09/menkop-ajak-bkmt-sinergikan-dakwah-ekonomi-syariah-dan-koperasi-masjid/"
+    },
+    {
+      "title": "BP Batam Catat 1.182 Permohonan Perizinan OSS hingga September 2026 - batamtv.com",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 03:17:52 GMT",
-      "link": "https://kampiunnews.com/ariastuty-sirait-1-182-permohonan-masuk-oss-bp-batam-perkuat-kepastian-perizinan/"
+      "published": "Sat, 26 Sep 2026 06:28:05 GMT",
+      "link": "https://batamtv.com/bp-batam-catat-1-182-permohonan-perizinan-oss-hingga-september-2026/"
     },
     {
-      "title": "Danantara Mau Pegang Saham BEI, Ini Update Terbarunya - CNBC Indonesia",
-      "entity": "Danantara",
+      "title": "Penempatan Manajer Kopdes Merah Putih Tunggu SK Pengangkatan - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 03:00:03 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20260926083949-17-771117/danantara-mau-pegang-saham-bei-ini-update-terbarunya"
+      "published": "Sat, 26 Sep 2026 06:25:56 GMT",
+      "link": "https://www.metrotvnews.com/read/b1oCO51Q-penempatan-manajer-kopdes-merah-putih-tunggu-sk-pengangkatan"
     },
     {
-      "title": "KPPU Soroti Algoritma Harga Grab, Ingatkan Risiko Pelanggaran Persaingan Usaha - radargep.com",
+      "title": "Memperkuat sinergi koperasi dan nelayan Sinjai - ANTARA News Makassar",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 06:16:51 GMT",
+      "link": "https://makassar.antaranews.com/berita/639044/memperkuat-sinergi-koperasi-dan-nelayan-sinjai"
+    },
+    {
+      "title": "KPPU Sidangkan Dugaan Persekongkolan di Beauty Contest Revitalisasi Pasar Ciparay - gosulsel.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 02:36:49 GMT",
-      "link": "https://radargep.com/kppu-soroti-algoritma-harga-grab-ingatkan-risiko-pelanggaran-persaingan-usaha.html"
+      "published": "Sat, 26 Sep 2026 06:08:00 GMT",
+      "link": "https://gosulsel.com/09/2026/kppu-sidangkan-dugaan-persekongkolan-di-beauty-contest-revitalisasi-pasar-ciparay/"
     },
     {
-      "title": "10 Brand Fesyen dan Tekstil Indonesia Unjuk Produk di Saudi Fashion & Tex Expo 2026 - Industry.co.id",
+      "title": "KKP Gandeng Kemenkop hingga BP BUMN Kelola Kampung Nelayan Merah Putih - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 05:55:04 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260926125216-92-1408471/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih"
+    },
+    {
+      "title": "KKP Gandeng Kemenkop dan BP BUMN Kelola Kampung Nelayan Merah Putih - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 05:27:46 GMT",
+      "link": "https://nasional.tvrinews.com/berita/td4mmjs-kkp-gandeng-kemenkop-dan-bp-bumn-kelola-kampung-nelayan-merah-putih"
+    },
+    {
+      "title": "Rizki Faisal Soroti Kesiapan Aparat Usai UU Reforma Agraria Disahkan - jurnas.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sat, 26 Sep 2026 05:22:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1666143/rizki-faisal-soroti-kesiapan-aparat-usai-uu-reforma-agraria-disahkan/"
+    },
+    {
+      "title": "Beban Berat Gara-gara Koperasi Desa - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 05:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/beban-berat-gara-gara-koperasi-desa-2291005"
+    },
+    {
+      "title": "Kemendag: Transaksi UMKM BISA Ekspor Capai USD347 Juta - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 02:32:00 GMT",
-      "link": "https://www.industry.co.id/read/156564/10-brand-fesyen-dan-tekstil-indonesia-unjuk-produk-di-saudi-fashion-tex-expo-2026"
+      "published": "Sat, 26 Sep 2026 04:49:21 GMT",
+      "link": "https://www.metrotvnews.com/read/KZmCQEAp-kemendag-transaksi-umkm-bisa-ekspor-capai-usd347-juta"
     },
     {
-      "title": "Rieke Diah Pitaloka Dilaporkan Pihak Erin, Kini Bongkar Alasan Turun Tangan Dampingi Eks ART - VIVA.co.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 01:57:00 GMT",
-      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1931197-rieke-diah-pitaloka-dilaporkan-pihak-erin-kini-bongkar-alasan-turun-tangan-dampingi-eks-art"
-    },
-    {
-      "title": "Rizal Bawazier Serap Aspirasi Masyarakat, KA Anggrek Bakal Kembali Berhenti di Pekalongan November 2026 - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 01:23:00 GMT",
-      "link": "https://radarpekalongan.disway.id/batang/read/115426/rizal-bawazier-serap-aspirasi-masyarakat-ka-anggrek-bakal-kembali-berhenti-di-pekalongan-november-2026"
-    },
-    {
-      "title": "Menteri KP dan Koperasi Tandatangani MoU Tata Kelola Operasional KNMP di Sinjai - RRI.co.id",
+      "title": "KKP Bidik 5.000 Kampung Nelayan Merah Putih hingga 2029, Gandeng Kemenkop dan BP BUMN - Bisnis.com - Ekonomi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:55:00 GMT",
-      "link": "https://rri.co.id/bone/asta-cita/2761148/menteri-kp-dan-koperasi-tandatangani-mou-tata-kelola-operasional-knmp-di-sinjai"
+      "published": "Sat, 26 Sep 2026 04:40:39 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260926/12/2007448/kkp-bidik-5000-kampung-nelayan-merah-putih-hingga-2029-gandeng-kemenkop-dan-bp-bumn"
     },
     {
-      "title": "Kampung Nelayan Merah Putih Dibidik Jadi Mesin Ekonomi, KKP Gandeng Koperasi dan BUMN - waspada.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Gandeng BINUS University Dorong Lahirnya Wirausaha Muda Siap Pasar Ekspor - Tempo.co",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:53:18 GMT",
-      "link": "https://www.waspada.id/berita/kampung-nelayan-merah-putih-dibidik-jadi-mesin-ekonomi-kkp-gandeng-koperasi-dan-bumn"
+      "published": "Sat, 26 Sep 2026 04:15:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/kemendag-gandeng-binus-university-dorong-lahirnya-wirausaha-muda-siap-pasar-ekspor-2291866"
     },
     {
-      "title": "Kepala BPKS Ungkap Perkembangan Terbaru Konektivitas Sabang-Andaman - RRI.co.id",
-      "entity": "BPK Sabang",
+      "title": "Kemendag Gandeng BINUS University Kembangkan Ekosistem Wirausaha - news.detik.com",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:49:00 GMT",
-      "link": "https://rri.co.id/sabang/nasional/2761089/kepala-bpks-ungkap-perkembangan-terbaru-konektivitas-sabang-andaman"
-    },
-    {
-      "title": "BPKS Matangkan Proyek Pariwisata Berkelanjutan Sabang Bersama Bappenas dan ADB - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:48:00 GMT",
-      "link": "https://rri.co.id/sabang/nasional/2761024/bpks-matangkan-proyek-pariwisata-berkelanjutan-sabang-bersama-bappenas-dan-adb"
-    },
-    {
-      "title": "Pintu KRL INKA Bermasalah, Mufti Anam Minta Pengujian Diperketat Sebelum Digunakan - Ruang Politik",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 00:45:22 GMT",
-      "link": "https://ruangpolitik.com/2026/09/26/pintu-krl-inka-bermasalah-mufti-anam-minta-pengujian-diperketat-sebelum-digunakan/"
-    },
-    {
-      "title": "Danantara Ajukan Surat Kepemilikan Saham Bursa Efek Indonesia - demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:31:36 GMT",
-      "link": "https://demokratis.co.id/danantara-ajukan-surat-kepemilikan-saham-bei"
-    },
-    {
-      "title": "Danantara Kaji Porsi Saham BEI dalam Proses Demutualisasi - suaragarut.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:31:18 GMT",
-      "link": "https://suaragarut.id/danantara-kaji-porsi-saham-bei"
-    },
-    {
-      "title": "Danantara Sudah Kirim Surat Mau Genggam Saham Bursa Efek - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 00:25:00 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8679672/danantara-sudah-kirim-surat-mau-genggam-saham-bursa-efek"
-    },
-    {
-      "title": "Soroti Pergerakan Rupiah, Akom XI Ingatkan Pemerintah Dampaknya Pada Masyarakat - Kedai Pena",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 00:17:08 GMT",
-      "link": "https://www.kedaipena.com/soroti-pergerakan-rupiah-akom-xi-ingatkan-pemerintah-dampaknya-pada-masyarakat/"
+      "published": "Sat, 26 Sep 2026 03:50:29 GMT",
+      "link": "https://news.detik.com/berita/d-8679953/kemendag-gandeng-binus-university-kembangkan-ekosistem-wirausaha"
     }
   ]
 }
