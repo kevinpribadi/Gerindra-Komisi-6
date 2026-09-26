@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-26T09:05:22.946884",
+  "generated_at": "2026-09-26T14:04:52.916176",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 15,
     "PDI-P": 29,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 3,
     "PKB": 34,
-    "PKS": 20,
+    "PKS": 16,
     "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 53,
     "PDI-P": 74,
-    "Golkar": 86,
+    "Golkar": 87,
     "NasDem": 23,
     "PKB": 59,
-    "PKS": 63,
-    "PAN": 21,
-    "Demokrat": 15
+    "PKS": 61,
+    "PAN": 20,
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -40,7 +40,7 @@
     "koperasi": 57,
     "umkm": 17,
     "ekspor": 4,
-    "impor": 20,
+    "impor": 19,
     "perdagangan": 6,
     "investasi": 10,
     "kartel-monopoli": 10
@@ -68,7 +68,7 @@
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 18,
+    "Rizki Faisal": 19,
     "Muhammad Sarmuji": 15,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 10,
@@ -80,21 +80,56 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 9,
-    "Ismail": 14,
+    "Ismail": 12,
     "Eko Patrio": 1,
-    "Nasril Bahar": 6,
+    "Nasril Bahar": 5,
     "Iskandar": 14,
-    "Sartono": 2,
+    "Sartono": 1,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 29,
+    "Kinerja BUMN": 28,
     "Koperasi/UMKM": 64,
     "Perdagangan": 42,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Sebut Bobby Nasution Gubernur Pekerja Keras! - inspirasinews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 26 Sep 2026 13:57:21 GMT",
+      "link": "https://inspirasinews.id/2026/09/andre-rosiade-sebut-bobby-nasution-gubernur-pekerja-keras/"
+    },
+    {
+      "title": "Kemendag dan Bulog Menjaga Stabilitas Stok Minyakita - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 13:28:21 GMT",
+      "link": "https://demokratis.co.id/kemendag-bulog-menjaga-stabilitas-minyakita"
+    },
+    {
+      "title": "KKP-Kemenkop Kolaborasi Atasi Kekurangan Solar Nelayan Sinjai - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 12:00:46 GMT",
+      "link": "https://www.detik.com/sulsel/berita/d-8680398/kkp-kemenkop-kolaborasi-atasi-kekurangan-solar-nelayan-sinjai"
+    },
+    {
+      "title": "Danantara Kirim Surat Incar Saham Bursa Efek Indonesia - SuaraGarut.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 11:03:34 GMT",
+      "link": "https://suaragarut.id/danantara-kirim-surat-saham-bei"
+    },
+    {
+      "title": "Rizal Bawazier Soroti Integrasi KAI-INKA hingga Layanan Penumpang - Fraksi PKS",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sat, 26 Sep 2026 09:18:32 GMT",
+      "link": "https://fraksi.pks.id/2026/09/26/rizal-bawazier-soroti-integrasi-kai-inka-hingga-layanan-penumpang/"
+    },
     {
       "title": "Revitalisasi Industri Tekstil, Akademisi Soroti Teknologi dan Produktivitas - indoposco",
       "entity": "Danantara",
@@ -164,41 +199,6 @@
       "kind": "anggota",
       "published": "Sat, 26 Sep 2026 05:22:00 GMT",
       "link": "https://www.jurnas.com/artikel/1666143/rizki-faisal-soroti-kesiapan-aparat-usai-uu-reforma-agraria-disahkan/"
-    },
-    {
-      "title": "Beban Berat Gara-gara Koperasi Desa - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 05:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/beban-berat-gara-gara-koperasi-desa-2291005"
-    },
-    {
-      "title": "Kemendag: Transaksi UMKM BISA Ekspor Capai USD347 Juta - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 04:49:21 GMT",
-      "link": "https://www.metrotvnews.com/read/KZmCQEAp-kemendag-transaksi-umkm-bisa-ekspor-capai-usd347-juta"
-    },
-    {
-      "title": "KKP Bidik 5.000 Kampung Nelayan Merah Putih hingga 2029, Gandeng Kemenkop dan BP BUMN - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 04:40:39 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260926/12/2007448/kkp-bidik-5000-kampung-nelayan-merah-putih-hingga-2029-gandeng-kemenkop-dan-bp-bumn"
-    },
-    {
-      "title": "Kemendag Gandeng BINUS University Dorong Lahirnya Wirausaha Muda Siap Pasar Ekspor - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 04:15:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/kemendag-gandeng-binus-university-dorong-lahirnya-wirausaha-muda-siap-pasar-ekspor-2291866"
-    },
-    {
-      "title": "Kemendag Gandeng BINUS University Kembangkan Ekosistem Wirausaha - news.detik.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 03:50:29 GMT",
-      "link": "https://news.detik.com/berita/d-8679953/kemendag-gandeng-binus-university-kembangkan-ekosistem-wirausaha"
     }
   ]
 }
