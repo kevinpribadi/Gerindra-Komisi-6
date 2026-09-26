@@ -1,8 +1,8 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-26T18:18:11.239126",
+  "generated_at": "2026-09-26T21:48:35.885896",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 16,
     "PDI-P": 28,
     "Golkar": 18,
     "NasDem": 3,
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 63,
-    "danantara": 26,
+    "danantara": 25,
     "dividen": 2,
     "koperasi": 59,
     "ekspor": 6,
@@ -95,6 +95,13 @@
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade: Bobby Nasution sosok Gubernur pekerja keras - ANTARA News",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 26 Sep 2026 17:50:12 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5760169/andre-rosiade-bobby-nasution-sosok-gubernur-pekerja-keras"
+    },
     {
       "title": "PTPN IV PalmCo dan Kemendag Perkuat Akses Ekspor lewat InaExport - Mercinews.com",
       "entity": "Kementerian Perdagangan",
@@ -173,6 +180,13 @@
       "link": "https://suaragarut.id/danantara-kirim-surat-saham-bei"
     },
     {
+      "title": "PERURI Hadiri Penyerahan Tali Asih BP BUMN untuk Keluarga Jurnalis dan Awak yang Hilang - SINDOnews Nasional",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 10:00:06 GMT",
+      "link": "https://nasional.sindonews.com/newsread/1753979/15/peruri-hadiri-penyerahan-tali-asih-bp-bumn-untuk-keluarga-jurnalis-dan-awak-yang-hilang-1790417344"
+    },
+    {
       "title": "Rizal Bawazier Soroti Integrasi KAI-INKA hingga Layanan Penumpang - Fraksi PKS",
       "entity": "Rizal Bawazier",
       "kind": "anggota",
@@ -185,20 +199,6 @@
       "kind": "lembaga",
       "published": "Sat, 26 Sep 2026 08:55:00 GMT",
       "link": "https://investortrust.id/business/117533/menkop-ferry-dorong-bkmt-perkuat-ekonomi-umat-melalui-koperasi-masjid"
-    },
-    {
-      "title": "Revitalisasi Industri Tekstil, Akademisi Soroti Teknologi dan Produktivitas - indoposco",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 07:47:33 GMT",
-      "link": "https://indoposco.id/2026/09/26/revitalisasi-industri-tekstil-akademisi-soroti-teknologi-dan-produktivitas/"
-    },
-    {
-      "title": "Satu Koperasi Desa/Kelurahan Merah Putih di Sangihe Rampung Dibangun - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 07:04:00 GMT",
-      "link": "https://rri.co.id/tahuna/daerah-3t/2761289/satu-koperasi-desakelurahan-merah-putih-di-sangihe-rampung-dibangun"
     }
   ]
 }
