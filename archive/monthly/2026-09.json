@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-26T14:04:52.916176",
+  "generated_at": "2026-09-26T18:18:11.239126",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 29,
+    "PDI-P": 28,
     "Golkar": 18,
     "NasDem": 3,
     "PKB": 34,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 64,
+    "bumn": 63,
     "danantara": 26,
     "dividen": 2,
-    "koperasi": 57,
+    "koperasi": 59,
+    "ekspor": 6,
     "umkm": 17,
-    "ekspor": 4,
-    "impor": 19,
+    "impor": 18,
     "perdagangan": 6,
     "investasi": 10,
     "kartel-monopoli": 10
@@ -89,12 +89,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 64,
-    "Perdagangan": 42,
+    "Koperasi/UMKM": 66,
+    "Perdagangan": 43,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "PTPN IV PalmCo dan Kemendag Perkuat Akses Ekspor lewat InaExport - Mercinews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 17:32:00 GMT",
+      "link": "https://www.mercinews.com/berita/ptpn-iv-palmco-dan-kemendag-perkuat-akses-ekspor-lewat-inaexport/"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 17:10:55 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260927/Mjc0NDQ0"
+    },
+    {
+      "title": "PTPN IV PalmCo Gandeng Kemendag Perluas Pasar Ekspor Komoditas Perkebunan - Sudutpandang.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 17:08:29 GMT",
+      "link": "https://sudutpandang.id/ptpn-iv-palmco-gandeng-kemendag-perluas-pasar-ekspor-komoditas-perkebunan/"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 17:05:28 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260927/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi dan UKM Manfaatkan AI dan Smart Factory - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 15:02:56 GMT",
+      "link": "https://www.metrotvnews.com/read/koGCaXXR-kemenkop-dorong-koperasi-dan-ukm-manfaatkan-ai-dan-smart-factory"
+    },
+    {
+      "title": "Menkop Ajak BKMT Sinergikan Dakwah Ekonomi Syariah dan Koperasi Masjid - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 14:49:04 GMT",
+      "link": "https://news.detik.com/berita/d-8680725/menkop-ajak-bkmt-sinergikan-dakwah-ekonomi-syariah-dan-koperasi-masjid"
+    },
+    {
+      "title": "Sabang Diminta Rebut Bisnis Layanan Kapal Internasional - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 14:26:00 GMT",
+      "link": "https://rri.co.id/sabang/nasional/2761818/sabang-diminta-rebut-bisnis-layanan-kapal-internasional"
+    },
     {
       "title": "Andre Rosiade Sebut Bobby Nasution Gubernur Pekerja Keras! - inspirasinews",
       "entity": "Andre Rosiade",
@@ -131,6 +180,13 @@
       "link": "https://fraksi.pks.id/2026/09/26/rizal-bawazier-soroti-integrasi-kai-inka-hingga-layanan-penumpang/"
     },
     {
+      "title": "Menkop Ferry Dorong BKMT Perkuat Ekonomi Umat Melalui Koperasi Masjid - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 08:55:00 GMT",
+      "link": "https://investortrust.id/business/117533/menkop-ferry-dorong-bkmt-perkuat-ekonomi-umat-melalui-koperasi-masjid"
+    },
+    {
       "title": "Revitalisasi Industri Tekstil, Akademisi Soroti Teknologi dan Produktivitas - indoposco",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -143,62 +199,6 @@
       "kind": "lembaga",
       "published": "Sat, 26 Sep 2026 07:04:00 GMT",
       "link": "https://rri.co.id/tahuna/daerah-3t/2761289/satu-koperasi-desakelurahan-merah-putih-di-sangihe-rampung-dibangun"
-    },
-    {
-      "title": "Menkop Ajak BKMT Sinergikan Dakwah Ekonomi Syariah dan Koperasi Masjid - indonesiadaily.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 06:38:07 GMT",
-      "link": "https://indonesiadaily.net/2026/09/menkop-ajak-bkmt-sinergikan-dakwah-ekonomi-syariah-dan-koperasi-masjid/"
-    },
-    {
-      "title": "BP Batam Catat 1.182 Permohonan Perizinan OSS hingga September 2026 - batamtv.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 06:28:05 GMT",
-      "link": "https://batamtv.com/bp-batam-catat-1-182-permohonan-perizinan-oss-hingga-september-2026/"
-    },
-    {
-      "title": "Penempatan Manajer Kopdes Merah Putih Tunggu SK Pengangkatan - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 06:25:56 GMT",
-      "link": "https://www.metrotvnews.com/read/b1oCO51Q-penempatan-manajer-kopdes-merah-putih-tunggu-sk-pengangkatan"
-    },
-    {
-      "title": "Memperkuat sinergi koperasi dan nelayan Sinjai - ANTARA News Makassar",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 06:16:51 GMT",
-      "link": "https://makassar.antaranews.com/berita/639044/memperkuat-sinergi-koperasi-dan-nelayan-sinjai"
-    },
-    {
-      "title": "KPPU Sidangkan Dugaan Persekongkolan di Beauty Contest Revitalisasi Pasar Ciparay - gosulsel.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 06:08:00 GMT",
-      "link": "https://gosulsel.com/09/2026/kppu-sidangkan-dugaan-persekongkolan-di-beauty-contest-revitalisasi-pasar-ciparay/"
-    },
-    {
-      "title": "KKP Gandeng Kemenkop hingga BP BUMN Kelola Kampung Nelayan Merah Putih - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 05:55:04 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260926125216-92-1408471/kkp-gandeng-kemenkop-hingga-bp-bumn-kelola-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "KKP Gandeng Kemenkop dan BP BUMN Kelola Kampung Nelayan Merah Putih - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 05:27:46 GMT",
-      "link": "https://nasional.tvrinews.com/berita/td4mmjs-kkp-gandeng-kemenkop-dan-bp-bumn-kelola-kampung-nelayan-merah-putih"
-    },
-    {
-      "title": "Rizki Faisal Soroti Kesiapan Aparat Usai UU Reforma Agraria Disahkan - jurnas.com",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 05:22:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1666143/rizki-faisal-soroti-kesiapan-aparat-usai-uu-reforma-agraria-disahkan/"
     }
   ]
 }
