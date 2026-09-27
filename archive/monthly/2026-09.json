@@ -1,19 +1,19 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-27T12:43:37.570632",
+  "generated_at": "2026-09-27T17:28:07.837697",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 27,
-    "Golkar": 18,
+    "Gerindra": 17,
+    "PDI-P": 29,
+    "Golkar": 20,
     "NasDem": 3,
-    "PKB": 33,
+    "PKB": 34,
     "PKS": 14,
     "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 50,
-    "PDI-P": 74,
+    "Gerindra": 49,
+    "PDI-P": 75,
     "Golkar": 86,
     "NasDem": 22,
     "PKB": 59,
@@ -34,27 +34,27 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 63,
+    "bumn": 60,
     "danantara": 25,
     "dividen": 2,
-    "koperasi": 59,
+    "koperasi": 58,
     "ekspor": 6,
-    "umkm": 17,
     "impor": 18,
+    "umkm": 17,
     "perdagangan": 6,
-    "investasi": 10,
-    "kartel-monopoli": 10
+    "investasi": 12,
+    "kartel-monopoli": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 9,
+    "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 10,
-    "Mufti Anam": 17,
+    "Mufti Anam": 18,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -64,11 +64,11 @@
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
-    "Ahmad Labib": 7,
+    "Ahmad Labib": 6,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 19,
+    "Rizki Faisal": 20,
     "Muhammad Sarmuji": 14,
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 10,
@@ -89,116 +89,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 67,
+    "Koperasi/UMKM": 66,
     "Perdagangan": 43,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Pemerintah Siapkan Anggaran Koperasi Merah Putih, Pembayaran Dijamin Transparan - Minews ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 22:42:14 GMT",
-      "link": "https://minews.id/news/pemerintah-siapkan-anggaran-koperasi-merah-putih-pembayaran-dijamin-transparan"
-    },
-    {
-      "title": "Andre Rosiade: Bobby Nasution sosok Gubernur pekerja keras - ANTARA News",
-      "entity": "Andre Rosiade",
+      "title": "Darmadi Durianto Ingatkan: RUU Desain Industri Harus Melindungi Manusianya - gesuri.id",
+      "entity": "Darmadi Durianto",
       "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 17:50:12 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5760169/andre-rosiade-bobby-nasution-sosok-gubernur-pekerja-keras"
+      "published": "Sun, 27 Sep 2026 15:25:47 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-ingatkan-ruu-desain-industri-harus-melindungi-manusianya-b2qbvZbimE"
     },
     {
-      "title": "PTPN IV PalmCo dan Kemendag Perkuat Akses Ekspor lewat InaExport - Mercinews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 17:32:00 GMT",
-      "link": "https://www.mercinews.com/berita/ptpn-iv-palmco-dan-kemendag-perkuat-akses-ekspor-lewat-inaexport/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 17:10:55 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260927/Mjc0NDQ0"
-    },
-    {
-      "title": "PTPN IV PalmCo Gandeng Kemendag Perluas Pasar Ekspor Komoditas Perkebunan - Sudutpandang.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 17:08:29 GMT",
-      "link": "https://sudutpandang.id/ptpn-iv-palmco-gandeng-kemendag-perluas-pasar-ekspor-komoditas-perkebunan/"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 17:05:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260927/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi dan UKM Manfaatkan AI dan Smart Factory - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 15:02:56 GMT",
-      "link": "https://www.metrotvnews.com/read/koGCaXXR-kemenkop-dorong-koperasi-dan-ukm-manfaatkan-ai-dan-smart-factory"
-    },
-    {
-      "title": "Menkop Ajak BKMT Sinergikan Dakwah Ekonomi Syariah dan Koperasi Masjid - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 14:49:04 GMT",
-      "link": "https://news.detik.com/berita/d-8680725/menkop-ajak-bkmt-sinergikan-dakwah-ekonomi-syariah-dan-koperasi-masjid"
-    },
-    {
-      "title": "Sabang Diminta Rebut Bisnis Layanan Kapal Internasional - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 14:26:00 GMT",
-      "link": "https://rri.co.id/sabang/nasional/2761818/sabang-diminta-rebut-bisnis-layanan-kapal-internasional"
-    },
-    {
-      "title": "Andre Rosiade Sebut Bobby Nasution Gubernur Pekerja Keras! - inspirasinews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 13:57:21 GMT",
-      "link": "https://inspirasinews.id/2026/09/andre-rosiade-sebut-bobby-nasution-gubernur-pekerja-keras/"
-    },
-    {
-      "title": "Kemendag dan Bulog Menjaga Stabilitas Stok Minyakita - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 13:28:21 GMT",
-      "link": "https://demokratis.co.id/kemendag-bulog-menjaga-stabilitas-minyakita"
-    },
-    {
-      "title": "KKP-Kemenkop Kolaborasi Atasi Kekurangan Solar Nelayan Sinjai - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 12:00:46 GMT",
-      "link": "https://www.detik.com/sulsel/berita/d-8680398/kkp-kemenkop-kolaborasi-atasi-kekurangan-solar-nelayan-sinjai"
-    },
-    {
-      "title": "Danantara Kirim Surat Incar Saham Bursa Efek Indonesia - SuaraGarut.ID",
+      "title": "Pakar sebut kerja sama pendanaan rute LRT Jakarta langkah strategis - ANTARA News",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 11:03:34 GMT",
-      "link": "https://suaragarut.id/danantara-kirim-surat-saham-bei"
+      "published": "Sun, 27 Sep 2026 14:57:31 GMT",
+      "link": "https://www.antaranews.com/berita/5760900/pakar-sebut-kerja-sama-pendanaan-rute-lrt-jakarta-langkah-strategis"
     },
     {
-      "title": "PERURI Hadiri Penyerahan Tali Asih BP BUMN untuk Keluarga Jurnalis dan Awak yang Hilang - SINDOnews Nasional",
+      "title": "Menkop Ajak BKMT Perkuat Ekonomi Umat Lewat Koperasi Masjid - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 13:55:53 GMT",
+      "link": "https://kabarjoglo.com/2026/09/27/menkop-ajak-bkmt-perkuat-ekonomi-umat-lewat-koperasi-masjid/"
+    },
+    {
+      "title": "PTPN IV PalmCo Kerja Sama dengan Kemendag Perluas Pasar Ekspor - detikcom",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 13:31:20 GMT",
+      "link": "https://www.detik.com/sumut/bisnis/d-8681783/ptpn-iv-palmco-kerja-sama-dengan-kemendag-perluas-pasar-ekspor"
+    },
+    {
+      "title": "Konferensi Nasional Perkebunan Rakyat II Dorong Koperasi Perkuat Hilirisasi Sawit - Serayu Nusantara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 13:22:56 GMT",
+      "link": "https://serayunusantara.com/konferensi-nasional-perkebunan-rakyat-ii-dorong-koperasi-perkuat-hilirisasi-sawit/"
+    },
+    {
+      "title": "Pemerintah Siapkan Anggaran Koperasi Merah Putih, Pembayaran Dijamin Transparan - PT Suara Dewata Media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 13:00:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217868/pemerintah-siapkan-anggaran-koperasi-merah-putih-pembayaran-dijamin-transparan"
+    },
+    {
+      "title": "UU Reforma Agraria Disahkan, DPR Soroti Kesiapan APH di Lapangan - law-justice.co",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 12:32:00 GMT",
+      "link": "https://www.law-justice.co/amp/211090/uu-reforma-agraria-disahkan-dpr-soroti-kesiapan-aph-di-lapangan/"
+    },
+    {
+      "title": "Pemerintah Integrasikan Kopdes dan Kampung Nelayan di Sinjai - investor.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 09:47:16 GMT",
+      "link": "https://investor.id/macroeconomy/455698/pemerintah-integrasikan-kopdes-dan-kampung-nelayan-di-sinjai"
+    },
+    {
+      "title": "Rieke Minta Audit Sejumlah Fasilitas Mewah di Lapas Cibinong - CNN Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 09:05:07 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260927150547-20-1408744/rieke-minta-audit-sejumlah-fasilitas-mewah-di-lapas-cibinong"
+    },
+    {
+      "title": "Rizki Faisal Dorong Kesiapan Penegak Hukum Usai UU Reforma Agraria Disahkan - fraksigolkar.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 08:26:35 GMT",
+      "link": "https://fraksigolkar.com/read/2664/rizki-faisal-dorong-kesiapan-penegak-hukum-usai-uu-reforma-agraria-disahkan"
+    },
+    {
+      "title": "Makin Sesaknya Pengguna KRL di Jam Sibuk, Komisi VI DPR Minta KAI Tambah Armada - Inilah.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 07:39:00 GMT",
+      "link": "https://www.inilah.com/makin-sesaknya-pengguna-krl-di-jam-sibuk-komisi-vi-dpr-minta-kai-tambah-armada"
+    },
+    {
+      "title": "Kelola Kampung Nelayan Merah Putih, KKP Gandeng Kemenkop hingga BP BUMN - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 07:16:00 GMT",
+      "link": "https://www.inilah.com/kelola-kampung-nelayan-merah-putih-kkp-gandeng-kemenkop-hingga-bp-bumn"
+    },
+    {
+      "title": "Kelola Kampung Nelayan Merah Putih, KKP Gandeng Kemenkop hingga BP BUMN - Inilah.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 10:00:06 GMT",
-      "link": "https://nasional.sindonews.com/newsread/1753979/15/peruri-hadiri-penyerahan-tali-asih-bp-bumn-untuk-keluarga-jurnalis-dan-awak-yang-hilang-1790417344"
+      "published": "Sun, 27 Sep 2026 07:16:00 GMT",
+      "link": "https://www.inilah.com/kelola-kampung-nelayan-merah-putih-kkp-gandeng-kemenkop-hingga-bp-bumn"
     },
     {
-      "title": "Rizal Bawazier Soroti Integrasi KAI-INKA hingga Layanan Penumpang - Fraksi PKS",
-      "entity": "Rizal Bawazier",
+      "title": "Mufti Anam Minta Gangguan Pintu KRL Produksi INKA Dievaluasi Menyeluruh - gesuri.id",
+      "entity": "Mufti Anam",
       "kind": "anggota",
-      "published": "Sat, 26 Sep 2026 09:18:32 GMT",
-      "link": "https://fraksi.pks.id/2026/09/26/rizal-bawazier-soroti-integrasi-kai-inka-hingga-layanan-penumpang/"
+      "published": "Sun, 27 Sep 2026 07:02:00 GMT",
+      "link": "https://www.gesuri.id/amp/pemerintahan/mufti-anam-minta-gangguan-pintu-krl-produksi-inka-dievaluasi-menyeluruh-b2qbvZbill"
+    },
+    {
+      "title": "Festival Makanan Ini Menjembatani Puluhan Pelaku Kuliner dan Konten Kreator - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 06:04:00 GMT",
+      "link": "https://swa.co.id/read/477786/festival-makanan-ini-menjembatani-puluhan-pelaku-kuliner-dan-konten-kreator"
     }
   ]
 }
