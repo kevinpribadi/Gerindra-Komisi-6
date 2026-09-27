@@ -1,12 +1,12 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-26T21:48:35.885896",
+  "generated_at": "2026-09-27T00:13:07.978844",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 28,
     "Golkar": 18,
     "NasDem": 3,
-    "PKB": 34,
+    "PKB": 33,
     "PKS": 16,
     "PAN": 8,
     "Demokrat": 4
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 53,
     "PDI-P": 74,
-    "Golkar": 87,
+    "Golkar": 86,
     "NasDem": 23,
     "PKB": 59,
     "PKS": 61,
@@ -69,7 +69,7 @@
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 19,
-    "Muhammad Sarmuji": 15,
+    "Muhammad Sarmuji": 14,
     "Rachmat Gobel": 3,
     "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 10,
@@ -89,12 +89,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 67,
     "Perdagangan": 43,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Pemerintah Siapkan Anggaran Koperasi Merah Putih, Pembayaran Dijamin Transparan - Minews ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 26 Sep 2026 22:42:14 GMT",
+      "link": "https://minews.id/news/pemerintah-siapkan-anggaran-koperasi-merah-putih-pembayaran-dijamin-transparan"
+    },
     {
       "title": "Andre Rosiade: Bobby Nasution sosok Gubernur pekerja keras - ANTARA News",
       "entity": "Andre Rosiade",
@@ -192,13 +199,6 @@
       "kind": "anggota",
       "published": "Sat, 26 Sep 2026 09:18:32 GMT",
       "link": "https://fraksi.pks.id/2026/09/26/rizal-bawazier-soroti-integrasi-kai-inka-hingga-layanan-penumpang/"
-    },
-    {
-      "title": "Menkop Ferry Dorong BKMT Perkuat Ekonomi Umat Melalui Koperasi Masjid - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 26 Sep 2026 08:55:00 GMT",
-      "link": "https://investortrust.id/business/117533/menkop-ferry-dorong-bkmt-perkuat-ekonomi-umat-melalui-koperasi-masjid"
     }
   ]
 }
