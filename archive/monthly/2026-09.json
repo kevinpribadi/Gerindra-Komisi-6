@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-27T17:28:07.837697",
+  "generated_at": "2026-09-27T20:51:52.338982",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 29,
+    "PDI-P": 30,
     "Golkar": 20,
     "NasDem": 3,
     "PKB": 34,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 75,
+    "PDI-P": 76,
     "Golkar": 86,
     "NasDem": 22,
     "PKB": 59,
@@ -59,7 +59,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 11,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
@@ -89,12 +89,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 66,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 67,
+    "Perdagangan": 44,
     "Hukum/Audit": 12,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "DPR Minta Pemeriksaan Kasus Rumah Mewah Lapas Cibinong Transparan - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 18:01:00 GMT",
+      "link": "https://www.jpnn.com/news/dpr-minta-pemeriksaan-kasus-rumah-mewah-lapas-cibinong-transparan"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 17:52:11 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20260928/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 17:41:24 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260928/Mjc0NDQ0"
+    },
+    {
+      "title": "Semangat Raih Cita-Cita, Ida Nurlaela Bagikan Sepeda Untuk Anak-anak Pangandaran - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 15:54:02 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/semangat-raih-cita-cita-ida-nurlaela-bagikan-sepeda-untuk-anak-anak-pangandaran-b2qbvZbim8"
+    },
     {
       "title": "Darmadi Durianto Ingatkan: RUU Desain Industri Harus Melindungi Manusianya - gesuri.id",
       "entity": "Darmadi Durianto",
@@ -171,34 +199,6 @@
       "kind": "anggota",
       "published": "Sun, 27 Sep 2026 07:39:00 GMT",
       "link": "https://www.inilah.com/makin-sesaknya-pengguna-krl-di-jam-sibuk-komisi-vi-dpr-minta-kai-tambah-armada"
-    },
-    {
-      "title": "Kelola Kampung Nelayan Merah Putih, KKP Gandeng Kemenkop hingga BP BUMN - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 27 Sep 2026 07:16:00 GMT",
-      "link": "https://www.inilah.com/kelola-kampung-nelayan-merah-putih-kkp-gandeng-kemenkop-hingga-bp-bumn"
-    },
-    {
-      "title": "Kelola Kampung Nelayan Merah Putih, KKP Gandeng Kemenkop hingga BP BUMN - Inilah.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 27 Sep 2026 07:16:00 GMT",
-      "link": "https://www.inilah.com/kelola-kampung-nelayan-merah-putih-kkp-gandeng-kemenkop-hingga-bp-bumn"
-    },
-    {
-      "title": "Mufti Anam Minta Gangguan Pintu KRL Produksi INKA Dievaluasi Menyeluruh - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 07:02:00 GMT",
-      "link": "https://www.gesuri.id/amp/pemerintahan/mufti-anam-minta-gangguan-pintu-krl-produksi-inka-dievaluasi-menyeluruh-b2qbvZbill"
-    },
-    {
-      "title": "Festival Makanan Ini Menjembatani Puluhan Pelaku Kuliner dan Konten Kreator - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 27 Sep 2026 06:04:00 GMT",
-      "link": "https://swa.co.id/read/477786/festival-makanan-ini-menjembatani-puluhan-pelaku-kuliner-dan-konten-kreator"
     }
   ]
 }
