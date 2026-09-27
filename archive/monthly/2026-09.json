@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-27T20:51:52.338982",
+  "generated_at": "2026-09-27T23:37:44.428807",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 30,
@@ -12,11 +12,11 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 49,
+    "Gerindra": 48,
     "PDI-P": 76,
     "Golkar": 86,
     "NasDem": 22,
-    "PKB": 59,
+    "PKB": 58,
     "PKS": 61,
     "PAN": 20,
     "Demokrat": 14
@@ -40,9 +40,9 @@
     "koperasi": 58,
     "ekspor": 6,
     "impor": 18,
-    "umkm": 17,
+    "umkm": 16,
     "perdagangan": 6,
-    "investasi": 12,
+    "investasi": 11,
     "kartel-monopoli": 11
   },
   "member_counts_30d": {
@@ -50,7 +50,7 @@
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 8,
+    "Kawendra Lukistian": 7,
     "Unru Baso": 1,
     "Mulyadi": 12,
     "Adisatrya Suryo Sulisto": 10,
@@ -73,7 +73,7 @@
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 10,
-    "Anggia Erma Rini": 11,
+    "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
@@ -91,10 +91,31 @@
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 67,
     "Perdagangan": 44,
-    "Hukum/Audit": 12,
+    "Hukum/Audit": 13,
     "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "Lapas Perempuan Bandung Overkapasitas, Rieke Ingatkan Petugas Jangan Bermental Minta-Minta - halosemarang.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 23:15:29 GMT",
+      "link": "https://halosemarang.id/lapas-perempuan-bandung-overkapasitas-rieke-ingatkan-petugas-jangan-bermental-minta-minta/"
+    },
+    {
+      "title": "Danantara Dinilai Bisa Buka Alternatif Pembiayaan Perpanjangan LRT Jakarta - VOI.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 27 Sep 2026 23:06:00 GMT",
+      "link": "https://voi.id/zh/economy/595932"
+    },
+    {
+      "title": "DPR Minta Pemeriksaan Kasus Rumah Mewah Lapas Cibinong Transparan - JPNN.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 27 Sep 2026 18:01:00 GMT",
+      "link": "https://m.jpnn.com/amp/news/dpr-minta-pemeriksaan-kasus-rumah-mewah-lapas-cibinong-transparan"
+    },
     {
       "title": "DPR Minta Pemeriksaan Kasus Rumah Mewah Lapas Cibinong Transparan - JPNN.com",
       "entity": "Rieke Diah Pitaloka",
@@ -178,27 +199,6 @@
       "kind": "lembaga",
       "published": "Sun, 27 Sep 2026 09:47:16 GMT",
       "link": "https://investor.id/macroeconomy/455698/pemerintah-integrasikan-kopdes-dan-kampung-nelayan-di-sinjai"
-    },
-    {
-      "title": "Rieke Minta Audit Sejumlah Fasilitas Mewah di Lapas Cibinong - CNN Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 09:05:07 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260927150547-20-1408744/rieke-minta-audit-sejumlah-fasilitas-mewah-di-lapas-cibinong"
-    },
-    {
-      "title": "Rizki Faisal Dorong Kesiapan Penegak Hukum Usai UU Reforma Agraria Disahkan - fraksigolkar.com",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 08:26:35 GMT",
-      "link": "https://fraksigolkar.com/read/2664/rizki-faisal-dorong-kesiapan-penegak-hukum-usai-uu-reforma-agraria-disahkan"
-    },
-    {
-      "title": "Makin Sesaknya Pengguna KRL di Jam Sibuk, Komisi VI DPR Minta KAI Tambah Armada - Inilah.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 07:39:00 GMT",
-      "link": "https://www.inilah.com/makin-sesaknya-pengguna-krl-di-jam-sibuk-komisi-vi-dpr-minta-kai-tambah-armada"
     }
   ]
 }
