@@ -1,13 +1,13 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-28T18:25:44.108275",
+  "generated_at": "2026-09-28T23:41:02.958766",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 30,
     "Golkar": 20,
     "NasDem": 5,
-    "PKB": 27,
-    "PKS": 14,
+    "PKB": 26,
+    "PKS": 15,
     "PAN": 9,
     "Demokrat": 4
   },
@@ -17,7 +17,7 @@
     "Golkar": 85,
     "NasDem": 23,
     "PKB": 53,
-    "PKS": 61,
+    "PKS": 62,
     "PAN": 22,
     "Demokrat": 14
   },
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
-    "danantara": 22,
+    "bumn": 52,
+    "danantara": 21,
     "dividen": 2,
     "koperasi": 59,
-    "investasi": 15,
+    "investasi": 14,
     "perdagangan": 16,
     "impor": 23,
     "ekspor": 4,
@@ -79,7 +79,7 @@
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 9,
+    "Ghufran": 10,
     "Ismail": 12,
     "Eko Patrio": 1,
     "Nasril Bahar": 5,
@@ -90,17 +90,59 @@
   "early_warning_counts": {
     "Kinerja BUMN": 31,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 45,
-    "Konflik Publik": 8,
+    "Perdagangan": 44,
+    "Konflik Publik": 9,
     "Hukum/Audit": 15
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Jelaskan Alasan Penempatan Manajer KDMP Tak Sesuai Domisili - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 22:08:00 GMT",
+      "link": "https://demokratis.co.id/kemenkop-jelaskan-penempatan-manajer-kdmp"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 22:07:37 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260929/Mjc0NDQ0"
+    },
+    {
+      "title": "Beban Berat Gara-gara Koperasi Desa - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 22:00:00 GMT",
+      "link": "https://www.tempo.co/video/video/beban-berat-gara-gara-koperasi-desa-2294572"
+    },
+    {
+      "title": "Industri Otomotif Indonesia Harus Ikuti Standar Dunia - jpnn.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 20:29:00 GMT",
+      "link": "https://www.jpnn.com/news/industri-otomotif-indonesia-harus-ikuti-standar-dunia"
+    },
+    {
+      "title": "Ghufran DPR RI Sampaikan Duka dan Minta Kasus Mahasiswa Pelayaran Malahayati Diusut Transparan - harianrakyataceh.com",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Mon, 28 Sep 2026 18:20:06 GMT",
+      "link": "https://harianrakyataceh.com/news/ghufran-dpr-ri-sampaikan-duka-dan-minta-kasus-mahasiswa-pelayaran-malahayati-diusut-transparan/index.html"
+    },
     {
       "title": "Pemerintah Optimistis Jaga Ketahanan Ekonomi Nasional Melalui Investasi Strategis Danantara - PT Suara Dewata Media",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Mon, 28 Sep 2026 18:05:57 GMT",
       "link": "https://www.suaradewata.com/berita/202405217923/pemerintah-optimistis-jaga-ketahanan-ekonomi-nasional-melalui-investasi-strategis-danantara"
+    },
+    {
+      "title": "Sesmenkop Bantah Kabar Manajer Koperasi Merah Putih Mundur - pasardana.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 17:27:00 GMT",
+      "link": "https://pasardana.id/news/2026/9/29/sesmenkop-bantah-kabar-manajer-koperasi-merah-putih-mundur"
     },
     {
       "title": "Kementerian Perindustrian dan Perdagangan Vietnam serta Kementerian Perdagangan Internasional dan Urusan Global Kanada mempromosikan perdagangan, investasi, dan konektivitas rantai pasokan. - Vietnam.vn",
@@ -157,48 +199,6 @@
       "kind": "lembaga",
       "published": "Mon, 28 Sep 2026 12:40:50 GMT",
       "link": "https://www.suarasurabaya.net/kelanakota/2026/manajer-koperasi-desa-merah-putih-bisa-ditempatkan-di-luar-domisili-ini-alasannya/"
-    },
-    {
-      "title": "Kemenkop Bongkar Alasan Manajer Kopdes Ditempatkan Jauh dari Domisili - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 12:01:21 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260928182614-92-1409189/kemenkop-bongkar-alasan-manajer-kopdes-ditempatkan-jauh-dari-domisili"
-    },
-    {
-      "title": "Komisi VI Geber Revisi UU Anti Monopoli Standar OECD - Harapan Rakyat",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 11:43:50 GMT",
-      "link": "https://www.harapanrakyat.com/2026/09/komisi-vi-dpr-geber-revisi-uu-anti-monopoli-standar-oecd/"
-    },
-    {
-      "title": "Kemenkop: 85 Persen Manajer Kopdes Sudah Siap Penempatan di Oktober - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 11:40:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/28/184010226/kemenkop-85-persen-manajer-kopdes-sudah-siap-penempatan-di-oktober"
-    },
-    {
-      "title": "Kemenkop Jawab Isu Manajer Kopdes Tolak Penempatan: 85% Setuju - bloombergtechnoz.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 11:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/122940/kemenkop-jawab-isu-manajer-kopdes-tolak-penempatan-85-setuju"
-    },
-    {
-      "title": "Awal Oktober Ini, Manjer Koperasi Merah Putih Mulai Bekerja - merahputih.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 11:37:38 GMT",
-      "link": "https://www.merahputih.com/post/read/awal-oktober-ini-manjer-koperasi-merah-putih-mulai-bekerja"
-    },
-    {
-      "title": "Kemenkop: 85% Calon Manajer KopDes Merah Putih Sudah Isi Offering Letter - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 11:30:33 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260928/12/2007886/kemenkop-85-calon-manajer-kopdes-merah-putih-sudah-isi-offering-letter"
     }
   ]
 }
