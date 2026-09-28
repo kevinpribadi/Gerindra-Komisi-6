@@ -1,22 +1,22 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-28T03:35:53.537740",
+  "generated_at": "2026-09-28T10:32:28.521240",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 29,
-    "Golkar": 21,
+    "PDI-P": 30,
+    "Golkar": 20,
     "NasDem": 5,
-    "PKB": 34,
+    "PKB": 29,
     "PKS": 15,
-    "PAN": 8,
+    "PAN": 7,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 47,
+    "Gerindra": 46,
     "PDI-P": 76,
-    "Golkar": 87,
+    "Golkar": 85,
     "NasDem": 24,
-    "PKB": 57,
+    "PKB": 54,
     "PKS": 61,
     "PAN": 20,
     "Demokrat": 14
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
-    "danantara": 24,
+    "bumn": 56,
+    "danantara": 22,
     "dividen": 2,
     "koperasi": 58,
+    "impor": 20,
+    "perdagangan": 11,
     "ekspor": 7,
-    "perdagangan": 7,
-    "impor": 17,
-    "umkm": 17,
+    "umkm": 13,
     "investasi": 11,
     "kartel-monopoli": 11
   },
@@ -52,7 +52,7 @@
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
-    "Mulyadi": 11,
+    "Mulyadi": 10,
     "Adisatrya Suryo Sulisto": 10,
     "Mufti Anam": 18,
     "Darmadi Durianto": 6,
@@ -64,16 +64,16 @@
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
-    "Ahmad Labib": 7,
+    "Ahmad Labib": 6,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 14,
+    "Muhammad Sarmuji": 13,
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 10,
     "I Nengah Senantara": 12,
-    "Anggia Erma Rini": 9,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 29,
-    "Koperasi/UMKM": 68,
-    "Perdagangan": 43,
-    "Hukum/Audit": 13,
+    "Kinerja BUMN": 30,
+    "Koperasi/UMKM": 62,
+    "Perdagangan": 46,
+    "Hukum/Audit": 14,
     "Konflik Publik": 7
   },
   "top_headlines": [
     {
-      "title": "Bobby Nasution Bahas Percepatan Rumah Subsidi Bersama DPR dan Pengembang - topmetro news",
-      "entity": "Andre Rosiade",
+      "title": "Komisi VI DPR Bahas Revisi UU Persaingan Usaha Bersama OECD, Aksesi Indonesia Jadi Anggota Ikut Disorot - Suara Investor",
+      "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 03:22:11 GMT",
-      "link": "https://topmetro.news/246168/bobby-nasution-bahas-percepatan-rumah-subsidi-bersama-dpr-dan-pengembang/"
+      "published": "Mon, 28 Sep 2026 10:18:27 GMT",
+      "link": "https://www.suarainvestor.com/komisi-vi-dpr-bahas-revisi-uu-persaingan-usaha-bersama-oecd-aksesi-indonesia-jadi-anggota-ikut-disorot/"
     },
     {
-      "title": "Perlu Skema Perlindungan Desain Industri yang Utuh bagi UMKM - Partai NasDem",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 02:58:24 GMT",
-      "link": "https://partainasdem.id/2026/09/28/perlu-skema-perlindungan-desain-industri-yang-utuh-bagi-umkm/"
-    },
-    {
-      "title": "PTPN IV PalmCo dan Kemendag Jalin Kerjasama Raih Pasar Ekspor melalui InaExport - kontan.co.id",
+      "title": "Menhub: Aturan rencana impor KRL kewenangan Kementerian Perdagangan - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 02:46:04 GMT",
-      "link": "https://industri.kontan.co.id/news/ptpn-iv-palmco-dan-kemendag-jalin-kerjasama-raih-pasar-ekspor-melalui-inaexport"
+      "published": "Mon, 28 Sep 2026 10:10:51 GMT",
+      "link": "https://www.antaranews.com/berita/5761824/menhub-aturan-rencana-impor-krl-kewenangan-kementerian-perdagangan"
     },
     {
-      "title": "Rieke Diah Pitaloka Ingatkan Petugas Lapas: Jangan Mental Kere - Kompas.tv",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 02:09:00 GMT",
-      "link": "https://www.kompas.tv/amp/nasional/692992/rieke-diah-pitaloka-ingatkan-petugas-lapas-jangan-mental-kere"
-    },
-    {
-      "title": "Kemendag Tiongkok Mengatakan Gencatan Senjata Perdagangan dengan AS akan Diperpanjang hingga Januari 2027 - fxstreet-id.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "284 Permohonan Izin OSS Batam Dikembalikan untuk Diperbaiki - rri.co.id",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 01:33:14 GMT",
-      "link": "https://www.fxstreet-id.com/news/kementerian-perdagangan-tiongkok-mengatakan-gencatan-senjata-perdagangan-dengan-as-akan-diperpanjang-hingga-januari-2027-202609280133"
+      "published": "Mon, 28 Sep 2026 10:00:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2768174/284-permohonan-izin-oss-batam-dikembalikan-untuk-diperbaiki"
     },
     {
-      "title": "Sosialisasi 4 Pilar, Labib Dorong Penguatan Peran Pendidikan Anak Usia Dini - Kompasiana.com",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 01:13:00 GMT",
-      "link": "https://www.kompasiana.com/jujunfery1864/6ab9be7434777c1e893ace1b/sosialisasi-4-pilar-labib-dorong-penguatan-peran-pendidikan-anak-usia-dini"
+      "title": "Pelestarian Ekosistem Jadi Bagian dari Peran BUMN - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 09:27:07 GMT",
+      "link": "https://www.metrotvnews.com/read/b3JC9Yv9-pelestarian-ekosistem-jadi-bagian-dari-peran-bumn"
     },
     {
-      "title": "131 Ribu Koperasi Aktif: Besar di Jumlah, Kuat di Kinerja? - Kompasiana.com",
+      "title": "Kemenkop dan KKP Perkuat Sinergi KDKMP-KNMP untuk Tingkatkan Kesejahteraan Nelayan Sinjai - Suara Pemerintah",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 00:59:25 GMT",
-      "link": "https://www.kompasiana.com/arielanandaputra0283/6ab9bbeded641552f63ad0d9/131-ribu-koperasi-aktif-besar-di-jumlah-kuat-di-kinerja"
+      "published": "Mon, 28 Sep 2026 09:19:44 GMT",
+      "link": "https://suarapemerintah.id/2026/09/kemenkop-dan-kkp-perkuat-sinergi-kdkmp-knmp-untuk-tingkatkan-kesejahteraan-nelayan-sinjai/"
     },
     {
-      "title": "131 Ribu Koperasi Aktif: Besar di Jumlah, Kuat di Kinerja? - Kompasiana.com",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 00:59:25 GMT",
-      "link": "https://www.kompasiana.com/arielanandaputra0283/6ab9bbeded641552f63ad0d9/131-ribu-koperasi-aktif-besar-di-jumlah-kuat-di-kinerja"
+      "title": "Soroti Data Warga Binaan Lapas Cibinong, Rieke PDIP Cecar Dirjenpas: Kenapa Hanya Ferdy Sambo yang Disebutkan? - aktual.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 28 Sep 2026 09:01:14 GMT",
+      "link": "https://aktual.com/soroti-data-warga-binaan-lapas-cibinong-rieke-pdip-cecar-dirjenpas-kenapa-hanya-ferdy-sambo-yang-disebutkan/"
     },
     {
-      "title": "Kemendag Tetapkan Syarat Ketat Impor KRL Bekas PT KAI - SuaraGarut.ID",
+      "title": "Komisi XIII DPR Soroti Kelebihan Kapasitas Lapas Cibinong hingga 216 Persen - rri.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 28 Sep 2026 08:58:00 GMT",
+      "link": "https://rri.co.id/nasional/2767398/komisi-xiii-dpr-soroti-kelebihan-kapasitas-lapas-cibinong-hingga-216-persen"
+    },
+    {
+      "title": "SSTC on Yrade and Investment Promotion for African Countries - Kementerian Sekretariat Negara",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 00:07:18 GMT",
-      "link": "https://suaragarut.id/kemendag-tetapkan-syarat-impor-krl-bekas"
+      "published": "Mon, 28 Sep 2026 08:22:09 GMT",
+      "link": "https://setneg.go.id/baca/index/sstc_on_yrade_and_investment_promotion_for_african_countries"
     },
     {
-      "title": "RUU Desain Industri: DPR Minta Skema Pelindungan Ramah UMKM Desa - Kosadata",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 23:58:55 GMT",
-      "link": "https://kosadata.com/ruu-desain-industri-dpr-minta-skema-pelindungan-ramah-umkm-desa"
-    },
-    {
-      "title": "Lapas Perempuan Bandung Overkapasitas, Rieke Ingatkan Petugas Jangan Bermental Minta-Minta - halosemarang.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 23:15:29 GMT",
-      "link": "https://halosemarang.id/lapas-perempuan-bandung-overkapasitas-rieke-ingatkan-petugas-jangan-bermental-minta-minta/"
-    },
-    {
-      "title": "Danantara Dinilai Bisa Buka Alternatif Pembiayaan Perpanjangan LRT Jakarta - VOI.ID",
-      "entity": "Danantara",
+      "title": "Campuspreneur Kemendag Gandeng 25 Kampus, BINUS University Siap Cetak Wirausaha Berorientasi Ekspor - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 27 Sep 2026 23:06:00 GMT",
-      "link": "https://voi.id/zh/economy/595932"
+      "published": "Mon, 28 Sep 2026 08:19:57 GMT",
+      "link": "https://suarapemerintah.id/2026/09/campuspreneur-kemendag-gandeng-25-kampus-binus-university-siap-cetak-wirausaha-berorientasi-ekspor/"
     },
     {
-      "title": "Rizal Bawazier Sampaikan Aspirasi Warga, KA Anggrek Ditargetkan Kembali Berhenti di Pekalongan - Suara Merdeka Pantura - Suara Merdeka Pantura",
-      "entity": "Rizal Bawazier",
+      "title": "Penempatan Manajer Kopdes Tak Sesuai Domisili, Ini Penjelasan Resminya - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 08:10:49 GMT",
+      "link": "https://www.metrotvnews.com/read/k8oCORqx-penempatan-manajer-kopdes-tak-sesuai-domisili-ini-penjelasan-resminya"
+    },
+    {
+      "title": "Bobby Nasution dan Andre Rosiade Bahas Kelangkaan Bahan Bangunan di Sumut - idisnews.co.id",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 23:05:00 GMT",
-      "link": "https://pantura.suaramerdeka.com/pantura-raya/amp/0617686383/rizal-bawazier-sampaikan-aspirasi-warga-ka-anggrek-ditargetkan-kembali-berhenti-di-pekalongan"
+      "published": "Mon, 28 Sep 2026 07:37:36 GMT",
+      "link": "https://idisnews.co.id/berita/bobby-nasution-dan-andre-rosiade-bahas-kelangkaan-bahan-bangunan-di-sumut"
     },
     {
-      "title": "DPR Minta Pemeriksaan Kasus Rumah Mewah Lapas Cibinong Transparan - JPNN.com",
+      "title": "China Perbesar Impor Batu Bara dari AS, Ini Kesepakatan Tarifnya - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 07:01:42 GMT",
+      "link": "https://infobanknews.com/china-perbesar-impor-batu-bara-dari-as-ini-kesepakatan-tarifnya"
+    },
+    {
+      "title": "SK Manajer KopDes Merah Putih Terbit, Gaji Mengacu UMK Tiap Daerah - Radar Pati",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 05:56:18 GMT",
+      "link": "https://radarpati.jawapos.com/ekonomi/2609280020/sk-manajer-kopdes-merah-putih-terbit-gaji-mengacu-umk-tiap-daerah"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Desak Audit Total Infrastruktur dan Aset Lapas se-Indonesia - redaksi8.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 18:01:00 GMT",
-      "link": "https://m.jpnn.com/amp/news/dpr-minta-pemeriksaan-kasus-rumah-mewah-lapas-cibinong-transparan"
+      "published": "Mon, 28 Sep 2026 05:18:23 GMT",
+      "link": "https://redaksi8.com/rieke-diah-pitaloka-desak-audit-total-infrastruktur-dan-aset-lapas-se-indonesia/"
     },
     {
-      "title": "DPR Minta Pemeriksaan Kasus Rumah Mewah Lapas Cibinong Transparan - JPNN.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 27 Sep 2026 18:01:00 GMT",
-      "link": "https://www.jpnn.com/news/dpr-minta-pemeriksaan-kasus-rumah-mewah-lapas-cibinong-transparan"
+      "title": "Komisioner KPPU: Integrasi Layanan Platform Digital Berpotensi Kunci Pasar dan Diskriminasi Pelaku Usaha - Hukumonline",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 28 Sep 2026 04:56:28 GMT",
+      "link": "https://www.hukumonline.com/berita/a/komisioner-kppu--integrasi-layanan-platform-digital-berpotensi-kunci-pasar-dan-diskriminasi-pelaku-usaha-lt6ab9f171a3a09/"
     }
   ]
 }
