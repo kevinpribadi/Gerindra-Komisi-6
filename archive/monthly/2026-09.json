@@ -1,23 +1,23 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-29T04:11:13.992988",
+  "generated_at": "2026-09-29T11:04:22.595536",
   "party_counts_7d": {
-    "Gerindra": 17,
+    "Gerindra": 13,
     "PDI-P": 32,
-    "Golkar": 20,
+    "Golkar": 17,
     "NasDem": 5,
-    "PKB": 25,
-    "PKS": 15,
+    "PKB": 23,
+    "PKS": 14,
     "PAN": 8,
-    "Demokrat": 4
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 44,
     "PDI-P": 79,
     "Golkar": 85,
     "NasDem": 23,
-    "PKB": 53,
-    "PKS": 62,
+    "PKB": 54,
+    "PKS": 63,
     "PAN": 22,
     "Demokrat": 14
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
-    "danantara": 21,
+    "bumn": 51,
+    "danantara": 22,
     "dividen": 2,
-    "koperasi": 56,
-    "investasi": 16,
-    "perdagangan": 18,
-    "impor": 23,
+    "koperasi": 54,
+    "umkm": 13,
     "ekspor": 3,
-    "kartel-monopoli": 13,
-    "umkm": 12
+    "perdagangan": 18,
+    "investasi": 18,
+    "impor": 21,
+    "kartel-monopoli": 14
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -75,11 +75,11 @@
     "I Nengah Senantara": 12,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 19,
+    "Nasim Khan": 20,
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 10,
+    "Ghufran": 11,
     "Ismail": 12,
     "Eko Patrio": 1,
     "Nasril Bahar": 5,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 31,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 43,
-    "Konflik Publik": 10,
-    "Hukum/Audit": 16
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 56,
+    "Perdagangan": 40,
+    "Konflik Publik": 9,
+    "Hukum/Audit": 19
   },
   "top_headlines": [
     {
-      "title": "BP Batam Percepat Perizinan Lingkungan untuk Dorong Investasi Shipyard - Bisnis.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 04:05:00 GMT",
-      "link": "https://sumatra.bisnis.com/read/20260929/533/2008084/bp-batam-percepat-perizinan-lingkungan-untuk-dorong-investasi-shipyard"
-    },
-    {
-      "title": "KPPU Kanwil I : Sepanjang Tahun 2026 Ada 21 Laporan Masuk, Dugaan Persekolahan Tender Mendominasi - mimbarrakyat.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:56:14 GMT",
-      "link": "https://mimbarrakyat.co.id/2026/09/29/kppu-kanwil-i-sepanjang-tahun-2026-ada-21-laporan-masuk-dugaan-persekolahan-tender-mendominasi/"
-    },
-    {
-      "title": "KPPU Kanwil I Terima 21 Laporan Pelanggaran Persaingan Usaha Selama 2026 - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:50:03 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-kanwil-i-terima-21-laporan-pelanggaran-persaingan-usaha-selama-2026/"
-    },
-    {
-      "title": "Penyebab Penempatan Manajer Kopdes Merah Putih Jauh dari Domisili - RCTI+",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:39:56 GMT",
-      "link": "https://m.rctiplus.com/news/detail/ekonomi/5482806/penyebab-penempatan-manajer-kopdes-merah-putih-jauh-dari-domisili?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5482806"
-    },
-    {
-      "title": "Perkuat Pasar Afrika, Kemendag Gelar Pelatihan Perdagangan dan Investasi SSTC 2026 - suarapemerintah.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:17:50 GMT",
-      "link": "https://suarapemerintah.id/2026/09/perkuat-pasar-afrika-kemendag-gelar-pelatihan-perdagangan-dan-investasi-sstc-2026/"
-    },
-    {
-      "title": "Awal Oktober, 28.620 Manajer Kopdes Merah Putih Mulai Bertugas di Seluruh Indonesia - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:17:00 GMT",
-      "link": "https://www.beritakoperasi.com/awal-oktober-28-620-manajer-kopdes-merah-putih-mulai-bertugas-di-seluruh-indonesia/"
-    },
-    {
-      "title": "Manajer Kopdes Protes Penempatan Jauh, Kemenkop Beri Penjelasan - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:10:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/122988/manajer-kopdes-protes-penempatan-jauh-kemenkop-beri-penjelasan"
-    },
-    {
-      "title": "Hadiri Milad ke-45 BKMT, Menkop Ferry Targetkan Koperasi Masjid Jadi Motor Ekonomi Umat - suarapemerintah.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:07:08 GMT",
-      "link": "https://suarapemerintah.id/2026/09/hadiri-milad-ke-45-bkmt-menkop-ferry-targetkan-koperasi-masjid-jadi-motor-ekonomi-umat/"
-    },
-    {
-      "title": "Kemenkop: 85 Persen Calon Manajer KDKMP Setuju Penetapan Penempatan - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:05:52 GMT",
-      "link": "https://www.metrotvnews.com/read/NnjCR8dl-kemenkop-85-persen-calon-manajer-kdkmp-setuju-penetapan-penempatan"
-    },
-    {
-      "title": "Kemenkop Bantah Kabar Banyak Manajer Kopdes Mundur - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 03:01:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/29/100100826/kemenkop-bantah-kabar-banyak-manajer-kopdes-mundur"
-    },
-    {
-      "title": "Komisi VI dan OECD Bahas Revisi UU Persaingan Usaha - Prudensi",
-      "entity": "Adisatrya Suryo Sulisto",
+      "title": "Ghufran Minta Kasus Kematian Taruna Poltekpel Malahayati Diusut Tuntas - waspada.id",
+      "entity": "Ghufran",
       "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 02:39:46 GMT",
-      "link": "https://prudensi.com/komisi-vi-dan-oecd-bahas-revisi-uu-persaingan-usaha/"
+      "published": "Tue, 29 Sep 2026 10:34:53 GMT",
+      "link": "https://www.waspada.id/berita/ghufran-minta-kasus-kematian-taruna-poltekpel-malahayati-diusut-tuntas"
     },
     {
-      "title": "Mendag Budi Santoso ke AS, Ini 4 Isu Perdagangan yang Dibawa Indonesia di G20 - rentak.id",
+      "title": "Kabupaten Bima Juara Cerdas Cermat Hari Koperasi - Bimakini",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 10:33:18 GMT",
+      "link": "https://www.bimakini.com/kabupaten-bima-juara-cerdas-cermat-hari-koperasi/"
+    },
+    {
+      "title": "KPPU Kanwil I Terima 21 Laporan Persaingan Usaha - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 10:28:00 GMT",
+      "link": "https://rri.co.id/medan/ekonomi/bisnis/2772372/kppu-kanwil-i-terima-21-laporan-persaingan-usaha"
+    },
+    {
+      "title": "Dinas Perdagangan Kudus bekali pelaku UMKM untuk menembus pasar ekspor - ANTARA News Jateng",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 01:44:00 GMT",
-      "link": "https://rentak.id/mendag-budi-santoso-ke-as-ini-4-isu-perdagangan-yang-dibawa-indonesia-di-g20/"
+      "published": "Tue, 29 Sep 2026 09:42:16 GMT",
+      "link": "https://jateng.antaranews.com/berita/646836/dinas-perdagangan-kudus-bekali-pelaku-umkm-untuk-menembus-pasar-ekspor"
     },
     {
-      "title": "Koperasi Didorong Serap Hasil Tangkapan untuk Tingkatkan Pendapatan Nelayan - vibizmedia.com",
+      "title": "BPKN Dukung Audit Forensik Dana Haji, Tekankan Hak Jemaah atas Informasi - RRI.co.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 09:29:00 GMT",
+      "link": "https://rri.co.id/jakarta/nasional/2772215/bpkn-dukung-audit-forensik-dana-haji-tekankan-hak-jemaah-atas-informasi"
+    },
+    {
+      "title": "2.156 Koperasi Desa Merah Putih Terbentuk di Kalbar, Sintang Paling Banyak - Pontianak Post",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 01:40:22 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/29/koperasi-didorong-serap-hasil-tangkapan-untuk-tingkatkan-pendapatan-nelayan/"
+      "published": "Tue, 29 Sep 2026 09:27:52 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2609290095/2156-koperasi-desa-merah-putih-terbentuk-di-kalbar-sintang-paling-banyak"
     },
     {
-      "title": "Rieke Diah Pitaloka Cecar Ditjenpas di RDP DPR: Hanya Ferdy Sambo yang Dibuka ke Publik - Kronologi.id",
+      "title": "Menkop Akui 1.900 Manajer Kopdes Ditugaskan Jauh, Cuma Sementara - bloombergtechnoz.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 09:05:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/123052/menkop-akui-1-900-manajer-kopdes-ditugaskan-jauh-cuma-sementara"
+    },
+    {
+      "title": "Kemenkop dan KKP Perkuat Usaha Nelayan Lewat Sinergi KDKMP dan KNMP - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 09:02:21 GMT",
+      "link": "https://suarapemerintah.id/2026/09/kemenkop-dan-kkp-perkuat-usaha-nelayan-lewat-sinergi-kdkmp-dan-knmp/"
+    },
+    {
+      "title": "KPPU: Hukum Persaingan Usaha Perlu Beradaptasi dengan Karakteristik Pasar Digital dan Model Bisnis Zero-Price - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 08:58:00 GMT",
+      "link": "https://www.kabarbisnis.com/read/28137199/kppu-hukum-persaingan-usaha-perlu-beradaptasi-dengan-karakteristik-pasar-digital-dan-model-bisnis-zero-price"
+    },
+    {
+      "title": "JICA Indonesia: 14 Pejabat Afrika Ikut Pelatihan Perdagangan - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 07:59:21 GMT",
+      "link": "https://www.tempo.co/ekonomi/jica-indonesia-14-pejabat-afrika-ikut-pelatihan-perdagangan-2294685"
+    },
+    {
+      "title": "Kemenkop Bantah Kabar Banyak Manajer Kopdes Merah Putih Mundur - topik.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 07:15:48 GMT",
+      "link": "https://www.topik.id/kemenkop-bantah-kabar-banyak-manajer-kopdes-merah-putih-mundur"
+    },
+    {
+      "title": "Kenapa Cuma Nama Ferdy Sambo? Rieke Diah Pitaloka Protes Pemaparan Ditjen PAS di DPR - Suara.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 01:24:01 GMT",
-      "link": "https://kronologi.id/rieke-diah-pitaloka-cecar-ditjenpas-di-rdp-dpr-hanya-ferdy-sambo-yang-dibuka-ke-publik/"
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "link": "https://www.suara.com/video/2026/09/29/140000/kenapa-cuma-nama-ferdy-sambo-rieke-diah-pitaloka-protes-pemaparan-ditjen-pas-di-dpr"
     },
     {
-      "title": "Kemendag Tegaskan Wajib Halal Bukan Pelarangan Impor, Melainkan Jaminan Kualitas Produk - investor.id",
+      "title": "Indonesia Perkuat Kemitraan Perdagangan dengan Afrika lewat Pengembangan SDM - vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 01:06:50 GMT",
-      "link": "https://investor.id/business/455889/kemendag-tegaskan-wajib-halal-bukan-pelarangan-impor-melainkan-jaminan-kualitas-produk"
+      "published": "Tue, 29 Sep 2026 06:36:35 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/09/29/indonesia-perkuat-kemitraan-perdagangan-dengan-afrika-lewat-pengembangan-sdm/"
+    },
+    {
+      "title": "KPPU Ingatkan Pemda Lampung, Regulasi Jangan Jadi Penghambat Persaingan Usaha - Kupas Tuntas",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 06:25:00 GMT",
+      "link": "https://kupastuntas.co/2026/09/29/kppu-ingatkan-pemda-lampung-regulasi-jangan-jadi-penghambat-persaingan-usaha"
+    },
+    {
+      "title": "Kementerian Koperasi Sudah Bahas LPS Koperasi sejak 2014 - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 06:21:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/kementerian-koperasi-sudah-bahas-lps-koperasi-sejak-2014-2294669"
     }
   ]
 }
