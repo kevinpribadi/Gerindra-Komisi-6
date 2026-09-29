@@ -1,19 +1,19 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-28T23:41:02.958766",
+  "generated_at": "2026-09-29T04:11:13.992988",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 30,
+    "PDI-P": 32,
     "Golkar": 20,
     "NasDem": 5,
-    "PKB": 26,
+    "PKB": 25,
     "PKS": 15,
-    "PAN": 9,
+    "PAN": 8,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 46,
-    "PDI-P": 77,
+    "Gerindra": 44,
+    "PDI-P": 79,
     "Golkar": 85,
     "NasDem": 23,
     "PKB": 53,
@@ -37,23 +37,23 @@
     "bumn": 52,
     "danantara": 21,
     "dividen": 2,
-    "koperasi": 59,
-    "investasi": 14,
-    "perdagangan": 16,
+    "koperasi": 56,
+    "investasi": 16,
+    "perdagangan": 18,
     "impor": 23,
-    "ekspor": 4,
-    "kartel-monopoli": 12,
+    "ekspor": 3,
+    "kartel-monopoli": 13,
     "umkm": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 3,
+    "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
-    "Mulyadi": 10,
-    "Adisatrya Suryo Sulisto": 11,
+    "Mulyadi": 9,
+    "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 18,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
@@ -89,116 +89,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 31,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 44,
-    "Konflik Publik": 9,
-    "Hukum/Audit": 15
+    "Koperasi/UMKM": 55,
+    "Perdagangan": 43,
+    "Konflik Publik": 10,
+    "Hukum/Audit": 16
   },
   "top_headlines": [
     {
-      "title": "Kemenkop Jelaskan Alasan Penempatan Manajer KDMP Tak Sesuai Domisili - Demokratis.co.id",
+      "title": "BP Batam Percepat Perizinan Lingkungan untuk Dorong Investasi Shipyard - Bisnis.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 04:05:00 GMT",
+      "link": "https://sumatra.bisnis.com/read/20260929/533/2008084/bp-batam-percepat-perizinan-lingkungan-untuk-dorong-investasi-shipyard"
+    },
+    {
+      "title": "KPPU Kanwil I : Sepanjang Tahun 2026 Ada 21 Laporan Masuk, Dugaan Persekolahan Tender Mendominasi - mimbarrakyat.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 03:56:14 GMT",
+      "link": "https://mimbarrakyat.co.id/2026/09/29/kppu-kanwil-i-sepanjang-tahun-2026-ada-21-laporan-masuk-dugaan-persekolahan-tender-mendominasi/"
+    },
+    {
+      "title": "KPPU Kanwil I Terima 21 Laporan Pelanggaran Persaingan Usaha Selama 2026 - Seputar Sumut",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 03:50:03 GMT",
+      "link": "https://www.seputarsumut.com/berita/kppu-kanwil-i-terima-21-laporan-pelanggaran-persaingan-usaha-selama-2026/"
+    },
+    {
+      "title": "Penyebab Penempatan Manajer Kopdes Merah Putih Jauh dari Domisili - RCTI+",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 22:08:00 GMT",
-      "link": "https://demokratis.co.id/kemenkop-jelaskan-penempatan-manajer-kdmp"
+      "published": "Tue, 29 Sep 2026 03:39:56 GMT",
+      "link": "https://m.rctiplus.com/news/detail/ekonomi/5482806/penyebab-penempatan-manajer-kopdes-merah-putih-jauh-dari-domisili?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5482806"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Perkuat Pasar Afrika, Kemendag Gelar Pelatihan Perdagangan dan Investasi SSTC 2026 - suarapemerintah.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 22:07:37 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20260929/Mjc0NDQ0"
+      "published": "Tue, 29 Sep 2026 03:17:50 GMT",
+      "link": "https://suarapemerintah.id/2026/09/perkuat-pasar-afrika-kemendag-gelar-pelatihan-perdagangan-dan-investasi-sstc-2026/"
     },
     {
-      "title": "Beban Berat Gara-gara Koperasi Desa - Tempo.co",
+      "title": "Awal Oktober, 28.620 Manajer Kopdes Merah Putih Mulai Bertugas di Seluruh Indonesia - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 22:00:00 GMT",
-      "link": "https://www.tempo.co/video/video/beban-berat-gara-gara-koperasi-desa-2294572"
+      "published": "Tue, 29 Sep 2026 03:17:00 GMT",
+      "link": "https://www.beritakoperasi.com/awal-oktober-28-620-manajer-kopdes-merah-putih-mulai-bertugas-di-seluruh-indonesia/"
     },
     {
-      "title": "Industri Otomotif Indonesia Harus Ikuti Standar Dunia - jpnn.com",
-      "entity": "BPKN",
+      "title": "Manajer Kopdes Protes Penempatan Jauh, Kemenkop Beri Penjelasan - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 20:29:00 GMT",
-      "link": "https://www.jpnn.com/news/industri-otomotif-indonesia-harus-ikuti-standar-dunia"
+      "published": "Tue, 29 Sep 2026 03:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/122988/manajer-kopdes-protes-penempatan-jauh-kemenkop-beri-penjelasan"
     },
     {
-      "title": "Ghufran DPR RI Sampaikan Duka dan Minta Kasus Mahasiswa Pelayaran Malahayati Diusut Transparan - harianrakyataceh.com",
-      "entity": "Ghufran",
+      "title": "Hadiri Milad ke-45 BKMT, Menkop Ferry Targetkan Koperasi Masjid Jadi Motor Ekonomi Umat - suarapemerintah.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 03:07:08 GMT",
+      "link": "https://suarapemerintah.id/2026/09/hadiri-milad-ke-45-bkmt-menkop-ferry-targetkan-koperasi-masjid-jadi-motor-ekonomi-umat/"
+    },
+    {
+      "title": "Kemenkop: 85 Persen Calon Manajer KDKMP Setuju Penetapan Penempatan - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 03:05:52 GMT",
+      "link": "https://www.metrotvnews.com/read/NnjCR8dl-kemenkop-85-persen-calon-manajer-kdkmp-setuju-penetapan-penempatan"
+    },
+    {
+      "title": "Kemenkop Bantah Kabar Banyak Manajer Kopdes Mundur - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 03:01:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/29/100100826/kemenkop-bantah-kabar-banyak-manajer-kopdes-mundur"
+    },
+    {
+      "title": "Komisi VI dan OECD Bahas Revisi UU Persaingan Usaha - Prudensi",
+      "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 18:20:06 GMT",
-      "link": "https://harianrakyataceh.com/news/ghufran-dpr-ri-sampaikan-duka-dan-minta-kasus-mahasiswa-pelayaran-malahayati-diusut-transparan/index.html"
+      "published": "Tue, 29 Sep 2026 02:39:46 GMT",
+      "link": "https://prudensi.com/komisi-vi-dan-oecd-bahas-revisi-uu-persaingan-usaha/"
     },
     {
-      "title": "Pemerintah Optimistis Jaga Ketahanan Ekonomi Nasional Melalui Investasi Strategis Danantara - PT Suara Dewata Media",
-      "entity": "Danantara",
+      "title": "Mendag Budi Santoso ke AS, Ini 4 Isu Perdagangan yang Dibawa Indonesia di G20 - rentak.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 18:05:57 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217923/pemerintah-optimistis-jaga-ketahanan-ekonomi-nasional-melalui-investasi-strategis-danantara"
+      "published": "Tue, 29 Sep 2026 01:44:00 GMT",
+      "link": "https://rentak.id/mendag-budi-santoso-ke-as-ini-4-isu-perdagangan-yang-dibawa-indonesia-di-g20/"
     },
     {
-      "title": "Sesmenkop Bantah Kabar Manajer Koperasi Merah Putih Mundur - pasardana.id",
+      "title": "Koperasi Didorong Serap Hasil Tangkapan untuk Tingkatkan Pendapatan Nelayan - vibizmedia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 17:27:00 GMT",
-      "link": "https://pasardana.id/news/2026/9/29/sesmenkop-bantah-kabar-manajer-koperasi-merah-putih-mundur"
+      "published": "Tue, 29 Sep 2026 01:40:22 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/09/29/koperasi-didorong-serap-hasil-tangkapan-untuk-tingkatkan-pendapatan-nelayan/"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan Vietnam serta Kementerian Perdagangan Internasional dan Urusan Global Kanada mempromosikan perdagangan, investasi, dan konektivitas rantai pasokan. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 16:04:32 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-viet-nam-va-bo-thuong-mai-quoc-te-va-cac-van-de-toan-cau-canada-thuc-day-ket-noi-thuong-mai-dau-tu-va-chuoi-cung-ung"
-    },
-    {
-      "title": "Belum Terima Usulan KAI, Menhub: Impor KRL Kewenangan Kemendag - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 14:00:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/09/28/belum-terima-usulan-kai-menhub-impor-krl-kewenangan-kemendag-210000015"
-    },
-    {
-      "title": "Menhub soal KAI Impor KRL Bekas Jepang: Aturan Ada di Kemendag - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 13:30:15 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8683282/menhub-soal-kai-impor-krl-bekas-jepang-aturan-ada-di-kemendag"
-    },
-    {
-      "title": "Komisi IV DPRD Kalsel perkuat pelestarian budaya - ANTARA News",
-      "entity": "Iskandar",
+      "title": "Rieke Diah Pitaloka Cecar Ditjenpas di RDP DPR: Hanya Ferdy Sambo yang Dibuka ke Publik - Kronologi.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Mon, 28 Sep 2026 13:30:07 GMT",
-      "link": "https://kalsel.antaranews.com/berita/536956/komisi-iv-dprd-kalsel-perkuat-pelestarian-budaya"
+      "published": "Tue, 29 Sep 2026 01:24:01 GMT",
+      "link": "https://kronologi.id/rieke-diah-pitaloka-cecar-ditjenpas-di-rdp-dpr-hanya-ferdy-sambo-yang-dibuka-ke-publik/"
     },
     {
-      "title": "Kemenkop jelaskan alasan manajer KDKMP tak ditempatkan sesuai domisili - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Tegaskan Wajib Halal Bukan Pelarangan Impor, Melainkan Jaminan Kualitas Produk - investor.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 13:20:12 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/426471/kemenkop-jelaskan-alasan-manajer-kdkmp-tak-ditempatkan-sesuai-domisili"
-    },
-    {
-      "title": "Kemenkop: 28 Ribu Manajer Kopdes Merah Putih Siap Bertugas Awal Oktober - investortrust.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 13:02:00 GMT",
-      "link": "https://investortrust.id/business/117709/kemenkop-28-ribu-manajer-kopdes-merah-putih-siap-bertugas-awal-oktober"
-    },
-    {
-      "title": "Hak Konsumen atas Beras Fortifikasi - RRI.co.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 12:56:00 GMT",
-      "link": "https://rri.co.id/waykanan/iptek/2753903/hak-konsumen-atas-beras-fortifikasi"
-    },
-    {
-      "title": "Manajer Koperasi Desa Merah Putih Bisa Ditempatkan di Luar Domisili, Ini Alasannya - Suara Surabaya",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 28 Sep 2026 12:40:50 GMT",
-      "link": "https://www.suarasurabaya.net/kelanakota/2026/manajer-koperasi-desa-merah-putih-bisa-ditempatkan-di-luar-domisili-ini-alasannya/"
+      "published": "Tue, 29 Sep 2026 01:06:50 GMT",
+      "link": "https://investor.id/business/455889/kemendag-tegaskan-wajib-halal-bukan-pelarangan-impor-melainkan-jaminan-kualitas-produk"
     }
   ]
 }
