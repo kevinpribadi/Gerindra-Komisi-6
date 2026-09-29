@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-29T11:04:22.595536",
+  "generated_at": "2026-09-29T17:36:40.114795",
   "party_counts_7d": {
-    "Gerindra": 13,
-    "PDI-P": 32,
+    "Gerindra": 12,
+    "PDI-P": 31,
     "Golkar": 17,
     "NasDem": 5,
-    "PKB": 23,
-    "PKS": 14,
-    "PAN": 8,
+    "PKB": 19,
+    "PKS": 16,
+    "PAN": 6,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 79,
+    "PDI-P": 78,
     "Golkar": 85,
     "NasDem": 23,
-    "PKB": 54,
-    "PKS": 63,
-    "PAN": 22,
+    "PKB": 53,
+    "PKS": 65,
+    "PAN": 21,
     "Demokrat": 14
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
-    "danantara": 22,
+    "bumn": 50,
+    "danantara": 23,
     "dividen": 2,
-    "koperasi": 54,
+    "koperasi": 50,
+    "perdagangan": 19,
     "umkm": 13,
-    "ekspor": 3,
-    "perdagangan": 18,
-    "investasi": 18,
-    "impor": 21,
+    "ekspor": 2,
+    "investasi": 19,
+    "impor": 20,
     "kartel-monopoli": 14
   },
   "member_counts_30d": {
@@ -57,7 +57,7 @@
     "Mufti Anam": 18,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 6,
+    "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 11,
     "Budi Sulistyono": 1,
@@ -73,132 +73,131 @@
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 9,
     "I Nengah Senantara": 12,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 11,
-    "Ismail": 12,
-    "Eko Patrio": 1,
+    "Ghufran": 12,
+    "Ismail": 13,
     "Nasril Bahar": 5,
     "Iskandar": 16,
     "Sartono": 1,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 29,
-    "Koperasi/UMKM": 56,
-    "Perdagangan": 40,
-    "Konflik Publik": 9,
-    "Hukum/Audit": 19
+    "Kinerja BUMN": 28,
+    "Koperasi/UMKM": 55,
+    "Perdagangan": 38,
+    "Konflik Publik": 10,
+    "Hukum/Audit": 20
   },
   "top_headlines": [
     {
-      "title": "Ghufran Minta Kasus Kematian Taruna Poltekpel Malahayati Diusut Tuntas - waspada.id",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 10:34:53 GMT",
-      "link": "https://www.waspada.id/berita/ghufran-minta-kasus-kematian-taruna-poltekpel-malahayati-diusut-tuntas"
-    },
-    {
-      "title": "Kabupaten Bima Juara Cerdas Cermat Hari Koperasi - Bimakini",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 10:33:18 GMT",
-      "link": "https://www.bimakini.com/kabupaten-bima-juara-cerdas-cermat-hari-koperasi/"
-    },
-    {
-      "title": "KPPU Kanwil I Terima 21 Laporan Persaingan Usaha - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 10:28:00 GMT",
-      "link": "https://rri.co.id/medan/ekonomi/bisnis/2772372/kppu-kanwil-i-terima-21-laporan-persaingan-usaha"
-    },
-    {
-      "title": "Dinas Perdagangan Kudus bekali pelaku UMKM untuk menembus pasar ekspor - ANTARA News Jateng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 09:42:16 GMT",
-      "link": "https://jateng.antaranews.com/berita/646836/dinas-perdagangan-kudus-bekali-pelaku-umkm-untuk-menembus-pasar-ekspor"
-    },
-    {
-      "title": "BPKN Dukung Audit Forensik Dana Haji, Tekankan Hak Jemaah atas Informasi - RRI.co.id",
+      "title": "YALPK Kepri Minta OJK Tegas Terhadap Pelaku Usaha - TargetNews.ID",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 09:29:00 GMT",
-      "link": "https://rri.co.id/jakarta/nasional/2772215/bpkn-dukung-audit-forensik-dana-haji-tekankan-hak-jemaah-atas-informasi"
+      "published": "Tue, 29 Sep 2026 16:43:00 GMT",
+      "link": "https://targetnews.id/2026/09/29/yalpk-kepri-minta-ojk-tegas-terhadap-pelaku-usaha/"
     },
     {
-      "title": "2.156 Koperasi Desa Merah Putih Terbentuk di Kalbar, Sintang Paling Banyak - Pontianak Post",
+      "title": "Bulog bakal Pasok Beras SPHP ke Koperasi Desa Merah Putih - mediaindonesia.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 09:27:52 GMT",
-      "link": "https://pontianakpost.jawapos.com/ekonomi/2609290095/2156-koperasi-desa-merah-putih-terbentuk-di-kalbar-sintang-paling-banyak"
+      "published": "Tue, 29 Sep 2026 16:06:21 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/938969/bulog-bakal-pasok-beras-sphp-ke-koperasi-desa-merah-putih"
     },
     {
-      "title": "Menkop Akui 1.900 Manajer Kopdes Ditugaskan Jauh, Cuma Sementara - bloombergtechnoz.com",
+      "title": "Menkop: Penempatan Manajer KDKMP Lintas Daerah untuk Pemerataan SDM - Pontianak Post",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 09:05:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/123052/menkop-akui-1-900-manajer-kopdes-ditugaskan-jauh-cuma-sementara"
+      "published": "Tue, 29 Sep 2026 15:10:09 GMT",
+      "link": "https://pontianakpost.jawapos.com/nasional/2609290117/menkop-penempatan-manajer-kdkmp-lintas-daerah-untuk-pemerataan-sdm"
     },
     {
-      "title": "Kemenkop dan KKP Perkuat Usaha Nelayan Lewat Sinergi KDKMP dan KNMP - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
+      "title": "Danantara siapkan tambahan modal guna perkuat kinerja INKA - ANTARA News Megapolitan",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 09:02:21 GMT",
-      "link": "https://suarapemerintah.id/2026/09/kemenkop-dan-kkp-perkuat-usaha-nelayan-lewat-sinergi-kdkmp-dan-knmp/"
+      "published": "Tue, 29 Sep 2026 14:22:24 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/552273/danantara-siapkan-tambahan-modal-guna-perkuat-kinerja-inka"
     },
     {
-      "title": "KPPU: Hukum Persaingan Usaha Perlu Beradaptasi dengan Karakteristik Pasar Digital dan Model Bisnis Zero-Price - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "link": "https://www.kabarbisnis.com/read/28137199/kppu-hukum-persaingan-usaha-perlu-beradaptasi-dengan-karakteristik-pasar-digital-dan-model-bisnis-zero-price"
-    },
-    {
-      "title": "JICA Indonesia: 14 Pejabat Afrika Ikut Pelatihan Perdagangan - Tempo.co",
+      "title": "CTAsia 2026 Bahas Dinamika Perdagangan dan Tata Kelola Batubara - APBI-ICMA",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 07:59:21 GMT",
-      "link": "https://www.tempo.co/ekonomi/jica-indonesia-14-pejabat-afrika-ikut-pelatihan-perdagangan-2294685"
+      "published": "Tue, 29 Sep 2026 13:22:21 GMT",
+      "link": "https://apbi-icma.org/our-article/ctasia-2026-bahas-dinamika-perdagangan-dan-tata-kelola-batubara"
     },
     {
-      "title": "Kemenkop Bantah Kabar Banyak Manajer Kopdes Merah Putih Mundur - topik.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 07:15:48 GMT",
-      "link": "https://www.topik.id/kemenkop-bantah-kabar-banyak-manajer-kopdes-merah-putih-mundur"
-    },
-    {
-      "title": "Kenapa Cuma Nama Ferdy Sambo? Rieke Diah Pitaloka Protes Pemaparan Ditjen PAS di DPR - Suara.com",
+      "title": "Merinding! Rieke Diah Pitaloka Ngaku Sering Dapat Teror Mistis dan Ancaman Sejak Terjun ke Politik - VIVA.co.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "link": "https://www.suara.com/video/2026/09/29/140000/kenapa-cuma-nama-ferdy-sambo-rieke-diah-pitaloka-protes-pemaparan-ditjen-pas-di-dpr"
+      "published": "Tue, 29 Sep 2026 13:08:44 GMT",
+      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1931926-merinding-rieke-diah-pitaloka-ngaku-sering-dapat-teror-mistis-dan-ancaman-sejak-terjun-ke-politik"
     },
     {
-      "title": "Indonesia Perkuat Kemitraan Perdagangan dengan Afrika lewat Pengembangan SDM - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 06:36:35 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/09/29/indonesia-perkuat-kemitraan-perdagangan-dengan-afrika-lewat-pengembangan-sdm/"
-    },
-    {
-      "title": "KPPU Ingatkan Pemda Lampung, Regulasi Jangan Jadi Penghambat Persaingan Usaha - Kupas Tuntas",
+      "title": "Pelanggaran Hukum Persaingan Usaha Tidak Ada Sanksi Pidana, Sifatnya Murni Administratif - spektroom.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 06:25:00 GMT",
-      "link": "https://kupastuntas.co/2026/09/29/kppu-ingatkan-pemda-lampung-regulasi-jangan-jadi-penghambat-persaingan-usaha"
+      "published": "Tue, 29 Sep 2026 12:33:45 GMT",
+      "link": "https://spektroom.co.id/pelanggaran-hukum-persaingan-usaha-tidak-ada-sanksi-pidana-sifatnya-murni-administratif/"
     },
     {
-      "title": "Kementerian Koperasi Sudah Bahas LPS Koperasi sejak 2014 - Tempo.co",
+      "title": "KPPU Kanwil I Terima 21 Laporan, Dugaan Persekongkolan Tender Mendominasi - Pewarta.co",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 12:16:36 GMT",
+      "link": "https://pewarta.co/news/medan/kppu-kanwil-i-terima-21-laporan-dugaan-persekongkolan-tender-mendominasi"
+    },
+    {
+      "title": "Ekonomi RI Butuh Suntikan Investasi, Menkeu Suahasil Andalkan Danantara - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 12:13:00 GMT",
+      "link": "https://money.kompas.com/read/2026/09/29/191305526/ekonomi-ri-butuh-suntikan-investasi-menkeu-suahasil-andalkan-danantara"
+    },
+    {
+      "title": "Ghufran Minta Kasus Kematian Taruna Poltekpel Malahayati Diusut Tuntas - RRI.co.id",
+      "entity": "Ghufran",
+      "kind": "anggota",
+      "published": "Tue, 29 Sep 2026 12:10:00 GMT",
+      "link": "https://rri.co.id/lhokseumawe/hukum/hukum/2772715/ghufran-minta-kasus-kematian-taruna-poltekpel-malahayati-diusut-tuntas"
+    },
+    {
+      "title": "Pemerintah Optimistis Jaga Ketahanan Ekonomi Nasional Melalui Investasi Strategis Danantara - PT Suara Dewata Media",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 12:01:35 GMT",
+      "link": "https://www.suaradewata.com/berita/202405217923/pemerintah-optimistis-jaga-ketahanan-ekonomi-nasional-melalui-investasi-strategis-danantara%7D"
+    },
+    {
+      "title": "4 Raperda Inisiatif DPR Kota Jayapura Masuk Tahap Konsultasi Publik - Teraspapua.com",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 29 Sep 2026 12:01:15 GMT",
+      "link": "https://teraspapua.com/2026/09/29/4-raperda-inisiatif-dpr-kota-jayapura-masuk-tahap-konsultasi-publik/"
+    },
+    {
+      "title": "Mundur, Zulhas Pastikan Tidak Ada Sanksi Bagi Manajer Koperasi Merah Putih - merahputih.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 06:21:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/kementerian-koperasi-sudah-bahas-lps-koperasi-sejak-2014-2294669"
+      "published": "Tue, 29 Sep 2026 11:37:36 GMT",
+      "link": "https://www.merahputih.com/post/read/mundur-zulhas-pastikan-tidak-ada-sanksi-bagi-manajer-koperasi-merah-putih"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan mendorong pengembangan tenaga surya atap, dengan tujuan mencapai target ini sebelum musim kemarau tahun 2027. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 11:16:26 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-phat-trien-dien-mat-troi-mai-nha-hoan-thanh-muc-tieu-truoc-mua-kho-nam-2027"
+    },
+    {
+      "title": "Pemerintah sesuaikan penempatan 1.900 manajer KDKMP - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 10:57:07 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/426657/pemerintah-sesuaikan-penempatan-1900-manajer-kdkmp"
     }
   ]
 }
