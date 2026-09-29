@@ -1,10 +1,10 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-29T17:36:40.114795",
+  "generated_at": "2026-09-29T21:50:37.846465",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 31,
-    "Golkar": 17,
+    "Golkar": 18,
     "NasDem": 5,
     "PKB": 19,
     "PKS": 16,
@@ -34,16 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
-    "danantara": 23,
+    "bumn": 48,
+    "danantara": 24,
     "dividen": 2,
-    "koperasi": 50,
+    "koperasi": 52,
+    "impor": 21,
     "perdagangan": 19,
     "umkm": 13,
     "ekspor": 2,
     "investasi": 19,
-    "impor": 20,
-    "kartel-monopoli": 14
+    "kartel-monopoli": 14,
+    "merger-akuisisi": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -88,18 +89,46 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 38,
+    "Koperasi/UMKM": 57,
+    "Perdagangan": 39,
     "Konflik Publik": 10,
     "Hukum/Audit": 20
   },
   "top_headlines": [
+    {
+      "title": "KAI dan INKA Segera Merger, Dony Oskaria Targetkan Rampung Sebelum 2027 - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 21:12:00 GMT",
+      "link": "https://voi.id/ekonomi/596269/kai-dan-inka-segera-merger-dony-oskaria-targetkan-rampung-sebelum-2027"
+    },
+    {
+      "title": "KAI Rencanakan Impor KRL Bekas Asal Jepang - demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 20:49:00 GMT",
+      "link": "https://demokratis.co.id/kai-rencanakan-impor-krl-bekas-asal-jepang"
+    },
+    {
+      "title": "Kemenkop Jelaskan Aturan Penempatan Manajer Koperasi Merah Putih - demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 20:40:00 GMT",
+      "link": "https://demokratis.co.id/kemenkop-jelaskan-aturan-penempatan-manajer-koperasi"
+    },
     {
       "title": "YALPK Kepri Minta OJK Tegas Terhadap Pelaku Usaha - TargetNews.ID",
       "entity": "BPKN",
       "kind": "lembaga",
       "published": "Tue, 29 Sep 2026 16:43:00 GMT",
       "link": "https://targetnews.id/2026/09/29/yalpk-kepri-minta-ojk-tegas-terhadap-pelaku-usaha/"
+    },
+    {
+      "title": "Pemerintah Atur Penempatan Manajer Koperasi Desa Merah Putih Lintas Daerah - suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 16:24:21 GMT",
+      "link": "https://www.suaralandak.co.id/pemerintah-atur-penempatan-manajer-koperasi-desa"
     },
     {
       "title": "Bulog bakal Pasok Beras SPHP ke Koperasi Desa Merah Putih - mediaindonesia.com",
@@ -121,6 +150,13 @@
       "kind": "lembaga",
       "published": "Tue, 29 Sep 2026 14:22:24 GMT",
       "link": "https://megapolitan.antaranews.com/berita/552273/danantara-siapkan-tambahan-modal-guna-perkuat-kinerja-inka"
+    },
+    {
+      "title": "Danantara siapkan tambahan modal guna perkuat kinerja INKA - ANTARA News Megapolitan",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 14:22:24 GMT",
+      "link": "https://bogor.antaranews.com/berita/552273/danantara-siapkan-tambahan-modal-guna-perkuat-kinerja-inka"
     },
     {
       "title": "CTAsia 2026 Bahas Dinamika Perdagangan dan Tata Kelola Batubara - APBI-ICMA",
@@ -163,41 +199,6 @@
       "kind": "anggota",
       "published": "Tue, 29 Sep 2026 12:10:00 GMT",
       "link": "https://rri.co.id/lhokseumawe/hukum/hukum/2772715/ghufran-minta-kasus-kematian-taruna-poltekpel-malahayati-diusut-tuntas"
-    },
-    {
-      "title": "Pemerintah Optimistis Jaga Ketahanan Ekonomi Nasional Melalui Investasi Strategis Danantara - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 12:01:35 GMT",
-      "link": "https://www.suaradewata.com/berita/202405217923/pemerintah-optimistis-jaga-ketahanan-ekonomi-nasional-melalui-investasi-strategis-danantara%7D"
-    },
-    {
-      "title": "4 Raperda Inisiatif DPR Kota Jayapura Masuk Tahap Konsultasi Publik - Teraspapua.com",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 12:01:15 GMT",
-      "link": "https://teraspapua.com/2026/09/29/4-raperda-inisiatif-dpr-kota-jayapura-masuk-tahap-konsultasi-publik/"
-    },
-    {
-      "title": "Mundur, Zulhas Pastikan Tidak Ada Sanksi Bagi Manajer Koperasi Merah Putih - merahputih.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 11:37:36 GMT",
-      "link": "https://www.merahputih.com/post/read/mundur-zulhas-pastikan-tidak-ada-sanksi-bagi-manajer-koperasi-merah-putih"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan mendorong pengembangan tenaga surya atap, dengan tujuan mencapai target ini sebelum musim kemarau tahun 2027. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 11:16:26 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-phat-trien-dien-mat-troi-mai-nha-hoan-thanh-muc-tieu-truoc-mua-kho-nam-2027"
-    },
-    {
-      "title": "Pemerintah sesuaikan penempatan 1.900 manajer KDKMP - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 10:57:07 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/426657/pemerintah-sesuaikan-penempatan-1900-manajer-kdkmp"
     }
   ]
 }
