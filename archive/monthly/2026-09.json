@@ -1,24 +1,24 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-30T07:56:53.539544",
+  "generated_at": "2026-09-30T14:42:19.917595",
   "party_counts_7d": {
-    "Gerindra": 12,
+    "Gerindra": 11,
     "PDI-P": 31,
-    "Golkar": 17,
-    "NasDem": 5,
-    "PKB": 16,
+    "Golkar": 12,
+    "NasDem": 3,
+    "PKB": 14,
     "PKS": 13,
-    "PAN": 6,
+    "PAN": 7,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 42,
+    "Gerindra": 39,
     "PDI-P": 75,
-    "Golkar": 87,
+    "Golkar": 85,
     "NasDem": 23,
-    "PKB": 53,
-    "PKS": 66,
-    "PAN": 21,
+    "PKB": 52,
+    "PKS": 67,
+    "PAN": 22,
     "Demokrat": 15
   },
   "agency_counts_30d": {
@@ -34,171 +34,170 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
+    "bumn": 47,
     "danantara": 24,
     "dividen": 2,
-    "koperasi": 51,
-    "perdagangan": 15,
-    "impor": 18,
+    "koperasi": 52,
+    "ekspor": 2,
+    "impor": 17,
+    "perdagangan": 9,
     "umkm": 13,
-    "ekspor": 1,
-    "investasi": 19,
-    "kartel-monopoli": 17,
+    "investasi": 13,
+    "kartel-monopoli": 18,
     "merger-akuisisi": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
-    "Mulyadi": 8,
+    "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 13,
-    "Mufti Anam": 18,
+    "Mufti Anam": 19,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 4,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 11,
+    "Ida Nurlaela": 10,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
-    "Ahmad Labib": 8,
+    "Ahmad Labib": 7,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 13,
+    "Muhammad Sarmuji": 12,
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 9,
     "I Nengah Senantara": 12,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 20,
+    "Nasim Khan": 19,
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 13,
+    "Ghufran": 14,
     "Ismail": 13,
     "Nasril Bahar": 5,
-    "Iskandar": 16,
+    "Iskandar": 17,
     "Sartono": 1,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 54,
+    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 55,
     "Perdagangan": 34,
     "Konflik Publik": 10,
-    "Hukum/Audit": 18
+    "Hukum/Audit": 17
   },
   "top_headlines": [
     {
-      "title": "Siap Beroperasi 1 Oktober, KDKMP Jadi Ujung Tombak Pemerintah dan BULOG Salurkan Pangan - Info Ekonomi",
+      "title": "85 Persen Calon Manajer KDKMP Setujui Penempatan - RRI.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 07:37:57 GMT",
-      "link": "https://infoekonomi.id/2026/09/siap-beroperasi-1-oktober-kdkmp-jadi-ujung-tombak-pemerintah-dan-bulog-salurkan-pangan/"
+      "published": "Wed, 30 Sep 2026 14:28:00 GMT",
+      "link": "https://rri.co.id/nabire/asta-cita/2778259/85-persen-calon-manajer-kdkmp-setujui-penempatan"
     },
     {
-      "title": "Kemendag Dorong Penguatan Mutu dan Sertifikasi Halal untuk Menghubungkan Produk Indonesia ke Dunia - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "link": "https://www.topbusiness.id/137256/kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia.html"
-    },
-    {
-      "title": "Sinergi Kemendag dan PTPN IV PalmCo: Platform Digital InaExport Siap Sambungkan Komoditas Perkebunan ke Pasar Global - sawitindonesia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 06:46:05 GMT",
-      "link": "https://sawitindonesia.com/sinergi-kemendag-dan-ptpn-iv-palmco-platform-digital-inaexport-siap-sambungkan-komoditas-perkebunan-ke-pasar-global"
-    },
-    {
-      "title": "Sidak Lapas Cibinong, Rieke Soroti Overkapasitas hingga 1.810 Warga Binaan - kabar6.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 06:44:03 GMT",
-      "link": "https://kabar6.com/sidak-lapas-cibinong-rieke-soroti-overkapasitas-hingga-1-810-warga-binaan/"
-    },
-    {
-      "title": "KPPU Bekali Mahasiswa Pahami Persaingan Usaha Sehat di Era Ekonomi Digital - d-onenews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 06:42:33 GMT",
-      "link": "https://d-onenews.com/kppu-bekali-mahasiswa-pahami-persaingan-usaha-sehat-di-era-ekonomi-digital/"
-    },
-    {
-      "title": "Temuan Anyar Sidak DPR di Lapas Cibinong: Ada Bangunan Tanpa Izin dan Krisis Tenaga Kesehatan - Suarajabar.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 06:26:02 GMT",
-      "link": "https://jabar.suara.com/read/2026/09/30/132602/temuan-anyar-sidak-dpr-di-lapas-cibinong-ada-bangunan-tanpa-izin-dan-krisis-tenaga-kesehatan"
-    },
-    {
-      "title": "KPPU Ajak Mahasiswa Pahami Persaingan Usaha dan Bangun Ekonomi Berdaya Saing - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 06:00:00 GMT",
-      "link": "https://surabaya.suaramerdeka.com/ekonomi/amp/106117698054/kppu-ajak-mahasiswa-pahami-persaingan-usaha-dan-bangun-ekonomi-berdaya-saing"
-    },
-    {
-      "title": "RI dan China mempercepat persiapan perundingan IDC-CEPA - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 05:27:38 GMT",
-      "link": "https://www.antaranews.com/berita/5764381/ri-dan-china-mempercepat-persiapan-perundingan-idc-cepa"
-    },
-    {
-      "title": "Bos Agrinas Sebut Kopdes Merah Putih Tak Buka 24 Jam, Ada Shift - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 05:21:25 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260929182912-92-1409657/bos-agrinas-sebut-kopdes-merah-putih-tak-buka-24-jam-ada-shift"
-    },
-    {
-      "title": "Pembangunan Masih Berlangsung, Peresmian Kopdes Merah Putih Tunggu Verifikasi Agrinas - Pemerintah Kabupaten Batang",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 05:07:59 GMT",
-      "link": "https://berita.batangkab.go.id/detail/16088/pembangunan-masih-berlangsung-peresmian-kopdes-merah-putih-tunggu-verifikasi-agrinas"
-    },
-    {
-      "title": "Ahmad Labib Dorong Penguatan 4 Pilar Kebangsaan di Lamongan - Kompasiana.com",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 04:50:09 GMT",
-      "link": "https://www.kompasiana.com/jujunfery1864/6abc950134777c5efd39e63f/ahmad-labib-dorong-penguatan-4-pilar-kebangsaan-di-lamongan"
-    },
-    {
-      "title": "Dorong Penambahan KRL, Rivqy Abdul Halim: Kepadatan Penumpang di Jam Kerja Mengkhawatirkan - kabarpolitik.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 04:49:14 GMT",
-      "link": "https://kabarpolitik.com/dorong-penambahan-krl-rivqy-abdul-halim-kepadatan-penumpang-di-jam-kerja-mengkhawatirkan/"
-    },
-    {
-      "title": "INKA Bakal Merger ke KAI, BP BUMN Ungkap Utang Bermasalah Rp4,7 Triliun - Bisnis.com - Ekonomi",
+      "title": "Konsolidasi BUMN Masuk Tahap Cut Loss - investor.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 04:30:45 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260930/98/2008446/inka-bakal-merger-ke-kai-bp-bumn-ungkap-utang-bermasalah-rp47-triliun"
+      "published": "Wed, 30 Sep 2026 14:27:36 GMT",
+      "link": "https://investor.id/macroeconomy/456172/konsolidasi-bumn-masuk-tahap-cut-loss"
     },
     {
-      "title": "China memperingatkan akan melakukan pembalasan jika Uni Eropa membatasi perdagangan. - Vietnam.vn",
+      "title": "Kemendag Dorong Kopi Indonesia di Pasar Global - MetroTVNews.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 04:20:41 GMT",
-      "link": "https://www.vietnam.vn/id/trung-quoc-canh-bao-dap-tra-neu-eu-han-che-thuong-mai"
+      "published": "Wed, 30 Sep 2026 14:24:03 GMT",
+      "link": "https://www.metrotvnews.com/read/b3JC9YG0-kemendag-dorong-kopi-indonesia-di-pasar-global"
     },
     {
-      "title": "Membumikan Nilai-Nilai Kebangsaan, Ahmad Labib Dorong Ibu PKK Lamongan Jadi - Kompasiana.com",
-      "entity": "Ahmad Labib",
+      "title": "Strategi Kemendag Menggapai Transaksi US$17,5 Miliar di TEI 2026 - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 14:11:00 GMT",
+      "link": "https://swa.co.id/read/477907/strategi-kemendag-menggapai-transaksi-us175-miliar-di-tei-2026"
+    },
+    {
+      "title": "Bocoran Rosan soal Porsi Kepemilikan Danantara di BEI - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 14:00:50 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260930204542-92-1410212/bocoran-rosan-soal-porsi-kepemilikan-danantara-di-bei"
+    },
+    {
+      "title": "Rieke Diah Minta Isi Properti Lapas Mewah Dicatat Sebelum Dibongkar - CNN Indonesia",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 03:50:00 GMT",
-      "link": "https://www.kompasiana.com/jujunfery1864/6abc86a634777c2c0775d155/membumikan-nilai-nilai-kebangsaan-ahmad-labib-dorong-ibu-pkk-lamongan-jadi"
+      "published": "Wed, 30 Sep 2026 13:30:30 GMT",
+      "link": "https://www.cnnindonesia.com/nasional/20260930201300-12-1410186/rieke-diah-minta-isi-properti-lapas-mewah-dicatat-sebelum-dibongkar"
+    },
+    {
+      "title": "Komisi XIII DPR Dorong Penerapan Satu Data Pemasyarakatan di Lapas - MetroTVNews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 13:21:28 GMT",
+      "link": "https://www.metrotvnews.com/read/N0BCgAaG-komisi-xiii-dpr-dorong-penerapan-satu-data-pemasyarakatan-di-lapas"
+    },
+    {
+      "title": "Konsolidasi BUMN Ditargetkan Beres Akhir 2026, Dony Tegaskan Hapus Buku Tak Hapus Masalah Hukum - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 13:20:00 GMT",
+      "link": "https://voi.id/ekonomi/596406/konsolidasi-bumn-ditargetkan-beres-akhir-2026-dony-tegaskan-hapus-buku-tak-hapus-masalah-hukum"
+    },
+    {
+      "title": "Konsolidasi BUMN Ditargetkan Rampung Akhir Tahun, Dony Oskaria: Tinggal Proses Cut Loss dan Hapus Buku - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 12:42:00 GMT",
+      "link": "https://wartaekonomi.co.id/read637970/konsolidasi-bumn-ditargetkan-rampung-akhir-tahun-dony-oskaria-tinggal-proses-cut-loss-dan-hapus-buku"
+    },
+    {
+      "title": "Kemendag Siap Helat TEI 2026, Targetkan Transaksi US$17,5 M - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 12:37:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/09/30/kemendag-siap-helat-tei-2026-targetkan-transaksi-us175-m-193700165"
+    },
+    {
+      "title": "Harga Patokan Ekspor dan Harga Referensi Emas Turun 3,5% pada Periode I Oktober 2026 - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 12:28:49 GMT",
+      "link": "https://industri.kontan.co.id/news/harga-patokan-ekspor-dan-harga-referensi-emas-turun-35-pada-periode-i-oktober-2026"
+    },
+    {
+      "title": "TEI 2026 Bidik Transaksi Rp312 Triliun, Kemendag Kejar Buyer dari 113 Negara - ekonomi.bisnis.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 12:22:29 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260930/12/2008601/tei-2026-bidik-transaksi-rp312-triliun-kemendag-kejar-buyer-dari-113-negara"
+    },
+    {
+      "title": "Menkop sebut koperasi membangun kekuatan ekonomi sosial - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 12:05:22 GMT",
+      "link": "https://www.antaranews.com/berita/5765160/menkop-sebut-koperasi-membangun-kekuatan-ekonomi-sosial"
+    },
+    {
+      "title": "Tim NKI dan Anggota DPRD Situbondo Saksikan Penandatanganan Surat Penegasan KAI Daop 9 Untuk Warga Pesisir Desa Kilensari - ketik.com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 12:00:00 GMT",
+      "link": "https://ketik.com/amp/tim-nki-dan-anggota-dprd-situbondo-saksikan-penandatanganan-surat-penegasan-kai-daop-9-untuk-warga-pesisir-desa-kilensari"
+    },
+    {
+      "title": "Danantara Bersiap Kantongi 5 Hingga 10 Persen Saham BEI - Demokratis.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 11:56:19 GMT",
+      "link": "https://demokratis.co.id/danantara-bersiap-kantongi-saham-bei"
     }
   ]
 }
