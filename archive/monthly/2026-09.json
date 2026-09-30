@@ -1,6 +1,6 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-29T21:50:37.846465",
+  "generated_at": "2026-09-30T01:02:53.300193",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 31,
@@ -37,9 +37,9 @@
     "bumn": 48,
     "danantara": 24,
     "dividen": 2,
-    "koperasi": 52,
-    "impor": 21,
-    "perdagangan": 19,
+    "koperasi": 54,
+    "impor": 20,
+    "perdagangan": 18,
     "umkm": 13,
     "ekspor": 2,
     "investasi": 19,
@@ -90,11 +90,39 @@
   "early_warning_counts": {
     "Kinerja BUMN": 28,
     "Koperasi/UMKM": 57,
-    "Perdagangan": 39,
+    "Perdagangan": 38,
     "Konflik Publik": 10,
     "Hukum/Audit": 20
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Buka Suara Soal Penempatan Manajer Kopdes Merah Putih - suaragarut.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 00:43:34 GMT",
+      "link": "https://suaragarut.id/kemenkop-penempatan-manajer-kopdes-merah-putih"
+    },
+    {
+      "title": "Sejumlah Kopdes Merah Putih Kendal Berdiri di Lahan Pertanian Pangan, Ini Kata PMO Kemenkop - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 00:37:00 GMT",
+      "link": "https://regional.kompas.com/read/2026/09/30/073751478/sejumlah-kopdes-merah-putih-kendal-berdiri-di-lahan-pertanian-pangan-ini"
+    },
+    {
+      "title": "Penempatan Manajer Kopdes Merah Putih Tidak Sesuai Domisi, Ini Penjelasan Kemenkop - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 23:11:21 GMT",
+      "link": "https://nasional.kontan.co.id/news/penempatan-manajer-kopdes-merah-putih-tidak-sesuai-domisi-ini-penjelasan-kemenkop"
+    },
+    {
+      "title": "IN2MOTIONFEST dan JMFW Menyatu di JICC Oktober 2026 - suaragarut.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 29 Sep 2026 21:42:00 GMT",
+      "link": "https://suaragarut.id/in2motionfest-jmfw-penyatuan-panggung-jicc"
+    },
     {
       "title": "KAI dan INKA Segera Merger, Dony Oskaria Targetkan Rampung Sebelum 2027 - VOI.ID",
       "entity": "Badan Pengaturan BUMN",
@@ -171,34 +199,6 @@
       "kind": "anggota",
       "published": "Tue, 29 Sep 2026 13:08:44 GMT",
       "link": "https://www.viva.co.id/gaya-hidup/showbiz/1931926-merinding-rieke-diah-pitaloka-ngaku-sering-dapat-teror-mistis-dan-ancaman-sejak-terjun-ke-politik"
-    },
-    {
-      "title": "Pelanggaran Hukum Persaingan Usaha Tidak Ada Sanksi Pidana, Sifatnya Murni Administratif - spektroom.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 12:33:45 GMT",
-      "link": "https://spektroom.co.id/pelanggaran-hukum-persaingan-usaha-tidak-ada-sanksi-pidana-sifatnya-murni-administratif/"
-    },
-    {
-      "title": "KPPU Kanwil I Terima 21 Laporan, Dugaan Persekongkolan Tender Mendominasi - Pewarta.co",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 12:16:36 GMT",
-      "link": "https://pewarta.co/news/medan/kppu-kanwil-i-terima-21-laporan-dugaan-persekongkolan-tender-mendominasi"
-    },
-    {
-      "title": "Ekonomi RI Butuh Suntikan Investasi, Menkeu Suahasil Andalkan Danantara - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 12:13:00 GMT",
-      "link": "https://money.kompas.com/read/2026/09/29/191305526/ekonomi-ri-butuh-suntikan-investasi-menkeu-suahasil-andalkan-danantara"
-    },
-    {
-      "title": "Ghufran Minta Kasus Kematian Taruna Poltekpel Malahayati Diusut Tuntas - RRI.co.id",
-      "entity": "Ghufran",
-      "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 12:10:00 GMT",
-      "link": "https://rri.co.id/lhokseumawe/hukum/hukum/2772715/ghufran-minta-kasus-kematian-taruna-poltekpel-malahayati-diusut-tuntas"
     }
   ]
 }
