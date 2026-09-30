@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-30T14:42:19.917595",
+  "generated_at": "2026-09-30T19:48:40.129121",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 31,
+    "PDI-P": 30,
     "Golkar": 12,
     "NasDem": 3,
     "PKB": 14,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 47,
-    "danantara": 24,
+    "bumn": 45,
+    "danantara": 25,
     "dividen": 2,
     "koperasi": 52,
     "ekspor": 2,
+    "perdagangan": 7,
     "impor": 17,
-    "perdagangan": 9,
-    "umkm": 13,
-    "investasi": 13,
+    "investasi": 12,
     "kartel-monopoli": 18,
-    "merger-akuisisi": 2
+    "merger-akuisisi": 2,
+    "umkm": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -88,12 +88,68 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 55,
+    "Koperasi/UMKM": 54,
     "Perdagangan": 34,
     "Konflik Publik": 10,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Antara BPI Danantara dan Stabilitas Ekonomi Indonesia - Kedai Pena",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 19:43:23 GMT",
+      "link": "https://www.kedaipena.com/antara-bpi-danantara-dan-stabilitas-ekonomi-indonesia/"
+    },
+    {
+      "title": "TEI 2026 Jaring Buyer dari 113 Negara, 1.533 Ekshibitor Siap Tawarkan Produk Indonesia ke Pasar Global - Agricom.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 19:01:00 GMT",
+      "link": "https://www.agricom.id/2026/1081/tei-2026/tei-2026-jaring-buyer-dari-113-negara-1-533-ekshibitor-siap-tawarkan-produk-indonesia-ke-pasar-global/"
+    },
+    {
+      "title": "Rieke Bongkar Fakta 10 Rumah Dinas Ilegal di Lapas Cibinong - tangselpos.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 18:00:52 GMT",
+      "link": "https://tangselpos.id/detail/55260/rieke-bongkar-fakta-10-rumah-dinas-ilegal-di-lapas-cibinong"
+    },
+    {
+      "title": "Komisi XIII mendorong Satu Data untuk awasi aktivitas lapas - ANTARA News Yogyakarta",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 15:56:28 GMT",
+      "link": "https://jogja.antaranews.com/berita/857195/komisi-xiii-mendorong-satu-data-untuk-awasi-aktivitas-lapas"
+    },
+    {
+      "title": "Bos Danantara Tanggapi soal Target Kepemilikan Saham BEI - Tempo.co",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:53:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/bos-danantara-tanggapi-soal-target-kepemilikan-saham-bei-2297288"
+    },
+    {
+      "title": "Konsolidasi BUMN Ditarget Rampung Akhir 2026 - Kompas.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:21:21 GMT",
+      "link": "https://www.kompas.id/artikel/konsolidasi-bumn-ditarget-rampung-akhir-2026?open_from=Section_Terbaru"
+    },
+    {
+      "title": "Konsolidasi BUMN Ditargetkan Rampung Akhir 2026 - Demokratis.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:19:19 GMT",
+      "link": "https://demokratis.co.id/konsolidasi-bumn-target-rampung-2026"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas Turun 3,5% untuk Perdagangan 1-14 Oktober 2026 - swa.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:07:14 GMT",
+      "link": "https://swa.co.id/read/477906/harga-patokan-ekspor-emas-turun-35-untuk-perdagangan-1-14-oktober-2026"
+    },
     {
       "title": "85 Persen Calon Manajer KDKMP Setujui Penempatan - RRI.co.id",
       "entity": "Kementerian Koperasi",
@@ -123,6 +179,13 @@
       "link": "https://swa.co.id/read/477907/strategi-kemendag-menggapai-transaksi-us175-miliar-di-tei-2026"
     },
     {
+      "title": "Christiany Minta Pemangkasan Subsidi Energi Diikuti Akurasi Data Distribusi - RM.ID",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 14:09:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/328303/christiany-minta-pemangkasan-subsidi-energi-diikuti-akurasi-data-distribusi"
+    },
+    {
       "title": "Bocoran Rosan soal Porsi Kepemilikan Danantara di BEI - CNN Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -130,74 +193,11 @@
       "link": "https://www.cnnindonesia.com/ekonomi/20260930204542-92-1410212/bocoran-rosan-soal-porsi-kepemilikan-danantara-di-bei"
     },
     {
-      "title": "Rieke Diah Minta Isi Properti Lapas Mewah Dicatat Sebelum Dibongkar - CNN Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 13:30:30 GMT",
-      "link": "https://www.cnnindonesia.com/nasional/20260930201300-12-1410186/rieke-diah-minta-isi-properti-lapas-mewah-dicatat-sebelum-dibongkar"
-    },
-    {
-      "title": "Komisi XIII DPR Dorong Penerapan Satu Data Pemasyarakatan di Lapas - MetroTVNews.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 13:21:28 GMT",
-      "link": "https://www.metrotvnews.com/read/N0BCgAaG-komisi-xiii-dpr-dorong-penerapan-satu-data-pemasyarakatan-di-lapas"
-    },
-    {
       "title": "Konsolidasi BUMN Ditargetkan Beres Akhir 2026, Dony Tegaskan Hapus Buku Tak Hapus Masalah Hukum - VOI.ID",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 13:20:00 GMT",
-      "link": "https://voi.id/ekonomi/596406/konsolidasi-bumn-ditargetkan-beres-akhir-2026-dony-tegaskan-hapus-buku-tak-hapus-masalah-hukum"
-    },
-    {
-      "title": "Konsolidasi BUMN Ditargetkan Rampung Akhir Tahun, Dony Oskaria: Tinggal Proses Cut Loss dan Hapus Buku - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 12:42:00 GMT",
-      "link": "https://wartaekonomi.co.id/read637970/konsolidasi-bumn-ditargetkan-rampung-akhir-tahun-dony-oskaria-tinggal-proses-cut-loss-dan-hapus-buku"
-    },
-    {
-      "title": "Kemendag Siap Helat TEI 2026, Targetkan Transaksi US$17,5 M - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 12:37:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/09/30/kemendag-siap-helat-tei-2026-targetkan-transaksi-us175-m-193700165"
-    },
-    {
-      "title": "Harga Patokan Ekspor dan Harga Referensi Emas Turun 3,5% pada Periode I Oktober 2026 - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 12:28:49 GMT",
-      "link": "https://industri.kontan.co.id/news/harga-patokan-ekspor-dan-harga-referensi-emas-turun-35-pada-periode-i-oktober-2026"
-    },
-    {
-      "title": "TEI 2026 Bidik Transaksi Rp312 Triliun, Kemendag Kejar Buyer dari 113 Negara - ekonomi.bisnis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 12:22:29 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20260930/12/2008601/tei-2026-bidik-transaksi-rp312-triliun-kemendag-kejar-buyer-dari-113-negara"
-    },
-    {
-      "title": "Menkop sebut koperasi membangun kekuatan ekonomi sosial - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 12:05:22 GMT",
-      "link": "https://www.antaranews.com/berita/5765160/menkop-sebut-koperasi-membangun-kekuatan-ekonomi-sosial"
-    },
-    {
-      "title": "Tim NKI dan Anggota DPRD Situbondo Saksikan Penandatanganan Surat Penegasan KAI Daop 9 Untuk Warga Pesisir Desa Kilensari - ketik.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 30 Sep 2026 12:00:00 GMT",
-      "link": "https://ketik.com/amp/tim-nki-dan-anggota-dprd-situbondo-saksikan-penandatanganan-surat-penegasan-kai-daop-9-untuk-warga-pesisir-desa-kilensari"
-    },
-    {
-      "title": "Danantara Bersiap Kantongi 5 Hingga 10 Persen Saham BEI - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 11:56:19 GMT",
-      "link": "https://demokratis.co.id/danantara-bersiap-kantongi-saham-bei"
+      "published": "Wed, 30 Sep 2026 13:35:02 GMT",
+      "link": "https://voi.id/ja/amp/596406"
     }
   ]
 }
