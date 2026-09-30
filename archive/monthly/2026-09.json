@@ -1,9 +1,9 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-30T19:48:40.129121",
+  "generated_at": "2026-09-30T23:26:57.603167",
   "party_counts_7d": {
     "Gerindra": 11,
-    "PDI-P": 30,
+    "PDI-P": 31,
     "Golkar": 12,
     "NasDem": 3,
     "PKB": 14,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 39,
-    "PDI-P": 75,
+    "PDI-P": 76,
     "Golkar": 85,
     "NasDem": 23,
     "PKB": 52,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 45,
-    "danantara": 25,
+    "danantara": 24,
     "dividen": 2,
     "koperasi": 52,
     "ekspor": 2,
     "perdagangan": 7,
     "impor": 17,
-    "investasi": 12,
+    "investasi": 11,
     "kartel-monopoli": 18,
     "merger-akuisisi": 2,
     "umkm": 12
@@ -61,7 +61,7 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 10,
     "Budi Sulistyono": 1,
-    "Totok Hedi Santosa": 2,
+    "Totok Hedi Santosa": 3,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
@@ -87,13 +87,20 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 26,
+    "Kinerja BUMN": 25,
     "Koperasi/UMKM": 54,
     "Perdagangan": 34,
     "Konflik Publik": 10,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Sukses! Totok Hedi Realisasikan Aspirasi Sumur Bor dan Air Bersih Bagi Warga Bantul - gesuri.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 21:56:14 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/sukses-totok-hedi-realisasikan-aspirasi-sumur-bor-dan-air-bersih-bagi-warga-bantul-b2qc8Zbirf"
+    },
     {
       "title": "Antara BPI Danantara dan Stabilitas Ekonomi Indonesia - Kedai Pena",
       "entity": "Danantara",
@@ -137,6 +144,20 @@
       "link": "https://www.kompas.id/artikel/konsolidasi-bumn-ditarget-rampung-akhir-2026?open_from=Section_Terbaru"
     },
     {
+      "title": "Konsolidasi BUMN Ditarget Rampung Akhir 2026 - Kompas.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:21:21 GMT",
+      "link": "https://www.kompas.id/artikel/konsolidasi-bumn-ditarget-rampung-akhir-2026?open_from=Nasional_Page"
+    },
+    {
+      "title": "Konsolidasi BUMN Ditargetkan Rampung Akhir 2026 - Demokratis.co.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 15:19:19 GMT",
+      "link": "https://demokratis.co.id/konsolidasi-bumn-target-rampung-2026"
+    },
+    {
       "title": "Konsolidasi BUMN Ditargetkan Rampung Akhir 2026 - Demokratis.co.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 30 Sep 2026 14:11:00 GMT",
       "link": "https://swa.co.id/read/477907/strategi-kemendag-menggapai-transaksi-us175-miliar-di-tei-2026"
-    },
-    {
-      "title": "Christiany Minta Pemangkasan Subsidi Energi Diikuti Akurasi Data Distribusi - RM.ID",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 14:09:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/328303/christiany-minta-pemangkasan-subsidi-energi-diikuti-akurasi-data-distribusi"
-    },
-    {
-      "title": "Bocoran Rosan soal Porsi Kepemilikan Danantara di BEI - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 14:00:50 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20260930204542-92-1410212/bocoran-rosan-soal-porsi-kepemilikan-danantara-di-bei"
-    },
-    {
-      "title": "Konsolidasi BUMN Ditargetkan Beres Akhir 2026, Dony Tegaskan Hapus Buku Tak Hapus Masalah Hukum - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 13:35:02 GMT",
-      "link": "https://voi.id/ja/amp/596406"
     }
   ]
 }
