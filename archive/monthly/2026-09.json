@@ -1,25 +1,25 @@
 {
   "period": "2026-09",
-  "generated_at": "2026-09-30T01:02:53.300193",
+  "generated_at": "2026-09-30T07:56:53.539544",
   "party_counts_7d": {
     "Gerindra": 12,
     "PDI-P": 31,
-    "Golkar": 18,
+    "Golkar": 17,
     "NasDem": 5,
-    "PKB": 19,
-    "PKS": 16,
+    "PKB": 16,
+    "PKS": 13,
     "PAN": 6,
-    "Demokrat": 3
+    "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 44,
-    "PDI-P": 78,
-    "Golkar": 85,
+    "Gerindra": 42,
+    "PDI-P": 75,
+    "Golkar": 87,
     "NasDem": 23,
     "PKB": 53,
-    "PKS": 65,
+    "PKS": 66,
     "PAN": 21,
-    "Demokrat": 14
+    "Demokrat": 15
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -37,35 +37,35 @@
     "bumn": 48,
     "danantara": 24,
     "dividen": 2,
-    "koperasi": 54,
-    "impor": 20,
-    "perdagangan": 18,
+    "koperasi": 51,
+    "perdagangan": 15,
+    "impor": 18,
     "umkm": 13,
-    "ekspor": 2,
+    "ekspor": 1,
     "investasi": 19,
-    "kartel-monopoli": 14,
-    "merger-akuisisi": 1
+    "kartel-monopoli": 17,
+    "merger-akuisisi": 2
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
-    "Mulyadi": 9,
+    "Mulyadi": 8,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 18,
-    "Darmadi Durianto": 6,
+    "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 5,
+    "I Gusti Ngurah Kesuma Kelakan": 4,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 11,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 2,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
-    "Ahmad Labib": 6,
+    "Ahmad Labib": 8,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
@@ -80,125 +80,125 @@
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 12,
+    "Ghufran": 13,
     "Ismail": 13,
     "Nasril Bahar": 5,
     "Iskandar": 16,
     "Sartono": 1,
-    "Herman Khaeron": 13
+    "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 38,
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 34,
     "Konflik Publik": 10,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 18
   },
   "top_headlines": [
     {
-      "title": "Kemenkop Buka Suara Soal Penempatan Manajer Kopdes Merah Putih - suaragarut.id",
+      "title": "Siap Beroperasi 1 Oktober, KDKMP Jadi Ujung Tombak Pemerintah dan BULOG Salurkan Pangan - Info Ekonomi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 00:43:34 GMT",
-      "link": "https://suaragarut.id/kemenkop-penempatan-manajer-kopdes-merah-putih"
+      "published": "Wed, 30 Sep 2026 07:37:57 GMT",
+      "link": "https://infoekonomi.id/2026/09/siap-beroperasi-1-oktober-kdkmp-jadi-ujung-tombak-pemerintah-dan-bulog-salurkan-pangan/"
     },
     {
-      "title": "Sejumlah Kopdes Merah Putih Kendal Berdiri di Lahan Pertanian Pangan, Ini Kata PMO Kemenkop - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 30 Sep 2026 00:37:00 GMT",
-      "link": "https://regional.kompas.com/read/2026/09/30/073751478/sejumlah-kopdes-merah-putih-kendal-berdiri-di-lahan-pertanian-pangan-ini"
-    },
-    {
-      "title": "Penempatan Manajer Kopdes Merah Putih Tidak Sesuai Domisi, Ini Penjelasan Kemenkop - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 23:11:21 GMT",
-      "link": "https://nasional.kontan.co.id/news/penempatan-manajer-kopdes-merah-putih-tidak-sesuai-domisi-ini-penjelasan-kemenkop"
-    },
-    {
-      "title": "IN2MOTIONFEST dan JMFW Menyatu di JICC Oktober 2026 - suaragarut.id",
+      "title": "Kemendag Dorong Penguatan Mutu dan Sertifikasi Halal untuk Menghubungkan Produk Indonesia ke Dunia - TopBusiness.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 21:42:00 GMT",
-      "link": "https://suaragarut.id/in2motionfest-jmfw-penyatuan-panggung-jicc"
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "link": "https://www.topbusiness.id/137256/kemendag-dorong-penguatan-mutu-dan-sertifikasi-halal-untuk-menghubungkan-produk-indonesia-ke-dunia.html"
     },
     {
-      "title": "KAI dan INKA Segera Merger, Dony Oskaria Targetkan Rampung Sebelum 2027 - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 21:12:00 GMT",
-      "link": "https://voi.id/ekonomi/596269/kai-dan-inka-segera-merger-dony-oskaria-targetkan-rampung-sebelum-2027"
-    },
-    {
-      "title": "KAI Rencanakan Impor KRL Bekas Asal Jepang - demokratis.co.id",
+      "title": "Sinergi Kemendag dan PTPN IV PalmCo: Platform Digital InaExport Siap Sambungkan Komoditas Perkebunan ke Pasar Global - sawitindonesia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 20:49:00 GMT",
-      "link": "https://demokratis.co.id/kai-rencanakan-impor-krl-bekas-asal-jepang"
+      "published": "Wed, 30 Sep 2026 06:46:05 GMT",
+      "link": "https://sawitindonesia.com/sinergi-kemendag-dan-ptpn-iv-palmco-platform-digital-inaexport-siap-sambungkan-komoditas-perkebunan-ke-pasar-global"
     },
     {
-      "title": "Kemenkop Jelaskan Aturan Penempatan Manajer Koperasi Merah Putih - demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 20:40:00 GMT",
-      "link": "https://demokratis.co.id/kemenkop-jelaskan-aturan-penempatan-manajer-koperasi"
-    },
-    {
-      "title": "YALPK Kepri Minta OJK Tegas Terhadap Pelaku Usaha - TargetNews.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 16:43:00 GMT",
-      "link": "https://targetnews.id/2026/09/29/yalpk-kepri-minta-ojk-tegas-terhadap-pelaku-usaha/"
-    },
-    {
-      "title": "Pemerintah Atur Penempatan Manajer Koperasi Desa Merah Putih Lintas Daerah - suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 16:24:21 GMT",
-      "link": "https://www.suaralandak.co.id/pemerintah-atur-penempatan-manajer-koperasi-desa"
-    },
-    {
-      "title": "Bulog bakal Pasok Beras SPHP ke Koperasi Desa Merah Putih - mediaindonesia.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 16:06:21 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/938969/bulog-bakal-pasok-beras-sphp-ke-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "Menkop: Penempatan Manajer KDKMP Lintas Daerah untuk Pemerataan SDM - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 15:10:09 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2609290117/menkop-penempatan-manajer-kdkmp-lintas-daerah-untuk-pemerataan-sdm"
-    },
-    {
-      "title": "Danantara siapkan tambahan modal guna perkuat kinerja INKA - ANTARA News Megapolitan",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 14:22:24 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/552273/danantara-siapkan-tambahan-modal-guna-perkuat-kinerja-inka"
-    },
-    {
-      "title": "Danantara siapkan tambahan modal guna perkuat kinerja INKA - ANTARA News Megapolitan",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 14:22:24 GMT",
-      "link": "https://bogor.antaranews.com/berita/552273/danantara-siapkan-tambahan-modal-guna-perkuat-kinerja-inka"
-    },
-    {
-      "title": "CTAsia 2026 Bahas Dinamika Perdagangan dan Tata Kelola Batubara - APBI-ICMA",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 29 Sep 2026 13:22:21 GMT",
-      "link": "https://apbi-icma.org/our-article/ctasia-2026-bahas-dinamika-perdagangan-dan-tata-kelola-batubara"
-    },
-    {
-      "title": "Merinding! Rieke Diah Pitaloka Ngaku Sering Dapat Teror Mistis dan Ancaman Sejak Terjun ke Politik - VIVA.co.id",
+      "title": "Sidak Lapas Cibinong, Rieke Soroti Overkapasitas hingga 1.810 Warga Binaan - kabar6.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 29 Sep 2026 13:08:44 GMT",
-      "link": "https://www.viva.co.id/gaya-hidup/showbiz/1931926-merinding-rieke-diah-pitaloka-ngaku-sering-dapat-teror-mistis-dan-ancaman-sejak-terjun-ke-politik"
+      "published": "Wed, 30 Sep 2026 06:44:03 GMT",
+      "link": "https://kabar6.com/sidak-lapas-cibinong-rieke-soroti-overkapasitas-hingga-1-810-warga-binaan/"
+    },
+    {
+      "title": "KPPU Bekali Mahasiswa Pahami Persaingan Usaha Sehat di Era Ekonomi Digital - d-onenews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 06:42:33 GMT",
+      "link": "https://d-onenews.com/kppu-bekali-mahasiswa-pahami-persaingan-usaha-sehat-di-era-ekonomi-digital/"
+    },
+    {
+      "title": "Temuan Anyar Sidak DPR di Lapas Cibinong: Ada Bangunan Tanpa Izin dan Krisis Tenaga Kesehatan - Suarajabar.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 06:26:02 GMT",
+      "link": "https://jabar.suara.com/read/2026/09/30/132602/temuan-anyar-sidak-dpr-di-lapas-cibinong-ada-bangunan-tanpa-izin-dan-krisis-tenaga-kesehatan"
+    },
+    {
+      "title": "KPPU Ajak Mahasiswa Pahami Persaingan Usaha dan Bangun Ekonomi Berdaya Saing - Suara Merdeka Surabaya - Suara Merdeka Surabaya",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 06:00:00 GMT",
+      "link": "https://surabaya.suaramerdeka.com/ekonomi/amp/106117698054/kppu-ajak-mahasiswa-pahami-persaingan-usaha-dan-bangun-ekonomi-berdaya-saing"
+    },
+    {
+      "title": "RI dan China mempercepat persiapan perundingan IDC-CEPA - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 05:27:38 GMT",
+      "link": "https://www.antaranews.com/berita/5764381/ri-dan-china-mempercepat-persiapan-perundingan-idc-cepa"
+    },
+    {
+      "title": "Bos Agrinas Sebut Kopdes Merah Putih Tak Buka 24 Jam, Ada Shift - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 05:21:25 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20260929182912-92-1409657/bos-agrinas-sebut-kopdes-merah-putih-tak-buka-24-jam-ada-shift"
+    },
+    {
+      "title": "Pembangunan Masih Berlangsung, Peresmian Kopdes Merah Putih Tunggu Verifikasi Agrinas - Pemerintah Kabupaten Batang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 05:07:59 GMT",
+      "link": "https://berita.batangkab.go.id/detail/16088/pembangunan-masih-berlangsung-peresmian-kopdes-merah-putih-tunggu-verifikasi-agrinas"
+    },
+    {
+      "title": "Ahmad Labib Dorong Penguatan 4 Pilar Kebangsaan di Lamongan - Kompasiana.com",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 04:50:09 GMT",
+      "link": "https://www.kompasiana.com/jujunfery1864/6abc950134777c5efd39e63f/ahmad-labib-dorong-penguatan-4-pilar-kebangsaan-di-lamongan"
+    },
+    {
+      "title": "Dorong Penambahan KRL, Rivqy Abdul Halim: Kepadatan Penumpang di Jam Kerja Mengkhawatirkan - kabarpolitik.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 04:49:14 GMT",
+      "link": "https://kabarpolitik.com/dorong-penambahan-krl-rivqy-abdul-halim-kepadatan-penumpang-di-jam-kerja-mengkhawatirkan/"
+    },
+    {
+      "title": "INKA Bakal Merger ke KAI, BP BUMN Ungkap Utang Bermasalah Rp4,7 Triliun - Bisnis.com - Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 04:30:45 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20260930/98/2008446/inka-bakal-merger-ke-kai-bp-bumn-ungkap-utang-bermasalah-rp47-triliun"
+    },
+    {
+      "title": "China memperingatkan akan melakukan pembalasan jika Uni Eropa membatasi perdagangan. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 04:20:41 GMT",
+      "link": "https://www.vietnam.vn/id/trung-quoc-canh-bao-dap-tra-neu-eu-han-che-thuong-mai"
+    },
+    {
+      "title": "Membumikan Nilai-Nilai Kebangsaan, Ahmad Labib Dorong Ibu PKK Lamongan Jadi - Kompasiana.com",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 03:50:00 GMT",
+      "link": "https://www.kompasiana.com/jujunfery1864/6abc86a634777c2c0775d155/membumikan-nilai-nilai-kebangsaan-ahmad-labib-dorong-ibu-pkk-lamongan-jadi"
     }
   ]
 }
