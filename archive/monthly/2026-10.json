@@ -1,0 +1,203 @@
+{
+  "period": "2026-10",
+  "generated_at": "2026-10-01T04:06:23.976931",
+  "party_counts_7d": {
+    "Gerindra": 10,
+    "PDI-P": 31,
+    "Golkar": 12,
+    "NasDem": 3,
+    "PKB": 14,
+    "PKS": 14,
+    "PAN": 7,
+    "Demokrat": 1
+  },
+  "party_counts_30d": {
+    "Gerindra": 39,
+    "PDI-P": 75,
+    "Golkar": 85,
+    "NasDem": 23,
+    "PKB": 49,
+    "PKS": 68,
+    "PAN": 21,
+    "Demokrat": 14
+  },
+  "agency_counts_30d": {
+    "Kementerian BUMN": 20,
+    "Kementerian Perdagangan": 20,
+    "Kementerian Koperasi": 20,
+    "Danantara": 20,
+    "BPKN": 20,
+    "KPPU": 20,
+    "BP Batam": 20,
+    "BPK Sabang": 20,
+    "Dekopin": 20,
+    "Badan Pengaturan BUMN": 20
+  },
+  "topic_counts_30d": {
+    "bumn": 45,
+    "danantara": 24,
+    "dividen": 2,
+    "koperasi": 52,
+    "perdagangan": 7,
+    "ekspor": 3,
+    "impor": 16,
+    "investasi": 10,
+    "kartel-monopoli": 18,
+    "merger-akuisisi": 2,
+    "umkm": 12
+  },
+  "member_counts_30d": {
+    "Andre Rosiade": 20,
+    "Muhammad Husein Fadlulloh": 1,
+    "Mulan Jameela": 4,
+    "Kawendra Lukistian": 7,
+    "Unru Baso": 1,
+    "Mulyadi": 6,
+    "Adisatrya Suryo Sulisto": 13,
+    "Mufti Anam": 19,
+    "Darmadi Durianto": 4,
+    "Rieke Diah Pitaloka": 20,
+    "I Gusti Ngurah Kesuma Kelakan": 4,
+    "Sadarestuwati": 2,
+    "Ida Nurlaela": 9,
+    "Budi Sulistyono": 1,
+    "Totok Hedi Santosa": 3,
+    "Nurdin Halid": 20,
+    "Gde Sumarjaya Linggih": 3,
+    "Ahmad Labib": 7,
+    "Sarifah Suraidah": 9,
+    "Doni Akbar": 5,
+    "Firnando Hadityo Ganinduto": 9,
+    "Rizki Faisal": 20,
+    "Muhammad Sarmuji": 12,
+    "Rachmat Gobel": 2,
+    "Asep Wahyuwijaya": 9,
+    "I Nengah Senantara": 12,
+    "Anggia Erma Rini": 5,
+    "Rivqy Abdul Halim": 20,
+    "Nasim Khan": 16,
+    "Ida Fauziyah": 8,
+    "Amin Ak.": 20,
+    "Rizal Bawazier": 20,
+    "Ghufran": 14,
+    "Ismail": 14,
+    "Nasril Bahar": 5,
+    "Iskandar": 16,
+    "Sartono": 1,
+    "Herman Khaeron": 13
+  },
+  "early_warning_counts": {
+    "Kinerja BUMN": 23,
+    "Koperasi/UMKM": 52,
+    "Perdagangan": 33,
+    "Konflik Publik": 10,
+    "Hukum/Audit": 16
+  },
+  "top_headlines": [
+    {
+      "title": "Sumbawa Ajukan Pembangunan Pasar Induk Terintegrasi ke Kementerian Perdagangan RI - nuansantb",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 03:43:19 GMT",
+      "link": "https://nuansantb.id/2026/10/01/sumbawa-ajukan-pembangunan-pasar-induk-terintegrasi-ke-kementerian-perdagangan-ri/"
+    },
+    {
+      "title": "Kemendag Ungkap Turunnya HPE dan HR Emas Dipengaruhi Penguatan Nilai Tukar USD - beritabuana.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 03:10:08 GMT",
+      "link": "https://beritabuana.co/2026/10/01/kemendag-ungkap-turunnya-hpe-dan-hr-emas-dipengaruhi-penguatan-nilai-tukar-usd/"
+    },
+    {
+      "title": "Bukan Cuma Estetika, Kemendag Tegaskan Peran Strategis Desain dalam Peningkatan Daya Saing Ekspor Indonesia - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 03:06:59 GMT",
+      "link": "https://suarapemerintah.id/2026/10/bukan-cuma-estetika-kemendag-tegaskan-peran-strategis-desain-dalam-peningkatan-daya-saing-ekspor-indonesia/"
+    },
+    {
+      "title": "Kopdes Resmi Beroperasi Hari Ini, Masa Evaluasi Dalam Sepekan - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 02:56:25 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/123256/kopdes-resmi-beroperasi-hari-ini-masa-evaluasi-dalam-sepekan"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 02:21:30 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261001/Mjk5MTUy"
+    },
+    {
+      "title": "BUMN Boleh Cut Loss dan Hapus Buku, Dony Oskaria: Tak Menutup Proses Hukum - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 02:03:54 GMT",
+      "link": "https://voi.id/berita/596440/bumn-boleh-cut-loss-dan-hapus-buku-dony-oskaria-tak-menutup-proses-hukum"
+    },
+    {
+      "title": "Dukung Kopdes Merah Putih, Bulog Siap Pasok Beras SPHP hingga Desa-Kelurahan - agrofarm.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 02:00:47 GMT",
+      "link": "http://www.agrofarm.co.id/2026/10/dukung-kopdes-merah-putih-bulog-siap-pasok-beras-sphp-hingga-desa-kelurahan/"
+    },
+    {
+      "title": "Kemendag: HPE emas turun dipicu penguatan nilai tukar dolar - ANTARA News Kepri",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 01:36:06 GMT",
+      "link": "https://kepri.antaranews.com/berita/268865/kemendag-hpe-emas-turun-dipicu-penguatan-nilai-tukar-dolar"
+    },
+    {
+      "title": "Soal Porsi Saham BEI, Danantara Serahkan Keputusan Sepenuhnya kepada OJK - jurnas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 00:56:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1666376/soal-porsi-saham-bei-danantara-serahkan-keputusan-sepenuhnya-kepada-ojk/"
+    },
+    {
+      "title": "Kemendag Pangkas HPE Emas 3,5 Persen Akibat Naiknya Yield - Emitennews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 00:44:00 GMT",
+      "link": "https://www.emitennews.com/news/kemendag-pangkas-hpe-emas-35-persen-akibat-naiknya-yield"
+    },
+    {
+      "title": "Dony Oskaria: Konsolidasi BUMN tahap \"cut loss\" dan hapus buku - ANTARA News Gorontalo",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 00:41:01 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/426917/dony-oskaria-konsolidasi-bumn-tahap-cut-loss-dan-hapus-buku"
+    },
+    {
+      "title": "BPKN RI Dukung dan Kawal Putusan MK soal Label GGL: Konsumen Berhak Tahu Sebelum Membeli - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 23:36:00 GMT",
+      "link": "https://www.mediakarya.id/bpkn-ri-dukung-dan-kawal-putusan-mk-soal-label-ggl-konsumen-berhak-tahu-sebelum-membeli/"
+    },
+    {
+      "title": "Danantara Pastikan Pembangunan LRT City Dimulai Hari Ini - cnbcindonesia.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 23:25:15 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261001055214-17-772321/danantara-pastikan-pembangunan-lrt-city-dimulai-hari-ini"
+    },
+    {
+      "title": "China mulai terapkan tarif 55% untuk daging sapi Brasil - IDNFinancials",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 30 Sep 2026 23:20:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/69680/china-mulai-terapkan-tarif-55-untuk-daging-sapi-brasil"
+    },
+    {
+      "title": "Sukses! Totok Hedi Realisasikan Aspirasi Sumur Bor dan Air Bersih Bagi Warga Bantul - gesuri.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Wed, 30 Sep 2026 21:56:14 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/sukses-totok-hedi-realisasikan-aspirasi-sumur-bor-dan-air-bersih-bagi-warga-bantul-b2qc8Zbirf"
+    }
+  ]
+}
