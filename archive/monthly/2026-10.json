@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-01T11:21:02.639335",
+  "generated_at": "2026-10-01T17:59:44.633459",
   "party_counts_7d": {
-    "Gerindra": 8,
+    "Gerindra": 10,
     "PDI-P": 31,
     "Golkar": 15,
     "NasDem": 2,
-    "PKB": 14,
-    "PKS": 12,
-    "PAN": 7,
+    "PKB": 13,
+    "PKS": 13,
+    "PAN": 5,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 40,
+    "Gerindra": 42,
     "PDI-P": 76,
-    "Golkar": 88,
+    "Golkar": 87,
     "NasDem": 23,
     "PKB": 49,
-    "PKS": 68,
+    "PKS": 69,
     "PAN": 17,
     "Demokrat": 15
   },
@@ -35,22 +35,22 @@
   },
   "topic_counts_30d": {
     "bumn": 46,
-    "danantara": 25,
+    "danantara": 27,
     "dividen": 2,
-    "koperasi": 54,
+    "koperasi": 53,
+    "perdagangan": 9,
     "ekspor": 4,
-    "perdagangan": 8,
-    "impor": 16,
-    "investasi": 13,
-    "kartel-monopoli": 18,
+    "investasi": 14,
+    "impor": 15,
+    "kartel-monopoli": 17,
     "merger-akuisisi": 3,
-    "umkm": 13
+    "umkm": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Muhammad Husein Fadlulloh": 1,
     "Mulan Jameela": 4,
-    "Kawendra Lukistian": 8,
+    "Kawendra Lukistian": 10,
     "Unru Baso": 1,
     "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 13,
@@ -63,7 +63,7 @@
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 4,
     "Nurdin Halid": 18,
-    "Gde Sumarjaya Linggih": 3,
+    "Gde Sumarjaya Linggih": 2,
     "Ahmad Labib": 7,
     "Sarifah Suraidah": 9,
     "Doni Akbar": 5,
@@ -80,124 +80,124 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 14,
-    "Ismail": 14,
+    "Ismail": 15,
     "Nasril Bahar": 5,
     "Iskandar": 12,
     "Sartono": 2,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 23,
+    "Kinerja BUMN": 19,
     "Koperasi/UMKM": 58,
-    "Perdagangan": 34,
-    "Hukum/Audit": 16,
-    "Konflik Publik": 9
+    "Perdagangan": 31,
+    "Hukum/Audit": 14,
+    "Konflik Publik": 8
   },
   "top_headlines": [
     {
-      "title": "Harga Patokan Ekspor Emas Turun 3,5 Persen pada Awal Oktober 2026 - vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 10:55:26 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/10/01/harga-patokan-ekspor-emas-turun-35-persen-pada-awal-oktober-2026/"
+      "published": "Thu, 01 Oct 2026 17:02:15 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261002/Mjk5MTUy"
     },
     {
-      "title": "Perkuat Rantai Perdagangan dan Distribusi Daerah, Pemkab Sumbawa Dorong Pembangunan Pasar Induk - Kabar Sumbawa",
-      "entity": "Kementerian Perdagangan",
+      "title": "Langkah Anggun Putri Ideologis Hatta Jaga Ketangguhan Roda Koperasi - lensaindonesia.com",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 10:46:59 GMT",
-      "link": "https://kabarsumbawa.com/2026/10/01/perkuat-rantai-perdagangan-dan-distribusi-daerah-pemkab-sumbawa-dorong-pembangunan-pasar-induk/"
+      "published": "Thu, 01 Oct 2026 16:16:30 GMT",
+      "link": "https://www.lensaindonesia.com/langkah-anggun-putri-ideologis-hatta-jaga-ketangguhan-roda-koperasi/"
     },
     {
-      "title": "KPPU dan Pemprov Kalsel Perkuat Pengawasan Kemitraan Perkebunan dan Peternakan - Gerbang Kaltim",
-      "entity": "KPPU",
+      "title": "BPKN tindak lanjuti pengaduan konsumen Malang City Point - Antara News jatim",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 10:44:40 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-dan-pemprov-kalsel-perkuat-pengawasan-kemitraan-perkebunan-dan-peternakan/"
+      "published": "Thu, 01 Oct 2026 15:43:56 GMT",
+      "link": "https://jatim.antaranews.com/video/5767431/bpkn-tindak-lanjuti-pengaduan-konsumen-malang-city-point"
     },
     {
-      "title": "BAM DPR Siap Sambangi Kantor TikTok, Usut Tudingan Fake Order yang Merugikan Seller UMKM - Jakarta Review",
-      "entity": "Totok Hedi Santosa",
+      "title": "Cerita Rieke Diah Pitaloka Ditelepon Nikita Mirzani dari Penjara: Tolong Saya! - Medcom.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 01 Oct 2026 10:42:41 GMT",
-      "link": "https://jakrev.com/nasional/ekonomi/bam-dpr-siap-sambangi-kantor-tiktok-usut-tudingan-fake-order-yang-merugikan-seller-umkm/"
+      "published": "Thu, 01 Oct 2026 14:25:41 GMT",
+      "link": "https://www.medcom.id/hiburan/montase/8KyxYz2k-cerita-rieke-diah-pitaloka-ditelepon-nikita-mirzani-dari-penjara-tolong-saya"
     },
     {
-      "title": "Kemenkop Gandeng KMDT Dorong Pengembangan Ekonomi Berbasis Koperasi di Kawasan Danau Toba - Indonesiadaily.net",
+      "title": "BPKN Bidik Kurator MCP, Telusuri Aliran Dana Rp 87 Miliar - Malang Posco Media",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 14:20:00 GMT",
+      "link": "https://malangposcomedia.id/bpkn-bidik-kurator-mcp-telusuri-aliran-dana-rp-87-miliar/"
+    },
+    {
+      "title": "Kemenkop Gandeng KMDT, Ekonomi Danau Toba Dipacu Lewat Koperasi - Editor Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 10:42:06 GMT",
-      "link": "https://indonesiadaily.net/2026/10/kemenkop-gandeng-kmdt-dorong-pengembangan-ekonomi-berbasis-koperasi-di-kawasan-danau-toba/"
+      "published": "Thu, 01 Oct 2026 14:03:51 GMT",
+      "link": "https://editorindonesia.com/kemenkop-kmdt-ekonomi-danau-toba/"
     },
     {
-      "title": "Danantara Siap Ambil 5-10% Saham Bursa, BEI: Belum Pengajuan - Validnews",
-      "entity": "Danantara",
+      "title": "Kemenkop Gaet KMDT Kembangkan Ekonomi Berbasis Koperasi di Danau Toba - detikNews",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 10:28:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/10/01/danantara-siap-ambil-5-10-saham-bursa-bei-belum-pengajuan-172800244"
+      "published": "Thu, 01 Oct 2026 13:53:05 GMT",
+      "link": "https://news.detik.com/berita/d-8688502/kemenkop-gaet-kmdt-kembangkan-ekonomi-berbasis-koperasi-di-danau-toba"
     },
     {
-      "title": "BPI Danantara Lanjutkan Pembangunan Proyek LRT City Hari Ini - jurnas.com",
-      "entity": "Danantara",
+      "title": "KPPU Dorong Mahasiswa Pahami Persaingan Usaha untuk Bangun Ekonomi Berdaya Saing - KilasJatim.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 09:35:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1666421/bpi-danantara-lanjutkan-pembangunan-proyek-lrt-city-hari-ini/"
+      "published": "Thu, 01 Oct 2026 13:40:02 GMT",
+      "link": "https://kilasjatim.com/2026/10/01/kppu-dorong-mahasiswa-pahami-persaingan-usaha-untuk-bangun-ekonomi-berdaya-saing/"
     },
     {
-      "title": "Kawendra Lukistian Masuk Jajaran Bendahara PBNU 2026-2031, Usung Misi Transparansi Anggaran - PANTURA7.com",
+      "title": "BPKN: Pelaku usaha patuhi aturan Wajib Halal demi jaga kepercayaan - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 13:36:56 GMT",
+      "link": "https://www.antaranews.com/berita/5767307/bpkn-pelaku-usaha-patuhi-aturan-wajib-halal-demi-jaga-kepercayaan"
+    },
+    {
+      "title": "Kawendra Lukistian Ditunjuk Jadi Bendahara PBNU 2026-2031 - khazanah.republika.co.id",
       "entity": "Kawendra Lukistian",
       "kind": "anggota",
-      "published": "Thu, 01 Oct 2026 09:34:26 GMT",
-      "link": "https://www.pantura7.com/2026/10/01/kawendra-lukistian-masuk-jajaran-bendahara-pbnu-2026-2031-usung-misi-transparansi-anggaran/"
+      "published": "Thu, 01 Oct 2026 13:17:13 GMT",
+      "link": "https://khazanah.republika.co.id/berita/tm8cwp484/kawendra-lukistian-ditunjuk-jadi-bendahara-pbnu-20262031"
     },
     {
-      "title": "Danantara Mau Kempit 10% Saham Bursa, Bos BEI Bilang Begini - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 09:20:05 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8688018/danantara-mau-kempit-10-saham-bursa-bos-bei-bilang-begini"
-    },
-    {
-      "title": "Menkop: Koperasi Segera Miliki Pabrik Minyak Goreng Sendiri - suarapemerintah.id",
+      "title": "Kemenkop Kolaborasi dengan KMDT Kembangkan Ekonomi Danau Toba - suaralandak.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 09:15:30 GMT",
-      "link": "https://suarapemerintah.id/2026/10/menkop-koperasi-segera-miliki-pabrik-minyak-goreng-sendiri/"
+      "published": "Thu, 01 Oct 2026 13:11:26 GMT",
+      "link": "https://www.suaralandak.co.id/kemenkop-kmdt-kolaborasi-ekonomi-danau-toba"
     },
     {
-      "title": "Upacara Hari Kesaktian Pancasila di Lingkungan Kemendag - Heta News",
-      "entity": "Kementerian Perdagangan",
+      "title": "Terombang-ambing 12 Tahun Tanpa Kepastian: Wawali Ali Muthohirin dan BPKN Gandeng Korban Kondotel MCP - malang-post.com",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 09:14:42 GMT",
-      "link": "https://www.hetanews.com/article/311371/upacara-hari-kesaktian-pancasila-di-lingkungan-kemendag"
+      "published": "Thu, 01 Oct 2026 12:53:56 GMT",
+      "link": "https://malang-post.com/2026/10/01/terombang-ambing-12-tahun-tanpa-kepastian-wawali-ali-muthohirin-dan-bpkn-gandeng-korban-kondotel-mcp/"
     },
     {
-      "title": "KPPU Setujui Perubahan Perilaku PT Hibernas Jaya dalam Perkara LPG 3 Kg - Hukumonline",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 09:09:54 GMT",
-      "link": "https://www.hukumonline.com/berita/a/kppu-setujui-perubahan-perilaku-pt-hibernas-jaya-dalam-perkara-lpg-3-kg-lt6abe20459f5a7/"
-    },
-    {
-      "title": "Bupati Sinjai Terima Silaturahmi PMO Kementerian Koperasi, Dukung Penguatan KDKMP - Pemerintah Kabupaten Sinjai",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 08:30:00 GMT",
-      "link": "https://protokol.sinjaikab.go.id/2026/10/bupati-sinjai-terima-silaturahmi-pmo.html"
-    },
-    {
-      "title": "Bos BEI Belum Terima Pengajuan Saham dari Danantara - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 01 Oct 2026 08:26:00 GMT",
-      "link": "https://investortrust.id/market/118055/bos-bei-belum-terima-pengajuan-saham-dari-danantara"
-    },
-    {
-      "title": "Resmi Gantikan Agus Gumiwang, Ini Profil Sarmuji yang Jabat Menteri Perindustrian Baru - InvestorTrust",
-      "entity": "Muhammad Sarmuji",
+      "title": "Kawendra Lukistian Resmi Jadi Bendahara PBNU, Siap Berkhidmah untuk NU dan Masyarakat - fraksi gerindra dpr-ri",
+      "entity": "Kawendra Lukistian",
       "kind": "anggota",
-      "published": "Thu, 01 Oct 2026 08:20:00 GMT",
-      "link": "https://investortrust.id/national/118056/resmi-gantikan-agus-gumiwang-ini-profil-sarmuji-yang-jabat-menteri-perindustrian-baru"
+      "published": "Thu, 01 Oct 2026 12:27:14 GMT",
+      "link": "https://www.fraksigerindra.id/kawendra-lukistian-resmi-jadi-bendahara-pbnu-siap-berkhidmah-untuk-nu-dan-masyarakat/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Minta Kemenimipas Usut Tuntas Sindikat Lapas Cibinong! - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 01 Oct 2026 12:24:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-minta-kemenimipas-usut-tuntas-sindikat-lapas-cibinong-b2qc8Zbisc"
+    },
+    {
+      "title": "Pastikan Kesesuaian Lapangan, Pemkab Trenggalek Verifikasi 55 Lokasi Koperasi Desa Merah Putih - Serayu Nusantara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 01 Oct 2026 12:11:14 GMT",
+      "link": "https://serayunusantara.com/pastikan-kesesuaian-lapangan-pemkab-trenggalek-verifikasi-55-lokasi-koperasi-desa-merah-putih/"
     }
   ]
 }
