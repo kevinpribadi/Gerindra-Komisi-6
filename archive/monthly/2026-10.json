@@ -1,20 +1,20 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-02T08:22:16.756924",
+  "generated_at": "2026-10-02T15:22:12.708161",
   "party_counts_7d": {
     "Gerindra": 10,
-    "PDI-P": 31,
-    "Golkar": 18,
+    "PDI-P": 32,
+    "Golkar": 19,
     "NasDem": 2,
-    "PKB": 9,
-    "PKS": 13,
-    "PAN": 5,
+    "PKB": 7,
+    "PKS": 14,
+    "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 41,
     "PDI-P": 76,
-    "Golkar": 89,
+    "Golkar": 90,
     "NasDem": 23,
     "PKB": 49,
     "PKS": 69,
@@ -34,15 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 27,
+    "bumn": 53,
+    "danantara": 26,
     "dividen": 2,
     "koperasi": 51,
-    "ekspor": 6,
-    "perdagangan": 8,
-    "investasi": 13,
+    "perdagangan": 10,
+    "ekspor": 7,
+    "ipo": 2,
+    "investasi": 10,
     "impor": 15,
-    "merger-akuisisi": 4,
+    "merger-akuisisi": 5,
     "kartel-monopoli": 16,
     "umkm": 12
   },
@@ -53,14 +54,13 @@
     "Kawendra Lukistian": 10,
     "Unru Baso": 1,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 13,
+    "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 19,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 4,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 9,
-    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 4,
     "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 2,
@@ -69,7 +69,7 @@
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 19,
+    "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 9,
     "I Nengah Senantara": 12,
@@ -87,117 +87,117 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 55,
-    "Perdagangan": 34,
-    "Hukum/Audit": 14,
+    "Kinerja BUMN": 17,
+    "Koperasi/UMKM": 56,
+    "Perdagangan": 36,
+    "Hukum/Audit": 15,
     "Konflik Publik": 8
   },
   "top_headlines": [
     {
-      "title": "Harga Referensi CPO Oktober 2026 Tembus USD 1.042,15/MT, Kemendag Tetapkan Bea Keluar dan Pungutan Ekspor Baru - Sawit Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 08:09:02 GMT",
-      "link": "https://sawitindonesia.com/harga-referensi-cpo-oktober-2026-tembus-usd-1-042-15-mt-kemendag-tetapkan-bea-keluar-dan-pungutan-ekspor-baru"
-    },
-    {
-      "title": "Asuransi BUMN Bakal Ramping, Aksi Merger Rampung Akhir Tahun - CNBC Indonesia",
+      "title": "Laporan Keuangan Danantara segera Dirilis, Dony Oskaria Janji Bulan Ini Selesai - VIVA.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 08:05:40 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261002141840-17-772908/asuransi-bumn-bakal-ramping-aksi-merger-rampung-akhir-tahun"
+      "published": "Fri, 02 Oct 2026 15:10:55 GMT",
+      "link": "https://www.viva.co.id/bisnis/1932788-laporan-keuangan-danantara-segera-dirilis-dony-oskaria-janji-bulan-ini-selesai"
     },
     {
-      "title": "KPPU Kanwil I Dorong Penguatan Tata Kelola Pengadaan melalui FKP BPBJ Riau - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 07:46:45 GMT",
-      "link": "https://rri.co.id/pekanbaru/regional/2782578/kppu-kanwil-i-dorong-penguatan-tata-kelola-pengadaan-melalui-fkp-bpbj-riau"
-    },
-    {
-      "title": "Laporan Keuangan Danantara Ditargetkan Rampung Bulan Ini - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 07:41:02 GMT",
-      "link": "https://infobanknews.com/laporan-keuangan-danantara-ditargetkan-rampung-bulan-ini"
-    },
-    {
-      "title": "Ekspor Agustus 2026 Tembus USD 26,61 Miliar, Mendag Busan: Manufaktur Jadi Motor Utama - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 07:03:00 GMT",
-      "link": "https://www.topbusiness.id/137404/ekspor-agustus-2026-tembus-usd-2661-miliar-mendag-busan-manufaktur-jadi-motor-utama.html"
-    },
-    {
-      "title": "Soal Transformasi BUMN, Dony Oskaria: It’s Now or Never - Kompas.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 06:42:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/02/134220726/soal-transformasi-bumn-dony-oskaria-its-now-or-never"
-    },
-    {
-      "title": "Kemendag Naikkan Harga Referensi Minyak Sawit Oktober 2026 - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 06:39:21 GMT",
-      "link": "https://demokratis.co.id/kemendag-naikkan-harga-referensi-sawit"
-    },
-    {
-      "title": "Danantara target rilis laporan keuangan bulan ini - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 06:38:12 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5768237/danantara-target-rilis-laporan-keuangan-bulan-ini"
-    },
-    {
-      "title": "Danantara Targetkan Jumlah BUMN Berkurang Menjadi 200 Perusahaan - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 05:54:13 GMT",
-      "link": "https://demokratis.co.id/danantara-targetkan-bumn-berkurang-200-perusahaan"
-    },
-    {
-      "title": "Kusuma Judi Leksono Berpotensi Isi Kursi DPR yang Ditinggalkan Sarmuji - SINDOnews Nasional",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Fri, 02 Oct 2026 05:25:29 GMT",
-      "link": "https://nasional.sindonews.com/newsread/1756133/12/kusuma-judi-leksono-berpotensi-isi-kursi-dpr-yang-ditinggalkan-sarmuji-1790917832"
-    },
-    {
-      "title": "Siapa Pengganti Sarmuji di DPR Setelah Resmi Dilantik Jadi Menteri? - inilah.com",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Fri, 02 Oct 2026 05:25:00 GMT",
-      "link": "https://www.inilah.com/siapa-pengganti-sarmuji-di-dpr-setelah-resmi-dilantik-jadi-menteri"
-    },
-    {
-      "title": "Pemkab mulai verifikasi kelayakan 58 KDMP di Aceh Jaya - ANTARA News Aceh",
+      "title": "Peresmian Koperasi Ekspor Merah Putih dan Pengukuhan MES Jateng - indoposco",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 05:20:05 GMT",
-      "link": "https://aceh.antaranews.com/berita/411632/pemkab-mulai-verifikasi-kelayakan-58-kdmp-di-aceh-jaya"
+      "published": "Fri, 02 Oct 2026 15:02:32 GMT",
+      "link": "https://indoposco.id/2026/10/02/peresmian-koperasi-ekspor-merah-putih-dan-pengukuhan-mes-jateng/"
     },
     {
-      "title": "Ekspor Tembus US$26,61 Miliar Agustus 2026, Mendag: Perdagangan RI Tetap Ekspansif - Bisnis.com - Ekonomi",
+      "title": "Aspek Perlindungan Konsumen Harus Jadi Prioritas dalam Penyelesaian Masalah Pindar-KPPU - VIVA.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 14:00:00 GMT",
+      "link": "https://www.viva.co.id/bisnis/1932702-aspek-perlindungan-konsumen-harus-jadi-prioritas-dalam-penyelesaian-masalah-pindar-kppu"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Soroti Overkapasitas Hingga Dugaan Pelanggaran Lapas - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 02 Oct 2026 13:43:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-soroti-overkapasitas-hingga-dugaan-pelanggaran-lapas-b2qc9ZbitX"
+    },
+    {
+      "title": "Danantara Beli Hotel 1.400 Kamar dan akan Bangun 13 Tower di Kampung Haji Makkah - republika.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 13:42:30 GMT",
+      "link": "https://rejogja.republika.co.id/berita/tma8qu282/danantara-beli-hotel-1400-kamar-dan-akan-bangun-13-tower-di-kampung-haji-makkah"
+    },
+    {
+      "title": "Pemkab Sinjai Tuntaskan Verifikasi dan Validasi Fasilitas 35 KDKMP - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 13:35:00 GMT",
+      "link": "https://rri.co.id/bone/asta-cita/2783315/pemkab-sinjai-tuntaskan-verifikasi-dan-validasi-fasilitas-35-kdkmp"
+    },
+    {
+      "title": "INACA Dorong Insentif Lintas Kementerian untuk Tekan Tarif Tiket Pesawat Libur Nataru - kontan.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 04:52:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261002/12/2009199/ekspor-tembus-us2661-miliar-agustus-2026-mendag-perdagangan-ri-tetap-ekspansif"
+      "published": "Fri, 02 Oct 2026 13:23:18 GMT",
+      "link": "https://industri.kontan.co.id/news/inaca-dorong-insentif-lintas-kementerian-untuk-tekan-tarif-tiket-pesawat-libur-nataru"
     },
     {
-      "title": "Ekspor Agustus 2026 Tembus USD26,6 Miliar, Manufaktur Jadi Motor Utama? - KabarBursa.com",
+      "title": "Ekspor Agustus 2026 Tembus US$26,61 Miliar, Neraca Perdagangan Indonesia Lanjut Surplus - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 04:46:16 GMT",
-      "link": "https://www.kabarbursa.com/market-hari-ini/ekspor-agustus-2026-tembus-usd266-miliar-manufaktur-jadi-motor-utama"
+      "published": "Fri, 02 Oct 2026 12:30:00 GMT",
+      "link": "https://swa.co.id/read/477973/ekspor-agustus-2026-tembus-us2661-miliar-neraca-perdagangan-indonesia-lanjut-surplus"
     },
     {
-      "title": "Sempat Tertunda karena Faktor Kesehatan, Eks Kepala BP Karimun Cendra Akhirnya Dieksekusi ke Lapas Batam - Gotvnews",
-      "entity": "BP Batam",
+      "title": "SMAN 3 Sumbawa Ukir Prestasi di Puncak Harkop 79, Juara 1 Kemah Bakti Koperasi - Samawa Rea",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 04:44:17 GMT",
-      "link": "https://gotvnews.co.id/sempat-tertunda-karena-faktor-kesehatan-eks-kepala-bp-karimun-cendra-akhirnya-dieksekusi-ke-lapas-batam/"
+      "published": "Fri, 02 Oct 2026 12:13:36 GMT",
+      "link": "https://www.samawarea.com/2026/10/sman-3-sumbawa-ukir-prestasi-di-puncak-harkop-79-juara-1-kemah-bakti-koperasi/"
+    },
+    {
+      "title": "Meniti Jalan Penyehatan Emiten Pelat Merah Jelang 2 Tahun Danantara - Bisnis Indonesia Premium",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 11:10:00 GMT",
+      "link": "https://premium.bisnis.com/read/20261002/656/2009282/meniti-jalan-penyehatan-emiten-pelat-merah-jelang-2-tahun-danantara"
+    },
+    {
+      "title": "Soroti Sinergi BSI-BSN, Adisatrya Suryo: Akses Pembiayaan Produktif Perlu Diperluas - DPR RI",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Fri, 02 Oct 2026 10:52:32 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-Sinergi-BSI-BSN-Adisatrya-Suryo-Akses-Pembiayaan-Produktif-Perlu-Diperluas-69716"
+    },
+    {
+      "title": "Danantara Utamakan Merger 4 BUMN Karya, WIKA dan Waskita Direstrukturisasi - jurnas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 10:35:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1666486/danantara-utamakan-merger-4-bumn-karya-wika-dan-waskita-direstrukturisasi/"
+    },
+    {
+      "title": "Update Merger BUMN Karya, Perusahaan Ini Lebih Dulu Digabung - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 10:30:01 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261002152139-17-772926/update-merger-bumn-karya-perusahaan-ini-lebih-dulu-digabung"
+    },
+    {
+      "title": "Pemangkasan BUMN Ditargetkan Sisa 200 Perusahaan Tahun Ini - SINDOnews Ekbis",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 10:24:38 GMT",
+      "link": "https://ekbis.sindonews.com/newsread/1756261/34/pemangkasan-bumn-ditargetkan-sisa-200-perusahaan-tahun-ini-1790935855"
+    },
+    {
+      "title": "Pemangkasan BUMN Ditargetkan Sisa 200 Perusahaan Tahun Ini - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 10:24:38 GMT",
+      "link": "https://m.rctiplus.com/news/detail/ekonomi/5485420/pemangkasan-bumn-ditargetkan-sisa-200-perusahaan-tahun-ini?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5485420"
     }
   ]
 }
