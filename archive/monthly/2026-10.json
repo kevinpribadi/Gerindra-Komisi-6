@@ -1,21 +1,21 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-03T06:01:05.460559",
+  "generated_at": "2026-10-03T12:12:38.813784",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 33,
-    "Golkar": 18,
+    "Golkar": 17,
     "NasDem": 3,
     "PKB": 5,
-    "PKS": 12,
+    "PKS": 10,
     "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 41,
-    "PDI-P": 77,
+    "Gerindra": 38,
+    "PDI-P": 75,
     "Golkar": 90,
-    "NasDem": 23,
+    "NasDem": 22,
     "PKB": 49,
     "PKS": 70,
     "PAN": 17,
@@ -38,23 +38,23 @@
     "danantara": 26,
     "dividen": 2,
     "koperasi": 51,
+    "impor": 18,
     "perdagangan": 11,
-    "impor": 17,
-    "ekspor": 7,
+    "ekspor": 6,
     "ipo": 2,
     "merger-akuisisi": 6,
     "investasi": 12,
     "kartel-monopoli": 16,
-    "umkm": 12
+    "umkm": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Muhammad Husein Fadlulloh": 1,
-    "Mulan Jameela": 4,
-    "Kawendra Lukistian": 10,
+    "Mulan Jameela": 3,
+    "Kawendra Lukistian": 9,
     "Unru Baso": 1,
-    "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 15,
+    "Mulyadi": 4,
+    "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 18,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
@@ -71,7 +71,7 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 2,
-    "Asep Wahyuwijaya": 8,
+    "Asep Wahyuwijaya": 7,
     "I Nengah Senantara": 13,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
@@ -88,12 +88,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 59,
+    "Koperasi/UMKM": 57,
     "Perdagangan": 39,
     "Konflik Publik": 9,
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Koperasi Merah Putih Bukan Ritel Modern, tapi Jalur Subsidi Rakyat - Minews ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 10:38:04 GMT",
+      "link": "https://minews.id/cuitan-mi/koperasi-merah-putih-bukan-ritel-modern-tapi-jalur-subsidi-rakyat"
+    },
+    {
+      "title": "KAI Akan Mendatangkan KRL Bekas Asal Jepang, Usianya Dibawah 20 Tahun - bisnisnews.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 10:21:00 GMT",
+      "link": "https://bisnisnews.id/detail/berita/kai-akan--mendatangkan-krl-bekas-asal-jepang-usianya--dibawah-20-tahun"
+    },
+    {
+      "title": "Mendag Tegaskan Pangan Bukan Instrumen Tekanan Geopolitik - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 10:15:00 GMT",
+      "link": "https://rri.co.id/nasional/2784570/mendag-tegaskan-pangan-bukan-instrumen-tekanan-geopolitik"
+    },
+    {
+      "title": "Kemendag Soroti Potensi Anak Muda Perkuat Brand Lokal - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 09:22:06 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tamf0bm-kemendag-soroti-potensi-anak-muda-perkuat-brand-lokal"
+    },
+    {
+      "title": "\"Counter-Attack\" RI dan Rusia, Reformasi WTO di G20 AS Kandas - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 07:38:14 GMT",
+      "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas?open_from=Terbaru_Page"
+    },
+    {
+      "title": "Rencana Impor KRL Bekas Terbentur Aturan Usia Kereta Kementerian Perdagangan - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 06:03:16 GMT",
+      "link": "https://demokratis.co.id/rencana-impor-krl-bekas-terbentur-aturan-kemendag"
+    },
     {
       "title": "Surplus Perdagangan Agustus 2026 Capai USD3,55 Miliar - RRI.co.id",
       "entity": "Kementerian Perdagangan",
@@ -156,48 +198,6 @@
       "kind": "anggota",
       "published": "Sat, 03 Oct 2026 02:00:00 GMT",
       "link": "https://www.lensamedan.co.id/2026/10/iuran-pensiun-diusulkan-naik-jadi-7-i.html"
-    },
-    {
-      "title": "Dorong Kesetaraan Ekonomi, Presiden Prabowo Instruksikan Koperasi Jadi Pilar Utama Sejajar BUMN dan Swasta - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 00:09:00 GMT",
-      "link": "https://www.beritakoperasi.com/dorong-kesetaraan-ekonomi-presiden-prabowo-instruksikan-koperasi-jadi-pilar-utama-sejajar-bumn-dan-swasta/"
-    },
-    {
-      "title": "Merger BUMN Asuransi Mulai Digodok - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 00:00:04 GMT",
-      "link": "https://finance.detik.com/moneter/d-8689961/merger-bumn-asuransi-mulai-digodok"
-    },
-    {
-      "title": "Menteri Perdagangan G20 Tolak Persoalan Pangan Dijadikan Alat Geopolitik - bisnistoday.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 23:17:00 GMT",
-      "link": "https://bisnistoday.co.id/menteri-perdagangan-g20-tolak-persoalan-pangan-dijadikan-alat-geopolitik/"
-    },
-    {
-      "title": "Laporan Keuangan Danantara segera Dirilis, Dony Oskaria Janji Bulan Ini Selesai - VIVA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 15:10:55 GMT",
-      "link": "https://www.viva.co.id/bisnis/1932788-laporan-keuangan-danantara-segera-dirilis-dony-oskaria-janji-bulan-ini-selesai"
-    },
-    {
-      "title": "Peresmian Koperasi Ekspor Merah Putih dan Pengukuhan MES Jateng - indoposco",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 15:02:32 GMT",
-      "link": "https://indoposco.id/2026/10/02/peresmian-koperasi-ekspor-merah-putih-dan-pengukuhan-mes-jateng/"
-    },
-    {
-      "title": "Aspek Perlindungan Konsumen Harus Jadi Prioritas dalam Penyelesaian Masalah Pindar-KPPU - VIVA.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 14:00:00 GMT",
-      "link": "https://www.viva.co.id/bisnis/1932702-aspek-perlindungan-konsumen-harus-jadi-prioritas-dalam-penyelesaian-masalah-pindar-kppu"
     }
   ]
 }
