@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-03T19:43:15.450842",
+  "generated_at": "2026-10-03T22:39:43.087285",
   "party_counts_7d": {
     "Gerindra": 8,
     "PDI-P": 33,
@@ -40,10 +40,10 @@
     "koperasi": 50,
     "impor": 18,
     "perdagangan": 12,
-    "ekspor": 5,
+    "ekspor": 4,
     "ipo": 2,
     "merger-akuisisi": 7,
-    "investasi": 12,
+    "investasi": 11,
     "kartel-monopoli": 16,
     "umkm": 10
   },
@@ -89,11 +89,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 39,
+    "Perdagangan": 38,
     "Konflik Publik": 9,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "BPI Danantara dan Perannya sebagai Stabilitas Ekonomi Indonesia - Kedai Pena",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 20:17:18 GMT",
+      "link": "https://www.kedaipena.com/bpi-danantara-dan-perannya-sebagai-stabilitas-ekonomi-indonesia/"
+    },
+    {
+      "title": "Buyer dari 113 Negara dan 1.500 Ekshibitor Siap Berpartisipasi di TEI 2026 - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 19:32:30 GMT",
+      "link": "https://www.niaga.asia/buyer-dari-113-negara-dan-1-500-ekshibitor-siap-berpartisipasi-di-tei-2026/"
+    },
     {
       "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
@@ -107,6 +121,13 @@
       "kind": "lembaga",
       "published": "Sat, 03 Oct 2026 16:31:43 GMT",
       "link": "https://www.metrobatam.com/2026/10/bp-batam-perkuat-layanan-perizinan-bagi-pelaku-usaha-di-jakarta/"
+    },
+    {
+      "title": "Koperasi Merah Putih Bukan Ritel Modern, tapi Jalur Subsidi Rakyat - PT Suara Dewata Media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 16:31:07 GMT",
+      "link": "https://www.suaradewata.com/berita/202405218041/koperasi-merah-putih-bukan-ritel-modern-tapi-jalur-subsidi-rakyat"
     },
     {
       "title": "Mendag Dorong \"Special Safeguard Mechanism\" bagi Negara Berkembang di WTO - RRI.co.id",
@@ -177,27 +198,6 @@
       "kind": "lembaga",
       "published": "Sat, 03 Oct 2026 07:38:14 GMT",
       "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas"
-    },
-    {
-      "title": "Rencana Impor KRL Bekas Terbentur Aturan Usia Kereta Kementerian Perdagangan - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 06:03:16 GMT",
-      "link": "https://demokratis.co.id/rencana-impor-krl-bekas-terbentur-aturan-kemendag"
-    },
-    {
-      "title": "Surplus Perdagangan Agustus 2026 Capai USD3,55 Miliar - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 05:09:00 GMT",
-      "link": "https://rri.co.id/ekonomi/makro/2784127/surplus-perdagangan-agustus-2026-capai-usd355-miliar"
-    },
-    {
-      "title": "Pembiayaan Produktif Perbankan Syariah, DPR Warning BSI-BSN - harapanrakyat.com",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sat, 03 Oct 2026 05:02:38 GMT",
-      "link": "https://www.harapanrakyat.com/2026/10/pembiayaan-produktif-perbankan-syariah-dpr-warning-bsi-bsn/"
     }
   ]
 }
