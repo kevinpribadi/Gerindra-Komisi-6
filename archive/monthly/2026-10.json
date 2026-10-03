@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-03T00:09:09.035919",
+  "generated_at": "2026-10-03T06:01:05.460559",
   "party_counts_7d": {
     "Gerindra": 10,
     "PDI-P": 33,
     "Golkar": 18,
-    "NasDem": 2,
+    "NasDem": 3,
     "PKB": 5,
-    "PKS": 14,
+    "PKS": 12,
     "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 41,
-    "PDI-P": 78,
+    "PDI-P": 77,
     "Golkar": 90,
     "NasDem": 23,
     "PKB": 49,
-    "PKS": 69,
+    "PKS": 70,
     "PAN": 17,
     "Demokrat": 15
   },
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
+    "bumn": 55,
     "danantara": 26,
     "dividen": 2,
     "koperasi": 51,
-    "perdagangan": 10,
+    "perdagangan": 11,
+    "impor": 17,
     "ekspor": 7,
     "ipo": 2,
-    "investasi": 11,
-    "impor": 16,
-    "merger-akuisisi": 4,
+    "merger-akuisisi": 6,
+    "investasi": 12,
     "kartel-monopoli": 16,
     "umkm": 12
   },
@@ -54,13 +54,13 @@
     "Kawendra Lukistian": 10,
     "Unru Baso": 1,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 14,
-    "Mufti Anam": 19,
+    "Adisatrya Suryo Sulisto": 15,
+    "Mufti Anam": 18,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 4,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 9,
     "Totok Hedi Santosa": 5,
     "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 2,
@@ -71,15 +71,15 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 2,
-    "Asep Wahyuwijaya": 9,
-    "I Nengah Senantara": 12,
+    "Asep Wahyuwijaya": 8,
+    "I Nengah Senantara": 13,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 14,
+    "Ghufran": 15,
     "Ismail": 15,
     "Nasril Bahar": 5,
     "Iskandar": 12,
@@ -88,12 +88,96 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 37,
-    "Hukum/Audit": 15,
-    "Konflik Publik": 8
+    "Koperasi/UMKM": 59,
+    "Perdagangan": 39,
+    "Konflik Publik": 9,
+    "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Surplus Perdagangan Agustus 2026 Capai USD3,55 Miliar - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 05:09:00 GMT",
+      "link": "https://rri.co.id/ekonomi/makro/2784127/surplus-perdagangan-agustus-2026-capai-usd355-miliar"
+    },
+    {
+      "title": "Pembiayaan Produktif Perbankan Syariah, DPR Warning BSI-BSN - harapanrakyat.com",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sat, 03 Oct 2026 05:02:38 GMT",
+      "link": "https://www.harapanrakyat.com/2026/10/pembiayaan-produktif-perbankan-syariah-dpr-warning-bsi-bsn/"
+    },
+    {
+      "title": "Impor KRL Bekas Terganjal Usia Kereta - ekonomi.bisnis.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 05:00:26 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261003/98/2009402/impor-krl-bekas-terganjal-usia-kereta"
+    },
+    {
+      "title": "159 Kopdes Merah Putih Se-Kalsel Diverifikasi - Kalimantan Post",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 04:38:03 GMT",
+      "link": "https://kalimantanpost.com/2026/10/159-kopdes-merah-putih-se-kalsel-diverifikasi/"
+    },
+    {
+      "title": "Danantara Targetkan Merger BUMN Asuransi dan Karya Rampung 2026 - Demokratis.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 04:30:04 GMT",
+      "link": "https://demokratis.co.id/danantara-targetkan-merger-bumn-asuransi-karya-2026"
+    },
+    {
+      "title": "Menkeu Suahasil: Presiden Berpesan agar Kredibilitas APBN Terus Dijaga dan Danantara Jadi Lengan Investasi - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 04:23:00 GMT",
+      "link": "https://investortrust.id/macro/118246/menkeu-suahasil-presiden-berpesan-agar-kredibilitas-apbn-terus-dijaga-dan-danantara-jadi-lengan-investasi"
+    },
+    {
+      "title": "Impor KRL Jepang: Antara Kebutuhan KAI vs Kapasitas INKA - Bloomberg Technoz",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 03:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/123518/impor-krl-jepang-antara-kebutuhan-kai-vs-kapasitas-inka"
+    },
+    {
+      "title": "Berita Indonesia terkini politik, ekonomi, megapolitan , senayan, nasional balaikota, olahraga, lifestyle dan hiburan ditulis lengkap dan mendalam. - radarnonstop.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 02:28:50 GMT",
+      "link": "https://m.radarnonstop.co/read/62463/Asuransi-BUMN-Diobok-obok-16-Perusahaan-Bakal-Tinggal-3"
+    },
+    {
+      "title": "Iuran Pensiun Diusulkan Naik Jadi 7%, I Nengah: Ingat Kondisi Ekonomi - lensamedan.co.id",
+      "entity": "I Nengah Senantara",
+      "kind": "anggota",
+      "published": "Sat, 03 Oct 2026 02:00:00 GMT",
+      "link": "https://www.lensamedan.co.id/2026/10/iuran-pensiun-diusulkan-naik-jadi-7-i.html"
+    },
+    {
+      "title": "Dorong Kesetaraan Ekonomi, Presiden Prabowo Instruksikan Koperasi Jadi Pilar Utama Sejajar BUMN dan Swasta - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 00:09:00 GMT",
+      "link": "https://www.beritakoperasi.com/dorong-kesetaraan-ekonomi-presiden-prabowo-instruksikan-koperasi-jadi-pilar-utama-sejajar-bumn-dan-swasta/"
+    },
+    {
+      "title": "Merger BUMN Asuransi Mulai Digodok - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 00:00:04 GMT",
+      "link": "https://finance.detik.com/moneter/d-8689961/merger-bumn-asuransi-mulai-digodok"
+    },
+    {
+      "title": "Menteri Perdagangan G20 Tolak Persoalan Pangan Dijadikan Alat Geopolitik - bisnistoday.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 02 Oct 2026 23:17:00 GMT",
+      "link": "https://bisnistoday.co.id/menteri-perdagangan-g20-tolak-persoalan-pangan-dijadikan-alat-geopolitik/"
+    },
     {
       "title": "Laporan Keuangan Danantara segera Dirilis, Dony Oskaria Janji Bulan Ini Selesai - VIVA.co.id",
       "entity": "Danantara",
@@ -114,90 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 02 Oct 2026 14:00:00 GMT",
       "link": "https://www.viva.co.id/bisnis/1932702-aspek-perlindungan-konsumen-harus-jadi-prioritas-dalam-penyelesaian-masalah-pindar-kppu"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Soroti Overkapasitas Hingga Dugaan Pelanggaran Lapas - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 02 Oct 2026 13:43:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-soroti-overkapasitas-hingga-dugaan-pelanggaran-lapas-b2qc9ZbitX"
-    },
-    {
-      "title": "Danantara Beli Hotel 1.400 Kamar dan akan Bangun 13 Tower di Kampung Haji Makkah - republika.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 13:42:30 GMT",
-      "link": "https://rejogja.republika.co.id/berita/tma8qu282/danantara-beli-hotel-1400-kamar-dan-akan-bangun-13-tower-di-kampung-haji-makkah"
-    },
-    {
-      "title": "Pemkab Sinjai Tuntaskan Verifikasi dan Validasi Fasilitas 35 KDKMP - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 13:35:00 GMT",
-      "link": "https://rri.co.id/bone/asta-cita/2783315/pemkab-sinjai-tuntaskan-verifikasi-dan-validasi-fasilitas-35-kdkmp"
-    },
-    {
-      "title": "INACA Dorong Insentif Lintas Kementerian untuk Tekan Tarif Tiket Pesawat Libur Nataru - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 13:23:18 GMT",
-      "link": "https://industri.kontan.co.id/news/inaca-dorong-insentif-lintas-kementerian-untuk-tekan-tarif-tiket-pesawat-libur-nataru"
-    },
-    {
-      "title": "Sebanyak 159 Koperasi Desa/Kelurahan Merah Putih di Kalsel Lolos Verifikasi - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 12:32:00 GMT",
-      "link": "https://rri.co.id/banjarmasin/asta-cita/2783289/sebanyak-159-koperasi-desakelurahan-merah-putih-di-kalsel-lolos-verifikasi"
-    },
-    {
-      "title": "Ekspor Agustus 2026 Tembus US$26,61 Miliar, Neraca Perdagangan Indonesia Lanjut Surplus - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 12:30:00 GMT",
-      "link": "https://swa.co.id/read/477973/ekspor-agustus-2026-tembus-us2661-miliar-neraca-perdagangan-indonesia-lanjut-surplus"
-    },
-    {
-      "title": "SMAN 3 Sumbawa Ukir Prestasi di Puncak Harkop 79, Juara 1 Kemah Bakti Koperasi - Samawa Rea",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 12:13:36 GMT",
-      "link": "https://www.samawarea.com/2026/10/sman-3-sumbawa-ukir-prestasi-di-puncak-harkop-79-juara-1-kemah-bakti-koperasi/"
-    },
-    {
-      "title": "Meniti Jalan Penyehatan Emiten Pelat Merah Jelang 2 Tahun Danantara - Bisnis Indonesia Premium",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 11:10:00 GMT",
-      "link": "https://premium.bisnis.com/read/20261002/656/2009282/meniti-jalan-penyehatan-emiten-pelat-merah-jelang-2-tahun-danantara"
-    },
-    {
-      "title": "Soroti Sinergi BSI-BSN, Adisatrya Suryo: Akses Pembiayaan Produktif Perlu Diperluas - DPR RI",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Fri, 02 Oct 2026 10:52:32 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Soroti-Sinergi-BSI-BSN-Adisatrya-Suryo-Akses-Pembiayaan-Produktif-Perlu-Diperluas-69716"
-    },
-    {
-      "title": "Danantara Utamakan Merger 4 BUMN Karya, WIKA dan Waskita Direstrukturisasi - jurnas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 10:35:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1666486/danantara-utamakan-merger-4-bumn-karya-wika-dan-waskita-direstrukturisasi/"
-    },
-    {
-      "title": "Update Merger BUMN Karya, Perusahaan Ini Lebih Dulu Digabung - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 10:30:01 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261002152139-17-772926/update-merger-bumn-karya-perusahaan-ini-lebih-dulu-digabung"
-    },
-    {
-      "title": "Pemangkasan BUMN Ditargetkan Sisa 200 Perusahaan Tahun Ini - SINDOnews Ekbis",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 02 Oct 2026 10:24:38 GMT",
-      "link": "https://ekbis.sindonews.com/newsread/1756261/34/pemangkasan-bumn-ditargetkan-sisa-200-perusahaan-tahun-ini-1790935855"
     }
   ]
 }
