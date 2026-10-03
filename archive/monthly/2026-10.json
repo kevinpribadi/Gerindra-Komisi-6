@@ -1,8 +1,8 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-03T12:12:38.813784",
+  "generated_at": "2026-10-03T16:58:07.801905",
   "party_counts_7d": {
-    "Gerindra": 10,
+    "Gerindra": 9,
     "PDI-P": 33,
     "Golkar": 17,
     "NasDem": 3,
@@ -13,9 +13,9 @@
   },
   "party_counts_30d": {
     "Gerindra": 38,
-    "PDI-P": 75,
+    "PDI-P": 74,
     "Golkar": 90,
-    "NasDem": 22,
+    "NasDem": 21,
     "PKB": 49,
     "PKS": 70,
     "PAN": 17,
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 55,
-    "danantara": 26,
+    "danantara": 27,
     "dividen": 2,
     "koperasi": 51,
     "impor": 18,
     "perdagangan": 11,
-    "ekspor": 6,
+    "ekspor": 5,
     "ipo": 2,
-    "merger-akuisisi": 6,
+    "merger-akuisisi": 7,
     "investasi": 12,
     "kartel-monopoli": 16,
     "umkm": 10
@@ -55,7 +55,7 @@
     "Unru Baso": 1,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 13,
-    "Mufti Anam": 18,
+    "Mufti Anam": 17,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 4,
@@ -71,7 +71,7 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Rachmat Gobel": 2,
-    "Asep Wahyuwijaya": 7,
+    "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 13,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
@@ -87,13 +87,41 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 16,
+    "Kinerja BUMN": 17,
     "Koperasi/UMKM": 57,
     "Perdagangan": 39,
     "Konflik Publik": 9,
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Perkuat Layanan Perizinan bagi Pelaku Usaha di Jakarta - metrobatam.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 16:31:43 GMT",
+      "link": "https://www.metrobatam.com/2026/10/bp-batam-perkuat-layanan-perizinan-bagi-pelaku-usaha-di-jakarta/"
+    },
+    {
+      "title": "Mendag Dorong \"Special Safeguard Mechanism\" bagi Negara Berkembang di WTO - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 16:20:00 GMT",
+      "link": "https://rri.co.id/internasional/2784669/mendag-dorong-special-safeguard-mechanism-bagi-negara-berkembang-di-wto"
+    },
+    {
+      "title": "6 Oktober, Menteri Koperasi Jadi Tamu Spesial pada Kuliah Umum di Universitas Sisingamangaraja XII Tapanuli Serta Resmikan KDMP Sejahtera di Porsea - HarianSIB.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 14:05:00 GMT",
+      "link": "https://www.hariansib.com/Marsipature-Hutanabe/450736/6-oktober-menteri-koperasi-jadi-tamu-spesial-pada-kuliah-umum-di-universitas-sisingamangaraja-xii-tapanuli-serta-resmikan-kdmp-sejahtera-di-porsea/"
+    },
+    {
+      "title": "Jamintel Reda Manthovani Menerima Penghargaan Bakti Koperasi Pradana Nayaka dalam Koperasi Awards 2026 - kejaksaan.go.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 11:25:07 GMT",
+      "link": "https://www.kejaksaan.go.id/index.php/conference/news/14052/read"
+    },
     {
       "title": "Koperasi Merah Putih Bukan Ritel Modern, tapi Jalur Subsidi Rakyat - Minews ID",
       "entity": "Kementerian Koperasi",
@@ -116,6 +144,13 @@
       "link": "https://rri.co.id/nasional/2784570/mendag-tegaskan-pangan-bukan-instrumen-tekanan-geopolitik"
     },
     {
+      "title": "Danantara Kebut Merger dan Restrukturisasi BUMN - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 10:10:38 GMT",
+      "link": "https://www.metrotvnews.com/play/N0BCg2WL-danantara-kebut-merger-dan-restrukturisasi-bumn"
+    },
+    {
       "title": "Kemendag Soroti Potensi Anak Muda Perkuat Brand Lokal - TVRI News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -128,6 +163,13 @@
       "kind": "lembaga",
       "published": "Sat, 03 Oct 2026 07:38:14 GMT",
       "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas?open_from=Terbaru_Page"
+    },
+    {
+      "title": "”Counter-attack” RI dan Rusia, Reformasi WTO di G20 AS Kandas - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 07:38:14 GMT",
+      "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas"
     },
     {
       "title": "Rencana Impor KRL Bekas Terbentur Aturan Usia Kereta Kementerian Perdagangan - Demokratis.co.id",
@@ -156,48 +198,6 @@
       "kind": "lembaga",
       "published": "Sat, 03 Oct 2026 05:00:26 GMT",
       "link": "https://ekonomi.bisnis.com/read/20261003/98/2009402/impor-krl-bekas-terganjal-usia-kereta"
-    },
-    {
-      "title": "159 Kopdes Merah Putih Se-Kalsel Diverifikasi - Kalimantan Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 04:38:03 GMT",
-      "link": "https://kalimantanpost.com/2026/10/159-kopdes-merah-putih-se-kalsel-diverifikasi/"
-    },
-    {
-      "title": "Danantara Targetkan Merger BUMN Asuransi dan Karya Rampung 2026 - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 04:30:04 GMT",
-      "link": "https://demokratis.co.id/danantara-targetkan-merger-bumn-asuransi-karya-2026"
-    },
-    {
-      "title": "Menkeu Suahasil: Presiden Berpesan agar Kredibilitas APBN Terus Dijaga dan Danantara Jadi Lengan Investasi - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 04:23:00 GMT",
-      "link": "https://investortrust.id/macro/118246/menkeu-suahasil-presiden-berpesan-agar-kredibilitas-apbn-terus-dijaga-dan-danantara-jadi-lengan-investasi"
-    },
-    {
-      "title": "Impor KRL Jepang: Antara Kebutuhan KAI vs Kapasitas INKA - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 03:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/123518/impor-krl-jepang-antara-kebutuhan-kai-vs-kapasitas-inka"
-    },
-    {
-      "title": "Berita Indonesia terkini politik, ekonomi, megapolitan , senayan, nasional balaikota, olahraga, lifestyle dan hiburan ditulis lengkap dan mendalam. - radarnonstop.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 02:28:50 GMT",
-      "link": "https://m.radarnonstop.co/read/62463/Asuransi-BUMN-Diobok-obok-16-Perusahaan-Bakal-Tinggal-3"
-    },
-    {
-      "title": "Iuran Pensiun Diusulkan Naik Jadi 7%, I Nengah: Ingat Kondisi Ekonomi - lensamedan.co.id",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Sat, 03 Oct 2026 02:00:00 GMT",
-      "link": "https://www.lensamedan.co.id/2026/10/iuran-pensiun-diusulkan-naik-jadi-7-i.html"
     }
   ]
 }
