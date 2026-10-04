@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-03T22:39:43.087285",
+  "generated_at": "2026-10-04T02:22:36.976772",
   "party_counts_7d": {
-    "Gerindra": 8,
-    "PDI-P": 33,
+    "Gerindra": 7,
+    "PDI-P": 34,
     "Golkar": 17,
     "NasDem": 3,
     "PKB": 5,
@@ -12,8 +12,8 @@
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 38,
-    "PDI-P": 75,
+    "Gerindra": 37,
+    "PDI-P": 76,
     "Golkar": 90,
     "NasDem": 21,
     "PKB": 49,
@@ -42,10 +42,10 @@
     "perdagangan": 12,
     "ekspor": 4,
     "ipo": 2,
+    "umkm": 11,
     "merger-akuisisi": 7,
     "investasi": 11,
-    "kartel-monopoli": 16,
-    "umkm": 10
+    "kartel-monopoli": 16
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -53,8 +53,8 @@
     "Mulan Jameela": 3,
     "Kawendra Lukistian": 9,
     "Unru Baso": 1,
-    "Mulyadi": 4,
-    "Adisatrya Suryo Sulisto": 14,
+    "Mulyadi": 3,
+    "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 17,
     "Darmadi Durianto": 4,
     "Rieke Diah Pitaloka": 20,
@@ -89,11 +89,53 @@
   "early_warning_counts": {
     "Kinerja BUMN": 17,
     "Koperasi/UMKM": 56,
-    "Perdagangan": 38,
+    "Perdagangan": 37,
     "Konflik Publik": 9,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "China meluncurkan investigasi anti-dumping terhadap bahan kimia Eropa. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 04 Oct 2026 02:09:56 GMT",
+      "link": "https://www.vietnam.vn/id/trung-quoc-dieu-tra-chong-ban-pha-gia-hoa-chat-chau-au"
+    },
+    {
+      "title": "Pro Kontra Kopdes: Pemberdayaan Ekonomi, Intervensi, Tata Kelola Halaman 1 - Kompasiana.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 04 Oct 2026 01:59:54 GMT",
+      "link": "https://www.kompasiana.com/fajarraharjo0407/6ac1b31aed64157b704e06fc/pro-kontra-kopdes-pemberdayaan-ekonomi-intervensi-tata-kelola"
+    },
+    {
+      "title": "BP Batam Perkuat Layanan Perizinan bagi Pelaku Usaha di Jakarta - Haluan Kepri - Haluan Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sun, 04 Oct 2026 01:29:51 GMT",
+      "link": "https://kepri.harianhaluan.com/daerah/1317714537/bp-batam-perkuat-layanan-perizinan-bagi-pelaku-usaha-di-jakarta"
+    },
+    {
+      "title": "IKA Fikom Unpad Bedah Keberhasilan Dua Tahun Danantara - rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 04 Oct 2026 00:44:00 GMT",
+      "link": "https://rmol.id/amp/2026/10/04/723822/ika-fikom-unpad-bedah-keberhasilan-dua-tahun-danantara-"
+    },
+    {
+      "title": "Pelaku Bisnis Diajak Dukung Ekosistem UMKM dan Koperasi - Media Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 23:54:43 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/940357/pelaku-bisnis-diajak-dukung-ekosistem-umkm-dan-koperasi"
+    },
+    {
+      "title": "Perluas Akses Pembiayaan, Adisatrya Suryo Dorong Penguatan Sinergi BSI-BSN - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sat, 03 Oct 2026 23:33:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/perluas-akses-pembiayaan-adisatrya-suryo-dorong-penguatan-sinergi-bsi-bsn-b2qcBZbivj"
+    },
     {
       "title": "BPI Danantara dan Perannya sebagai Stabilitas Ekonomi Indonesia - Kedai Pena",
       "entity": "Danantara",
@@ -144,60 +186,18 @@
       "link": "https://www.hariansib.com/Marsipature-Hutanabe/450736/6-oktober-menteri-koperasi-jadi-tamu-spesial-pada-kuliah-umum-di-universitas-sisingamangaraja-xii-tapanuli-serta-resmikan-kdmp-sejahtera-di-porsea/"
     },
     {
+      "title": "BPI Danantara dan Perannya sebagai Penyangga Stabilitas Ekonomi Indonesia - Batamtoday.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 03 Oct 2026 11:32:00 GMT",
+      "link": "https://batamtoday.com/news/bpi-danantara-dan-perannya-sebagai-penyangga-stabilitas-ekonomi-indonesia"
+    },
+    {
       "title": "Jamintel Reda Manthovani Menerima Penghargaan Bakti Koperasi Pradana Nayaka dalam Koperasi Awards 2026 - kejaksaan.go.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sat, 03 Oct 2026 11:25:07 GMT",
       "link": "https://www.kejaksaan.go.id/index.php/conference/news/14052/read"
-    },
-    {
-      "title": "Koperasi Merah Putih Bukan Ritel Modern, tapi Jalur Subsidi Rakyat - Minews ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 10:38:04 GMT",
-      "link": "https://minews.id/cuitan-mi/koperasi-merah-putih-bukan-ritel-modern-tapi-jalur-subsidi-rakyat"
-    },
-    {
-      "title": "KAI Akan Mendatangkan KRL Bekas Asal Jepang, Usianya Dibawah 20 Tahun - bisnisnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 10:21:00 GMT",
-      "link": "https://bisnisnews.id/detail/berita/kai-akan--mendatangkan-krl-bekas-asal-jepang-usianya--dibawah-20-tahun"
-    },
-    {
-      "title": "Mendag Tegaskan Pangan Bukan Instrumen Tekanan Geopolitik - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 10:15:00 GMT",
-      "link": "https://rri.co.id/nasional/2784570/mendag-tegaskan-pangan-bukan-instrumen-tekanan-geopolitik"
-    },
-    {
-      "title": "Danantara Kebut Merger dan Restrukturisasi BUMN - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 10:10:38 GMT",
-      "link": "https://www.metrotvnews.com/play/N0BCg2WL-danantara-kebut-merger-dan-restrukturisasi-bumn"
-    },
-    {
-      "title": "Kemendag Soroti Potensi Anak Muda Perkuat Brand Lokal - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 09:22:06 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tamf0bm-kemendag-soroti-potensi-anak-muda-perkuat-brand-lokal"
-    },
-    {
-      "title": "\"Counter-Attack\" RI dan Rusia, Reformasi WTO di G20 AS Kandas - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 07:38:14 GMT",
-      "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas?open_from=Terbaru_Page"
-    },
-    {
-      "title": "”Counter-attack” RI dan Rusia, Reformasi WTO di G20 AS Kandas - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 03 Oct 2026 07:38:14 GMT",
-      "link": "https://www.kompas.id/artikel/counter-attack-ri-dan-rusia-reformasi-wto-di-g20-as-kandas"
     }
   ]
 }
