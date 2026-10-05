@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-05T01:35:00.441769",
+  "generated_at": "2026-10-05T08:18:16.220734",
   "party_counts_7d": {
     "Gerindra": 6,
     "PDI-P": 33,
     "Golkar": 15,
-    "NasDem": 2,
-    "PKB": 6,
+    "NasDem": 1,
+    "PKB": 7,
     "PKS": 8,
-    "PAN": 3,
+    "PAN": 2,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 38,
-    "PDI-P": 75,
-    "Golkar": 92,
-    "NasDem": 21,
-    "PKB": 51,
+    "PDI-P": 71,
+    "Golkar": 91,
+    "NasDem": 17,
+    "PKB": 52,
     "PKS": 70,
-    "PAN": 17,
+    "PAN": 15,
     "Demokrat": 16
   },
   "agency_counts_30d": {
@@ -34,18 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
+    "bumn": 57,
     "danantara": 27,
-    "dividen": 2,
+    "dividen": 4,
     "koperasi": 51,
-    "perdagangan": 12,
+    "perdagangan": 13,
     "ekspor": 2,
-    "impor": 18,
-    "umkm": 10,
-    "merger-akuisisi": 9,
-    "investasi": 11,
-    "ipo": 1,
-    "kartel-monopoli": 15
+    "umkm": 11,
+    "investasi": 12,
+    "merger-akuisisi": 8,
+    "kartel-monopoli": 15,
+    "impor": 14
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -58,11 +57,10 @@
     "Mufti Anam": 18,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 4,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 9,
     "Totok Hedi Santosa": 5,
-    "Nurdin Halid": 17,
+    "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
     "Sarifah Suraidah": 10,
@@ -70,10 +68,9 @@
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 19,
-    "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 13,
-    "Anggia Erma Rini": 6,
+    "I Nengah Senantara": 11,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
@@ -82,122 +79,122 @@
     "Ghufran": 15,
     "Ismail": 15,
     "Nasril Bahar": 5,
-    "Iskandar": 12,
+    "Iskandar": 10,
     "Sartono": 2,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
     "Kinerja BUMN": 18,
-    "Koperasi/UMKM": 54,
-    "Konflik Publik": 11,
-    "Perdagangan": 33,
+    "Koperasi/UMKM": 55,
+    "Konflik Publik": 12,
+    "Perdagangan": 28,
     "Hukum/Audit": 17
   },
   "top_headlines": [
     {
-      "title": "Menteri Perdagangan G20 Tolak Penggunaan Pangan untuk Tekanan Geopolitik - republika.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 05 Oct 2026 00:20:00 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tmer7a423/menteri-perdagangan-g20-tolak-penggunaan-pangan-untuk-tekanan-geopolitik"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 17:23:12 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261005/Mjc0NDQ0"
-    },
-    {
-      "title": "Mendag: ‘Most Favored Nation’ Perlu Dipertahankan dalam Perdagangan Multilateral - rri.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 15:25:00 GMT",
-      "link": "https://rri.co.id/internasional/2786216/mendag-most-favored-nation-perlu-dipertahankan-dalam-perdagangan-multilateral"
-    },
-    {
-      "title": "Komisioner KPPU Sebut Lembaganya Lahir dari Tuntutan Reformasi - PWMU.CO",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 15:01:33 GMT",
-      "link": "https://pwmu.co/komisioner-kppu-sebut-lembaganya-lahir-dari-tuntutan-reformasi/"
-    },
-    {
-      "title": "Mendag: 'Excess Capacity' Harus Dinilai Berbasis Bukti Spesifik Setiap Sektor - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 14:45:00 GMT",
-      "link": "https://rri.co.id/nasional/2786194/mendag-excess-capacity-harus-dinilai-berbasis-bukti-spesifik-setiap-sektor"
-    },
-    {
-      "title": "Soal Kasus Perundungan Anak di Pemalang, Anggota DPR RI Doni Akbar Minta Penanganan Serius dan Lintas Sektor - radarpekalongan.disway.id - Radar Pekalongan",
-      "entity": "Doni Akbar",
+      "title": "Tinjau Sumur Minyak Tua PHE ONWJ, Andre Rosiade Apresiasi Produktivitas dan Kehati-hatian Investasi - kabarpolitik.com",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Sun, 04 Oct 2026 11:27:00 GMT",
-      "link": "https://radarpekalongan.disway.id/jateng/read/115668/soal-kasus-perundungan-anak-di-pemalang-anggota-dpr-ri-doni-akbar-minta-penanganan-serius-dan-lintas-sektor"
+      "published": "Mon, 05 Oct 2026 08:16:22 GMT",
+      "link": "https://kabarpolitik.com/tinjau-sumur-minyak-tua-phe-onwj-andre-rosiade-apresiasi-produktivitas-dan-kehati-hatian-investasi/"
     },
     {
-      "title": "Soal Kasus Perundungan Anak di Pemalang, Anggota DPR RI Doni Akbar Minta Penanganan Serius dan Lintas Sektor - radarpekalongan.disway.id - radarpekalongan.disway.id",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Sun, 04 Oct 2026 11:27:00 GMT",
-      "link": "https://radarpekalongan.disway.id/amp/115668/soal-kasus-perundungan-anak-di-pemalang-anggota-dpr-ri-doni-akbar-minta-penanganan-serius-dan-lintas-sektor"
-    },
-    {
-      "title": "Sekjen Herman Khaeron Kunjungi Fraksi Demokrat DPRD Riau - Bermadah.co.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Sun, 04 Oct 2026 11:13:22 GMT",
-      "link": "https://bermadah.co.id/berita/detail/sekjen-herman-khaeron-kunjungi-fraksi-demokrat-dprd-riau"
-    },
-    {
-      "title": "Menteri Perdagangan Forum G20 Bahas Isu Excess Capacity-Kerja Paksa - kumparan.com - Kumparan.com",
+      "title": "G20 TMM Bahas Ketahanan Pangan, Mendag Budi Santoso Tolak Pangan Jadi Instrumen Tekanan Geopolitik - agricom.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 10:14:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/menteri-perdagangan-forum-g20-bahas-isu-excess-capacity-kerja-paksa-28JIJViJqHO"
+      "published": "Mon, 05 Oct 2026 07:55:07 GMT",
+      "link": "https://www.agricom.id/2026/1168/berita/g20-tmm-bahas-ketahanan-pangan-mendag-budi-santoso-tolak-pangan-jadi-instrumen-tekanan-geopolitik/"
     },
     {
-      "title": "Manager Koperasi Desa Merah Putih Keluhkan Lokasi Penugasan, Diskop Sulsel Koordinasi ke Pusat - rakyatsulsel.fajar.co.id",
+      "title": "Dari Kopi hingga UMKM, BUMN Kembangkan Potensi Desa di Temanggung - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 07:25:53 GMT",
+      "link": "https://www.metrotvnews.com/read/NG9CwY5A-dari-kopi-hingga-umkm-bumn-kembangkan-potensi-desa-di-temanggung"
+    },
+    {
+      "title": "VIDEO: Danantara Akan Rampingkan 1074 BUMN, Target Sisa 200 Perusahaan - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 07:15:42 GMT",
+      "link": "https://www.cnnindonesia.com/tv/20261005131141-402-1411745/video-danantara-akan-rampingkan-1074-bumn-target-sisa-200-perusahaan"
+    },
+    {
+      "title": "Kementerian Perdagangan Menggelontorkan Rp. 2,6 Miliar untuk Pasar Rakyat Pascabencana Aceh Tengah - Prokopim Aceh Tengah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 07:03:03 GMT",
+      "link": "https://humas.acehtengahkab.go.id/kementerian-perdagangan-menggelontorkan-rp-26-miliar-untuk-pasar-rakyat-pascabencana-aceh-tengah/"
+    },
+    {
+      "title": "Sumur Tua Tetap Produktif, Andre Rosiade Apresiasi Kinerja PHE ONWJ - fraksi gerindra dpr-ri",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 05 Oct 2026 06:52:55 GMT",
+      "link": "https://www.fraksigerindra.id/sumur-tua-tetap-produktif-andre-rosiade-apresiasi-kinerja-phe-onwj/"
+    },
+    {
+      "title": "Menteri Perdagangan G20 Tolak Penggunaan Pangan sebagai Instrumen Tekanan Geopolitik - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 06:35:00 GMT",
+      "link": "https://www.topbusiness.id/137510/menteri-perdagangan-g20-tolak-penggunaan-pangan-sebagai-instrumen-tekanan-geopolitik.html"
+    },
+    {
+      "title": "Menkeu Sebut Dividen Danantara Tidak Masuk APBN 2027 - Komparatif.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 06:26:53 GMT",
+      "link": "https://komparatif.id/menkeu-sebut-dividen-danantara-tidak-masuk-apbn/"
+    },
+    {
+      "title": "Suahasil Tegaskan Dividen BUMN di Danantara Tak Masuk APBN 2026 dan 2027 - Aktual.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 06:24:49 GMT",
+      "link": "https://aktual.com/suahasil-tegaskan-dividen-bumn-di-danantara-tak-masuk-apbn-2026-dan-2027/"
+    },
+    {
+      "title": "Jamur Crispy KhumKhum, Produk Startup Inkubasi Binaan UGM Terpilih Masuk Program PPPB Kemendag - ugm.ac.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 06:18:00 GMT",
+      "link": "https://ugm.ac.id/id/berita/jamur-crispy-khumkhum-produk-startup-inkubasi-binaan-ugm-terpilih-masuk-program-pppb-kemendag/"
+    },
+    {
+      "title": "Rekayasa Ulang BUMN Melalui Danantara Sebagai Motor Penggerak Kekuatan Nasional - Suara Pembaharuan",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 05:42:00 GMT",
+      "link": "https://www.suarapembaharuan.com/2026/10/rekayasa-ulang-bumn-melalui-danantara.html"
+    },
+    {
+      "title": "Kementerian Perdagangan Kucurkan Rp2,6 Miliar untuk Rehabilitasi Empat Pasar di Aceh Tengah - harie.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 05:01:21 GMT",
+      "link": "https://harie.id/2026/10/05/kementerian-perdagangan-kucurkan-rp26-miliar-untuk-rehabilitasi-empat-pasar-di-aceh-tengah/"
+    },
+    {
+      "title": "Pemkab Paser verifikasi 31Koperasi Desa Merah Putih untuk dilaporkan ke Pusat - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 09:41:23 GMT",
-      "link": "https://rakyatsulsel.fajar.co.id/2026/10/04/manager-koperasi-desa-merah-putih-keluhkan-lokasi-penugasan-diskop-sulsel-koordinasi-ke-pusat/"
+      "published": "Mon, 05 Oct 2026 04:03:08 GMT",
+      "link": "https://kaltim.antaranews.com/berita/268124/pemkab-paser-verifikasi-31koperasi-desa-merah-putih-untuk-dilaporkan-ke-pusat"
     },
     {
-      "title": "Anggota DPR: Penguatan UMKM menjadi capaian positif Pemerintahan Prabowo - ANTARA News Jateng",
-      "entity": "Kementerian Koperasi",
+      "title": "BP Batam Permudah Izin Pengusaha Jakarta Lewat Coaching Clinic - gokepri",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 09:01:12 GMT",
-      "link": "https://jateng.antaranews.com/berita/647364/anggota-dpr-penguatan-umkm-menjadi-capaian-positif-pemerintahan-prabowo"
+      "published": "Mon, 05 Oct 2026 03:52:16 GMT",
+      "link": "https://gokepri.com/bp-batam-permudah-izin-pengusaha-jakarta-lewat-coaching-clinic/"
     },
     {
-      "title": "HR CPO dan HPE Biji Kakao Naik pada Oktober 2026, Kemendag Beri Penjelasan - KabarBursa.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 07:57:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/hr-cpo-dan-hpe-biji-kakao-naik-pada-oktober-2026-kemendag-beri-penjelasan"
-    },
-    {
-      "title": "Darmadi Durianto: Kalau Sudah Ketemu Warga, Cerita di Lapangan Pasti Beda! - gesuri.id",
-      "entity": "Darmadi Durianto",
+      "title": "Anggia Ermarini Sebut Nasabah Haji Jadi Peluang Besar Bank Syariah - Liputan Jatim",
+      "entity": "Anggia Erma Rini",
       "kind": "anggota",
-      "published": "Sun, 04 Oct 2026 07:02:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/darmadi-durianto-kalau-sudah-ketemu-warga-cerita-di-lapangan-pasti-beda-b2qcBZbivz"
-    },
-    {
-      "title": "Koperasi Bermasalah, Anggota yang Menanggung - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 07:00:11 GMT",
-      "link": "https://www.kompas.id/artikel/koperasi-bermasalah-anggota-yang-menanggung?open_from=Section_Terbaru"
-    },
-    {
-      "title": "Ida Fauziyah Ajak Kader Fatayat NU Jakpus Masuk Ruang Pengambil Kebijakan - NU Online Jakarta",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "link": "https://jakarta.nu.or.id/jakpus/ida-fauziyah-ajak-kader-fatayat-nu-jakpus-masuk-ruang-pengambil-kebijakan-KUNie"
+      "published": "Mon, 05 Oct 2026 03:30:05 GMT",
+      "link": "https://liputanjatim.com/berita/anggia-ermarini-sebut-nasabah-haji-jadi-peluang-besar-bank-syariah"
     }
   ]
 }
