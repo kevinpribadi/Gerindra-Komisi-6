@@ -1,20 +1,20 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-04T22:42:51.163209",
+  "generated_at": "2026-10-05T01:35:00.441769",
   "party_counts_7d": {
-    "Gerindra": 7,
+    "Gerindra": 6,
     "PDI-P": 33,
-    "Golkar": 16,
-    "NasDem": 3,
+    "Golkar": 15,
+    "NasDem": 2,
     "PKB": 6,
-    "PKS": 10,
+    "PKS": 8,
     "PAN": 3,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 38,
     "PDI-P": 75,
-    "Golkar": 93,
+    "Golkar": 92,
     "NasDem": 21,
     "PKB": 51,
     "PKS": 70,
@@ -69,7 +69,7 @@
     "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 20,
+    "Muhammad Sarmuji": 19,
     "Rachmat Gobel": 2,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 13,
@@ -89,11 +89,18 @@
   "early_warning_counts": {
     "Kinerja BUMN": 18,
     "Koperasi/UMKM": 54,
-    "Perdagangan": 33,
     "Konflik Publik": 11,
+    "Perdagangan": 33,
     "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Menteri Perdagangan G20 Tolak Penggunaan Pangan untuk Tekanan Geopolitik - republika.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 05 Oct 2026 00:20:00 GMT",
+      "link": "https://ekonomi.republika.co.id/berita/tmer7a423/menteri-perdagangan-g20-tolak-penggunaan-pangan-untuk-tekanan-geopolitik"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -191,13 +198,6 @@
       "kind": "anggota",
       "published": "Sun, 04 Oct 2026 07:00:00 GMT",
       "link": "https://jakarta.nu.or.id/jakpus/ida-fauziyah-ajak-kader-fatayat-nu-jakpus-masuk-ruang-pengambil-kebijakan-KUNie"
-    },
-    {
-      "title": "Mengapa Danantara Mendahulukan Merger PTPP-Adhi Karya - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 04 Oct 2026 05:52:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/mengapa-merger-ptpp-adhi-karya-didahulukan-2298667"
     }
   ]
 }
