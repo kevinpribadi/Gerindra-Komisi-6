@@ -1,25 +1,25 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-06T11:46:23.555567",
+  "generated_at": "2026-10-06T17:54:24.048102",
   "party_counts_7d": {
-    "Gerindra": 13,
-    "PDI-P": 25,
+    "Gerindra": 14,
+    "PDI-P": 23,
     "Golkar": 19,
     "NasDem": 1,
     "PKB": 5,
-    "PKS": 8,
+    "PKS": 7,
     "PAN": 1,
-    "Demokrat": 3
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 36,
     "PDI-P": 70,
     "Golkar": 94,
-    "NasDem": 15,
+    "NasDem": 14,
     "PKB": 52,
-    "PKS": 67,
+    "PKS": 68,
     "PAN": 15,
-    "Demokrat": 13
+    "Demokrat": 14
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 19,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 56,
+    "bumn": 57,
     "danantara": 24,
-    "dividen": 7,
+    "dividen": 8,
     "koperasi": 49,
-    "ekspor": 2,
-    "perdagangan": 13,
+    "perdagangan": 11,
     "umkm": 13,
-    "investasi": 13,
+    "ekspor": 4,
+    "investasi": 14,
     "merger-akuisisi": 6,
     "kartel-monopoli": 15,
     "impor": 12
@@ -69,28 +69,112 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 9,
+    "I Nengah Senantara": 8,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 12,
+    "Ghufran": 13,
     "Ismail": 15,
     "Nasril Bahar": 5,
     "Iskandar": 10,
     "Sartono": 2,
-    "Herman Khaeron": 11
+    "Herman Khaeron": 12
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 23,
-    "Konflik Publik": 9,
-    "Hukum/Audit": 18
+    "Koperasi/UMKM": 59,
+    "Perdagangan": 26,
+    "Hukum/Audit": 17,
+    "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BKPN Sambut Baik Keputusan MK, Sengketa Konsumen Bisa Diselesaikan di BPSK Kabupaten/Kota - RCTI+",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 17:20:05 GMT",
+      "link": "https://www.rctiplus.com/news/detail/terkini/5488223/bkpn-sambut-baik-keputusan-mk-sengketa-konsumen-bisa-diselesaikan-di-bpsk-kabupatenkota?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5488223"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 17:17:05 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261007/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Berita Terkini dan Informasi Digital Terbaru Hari Ini - Digital Okezone",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 15:50:14 GMT",
+      "link": "https://digital.okezone.com/view/2026/10/06/4/106248/kemendag-fasilitasi-umkm-tingkatkan-akses-ke-ritel-modern"
+    },
+    {
+      "title": "TEI 2026 Satukan Kopi, Teh, Kakao, Mudahkan Pembeli Temukan Produk - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 15:40:00 GMT",
+      "link": "https://rri.co.id/ekonomi/bisnis/2791589/tei-2026-satukan-kopi-teh-kakao-mudahkan-pembeli-temukan-produk"
+    },
+    {
+      "title": "Pemerintah Daerah Mengendalikan Inflasi Pangan di Sumut - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 14:10:00 GMT",
+      "link": "https://rri.co.id/medan/berita-lain/2789971/pemerintah-daerah-mengendalikan-inflasi-pangan-di-sumut"
+    },
+    {
+      "title": "Menkop dorong UNITA jadi pusat pengembangan SDM dan ekonomi berbasis Koperasi - ANTARA News Sumatera Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 13:59:52 GMT",
+      "link": "https://sumut.antaranews.com/berita/672165/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi"
+    },
+    {
+      "title": "Sumur Tua Tetap Produktif, Andre Rosiade Apresiasi Kinerja Pertamina Hulu Energi Offshore Northwest Java - fraksi gerindra dpr-ri",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 13:53:49 GMT",
+      "link": "https://www.fraksigerindra.id/suara-gerindra/sumur-tua-tetap-produktif-andre-rosiade-apresiasi-kinerja-pertamina-hulu-energi-offshore-northwest-java/"
+    },
+    {
+      "title": "Menkop Dorong UNITA Jadi Pusat Pengembangan SDM dan Ekonomi Berbasis Koperasi - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 13:20:45 GMT",
+      "link": "https://kabarjoglo.com/2026/10/06/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi/"
+    },
+    {
+      "title": "Kementerian Perdagangan Menggelontorkan Rp. 2,6 Miliar untuk Pasar Rakyat Pascabencana Aceh Tengah - Pemerintah Kabupaten Aceh Tengah",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 12:59:32 GMT",
+      "link": "https://acehtengahkab.go.id/berita/kategori/penanggulangan-bencana/kementerian-perdagangan-menggelontorkan-rp-2-6-miliar-untuk-pasar-rakyat-pascabencana-aceh-tengah"
+    },
+    {
+      "title": "Amin Ak Minta APBN 2027 Tak Sekadar Kejar Pertumbuhan 6 Persen - Radarbangsa.com",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 12:02:00 GMT",
+      "link": "https://www.radarbangsa.com/news/62985/amin-ak-minta-apbn-2027-tak-sekadar-kejar-pertumbuhan-6-persen"
+    },
+    {
+      "title": "Semburan Gas Tukdana Indramayu, Anggota DPR Bakal Lapor SKK Migas - IndramayuJeh",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 11:49:11 GMT",
+      "link": "https://www.indramayujeh.com/berita-terbaru/semburan-gas-tukdana-indramayu-anggota-dpr-bakal-lapor-skk-migas/"
+    },
+    {
+      "title": "Kemendag Catat Transaksi UMKM Lewat Fasilitasi Ekspor Capai USD347 Juta - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 11:45:18 GMT",
+      "link": "https://www.metrotvnews.com/read/NgxClvjV-kemendag-catat-transaksi-umkm-lewat-fasilitasi-ekspor-capai-usd347-juta"
+    },
     {
       "title": "Palsukan Dokumen dan Jual Lahan Kemenkop Rp1,1 Miliar, Mantan Ketua Dekopinda Lhokseumawe Ditahan - AFU.id",
       "entity": "Kementerian Koperasi",
@@ -99,102 +183,18 @@
       "link": "https://afu.id/hukum-kriminal/palsukan-dokumen-dan-jual-lahan-kemenkop-rp11-miliar-mantan-ketua-dekopinda-lhokseumawe-ditahan"
     },
     {
+      "title": "Danantara Soal Kinerja BUMN: 97% Dividen Hanya Dari 15 Perusahaan - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 10:30:50 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261006141738-19-773795/danantara-soal-kinerja-bumn-97-dividen-hanya-dari-15-perusahaan"
+    },
+    {
       "title": "Rosan Ungkap Strategi Pemerintah Tarik Investasi ke Sektor Transisi Energi - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Tue, 06 Oct 2026 10:23:30 GMT",
       "link": "https://industri.kontan.co.id/news/rosan-ungkap-strategi-pemerintah-tarik-investasi-ke-sektor-transisi-energi"
-    },
-    {
-      "title": "Ekspor Nikel Melonjak 50,12%, Jadi Penopang Hilirisasi Indonesia - nikel.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "link": "https://nikel.co.id/2026/10/06/ekspor-nikel-melonjak-5012-jadi-penopang-hilirisasi-indonesia/"
-    },
-    {
-      "title": "Kemendag Memfasilitasi 20 Pelaku Usaha Lokal di Zona KoTeKa - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 09:50:00 GMT",
-      "link": "https://swa.co.id/read/478093/kemendag-memfasilitasi-20-pelaku-usaha-lokal-di-zona-koteka"
-    },
-    {
-      "title": "Menkop Dorong UNITA Jadi Pusat Pengembangan SDM dan Ekonomi Berbasis Koperasi - indoposco",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 09:36:25 GMT",
-      "link": "https://indoposco.id/2026/10/06/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi/"
-    },
-    {
-      "title": "Sosialisasikan Diplomasi Parlemen, Husein Fadlulloh Ajak Mahasiswa Go International - Gerindra",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 09:28:11 GMT",
-      "link": "https://gerindra.id/2026/10/06/sosialisasikan-diplomasi-parlemen-husein-fadlulloh-ajak-mahasiswa-go-international/"
-    },
-    {
-      "title": "Kemenkop Gandeng KMDT Dorong Pengembangan Ekonomi Berbasis Koperasi di Kawasan Danau Toba - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 09:14:58 GMT",
-      "link": "https://suarapemerintah.id/2026/10/kemenkop-gandeng-kmdt-dorong-pengembangan-ekonomi-berbasis-koperasi-di-kawasan-danau-toba/"
-    },
-    {
-      "title": "Kemendag Antisipasi Berakhirnya Fasilitas GSP, I-EU CEPA Dikebut - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 09:14:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/10/06/kemendag-antisipasi-berakhirnya-fasilitas-gsp-i-eu-cepa-dikebut-161400497"
-    },
-    {
-      "title": "Ferry Juliantono Dorong Kolaborasi Kampus dan Pemda Kembangkan Koperasi - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 08:44:00 GMT",
-      "link": "https://rmol.id/amp/2026/10/06/724082/ferry-juliantono-dorong-kolaborasi-kampus-dan-pemda-kembangkan-koperasi-"
-    },
-    {
-      "title": "Bocoran Rencana Gaji PNS Dibayar Lewat Koperasi - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 08:30:51 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8694989/bocoran-rencana-gaji-pns-dibayar-lewat-koperasi"
-    },
-    {
-      "title": "Optimalisasi Irigasi Pertanian Jadi Fokus Pengelolaan Air BUMN - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 08:28:07 GMT",
-      "link": "https://www.metrotvnews.com/read/NgxClv0v-optimalisasi-irigasi-pertanian-jadi-fokus-pengelolaan-air-bumn"
-    },
-    {
-      "title": "Rahmat Saleh Dorong Pemetaan Komprehensif Penempatan 28.000 Manajer Koperasi Desa Merah Putih - Fraksi PKS",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 08:13:22 GMT",
-      "link": "https://fraksi.pks.id/2026/10/06/rahmat-saleh-dorong-pemetaan-komprehensif-penempatan-28-000-manajer-koperasi-desa-merah-putih/"
-    },
-    {
-      "title": "Gantikan Sarmuji, Daniel Muttaqien Jadi Plt Ketua Fraksi Partai Golkar DPR RI - SINDOnews Nasional",
-      "entity": "Muhammad Sarmuji",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 08:00:12 GMT",
-      "link": "https://nasional.sindonews.com/read/1757501/12/gantikan-sarmuji-daniel-muttaqien-jadi-plt-ketua-fraksi-partai-golkar-dpr-ri-1791270644"
-    },
-    {
-      "title": "Sumur Tua Tetap Produktif, Andre Rosiade Apresiasi Kinerja Pertamina Hulu Energi Offshore Northwest Java - fraksigerindra.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 07:53:17 GMT",
-      "link": "https://www.fraksigerindra.id/sumur-tua-tetap-produktif-andre-rosiade-apresiasi-kinerja-pertamina-hulu-energi-offshore-northwest-java/"
-    },
-    {
-      "title": "Dolar AS Mengamuk, Tahu dan Tempe di Ujung Tanduk - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 07:48:00 GMT",
-      "link": "https://www.inilah.com/dolar-as-mengamuk-tahu-dan-tempe-di-ujung-tanduk"
     }
   ]
 }
