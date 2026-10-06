@@ -1,28 +1,28 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-06T17:54:24.048102",
+  "generated_at": "2026-10-06T22:19:03.775040",
   "party_counts_7d": {
     "Gerindra": 14,
-    "PDI-P": 23,
+    "PDI-P": 24,
     "Golkar": 19,
     "NasDem": 1,
     "PKB": 5,
-    "PKS": 7,
+    "PKS": 8,
     "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 36,
-    "PDI-P": 70,
+    "PDI-P": 71,
     "Golkar": 94,
     "NasDem": 14,
     "PKB": 52,
-    "PKS": 68,
+    "PKS": 69,
     "PAN": 15,
     "Demokrat": 14
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 19,
+    "Kementerian BUMN": 18,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -34,9 +34,9 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "danantara": 24,
-    "dividen": 8,
+    "bumn": 56,
+    "danantara": 25,
+    "dividen": 7,
     "koperasi": 49,
     "perdagangan": 11,
     "umkm": 13,
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 9,
     "Unru Baso": 1,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 12,
+    "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 17,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
@@ -76,7 +76,7 @@
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 13,
+    "Ghufran": 14,
     "Ismail": 15,
     "Nasril Bahar": 5,
     "Iskandar": 10,
@@ -87,10 +87,24 @@
     "Kinerja BUMN": 22,
     "Koperasi/UMKM": 59,
     "Perdagangan": 26,
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 16,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Adisatrya Suryo Sulisto Ingatkan Danantara Berhati-Hati Gabungkan Adhi Karya dan PP - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 19:45:51 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-suryo-sulisto-ingatkan-danantara-berhati-hati-gabungkan-adhi-karya-dan-pp-b2qcEZbizl"
+    },
+    {
+      "title": "Tak Sekadar Kejar Pertumbuhan, Amin Ak: APBN 2027 Harus Ciptakan Lapangan Kerja - Kabarpolitik.com",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 19:20:16 GMT",
+      "link": "https://kabarpolitik.com/tak-sekadar-kejar-pertumbuhan-amin-ak-apbn-2027-harus-ciptakan-lapangan-kerja/"
+    },
     {
       "title": "BKPN Sambut Baik Keputusan MK, Sengketa Konsumen Bisa Diselesaikan di BPSK Kabupaten/Kota - RCTI+",
       "entity": "BPKN",
@@ -99,11 +113,25 @@
       "link": "https://www.rctiplus.com/news/detail/terkini/5488223/bkpn-sambut-baik-keputusan-mk-sengketa-konsumen-bisa-diselesaikan-di-bpsk-kabupatenkota?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5488223"
     },
     {
+      "title": "BKPN Sambut Baik Keputusan MK, Sengketa Konsumen Bisa Diselesaikan di BPSK Kabupaten/Kota - RCTI+",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 17:20:05 GMT",
+      "link": "https://rctiplus.com/news/detail/terkini/5488223/bkpn-sambut-baik-keputusan-mk-sengketa-konsumen-bisa-diselesaikan-di-bpsk-kabupatenkota?utm_source=mpi_widget&utm_medium=referral&utm_campaign=news_article_5488223"
+    },
+    {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 06 Oct 2026 17:17:05 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261007/MTEyNg%3D%3D"
+    },
+    {
+      "title": "BKPN Sambut Baik Keputusan MK, Sengketa Konsumen Bisa Diselesaikan di BPSK Kabupaten/Kota - IDX Channel",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 17:01:00 GMT",
+      "link": "https://www.idxchannel.com/amp/news/bkpn-sambut-baik-keputusan-mk-sengketa-konsumen-bisa-diselesaikan-di-bpsk-kabupatenkota"
     },
     {
       "title": "Berita Terkini dan Informasi Digital Terbaru Hari Ini - Digital Okezone",
@@ -167,34 +195,6 @@
       "kind": "anggota",
       "published": "Tue, 06 Oct 2026 11:49:11 GMT",
       "link": "https://www.indramayujeh.com/berita-terbaru/semburan-gas-tukdana-indramayu-anggota-dpr-bakal-lapor-skk-migas/"
-    },
-    {
-      "title": "Kemendag Catat Transaksi UMKM Lewat Fasilitasi Ekspor Capai USD347 Juta - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 11:45:18 GMT",
-      "link": "https://www.metrotvnews.com/read/NgxClvjV-kemendag-catat-transaksi-umkm-lewat-fasilitasi-ekspor-capai-usd347-juta"
-    },
-    {
-      "title": "Palsukan Dokumen dan Jual Lahan Kemenkop Rp1,1 Miliar, Mantan Ketua Dekopinda Lhokseumawe Ditahan - AFU.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 11:28:01 GMT",
-      "link": "https://afu.id/hukum-kriminal/palsukan-dokumen-dan-jual-lahan-kemenkop-rp11-miliar-mantan-ketua-dekopinda-lhokseumawe-ditahan"
-    },
-    {
-      "title": "Danantara Soal Kinerja BUMN: 97% Dividen Hanya Dari 15 Perusahaan - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 10:30:50 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261006141738-19-773795/danantara-soal-kinerja-bumn-97-dividen-hanya-dari-15-perusahaan"
-    },
-    {
-      "title": "Rosan Ungkap Strategi Pemerintah Tarik Investasi ke Sektor Transisi Energi - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 10:23:30 GMT",
-      "link": "https://industri.kontan.co.id/news/rosan-ungkap-strategi-pemerintah-tarik-investasi-ke-sektor-transisi-energi"
     }
   ]
 }
