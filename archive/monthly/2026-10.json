@@ -1,28 +1,28 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-06T04:50:20.486082",
+  "generated_at": "2026-10-06T11:46:23.555567",
   "party_counts_7d": {
-    "Gerindra": 10,
+    "Gerindra": 13,
     "PDI-P": 25,
-    "Golkar": 18,
+    "Golkar": 19,
     "NasDem": 1,
-    "PKB": 6,
+    "PKB": 5,
     "PKS": 8,
     "PAN": 1,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 36,
-    "PDI-P": 71,
+    "PDI-P": 70,
     "Golkar": 94,
-    "NasDem": 16,
+    "NasDem": 15,
     "PKB": 52,
     "PKS": 67,
     "PAN": 15,
-    "Demokrat": 14
+    "Demokrat": 13
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 19,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -34,26 +34,26 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "danantara": 25,
+    "bumn": 56,
+    "danantara": 24,
     "dividen": 7,
-    "koperasi": 50,
-    "perdagangan": 14,
+    "koperasi": 49,
     "ekspor": 2,
-    "umkm": 11,
-    "investasi": 11,
+    "perdagangan": 13,
+    "umkm": 13,
+    "investasi": 13,
     "merger-akuisisi": 6,
     "kartel-monopoli": 15,
-    "impor": 13
+    "impor": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Muhammad Husein Fadlulloh": 1,
-    "Mulan Jameela": 3,
+    "Muhammad Husein Fadlulloh": 2,
+    "Mulan Jameela": 2,
     "Kawendra Lukistian": 9,
     "Unru Baso": 1,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 13,
+    "Adisatrya Suryo Sulisto": 12,
     "Mufti Anam": 17,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
@@ -69,7 +69,7 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 10,
+    "I Nengah Senantara": 9,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
@@ -81,120 +81,120 @@
     "Nasril Bahar": 5,
     "Iskandar": 10,
     "Sartono": 2,
-    "Herman Khaeron": 12
+    "Herman Khaeron": 11
   },
   "early_warning_counts": {
     "Kinerja BUMN": 22,
-    "Koperasi/UMKM": 54,
-    "Konflik Publik": 11,
-    "Perdagangan": 25,
+    "Koperasi/UMKM": 57,
+    "Perdagangan": 23,
+    "Konflik Publik": 9,
     "Hukum/Audit": 18
   },
   "top_headlines": [
     {
-      "title": "Dividen Danantara Belum Masuk APBN, Suahasil: Mungkin di Masa Mendatang - Editor Indonesia",
-      "entity": "Danantara",
+      "title": "Palsukan Dokumen dan Jual Lahan Kemenkop Rp1,1 Miliar, Mantan Ketua Dekopinda Lhokseumawe Ditahan - AFU.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 04:20:03 GMT",
-      "link": "https://editorindonesia.com/dividen-danantara-belum-masuk-apbn/"
+      "published": "Tue, 06 Oct 2026 11:28:01 GMT",
+      "link": "https://afu.id/hukum-kriminal/palsukan-dokumen-dan-jual-lahan-kemenkop-rp11-miliar-mantan-ketua-dekopinda-lhokseumawe-ditahan"
     },
     {
-      "title": "Rosan Soal Pengalihan Utang KCIC ke Kemenkeu: Sedang Berjalan! - cnbcindonesia.com",
+      "title": "Rosan Ungkap Strategi Pemerintah Tarik Investasi ke Sektor Transisi Energi - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 03:40:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261006101758-4-773656/rosan-soal-pengalihan-utang-kcic-ke-kemenkeu-sedang-berjalan"
+      "published": "Tue, 06 Oct 2026 10:23:30 GMT",
+      "link": "https://industri.kontan.co.id/news/rosan-ungkap-strategi-pemerintah-tarik-investasi-ke-sektor-transisi-energi"
     },
     {
-      "title": "Terkait PAW Sarmuji dan Bamsoet, Golkar Segera Surati KPU - NUSABALI.com",
+      "title": "Ekspor Nikel Melonjak 50,12%, Jadi Penopang Hilirisasi Indonesia - nikel.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "link": "https://nikel.co.id/2026/10/06/ekspor-nikel-melonjak-5012-jadi-penopang-hilirisasi-indonesia/"
+    },
+    {
+      "title": "Kemendag Memfasilitasi 20 Pelaku Usaha Lokal di Zona KoTeKa - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 09:50:00 GMT",
+      "link": "https://swa.co.id/read/478093/kemendag-memfasilitasi-20-pelaku-usaha-lokal-di-zona-koteka"
+    },
+    {
+      "title": "Menkop Dorong UNITA Jadi Pusat Pengembangan SDM dan Ekonomi Berbasis Koperasi - indoposco",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 09:36:25 GMT",
+      "link": "https://indoposco.id/2026/10/06/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi/"
+    },
+    {
+      "title": "Sosialisasikan Diplomasi Parlemen, Husein Fadlulloh Ajak Mahasiswa Go International - Gerindra",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 09:28:11 GMT",
+      "link": "https://gerindra.id/2026/10/06/sosialisasikan-diplomasi-parlemen-husein-fadlulloh-ajak-mahasiswa-go-international/"
+    },
+    {
+      "title": "Kemenkop Gandeng KMDT Dorong Pengembangan Ekonomi Berbasis Koperasi di Kawasan Danau Toba - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 09:14:58 GMT",
+      "link": "https://suarapemerintah.id/2026/10/kemenkop-gandeng-kmdt-dorong-pengembangan-ekonomi-berbasis-koperasi-di-kawasan-danau-toba/"
+    },
+    {
+      "title": "Kemendag Antisipasi Berakhirnya Fasilitas GSP, I-EU CEPA Dikebut - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 09:14:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/10/06/kemendag-antisipasi-berakhirnya-fasilitas-gsp-i-eu-cepa-dikebut-161400497"
+    },
+    {
+      "title": "Ferry Juliantono Dorong Kolaborasi Kampus dan Pemda Kembangkan Koperasi - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 08:44:00 GMT",
+      "link": "https://rmol.id/amp/2026/10/06/724082/ferry-juliantono-dorong-kolaborasi-kampus-dan-pemda-kembangkan-koperasi-"
+    },
+    {
+      "title": "Bocoran Rencana Gaji PNS Dibayar Lewat Koperasi - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 08:30:51 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8694989/bocoran-rencana-gaji-pns-dibayar-lewat-koperasi"
+    },
+    {
+      "title": "Optimalisasi Irigasi Pertanian Jadi Fokus Pengelolaan Air BUMN - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 08:28:07 GMT",
+      "link": "https://www.metrotvnews.com/read/NgxClv0v-optimalisasi-irigasi-pertanian-jadi-fokus-pengelolaan-air-bumn"
+    },
+    {
+      "title": "Rahmat Saleh Dorong Pemetaan Komprehensif Penempatan 28.000 Manajer Koperasi Desa Merah Putih - Fraksi PKS",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 08:13:22 GMT",
+      "link": "https://fraksi.pks.id/2026/10/06/rahmat-saleh-dorong-pemetaan-komprehensif-penempatan-28-000-manajer-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "Gantikan Sarmuji, Daniel Muttaqien Jadi Plt Ketua Fraksi Partai Golkar DPR RI - SINDOnews Nasional",
       "entity": "Muhammad Sarmuji",
       "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 03:33:36 GMT",
-      "link": "https://www.nusabali.com/berita/232844/terkait-paw-sarmuji-dan-bamsoet-golkar-segera-surati-kpu"
+      "published": "Tue, 06 Oct 2026 08:00:12 GMT",
+      "link": "https://nasional.sindonews.com/read/1757501/12/gantikan-sarmuji-daniel-muttaqien-jadi-plt-ketua-fraksi-partai-golkar-dpr-ri-1791270644"
     },
     {
-      "title": "Bos Danantara Ungkap 354 BUMN Dipangkas Karena Merugi - pasardana.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 02:46:00 GMT",
-      "link": "https://pasardana.id/news/2026/10/6/bos-danantara-ungkap-354-bumn-dipangkas-karena-merugi"
-    },
-    {
-      "title": "52 Persen BUMN Merugi, Danantara Pangkas 720 Entitas - EKSPOSKALTIM",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 02:11:44 GMT",
-      "link": "https://eksposkaltim.com/berita-18805-52-persen-bumn-merugi-danantara-pangkas-720-entitas.html"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi Kinerja PHE ONWJ - kabarpolitik.com",
+      "title": "Sumur Tua Tetap Produktif, Andre Rosiade Apresiasi Kinerja Pertamina Hulu Energi Offshore Northwest Java - fraksigerindra.id",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 02:00:07 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-apresiasi-kinerja-phe-onwj/"
+      "published": "Tue, 06 Oct 2026 07:53:17 GMT",
+      "link": "https://www.fraksigerindra.id/sumur-tua-tetap-produktif-andre-rosiade-apresiasi-kinerja-pertamina-hulu-energi-offshore-northwest-java/"
     },
     {
-      "title": "Andre Rosiade Usulkan Pelita Air Tambah Armada Jenis ATR Di Wilayah Timur - kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 01:58:41 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-usulkan-pelita-air-tambah-armada-jenis-atr-di-wilayah-timur/"
-    },
-    {
-      "title": "Doni Akbar Sambangi Rumah Korban dan Polres Pemalang soal Bocah SD Tewas Diduga Dibully Kakak Kelas - Berita Bersatu",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 01:28:27 GMT",
-      "link": "https://www.beritabersatu.com/2026/10/06/doni-akbar-sambangi-rumah-korban-dan-polres-pemalang-soal-bocah-sd-tewas-diduga-dibully-kakak-kelas/"
-    },
-    {
-      "title": "Revitalisasi Pasar Bekas Terminal Paruga,Pemkot Bima Usulkan Anggaran Capai Rp6,1 Miliar - SUARANTB.com",
+      "title": "Dolar AS Mengamuk, Tahu dan Tempe di Ujung Tanduk - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 01:26:06 GMT",
-      "link": "https://suarantb.com/2026/10/06/revitalisasi-pasar-bekas-terminal-parugapemkot-bima-usulkan-anggaran-capai-rp61-miliar/"
-    },
-    {
-      "title": "Calon Manajer Koperasi Merah Putih Disebut Mundur Massal, Ini Penjelasan Zulhas - trawlmediaindonesia.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 01:09:00 GMT",
-      "link": "https://www.trawlmediaindonesia.id/2026/10/calon-manajer-koperasi-merah-putih.html"
-    },
-    {
-      "title": "Pemerintah Bahas Rencana Koperasi Salurkan Gaji PNS dan Pembayaran Pensiun - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 00:50:29 GMT",
-      "link": "https://pontianakpost.jawapos.com/ekonomi/2610060005/pemerintah-bahas-rencana-koperasi-salurkan-gaji-pns-dan-pembayaran-pensiun"
-    },
-    {
-      "title": "Aceh Tengah Terima Rp2,6 M untuk Rehabilitasi Pasar Terdampak Bencana - lintasgayo.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 05 Oct 2026 23:51:22 GMT",
-      "link": "https://lintasgayo.com/aceh-tengah-terima-rp-26-m-untuk-rehabilitasi-pasar-terdampak-bencana/"
-    },
-    {
-      "title": "Kemenkop Dorong Kebangkitan Koperasi untuk Kemandirian Ekonomi - suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 05 Oct 2026 17:33:00 GMT",
-      "link": "https://www.suaralandak.co.id/kemenkop-dorong-kebangkitan-koperasi-ekonomi"
-    },
-    {
-      "title": "Kementerian Koperasi Berencana Salurkan Gaji PNS hingga Pensiunan, Ini Penjelasannya - VIVA.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 05 Oct 2026 16:44:00 GMT",
-      "link": "https://www.viva.co.id/bisnis/1933445-kementerian-koperasi-berencana-salurkan-gaji-pns-hingga-pensiunan-ini-penjelasannya"
-    },
-    {
-      "title": "Aceh Tengah dapat bantuan Rp2,6 miliar dari Kementerian Perdagangan - ANTARA News Aceh",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 05 Oct 2026 16:38:46 GMT",
-      "link": "https://aceh.antaranews.com/berita/411750/aceh-tengah-dapat-bantuan-rp26-miliar-dari-kementerian-perdagangan"
+      "published": "Tue, 06 Oct 2026 07:48:00 GMT",
+      "link": "https://www.inilah.com/dolar-as-mengamuk-tahu-dan-tempe-di-ujung-tanduk"
     }
   ]
 }
