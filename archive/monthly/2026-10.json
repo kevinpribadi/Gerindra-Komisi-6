@@ -1,27 +1,28 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-07T09:47:05.993555",
+  "generated_at": "2026-10-07T17:14:09.316522",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 20,
+    "Gerindra": 20,
+    "PDI-P": 15,
     "Golkar": 19,
     "NasDem": 1,
-    "PKB": 4,
-    "PKS": 7,
+    "PKB": 3,
+    "PKS": 6,
+    "PAN": 2,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 39,
     "PDI-P": 71,
-    "Golkar": 94,
+    "Golkar": 92,
     "NasDem": 13,
     "PKB": 52,
     "PKS": 69,
-    "PAN": 14,
-    "Demokrat": 13
+    "PAN": 16,
+    "Demokrat": 12
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 19,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -34,25 +35,25 @@
   },
   "topic_counts_30d": {
     "bumn": 54,
-    "danantara": 25,
-    "dividen": 6,
-    "koperasi": 50,
+    "umkm": 11,
+    "danantara": 23,
+    "dividen": 5,
+    "koperasi": 49,
+    "perdagangan": 12,
+    "investasi": 18,
     "ekspor": 6,
-    "perdagangan": 13,
-    "umkm": 13,
-    "investasi": 15,
+    "merger-akuisisi": 6,
     "ipo": 1,
     "kartel-monopoli": 15,
-    "merger-akuisisi": 5,
     "impor": 12
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Muhammad Husein Fadlulloh": 5,
+    "Muhammad Husein Fadlulloh": 7,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 9,
+    "Kawendra Lukistian": 8,
     "Unru Baso": 1,
-    "Mulyadi": 2,
+    "Mulyadi": 1,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 17,
     "Darmadi Durianto": 5,
@@ -64,7 +65,7 @@
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
     "Sarifah Suraidah": 10,
-    "Doni Akbar": 9,
+    "Doni Akbar": 7,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
@@ -78,123 +79,123 @@
     "Rizal Bawazier": 20,
     "Ghufran": 14,
     "Ismail": 15,
-    "Nasril Bahar": 5,
-    "Iskandar": 9,
+    "Nasril Bahar": 6,
+    "Iskandar": 10,
     "Sartono": 2,
-    "Herman Khaeron": 11
+    "Herman Khaeron": 10
   },
   "early_warning_counts": {
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 23,
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 29,
+    "Perdagangan": 32,
     "Konflik Publik": 6,
     "Hukum/Audit": 15
   },
   "top_headlines": [
     {
-      "title": "Respons Kemenkeu soal Wacana Gaji ASN dan Pensiunan Dibayar lewat Koperasi - Infobanknews",
-      "entity": "Kementerian Koperasi",
+      "title": "Bersama BP KPBPB, Lis Perkuat Sinergi Akselerasi Investasi dan Pengembangan Infrastruktur Kawasan - Pemerintah Kota Tanjungpinang",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 09:05:22 GMT",
-      "link": "https://infobanknews.com/respons-kemenkeu-soal-wacana-gaji-asn-dan-pensiunan-dibayar-lewat-koperasi"
+      "published": "Wed, 07 Oct 2026 16:07:30 GMT",
+      "link": "https://humprofoto.tanjungpinangkota.go.id/news/bersama-bp-kpbpb-lis-perkuat-sinergi-akselerasi-investasi-dan-pengembangan-infrastruktur-kawasan.html"
     },
     {
-      "title": "Muhammad Husein Fadlulloh: Diplomasi Parlemen Harus Bawa Aspirasi Rakyat ke Forum Global - kabarpolitik.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Wed, 07 Oct 2026 08:39:14 GMT",
-      "link": "https://kabarpolitik.com/muhammad-husein-fadlulloh-diplomasi-parlemen-harus-bawa-aspirasi-rakyat-ke-forum-global/"
-    },
-    {
-      "title": "Ada Wacana Pembayaran Gaji PNS dan Pensiunan Lewat Koperasi, Ini Respon Kemenkeu - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 08:29:55 GMT",
-      "link": "https://nasional.kontan.co.id/news/ada-wacana-pembayaran-gaji-pns-dan-pensiunan-lewat-koperasi-ini-respon-kemenkeu"
-    },
-    {
-      "title": "Husein Fadlulloh Tegaskan Diplomasi Parlemen Harus Berbuah untuk Kepentingan Nasional - Kabarpolitik.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Wed, 07 Oct 2026 08:18:10 GMT",
-      "link": "https://kabarpolitik.com/husein-fadlulloh-tegaskan-diplomasi-parlemen-harus-berbuah-untuk-kepentingan-nasional/"
-    },
-    {
-      "title": "Wamenkop Tegaskan Polemik Penempatan Manajer KDKMP Misinformasi - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 08:15:05 GMT",
-      "link": "https://www.detik.com/jatim/berita/d-8696309/wamenkop-tegaskan-polemik-penempatan-manajer-kdkmp-misinformasi"
-    },
-    {
-      "title": "LPS akan Diskusi dengan Menkop soal Penjaminan Simpanan Koperasi - Tirto.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 08:03:00 GMT",
-      "link": "https://tirto.id/lps-akan-diskusi-dengan-menkop-soal-penjaminan-simpanan-koperasi-hDBZ"
-    },
-    {
-      "title": "Soal Usulan Penjaminan Simpanan Koperasi, Ini Respons Ketua LPS - RCTI+",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 07:57:37 GMT",
-      "link": "https://www.rctiplus.com/news/detail/okezone/5488604/soal-usulan-penjaminan-simpanan-koperasi--ini-respons-ketua-lps"
-    },
-    {
-      "title": "Mendag Ajak Buyer AS Berburu Produk Indonesia di TEI 2026 - RRI.co.id",
+      "title": "Neraca Perdagangan Agustus 2026 Melompat, Surplus Tembus US$3,55 Miliar - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 07:36:00 GMT",
-      "link": "https://rri.co.id/nasional/2793629/mendag-ajak-buyer-as-berburu-produk-indonesia-di-tei-2026"
+      "published": "Wed, 07 Oct 2026 15:30:00 GMT",
+      "link": "https://swa.co.id/read/478148/neraca-perdagangan-agustus-2026-melompat-surplus-tembus-us355-miliar"
     },
     {
-      "title": "BKSAP Dorong Pentingnya Diplomasi Parlemen Membawa Aspirasi Masyarakat ke Forum Global - fraksi gerindra dpr-ri",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Wed, 07 Oct 2026 07:35:56 GMT",
-      "link": "https://www.fraksigerindra.id/bksap-dorong-pentingnya-diplomasi-parlemen-membawa-aspirasi-masyarakat-ke-forum-global/"
+      "title": "Pemko-BP KPBPB Perkuat Sinergi Akselerasi Investasi dan Pengembangan Kawasan FTZ Tanjungpinang - Pemerintah Kota Tanjungpinang",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 14:22:31 GMT",
+      "link": "https://www.tanjungpinangkota.go.id/publikasi/berita/9047-pemko-bp-kpbpb-perkuat-sinergi-akselerasi-investasi-dan-pengembangan-kawasan-ftz-tanjungpinang"
     },
     {
-      "title": "Menkop Tegaskan Koperasi Bagian Dari Transformasi Ekonomi Indonesia - Suara Pemerintah",
+      "title": "Wamenkop Ajak KNPI Menjadi Penggerak KDKMP - indoposco",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 07:33:07 GMT",
-      "link": "https://suarapemerintah.id/2026/10/menkop-tegaskan-koperasi-bagian-dari-transformasi-ekonomi-indonesia/"
+      "published": "Wed, 07 Oct 2026 14:06:14 GMT",
+      "link": "https://indoposco.id/2026/10/07/wamenkop-ajak-knpi-menjadi-penggerak-kdkmp/"
     },
     {
-      "title": "PTPN IV PalmCo Buka Jalan Ekspor Sawit hingga Kopi Lewat InaExport - JambiLINK.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "DEKOPINDA Cianjur Audiensi dengan Wamenkop RI, Dorong Penguatan Regulasi dan Kolaborasi Koperasi - Cianjur Update",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 06:59:49 GMT",
-      "link": "https://jambilink.id/post/10542/ptpn-iv-palmco-buka-jalan-ekspor-sawit-hingga-kopi-lewat-inaexport"
+      "published": "Wed, 07 Oct 2026 13:15:42 GMT",
+      "link": "https://www.cianjurupdate.com/dekopinda-cianjur-audiensi-dengan-wamenkop-ri-dorong-penguatan-regulasi-dan-kolaborasi-koperasi"
     },
     {
-      "title": "Bahlil: Kemenko Hilirisasi Bakal Membawahi ESDM, BKPM, Kemenperin - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 06:45:53 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/123885/bahlil-kemenko-hilirisasi-bakal-membawahi-esdm-bkpm-kemenperin"
-    },
-    {
-      "title": "DPR Minta OJK dan BEI Lindungi Ritel di Tengah Gejolak Pasar Saham - indoposco",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Wed, 07 Oct 2026 06:33:11 GMT",
-      "link": "https://indoposco.id/2026/10/07/dpr-minta-ojk-dan-bei-lindungi-ritel-di-tengah-gejolak-pasar-saham/"
-    },
-    {
-      "title": "Wacana Gaji PNS dan Pensiunan Disalurkan Koperasi: Paceklik Bisnis Bank - Inilah.com",
+      "title": "Koperasi Merah Putih Limau Asri Timur Didorong Penuhi Kebutuhan Dasar Masyarakat - Koreri",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 06:13:00 GMT",
-      "link": "https://www.inilah.com/wacana-gaji-pns-dan-pensiunan-disalurkan-koperasi-paceklik-bisnis-bank"
+      "published": "Wed, 07 Oct 2026 13:00:00 GMT",
+      "link": "https://koreri.com/2026/10/07/koperasi-merah-putih-limau-asri-timur-didorong-penuhi-kebutuhan-dasar-masyarakat/"
     },
     {
-      "title": "Ada BUMN Bakal IPO Tahun 2027, Bos Danantara Sebut 3 Sektor Ini - CNBC Indonesia",
+      "title": "Kemendag Catat Surplus Perdagangan Senilai US$ 3,55 M di Periode Agustus 2026 - Iconomics",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 12:58:22 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemendag-catat-surplus-perdagangan-senilai-us-355-m-di-periode-agustus-2026/"
+    },
+    {
+      "title": "Kemendag Fasilitasi Pendampingan Sertifikasi Halal - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 12:48:21 GMT",
+      "link": "https://www.niaga.asia/kemendag-fasilitasi-pendampingan-sertifikasi-halal/"
+    },
+    {
+      "title": "Siap-Siap! Sejumlah BUMN Bakal Melantai di BEI pada 2027, Ini Sektornya - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 06:10:17 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261007123816-17-774050/ada-bumn-bakal-ipo-tahun-2027-bos-danantara-sebut-3-sektor-ini"
+      "published": "Wed, 07 Oct 2026 12:26:42 GMT",
+      "link": "https://investasi.kontan.co.id/news/siap-siap-sejumlah-bumn-bakal-melantai-di-bei-pada-2027-ini-sektornya"
+    },
+    {
+      "title": "BofA Ramal Defisit APBN Bisa Tembus 3,6 Persen, Ini Pemicunya - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 12:19:42 GMT",
+      "link": "https://infobanknews.com/bofa-ramal-defisit-apbn-bisa-tembus-36-persen-ini-pemicunya"
+    },
+    {
+      "title": "Penuhi Undangan Menteri BUMN, PT PIM Kirim Srikandi UMKM Binaan - Jaringan Berita Aceh",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 11:19:33 GMT",
+      "link": "https://jaringanberitaaceh.com/ekonomi/penuhi-undangan-menteri-bumn-pt-pim-kirim-srikandi-umkm-binaan/"
+    },
+    {
+      "title": "Neraca Perdagangan Agustus 2026 Surplus Ditopang Nonmigas, Ini 3 Komoditas Unggulannya - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 11:10:05 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5488778/neraca-perdagangan-agustus-2026-surplus-ditopang-nonmigas--ini-3-komoditas-unggulannya"
+    },
+    {
+      "title": "Kementerian Koperasi RI Nilai Potensi Kopi Mimika Berpeluang Tembus Pasar Internasional - Papuanewsonline.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 11:03:35 GMT",
+      "link": "https://papuanewsonline.com/kementerian-koperasi-ri-nilai-potensi-kopi-mimika-berpeluang-tembus-pasar-internasional"
+    },
+    {
+      "title": "DPRK Sabang dan Polres Bahas Wacana Pulau Aceh dan Pemindahan Mapolres - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 10:48:00 GMT",
+      "link": "https://rri.co.id/sabang/info-parlemen/2794158/dprk-sabang-dan-polres-bahas-wacana-pulau-aceh-dan-pemindahan-mapolres"
+    },
+    {
+      "title": "Pemkab Pidie Jaya rehabilitasi tujuh pasar terdampak bencana - ANTARA News Aceh",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 10:34:20 GMT",
+      "link": "https://aceh.antaranews.com/berita/411812/pemkab-pidie-jaya-rehabilitasi-tujuh-pasar-terdampak-bencana"
     }
   ]
 }
