@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-06T22:19:03.775040",
+  "generated_at": "2026-10-07T02:04:07.922679",
   "party_counts_7d": {
-    "Gerindra": 14,
+    "Gerindra": 15,
     "PDI-P": 24,
-    "Golkar": 19,
+    "Golkar": 20,
     "NasDem": 1,
     "PKB": 5,
     "PKS": 8,
@@ -37,13 +37,13 @@
     "bumn": 56,
     "danantara": 25,
     "dividen": 7,
-    "koperasi": 49,
+    "koperasi": 50,
     "perdagangan": 11,
-    "umkm": 13,
+    "umkm": 12,
     "ekspor": 4,
-    "investasi": 14,
-    "merger-akuisisi": 6,
+    "investasi": 15,
     "kartel-monopoli": 15,
+    "merger-akuisisi": 5,
     "impor": 12
   },
   "member_counts_30d": {
@@ -91,6 +91,27 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "Gaji PNS dan Pensiun Bakal Dibayar Lewat Koperasi? Pemerintah Siapkan Aturan - Sapa Nusa - Sapanusa",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 01:01:44 GMT",
+      "link": "https://www.sapanusa.id/nasional/303090977/gaji-pns-dan-pensiun-bakal-dibayar-lewat-koperasi-pemerintah-siapkan-aturan"
+    },
+    {
+      "title": "Desak Pemetaan Komprehensif, Komisi VI DPR Minta Penempatan 28.000 Manajer Koperasi Desa Merah Putih Tepat Sasaran - Infokini.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 00:44:19 GMT",
+      "link": "https://infokini.id/2026/10/07/desak-pemetaan-komprehensif-komisi-vi-dpr-minta-penempatan-28-000-manajer-koperasi-desa-merah-putih-tepat-sasaran/"
+    },
+    {
+      "title": "Menengok Operasi PHE di Lepas Pantai ONWJ, DPR Bicara Target Produksi - indoposco",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 06 Oct 2026 23:06:54 GMT",
+      "link": "https://indoposco.id/2026/10/07/menengok-operasi-phe-di-lepas-pantai-onwj-dpr-bicara-target-produksi/"
+    },
     {
       "title": "Adisatrya Suryo Sulisto Ingatkan Danantara Berhati-Hati Gabungkan Adhi Karya dan PP - gesuri.id",
       "entity": "Adisatrya Suryo Sulisto",
@@ -148,6 +169,13 @@
       "link": "https://rri.co.id/ekonomi/bisnis/2791589/tei-2026-satukan-kopi-teh-kakao-mudahkan-pembeli-temukan-produk"
     },
     {
+      "title": "Menkop dorong ekonomi masyarakat kawasan Danau Toba melalui koperasi - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 06 Oct 2026 14:59:47 GMT",
+      "link": "https://www.antaranews.com/berita/5774290/menkop-dorong-ekonomi-masyarakat-kawasan-danau-toba-melalui-koperasi"
+    },
+    {
       "title": "Pemerintah Daerah Mengendalikan Inflasi Pangan di Sumut - RRI.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -167,34 +195,6 @@
       "kind": "anggota",
       "published": "Tue, 06 Oct 2026 13:53:49 GMT",
       "link": "https://www.fraksigerindra.id/suara-gerindra/sumur-tua-tetap-produktif-andre-rosiade-apresiasi-kinerja-pertamina-hulu-energi-offshore-northwest-java/"
-    },
-    {
-      "title": "Menkop Dorong UNITA Jadi Pusat Pengembangan SDM dan Ekonomi Berbasis Koperasi - Kabarjoglo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 13:20:45 GMT",
-      "link": "https://kabarjoglo.com/2026/10/06/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi/"
-    },
-    {
-      "title": "Kementerian Perdagangan Menggelontorkan Rp. 2,6 Miliar untuk Pasar Rakyat Pascabencana Aceh Tengah - Pemerintah Kabupaten Aceh Tengah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 06 Oct 2026 12:59:32 GMT",
-      "link": "https://acehtengahkab.go.id/berita/kategori/penanggulangan-bencana/kementerian-perdagangan-menggelontorkan-rp-2-6-miliar-untuk-pasar-rakyat-pascabencana-aceh-tengah"
-    },
-    {
-      "title": "Amin Ak Minta APBN 2027 Tak Sekadar Kejar Pertumbuhan 6 Persen - Radarbangsa.com",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 12:02:00 GMT",
-      "link": "https://www.radarbangsa.com/news/62985/amin-ak-minta-apbn-2027-tak-sekadar-kejar-pertumbuhan-6-persen"
-    },
-    {
-      "title": "Semburan Gas Tukdana Indramayu, Anggota DPR Bakal Lapor SKK Migas - IndramayuJeh",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Tue, 06 Oct 2026 11:49:11 GMT",
-      "link": "https://www.indramayujeh.com/berita-terbaru/semburan-gas-tukdana-indramayu-anggota-dpr-bakal-lapor-skk-migas/"
     }
   ]
 }
