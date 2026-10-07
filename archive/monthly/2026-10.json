@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-07T17:14:09.316522",
+  "generated_at": "2026-10-07T22:41:09.134269",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 15,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 39,
-    "PDI-P": 71,
+    "PDI-P": 72,
     "Golkar": 92,
     "NasDem": 13,
     "PKB": 52,
-    "PKS": 69,
+    "PKS": 70,
     "PAN": 16,
     "Demokrat": 12
   },
@@ -40,10 +40,10 @@
     "dividen": 5,
     "koperasi": 49,
     "perdagangan": 12,
-    "investasi": 18,
+    "investasi": 19,
     "ekspor": 6,
     "merger-akuisisi": 6,
-    "ipo": 1,
+    "ipo": 2,
     "kartel-monopoli": 15,
     "impor": 12
   },
@@ -56,7 +56,7 @@
     "Mulyadi": 1,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 17,
-    "Darmadi Durianto": 5,
+    "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 9,
@@ -77,7 +77,7 @@
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 14,
+    "Ghufran": 15,
     "Ismail": 15,
     "Nasril Bahar": 6,
     "Iskandar": 10,
@@ -92,6 +92,27 @@
     "Hukum/Audit": 15
   },
   "top_headlines": [
+    {
+      "title": "Bukan Slogan, Darmadi: Empat Pilar Menjaga Persatuan di Tengah Keberagaman - www.gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Wed, 07 Oct 2026 21:31:09 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/bukan-slogan-darmadi-empat-pilar-menjaga-persatuan-di-tengah-keberagaman-b2qcEZbi08"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: UU Satu Data Indonesia Diharapkan Benahi Ketidaksinkronan - RRI.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 07 Oct 2026 21:30:00 GMT",
+      "link": "https://rri.co.id/nasional/2795064/rieke-diah-pitaloka-uu-satu-data-indonesia-diharapkan-benahi-ketidaksinkronan"
+    },
+    {
+      "title": "Danantara Beri Bocoran Daftar BUMN yang Siap IPO di Bursa, Apa Saja? - RCTI+",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/ekonomi/5488984/danantara-beri-bocoran-daftar-bumn-yang-siap-ipo-di-bursa--apa-saja-"
+    },
     {
       "title": "Bersama BP KPBPB, Lis Perkuat Sinergi Akselerasi Investasi dan Pengembangan Infrastruktur Kawasan - Pemerintah Kota Tanjungpinang",
       "entity": "BP Batam",
@@ -112,6 +133,13 @@
       "kind": "lembaga",
       "published": "Wed, 07 Oct 2026 14:22:31 GMT",
       "link": "https://www.tanjungpinangkota.go.id/publikasi/berita/9047-pemko-bp-kpbpb-perkuat-sinergi-akselerasi-investasi-dan-pengembangan-kawasan-ftz-tanjungpinang"
+    },
+    {
+      "title": "Pemko-BP KPBPB Perkuat Sinergi Akselerasi Investasi dan Pengembangan Kawasan FTZ Tanjungpinang - Pemerintah Kota Tanjungpinang",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 14:22:31 GMT",
+      "link": "https://tanjungpinangkota.go.id/publikasi/berita/9047-pemko-bp-kpbpb-perkuat-sinergi-akselerasi-investasi-dan-pengembangan-kawasan-ftz-tanjungpinang"
     },
     {
       "title": "Wamenkop Ajak KNPI Menjadi Penggerak KDKMP - indoposco",
@@ -142,6 +170,13 @@
       "link": "https://www.theiconomics.com/art-of-execution/kemendag-catat-surplus-perdagangan-senilai-us-355-m-di-periode-agustus-2026/"
     },
     {
+      "title": "BP BUMN minta PT LEN jaga keberlanjutan finansial demi riset hankam - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 12:53:44 GMT",
+      "link": "https://m.antaranews.com/amp/berita/5775722/bp-bumn-minta-pt-len-jaga-keberlanjutan-finansial-demi-riset-hankam"
+    },
+    {
       "title": "Kemendag Fasilitasi Pendampingan Sertifikasi Halal - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 07 Oct 2026 12:19:42 GMT",
       "link": "https://infobanknews.com/bofa-ramal-defisit-apbn-bisa-tembus-36-persen-ini-pemicunya"
-    },
-    {
-      "title": "Penuhi Undangan Menteri BUMN, PT PIM Kirim Srikandi UMKM Binaan - Jaringan Berita Aceh",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 11:19:33 GMT",
-      "link": "https://jaringanberitaaceh.com/ekonomi/penuhi-undangan-menteri-bumn-pt-pim-kirim-srikandi-umkm-binaan/"
-    },
-    {
-      "title": "Neraca Perdagangan Agustus 2026 Surplus Ditopang Nonmigas, Ini 3 Komoditas Unggulannya - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 11:10:05 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5488778/neraca-perdagangan-agustus-2026-surplus-ditopang-nonmigas--ini-3-komoditas-unggulannya"
-    },
-    {
-      "title": "Kementerian Koperasi RI Nilai Potensi Kopi Mimika Berpeluang Tembus Pasar Internasional - Papuanewsonline.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 11:03:35 GMT",
-      "link": "https://papuanewsonline.com/kementerian-koperasi-ri-nilai-potensi-kopi-mimika-berpeluang-tembus-pasar-internasional"
-    },
-    {
-      "title": "DPRK Sabang dan Polres Bahas Wacana Pulau Aceh dan Pemindahan Mapolres - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 10:48:00 GMT",
-      "link": "https://rri.co.id/sabang/info-parlemen/2794158/dprk-sabang-dan-polres-bahas-wacana-pulau-aceh-dan-pemindahan-mapolres"
-    },
-    {
-      "title": "Pemkab Pidie Jaya rehabilitasi tujuh pasar terdampak bencana - ANTARA News Aceh",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 10:34:20 GMT",
-      "link": "https://aceh.antaranews.com/berita/411812/pemkab-pidie-jaya-rehabilitasi-tujuh-pasar-terdampak-bencana"
     }
   ]
 }
