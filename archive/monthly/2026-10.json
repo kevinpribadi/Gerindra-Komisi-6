@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-08T09:57:44.358142",
+  "generated_at": "2026-10-08T17:17:04.519488",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 17,
+    "Gerindra": 21,
+    "PDI-P": 15,
     "Golkar": 13,
     "NasDem": 1,
     "PKB": 3,
     "PKS": 6,
-    "PAN": 2,
+    "PAN": 4,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 42,
-    "PDI-P": 72,
-    "Golkar": 86,
+    "PDI-P": 73,
+    "Golkar": 84,
     "NasDem": 13,
     "PKB": 52,
     "PKS": 68,
-    "PAN": 16,
+    "PAN": 18,
     "Demokrat": 13
   },
   "agency_counts_30d": {
@@ -35,17 +35,17 @@
   },
   "topic_counts_30d": {
     "bumn": 49,
-    "umkm": 10,
-    "danantara": 26,
-    "dividen": 6,
+    "umkm": 9,
+    "danantara": 29,
+    "dividen": 8,
     "koperasi": 48,
-    "perdagangan": 16,
-    "investasi": 23,
-    "ekspor": 3,
-    "merger-akuisisi": 9,
+    "investasi": 26,
+    "perdagangan": 18,
+    "impor": 13,
+    "ekspor": 1,
+    "merger-akuisisi": 11,
     "ipo": 3,
-    "kartel-monopoli": 15,
-    "impor": 12
+    "kartel-monopoli": 15
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -54,17 +54,17 @@
     "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 13,
-    "Mufti Anam": 17,
+    "Adisatrya Suryo Sulisto": 14,
+    "Mufti Anam": 18,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 2,
-    "Ida Nurlaela": 9,
+    "Ida Nurlaela": 8,
     "Totok Hedi Santosa": 5,
     "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
-    "Sarifah Suraidah": 6,
+    "Sarifah Suraidah": 4,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
@@ -80,122 +80,122 @@
     "Ghufran": 15,
     "Ismail": 13,
     "Nasril Bahar": 6,
-    "Iskandar": 10,
+    "Iskandar": 12,
     "Sartono": 2,
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 53,
-    "Kinerja BUMN": 17,
-    "Perdagangan": 29,
-    "Konflik Publik": 5,
-    "Hukum/Audit": 17
+    "Koperasi/UMKM": 52,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 27,
+    "Hukum/Audit": 18,
+    "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Danantara Siapkan Merger 23 Kawasan Industri, Target Jadi Terbesar di Asia Tenggara - Waspada.id",
+      "title": "Rakor Rencana Kawasan Perdagangan Bebas dan Pelabuhan Bebas Kota Tanjungpinang - WartaKepri.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 16:27:58 GMT",
+      "link": "https://wartakepri.co.id/2026/10/08/rakor-rencana-kawasan-perdagangan-bebas-dan-pelabuhan-bebas-kota-tanjungpinang/"
+    },
+    {
+      "title": "4 BUMN Karya Bakal Dimerger Akhir November 2026, Ini Daftarnya - SINDOnews Ekbis",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 15:07:54 GMT",
+      "link": "https://ekbis.sindonews.com/read/1758477/34/4-bumn-karya-bakal-dimerger-akhir-november-2026-ini-daftarnya-1791472246"
+    },
+    {
+      "title": "Danantara Tegaskan Dividen Rp120 Triliun Tak Masuk APBN, Purbaya Disebut Keliru - Sumbarsatu",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 09:32:59 GMT",
-      "link": "https://www.waspada.id/berita/danantara-siapkan-merger-23-kawasan-industri-target-jadi-terbesar-di-asia-tenggara"
+      "published": "Thu, 08 Oct 2026 15:07:00 GMT",
+      "link": "https://sumbarsatu.com/berita/35716-danantara-tegaskan-dividen-rp120-triliun-tak-masuk-apbn-purbaya-disebut-keliru"
     },
     {
-      "title": "Kemendag: Transaksi Emas Digital Tembus Rp299,5 Triliun - Media Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 09:27:59 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/942129/kemendag-transaksi-emas-digital-tembus-rp2995-triliun"
-    },
-    {
-      "title": "Jalin Kerja Sama, UIN RIL – BKPerdag Kemendag Perkuat Riset Kebijakan Perdagangan dan Pemagangan Mahasiswa - Universitas Islam Negeri Raden Intan Lampung",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 09:09:49 GMT",
-      "link": "https://www.radenintan.ac.id/jalin-kerja-sama-uin-ril-bkperdag-kemendag-perkuat-riset-kebijakan-perdagangan-dan-pemagangan-mahasiswa/"
-    },
-    {
-      "title": "Kemendag Blokir 812 Situs Perdagangan Berjangka Ilegal hingga September 2026 - Bisnis.com - Market",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 09:07:26 GMT",
-      "link": "https://market.bisnis.com/read/20261008/94/2010856/kemendag-blokir-812-situs-perdagangan-berjangka-ilegal-hingga-september-2026"
-    },
-    {
-      "title": "Kemendag Buka Bulan Literasi Perdagangan Berjangka Komoditi - SinPo.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 09:00:00 GMT",
-      "link": "https://tv.sinpo.id/detail/kemendag-buka-bulan-literasi-perdagangan-berjangka-komoditi"
-    },
-    {
-      "title": "Wamenkop Ajak KNPI Menjadi Penggerak KDKMP - TopBusiness.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 08:57:00 GMT",
-      "link": "https://www.topbusiness.id/137754/wamenkop-ajak-knpi-menjadi-penggerak-kdkmp.html"
-    },
-    {
-      "title": "Terima Dubes Georgia, BKSAP DPR Dorong Penguatan Perdagangan dan Pariwisata Antar-Kedua Negara - Suara Investor",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Thu, 08 Oct 2026 08:53:52 GMT",
-      "link": "https://www.suarainvestor.com/terima-dubes-georgia-bksap-dpr-dorong-penguatan-perdagangan-dan-pariwisata-antar-kedua-negara/"
-    },
-    {
-      "title": "Terima Dubes Georgia, BKSAP Dorong Penguatan Kerja Sama Perdagangan hingga Pendidikan - fraksi gerindra dpr-ri",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Thu, 08 Oct 2026 08:43:05 GMT",
-      "link": "https://www.fraksigerindra.id/terima-dubes-georgia-bksap-dorong-penguatan-kerja-sama-perdagangan-hingga-pendidikan/"
-    },
-    {
-      "title": "Belajar Good Mining Practice, KDKMP Babel Didorong Jadi Koperasi Produktif dan Berkelanjutan - Pemerintah Provinsi Kepulauan Bangka Belitung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 08:35:13 GMT",
-      "link": "https://kukm.babelprov.go.id/detail-post/belajar-good-mining-practice-kdkmp-babel-didorong-jadi-koperasi-produktif-dan-berkelanjutan"
-    },
-    {
-      "title": "Rakor Bersama KPBPB, Sekda Zulhidayat Tekankan Pentingnya Sinkronisasi Dokumen Penataan Ruang - Pemerintah Kota Tanjungpinang",
+      "title": "Pemko Tanjungpinang Dukung Penyusunan Pengembangan Kawasan Perdagangan Bebas - RRI.co.id",
       "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 08:09:30 GMT",
-      "link": "https://humprofoto.tanjungpinangkota.go.id/news/rakor-bersama-kpbpb-sekda-zulhidayat-tekankan-pentingnya-sinkronisasi-dokumen-penataan-ruang.html"
+      "published": "Thu, 08 Oct 2026 14:32:00 GMT",
+      "link": "https://rri.co.id/tanjungpinang/regional/2797299/pemko-tanjungpinang-dukung-penyusunan-pengembangan-kawasan-perdagangan-bebas"
     },
     {
-      "title": "Herman Khaeron Buka Pendidikan Politik Demokrat di Karawang, Tekankan Pentingnya Integritas Kader - Suara Pemerintah",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 08 Oct 2026 08:04:53 GMT",
-      "link": "https://suarapemerintah.id/2026/10/herman-khaeron-buka-pendidikan-politik-demokrat-di-karawang-tekankan-pentingnya-integritas-kader/"
-    },
-    {
-      "title": "Rakor Penyusunan Rencana Rinci KPBPB, Sekda Zulhidayat Tekankan Sinkronisasi dengan RTRW dan RDTR Kota Tanjungpinang - Pemerintah Kota Tanjungpinang",
-      "entity": "BP Batam",
+      "title": "Siap Dana Investasi, Dipastikan Tak ada Dividen Danantara Untuk APBN - Emitennews.com",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 07:43:29 GMT",
-      "link": "https://www.tanjungpinangkota.go.id/publikasi/berita/9052-rakor-penyusunan-rencana-rinci-kpbpb-sekda-zulhidayat-tekankan-sinkronisasi-dengan-rtrw-dan-rdtr-kota-tanjungpinang"
+      "published": "Thu, 08 Oct 2026 14:31:00 GMT",
+      "link": "https://www.emitennews.com/news/siap-dana-investasi-dipastikan-tak-ada-dividen-danantara-untuk-apbn"
     },
     {
-      "title": "Kemenkop-PT Timah tingkatkan kapasitas KDKMP kelola tambang - ANTARA News Bangka Belitung",
+      "title": "BP BUMN: Kolaborasi dengan Swasta Sangat Krusial untuk Dorong Ekonomi - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 14:16:16 GMT",
+      "link": "https://investor.id/macroeconomy/457226/bp-bumn-kolaborasi-dengan-swasta-sangat-krusial-untuk-dorong-ekonomi"
+    },
+    {
+      "title": "Kemenkop Siapkan Koperasi sebagai Mitra Pembayaran Pensiun ASN - www.suaralandak.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 07:39:08 GMT",
-      "link": "https://babel.antaranews.com/berita/586438/kemenkop-pt-timah-tingkatkan-kapasitas-kdkmp-kelola-tambang"
+      "published": "Thu, 08 Oct 2026 14:04:24 GMT",
+      "link": "https://www.suaralandak.co.id/kemenkop-koperasi-mitra-pembayaran-pensiun-asn"
     },
     {
-      "title": "Kemendag catat nilai transaksi emas digital melonjak 641,1 persen - ANTARA News",
+      "title": "BP BUMN Sebut Penjualan Tiket MotoGP Mandalika 2026 Telah Capai 90% - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 13:55:34 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-sebut-penjualan-tiket-motogp-mandalika-2026-telah-capai-90/"
+    },
+    {
+      "title": "Kebingungan Pelaku Usaha Lebih Mahal daripada Hambatan Tarif - investor.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 07:37:50 GMT",
-      "link": "https://www.antaranews.com/berita/5776752/kemendag-catat-nilai-transaksi-emas-digital-melonjak-6411-persen"
+      "published": "Thu, 08 Oct 2026 13:31:16 GMT",
+      "link": "https://investor.id/macroeconomy/457220/kebingungan-pelaku-usaha-lebih-mahal-daripada-hambatan-tarif"
     },
     {
-      "title": "10 Provinsi dengan Manajer Kopdes Terbanyak Oktober 2026, Jawa Timur Pimpin Daftar - GoodStats",
+      "title": "Danantara Targetkan Empat BUMN Karya Merger di Akhir November, Intip Daftarnya - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 13:30:07 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5489606/danantara-targetkan-empat-bumn-karya-merger-di-akhir-november--intip-daftarnya"
+    },
+    {
+      "title": "Kemenkop Klarifikasi Isu Gaji dan Pensiunan ASN Dibayar Lewat Kopdes, Sebut Belum Ada Keputusan Resmi - InvestorTrust",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 07:06:07 GMT",
-      "link": "https://goodstats.id/article/10-provinsi-manajer-kopdes-merah-putih-terbanyak-2026-oKpLs"
+      "published": "Thu, 08 Oct 2026 13:22:00 GMT",
+      "link": "https://investortrust.id/business/118763/kemenkop-klarifikasi-isu-gaji-dan-pensiunan-asn-dibayar-lewat-kopdes-sebut-belum-ada-keputusan-resmi"
+    },
+    {
+      "title": "Kemenkop upayakan koperasi di Babel miliki IUP - ANTARA News Bangka Belitung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 12:43:22 GMT",
+      "link": "https://babel.antaranews.com/berita/586546/kemenkop-upayakan-koperasi-di-babel-miliki-iup"
+    },
+    {
+      "title": "DED Sudah Jadi, Pasar Anyar Kudus Dibangun 2027 dengan Anggaran Kemendag RI - Radar Pati",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 12:39:01 GMT",
+      "link": "https://radarpati.jawapos.com/kudus/2610080062/ded-sudah-jadi-pasar-anyar-kudus-dibangun-2027-dengan-anggaran-kemendag-ri"
+    },
+    {
+      "title": "Permendag Berlaku, Kemendag dan AREBI Pacu Sertifikasi Agen Properti - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 12:29:56 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261008/47/2011015/permendag-berlaku-kemendag-dan-arebi-pacu-sertifikasi-agen-properti"
+    },
+    {
+      "title": "Heboh Gaji ASN Lewat Koperasi, Ini Klarifikasi Tegas Kementerian Koperasi - Jurnal Patroli News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 12:27:44 GMT",
+      "link": "https://jurnalpatrolinews.co.id/nasional/heboh-gaji-asn-lewat-koperasi-ini-klarifikasi-tegas-kementerian-koperasi/"
     }
   ]
 }
