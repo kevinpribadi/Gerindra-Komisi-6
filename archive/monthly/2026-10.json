@@ -1,8 +1,8 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-07T22:41:09.134269",
+  "generated_at": "2026-10-08T02:29:30.694832",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 21,
     "PDI-P": 15,
     "Golkar": 19,
     "NasDem": 1,
@@ -12,12 +12,12 @@
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 39,
+    "Gerindra": 40,
     "PDI-P": 72,
     "Golkar": 92,
     "NasDem": 13,
     "PKB": 52,
-    "PKS": 70,
+    "PKS": 69,
     "PAN": 16,
     "Demokrat": 12
   },
@@ -37,13 +37,13 @@
     "bumn": 54,
     "umkm": 11,
     "danantara": 23,
-    "dividen": 5,
-    "koperasi": 49,
+    "dividen": 3,
+    "koperasi": 50,
     "perdagangan": 12,
-    "investasi": 19,
+    "investasi": 20,
     "ekspor": 6,
     "merger-akuisisi": 6,
-    "ipo": 2,
+    "ipo": 3,
     "kartel-monopoli": 15,
     "impor": 12
   },
@@ -53,7 +53,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 8,
     "Unru Baso": 1,
-    "Mulyadi": 1,
+    "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 17,
     "Darmadi Durianto": 6,
@@ -78,20 +78,62 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 15,
-    "Ismail": 15,
+    "Ismail": 14,
     "Nasril Bahar": 6,
     "Iskandar": 10,
     "Sartono": 2,
     "Herman Khaeron": 10
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 57,
-    "Kinerja BUMN": 23,
+    "Koperasi/UMKM": 58,
+    "Kinerja BUMN": 22,
     "Perdagangan": 32,
     "Konflik Publik": 6,
     "Hukum/Audit": 15
   },
   "top_headlines": [
+    {
+      "title": "Danantara Perkuat Tata Kelola Perusahaan, Rosan Siapkan BUMN - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 02:08:06 GMT",
+      "link": "https://investor.id/national/457119/danantara-perkuat-tata-kelola-perusahaan-rosan-siapkan-bumn"
+    },
+    {
+      "title": "Koperasi Mau Salurkan Gaji PNS, Pengawasnya Bukan OJK, Pengamat: Niatnya Jangan 'Nyolong' - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 01:09:00 GMT",
+      "link": "https://www.inilah.com/koperasi-mau-salurkan-gaji-pns-pengawasnya-bukan-ojk-pengamat-niatnya-jangan-nyolong"
+    },
+    {
+      "title": "Menkop Dorong UNITA Jadi Pusat Pengembangan SDM dan Ekonomi Berbasis Koperasi - harianSIB.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 01:00:00 GMT",
+      "link": "https://www.hariansib.com/Headlines/450901/menkop-dorong-unita-jadi-pusat-pengembangan-sdm-dan-ekonomi-berbasis-koperasi/"
+    },
+    {
+      "title": "DEKOPINDA Cianjur Audiensi dengan Wamenkop RI, Dorong Penguatan Regulasi dan Kolaborasi Koperasi - Cianjur Update",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 00:56:05 GMT",
+      "link": "https://www.cianjurupdate.com/dekopinda-cianjur-audiensi-dengan-wamenkop-ri-dorong-penguatan-regulasi-dan-kolaborasi-koperasi"
+    },
+    {
+      "title": "Bocoran Rosan soal BUMN yang Mau IPO: Sektor Finansial hingga Tambang - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 07 Oct 2026 23:40:22 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261007234912-92-1412894/bocoran-rosan-soal-bumn-yang-mau-ipo-sektor-finansial-hingga-tambang"
+    },
+    {
+      "title": "Mulyadi Hadiri Kunker Spesifik Komisi II DPR RI, Dorong Pengamanan dan Sertifikasi Aset BMD - Lintas Sumbar",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Wed, 07 Oct 2026 22:54:46 GMT",
+      "link": "https://lintassumbar.co.id/2026/10/mulyadi-hadiri-kunker-spesifik-komisi-ii-dpr-ri-dorong-pengamanan-dan-sertifikasi-aset-bmd.html"
+    },
     {
       "title": "Bukan Slogan, Darmadi: Empat Pilar Menjaga Persatuan di Tengah Keberagaman - www.gesuri.id",
       "entity": "Darmadi Durianto",
@@ -154,48 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 07 Oct 2026 13:15:42 GMT",
       "link": "https://www.cianjurupdate.com/dekopinda-cianjur-audiensi-dengan-wamenkop-ri-dorong-penguatan-regulasi-dan-kolaborasi-koperasi"
-    },
-    {
-      "title": "Koperasi Merah Putih Limau Asri Timur Didorong Penuhi Kebutuhan Dasar Masyarakat - Koreri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 13:00:00 GMT",
-      "link": "https://koreri.com/2026/10/07/koperasi-merah-putih-limau-asri-timur-didorong-penuhi-kebutuhan-dasar-masyarakat/"
-    },
-    {
-      "title": "Kemendag Catat Surplus Perdagangan Senilai US$ 3,55 M di Periode Agustus 2026 - Iconomics",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 12:58:22 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/kemendag-catat-surplus-perdagangan-senilai-us-355-m-di-periode-agustus-2026/"
-    },
-    {
-      "title": "BP BUMN minta PT LEN jaga keberlanjutan finansial demi riset hankam - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 12:53:44 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5775722/bp-bumn-minta-pt-len-jaga-keberlanjutan-finansial-demi-riset-hankam"
-    },
-    {
-      "title": "Kemendag Fasilitasi Pendampingan Sertifikasi Halal - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 12:48:21 GMT",
-      "link": "https://www.niaga.asia/kemendag-fasilitasi-pendampingan-sertifikasi-halal/"
-    },
-    {
-      "title": "Siap-Siap! Sejumlah BUMN Bakal Melantai di BEI pada 2027, Ini Sektornya - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 12:26:42 GMT",
-      "link": "https://investasi.kontan.co.id/news/siap-siap-sejumlah-bumn-bakal-melantai-di-bei-pada-2027-ini-sektornya"
-    },
-    {
-      "title": "BofA Ramal Defisit APBN Bisa Tembus 3,6 Persen, Ini Pemicunya - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 07 Oct 2026 12:19:42 GMT",
-      "link": "https://infobanknews.com/bofa-ramal-defisit-apbn-bisa-tembus-36-persen-ini-pemicunya"
     }
   ]
 }
