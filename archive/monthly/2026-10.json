@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-08T17:17:04.519488",
+  "generated_at": "2026-10-08T22:52:09.009323",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 15,
+    "PDI-P": 16,
     "Golkar": 13,
     "NasDem": 1,
     "PKB": 3,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 42,
-    "PDI-P": 73,
+    "PDI-P": 74,
     "Golkar": 84,
     "NasDem": 13,
     "PKB": 52,
@@ -36,14 +36,14 @@
   "topic_counts_30d": {
     "bumn": 49,
     "umkm": 9,
-    "danantara": 29,
+    "danantara": 30,
     "dividen": 8,
-    "koperasi": 48,
-    "investasi": 26,
+    "koperasi": 49,
+    "investasi": 25,
     "perdagangan": 18,
     "impor": 13,
     "ekspor": 1,
-    "merger-akuisisi": 11,
+    "merger-akuisisi": 13,
     "ipo": 3,
     "kartel-monopoli": 15
   },
@@ -54,7 +54,7 @@
     "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 2,
-    "Adisatrya Suryo Sulisto": 14,
+    "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 18,
     "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
@@ -85,19 +85,47 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 52,
+    "Koperasi/UMKM": 53,
     "Kinerja BUMN": 16,
-    "Perdagangan": 27,
+    "Perdagangan": 28,
     "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Klarifikasi: Koperasi Belum Resmi Jadi Penyalur Gaji dan Pensiun PNS - tutur.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 22:08:12 GMT",
+      "link": "https://tutur.co.id/kemenkop-klarifikasi-koperasi-belum-resmi-jadi-penyalur-gaji-dan-pensiun-pns/"
+    },
+    {
+      "title": "Koperasi Mulai Mengusik Bisnis Payroll Bank Daerah - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 21:54:11 GMT",
+      "link": "https://insight.kontan.co.id/news/koperasi-mulai-mengusik-bisnis-payroll-bank-daerah"
+    },
+    {
+      "title": "Danantara Batal Setor ke Negara - Epaper Media Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 17:00:00 GMT",
+      "link": "https://epaper.mediaindonesia.com/detail/danantara-batal-setor-ke-negara"
+    },
     {
       "title": "Rakor Rencana Kawasan Perdagangan Bebas dan Pelabuhan Bebas Kota Tanjungpinang - WartaKepri.co.id",
       "entity": "BP Batam",
       "kind": "lembaga",
       "published": "Thu, 08 Oct 2026 16:27:58 GMT",
       "link": "https://wartakepri.co.id/2026/10/08/rakor-rencana-kawasan-perdagangan-bebas-dan-pelabuhan-bebas-kota-tanjungpinang/"
+    },
+    {
+      "title": "4 BUMN Karya Bakal Dimerger Akhir November 2026, Ini Daftarnya - SINDOnews Ekbis",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 15:07:54 GMT",
+      "link": "https://ekbis.sindonews.com/newsread/1758477/34/4-bumn-karya-bakal-dimerger-akhir-november-2026-ini-daftarnya-1791472246"
     },
     {
       "title": "4 BUMN Karya Bakal Dimerger Akhir November 2026, Ini Daftarnya - SINDOnews Ekbis",
@@ -112,6 +140,13 @@
       "kind": "lembaga",
       "published": "Thu, 08 Oct 2026 15:07:00 GMT",
       "link": "https://sumbarsatu.com/berita/35716-danantara-tegaskan-dividen-rp120-triliun-tak-masuk-apbn-purbaya-disebut-keliru"
+    },
+    {
+      "title": "Danantara Targetkan 4 BUMN Karya Merger Akhir November, Berikut Daftarnya - RCTI+",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 14:44:15 GMT",
+      "link": "https://www.rctiplus.com/news/detail/ekonomi/5489670/danantara-targetkan-4-bumn-karya-merger-akhir-november--berikut-daftarnya"
     },
     {
       "title": "Pemko Tanjungpinang Dukung Penyusunan Pengembangan Kawasan Perdagangan Bebas - RRI.co.id",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Thu, 08 Oct 2026 13:30:07 GMT",
       "link": "https://www.rctiplus.com/news/detail/idxchannel/5489606/danantara-targetkan-empat-bumn-karya-merger-di-akhir-november--intip-daftarnya"
-    },
-    {
-      "title": "Kemenkop Klarifikasi Isu Gaji dan Pensiunan ASN Dibayar Lewat Kopdes, Sebut Belum Ada Keputusan Resmi - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 13:22:00 GMT",
-      "link": "https://investortrust.id/business/118763/kemenkop-klarifikasi-isu-gaji-dan-pensiunan-asn-dibayar-lewat-kopdes-sebut-belum-ada-keputusan-resmi"
-    },
-    {
-      "title": "Kemenkop upayakan koperasi di Babel miliki IUP - ANTARA News Bangka Belitung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 12:43:22 GMT",
-      "link": "https://babel.antaranews.com/berita/586546/kemenkop-upayakan-koperasi-di-babel-miliki-iup"
-    },
-    {
-      "title": "DED Sudah Jadi, Pasar Anyar Kudus Dibangun 2027 dengan Anggaran Kemendag RI - Radar Pati",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 12:39:01 GMT",
-      "link": "https://radarpati.jawapos.com/kudus/2610080062/ded-sudah-jadi-pasar-anyar-kudus-dibangun-2027-dengan-anggaran-kemendag-ri"
-    },
-    {
-      "title": "Permendag Berlaku, Kemendag dan AREBI Pacu Sertifikasi Agen Properti - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 12:29:56 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261008/47/2011015/permendag-berlaku-kemendag-dan-arebi-pacu-sertifikasi-agen-properti"
-    },
-    {
-      "title": "Heboh Gaji ASN Lewat Koperasi, Ini Klarifikasi Tegas Kementerian Koperasi - Jurnal Patroli News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 12:27:44 GMT",
-      "link": "https://jurnalpatrolinews.co.id/nasional/heboh-gaji-asn-lewat-koperasi-ini-klarifikasi-tegas-kementerian-koperasi/"
     }
   ]
 }
