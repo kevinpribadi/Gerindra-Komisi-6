@@ -1,13 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-08T22:52:09.009323",
+  "generated_at": "2026-10-09T02:45:44.453798",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 16,
+    "PDI-P": 17,
     "Golkar": 13,
     "NasDem": 1,
     "PKB": 3,
-    "PKS": 6,
+    "PKS": 7,
     "PAN": 4,
     "Demokrat": 5
   },
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
+    "bumn": 47,
     "umkm": 9,
-    "danantara": 30,
-    "dividen": 8,
+    "danantara": 33,
+    "dividen": 9,
     "koperasi": 49,
-    "investasi": 25,
-    "perdagangan": 18,
+    "investasi": 28,
+    "perdagangan": 19,
     "impor": 13,
     "ekspor": 1,
-    "merger-akuisisi": 13,
     "ipo": 3,
+    "merger-akuisisi": 14,
     "kartel-monopoli": 15
   },
   "member_counts_30d": {
@@ -55,8 +55,8 @@
     "Unru Baso": 1,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 15,
-    "Mufti Anam": 18,
-    "Darmadi Durianto": 6,
+    "Mufti Anam": 17,
+    "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 8,
@@ -85,13 +85,90 @@
     "Herman Khaeron": 11
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 53,
-    "Kinerja BUMN": 16,
-    "Perdagangan": 28,
+    "Koperasi/UMKM": 52,
+    "Kinerja BUMN": 15,
+    "Perdagangan": 26,
     "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Pajak E-Commerce Berlaku, BPKN: Jangan Bikin Konsumen Kaget Saat Checkout Harbolnas 10.10 - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 02:39:00 GMT",
+      "link": "https://www.mediakarya.id/pajak-e-commerce-berlaku-bpkn-ingatkan-jangan-bikin-konsumen-kaget-saat-checkout-harbolnas-10-10/"
+    },
+    {
+      "title": "Dividen BUMN Tak Masuk Kas Negara, Danantara Alihkan untuk Investasi - Waspada.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 02:06:03 GMT",
+      "link": "https://www.waspada.id/berita/dividen-bumn-tak-masuk-kas-negara-danantara-alihkan-untuk-investasi"
+    },
+    {
+      "title": "Danantara Tegaskan Pelindo dan Pelni Tidak Akan Dimerger - CNN Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 01:25:29 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261009072210-92-1413369/danantara-tegaskan-pelindo-dan-pelni-tidak-akan-dimerger"
+    },
+    {
+      "title": "Gaduh Gaji PNS dan Pensiun Disalurkan Lewat Koperasi, Kemenkop: Bangun Ekosistem Sehat - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 01:09:00 GMT",
+      "link": "https://www.inilah.com/gaduh-gaji-pns-dan-pensiun-disalurkan-lewat-koperasi-kemenkop-bangun-ekosistem-sehat"
+    },
+    {
+      "title": "Apakah IPO Bisa Mendorong Pertumbuhan BUMN Berkelanjutan - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 01:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/apakah-ipo-mendorong-pertumbuhan-bumn-secara-berkelanjutan--2299457"
+    },
+    {
+      "title": "Danantara Mau Ambil Saham BEI 5% Lebih, OJK: Infrastruktur Belum Siap - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 00:30:01 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261009055555-17-774568/danantara-mau-ambil-saham-bei-5-lebih-ojk-infrastruktur-belum-siap"
+    },
+    {
+      "title": "Dony Oskaria: Danantara Masih Pertimbangkan Keputusan Masuk BEI - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 00:27:25 GMT",
+      "link": "https://investor.id/market/457259/dony-oskaria-danantara-masih-pertimbangkan-keputusan-masuk-bei"
+    },
+    {
+      "title": "Koperasi Bakal Ikut Bayar Gaji Pensiunan PNS? Ini Kata Kemenkop - CNBC Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 00:25:30 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261009062329-4-774570/koperasi-bakal-ikut-bayar-gaji-pensiunan-pns-ini-kata-kemenkop"
+    },
+    {
+      "title": "DPR Puji Transformasi Dan Kinerja PT Telkom - RM.ID",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Fri, 09 Oct 2026 00:05:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/329438/aset-infrastruktur-bisnisnya-besar-dpr-puji-transformasi-dan-kinerja-pt-telkom"
+    },
+    {
+      "title": "Kemenkop Klarifikasi Wacana Kopdes Salurkan Gaji dan Dana Pensiun ASN - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 00:05:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-klarifikasi-wacana-kopdes-salurkan-gaji-dan-dana-pensiun-asn/"
+    },
+    {
+      "title": "Kemenkop: Belum ada keputusan resmi koperasi jadi penyalur gaji PNS - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 23:06:20 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/428081/kemenkop-belum-ada-keputusan-resmi-koperasi-jadi-penyalur-gaji-pns"
+    },
     {
       "title": "Kemenkop Klarifikasi: Koperasi Belum Resmi Jadi Penyalur Gaji dan Pensiun PNS - tutur.co.id",
       "entity": "Kementerian Koperasi",
@@ -107,95 +184,18 @@
       "link": "https://insight.kontan.co.id/news/koperasi-mulai-mengusik-bisnis-payroll-bank-daerah"
     },
     {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 08 Oct 2026 17:16:33 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261009/Mjc0NDQ0"
+    },
+    {
       "title": "Danantara Batal Setor ke Negara - Epaper Media Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 08 Oct 2026 17:00:00 GMT",
       "link": "https://epaper.mediaindonesia.com/detail/danantara-batal-setor-ke-negara"
-    },
-    {
-      "title": "Rakor Rencana Kawasan Perdagangan Bebas dan Pelabuhan Bebas Kota Tanjungpinang - WartaKepri.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 16:27:58 GMT",
-      "link": "https://wartakepri.co.id/2026/10/08/rakor-rencana-kawasan-perdagangan-bebas-dan-pelabuhan-bebas-kota-tanjungpinang/"
-    },
-    {
-      "title": "4 BUMN Karya Bakal Dimerger Akhir November 2026, Ini Daftarnya - SINDOnews Ekbis",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 15:07:54 GMT",
-      "link": "https://ekbis.sindonews.com/newsread/1758477/34/4-bumn-karya-bakal-dimerger-akhir-november-2026-ini-daftarnya-1791472246"
-    },
-    {
-      "title": "4 BUMN Karya Bakal Dimerger Akhir November 2026, Ini Daftarnya - SINDOnews Ekbis",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 15:07:54 GMT",
-      "link": "https://ekbis.sindonews.com/read/1758477/34/4-bumn-karya-bakal-dimerger-akhir-november-2026-ini-daftarnya-1791472246"
-    },
-    {
-      "title": "Danantara Tegaskan Dividen Rp120 Triliun Tak Masuk APBN, Purbaya Disebut Keliru - Sumbarsatu",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 15:07:00 GMT",
-      "link": "https://sumbarsatu.com/berita/35716-danantara-tegaskan-dividen-rp120-triliun-tak-masuk-apbn-purbaya-disebut-keliru"
-    },
-    {
-      "title": "Danantara Targetkan 4 BUMN Karya Merger Akhir November, Berikut Daftarnya - RCTI+",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 14:44:15 GMT",
-      "link": "https://www.rctiplus.com/news/detail/ekonomi/5489670/danantara-targetkan-4-bumn-karya-merger-akhir-november--berikut-daftarnya"
-    },
-    {
-      "title": "Pemko Tanjungpinang Dukung Penyusunan Pengembangan Kawasan Perdagangan Bebas - RRI.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 14:32:00 GMT",
-      "link": "https://rri.co.id/tanjungpinang/regional/2797299/pemko-tanjungpinang-dukung-penyusunan-pengembangan-kawasan-perdagangan-bebas"
-    },
-    {
-      "title": "Siap Dana Investasi, Dipastikan Tak ada Dividen Danantara Untuk APBN - Emitennews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 14:31:00 GMT",
-      "link": "https://www.emitennews.com/news/siap-dana-investasi-dipastikan-tak-ada-dividen-danantara-untuk-apbn"
-    },
-    {
-      "title": "BP BUMN: Kolaborasi dengan Swasta Sangat Krusial untuk Dorong Ekonomi - investor.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 14:16:16 GMT",
-      "link": "https://investor.id/macroeconomy/457226/bp-bumn-kolaborasi-dengan-swasta-sangat-krusial-untuk-dorong-ekonomi"
-    },
-    {
-      "title": "Kemenkop Siapkan Koperasi sebagai Mitra Pembayaran Pensiun ASN - www.suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 14:04:24 GMT",
-      "link": "https://www.suaralandak.co.id/kemenkop-koperasi-mitra-pembayaran-pensiun-asn"
-    },
-    {
-      "title": "BP BUMN Sebut Penjualan Tiket MotoGP Mandalika 2026 Telah Capai 90% - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 13:55:34 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-sebut-penjualan-tiket-motogp-mandalika-2026-telah-capai-90/"
-    },
-    {
-      "title": "Kebingungan Pelaku Usaha Lebih Mahal daripada Hambatan Tarif - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 13:31:16 GMT",
-      "link": "https://investor.id/macroeconomy/457220/kebingungan-pelaku-usaha-lebih-mahal-daripada-hambatan-tarif"
-    },
-    {
-      "title": "Danantara Targetkan Empat BUMN Karya Merger di Akhir November, Intip Daftarnya - RCTI+",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 08 Oct 2026 13:30:07 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5489606/danantara-targetkan-empat-bumn-karya-merger-di-akhir-november--intip-daftarnya"
     }
   ]
 }
