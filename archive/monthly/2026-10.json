@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-10T02:03:26.957071",
+  "generated_at": "2026-10-10T09:22:35.502261",
   "party_counts_7d": {
     "Gerindra": 24,
-    "PDI-P": 15,
-    "Golkar": 12,
-    "PKB": 7,
+    "PDI-P": 14,
+    "Golkar": 15,
+    "PKB": 8,
     "PKS": 7,
     "PAN": 5,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 42,
+    "Gerindra": 40,
     "PDI-P": 74,
-    "Golkar": 85,
+    "Golkar": 89,
     "NasDem": 12,
     "PKB": 51,
     "PKS": 67,
@@ -21,7 +21,7 @@
     "Demokrat": 15
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 17,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,23 +33,23 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 45,
-    "umkm": 9,
-    "danantara": 34,
+    "bumn": 46,
+    "umkm": 11,
+    "danantara": 33,
     "dividen": 9,
-    "koperasi": 47,
-    "ekspor": 2,
+    "ekspor": 4,
     "perdagangan": 18,
     "impor": 14,
-    "investasi": 28,
+    "investasi": 30,
+    "koperasi": 44,
     "ipo": 1,
-    "merger-akuisisi": 14,
+    "merger-akuisisi": 12,
     "kartel-monopoli": 14
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Muhammad Husein Fadlulloh": 10,
-    "Kawendra Lukistian": 9,
+    "Muhammad Husein Fadlulloh": 9,
+    "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 15,
@@ -59,14 +59,14 @@
     "Sadarestuwati": 2,
     "Ida Nurlaela": 8,
     "Totok Hedi Santosa": 5,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
-    "Sarifah Suraidah": 3,
+    "Sarifah Suraidah": 4,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 19,
+    "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 6,
     "I Nengah Senantara": 6,
     "Anggia Erma Rini": 7,
@@ -85,115 +85,115 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 53,
     "Kinerja BUMN": 15,
-    "Perdagangan": 27,
-    "Hukum/Audit": 17,
-    "Konflik Publik": 4
+    "Perdagangan": 32,
+    "Konflik Publik": 4,
+    "Hukum/Audit": 16
   },
   "top_headlines": [
     {
-      "title": "Kalsel Siapkan Pelatihan Pengelola KDKMP 24 Oktober - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 01:59:00 GMT",
-      "link": "https://rri.co.id/banjarmasin/info-pemda/2800659/kalsel-siapkan-pelatihan-pengelola-kdkmp-24-oktober"
-    },
-    {
-      "title": "Sistem Penggajian ASN Lewat Koperasi Belum Final, Kemenkop Sebut Masih Wacana - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 00:17:00 GMT",
-      "link": "https://www.beritakoperasi.com/sistem-penggajian-asn-lewat-koperasi-belum-final-kemenkop-sebut-masih-wacana/"
-    },
-    {
-      "title": "Andre Rosiade Dorong Penguatan Ekosistem Industri Batam - DPR RI",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 09 Oct 2026 23:45:54 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Dorong-Penguatan-Ekosistem-Industri-Batam-69934"
-    },
-    {
-      "title": "Kemendag Kembangkan InaExport Jadi Ekosistem B2B, Holding Perkebunan Nusantara melalui PTPN IV PalmCo Perluas Akses Pasar Ekspor - Voice of ASIA",
+      "title": "Mendag Ajak Generasi Muda Kembangkan Bisnis Waralaba, Bidik Pasar Ekspor - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 23:45:00 GMT",
-      "link": "https://voiceofasean.com/newsroom/kemendag-kembangkan-inaexport-jadi-ekosistem-b2b-holding-perkebunan-nusantara-melalui-ptpn-iv-palmco-perluas-akses-pasar-ekspor/"
+      "published": "Sat, 10 Oct 2026 08:30:00 GMT",
+      "link": "https://swa.co.id/read/478286/mendag-ajak-generasi-muda-kembangkan-bisnis-waralaba-bidik-pasar-ekspor"
     },
     {
-      "title": "Heboh Gaji PNS dan Pensiun Disalurkan Lewat Koperasi, Ini Kata Kemenkop - https://janalokajournal.id/",
+      "title": "Rencana Gaji PNS dan Pensiunan Dibayar lewat Koperasi Didukung - Media Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 23:24:00 GMT",
-      "link": "https://janalokajournal.id/heboh-gaji-pns-dan-pensiun-disalurkan-lewat-koperasi/"
+      "published": "Sat, 10 Oct 2026 08:19:18 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/942842/rencana-gaji-pns-dan-pensiunan-dibayar-lewat-koperasi-didukung"
     },
     {
-      "title": "Rieke Diah Pitaloka Bongkar Borok Pemasyarakatan Nasional - Bela Rakyat",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 09 Oct 2026 22:02:45 GMT",
-      "link": "https://belarakyat.com/rieke-diah-pitaloka-bongkar-borok-pemasyarakatan-nasional/"
-    },
-    {
-      "title": "BP Batam dan Bakom RI Bagikan Kunci Pembangunan Kawasan dan Komunikasi Publik - Kementerian Transmigrasi Republik Indonesia",
-      "entity": "BP Batam",
+      "title": "BPKN minta penerapan pajak niaga-el perhatikan UMKM - ANTARA News",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 18:16:45 GMT",
-      "link": "https://www.transmigrasi.go.id/bp-batam-dan-bakom-ri-bagikan-kunci-pembangunan-kawasan-dan-komunikasi-publik/"
+      "published": "Sat, 10 Oct 2026 07:54:31 GMT",
+      "link": "https://www.antaranews.com/berita/5779862/bpkn-minta-penerapan-pajak-niaga-el-perhatikan-umkm"
     },
     {
-      "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi - Kemdiktisaintek",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 16:30:00 GMT",
-      "link": "https://kemdiktisaintek.go.id/news/article/sampaikan-aspirasi-peserta-future-leaders-summit-2026-kemdiktisaintek-diterima-kepala-bakom-ri-dan-menteri-koperasi"
-    },
-    {
-      "title": "Kak Na Kunjungi Stan Dekranasda Sabang di Pelantikan Pengurus Gekrafs Aceh » - dialeksis.com",
+      "title": "Kak Na Sebut “Nyan Cap” saat Kagumi Kerajinan Dekranasda Sabang - RRI.co.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 16:19:12 GMT",
-      "link": "https://dialeksis.com/aceh/kak-na-kunjungi-stan-dekranasda-sabang-di-pelantikan-pengurus-gekrafs-aceh/"
+      "published": "Sat, 10 Oct 2026 07:42:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2801125/kak-na-sebut-nyan-cap-saat-kagumi-kerajinan-dekranasda-sabang"
     },
     {
-      "title": "Kemendag Publikasi Poster Perlindungan Konsumen di Depot Air Minum Isi Ulang - JPNN.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "Sabang Perkuat Peluang Investasi dan Ekonomi Kreatif - RRI.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 15:57:14 GMT",
-      "link": "https://www.jpnn.com/news/kemendag-publikasi-poster-perlindungan-konsumen-di-depot-air-minum-isi-ulang"
+      "published": "Sat, 10 Oct 2026 07:41:00 GMT",
+      "link": "https://rri.co.id/sabang/info-pemda/2801056/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif"
     },
     {
-      "title": "Danantara Buka Peluang Borong Saham Saat Pasar Bergejolak - Kompas.com",
+      "title": "Ketua Umum Gekrafs Kawendra Lukistian Promosikan Produk UMKM Sabang - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 07:40:00 GMT",
+      "link": "https://rri.co.id/sabang/nasional/2801084/ketua-umum-gekrafs-kawendra-lukistian-promosikan-produk-umkm-sabang"
+    },
+    {
+      "title": "Kolaborasi Lintas Sektor, Sabang Bidik Peluang Investasi Baru - https://distori.id/",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 07:39:43 GMT",
+      "link": "https://distori.id/2026/10/10/kolaborasi-lintas-sektor-sabang-bidik-peluang-investasi-baru/"
+    },
+    {
+      "title": "Investor Kakap Bakal Kumpul di Bali, Bidik Investasi Rp 536 Triliun - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 14:57:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/09/215722926/danantara-buka-peluang-borong-saham-saat-pasar-bergejolak"
+      "published": "Sat, 10 Oct 2026 06:00:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8700761/investor-kakap-bakal-kumpul-di-bali-bidik-investasi-rp-536-triliun"
     },
     {
-      "title": "Sebar Informasi ke Depot Air Isi Ulang, Kemendag Perkuat Perlindungan Konsumen - MetroTVNews.com",
+      "title": "Bursa saham bergejolak? Danantara siap investasi US$3 miliar - IDNFinancials",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 06:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/70079/bursa-saham-bergejolak-danantara-siap-investasi-us3-miliar"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Website Kota Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 05:56:42 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261010/Mjc0NDQ0"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Website Kota Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 05:51:18 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261010/Mjk5MTUy"
+    },
+    {
+      "title": "Koperasi Multi Pihak Jadi Andalan DPRD Jatim, Transportasi Online dan Herbal Disasar - Malang Pariwara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 04:36:32 GMT",
+      "link": "https://malangpariwara.com/2026/10/10/dprd-jatim-koperasi-multi-pihak-transportasi-online-industri-herbal/"
+    },
+    {
+      "title": "Uni Eropa: China Akan Pangkas Ekspor Mobil Hybrid Jutaan Unit - Bloomberg Technoz",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 14:34:04 GMT",
-      "link": "https://www.metrotvnews.com/read/NrWCgxXd-sebar-informasi-ke-depot-air-isi-ulang-kemendag-perkuat-perlindungan-konsumen"
+      "published": "Sat, 10 Oct 2026 04:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/124184/uni-eropa-china-akan-pangkas-ekspor-mobil-hybrid-jutaan-unit"
     },
     {
-      "title": "China dan Uni Eropa Capai Kesepakatan Perdagangan Kendaraan Hybrid - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 14:19:15 GMT",
-      "link": "https://internasional.kontan.co.id/news/china-dan-uni-eropa-capai-kesepakatan-perdagangan-kendaraan-hybrid"
-    },
-    {
-      "title": "Berita Sabang Perkuat Peluang Investasi dan Ekonomi Kreatif. - Pemerintah Kota Sabang",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 13:49:04 GMT",
-      "link": "https://www.sabangkota.go.id/berita/kategori/berita-media/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif"
-    },
-    {
-      "title": "DPR kawal pemenuhan pupuk subsidi bagi petani Kepri - ANTARA News Kepri",
-      "entity": "Nurdin Halid",
+      "title": "Dirut Garuda Indonesia Berganti, Gus Rivqy Desak Benahi Manajemen dan Layanan - Liputan Jatim",
+      "entity": "Rivqy Abdul Halim",
       "kind": "anggota",
-      "published": "Fri, 09 Oct 2026 13:36:16 GMT",
-      "link": "https://kepri.antaranews.com/berita/269601/dpr-kawal-pemenuhan-pupuk-subsidi-bagi-petani-kepri"
+      "published": "Sat, 10 Oct 2026 04:26:00 GMT",
+      "link": "https://liputanjatim.com/berita/dirut-garuda-indonesia-berganti-gus-rivqy-desak-benahi-manajemen-dan-layanan"
+    },
+    {
+      "title": "Mahasiswa HES FAI UMP Belajar Perlindungan Konsumen di Kantor BPKN RI - RRI.co.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 04:19:00 GMT",
+      "link": "https://rri.co.id/purwokerto/regional/2800982/mahasiswa-hes-fai-ump-belajar-perlindungan-konsumen-di-kantor-bpkn-ri"
     }
   ]
 }
