@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-10T19:44:14.190055",
+  "generated_at": "2026-10-10T23:12:41.583824",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 15,
-    "Golkar": 17,
+    "Golkar": 18,
     "PKB": 8,
     "PKS": 7,
     "PAN": 6,
@@ -35,7 +35,7 @@
   "topic_counts_30d": {
     "bumn": 46,
     "umkm": 12,
-    "danantara": 33,
+    "danantara": 34,
     "dividen": 8,
     "perdagangan": 18,
     "ekspor": 4,
@@ -90,6 +90,13 @@
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Nurdin Halid Dorong Penguatan Konektivitas Antarpulau di Kepulauan Riau - RRI.co.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 10 Oct 2026 18:40:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2802226/nurdin-halid-dorong-penguatan-konektivitas-antarpulau-di-kepulauan-riau"
+    },
     {
       "title": "BP Batam Dorong Kemudahan Investasi di Tengah Pertumbuhan Ekonomi - RRI.co.id",
       "entity": "BP Batam",
@@ -187,13 +194,6 @@
       "kind": "lembaga",
       "published": "Sat, 10 Oct 2026 08:30:00 GMT",
       "link": "https://swa.co.id/read/478286/mendag-ajak-generasi-muda-kembangkan-bisnis-waralaba-bidik-pasar-ekspor"
-    },
-    {
-      "title": "Rencana Gaji PNS dan Pensiunan Dibayar lewat Koperasi Didukung - Media Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 08:19:18 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/942842/rencana-gaji-pns-dan-pensiunan-dibayar-lewat-koperasi-didukung"
     }
   ]
 }
