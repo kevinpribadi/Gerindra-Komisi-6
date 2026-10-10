@@ -1,11 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-09T22:14:01.280175",
+  "generated_at": "2026-10-10T02:03:26.957071",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 24,
     "PDI-P": 15,
     "Golkar": 12,
-    "NasDem": 1,
     "PKB": 7,
     "PKS": 7,
     "PAN": 5,
@@ -38,11 +37,11 @@
     "umkm": 9,
     "danantara": 34,
     "dividen": 9,
-    "koperasi": 49,
-    "perdagangan": 19,
-    "ekspor": 1,
+    "koperasi": 47,
+    "ekspor": 2,
+    "perdagangan": 18,
     "impor": 14,
-    "investasi": 30,
+    "investasi": 28,
     "ipo": 1,
     "merger-akuisisi": 14,
     "kartel-monopoli": 14
@@ -84,13 +83,48 @@
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 54,
+    "Koperasi/UMKM": 53,
     "Kinerja BUMN": 15,
-    "Perdagangan": 26,
+    "Perdagangan": 27,
     "Hukum/Audit": 17,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Kalsel Siapkan Pelatihan Pengelola KDKMP 24 Oktober - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 01:59:00 GMT",
+      "link": "https://rri.co.id/banjarmasin/info-pemda/2800659/kalsel-siapkan-pelatihan-pengelola-kdkmp-24-oktober"
+    },
+    {
+      "title": "Sistem Penggajian ASN Lewat Koperasi Belum Final, Kemenkop Sebut Masih Wacana - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 00:17:00 GMT",
+      "link": "https://www.beritakoperasi.com/sistem-penggajian-asn-lewat-koperasi-belum-final-kemenkop-sebut-masih-wacana/"
+    },
+    {
+      "title": "Andre Rosiade Dorong Penguatan Ekosistem Industri Batam - DPR RI",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 09 Oct 2026 23:45:54 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Dorong-Penguatan-Ekosistem-Industri-Batam-69934"
+    },
+    {
+      "title": "Kemendag Kembangkan InaExport Jadi Ekosistem B2B, Holding Perkebunan Nusantara melalui PTPN IV PalmCo Perluas Akses Pasar Ekspor - Voice of ASIA",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 23:45:00 GMT",
+      "link": "https://voiceofasean.com/newsroom/kemendag-kembangkan-inaexport-jadi-ekosistem-b2b-holding-perkebunan-nusantara-melalui-ptpn-iv-palmco-perluas-akses-pasar-ekspor/"
+    },
+    {
+      "title": "Heboh Gaji PNS dan Pensiun Disalurkan Lewat Koperasi, Ini Kata Kemenkop - https://janalokajournal.id/",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 23:24:00 GMT",
+      "link": "https://janalokajournal.id/heboh-gaji-pns-dan-pensiun-disalurkan-lewat-koperasi/"
+    },
     {
       "title": "Rieke Diah Pitaloka Bongkar Borok Pemasyarakatan Nasional - Bela Rakyat",
       "entity": "Rieke Diah Pitaloka",
@@ -104,6 +138,13 @@
       "kind": "lembaga",
       "published": "Fri, 09 Oct 2026 18:16:45 GMT",
       "link": "https://www.transmigrasi.go.id/bp-batam-dan-bakom-ri-bagikan-kunci-pembangunan-kawasan-dan-komunikasi-publik/"
+    },
+    {
+      "title": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi - Kemdiktisaintek",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 09 Oct 2026 16:30:00 GMT",
+      "link": "https://kemdiktisaintek.go.id/news/article/sampaikan-aspirasi-peserta-future-leaders-summit-2026-kemdiktisaintek-diterima-kepala-bakom-ri-dan-menteri-koperasi"
     },
     {
       "title": "Kak Na Kunjungi Stan Dekranasda Sabang di Pelantikan Pengurus Gekrafs Aceh » - dialeksis.com",
@@ -153,48 +194,6 @@
       "kind": "anggota",
       "published": "Fri, 09 Oct 2026 13:36:16 GMT",
       "link": "https://kepri.antaranews.com/berita/269601/dpr-kawal-pemenuhan-pupuk-subsidi-bagi-petani-kepri"
-    },
-    {
-      "title": "Kalsel gelar lokakarya koperasi untuk awali program KDKMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 13:15:24 GMT",
-      "link": "https://kalsel.antaranews.com/video/5778996/kalsel-gelar-lokakarya-koperasi-untuk-awali-program-kdkmp"
-    },
-    {
-      "title": "Kalsel gelar lokakarya koperasi untuk awali program KDKMP - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 12:53:35 GMT",
-      "link": "https://www.antaranews.com/berita/5778996/kalsel-gelar-lokakarya-koperasi-untuk-awali-program-kdkmp"
-    },
-    {
-      "title": "Menteri Koperasi Punya Banyak Tugas, Mana yang Paling Terukur? - Jakartamu.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 12:39:32 GMT",
-      "link": "https://www.jakartamu.com/menteri-koperasi-punya-banyak-tugas-mana-yang-paling-terukur-31970"
-    },
-    {
-      "title": "Pergantian Dirut Garuda, Rivqy Abdul Halim Kembali Soroti Kebijakan Bagasi - Kabarpolitik.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Fri, 09 Oct 2026 12:11:58 GMT",
-      "link": "https://kabarpolitik.com/pergantian-dirut-garuda-rivqy-abdul-halim-kembali-soroti-kebijakan-bagasi/"
-    },
-    {
-      "title": "BPKN Minta Platform E-Commerce Transparan Soal Harga Pajak di Harbolnas 10.10 - Telset.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 09 Oct 2026 12:04:34 GMT",
-      "link": "https://telset.id/news/telko/bpkn-minta-platform-e-commerce-transparan-soal-harga-pajak-di-harbolnas-10-10"
-    },
-    {
-      "title": "Komisi VI DPR soroti biaya logistik di Kepri tinggi - ANTARA News",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 09 Oct 2026 11:55:59 GMT",
-      "link": "https://www.antaranews.com/berita/5778948/komisi-vi-dpr-soroti-biaya-logistik-di-kepri-tinggi"
     }
   ]
 }
