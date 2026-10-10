@@ -1,13 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-10T15:41:14.501779",
+  "generated_at": "2026-10-10T19:44:14.190055",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 15,
     "Golkar": 17,
     "PKB": 8,
     "PKS": 7,
-    "PAN": 5,
+    "PAN": 6,
     "Demokrat": 7
   },
   "party_counts_30d": {
@@ -17,7 +17,7 @@
     "NasDem": 12,
     "PKB": 51,
     "PKS": 67,
-    "PAN": 19,
+    "PAN": 20,
     "Demokrat": 15
   },
   "agency_counts_30d": {
@@ -37,10 +37,10 @@
     "umkm": 12,
     "danantara": 33,
     "dividen": 8,
-    "ekspor": 4,
     "perdagangan": 18,
+    "ekspor": 4,
     "impor": 13,
-    "investasi": 31,
+    "investasi": 33,
     "koperasi": 44,
     "ipo": 1,
     "merger-akuisisi": 12,
@@ -77,19 +77,54 @@
     "Rizal Bawazier": 20,
     "Ghufran": 15,
     "Ismail": 12,
-    "Nasril Bahar": 6,
+    "Nasril Bahar": 7,
     "Iskandar": 13,
     "Sartono": 2,
     "Herman Khaeron": 13
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 54,
+    "Koperasi/UMKM": 53,
     "Kinerja BUMN": 15,
-    "Perdagangan": 32,
+    "Perdagangan": 31,
     "Konflik Publik": 3,
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "BP Batam Dorong Kemudahan Investasi di Tengah Pertumbuhan Ekonomi - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 17:26:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2802233/bp-batam-dorong-kemudahan-investasi-di-tengah-pertumbuhan-ekonomi"
+    },
+    {
+      "title": "BP Batam Terus Menyapa, Bantu Pengusaha Pahami Aturan Perizinan - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 17:06:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2802232/bp-batam-terus-menyapa-bantu-pengusaha-pahami-aturan-perizinan"
+    },
+    {
+      "title": "Kemenkop, Nasril Bahar, dan Samsul Rizal Revitalisasi Koperasi Langkat - Waspada.id",
+      "entity": "Nasril Bahar",
+      "kind": "anggota",
+      "published": "Sat, 10 Oct 2026 15:35:10 GMT",
+      "link": "https://www.waspada.id/berita/kemenkop-nasril-bahar-dan-samsul-rizal-revitalisasi-koperasi-langkat"
+    },
+    {
+      "title": "Sabang Perkuat Peluang Investasi dan Ekonomi Kreatif - Meuseuraya.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 14:39:23 GMT",
+      "link": "https://www.meuseuraya.id/news/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif/amp.html"
+    },
+    {
+      "title": "Budi Santoso Dorong Anak Muda Pilih Bisnis Waralaba - https://www.suaralandak.co.id/",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 14:36:14 GMT",
+      "link": "https://www.suaralandak.co.id/budi-santoso-dorong-bisnis-waralaba"
+    },
     {
       "title": "Kota Subulussalam Dapat DIPA Rp7 Miliar untuk Rehab Dua Pasar Tradisional - RRI.co.id",
       "entity": "Kementerian Perdagangan",
@@ -119,6 +154,13 @@
       "link": "https://menitindonesia.com/2026/10/10/future-leaders-summit-2026-para-mahasiswa-sampaikan-aspirasi-ke-kepala-bakom-ri-dan-menteri-koperasi/"
     },
     {
+      "title": "Resmi Beroperasi, KDKMP Sorowako Bangun Kemandirian Ekonomi Warga - indoposco",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 12:19:17 GMT",
+      "link": "https://indoposco.id/2026/10/10/resmi-beroperasi-kdkmp-sorowako-bangun-kemandirian-ekonomi-warga/"
+    },
+    {
       "title": "Siaga Nataru, Rieke Peringatkan Ancaman Krisis Kapasitas dan Keamanan Lapas di Bali - Balipuspanews.com",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
@@ -133,6 +175,13 @@
       "link": "https://finance.detik.com/bursa-dan-valas/d-8701073/danantara-turun-tangan-jika-ihsg-tertekan-siapkan-rp-17-89-triliun"
     },
     {
+      "title": "China-Uni Eropa sepakat jaga stabilitas hubungan perdagangan bilateral - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 08:43:59 GMT",
+      "link": "https://www.antaranews.com/berita/5779932/china-uni-eropa-sepakat-jaga-stabilitas-hubungan-perdagangan-bilateral"
+    },
+    {
       "title": "Mendag Ajak Generasi Muda Kembangkan Bisnis Waralaba, Bidik Pasar Ekspor - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -145,55 +194,6 @@
       "kind": "lembaga",
       "published": "Sat, 10 Oct 2026 08:19:18 GMT",
       "link": "https://mediaindonesia.com/ekonomi/942842/rencana-gaji-pns-dan-pensiunan-dibayar-lewat-koperasi-didukung"
-    },
-    {
-      "title": "BPKN minta penerapan pajak niaga-el perhatikan UMKM - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:54:31 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5779862/bpkn-minta-penerapan-pajak-niaga-el-perhatikan-umkm"
-    },
-    {
-      "title": "BPKN minta penerapan pajak niaga-el perhatikan UMKM - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:54:31 GMT",
-      "link": "https://www.antaranews.com/berita/5779862/bpkn-minta-penerapan-pajak-niaga-el-perhatikan-umkm"
-    },
-    {
-      "title": "Kak Na Sebut “Nyan Cap” saat Kagumi Kerajinan Dekranasda Sabang - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:42:00 GMT",
-      "link": "https://rri.co.id/sabang/regional/2801125/kak-na-sebut-nyan-cap-saat-kagumi-kerajinan-dekranasda-sabang"
-    },
-    {
-      "title": "Sabang Perkuat Peluang Investasi dan Ekonomi Kreatif - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:41:00 GMT",
-      "link": "https://rri.co.id/sabang/info-pemda/2801056/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif"
-    },
-    {
-      "title": "Ketua Umum Gekrafs Kawendra Lukistian Promosikan Produk UMKM Sabang - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:40:00 GMT",
-      "link": "https://rri.co.id/sabang/nasional/2801084/ketua-umum-gekrafs-kawendra-lukistian-promosikan-produk-umkm-sabang"
-    },
-    {
-      "title": "Kolaborasi Lintas Sektor, Sabang Bidik Peluang Investasi Baru - https://distori.id/",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 07:39:43 GMT",
-      "link": "https://distori.id/2026/10/10/kolaborasi-lintas-sektor-sabang-bidik-peluang-investasi-baru/"
-    },
-    {
-      "title": "Investor Kakap Bakal Kumpul di Bali, Bidik Investasi Rp 536 Triliun - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 06:00:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8700761/investor-kakap-bakal-kumpul-di-bali-bidik-investasi-rp-536-triliun"
     }
   ]
 }
