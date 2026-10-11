@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-11T16:32:34.749181",
+  "generated_at": "2026-10-11T20:47:23.702295",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 18,
     "Golkar": 19,
-    "PKB": 9,
-    "PKS": 10,
+    "PKB": 10,
+    "PKS": 11,
     "PAN": 6,
     "Demokrat": 7
   },
@@ -34,13 +34,13 @@
   },
   "topic_counts_30d": {
     "bumn": 47,
-    "umkm": 16,
+    "umkm": 17,
     "danantara": 33,
-    "dividen": 5,
+    "dividen": 3,
+    "perdagangan": 19,
     "ekspor": 5,
-    "perdagangan": 18,
     "impor": 12,
-    "investasi": 34,
+    "investasi": 33,
     "koperasi": 46,
     "ipo": 1,
     "kartel-monopoli": 13,
@@ -84,18 +84,60 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 60,
-    "Perdagangan": 37,
+    "Perdagangan": 38,
+    "Kinerja BUMN": 16,
     "Konflik Publik": 3,
-    "Hukum/Audit": 16,
-    "Kinerja BUMN": 14
+    "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Menelaah Status Hukum dan Risiko di Balik Kebijakan Pemodalan Danantara - JurnalPost",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 18:46:43 GMT",
+      "link": "https://jurnalpost.com/bahaya-di-balik-pemodalan-danantara/98110/"
+    },
+    {
+      "title": "Konsumen Digital: Dilindungi Undang-Undang, Dibiarkan Menghadapi Kerugian? - Portal Hukum",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 17:53:24 GMT",
+      "link": "https://portalhukum.id/opini-hukum/konsumen-digital-dilindungi-undang-undang-dibiarkan-menghadapi-kerugian/"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 17:18:28 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261012/Mjk5MTUy"
+    },
+    {
+      "title": "Danantara Bakal Gandeng SWF Mesir, Lirik Proyek Hilirisasi Kelapa Sawit - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 17:16:46 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261012/44/2011652/danantara-bakal-gandeng-swf-mesir-lirik-proyek-hilirisasi-kelapa-sawit"
+    },
     {
       "title": "Inovasi Pemerintah: Gaji PNS dan Pensiunan Bakal Dibayar lewat Koperasi - Pontianak Post",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 11 Oct 2026 15:21:17 GMT",
       "link": "https://pontianakpost.jawapos.com/nasional/2610110024/inovasi-pemerintah-gaji-pns-dan-pensiunan-bakal-dibayar-lewat-koperasi"
+    },
+    {
+      "title": "Didampingi Ketua Umum Levita Supit, Menteri Perdagangan Budi Santoso, Buka Gelaran Franchise Lisensi Expo Indonesia - newposkomanado.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 15:16:22 GMT",
+      "link": "https://newposkomanado.id/2026/10/11/didampingi-ketua-umum-levita-supit-menteri-perdagangan-budi-santoso-buka-gelaran-franchise-lisensi-expo-indonesia/"
+    },
+    {
+      "title": "Ditutup Menteri Koperasi, Lutim Sukses Tuan Rumah Expo K-UMKM Sulsel 2026 - linisulsel.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 14:37:35 GMT",
+      "link": "https://linisulsel.com/ditutup-menteri-koperasi-lutim-sukses-tuan-rumah-expo-k-umkm-sulsel-2026/"
     },
     {
       "title": "Soroti Defisit APBN Rp319 Triliun, DPR Minta Pemerintah Berhemat - law-justice.co",
@@ -133,6 +175,13 @@
       "link": "https://www.gesuri.id/kerakyatan/ida-nurlaela-cup-wadah-anak-anak-muda-di-desa-kembangkan-bakat-b2qcIZbi5V"
     },
     {
+      "title": "Defisit APBN Rp319 T, Amin Minta Pemerintah Efisiensi - Harapan Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 10:32:22 GMT",
+      "link": "https://www.harapanrakyat.com/2026/10/defisit-apbn-rp319-t-amin-minta-pemerintah-efisiensi/"
+    },
+    {
       "title": "Kick Off Anyer–Panarukan 3R, Nasim Khan Dorong Kolaborasi Sejarah, Wisata, dan Ekonomi UMKM - Penarakyat.Com",
       "entity": "Nasim Khan",
       "kind": "anggota",
@@ -145,55 +194,6 @@
       "kind": "lembaga",
       "published": "Sun, 11 Oct 2026 10:18:24 GMT",
       "link": "https://hariandialog.co.id/kemenkop-perkuat-peran-koperasi-serta-kdkmp-bangka-belitung-dalam-tata-kelola-pertambangan-timah-sesuai-prinsip-gmp/"
-    },
-    {
-      "title": "Menteri Koperasi Hadir di Lutim, Puji Potensi KDKMP Sorowako - linisulsel.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 09:56:28 GMT",
-      "link": "https://linisulsel.com/menteri-koperasi-hadir-di-lutim-puji-potensi-kdkmp-sorowako/"
-    },
-    {
-      "title": "KDKMP Sorowako Catat Rp1 Miliar, Produk Lokal Kuasai 70 Persen Gerai - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 09:43:00 GMT",
-      "link": "https://rri.co.id/ekonomi/umkm/2803073/kdkmp-sorowako-catat-rp1-miliar-produk-lokal-kuasai-70-persen-gerai"
-    },
-    {
-      "title": "BPKN Minta Penerapan Pajak Niaga-el Perhatikan UMKM - Arah Kata",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 08:52:24 GMT",
-      "link": "https://arahkata.pikiran-rakyat.com/ekbis/amp/pr-12810497556/bpkn-minta-penerapan-pajak-niaga-el-perhatikan-umkm"
-    },
-    {
-      "title": "Komisi XI DPR Minta Pemerintah Kendalikan Defisit APBN dan Optimalkan Penerimaan Negara - Suara Investor",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 08:40:42 GMT",
-      "link": "https://www.suarainvestor.com/komisi-xi-dpr-minta-pemerintah-kendalikan-defisit-apbn-dan-optimalkan-penerimaan-negara/"
-    },
-    {
-      "title": "RI & Mesir Mau Patungan Bikin Dana Investasi - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 08:26:11 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8702101/ri-mesir-mau-patungan-bikin-dana-investasi"
-    },
-    {
-      "title": "Nurdin Halid Siap Kawal Pemenuhan Pupuk Subsidi Petani Kepri - Batamtoday.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 07:16:49 GMT",
-      "link": "https://batamtoday.com/news/nurdin-halid-siap-kawal-pemenuhan-pupuk-subsidi-petani-kepri"
-    },
-    {
-      "title": "Soroti Kasus Cibinong-Depok, Rieke Minta Perpres Tata Kelola Lapas Terintegrasi - VOI.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 06:39:07 GMT",
-      "link": "https://voi.id/amp/597946/soroti-kasus-cibinong-depok-rieke-minta-perpres-tata-kelola-lapas-terintegrasi"
     }
   ]
 }
