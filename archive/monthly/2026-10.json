@@ -1,27 +1,27 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-10T23:12:41.583824",
+  "generated_at": "2026-10-11T03:56:41.313341",
   "party_counts_7d": {
     "Gerindra": 24,
-    "PDI-P": 15,
-    "Golkar": 18,
+    "PDI-P": 14,
+    "Golkar": 19,
     "PKB": 8,
-    "PKS": 7,
+    "PKS": 8,
     "PAN": 6,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 40,
+    "Gerindra": 39,
     "PDI-P": 72,
     "Golkar": 89,
     "NasDem": 12,
     "PKB": 51,
     "PKS": 67,
     "PAN": 20,
-    "Demokrat": 15
+    "Demokrat": 16
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 17,
+    "Kementerian BUMN": 19,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,15 +33,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 46,
-    "umkm": 12,
-    "danantara": 34,
-    "dividen": 8,
-    "perdagangan": 18,
-    "ekspor": 4,
-    "impor": 13,
+    "bumn": 47,
+    "umkm": 13,
+    "danantara": 35,
+    "dividen": 7,
+    "ekspor": 5,
+    "perdagangan": 19,
+    "impor": 12,
     "investasi": 33,
-    "koperasi": 44,
+    "koperasi": 45,
     "ipo": 1,
     "merger-akuisisi": 12,
     "kartel-monopoli": 14
@@ -49,7 +49,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Muhammad Husein Fadlulloh": 9,
-    "Kawendra Lukistian": 8,
+    "Kawendra Lukistian": 7,
     "Unru Baso": 1,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 15,
@@ -80,16 +80,86 @@
     "Nasril Bahar": 7,
     "Iskandar": 13,
     "Sartono": 2,
-    "Herman Khaeron": 13
+    "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 53,
+    "Koperasi/UMKM": 55,
     "Kinerja BUMN": 15,
-    "Perdagangan": 31,
+    "Perdagangan": 34,
     "Konflik Publik": 3,
-    "Hukum/Audit": 16
+    "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Defisit APBN Capai Rp319 Triliun, Amin AK Minta Pemerintah Tekan Belanja - Kosadata",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 03:36:17 GMT",
+      "link": "https://kosadata.com/defisit-apbn-capai-rp319-triliun-amin-ak-minta-pemerintah-tekan-belanja"
+    },
+    {
+      "title": "Resmi Ditutup Menteri Koperasi, Pekan Expo K-UMKM Sulsel 2026 di Luwu Timur Tuai Apresiasi - Rakyat Sulsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 03:16:41 GMT",
+      "link": "https://rakyatsulsel.fajar.co.id/2026/10/11/resmi-ditutup-menteri-koperasi-pekan-expo-k-umkm-sulsel-2026-di-luwu-timur-tuai-apresiasi/"
+    },
+    {
+      "title": "Pemkab Soppeng Sabet Penghargaan Verifikasi Koperasi Tercepat di Harkopnas Sulsel 2026 - sulselinfo.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 01:56:39 GMT",
+      "link": "https://www.sulselinfo.com/pemkab-soppeng-sabet-penghargaan-verifikasi-koperasi-tercepat-di-harkopnas-sulsel-2026"
+    },
+    {
+      "title": "Demokrat Terbuka Terima Aspirasi Bila Penggugat Syarat Pendidikan Gibran Audiensi ke DPR hingga MPR - Kedai Pena",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 00:50:18 GMT",
+      "link": "https://www.kedaipena.com/demokrat-terbuka-terima-aspirasi-bila-penggugat-syarat-pendidikan-gibran-audiensi-ke-dpr-hingga-mpr/"
+    },
+    {
+      "title": "Uni Eropa pangkas ekspor mobil hybrid China lebih dari separuh - IDNFinancials",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/70091/uni-eropa-pangkas-ekspor-mobil-hybrid-china-lebih-dari-separuh"
+    },
+    {
+      "title": "Danantara Siapkan Intervensi Pasar Saham Indonesia - Demokratis.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 23:37:00 GMT",
+      "link": "https://demokratis.co.id/danantara-siapkan-intervensi-pasar-saham"
+    },
+    {
+      "title": "Andre Rosiade Dalami Dugaan Permintaan Jaminan dalam Pengajuan KUR di Batam - DPR RI",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 10 Oct 2026 23:29:04 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Dalami-Dugaan-Permintaan-Jaminan-dalam-Pengajuan-KUR-di-Batam-69997"
+    },
+    {
+      "title": "Menteri Koperasi Puji Kekompakan Gubernur dan Bupati-Wali Kota di Sulsel, Siap Jadikan Pilot Project Nasional - Pemerintah Provinsi Sulawesi Selatan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 23:10:56 GMT",
+      "link": "https://sulselprov.go.id/berita/menteri-koperasi-puji-kekompakan-gubernur-dan-bupati-wali-kota-di-sulsel-siap-jadikan-pilot-project-nasional"
+    },
+    {
+      "title": "Disaksikan Menteri Koperasi, Kontingen Sidrap Raih Penghargaan di Harkopnas ke-79 - Pemerintah Kabupaten Sidenreng Rappang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 22:24:46 GMT",
+      "link": "https://sidrapkab.go.id/berita/detail_berita/Berita062009-Disaksikan-Menteri-Koperasi--Kontingen-Sidrap-Raih-Penghargaan-di-Harkopnas-ke-79"
+    },
+    {
+      "title": "Koperasi Merah Putih Catat Transaksi Besar, Perputaran Usaha Desa Menguat - PT Suara Dewata Media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 10 Oct 2026 20:10:11 GMT",
+      "link": "https://www.suaradewata.com/berita/202405218243/koperasi-merah-putih-catat-transaksi-besar-perputaran-usaha-desa-menguat"
+    },
     {
       "title": "Nurdin Halid Dorong Penguatan Konektivitas Antarpulau di Kepulauan Riau - RRI.co.id",
       "entity": "Nurdin Halid",
@@ -124,76 +194,6 @@
       "kind": "lembaga",
       "published": "Sat, 10 Oct 2026 14:39:23 GMT",
       "link": "https://www.meuseuraya.id/news/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif/amp.html"
-    },
-    {
-      "title": "Budi Santoso Dorong Anak Muda Pilih Bisnis Waralaba - https://www.suaralandak.co.id/",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 14:36:14 GMT",
-      "link": "https://www.suaralandak.co.id/budi-santoso-dorong-bisnis-waralaba"
-    },
-    {
-      "title": "Kota Subulussalam Dapat DIPA Rp7 Miliar untuk Rehab Dua Pasar Tradisional - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 14:35:00 GMT",
-      "link": "https://rri.co.id/aceh-singkil/asta-cita/2801862/kota-subulussalam-dapat-dipa-rp7-miliar-untuk-rehab-dua-pasar-tradisional"
-    },
-    {
-      "title": "APBN 2026-2027 Tak Andalkan Dividen Danantara, Ini Kata Menkeu - rmolsumsel.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 13:08:49 GMT",
-      "link": "https://www.rmolsumsel.id/apbn-2026-2027-tak-andalkan-dividen-danantara-ini-kata-menkeu"
-    },
-    {
-      "title": "Nurdin Halid Dorong Integrasi Logistik, Jadi Kunci Tekan Ketimpangan Harga di Kepulauan Riau - Abatanews.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sat, 10 Oct 2026 12:56:15 GMT",
-      "link": "https://abatanews.com/nurdin-halid-dorong-integrasi-logistik-jadi-kunci-tekan-ketimpangan-harga-di-kepulauan-riau/"
-    },
-    {
-      "title": "Future Leaders Summit 2026, Para Mahasiswa Sampaikan Aspirasi ke Kepala Bakom RI dan Menteri Koperasi - Menit Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 12:53:47 GMT",
-      "link": "https://menitindonesia.com/2026/10/10/future-leaders-summit-2026-para-mahasiswa-sampaikan-aspirasi-ke-kepala-bakom-ri-dan-menteri-koperasi/"
-    },
-    {
-      "title": "Resmi Beroperasi, KDKMP Sorowako Bangun Kemandirian Ekonomi Warga - indoposco",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 12:19:17 GMT",
-      "link": "https://indoposco.id/2026/10/10/resmi-beroperasi-kdkmp-sorowako-bangun-kemandirian-ekonomi-warga/"
-    },
-    {
-      "title": "Siaga Nataru, Rieke Peringatkan Ancaman Krisis Kapasitas dan Keamanan Lapas di Bali - Balipuspanews.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 10 Oct 2026 11:11:26 GMT",
-      "link": "https://www.balipuspanews.com/siaga-nataru-rieke-peringatkan-ancaman-krisis-kapasitas-dan-keamanan-lapas-di-bali.html"
-    },
-    {
-      "title": "Danantara Turun Tangan Jika IHSG Tertekan, Siapkan Rp 17,89 Triliun - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 09:47:33 GMT",
-      "link": "https://finance.detik.com/bursa-dan-valas/d-8701073/danantara-turun-tangan-jika-ihsg-tertekan-siapkan-rp-17-89-triliun"
-    },
-    {
-      "title": "China-Uni Eropa sepakat jaga stabilitas hubungan perdagangan bilateral - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 08:43:59 GMT",
-      "link": "https://www.antaranews.com/berita/5779932/china-uni-eropa-sepakat-jaga-stabilitas-hubungan-perdagangan-bilateral"
-    },
-    {
-      "title": "Mendag Ajak Generasi Muda Kembangkan Bisnis Waralaba, Bidik Pasar Ekspor - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 08:30:00 GMT",
-      "link": "https://swa.co.id/read/478286/mendag-ajak-generasi-muda-kembangkan-bisnis-waralaba-bidik-pasar-ekspor"
     }
   ]
 }
