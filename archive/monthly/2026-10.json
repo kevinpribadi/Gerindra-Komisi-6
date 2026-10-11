@@ -1,27 +1,27 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-11T03:56:41.313341",
+  "generated_at": "2026-10-11T10:38:55.542438",
   "party_counts_7d": {
-    "Gerindra": 24,
-    "PDI-P": 14,
-    "Golkar": 19,
-    "PKB": 8,
-    "PKS": 8,
+    "Gerindra": 25,
+    "PDI-P": 16,
+    "Golkar": 21,
+    "PKB": 9,
+    "PKS": 9,
     "PAN": 6,
-    "Demokrat": 7
+    "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 39,
-    "PDI-P": 72,
-    "Golkar": 89,
+    "PDI-P": 71,
+    "Golkar": 90,
     "NasDem": 12,
-    "PKB": 51,
+    "PKB": 52,
     "PKS": 67,
     "PAN": 20,
-    "Demokrat": 16
+    "Demokrat": 17
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 19,
+    "Kementerian BUMN": 18,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -34,17 +34,17 @@
   },
   "topic_counts_30d": {
     "bumn": 47,
-    "umkm": 13,
-    "danantara": 35,
-    "dividen": 7,
+    "umkm": 16,
+    "danantara": 33,
+    "dividen": 5,
     "ekspor": 5,
-    "perdagangan": 19,
+    "perdagangan": 18,
     "impor": 12,
-    "investasi": 33,
-    "koperasi": 45,
+    "investasi": 34,
+    "koperasi": 43,
     "ipo": 1,
-    "merger-akuisisi": 12,
-    "kartel-monopoli": 14
+    "kartel-monopoli": 14,
+    "merger-akuisisi": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -53,16 +53,16 @@
     "Unru Baso": 1,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 15,
-    "Mufti Anam": 16,
+    "Mufti Anam": 14,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 8,
-    "Totok Hedi Santosa": 5,
+    "Totok Hedi Santosa": 6,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 3,
     "Ahmad Labib": 7,
-    "Sarifah Suraidah": 4,
+    "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
@@ -71,7 +71,7 @@
     "I Nengah Senantara": 6,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 15,
+    "Nasim Khan": 16,
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
@@ -79,121 +79,121 @@
     "Ismail": 12,
     "Nasril Bahar": 7,
     "Iskandar": 13,
-    "Sartono": 2,
+    "Sartono": 3,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 55,
-    "Kinerja BUMN": 15,
-    "Perdagangan": 34,
+    "Koperasi/UMKM": 57,
+    "Perdagangan": 36,
     "Konflik Publik": 3,
-    "Hukum/Audit": 17
+    "Hukum/Audit": 18,
+    "Kinerja BUMN": 14
   },
   "top_headlines": [
     {
-      "title": "Defisit APBN Capai Rp319 Triliun, Amin AK Minta Pemerintah Tekan Belanja - Kosadata",
+      "title": "Kick Off Anyer–Panarukan 3R, Nasim Khan Dorong Kolaborasi Sejarah, Wisata, dan Ekonomi UMKM - Penarakyat.Com",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 10:20:26 GMT",
+      "link": "https://penarakyat.com/kick-off-anyer-panarukan-3r-nasim-khan-dorong-kolaborasi-sejarah-wisata-dan-ekonomi-umkm/"
+    },
+    {
+      "title": "Kemenkop Perkuat Peran Koperasi serta KDKMP Bangka Belitung dalam Tata Kelola Pertambangan Timah Sesuai Prinsip GMP - Harian Dialog",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 10:18:24 GMT",
+      "link": "https://hariandialog.co.id/kemenkop-perkuat-peran-koperasi-serta-kdkmp-bangka-belitung-dalam-tata-kelola-pertambangan-timah-sesuai-prinsip-gmp/"
+    },
+    {
+      "title": "KDKMP Sorowako Catat Rp1 Miliar, Produk Lokal Kuasai 70 Persen Gerai - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 09:43:00 GMT",
+      "link": "https://rri.co.id/ekonomi/umkm/2803073/kdkmp-sorowako-catat-rp1-miliar-produk-lokal-kuasai-70-persen-gerai"
+    },
+    {
+      "title": "BPKN Minta Penerapan Pajak Niaga-el Perhatikan UMKM - Arah Kata",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 08:52:24 GMT",
+      "link": "https://arahkata.pikiran-rakyat.com/ekbis/amp/pr-12810497556/bpkn-minta-penerapan-pajak-niaga-el-perhatikan-umkm"
+    },
+    {
+      "title": "Komisi XI DPR Minta Pemerintah Kendalikan Defisit APBN dan Optimalkan Penerimaan Negara - Suara Investor",
       "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 03:36:17 GMT",
-      "link": "https://kosadata.com/defisit-apbn-capai-rp319-triliun-amin-ak-minta-pemerintah-tekan-belanja"
+      "published": "Sun, 11 Oct 2026 08:40:42 GMT",
+      "link": "https://www.suarainvestor.com/komisi-xi-dpr-minta-pemerintah-kendalikan-defisit-apbn-dan-optimalkan-penerimaan-negara/"
     },
     {
-      "title": "Resmi Ditutup Menteri Koperasi, Pekan Expo K-UMKM Sulsel 2026 di Luwu Timur Tuai Apresiasi - Rakyat Sulsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 03:16:41 GMT",
-      "link": "https://rakyatsulsel.fajar.co.id/2026/10/11/resmi-ditutup-menteri-koperasi-pekan-expo-k-umkm-sulsel-2026-di-luwu-timur-tuai-apresiasi/"
-    },
-    {
-      "title": "Pemkab Soppeng Sabet Penghargaan Verifikasi Koperasi Tercepat di Harkopnas Sulsel 2026 - sulselinfo.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 01:56:39 GMT",
-      "link": "https://www.sulselinfo.com/pemkab-soppeng-sabet-penghargaan-verifikasi-koperasi-tercepat-di-harkopnas-sulsel-2026"
-    },
-    {
-      "title": "Demokrat Terbuka Terima Aspirasi Bila Penggugat Syarat Pendidikan Gibran Audiensi ke DPR hingga MPR - Kedai Pena",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 00:50:18 GMT",
-      "link": "https://www.kedaipena.com/demokrat-terbuka-terima-aspirasi-bila-penggugat-syarat-pendidikan-gibran-audiensi-ke-dpr-hingga-mpr/"
-    },
-    {
-      "title": "Uni Eropa pangkas ekspor mobil hybrid China lebih dari separuh - IDNFinancials",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/70091/uni-eropa-pangkas-ekspor-mobil-hybrid-china-lebih-dari-separuh"
-    },
-    {
-      "title": "Danantara Siapkan Intervensi Pasar Saham Indonesia - Demokratis.co.id",
+      "title": "RI & Mesir Mau Patungan Bikin Dana Investasi - detikFinance",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 23:37:00 GMT",
-      "link": "https://demokratis.co.id/danantara-siapkan-intervensi-pasar-saham"
+      "published": "Sun, 11 Oct 2026 08:26:11 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8702101/ri-mesir-mau-patungan-bikin-dana-investasi"
     },
     {
-      "title": "Andre Rosiade Dalami Dugaan Permintaan Jaminan dalam Pengajuan KUR di Batam - DPR RI",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 10 Oct 2026 23:29:04 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Andre-Rosiade-Dalami-Dugaan-Permintaan-Jaminan-dalam-Pengajuan-KUR-di-Batam-69997"
-    },
-    {
-      "title": "Menteri Koperasi Puji Kekompakan Gubernur dan Bupati-Wali Kota di Sulsel, Siap Jadikan Pilot Project Nasional - Pemerintah Provinsi Sulawesi Selatan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 23:10:56 GMT",
-      "link": "https://sulselprov.go.id/berita/menteri-koperasi-puji-kekompakan-gubernur-dan-bupati-wali-kota-di-sulsel-siap-jadikan-pilot-project-nasional"
-    },
-    {
-      "title": "Disaksikan Menteri Koperasi, Kontingen Sidrap Raih Penghargaan di Harkopnas ke-79 - Pemerintah Kabupaten Sidenreng Rappang",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 22:24:46 GMT",
-      "link": "https://sidrapkab.go.id/berita/detail_berita/Berita062009-Disaksikan-Menteri-Koperasi--Kontingen-Sidrap-Raih-Penghargaan-di-Harkopnas-ke-79"
-    },
-    {
-      "title": "Koperasi Merah Putih Catat Transaksi Besar, Perputaran Usaha Desa Menguat - PT Suara Dewata Media",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 20:10:11 GMT",
-      "link": "https://www.suaradewata.com/berita/202405218243/koperasi-merah-putih-catat-transaksi-besar-perputaran-usaha-desa-menguat"
-    },
-    {
-      "title": "Nurdin Halid Dorong Penguatan Konektivitas Antarpulau di Kepulauan Riau - RRI.co.id",
+      "title": "Nurdin Halid Siap Kawal Pemenuhan Pupuk Subsidi Petani Kepri - Batamtoday.com",
       "entity": "Nurdin Halid",
       "kind": "anggota",
-      "published": "Sat, 10 Oct 2026 18:40:00 GMT",
-      "link": "https://rri.co.id/batam/regional/2802226/nurdin-halid-dorong-penguatan-konektivitas-antarpulau-di-kepulauan-riau"
+      "published": "Sun, 11 Oct 2026 07:16:49 GMT",
+      "link": "https://batamtoday.com/news/nurdin-halid-siap-kawal-pemenuhan-pupuk-subsidi-petani-kepri"
     },
     {
-      "title": "BP Batam Dorong Kemudahan Investasi di Tengah Pertumbuhan Ekonomi - RRI.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 17:26:00 GMT",
-      "link": "https://rri.co.id/batam/regional/2802233/bp-batam-dorong-kemudahan-investasi-di-tengah-pertumbuhan-ekonomi"
-    },
-    {
-      "title": "BP Batam Terus Menyapa, Bantu Pengusaha Pahami Aturan Perizinan - RRI.co.id",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 17:06:00 GMT",
-      "link": "https://rri.co.id/batam/regional/2802232/bp-batam-terus-menyapa-bantu-pengusaha-pahami-aturan-perizinan"
-    },
-    {
-      "title": "Kemenkop, Nasril Bahar, dan Samsul Rizal Revitalisasi Koperasi Langkat - Waspada.id",
-      "entity": "Nasril Bahar",
+      "title": "Soroti Kasus Cibinong-Depok, Rieke Minta Perpres Tata Kelola Lapas Terintegrasi - VOI.ID",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Sat, 10 Oct 2026 15:35:10 GMT",
-      "link": "https://www.waspada.id/berita/kemenkop-nasril-bahar-dan-samsul-rizal-revitalisasi-koperasi-langkat"
+      "published": "Sun, 11 Oct 2026 06:39:07 GMT",
+      "link": "https://voi.id/amp/597946/soroti-kasus-cibinong-depok-rieke-minta-perpres-tata-kelola-lapas-terintegrasi"
     },
     {
-      "title": "Sabang Perkuat Peluang Investasi dan Ekonomi Kreatif - Meuseuraya.id",
-      "entity": "BPK Sabang",
+      "title": "Komisi VI DPR Dorong Integrasi Pelabuhan untuk Tekan Disparitas Harga di Kepri - Batamtoday.com",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 06:29:44 GMT",
+      "link": "https://batamtoday.com/news/komisi-vi-dpr-dorong-integrasi-pelabuhan-untuk-tekan-disparitas-harga-di-kepri"
+    },
+    {
+      "title": "Wakili Bupati, Kadiskopnaker Sinjai Hadiri Puncak Pekan EXPO K-UMKM di Sorowako - Pemerintah Kabupaten Sinjai",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 10 Oct 2026 14:39:23 GMT",
-      "link": "https://www.meuseuraya.id/news/sabang-perkuat-peluang-investasi-dan-ekonomi-kreatif/amp.html"
+      "published": "Sun, 11 Oct 2026 06:05:00 GMT",
+      "link": "https://protokol.sinjaikab.go.id/2026/10/wakili-bupati-kadiskopnaker-sinjai.html"
+    },
+    {
+      "title": "Anggota DPR RI Totok Hedi Dorong Penguatan UMKM Melalui Literasi Digital - RRI.co.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 06:01:00 GMT",
+      "link": "https://rri.co.id/yogyakarta/ekonomi/umkm/2802857/anggota-dpr-ri-totok-hedi-dorong-penguatan-umkm-melalui-literasi-digital"
+    },
+    {
+      "title": "Sartono Hutomo Minta Evaluasi Total Distribusi BBM di Bali - Harapan Rakyat",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Sun, 11 Oct 2026 05:29:15 GMT",
+      "link": "https://www.harapanrakyat.com/2026/10/sartono-hutomo-minta-evaluasi-total-distribusi-bbm-di-bali/"
+    },
+    {
+      "title": "Kemendag Akan Tampilkan Industri Strategis di TEI 2026 - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 04:40:00 GMT",
+      "link": "https://rri.co.id/nasional/2802698/kemendag-akan-tampilkan-industri-strategis-di-tei-2026"
+    },
+    {
+      "title": "Menkop Puji Kekompakan Pemimpin Daerah di Sulsel, Siapkan Pilot Project Koperasi Nasional - Trotoar id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 04:39:55 GMT",
+      "link": "https://trotoar.id/2026/10/11/menkop-puji-kekompakan-pemimpin-daerah-di-sulsel-siapkan-pilot-project-koperasi-nasional/"
+    },
+    {
+      "title": "Akademisi Apresiasi Prabowo dan Rosan, Hilirisasi Dinilai Buka Lapangan Kerja - indoposco.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 04:21:00 GMT",
+      "link": "https://indoposco.id/2026/10/11/akademisi-apresiasi-prabowo-dan-rosan-hilirisasi-dinilai-buka-lapangan-kerja/"
     }
   ]
 }
