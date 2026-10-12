@@ -1,18 +1,18 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-12T16:34:08.742606",
+  "generated_at": "2026-10-12T23:28:55.266696",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 17,
+    "PDI-P": 18,
     "Golkar": 17,
     "PKB": 9,
-    "PKS": 17,
+    "PKS": 18,
     "PAN": 6,
     "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 72,
+    "PDI-P": 70,
     "Golkar": 90,
     "NasDem": 9,
     "PKB": 52,
@@ -34,15 +34,15 @@
   },
   "topic_counts_30d": {
     "bumn": 46,
-    "umkm": 23,
-    "danantara": 34,
+    "umkm": 22,
+    "danantara": 35,
     "dividen": 4,
-    "ekspor": 6,
+    "ekspor": 5,
     "perdagangan": 17,
-    "koperasi": 47,
+    "koperasi": 44,
     "investasi": 37,
     "kartel-monopoli": 11,
-    "merger-akuisisi": 11,
+    "merger-akuisisi": 10,
     "impor": 11
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Unru Baso": 1,
     "Mulyadi": 2,
     "Adisatrya Suryo Sulisto": 15,
-    "Mufti Anam": 14,
+    "Mufti Anam": 12,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "Sadarestuwati": 1,
@@ -83,13 +83,55 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 66,
-    "Perdagangan": 41,
-    "Kinerja BUMN": 18,
+    "Koperasi/UMKM": 65,
+    "Perdagangan": 40,
+    "Kinerja BUMN": 19,
     "Konflik Publik": 1,
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Ambisi Koperasi - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 23:09:16 GMT",
+      "link": "https://insight.kontan.co.id/news/ambisi-koperasi"
+    },
+    {
+      "title": "Kemendag Hadirkan Penyedia Jasa di TEI 2026 Pacu Ekspor Nasional - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 22:00:00 GMT",
+      "link": "https://rri.co.id/ekonomi/makro/2806714/kemendag-hadirkan-penyedia-jasa-di-tei-2026-pacu-ekspor-nasional"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 20:42:48 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261013/Mjk5MTUy"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 19:36:37 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261013/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Konsumen Digital: Dilindungi Undang-Undang, Dibiarkan Menghadapi Kerugian? - Portal Hukum",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 17:51:38 GMT",
+      "link": "https://portalhukum.id/opini-hukum/konsumen-digital-dilindungi-undang-undang-dibiarkan-menghadapi-kerugian-2/"
+    },
+    {
+      "title": "Pemkot Bima Usulkan Rp6,1 Miliar ke Kemendag untuk Bangun Pasar Rakyat di Bekas Terminal Paruga - republika.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 17:30:17 GMT",
+      "link": "https://news.republika.co.id/berita/tmt1yh4130000/pemkot-bima-usulkan-rp61-miliar-ke-kemendag-untuk-bangun-pasar-rakyat-di-bekas-terminal-paruga"
+    },
     {
       "title": "Putusan MK soal Gibran Memanas, Demokrat Pilih Konsolidasi - Inilah.com",
       "entity": "Herman Khaeron",
@@ -103,6 +145,13 @@
       "kind": "anggota",
       "published": "Mon, 12 Oct 2026 14:15:10 GMT",
       "link": "https://indoposco.id/2026/10/12/pemerintah-tarik-utang-baru-dpr-khawatir-ruang-fiskal-pembangunan-terganggu/"
+    },
+    {
+      "title": "Terkendala Biaya Rp65 Juta, LBH Adhyaksa Bersama Rizal Bawazier Siap Bantu Kepulangan PMI Asal Pekalongan Yang Sakit di Dubai - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 14:15:00 GMT",
+      "link": "https://www.batiktv.id/index.php/news/terkendala-biaya-rp65-juta--lbh-adhyaksa-bersama-rizal-bawazier-siap-bantu-kepulangan-pmi-asal-pekalongan-yang-sakit-di-dubai"
     },
     {
       "title": "Terkendala Biaya Rp65 Juta, LBH Adhyaksa Bersama Rizal Bawazier Siap Bantu Kepulangan PMI Asal Pekalongan Yang Sakit di Dubai - Batik TV",
@@ -145,55 +194,6 @@
       "kind": "lembaga",
       "published": "Mon, 12 Oct 2026 13:22:00 GMT",
       "link": "https://rmol.id/read/2026/10/12/724735/danantara-diandalkan-pacu-pertumbuhan-ekonomi-7-persen"
-    },
-    {
-      "title": "Khilmi Ingatkan Risiko Investasi Data Center, Jangan Sampai Negara Merugi - Kabarpolitik.com",
-      "entity": "Khilmi",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 13:14:31 GMT",
-      "link": "https://kabarpolitik.com/khilmi-ingatkan-risiko-investasi-data-center-jangan-sampai-negara-merugi/"
-    },
-    {
-      "title": "Wamenkop: Indonesia dan ASEAN Perkuat Koperasi Pertanian Guna Wujudkan Swasembada Pangan - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 13:05:15 GMT",
-      "link": "https://indoposco.id/2026/10/12/wamenkop-indonesia-dan-asean-perkuat-koperasi-pertanian-guna-wujudkan-swasembada-pangan/"
-    },
-    {
-      "title": "China dan Uni Eropa mencapai kesepakatan untuk mempertahankan pertumbuhan ekspor kendaraan hibrida. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 12:49:49 GMT",
-      "link": "https://www.vietnam.vn/id/trung-quoc-va-eu-dat-dong-thuan-nham-duy-tri-tang-truong-xuat-khau-xe-hybrid"
-    },
-    {
-      "title": "Kemendag dan Lazada perkuat legalitas serta teknologi AI bagi pelaku UMKM - ANTARA News Megapolitan",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 12:25:22 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/554340/kemendag-dan-lazada-perkuat-legalitas-serta-teknologi-ai-bagi-pelaku-umkm"
-    },
-    {
-      "title": "Tekan Inflasi, Buleleng Perkuat Pemantauan Harga dan Pasokan Bahan Pokok - Disdagperinkopukm Buleleng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 12:23:04 GMT",
-      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/14_tekan-inflasi-buleleng-perkuat-pemantauan-harga-dan-pasokan-bahan-pokok"
-    },
-    {
-      "title": "Indonesia dan ASEAN Perkuat Koperasi Pertanian untuk Capai Swasembada Pangan - BorneoFlash.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 12:13:00 GMT",
-      "link": "https://borneoflash.com/2026/10/12/indonesia-dan-asean-perkuat-koperasi-pertanian-untuk-capai-swasembada-pangan"
-    },
-    {
-      "title": "Gebrakan Muhammad Husein Fadlulloh, Kawal Transparansi Parlemen Asia Bersama APPO! - Harapan Rakyat",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 12:04:53 GMT",
-      "link": "https://www.harapanrakyat.com/2026/10/muhammad-husein-fadlulloh-kawal-transparansi-parlemen-asia/"
     }
   ]
 }
