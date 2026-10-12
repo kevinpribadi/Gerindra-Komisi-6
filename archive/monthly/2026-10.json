@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-12T06:57:05.765466",
+  "generated_at": "2026-10-12T16:34:08.742606",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 18,
-    "Golkar": 19,
+    "Gerindra": 29,
+    "PDI-P": 17,
+    "Golkar": 17,
     "PKB": 9,
-    "PKS": 13,
+    "PKS": 17,
     "PAN": 6,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 40,
+    "Gerindra": 44,
     "PDI-P": 72,
     "Golkar": 90,
-    "NasDem": 11,
+    "NasDem": 9,
     "PKB": 52,
     "PKS": 67,
     "PAN": 20,
-    "Demokrat": 19
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 18,
@@ -33,22 +33,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 45,
-    "umkm": 19,
+    "bumn": 46,
+    "umkm": 23,
     "danantara": 34,
-    "dividen": 3,
+    "dividen": 4,
     "ekspor": 6,
-    "perdagangan": 18,
-    "impor": 12,
+    "perdagangan": 17,
     "koperasi": 47,
-    "investasi": 34,
-    "kartel-monopoli": 13,
-    "merger-akuisisi": 11
+    "investasi": 37,
+    "kartel-monopoli": 11,
+    "merger-akuisisi": 11,
+    "impor": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 9,
+    "Khilmi": 2,
+    "Muhammad Husein Fadlulloh": 12,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
     "Mulyadi": 2,
@@ -67,8 +67,8 @@
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
-    "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 5,
+    "Asep Wahyuwijaya": 5,
+    "I Nengah Senantara": 4,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
@@ -80,120 +80,120 @@
     "Nasril Bahar": 7,
     "Iskandar": 13,
     "Sartono": 5,
-    "Herman Khaeron": 14
+    "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 62,
-    "Perdagangan": 40,
-    "Kinerja BUMN": 16,
-    "Konflik Publik": 2,
+    "Koperasi/UMKM": 66,
+    "Perdagangan": 41,
+    "Kinerja BUMN": 18,
+    "Konflik Publik": 1,
     "Hukum/Audit": 16
   },
   "top_headlines": [
     {
-      "title": "Danantara Masuk Bisnis Migas AS, Apa Dampaknya bagi Industri Energi RI? - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 06:40:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/12/134000826/danantara-masuk-bisnis-migas-as-apa-dampaknya-bagi-industri-energi-ri-?source=wp_terkini"
+      "title": "Putusan MK soal Gibran Memanas, Demokrat Pilih Konsolidasi - Inilah.com",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 14:21:00 GMT",
+      "link": "https://www.inilah.com/putusan-mk-soal-gibran-memanas-demokrat-pilih-konsolidasi"
     },
     {
-      "title": "30 Tahun Perjuangkan Koperasi, Sri Untari Terima Lencana Emas Jer Basuki Mawa Beya - DPD PDI Perjuangan Jawa Timur",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 06:23:00 GMT",
-      "link": "https://pdiperjuangan-jatim.com/30-tahun-perjuangkan-koperasi-sri-untari-terima-lencana-emas-jer-basuki-mawa-beya/"
-    },
-    {
-      "title": "Amin Ak Minta Kemenkeu Pastikan Utang Baru Rp494,3 Triliun Produktif - Bela Rakyat",
+      "title": "Pemerintah Tarik Utang Baru, DPR Khawatir Ruang Fiskal Pembangunan Terganggu - indoposco.id",
       "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 06:15:45 GMT",
-      "link": "https://belarakyat.com/amin-ak-minta-kemenkeu-pastikan-utang-baru-rp4943-triliun-produktif/"
+      "published": "Mon, 12 Oct 2026 14:15:10 GMT",
+      "link": "https://indoposco.id/2026/10/12/pemerintah-tarik-utang-baru-dpr-khawatir-ruang-fiskal-pembangunan-terganggu/"
     },
     {
-      "title": "Reaksi Bima Arya soal Ide Kemenkop Gaji ASN Lewat Kopdes - Bloomberg Technoz",
+      "title": "Terkendala Biaya Rp65 Juta, LBH Adhyaksa Bersama Rizal Bawazier Siap Bantu Kepulangan PMI Asal Pekalongan Yang Sakit di Dubai - Batik TV",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 14:15:00 GMT",
+      "link": "https://www.batiktv.id/news/terkendala-biaya-rp65-juta--lbh-adhyaksa-bersama-rizal-bawazier-siap-bantu-kepulangan-pmi-asal-pekalongan-yang-sakit-di-dubai"
+    },
+    {
+      "title": "Tata Kelola Pertambangan Timah di Babel Bakal Libatkan Kopdes - VOI.ID",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 05:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/124290/reaksi-bima-arya-soal-ide-kemenkop-gaji-asn-lewat-kopdes"
+      "published": "Mon, 12 Oct 2026 14:02:00 GMT",
+      "link": "https://voi.id/ekonomi/598159/tata-kelola-pertambangan-timah-di-babel-bakal-libatkan-kopdes"
     },
     {
-      "title": "Investasi Danantara di AS Dinilai Buka Akses Teknologi Hulu Migas - RCTI+",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 05:20:08 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5491774/investasi-danantara-di-as-dinilai-buka-akses-teknologi-hulu-migas"
-    },
-    {
-      "title": "Perkuat Ekspansi ke Timur Tengah dan Afrika, BPI Danantara dan SWF Mesir Garap Pabrik Refinery CPO di Mesir - Sawit Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 05:03:19 GMT",
-      "link": "https://sawitindonesia.com/perkuat-ekspansi-ke-timur-tengah-dan-afrika-bpi-danantara-dan-swf-mesir-garap-pabrik-refinery-cpo-di-mesir"
-    },
-    {
-      "title": "Kemendag Gelar Pelatihan Ekspor Gratis untuk 30 UMKM Disabilitas di Yogyakarta - ukmindonesia.id",
+      "title": "Kemendag Dorong UMKM Perkuat Legalitas dan Manfaatkan AI - JPNN.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 04:15:51 GMT",
-      "link": "https://ukmindonesia.id/baca-deskripsi-program/kemendag-gelar-pelatihan-ekspor-gratis-untuk-30-umkm-disabilitas-di-yogyakarta"
+      "published": "Mon, 12 Oct 2026 13:43:00 GMT",
+      "link": "https://www.jpnn.com/news/kemendag-dorong-umkm-perkuat-legalitas-dan-manfaatkan-ai"
     },
     {
-      "title": "Kemendag Siapkan Paviliun Industri Strategis di TEI 2026 untuk Pamerkan Teknologi Tinggi Nasional - SWA.co.id",
+      "title": "Menteri Koperasi Tinjau KDKMP Sorowako, 70 Persen Produk Berasal dari Lokal. - Rakyat Sulsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 13:30:12 GMT",
+      "link": "https://rakyatsulsel.fajar.co.id/2026/10/12/menteri-koperasi-tinjau-kdkmp-sorowako-70-persen-produk-berasal-dari-lokal/"
+    },
+    {
+      "title": "Andre Rosiade Dalami Dugaan Pemohon KUR di Batam Diminta Jaminan - Kabarpolitik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 13:29:38 GMT",
+      "link": "https://kabarpolitik.com/andre-rosiade-dalami-dugaan-pemohon-kur-di-batam-diminta-jaminan/"
+    },
+    {
+      "title": "Danantara Diandalkan Pacu Pertumbuhan Ekonomi 7 Persen - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 13:22:00 GMT",
+      "link": "https://rmol.id/read/2026/10/12/724735/danantara-diandalkan-pacu-pertumbuhan-ekonomi-7-persen"
+    },
+    {
+      "title": "Khilmi Ingatkan Risiko Investasi Data Center, Jangan Sampai Negara Merugi - Kabarpolitik.com",
+      "entity": "Khilmi",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 13:14:31 GMT",
+      "link": "https://kabarpolitik.com/khilmi-ingatkan-risiko-investasi-data-center-jangan-sampai-negara-merugi/"
+    },
+    {
+      "title": "Wamenkop: Indonesia dan ASEAN Perkuat Koperasi Pertanian Guna Wujudkan Swasembada Pangan - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 13:05:15 GMT",
+      "link": "https://indoposco.id/2026/10/12/wamenkop-indonesia-dan-asean-perkuat-koperasi-pertanian-guna-wujudkan-swasembada-pangan/"
+    },
+    {
+      "title": "China dan Uni Eropa mencapai kesepakatan untuk mempertahankan pertumbuhan ekspor kendaraan hibrida. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 04:00:00 GMT",
-      "link": "https://swa.co.id/read/478330/kemendag-siapkan-paviliun-industri-strategis-di-tei-2026-untuk-pamerkan-teknologi-tinggi-nasional"
+      "published": "Mon, 12 Oct 2026 12:49:49 GMT",
+      "link": "https://www.vietnam.vn/id/trung-quoc-va-eu-dat-dong-thuan-nham-duy-tri-tang-truong-xuat-khau-xe-hybrid"
     },
     {
-      "title": "Danantara Masuk HighPeak Energy, Apa Dampaknya bagi Industri Hulu Migas Indonesia? - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 03:23:00 GMT",
-      "link": "https://investortrust.id/business/118997/danantara-masuk-highpeak-energy-apa-dampaknya-bagi-industri-hulu-migas-indonesia"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan berfokus pada solusi untuk mendorong pertumbuhan pada kuartal keempat tahun 2026. - Vietnam.vn",
+      "title": "Kemendag dan Lazada perkuat legalitas serta teknologi AI bagi pelaku UMKM - ANTARA News Megapolitan",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 03:08:46 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-tap-trung-giai-phap-thuc-day-tang-truong-quy-iv-2026"
+      "published": "Mon, 12 Oct 2026 12:25:22 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/554340/kemendag-dan-lazada-perkuat-legalitas-serta-teknologi-ai-bagi-pelaku-umkm"
     },
     {
-      "title": "Sengkarut Distribusi BBM Bali Bikin Antrean Mengular, DPR Sentil Pertamina dan PLN - diksimerdeka.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 03:07:12 GMT",
-      "link": "https://diksimerdeka.com/2026/10/12/sengkarut-distribusi-bbm-bali-dpr/"
-    },
-    {
-      "title": "Eksklusif, Rieke Diah Pitaloka: Dengan Satu Data, Mengintegrasikan Seluruh Data yang Tersebar - VOI.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 03:00:00 GMT",
-      "link": "https://voi.id/interviu/598057/eksklusif-rieke-diah-pitaloka-dengan-satu-data-mengintegrasikan-seluruh-data-yang-tersebar"
-    },
-    {
-      "title": "Dividen BUMN Dikelola untuk Investasi, Danantara Dorong Pertumbuhan Ekonomi Nasional - https://beritanasionalupdate.com/",
-      "entity": "Danantara",
+      "title": "Tekan Inflasi, Buleleng Perkuat Pemantauan Harga dan Pasokan Bahan Pokok - Disdagperinkopukm Buleleng",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 02:24:49 GMT",
-      "link": "https://www.beritanasionalupdate.com/news/details/1916/dividen-bumn-dikelola-untuk-investasi,-danantara-dorong-pertumbuhan-ekonomi-nasional"
+      "published": "Mon, 12 Oct 2026 12:23:04 GMT",
+      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/14_tekan-inflasi-buleleng-perkuat-pemantauan-harga-dan-pasokan-bahan-pokok"
     },
     {
-      "title": "Komisi XI DPR Minta Pemerintah Tekan Defisit APBN, Jangan Bebani UMKM - Rmol.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 02:03:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/10/12/724659/komisi-xi-dpr-minta-pemerintah-tekan-defisit-apbn-jangan-bebani-umkm"
-    },
-    {
-      "title": "Kerja Sama Ekonomi, Danantara Rencana Bangun Kilang Minyak Sawit di Mesir - jurnas.com",
-      "entity": "Danantara",
+      "title": "Indonesia dan ASEAN Perkuat Koperasi Pertanian untuk Capai Swasembada Pangan - BorneoFlash.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 01:21:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1666963/kerja-sama-ekonomi-danantara-rencana-bangun-kilang-minyak-sawit-di-mesir/"
+      "published": "Mon, 12 Oct 2026 12:13:00 GMT",
+      "link": "https://borneoflash.com/2026/10/12/indonesia-dan-asean-perkuat-koperasi-pertanian-untuk-capai-swasembada-pangan"
+    },
+    {
+      "title": "Gebrakan Muhammad Husein Fadlulloh, Kawal Transparansi Parlemen Asia Bersama APPO! - Harapan Rakyat",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 12:04:53 GMT",
+      "link": "https://www.harapanrakyat.com/2026/10/muhammad-husein-fadlulloh-kawal-transparansi-parlemen-asia/"
     }
   ]
 }
