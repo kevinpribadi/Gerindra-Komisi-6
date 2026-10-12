@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-12T00:12:47.703468",
+  "generated_at": "2026-10-12T06:57:05.765466",
   "party_counts_7d": {
-    "Gerindra": 26,
+    "Gerindra": 27,
     "PDI-P": 18,
     "Golkar": 19,
-    "PKB": 10,
-    "PKS": 11,
+    "PKB": 9,
+    "PKS": 13,
     "PAN": 6,
-    "Demokrat": 7
+    "Demokrat": 9
   },
   "party_counts_30d": {
-    "Gerindra": 39,
+    "Gerindra": 40,
     "PDI-P": 72,
     "Golkar": 90,
-    "NasDem": 10,
+    "NasDem": 11,
     "PKB": 52,
     "PKS": 67,
     "PAN": 20,
-    "Demokrat": 17
+    "Demokrat": 19
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 18,
@@ -33,21 +33,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 47,
-    "umkm": 17,
-    "danantara": 33,
+    "bumn": 45,
+    "umkm": 19,
+    "danantara": 34,
     "dividen": 3,
-    "perdagangan": 19,
-    "ekspor": 5,
+    "ekspor": 6,
+    "perdagangan": 18,
     "impor": 12,
-    "investasi": 33,
     "koperasi": 47,
-    "ipo": 1,
+    "investasi": 34,
     "kartel-monopoli": 13,
     "merger-akuisisi": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
+    "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 9,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
@@ -68,7 +68,7 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 4,
+    "I Nengah Senantara": 5,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
@@ -79,121 +79,121 @@
     "Ismail": 12,
     "Nasril Bahar": 7,
     "Iskandar": 13,
-    "Sartono": 3,
+    "Sartono": 5,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 38,
+    "Koperasi/UMKM": 62,
+    "Perdagangan": 40,
     "Kinerja BUMN": 16,
-    "Konflik Publik": 1,
+    "Konflik Publik": 2,
     "Hukum/Audit": 16
   },
   "top_headlines": [
     {
-      "title": "BPKN RI Dukung Total Wajib Halal, Minta Pedagang Kaki Lima Diberi Keringana - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 22:35:00 GMT",
-      "link": "https://www.mediakarya.id/bpkn-ri-dukung-total-wajib-halal-minta-pedagang-kaki-lima-diberi-keringana/"
-    },
-    {
-      "title": "Gaji ASN Lewat Koperasi: Solusi atau Beban Baru? Halaman 1 - Kompasiana.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 21:46:12 GMT",
-      "link": "https://www.kompasiana.com/karnitakar4943/6ac9a5c434777c57ff030ad0/gaji-asn-lewat-koperasi-solusi-atau-beban-baru"
-    },
-    {
-      "title": "Menelaah Status Hukum dan Risiko di Balik Kebijakan Pemodalan Danantara - JurnalPost",
+      "title": "Danantara Masuk Bisnis Migas AS, Apa Dampaknya bagi Industri Energi RI? - Kompas.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 18:46:43 GMT",
-      "link": "https://jurnalpost.com/bahaya-di-balik-pemodalan-danantara/98110/"
+      "published": "Mon, 12 Oct 2026 06:40:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/12/134000826/danantara-masuk-bisnis-migas-as-apa-dampaknya-bagi-industri-energi-ri-?source=wp_terkini"
     },
     {
-      "title": "Konsumen Digital: Dilindungi Undang-Undang, Dibiarkan Menghadapi Kerugian? - Portal Hukum",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 17:53:24 GMT",
-      "link": "https://portalhukum.id/opini-hukum/konsumen-digital-dilindungi-undang-undang-dibiarkan-menghadapi-kerugian/"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "title": "30 Tahun Perjuangkan Koperasi, Sri Untari Terima Lencana Emas Jer Basuki Mawa Beya - DPD PDI Perjuangan Jawa Timur",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 17:18:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261012/Mjk5MTUy"
+      "published": "Mon, 12 Oct 2026 06:23:00 GMT",
+      "link": "https://pdiperjuangan-jatim.com/30-tahun-perjuangkan-koperasi-sri-untari-terima-lencana-emas-jer-basuki-mawa-beya/"
     },
     {
-      "title": "Danantara Bakal Gandeng SWF Mesir, Lirik Proyek Hilirisasi Kelapa Sawit - Bisnis.com - Ekonomi",
+      "title": "Amin Ak Minta Kemenkeu Pastikan Utang Baru Rp494,3 Triliun Produktif - Bela Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 06:15:45 GMT",
+      "link": "https://belarakyat.com/amin-ak-minta-kemenkeu-pastikan-utang-baru-rp4943-triliun-produktif/"
+    },
+    {
+      "title": "Reaksi Bima Arya soal Ide Kemenkop Gaji ASN Lewat Kopdes - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 05:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/124290/reaksi-bima-arya-soal-ide-kemenkop-gaji-asn-lewat-kopdes"
+    },
+    {
+      "title": "Investasi Danantara di AS Dinilai Buka Akses Teknologi Hulu Migas - RCTI+",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 17:16:46 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261012/44/2011652/danantara-bakal-gandeng-swf-mesir-lirik-proyek-hilirisasi-kelapa-sawit"
+      "published": "Mon, 12 Oct 2026 05:20:08 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5491774/investasi-danantara-di-as-dinilai-buka-akses-teknologi-hulu-migas"
     },
     {
-      "title": "Inovasi Pemerintah: Gaji PNS dan Pensiunan Bakal Dibayar lewat Koperasi - Pontianak Post",
-      "entity": "Kementerian Koperasi",
+      "title": "Perkuat Ekspansi ke Timur Tengah dan Afrika, BPI Danantara dan SWF Mesir Garap Pabrik Refinery CPO di Mesir - Sawit Indonesia",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 15:21:17 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2610110024/inovasi-pemerintah-gaji-pns-dan-pensiunan-bakal-dibayar-lewat-koperasi"
+      "published": "Mon, 12 Oct 2026 05:03:19 GMT",
+      "link": "https://sawitindonesia.com/perkuat-ekspansi-ke-timur-tengah-dan-afrika-bpi-danantara-dan-swf-mesir-garap-pabrik-refinery-cpo-di-mesir"
     },
     {
-      "title": "Didampingi Ketua Umum Levita Supit, Menteri Perdagangan Budi Santoso, Buka Gelaran Franchise Lisensi Expo Indonesia - newposkomanado.id",
+      "title": "Kemendag Gelar Pelatihan Ekspor Gratis untuk 30 UMKM Disabilitas di Yogyakarta - ukmindonesia.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 15:16:22 GMT",
-      "link": "https://newposkomanado.id/2026/10/11/didampingi-ketua-umum-levita-supit-menteri-perdagangan-budi-santoso-buka-gelaran-franchise-lisensi-expo-indonesia/"
+      "published": "Mon, 12 Oct 2026 04:15:51 GMT",
+      "link": "https://ukmindonesia.id/baca-deskripsi-program/kemendag-gelar-pelatihan-ekspor-gratis-untuk-30-umkm-disabilitas-di-yogyakarta"
     },
     {
-      "title": "Ditutup Menteri Koperasi, Lutim Sukses Tuan Rumah Expo K-UMKM Sulsel 2026 - linisulsel.com",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Siapkan Paviliun Industri Strategis di TEI 2026 untuk Pamerkan Teknologi Tinggi Nasional - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 14:37:35 GMT",
-      "link": "https://linisulsel.com/ditutup-menteri-koperasi-lutim-sukses-tuan-rumah-expo-k-umkm-sulsel-2026/"
+      "published": "Mon, 12 Oct 2026 04:00:00 GMT",
+      "link": "https://swa.co.id/read/478330/kemendag-siapkan-paviliun-industri-strategis-di-tei-2026-untuk-pamerkan-teknologi-tinggi-nasional"
     },
     {
-      "title": "Soroti Defisit APBN Rp319 Triliun, DPR Minta Pemerintah Berhemat - law-justice.co",
+      "title": "Danantara Masuk HighPeak Energy, Apa Dampaknya bagi Industri Hulu Migas Indonesia? - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 03:23:00 GMT",
+      "link": "https://investortrust.id/business/118997/danantara-masuk-highpeak-energy-apa-dampaknya-bagi-industri-hulu-migas-indonesia"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan berfokus pada solusi untuk mendorong pertumbuhan pada kuartal keempat tahun 2026. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 03:08:46 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-tap-trung-giai-phap-thuc-day-tang-truong-quy-iv-2026"
+    },
+    {
+      "title": "Sengkarut Distribusi BBM Bali Bikin Antrean Mengular, DPR Sentil Pertamina dan PLN - diksimerdeka.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 03:07:12 GMT",
+      "link": "https://diksimerdeka.com/2026/10/12/sengkarut-distribusi-bbm-bali-dpr/"
+    },
+    {
+      "title": "Eksklusif, Rieke Diah Pitaloka: Dengan Satu Data, Mengintegrasikan Seluruh Data yang Tersebar - VOI.ID",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 12 Oct 2026 03:00:00 GMT",
+      "link": "https://voi.id/interviu/598057/eksklusif-rieke-diah-pitaloka-dengan-satu-data-mengintegrasikan-seluruh-data-yang-tersebar"
+    },
+    {
+      "title": "Dividen BUMN Dikelola untuk Investasi, Danantara Dorong Pertumbuhan Ekonomi Nasional - https://beritanasionalupdate.com/",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 02:24:49 GMT",
+      "link": "https://www.beritanasionalupdate.com/news/details/1916/dividen-bumn-dikelola-untuk-investasi,-danantara-dorong-pertumbuhan-ekonomi-nasional"
+    },
+    {
+      "title": "Komisi XI DPR Minta Pemerintah Tekan Defisit APBN, Jangan Bebani UMKM - Rmol.id",
       "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 13:17:00 GMT",
-      "link": "https://www.law-justice.co/amp/211801/soroti-defisit-apbn-rp319-triliun-dpr-minta-pemerintah-berhemat/"
+      "published": "Mon, 12 Oct 2026 02:03:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/10/12/724659/komisi-xi-dpr-minta-pemerintah-tekan-defisit-apbn-jangan-bebani-umkm"
     },
     {
-      "title": "Andre Rosiade Dorong Penguatan Ekosistem Industri Kota Batam - Kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 13:09:08 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-dorong-penguatan-ekosistem-industri-kota-batam/"
-    },
-    {
-      "title": "BPKN dukung penuh penerapan aturan wajib halal pada 18 Oktober 2026 - ANTARA News",
-      "entity": "BPKN",
+      "title": "Kerja Sama Ekonomi, Danantara Rencana Bangun Kilang Minyak Sawit di Mesir - jurnas.com",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 13:06:50 GMT",
-      "link": "https://www.antaranews.com/berita/5781128/bpkn-dukung-penuh-penerapan-aturan-wajib-halal-pada-18-oktober-2026"
-    },
-    {
-      "title": "MA dan KPPU Evaluasi PERMA tentang Keberatan atas Putusan KPPU - Dandapala Digital",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 12:15:00 GMT",
-      "link": "https://dandapala.com/article/detail/ma-dan-kppu-evaluasi-perma-tentang-keberatan-atas-putusan-kppu"
-    },
-    {
-      "title": "Ida Nurlaela Cup Wadah Anak-Anak Muda di Desa Kembangkan Bakat - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 10:47:27 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/ida-nurlaela-cup-wadah-anak-anak-muda-di-desa-kembangkan-bakat-b2qcIZbi5V"
-    },
-    {
-      "title": "Defisit APBN Rp319 T, Amin Minta Pemerintah Efisiensi - Harapan Rakyat",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 10:32:22 GMT",
-      "link": "https://www.harapanrakyat.com/2026/10/defisit-apbn-rp319-t-amin-minta-pemerintah-efisiensi/"
+      "published": "Mon, 12 Oct 2026 01:21:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1666963/kerja-sama-ekonomi-danantara-rencana-bangun-kilang-minyak-sawit-di-mesir/"
     }
   ]
 }
