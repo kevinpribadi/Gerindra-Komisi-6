@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-11T20:47:23.702295",
+  "generated_at": "2026-10-12T00:12:47.703468",
   "party_counts_7d": {
     "Gerindra": 26,
     "PDI-P": 18,
@@ -14,7 +14,7 @@
     "Gerindra": 39,
     "PDI-P": 72,
     "Golkar": 90,
-    "NasDem": 12,
+    "NasDem": 10,
     "PKB": 52,
     "PKS": 67,
     "PAN": 20,
@@ -41,7 +41,7 @@
     "ekspor": 5,
     "impor": 12,
     "investasi": 33,
-    "koperasi": 46,
+    "koperasi": 47,
     "ipo": 1,
     "kartel-monopoli": 13,
     "merger-akuisisi": 11
@@ -68,7 +68,7 @@
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 6,
-    "I Nengah Senantara": 6,
+    "I Nengah Senantara": 4,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
@@ -83,13 +83,27 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
+    "Koperasi/UMKM": 61,
     "Perdagangan": 38,
     "Kinerja BUMN": 16,
-    "Konflik Publik": 3,
+    "Konflik Publik": 1,
     "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "BPKN RI Dukung Total Wajib Halal, Minta Pedagang Kaki Lima Diberi Keringana - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 22:35:00 GMT",
+      "link": "https://www.mediakarya.id/bpkn-ri-dukung-total-wajib-halal-minta-pedagang-kaki-lima-diberi-keringana/"
+    },
+    {
+      "title": "Gaji ASN Lewat Koperasi: Solusi atau Beban Baru? Halaman 1 - Kompasiana.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 11 Oct 2026 21:46:12 GMT",
+      "link": "https://www.kompasiana.com/karnitakar4943/6ac9a5c434777c57ff030ad0/gaji-asn-lewat-koperasi-solusi-atau-beban-baru"
+    },
     {
       "title": "Menelaah Status Hukum dan Risiko di Balik Kebijakan Pemodalan Danantara - JurnalPost",
       "entity": "Danantara",
@@ -180,20 +194,6 @@
       "kind": "anggota",
       "published": "Sun, 11 Oct 2026 10:32:22 GMT",
       "link": "https://www.harapanrakyat.com/2026/10/defisit-apbn-rp319-t-amin-minta-pemerintah-efisiensi/"
-    },
-    {
-      "title": "Kick Off Anyer–Panarukan 3R, Nasim Khan Dorong Kolaborasi Sejarah, Wisata, dan Ekonomi UMKM - Penarakyat.Com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 11 Oct 2026 10:20:26 GMT",
-      "link": "https://penarakyat.com/kick-off-anyer-panarukan-3r-nasim-khan-dorong-kolaborasi-sejarah-wisata-dan-ekonomi-umkm/"
-    },
-    {
-      "title": "Kemenkop Perkuat Peran Koperasi serta KDKMP Bangka Belitung dalam Tata Kelola Pertambangan Timah Sesuai Prinsip GMP - Harian Dialog",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 11 Oct 2026 10:18:24 GMT",
-      "link": "https://hariandialog.co.id/kemenkop-perkuat-peran-koperasi-serta-kdkmp-bangka-belitung-dalam-tata-kelola-pertambangan-timah-sesuai-prinsip-gmp/"
     }
   ]
 }
