@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-12T23:28:55.266696",
+  "generated_at": "2026-10-13T05:26:13.096494",
   "party_counts_7d": {
     "Gerindra": 29,
-    "PDI-P": 18,
-    "Golkar": 17,
+    "PDI-P": 17,
+    "Golkar": 16,
     "PKB": 9,
     "PKS": 18,
     "PAN": 6,
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 44,
+    "Gerindra": 45,
     "PDI-P": 70,
     "Golkar": 90,
     "NasDem": 9,
     "PKB": 52,
-    "PKS": 67,
+    "PKS": 65,
     "PAN": 20,
     "Demokrat": 20
   },
@@ -36,11 +36,11 @@
     "bumn": 46,
     "umkm": 22,
     "danantara": 35,
-    "dividen": 4,
+    "dividen": 3,
     "ekspor": 5,
     "perdagangan": 17,
-    "koperasi": 44,
-    "investasi": 37,
+    "koperasi": 45,
+    "investasi": 35,
     "kartel-monopoli": 11,
     "merger-akuisisi": 10,
     "impor": 11
@@ -48,7 +48,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 2,
-    "Muhammad Husein Fadlulloh": 12,
+    "Muhammad Husein Fadlulloh": 13,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
     "Mulyadi": 2,
@@ -75,7 +75,7 @@
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 15,
+    "Ghufran": 13,
     "Ismail": 12,
     "Nasril Bahar": 7,
     "Iskandar": 13,
@@ -83,19 +83,103 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 65,
-    "Perdagangan": 40,
+    "Koperasi/UMKM": 66,
+    "Perdagangan": 41,
     "Kinerja BUMN": 19,
     "Konflik Publik": 1,
     "Hukum/Audit": 16
   },
   "top_headlines": [
     {
+      "title": "Terima Audiensi APPO, Husein Fadlulloh Dorong Penguatan Transparansi dan Keterbukaan Parlemen Asia - fraksi gerindra dpr-ri",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Tue, 13 Oct 2026 05:17:16 GMT",
+      "link": "https://www.fraksigerindra.id/terima-audiensi-appo-husein-fadlulloh-dorong-penguatan-transparansi-dan-keterbukaan-parlemen-asia/"
+    },
+    {
+      "title": "Kemendag Kembangkan InaExport Jadi Ekosistem B2B, Holding Perkebunan Nusantara melalui PTPN IV PalmCo Perluas Akses Pasar Ekspor - Liputan Pontianak",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 05:15:00 GMT",
+      "link": "https://www.liputanpontianak.com/kemendag-kembangkan-inaexport-jadi-ekosistem-b2b-holding-perkebunan-nusantara-melalui-ptpn-iv-palmco-perluas-akses-pasar-ekspor/"
+    },
+    {
+      "title": "Momentum Perdagangan Indonesia-UEA, Potensi Transaksi Capai Rp39,8 Miliar di Dubai - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 04:59:00 GMT",
+      "link": "https://swa.co.id/read/478381/momentum-perdagangan-indonesia-uea-potensi-transaksi-capai-rp398-miliar-di-dubai"
+    },
+    {
+      "title": "Kadin Nilai Mesir Bisa Jadi Pintu Masuk Produk Hilirisasi Sawit Indonesia ke Afrika - sawitsetara.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 04:44:37 GMT",
+      "link": "https://www.sawitsetara.co/artikel/Berita/kadin-nilai-mesir-bisa-jadi-pintu-masuk-produk-hilirisasi-sawit-indonesia-ke-afrika"
+    },
+    {
+      "title": "Perkuat Ketahanan Pangan Kawasan, Indonesia Pimpin Kolaborasi Koperasi Pertanian ASEAN di Yogyakarta - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 04:27:45 GMT",
+      "link": "https://suarapemerintah.id/2026/10/perkuat-ketahanan-pangan-kawasan-indonesia-pimpin-kolaborasi-koperasi-pertanian-asean-di-yogyakarta/"
+    },
+    {
+      "title": "Kerja Sama Indonesia-Mesir Diperluas, Danantara Ungkap Rencana Kilang Sawit - Pos Sindo",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 04:23:00 GMT",
+      "link": "https://www.possindo.com/2026/10/kerja-sama-indonesia-mesir-diperluas.html"
+    },
+    {
+      "title": "Legalitas hingga AI, Ini Bekal UMKM Menghadapi Persaingan E-Commerce - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 04:17:00 GMT",
+      "link": "https://www.inilah.com/legalitas-hingga-ai-ini-bekal-umkm-menghadapi-persaingan-e-commerce"
+    },
+    {
+      "title": "Sekarang Baru 11 Pelabuhan, Kedepan 120 Koperasi TKBM Diharapkan Menggunakan Aplikasi Digital Dermaga - https://oceanweek.co.id/",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 03:59:54 GMT",
+      "link": "https://oceanweek.co.id/sekarang-baru-11-pelabuhan-120-koperasi-tkbm-diharapkan-menggunakan-aplikasi-digital-dermaga/"
+    },
+    {
+      "title": "Danantara: Apakah Demi Kesejahteraan Rakyat atau Sekadar Mengejar Profit? Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 01:49:23 GMT",
+      "link": "https://www.kompasiana.com/hermawanherman0589/6acd8e23c925c43dc41a937d/danantara-apakah-demi-kesejahteraan-rakyat-atau-sekadar-mengejar-profit"
+    },
+    {
+      "title": "Andre Rosiade Kirim 3 Ekskavator Percepat Penanganan Pascabanjir Padang - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 13 Oct 2026 01:06:10 GMT",
+      "link": "https://news.detik.com/berita/d-8704325/andre-rosiade-kirim-3-ekskavator-percepat-penanganan-pascabanjir-padang"
+    },
+    {
+      "title": "Arief Poyuono: Danantara Bisa Pacu Ekonomi RI hingga 7 Persen - VOI.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 00:15:00 GMT",
+      "link": "https://voi.id/berita/598208/arief-poyuono-danantara-bisa-pacu-ekonomi-ri-hingga-7-persen"
+    },
+    {
       "title": "Ambisi Koperasi - KONTAN",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Mon, 12 Oct 2026 23:09:16 GMT",
       "link": "https://insight.kontan.co.id/news/ambisi-koperasi"
+    },
+    {
+      "title": "Astra, Yayasan Astra – YDBA, Kementerian Perdagangan RI dan KADIN Indonesia Siap Bawa Produk Unggulan ke Trade Expo Indonesia 2026 - Koran Jakarta ®",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 12 Oct 2026 22:15:00 GMT",
+      "link": "https://koran-jakarta.com/2026-10-13/astra-yayasan-astra-ydba-kementerian-perdagangan-ri-dan-kadin-indonesia-siap-bawa-produk-unggulan-ke-trade-expo-indonesia-2026"
     },
     {
       "title": "Kemendag Hadirkan Penyedia Jasa di TEI 2026 Pacu Ekspor Nasional - RRI.co.id",
@@ -110,90 +194,6 @@
       "kind": "lembaga",
       "published": "Mon, 12 Oct 2026 20:42:48 GMT",
       "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261013/Mjk5MTUy"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 19:36:37 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261013/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Konsumen Digital: Dilindungi Undang-Undang, Dibiarkan Menghadapi Kerugian? - Portal Hukum",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 17:51:38 GMT",
-      "link": "https://portalhukum.id/opini-hukum/konsumen-digital-dilindungi-undang-undang-dibiarkan-menghadapi-kerugian-2/"
-    },
-    {
-      "title": "Pemkot Bima Usulkan Rp6,1 Miliar ke Kemendag untuk Bangun Pasar Rakyat di Bekas Terminal Paruga - republika.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 17:30:17 GMT",
-      "link": "https://news.republika.co.id/berita/tmt1yh4130000/pemkot-bima-usulkan-rp61-miliar-ke-kemendag-untuk-bangun-pasar-rakyat-di-bekas-terminal-paruga"
-    },
-    {
-      "title": "Putusan MK soal Gibran Memanas, Demokrat Pilih Konsolidasi - Inilah.com",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 14:21:00 GMT",
-      "link": "https://www.inilah.com/putusan-mk-soal-gibran-memanas-demokrat-pilih-konsolidasi"
-    },
-    {
-      "title": "Pemerintah Tarik Utang Baru, DPR Khawatir Ruang Fiskal Pembangunan Terganggu - indoposco.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 14:15:10 GMT",
-      "link": "https://indoposco.id/2026/10/12/pemerintah-tarik-utang-baru-dpr-khawatir-ruang-fiskal-pembangunan-terganggu/"
-    },
-    {
-      "title": "Terkendala Biaya Rp65 Juta, LBH Adhyaksa Bersama Rizal Bawazier Siap Bantu Kepulangan PMI Asal Pekalongan Yang Sakit di Dubai - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 14:15:00 GMT",
-      "link": "https://www.batiktv.id/index.php/news/terkendala-biaya-rp65-juta--lbh-adhyaksa-bersama-rizal-bawazier-siap-bantu-kepulangan-pmi-asal-pekalongan-yang-sakit-di-dubai"
-    },
-    {
-      "title": "Terkendala Biaya Rp65 Juta, LBH Adhyaksa Bersama Rizal Bawazier Siap Bantu Kepulangan PMI Asal Pekalongan Yang Sakit di Dubai - Batik TV",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 14:15:00 GMT",
-      "link": "https://www.batiktv.id/news/terkendala-biaya-rp65-juta--lbh-adhyaksa-bersama-rizal-bawazier-siap-bantu-kepulangan-pmi-asal-pekalongan-yang-sakit-di-dubai"
-    },
-    {
-      "title": "Tata Kelola Pertambangan Timah di Babel Bakal Libatkan Kopdes - VOI.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 14:02:00 GMT",
-      "link": "https://voi.id/ekonomi/598159/tata-kelola-pertambangan-timah-di-babel-bakal-libatkan-kopdes"
-    },
-    {
-      "title": "Kemendag Dorong UMKM Perkuat Legalitas dan Manfaatkan AI - JPNN.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 13:43:00 GMT",
-      "link": "https://www.jpnn.com/news/kemendag-dorong-umkm-perkuat-legalitas-dan-manfaatkan-ai"
-    },
-    {
-      "title": "Menteri Koperasi Tinjau KDKMP Sorowako, 70 Persen Produk Berasal dari Lokal. - Rakyat Sulsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 13:30:12 GMT",
-      "link": "https://rakyatsulsel.fajar.co.id/2026/10/12/menteri-koperasi-tinjau-kdkmp-sorowako-70-persen-produk-berasal-dari-lokal/"
-    },
-    {
-      "title": "Andre Rosiade Dalami Dugaan Pemohon KUR di Batam Diminta Jaminan - Kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 12 Oct 2026 13:29:38 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-dalami-dugaan-pemohon-kur-di-batam-diminta-jaminan/"
-    },
-    {
-      "title": "Danantara Diandalkan Pacu Pertumbuhan Ekonomi 7 Persen - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 12 Oct 2026 13:22:00 GMT",
-      "link": "https://rmol.id/read/2026/10/12/724735/danantara-diandalkan-pacu-pertumbuhan-ekonomi-7-persen"
     }
   ]
 }
