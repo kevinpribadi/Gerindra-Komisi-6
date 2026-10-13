@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-13T13:32:53.928403",
+  "generated_at": "2026-10-13T20:04:20.719373",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 20,
-    "Golkar": 20,
+    "Gerindra": 29,
+    "PDI-P": 21,
+    "Golkar": 22,
     "PKB": 9,
     "PKS": 17,
     "PAN": 5,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 45,
-    "PDI-P": 72,
-    "Golkar": 95,
+    "Gerindra": 46,
+    "PDI-P": 74,
+    "Golkar": 97,
     "NasDem": 9,
     "PKB": 52,
-    "PKS": 66,
-    "PAN": 20,
-    "Demokrat": 20
+    "PKS": 65,
+    "PAN": 21,
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 18,
@@ -33,17 +33,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "umkm": 21,
+    "bumn": 50,
+    "umkm": 23,
     "danantara": 34,
     "dividen": 3,
-    "ekspor": 5,
+    "impor": 12,
     "perdagangan": 18,
-    "koperasi": 42,
-    "investasi": 34,
-    "merger-akuisisi": 12,
-    "kartel-monopoli": 11,
-    "impor": 11
+    "ekspor": 4,
+    "koperasi": 40,
+    "investasi": 35,
+    "merger-akuisisi": 13,
+    "kartel-monopoli": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -51,18 +51,18 @@
     "Muhammad Husein Fadlulloh": 13,
     "Kawendra Lukistian": 7,
     "Unru Baso": 1,
-    "Mulyadi": 2,
+    "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 12,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 1,
+    "I Gusti Ngurah Kesuma Kelakan": 3,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 9,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 7,
-    "Ahmad Labib": 8,
+    "Gde Sumarjaya Linggih": 8,
+    "Ahmad Labib": 9,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
@@ -76,125 +76,126 @@
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 13,
+    "Ghufran": 12,
     "Ismail": 13,
     "Nasril Bahar": 7,
-    "Iskandar": 13,
+    "Iskandar": 14,
     "Sartono": 5,
-    "Herman Khaeron": 15
+    "Herman Khaeron": 15,
+    "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 40,
-    "Kinerja BUMN": 18,
-    "Hukum/Audit": 16,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 42,
+    "Kinerja BUMN": 16,
+    "Hukum/Audit": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Demer Desak Polisi Tindak Pelangsir BBM - NUSABALI.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 13:28:21 GMT",
-      "link": "https://www.nusabali.com/berita/233497/demer-desak-polisi-tindak-pelangsir-bbm"
-    },
-    {
-      "title": "Anggota DPR tekankan perbaikan pola distribusi BBM di Bali - ANTARA News",
-      "entity": "I Gusti Ngurah Kesuma Kelakan",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 12:32:43 GMT",
-      "link": "https://www.antaranews.com/berita/5784121/anggota-dpr-tekankan-perbaikan-pola-distribusi-bbm-di-bali"
-    },
-    {
-      "title": "GHARIS Laporkan Dugaan Persekongkolan Tender Rp.11,7 Miliar di Disperkimta Tangsel ke KPPU - Kabarindoraya.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 12:22:23 GMT",
-      "link": "https://kabarindoraya.com/gharis-laporkan-dugaan-persekongkolan-tender-rp117-miliar-di-disperkimta-tangsel-ke-kppu"
-    },
-    {
-      "title": "Demer Turun Langsung, Minta Kelangkaan BBM Segera Diatasi dan SPBU Nakal Ditindak Tegas - Bela Rakyat",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 12:00:46 GMT",
-      "link": "https://belarakyat.com/demer-turun-langsung-minta-kelangkaan-bbm-segera-diatasi-dan-spbu-nakal-ditindak-tegas/"
-    },
-    {
-      "title": "Jelang Merger Asuransi BUMN, IFG dan Danantara Soroti Tata Kelola - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 11:55:31 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261013181031-17-775853/jelang-merger-asuransi-bumn-ifg-dan-danantara-soroti-tata-kelola"
-    },
-    {
-      "title": "Yudi Azis Memimpin IKOPIN, Ferry Menagih Kebangkitan Kampus Koperasi Indonesia - Jakartamu.com",
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 11:54:08 GMT",
-      "link": "https://www.jakartamu.com/yudi-azis-memimpin-ikopin-ferry-menagih-kebangkitan-kampus-koperasi-indonesia-32138"
+      "published": "Tue, 13 Oct 2026 19:31:16 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261014/MTEyNg%3D%3D"
     },
     {
-      "title": "Kemendag hadirkan SRASA dalam TEI pada 14-18 Oktober di ICE BSD City - ANTARA News",
+      "title": "Kinerja Perdagangan Jadi Sorotan, Dari Tekanan Produk Impor Hingga Penguatan UMKM - Media Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 11:35:54 GMT",
-      "link": "https://www.antaranews.com/berita/5783941/kemendag-hadirkan-srasa-dalam-tei-pada-14-18-oktober-di-ice-bsd-city"
+      "published": "Tue, 13 Oct 2026 19:15:18 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/944075/kinerja-perdagangan-jadi-sorotan-dari-tekanan-produk-impor-hingga-penguatan-umkm"
     },
     {
-      "title": "Andre Rosiade Kirim Tiga Ekskavator untuk Bantu Penanganan Banjir Bandang di Padang - Gerindra",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 11:30:20 GMT",
-      "link": "https://gerindra.id/2026/10/13/andre-rosiade-kirim-tiga-ekskavator-untuk-bantu-penanganan-banjir-bandang-di-padang/"
+      "title": "Sehari Menuju TEI 2026, Mendag Busan: Indonesia Siap Sambut Buyer dari Seluruh Dunia - Media Nikel Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 17:39:23 GMT",
+      "link": "https://nikel.co.id/2026/10/14/sehari-menuju-tei-2026-mendag-busan-indonesia-siap-sambut-buyer-dari-seluruh-dunia/"
     },
     {
-      "title": "Empat Pilar MPR RI Lamongan Perkuat Wawasan Kebangsaan - Radar Bangsa",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 11:26:31 GMT",
-      "link": "https://radarbangsa.co.id/ahmad-labib-ajak-kader-pkk-lamongan-perkuat-nilai-kebangsaan-dari-keluarga/"
-    },
-    {
-      "title": "Sarmuji Sebut Sejumlah Perusahaan Tekstil Diakuisisi, Sritex Termasuk? - Inilah.com",
+      "title": "Danantara Akuisisi Sejumlah Perusahaan Tekstil, Investasi Capai Rp 100 Triliun - MOST 1058",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 11:04:00 GMT",
-      "link": "https://www.inilah.com/sarmuji-sebut-sejumlah-perusahaan-tekstil-diakuisisi-sritex-termasuk"
+      "published": "Tue, 13 Oct 2026 15:59:22 GMT",
+      "link": "https://most1058fm.com/2026/10/danantara-akuisisi-sejumlah-perusahaan-tekstil-investasi-capai-rp-100-triliun/"
     },
     {
-      "title": "LPDB Salurkan Pembiayaan Rp6,37 M ke 8 KDKMP - VOI.ID",
-      "entity": "Kementerian Koperasi",
+      "title": "KPPU Nyatakan Para Terlapor Tidak Terbukti Melanggar Pasal 22 Dalam Perkara Tender Geomembrane PHR - mimbarrakyat.co.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 11:02:00 GMT",
-      "link": "https://voi.id/ekonomi/598290/lpdb-salurkan-pembiayaan-rp6-37-m-ke-8-kdkmp"
+      "published": "Tue, 13 Oct 2026 15:32:25 GMT",
+      "link": "https://mimbarrakyat.co.id/2026/10/13/kppu-nyatakan-para-terlapor-tidak-terbukti-melanggar-pasal-22-dalam-perkara-tender-geomembrane-phr/"
     },
     {
-      "title": "LPDB Kemenkop gandeng 15 lembaga inkubator perkuat tata kelola KDMP - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 10:47:17 GMT",
-      "link": "https://jogja.antaranews.com/berita/859681/lpdb-kemenkop-gandeng-15-lembaga-inkubator-perkuat-tata-kelola-kdmp"
-    },
-    {
-      "title": "Demer Minta BBM Distribusi Dikebut 24 Jam, Dorong Tindak Tegas Penimbunan BBM - Warta Bali Online",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Tue, 13 Oct 2026 10:46:03 GMT",
-      "link": "https://wartabalionline.com/2026/10/13/demer-minta-bbm-distribusi-dikebut-24-jam-dorong-tindak-tegas-penimbunan-bbm/"
-    },
-    {
-      "title": "Menkop Kukuhkan Yudi Azis sebagai Rektor IKOPIN Periode 2026–2031 - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 10:44:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/10/13/724843/menkop-kukuhkan-yudi-azis-sebagai-rektor-ikopin-periode-2026-2031"
-    },
-    {
-      "title": "Menkop Kukuhkan Yudi Azis sebagai Rektor IKOPIN Periode 2026–2031 - Rmol.id",
+      "title": "Ferry Juliantono Kukuhkan Rektor IKOPIN, Sinergi Kampus dan Gerakan Koperasi Diperkuat - DelikAsia.com",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Tue, 13 Oct 2026 10:44:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/10/13/724843/menkop-kukuhkan-yudi-azis-sebagai-rektor-ikopin-periode-2026-2031"
+      "published": "Tue, 13 Oct 2026 15:14:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/ferry-juliantono-kukuhkan-rektor-ikopin-sinergi-kampus-dan-gerakan-koperasi-diperkuat"
+    },
+    {
+      "title": "Menkop Kukuhkan Prof. Yudi Azis Sebagai Rektor IKOPIN University - Harian Dialog",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:58:17 GMT",
+      "link": "https://hariandialog.co.id/menkop-kukuhkan-prof-yudi-azis-sebagai-rektor-ikopin-university/"
+    },
+    {
+      "title": "LPDB Kemenkop sebut sejumlah KDMP mengajukan dana bergulir - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:53:26 GMT",
+      "link": "https://jogja.antaranews.com/berita/859805/lpdb-kemenkop-sebut-sejumlah-kdmp-mengajukan-dana-bergulir"
+    },
+    {
+      "title": "Gubernur Gusnar Ismail Terima Audiensi Dekopinwil Gorontalo, Bahas Penguatan Koperasi hingga Persiapan Muswil - Pemerintah Provinsi Gorontalo",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:40:05 GMT",
+      "link": "https://berita.gorontaloprov.go.id/2026/10/13/gubernur-gusnar-ismail-terima-audiensi-dekopinwil-gorontalo-bahas-penguatan-koperasi-hingga-persiapan-muswil/"
+    },
+    {
+      "title": "Menkop Ferry Kukuhkan Yudi Azis sebagai Rektor IKOPIN - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:18:31 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tpu1czn-menkop-ferry-kukuhkan-yudi-azis-sebagai-rektor-ikopin"
+    },
+    {
+      "title": "Menkop Ferry Kukuhkan Yudi Azis sebagai Rektor IKOPIN - TVRI News",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:18:31 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tpu1czn-menkop-ferry-kukuhkan-yudi-azis-sebagai-rektor-ikopin"
+    },
+    {
+      "title": "Menkop Kukuhkan Prof. Yudi Azis sebagai Rektor IKOPIN, Targetkan Transformasi Ekosistem Koperasi hingga 2031 - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:12:58 GMT",
+      "link": "https://kabarjoglo.com/2026/10/13/menkop-kukuhkan-prof-yudi-azis-sebagai-rektor-ikopin-targetkan-transformasi-ekosistem-koperasi-hingga-2031/"
+    },
+    {
+      "title": "Menkop Kukuhkan Prof. Yudi Azis sebagai Rektor IKOPIN, Targetkan Transformasi Ekosistem Koperasi hingga 2031 - Kabarjoglo",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 14:12:58 GMT",
+      "link": "https://kabarjoglo.com/2026/10/13/menkop-kukuhkan-prof-yudi-azis-sebagai-rektor-ikopin-targetkan-transformasi-ekosistem-koperasi-hingga-2031/"
+    },
+    {
+      "title": "Ahmad Labib Ajak Kader PKK Lamongan Tanamkan Nilai Pancasila dari Keluarga - jatimnow.com",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Tue, 13 Oct 2026 13:40:22 GMT",
+      "link": "https://jatimnow.com/amp/baca-88272-ahmad-labib-ajak-kader-pkk-lamongan-tanamkan-nilai-pancasila-dari-keluarga"
+    },
+    {
+      "title": "Koperasi Merah Putih Sorowako Resmi Beroperasi - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 13 Oct 2026 13:40:00 GMT",
+      "link": "https://tv.sinpo.id/detail/koperasi-merah-putih-sorowako-resmi-beroperasi"
     }
   ]
 }
