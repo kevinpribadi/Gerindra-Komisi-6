@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-14T11:09:36.108400",
+  "generated_at": "2026-10-14T16:30:39.041619",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 27,
-    "Golkar": 27,
-    "PKB": 10,
+    "PDI-P": 30,
+    "Golkar": 28,
+    "PKB": 14,
     "PKS": 19,
     "PAN": 5,
     "Demokrat": 13
   },
   "party_counts_30d": {
-    "Gerindra": 46,
-    "PDI-P": 78,
-    "Golkar": 101,
+    "Gerindra": 47,
+    "PDI-P": 79,
+    "Golkar": 102,
     "NasDem": 9,
     "PKB": 52,
     "PKS": 60,
@@ -21,7 +21,7 @@
     "Demokrat": 23
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 19,
+    "Kementerian BUMN": 18,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,15 +33,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 36,
+    "danantara": 35,
     "bumn": 50,
-    "umkm": 18,
-    "dividen": 1,
-    "ekspor": 4,
-    "perdagangan": 20,
-    "investasi": 34,
-    "impor": 12,
-    "koperasi": 39,
+    "umkm": 16,
+    "impor": 14,
+    "ekspor": 6,
+    "perdagangan": 18,
+    "investasi": 33,
+    "koperasi": 42,
     "merger-akuisisi": 13,
     "kartel-monopoli": 8
   },
@@ -49,12 +48,12 @@
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 7,
+    "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 12,
-    "Darmadi Durianto": 8,
+    "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
@@ -62,7 +61,7 @@
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 12,
+    "Ahmad Labib": 13,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
@@ -86,116 +85,116 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 59,
-    "Perdagangan": 42,
+    "Perdagangan": 45,
     "Kinerja BUMN": 17,
-    "Hukum/Audit": 14,
-    "Konflik Publik": 2
+    "Hukum/Audit": 16,
+    "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "KPPU Nyatakan Pertamina Hulu Rokan Tak Terbukti Bersekongkol dalam Tender Geomembrane - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 11:05:50 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-nyatakan-pertamina-hulu-rokan-tak-terbukti-bersekongkol-dalam-tender-geomembrane/"
-    },
-    {
-      "title": "Kopdes Merah Putih Boleh Kelola Tambang, Menteri Koperasi: Kalau di Desanya Ada Potensi, Silakan - VIVA.co.id",
+      "title": "Menkop Sudah Ajukan ke Kemenkeu Gaji PNS Dibayar Lewat Kopdes - detikFinance",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 10:39:52 GMT",
-      "link": "https://www.viva.co.id/bisnis/1935768-kopdes-merah-putih-boleh-kelola-tambang-menteri-koperasi-kalau-di-desanya-ada-potensi-silakan"
+      "published": "Wed, 14 Oct 2026 14:01:16 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707426/menkop-sudah-ajukan-ke-kemenkeu-gaji-pns-dibayar-lewat-kopdes"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan mengeluarkan pedoman tentang pelaksanaan peraturan baru mengenai ekspor beras. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 10:39:15 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-huong-dan-thuc-hien-quy-dinh-moi-ve-xuat-khau-gao"
-    },
-    {
-      "title": "TEI 2026 Resmi Dibuka, Kemendag Rangkul MoU Dagang US$13,2 Miliar - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/10/14/tei-2026-resmi-dibuka-kemendag-rangkul-mou-dagang-us132-miliar-173300015"
-    },
-    {
-      "title": "Masih Terbatas, Koperasi Merah Putih yang Siap Beroperasi Penuh - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 10:03:37 GMT",
-      "link": "https://www.kompas.id/artikel/jumlah-koperasi-merah-putih-yang-siap-beroperasi-penuh-masih-terbatas?open_from=Terbaru_Page"
-    },
-    {
-      "title": "Bali Disorot Media Asing akibat Antrean BBM, DPR Sentil Pertamina - Aktual.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 10:00:45 GMT",
-      "link": "https://aktual.com/bali-disorot-media-asing-akibat-antrean-bbm-dpr-sentil-pertamina/"
-    },
-    {
-      "title": "Sawah Gantar Kekeringan, Herman Khaeron Bantu Rp100 Juta - IndramayuJeh",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 09:59:07 GMT",
-      "link": "https://www.indramayujeh.com/berita-terbaru/sawah-kekeringan-herman-khaeron-gelontorkan-rp100-juta-untuk-petani-gantar-indramayu/"
-    },
-    {
-      "title": "Desak Pengusutan Tuntas Dugaan Korupsi Dana Darurat BNPB, Rieke Diah Pitaloka : \"Ini Kejahatan Kemanusiaan\" - Sonora.co.id",
+      "title": "Korupsi Dana Kebencanaan BNPB, Rieke Desak Sanksi Pidana Mati - Langit7.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 09:51:00 GMT",
-      "link": "https://www.sonora.co.id/news/46011/desak-pengusutan-tuntas-dugaan-korupsi-dana-darurat-bnpb-rieke-diah-pitaloka-ini-kejahatan-kemanusiaan"
+      "published": "Wed, 14 Oct 2026 13:57:52 GMT",
+      "link": "https://langit7.id/read/62894/1/korupsi-dana-kebencanaan-bnpb-rieke-desak-sanksi-pidana-mati-1791983420"
     },
     {
-      "title": "Surplus Perdagangan Indonesia Tembus USD7,25 Miliar hingga Agustus 2026 - MetroTVNews.com",
+      "title": "Desak dan Usut Tuntas Dugaan Korupsi Dana Darurat BNPB,Rieke Diah Pitaloka :\"Ini Kejahatan Kemanusan\", - Telusur",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 13:56:44 GMT",
+      "link": "https://telusur.co.id/dpr/desak-dan-usut-tuntas-dugaan-korupsi-dana-darurat-bnpbrieke-diah-pitaloka-ini-kejahatan-kemanusan"
+    },
+    {
+      "title": "Koperasi Merah Putih di Langkat Belum Beroperasi, 69 Titik Belum Terbangun - Sumut Pos",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 13:55:35 GMT",
+      "link": "https://sumutpos.jawapos.com/sumatera-utara/2610140027/koperasi-merah-putih-di-langkat-belum-beroperasi-69-titik-belum-terbangun"
+    },
+    {
+      "title": "Konsumen dari 134 Negara Memeriahkan Pameran Dagang TEI, Bidik Transaksi US$17,5 Miliar - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 09:48:39 GMT",
-      "link": "https://www.metrotvnews.com/read/NgxCl3yz-surplus-perdagangan-indonesia-tembus-usd7-25-miliar-hingga-agustus-2026"
+      "published": "Wed, 14 Oct 2026 13:35:00 GMT",
+      "link": "https://swa.co.id/read/478451/konsumen-dari-134-negara-memeriahkan-pameran-dagang-tei-bidik-transaksi-us175-miliar"
     },
     {
-      "title": "Kolaborasi 11 BUMN dan Danantara Indonesia Mulai Renovasi SDN 1 Panggalih, Garut - www.relawannusantara.id",
-      "entity": "Kementerian BUMN",
+      "title": "Antrean BBM di Bali Disorot Dunia, Gus Rivqy: Kenapa Ini Masih Terjadi? - JPNN.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 13:10:00 GMT",
+      "link": "https://www.jpnn.com/news/antrean-bbm-di-bali-disorot-dunia-gus-rivqy-kenapa-ini-masih-terjadi"
+    },
+    {
+      "title": "Menkop Pastikan Gaji PNS Dibayarkan lewat Koperasi Merah Putih Mulai Tahun Ini - Kompas.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 09:37:55 GMT",
-      "link": "https://www.relawannusantara.id/renovasi-sdn-1-panggalih-garut/"
+      "published": "Wed, 14 Oct 2026 13:04:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/14/200456526/menkop-pastikan-gaji-pns-dibayarkan-lewat-koperasi-merah-putih-mulai-tahun-ini"
     },
     {
-      "title": "Mendag: TEI 2026 Bidik Transaksi Rp 313 Triliun dan 168 MoU - InvestorTrust",
+      "title": "TEI 2026 Resmi Dibuka, Mendag Budi Santoso Incar Transaksi Rp275 Triliun - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 09:32:00 GMT",
-      "link": "https://investortrust.id/business/119278/mendag-tei-2026-bidik-transaksi-rp-313-triliun-dan-168-mou"
+      "published": "Wed, 14 Oct 2026 12:42:00 GMT",
+      "link": "https://www.inilah.com/mendag-budi-targetkan-trade-expo-indonesia-2026-hasilkan-nilai-transaksi-sebesar-usd17-5-miliar"
     },
     {
-      "title": "Pembayaran Gaji PNS Melalui Koperasi Merah Putih Sudah Diusulkan ke Kemenkeu - MerahPutih",
+      "title": "Skema Gaji PNS lewat Koperasi Diajukan ke Kemenkeu, Ini Progresnya - Infobanknews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 09:05:06 GMT",
-      "link": "https://www.merahputih.com/post/read/pembayaran-gaji-pns-melalui-koperasi-merah-putih-sudah-diusulkan-ke-kemenkeu"
+      "published": "Wed, 14 Oct 2026 12:41:00 GMT",
+      "link": "https://infobanknews.com/skema-gaji-pns-lewat-koperasi-diajukan-ke-kemenkeu-ini-progresnya"
     },
     {
-      "title": "Taspen Buka Suara soal Rencana Duit Pensiun PNS Dibayar Lewat Koperasi - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 08:53:49 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8706775/taspen-buka-suara-soal-rencana-duit-pensiun-pns-dibayar-lewat-koperasi"
+      "title": "Legislator PKB Minta Pertamina Evaluasi Distribusi BBM di Bali - jurnas.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 12:33:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1667124/legislator-pkb-minta-pertamina-evaluasi-distribusi-bbm-di-bali/"
     },
     {
-      "title": "Gaji ASN Lewat Koperasi Desa, Menkop Ajukan Skema ke Kemenkeu - republika.co.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Soal Impor KRL Bekas, Kemendag Sebut Belum Terima Pengajuan Izin - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 08:11:36 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tmw1f7423/gaji-asn-lewat-koperasi-desa-menkop-ajukan-skema-ke-kemenkeu"
+      "published": "Wed, 14 Oct 2026 12:32:09 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261014/98/2012636/soal-impor-krl-bekas-kemendag-sebut-belum-terima-pengajuan-izin"
     },
     {
-      "title": "Pembayaran Gaji PNS Lewat Koperasi Diajukan ke Kemenkeu - Tempo.co",
-      "entity": "Kementerian Koperasi",
+      "title": "Prabowo Minta Danantara Evaluasi Model Bisnis PLN - Tirto.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 08:05:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/pembayaran-gaji-pns-lewat-koperasi-diajukan-ke-kemenkeu-2300304"
+      "published": "Wed, 14 Oct 2026 12:32:00 GMT",
+      "link": "https://tirto.id/prabowo-minta-danantara-evaluasi-model-bisnis-pln-hDSx"
+    },
+    {
+      "title": "Dukung Perluasan Pasar Ekspor UMKM Indonesia, PT Astra International Tbk Hadirkan Produk Unggulan Lokal di Trade Expo Indonesia 2026 - PT Astra International Tbk",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 12:28:00 GMT",
+      "link": "https://www.astra.co.id/press-release/dukung-perluasan-pasar-ekspor-umkm-indonesia-pt-astra-international-tbk-hadirkan-produk-unggulan-lokal-di-trade-expo-indonesia-2026"
+    },
+    {
+      "title": "Ahmad Labib: Evaluasi Kinerja Bahlil Perlu Lihat Data dan Capaian - RM.ID",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 12:26:00 GMT",
+      "link": "https://rm.id/baca-berita/parlemen/330152/ahmad-labib-evaluasi-kinerja-bahlil-perlu-lihat-data-dan-capaian"
+    },
+    {
+      "title": "Bali Disorot Media Asing Gara-gara Antrean BBM, Rivqy Kecewa Pertamina Masih Gagal Antisipasi Kelangkaan - Jakartanews.id",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 12:20:00 GMT",
+      "link": "https://www.jakartanews.id/2026/10/14/bali-disorot-media-asing-gara-gara-antrean-bbm-rivqy-kecewa-pertamina-masih-gagal-antisipasi-kelangkaan/"
     }
   ]
 }
