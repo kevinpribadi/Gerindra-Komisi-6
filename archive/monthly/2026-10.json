@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-14T16:30:39.041619",
+  "generated_at": "2026-10-14T20:26:18.331642",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 30,
+    "PDI-P": 31,
     "Golkar": 28,
     "PKB": 14,
     "PKS": 19,
@@ -18,7 +18,7 @@
     "PKB": 52,
     "PKS": 60,
     "PAN": 22,
-    "Demokrat": 23
+    "Demokrat": 24
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 18,
@@ -36,11 +36,11 @@
     "danantara": 35,
     "bumn": 50,
     "umkm": 16,
-    "impor": 14,
-    "ekspor": 6,
     "perdagangan": 18,
+    "impor": 14,
+    "ekspor": 5,
     "investasi": 33,
-    "koperasi": 42,
+    "koperasi": 41,
     "merger-akuisisi": 13,
     "kartel-monopoli": 8
   },
@@ -79,18 +79,60 @@
     "Ismail": 8,
     "Nasril Bahar": 7,
     "Iskandar": 15,
-    "Sartono": 5,
+    "Sartono": 6,
     "Herman Khaeron": 17,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 59,
-    "Perdagangan": 45,
-    "Kinerja BUMN": 17,
-    "Hukum/Audit": 16,
+    "Koperasi/UMKM": 57,
+    "Kinerja BUMN": 18,
+    "Perdagangan": 43,
+    "Hukum/Audit": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan mempromosikan efisiensi energi, dengan tujuan mencapai pertumbuhan hijau. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 17:33:10 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-su-dung-nang-luong-hieu-qua-huong-toi-tang-truong-xanh"
+    },
+    {
+      "title": "Kemendag Menetapkan HPE dan HR Emas Oktober Kembali Turun - www.suaralandak.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 17:21:00 GMT",
+      "link": "https://www.suaralandak.co.id/kemendag-tetapkan-hpe-hr-emas"
+    },
+    {
+      "title": "Menkop Raih TOP GPR Figure Award 2026, Perkuat Komunikasi Publik Program Koperasi Desa Merah Putih - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 17:20:06 GMT",
+      "link": "https://suarapemerintah.id/2026/10/menkop-raih-top-gpr-figure-award-2026-perkuat-komunikasi-publik-program-koperasi-desa-merah-putih/"
+    },
+    {
+      "title": "HPE dan HR Emas Periode II Oktober 2026 Kembali Turun - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 17:13:29 GMT",
+      "link": "https://indoposco.id/2026/10/15/hpe-dan-hr-emas-periode-ii-oktober-2026-kembali-turun/"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 17:12:49 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261015/Mjk5MTUy"
+    },
+    {
+      "title": "Pemerintah Pantau 10 Ribu KDMP, Penyaluran Barang Subsidi Jadi Fokus - Pontianak Post",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 16:33:03 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2610140116/pemerintah-pantau-10-ribu-kdmp-penyaluran-barang-subsidi-jadi-fokus"
+    },
     {
       "title": "Menkop Sudah Ajukan ke Kemenkeu Gaji PNS Dibayar Lewat Kopdes - detikFinance",
       "entity": "Kementerian Koperasi",
@@ -141,60 +183,18 @@
       "link": "https://money.kompas.com/read/2026/10/14/200456526/menkop-pastikan-gaji-pns-dibayarkan-lewat-koperasi-merah-putih-mulai-tahun-ini"
     },
     {
+      "title": "Gubernur Gusnar dan Dekopinwil Gorontalo Bahas Penguatan Koperasi - RRI.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 13:00:00 GMT",
+      "link": "https://rri.co.id/gorontalo/info-pemda/2811884/gubernur-gusnar-dan-dekopinwil-gorontalo-bahas-penguatan-koperasi"
+    },
+    {
       "title": "TEI 2026 Resmi Dibuka, Mendag Budi Santoso Incar Transaksi Rp275 Triliun - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Wed, 14 Oct 2026 12:42:00 GMT",
       "link": "https://www.inilah.com/mendag-budi-targetkan-trade-expo-indonesia-2026-hasilkan-nilai-transaksi-sebesar-usd17-5-miliar"
-    },
-    {
-      "title": "Skema Gaji PNS lewat Koperasi Diajukan ke Kemenkeu, Ini Progresnya - Infobanknews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 12:41:00 GMT",
-      "link": "https://infobanknews.com/skema-gaji-pns-lewat-koperasi-diajukan-ke-kemenkeu-ini-progresnya"
-    },
-    {
-      "title": "Legislator PKB Minta Pertamina Evaluasi Distribusi BBM di Bali - jurnas.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 12:33:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1667124/legislator-pkb-minta-pertamina-evaluasi-distribusi-bbm-di-bali/"
-    },
-    {
-      "title": "Soal Impor KRL Bekas, Kemendag Sebut Belum Terima Pengajuan Izin - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 12:32:09 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261014/98/2012636/soal-impor-krl-bekas-kemendag-sebut-belum-terima-pengajuan-izin"
-    },
-    {
-      "title": "Prabowo Minta Danantara Evaluasi Model Bisnis PLN - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 12:32:00 GMT",
-      "link": "https://tirto.id/prabowo-minta-danantara-evaluasi-model-bisnis-pln-hDSx"
-    },
-    {
-      "title": "Dukung Perluasan Pasar Ekspor UMKM Indonesia, PT Astra International Tbk Hadirkan Produk Unggulan Lokal di Trade Expo Indonesia 2026 - PT Astra International Tbk",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 12:28:00 GMT",
-      "link": "https://www.astra.co.id/press-release/dukung-perluasan-pasar-ekspor-umkm-indonesia-pt-astra-international-tbk-hadirkan-produk-unggulan-lokal-di-trade-expo-indonesia-2026"
-    },
-    {
-      "title": "Ahmad Labib: Evaluasi Kinerja Bahlil Perlu Lihat Data dan Capaian - RM.ID",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 12:26:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/330152/ahmad-labib-evaluasi-kinerja-bahlil-perlu-lihat-data-dan-capaian"
-    },
-    {
-      "title": "Bali Disorot Media Asing Gara-gara Antrean BBM, Rivqy Kecewa Pertamina Masih Gagal Antisipasi Kelangkaan - Jakartanews.id",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 12:20:00 GMT",
-      "link": "https://www.jakartanews.id/2026/10/14/bali-disorot-media-asing-gara-gara-antrean-bbm-rivqy-kecewa-pertamina-masih-gagal-antisipasi-kelangkaan/"
     }
   ]
 }
