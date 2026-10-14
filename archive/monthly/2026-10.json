@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-14T20:26:18.331642",
+  "generated_at": "2026-10-14T23:39:52.605311",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 31,
+    "Gerindra": 22,
+    "PDI-P": 29,
     "Golkar": 28,
     "PKB": 14,
     "PKS": 19,
@@ -15,7 +15,7 @@
     "PDI-P": 79,
     "Golkar": 102,
     "NasDem": 9,
-    "PKB": 52,
+    "PKB": 51,
     "PKS": 60,
     "PAN": 22,
     "Demokrat": 24
@@ -35,11 +35,11 @@
   "topic_counts_30d": {
     "danantara": 35,
     "bumn": 50,
-    "umkm": 16,
-    "perdagangan": 18,
-    "impor": 14,
-    "ekspor": 5,
-    "investasi": 33,
+    "umkm": 15,
+    "impor": 13,
+    "perdagangan": 16,
+    "ekspor": 6,
+    "investasi": 34,
     "koperasi": 41,
     "merger-akuisisi": 13,
     "kartel-monopoli": 8
@@ -69,7 +69,7 @@
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
@@ -84,13 +84,34 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 57,
-    "Kinerja BUMN": 18,
+    "Koperasi/UMKM": 56,
     "Perdagangan": 43,
+    "Kinerja BUMN": 17,
     "Hukum/Audit": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Investasi Danantara Rp100 Triliun untuk Industri Tekstil, Apa Strategi Integrasi Hulu hingga Hilir yang Disiapkan? - Hallo Indonesia - Hallo Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 23:16:06 GMT",
+      "link": "https://indonesia.hallo.id/bisnis/115617760570/investasi-danantara-rp100-triliun-untuk-industri-tekstil-apa-strategi-integrasi-hulu-hingga-hilir-yang-disiapkan"
+    },
+    {
+      "title": "Kapan Pembayaran Gaji PNS Melalui Koperasi Dimulai? - JPNN.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 22:06:00 GMT",
+      "link": "https://www.jpnn.com/news/kapan-pembayaran-gaji-pns-melalui-koperasi-dimulai"
+    },
+    {
+      "title": "Mendag Harap RI Tak Impor KRL Bekas Jepang - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 20:45:50 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261014185404-92-1415365/mendag-harap-ri-tak-impor-krl-bekas-jepang"
+    },
     {
       "title": "Kementerian Perindustrian dan Perdagangan mempromosikan efisiensi energi, dengan tujuan mencapai pertumbuhan hijau. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -162,39 +183,18 @@
       "link": "https://sumutpos.jawapos.com/sumatera-utara/2610140027/koperasi-merah-putih-di-langkat-belum-beroperasi-69-titik-belum-terbangun"
     },
     {
+      "title": "Perluas Pasar Ekspor, APP Group Teken 5 Kesepakatan Dagang di TEI - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 13:55:33 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707400/perluas-pasar-ekspor-app-group-teken-5-kesepakatan-dagang-di-tei"
+    },
+    {
       "title": "Konsumen dari 134 Negara Memeriahkan Pameran Dagang TEI, Bidik Transaksi US$17,5 Miliar - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Wed, 14 Oct 2026 13:35:00 GMT",
       "link": "https://swa.co.id/read/478451/konsumen-dari-134-negara-memeriahkan-pameran-dagang-tei-bidik-transaksi-us175-miliar"
-    },
-    {
-      "title": "Antrean BBM di Bali Disorot Dunia, Gus Rivqy: Kenapa Ini Masih Terjadi? - JPNN.com",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 13:10:00 GMT",
-      "link": "https://www.jpnn.com/news/antrean-bbm-di-bali-disorot-dunia-gus-rivqy-kenapa-ini-masih-terjadi"
-    },
-    {
-      "title": "Menkop Pastikan Gaji PNS Dibayarkan lewat Koperasi Merah Putih Mulai Tahun Ini - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 13:04:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/14/200456526/menkop-pastikan-gaji-pns-dibayarkan-lewat-koperasi-merah-putih-mulai-tahun-ini"
-    },
-    {
-      "title": "Gubernur Gusnar dan Dekopinwil Gorontalo Bahas Penguatan Koperasi - RRI.co.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "link": "https://rri.co.id/gorontalo/info-pemda/2811884/gubernur-gusnar-dan-dekopinwil-gorontalo-bahas-penguatan-koperasi"
-    },
-    {
-      "title": "TEI 2026 Resmi Dibuka, Mendag Budi Santoso Incar Transaksi Rp275 Triliun - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 12:42:00 GMT",
-      "link": "https://www.inilah.com/mendag-budi-targetkan-trade-expo-indonesia-2026-hasilkan-nilai-transaksi-sebesar-usd17-5-miliar"
     }
   ]
 }
