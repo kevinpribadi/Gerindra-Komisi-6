@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-14T05:47:26.849651",
+  "generated_at": "2026-10-14T11:09:36.108400",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 23,
-    "Golkar": 24,
-    "PKB": 9,
-    "PKS": 20,
+    "Gerindra": 23,
+    "PDI-P": 27,
+    "Golkar": 27,
+    "PKB": 10,
+    "PKS": 19,
     "PAN": 5,
-    "Demokrat": 11
+    "Demokrat": 13
   },
   "party_counts_30d": {
     "Gerindra": 46,
-    "PDI-P": 76,
-    "Golkar": 99,
+    "PDI-P": 78,
+    "Golkar": 101,
     "NasDem": 9,
     "PKB": 52,
-    "PKS": 68,
-    "PAN": 21,
-    "Demokrat": 21
+    "PKS": 60,
+    "PAN": 22,
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 19,
@@ -33,17 +33,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
+    "danantara": 36,
     "bumn": 50,
-    "umkm": 21,
-    "danantara": 35,
+    "umkm": 18,
     "dividen": 1,
-    "ekspor": 5,
-    "perdagangan": 18,
+    "ekspor": 4,
+    "perdagangan": 20,
+    "investasi": 34,
     "impor": 12,
     "koperasi": 39,
-    "investasi": 34,
     "merger-akuisisi": 13,
-    "kartel-monopoli": 9
+    "kartel-monopoli": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -56,13 +56,13 @@
     "Mufti Anam": 12,
     "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 3,
+    "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 10,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 8,
-    "Ahmad Labib": 11,
+    "Gde Sumarjaya Linggih": 9,
+    "Ahmad Labib": 12,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
@@ -77,125 +77,125 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 12,
-    "Ismail": 16,
+    "Ismail": 8,
     "Nasril Bahar": 7,
-    "Iskandar": 14,
-    "Sartono": 4,
-    "Herman Khaeron": 16,
+    "Iskandar": 15,
+    "Sartono": 5,
+    "Herman Khaeron": 17,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 62,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 59,
+    "Perdagangan": 42,
     "Kinerja BUMN": 17,
     "Hukum/Audit": 14,
     "Konflik Publik": 2
   },
   "top_headlines": [
     {
-      "title": "Danantara Bakal Akuisisi Sritex, Pemerintah Siapkan Investasi US$ 6 Miliar - Aspek.id",
-      "entity": "Danantara",
+      "title": "KPPU Nyatakan Pertamina Hulu Rokan Tak Terbukti Bersekongkol dalam Tender Geomembrane - Gerbang Kaltim",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 05:27:33 GMT",
-      "link": "https://aspek.id/danantara-bakal-akuisisi-sritex-pemerintah-siapkan-investasi-us-6-miliar/"
+      "published": "Wed, 14 Oct 2026 11:05:50 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-nyatakan-pertamina-hulu-rokan-tak-terbukti-bersekongkol-dalam-tender-geomembrane/"
     },
     {
-      "title": "Kemendag Kembangkan InaExport Jadi Ekosistem B2B, Holding Perkebunan Nusantara melalui PTPN IV PalmCo Perluas Akses Pasar Ekspor - ciayumajakuning.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 05:03:50 GMT",
-      "link": "https://ciayumajakuning.id/2026/10/14/kemendag-kembangkan-inaexport-jadi-ekosistem-b2b-holding-perkebunan-nusantara-melalui-ptpn-iv-palmco-perluas-akses-pasar-ekspor/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan meminta masukan terkait rancangan keputusan mengenai pembentukan, organisasi, operasional, dan mekanisme pengelolaan keuangan Dana untuk Mendorong Penghematan dan Efisiensi Energi. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 05:01:20 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-lay-y-kien-du-thao-quyet-dinh-ve-thanh-lap-to-chuc-va-hoat-dong-co-che-quan-ly-tai-chinh-cua-quy-thuc-day-su-dung-nang-luong-tiet-kiem-va-hieu-qua"
-    },
-    {
-      "title": "Tak Cuma Kinerja Bisnis, Ini Parameter Utama Direksi BUMN dari Dony Oskaria - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 04:37:08 GMT",
-      "link": "https://www.metrotvnews.com/read/bw6CA6Q3-tak-cuma-kinerja-bisnis-ini-parameter-utama-direksi-bumn-dari-dony-oskaria"
-    },
-    {
-      "title": "Pelayanan publik jadi indikator utama kinerja direksi BUMN - ANTARA News Bali",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 04:23:34 GMT",
-      "link": "https://bali.antaranews.com/amp/berita/415521/pelayanan-publik-jadi-indikator-utama-kinerja-direksi-bumn"
-    },
-    {
-      "title": "Perlu Anda Tahu, Ini 8 Kewenangan Danantara terhadap BUMN - Mimbarsumbar.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 03:29:31 GMT",
-      "link": "https://mimbarsumbar.id/perlu-anda-tahu-ini-8-kewenangan-danantara-terhadap-bumn/"
-    },
-    {
-      "title": "Ini Dia 8 Kewenangan Danantara ke BUMN, Nomor 5 soal Pinjaman dan Aset! - Tribun Sumbar",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 03:29:00 GMT",
-      "link": "https://www.tribunsumbar.com/berita/43764/ini-dia-8-kewenangan-danantara-ke-bumn-nomor-5-soal-pinjaman-dan-aset"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "title": "Kopdes Merah Putih Boleh Kelola Tambang, Menteri Koperasi: Kalau di Desanya Ada Potensi, Silakan - VIVA.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 03:22:43 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+      "published": "Wed, 14 Oct 2026 10:39:52 GMT",
+      "link": "https://www.viva.co.id/bisnis/1935768-kopdes-merah-putih-boleh-kelola-tambang-menteri-koperasi-kalau-di-desanya-ada-potensi-silakan"
     },
     {
-      "title": "KPPU Nyatakan Para Terlapor Tidak Terbukti Melanggar Pasal 22 Dalam Perkara Tender Geomembrane PHR - Nadaviral.com",
-      "entity": "KPPU",
+      "title": "Kementerian Perindustrian dan Perdagangan mengeluarkan pedoman tentang pelaksanaan peraturan baru mengenai ekspor beras. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 03:05:00 GMT",
-      "link": "https://nadaviral.com/kppu-nyatakan-para-terlapor-tidak-terbukti-melanggar-pasal-22-dalam-perkara-tender-geomembrane-phr/"
+      "published": "Wed, 14 Oct 2026 10:39:15 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-huong-dan-thuc-hien-quy-dinh-moi-ve-xuat-khau-gao"
     },
     {
-      "title": "BP BUMN tegaskan pelayanan publik jadi parameter utama direksi BUMN - ANTARA News Jambi",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "TEI 2026 Resmi Dibuka, Kemendag Rangkul MoU Dagang US$13,2 Miliar - Validnews",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 02:54:58 GMT",
-      "link": "https://jambi.antaranews.com/amp/berita/669821/bp-bumn-tegaskan-pelayanan-publik-jadi-parameter-utama-direksi-bumn"
+      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/10/14/tei-2026-resmi-dibuka-kemendag-rangkul-mou-dagang-us132-miliar-173300015"
     },
     {
-      "title": "KPPU Nyatakan PHR Tak Terbukti Terlibat Persekongkolan Tender Geomembrane - RiauAktual.com",
-      "entity": "KPPU",
+      "title": "Masih Terbatas, Koperasi Merah Putih yang Siap Beroperasi Penuh - Kompas.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 02:21:08 GMT",
-      "link": "https://riauaktual.com/amp/detail/123149/kppu-nyatakan-phr-tak-terbukti-terlibat-persekongkolan-tender-geomembrane"
+      "published": "Wed, 14 Oct 2026 10:03:37 GMT",
+      "link": "https://www.kompas.id/artikel/jumlah-koperasi-merah-putih-yang-siap-beroperasi-penuh-masih-terbatas?open_from=Terbaru_Page"
     },
     {
-      "title": "Transformasi Pelayanan BUMN, CX100 Award 2026 Jadi Acuan Peningkatan Kualitas Layanan - TopBusiness.id",
+      "title": "Bali Disorot Media Asing akibat Antrean BBM, DPR Sentil Pertamina - Aktual.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 10:00:45 GMT",
+      "link": "https://aktual.com/bali-disorot-media-asing-akibat-antrean-bbm-dpr-sentil-pertamina/"
+    },
+    {
+      "title": "Sawah Gantar Kekeringan, Herman Khaeron Bantu Rp100 Juta - IndramayuJeh",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 09:59:07 GMT",
+      "link": "https://www.indramayujeh.com/berita-terbaru/sawah-kekeringan-herman-khaeron-gelontorkan-rp100-juta-untuk-petani-gantar-indramayu/"
+    },
+    {
+      "title": "Desak Pengusutan Tuntas Dugaan Korupsi Dana Darurat BNPB, Rieke Diah Pitaloka : \"Ini Kejahatan Kemanusiaan\" - Sonora.co.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Wed, 14 Oct 2026 09:51:00 GMT",
+      "link": "https://www.sonora.co.id/news/46011/desak-pengusutan-tuntas-dugaan-korupsi-dana-darurat-bnpb-rieke-diah-pitaloka-ini-kejahatan-kemanusiaan"
+    },
+    {
+      "title": "Surplus Perdagangan Indonesia Tembus USD7,25 Miliar hingga Agustus 2026 - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 09:48:39 GMT",
+      "link": "https://www.metrotvnews.com/read/NgxCl3yz-surplus-perdagangan-indonesia-tembus-usd7-25-miliar-hingga-agustus-2026"
+    },
+    {
+      "title": "Kolaborasi 11 BUMN dan Danantara Indonesia Mulai Renovasi SDN 1 Panggalih, Garut - www.relawannusantara.id",
       "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 01:59:00 GMT",
-      "link": "https://www.topbusiness.id/138073/transformasi-pelayanan-bumn-cx100-award-2026-jadi-acuan-peningkatan-kualitas-layanan.html"
+      "published": "Wed, 14 Oct 2026 09:37:55 GMT",
+      "link": "https://www.relawannusantara.id/renovasi-sdn-1-panggalih-garut/"
     },
     {
-      "title": "KPPU Nyatakan Terlapor Tak Terbukti Langgar Aturan dalam Perkara Tender Geomembrane PHR - Batamtoday.com",
-      "entity": "KPPU",
+      "title": "Mendag: TEI 2026 Bidik Transaksi Rp 313 Triliun dan 168 MoU - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 01:50:31 GMT",
-      "link": "https://batamtoday.com/news/kppu-nyatakan-terlapor-tak-terbukti-langgar-aturan-dalam-perkara-tender-geomembrane-phr"
+      "published": "Wed, 14 Oct 2026 09:32:00 GMT",
+      "link": "https://investortrust.id/business/119278/mendag-tei-2026-bidik-transaksi-rp-313-triliun-dan-168-mou"
     },
     {
-      "title": "Asahan Terima 27 Truk untuk Dukung Operasional Koperasi Desa Merah Putih - Kabar SDGs",
+      "title": "Pembayaran Gaji PNS Melalui Koperasi Merah Putih Sudah Diusulkan ke Kemenkeu - MerahPutih",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 01:49:42 GMT",
-      "link": "https://kabarsdgs.com/sustainability/2026/10/28659/asahan-terima-27-truk-untuk-dukung-operasional-koperasi-desa-merah-putih/"
+      "published": "Wed, 14 Oct 2026 09:05:06 GMT",
+      "link": "https://www.merahputih.com/post/read/pembayaran-gaji-pns-melalui-koperasi-merah-putih-sudah-diusulkan-ke-kemenkeu"
     },
     {
-      "title": "Kepala Rutan Pangkep Terima Kunjungan Anggota DPR RI Ismail Bachtiar, Perbaikan Fasilitas Jadi Fokus Utama - Rakyat Sulsel",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 01:21:26 GMT",
-      "link": "https://rakyatsulsel.fajar.co.id/2026/10/14/kepala-rutan-pangkep-terima-kunjungan-anggota-dpr-ri-ismail-bachtiar-perbaikan-fasilitas-jadi-fokus-utama/"
+      "title": "Taspen Buka Suara soal Rencana Duit Pensiun PNS Dibayar Lewat Koperasi - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 08:53:49 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8706775/taspen-buka-suara-soal-rencana-duit-pensiun-pns-dibayar-lewat-koperasi"
+    },
+    {
+      "title": "Gaji ASN Lewat Koperasi Desa, Menkop Ajukan Skema ke Kemenkeu - republika.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 08:11:36 GMT",
+      "link": "https://ekonomi.republika.co.id/berita/tmw1f7423/gaji-asn-lewat-koperasi-desa-menkop-ajukan-skema-ke-kemenkeu"
+    },
+    {
+      "title": "Pembayaran Gaji PNS Lewat Koperasi Diajukan ke Kemenkeu - Tempo.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 14 Oct 2026 08:05:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/pembayaran-gaji-pns-lewat-koperasi-diajukan-ke-kemenkeu-2300304"
     }
   ]
 }
