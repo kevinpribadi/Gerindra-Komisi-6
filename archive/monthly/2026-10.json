@@ -1,27 +1,27 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-15T03:09:26.176584",
+  "generated_at": "2026-10-15T08:49:52.994329",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 22,
     "PDI-P": 30,
     "Golkar": 28,
-    "PKB": 14,
-    "PKS": 19,
-    "PAN": 5,
-    "Demokrat": 12
+    "PKB": 16,
+    "PKS": 20,
+    "PAN": 4,
+    "Demokrat": 15
   },
   "party_counts_30d": {
     "Gerindra": 48,
-    "PDI-P": 79,
-    "Golkar": 102,
+    "PDI-P": 73,
+    "Golkar": 99,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 60,
     "PAN": 22,
-    "Demokrat": 24
+    "Demokrat": 27
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 18,
+    "Kementerian BUMN": 17,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,15 +33,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 37,
+    "danantara": 36,
     "bumn": 50,
-    "umkm": 16,
-    "ekspor": 8,
-    "perdagangan": 17,
-    "investasi": 34,
-    "impor": 12,
+    "umkm": 20,
+    "perdagangan": 19,
+    "ekspor": 7,
+    "investasi": 33,
+    "impor": 11,
     "koperasi": 43,
-    "merger-akuisisi": 13,
+    "merger-akuisisi": 12,
     "kartel-monopoli": 8
   },
   "member_counts_30d": {
@@ -53,11 +53,11 @@
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 12,
-    "Darmadi Durianto": 9,
+    "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 5,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 10,
+    "Ida Nurlaela": 6,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
@@ -65,7 +65,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 20,
+    "Rizki Faisal": 17,
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
@@ -80,121 +80,121 @@
     "Nasril Bahar": 7,
     "Iskandar": 15,
     "Sartono": 6,
-    "Herman Khaeron": 17,
+    "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 42,
     "Kinerja BUMN": 17,
-    "Hukum/Audit": 15,
+    "Hukum/Audit": 17,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Kemendag: HPE dan HR Emas Turun pada Periode Kedua Oktober - Radio DMS Ambon",
+      "title": "Kemendag Tak Lagi Wajibkan Ritel Modern Sediakan 30% Ruang buat UMKM - detikFinance",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:53:29 GMT",
-      "link": "https://radiodms.com/hpe-hr-emas-turun-oktober-2026/"
+      "published": "Thu, 15 Oct 2026 08:19:56 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8708441/kemendag-tak-lagi-wajibkan-ritel-modern-sediakan-30-ruang-buat-umkm"
     },
     {
-      "title": "Dukung Penguatan Ekspor Nasional, APP Group Perluas Kerja Sama Perdagangan di TEI 2026 - Forest Insights Indonesia",
+      "title": "Kemendag dorong ekspor UMKM desa lewat MoU Rp69 miliar - ANTARA News Bangka Belitung",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:53:10 GMT",
-      "link": "https://forestinsights.id/dukung-penguatan-ekspor-nasional-app-group-perluas-kerja-sama-perdagangan-di-tei-2026/"
+      "published": "Thu, 15 Oct 2026 08:13:35 GMT",
+      "link": "https://babel.antaranews.com/berita/587765/kemendag-dorong-ekspor-umkm-desa-lewat-mou-rp69-miliar"
     },
     {
-      "title": "Wacana Gaji PNS dan Pensiun Dibayar lewat Kopdes Diajukan ke Kemenkeu - Kompas.tv",
+      "title": "Murka! Rieke Diah Pitaloka Minta Pelaku Korupsi Dana Penanggulangan Bencana Dihukum Mati - NusantaraTV",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 15 Oct 2026 08:04:28 GMT",
+      "link": "https://www.nusantaratv.com/news/murka-rieke-diah-pitaloka-minta-pelaku-korupsi-dana-penanggulangan-bencana-dihukum-mati"
+    },
+    {
+      "title": "Mendag Lepas Ekspor Produk Minuman Kopi, Target Rp 10 Triliun dalam 3 Tahun - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 08:00:00 GMT",
+      "link": "https://investortrust.id/business/119382/mendag-lepas-ekspor-produk-minuman-kopi-target-rp-10-triliun-dalam-3-tahun"
+    },
+    {
+      "title": "Kementerian Koperasi Buka Opsi Gaji PNS Daerah Lewat Koperasi - Demokratis.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:51:00 GMT",
-      "link": "https://www.kompas.tv/nasional/696064/wacana-gaji-pns-dan-pensiun-dibayar-lewat-kopdes-diajukan-ke-kemenkeu"
+      "published": "Thu, 15 Oct 2026 07:44:30 GMT",
+      "link": "https://demokratis.co.id/penyaluran-gaji-pns-koperasi-daerah"
     },
     {
-      "title": "Transformasi RSPP, BP BUMN dan Danantara Siapkan Rp581 Miliar - jurnas.com",
+      "title": "PNS Daerah Bakal Bisa Pilih Penyaluran Gaji Lewat Bank atau Koperasi - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 07:39:20 GMT",
+      "link": "https://keuangan.kontan.co.id/news/pns-daerah-bakal-bisa-pilih-penyaluran-gaji-lewat-bank-atau-koperasi"
+    },
+    {
+      "title": "Pasang Target Rp313 Triliun Transaksi di TEI ke-41, Begini Strategi Kemendag - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 07:32:00 GMT",
+      "link": "https://www.inilah.com/pasang-target-rp313-triliun-transaksi-di-tei-ke-41-begini-strategi-kemendag"
+    },
+    {
+      "title": "Kemendag Perluas Peluang Pasar Sepuluh UMKM Pangan Unggulan - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 07:30:00 GMT",
+      "link": "https://rri.co.id/ekonomi/umkm/2814038/kemendag-perluas-peluang-pasar-sepuluh-umkm-pangan-unggulan"
+    },
+    {
+      "title": "BP BUMN Dorong Garuda (GIAA) Kembali Kuasai Pasar Domestik - Bisnis.com - Market",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:43:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1667138/transformasi-rspp-bp-bumn-dan-danantara-siapkan-rp581-miliar/"
+      "published": "Thu, 15 Oct 2026 07:14:40 GMT",
+      "link": "https://market.bisnis.com/read/20261015/192/2012871/bp-bumn-dorong-garuda-giaa-kembali-kuasai-pasar-domestik"
     },
     {
-      "title": "Kemenkop Usulkan Gaji ASN Dibayar Lewat Koperasi Desa Merah Putih - PASBANA",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:38:00 GMT",
-      "link": "https://www.pasbana.com/2026/10/kemenkop-usulkan-gaji-asn-dibayar-lewat-koperasi-desa-merah-putih.html"
+      "title": "Anggota DPR RI Herman Khaeron Serap Aspirasi Warga Pabedilan - RRI.co.id",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Thu, 15 Oct 2026 07:01:22 GMT",
+      "link": "https://rri.co.id/cirebon/asta-cita/2814222/anggota-dpr-ri-herman-khaeron-serap-aspirasi-warga-pabedilan"
     },
     {
-      "title": "Menteri Koperasi Ferry Juliantono Sebut Penyaluran Gaji PNS Melalui KDKMP Mulai Tahun Ini - Indonesia Satu",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:36:00 GMT",
-      "link": "https://indonesiasatu.co/detail/menteri-koperasi-ferry-juliantono-sebut-penyaluran-gaji-pns-melalui-kdkmp-mulai-tahun-ini"
-    },
-    {
-      "title": "Kemendag: Turunnya HPE dan HR emas dipicu menguatnya nilai tukar - ANTARA News Jambi",
+      "title": "10 UMKM Raih UKM Pangan Award 2026, Kemendag Buka Akses ke Ritel Modern - Agricom.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:34:02 GMT",
-      "link": "https://jambi.antaranews.com/berita/670001/kemendag-turunnya-hpe-dan-hr-emas-dipicu-menguatnya-nilai-tukar"
+      "published": "Thu, 15 Oct 2026 06:58:47 GMT",
+      "link": "https://www.agricom.id/2026/1403/tei-2026/10-umkm-raih-ukm-pangan-award-2026-kemendag-buka-akses-ke-ritel-modern/"
     },
     {
-      "title": "BP BUMN-Danantara minta KAI antisipasi pertumbuhan jumlah penumpang - ANTARA News Sulteng",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:18:53 GMT",
-      "link": "https://sulteng.antaranews.com/berita/396353/bp-bumn-danantara-minta-kai-antisipasi-pertumbuhan-jumlah-penumpang"
-    },
-    {
-      "title": "Antisipasi 600 Juta Penumpang, BP BUMN dan Danantara Minta KAI Buat Peta Jalan Transformasi Perkeretaapian - VOI.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 02:04:00 GMT",
-      "link": "https://voi.id/ekonomi/598525/antisipasi-600-juta-penumpang-bp-bumn-dan-danantara-minta-kai-buat-peta-jalan-transformasi-perkeretaapian"
-    },
-    {
-      "title": "Mendag Budi Santoso: Ekspor Indonesia Tumbuh 4,74%, TEI 2026 Bidik Transaksi US$17,5 Miliar - Media Nikel Indonesia",
+      "title": "CPO Dominasi Ekspor ke India, Kemendag Perkuat Benteng Surplus Perdagangan di Asia Selatan - Sawit Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 01:57:27 GMT",
-      "link": "https://nikel.co.id/2026/10/15/mendag-budi-santoso-ekspor-indonesia-tumbuh-474-tei-2026-bidik-transaksi-us175-miliar/"
+      "published": "Thu, 15 Oct 2026 06:40:03 GMT",
+      "link": "https://sawitindonesia.com/cpo-dominasi-ekspor-ke-india-kemendag-perkuat-benteng-surplus-perdagangan-di-asia-selatan"
     },
     {
-      "title": "Harga Patokan Ekspor Emas Periode Kedua Oktober Turun - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 01:00:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707537/harga-patokan-ekspor-emas-periode-kedua-oktober-turun"
-    },
-    {
-      "title": "Mendag Busan Ungkap Strategi Jaga Kinerja Neraca Perdagangan - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 01:00:00 GMT",
-      "link": "https://investor.id/business/458045/mendag-busan-ungkap-strategi-jaga-kinerja-neraca-perdagangan"
-    },
-    {
-      "title": "Gaji PNS Lewat Kopdes Merah Putih, Menkop: “Sekarang” - Tutur.co.id",
+      "title": "Gaji ASN Akan Dialihkan ke Kopdes, Begini Sistem Saat Ini - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 00:58:39 GMT",
-      "link": "https://tutur.co.id/gaji-pns-lewat-kopdes-merah-putih-menkop-sekarang/"
+      "published": "Thu, 15 Oct 2026 06:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/124708/gaji-asn-akan-dialihkan-ke-kopdes-begini-sistem-saat-ini"
     },
     {
-      "title": "Gaji PNS Bakal Dibayar Lewat Kopdes Merah Putih, Mulai Kapan? - CNBC Indonesia",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Belum Terima Permohonan Impor KRL Bekas Jepang - MOST 1058",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 00:55:17 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261015060816-4-776303/gaji-pns-bakal-dibayar-lewat-kopdes-merah-putih-mulai-kapan"
+      "published": "Thu, 15 Oct 2026 06:33:45 GMT",
+      "link": "https://most1058fm.com/2026/10/kemendag-belum-terima-permohonan-impor-krl-bekas-jepang/"
     },
     {
-      "title": "BP BUMN dan Danantara siapkan Rp581 miliar untuk transformasi RSPP - ANTARA News Jambi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 00:51:01 GMT",
-      "link": "https://jambi.antaranews.com/amp/berita/669989/bp-bumn-dan-danantara-siapkan-rp581-miliar-untuk-transformasi-rspp"
+      "title": "Desak Pengusutan Dugaan Korupsi Dana Darurat BNPB, Rieke Diah Pitaloka: Ini Kejahatan Kemanusiaan - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 15 Oct 2026 06:31:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/desak-pengusutan-dugaan-korupsi-dana-darurat-bnpb-rieke-diah-pitaloka-ini-kejahatan-kemanusiaan-b2qcMZbiBX"
     }
   ]
 }
