@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-15T13:55:32.709759",
+  "generated_at": "2026-10-15T18:00:28.741341",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 33,
+    "PDI-P": 35,
     "Golkar": 29,
     "PKB": 17,
     "PKS": 21,
     "PAN": 2,
-    "Demokrat": 16
+    "Demokrat": 17
   },
   "party_counts_30d": {
     "Gerindra": 48,
-    "PDI-P": 75,
-    "Golkar": 95,
+    "PDI-P": 77,
+    "Golkar": 94,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 61,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 34,
+    "danantara": 35,
     "bumn": 50,
-    "umkm": 20,
-    "ekspor": 10,
-    "perdagangan": 19,
-    "investasi": 33,
+    "umkm": 21,
+    "ekspor": 9,
+    "perdagangan": 18,
+    "investasi": 32,
     "impor": 10,
     "koperasi": 43,
-    "merger-akuisisi": 11,
-    "kartel-monopoli": 8
+    "merger-akuisisi": 10,
+    "kartel-monopoli": 7
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,12 +52,13 @@
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
-    "Mufti Anam": 12,
+    "Mufti Anam": 13,
     "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 6,
+    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
@@ -65,7 +66,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 17,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
@@ -84,117 +85,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 58,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 42,
     "Kinerja BUMN": 16,
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Gaji ASN Akan Dialihkan ke Kopdes, Ekonom Ingatkan Nasib BPD - Bloomberg Technoz",
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 17:20:20 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261016/Mjc0NDQ0"
+    },
+    {
+      "title": "Mendag Sebut Belum Ada Laporan Gangguan Distribusi dan Lonjakan Harga di Daerah Karhutla - Pontianak Post",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 16:52:19 GMT",
+      "link": "https://pontianakpost.jawapos.com/ekonomi/2610150099/mendag-sebut-belum-ada-laporan-gangguan-distribusi-dan-lonjakan-harga-di-daerah-karhutla"
+    },
+    {
+      "title": "Kemendag dan Nestlé Perkuat Ekspor Produk Indonesia ke Australia - www.suaralandak.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:51:22 GMT",
+      "link": "https://www.suaralandak.co.id/kemendag-nestle-perkuat-ekspor-indonesia"
+    },
+    {
+      "title": "Dari Restoran hingga Distribusi Sembako, Ini Peluang Bisnis BUMD Sabang - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:51:00 GMT",
+      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2815577/dari-restoran-hingga-distribusi-sembako-ini-peluang-bisnis-bumd-sabang"
+    },
+    {
+      "title": "Sabang Punya Peluang, BUMD Perlu Segera Diberdayakan - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:51:00 GMT",
+      "link": "https://rri.co.id/sabang/info-pemda/2815638/sabang-punya-peluang-bumd-perlu-segera-diberdayakan"
+    },
+    {
+      "title": "ANTARA News Sumatera Barat - Berita Terkini Padang, Sumatera Barat - ANTARA News Sumbar",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:47:00 GMT",
+      "link": "https://sumbar.antaranews.com/video/5789961/bpkn-mendorong-penguatan-peran-lembaga-perlindungan-konsumen-daerah"
+    },
+    {
+      "title": "Kemendag dan HIPPINDO Fasilitasi 4.100 Barcode untuk Dongkrak UMKM ke Ritel Modern dan Ekspor - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:30:00 GMT",
+      "link": "https://swa.co.id/read/478502/kemendag-dan-hippindo-fasilitasi-4100-barcode-untuk-dongkrak-umkm-ke-ritel-modern-dan-ekspor"
+    },
+    {
+      "title": "Wamen: KDMP diharapkan jadi penggerak ekonomi masyarakat desa - ANTARA News Jateng",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 13:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/124750/gaji-asn-akan-dialihkan-ke-kopdes-ekonom-ingatkan-nasib-bpd"
+      "published": "Thu, 15 Oct 2026 15:26:56 GMT",
+      "link": "https://jateng.antaranews.com/berita/648685/wamen-kdmp-diharapkan-jadi-penggerak-ekonomi-masyarakat-desa"
     },
     {
-      "title": "Legislator Herman Khaeron Gandeng Bank Mandiri Sosialisasi Literasi Keuangan - RRI.co.id",
+      "title": "DPR Soroti Kelangkaan BBM di Bali, Pertamina Diminta Evaluasi Sistem Distribusi - Media Indonesia",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Thu, 15 Oct 2026 15:16:33 GMT",
+      "link": "https://mediaindonesia.com/politik-dan-hukum/944959/dpr-soroti-kelangkaan-bbm-di-bali-pertamina-diminta-evaluasi-sistem-distribusi"
+    },
+    {
+      "title": "Herman Khaeron: Jangan Sampai Kemarau Panjang Bikin Petani Terjebak Musim Paceklik - rmoljabar.id",
       "entity": "Herman Khaeron",
       "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 13:13:05 GMT",
-      "link": "https://rri.co.id/cirebon/ekonomi/keuangan/2814993/legislator-herman-khaeron-gandeng-bank-mandiri-sosialisasi-literasi-keuangan"
+      "published": "Thu, 15 Oct 2026 15:11:13 GMT",
+      "link": "https://www.rmoljabar.id/herman-khaeron-jangan-sampai-kemarau-panjang-bikin-petani-terjebak-musim-paceklik"
     },
     {
-      "title": "Pergantian Dirut PLN Harus Bawa Perubahan, Gus Rivqy Minta Pemadaman Tak Terulang - Liputan Jatim",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 12:57:00 GMT",
-      "link": "https://liputanjatim.com/berita/pergantian-dirut-pln-harus-bawa-perubahan-gus-rivqy-minta-pemadaman-tak-terulang"
-    },
-    {
-      "title": "Kemendag Targetkan Sektor Horeka Sumbang 30% Transaksi Ekspor - MetroTVNews.com",
+      "title": "Kemendag dan HIPPINDO Fasilitasi 4.100 Barcode untuk UMKM - RRI.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 12:13:21 GMT",
-      "link": "https://www.metrotvnews.com/read/bmRCXZZa-kemendag-targetkan-sektor-horeka-sumbang-30-transaksi-ekspor"
+      "published": "Thu, 15 Oct 2026 15:05:00 GMT",
+      "link": "https://rri.co.id/ekonomi/bisnis/2815834/kemendag-dan-hippindo-fasilitasi-4100-barcode-untuk-umkm"
     },
     {
-      "title": "Rieke Desak KPK Bongkar Dugaan Korupsi Dana BNPB, Pelaku Harus Dihukum Maksimal - Aktual.com",
+      "title": "Taspen Ikut Arahan Pemerintah soal Koperasi Jadi Penyalur Dana Pensiunan - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 14:55:59 GMT",
+      "link": "https://finance.detik.com/moneter/d-8709195/taspen-ikut-arahan-pemerintah-soal-koperasi-jadi-penyalur-dana-pensiunan"
+    },
+    {
+      "title": "Wakil Kepala BP BUMN Tinjau Gerai KDKMP, Produk LPG Pertamina Hadir Mendorong Pertumbuhan Ekonomi - republika.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 14:55:09 GMT",
+      "link": "https://ekonomi.republika.co.id/berita/tmyerx522/wakil-kepala-bp-bumn-tinjau-gerai-kdkmp-produk-lpg-pertamina-hadir-mendorong-pertumbuhan-ekonomi"
+    },
+    {
+      "title": "Kementerian Koperasi Ajukan Pembayaran Gaji PNS Lewat Koperasi - www.suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 14:31:25 GMT",
+      "link": "https://www.suaralandak.co.id/usulan-gaji-pns-lewat-koperasi"
+    },
+    {
+      "title": "Soroti Kebakaran Kantor BPN Karawang, Rieke Diah Pitaloka Desak Polisi Usut Tuntas - iNews.ID",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 12:00:50 GMT",
-      "link": "https://aktual.com/rieke-desak-kpk-bongkar-dugaan-korupsi-dana-bnpb-pelaku-harus-dihukum-maksimal/"
-    },
-    {
-      "title": "KPPU Ingatkan Risiko Persaingan dalam Pengaturan Tarif Jasa Kepelabuhanan - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 11:29:00 GMT",
-      "link": "https://rri.co.id/bandar-lampung/regional/2814494/kppu-ingatkan-risiko-persaingan-dalam-pengaturan-tarif-jasa-kepelabuhanan"
-    },
-    {
-      "title": "Danantara Berpeluang Dapat Suntikan Modal APBN untuk Investasi Nasional - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 11:27:00 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-berpeluang-dapat-suntikan-modal-apbn-untuk-investasi-nasional"
-    },
-    {
-      "title": "BP BUMN Kunjungi Kopdeskel Merah Putih Cakung Timur, Tinjau Pengembangan Koperasi - KLIK7TV",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 11:24:31 GMT",
-      "link": "https://klik7tv.co.id/bp-bumn-kunjungi-kopdeskel-merah-putih-cakung-timur-tinjau-pengembangan-koperasi/"
-    },
-    {
-      "title": "Kemendag Gandeng Nestle, Target Ekspor Minimal Rp 10 Triliun Dalam 3 Tahun - RM.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 11:24:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/330299/kemendag-gandeng-nestle-target-ekspor-minimal-rp-10-triliun-dalam-3-tahun"
-    },
-    {
-      "title": "Danantara Trust Guyur US$100 Juta per Tahun untuk Cetak 1.343 Dokter Spesialis - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 11:23:00 GMT",
-      "link": "https://www.inilah.com/danantara-trust-guyur-us-100-juta-per-tahun-untuk-cetak-1-343-dokter-spesialis"
-    },
-    {
-      "title": "Kemendag RI dan Nestle Indonesia Teken MoU untuk Perkuat Ekspor - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 10:30:00 GMT",
-      "link": "https://tirto.id/kemendag-ri-dan-nestle-indonesia-teken-mou-untuk-perkuat-ekspor-hDUM"
-    },
-    {
-      "title": "Berita Terkini - Infopublik",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 10:05:00 GMT",
-      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/993092/model-bisnis-pln-bakal-dikaji-ulang-prabowo-minta-efisiensi-dan-layanan-lebih-andal"
-    },
-    {
-      "title": "131 CEO Ikuti Investor Global dan BUMN DTIIF 2026 - Aspek.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 09:54:31 GMT",
-      "link": "https://aspek.id/131-ceo-ikuti-investor-global-dan-bumn-dtiif-2026/"
-    },
-    {
-      "title": "Bakrie Makin Dekat dengan Danantara, ini Tiga Proyek yang Didapat - KabarBursa.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 09:42:13 GMT",
-      "link": "https://www.kabarbursa.com/makro/bakrie-makin-dekat-dengan-danantara-ini-tiga-proyek-yang-didapat"
-    },
-    {
-      "title": "BP BUMN Kunjungi Kopdeskel Merah Putih Cakung Timur - Kota Administrasi Jakarta Timur",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 09:31:44 GMT",
-      "link": "https://timur.jakarta.go.id/foto/4276"
+      "published": "Thu, 15 Oct 2026 13:49:00 GMT",
+      "link": "https://karawang.inews.id/amp/723229/soroti-kebakaran-kantor-bpn-karawang-rieke-diah-pitaloka-desak-polisi-usut-tuntas"
     }
   ]
 }
