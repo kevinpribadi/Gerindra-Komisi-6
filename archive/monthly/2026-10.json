@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-15T18:00:28.741341",
+  "generated_at": "2026-10-15T21:55:19.976467",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 35,
+    "PDI-P": 36,
     "Golkar": 29,
     "PKB": 17,
     "PKS": 21,
@@ -11,8 +11,8 @@
     "Demokrat": 17
   },
   "party_counts_30d": {
-    "Gerindra": 48,
-    "PDI-P": 77,
+    "Gerindra": 47,
+    "PDI-P": 78,
     "Golkar": 94,
     "NasDem": 9,
     "PKB": 50,
@@ -35,12 +35,12 @@
   "topic_counts_30d": {
     "danantara": 35,
     "bumn": 50,
-    "umkm": 21,
+    "umkm": 22,
     "ekspor": 9,
     "perdagangan": 18,
     "investasi": 32,
     "impor": 10,
-    "koperasi": 43,
+    "koperasi": 44,
     "merger-akuisisi": 10,
     "kartel-monopoli": 7
   },
@@ -48,12 +48,12 @@
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 9,
+    "Kawendra Lukistian": 8,
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 13,
-    "Darmadi Durianto": 8,
+    "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 1,
@@ -85,13 +85,20 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 42,
+    "Koperasi/UMKM": 62,
+    "Perdagangan": 40,
     "Kinerja BUMN": 16,
     "Hukum/Audit": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "BPKN-Disperindag Sumbar perkuat peran lembaga perlindungan konsumen - ANTARA News Sumbar",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 20:58:15 GMT",
+      "link": "https://sumbar.antaranews.com/berita/783265/bpkn-disperindag-sumbar-perkuat-peran-lembaga-perlindungan-konsumen"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -135,6 +142,20 @@
       "link": "https://sumbar.antaranews.com/video/5789961/bpkn-mendorong-penguatan-peran-lembaga-perlindungan-konsumen-daerah"
     },
     {
+      "title": "BPKN mendorong penguatan peran lembaga perlindungan konsumen daerah - ANTARA News",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:47:00 GMT",
+      "link": "https://www.antaranews.com/berita/5789961/bpkn-mendorong-penguatan-peran-lembaga-perlindungan-konsumen-daerah"
+    },
+    {
+      "title": "Koperasi Merah Putih Beroperasi, Pemerintah Optimistis Pangkas Rantai Distribusi - Media Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 15:32:22 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/944967/koperasi-merah-putih-beroperasi-pemerintah-optimistis-pangkas-rantai-distribusi"
+    },
+    {
       "title": "Kemendag dan HIPPINDO Fasilitasi 4.100 Barcode untuk Dongkrak UMKM ke Ritel Modern dan Ekspor - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Thu, 15 Oct 2026 14:55:59 GMT",
       "link": "https://finance.detik.com/moneter/d-8709195/taspen-ikut-arahan-pemerintah-soal-koperasi-jadi-penyalur-dana-pensiunan"
-    },
-    {
-      "title": "Wakil Kepala BP BUMN Tinjau Gerai KDKMP, Produk LPG Pertamina Hadir Mendorong Pertumbuhan Ekonomi - republika.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 14:55:09 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tmyerx522/wakil-kepala-bp-bumn-tinjau-gerai-kdkmp-produk-lpg-pertamina-hadir-mendorong-pertumbuhan-ekonomi"
-    },
-    {
-      "title": "Kementerian Koperasi Ajukan Pembayaran Gaji PNS Lewat Koperasi - www.suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 14:31:25 GMT",
-      "link": "https://www.suaralandak.co.id/usulan-gaji-pns-lewat-koperasi"
-    },
-    {
-      "title": "Soroti Kebakaran Kantor BPN Karawang, Rieke Diah Pitaloka Desak Polisi Usut Tuntas - iNews.ID",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 13:49:00 GMT",
-      "link": "https://karawang.inews.id/amp/723229/soroti-kebakaran-kantor-bpn-karawang-rieke-diah-pitaloka-desak-polisi-usut-tuntas"
     }
   ]
 }
