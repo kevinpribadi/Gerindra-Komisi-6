@@ -1,21 +1,21 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-14T23:39:52.605311",
+  "generated_at": "2026-10-15T03:09:26.176584",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 29,
+    "Gerindra": 23,
+    "PDI-P": 30,
     "Golkar": 28,
     "PKB": 14,
     "PKS": 19,
     "PAN": 5,
-    "Demokrat": 13
+    "Demokrat": 12
   },
   "party_counts_30d": {
-    "Gerindra": 47,
+    "Gerindra": 48,
     "PDI-P": 79,
     "Golkar": 102,
     "NasDem": 9,
-    "PKB": 51,
+    "PKB": 50,
     "PKS": 60,
     "PAN": 22,
     "Demokrat": 24
@@ -33,14 +33,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 35,
+    "danantara": 37,
     "bumn": 50,
-    "umkm": 15,
-    "impor": 13,
-    "perdagangan": 16,
-    "ekspor": 6,
+    "umkm": 16,
+    "ekspor": 8,
+    "perdagangan": 17,
     "investasi": 34,
-    "koperasi": 41,
+    "impor": 12,
+    "koperasi": 43,
     "merger-akuisisi": 13,
     "kartel-monopoli": 8
   },
@@ -48,7 +48,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 8,
+    "Kawendra Lukistian": 9,
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
@@ -69,7 +69,7 @@
     "Muhammad Sarmuji": 20,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
@@ -84,7 +84,7 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 57,
     "Perdagangan": 43,
     "Kinerja BUMN": 17,
     "Hukum/Audit": 15,
@@ -92,109 +92,109 @@
   },
   "top_headlines": [
     {
-      "title": "Investasi Danantara Rp100 Triliun untuk Industri Tekstil, Apa Strategi Integrasi Hulu hingga Hilir yang Disiapkan? - Hallo Indonesia - Hallo Indonesia",
-      "entity": "Danantara",
+      "title": "Kemendag: HPE dan HR Emas Turun pada Periode Kedua Oktober - Radio DMS Ambon",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 23:16:06 GMT",
-      "link": "https://indonesia.hallo.id/bisnis/115617760570/investasi-danantara-rp100-triliun-untuk-industri-tekstil-apa-strategi-integrasi-hulu-hingga-hilir-yang-disiapkan"
+      "published": "Thu, 15 Oct 2026 02:53:29 GMT",
+      "link": "https://radiodms.com/hpe-hr-emas-turun-oktober-2026/"
     },
     {
-      "title": "Kapan Pembayaran Gaji PNS Melalui Koperasi Dimulai? - JPNN.com",
+      "title": "Dukung Penguatan Ekspor Nasional, APP Group Perluas Kerja Sama Perdagangan di TEI 2026 - Forest Insights Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 02:53:10 GMT",
+      "link": "https://forestinsights.id/dukung-penguatan-ekspor-nasional-app-group-perluas-kerja-sama-perdagangan-di-tei-2026/"
+    },
+    {
+      "title": "Wacana Gaji PNS dan Pensiun Dibayar lewat Kopdes Diajukan ke Kemenkeu - Kompas.tv",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 22:06:00 GMT",
-      "link": "https://www.jpnn.com/news/kapan-pembayaran-gaji-pns-melalui-koperasi-dimulai"
+      "published": "Thu, 15 Oct 2026 02:51:00 GMT",
+      "link": "https://www.kompas.tv/nasional/696064/wacana-gaji-pns-dan-pensiun-dibayar-lewat-kopdes-diajukan-ke-kemenkeu"
     },
     {
-      "title": "Mendag Harap RI Tak Impor KRL Bekas Jepang - CNN Indonesia",
-      "entity": "Kementerian Perdagangan",
+      "title": "Transformasi RSPP, BP BUMN dan Danantara Siapkan Rp581 Miliar - jurnas.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 20:45:50 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261014185404-92-1415365/mendag-harap-ri-tak-impor-krl-bekas-jepang"
+      "published": "Thu, 15 Oct 2026 02:43:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1667138/transformasi-rspp-bp-bumn-dan-danantara-siapkan-rp581-miliar/"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan mempromosikan efisiensi energi, dengan tujuan mencapai pertumbuhan hijau. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 17:33:10 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-thuc-day-su-dung-nang-luong-hieu-qua-huong-toi-tang-truong-xanh"
-    },
-    {
-      "title": "Kemendag Menetapkan HPE dan HR Emas Oktober Kembali Turun - www.suaralandak.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 17:21:00 GMT",
-      "link": "https://www.suaralandak.co.id/kemendag-tetapkan-hpe-hr-emas"
-    },
-    {
-      "title": "Menkop Raih TOP GPR Figure Award 2026, Perkuat Komunikasi Publik Program Koperasi Desa Merah Putih - Suara Pemerintah",
+      "title": "Kemenkop Usulkan Gaji ASN Dibayar Lewat Koperasi Desa Merah Putih - PASBANA",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 17:20:06 GMT",
-      "link": "https://suarapemerintah.id/2026/10/menkop-raih-top-gpr-figure-award-2026-perkuat-komunikasi-publik-program-koperasi-desa-merah-putih/"
+      "published": "Thu, 15 Oct 2026 02:38:00 GMT",
+      "link": "https://www.pasbana.com/2026/10/kemenkop-usulkan-gaji-asn-dibayar-lewat-koperasi-desa-merah-putih.html"
     },
     {
-      "title": "HPE dan HR Emas Periode II Oktober 2026 Kembali Turun - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 17:13:29 GMT",
-      "link": "https://indoposco.id/2026/10/15/hpe-dan-hr-emas-periode-ii-oktober-2026-kembali-turun/"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 17:12:49 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261015/Mjk5MTUy"
-    },
-    {
-      "title": "Pemerintah Pantau 10 Ribu KDMP, Penyaluran Barang Subsidi Jadi Fokus - Pontianak Post",
+      "title": "Menteri Koperasi Ferry Juliantono Sebut Penyaluran Gaji PNS Melalui KDKMP Mulai Tahun Ini - Indonesia Satu",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 16:33:03 GMT",
-      "link": "https://pontianakpost.jawapos.com/ekonomi/2610140116/pemerintah-pantau-10-ribu-kdmp-penyaluran-barang-subsidi-jadi-fokus"
+      "published": "Thu, 15 Oct 2026 02:36:00 GMT",
+      "link": "https://indonesiasatu.co/detail/menteri-koperasi-ferry-juliantono-sebut-penyaluran-gaji-pns-melalui-kdkmp-mulai-tahun-ini"
     },
     {
-      "title": "Menkop Sudah Ajukan ke Kemenkeu Gaji PNS Dibayar Lewat Kopdes - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 14:01:16 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707426/menkop-sudah-ajukan-ke-kemenkeu-gaji-pns-dibayar-lewat-kopdes"
-    },
-    {
-      "title": "Korupsi Dana Kebencanaan BNPB, Rieke Desak Sanksi Pidana Mati - Langit7.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 13:57:52 GMT",
-      "link": "https://langit7.id/read/62894/1/korupsi-dana-kebencanaan-bnpb-rieke-desak-sanksi-pidana-mati-1791983420"
-    },
-    {
-      "title": "Desak dan Usut Tuntas Dugaan Korupsi Dana Darurat BNPB,Rieke Diah Pitaloka :\"Ini Kejahatan Kemanusan\", - Telusur",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Wed, 14 Oct 2026 13:56:44 GMT",
-      "link": "https://telusur.co.id/dpr/desak-dan-usut-tuntas-dugaan-korupsi-dana-darurat-bnpbrieke-diah-pitaloka-ini-kejahatan-kemanusan"
-    },
-    {
-      "title": "Koperasi Merah Putih di Langkat Belum Beroperasi, 69 Titik Belum Terbangun - Sumut Pos",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 13:55:35 GMT",
-      "link": "https://sumutpos.jawapos.com/sumatera-utara/2610140027/koperasi-merah-putih-di-langkat-belum-beroperasi-69-titik-belum-terbangun"
-    },
-    {
-      "title": "Perluas Pasar Ekspor, APP Group Teken 5 Kesepakatan Dagang di TEI - detikFinance",
+      "title": "Kemendag: Turunnya HPE dan HR emas dipicu menguatnya nilai tukar - ANTARA News Jambi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 13:55:33 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707400/perluas-pasar-ekspor-app-group-teken-5-kesepakatan-dagang-di-tei"
+      "published": "Thu, 15 Oct 2026 02:34:02 GMT",
+      "link": "https://jambi.antaranews.com/berita/670001/kemendag-turunnya-hpe-dan-hr-emas-dipicu-menguatnya-nilai-tukar"
     },
     {
-      "title": "Konsumen dari 134 Negara Memeriahkan Pameran Dagang TEI, Bidik Transaksi US$17,5 Miliar - SWA.co.id",
+      "title": "BP BUMN-Danantara minta KAI antisipasi pertumbuhan jumlah penumpang - ANTARA News Sulteng",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 02:18:53 GMT",
+      "link": "https://sulteng.antaranews.com/berita/396353/bp-bumn-danantara-minta-kai-antisipasi-pertumbuhan-jumlah-penumpang"
+    },
+    {
+      "title": "Antisipasi 600 Juta Penumpang, BP BUMN dan Danantara Minta KAI Buat Peta Jalan Transformasi Perkeretaapian - VOI.ID",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 02:04:00 GMT",
+      "link": "https://voi.id/ekonomi/598525/antisipasi-600-juta-penumpang-bp-bumn-dan-danantara-minta-kai-buat-peta-jalan-transformasi-perkeretaapian"
+    },
+    {
+      "title": "Mendag Budi Santoso: Ekspor Indonesia Tumbuh 4,74%, TEI 2026 Bidik Transaksi US$17,5 Miliar - Media Nikel Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 14 Oct 2026 13:35:00 GMT",
-      "link": "https://swa.co.id/read/478451/konsumen-dari-134-negara-memeriahkan-pameran-dagang-tei-bidik-transaksi-us175-miliar"
+      "published": "Thu, 15 Oct 2026 01:57:27 GMT",
+      "link": "https://nikel.co.id/2026/10/15/mendag-budi-santoso-ekspor-indonesia-tumbuh-474-tei-2026-bidik-transaksi-us175-miliar/"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas Periode Kedua Oktober Turun - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 01:00:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8707537/harga-patokan-ekspor-emas-periode-kedua-oktober-turun"
+    },
+    {
+      "title": "Mendag Busan Ungkap Strategi Jaga Kinerja Neraca Perdagangan - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 01:00:00 GMT",
+      "link": "https://investor.id/business/458045/mendag-busan-ungkap-strategi-jaga-kinerja-neraca-perdagangan"
+    },
+    {
+      "title": "Gaji PNS Lewat Kopdes Merah Putih, Menkop: “Sekarang” - Tutur.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 00:58:39 GMT",
+      "link": "https://tutur.co.id/gaji-pns-lewat-kopdes-merah-putih-menkop-sekarang/"
+    },
+    {
+      "title": "Gaji PNS Bakal Dibayar Lewat Kopdes Merah Putih, Mulai Kapan? - CNBC Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 00:55:17 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261015060816-4-776303/gaji-pns-bakal-dibayar-lewat-kopdes-merah-putih-mulai-kapan"
+    },
+    {
+      "title": "BP BUMN dan Danantara siapkan Rp581 miliar untuk transformasi RSPP - ANTARA News Jambi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 00:51:01 GMT",
+      "link": "https://jambi.antaranews.com/amp/berita/669989/bp-bumn-dan-danantara-siapkan-rp581-miliar-untuk-transformasi-rspp"
     }
   ]
 }
