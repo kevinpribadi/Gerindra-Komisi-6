@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T19:17:04.238603",
+  "generated_at": "2026-10-16T22:30:02.539683",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 37,
+    "PDI-P": 38,
     "Golkar": 26,
     "PKB": 13,
-    "PKS": 28,
+    "PKS": 30,
     "PAN": 2,
     "Demokrat": 16
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 79,
+    "PDI-P": 80,
     "Golkar": 92,
     "NasDem": 9,
     "PKB": 50,
-    "PKS": 62,
+    "PKS": 63,
     "PAN": 21,
     "Demokrat": 27
   },
@@ -34,9 +34,9 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 40,
-    "danantara": 33,
-    "umkm": 21,
+    "investasi": 41,
+    "danantara": 32,
+    "umkm": 20,
     "perdagangan": 19,
     "ekspor": 8,
     "impor": 9,
@@ -55,7 +55,7 @@
     "Mufti Anam": 14,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 6,
+    "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 1,
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 1,
@@ -77,7 +77,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 11,
-    "Ismail": 11,
+    "Ismail": 12,
     "Nasril Bahar": 6,
     "Iskandar": 15,
     "Sartono": 6,
@@ -85,13 +85,20 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 64,
+    "Koperasi/UMKM": 63,
     "Perdagangan": 36,
     "Kinerja BUMN": 15,
     "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Ancaman Standalone Market MSCI, DPR Minta Regulator Pasar Modal Berbenah - JPNN.com",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
+      "link": "https://www.jpnn.com/news/ancaman-standalone-market-msci-dpr-minta-regulator-pasar-modal-berbenah?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
+    },
     {
       "title": "Kemenkop Pastikan Gaji Koperasi Merah Putih Tetap Jalan Meski Belum Beroperasi - AFU.id",
       "entity": "Kementerian Koperasi",
@@ -189,13 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 16 Oct 2026 12:15:00 GMT",
       "link": "https://www.tempo.co/ekonomi/danantara-salurkan-rp-1-7-triliun-filantropi-2300669"
-    },
-    {
-      "title": "1.550 Manajer Kopdes Minta Offering Ulang, Kemenkop: Mereka Menyesal Menolak - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 12:00:42 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8710664/1-550-manajer-kopdes-minta-offering-ulang-kemenkop-mereka-menyesal-menolak"
     }
   ]
 }
