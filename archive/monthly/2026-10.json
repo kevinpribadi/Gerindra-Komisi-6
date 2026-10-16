@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-15T21:55:19.976467",
+  "generated_at": "2026-10-16T00:04:17.259510",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 36,
+    "PDI-P": 35,
     "Golkar": 29,
     "PKB": 17,
-    "PKS": 21,
+    "PKS": 22,
     "PAN": 2,
     "Demokrat": 17
   },
@@ -34,14 +34,14 @@
   },
   "topic_counts_30d": {
     "danantara": 35,
-    "bumn": 50,
+    "bumn": 49,
     "umkm": 22,
     "ekspor": 9,
     "perdagangan": 18,
-    "investasi": 32,
+    "investasi": 31,
     "impor": 10,
-    "koperasi": 44,
-    "merger-akuisisi": 10,
+    "koperasi": 42,
+    "merger-akuisisi": 9,
     "kartel-monopoli": 7
   },
   "member_counts_30d": {
@@ -85,13 +85,27 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 61,
     "Perdagangan": 40,
     "Kinerja BUMN": 16,
     "Hukum/Audit": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Ajukan Pembayaran Gaji ASN Lewat Kopdes Merah Putih - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 23:50:00 GMT",
+      "link": "https://bsinews.id/pembayaran-gaji-asn-kopdes-merah-putih"
+    },
+    {
+      "title": "Ada Isu Gaji ASN Disalurkan Lewat KDMP, Kementerian Koperasi: PNS Daerah Bisa Memilih - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 22:30:29 GMT",
+      "link": "https://keuangan.kontan.co.id/news/ada-isu-gaji-asn-disalurkan-lewat-kdmp-kementerian-koperasi-pns-daerah-bisa-memilih"
+    },
     {
       "title": "BPKN-Disperindag Sumbar perkuat peran lembaga perlindungan konsumen - ANTARA News Sumbar",
       "entity": "BPKN",
@@ -105,6 +119,13 @@
       "kind": "lembaga",
       "published": "Thu, 15 Oct 2026 17:20:20 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261016/Mjc0NDQ0"
+    },
+    {
+      "title": "Kemenkop: 83 Ribu KDKMP Sudah Berbadan Hukum, Tersebar di 28 Ribu Titik - Iconomics",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 16:59:14 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemenkop-83-ribu-kdkmp-sudah-berbadan-hukum-tersebar-di-28-ribu-titik/"
     },
     {
       "title": "Mendag Sebut Belum Ada Laporan Gangguan Distribusi dan Lonjakan Harga di Daerah Karhutla - Pontianak Post",
@@ -175,27 +196,6 @@
       "kind": "anggota",
       "published": "Thu, 15 Oct 2026 15:16:33 GMT",
       "link": "https://mediaindonesia.com/politik-dan-hukum/944959/dpr-soroti-kelangkaan-bbm-di-bali-pertamina-diminta-evaluasi-sistem-distribusi"
-    },
-    {
-      "title": "Herman Khaeron: Jangan Sampai Kemarau Panjang Bikin Petani Terjebak Musim Paceklik - rmoljabar.id",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 15:11:13 GMT",
-      "link": "https://www.rmoljabar.id/herman-khaeron-jangan-sampai-kemarau-panjang-bikin-petani-terjebak-musim-paceklik"
-    },
-    {
-      "title": "Kemendag dan HIPPINDO Fasilitasi 4.100 Barcode untuk UMKM - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:05:00 GMT",
-      "link": "https://rri.co.id/ekonomi/bisnis/2815834/kemendag-dan-hippindo-fasilitasi-4100-barcode-untuk-umkm"
-    },
-    {
-      "title": "Taspen Ikut Arahan Pemerintah soal Koperasi Jadi Penyalur Dana Pensiunan - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 14:55:59 GMT",
-      "link": "https://finance.detik.com/moneter/d-8709195/taspen-ikut-arahan-pemerintah-soal-koperasi-jadi-penyalur-dana-pensiunan"
     }
   ]
 }
