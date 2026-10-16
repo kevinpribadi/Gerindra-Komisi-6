@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T10:40:51.036906",
+  "generated_at": "2026-10-16T15:11:02.198902",
   "party_counts_7d": {
     "Gerindra": 19,
-    "PDI-P": 36,
-    "Golkar": 29,
-    "PKB": 14,
-    "PKS": 26,
+    "PDI-P": 37,
+    "Golkar": 28,
+    "PKB": 13,
+    "PKS": 27,
     "PAN": 2,
-    "Demokrat": 17
+    "Demokrat": 16
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 78,
-    "Golkar": 93,
+    "PDI-P": 79,
+    "Golkar": 92,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 61,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
+    "bumn": 50,
     "investasi": 40,
     "danantara": 33,
-    "umkm": 20,
-    "ekspor": 9,
-    "perdagangan": 18,
+    "umkm": 21,
+    "perdagangan": 20,
+    "ekspor": 8,
     "impor": 9,
-    "koperasi": 44,
+    "koperasi": 46,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 6
+    "kartel-monopoli": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,7 +52,7 @@
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
-    "Mufti Anam": 13,
+    "Mufti Anam": 14,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
@@ -62,7 +62,7 @@
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 13,
+    "Ahmad Labib": 12,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
@@ -85,117 +85,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 38,
+    "Koperasi/UMKM": 64,
+    "Perdagangan": 37,
     "Kinerja BUMN": 15,
     "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Danantara Ganti Dirut PLN, Menko Hilirisasi Sebut sebagai Aksi Korporasi Biasa - InfoPublik",
-      "entity": "Danantara",
+      "title": "Baja Indonesia Dihantam Tarif 50 Persen, Begini Antisipasi Kemendag? - Inilah.com",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 10:35:00 GMT",
-      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/993329/danantara-ganti-dirut-pln-menko-hilirisasi-sebut-sebagai-aksi-korporasi-biasa"
+      "published": "Fri, 16 Oct 2026 14:45:00 GMT",
+      "link": "https://www.inilah.com/baja-indonesia-dihantam-tarif-50-persen-begini-antisipasi-kemendag"
     },
     {
-      "title": "Amin Ak Desak Pembenahan Pasar Modal, Transparansi Jadi Kunci Jaga Kepercayaan Investor - sudut kota",
-      "entity": "Amin Ak.",
+      "title": "Kemenkop Klaim Transaksi Ekonomi Kopdes Tembus Rp 208,5 Miliar - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 13:47:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/16/204749126/kemenkop-klaim-transaksi-ekonomi-kopdes-tembus-rp-2085-miliar"
+    },
+    {
+      "title": "Nurdin Halid Dorong Kepastian Masa Jabatan DPRD di Tengah Perubahan Jadwal Pemilu - Bonepos.com",
+      "entity": "Nurdin Halid",
       "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 10:12:42 GMT",
-      "link": "https://sudutkota.id/amin-ak-desak-pembenahan-pasar-modal-transparansi-jadi-kunci-jaga-kepercayaan-investor/"
+      "published": "Fri, 16 Oct 2026 13:25:50 GMT",
+      "link": "https://www.bonepos.com/2026/10/16/nurdin-halid-dorong-kepastian-masa-jabatan-dprd-di-tengah-perubahan-jadwal-pemilu"
     },
     {
-      "title": "IHSG Anjlok, Danantara Buka Peluang Borong Saham di Bursa - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 10:06:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/16/170635526/ihsg-anjlok-danantara-buka-peluang-borong-saham-di-bursa"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Ungkap Kondisi Lapas di Bali Alami Kelebihan Kapasitas Parah - Bela Rakyat",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 09:53:57 GMT",
-      "link": "https://belarakyat.com/rieke-diah-pitaloka-ungkap-kondisi-lapas-di-bali-alami-kelebihan-kapasitas-parah/"
-    },
-    {
-      "title": "BP BUMN hingga Kementerian Investasi Bakal di Bawah Bahlil - SINDOnews Ekbis",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:53:25 GMT",
-      "link": "https://ekbis.sindonews.com/read/1761303/34/bp-bumn-hingga-kementerian-investasi-bakal-di-bawah-bahlil-1792141846"
-    },
-    {
-      "title": "BP BUMN hingga Kementerian Investasi Bakal di Bawah Bahlil - SINDOnews Ekbis",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:53:25 GMT",
-      "link": "https://ekbis.sindonews.com/read/1761303/34/bp-bumn-hingga-kementerian-investasi-bakal-di-bawah-bahlil-1792141846"
-    },
-    {
-      "title": "Bahlil ungkap BP BUMN dan Kemen-Investasi di bawah Kemenko Hilirisasi - ANTARA News Jambi",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:37:44 GMT",
-      "link": "https://jambi.antaranews.com/berita/670237/bahlil-ungkap-bp-bumn-dan-kemen-investasi-di-bawah-kemenko-hilirisasi"
-    },
-    {
-      "title": "Bahlil ungkap BP BUMN dan Kemen-Investasi di bawah Kemenko Hilirisasi - ANTARA News Jambi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:37:44 GMT",
-      "link": "https://jambi.antaranews.com/berita/670237/bahlil-ungkap-bp-bumn-dan-kemen-investasi-di-bawah-kemenko-hilirisasi"
-    },
-    {
-      "title": "Usut Dugaan Diskriminasi di Platform Otomotif Digital, KPPU Gelar Sidang Pakta Integritas - Kompas.com",
+      "title": "KPPU ingatkan pelaku usaha penuhi kewajiban pelaporan - ANTARA News",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:36:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/16/163654526/usut-dugaan-diskriminasi-di-platform-otomotif-digital-kppu-gelar-sidang-pakta"
+      "published": "Fri, 16 Oct 2026 12:55:38 GMT",
+      "link": "https://www.antaranews.com/berita/5791977/kppu-ingatkan-pelaku-usaha-penuhi-kewajiban-pelaporan"
     },
     {
-      "title": "Banyak Saham Murah Meriah, Danantara Siap-siap Masuk Bursa - Kompas.id",
+      "title": "IAS, Nurdin Halid, dan Taufan Pawe Jadi Andalan Golkar Sulsel di Pemilu 2029 - Sulselsatu",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 12:29:22 GMT",
+      "link": "https://www.sulselsatu.com/2026/10/16/politik/ias-nurdin-halid-dan-taufan-pawe-jadi-andalan-golkar-sulsel-di-pemilu-2029.html/amp"
+    },
+    {
+      "title": "78 dari 82 Perkara Merger dan Akuisisi Terkait Keterlambatan Notifikasi, KPPU Ingatkan Pelaku Usaha Penuhi Kewajiban Pelaporan - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 12:15:15 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/945311/78-dari-82-perkara-merger-dan-akuisisi-terkait-keterlambatan-notifikasi-kppu-ingatkan-pelaku-usaha-penuhi-kewajiban-pelaporan"
+    },
+    {
+      "title": "Danantara Salurkan Rp 1,7 Triliun untuk Filantropi - Tempo.co",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:33:58 GMT",
-      "link": "https://www.kompas.id/artikel/saham-ihsg-murah-danantara-siap-masuk-bursa?open_from=Terbaru_Page"
+      "published": "Fri, 16 Oct 2026 12:15:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-salurkan-rp-1-7-triliun-filantropi-2300669"
     },
     {
-      "title": "Gaji dan Tunjangan Manajer Kopdes Merah Putih Tembus Rp9,3 Juta - CNN Indonesia",
+      "title": "1.550 Manajer Kopdes Minta Offering Ulang, Kemenkop: Mereka Menyesal Menolak - detikFinance",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:32:47 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261016161431-92-1416236/gaji-dan-tunjangan-manajer-kopdes-merah-putih-tembus-rp93-juta"
+      "published": "Fri, 16 Oct 2026 12:00:42 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8710664/1-550-manajer-kopdes-minta-offering-ulang-kemenkop-mereka-menyesal-menolak"
     },
     {
-      "title": "Rosan: Koreksi saham jadi momentum Danantara investasi di pasar modal - ANTARA News",
-      "entity": "Danantara",
+      "title": "Koperasi Tak Cukup Bertahan, Metranet Dorong Layanan Lebih Modern Lewat KoperasiGO - indoposco.id",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:31:06 GMT",
-      "link": "https://www.antaranews.com/berita/5791393/rosan-koreksi-saham-jadi-momentum-danantara-investasi-di-pasar-modal"
+      "published": "Fri, 16 Oct 2026 11:35:57 GMT",
+      "link": "https://indoposco.id/2026/10/16/koperasi-tak-cukup-bertahan-metranet-dorong-layanan-lebih-modern-lewat-koperasigo/"
     },
     {
-      "title": "Bos Danantara Sebut Valuasi Emiten BUMN Rendah, Fundamental Tetap Kuat - InvestorTrust",
-      "entity": "Danantara",
+      "title": "Kemendag dan Barantin Teken Kerja Sama Perkuat Eksportir Hadapi Hambatan Nontarif - Kemendag.go.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
-      "link": "https://investortrust.id/market/119545/bos-danantara-sebut-valuasi-emiten-bumn-rendah-fundamental-tetap-kuat"
+      "published": "Fri, 16 Oct 2026 11:32:32 GMT",
+      "link": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dan-barantin-teken-kerja-sama-perkuat-eksportir-hadapi-hambatan-nontarif"
     },
     {
-      "title": "Manajer KDKMP tetap digaji meski koperasi belum beroperasi penuh - ANTARA News",
+      "title": "Kemenkop Pastikan Manajer Koperasi Desa Merah Putih Tetap Digaji hingga Rp9,3 Juta - Aktual.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:16:22 GMT",
-      "link": "https://www.antaranews.com/berita/5791325/manajer-kdkmp-tetap-digaji-meski-koperasi-belum-beroperasi-penuh"
+      "published": "Fri, 16 Oct 2026 11:17:44 GMT",
+      "link": "https://aktual.com/kemenkop-pastikan-manajer-koperasi-desa-merah-putih-tetap-digaji-hingga-rp93-juta/"
     },
     {
-      "title": "Penyusunan Perpres Hampir Final, Bahlil Sebut BP BUMN di Bawah Kemenko Hilirisasi - kontan.co.id",
-      "entity": "Kementerian BUMN",
+      "title": "Koperasi Merah Putih: 26.911 Calon Manajer Menunggu Kepastian Kerja - Kompas.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 09:07:58 GMT",
-      "link": "https://industri.kontan.co.id/news/penyusunan-perpres-hampir-final-bahlil-sebut-bp-bumn-di-bawah-kemenko-hilirisasi"
+      "published": "Fri, 16 Oct 2026 11:05:12 GMT",
+      "link": "https://www.kompas.id/artikel/penempatan-manajer-koperasi-merah-putih-masih-menyisakan-persoalan?open_from=Terbaru_Page"
+    },
+    {
+      "title": "Mufti Anam Desak Pertamina Ambil Langkah Konkret Atasi Kelangkaan BBM di Bali - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 11:03:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-desak-pertamina-ambil-langkah-konkret-atasi-kelangkaan-bbm-di-bali-b2qcNZbiEu"
+    },
+    {
+      "title": "Danantara Bidik Koreksi Saham Sebagai Momentum Investasi Jangka Panjang - investor.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 10:55:04 GMT",
+      "link": "https://investor.id/market/458306/danantara-bidik-koreksi-saham-sebagai-momentum-investasi-jangka-panjang"
+    },
+    {
+      "title": "Manajer KDKMP tetap digaji meski koperasi belum beroperasi penuh - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 10:52:04 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/429521/manajer-kdkmp-tetap-digaji-meski-koperasi-belum-beroperasi-penuh"
     }
   ]
 }
