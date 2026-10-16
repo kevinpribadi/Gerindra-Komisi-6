@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T15:11:02.198902",
+  "generated_at": "2026-10-16T19:17:04.238603",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 37,
-    "Golkar": 28,
+    "Golkar": 26,
     "PKB": 13,
-    "PKS": 27,
+    "PKS": 28,
     "PAN": 2,
     "Demokrat": 16
   },
@@ -16,7 +16,7 @@
     "Golkar": 92,
     "NasDem": 9,
     "PKB": 50,
-    "PKS": 61,
+    "PKS": 62,
     "PAN": 21,
     "Demokrat": 27
   },
@@ -37,12 +37,12 @@
     "investasi": 40,
     "danantara": 33,
     "umkm": 21,
-    "perdagangan": 20,
+    "perdagangan": 19,
     "ekspor": 8,
     "impor": 9,
     "koperasi": 46,
-    "merger-akuisisi": 4,
-    "kartel-monopoli": 4
+    "kartel-monopoli": 4,
+    "merger-akuisisi": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -77,7 +77,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 11,
-    "Ismail": 10,
+    "Ismail": 11,
     "Nasril Bahar": 6,
     "Iskandar": 15,
     "Sartono": 6,
@@ -86,18 +86,67 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 64,
-    "Perdagangan": 37,
+    "Perdagangan": 36,
     "Kinerja BUMN": 15,
     "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
+      "title": "Kemenkop Pastikan Gaji Koperasi Merah Putih Tetap Jalan Meski Belum Beroperasi - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 17:00:00 GMT",
+      "link": "https://afu.id/nasional/kemenkop-pastikan-gaji-koperasi-merah-putih-tetap-jalan-meski-belum-beroperasi"
+    },
+    {
+      "title": "KoperasiGO, Jurus Metranet Mendorong Koperasi Lebih Kompetitif di Era Digital - SWA.co.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 16:11:00 GMT",
+      "link": "https://swa.co.id/read/478541/koperasigo-jurus-metranet-mendorong-koperasi-lebih-kompetitif-di-era-digital"
+    },
+    {
+      "title": "KPPU ajak mahasiswa kawal persaingan usaha sehat di era digital - Antara News jatim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 15:45:00 GMT",
+      "link": "https://jatim.antaranews.com/berita/1107753/kppu-ajak-mahasiswa-kawal-persaingan-usaha-sehat-di-era-digital"
+    },
+    {
+      "title": "Manajer Koperasi Merah Putih Dapat Gaji Rp 6,8 Juta Sampai Rp 9,3 Juta - MerahPutih",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 15:39:08 GMT",
+      "link": "https://www.merahputih.com/post/read/manajer-koperasi-merah-putih-dapat-gaji-rp-6-8-juta-sampai-rp-9-3-juta"
+    },
+    {
+      "title": "KPPU Catat 78 Perkara Merger Akibat Keterlambatan Notifikasi - bsinews.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 15:35:29 GMT",
+      "link": "https://bsinews.id/kppu-perkara-merger-keterlambatan-notifikasi"
+    },
+    {
+      "title": "Kemendag: HPE dan HR Emas Periode II Oktober 2026 Kembali Turun - Olenka",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 15:24:37 GMT",
+      "link": "https://olenka.id/kemendag-hpe-dan-hr-emas-periode-ii-oktober-2026-kembali-turun"
+    },
+    {
       "title": "Baja Indonesia Dihantam Tarif 50 Persen, Begini Antisipasi Kemendag? - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Fri, 16 Oct 2026 14:45:00 GMT",
       "link": "https://www.inilah.com/baja-indonesia-dihantam-tarif-50-persen-begini-antisipasi-kemendag"
+    },
+    {
+      "title": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025 - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 14:04:35 GMT",
+      "link": "https://jogja.antaranews.com/berita/860617/kemenkop-2757-kdkmp-sudah-menjalankan-usaha-sejak-2025"
     },
     {
       "title": "Kemenkop Klaim Transaksi Ekonomi Kopdes Tembus Rp 208,5 Miliar - Kompas.com",
@@ -147,55 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 16 Oct 2026 12:00:42 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8710664/1-550-manajer-kopdes-minta-offering-ulang-kemenkop-mereka-menyesal-menolak"
-    },
-    {
-      "title": "Koperasi Tak Cukup Bertahan, Metranet Dorong Layanan Lebih Modern Lewat KoperasiGO - indoposco.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 11:35:57 GMT",
-      "link": "https://indoposco.id/2026/10/16/koperasi-tak-cukup-bertahan-metranet-dorong-layanan-lebih-modern-lewat-koperasigo/"
-    },
-    {
-      "title": "Kemendag dan Barantin Teken Kerja Sama Perkuat Eksportir Hadapi Hambatan Nontarif - Kemendag.go.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 11:32:32 GMT",
-      "link": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dan-barantin-teken-kerja-sama-perkuat-eksportir-hadapi-hambatan-nontarif"
-    },
-    {
-      "title": "Kemenkop Pastikan Manajer Koperasi Desa Merah Putih Tetap Digaji hingga Rp9,3 Juta - Aktual.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 11:17:44 GMT",
-      "link": "https://aktual.com/kemenkop-pastikan-manajer-koperasi-desa-merah-putih-tetap-digaji-hingga-rp93-juta/"
-    },
-    {
-      "title": "Koperasi Merah Putih: 26.911 Calon Manajer Menunggu Kepastian Kerja - Kompas.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 11:05:12 GMT",
-      "link": "https://www.kompas.id/artikel/penempatan-manajer-koperasi-merah-putih-masih-menyisakan-persoalan?open_from=Terbaru_Page"
-    },
-    {
-      "title": "Mufti Anam Desak Pertamina Ambil Langkah Konkret Atasi Kelangkaan BBM di Bali - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 11:03:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-desak-pertamina-ambil-langkah-konkret-atasi-kelangkaan-bbm-di-bali-b2qcNZbiEu"
-    },
-    {
-      "title": "Danantara Bidik Koreksi Saham Sebagai Momentum Investasi Jangka Panjang - investor.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 10:55:04 GMT",
-      "link": "https://investor.id/market/458306/danantara-bidik-koreksi-saham-sebagai-momentum-investasi-jangka-panjang"
-    },
-    {
-      "title": "Manajer KDKMP tetap digaji meski koperasi belum beroperasi penuh - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 10:52:04 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/429521/manajer-kdkmp-tetap-digaji-meski-koperasi-belum-beroperasi-penuh"
     }
   ]
 }
