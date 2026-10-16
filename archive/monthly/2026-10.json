@@ -1,27 +1,27 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T05:25:40.097857",
+  "generated_at": "2026-10-16T10:40:51.036906",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 19,
     "PDI-P": 36,
     "Golkar": 29,
-    "PKB": 17,
-    "PKS": 23,
+    "PKB": 14,
+    "PKS": 26,
     "PAN": 2,
     "Demokrat": 17
   },
   "party_counts_30d": {
-    "Gerindra": 47,
+    "Gerindra": 44,
     "PDI-P": 78,
     "Golkar": 93,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 61,
-    "PAN": 22,
+    "PAN": 21,
     "Demokrat": 27
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 16,
+    "Kementerian BUMN": 20,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,22 +33,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 34,
-    "bumn": 49,
-    "umkm": 22,
-    "ekspor": 8,
-    "perdagangan": 16,
-    "investasi": 33,
-    "koperasi": 43,
-    "merger-akuisisi": 7,
-    "kartel-monopoli": 7,
-    "impor": 9
+    "bumn": 51,
+    "investasi": 40,
+    "danantara": 33,
+    "umkm": 20,
+    "ekspor": 9,
+    "perdagangan": 18,
+    "impor": 9,
+    "koperasi": 44,
+    "merger-akuisisi": 4,
+    "kartel-monopoli": 6
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 8,
+    "Kawendra Lukistian": 5,
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
@@ -62,11 +62,11 @@
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 14,
+    "Ahmad Labib": 13,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 14,
+    "Rizki Faisal": 15,
     "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
@@ -78,124 +78,124 @@
     "Rizal Bawazier": 20,
     "Ghufran": 11,
     "Ismail": 10,
-    "Nasril Bahar": 7,
+    "Nasril Bahar": 6,
     "Iskandar": 15,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 37,
-    "Kinerja BUMN": 16,
-    "Hukum/Audit": 17,
+    "Koperasi/UMKM": 61,
+    "Perdagangan": 38,
+    "Kinerja BUMN": 15,
+    "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "BP BUMN Kunjungi Kopdeskel Merah Putih Cakung Timur – Berita – Informasi – Investigasi Hukum Online - www.radaronline.id",
+      "title": "Danantara Ganti Dirut PLN, Menko Hilirisasi Sebut sebagai Aksi Korporasi Biasa - InfoPublik",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 10:35:00 GMT",
+      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/993329/danantara-ganti-dirut-pln-menko-hilirisasi-sebut-sebagai-aksi-korporasi-biasa"
+    },
+    {
+      "title": "Amin Ak Desak Pembenahan Pasar Modal, Transparansi Jadi Kunci Jaga Kepercayaan Investor - sudut kota",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 10:12:42 GMT",
+      "link": "https://sudutkota.id/amin-ak-desak-pembenahan-pasar-modal-transparansi-jadi-kunci-jaga-kepercayaan-investor/"
+    },
+    {
+      "title": "IHSG Anjlok, Danantara Buka Peluang Borong Saham di Bursa - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 10:06:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/16/170635526/ihsg-anjlok-danantara-buka-peluang-borong-saham-di-bursa"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Ungkap Kondisi Lapas di Bali Alami Kelebihan Kapasitas Parah - Bela Rakyat",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 09:53:57 GMT",
+      "link": "https://belarakyat.com/rieke-diah-pitaloka-ungkap-kondisi-lapas-di-bali-alami-kelebihan-kapasitas-parah/"
+    },
+    {
+      "title": "BP BUMN hingga Kementerian Investasi Bakal di Bawah Bahlil - SINDOnews Ekbis",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 09:53:25 GMT",
+      "link": "https://ekbis.sindonews.com/read/1761303/34/bp-bumn-hingga-kementerian-investasi-bakal-di-bawah-bahlil-1792141846"
+    },
+    {
+      "title": "BP BUMN hingga Kementerian Investasi Bakal di Bawah Bahlil - SINDOnews Ekbis",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 04:11:33 GMT",
-      "link": "https://www.radaronline.id/2026/10/16/bp-bumn-kunjungi-kopdeskel-merah-putih-cakung-timur/"
+      "published": "Fri, 16 Oct 2026 09:53:25 GMT",
+      "link": "https://ekbis.sindonews.com/read/1761303/34/bp-bumn-hingga-kementerian-investasi-bakal-di-bawah-bahlil-1792141846"
     },
     {
-      "title": "Penjelasan DPR Soal Dasar Hukum Penggajian ASN Via Koperasi - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
+      "title": "Bahlil ungkap BP BUMN dan Kemen-Investasi di bawah Kemenko Hilirisasi - ANTARA News Jambi",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 03:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/124797/penjelasan-dpr-soal-dasar-hukum-penggajian-asn-via-koperasi"
+      "published": "Fri, 16 Oct 2026 09:37:44 GMT",
+      "link": "https://jambi.antaranews.com/berita/670237/bahlil-ungkap-bp-bumn-dan-kemen-investasi-di-bawah-kemenko-hilirisasi"
     },
     {
-      "title": "Mendag Dorong Penciptaan Pasar Modest Fashion Baru - TVRI News",
-      "entity": "Kementerian Perdagangan",
+      "title": "Bahlil ungkap BP BUMN dan Kemen-Investasi di bawah Kemenko Hilirisasi - ANTARA News Jambi",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 03:41:04 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/tktrn00-mendag-dorong-penciptaan-pasar-modest-fashion-baru"
+      "published": "Fri, 16 Oct 2026 09:37:44 GMT",
+      "link": "https://jambi.antaranews.com/berita/670237/bahlil-ungkap-bp-bumn-dan-kemen-investasi-di-bawah-kemenko-hilirisasi"
     },
     {
-      "title": "Koperasi Merah Putih Disiapkan Jadi Mitra Bulog Serap Beras Petani - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 03:01:29 GMT",
-      "link": "https://www.metrotvnews.com/play/kELCy6qA-koperasi-merah-putih-disiapkan-jadi-mitra-bulog-serap-beras-petani"
-    },
-    {
-      "title": "BRI Perkuat Akses Keuangan Koperasi Merah Putih melalui BRILink Agen - SWA.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 03:00:00 GMT",
-      "link": "https://swa.co.id/read/478509/bri-perkuat-akses-keuangan-koperasi-merah-putih-melalui-brilink-agen"
-    },
-    {
-      "title": "Yangon - Portal Kemlu",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 01:39:09 GMT",
-      "link": "https://kemlu.go.id/id/yangon/berita/kbri-yangon-fasilitasi-pertemuan-wakil-menteri-perdagangan-ri-dan-myanmar-perkuat-peluang-kerja-sama-perdagangan-bilateral?type=publication"
-    },
-    {
-      "title": "Kemendag dan BPJPH teken kerja sama pembinaan produk halal - ANTARA News Sulteng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 00:59:28 GMT",
-      "link": "https://sulteng.antaranews.com/berita/396497/kemendag-dan-bpjph-teken-kerja-sama-pembinaan-produk-halal"
-    },
-    {
-      "title": "Dugaan Persekongkolan Tender Geomembrane Tidak Terbukti, KPPU Putus Bebas PHR dan Mitranya - pena rakyat news",
+      "title": "Usut Dugaan Diskriminasi di Platform Otomotif Digital, KPPU Gelar Sidang Pakta Integritas - Kompas.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 00:36:35 GMT",
-      "link": "https://penarakyatnews.id/2026/10/16/dugaan-persekongkolan-tender-geomembrane-tidak-terbukti-kppu-putus-bebas-phr-dan-mitranya/"
+      "published": "Fri, 16 Oct 2026 09:36:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/16/163654526/usut-dugaan-diskriminasi-di-platform-otomotif-digital-kppu-gelar-sidang-pakta"
     },
     {
-      "title": "Membangun Indonesia dari Desa, BRI Perkuat Fondasi Ekonomi Kerakyatan melalui Koperasi Desa/Kelurahan Merah Putih - InvestorTrust",
+      "title": "Banyak Saham Murah Meriah, Danantara Siap-siap Masuk Bursa - Kompas.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 09:33:58 GMT",
+      "link": "https://www.kompas.id/artikel/saham-ihsg-murah-danantara-siap-masuk-bursa?open_from=Terbaru_Page"
+    },
+    {
+      "title": "Gaji dan Tunjangan Manajer Kopdes Merah Putih Tembus Rp9,3 Juta - CNN Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 00:13:00 GMT",
-      "link": "https://investortrust.id/financial/119464/membangun-indonesia-dari-desa-bri-perkuat-fondasi-ekonomi-kerakyatan-melalui-koperasi-desakelurahan-merah-putih"
+      "published": "Fri, 16 Oct 2026 09:32:47 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261016161431-92-1416236/gaji-dan-tunjangan-manajer-kopdes-merah-putih-tembus-rp93-juta"
     },
     {
-      "title": "966 KDKMP Jual LPG 3 Kg, BP BUMN Turun Langsung Pastikan Layanan Masyarakat - Waspada.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Rosan: Koreksi saham jadi momentum Danantara investasi di pasar modal - ANTARA News",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 00:03:53 GMT",
-      "link": "https://www.waspada.id/berita/966-kdkmp-jual-lpg-3-kg-bp-bumn-turun-langsung-pastikan-layanan-masyarakat"
+      "published": "Fri, 16 Oct 2026 09:31:06 GMT",
+      "link": "https://www.antaranews.com/berita/5791393/rosan-koreksi-saham-jadi-momentum-danantara-investasi-di-pasar-modal"
     },
     {
-      "title": "Kemendag-Astra Kolaborasi Perluas Peluang Ekspor UMKM - Pasardana",
-      "entity": "Kementerian Perdagangan",
+      "title": "Bos Danantara Sebut Valuasi Emiten BUMN Rendah, Fundamental Tetap Kuat - InvestorTrust",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 23:55:00 GMT",
-      "link": "https://pasardana.id/news/2026/10/16/kemendag-astra-kolaborasi-perluas-peluang-ekspor-umkm"
+      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
+      "link": "https://investortrust.id/market/119545/bos-danantara-sebut-valuasi-emiten-bumn-rendah-fundamental-tetap-kuat"
     },
     {
-      "title": "Kemenkop Ajukan Pembayaran Gaji ASN Lewat Kopdes Merah Putih - bsinews.id",
+      "title": "Manajer KDKMP tetap digaji meski koperasi belum beroperasi penuh - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 23:50:00 GMT",
-      "link": "https://bsinews.id/pembayaran-gaji-asn-kopdes-merah-putih"
+      "published": "Fri, 16 Oct 2026 09:16:22 GMT",
+      "link": "https://www.antaranews.com/berita/5791325/manajer-kdkmp-tetap-digaji-meski-koperasi-belum-beroperasi-penuh"
     },
     {
-      "title": "Kementerian Koperasi Buka Opsi Penyaluran Gaji PNS Lewat KDKMP - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Penyusunan Perpres Hampir Final, Bahlil Sebut BP BUMN di Bawah Kemenko Hilirisasi - kontan.co.id",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 22:36:00 GMT",
-      "link": "https://demokratis.co.id/kementerian-koperasi-gaji-pns-kdkmp"
-    },
-    {
-      "title": "Ada Isu Gaji ASN Disalurkan Lewat KDMP, Kementerian Koperasi: PNS Daerah Bisa Memilih - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 22:30:29 GMT",
-      "link": "https://keuangan.kontan.co.id/news/ada-isu-gaji-asn-disalurkan-lewat-kdmp-kementerian-koperasi-pns-daerah-bisa-memilih"
-    },
-    {
-      "title": "BPKN-Disperindag Sumbar perkuat peran lembaga perlindungan konsumen - ANTARA News Sumbar",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 20:58:15 GMT",
-      "link": "https://sumbar.antaranews.com/berita/783265/bpkn-disperindag-sumbar-perkuat-peran-lembaga-perlindungan-konsumen"
+      "published": "Fri, 16 Oct 2026 09:07:58 GMT",
+      "link": "https://industri.kontan.co.id/news/penyusunan-perpres-hampir-final-bahlil-sebut-bp-bumn-di-bawah-kemenko-hilirisasi"
     }
   ]
 }
