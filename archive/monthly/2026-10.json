@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T00:04:17.259510",
+  "generated_at": "2026-10-16T05:25:40.097857",
   "party_counts_7d": {
-    "Gerindra": 21,
-    "PDI-P": 35,
+    "Gerindra": 20,
+    "PDI-P": 36,
     "Golkar": 29,
     "PKB": 17,
-    "PKS": 22,
+    "PKS": 23,
     "PAN": 2,
     "Demokrat": 17
   },
   "party_counts_30d": {
     "Gerindra": 47,
     "PDI-P": 78,
-    "Golkar": 94,
+    "Golkar": 93,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 61,
@@ -21,7 +21,7 @@
     "Demokrat": 27
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 17,
+    "Kementerian BUMN": 16,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -33,16 +33,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 35,
+    "danantara": 34,
     "bumn": 49,
     "umkm": 22,
-    "ekspor": 9,
-    "perdagangan": 18,
-    "investasi": 31,
-    "impor": 10,
-    "koperasi": 42,
-    "merger-akuisisi": 9,
-    "kartel-monopoli": 7
+    "ekspor": 8,
+    "perdagangan": 16,
+    "investasi": 33,
+    "koperasi": 43,
+    "merger-akuisisi": 7,
+    "kartel-monopoli": 7,
+    "impor": 9
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -53,11 +53,11 @@
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 15,
     "Mufti Anam": 13,
-    "Darmadi Durianto": 9,
+    "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 6,
     "Sadarestuwati": 1,
-    "Ida Nurlaela": 6,
+    "Ida Nurlaela": 5,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
@@ -67,7 +67,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 17,
+    "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
     "Anggia Erma Rini": 5,
@@ -76,8 +76,8 @@
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
-    "Ghufran": 12,
-    "Ismail": 9,
+    "Ghufran": 11,
+    "Ismail": 10,
     "Nasril Bahar": 7,
     "Iskandar": 15,
     "Sartono": 6,
@@ -85,19 +85,103 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 61,
-    "Perdagangan": 40,
+    "Koperasi/UMKM": 63,
+    "Perdagangan": 37,
     "Kinerja BUMN": 16,
-    "Hukum/Audit": 16,
+    "Hukum/Audit": 17,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN Kunjungi Kopdeskel Merah Putih Cakung Timur – Berita – Informasi – Investigasi Hukum Online - www.radaronline.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 04:11:33 GMT",
+      "link": "https://www.radaronline.id/2026/10/16/bp-bumn-kunjungi-kopdeskel-merah-putih-cakung-timur/"
+    },
+    {
+      "title": "Penjelasan DPR Soal Dasar Hukum Penggajian ASN Via Koperasi - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 03:50:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/124797/penjelasan-dpr-soal-dasar-hukum-penggajian-asn-via-koperasi"
+    },
+    {
+      "title": "Mendag Dorong Penciptaan Pasar Modest Fashion Baru - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 03:41:04 GMT",
+      "link": "https://ekonomi.tvrinews.com/berita/tktrn00-mendag-dorong-penciptaan-pasar-modest-fashion-baru"
+    },
+    {
+      "title": "Koperasi Merah Putih Disiapkan Jadi Mitra Bulog Serap Beras Petani - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 03:01:29 GMT",
+      "link": "https://www.metrotvnews.com/play/kELCy6qA-koperasi-merah-putih-disiapkan-jadi-mitra-bulog-serap-beras-petani"
+    },
+    {
+      "title": "BRI Perkuat Akses Keuangan Koperasi Merah Putih melalui BRILink Agen - SWA.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 03:00:00 GMT",
+      "link": "https://swa.co.id/read/478509/bri-perkuat-akses-keuangan-koperasi-merah-putih-melalui-brilink-agen"
+    },
+    {
+      "title": "Yangon - Portal Kemlu",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 01:39:09 GMT",
+      "link": "https://kemlu.go.id/id/yangon/berita/kbri-yangon-fasilitasi-pertemuan-wakil-menteri-perdagangan-ri-dan-myanmar-perkuat-peluang-kerja-sama-perdagangan-bilateral?type=publication"
+    },
+    {
+      "title": "Kemendag dan BPJPH teken kerja sama pembinaan produk halal - ANTARA News Sulteng",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 00:59:28 GMT",
+      "link": "https://sulteng.antaranews.com/berita/396497/kemendag-dan-bpjph-teken-kerja-sama-pembinaan-produk-halal"
+    },
+    {
+      "title": "Dugaan Persekongkolan Tender Geomembrane Tidak Terbukti, KPPU Putus Bebas PHR dan Mitranya - pena rakyat news",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 00:36:35 GMT",
+      "link": "https://penarakyatnews.id/2026/10/16/dugaan-persekongkolan-tender-geomembrane-tidak-terbukti-kppu-putus-bebas-phr-dan-mitranya/"
+    },
+    {
+      "title": "Membangun Indonesia dari Desa, BRI Perkuat Fondasi Ekonomi Kerakyatan melalui Koperasi Desa/Kelurahan Merah Putih - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 00:13:00 GMT",
+      "link": "https://investortrust.id/financial/119464/membangun-indonesia-dari-desa-bri-perkuat-fondasi-ekonomi-kerakyatan-melalui-koperasi-desakelurahan-merah-putih"
+    },
+    {
+      "title": "966 KDKMP Jual LPG 3 Kg, BP BUMN Turun Langsung Pastikan Layanan Masyarakat - Waspada.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 00:03:53 GMT",
+      "link": "https://www.waspada.id/berita/966-kdkmp-jual-lpg-3-kg-bp-bumn-turun-langsung-pastikan-layanan-masyarakat"
+    },
+    {
+      "title": "Kemendag-Astra Kolaborasi Perluas Peluang Ekspor UMKM - Pasardana",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 23:55:00 GMT",
+      "link": "https://pasardana.id/news/2026/10/16/kemendag-astra-kolaborasi-perluas-peluang-ekspor-umkm"
+    },
     {
       "title": "Kemenkop Ajukan Pembayaran Gaji ASN Lewat Kopdes Merah Putih - bsinews.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Thu, 15 Oct 2026 23:50:00 GMT",
       "link": "https://bsinews.id/pembayaran-gaji-asn-kopdes-merah-putih"
+    },
+    {
+      "title": "Kementerian Koperasi Buka Opsi Penyaluran Gaji PNS Lewat KDKMP - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 15 Oct 2026 22:36:00 GMT",
+      "link": "https://demokratis.co.id/kementerian-koperasi-gaji-pns-kdkmp"
     },
     {
       "title": "Ada Isu Gaji ASN Disalurkan Lewat KDMP, Kementerian Koperasi: PNS Daerah Bisa Memilih - kontan.co.id",
@@ -112,90 +196,6 @@
       "kind": "lembaga",
       "published": "Thu, 15 Oct 2026 20:58:15 GMT",
       "link": "https://sumbar.antaranews.com/berita/783265/bpkn-disperindag-sumbar-perkuat-peran-lembaga-perlindungan-konsumen"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 17:20:20 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261016/Mjc0NDQ0"
-    },
-    {
-      "title": "Kemenkop: 83 Ribu KDKMP Sudah Berbadan Hukum, Tersebar di 28 Ribu Titik - Iconomics",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 16:59:14 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/kemenkop-83-ribu-kdkmp-sudah-berbadan-hukum-tersebar-di-28-ribu-titik/"
-    },
-    {
-      "title": "Mendag Sebut Belum Ada Laporan Gangguan Distribusi dan Lonjakan Harga di Daerah Karhutla - Pontianak Post",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 16:52:19 GMT",
-      "link": "https://pontianakpost.jawapos.com/ekonomi/2610150099/mendag-sebut-belum-ada-laporan-gangguan-distribusi-dan-lonjakan-harga-di-daerah-karhutla"
-    },
-    {
-      "title": "Kemendag dan Nestlé Perkuat Ekspor Produk Indonesia ke Australia - www.suaralandak.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:51:22 GMT",
-      "link": "https://www.suaralandak.co.id/kemendag-nestle-perkuat-ekspor-indonesia"
-    },
-    {
-      "title": "Dari Restoran hingga Distribusi Sembako, Ini Peluang Bisnis BUMD Sabang - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:51:00 GMT",
-      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2815577/dari-restoran-hingga-distribusi-sembako-ini-peluang-bisnis-bumd-sabang"
-    },
-    {
-      "title": "Sabang Punya Peluang, BUMD Perlu Segera Diberdayakan - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:51:00 GMT",
-      "link": "https://rri.co.id/sabang/info-pemda/2815638/sabang-punya-peluang-bumd-perlu-segera-diberdayakan"
-    },
-    {
-      "title": "ANTARA News Sumatera Barat - Berita Terkini Padang, Sumatera Barat - ANTARA News Sumbar",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:47:00 GMT",
-      "link": "https://sumbar.antaranews.com/video/5789961/bpkn-mendorong-penguatan-peran-lembaga-perlindungan-konsumen-daerah"
-    },
-    {
-      "title": "BPKN mendorong penguatan peran lembaga perlindungan konsumen daerah - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:47:00 GMT",
-      "link": "https://www.antaranews.com/berita/5789961/bpkn-mendorong-penguatan-peran-lembaga-perlindungan-konsumen-daerah"
-    },
-    {
-      "title": "Koperasi Merah Putih Beroperasi, Pemerintah Optimistis Pangkas Rantai Distribusi - Media Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:32:22 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/944967/koperasi-merah-putih-beroperasi-pemerintah-optimistis-pangkas-rantai-distribusi"
-    },
-    {
-      "title": "Kemendag dan HIPPINDO Fasilitasi 4.100 Barcode untuk Dongkrak UMKM ke Ritel Modern dan Ekspor - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:30:00 GMT",
-      "link": "https://swa.co.id/read/478502/kemendag-dan-hippindo-fasilitasi-4100-barcode-untuk-dongkrak-umkm-ke-ritel-modern-dan-ekspor"
-    },
-    {
-      "title": "Wamen: KDMP diharapkan jadi penggerak ekonomi masyarakat desa - ANTARA News Jateng",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 15 Oct 2026 15:26:56 GMT",
-      "link": "https://jateng.antaranews.com/berita/648685/wamen-kdmp-diharapkan-jadi-penggerak-ekonomi-masyarakat-desa"
-    },
-    {
-      "title": "DPR Soroti Kelangkaan BBM di Bali, Pertamina Diminta Evaluasi Sistem Distribusi - Media Indonesia",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Thu, 15 Oct 2026 15:16:33 GMT",
-      "link": "https://mediaindonesia.com/politik-dan-hukum/944959/dpr-soroti-kelangkaan-bbm-di-bali-pertamina-diminta-evaluasi-sistem-distribusi"
     }
   ]
 }
