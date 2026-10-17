@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T20:05:50.386967",
+  "generated_at": "2026-10-17T22:52:45.454298",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 39,
+    "PDI-P": 40,
     "Golkar": 19,
     "PKB": 11,
     "PKS": 34,
@@ -12,7 +12,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 45,
-    "PDI-P": 78,
+    "PDI-P": 79,
     "Golkar": 92,
     "NasDem": 8,
     "PKB": 50,
@@ -37,8 +37,8 @@
     "investasi": 44,
     "danantara": 29,
     "umkm": 17,
-    "perdagangan": 15,
     "ekspor": 11,
+    "perdagangan": 15,
     "koperasi": 44,
     "merger-akuisisi": 12,
     "kartel-monopoli": 4,
@@ -55,7 +55,7 @@
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
-    "Sadarestuwati": 2,
+    "Sadarestuwati": 3,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 6,
@@ -106,11 +106,25 @@
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261018/MTEyNg%3D%3D"
     },
     {
+      "title": "Kementerian Perdagangan Klaim Selamatkan Potensi Ekspor Rp8 Triliun dari 60 Kasus Hambatan Perdagangan - VOI.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 18:10:00 GMT",
+      "link": "https://voi.id/ekonomi/598871/kementerian-perdagangan-klaim-selamatkan-potensi-ekspor-rp8-triliun-dari-60-kasus-hambatan-perdagangan"
+    },
+    {
       "title": "Menkop Ferry gandeng keraton Nusantara, koperasi disiapkan jadi penggerak ekonomi budaya - Elshinta",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sat, 17 Oct 2026 17:56:36 GMT",
       "link": "https://elshinta.com/indeks/dalam-negeri/menkop-ferry-gandeng-keraton-nusantara-koperasi-disiapkan-jadi-penggerak-ekonomi-budaya-181450"
+    },
+    {
+      "title": "Sadarestuwati: Alokasi Pupuk Subsidi dan Kesehatan Tanah Semakin Memprihatinkan - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Sat, 17 Oct 2026 15:32:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sadarestuwati-alokasi-pupuk-subsidi-dan-kesehatan-tanah-semakin-memprihatinkan-b2qcOZbiGE"
     },
     {
       "title": "Ketua Komisi E DPRD Jatim Nilai Koperasi Merah Putih Belum Siap Salurkan Gaji ASN - Lentera.co",
@@ -181,20 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 17 Oct 2026 13:00:00 GMT",
       "link": "https://swa.co.id/read/478567/kemendag-perkuat-diplomasi-jaga-akses-ekspor-baja-ke-ue-dan-inggris"
-    },
-    {
-      "title": "Ketua BPKN RI: Kelangkaan BBM Tak Boleh Bebani Konsumen, Pemerintah Harus Pastikan Distribusi Lancar - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 12:58:00 GMT",
-      "link": "https://www.mediakarya.id/ketua-bpkn-ri-kelangkaan-bbm-tak-boleh-bebani-konsumen-pemerintah-harus-pastikan-distribusi-lancar/"
-    },
-    {
-      "title": "Sri Untari: Gaji ASN Lewat Koperasi Merah Putih Bisa Timbulkan Kegaduhan - DPD PDI Perjuangan Jawa Timur",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 12:28:00 GMT",
-      "link": "https://pdiperjuangan-jatim.com/sri-untari-gaji-asn-lewat-koperasi-merah-putih-bisa-timbulkan-kegaduhan/"
     }
   ]
 }
