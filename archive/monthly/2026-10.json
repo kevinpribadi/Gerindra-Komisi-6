@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T17:45:47.293409",
+  "generated_at": "2026-10-17T20:05:50.386967",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 38,
-    "Golkar": 20,
+    "PDI-P": 39,
+    "Golkar": 19,
     "PKB": 11,
     "PKS": 34,
     "PAN": 2,
@@ -12,7 +12,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 45,
-    "PDI-P": 77,
+    "PDI-P": 78,
     "Golkar": 92,
     "NasDem": 8,
     "PKB": 50,
@@ -34,13 +34,13 @@
   },
   "topic_counts_30d": {
     "bumn": 49,
-    "investasi": 42,
+    "investasi": 44,
     "danantara": 29,
-    "umkm": 18,
-    "perdagangan": 16,
+    "umkm": 17,
+    "perdagangan": 15,
     "ekspor": 11,
-    "koperasi": 43,
-    "merger-akuisisi": 11,
+    "koperasi": 44,
+    "merger-akuisisi": 12,
     "kartel-monopoli": 4,
     "impor": 8
   },
@@ -52,7 +52,7 @@
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 13,
-    "Darmadi Durianto": 10,
+    "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 2,
@@ -85,12 +85,33 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 60,
-    "Perdagangan": 36,
+    "Perdagangan": 37,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 18:59:21 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261018/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 18:15:32 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261018/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Menkop Ferry gandeng keraton Nusantara, koperasi disiapkan jadi penggerak ekonomi budaya - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 17:56:36 GMT",
+      "link": "https://elshinta.com/indeks/dalam-negeri/menkop-ferry-gandeng-keraton-nusantara-koperasi-disiapkan-jadi-penggerak-ekonomi-budaya-181450"
+    },
     {
       "title": "Ketua Komisi E DPRD Jatim Nilai Koperasi Merah Putih Belum Siap Salurkan Gaji ASN - Lentera.co",
       "entity": "Dekopin",
@@ -155,6 +176,13 @@
       "link": "https://indoposco.id/2026/10/17/danantara-siapkan-rp179-triliun-untuk-program-sosial-ammi-beri-apresiasi/"
     },
     {
+      "title": "Kemendag Perkuat Diplomasi, Jaga Akses Ekspor Baja ke UE dan Inggris - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
+      "link": "https://swa.co.id/read/478567/kemendag-perkuat-diplomasi-jaga-akses-ekspor-baja-ke-ue-dan-inggris"
+    },
+    {
       "title": "Ketua BPKN RI: Kelangkaan BBM Tak Boleh Bebani Konsumen, Pemerintah Harus Pastikan Distribusi Lancar - Mediakarya.id",
       "entity": "BPKN",
       "kind": "lembaga",
@@ -167,34 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 17 Oct 2026 12:28:00 GMT",
       "link": "https://pdiperjuangan-jatim.com/sri-untari-gaji-asn-lewat-koperasi-merah-putih-bisa-timbulkan-kegaduhan/"
-    },
-    {
-      "title": "Sri Untari: Gaji ASN Lewat Koperasi Merah Putih Bisa Timbulkan Kegaduhan - DPD PDI Perjuangan Jawa Timur",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 12:28:00 GMT",
-      "link": "https://pdiperjuangan-jatim.com/sri-untari-gaji-asn-lewat-koperasi-merah-putih-bisa-timbulkan-kegaduhan/"
-    },
-    {
-      "title": "Koperasi Bisa Jadi Wadah Usaha Keraton, Kemenkop Dorong Konversi Budaya Jadi Ekonomi - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 10:38:00 GMT",
-      "link": "https://www.inilah.com/koperasi-bisa-jadi-wadah-usaha-keraton-kemenkop-dorong-konversi-budaya-jadi-ekonomi"
-    },
-    {
-      "title": "Indonesia Jajaki Investasi Pengolahan Singkong di Mozambik, Perkuat Perdagangan Bilateral - VOI.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "link": "https://voi.id/ekonomi/598817/indonesia-jajaki-investasi-pengolahan-singkong-di-mozambik-perkuat-perdagangan-bilateral"
-    },
-    {
-      "title": "Kemendag Genjot Ekspor Nonmigas & Pangkas Defisit Dagang dengan China - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 09:57:47 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8711628/kemendag-genjot-ekspor-nonmigas-pangkas-defisit-dagang-dengan-china"
     }
   ]
 }
