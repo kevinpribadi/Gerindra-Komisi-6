@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-16T22:30:02.539683",
+  "generated_at": "2026-10-17T01:02:02.832808",
   "party_counts_7d": {
-    "Gerindra": 19,
+    "Gerindra": 18,
     "PDI-P": 38,
     "Golkar": 26,
     "PKB": 13,
-    "PKS": 30,
+    "PKS": 31,
     "PAN": 2,
     "Demokrat": 16
   },
@@ -34,11 +34,11 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 41,
+    "investasi": 40,
     "danantara": 32,
     "umkm": 20,
-    "perdagangan": 19,
     "ekspor": 8,
+    "perdagangan": 17,
     "impor": 9,
     "koperasi": 46,
     "kartel-monopoli": 4,
@@ -92,6 +92,41 @@
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Bahlil Bocorkan BP BUMN Berpotensi di Bawah Kemenko Hilirisasi - kontan.co.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 00:45:25 GMT",
+      "link": "https://nasional.kontan.co.id/news/bahlil-bocorkan-bp-bumn-berpotensi-di-bawah-kemenko-hilirisasi"
+    },
+    {
+      "title": "Hadapi Tantangan Ekonomi Global, Kemendag Harus Dipimpin Profesional - Rmol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 23:43:00 GMT",
+      "link": "https://rmol.id/politik/read/2026/10/17/725266/hadapi-tantangan-ekonomi-global-kemendag-harus-dipimpin-profesional"
+    },
+    {
+      "title": "Kemendag Targetkan 4 Juta UMKM Siap Ekspor Lewat Program Campuspreneur - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 23:43:00 GMT",
+      "link": "https://www.industry.co.id/read/157516/kemendag-targetkan-4-juta-umkm-siap-ekspor-lewat-program-campuspreneur"
+    },
+    {
+      "title": "Gaji Manajer Kopdes Merah Putih Rp6,8-9,3 Juta, Dibayar Mulai Oktober - RiauAktual.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 16 Oct 2026 23:35:00 GMT",
+      "link": "https://riauaktual.com/news/detail/123261/gaji-manajer-kopdes-merah-putih-rp68-93-juta-dibayar-mulai-oktober"
+    },
+    {
+      "title": "Ancaman Standalone Market MSCI, DPR Minta Regulator Pasar Modal Berbenah - JPNN.com",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
+      "link": "https://www.jpnn.com/news/ancaman-standalone-market-msci-dpr-minta-regulator-pasar-modal-berbenah"
+    },
     {
       "title": "Ancaman Standalone Market MSCI, DPR Minta Regulator Pasar Modal Berbenah - JPNN.com",
       "entity": "Amin Ak.",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 16 Oct 2026 13:47:00 GMT",
       "link": "https://money.kompas.com/read/2026/10/16/204749126/kemenkop-klaim-transaksi-ekonomi-kopdes-tembus-rp-2085-miliar"
-    },
-    {
-      "title": "Nurdin Halid Dorong Kepastian Masa Jabatan DPRD di Tengah Perubahan Jadwal Pemilu - Bonepos.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 13:25:50 GMT",
-      "link": "https://www.bonepos.com/2026/10/16/nurdin-halid-dorong-kepastian-masa-jabatan-dprd-di-tengah-perubahan-jadwal-pemilu"
-    },
-    {
-      "title": "KPPU ingatkan pelaku usaha penuhi kewajiban pelaporan - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 12:55:38 GMT",
-      "link": "https://www.antaranews.com/berita/5791977/kppu-ingatkan-pelaku-usaha-penuhi-kewajiban-pelaporan"
-    },
-    {
-      "title": "IAS, Nurdin Halid, dan Taufan Pawe Jadi Andalan Golkar Sulsel di Pemilu 2029 - Sulselsatu",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 12:29:22 GMT",
-      "link": "https://www.sulselsatu.com/2026/10/16/politik/ias-nurdin-halid-dan-taufan-pawe-jadi-andalan-golkar-sulsel-di-pemilu-2029.html/amp"
-    },
-    {
-      "title": "78 dari 82 Perkara Merger dan Akuisisi Terkait Keterlambatan Notifikasi, KPPU Ingatkan Pelaku Usaha Penuhi Kewajiban Pelaporan - Media Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 12:15:15 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/945311/78-dari-82-perkara-merger-dan-akuisisi-terkait-keterlambatan-notifikasi-kppu-ingatkan-pelaku-usaha-penuhi-kewajiban-pelaporan"
-    },
-    {
-      "title": "Danantara Salurkan Rp 1,7 Triliun untuk Filantropi - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 12:15:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-salurkan-rp-1-7-triliun-filantropi-2300669"
     }
   ]
 }
