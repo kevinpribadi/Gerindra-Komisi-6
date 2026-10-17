@@ -1,13 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T14:56:05.120574",
+  "generated_at": "2026-10-17T17:45:47.293409",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 38,
     "Golkar": 20,
     "PKB": 11,
-    "PKS": 33,
-    "PAN": 3,
+    "PKS": 34,
+    "PAN": 2,
     "Demokrat": 16
   },
   "party_counts_30d": {
@@ -37,9 +37,9 @@
     "investasi": 42,
     "danantara": 29,
     "umkm": 18,
-    "perdagangan": 15,
-    "ekspor": 10,
-    "koperasi": 42,
+    "perdagangan": 16,
+    "ekspor": 11,
+    "koperasi": 43,
     "merger-akuisisi": 11,
     "kartel-monopoli": 4,
     "impor": 8
@@ -84,19 +84,40 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 59,
-    "Perdagangan": 35,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 36,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
+      "title": "Ketua Komisi E DPRD Jatim Nilai Koperasi Merah Putih Belum Siap Salurkan Gaji ASN - Lentera.co",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 15:09:42 GMT",
+      "link": "https://lentera.co/post/item/239858/Ketua-Komisi-E-DPRD-Jatim-Nilai-Koperasi-Merah-Putih-Belum-Siap-Salurkan-Gaji-ASN"
+    },
+    {
+      "title": "Menteri Perdagangan Tiongkok bertemu Ketua Eksekutif Apple Tim Cook - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 15:04:30 GMT",
+      "link": "https://www.antaranews.com/berita/5793893/menteri-perdagangan-tiongkok-bertemu-ketua-eksekutif-apple-tim-cook?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
       "title": "Segera Diperbaiki, Bupati Safni dan Anggota DPR RI Mulyadi Tinjau Jalan Rusak Andiang-Maek - Jernih News",
       "entity": "Mulyadi",
       "kind": "anggota",
       "published": "Sat, 17 Oct 2026 14:30:00 GMT",
       "link": "https://jernihnews.com/berita/7368/segera-diperbaiki-bupati-safni-dan-anggota-dpr-ri-mulyadi-tinjau-jalan-rusak-andiang-maek.html"
+    },
+    {
+      "title": "Ekspor Indonesia Capai 193,64 Miliar Dolar, Kemendag Dorong Perluasan Pasar - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 14:01:00 GMT",
+      "link": "https://www.inilah.com/ekspor-indonesia-capai-193-64-miliar-dolar-kemendag-dorong-perluasan-pasar"
     },
     {
       "title": "Untari DPRD Jatim Minta Kemenkop Kaji Ulang Wacana Gaji ASN Lewat Koperasi Merah Putih - JATIM POS online",
@@ -111,6 +132,13 @@
       "kind": "anggota",
       "published": "Sat, 17 Oct 2026 13:33:00 GMT",
       "link": "https://rmol.id/read/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
+    },
+    {
+      "title": "DPR: Kehadiran Kapolri di BEI Sinyal Negara Serius Menegakkan Hukum - Rmol.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 17 Oct 2026 13:33:00 GMT",
+      "link": "https://rmol.id/amp/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
     },
     {
       "title": "WALHI Desak Penanganan Karhutla Lintas Sektor, Minta Presiden Tegakkan Inpres 3/2020 - Akurat Sumut",
@@ -167,34 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 17 Oct 2026 09:57:47 GMT",
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8711628/kemendag-genjot-ekspor-nonmigas-pangkas-defisit-dagang-dengan-china"
-    },
-    {
-      "title": "Ekspor Masih Terhambat? Wamendag Ungkap Rahasia Tembus Pasar Global - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 09:51:00 GMT",
-      "link": "https://www.inilah.com/ekspor-masih-terhambat-wamendag-ungkap-rahasia-tembus-pasar-global"
-    },
-    {
-      "title": "Menkop Teken MoU dengan FSKN, Pengembangan Ekonomi Kerakyatan Berbasis Budaya - Beritakota",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 09:19:00 GMT",
-      "link": "https://beritakota.id/menkop-teken-mou-dengan-fskn-pengembangan-ekonomi-kerakyatan-berbasis-budaya/"
-    },
-    {
-      "title": "Kemendag Bidik Peluang Ekspor Jasa Lewat Penempatan Tenaga Profesional - Validnews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 09:08:17 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/10/17/kemendag-bidik-peluang-ekspor-jasa-lewat-penempatan-tenaga-profesional-163700237"
-    },
-    {
-      "title": "Kemenkop Tegaskan KDKMP Jadi Peluang Kerja dan Peluang Usaha Baru bagi Generasi Muda di Desa - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 09:05:50 GMT",
-      "link": "https://indoposco.id/2026/10/17/kemenkop-tegaskan-kdkmp-jadi-peluang-kerja-dan-peluang-usaha-baru-bagi-generasi-muda-di-desa/"
     }
   ]
 }
