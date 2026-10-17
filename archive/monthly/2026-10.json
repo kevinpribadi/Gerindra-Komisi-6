@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T06:32:09.677988",
+  "generated_at": "2026-10-17T11:21:14.308839",
   "party_counts_7d": {
     "Gerindra": 16,
-    "PDI-P": 39,
+    "PDI-P": 38,
     "Golkar": 21,
     "PKB": 12,
-    "PKS": 31,
+    "PKS": 32,
     "PAN": 3,
     "Demokrat": 16
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 79,
-    "Golkar": 93,
+    "PDI-P": 77,
+    "Golkar": 92,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 63,
-    "PAN": 22,
+    "PAN": 21,
     "Demokrat": 27
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 41,
-    "danantara": 30,
-    "umkm": 19,
-    "perdagangan": 17,
-    "ekspor": 8,
-    "impor": 9,
-    "koperasi": 44,
-    "merger-akuisisi": 10,
-    "kartel-monopoli": 4
+    "investasi": 42,
+    "danantara": 29,
+    "umkm": 18,
+    "perdagangan": 15,
+    "ekspor": 10,
+    "koperasi": 43,
+    "merger-akuisisi": 11,
+    "kartel-monopoli": 4,
+    "impor": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,17 +52,17 @@
     "Unru Baso": 1,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 14,
-    "Mufti Anam": 14,
+    "Mufti Anam": 13,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 2,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 1,
-    "Totok Hedi Santosa": 7,
+    "Totok Hedi Santosa": 6,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 12,
+    "Ahmad Labib": 11,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
@@ -79,123 +79,123 @@
     "Ghufran": 11,
     "Ismail": 12,
     "Nasril Bahar": 6,
-    "Iskandar": 16,
+    "Iskandar": 15,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 60,
-    "Perdagangan": 35,
-    "Kinerja BUMN": 15,
+    "Perdagangan": 36,
+    "Kinerja BUMN": 14,
     "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "RI menjajaki peluang investasi pengolahan singkong di Mozambik - ANTARA News",
+      "title": "Koperasi Bisa Jadi Wadah Usaha Keraton, Kemenkop Dorong Konversi Budaya Jadi Ekonomi - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 10:38:00 GMT",
+      "link": "https://www.inilah.com/koperasi-bisa-jadi-wadah-usaha-keraton-kemenkop-dorong-konversi-budaya-jadi-ekonomi"
+    },
+    {
+      "title": "Indonesia Jajaki Investasi Pengolahan Singkong di Mozambik, Perkuat Perdagangan Bilateral - VOI.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:41:21 GMT",
-      "link": "https://www.antaranews.com/berita/5793033/ri-menjajaki-peluang-investasi-pengolahan-singkong-di-mozambik"
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "link": "https://voi.id/ekonomi/598817/indonesia-jajaki-investasi-pengolahan-singkong-di-mozambik-perkuat-perdagangan-bilateral"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan sedang menerapkan Undang-Undang tentang Pencegahan dan Pemberantasan Proliferasi Senjata Pemusnah Massal. - Vietnam.vn",
+      "title": "Kemendag Genjot Ekspor Nonmigas & Pangkas Defisit Dagang dengan China - detikFinance",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:28:05 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trien-khai-thi-hanh-luat-phong-chong-pho-bien-vu-khi-huy-diet-hang-loat"
+      "published": "Sat, 17 Oct 2026 09:57:47 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8711628/kemendag-genjot-ekspor-nonmigas-pangkas-defisit-dagang-dengan-china"
     },
     {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:25:06 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261017/Mjk5MTUy"
-    },
-    {
-      "title": "KPPU Peringatkan Pelaku Usaha Penuhi Kewajiban Notifikasi Transaksi Korporasi - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:20:50 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-peringatkan-pelaku-usaha-penuhi-kewajiban-notifikasi-transaksi-korporasi/"
-    },
-    {
-      "title": "Kemenkop Apresiasi BI Fasilitasi Forum Wirausaha Muda Ekonomi Syariah - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:20:00 GMT",
-      "link": "https://www.inilah.com/kemenkop-apresiasi-bi-fasilitasi-forum-wirausaha-muda-ekonomi-syariah"
-    },
-    {
-      "title": "KPPU Catat 78 dari 82 Perkara Merger Terkait Telat Lapor - Batamtoday.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:06:07 GMT",
-      "link": "https://batamtoday.com/news/kppu-78-dari-82-perkara-merger-dan-akuisisi-terkait-telat-lapor"
-    },
-    {
-      "title": "Kemendag-BSN Perkuat Kompetensi SDM untuk Dongkrak Ekspor - International Media",
+      "title": "Ekspor Masih Terhambat? Wamendag Ungkap Rahasia Tembus Pasar Global - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 04:38:00 GMT",
-      "link": "https://www.internationalmedia.id/2026/10/kemendag-bsn-perkuat-kompetensi-sdm.html"
+      "published": "Sat, 17 Oct 2026 09:51:00 GMT",
+      "link": "https://www.inilah.com/ekspor-masih-terhambat-wamendag-ungkap-rahasia-tembus-pasar-global"
     },
     {
-      "title": "Koperasi Desa Merah Putih Belum Buka, Manajer Tetap Terima Gaji Rp 9,3 Juta? - detikcom",
+      "title": "Menkop Teken MoU dengan FSKN, Pengembangan Ekonomi Kerakyatan Berbasis Budaya - Beritakota",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 04:32:35 GMT",
-      "link": "https://www.detik.com/jabar/berita/d-8711054/koperasi-desa-merah-putih-belum-buka-manajer-tetap-terima-gaji-rp-9-3-juta"
+      "published": "Sat, 17 Oct 2026 09:19:00 GMT",
+      "link": "https://beritakota.id/menkop-teken-mou-dengan-fskn-pengembangan-ekonomi-kerakyatan-berbasis-budaya/"
     },
     {
-      "title": "KPPU: 78 dari 82 Perkara Merger dan Akuisisi Terkait Keterlambatan Notifikasi - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 04:20:26 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-78-dari-82-perkara-merger-dan-akuisisi-terkait-keterlambatan-notifikasi/"
-    },
-    {
-      "title": "Tingkatkan Kontribusi Hingga 40 Persen, Kemendag Dorong UMKM Tembus Pasar Ekspor - indoposco.id",
+      "title": "Kemendag Bidik Peluang Ekspor Jasa Lewat Penempatan Tenaga Profesional - Validnews.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 04:03:36 GMT",
-      "link": "https://indoposco.id/2026/10/17/tingkatkan-kontribusi-hingga-40-persen-kemendag-dorong-umkm-tembus-pasar-ekspor/"
+      "published": "Sat, 17 Oct 2026 09:08:17 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/10/17/kemendag-bidik-peluang-ekspor-jasa-lewat-penempatan-tenaga-profesional-163700237"
     },
     {
-      "title": "BP BUMN Perkuat Sinergi untuk Perluas Lapangan Kerja - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Kemenkop Tegaskan KDKMP Jadi Peluang Kerja dan Peluang Usaha Baru bagi Generasi Muda di Desa - indoposco.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 03:38:17 GMT",
-      "link": "https://www.metrotvnews.com/read/NP6CPmZa-bp-bumn-perkuat-sinergi-untuk-perluas-lapangan-kerja"
+      "published": "Sat, 17 Oct 2026 09:05:50 GMT",
+      "link": "https://indoposco.id/2026/10/17/kemenkop-tegaskan-kdkmp-jadi-peluang-kerja-dan-peluang-usaha-baru-bagi-generasi-muda-di-desa/"
     },
     {
-      "title": "78 dari 82 Perkara Merger dan Akuisisi Bermasalah soal Keterlambatan Notifikasi, KPPU Ingatkan Pelaku Usaha - Waspada.id",
+      "title": "KPPU Ingatkan Pelaku Usaha Wajib Lapor Merger, Denda Tembus Rp 4,18 Triliun - Industry.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 02:53:59 GMT",
-      "link": "https://www.waspada.id/berita/78-dari-82-perkara-merger-dan-akuisisi-bermasalah-soal-keterlambatan-notifikasi-kppu-ingatkan-pelaku-usaha"
+      "published": "Sat, 17 Oct 2026 07:48:00 GMT",
+      "link": "https://www.industry.co.id/read/157538/kppu-ingatkan-pelaku-usaha-wajib-lapor-merger-denda-tembus-rp-418-triliun"
     },
     {
-      "title": "1.550 Calon Manajer Koperasi Merah Putih Minta Pindah Penempatan - Waspada.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemendag Sebut Etika Komunikasi dan Transisi Hijau Jadi Tantangan UMKM di Pasar Global - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 02:03:13 GMT",
-      "link": "https://www.waspada.id/berita/1-550-calon-manajer-koperasi-merah-putih-minta-pindah-penempatan"
+      "published": "Sat, 17 Oct 2026 07:09:29 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261017/9/2013448/kemendag-sebut-etika-komunikasi-dan-transisi-hijau-jadi-tantangan-umkm-di-pasar-global"
     },
     {
-      "title": "Koperasi Modern, Ekonomi Rakyat Berkelanjutan | Bincang Spesial - SinPo.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Pemerintah Percepat Penanganan Kelangkaan BBM di Sejumlah Daerah - beritabuana.co",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 01:30:00 GMT",
-      "link": "https://tv.sinpo.id/detail/koperasi-modern-ekonomi-rakyat-berkelanjutan-bincang-spesial"
+      "published": "Sat, 17 Oct 2026 06:57:35 GMT",
+      "link": "https://beritabuana.co/2026/10/17/pemerintah-percepat-penanganan-kelangkaan-bbm-di-sejumlah-daerah/"
     },
     {
-      "title": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025 - ANTARA News Gorontalo",
+      "title": "Manajer Koperasi Merah Putih Terima Gaji Rp9,3 Juta per Bulan - Kupas Tuntas",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 01:09:28 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/429545/kemenkop-2757-kdkmp-sudah-menjalankan-usaha-sejak-2025"
+      "published": "Sat, 17 Oct 2026 06:56:00 GMT",
+      "link": "https://kupastuntas.co/2026/10/17/manajer-koperasi-merah-putih-terima-gaji-rp93-juta-per-bulan"
+    },
+    {
+      "title": "IHSG Terkoreksi Efek MSCI, Danantara Siap Guyur Dana ke Pasar Modal - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 06:31:08 GMT",
+      "link": "https://www.metrotvnews.com/play/ba4Cvemz-ihsg-terkoreksi-efek-msci-danantara-siap-guyur-dana-ke-pasar-modal"
+    },
+    {
+      "title": "34 Lembaga Keuangan Berminat Danai Proyek PSEL Danantara - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 06:30:00 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261017110726-17-777078/34-lembaga-keuangan-berminat-danai-proyek-psel-danantara"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 06:28:43 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
+    {
+      "title": "RI jajaki peluang investasi pengolahan singkong di Mozambik - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 05:59:43 GMT",
+      "link": "https://ambon.antaranews.com/berita/347785/ri-jajaki-peluang-investasi-pengolahan-singkong-di-mozambik"
     }
   ]
 }
