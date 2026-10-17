@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T11:21:14.308839",
+  "generated_at": "2026-10-17T14:56:05.120574",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 38,
-    "Golkar": 21,
-    "PKB": 12,
-    "PKS": 32,
+    "Golkar": 20,
+    "PKB": 11,
+    "PKS": 33,
     "PAN": 3,
     "Demokrat": 16
   },
   "party_counts_30d": {
-    "Gerindra": 44,
+    "Gerindra": 45,
     "PDI-P": 77,
     "Golkar": 92,
-    "NasDem": 9,
+    "NasDem": 8,
     "PKB": 50,
-    "PKS": 63,
+    "PKS": 61,
     "PAN": 21,
     "Demokrat": 27
   },
@@ -33,13 +33,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 50,
+    "bumn": 49,
     "investasi": 42,
     "danantara": 29,
     "umkm": 18,
     "perdagangan": 15,
     "ekspor": 10,
-    "koperasi": 43,
+    "koperasi": 42,
     "merger-akuisisi": 11,
     "kartel-monopoli": 4,
     "impor": 8
@@ -48,9 +48,8 @@
     "Andre Rosiade": 20,
     "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 5,
-    "Unru Baso": 1,
-    "Mulyadi": 3,
+    "Kawendra Lukistian": 6,
+    "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 13,
     "Darmadi Durianto": 10,
@@ -68,7 +67,7 @@
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 15,
     "Muhammad Sarmuji": 17,
-    "Asep Wahyuwijaya": 5,
+    "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
@@ -77,7 +76,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 20,
     "Ghufran": 11,
-    "Ismail": 12,
+    "Ismail": 10,
     "Nasril Bahar": 6,
     "Iskandar": 15,
     "Sartono": 6,
@@ -85,13 +84,69 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 36,
+    "Koperasi/UMKM": 59,
+    "Perdagangan": 35,
     "Kinerja BUMN": 14,
-    "Hukum/Audit": 19,
+    "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Segera Diperbaiki, Bupati Safni dan Anggota DPR RI Mulyadi Tinjau Jalan Rusak Andiang-Maek - Jernih News",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Sat, 17 Oct 2026 14:30:00 GMT",
+      "link": "https://jernihnews.com/berita/7368/segera-diperbaiki-bupati-safni-dan-anggota-dpr-ri-mulyadi-tinjau-jalan-rusak-andiang-maek.html"
+    },
+    {
+      "title": "Untari DPRD Jatim Minta Kemenkop Kaji Ulang Wacana Gaji ASN Lewat Koperasi Merah Putih - JATIM POS online",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 13:42:33 GMT",
+      "link": "https://www.jatimpos.co/dewan/22505-untari-dprd-jatim-minta-kemenkop-kaji-ulang-wacana-gaji-asn-lewat-koperasi-merah-putih"
+    },
+    {
+      "title": "DPR: Kehadiran Kapolri di BEI Sinyal Negara Serius Menegakkan Hukum - Rmol.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 17 Oct 2026 13:33:00 GMT",
+      "link": "https://rmol.id/read/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
+    },
+    {
+      "title": "WALHI Desak Penanganan Karhutla Lintas Sektor, Minta Presiden Tegakkan Inpres 3/2020 - Akurat Sumut",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 13:16:12 GMT",
+      "link": "https://sumut.akurat.co/news/899470/walhi-desak-penanganan-karhutla-lintas-sektor-minta-presiden-tegakkan-inpres-3-2020"
+    },
+    {
+      "title": "Danantara Siapkan Rp1,79 Triliun untuk Program Sosial, AMMI Beri Apresiasi - indoposco.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 13:06:52 GMT",
+      "link": "https://indoposco.id/2026/10/17/danantara-siapkan-rp179-triliun-untuk-program-sosial-ammi-beri-apresiasi/"
+    },
+    {
+      "title": "Ketua BPKN RI: Kelangkaan BBM Tak Boleh Bebani Konsumen, Pemerintah Harus Pastikan Distribusi Lancar - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 12:58:00 GMT",
+      "link": "https://www.mediakarya.id/ketua-bpkn-ri-kelangkaan-bbm-tak-boleh-bebani-konsumen-pemerintah-harus-pastikan-distribusi-lancar/"
+    },
+    {
+      "title": "Sri Untari: Gaji ASN Lewat Koperasi Merah Putih Bisa Timbulkan Kegaduhan - DPD PDI Perjuangan Jawa Timur",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 12:28:00 GMT",
+      "link": "https://pdiperjuangan-jatim.com/sri-untari-gaji-asn-lewat-koperasi-merah-putih-bisa-timbulkan-kegaduhan/"
+    },
+    {
+      "title": "Sri Untari: Gaji ASN Lewat Koperasi Merah Putih Bisa Timbulkan Kegaduhan - DPD PDI Perjuangan Jawa Timur",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 12:28:00 GMT",
+      "link": "https://pdiperjuangan-jatim.com/sri-untari-gaji-asn-lewat-koperasi-merah-putih-bisa-timbulkan-kegaduhan/"
+    },
     {
       "title": "Koperasi Bisa Jadi Wadah Usaha Keraton, Kemenkop Dorong Konversi Budaya Jadi Ekonomi - Inilah.com",
       "entity": "Kementerian Koperasi",
@@ -140,62 +195,6 @@
       "kind": "lembaga",
       "published": "Sat, 17 Oct 2026 09:05:50 GMT",
       "link": "https://indoposco.id/2026/10/17/kemenkop-tegaskan-kdkmp-jadi-peluang-kerja-dan-peluang-usaha-baru-bagi-generasi-muda-di-desa/"
-    },
-    {
-      "title": "KPPU Ingatkan Pelaku Usaha Wajib Lapor Merger, Denda Tembus Rp 4,18 Triliun - Industry.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 07:48:00 GMT",
-      "link": "https://www.industry.co.id/read/157538/kppu-ingatkan-pelaku-usaha-wajib-lapor-merger-denda-tembus-rp-418-triliun"
-    },
-    {
-      "title": "Kemendag Sebut Etika Komunikasi dan Transisi Hijau Jadi Tantangan UMKM di Pasar Global - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 07:09:29 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261017/9/2013448/kemendag-sebut-etika-komunikasi-dan-transisi-hijau-jadi-tantangan-umkm-di-pasar-global"
-    },
-    {
-      "title": "Pemerintah Percepat Penanganan Kelangkaan BBM di Sejumlah Daerah - beritabuana.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 06:57:35 GMT",
-      "link": "https://beritabuana.co/2026/10/17/pemerintah-percepat-penanganan-kelangkaan-bbm-di-sejumlah-daerah/"
-    },
-    {
-      "title": "Manajer Koperasi Merah Putih Terima Gaji Rp9,3 Juta per Bulan - Kupas Tuntas",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 06:56:00 GMT",
-      "link": "https://kupastuntas.co/2026/10/17/manajer-koperasi-merah-putih-terima-gaji-rp93-juta-per-bulan"
-    },
-    {
-      "title": "IHSG Terkoreksi Efek MSCI, Danantara Siap Guyur Dana ke Pasar Modal - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 06:31:08 GMT",
-      "link": "https://www.metrotvnews.com/play/ba4Cvemz-ihsg-terkoreksi-efek-msci-danantara-siap-guyur-dana-ke-pasar-modal"
-    },
-    {
-      "title": "34 Lembaga Keuangan Berminat Danai Proyek PSEL Danantara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 06:30:00 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261017110726-17-777078/34-lembaga-keuangan-berminat-danai-proyek-psel-danantara"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 06:28:43 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "RI jajaki peluang investasi pengolahan singkong di Mozambik - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 05:59:43 GMT",
-      "link": "https://ambon.antaranews.com/berita/347785/ri-jajaki-peluang-investasi-pengolahan-singkong-di-mozambik"
     }
   ]
 }
