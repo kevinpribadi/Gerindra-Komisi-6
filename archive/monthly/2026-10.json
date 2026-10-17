@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T01:02:02.832808",
+  "generated_at": "2026-10-17T06:32:09.677988",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 38,
-    "Golkar": 26,
-    "PKB": 13,
+    "Gerindra": 16,
+    "PDI-P": 39,
+    "Golkar": 21,
+    "PKB": 12,
     "PKS": 31,
-    "PAN": 2,
+    "PAN": 3,
     "Demokrat": 16
   },
   "party_counts_30d": {
     "Gerindra": 44,
-    "PDI-P": 80,
-    "Golkar": 92,
+    "PDI-P": 79,
+    "Golkar": 93,
     "NasDem": 9,
     "PKB": 50,
     "PKS": 63,
-    "PAN": 21,
+    "PAN": 22,
     "Demokrat": 27
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 40,
-    "danantara": 32,
-    "umkm": 20,
-    "ekspor": 8,
+    "investasi": 41,
+    "danantara": 30,
+    "umkm": 19,
     "perdagangan": 17,
+    "ekspor": 8,
     "impor": 9,
-    "koperasi": 46,
-    "kartel-monopoli": 4,
-    "merger-akuisisi": 5
+    "koperasi": 44,
+    "merger-akuisisi": 10,
+    "kartel-monopoli": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -51,13 +51,13 @@
     "Kawendra Lukistian": 5,
     "Unru Baso": 1,
     "Mulyadi": 3,
-    "Adisatrya Suryo Sulisto": 15,
+    "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 14,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
-    "Sadarestuwati": 1,
-    "Ida Nurlaela": 5,
+    "Sadarestuwati": 2,
+    "Ida Nurlaela": 4,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 7,
     "Nurdin Halid": 20,
@@ -67,7 +67,7 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 15,
-    "Muhammad Sarmuji": 16,
+    "Muhammad Sarmuji": 17,
     "Asep Wahyuwijaya": 5,
     "I Nengah Senantara": 4,
     "Anggia Erma Rini": 5,
@@ -79,123 +79,123 @@
     "Ghufran": 11,
     "Ismail": 12,
     "Nasril Bahar": 6,
-    "Iskandar": 15,
+    "Iskandar": 16,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 63,
-    "Perdagangan": 36,
+    "Koperasi/UMKM": 60,
+    "Perdagangan": 35,
     "Kinerja BUMN": 15,
     "Hukum/Audit": 19,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Bahlil Bocorkan BP BUMN Berpotensi di Bawah Kemenko Hilirisasi - kontan.co.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 00:45:25 GMT",
-      "link": "https://nasional.kontan.co.id/news/bahlil-bocorkan-bp-bumn-berpotensi-di-bawah-kemenko-hilirisasi"
-    },
-    {
-      "title": "Hadapi Tantangan Ekonomi Global, Kemendag Harus Dipimpin Profesional - Rmol.id",
+      "title": "RI menjajaki peluang investasi pengolahan singkong di Mozambik - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 23:43:00 GMT",
-      "link": "https://rmol.id/politik/read/2026/10/17/725266/hadapi-tantangan-ekonomi-global-kemendag-harus-dipimpin-profesional"
+      "published": "Sat, 17 Oct 2026 05:41:21 GMT",
+      "link": "https://www.antaranews.com/berita/5793033/ri-menjajaki-peluang-investasi-pengolahan-singkong-di-mozambik"
     },
     {
-      "title": "Kemendag Targetkan 4 Juta UMKM Siap Ekspor Lewat Program Campuspreneur - Industry.co.id",
+      "title": "Kementerian Perindustrian dan Perdagangan sedang menerapkan Undang-Undang tentang Pencegahan dan Pemberantasan Proliferasi Senjata Pemusnah Massal. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 23:43:00 GMT",
-      "link": "https://www.industry.co.id/read/157516/kemendag-targetkan-4-juta-umkm-siap-ekspor-lewat-program-campuspreneur"
+      "published": "Sat, 17 Oct 2026 05:28:05 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trien-khai-thi-hanh-luat-phong-chong-pho-bien-vu-khi-huy-diet-hang-loat"
     },
     {
-      "title": "Gaji Manajer Kopdes Merah Putih Rp6,8-9,3 Juta, Dibayar Mulai Oktober - RiauAktual.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 23:35:00 GMT",
-      "link": "https://riauaktual.com/news/detail/123261/gaji-manajer-kopdes-merah-putih-rp68-93-juta-dibayar-mulai-oktober"
-    },
-    {
-      "title": "Ancaman Standalone Market MSCI, DPR Minta Regulator Pasar Modal Berbenah - JPNN.com",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
-      "link": "https://www.jpnn.com/news/ancaman-standalone-market-msci-dpr-minta-regulator-pasar-modal-berbenah"
-    },
-    {
-      "title": "Ancaman Standalone Market MSCI, DPR Minta Regulator Pasar Modal Berbenah - JPNN.com",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
-      "link": "https://www.jpnn.com/news/ancaman-standalone-market-msci-dpr-minta-regulator-pasar-modal-berbenah?utm_source=genpi_dekstop&utm_medium=www.genpi.co&utm_campaign=cross_jpnnxgenpi"
-    },
-    {
-      "title": "Kemenkop Pastikan Gaji Koperasi Merah Putih Tetap Jalan Meski Belum Beroperasi - AFU.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 17:00:00 GMT",
-      "link": "https://afu.id/nasional/kemenkop-pastikan-gaji-koperasi-merah-putih-tetap-jalan-meski-belum-beroperasi"
-    },
-    {
-      "title": "KoperasiGO, Jurus Metranet Mendorong Koperasi Lebih Kompetitif di Era Digital - SWA.co.id",
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 16:11:00 GMT",
-      "link": "https://swa.co.id/read/478541/koperasigo-jurus-metranet-mendorong-koperasi-lebih-kompetitif-di-era-digital"
+      "published": "Sat, 17 Oct 2026 05:25:06 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261017/Mjk5MTUy"
     },
     {
-      "title": "KPPU ajak mahasiswa kawal persaingan usaha sehat di era digital - Antara News jatim",
+      "title": "KPPU Peringatkan Pelaku Usaha Penuhi Kewajiban Notifikasi Transaksi Korporasi - Seputar Sumut",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 15:45:00 GMT",
-      "link": "https://jatim.antaranews.com/berita/1107753/kppu-ajak-mahasiswa-kawal-persaingan-usaha-sehat-di-era-digital"
+      "published": "Sat, 17 Oct 2026 05:20:50 GMT",
+      "link": "https://www.seputarsumut.com/berita/kppu-peringatkan-pelaku-usaha-penuhi-kewajiban-notifikasi-transaksi-korporasi/"
     },
     {
-      "title": "Manajer Koperasi Merah Putih Dapat Gaji Rp 6,8 Juta Sampai Rp 9,3 Juta - MerahPutih",
+      "title": "Kemenkop Apresiasi BI Fasilitasi Forum Wirausaha Muda Ekonomi Syariah - Inilah.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 15:39:08 GMT",
-      "link": "https://www.merahputih.com/post/read/manajer-koperasi-merah-putih-dapat-gaji-rp-6-8-juta-sampai-rp-9-3-juta"
+      "published": "Sat, 17 Oct 2026 05:20:00 GMT",
+      "link": "https://www.inilah.com/kemenkop-apresiasi-bi-fasilitasi-forum-wirausaha-muda-ekonomi-syariah"
     },
     {
-      "title": "KPPU Catat 78 Perkara Merger Akibat Keterlambatan Notifikasi - bsinews.id",
+      "title": "KPPU Catat 78 dari 82 Perkara Merger Terkait Telat Lapor - Batamtoday.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 15:35:29 GMT",
-      "link": "https://bsinews.id/kppu-perkara-merger-keterlambatan-notifikasi"
+      "published": "Sat, 17 Oct 2026 05:06:07 GMT",
+      "link": "https://batamtoday.com/news/kppu-78-dari-82-perkara-merger-dan-akuisisi-terkait-telat-lapor"
     },
     {
-      "title": "Kemendag: HPE dan HR Emas Periode II Oktober 2026 Kembali Turun - Olenka",
+      "title": "Kemendag-BSN Perkuat Kompetensi SDM untuk Dongkrak Ekspor - International Media",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 15:24:37 GMT",
-      "link": "https://olenka.id/kemendag-hpe-dan-hr-emas-periode-ii-oktober-2026-kembali-turun"
+      "published": "Sat, 17 Oct 2026 04:38:00 GMT",
+      "link": "https://www.internationalmedia.id/2026/10/kemendag-bsn-perkuat-kompetensi-sdm.html"
     },
     {
-      "title": "Baja Indonesia Dihantam Tarif 50 Persen, Begini Antisipasi Kemendag? - Inilah.com",
+      "title": "Koperasi Desa Merah Putih Belum Buka, Manajer Tetap Terima Gaji Rp 9,3 Juta? - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 04:32:35 GMT",
+      "link": "https://www.detik.com/jabar/berita/d-8711054/koperasi-desa-merah-putih-belum-buka-manajer-tetap-terima-gaji-rp-9-3-juta"
+    },
+    {
+      "title": "KPPU: 78 dari 82 Perkara Merger dan Akuisisi Terkait Keterlambatan Notifikasi - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 04:20:26 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-78-dari-82-perkara-merger-dan-akuisisi-terkait-keterlambatan-notifikasi/"
+    },
+    {
+      "title": "Tingkatkan Kontribusi Hingga 40 Persen, Kemendag Dorong UMKM Tembus Pasar Ekspor - indoposco.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 14:45:00 GMT",
-      "link": "https://www.inilah.com/baja-indonesia-dihantam-tarif-50-persen-begini-antisipasi-kemendag"
+      "published": "Sat, 17 Oct 2026 04:03:36 GMT",
+      "link": "https://indoposco.id/2026/10/17/tingkatkan-kontribusi-hingga-40-persen-kemendag-dorong-umkm-tembus-pasar-ekspor/"
     },
     {
-      "title": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025 - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
+      "title": "BP BUMN Perkuat Sinergi untuk Perluas Lapangan Kerja - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 14:04:35 GMT",
-      "link": "https://jogja.antaranews.com/berita/860617/kemenkop-2757-kdkmp-sudah-menjalankan-usaha-sejak-2025"
+      "published": "Sat, 17 Oct 2026 03:38:17 GMT",
+      "link": "https://www.metrotvnews.com/read/NP6CPmZa-bp-bumn-perkuat-sinergi-untuk-perluas-lapangan-kerja"
     },
     {
-      "title": "Kemenkop Klaim Transaksi Ekonomi Kopdes Tembus Rp 208,5 Miliar - Kompas.com",
+      "title": "78 dari 82 Perkara Merger dan Akuisisi Bermasalah soal Keterlambatan Notifikasi, KPPU Ingatkan Pelaku Usaha - Waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 02:53:59 GMT",
+      "link": "https://www.waspada.id/berita/78-dari-82-perkara-merger-dan-akuisisi-bermasalah-soal-keterlambatan-notifikasi-kppu-ingatkan-pelaku-usaha"
+    },
+    {
+      "title": "1.550 Calon Manajer Koperasi Merah Putih Minta Pindah Penempatan - Waspada.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 16 Oct 2026 13:47:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/16/204749126/kemenkop-klaim-transaksi-ekonomi-kopdes-tembus-rp-2085-miliar"
+      "published": "Sat, 17 Oct 2026 02:03:13 GMT",
+      "link": "https://www.waspada.id/berita/1-550-calon-manajer-koperasi-merah-putih-minta-pindah-penempatan"
+    },
+    {
+      "title": "Koperasi Modern, Ekonomi Rakyat Berkelanjutan | Bincang Spesial - SinPo.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 01:30:00 GMT",
+      "link": "https://tv.sinpo.id/detail/koperasi-modern-ekonomi-rakyat-berkelanjutan-bincang-spesial"
+    },
+    {
+      "title": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025 - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 17 Oct 2026 01:09:28 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/429545/kemenkop-2757-kdkmp-sudah-menjalankan-usaha-sejak-2025"
     }
   ]
 }
