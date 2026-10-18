@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T00:37:37.839329",
+  "generated_at": "2026-10-18T05:24:40.041244",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 40,
+    "Gerindra": 16,
+    "PDI-P": 38,
     "Golkar": 19,
     "PKB": 12,
-    "PKS": 34,
+    "PKS": 33,
     "PAN": 2,
-    "Demokrat": 16
+    "Demokrat": 15
   },
   "party_counts_30d": {
     "Gerindra": 46,
     "PDI-P": 79,
-    "Golkar": 92,
+    "Golkar": 91,
     "NasDem": 8,
     "PKB": 49,
     "PKS": 61,
@@ -35,11 +35,11 @@
   "topic_counts_30d": {
     "bumn": 49,
     "investasi": 44,
-    "danantara": 29,
+    "danantara": 30,
     "umkm": 17,
-    "ekspor": 12,
     "perdagangan": 15,
-    "koperasi": 43,
+    "ekspor": 11,
+    "koperasi": 44,
     "merger-akuisisi": 12,
     "kartel-monopoli": 4,
     "impor": 8
@@ -65,7 +65,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 17,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
@@ -85,12 +85,40 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
-    "Perdagangan": 38,
+    "Perdagangan": 37,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Makin Berkilau, Bappepti Catat Transaksi Emas Digital Per Agustus 2026 Melonjak 641% - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 04:56:37 GMT",
+      "link": "https://investasi.kontan.co.id/news/makin-berkilau-bappepti-catat-transaksi-emas-digital-per-agustus-2026-melonjak-641?source=home_terbaru"
+    },
+    {
+      "title": "Kemendag dan Dunia Usaha Perkuat Kolaborasi Atasi Hambatan Perdagangan - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 01:30:00 GMT",
+      "link": "https://serayunusantara.com/kemendag-dan-dunia-usaha-perkuat-kolaborasi-atasi-hambatan-perdagangan/"
+    },
+    {
+      "title": "Pemerintah Masih Bahas Gaji ASN Lewat Kopdes Merah Putih, Ini Penjelasannya - Waspada.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 00:39:59 GMT",
+      "link": "https://www.waspada.id/berita/pemerintah-masih-bahas-gaji-asn-lewat-kopdes-merah-putih-ini-penjelasannya"
+    },
+    {
+      "title": "Manajer Kopdes Merah Putih Terima Gaji Perdana pada Akhir Oktober 2026, Bakal Disalurkan Lewat Agrinas Pangan - Kalbar News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 00:39:38 GMT",
+      "link": "https://www.kalbarnews.co.id/2026/10/manajer-kopdes-merah-putih-terima-gaji.html"
+    },
     {
       "title": "Kopdes Buka Peluang Kerja dan Usaha bagi Generasi Muda - Rmol.id",
       "entity": "Kementerian Koperasi",
@@ -167,34 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 17 Oct 2026 14:30:00 GMT",
       "link": "https://jernihnews.com/berita/7368/segera-diperbaiki-bupati-safni-dan-anggota-dpr-ri-mulyadi-tinjau-jalan-rusak-andiang-maek.html"
-    },
-    {
-      "title": "Ekspor Indonesia Capai 193,64 Miliar Dolar, Kemendag Dorong Perluasan Pasar - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 14:01:00 GMT",
-      "link": "https://www.inilah.com/ekspor-indonesia-capai-193-64-miliar-dolar-kemendag-dorong-perluasan-pasar"
-    },
-    {
-      "title": "Untari DPRD Jatim Minta Kemenkop Kaji Ulang Wacana Gaji ASN Lewat Koperasi Merah Putih - JATIM POS online",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 13:42:33 GMT",
-      "link": "https://www.jatimpos.co/dewan/22505-untari-dprd-jatim-minta-kemenkop-kaji-ulang-wacana-gaji-asn-lewat-koperasi-merah-putih"
-    },
-    {
-      "title": "DPR: Kehadiran Kapolri di BEI Sinyal Negara Serius Menegakkan Hukum - Rmol.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 17 Oct 2026 13:33:00 GMT",
-      "link": "https://rmol.id/read/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
-    },
-    {
-      "title": "DPR: Kehadiran Kapolri di BEI Sinyal Negara Serius Menegakkan Hukum - Rmol.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 17 Oct 2026 13:33:00 GMT",
-      "link": "https://rmol.id/amp/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
     }
   ]
 }
