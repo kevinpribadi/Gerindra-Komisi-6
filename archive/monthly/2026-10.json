@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T05:24:40.041244",
+  "generated_at": "2026-10-18T10:22:27.537105",
   "party_counts_7d": {
-    "Gerindra": 16,
-    "PDI-P": 38,
-    "Golkar": 19,
-    "PKB": 12,
+    "Gerindra": 18,
+    "PDI-P": 36,
+    "Golkar": 18,
+    "PKB": 11,
     "PKS": 33,
     "PAN": 2,
-    "Demokrat": 15
+    "Demokrat": 14
   },
   "party_counts_30d": {
     "Gerindra": 46,
-    "PDI-P": 79,
-    "Golkar": 91,
+    "PDI-P": 80,
+    "Golkar": 87,
     "NasDem": 8,
     "PKB": 49,
     "PKS": 61,
-    "PAN": 21,
+    "PAN": 20,
     "Demokrat": 27
   },
   "agency_counts_30d": {
@@ -35,11 +35,12 @@
   "topic_counts_30d": {
     "bumn": 49,
     "investasi": 44,
-    "danantara": 30,
-    "umkm": 17,
+    "danantara": 32,
+    "umkm": 15,
+    "ekspor": 8,
     "perdagangan": 15,
-    "ekspor": 11,
-    "koperasi": 44,
+    "koperasi": 43,
+    "ipo": 1,
     "merger-akuisisi": 12,
     "kartel-monopoli": 4,
     "impor": 8
@@ -55,18 +56,18 @@
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
-    "Sadarestuwati": 3,
+    "Sadarestuwati": 4,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 6,
-    "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 9,
+    "Nurdin Halid": 19,
+    "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 17,
+    "Rizki Faisal": 13,
+    "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
     "Anggia Erma Rini": 4,
@@ -77,124 +78,124 @@
     "Rizal Bawazier": 20,
     "Ghufran": 11,
     "Ismail": 10,
-    "Nasril Bahar": 6,
+    "Nasril Bahar": 5,
     "Iskandar": 15,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 58,
-    "Perdagangan": 37,
+    "Koperasi/UMKM": 53,
+    "Perdagangan": 33,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Makin Berkilau, Bappepti Catat Transaksi Emas Digital Per Agustus 2026 Melonjak 641% - kontan.co.id",
+      "title": "Kemendag Bidik Pasar Ekspor Baru, Perjanjian Dagang Dinilai Belum Cukup - Inilah.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 04:56:37 GMT",
-      "link": "https://investasi.kontan.co.id/news/makin-berkilau-bappepti-catat-transaksi-emas-digital-per-agustus-2026-melonjak-641?source=home_terbaru"
+      "published": "Sun, 18 Oct 2026 09:57:00 GMT",
+      "link": "https://www.inilah.com/kemendag-bidik-pasar-ekspor-baru-perjanjian-dagang-dinilai-belum-cukup"
     },
     {
-      "title": "Kemendag dan Dunia Usaha Perkuat Kolaborasi Atasi Hambatan Perdagangan - Serayu Nusantara",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 01:30:00 GMT",
-      "link": "https://serayunusantara.com/kemendag-dan-dunia-usaha-perkuat-kolaborasi-atasi-hambatan-perdagangan/"
-    },
-    {
-      "title": "Pemerintah Masih Bahas Gaji ASN Lewat Kopdes Merah Putih, Ini Penjelasannya - Waspada.id",
+      "title": "Legislator PDIP Minta Gaji ASN Lewat Kopdes Dibatalkan - Tempo.co",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 00:39:59 GMT",
-      "link": "https://www.waspada.id/berita/pemerintah-masih-bahas-gaji-asn-lewat-kopdes-merah-putih-ini-penjelasannya"
+      "published": "Sun, 18 Oct 2026 09:13:00 GMT",
+      "link": "https://www.tempo.co/politik/wacana-gaji-asn-dibayar-lewat-kopdes-diminta-dibatalkan-2300880"
     },
     {
-      "title": "Manajer Kopdes Merah Putih Terima Gaji Perdana pada Akhir Oktober 2026, Bakal Disalurkan Lewat Agrinas Pangan - Kalbar News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 00:39:38 GMT",
-      "link": "https://www.kalbarnews.co.id/2026/10/manajer-kopdes-merah-putih-terima-gaji.html"
-    },
-    {
-      "title": "Kopdes Buka Peluang Kerja dan Usaha bagi Generasi Muda - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 00:32:00 GMT",
-      "link": "https://rmol.id/amp/2026/10/18/725340/kopdes-buka-peluang-kerja-dan-usaha-bagi-generasi-muda-"
-    },
-    {
-      "title": "Gaji Manajer Kopdes Merah Putih Rp6,8 Hingga Rp9,3 Juta - https://www.politikindonesia.id/",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 00:19:34 GMT",
-      "link": "https://www.politikindonesia.id/gaji-manajer-kopdes-merah-putih-rp6-8-hingga-rp9-3-juta"
-    },
-    {
-      "title": "Anggota DPR RI Khilmi Tegaskan Stok BBM Nasional Aman Termasuk di Lamongan - Afederasi",
-      "entity": "Khilmi",
-      "kind": "anggota",
-      "published": "Sat, 17 Oct 2026 23:08:14 GMT",
-      "link": "https://afederasi.com/anggota-dpr-ri-khilmi-tegaskan-stok-bbm-nasional-aman-termasuk-di-lamongan"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 18:59:21 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261018/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 18:15:32 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261018/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Kementerian Perdagangan Klaim Selamatkan Potensi Ekspor Rp8 Triliun dari 60 Kasus Hambatan Perdagangan - VOI.ID",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 18:10:00 GMT",
-      "link": "https://voi.id/ekonomi/598871/kementerian-perdagangan-klaim-selamatkan-potensi-ekspor-rp8-triliun-dari-60-kasus-hambatan-perdagangan"
-    },
-    {
-      "title": "Menkop Ferry gandeng keraton Nusantara, koperasi disiapkan jadi penggerak ekonomi budaya - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 17:56:36 GMT",
-      "link": "https://elshinta.com/indeks/dalam-negeri/menkop-ferry-gandeng-keraton-nusantara-koperasi-disiapkan-jadi-penggerak-ekonomi-budaya-181450"
-    },
-    {
-      "title": "Sadarestuwati: Alokasi Pupuk Subsidi dan Kesehatan Tanah Semakin Memprihatinkan - gesuri.id",
+      "title": "Reses di Mojokerto, Sadarestuwati Siapkan Aspirasi Petani untuk Menteri Pertanian - DPD PDI Perjuangan Jawa Timur",
       "entity": "Sadarestuwati",
       "kind": "anggota",
-      "published": "Sat, 17 Oct 2026 15:32:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/sadarestuwati-alokasi-pupuk-subsidi-dan-kesehatan-tanah-semakin-memprihatinkan-b2qcOZbiGE"
+      "published": "Sun, 18 Oct 2026 08:57:00 GMT",
+      "link": "https://pdiperjuangan-jatim.com/reses-di-mojokerto-sadarestuwati-siapkan-aspirasi-petani-untuk-menteri-pertanian/"
     },
     {
-      "title": "Ketua Komisi E DPRD Jatim Nilai Koperasi Merah Putih Belum Siap Salurkan Gaji ASN - Lentera.co",
-      "entity": "Dekopin",
+      "title": "PDIP Jatim Minta Kemenkop Kaji Ulang Wacana Gaji ASN Lewat Koperasi: Rawan Gaduh dan Belum Siap - TIMES Indonesia",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 15:09:42 GMT",
-      "link": "https://lentera.co/post/item/239858/Ketua-Komisi-E-DPRD-Jatim-Nilai-Koperasi-Merah-Putih-Belum-Siap-Salurkan-Gaji-ASN"
+      "published": "Sun, 18 Oct 2026 08:45:00 GMT",
+      "link": "https://timesindonesia.co.id/peristiwa-daerah/613361/pdip-jatim-minta-kemenkop-kaji-ulang-wacana-gaji-asn-lewat-koperasi-rawan-gaduh-dan-belum-siap"
     },
     {
-      "title": "Menteri Perdagangan Tiongkok bertemu Ketua Eksekutif Apple Tim Cook - ANTARA News",
+      "title": "Gaji ASN Lewat Koperasi Desa: Uji, Jangan Paksa - MataKita",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 08:28:56 GMT",
+      "link": "https://matakita.co/2026/10/18/gaji-asn-lewat-koperasi-desa-uji-janganpaksa/"
+    },
+    {
+      "title": "Kopdes Merah Putih Diperkirakan Hemat Belanja Rumah Tangga Rp300 Ribu/Bulan - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 08:12:15 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCXqnx-kopdes-merah-putih-diperkirakan-hemat-belanja-rumah-tangga-rp300-ribu-bulan"
+    },
+    {
+      "title": "Kemendag Promosikan Produk Pangan RI ke Pasar Global lewat S’RASA - RRI.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 15:04:30 GMT",
-      "link": "https://www.antaranews.com/berita/5793893/menteri-perdagangan-tiongkok-bertemu-ketua-eksekutif-apple-tim-cook?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+      "published": "Sun, 18 Oct 2026 07:50:00 GMT",
+      "link": "https://rri.co.id/internasional/2821095/kemendag-promosikan-produk-pangan-ri-ke-pasar-global-lewat-srasa"
     },
     {
-      "title": "Segera Diperbaiki, Bupati Safni dan Anggota DPR RI Mulyadi Tinjau Jalan Rusak Andiang-Maek - Jernih News",
-      "entity": "Mulyadi",
+      "title": "MSCI Ancam Depak Pasar Saham RI, Amin AK: Investor Tidak Perlu Panik - Industry.co.id",
+      "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Sat, 17 Oct 2026 14:30:00 GMT",
-      "link": "https://jernihnews.com/berita/7368/segera-diperbaiki-bupati-safni-dan-anggota-dpr-ri-mulyadi-tinjau-jalan-rusak-andiang-maek.html"
+      "published": "Sun, 18 Oct 2026 07:38:00 GMT",
+      "link": "https://www.industry.co.id/read/157589/msci-ancam-depak-pasar-saham-ri-amin-ak-investor-tidak-perlu-panik"
+    },
+    {
+      "title": "Kemendag dan BSN Perkuat Standar SDM Perdagangan - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 07:30:00 GMT",
+      "link": "https://serayunusantara.com/kemendag-dan-bsn-perkuat-standar-sdm-perdagangan/"
+    },
+    {
+      "title": "Website - Pemkab Padang Pariaman",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 07:19:11 GMT",
+      "link": "https://padangpariamankab.go.id/blog/berita_tampil/kemendag-ri-dukung-kerja-sama-dekranasda-padang-pariaman-dan-pt-miumosa-sulaman-kapalo-samek-tembus-pasar-fesyen-premium"
+    },
+    {
+      "title": "Kemendag Fasilitasi MoU S'RASA, Potensi Transaksi USD 25,2 Juta - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 07:05:00 GMT",
+      "link": "https://tirto.id/kemendag-fasilitasi-mou-srasa-potensi-transaksi-usd-252-juta-hDZq"
+    },
+    {
+      "title": "Tanggapi MSCI, Anggota DPR Minta Reformasi Pasar Modal Diperkuat - RRI.co.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 07:03:00 GMT",
+      "link": "https://rri.co.id/ekonomi/keuangan/2821211/tanggapi-msci-anggota-dpr-minta-reformasi-pasar-modal-diperkuat"
+    },
+    {
+      "title": "Andre Rosiade Perjuangkan Empat BTS Tambahan di Mentawai - bsinews.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 06:53:22 GMT",
+      "link": "https://bsinews.id/andre-rosiade-bts-tambahan-mentawai"
+    },
+    {
+      "title": "Andre Rosiade Kawal Pembangunan 4 BTS Telkomsel Tambahan di Mentawai - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 06:44:18 GMT",
+      "link": "https://news.detik.com/berita/d-8712473/andre-rosiade-kawal-pembangunan-4-bts-telkomsel-tambahan-di-mentawai"
+    },
+    {
+      "title": "Kemenkop Sebut KDKMP Hemat Pengeluaran Keluarga Rp300 Ribu - www.suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 06:34:18 GMT",
+      "link": "https://www.suaralandak.co.id/kemenkop-kdkmp-hemat-pengeluaran-keluarga"
     }
   ]
 }
