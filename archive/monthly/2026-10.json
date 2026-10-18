@@ -1,21 +1,21 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-17T22:52:45.454298",
+  "generated_at": "2026-10-18T00:37:37.839329",
   "party_counts_7d": {
     "Gerindra": 17,
     "PDI-P": 40,
     "Golkar": 19,
-    "PKB": 11,
+    "PKB": 12,
     "PKS": 34,
     "PAN": 2,
     "Demokrat": 16
   },
   "party_counts_30d": {
-    "Gerindra": 45,
+    "Gerindra": 46,
     "PDI-P": 79,
     "Golkar": 92,
     "NasDem": 8,
-    "PKB": 50,
+    "PKB": 49,
     "PKS": 61,
     "PAN": 21,
     "Demokrat": 27
@@ -37,16 +37,16 @@
     "investasi": 44,
     "danantara": 29,
     "umkm": 17,
-    "ekspor": 11,
+    "ekspor": 12,
     "perdagangan": 15,
-    "koperasi": 44,
+    "koperasi": 43,
     "merger-akuisisi": 12,
     "kartel-monopoli": 4,
     "impor": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
     "Kawendra Lukistian": 6,
     "Mulyadi": 4,
@@ -69,7 +69,7 @@
     "Muhammad Sarmuji": 17,
     "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 4,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
@@ -84,13 +84,34 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
-    "Perdagangan": 37,
+    "Koperasi/UMKM": 58,
+    "Perdagangan": 38,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Kopdes Buka Peluang Kerja dan Usaha bagi Generasi Muda - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 00:32:00 GMT",
+      "link": "https://rmol.id/amp/2026/10/18/725340/kopdes-buka-peluang-kerja-dan-usaha-bagi-generasi-muda-"
+    },
+    {
+      "title": "Gaji Manajer Kopdes Merah Putih Rp6,8 Hingga Rp9,3 Juta - https://www.politikindonesia.id/",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 00:19:34 GMT",
+      "link": "https://www.politikindonesia.id/gaji-manajer-kopdes-merah-putih-rp6-8-hingga-rp9-3-juta"
+    },
+    {
+      "title": "Anggota DPR RI Khilmi Tegaskan Stok BBM Nasional Aman Termasuk di Lamongan - Afederasi",
+      "entity": "Khilmi",
+      "kind": "anggota",
+      "published": "Sat, 17 Oct 2026 23:08:14 GMT",
+      "link": "https://afederasi.com/anggota-dpr-ri-khilmi-tegaskan-stok-bbm-nasional-aman-termasuk-di-lamongan"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -174,27 +195,6 @@
       "kind": "anggota",
       "published": "Sat, 17 Oct 2026 13:33:00 GMT",
       "link": "https://rmol.id/amp/2026/10/17/725313/dpr-kehadiran-kapolri-di-bei-sinyal-negara-serius-menegakkan-hukum"
-    },
-    {
-      "title": "WALHI Desak Penanganan Karhutla Lintas Sektor, Minta Presiden Tegakkan Inpres 3/2020 - Akurat Sumut",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 13:16:12 GMT",
-      "link": "https://sumut.akurat.co/news/899470/walhi-desak-penanganan-karhutla-lintas-sektor-minta-presiden-tegakkan-inpres-3-2020"
-    },
-    {
-      "title": "Danantara Siapkan Rp1,79 Triliun untuk Program Sosial, AMMI Beri Apresiasi - indoposco.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 13:06:52 GMT",
-      "link": "https://indoposco.id/2026/10/17/danantara-siapkan-rp179-triliun-untuk-program-sosial-ammi-beri-apresiasi/"
-    },
-    {
-      "title": "Kemendag Perkuat Diplomasi, Jaga Akses Ekspor Baja ke UE dan Inggris - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "link": "https://swa.co.id/read/478567/kemendag-perkuat-diplomasi-jaga-akses-ekspor-baja-ke-ue-dan-inggris"
     }
   ]
 }
