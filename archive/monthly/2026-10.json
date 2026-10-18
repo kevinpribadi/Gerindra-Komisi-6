@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T20:04:58.294675",
+  "generated_at": "2026-10-18T22:45:02.552340",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 37,
@@ -8,7 +8,7 @@
     "PKB": 11,
     "PKS": 31,
     "PAN": 2,
-    "Demokrat": 14
+    "Demokrat": 13
   },
   "party_counts_30d": {
     "Gerindra": 47,
@@ -34,11 +34,11 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 42,
+    "investasi": 41,
     "danantara": 32,
     "umkm": 14,
-    "ekspor": 8,
-    "perdagangan": 14,
+    "ekspor": 7,
+    "perdagangan": 13,
     "koperasi": 42,
     "ipo": 1,
     "merger-akuisisi": 14,
@@ -86,12 +86,26 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 35,
+    "Perdagangan": 34,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 17,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Campus Preuner di TEI 2026 Potensi Transaksi 24,57 Juta Dolar AS - Rmol.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 22:01:00 GMT",
+      "link": "https://rmol.id/read/2026/10/19/725412/campus-preuner-di-tei-2026-potensi-transaksi-24-57-juta-dolar-as"
+    },
+    {
+      "title": "Transaksi Trade Expo Indonesia 2026 Tembus Rp414 T Lampaui Target - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 21:00:56 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261018182903-92-1416794/transaksi-trade-expo-indonesia-2026-tembus-rp414-t-lampaui-target"
+    },
     {
       "title": "WKMA Bidang Yudisial Bahas Tujuh Isu Strategis Silabus Persaingan Usaha - Mahkamah Agung",
       "entity": "KPPU",
@@ -182,20 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 18 Oct 2026 12:30:07 GMT",
       "link": "https://jatim.antaranews.com/berita/1108309/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
-    },
-    {
-      "title": "Totok Hedi serahkan bantuan TJSL Pegadaian untuk KWT di Sleman - ANTARA News Yogyakarta",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 12:02:09 GMT",
-      "link": "https://jogja.antaranews.com/berita/861069/totok-hedi-serahkan-bantuan-tjsl-pegadaian-untuk-kwt-di-sleman"
-    },
-    {
-      "title": "Jelang Implementasi I-EU CEPA 2027, Kementerian Perdagangan Genjot Kesiapan Eksportir Manufaktur - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 11:30:00 GMT",
-      "link": "https://swa.co.id/read/478597/jelang-implementasi-i-eu-cepa-2027-kementerian-perdagangan-genjot-kesiapan-eksportir-manufaktur"
     }
   ]
 }
