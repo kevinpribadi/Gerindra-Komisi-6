@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T17:48:34.648236",
+  "generated_at": "2026-10-18T20:04:58.294675",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 21,
     "PDI-P": 37,
-    "Golkar": 19,
+    "Golkar": 20,
     "PKB": 11,
     "PKS": 31,
     "PAN": 2,
@@ -13,7 +13,7 @@
   "party_counts_30d": {
     "Gerindra": 47,
     "PDI-P": 82,
-    "Golkar": 87,
+    "Golkar": 88,
     "NasDem": 6,
     "PKB": 49,
     "PKS": 61,
@@ -36,13 +36,13 @@
     "bumn": 50,
     "investasi": 42,
     "danantara": 32,
-    "umkm": 15,
-    "ekspor": 9,
-    "perdagangan": 15,
+    "umkm": 14,
+    "ekspor": 8,
+    "perdagangan": 14,
     "koperasi": 42,
     "ipo": 1,
-    "merger-akuisisi": 13,
-    "kartel-monopoli": 4,
+    "merger-akuisisi": 14,
+    "kartel-monopoli": 5,
     "impor": 8
   },
   "member_counts_30d": {
@@ -66,7 +66,7 @@
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 13,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
@@ -85,19 +85,68 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 51,
+    "Koperasi/UMKM": 50,
     "Perdagangan": 35,
     "Kinerja BUMN": 14,
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 17,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "WKMA Bidang Yudisial Bahas Tujuh Isu Strategis Silabus Persaingan Usaha - Mahkamah Agung",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 15:05:00 GMT",
+      "link": "https://marinews.mahkamahagung.go.id/berita/wkma-yudisial-bahas-7-isu-strategis-silabus-persaingan-usaha-0b1R"
+    },
+    {
+      "title": "Kemenkop soal KDKMP Penyalur Gaji PNS Hanya sebagai Alternatif, Bukan Gantikan Bank - Iconomics",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 14:39:56 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemenkop-soal-kdkmp-penyalur-gaji-pns-hanya-sebagai-alternatif-bukan-gantikan-bank/"
+    },
+    {
+      "title": "Website - Pemkab Padang Pariaman",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 14:23:37 GMT",
+      "link": "https://padangpariamankab.go.id/blog/berita_tampil/kemendag-ri-dukung-kerja-sama-dekranasda-padang-pariaman-dan-pt-miumosa-sulaman-kapalo-samek-tembus-pasar-fesyen-premium?tahun=2018"
+    },
+    {
+      "title": "Kemendag-Barantin Bersinergi Pastikan Komoditas Ekspor RI Penuhi Standar Internasional - Lingkar TV",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 13:50:58 GMT",
+      "link": "https://lingkartv.com/kemendag-barantin-bersinergi-pastikan/"
+    },
+    {
+      "title": "Dekopinda Dorong Kemajuan Koperasi dalam Rapat Rencana Kerja dan Anggaran 2027 PKPRI Banyuwangi - BWI24JAM",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 13:48:39 GMT",
+      "link": "https://bwi24jam.co.id/dekopinda-dorong-kemajuan-koperasi-dalam-rapat-rencana-kerja-dan-anggaran-2027-pkpri-banyuwangi"
+    },
+    {
+      "title": "Andre Rosiade Ajak Warga Berdoa untuk Akhiri Karhutla - bsinews.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 13:29:31 GMT",
+      "link": "https://bsinews.id/andre-rosiade-doa-akhiri-karhutla"
+    },
     {
       "title": "Andre Rosiade Ajak Rakyat Indonesia Berdoa agar Karhutla Berakhir - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Sun, 18 Oct 2026 13:18:08 GMT",
       "link": "https://news.detik.com/berita/d-8712926/andre-rosiade-ajak-rakyat-indonesia-berdoa-agar-karhutla-berakhir"
+    },
+    {
+      "title": "Rizki Faisal Dorong Pemerintah Tetapkan Karhutla sebagai Bencana Nasional - tribrata tv",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 12:58:29 GMT",
+      "link": "https://tribrata.tv/18/10/regional/184379/rizki-faisal-dorong-pemerintah-tetapkan-karhutla-sebagai-bencana-nasional/"
     },
     {
       "title": "Danantara Bidik Saham BUMN Saat IHSG Anjlok 11,57 Persen - شبكة تواصل الإخبارية",
@@ -128,6 +177,13 @@
       "link": "https://jatim.antaranews.com/berita/1108313/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
     },
     {
+      "title": "Legislator Jatim nilai penyaluran gaji ASN lewat Bank Himbara ideal - Antara News jatim",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 12:30:07 GMT",
+      "link": "https://jatim.antaranews.com/berita/1108309/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
+    },
+    {
       "title": "Totok Hedi serahkan bantuan TJSL Pegadaian untuk KWT di Sleman - ANTARA News Yogyakarta",
       "entity": "Totok Hedi Santosa",
       "kind": "anggota",
@@ -140,62 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 18 Oct 2026 11:30:00 GMT",
       "link": "https://swa.co.id/read/478597/jelang-implementasi-i-eu-cepa-2027-kementerian-perdagangan-genjot-kesiapan-eksportir-manufaktur"
-    },
-    {
-      "title": "Anggota DPR Totok Hedi Serahkan Bantuan Motor Roda Tiga - RRI.co.id",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 11:19:00 GMT",
-      "link": "https://rri.co.id/yogyakarta/regional/2821786/anggota-dpr-totok-hedi-serahkan-bantuan-motor-roda-tiga"
-    },
-    {
-      "title": "Rizki Faisal Dorong Karhutla Ditetapkan sebagai Bencana Nasional - Askara.co",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 11:13:32 GMT",
-      "link": "https://www.askara.co/read/2026/10/18/69555/rizki-faisal-dorong-karhutla-ditetapkan-sebagai-bencana-nasional"
-    },
-    {
-      "title": "Elite PDIP Kuliti Ide Penyaluran Gaji ASN Lewat Koperasi: Cuma Jadi Beban Baru! - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 11:00:00 GMT",
-      "link": "https://wartaekonomi.co.id/read641686/elite-pdip-kuliti-ide-penyaluran-gaji-asn-lewat-koperasi-cuma-jadi-beban-baru"
-    },
-    {
-      "title": "Gus Fawait Aktif Lobi Kementerian di Jakarta, Bang Kawendra: Bukti Pemimpin Kreatif Demi Masyarakat - TIMES Jatim",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 10:15:00 GMT",
-      "link": "https://jatim.times.co.id/news/peristiwa/yHBHPKEH/gus-fawait-aktif-lobi-kementerian-di-jakarta-bang-kawendra-bukti-pemimpin-kreatif-demi-masyarakat"
-    },
-    {
-      "title": "Wacana Gaji PNS Daerah Lewat Koperasi, BPD Bidik Dana Murah dari UMKM - kontan.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 10:08:26 GMT",
-      "link": "https://keuangan.kontan.co.id/news/wacana-gaji-pns-daerah-lewat-koperasi-bpd-bidik-dana-murah-dari-umkm"
-    },
-    {
-      "title": "Kemendag Bidik Pasar Ekspor Baru, Perjanjian Dagang Dinilai Belum Cukup - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 09:57:00 GMT",
-      "link": "https://www.inilah.com/kemendag-bidik-pasar-ekspor-baru-perjanjian-dagang-dinilai-belum-cukup"
-    },
-    {
-      "title": "Legislator PDIP Minta Gaji ASN Lewat Kopdes Dibatalkan - Tempo.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 09:13:00 GMT",
-      "link": "https://www.tempo.co/politik/wacana-gaji-asn-dibayar-lewat-kopdes-diminta-dibatalkan-2300880"
-    },
-    {
-      "title": "Reses di Mojokerto, Sadarestuwati Siapkan Aspirasi Petani untuk Menteri Pertanian - DPD PDI Perjuangan Jawa Timur",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 08:57:00 GMT",
-      "link": "https://pdiperjuangan-jatim.com/reses-di-mojokerto-sadarestuwati-siapkan-aspirasi-petani-untuk-menteri-pertanian/"
     }
   ]
 }
