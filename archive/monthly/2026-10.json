@@ -1,20 +1,20 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T10:22:27.537105",
+  "generated_at": "2026-10-18T14:17:08.010615",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 36,
-    "Golkar": 18,
+    "Gerindra": 20,
+    "PDI-P": 37,
+    "Golkar": 19,
     "PKB": 11,
-    "PKS": 33,
+    "PKS": 31,
     "PAN": 2,
     "Demokrat": 14
   },
   "party_counts_30d": {
-    "Gerindra": 46,
-    "PDI-P": 80,
-    "Golkar": 87,
-    "NasDem": 8,
+    "Gerindra": 47,
+    "PDI-P": 82,
+    "Golkar": 88,
+    "NasDem": 6,
     "PKB": 49,
     "PKS": 61,
     "PAN": 20,
@@ -33,15 +33,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "investasi": 44,
+    "bumn": 50,
+    "investasi": 42,
     "danantara": 32,
     "umkm": 15,
-    "ekspor": 8,
+    "ekspor": 9,
     "perdagangan": 15,
-    "koperasi": 43,
+    "koperasi": 42,
     "ipo": 1,
-    "merger-akuisisi": 12,
+    "merger-akuisisi": 13,
     "kartel-monopoli": 4,
     "impor": 8
   },
@@ -49,7 +49,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 6,
+    "Kawendra Lukistian": 7,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 13,
@@ -59,17 +59,17 @@
     "Sadarestuwati": 4,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 1,
-    "Totok Hedi Santosa": 6,
+    "Totok Hedi Santosa": 8,
     "Nurdin Halid": 19,
     "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 5,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 13,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 16,
-    "Asep Wahyuwijaya": 4,
-    "I Nengah Senantara": 4,
+    "Asep Wahyuwijaya": 3,
+    "I Nengah Senantara": 3,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
@@ -85,13 +85,97 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 53,
-    "Perdagangan": 33,
+    "Koperasi/UMKM": 51,
+    "Perdagangan": 35,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 18,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Ajak Rakyat Indonesia Berdoa agar Karhutla Berakhir - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 13:18:08 GMT",
+      "link": "https://news.detik.com/berita/d-8712926/andre-rosiade-ajak-rakyat-indonesia-berdoa-agar-karhutla-berakhir"
+    },
+    {
+      "title": "Danantara Bidik Saham BUMN Saat IHSG Anjlok 11,57 Persen - شبكة تواصل الإخبارية",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 12:46:53 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6170770/"
+    },
+    {
+      "title": "Website - Pemkab Padang Pariaman",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 12:42:07 GMT",
+      "link": "https://padangpariamankab.go.id/blog/berita_tampil/kemendag-ri-dukung-kerja-sama-dekranasda-padang-pariaman-dan-pt-miumosa-sulaman-kapalo-samek-tembus-pasar-fesyen-premium?tahun=2020"
+    },
+    {
+      "title": "LKBN ANTARA raih penghargaan emas kategori media online dan sosial di Trade Expo Indonesia 2026 - ANTARA News Megapolitan",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 12:40:29 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/555769/lkbn-antara-raih-penghargaan-emas-kategori-media-online-dan-sosial-di-trade-expo-indonesia-2026"
+    },
+    {
+      "title": "Legislator Jatim nilai penyaluran gaji ASN lewat Bank Himbara ideal - Antara News jatim",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 12:30:07 GMT",
+      "link": "https://jatim.antaranews.com/berita/1108313/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
+    },
+    {
+      "title": "Totok Hedi serahkan bantuan TJSL Pegadaian untuk KWT di Sleman - ANTARA News Yogyakarta",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 12:02:09 GMT",
+      "link": "https://jogja.antaranews.com/berita/861069/totok-hedi-serahkan-bantuan-tjsl-pegadaian-untuk-kwt-di-sleman"
+    },
+    {
+      "title": "Jelang Implementasi I-EU CEPA 2027, Kementerian Perdagangan Genjot Kesiapan Eksportir Manufaktur - SWA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 11:30:00 GMT",
+      "link": "https://swa.co.id/read/478597/jelang-implementasi-i-eu-cepa-2027-kementerian-perdagangan-genjot-kesiapan-eksportir-manufaktur"
+    },
+    {
+      "title": "Anggota DPR Totok Hedi Serahkan Bantuan Motor Roda Tiga - RRI.co.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 11:19:00 GMT",
+      "link": "https://rri.co.id/yogyakarta/regional/2821786/anggota-dpr-totok-hedi-serahkan-bantuan-motor-roda-tiga"
+    },
+    {
+      "title": "Rizki Faisal Dorong Karhutla Ditetapkan sebagai Bencana Nasional - Askara.co",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 11:13:32 GMT",
+      "link": "https://www.askara.co/read/2026/10/18/69555/rizki-faisal-dorong-karhutla-ditetapkan-sebagai-bencana-nasional"
+    },
+    {
+      "title": "Elite PDIP Kuliti Ide Penyaluran Gaji ASN Lewat Koperasi: Cuma Jadi Beban Baru! - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 11:00:00 GMT",
+      "link": "https://wartaekonomi.co.id/read641686/elite-pdip-kuliti-ide-penyaluran-gaji-asn-lewat-koperasi-cuma-jadi-beban-baru"
+    },
+    {
+      "title": "Gus Fawait Aktif Lobi Kementerian di Jakarta, Bang Kawendra: Bukti Pemimpin Kreatif Demi Masyarakat - TIMES Jatim",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Sun, 18 Oct 2026 10:15:00 GMT",
+      "link": "https://jatim.times.co.id/news/peristiwa/yHBHPKEH/gus-fawait-aktif-lobi-kementerian-di-jakarta-bang-kawendra-bukti-pemimpin-kreatif-demi-masyarakat"
+    },
+    {
+      "title": "Wacana Gaji PNS Daerah Lewat Koperasi, BPD Bidik Dana Murah dari UMKM - kontan.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 10:08:26 GMT",
+      "link": "https://keuangan.kontan.co.id/news/wacana-gaji-pns-daerah-lewat-koperasi-bpd-bidik-dana-murah-dari-umkm"
+    },
     {
       "title": "Kemendag Bidik Pasar Ekspor Baru, Perjanjian Dagang Dinilai Belum Cukup - Inilah.com",
       "entity": "Kementerian Perdagangan",
@@ -112,90 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 18 Oct 2026 08:57:00 GMT",
       "link": "https://pdiperjuangan-jatim.com/reses-di-mojokerto-sadarestuwati-siapkan-aspirasi-petani-untuk-menteri-pertanian/"
-    },
-    {
-      "title": "PDIP Jatim Minta Kemenkop Kaji Ulang Wacana Gaji ASN Lewat Koperasi: Rawan Gaduh dan Belum Siap - TIMES Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 08:45:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-daerah/613361/pdip-jatim-minta-kemenkop-kaji-ulang-wacana-gaji-asn-lewat-koperasi-rawan-gaduh-dan-belum-siap"
-    },
-    {
-      "title": "Gaji ASN Lewat Koperasi Desa: Uji, Jangan Paksa - MataKita",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 08:28:56 GMT",
-      "link": "https://matakita.co/2026/10/18/gaji-asn-lewat-koperasi-desa-uji-janganpaksa/"
-    },
-    {
-      "title": "Kopdes Merah Putih Diperkirakan Hemat Belanja Rumah Tangga Rp300 Ribu/Bulan - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 08:12:15 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCXqnx-kopdes-merah-putih-diperkirakan-hemat-belanja-rumah-tangga-rp300-ribu-bulan"
-    },
-    {
-      "title": "Kemendag Promosikan Produk Pangan RI ke Pasar Global lewat S’RASA - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 07:50:00 GMT",
-      "link": "https://rri.co.id/internasional/2821095/kemendag-promosikan-produk-pangan-ri-ke-pasar-global-lewat-srasa"
-    },
-    {
-      "title": "MSCI Ancam Depak Pasar Saham RI, Amin AK: Investor Tidak Perlu Panik - Industry.co.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 07:38:00 GMT",
-      "link": "https://www.industry.co.id/read/157589/msci-ancam-depak-pasar-saham-ri-amin-ak-investor-tidak-perlu-panik"
-    },
-    {
-      "title": "Kemendag dan BSN Perkuat Standar SDM Perdagangan - Serayu Nusantara",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 07:30:00 GMT",
-      "link": "https://serayunusantara.com/kemendag-dan-bsn-perkuat-standar-sdm-perdagangan/"
-    },
-    {
-      "title": "Website - Pemkab Padang Pariaman",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 07:19:11 GMT",
-      "link": "https://padangpariamankab.go.id/blog/berita_tampil/kemendag-ri-dukung-kerja-sama-dekranasda-padang-pariaman-dan-pt-miumosa-sulaman-kapalo-samek-tembus-pasar-fesyen-premium"
-    },
-    {
-      "title": "Kemendag Fasilitasi MoU S'RASA, Potensi Transaksi USD 25,2 Juta - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 07:05:00 GMT",
-      "link": "https://tirto.id/kemendag-fasilitasi-mou-srasa-potensi-transaksi-usd-252-juta-hDZq"
-    },
-    {
-      "title": "Tanggapi MSCI, Anggota DPR Minta Reformasi Pasar Modal Diperkuat - RRI.co.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 07:03:00 GMT",
-      "link": "https://rri.co.id/ekonomi/keuangan/2821211/tanggapi-msci-anggota-dpr-minta-reformasi-pasar-modal-diperkuat"
-    },
-    {
-      "title": "Andre Rosiade Perjuangkan Empat BTS Tambahan di Mentawai - bsinews.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 06:53:22 GMT",
-      "link": "https://bsinews.id/andre-rosiade-bts-tambahan-mentawai"
-    },
-    {
-      "title": "Andre Rosiade Kawal Pembangunan 4 BTS Telkomsel Tambahan di Mentawai - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 18 Oct 2026 06:44:18 GMT",
-      "link": "https://news.detik.com/berita/d-8712473/andre-rosiade-kawal-pembangunan-4-bts-telkomsel-tambahan-di-mentawai"
-    },
-    {
-      "title": "Kemenkop Sebut KDKMP Hemat Pengeluaran Keluarga Rp300 Ribu - www.suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 06:34:18 GMT",
-      "link": "https://www.suaralandak.co.id/kemenkop-kdkmp-hemat-pengeluaran-keluarga"
     }
   ]
 }
