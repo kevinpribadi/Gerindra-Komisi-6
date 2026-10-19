@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-18T22:45:02.552340",
+  "generated_at": "2026-10-19T00:47:42.132001",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 37,
@@ -34,10 +34,10 @@
   },
   "topic_counts_30d": {
     "bumn": 50,
-    "investasi": 41,
+    "investasi": 39,
     "danantara": 32,
     "umkm": 14,
-    "ekspor": 7,
+    "ekspor": 5,
     "perdagangan": 13,
     "koperasi": 42,
     "ipo": 1,
@@ -85,19 +85,47 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
-    "Perdagangan": 34,
+    "Koperasi/UMKM": 51,
+    "Perdagangan": 32,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 17,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
+      "title": "Danantara Buka Jalan Pembiayaan PSEL, Minat Kredit Lampaui Tiga Kali Kebutuhan - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 00:36:00 GMT",
+      "link": "https://rmol.id/read/2026/10/19/725423/danantara-buka-jalan-pembiayaan-psel-minat-kredit-lampaui-tiga-kali-kebutuhan"
+    },
+    {
+      "title": "TEI ke-41 Ditutup, Nilai Transaksi Tembus 22,94 Miliar Dollar AS Lampaui Target - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 23:42:00 GMT",
+      "link": "https://www.industry.co.id/read/157617/tei-ke-41-ditutup-nilai-transaksi-tembus-2294-miliar-dollar-as-lampaui-target"
+    },
+    {
+      "title": "BPD Mulai Memperluas Sumber Dana Murah - KONTAN",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 22:50:14 GMT",
+      "link": "https://insight.kontan.co.id/news/bpd-mulai-memperluas-sumber-dana-murah"
+    },
+    {
       "title": "Campus Preuner di TEI 2026 Potensi Transaksi 24,57 Juta Dolar AS - Rmol.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sun, 18 Oct 2026 22:01:00 GMT",
       "link": "https://rmol.id/read/2026/10/19/725412/campus-preuner-di-tei-2026-potensi-transaksi-24-57-juta-dolar-as"
+    },
+    {
+      "title": "Transaksi Trade Expo Indonesia 2026 Tembus Rp414 T Lampaui Target - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 18 Oct 2026 21:00:56 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261018182903-92-1416794/transaksi-trade-expo-indonesia-2026-tembus-rp414-t-lampaui-target"
     },
     {
       "title": "Transaksi Trade Expo Indonesia 2026 Tembus Rp414 T Lampaui Target - CNN Indonesia",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 18 Oct 2026 12:46:53 GMT",
       "link": "https://twaslnews1.twaslnews.com/6170770/"
-    },
-    {
-      "title": "Website - Pemkab Padang Pariaman",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 12:42:07 GMT",
-      "link": "https://padangpariamankab.go.id/blog/berita_tampil/kemendag-ri-dukung-kerja-sama-dekranasda-padang-pariaman-dan-pt-miumosa-sulaman-kapalo-samek-tembus-pasar-fesyen-premium?tahun=2020"
-    },
-    {
-      "title": "LKBN ANTARA raih penghargaan emas kategori media online dan sosial di Trade Expo Indonesia 2026 - ANTARA News Megapolitan",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 12:40:29 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/555769/lkbn-antara-raih-penghargaan-emas-kategori-media-online-dan-sosial-di-trade-expo-indonesia-2026"
-    },
-    {
-      "title": "Legislator Jatim nilai penyaluran gaji ASN lewat Bank Himbara ideal - Antara News jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 12:30:07 GMT",
-      "link": "https://jatim.antaranews.com/berita/1108313/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
-    },
-    {
-      "title": "Legislator Jatim nilai penyaluran gaji ASN lewat Bank Himbara ideal - Antara News jatim",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 18 Oct 2026 12:30:07 GMT",
-      "link": "https://jatim.antaranews.com/berita/1108309/legislator-jatim-nilai-penyaluran-gaji-asn-lewat-bank-himbara-ideal"
     }
   ]
 }
