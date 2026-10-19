@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-19T05:42:31.333587",
+  "generated_at": "2026-10-19T12:06:03.792436",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 24,
     "PDI-P": 34,
     "Golkar": 22,
     "PKB": 11,
-    "PKS": 30,
+    "PKS": 26,
     "PAN": 2,
     "Demokrat": 12
   },
   "party_counts_30d": {
-    "Gerindra": 49,
-    "PDI-P": 77,
-    "Golkar": 89,
+    "Gerindra": 51,
+    "PDI-P": 76,
+    "Golkar": 90,
     "NasDem": 6,
     "PKB": 49,
-    "PKS": 61,
+    "PKS": 57,
     "PAN": 20,
     "Demokrat": 27
   },
@@ -33,23 +33,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 48,
-    "investasi": 39,
-    "danantara": 32,
-    "umkm": 15,
-    "ekspor": 6,
-    "perdagangan": 9,
-    "koperasi": 42,
-    "ipo": 1,
+    "bumn": 49,
+    "investasi": 40,
+    "danantara": 31,
+    "umkm": 16,
+    "perdagangan": 12,
+    "ekspor": 5,
+    "koperasi": 36,
     "merger-akuisisi": 14,
-    "kartel-monopoli": 7,
+    "kartel-monopoli": 9,
     "impor": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 9,
+    "Kawendra Lukistian": 11,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 10,
@@ -58,9 +57,8 @@
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 4,
     "Ida Nurlaela": 3,
-    "Budi Sulistyono": 1,
     "Totok Hedi Santosa": 8,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 19,
     "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 6,
@@ -75,7 +73,7 @@
     "Nasim Khan": 16,
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 20,
+    "Rizal Bawazier": 16,
     "Ghufran": 11,
     "Ismail": 10,
     "Nasril Bahar": 5,
@@ -85,117 +83,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 51,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 49,
+    "Perdagangan": 28,
     "Kinerja BUMN": 14,
     "Hukum/Audit": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Dinas Koperasi dan UMKM Bersama Kemenkop RI Gelar Rapat Koordinasi Percepatan Operasional KDKMP di Papua Barat Daya - Kantor Berita RMOL Papua",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 05:07:52 GMT",
-      "link": "https://www.rmolpapua.id/dinas-koperasi-dan-umkm-bersama-kemenkop-ri-gelar-rapat-koordinasi-percepatan-operasional-kdkmp-di-papua-barat-daya"
-    },
-    {
-      "title": "Rizki Faisal Desak Karhutla Ditetapkan sebagai Bencana Nasional - Golkarpedia",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 05:03:10 GMT",
-      "link": "https://golkarpedia.com/rizki-faisal-desak-karhutla-ditetapkan-sebagai-bencana-nasional/"
-    },
-    {
-      "title": "Masuk ke Saham, Dana Danantara Hanya Kuat Kurang Dari 2 Hari - Bloomberg Technoz",
+      "title": "Danantara Merger 4 Manajer Investasi, Bidik Pemain Besar di Level Global - Warta Ekonomi",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 04:50:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/124998/masuk-ke-saham-dana-danantara-hanya-kuat-kurang-dari-2-hari"
+      "published": "Mon, 19 Oct 2026 11:55:00 GMT",
+      "link": "https://wartaekonomi.co.id/read641950/danantara-merger-4-manajer-investasi-bidik-pemain-besar-di-level-global"
     },
     {
-      "title": "Status Terbaru Gaji PNS Lewat Kopdes. Ini Penjelasannya - Radar Pati",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 04:32:11 GMT",
-      "link": "https://radarpati.jawapos.com/nasional/2610190037/status-terbaru-gaji-pns-lewat-kopdes-ini-penjelasannya"
-    },
-    {
-      "title": "KPPU Tinjau KEK Sei Mangkei Dan Ingatkan Pengelola Jaga Iklim Persaingan Sehat - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 04:27:03 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-tinjau-kek-sei-mangkei-dan-ingatkan-pengelola-jaga-iklim-persaingan-sehat/"
-    },
-    {
-      "title": "Dari Kampus hingga Komunitas, BPKN Perkuat Ekosistem Perlindungan Konsumen Jatim - Harian Bhirawa",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 04:25:39 GMT",
-      "link": "https://harianbhirawa.co.id/dari-kampus-hingga-komunitas-bpkn-perkuat-ekosistem-perlindungan-konsumen-jatim/"
-    },
-    {
-      "title": "Komisi VI DPR RI Puji Bupati Jember Gus Fawait Aktif Lobi Kementerian Demi Masyarakat - JATIM POS online",
+      "title": "Temukan Rumah Warga Tak Layak Huni di Jember, Anggota DPR RI ini Ambil Langkah Begini - PANTURA7.com",
       "entity": "Kawendra Lukistian",
       "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 04:23:03 GMT",
-      "link": "https://www.jatimpos.co/jatim/pantura/22526-komisi-vi-dpr-ri-puji-bupati-jember-gus-fawait-aktif-lobi-kementerian-demi-masyarakat"
+      "published": "Mon, 19 Oct 2026 11:25:17 GMT",
+      "link": "https://www.pantura7.com/2026/10/19/temukan-rumah-warga-tak-layak-huni-di-jember-anggota-dpr-ri-ini-ambil-langkah-begini/"
     },
     {
-      "title": "Terjerat Dugaan Monopoli, Carsome, Carmudi, dan Mobil123 Pasrah Diawasi Ketat KPPU - Beritakota",
+      "title": "Dari Tanah Suci, Andre Rosiade dan Jemaah Umrah Berdoa agar Karhutla Padam - ANTARA News Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 19 Oct 2026 11:14:41 GMT",
+      "link": "https://sumbar.antaranews.com/berita/783949/dari-tanah-suci-andre-rosiade-dan-jemaah-umrah-berdoa-agar-karhutla-padam"
+    },
+    {
+      "title": "KPPU Dorong Mahasiswa Paham Hukum Persaingan Usaha Ekonomi Sigital - majalahnurani.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 03:57:00 GMT",
-      "link": "https://beritakota.id/terjerat-dugaan-monopoli-carsome-carmudi-dan-mobil123-pasrah-diawasi-ketat-kppu/"
+      "published": "Mon, 19 Oct 2026 10:56:07 GMT",
+      "link": "https://majalahnurani.com/2026/10/19/kppu-dorong-mahasiswa-paham-hukum-persaingan-usaha-ekonomi-sigital/"
     },
     {
-      "title": "KPPU Tinjau KEK Sei Mangkei, Ingatkan Pentingnya Tarif Layanan Wajar dan Persaingan Sehat - AnalisaDaily.com",
+      "title": "Platform Digital Makin Dominan, KPPU Soroti Ancaman bagi Pesaing Baru - kanalsatu.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 03:45:06 GMT",
-      "link": "https://analisadaily.com/berita/baca/2026/10/19/1078595/kppu-tinjau-kek-sei-mangkei-ingatkan-pentingnya-tarif-layanan-wajar-dan-persaingan-sehat/"
+      "published": "Mon, 19 Oct 2026 10:48:00 GMT",
+      "link": "https://kanalsatu.com/id/post/69343/platform-digital-makin-dominan--kppu-soroti-ancaman-bagi-pesaing-baru"
     },
     {
-      "title": "Barantin dan Kemendag Perkuat Akses Pasar, UMKM Jadi Fokus Fasilitasi Ekspor - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
+      "title": "Menkop Teken MoU dengan FSKN, Pengembangan Ekonomi Kerakyatan Berbasis Budaya - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 03:44:31 GMT",
-      "link": "https://suarapemerintah.id/2026/10/barantin-dan-kemendag-perkuat-akses-pasar-umkm-jadi-fokus-fasilitasi-ekspor/"
+      "published": "Mon, 19 Oct 2026 10:12:30 GMT",
+      "link": "https://suarapemerintah.id/2026/10/menkop-teken-mou-dengan-fskn-pengembangan-ekonomi-kerakyatan-berbasis-budaya/"
     },
     {
-      "title": "Dua Tahun Pemerintahan Prabowo-Gibran, Begini Kata Bos Investasi Danantara - Bisnis.com - Market",
+      "title": "Dony Oskaria Dipanggil ke Istana, Siap Borong Saham BUMN - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 03:24:46 GMT",
-      "link": "https://market.bisnis.com/read/20261019/192/2013698/dua-tahun-pemerintahan-prabowo-gibran-begini-kata-bos-investasi-danantara"
+      "published": "Mon, 19 Oct 2026 10:07:48 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261019170353-17-777598/dony-oskaria-dipanggil-ke-istana-siap-borong-saham-bumn"
     },
     {
-      "title": "Eksportir Manufaktur Disiapkan Menyambut I-EU CEPA - Serayu Nusantara",
+      "title": "TEI 2026 Catat Potensi Transaksi USD 22,94 Miliar - www.suaralandak.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 03:00:00 GMT",
-      "link": "https://serayunusantara.com/eksportir-manufaktur-disiapkan-menyambut-i-eu-cepa/"
+      "published": "Mon, 19 Oct 2026 10:03:25 GMT",
+      "link": "https://www.suaralandak.co.id/tei-2026-transaksi-ekspor-indonesia"
     },
     {
-      "title": "Bupati Jember Bersama Anggota DPR RI Kawendra ke Pelosok Desa Tinjau Program Homecare - Lentera.co",
-      "entity": "Kawendra Lukistian",
+      "title": "Andre Rosiade Salurkan Becak Motor untuk Pedagang Ikan di Padang - شبكة تواصل الإخبارية",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 02:56:07 GMT",
-      "link": "https://lentera.co/post/item/239903/Bupati-Jember-Bersama-Anggota-DPR-RI-Kawendra-ke-Pelosok-Desa-Tinjau-Program-Homecare"
+      "published": "Mon, 19 Oct 2026 10:00:53 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6216354/"
     },
     {
-      "title": "Perkara Persaingan Usaha Kian Kompleks, WKMA Suharto Tegaskan Pentingnya Kompetensi Hakim - Dandapala Digital",
-      "entity": "KPPU",
+      "title": "Andre Rosiade Respons Aspirasi Warga, Pedagang Ikan Terima Becak Motor - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 19 Oct 2026 09:46:44 GMT",
+      "link": "https://news.detik.com/berita/d-8714193/andre-rosiade-respons-aspirasi-warga-pedagang-ikan-terima-becak-motor"
+    },
+    {
+      "title": "Wakil Wali Kota Bima Koordinasi dengan Menteri Perdagangan RI, Bahas Pengembangan Pasar dan UMKM - Pemerintah Kota Bima",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 02:35:00 GMT",
-      "link": "https://dandapala.com/article/detail/perkara-persaingan-usaha-kian-kompleks-wkma-suharto-tegaskan-pentingnya-kompetensi-hakim"
+      "published": "Mon, 19 Oct 2026 09:42:12 GMT",
+      "link": "https://prokopim.bimakota.go.id/web/detail-berita/2408/wakil-wali-kota-bima-koordinasi-dengan-menteri-perdagangan-ri-bahas-pengembangan-pasar-dan-umkm"
     },
     {
-      "title": "Siap-Siap Gaji ASN Bakal Disalurkan Lewat Kopdes, Nasib Bank Daerah Terancam - TheStance",
+      "title": "Fitch Pertahankan Penilaian Dukungan Pemerintah kepada BUMN - Demokratis.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 09:41:18 GMT",
+      "link": "https://demokratis.co.id/fitch-pertahankan-dukungan-pemerintah-bumn"
+    },
+    {
+      "title": "Kemenkop Dorong Pembentukan Koperasi Kopi Bondowoso - RRI.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 02:25:32 GMT",
-      "link": "https://thestance.id/siap-siap-gaji-asn-bakal-disalurkan-lewat-kopdes-nasib-bank-daerah-terancam"
+      "published": "Mon, 19 Oct 2026 09:05:00 GMT",
+      "link": "https://rri.co.id/jember/ekonomi/makro/2824392/kemenkop-dorong-pembentukan-koperasi-kopi-bondowoso"
+    },
+    {
+      "title": "Pemerintah Bangun Kekuatan Ekonomi via Koperasi Keraton Nusantara - InfoPublik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 08:33:14 GMT",
+      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/993659/pemerintah-bangun-kekuatan-ekonomi-via-koperasi-keraton-nusantara"
+    },
+    {
+      "title": "Kemenkop, Organisasi Keagamaan Padukan Kekuatan Rantai Pasok Koperasi Merah Putih - InfoPublik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 08:04:00 GMT",
+      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/993637/kemenkop-organisasi-keagamaan-padukan-kekuatan-rantai-pasok-koperasi-merah-putih"
     }
   ]
 }
