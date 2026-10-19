@@ -1,13 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-19T18:59:28.204177",
+  "generated_at": "2026-10-19T22:52:01.383842",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 35,
     "Golkar": 22,
     "PKB": 11,
     "PKS": 23,
-    "PAN": 2,
+    "PAN": 3,
     "Demokrat": 11
   },
   "party_counts_30d": {
@@ -17,7 +17,7 @@
     "NasDem": 6,
     "PKB": 49,
     "PKS": 56,
-    "PAN": 20,
+    "PAN": 21,
     "Demokrat": 27
   },
   "agency_counts_30d": {
@@ -34,12 +34,12 @@
   },
   "topic_counts_30d": {
     "bumn": 49,
-    "investasi": 41,
+    "investasi": 42,
     "danantara": 28,
     "umkm": 16,
     "ekspor": 5,
     "perdagangan": 12,
-    "koperasi": 35,
+    "koperasi": 34,
     "merger-akuisisi": 13,
     "kartel-monopoli": 9,
     "impor": 8
@@ -77,7 +77,7 @@
     "Ghufran": 11,
     "Ismail": 10,
     "Nasril Bahar": 5,
-    "Iskandar": 15,
+    "Iskandar": 16,
     "Sartono": 6,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
@@ -90,6 +90,13 @@
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Bima ajukan anggaran Rp5,23 miliar untuk bagun gudang pertanian - ANTARA News Mataram",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 21:32:12 GMT",
+      "link": "https://mataram.antaranews.com/berita/577013/bima-ajukan-anggaran-rp523-miliar-untuk-bagun-gudang-pertanian"
+    },
     {
       "title": "Tunggu Regulasi Resmi Penyaluran Gaji ASN Melalui Koperasi - SUARANTB.com",
       "entity": "Kementerian Koperasi",
@@ -117,6 +124,20 @@
       "kind": "lembaga",
       "published": "Mon, 19 Oct 2026 17:21:35 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261020/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Menkop sebut dakwah ekonomi SI sejalan dengan program KDKMP - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 16:10:11 GMT",
+      "link": "https://jatim.antaranews.com/berita/1108929/menkop-sebut-dakwah-ekonomi-si-sejalan-dengan-program-kdkmp"
+    },
+    {
+      "title": "Ketidaksesuaian Pertimbangan dan Amar Putusan Komisi Informasi Kalbar Dipertanyakan, Herry Iskandar Soroti Ketegasan Akses Salinan Dokumen Hibah - Radar Kalbar",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Mon, 19 Oct 2026 15:50:51 GMT",
+      "link": "https://radarkalbar.com/baca/19102026/ketidaksesuaian-pertimbangan-dan-amar-putusan-ki-kalbar-dipertanyakan-herry-iskandar-soroti-ketegasan-akses-salinan-dokumen-hibah/amp/"
     },
     {
       "title": "Kemendag dan Nestlé Indonesia Teken MoU Dorong Ekspor dari Hulu - Olenka",
@@ -173,27 +194,6 @@
       "kind": "lembaga",
       "published": "Mon, 19 Oct 2026 12:16:17 GMT",
       "link": "https://babel.antaranews.com/berita/588713/pemkot-pangkalpinang-verifikasi-bangunan-gerai-kdkmp"
-    },
-    {
-      "title": "Anggota DPR RI Apresiasi Program Homecare Bupati Jember yang Mampu Jangkau Warga Pelosok Gunung - JATIM POS online",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 12:01:17 GMT",
-      "link": "https://www.jatimpos.co/jatim/pantura/22537-anggota-dpr-ri-apresiasi-program-homecare-bupati-jember-yang-mampu-jangkau-warga-pelosok-gunung"
-    },
-    {
-      "title": "Danantara Merger 4 Manajer Investasi, Bidik Pemain Besar di Level Global - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 11:55:00 GMT",
-      "link": "https://wartaekonomi.co.id/read641950/danantara-merger-4-manajer-investasi-bidik-pemain-besar-di-level-global"
-    },
-    {
-      "title": "Temukan Rumah Warga Tak Layak Huni di Jember, Anggota DPR RI ini Ambil Langkah Begini - PANTURA7.com",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 11:25:17 GMT",
-      "link": "https://www.pantura7.com/2026/10/19/temukan-rumah-warga-tak-layak-huni-di-jember-anggota-dpr-ri-ini-ambil-langkah-begini/"
     }
   ]
 }
