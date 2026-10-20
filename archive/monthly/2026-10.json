@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-20T01:33:42.509892",
+  "generated_at": "2026-10-20T07:08:55.362765",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 35,
+    "Gerindra": 21,
+    "PDI-P": 33,
     "Golkar": 22,
-    "NasDem": 1,
+    "NasDem": 2,
     "PKB": 11,
-    "PKS": 22,
+    "PKS": 19,
     "PAN": 3,
-    "Demokrat": 11
+    "Demokrat": 12
   },
   "party_counts_30d": {
-    "Gerindra": 52,
+    "Gerindra": 53,
     "PDI-P": 76,
     "Golkar": 90,
-    "NasDem": 7,
+    "NasDem": 8,
     "PKB": 48,
-    "PKS": 56,
+    "PKS": 54,
     "PAN": 21,
     "Demokrat": 27
   },
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 49,
-    "investasi": 42,
+    "investasi": 46,
     "danantara": 28,
-    "umkm": 16,
-    "ekspor": 4,
-    "perdagangan": 12,
-    "koperasi": 36,
-    "merger-akuisisi": 13,
+    "umkm": 15,
+    "perdagangan": 15,
+    "ekspor": 6,
+    "koperasi": 35,
+    "merger-akuisisi": 11,
     "kartel-monopoli": 9,
     "impor": 8
   },
@@ -49,7 +49,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 13,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 9,
@@ -69,13 +69,13 @@
     "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
-    "Rudi Hartono Bangun": 1,
+    "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
     "Ida Fauziyah": 8,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 15,
+    "Rizal Bawazier": 13,
     "Ghufran": 11,
     "Ismail": 10,
     "Nasril Bahar": 5,
@@ -85,117 +85,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 52,
-    "Perdagangan": 27,
+    "Koperasi/UMKM": 54,
+    "Perdagangan": 29,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Kemendag Dorong Tenaga Profesional Manfaatkan Perjanjian Dagang - Serayu Nusantara",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 01:00:00 GMT",
-      "link": "https://serayunusantara.com/kemendag-dorong-tenaga-profesional-manfaatkan-perjanjian-dagang/"
-    },
-    {
-      "title": "Menkop Klaim Kopdes Bisa Perhemat Pengeluaran Rumah Tanggal hingga Rp 300 Ribu per Bulan - realita.co",
+      "title": "Ada 11 Gerai Koperasi Merah Putih di Balikpapan Tapi Belum Beroperasi Penuh - Korankaltim.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 00:35:00 GMT",
-      "link": "https://realita.co/baca-51753-menkop-klaim-kopdes-bisa-perhemat-pengeluaran-rumah-tanggal-hingga-rp-300-ribu-per-bulan"
+      "published": "Tue, 20 Oct 2026 06:27:58 GMT",
+      "link": "https://korankaltim.com/read/balikpapan/94815/ada-11-gerai-koperasi-merah-putih-di-balikpapan-tapi-belum-beroperasi-penuh"
     },
     {
-      "title": "Masyarakat Soroti Pembiayaan Rp1,56 Triliun Jasa Marga dari BSI, DPR Didesak Ikut Awasi - Suara Investor",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Tue, 20 Oct 2026 00:19:46 GMT",
-      "link": "https://www.suarainvestor.com/masyarakat-soroti-pembiayaan-rp156-triliun-jasa-marga-dari-bsi-dpr-didesak-ikut-awasi/"
-    },
-    {
-      "title": "Kaji Ulang Rencana Penyaluran Gaji ASN melalui Koperasi Desa - Partai NasDem",
+      "title": "Rama Aulia Temui Wamenkop, Bidik Peluang Baru bagi Koperasi dan Ekspor Kopi Gayo - Lintas Gayo",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 23:17:14 GMT",
-      "link": "https://partainasdem.id/2026/10/20/kaji-ulang-rencana-penyaluran-gaji-asn-melalui-koperasi-desa/"
+      "published": "Tue, 20 Oct 2026 06:03:27 GMT",
+      "link": "https://lintasgayo.com/rama-aulia-temui-wamenkop-bidik-peluang-baru-bagi-koperasi-dan-ekspor-kopi-gayo/"
     },
     {
-      "title": "IHSG Anjlok, Danantara Cium Peluang Cuan di Saham Murah - CNBC Indonesia",
+      "title": "BRI Siap Buyback Saham, Optimistis Fundamental Tetap Kuat - Bloomberg Technoz",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 23:16:08 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261020061239-17-777671/ihsg-anjlok-danantara-cium-peluang-cuan-di-saham-murah"
+      "published": "Tue, 20 Oct 2026 05:55:01 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/125137/bri-siap-buyback-saham-optimistis-fundamental-tetap-kuat"
     },
     {
-      "title": "BRI Perkuat Fondasi Ekonomi Kerakyatan Lewat Koperasi Merah Putih - Rakyat Sulsel",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 23:08:58 GMT",
-      "link": "https://rakyatsulsel.fajar.co.id/2026/10/20/bri-perkuat-fondasi-ekonomi-kerakyatan-lewat-koperasi-merah-putih/"
-    },
-    {
-      "title": "Bima ajukan anggaran Rp5,23 miliar untuk bagun gudang pertanian - ANTARA News Mataram",
+      "title": "RI-China Teken 8 MoU Di TEI 2026, Bidik Peluang Investasi & Perdagangan - RM.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 21:32:12 GMT",
-      "link": "https://mataram.antaranews.com/berita/577013/bima-ajukan-anggaran-rp523-miliar-untuk-bagun-gudang-pertanian"
+      "published": "Tue, 20 Oct 2026 05:47:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/330892/richina-teken-8-mou-di-tei-2026-bidik-peluang-investasi-perdagangan"
     },
     {
-      "title": "Tunggu Regulasi Resmi Penyaluran Gaji ASN Melalui Koperasi - SUARANTB.com",
+      "title": "Kemenkop Pastikan Gaji Manajer Kopdes Cair Paling Lambat 1 November 2026 - Warta Ekonomi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 18:50:00 GMT",
-      "link": "https://suarantb.com/2026/10/20/tunggu-regulasi-resmi-penyaluran-gaji-asn-melalui-koperasi/"
+      "published": "Tue, 20 Oct 2026 05:22:00 GMT",
+      "link": "https://wartaekonomi.co.id/read642135/kemenkop-pastikan-gaji-manajer-kopdes-cair-paling-lambat-1-november-2026"
     },
     {
-      "title": "Wacana Gaji ASN Lewat Koperasi Merah Putih, Fraksi PDIP: Berisiko - Liputan Jatim",
+      "title": "Sebanyak 138 Bendahara Koperasi Merah Putih di Riau Ikuti Pelatihan - RRI.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 18:28:09 GMT",
-      "link": "https://liputanjatim.com/berita/wacana-gaji-asn-lewat-koperasi-merah-putih-fraksi-pdip-berisiko"
+      "published": "Tue, 20 Oct 2026 04:15:00 GMT",
+      "link": "https://rri.co.id/pekanbaru/asta-cita/2826211/sebanyak-138-bendahara-koperasi-merah-putih-di-riau-ikuti-pelatihan"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "BPKN RI Dorong AED Tersedia di Ruang Publik: Jangan Tunggu Ada Korban Baru Bergerak - indramayunews.id",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 17:48:52 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261020/Mjc0NDQ0"
+      "published": "Tue, 20 Oct 2026 03:44:32 GMT",
+      "link": "https://indramayunews.id/2026/10/20/bpkn-ri-dorong-aed-tersedia-di-ruang-publik-jangan-tunggu-ada-korban-baru-bergerak/"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Ke Malaysia Makin Mudah, Batam Penang Terbang Tiga Kali Sepekan - Harian Kepri",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 17:21:35 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261020/MTEyNg%3D%3D"
+      "published": "Tue, 20 Oct 2026 03:41:07 GMT",
+      "link": "https://www.hariankepri.com/ke-malaysia-makin-mudah-batam-penang-terbang-tiga-kali-sepekan/"
     },
     {
-      "title": "Menkop sebut dakwah ekonomi SI sejalan dengan program KDKMP - Antara News jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 16:10:11 GMT",
-      "link": "https://jatim.antaranews.com/berita/1108929/menkop-sebut-dakwah-ekonomi-si-sejalan-dengan-program-kdkmp"
-    },
-    {
-      "title": "Ketidaksesuaian Pertimbangan dan Amar Putusan Komisi Informasi Kalbar Dipertanyakan, Herry Iskandar Soroti Ketegasan Akses Salinan Dokumen Hibah - Radar Kalbar",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Mon, 19 Oct 2026 15:50:51 GMT",
-      "link": "https://radarkalbar.com/baca/19102026/ketidaksesuaian-pertimbangan-dan-amar-putusan-ki-kalbar-dipertanyakan-herry-iskandar-soroti-ketegasan-akses-salinan-dokumen-hibah/amp/"
-    },
-    {
-      "title": "Kemendag dan Nestlé Indonesia Teken MoU Dorong Ekspor dari Hulu - Olenka",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 15:05:00 GMT",
-      "link": "https://olenka.id/kemendag-dan-nestl%C3%A9-indonesia-teken-mou-dorong-ekspor-dari-hulu"
-    },
-    {
-      "title": "Danantara Inisiasi DTIIF 2026, Tarik Modal Global dan Pacu Transformasi 6 Sektor Industri - Stabilitas.id",
+      "title": "Danantara Anggap Koreksi IHSG Peluang Investasi Jangka Panjang - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 14:39:49 GMT",
-      "link": "https://www.stabilitas.id/danantara-inisiasi-dtiif-2026-tarik-modal-global-dan-pacu-transformasi-6-sektor-industri/"
+      "published": "Tue, 20 Oct 2026 03:23:30 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261020100338-17-777743/danantara-anggap-koreksi-ihsg-peluang-investasi-jangka-panjang"
+    },
+    {
+      "title": "Soal Gaji ASN via Koperasi Merah Putih, Sri Untari: Pengurus Belum Memadai - Kabarpas",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 03:18:11 GMT",
+      "link": "https://kabarpas.com/soal-gaji-asn-via-koperasi-merah-putih-sri-untari-pengurus-belum-memadai/"
+    },
+    {
+      "title": "Kemendag Anugerahkan IPSKA Award 2026 - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 03:00:00 GMT",
+      "link": "https://serayunusantara.com/kemendag-anugerahkan-ipska-award-2026/"
+    },
+    {
+      "title": "Arief Poyuono: Danantara Bisa Jadi Mesin Baru Pertumbuhan Ekonomi Indonesia - VOI.ID",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 02:15:00 GMT",
+      "link": "https://voi.id/berita/599179/arief-poyuono-danantara-bisa-jadi-mesin-baru-pertumbuhan-ekonomi-indonesia"
+    },
+    {
+      "title": "IHSG Anjlok, Danantara Cium Peluang Investasi Berburu Saham Murah! - - Kotaku.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 02:02:51 GMT",
+      "link": "https://kotaku.co.id/ihsg-anjlok-danantara-cium-peluang-investasi-berburu-saham-murah/"
+    },
+    {
+      "title": "Mendag Minta Perwakilan Perdagangan Fokus Tingkatkan Ekspor - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 02:00:00 GMT",
+      "link": "https://serayunusantara.com/mendag-minta-perwakilan-perdagangan-fokus-tingkatkan-ekspor/"
+    },
+    {
+      "title": "OJK Belum Bahas Usulan Gaji ASN Lewat Koperasi Merah Putih - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 01:35:19 GMT",
+      "link": "https://demokratis.co.id/ojk-usulan-gaji-asn-koperasi-merah-putih"
     }
   ]
 }
