@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-20T07:08:55.362765",
+  "generated_at": "2026-10-20T13:19:09.046367",
   "party_counts_7d": {
-    "Gerindra": 21,
-    "PDI-P": 33,
-    "Golkar": 22,
+    "Gerindra": 20,
+    "PDI-P": 29,
+    "Golkar": 16,
     "NasDem": 2,
-    "PKB": 11,
-    "PKS": 19,
+    "PKB": 12,
+    "PKS": 18,
     "PAN": 3,
-    "Demokrat": 12
+    "Demokrat": 11
   },
   "party_counts_30d": {
-    "Gerindra": 53,
+    "Gerindra": 54,
     "PDI-P": 76,
     "Golkar": 90,
     "NasDem": 8,
-    "PKB": 48,
+    "PKB": 50,
     "PKS": 54,
     "PAN": 21,
     "Demokrat": 27
@@ -34,29 +34,29 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "investasi": 46,
+    "bumn": 47,
+    "investasi": 49,
     "danantara": 28,
-    "umkm": 15,
-    "perdagangan": 15,
-    "ekspor": 6,
-    "koperasi": 35,
+    "umkm": 13,
+    "ekspor": 7,
+    "perdagangan": 16,
+    "koperasi": 36,
     "merger-akuisisi": 11,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 8,
     "impor": 8
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 13,
+    "Kawendra Lukistian": 14,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 9,
-    "Darmadi Durianto": 10,
+    "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
-    "Sadarestuwati": 4,
+    "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 9,
     "Nurdin Halid": 19,
@@ -72,8 +72,8 @@
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 16,
-    "Ida Fauziyah": 8,
+    "Nasim Khan": 17,
+    "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
     "Ghufran": 11,
@@ -85,117 +85,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 54,
-    "Perdagangan": 29,
+    "Koperasi/UMKM": 51,
+    "Perdagangan": 30,
     "Hukum/Audit": 16,
-    "Kinerja BUMN": 15,
+    "Kinerja BUMN": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
-      "title": "Ada 11 Gerai Koperasi Merah Putih di Balikpapan Tapi Belum Beroperasi Penuh - Korankaltim.com",
+      "title": "Suahasil Pertahankan Skema Transfer Gaji ASN Langsung ke Rekening - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 06:27:58 GMT",
-      "link": "https://korankaltim.com/read/balikpapan/94815/ada-11-gerai-koperasi-merah-putih-di-balikpapan-tapi-belum-beroperasi-penuh"
+      "published": "Tue, 20 Oct 2026 12:36:55 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6287609/"
     },
     {
-      "title": "Rama Aulia Temui Wamenkop, Bidik Peluang Baru bagi Koperasi dan Ekspor Kopi Gayo - Lintas Gayo",
+      "title": "Kata Ketua Komisi E DPRD Jatim, Gaji PNS Lewat Koperasi Merah Putih Tidak Tepat - VIVA Jatim",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 06:03:27 GMT",
-      "link": "https://lintasgayo.com/rama-aulia-temui-wamenkop-bidik-peluang-baru-bagi-koperasi-dan-ekspor-kopi-gayo/"
+      "published": "Tue, 20 Oct 2026 12:26:00 GMT",
+      "link": "https://jatim.viva.co.id/kabar/28529-kata-ketua-komisi-e-dprd-jatim-gaji-pns-lewat-koperasi-merah-putih-tidak-tepat"
     },
     {
-      "title": "BRI Siap Buyback Saham, Optimistis Fundamental Tetap Kuat - Bloomberg Technoz",
+      "title": "Soal Isu Gaji ASN lewat Kopdes Merah Putih, Menkeu Suahasil: Tetap seperti Sekarang - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 12:21:00 GMT",
+      "link": "https://investortrust.id/macro/119923/soal-isu-gaji-asn-lewat-kopdes-merah-putih-menkeu-suahasil-tetap-seperti-sekarang"
+    },
+    {
+      "title": "Suahasil Pastikan Gaji ASN Tak Lewat Kopdes: Tetap Lewat Bank - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 12:10:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/125187/suahasil-pastikan-gaji-asn-tak-lewat-kopdes-tetap-lewat-bank"
+    },
+    {
+      "title": "Menkeu Angkat Bicara Soal Gaji PNS Lewat Koperasi Desa Merah Putih - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 12:10:00 GMT",
+      "link": "https://wartaekonomi.co.id/read642275/menkeu-angkat-bicara-soal-gaji-pns-lewat-koperasi-desa-merah-putih"
+    },
+    {
+      "title": "Dorong Produktivitas Pertanian di Jember, Kawendra Berikan Bantuan Alsintan - JPNN.com",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Tue, 20 Oct 2026 12:00:53 GMT",
+      "link": "https://www.jpnn.com/news/dorong-produktivitas-pertanian-di-jember-kawendra-berikan-bantuan-alsintan"
+    },
+    {
+      "title": "DSN MUI Bahas Pembentukan Danantara Syariah dengan Rosan - شبكة تواصل الإخبارية",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 05:55:01 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/125137/bri-siap-buyback-saham-optimistis-fundamental-tetap-kuat"
+      "published": "Tue, 20 Oct 2026 11:58:05 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6285154/"
     },
     {
-      "title": "RI-China Teken 8 MoU Di TEI 2026, Bidik Peluang Investasi & Perdagangan - RM.ID",
+      "title": "Jelang Implementasi I-EU CEPA, Kemendag Perkuat Kesiapan Eksportir Manufaktur Tembus Pasar Eropa - Olenka",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 05:47:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/330892/richina-teken-8-mou-di-tei-2026-bidik-peluang-investasi-perdagangan"
+      "published": "Tue, 20 Oct 2026 11:45:00 GMT",
+      "link": "https://olenka.id/jelang-implementasi-i-eu-cepakemendag-perkuat-kesiapan-eksportir-manufaktur-tembus-pasar-eropa"
     },
     {
-      "title": "Kemenkop Pastikan Gaji Manajer Kopdes Cair Paling Lambat 1 November 2026 - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
+      "title": "DSN MUI Ungkap Progres Pembentukan Danantara Syariah, Target Rampung 2027 - Kompas.com",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 05:22:00 GMT",
-      "link": "https://wartaekonomi.co.id/read642135/kemenkop-pastikan-gaji-manajer-kopdes-cair-paling-lambat-1-november-2026"
+      "published": "Tue, 20 Oct 2026 11:43:00 GMT",
+      "link": "http://money.kompas.com/read/2026/10/20/184300126/dsn-mui-ungkap-progres-pembentukan-danantara-syariah-target-rampung-2027?source=terkini_artikel"
     },
     {
-      "title": "Sebanyak 138 Bendahara Koperasi Merah Putih di Riau Ikuti Pelatihan - RRI.co.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Kemenkop RI dan Nasim Khan Sosialisasikan Manfaat KDKMP di Situbondo, 76 Koperasi Siap Beroperasi - BeritaNasional.ID",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 20 Oct 2026 11:23:52 GMT",
+      "link": "https://beritanasional.id/kemenkop-ri-dan-nasim-khan-sosialisasikan-manfaat-kdkmp-di-situbondo-76-koperasi-siap-beroperasi/"
+    },
+    {
+      "title": "Danantara dan Masa Depan Kapitalisme Negara Indonesia: Belajar dari Temasek, Membangun Model Superholding Berdaya Saing dan Akuntabel - SINDOnews Nasional",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 04:15:00 GMT",
-      "link": "https://rri.co.id/pekanbaru/asta-cita/2826211/sebanyak-138-bendahara-koperasi-merah-putih-di-riau-ikuti-pelatihan"
+      "published": "Tue, 20 Oct 2026 11:05:48 GMT",
+      "link": "https://nasional.sindonews.com/read/1762747/18/danantara-dan-masa-depan-kapitalisme-negara-indonesia-belajar-dari-temasek-membangun-model-superholding-berdaya-saing-dan-akuntabel-1792494607"
     },
     {
-      "title": "BPKN RI Dorong AED Tersedia di Ruang Publik: Jangan Tunggu Ada Korban Baru Bergerak - indramayunews.id",
+      "title": "Bupati Bima Usulkan Rp5,23 Miliar ke Kemendag untuk Ini - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 10:43:00 GMT",
+      "link": "https://rri.co.id/mataram/regional/2827454/bupati-bima-usulkan-rp523-miliar-ke-kemendag-untuk-ini"
+    },
+    {
+      "title": "BPKN-RI Dorong Negara Hadir Melindungi Konsumen melalui Penyediaan AED di Ruang Publik - RadarOnline.id",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 03:44:32 GMT",
-      "link": "https://indramayunews.id/2026/10/20/bpkn-ri-dorong-aed-tersedia-di-ruang-publik-jangan-tunggu-ada-korban-baru-bergerak/"
+      "published": "Tue, 20 Oct 2026 10:10:30 GMT",
+      "link": "https://www.radaronline.id/2026/10/20/bpkn-ri-dorong-negara-hadir-melindungi-konsumen-melalui-penyediaan-aed-di-ruang-publik/"
     },
     {
-      "title": "Ke Malaysia Makin Mudah, Batam Penang Terbang Tiga Kali Sepekan - Harian Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 03:41:07 GMT",
-      "link": "https://www.hariankepri.com/ke-malaysia-makin-mudah-batam-penang-terbang-tiga-kali-sepekan/"
-    },
-    {
-      "title": "Danantara Anggap Koreksi IHSG Peluang Investasi Jangka Panjang - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 03:23:30 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261020100338-17-777743/danantara-anggap-koreksi-ihsg-peluang-investasi-jangka-panjang"
-    },
-    {
-      "title": "Soal Gaji ASN via Koperasi Merah Putih, Sri Untari: Pengurus Belum Memadai - Kabarpas",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 03:18:11 GMT",
-      "link": "https://kabarpas.com/soal-gaji-asn-via-koperasi-merah-putih-sri-untari-pengurus-belum-memadai/"
-    },
-    {
-      "title": "Kemendag Anugerahkan IPSKA Award 2026 - Serayu Nusantara",
+      "title": "Kaget Lihat Banyak Mahasiswa Berjualan di Pasar Klojen Malang, Kemendag Langsung Siapkan Program Ini - Ketik",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 03:00:00 GMT",
-      "link": "https://serayunusantara.com/kemendag-anugerahkan-ipska-award-2026/"
+      "published": "Tue, 20 Oct 2026 10:07:00 GMT",
+      "link": "https://ketik.com/malang/ekonomi-bisnis/kaget-lihat-banyak-mahasiswa-berjualan-di-pasar-klojen-malang-kemendag-langsung-siapkan-program-ini"
     },
     {
-      "title": "Arief Poyuono: Danantara Bisa Jadi Mesin Baru Pertumbuhan Ekonomi Indonesia - VOI.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 02:15:00 GMT",
-      "link": "https://voi.id/berita/599179/arief-poyuono-danantara-bisa-jadi-mesin-baru-pertumbuhan-ekonomi-indonesia"
-    },
-    {
-      "title": "IHSG Anjlok, Danantara Cium Peluang Investasi Berburu Saham Murah! - - Kotaku.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 02:02:51 GMT",
-      "link": "https://kotaku.co.id/ihsg-anjlok-danantara-cium-peluang-investasi-berburu-saham-murah/"
-    },
-    {
-      "title": "Mendag Minta Perwakilan Perdagangan Fokus Tingkatkan Ekspor - Serayu Nusantara",
+      "title": "Mahasiswa Masuk Pasar Tradisional, Kementerian Perdagangan Sebut Pasar Klojen Percontohan - Radar Malang",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 02:00:00 GMT",
-      "link": "https://serayunusantara.com/mendag-minta-perwakilan-perdagangan-fokus-tingkatkan-ekspor/"
-    },
-    {
-      "title": "OJK Belum Bahas Usulan Gaji ASN Lewat Koperasi Merah Putih - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 01:35:19 GMT",
-      "link": "https://demokratis.co.id/ojk-usulan-gaji-asn-koperasi-merah-putih"
+      "published": "Tue, 20 Oct 2026 09:54:54 GMT",
+      "link": "https://radarmalang.jawapos.com/malang-hari-ini/2610200046/mahasiswa-masuk-pasar-tradisional-kementerian-perdagangan-sebut-pasar-klojen-percontohan"
     }
   ]
 }
