@@ -1,20 +1,20 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-20T13:19:09.046367",
+  "generated_at": "2026-10-20T18:19:30.415070",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 21,
     "PDI-P": 29,
-    "Golkar": 16,
+    "Golkar": 13,
     "NasDem": 2,
     "PKB": 12,
     "PKS": 18,
-    "PAN": 3,
+    "PAN": 1,
     "Demokrat": 11
   },
   "party_counts_30d": {
-    "Gerindra": 54,
-    "PDI-P": 76,
-    "Golkar": 90,
+    "Gerindra": 55,
+    "PDI-P": 77,
+    "Golkar": 89,
     "NasDem": 8,
     "PKB": 50,
     "PKS": 54,
@@ -38,9 +38,9 @@
     "investasi": 49,
     "danantara": 28,
     "umkm": 13,
-    "ekspor": 7,
-    "perdagangan": 16,
-    "koperasi": 36,
+    "ekspor": 6,
+    "perdagangan": 17,
+    "koperasi": 37,
     "merger-akuisisi": 11,
     "kartel-monopoli": 8,
     "impor": 8
@@ -49,7 +49,7 @@
     "Andre Rosiade": 20,
     "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 13,
-    "Kawendra Lukistian": 14,
+    "Kawendra Lukistian": 15,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 14,
     "Mufti Anam": 9,
@@ -58,14 +58,14 @@
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
-    "Totok Hedi Santosa": 9,
+    "Totok Hedi Santosa": 10,
     "Nurdin Halid": 19,
     "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 6,
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 14,
     "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
@@ -86,12 +86,68 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 51,
-    "Perdagangan": 30,
+    "Perdagangan": 28,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 17:25:15 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261021/Mjc0NDQ0"
+    },
+    {
+      "title": "Menkeu Pastikan Gaji PNS Tetap Masuk Rekening Bank, Bukan Lewat Kopdes Merah Putih - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 15:28:13 GMT",
+      "link": "https://afu.id/hukum-kriminal/menkeu-pastikan-gaji-pns-tetap-masuk-rekening-bank-bukan-lewat-kopdes-merah-putih"
+    },
+    {
+      "title": "Kemenkeu Pertahankan Pembayaran Gaji PNS Melalui Bank - شبكة تواصل الإخبارية",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 15:11:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6297148/"
+    },
+    {
+      "title": "Menkeu Tegaskan Gaji PNS Tetap Disalurkan Lewat Bank, Bukan Koperasi Merah Putih - Pontianak Post",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 15:03:33 GMT",
+      "link": "https://pontianakpost.jawapos.com/nasional/2610200098/menkeu-tegaskan-gaji-pns-tetap-disalurkan-lewat-bank-bukan-koperasi-merah-putih"
+    },
+    {
+      "title": "Bukan Lewat Koperasi, Suahasil Nazara Pastikan Gaji PNS Tetap Ditransfer Langsung - Haluan Riau - Haluan Riau",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 14:02:57 GMT",
+      "link": "https://riau.harianhaluan.com/nasional/1117790274/bukan-lewat-koperasi-suahasil-nazara-pastikan-gaji-pns-tetap-ditransfer-langsung"
+    },
+    {
+      "title": "Menkop memperkuat sinergi SI, Baznas dan MES perluas akses modal umat - ANTARA News Yogyakarta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 13:50:31 GMT",
+      "link": "https://jogja.antaranews.com/berita/861657/menkop-memperkuat-sinergi-si-baznas-dan-mes-perluas-akses-modal-umat"
+    },
+    {
+      "title": "Menteri Keuangan Suahasil Nazara Tegaskan Gaji ASN Belum Akan Disalurkan Lewat Koperasi Desa - ODIYAIWUU",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 13:43:51 GMT",
+      "link": "https://www.odiyaiwuu.com/menteri-keuangan-suahasil-nazara-tegaskan-gaji-asn-belum-disalurkan-lewat-koperasi-desa/"
+    },
+    {
+      "title": "Meta dan Kemendag Dorong UMKM Go Global Lewat Teknologi AI - Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 13:22:53 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/946663/meta-dan-kemendag-dorong-umkm-go-global-lewat-teknologi-ai"
+    },
     {
       "title": "Suahasil Pertahankan Skema Transfer Gaji ASN Langsung ke Rekening - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
@@ -140,62 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 11:58:05 GMT",
       "link": "https://twaslnews1.twaslnews.com/6285154/"
-    },
-    {
-      "title": "Jelang Implementasi I-EU CEPA, Kemendag Perkuat Kesiapan Eksportir Manufaktur Tembus Pasar Eropa - Olenka",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 11:45:00 GMT",
-      "link": "https://olenka.id/jelang-implementasi-i-eu-cepakemendag-perkuat-kesiapan-eksportir-manufaktur-tembus-pasar-eropa"
-    },
-    {
-      "title": "DSN MUI Ungkap Progres Pembentukan Danantara Syariah, Target Rampung 2027 - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 11:43:00 GMT",
-      "link": "http://money.kompas.com/read/2026/10/20/184300126/dsn-mui-ungkap-progres-pembentukan-danantara-syariah-target-rampung-2027?source=terkini_artikel"
-    },
-    {
-      "title": "Kemenkop RI dan Nasim Khan Sosialisasikan Manfaat KDKMP di Situbondo, 76 Koperasi Siap Beroperasi - BeritaNasional.ID",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Tue, 20 Oct 2026 11:23:52 GMT",
-      "link": "https://beritanasional.id/kemenkop-ri-dan-nasim-khan-sosialisasikan-manfaat-kdkmp-di-situbondo-76-koperasi-siap-beroperasi/"
-    },
-    {
-      "title": "Danantara dan Masa Depan Kapitalisme Negara Indonesia: Belajar dari Temasek, Membangun Model Superholding Berdaya Saing dan Akuntabel - SINDOnews Nasional",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 11:05:48 GMT",
-      "link": "https://nasional.sindonews.com/read/1762747/18/danantara-dan-masa-depan-kapitalisme-negara-indonesia-belajar-dari-temasek-membangun-model-superholding-berdaya-saing-dan-akuntabel-1792494607"
-    },
-    {
-      "title": "Bupati Bima Usulkan Rp5,23 Miliar ke Kemendag untuk Ini - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 10:43:00 GMT",
-      "link": "https://rri.co.id/mataram/regional/2827454/bupati-bima-usulkan-rp523-miliar-ke-kemendag-untuk-ini"
-    },
-    {
-      "title": "BPKN-RI Dorong Negara Hadir Melindungi Konsumen melalui Penyediaan AED di Ruang Publik - RadarOnline.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 10:10:30 GMT",
-      "link": "https://www.radaronline.id/2026/10/20/bpkn-ri-dorong-negara-hadir-melindungi-konsumen-melalui-penyediaan-aed-di-ruang-publik/"
-    },
-    {
-      "title": "Kaget Lihat Banyak Mahasiswa Berjualan di Pasar Klojen Malang, Kemendag Langsung Siapkan Program Ini - Ketik",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 10:07:00 GMT",
-      "link": "https://ketik.com/malang/ekonomi-bisnis/kaget-lihat-banyak-mahasiswa-berjualan-di-pasar-klojen-malang-kemendag-langsung-siapkan-program-ini"
-    },
-    {
-      "title": "Mahasiswa Masuk Pasar Tradisional, Kementerian Perdagangan Sebut Pasar Klojen Percontohan - Radar Malang",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 09:54:54 GMT",
-      "link": "https://radarmalang.jawapos.com/malang-hari-ini/2610200046/mahasiswa-masuk-pasar-tradisional-kementerian-perdagangan-sebut-pasar-klojen-percontohan"
     }
   ]
 }
