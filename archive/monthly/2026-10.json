@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-20T18:19:30.415070",
+  "generated_at": "2026-10-20T22:04:51.699294",
   "party_counts_7d": {
     "Gerindra": 21,
     "PDI-P": 29,
-    "Golkar": 13,
+    "Golkar": 12,
     "NasDem": 2,
-    "PKB": 12,
+    "PKB": 13,
     "PKS": 18,
     "PAN": 1,
     "Demokrat": 11
@@ -16,7 +16,7 @@
     "PDI-P": 77,
     "Golkar": 89,
     "NasDem": 8,
-    "PKB": 50,
+    "PKB": 51,
     "PKS": 54,
     "PAN": 21,
     "Demokrat": 27
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 47,
-    "investasi": 49,
-    "danantara": 28,
+    "investasi": 48,
+    "danantara": 27,
     "umkm": 13,
     "ekspor": 6,
     "perdagangan": 17,
@@ -72,7 +72,7 @@
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 17,
+    "Nasim Khan": 18,
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
@@ -86,18 +86,39 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 51,
-    "Perdagangan": 28,
+    "Perdagangan": 29,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 16,
     "Konflik Publik": 1
   },
   "top_headlines": [
     {
+      "title": "Sebelum Kelola Gaji ASN, Sri Untari Minta Kesiapan Kopdes Merah Putih Dievaluasi - Ketik Malang",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 19:38:48 GMT",
+      "link": "https://malang.ketik.com/berita/sebelum-kelola-gaji-asn-sri-untari-minta-kesiapan-kopdes-merah-putih-dievaluasi"
+    },
+    {
+      "title": "Pemko Palangka Raya Perkuat Sinergi untuk Kembangkan Koperasi Merah Putih - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 18:53:00 GMT",
+      "link": "https://rri.co.id/palangkaraya/info-pemda/2827631/pemko-palangka-raya-perkuat-sinergi-untuk-kembangkan-koperasi-merah-putih"
+    },
+    {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 17:25:15 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261021/Mjc0NDQ0"
+    },
+    {
+      "title": "HM Naim Khan Anggota DPR RI Fraksi PKB dan Kemenkop Gelar Sosialisasi Manfaat Pengembangan KDKMP - Ketik",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 20 Oct 2026 17:22:00 GMT",
+      "link": "https://ketik.com/amp/hm-naim-khan-anggota-dpr-ri-fraksi-pkb-dan-kemenkop-gelar-sosialisasi-manfaat-pengembangan-kdkmp"
     },
     {
       "title": "Menkeu Pastikan Gaji PNS Tetap Masuk Rekening Bank, Bukan Lewat Kopdes Merah Putih - AFU.id",
@@ -126,6 +147,20 @@
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 14:02:57 GMT",
       "link": "https://riau.harianhaluan.com/nasional/1117790274/bukan-lewat-koperasi-suahasil-nazara-pastikan-gaji-pns-tetap-ditransfer-langsung"
+    },
+    {
+      "title": "Penerbangan Batam–Penang Dibuka, BP Batam Dorong Konektivitas dan Investasi - Mandala POS",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 14:00:54 GMT",
+      "link": "https://www.mandalapos.co.id/penerbangan-batam-penang-dibuka-bp-batam-dorong-konektivitas-dan-investasi/"
+    },
+    {
+      "title": "Pemerintah Siapkan Strategi Fiskal untuk Jaga Harga BBM Bersubsidi hingga Akhir Tahun - Presiden RI",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 13:56:00 GMT",
+      "link": "https://presidenri.go.id/siaran-pers/pemerintah-siapkan-strategi-fiskal-untuk-jaga-harga-bbm-bersubsidi-hingga-akhir-tahun/amp"
     },
     {
       "title": "Menkop memperkuat sinergi SI, Baznas dan MES perluas akses modal umat - ANTARA News Yogyakarta",
@@ -161,41 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 12:26:00 GMT",
       "link": "https://jatim.viva.co.id/kabar/28529-kata-ketua-komisi-e-dprd-jatim-gaji-pns-lewat-koperasi-merah-putih-tidak-tepat"
-    },
-    {
-      "title": "Soal Isu Gaji ASN lewat Kopdes Merah Putih, Menkeu Suahasil: Tetap seperti Sekarang - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 12:21:00 GMT",
-      "link": "https://investortrust.id/macro/119923/soal-isu-gaji-asn-lewat-kopdes-merah-putih-menkeu-suahasil-tetap-seperti-sekarang"
-    },
-    {
-      "title": "Suahasil Pastikan Gaji ASN Tak Lewat Kopdes: Tetap Lewat Bank - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 12:10:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/125187/suahasil-pastikan-gaji-asn-tak-lewat-kopdes-tetap-lewat-bank"
-    },
-    {
-      "title": "Menkeu Angkat Bicara Soal Gaji PNS Lewat Koperasi Desa Merah Putih - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 12:10:00 GMT",
-      "link": "https://wartaekonomi.co.id/read642275/menkeu-angkat-bicara-soal-gaji-pns-lewat-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "Dorong Produktivitas Pertanian di Jember, Kawendra Berikan Bantuan Alsintan - JPNN.com",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Tue, 20 Oct 2026 12:00:53 GMT",
-      "link": "https://www.jpnn.com/news/dorong-produktivitas-pertanian-di-jember-kawendra-berikan-bantuan-alsintan"
-    },
-    {
-      "title": "DSN MUI Bahas Pembentukan Danantara Syariah dengan Rosan - شبكة تواصل الإخبارية",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 11:58:05 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6285154/"
     }
   ]
 }
