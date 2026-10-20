@@ -1,12 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-19T22:52:01.383842",
+  "generated_at": "2026-10-20T01:33:42.509892",
   "party_counts_7d": {
-    "Gerindra": 24,
+    "Gerindra": 22,
     "PDI-P": 35,
     "Golkar": 22,
+    "NasDem": 1,
     "PKB": 11,
-    "PKS": 23,
+    "PKS": 22,
     "PAN": 3,
     "Demokrat": 11
   },
@@ -14,8 +15,8 @@
     "Gerindra": 52,
     "PDI-P": 76,
     "Golkar": 90,
-    "NasDem": 6,
-    "PKB": 49,
+    "NasDem": 7,
+    "PKB": 48,
     "PKS": 56,
     "PAN": 21,
     "Demokrat": 27
@@ -37,9 +38,9 @@
     "investasi": 42,
     "danantara": 28,
     "umkm": 16,
-    "ekspor": 5,
+    "ekspor": 4,
     "perdagangan": 12,
-    "koperasi": 34,
+    "koperasi": 36,
     "merger-akuisisi": 13,
     "kartel-monopoli": 9,
     "impor": 8
@@ -68,10 +69,11 @@
     "Muhammad Sarmuji": 16,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
+    "Rudi Hartono Bangun": 1,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 16,
-    "Ida Fauziyah": 9,
+    "Ida Fauziyah": 8,
     "Amin Ak.": 20,
     "Rizal Bawazier": 15,
     "Ghufran": 11,
@@ -83,13 +85,55 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
-    "Perdagangan": 28,
+    "Koperasi/UMKM": 52,
+    "Perdagangan": 27,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 15,
     "Konflik Publik": 1
   },
   "top_headlines": [
+    {
+      "title": "Kemendag Dorong Tenaga Profesional Manfaatkan Perjanjian Dagang - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 01:00:00 GMT",
+      "link": "https://serayunusantara.com/kemendag-dorong-tenaga-profesional-manfaatkan-perjanjian-dagang/"
+    },
+    {
+      "title": "Menkop Klaim Kopdes Bisa Perhemat Pengeluaran Rumah Tanggal hingga Rp 300 Ribu per Bulan - realita.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 00:35:00 GMT",
+      "link": "https://realita.co/baca-51753-menkop-klaim-kopdes-bisa-perhemat-pengeluaran-rumah-tanggal-hingga-rp-300-ribu-per-bulan"
+    },
+    {
+      "title": "Masyarakat Soroti Pembiayaan Rp1,56 Triliun Jasa Marga dari BSI, DPR Didesak Ikut Awasi - Suara Investor",
+      "entity": "Rudi Hartono Bangun",
+      "kind": "anggota",
+      "published": "Tue, 20 Oct 2026 00:19:46 GMT",
+      "link": "https://www.suarainvestor.com/masyarakat-soroti-pembiayaan-rp156-triliun-jasa-marga-dari-bsi-dpr-didesak-ikut-awasi/"
+    },
+    {
+      "title": "Kaji Ulang Rencana Penyaluran Gaji ASN melalui Koperasi Desa - Partai NasDem",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 23:17:14 GMT",
+      "link": "https://partainasdem.id/2026/10/20/kaji-ulang-rencana-penyaluran-gaji-asn-melalui-koperasi-desa/"
+    },
+    {
+      "title": "IHSG Anjlok, Danantara Cium Peluang Cuan di Saham Murah - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 23:16:08 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261020061239-17-777671/ihsg-anjlok-danantara-cium-peluang-cuan-di-saham-murah"
+    },
+    {
+      "title": "BRI Perkuat Fondasi Ekonomi Kerakyatan Lewat Koperasi Merah Putih - Rakyat Sulsel",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 19 Oct 2026 23:08:58 GMT",
+      "link": "https://rakyatsulsel.fajar.co.id/2026/10/20/bri-perkuat-fondasi-ekonomi-kerakyatan-lewat-koperasi-merah-putih/"
+    },
     {
       "title": "Bima ajukan anggaran Rp5,23 miliar untuk bagun gudang pertanian - ANTARA News Mataram",
       "entity": "Kementerian Perdagangan",
@@ -152,48 +196,6 @@
       "kind": "lembaga",
       "published": "Mon, 19 Oct 2026 14:39:49 GMT",
       "link": "https://www.stabilitas.id/danantara-inisiasi-dtiif-2026-tarik-modal-global-dan-pacu-transformasi-6-sektor-industri/"
-    },
-    {
-      "title": "Laporan Keuangan Danantara 2025 Masih Diaudit, Kapan Diumumkan? - Editor Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 13:57:07 GMT",
-      "link": "https://editorindonesia.com/laporan-keuangan-danantara-2025/"
-    },
-    {
-      "title": "Resmi! Indonesia Jadi Negara Asing Pertama yang Punya Properti di Makkah - HIMPUH",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 13:14:00 GMT",
-      "link": "https://himpuh.or.id/blog/detail/5060/resmi-indonesia-jadi-negara-asing-pertama-yang-punya-properti-di-makkah"
-    },
-    {
-      "title": "Pemkot Bima Bahas Pengembangan Pasar dan UMKM dengan Menteri Perdagangan - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 13:11:00 GMT",
-      "link": "https://rri.co.id/mataram/regional/2824666/pemkot-bima-bahas-pengembangan-pasar-dan-umkm-dengan-menteri-perdagangan"
-    },
-    {
-      "title": "KPPU Dalami Investasi dan Efisiensi Biaya Industri di KEK Sei Mangkei - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 13:00:00 GMT",
-      "link": "https://wartaekonomi.co.id/read641858/kppu-dalami-investasi-dan-efisiensi-biaya-industri-di-kek-sei-mangkei"
-    },
-    {
-      "title": "Rakor Pengendalian Inflasi 2026, Fokus pada Stabilitas Harga Dan Ketersediaan Pangan - Disdagperinkopukm Buleleng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 12:27:24 GMT",
-      "link": "https://disdagperinkopukm.bulelengkab.go.id/informasi/detail/berita/94_rakor-pengendalian-inflasi-2026-fokus-pada-stabilitas-harga-dan-ketersediaan-pangan"
-    },
-    {
-      "title": "Pemkot Pangkalpinang verifikasi bangunan gerai KDKMP - ANTARA News Bangka Belitung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 19 Oct 2026 12:16:17 GMT",
-      "link": "https://babel.antaranews.com/berita/588713/pemkot-pangkalpinang-verifikasi-bangunan-gerai-kdkmp"
     }
   ]
 }
