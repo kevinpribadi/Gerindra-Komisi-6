@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-21T13:24:50.214738",
+  "generated_at": "2026-10-21T18:21:33.166661",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 22,
+    "Gerindra": 24,
+    "PDI-P": 19,
     "Golkar": 15,
     "NasDem": 5,
     "PKB": 11,
@@ -12,11 +12,11 @@
     "Demokrat": 13
   },
   "party_counts_30d": {
-    "Gerindra": 58,
-    "PDI-P": 77,
+    "Gerindra": 59,
+    "PDI-P": 76,
     "Golkar": 96,
     "NasDem": 11,
-    "PKB": 49,
+    "PKB": 47,
     "PKS": 53,
     "PAN": 20,
     "Demokrat": 28
@@ -35,24 +35,24 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "investasi": 46,
-    "danantara": 26,
+    "investasi": 49,
+    "danantara": 25,
     "umkm": 12,
+    "ekspor": 7,
     "perdagangan": 16,
-    "ekspor": 6,
     "koperasi": 36,
-    "kartel-monopoli": 12,
-    "merger-akuisisi": 6,
+    "kartel-monopoli": 13,
+    "merger-akuisisi": 5,
     "impor": 7
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 15,
+    "Muhammad Husein Fadlulloh": 16,
     "Kawendra Lukistian": 15,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 13,
-    "Mufti Anam": 9,
+    "Mufti Anam": 8,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
@@ -74,7 +74,7 @@
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 18,
-    "Ida Fauziyah": 7,
+    "Ida Fauziyah": 5,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
     "Ghufran": 10,
@@ -93,6 +93,48 @@
     "Kinerja BUMN": 19
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 18:01:48 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261022/Mjc0NDQ0"
+    },
+    {
+      "title": "Investasi Asing di Sabang Tembus Rp69,25 Miliar, Ini Daftar Perusahaannya - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 17:07:00 GMT",
+      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2831675/investasi-asing-di-sabang-tembus-rp6925-miliar-ini-daftar-perusahaannya"
+    },
+    {
+      "title": "Jaringan Listrik hingga Kepastian Hukum Jadi Tantangan Investasi Sabang - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 17:04:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2831110/jaringan-listrik-hingga-kepastian-hukum-jadi-tantangan-investasi-sabang"
+    },
+    {
+      "title": "KPPU Dorong Pelaku Usaha Digital Perkuat Kepatuhan Hukum Persaingan Usaha - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 13:55:16 GMT",
+      "link": "https://www.kabarbisnis.com/read/28137571/kppu-dorong-pelaku-usaha-digital-perkuat-kepatuhan-hukum-persaingan-usaha"
+    },
+    {
+      "title": "Berita Singkat BP BUMN - koranbumn",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 13:50:12 GMT",
+      "link": "https://koranbumn.com/berita-singkat-bp-bumn-3/"
+    },
+    {
+      "title": "Target Beroperasi 2026, Airlangga Klaim PFII Masih Disiapkan - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 13:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/125336/target-beroperasi-2026-airlangga-klaim-pfii-masih-disiapkan"
+    },
     {
       "title": "Pemerintah Percepat Distribusi Barang Subsidi Lewat Koperasi Merah Putih - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
@@ -122,6 +164,20 @@
       "link": "https://lampuhijau.co.id/baca-berita/jakarta-city/28367/kasus-pemerasan-bupati-pemalang-kpk-periksa-anggota-dpr-doni-akbar"
     },
     {
+      "title": "Teken MoU: Kemendag dan Nestlé Indonesia Dorong Ekspor dari Hulu di TEI 2026 - katakabar.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 12:01:00 GMT",
+      "link": "https://katakabar.com/berita/baca/teken-mou-kemendag-dan-nestle-indonesia-dorong-ekspor-dari-hulu-di-tei-2026"
+    },
+    {
+      "title": "BP Batam bidik investasi aviasi Korsel untuk kembangkan Hang Nadim - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 11:58:24 GMT",
+      "link": "https://kepri.antaranews.com/berita/270789/bp-batam-bidik-investasi-aviasi-korsel-untuk-kembangkan-hang-nadim"
+    },
+    {
       "title": "Kemenkop Akui Sejumlah Kopdes Jauh dari Permukiman, Akan Evaluasi - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 21 Oct 2026 11:33:27 GMT",
       "link": "https://www.metrotvnews.com/read/KvJCylMV-pemerintah-evaluasi-temuan-lokasi-koperasi-desa-merah-putih-tak-sesuai"
-    },
-    {
-      "title": "Presiden Prabowo Minta Percepat Pasokan ke Koperasi Desa - MerahPutih",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 11:22:47 GMT",
-      "link": "https://www.merahputih.com/post/read/presiden-prabowo-minta-percepat-pasokan-barang-subsidi-ke-koperasi-desa"
-    },
-    {
-      "title": "KPK Panggil Doni Akbar sebagai Saksi Kasus Pemerasan Pemalang - شبكة تواصل الإخبارية",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 10:17:59 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6344415/"
-    },
-    {
-      "title": "KPK Panggil Anggota DPR Jadi Saksi Kasus Pemerasan Bupati Pemalang - detikNews",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 10:10:09 GMT",
-      "link": "https://news.detik.com/berita/d-8717706/kpk-panggil-anggota-dpr-jadi-saksi-kasus-pemerasan-bupati-pemalang/amp"
-    },
-    {
-      "title": "Dua Tahun Pemerintahan Prabowo, Herman Khaeron Harap Ekonomi dan Kesejahteraan Makin Baik - Suara Pemerintah",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 09:32:47 GMT",
-      "link": "https://suarapemerintah.id/2026/10/dua-tahun-pemerintahan-prabowo-herman-khaeron-harap-ekonomi-dan-kesejahteraan-makin-baik/"
-    },
-    {
-      "title": "BUMN Didorong Utamakan Layanan Publik - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 09:12:27 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCXq8n-bumn-didorong-utamakan-layanan-publik"
-    },
-    {
-      "title": "Pakar Nilai Batas Bunga Pindar Bukan Otomatis Kartel Harga - Demokratis.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 09:12:25 GMT",
-      "link": "https://demokratis.co.id/batas-bunga-pindar-kartel-harga"
-    },
-    {
-      "title": "Nasim Khan: Kopdes Merah Putih Tak Akan Matikan Distributor dan Kios Pupuk - beritajatim.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 08:47:58 GMT",
-      "link": "https://beritajatim.com/nasim-khan-kopdes-merah-putih-tak-akan-matikan-distributor-dan-kios-pupuk"
-    },
-    {
-      "title": "Menuju 75 Tahun Hubungan Diplomatik, Husein Fadlulloh Dorong Penguatan Kemitraan Strategis Indonesia–Jerman - Kabarpolitik.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 08:17:57 GMT",
-      "link": "https://kabarpolitik.com/menuju-75-tahun-hubungan-diplomatik-husein-fadlulloh-dorong-penguatan-kemitraan-strategis-indonesia-jerman/"
     }
   ]
 }
