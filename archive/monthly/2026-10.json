@@ -1,22 +1,22 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-20T22:04:51.699294",
+  "generated_at": "2026-10-21T01:16:05.763371",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 29,
+    "PDI-P": 28,
     "Golkar": 12,
     "NasDem": 2,
-    "PKB": 13,
+    "PKB": 14,
     "PKS": 18,
     "PAN": 1,
-    "Demokrat": 11
+    "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 55,
     "PDI-P": 77,
-    "Golkar": 89,
+    "Golkar": 90,
     "NasDem": 8,
-    "PKB": 51,
+    "PKB": 52,
     "PKS": 54,
     "PAN": 21,
     "Demokrat": 27
@@ -36,12 +36,12 @@
   "topic_counts_30d": {
     "bumn": 47,
     "investasi": 48,
-    "danantara": 27,
-    "umkm": 13,
+    "danantara": 26,
+    "umkm": 14,
     "ekspor": 6,
     "perdagangan": 17,
-    "koperasi": 37,
-    "merger-akuisisi": 11,
+    "koperasi": 35,
+    "merger-akuisisi": 10,
     "kartel-monopoli": 8,
     "impor": 8
   },
@@ -66,13 +66,13 @@
     "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 16,
+    "Muhammad Sarmuji": 17,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 18,
+    "Nasim Khan": 19,
     "Ida Fauziyah": 9,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
@@ -85,13 +85,69 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 51,
+    "Koperasi/UMKM": 50,
     "Perdagangan": 29,
-    "Hukum/Audit": 16,
-    "Kinerja BUMN": 16,
-    "Konflik Publik": 1
+    "Konflik Publik": 2,
+    "Hukum/Audit": 17,
+    "Kinerja BUMN": 17
   },
   "top_headlines": [
+    {
+      "title": "Polemik Gaji PNS Lewat Koperasi, Suahasil Tegaskan Tak Ada Perubahan - kabarbisnis.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 01:01:53 GMT",
+      "link": "https://www.kabarbisnis.com/read/28137551/polemik-gaji-pns-lewat-koperasi-suahasil-tegaskan-tak-ada-perubahan"
+    },
+    {
+      "title": "Bupati Usulkan Anggaran Pembangunan Gudang - SUARANTB.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 00:53:27 GMT",
+      "link": "https://suarantb.com/2026/10/21/bupati-usulkan-anggaran-pembangunan-gudang/"
+    },
+    {
+      "title": "Fasilitas Pengadaan AED di Ruang Publik, Dr. Rolas Sitinjak : Keselamatan Menjadi Skala Prioritas - RadarOnline.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 00:34:59 GMT",
+      "link": "https://www.radaronline.id/2026/10/21/fasilitas-pengadaan-aed-di-ruang-publik-dr-rolas-sitinjak-keselamatan-menjadi-skala-prioritas/"
+    },
+    {
+      "title": "Menkeu tegaskan gaji PNS tetap disalurkan lewat perbankan - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 00:26:02 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/430429/menkeu-tegaskan-gaji-pns-tetap-disalurkan-lewat-perbankan"
+    },
+    {
+      "title": "Luhut Usul ke Prabowo: Kerugian Negara Bukan Tindak Pidana Korupsi - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 00:22:00 GMT",
+      "link": "https://infobanknews.com/luhut-usul-ke-prabowo-kerugian-negara-bukan-tindak-pidana-korupsi"
+    },
+    {
+      "title": "BP Batam Bidik Peluang Investasi Malaysia Lewat Rute Langsung Penang - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 23:31:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2828708/bp-batam-bidik-peluang-investasi-malaysia-lewat-rute-langsung-penang"
+    },
+    {
+      "title": "DPR RI Apresiasi Pembangunan KDKMP di Situbondo - RRI.co.id",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 20 Oct 2026 22:58:19 GMT",
+      "link": "https://rri.co.id/jember/regional/2828549/dpr-ri-apresiasi-pembangunan-kdkmp-di-situbondo"
+    },
+    {
+      "title": "Wamenkop Tegaskan Rekrutmen Manajer Kopdes Merah Putih Bukan Berdasarkan Domisili - TINTAHIJAU.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 22:57:48 GMT",
+      "link": "https://www.tintahijau.com/pemerintahan/wamenkop-tegaskan-rekrutmen-manajer-kopdes-merah-putih-bukan-berdasarkan-domisili/"
+    },
     {
       "title": "Sebelum Kelola Gaji ASN, Sri Untari Minta Kesiapan Kopdes Merah Putih Dievaluasi - Ketik Malang",
       "entity": "Kementerian Koperasi",
@@ -105,6 +161,13 @@
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 18:53:00 GMT",
       "link": "https://rri.co.id/palangkaraya/info-pemda/2827631/pemko-palangka-raya-perkuat-sinergi-untuk-kembangkan-koperasi-merah-putih"
+    },
+    {
+      "title": "KPPU Kanwil VII Perketat Pengawasan Kemitraan PMA dan UMKM di Jawa Tengah - warta jogja",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 20 Oct 2026 18:42:00 GMT",
+      "link": "https://www.wartajogja.id/2026/10/kppu-kanwil-vii-perketat-pengawasan.html"
     },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
@@ -133,69 +196,6 @@
       "kind": "lembaga",
       "published": "Tue, 20 Oct 2026 15:11:54 GMT",
       "link": "https://twaslnews1.twaslnews.com/6297148/"
-    },
-    {
-      "title": "Menkeu Tegaskan Gaji PNS Tetap Disalurkan Lewat Bank, Bukan Koperasi Merah Putih - Pontianak Post",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 15:03:33 GMT",
-      "link": "https://pontianakpost.jawapos.com/nasional/2610200098/menkeu-tegaskan-gaji-pns-tetap-disalurkan-lewat-bank-bukan-koperasi-merah-putih"
-    },
-    {
-      "title": "Bukan Lewat Koperasi, Suahasil Nazara Pastikan Gaji PNS Tetap Ditransfer Langsung - Haluan Riau - Haluan Riau",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 14:02:57 GMT",
-      "link": "https://riau.harianhaluan.com/nasional/1117790274/bukan-lewat-koperasi-suahasil-nazara-pastikan-gaji-pns-tetap-ditransfer-langsung"
-    },
-    {
-      "title": "Penerbangan Batam–Penang Dibuka, BP Batam Dorong Konektivitas dan Investasi - Mandala POS",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 14:00:54 GMT",
-      "link": "https://www.mandalapos.co.id/penerbangan-batam-penang-dibuka-bp-batam-dorong-konektivitas-dan-investasi/"
-    },
-    {
-      "title": "Pemerintah Siapkan Strategi Fiskal untuk Jaga Harga BBM Bersubsidi hingga Akhir Tahun - Presiden RI",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 13:56:00 GMT",
-      "link": "https://presidenri.go.id/siaran-pers/pemerintah-siapkan-strategi-fiskal-untuk-jaga-harga-bbm-bersubsidi-hingga-akhir-tahun/amp"
-    },
-    {
-      "title": "Menkop memperkuat sinergi SI, Baznas dan MES perluas akses modal umat - ANTARA News Yogyakarta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 13:50:31 GMT",
-      "link": "https://jogja.antaranews.com/berita/861657/menkop-memperkuat-sinergi-si-baznas-dan-mes-perluas-akses-modal-umat"
-    },
-    {
-      "title": "Menteri Keuangan Suahasil Nazara Tegaskan Gaji ASN Belum Akan Disalurkan Lewat Koperasi Desa - ODIYAIWUU",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 13:43:51 GMT",
-      "link": "https://www.odiyaiwuu.com/menteri-keuangan-suahasil-nazara-tegaskan-gaji-asn-belum-disalurkan-lewat-koperasi-desa/"
-    },
-    {
-      "title": "Meta dan Kemendag Dorong UMKM Go Global Lewat Teknologi AI - Media Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 13:22:53 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/946663/meta-dan-kemendag-dorong-umkm-go-global-lewat-teknologi-ai"
-    },
-    {
-      "title": "Suahasil Pertahankan Skema Transfer Gaji ASN Langsung ke Rekening - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 12:36:55 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6287609/"
-    },
-    {
-      "title": "Kata Ketua Komisi E DPRD Jatim, Gaji PNS Lewat Koperasi Merah Putih Tidak Tepat - VIVA Jatim",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 20 Oct 2026 12:26:00 GMT",
-      "link": "https://jatim.viva.co.id/kabar/28529-kata-ketua-komisi-e-dprd-jatim-gaji-pns-lewat-koperasi-merah-putih-tidak-tepat"
     }
   ]
 }
