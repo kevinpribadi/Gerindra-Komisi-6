@@ -1,25 +1,25 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-21T07:01:55.647029",
+  "generated_at": "2026-10-21T13:24:50.214738",
   "party_counts_7d": {
-    "Gerindra": 22,
-    "PDI-P": 24,
-    "Golkar": 11,
-    "NasDem": 4,
-    "PKB": 16,
-    "PKS": 17,
+    "Gerindra": 23,
+    "PDI-P": 22,
+    "Golkar": 15,
+    "NasDem": 5,
+    "PKB": 11,
+    "PKS": 16,
     "PAN": 1,
     "Demokrat": 13
   },
   "party_counts_30d": {
-    "Gerindra": 57,
-    "PDI-P": 76,
-    "Golkar": 92,
-    "NasDem": 10,
-    "PKB": 52,
-    "PKS": 54,
-    "PAN": 21,
-    "Demokrat": 27
+    "Gerindra": 58,
+    "PDI-P": 77,
+    "Golkar": 96,
+    "NasDem": 11,
+    "PKB": 49,
+    "PKS": 53,
+    "PAN": 20,
+    "Demokrat": 28
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,20 +35,20 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "investasi": 47,
-    "danantara": 27,
+    "investasi": 46,
+    "danantara": 26,
     "umkm": 12,
     "perdagangan": 16,
     "ekspor": 6,
-    "koperasi": 34,
-    "kartel-monopoli": 9,
-    "merger-akuisisi": 8,
-    "impor": 8
+    "koperasi": 36,
+    "kartel-monopoli": 12,
+    "merger-akuisisi": 6,
+    "impor": 7
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 14,
+    "Muhammad Husein Fadlulloh": 15,
     "Kawendra Lukistian": 15,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 13,
@@ -58,30 +58,30 @@
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
-    "Totok Hedi Santosa": 10,
-    "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 8,
+    "Totok Hedi Santosa": 11,
+    "Nurdin Halid": 19,
+    "Gde Sumarjaya Linggih": 7,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 6,
-    "Doni Akbar": 6,
+    "Doni Akbar": 10,
     "Firnando Hadityo Ganinduto": 9,
-    "Rizki Faisal": 15,
-    "Muhammad Sarmuji": 17,
+    "Rizki Faisal": 16,
+    "Muhammad Sarmuji": 18,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
-    "Randi Zulmariadi": 2,
+    "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 20,
-    "Ida Fauziyah": 8,
+    "Nasim Khan": 18,
+    "Ida Fauziyah": 7,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
-    "Ghufran": 11,
+    "Ghufran": 10,
     "Ismail": 10,
-    "Nasril Bahar": 5,
+    "Nasril Bahar": 4,
     "Iskandar": 16,
-    "Sartono": 6,
+    "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
@@ -89,114 +89,114 @@
     "Koperasi/UMKM": 49,
     "Perdagangan": 28,
     "Konflik Publik": 2,
-    "Hukum/Audit": 19,
+    "Hukum/Audit": 23,
     "Kinerja BUMN": 19
   },
   "top_headlines": [
     {
-      "title": "Kemendag Godok Regulasi Virtual Office, Penyelenggara-Penyewa Wajib NIB - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 06:46:12 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261021/12/2014449/kemendag-godok-regulasi-virtual-office-penyelenggara-penyewa-wajib-nib"
-    },
-    {
-      "title": "Gaji ASN Lewat Koperasi Merah Putih? Menkeu Tegaskan Pembayaran Tetap Melalui Bank - Industry.co.id",
+      "title": "Pemerintah Percepat Distribusi Barang Subsidi Lewat Koperasi Merah Putih - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 06:04:00 GMT",
-      "link": "https://www.industry.co.id/read/157729/gaji-asn-lewat-koperasi-merah-putih-menkeu-tegaskan-pembayaran-tetap-melalui-bank"
+      "published": "Wed, 21 Oct 2026 12:56:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6354401/"
     },
     {
-      "title": "Bantah Kemenkop, Suhasil Sebut Skema Transfer Gaji PNS Tetap Lewat Bank Bukan Koperasi - Warta Ekonomi",
+      "title": "Pakar Hukum Pertanyakan Unsur Kolusi dalam Kasus Kartel Bunga Pindar - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 12:12:10 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/947110/pakar-hukum-pertanyakan-unsur-kolusi-dalam-kasus-kartel-bunga-pindar"
+    },
+    {
+      "title": "BP BUMN Dorong Danantara Selaraskan Bisnis Peruri dan Telkom - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 12:10:45 GMT",
+      "link": "https://www.metrotvnews.com/read/kELCyWQ4-bp-bumn-dorong-danantara-selaraskan-bisnis-peruri-dan-telkom"
+    },
+    {
+      "title": "Kasus Pemerasan Bupati Pemalang, KPK Periksa Anggota DPR Doni Akbar - lampuhijau.co.id",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Wed, 21 Oct 2026 12:06:00 GMT",
+      "link": "https://lampuhijau.co.id/baca-berita/jakarta-city/28367/kasus-pemerasan-bupati-pemalang-kpk-periksa-anggota-dpr-doni-akbar"
+    },
+    {
+      "title": "Kemenkop Akui Sejumlah Kopdes Jauh dari Permukiman, Akan Evaluasi - Bloomberg Technoz",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 05:54:00 GMT",
-      "link": "https://wartaekonomi.co.id/read642437/bantah-kemenkop-suhasil-sebut-skema-transfer-gaji-pns-tetap-lewat-bank-bukan-koperasi"
+      "published": "Wed, 21 Oct 2026 11:40:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/125335/kemenkop-akui-sejumlah-kopdes-jauh-dari-permukiman-akan-evaluasi"
     },
     {
-      "title": "Luhut Ingin Kerugian Negara tak Lagi Jadi Patokan Korupsi, Prabowo Disebut Beri Lampu Hijau - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 05:52:00 GMT",
-      "link": "https://www.inilah.com/kajian-korupsi-versi-luhut-ke-prabowo-penyuapan-tidak-bicara-kerugian-negara"
+      "title": "KPK Periksa Anggota DPR RI Doni Akbar dalam Kasus Dugaan Pemerasan di Pemalang - Aktual.com",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Wed, 21 Oct 2026 11:38:06 GMT",
+      "link": "https://aktual.com/kpk-periksa-anggota-dpr-ri-doni-akbar-dalam-kasus-dugaan-pemerasan-di-pemalang/"
     },
     {
-      "title": "Pemkot Serang Tunggu Aturan Gaji ASN Lewat Koperasi Merah Putih - RRI.co.id",
+      "title": "Pemerintah Evaluasi Temuan Lokasi Koperasi Desa Merah Putih Tak Sesuai - MetroTVNews.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 05:47:00 GMT",
-      "link": "https://rri.co.id/banten/regional/2829343/pemkot-serang-tunggu-aturan-gaji-asn-lewat-koperasi-merah-putih"
+      "published": "Wed, 21 Oct 2026 11:33:27 GMT",
+      "link": "https://www.metrotvnews.com/read/KvJCylMV-pemerintah-evaluasi-temuan-lokasi-koperasi-desa-merah-putih-tak-sesuai"
     },
     {
-      "title": "BPKN Edukasi Penguatan Perlindungan Konsumen di Ternate - RRI.co.id",
-      "entity": "BPKN",
+      "title": "Presiden Prabowo Minta Percepat Pasokan ke Koperasi Desa - MerahPutih",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 05:08:00 GMT",
-      "link": "https://rri.co.id/ternate/regional/2829715/bpkn-edukasi-penguatan-perlindungan-konsumen-di-ternate"
+      "published": "Wed, 21 Oct 2026 11:22:47 GMT",
+      "link": "https://www.merahputih.com/post/read/presiden-prabowo-minta-percepat-pasokan-barang-subsidi-ke-koperasi-desa"
     },
     {
-      "title": "Tinjau Pelabuhan dan Aset PT Pelindo, Nasim.Khan : Aktivasi Pelabuhan Panarukan Bisa Dongkrak Ekonomi Situbondo Lebih Pesat - BeritaNasional.ID",
+      "title": "KPK Panggil Doni Akbar sebagai Saksi Kasus Pemerasan Pemalang - شبكة تواصل الإخبارية",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Wed, 21 Oct 2026 10:17:59 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6344415/"
+    },
+    {
+      "title": "KPK Panggil Anggota DPR Jadi Saksi Kasus Pemerasan Bupati Pemalang - detikNews",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Wed, 21 Oct 2026 10:10:09 GMT",
+      "link": "https://news.detik.com/berita/d-8717706/kpk-panggil-anggota-dpr-jadi-saksi-kasus-pemerasan-bupati-pemalang/amp"
+    },
+    {
+      "title": "Dua Tahun Pemerintahan Prabowo, Herman Khaeron Harap Ekonomi dan Kesejahteraan Makin Baik - Suara Pemerintah",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 21 Oct 2026 09:32:47 GMT",
+      "link": "https://suarapemerintah.id/2026/10/dua-tahun-pemerintahan-prabowo-herman-khaeron-harap-ekonomi-dan-kesejahteraan-makin-baik/"
+    },
+    {
+      "title": "BUMN Didorong Utamakan Layanan Publik - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 09:12:27 GMT",
+      "link": "https://www.metrotvnews.com/read/NxGCXq8n-bumn-didorong-utamakan-layanan-publik"
+    },
+    {
+      "title": "Pakar Nilai Batas Bunga Pindar Bukan Otomatis Kartel Harga - Demokratis.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 09:12:25 GMT",
+      "link": "https://demokratis.co.id/batas-bunga-pindar-kartel-harga"
+    },
+    {
+      "title": "Nasim Khan: Kopdes Merah Putih Tak Akan Matikan Distributor dan Kios Pupuk - beritajatim.com",
       "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 04:48:34 GMT",
-      "link": "https://beritanasional.id/tinjau-pelabuhan-dan-aset-pt-pelindo-nasim-khan-aktivasi-pelabuhan-panarukan-bisa-dongkrak-ekonomi-situbondo-lebih-pesat/"
+      "published": "Wed, 21 Oct 2026 08:47:58 GMT",
+      "link": "https://beritajatim.com/nasim-khan-kopdes-merah-putih-tak-akan-matikan-distributor-dan-kios-pupuk"
     },
     {
-      "title": "Kementerian Perindustrian dan Perdagangan mendesak pemerintah daerah untuk melaporkan status 363 proyek pembangkit listrik. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 04:41:17 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-doc-dia-phuong-bao-cao-tinh-hinh-363-du-an-nguon-dien"
-    },
-    {
-      "title": "BPKN-RI Tagih Komitmen Polri Responsif dan Humanis di Kasus Loker Bodong Bekasi - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 04:30:00 GMT",
-      "link": "https://www.mediakarya.id/bpkn-ri-tagih-komitmen-polri-responsif-dan-humanis-di-kasus-loker-bodong-bekasi/"
-    },
-    {
-      "title": "Rizki Faisal Dorong Kajian Status Bencana Nasional Karhutla - www.suaralandak.co.id",
-      "entity": "Rizki Faisal",
+      "title": "Menuju 75 Tahun Hubungan Diplomatik, Husein Fadlulloh Dorong Penguatan Kemitraan Strategis Indonesia–Jerman - Kabarpolitik.com",
+      "entity": "Muhammad Husein Fadlulloh",
       "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 03:56:16 GMT",
-      "link": "https://www.suaralandak.co.id/rizki-faisal-kajian-bencana-nasional-karhutla"
-    },
-    {
-      "title": "Stunting Balikpapan Naik Jadi 24,5 Persen, Pemkot Perketat Pengawasan Pangan dan Layanan Kesehatan - Gerbang Kaltim",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 03:43:34 GMT",
-      "link": "https://www.gerbangkaltim.com/stunting-balikpapan-naik-jadi-245-persen-pemkot-perketat-pengawasan-pangan-dan-layanan-kesehatan/"
-    },
-    {
-      "title": "Gaji PNS tetap lewat bank, Menkeu belum ikuti usulan kopdes - IDNFinancials",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 03:40:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/70588/gaji-pns-tetap-lewat-bank-menkeu-belum-ikuti-usulan-kopdes"
-    },
-    {
-      "title": "Presiden Prabowo Setuju Ubah Definisi Korupsi, Demi Danantara? - bataviapos.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 03:37:36 GMT",
-      "link": "https://bataviapos.id/ella-devianti-effendi/presiden-prabowo-setuju-ubah-definisi-korupsi-demi-danantara/"
-    },
-    {
-      "title": "Menkeu Tegaskan Gaji PNS Tetap Disalurkan Lewat Perbankan - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 02:55:09 GMT",
-      "link": "https://www.metrotvnews.com/read/NxGCXqav-menkeu-tegaskan-gaji-pns-tetap-disalurkan-lewat-perbankan"
-    },
-    {
-      "title": "Pelibatan Koperasi Merah Putih dalam Penyaluran Gaji ASN - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 02:16:54 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6322921/"
+      "published": "Wed, 21 Oct 2026 08:17:57 GMT",
+      "link": "https://kabarpolitik.com/menuju-75-tahun-hubungan-diplomatik-husein-fadlulloh-dorong-penguatan-kemitraan-strategis-indonesia-jerman/"
     }
   ]
 }
