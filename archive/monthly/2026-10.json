@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-21T18:21:33.166661",
+  "generated_at": "2026-10-21T22:04:55.888286",
   "party_counts_7d": {
-    "Gerindra": 24,
-    "PDI-P": 19,
+    "Gerindra": 23,
+    "PDI-P": 20,
     "Golkar": 15,
     "NasDem": 5,
     "PKB": 11,
@@ -16,7 +16,7 @@
     "PDI-P": 76,
     "Golkar": 96,
     "NasDem": 11,
-    "PKB": 47,
+    "PKB": 46,
     "PKS": 53,
     "PAN": 20,
     "Demokrat": 28
@@ -40,10 +40,10 @@
     "umkm": 12,
     "ekspor": 7,
     "perdagangan": 16,
-    "koperasi": 36,
+    "koperasi": 37,
     "kartel-monopoli": 13,
     "merger-akuisisi": 5,
-    "impor": 7
+    "impor": 6
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -73,7 +73,7 @@
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 18,
+    "Nasim Khan": 17,
     "Ida Fauziyah": 5,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
@@ -86,13 +86,27 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 49,
-    "Perdagangan": 28,
+    "Koperasi/UMKM": 50,
+    "Perdagangan": 27,
     "Konflik Publik": 2,
     "Hukum/Audit": 23,
     "Kinerja BUMN": 19
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop dan Kemenkeu Siap Bahas Wacana Penyaluran Gaji ASN Lewat Koperasi Desa - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 20:08:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-dan-kemenkeu-siap-bahas-wacana-penyaluran-gaji-asn-lewat-koperasi-desa/"
+    },
+    {
+      "title": "Ferry Bahas Pembayaran Gaji PNS Lewat Kopdes Merah Putih - شبكة تواصل الإخبارية",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 19:43:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6375604/"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -136,6 +150,13 @@
       "link": "https://www.bloombergtechnoz.com/detail-news/125336/target-beroperasi-2026-airlangga-klaim-pfii-masih-disiapkan"
     },
     {
+      "title": "Pemkot Medan dorong percepatan operasional Koperasi Desa Merah Putih - ANTARA News Sumatera Utara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 13:13:29 GMT",
+      "link": "https://sumut.antaranews.com/berita/674049/pemkot-medan-dorong-percepatan-operasional-koperasi-desa-merah-putih"
+    },
+    {
       "title": "Pemerintah Percepat Distribusi Barang Subsidi Lewat Koperasi Merah Putih - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 21 Oct 2026 11:58:24 GMT",
       "link": "https://kepri.antaranews.com/berita/270789/bp-batam-bidik-investasi-aviasi-korsel-untuk-kembangkan-hang-nadim"
-    },
-    {
-      "title": "Kemenkop Akui Sejumlah Kopdes Jauh dari Permukiman, Akan Evaluasi - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 11:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/125335/kemenkop-akui-sejumlah-kopdes-jauh-dari-permukiman-akan-evaluasi"
-    },
-    {
-      "title": "KPK Periksa Anggota DPR RI Doni Akbar dalam Kasus Dugaan Pemerasan di Pemalang - Aktual.com",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 11:38:06 GMT",
-      "link": "https://aktual.com/kpk-periksa-anggota-dpr-ri-doni-akbar-dalam-kasus-dugaan-pemerasan-di-pemalang/"
-    },
-    {
-      "title": "Pemerintah Evaluasi Temuan Lokasi Koperasi Desa Merah Putih Tak Sesuai - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 11:33:27 GMT",
-      "link": "https://www.metrotvnews.com/read/KvJCylMV-pemerintah-evaluasi-temuan-lokasi-koperasi-desa-merah-putih-tak-sesuai"
     }
   ]
 }
