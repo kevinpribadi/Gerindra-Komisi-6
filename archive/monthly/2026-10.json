@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-22T18:16:14.639554",
+  "generated_at": "2026-10-22T22:04:27.794883",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 18,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
-    "investasi": 60,
+    "bumn": 53,
+    "investasi": 62,
     "danantara": 31,
     "umkm": 13,
-    "perdagangan": 11,
+    "perdagangan": 10,
     "ekspor": 6,
     "koperasi": 39,
-    "kartel-monopoli": 12,
+    "kartel-monopoli": 13,
     "merger-akuisisi": 3,
     "impor": 4
   },
@@ -86,13 +86,27 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 49,
+    "Koperasi/UMKM": 50,
     "Perdagangan": 22,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 15,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Soal Gaji PNS Lewat Kopdes Merah Putih, Politisi Gerindra Ingatkan PNS Jangan Dipaksa jadi Anggota Koperasi - Warta Ekonomi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 20:30:00 GMT",
+      "link": "https://wartaekonomi.co.id/read642894/soal-gaji-pns-lewat-kopdes-merah-putih-politisi-gerindra-ingatkan-pns-jangan-dipaksa-jadi-anggota-koperasi"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - RCTI+",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 19:22:05 GMT",
+      "link": "https://www.rctiplus.com/news/detail/idxchannel/5500261/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan"
+    },
     {
       "title": "Kementerian Perindustrian dan Perdagangan pada akhirnya akan bertanggung jawab jika terjadi kekurangan pasokan listrik. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 22 Oct 2026 12:16:03 GMT",
       "link": "https://lampung.antaranews.com/berita/830751/kemenkop-mendorong-peningkatan-kesejahteraan-nelayan-pesisir"
-    },
-    {
-      "title": "Evaluasi 2 Tahun Pemerintahan Prabowo, Rieke Diah Pitaloka Desak Percepatan Implementasi Satu Data Indonesia - Jakartanews.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 12:11:52 GMT",
-      "link": "https://www.jakartanews.id/2026/10/22/evaluasi-2-tahun-pemerintahan-prabowo-rieke-diah-pitaloka-desak-percepatan-implementasi-satu-data-indonesia/"
-    },
-    {
-      "title": "Kemendag Dorong Pembentukan Tim Reviu Kebijakan Perdagangan RI di WTO - Media Nikel Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 11:43:42 GMT",
-      "link": "https://nikel.co.id/2026/10/22/kemendag-dorong-pembentukan-tim-reviu-kebijakan-perdagangan-ri-di-wto/"
     }
   ]
 }
