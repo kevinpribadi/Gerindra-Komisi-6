@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-22T07:04:10.259539",
+  "generated_at": "2026-10-22T13:25:59.106018",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 20,
+    "Gerindra": 29,
+    "PDI-P": 19,
     "Golkar": 15,
-    "NasDem": 5,
-    "PKB": 10,
-    "PKS": 15,
+    "NasDem": 6,
+    "PKB": 9,
+    "PKS": 12,
     "PAN": 1,
-    "Demokrat": 7
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 59,
-    "PDI-P": 76,
-    "Golkar": 93,
-    "NasDem": 11,
-    "PKB": 46,
+    "Gerindra": 60,
+    "PDI-P": 75,
+    "Golkar": 95,
+    "NasDem": 12,
+    "PKB": 42,
     "PKS": 54,
-    "PAN": 19,
+    "PAN": 17,
     "Demokrat": 28
   },
   "agency_counts_30d": {
@@ -34,21 +34,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
-    "investasi": 54,
-    "danantara": 26,
-    "umkm": 12,
-    "perdagangan": 13,
-    "ekspor": 6,
-    "koperasi": 38,
-    "kartel-monopoli": 14,
-    "merger-akuisisi": 4,
-    "impor": 6
+    "bumn": 52,
+    "investasi": 58,
+    "danantara": 30,
+    "umkm": 13,
+    "perdagangan": 11,
+    "ekspor": 7,
+    "koperasi": 39,
+    "kartel-monopoli": 13,
+    "merger-akuisisi": 3,
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 16,
+    "Muhammad Husein Fadlulloh": 17,
     "Kawendra Lukistian": 15,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 13,
@@ -58,9 +58,9 @@
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
-    "Totok Hedi Santosa": 11,
-    "Nurdin Halid": 19,
-    "Gde Sumarjaya Linggih": 7,
+    "Totok Hedi Santosa": 10,
+    "Nurdin Halid": 20,
+    "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 10,
@@ -69,17 +69,17 @@
     "Muhammad Sarmuji": 18,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 3,
-    "Randi Zulmariadi": 3,
+    "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 17,
-    "Ida Fauziyah": 5,
+    "Nasim Khan": 16,
+    "Ida Fauziyah": 2,
     "Amin Ak.": 20,
     "Rizal Bawazier": 14,
     "Ghufran": 10,
     "Ismail": 10,
-    "Nasril Bahar": 4,
+    "Nasril Bahar": 2,
     "Iskandar": 15,
     "Sartono": 7,
     "Herman Khaeron": 20,
@@ -87,116 +87,116 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 49,
-    "Perdagangan": 26,
-    "Konflik Publik": 2,
-    "Hukum/Audit": 23,
-    "Kinerja BUMN": 18
+    "Perdagangan": 24,
+    "Hukum/Audit": 18,
+    "Kinerja BUMN": 16,
+    "Konflik Publik": 2
   },
   "top_headlines": [
     {
-      "title": "Skandal Dana Sawit Rp176 Triliun di Tengah Karhutla, DPR Desak Kejagung Bertindak - Aktual.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 07:00:16 GMT",
-      "link": "https://aktual.com/skandal-dana-sawit-rp176-triliun-di-tengah-karhutla-dpr-desak-kejagung-bertindak/"
-    },
-    {
-      "title": "Danantara Siap Tambah Investasi Saham, Nilai Prospek BUMN Menarik - republika.co.id",
+      "title": "Danantara Bidik Investor Global, Target Investasi 30 Miliar Dollar AS - Kompas.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 06:51:19 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tnar1j490/danantara-siap-tambah-investasi-saham-nilai-prospek-bumn-menarik"
+      "published": "Thu, 22 Oct 2026 13:10:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/22/201000126/danantara-bidik-investor-global-target-investasi-30-miliar-dollar-as"
     },
     {
-      "title": "RI Bentuk Tim Khusus Perdagangan Dunia - TVRI News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 06:46:02 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/t8aw3ux-ri-bentuk-tim-khusus-perdagangan-dunia"
-    },
-    {
-      "title": "BPKN RI Ajak Masyarakat Maluku Utara Kritis Lindungi Hak Konsumen - RRI.co.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 06:32:00 GMT",
-      "link": "https://rri.co.id/ternate/asta-cita/2832801/bpkn-ri-ajak-masyarakat-maluku-utara-kritis-lindungi-hak-konsumen"
-    },
-    {
-      "title": "Danantara Bidik Komitmen Investasi Global Rp541 T Lewat New Asia Forum - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 06:15:07 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261022121524-92-1418364/danantara-bidik-komitmen-investasi-global-rp541-t-lewat-new-asia-forum"
-    },
-    {
-      "title": "Danantara Jajaki Pinjaman US$1 Miliar untuk Perkuat Investasi di Tengah Gejolak Pasar Saham - TopBusiness.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 05:38:00 GMT",
-      "link": "https://www.topbusiness.id/138651/danantara-jajaki-pinjaman-us1-miliar-untuk-perkuat-investasi-di-tengah-gejolak-pasar-saham.html"
-    },
-    {
-      "title": "Danantara Mulai Beli Saham BEI di Tengah Gejolak Pasar - Suara Independent News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 05:18:17 GMT",
-      "link": "https://www.suaraindependentnews.id/danantara-beli-saham-bei"
-    },
-    {
-      "title": "Danantara Mulai Beli Saham BUMN di Tengah Gejolak BEI - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 05:18:16 GMT",
-      "link": "https://demokratis.co.id/danantara-beli-saham-bumn-bei"
-    },
-    {
-      "title": "Investasi Korea di Batam Tembus US$65,1 Juta, BP Batam Jemput Peluang Baru di Seoul - Bisnis.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 05:09:34 GMT",
-      "link": "https://sumatra.bisnis.com/read/20261022/533/2014756/investasi-korea-di-batam-tembus-us651-juta-bp-batam-jemput-peluang-baru-di-seoul"
-    },
-    {
-      "title": "Danantara akan Manfaatkan Aset BUMN untuk 12 Smart City - Tempo.co",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 05:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-akan-manfaatkan-aset-bumn-untuk-12-smart-city-2301513"
-    },
-    {
-      "title": "IHSG Tertekan, Danantara Borong Saham BUMN yang Menarik - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 04:55:00 GMT",
-      "link": "https://wartaekonomi.co.id/read642712/ihsg-tertekan-danantara-borong-saham-bumn-yang-menarik"
-    },
-    {
-      "title": "Danantara Akui Sudah Belanja Saham Saat IHSG Anjlok Gegara MSCI - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 04:51:00 GMT",
-      "link": "https://investortrust.id/market/120122/danantara-akui-sudah-belanja-saham-ihsg-anjlok-gegara-msci"
-    },
-    {
-      "title": "Aksi Danantara Borong Saham saat IHSG Bergejolak, Bidik Emiten Fundamental Kuat - Bisnis.com - Market",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 04:33:23 GMT",
-      "link": "https://market.bisnis.com/read/20261022/192/2014769/aksi-danantara-borong-saham-saat-ihsg-bergejolak-bidik-emiten-fundamental-kuat"
-    },
-    {
-      "title": "Gaji PNS Tetap Lewat Bank, Usulan Kopdes Merah Putih Belum Berlaku - Fajar Papua",
+      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - Tirto.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 03:59:51 GMT",
-      "link": "https://fajarpapua.com/2026/10/22/gaji-pns-tetap-lewat-bank-usulan-kopdes-merah-putih-belum-berlaku/"
+      "published": "Thu, 22 Oct 2026 13:05:00 GMT",
+      "link": "https://tirto.id/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan-hEaT"
     },
     {
-      "title": "KPPU Perkuat Pencegahan Pelanggaran Persaingan Usaha di Sektor Ekonomi Digital - pena rakyat news",
-      "entity": "KPPU",
+      "title": "Andre Rosiade: Dua Tahun Pemerintahan Prabowo Benahi Pupuk hingga Pangan - Liputan6.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 12:45:12 GMT",
+      "link": "https://www.liputan6.com/bisnis/read/8319300/andre-rosiade-dua-tahun-pemerintahan-prabowo-benahi-pupuk-hingga-pangan"
+    },
+    {
+      "title": "Andre Rosiade Beberkan Capaian 2 Tahun Prabowo-Gibran: Sudah di Jalan yang Benar - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 12:41:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-beberkan-capaian-2-tahun-prabowo-gibran-sudah-di-jalan-yang-benar-28QSDFfHH90"
+    },
+    {
+      "title": "Legislator PDIP Soroti Regulasi Penghambat Kebijakan di Rezim Prabowo-Gibran - Rmol.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 12:35:00 GMT",
+      "link": "https://rmol.id/read/2026/10/22/725923/legislator-pdip-soroti-regulasi-penghambat-kebijakan-di-rezim-prabowo-gibran"
+    },
+    {
+      "title": "Kebijakan Ekonomi dan Kemandirian Nasional Jadi Sorotan DPR - MerahPutih",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 12:19:10 GMT",
+      "link": "https://www.merahputih.com/post/read/dua-tahun-prabowo-gibran-kebijakan-ekonomi-dan-kemandirian-nasional-jadi-sorotan-dpr"
+    },
+    {
+      "title": "Kemenkop mendorong peningkatan kesejahteraan nelayan pesisir - ANTARA News Lampung",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 03:37:18 GMT",
-      "link": "https://penarakyatnews.id/2026/10/22/kppu-perkuat-pencegahan-pelanggaran-persaingan-usaha-di-sektor-ekonomi-digital/"
+      "published": "Thu, 22 Oct 2026 12:16:03 GMT",
+      "link": "https://lampung.antaranews.com/berita/830751/kemenkop-mendorong-peningkatan-kesejahteraan-nelayan-pesisir"
+    },
+    {
+      "title": "Kemendag Dorong Pembentukan Tim Reviu Kebijakan Perdagangan RI di WTO - Media Nikel Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 11:43:42 GMT",
+      "link": "https://nikel.co.id/2026/10/22/kemendag-dorong-pembentukan-tim-reviu-kebijakan-perdagangan-ri-di-wto/"
+    },
+    {
+      "title": "BP BUMN dan Danantara Siapkan 12 Kota Pintar dengan Hunian Terjangkau - BorneoFlash.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 11:43:00 GMT",
+      "link": "https://borneoflash.com/2026/10/22/bp-bumn-dan-danantara-siapkan-12-kota-pintar-dengan-hunian-terjangkau"
+    },
+    {
+      "title": "UNCAPI Gelar Seminar Perkoperasian, Nurdin Halid Dorong Penguatan Ekonomi - RRI.co.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 11:34:00 GMT",
+      "link": "https://rri.co.id/bone/regional/2834125/uncapi-gelar-seminar-perkoperasian-nurdin-halid-dorong-penguatan-ekonomi"
+    },
+    {
+      "title": "Danantara Mulai Beli Saham BUMN di Pasar Modal Indonesia - Suara Surabaya",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 11:20:26 GMT",
+      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/danantara-mulai-beli-saham-bumn-di-pasar-modal-indonesia/"
+    },
+    {
+      "title": "Gaji PNS Bakal Dibayar Lewat Koperasi Merah Putih? Menkeu dan MenPAN-RB Beri Penjelasan - Aktualita.co",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 11:01:00 GMT",
+      "link": "https://aktualita.co/nasional/gaji-pns-lewat-koperasi-merah-putih-penjelasan-menkeu-menpan-rb"
+    },
+    {
+      "title": "Implementasi Kebijakan Pemerintahan Presiden Prabowo Perlu Diperkuat Melalui Tata Kelola Hukum - www.waspada.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 10:55:21 GMT",
+      "link": "https://www.waspada.id/artikel/implementasi-kebijakan-pemerintahan-presiden-prabowo-perlu-diperkuat-melalui-tata-kelola-hukum"
+    },
+    {
+      "title": "Andre Rosiade: Di Jakarta Orang Heboh Tolak MBG, di Daerah Alhamdulillah Mendukung Semua - Suara.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 10:54:20 GMT",
+      "link": "https://amp.suara.com/news/2026/10/22/175420/andre-rosiade-di-jakarta-orang-heboh-tolak-mbg-di-daerah-alhamdulillah-mendukung-semua"
+    },
+    {
+      "title": "Ekosistem Koperasi Disiapkan untuk Perkuat Ekonomi Nelayan Pesisir - Rmol.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 10:53:00 GMT",
+      "link": "https://rmol.id/bisnis/read/2026/10/22/725908/ekosistem-koperasi-disiapkan-untuk-perkuat-ekonomi-nelayan-pesisir"
     }
   ]
 }
