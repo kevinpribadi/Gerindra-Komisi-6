@@ -1,15 +1,15 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-22T13:25:59.106018",
+  "generated_at": "2026-10-22T18:16:14.639554",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 19,
+    "Gerindra": 30,
+    "PDI-P": 18,
     "Golkar": 15,
     "NasDem": 6,
     "PKB": 9,
-    "PKS": 12,
+    "PKS": 13,
     "PAN": 1,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 60,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 52,
-    "investasi": 58,
-    "danantara": 30,
+    "investasi": 60,
+    "danantara": 31,
     "umkm": 13,
     "perdagangan": 11,
-    "ekspor": 7,
+    "ekspor": 6,
     "koperasi": 39,
-    "kartel-monopoli": 13,
+    "kartel-monopoli": 12,
     "merger-akuisisi": 3,
     "impor": 4
   },
@@ -87,12 +87,54 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 49,
-    "Perdagangan": 24,
-    "Hukum/Audit": 18,
-    "Kinerja BUMN": 16,
+    "Perdagangan": 22,
+    "Hukum/Audit": 16,
+    "Kinerja BUMN": 15,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan pada akhirnya akan bertanggung jawab jika terjadi kekurangan pasokan listrik. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 16:22:18 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-chiu-trach-nhiem-cuoi-cung-neu-de-xay-ra-thieu-dien"
+    },
+    {
+      "title": "HUT Koperasi Nasional ke‑79 di Simalungun Meriah - Waspada Online",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 14:51:49 GMT",
+      "link": "https://waspada.co.id/hut-koperasi-nasional-ke-79-di-simalungun-meriah/"
+    },
+    {
+      "title": "Danantara Fokuskan Investasi 2027 pada Mineral Kritis, Hilirisasi, dan Infrastruktur AI - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 14:40:00 GMT",
+      "link": "https://investortrust.id/business/120198/danantara-fokuskan-investasi-2027-pada-mineral-kritis-hilirisasi-dan-infrastruktur-ai"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - Tirto.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 14:26:00 GMT",
+      "link": "https://tirto.id/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan-hEbb"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Soroti Dua Tahun Pemerintahan Prabowo, Desak Percepatan Aturan Satu Data Indonesia - Telusur",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 14:12:36 GMT",
+      "link": "https://telusur.co.id/dpr/rieke-diah-pitaloka-soroti-dua-tahun-pemerintahan-prabowo-desak-percepatan-aturan-satu-data-indonesia"
+    },
+    {
+      "title": "Pengusaha Berkewajiban Melaporkan Stok Barang ke Pemerintah - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 14:09:00 GMT",
+      "link": "https://rri.co.id/gorontalo/info-pemda/2833307/pengusaha-berkewajiban-melaporkan-stok-barang-ke-pemerintah"
+    },
     {
       "title": "Danantara Bidik Investor Global, Target Investasi 30 Miliar Dollar AS - Kompas.com",
       "entity": "Danantara",
@@ -143,60 +185,18 @@
       "link": "https://lampung.antaranews.com/berita/830751/kemenkop-mendorong-peningkatan-kesejahteraan-nelayan-pesisir"
     },
     {
+      "title": "Evaluasi 2 Tahun Pemerintahan Prabowo, Rieke Diah Pitaloka Desak Percepatan Implementasi Satu Data Indonesia - Jakartanews.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 12:11:52 GMT",
+      "link": "https://www.jakartanews.id/2026/10/22/evaluasi-2-tahun-pemerintahan-prabowo-rieke-diah-pitaloka-desak-percepatan-implementasi-satu-data-indonesia/"
+    },
+    {
       "title": "Kemendag Dorong Pembentukan Tim Reviu Kebijakan Perdagangan RI di WTO - Media Nikel Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Thu, 22 Oct 2026 11:43:42 GMT",
       "link": "https://nikel.co.id/2026/10/22/kemendag-dorong-pembentukan-tim-reviu-kebijakan-perdagangan-ri-di-wto/"
-    },
-    {
-      "title": "BP BUMN dan Danantara Siapkan 12 Kota Pintar dengan Hunian Terjangkau - BorneoFlash.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 11:43:00 GMT",
-      "link": "https://borneoflash.com/2026/10/22/bp-bumn-dan-danantara-siapkan-12-kota-pintar-dengan-hunian-terjangkau"
-    },
-    {
-      "title": "UNCAPI Gelar Seminar Perkoperasian, Nurdin Halid Dorong Penguatan Ekonomi - RRI.co.id",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 11:34:00 GMT",
-      "link": "https://rri.co.id/bone/regional/2834125/uncapi-gelar-seminar-perkoperasian-nurdin-halid-dorong-penguatan-ekonomi"
-    },
-    {
-      "title": "Danantara Mulai Beli Saham BUMN di Pasar Modal Indonesia - Suara Surabaya",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 11:20:26 GMT",
-      "link": "https://www.suarasurabaya.net/ekonomibisnis/2026/danantara-mulai-beli-saham-bumn-di-pasar-modal-indonesia/"
-    },
-    {
-      "title": "Gaji PNS Bakal Dibayar Lewat Koperasi Merah Putih? Menkeu dan MenPAN-RB Beri Penjelasan - Aktualita.co",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 11:01:00 GMT",
-      "link": "https://aktualita.co/nasional/gaji-pns-lewat-koperasi-merah-putih-penjelasan-menkeu-menpan-rb"
-    },
-    {
-      "title": "Implementasi Kebijakan Pemerintahan Presiden Prabowo Perlu Diperkuat Melalui Tata Kelola Hukum - www.waspada.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 10:55:21 GMT",
-      "link": "https://www.waspada.id/artikel/implementasi-kebijakan-pemerintahan-presiden-prabowo-perlu-diperkuat-melalui-tata-kelola-hukum"
-    },
-    {
-      "title": "Andre Rosiade: Di Jakarta Orang Heboh Tolak MBG, di Daerah Alhamdulillah Mendukung Semua - Suara.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 10:54:20 GMT",
-      "link": "https://amp.suara.com/news/2026/10/22/175420/andre-rosiade-di-jakarta-orang-heboh-tolak-mbg-di-daerah-alhamdulillah-mendukung-semua"
-    },
-    {
-      "title": "Ekosistem Koperasi Disiapkan untuk Perkuat Ekonomi Nelayan Pesisir - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 10:53:00 GMT",
-      "link": "https://rmol.id/bisnis/read/2026/10/22/725908/ekosistem-koperasi-disiapkan-untuk-perkuat-ekonomi-nelayan-pesisir"
     }
   ]
 }
