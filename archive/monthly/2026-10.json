@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-21T22:04:55.888286",
+  "generated_at": "2026-10-22T01:11:49.534932",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 20,
     "Golkar": 15,
     "NasDem": 5,
-    "PKB": 11,
+    "PKB": 12,
     "PKS": 16,
     "PAN": 1,
     "Demokrat": 13
@@ -16,7 +16,7 @@
     "PDI-P": 76,
     "Golkar": 96,
     "NasDem": 11,
-    "PKB": 46,
+    "PKB": 47,
     "PKS": 53,
     "PAN": 20,
     "Demokrat": 28
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 48,
-    "investasi": 49,
+    "investasi": 50,
     "danantara": 25,
-    "umkm": 12,
+    "umkm": 11,
     "ekspor": 7,
-    "perdagangan": 16,
+    "perdagangan": 14,
     "koperasi": 37,
     "kartel-monopoli": 13,
     "merger-akuisisi": 5,
@@ -73,7 +73,7 @@
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 17,
+    "Nasim Khan": 18,
     "Ida Fauziyah": 5,
     "Amin Ak.": 20,
     "Rizal Bawazier": 13,
@@ -86,13 +86,69 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
+    "Koperasi/UMKM": 48,
     "Perdagangan": 27,
     "Konflik Publik": 2,
     "Hukum/Audit": 23,
-    "Kinerja BUMN": 19
+    "Kinerja BUMN": 18
   },
   "top_headlines": [
+    {
+      "title": "Investasi Korea di Batam Tembus USD65,1 Juta, BP Batam Jemput Peluang Baru di Seoul - BP Batam",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 01:01:35 GMT",
+      "link": "https://bpbatam.go.id/investasi-korea-di-batam-tembus-usd651-juta-bp-batam-jemput-peluang-baru-di-seoul/"
+    },
+    {
+      "title": "CELIOS Bongkar Celah Hukum Danantara: Dari Rangkap Jabatan Menteri hingga Imunitas Hukum yang Ancam Keuangan Negara - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:58:36 GMT",
+      "link": "https://afu.id/hukum-kriminal/celios-bongkar-celah-hukum-danantara-dari-rangkap-jabatan-menteri-hingga-imunitas-hukum-yang-ancam-keuangan-negara"
+    },
+    {
+      "title": "Unizar dan BPKN RI Perkuat Perlindungan Konsumen - SUARANTB.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:53:53 GMT",
+      "link": "https://suarantb.com/2026/10/22/unizar-dan-bpkn-ri-perkuat-perlindungan-konsumen/"
+    },
+    {
+      "title": "Jangan Sulap Korupsi demi Danantara - Tagar.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:49:35 GMT",
+      "link": "https://tagar.co/jangan-sulap-korupsi-demi-danantara/"
+    },
+    {
+      "title": "Stunting Balikpapan Naik Jadi 24,5 Persen, Pemkot Perketat Pengawasan Pangan dan Layanan Kesehatan - Portal Berau",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:46:45 GMT",
+      "link": "https://portalberau.online/2026/10/22/stunting-balikpapan-naik-jadi-245-persen-pemkot-perketat-pengawasan-pangan-dan-layanan-kesehatan/"
+    },
+    {
+      "title": "PTPN IV PalmCo Gandeng Kemendag Cari Pasar Baru Ekspor Sawit RI - https://jambiekspres.disway.id/ - Jambi Ekspres",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:33:00 GMT",
+      "link": "https://jambiekspres.disway.id/ptpn-iv/read/724866/ptpn-iv-palmco-gandeng-kemendag-cari-pasar-baru-ekspor-sawit-ri"
+    },
+    {
+      "title": "KopDes Mau Bayar Gaji, Negara Sudah Siap? - Kompasiana.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 00:27:55 GMT",
+      "link": "https://www.kompasiana.com/devaseptana8369/6ad9588bc925c4564c128206/kopdes-mau-bayar-gaji-negara-sudah-siap"
+    },
+    {
+      "title": "GINSI Apresiasi Kemendag, TEI 2026 Capai Transaksi Rp414,13 Triliun - jurnas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 21 Oct 2026 23:18:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1667518/ginsi-apresiasi-kemendag-tei-2026-capai-transaksi-rp41413-triliun/"
+    },
     {
       "title": "Kemenkop dan Kemenkeu Siap Bahas Wacana Penyaluran Gaji ASN Lewat Koperasi Desa - Berita Koperasi",
       "entity": "Kementerian Koperasi",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Wed, 21 Oct 2026 13:50:12 GMT",
       "link": "https://koranbumn.com/berita-singkat-bp-bumn-3/"
-    },
-    {
-      "title": "Target Beroperasi 2026, Airlangga Klaim PFII Masih Disiapkan - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 13:40:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/125336/target-beroperasi-2026-airlangga-klaim-pfii-masih-disiapkan"
-    },
-    {
-      "title": "Pemkot Medan dorong percepatan operasional Koperasi Desa Merah Putih - ANTARA News Sumatera Utara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 13:13:29 GMT",
-      "link": "https://sumut.antaranews.com/berita/674049/pemkot-medan-dorong-percepatan-operasional-koperasi-desa-merah-putih"
-    },
-    {
-      "title": "Pemerintah Percepat Distribusi Barang Subsidi Lewat Koperasi Merah Putih - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 12:56:54 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6354401/"
-    },
-    {
-      "title": "Pakar Hukum Pertanyakan Unsur Kolusi dalam Kasus Kartel Bunga Pindar - Media Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 12:12:10 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/947110/pakar-hukum-pertanyakan-unsur-kolusi-dalam-kasus-kartel-bunga-pindar"
-    },
-    {
-      "title": "BP BUMN Dorong Danantara Selaraskan Bisnis Peruri dan Telkom - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 12:10:45 GMT",
-      "link": "https://www.metrotvnews.com/read/kELCyWQ4-bp-bumn-dorong-danantara-selaraskan-bisnis-peruri-dan-telkom"
-    },
-    {
-      "title": "Kasus Pemerasan Bupati Pemalang, KPK Periksa Anggota DPR Doni Akbar - lampuhijau.co.id",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Wed, 21 Oct 2026 12:06:00 GMT",
-      "link": "https://lampuhijau.co.id/baca-berita/jakarta-city/28367/kasus-pemerasan-bupati-pemalang-kpk-periksa-anggota-dpr-doni-akbar"
-    },
-    {
-      "title": "Teken MoU: Kemendag dan Nestlé Indonesia Dorong Ekspor dari Hulu di TEI 2026 - katakabar.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 12:01:00 GMT",
-      "link": "https://katakabar.com/berita/baca/teken-mou-kemendag-dan-nestle-indonesia-dorong-ekspor-dari-hulu-di-tei-2026"
-    },
-    {
-      "title": "BP Batam bidik investasi aviasi Korsel untuk kembangkan Hang Nadim - ANTARA News Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 21 Oct 2026 11:58:24 GMT",
-      "link": "https://kepri.antaranews.com/berita/270789/bp-batam-bidik-investasi-aviasi-korsel-untuk-kembangkan-hang-nadim"
     }
   ]
 }
