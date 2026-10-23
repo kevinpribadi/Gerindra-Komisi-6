@@ -1,13 +1,13 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-23T17:41:25.953896",
+  "generated_at": "2026-10-23T20:58:27.046345",
   "party_counts_7d": {
     "Gerindra": 34,
     "PDI-P": 23,
     "Golkar": 19,
     "NasDem": 6,
     "PKB": 8,
-    "PKS": 9,
+    "PKS": 7,
     "PAN": 1,
     "Demokrat": 2
   },
@@ -34,8 +34,8 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 42,
-    "investasi": 59,
+    "bumn": 43,
+    "investasi": 58,
     "danantara": 28,
     "umkm": 11,
     "ekspor": 7,
@@ -93,6 +93,13 @@
   },
   "top_headlines": [
     {
+      "title": "Danantara Dorong Saham Lima BUMN Saat IHSG Pulih - Demokratis.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 18:00:00 GMT",
+      "link": "https://demokratis.co.id/danantara-dorong-saham-lima-bumn"
+    },
+    {
       "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur, Uang Muka Bisa Dicicil 24 Bulan - Kabarjoglo",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
@@ -119,6 +126,13 @@
       "kind": "lembaga",
       "published": "Fri, 23 Oct 2026 16:27:35 GMT",
       "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
+    },
+    {
+      "title": "Kemenkop siapkan regulasi usaha koperasi di bidang perumahan - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 14:20:06 GMT",
+      "link": "https://m.antaranews.com/berita/5808283/kemenkop-siapkan-regulasi-usaha-koperasi-di-bidang-perumahan"
     },
     {
       "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur - www.suaralandak.co.id",
@@ -182,20 +196,6 @@
       "kind": "anggota",
       "published": "Fri, 23 Oct 2026 11:36:14 GMT",
       "link": "https://kosadata.com/soroti-kasus-keracunan-mbg-andre-rosiade-desak-bgn-perketat-sop"
-    },
-    {
-      "title": "Rieke Diah Soroti Implementasi Kebijakan Prabowo yang Belum Optimal - jurnas.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 11:34:00 GMT",
-      "link": "https://www.jurnas.com/artikel/1667646/rieke-diah-soroti-implementasi-kebijakan-prabowo-yang-belum-optimal/"
-    },
-    {
-      "title": "LRT Jakarta Direstui Danantara, Pramono: Lagi Dihitung oleh Jakpro - Media Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 11:20:10 GMT",
-      "link": "https://mediaindonesia.com/megapolitan/947930/lrt-jakarta-direstui-danantara-pramono-lagi-dihitung-oleh-jakpro"
     }
   ]
 }
