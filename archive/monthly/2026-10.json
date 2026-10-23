@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-23T12:26:35.368897",
+  "generated_at": "2026-10-23T17:41:25.953896",
   "party_counts_7d": {
-    "Gerindra": 33,
-    "PDI-P": 21,
+    "Gerindra": 34,
+    "PDI-P": 23,
     "Golkar": 19,
     "NasDem": 6,
-    "PKB": 7,
+    "PKB": 8,
     "PKS": 9,
     "PAN": 1,
     "Demokrat": 2
@@ -14,9 +14,9 @@
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 75,
-    "Golkar": 91,
-    "NasDem": 11,
-    "PKB": 38,
+    "Golkar": 93,
+    "NasDem": 10,
+    "PKB": 37,
     "PKS": 53,
     "PAN": 18,
     "Demokrat": 28
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "investasi": 62,
-    "danantara": 29,
+    "bumn": 42,
+    "investasi": 59,
+    "danantara": 28,
     "umkm": 11,
-    "ekspor": 6,
+    "ekspor": 7,
     "perdagangan": 7,
     "koperasi": 38,
-    "kartel-monopoli": 11,
+    "kartel-monopoli": 10,
     "merger-akuisisi": 3
   },
   "member_counts_30d": {
@@ -51,28 +51,28 @@
     "Kawendra Lukistian": 16,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 12,
-    "Mufti Anam": 8,
+    "Mufti Anam": 7,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
-    "Totok Hedi Santosa": 11,
+    "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 8,
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
-    "Doni Akbar": 13,
+    "Doni Akbar": 14,
     "Firnando Hadityo Ganinduto": 1,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 16,
     "Muhammad Sarmuji": 18,
-    "Asep Wahyuwijaya": 2,
+    "Asep Wahyuwijaya": 1,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
-    "Anggia Erma Rini": 4,
+    "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 13,
+    "Nasim Khan": 11,
     "Ida Fauziyah": 1,
     "Amin Ak.": 20,
     "Rizal Bawazier": 14,
@@ -86,12 +86,96 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 51,
-    "Perdagangan": 16,
+    "Perdagangan": 17,
     "Konflik Publik": 3,
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 19,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur, Uang Muka Bisa Dicicil 24 Bulan - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 16:54:17 GMT",
+      "link": "https://kabarjoglo.com/2026/10/23/kemenkop-luncurkan-koperasi-perumahan-rakyat-di-cianjur-uang-muka-bisa-dicicil-24-bulan/"
+    },
+    {
+      "title": "Danantara Beli Saham BUMN dan GOTO untuk Topang IHSG - www.suaralandak.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 16:31:36 GMT",
+      "link": "https://www.suaralandak.co.id/danantara-beli-saham-bumn-goto-ihsg"
+    },
+    {
+      "title": "Dana Sawit Rp176,1 Triliun Disorot, Anggota DPR RI Rieke Desak Kejagung Bongkar Aliran Uang BPDPKS - Kaki News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 23 Oct 2026 16:31:01 GMT",
+      "link": "https://kakinews.id/dana-sawit-rp1761-triliun-disorot-anggota-dpr-ri-rieke-desak-kejagung-bongkar-aliran-uang-bpdpks/"
+    },
+    {
+      "title": "Daftar Saham IHSG Milik Danantara, Ada yang Punya Porsi hingga 91%! - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 16:27:35 GMT",
+      "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
+    },
+    {
+      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur - www.suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 14:09:30 GMT",
+      "link": "https://www.suaralandak.co.id/kemenkop-koperasi-perumahan-rakyat-cianjur"
+    },
+    {
+      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur - indoposco",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 14:01:04 GMT",
+      "link": "https://indoposco.id/2026/10/23/kemenkop-luncurkan-koperasi-perumahan-rakyat-di-cianjur/"
+    },
+    {
+      "title": "Ekspor Indonesia Tumbuh 4,74 Persen hingga Agustus 2026 - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 13:27:28 GMT",
+      "link": "https://demokratis.co.id/ekspor-indonesia-tumbuh-agustus-2026"
+    },
+    {
+      "title": "Kemendag Catat Ekspor Indonesia Tumbuh 4,74 Persen - Suara Independent News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 13:22:26 GMT",
+      "link": "https://www.suaraindependentnews.id/kemendag-ekspor-indonesia-tumbuh"
+    },
+    {
+      "title": "Revisi UU Perlindungan Konsumen Segera Terwujud, Ketua Komisi VI DPR RI Sosialisasikan ke Masyarakat - Sekilas Media -",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Fri, 23 Oct 2026 13:04:24 GMT",
+      "link": "https://sekilasmedia.com/2026/10/revisi-uu-perlindungan-konsumen-segera-terwujud-ketua-komisi-vi-dpr-ri-sosialisasikan-ke-masyarakat/"
+    },
+    {
+      "title": "Pemkab Lampung Timur dorong pesisir jadi pusat pertumbuhan ekonomi - ANTARA News Lampung",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 12:53:11 GMT",
+      "link": "https://lampung.antaranews.com/berita/830771/pemkab-lampung-timur-dorong-pesisir-jadi-pusat-pertumbuhan-ekonomi"
+    },
+    {
+      "title": "Rizki Faisal: Dampak Karhutla Meluas, Status Bencana Nasional Perlu Dikaji - Fraksi Partai Golkar",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Fri, 23 Oct 2026 12:42:43 GMT",
+      "link": "https://fraksigolkar.com/read/2764/rizki-faisal-dampak-karhutla-meluas-status-bencana-nasional-perlu-dikaji"
+    },
+    {
+      "title": "Dua Tahun Pemerintahan Presiden Prabowo: Kita Berada di Jalur yang Benar - RRI.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 12:36:00 GMT",
+      "link": "https://rri.co.id/nasional/2837111/dua-tahun-pemerintahan-presiden-prabowo-kita-berada-di-jalur-yang-benar"
+    },
     {
       "title": "Soroti Kasus Keracunan MBG, Andre Rosiade Desak BGN Perketat SOP - Kosadata",
       "entity": "Andre Rosiade",
@@ -112,90 +196,6 @@
       "kind": "lembaga",
       "published": "Fri, 23 Oct 2026 11:20:10 GMT",
       "link": "https://mediaindonesia.com/megapolitan/947930/lrt-jakarta-direstui-danantara-pramono-lagi-dihitung-oleh-jakpro"
-    },
-    {
-      "title": "Putusan KPPU soal Kartel Batas Bunga Dibatalkan, Pindar Tak Perlu Bayar Denda? - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 09:44:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/23/164400826/putusan-kppu-soal-kartel-batas-bunga-dibatalkan-pindar-tak-perlu-bayar-denda-"
-    },
-    {
-      "title": "Kreativitas Jadi Kunci Koperasi Bertahan dan Berkembang - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 09:41:00 GMT",
-      "link": "https://rmol.id/amp/2026/10/23/726023/kreativitas-jadi-kunci-koperasi-bertahan-dan-berkembang-"
-    },
-    {
-      "title": "Anggota DPR RI GM Totok Hedi Santosa Menggembleng Pengurus GP Marhaenis Kota Yogyakarta - https://beritabernas.com/",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 09:40:24 GMT",
-      "link": "https://beritabernas.com/anggota-dpr-ri-gm-totok-hedi-santosa-menggembleng-pengurus-gp-marhaenis-kota-yogyakarta/"
-    },
-    {
-      "title": "KPK usut kampanye Anom saat periksa Doni Akbar - ANTARA News Makassar",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 09:31:59 GMT",
-      "link": "https://makassar.antaranews.com/berita/641139/kpk-usut-kampanye-anom-saat-periksa-doni-akbar"
-    },
-    {
-      "title": "Dua Tahun Prabowo, Rieke Diah Pitaloka Soroti Regulasi Mandek dan Tata Kelola Data Nasional - sudut kota",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 09:30:48 GMT",
-      "link": "https://sudutkota.id/dua-tahun-prabowo-rieke-diah-pitaloka-soroti-regulasi-mandek-dan-tata-kelola-data-nasional/"
-    },
-    {
-      "title": "Menkeu Suahasil Pastikan Pembayaran Gaji PNS Tak Beralih ke Koperasi - DDTCNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 09:30:00 GMT",
-      "link": "https://news.ddtc.co.id/berita/nasional/1823528/menkeu-suahasil-pastikan-pembayaran-gaji-pns-tak-beralih-ke-koperasi"
-    },
-    {
-      "title": "Financial & Regional Economic Forum 2026 Ungkap Strategi Pembiayaan dan Investasi untuk Pacu Pertumbuhan Daerah - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 09:22:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdXpQRW5aZ1M3dnMzUG5kcm9xczA1WVZ1OUxTV3VxNnJBejY2S0g0RHZmbTExc2lWVXVZcU9SZ3pPbG9pTHJ5THc0UXRfcUdRNmQzMEg3UmVtRHFSRkpZT2xaM1VzQzA2c2k4WGlNN1Q3VEgtTTg4SUxvUlZQNTV2MkVOb2pGeGtFWFJ1QTk2RlVucXBYRjBtLXp1ZHZPcDFjcHl0SWpHUldFZzVUWERyUTU0RnZkZGhfNTJOdjloMTZZdFV1dXRfMXJaZlRIV3cyNlZkY3JyZzBFTTE0RUlIdHBXM1Zydw?oc=5"
-    },
-    {
-      "title": "Kemendag Perluas Akses Produk Kreatif Indonesia ke Pasar Global - www.suaralandak.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 08:35:26 GMT",
-      "link": "https://www.suaralandak.co.id/kemendag-produk-kreatif-pasar-global"
-    },
-    {
-      "title": "Kemendag Andalkan Jaringan di 33 Negara untuk Bawa Produk Lokal ke Pasar Global - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 08:28:00 GMT",
-      "link": "https://rri.co.id/nasional/2836451/kemendag-andalkan-jaringan-di-33-negara-untuk-bawa-produk-lokal-ke-pasar-global"
-    },
-    {
-      "title": "Andre Rosiade Tantang Pengkritik Swasembada Pangan Prabowo: Datang dan Cek Gudang Bulog - OWRITE",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 08:22:04 GMT",
-      "link": "https://www.owrite.id/daerah/2026/10/23/andre-rosiade-tantang-pengkritik-swasembada-pangan-prabowo-datang-dan-cek-gudang-bulog/"
-    },
-    {
-      "title": "Ekspor ke Kanada Capai US$1,12 Miliar, I-CA CEPA Diharapkan Perkuat Daya Saing - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 08:00:00 GMT",
-      "link": "https://swa.co.id/read/478809/ekspor-ke-kanada-capai-us112-miliar-i-ca-cepa-diharapkan-perkuat-daya-saing"
-    },
-    {
-      "title": "Kemenkop Siapkan Ekosistem Koperasi untuk Tingkatkan Kesejahteraan Nelayan - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 07:55:00 GMT",
-      "link": "https://rri.co.id/nasional/2836024/kemenkop-siapkan-ekosistem-koperasi-untuk-tingkatkan-kesejahteraan-nelayan"
     }
   ]
 }
