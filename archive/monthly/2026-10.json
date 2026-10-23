@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-23T01:11:25.444166",
+  "generated_at": "2026-10-23T06:56:15.390947",
   "party_counts_7d": {
     "Gerindra": 31,
-    "PDI-P": 19,
+    "PDI-P": 20,
     "Golkar": 16,
     "NasDem": 6,
-    "PKB": 9,
-    "PKS": 13,
+    "PKB": 8,
+    "PKS": 12,
     "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 60,
+    "Gerindra": 61,
     "PDI-P": 75,
-    "Golkar": 96,
-    "NasDem": 12,
-    "PKB": 42,
+    "Golkar": 94,
+    "NasDem": 13,
+    "PKB": 39,
     "PKS": 54,
-    "PAN": 17,
+    "PAN": 18,
     "Demokrat": 28
   },
   "agency_counts_30d": {
@@ -34,22 +34,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
+    "bumn": 50,
     "investasi": 62,
-    "danantara": 31,
-    "umkm": 13,
-    "perdagangan": 8,
+    "danantara": 32,
+    "umkm": 11,
     "ekspor": 7,
-    "koperasi": 40,
-    "kartel-monopoli": 14,
+    "perdagangan": 7,
+    "koperasi": 39,
+    "kartel-monopoli": 13,
     "merger-akuisisi": 3,
-    "impor": 4
+    "impor": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 17,
-    "Kawendra Lukistian": 15,
+    "Kawendra Lukistian": 16,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 13,
     "Mufti Anam": 8,
@@ -64,139 +64,139 @@
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 10,
-    "Firnando Hadityo Ganinduto": 9,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 15,
     "Muhammad Sarmuji": 18,
-    "Asep Wahyuwijaya": 3,
+    "Asep Wahyuwijaya": 4,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 4,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 16,
-    "Ida Fauziyah": 2,
+    "Nasim Khan": 14,
+    "Ida Fauziyah": 1,
     "Amin Ak.": 20,
     "Rizal Bawazier": 14,
     "Ghufran": 10,
     "Ismail": 10,
     "Nasril Bahar": 2,
-    "Iskandar": 15,
+    "Iskandar": 16,
     "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 52,
-    "Perdagangan": 23,
+    "Koperasi/UMKM": 51,
+    "Perdagangan": 20,
+    "Konflik Publik": 3,
     "Hukum/Audit": 16,
-    "Kinerja BUMN": 15,
-    "Konflik Publik": 2
+    "Kinerja BUMN": 13
   },
   "top_headlines": [
     {
-      "title": "Gaji PNS Lewat Koperasi Merah Putih? Ini Penjelasan Terbaru Pemerintah - Lingkaran ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 00:55:35 GMT",
-      "link": "https://lingkaran.id/nasional/gaji-pns-lewat-koperasi-merah-putih-ini-penjelasan-terbaru-pemerintah"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Pesisir Jual BBM Subsidi hingga Pinjaman Modal Melaut - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 00:05:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/23/070500426/kemenkop-dorong-koperasi-pesisir-jual-bbm-subsidi-hingga-pinjaman-modal-melaut"
-    },
-    {
-      "title": "KPPU Dorong Tata Niaga Ubi Kayu yang Adil dan Berkelanjutan - RRI.co.id",
+      "title": "PN Jakpus Batalkan Putusan KPPU soal Batas Atas Bunga Pinjol - Kompas.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 23:26:00 GMT",
-      "link": "https://rri.co.id/bandar-lampung/regional/2833881/kppu-dorong-tata-niaga-ubi-kayu-yang-adil-dan-berkelanjutan"
+      "published": "Fri, 23 Oct 2026 06:51:00 GMT",
+      "link": "https://nasional.kompas.com/read/2026/10/23/13514101/pn-jakpus-batalkan-putusan-kppu-soal-batas-atas-bunga-pinjol"
     },
     {
-      "title": "Rieke Diah Pitaloka Soroti Implementasi Kebijakan Prabowo, Desak Percepatan Satu Data Indonesia - Batamtoday.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 23:23:58 GMT",
-      "link": "https://batamtoday.com/news/rieke-diah-pitaloka-soroti-implementasi-kebijakan-prabowo-desak-percepatan-satu-data-indonesia"
-    },
-    {
-      "title": "Andre Rosiade Ungkap Dua Agenda Prabowo: Selamatkan Kekayaan Negara dan Perkuat Gizi Anak - Batamtoday.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 21:48:00 GMT",
-      "link": "https://batamtoday.com/news/andre-rosiade-ungkap-dua-agenda-prabowo-selamatkan-kekayaan-negara-dan-perkuat-gizi-anak"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 21:31:35 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Soal Gaji PNS Lewat Kopdes Merah Putih, Politisi Gerindra Ingatkan PNS Jangan Dipaksa jadi Anggota Koperasi - Warta Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 20:30:00 GMT",
-      "link": "https://wartaekonomi.co.id/read642894/soal-gaji-pns-lewat-kopdes-merah-putih-politisi-gerindra-ingatkan-pns-jangan-dipaksa-jadi-anggota-koperasi"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - RCTI+",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 19:22:05 GMT",
-      "link": "https://www.rctiplus.com/news/detail/idxchannel/5500261/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan pada akhirnya akan bertanggung jawab jika terjadi kekurangan pasokan listrik. - Vietnam.vn",
+      "title": "India Akhiri Penyelidikan Antisubsidi Kaca Indonesia, Kemendag Kawal Eksportir - Kompas.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 16:22:18 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-chiu-trach-nhiem-cuoi-cung-neu-de-xay-ra-thieu-dien"
+      "published": "Fri, 23 Oct 2026 06:46:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/23/134607326/india-akhiri-penyelidikan-antisubsidi-kaca-indonesia-kemendag-kawal-eksportir"
     },
     {
-      "title": "HUT Koperasi Nasional ke‑79 di Simalungun Meriah - Waspada Online",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 14:51:49 GMT",
-      "link": "https://waspada.co.id/hut-koperasi-nasional-ke-79-di-simalungun-meriah/"
-    },
-    {
-      "title": "Danantara Fokuskan Investasi 2027 pada Mineral Kritis, Hilirisasi, dan Infrastruktur AI - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 14:40:00 GMT",
-      "link": "https://investortrust.id/business/120198/danantara-fokuskan-investasi-2027-pada-mineral-kritis-hilirisasi-dan-infrastruktur-ai"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - Tirto.id",
+      "title": "Gaji ASN Lewat Koperasi? Menkeu Tolak Usulan Kemenkop - Inilah.com",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 14:26:00 GMT",
-      "link": "https://tirto.id/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan-hEbb"
+      "published": "Fri, 23 Oct 2026 06:46:00 GMT",
+      "link": "https://www.inilah.com/gaji-asn-lewat-koperasi-menkeu-tolak-usulan-kemenkop"
     },
     {
-      "title": "Rieke Diah Pitaloka Soroti Dua Tahun Pemerintahan Prabowo, Desak Percepatan Aturan Satu Data Indonesia - Telusur",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 14:12:36 GMT",
-      "link": "https://telusur.co.id/dpr/rieke-diah-pitaloka-soroti-dua-tahun-pemerintahan-prabowo-desak-percepatan-aturan-satu-data-indonesia"
-    },
-    {
-      "title": "Pengusaha Berkewajiban Melaporkan Stok Barang ke Pemerintah - RRI.co.id",
+      "title": "TEI dan WCCE Jadi Wadah Promosi Produk Lokal ke Pasar Global - TVRI News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 14:09:00 GMT",
-      "link": "https://rri.co.id/gorontalo/info-pemda/2833307/pengusaha-berkewajiban-melaporkan-stok-barang-ke-pemerintah"
+      "published": "Fri, 23 Oct 2026 06:17:10 GMT",
+      "link": "https://nasional.tvrinews.com/berita/thijb4f-tei-dan-wcce-jadi-wadah-promosi-produk-lokal-ke-pasar-global"
     },
     {
-      "title": "Danantara Bidik Investor Global, Target Investasi 30 Miliar Dollar AS - Kompas.com",
+      "title": "IHSG Menanjak Kuat, Efek Danantara Mulai Terasa? - investor.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 13:10:00 GMT",
-      "link": "https://money.kompas.com/read/2026/10/22/201000126/danantara-bidik-investor-global-target-investasi-30-miliar-dollar-as"
+      "published": "Fri, 23 Oct 2026 06:13:10 GMT",
+      "link": "https://investor.id/market/459170/ihsg-menanjak-kuat-efek-danantara-mulai-terasa"
+    },
+    {
+      "title": "AFPI Apresiasi Putusan Pengadilan Batalkan Sanksi KPPU Rp755 Miliar - Bisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 06:07:24 GMT",
+      "link": "https://finansial.bisnis.com/read/20261023/563/2015100/afpi-apresiasi-putusan-pengadilan-batalkan-sanksi-kppu-rp755-miliar"
+    },
+    {
+      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Asal Indonesia - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 06:01:22 GMT",
+      "link": "https://www.metrotvnews.com/read/K5nC1lLZ-india-hentikan-penyelidikan-antisubsidi-kaca-asal-indonesia"
+    },
+    {
+      "title": "Akses Pasar India Terbuka Lagi, Ekspor Kaca RI Siap Meledak! - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 06:00:00 GMT",
+      "link": "https://www.inilah.com/akses-pasar-india-terbuka-lagi-ekspor-kaca-ri-siap-meledak"
+    },
+    {
+      "title": "Putusan Bunga Pinjol KPPU Dibatalkan Pengadilan, Ini Kata Asosiasi - CNBC Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 05:25:00 GMT",
+      "link": "https://www.cnbcindonesia.com/tech/20261023115820-37-778868/putusan-bunga-pinjol-kppu-dibatalkan-pengadilan-ini-kata-asosiasi"
+    },
+    {
+      "title": "PN Jakpus Batalkan Putusan KPPU soal Bunga Pinjol - BeritaSatu.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 04:54:43 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3035885/pn-jakpus-batalkan-putusan-kppu-soal-bunga-pinjol"
+    },
+    {
+      "title": "Saham Turun Belum Tentu Murah, Ini Pesan Danantara Buat Investor - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 04:10:12 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261023110828-17-778846/saham-turun-belum-tentu-murah-ini-pesan-danantara-buat-investor"
+    },
+    {
+      "title": "India hentikan penyelidikan antisubdisi produk kaca polos bening RI - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 03:46:54 GMT",
+      "link": "https://www.antaranews.com/berita/5806699/india-hentikan-penyelidikan-antisubdisi-produk-kaca-polos-bening-ri"
+    },
+    {
+      "title": "Danantara Siapkan Umumkan Proyek Investasi Strategis di NAF 2026 - Bisnis.com - Market",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 03:40:15 GMT",
+      "link": "https://market.bisnis.com/read/20261023/192/2015013/danantara-siapkan-umumkan-proyek-investasi-strategis-di-naf-2026"
+    },
+    {
+      "title": "Wacana Gaji ASN Lewat Kopdes Belum Final, Akankah Terealisasi? - Kabar24",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 02:45:23 GMT",
+      "link": "https://kabar24.bisnis.com/read/20261023/15/2014690/wacana-gaji-asn-lewat-kopdes-belum-final-akankah-terealisasi"
+    },
+    {
+      "title": "South Korea Aero Summit 2026, BP Batam Bidik Investasi Penerbangan - Batamtoday.com",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 02:39:12 GMT",
+      "link": "https://batamtoday.com/news/bidik-investor-korea-selatan-bp-batam-incar-peluang-baru-di-sektor-penerbangan"
     }
   ]
 }
