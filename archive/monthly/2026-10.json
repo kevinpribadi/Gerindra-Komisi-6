@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-22T22:04:27.794883",
+  "generated_at": "2026-10-23T01:11:25.444166",
   "party_counts_7d": {
-    "Gerindra": 30,
-    "PDI-P": 18,
-    "Golkar": 15,
+    "Gerindra": 31,
+    "PDI-P": 19,
+    "Golkar": 16,
     "NasDem": 6,
     "PKB": 9,
     "PKS": 13,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 60,
     "PDI-P": 75,
-    "Golkar": 95,
+    "Golkar": 96,
     "NasDem": 12,
     "PKB": 42,
     "PKS": 54,
@@ -38,10 +38,10 @@
     "investasi": 62,
     "danantara": 31,
     "umkm": 13,
-    "perdagangan": 10,
-    "ekspor": 6,
-    "koperasi": 39,
-    "kartel-monopoli": 13,
+    "perdagangan": 8,
+    "ekspor": 7,
+    "koperasi": 40,
+    "kartel-monopoli": 14,
     "merger-akuisisi": 3,
     "impor": 4
   },
@@ -61,7 +61,7 @@
     "Totok Hedi Santosa": 10,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 8,
-    "Ahmad Labib": 11,
+    "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 10,
     "Firnando Hadityo Ganinduto": 9,
@@ -86,13 +86,55 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
-    "Perdagangan": 22,
+    "Koperasi/UMKM": 52,
+    "Perdagangan": 23,
     "Hukum/Audit": 16,
     "Kinerja BUMN": 15,
     "Konflik Publik": 2
   },
   "top_headlines": [
+    {
+      "title": "Gaji PNS Lewat Koperasi Merah Putih? Ini Penjelasan Terbaru Pemerintah - Lingkaran ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 00:55:35 GMT",
+      "link": "https://lingkaran.id/nasional/gaji-pns-lewat-koperasi-merah-putih-ini-penjelasan-terbaru-pemerintah"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Pesisir Jual BBM Subsidi hingga Pinjaman Modal Melaut - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 23 Oct 2026 00:05:00 GMT",
+      "link": "https://money.kompas.com/read/2026/10/23/070500426/kemenkop-dorong-koperasi-pesisir-jual-bbm-subsidi-hingga-pinjaman-modal-melaut"
+    },
+    {
+      "title": "KPPU Dorong Tata Niaga Ubi Kayu yang Adil dan Berkelanjutan - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 23:26:00 GMT",
+      "link": "https://rri.co.id/bandar-lampung/regional/2833881/kppu-dorong-tata-niaga-ubi-kayu-yang-adil-dan-berkelanjutan"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Soroti Implementasi Kebijakan Prabowo, Desak Percepatan Satu Data Indonesia - Batamtoday.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 23:23:58 GMT",
+      "link": "https://batamtoday.com/news/rieke-diah-pitaloka-soroti-implementasi-kebijakan-prabowo-desak-percepatan-satu-data-indonesia"
+    },
+    {
+      "title": "Andre Rosiade Ungkap Dua Agenda Prabowo: Selamatkan Kekayaan Negara dan Perkuat Gizi Anak - Batamtoday.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 22 Oct 2026 21:48:00 GMT",
+      "link": "https://batamtoday.com/news/andre-rosiade-ungkap-dua-agenda-prabowo-selamatkan-kekayaan-negara-dan-perkuat-gizi-anak"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 22 Oct 2026 21:31:35 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
     {
       "title": "Soal Gaji PNS Lewat Kopdes Merah Putih, Politisi Gerindra Ingatkan PNS Jangan Dipaksa jadi Anggota Koperasi - Warta Ekonomi",
       "entity": "Kementerian Koperasi",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Thu, 22 Oct 2026 13:10:00 GMT",
       "link": "https://money.kompas.com/read/2026/10/22/201000126/danantara-bidik-investor-global-target-investasi-30-miliar-dollar-as"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Pesisir Perkuat Posisi Tawar Nelayan - Tirto.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 13:05:00 GMT",
-      "link": "https://tirto.id/kemenkop-dorong-koperasi-pesisir-perkuat-posisi-tawar-nelayan-hEaT"
-    },
-    {
-      "title": "Andre Rosiade: Dua Tahun Pemerintahan Prabowo Benahi Pupuk hingga Pangan - Liputan6.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 12:45:12 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8319300/andre-rosiade-dua-tahun-pemerintahan-prabowo-benahi-pupuk-hingga-pangan"
-    },
-    {
-      "title": "Andre Rosiade Beberkan Capaian 2 Tahun Prabowo-Gibran: Sudah di Jalan yang Benar - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 12:41:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-beberkan-capaian-2-tahun-prabowo-gibran-sudah-di-jalan-yang-benar-28QSDFfHH90"
-    },
-    {
-      "title": "Legislator PDIP Soroti Regulasi Penghambat Kebijakan di Rezim Prabowo-Gibran - Rmol.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 12:35:00 GMT",
-      "link": "https://rmol.id/read/2026/10/22/725923/legislator-pdip-soroti-regulasi-penghambat-kebijakan-di-rezim-prabowo-gibran"
-    },
-    {
-      "title": "Kebijakan Ekonomi dan Kemandirian Nasional Jadi Sorotan DPR - MerahPutih",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 22 Oct 2026 12:19:10 GMT",
-      "link": "https://www.merahputih.com/post/read/dua-tahun-prabowo-gibran-kebijakan-ekonomi-dan-kemandirian-nasional-jadi-sorotan-dpr"
-    },
-    {
-      "title": "Kemenkop mendorong peningkatan kesejahteraan nelayan pesisir - ANTARA News Lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 22 Oct 2026 12:16:03 GMT",
-      "link": "https://lampung.antaranews.com/berita/830751/kemenkop-mendorong-peningkatan-kesejahteraan-nelayan-pesisir"
     }
   ]
 }
