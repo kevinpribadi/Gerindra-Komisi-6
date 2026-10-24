@@ -1,25 +1,25 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-24T13:05:27.139567",
+  "generated_at": "2026-10-24T17:11:19.022700",
   "party_counts_7d": {
-    "Gerindra": 37,
+    "Gerindra": 36,
     "PDI-P": 26,
-    "Golkar": 20,
+    "Golkar": 22,
     "NasDem": 6,
     "PKB": 10,
-    "PKS": 6,
+    "PKS": 4,
     "PAN": 1,
-    "Demokrat": 3
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 74,
-    "Golkar": 92,
+    "Golkar": 93,
     "NasDem": 9,
-    "PKB": 39,
+    "PKB": 38,
     "PKS": 53,
     "PAN": 16,
-    "Demokrat": 28
+    "Demokrat": 29
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "investasi": 57,
+    "investasi": 56,
     "danantara": 26,
-    "umkm": 11,
-    "ekspor": 10,
+    "umkm": 12,
+    "ekspor": 12,
     "perdagangan": 6,
-    "koperasi": 38,
+    "koperasi": 37,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3
   },
@@ -59,7 +59,7 @@
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 8,
+    "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 14,
@@ -68,7 +68,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
@@ -78,18 +78,39 @@
     "Ismail": 10,
     "Nasril Bahar": 2,
     "Iskandar": 14,
-    "Sartono": 7,
+    "Sartono": 8,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 20,
+    "Perdagangan": 22,
     "Konflik Publik": 3,
-    "Hukum/Audit": 16,
+    "Hukum/Audit": 15,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Ekspor Gas ke Singapura Dikurangi, Legislator Demokrat Dorong Optimalisasi Pasokan Domestik - Kedai Pena",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 17:04:13 GMT",
+      "link": "https://www.kedaipena.com/ekspor-gas-ke-singapura-dikurangi-legislator-demokrat-dorong-optimalisasi-pasokan-domestik/"
+    },
+    {
+      "title": "Sulsel Fest 2026 Hadirkan 60 UMKM, Sediakan 40 Stan Gratis - Trotoar id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 13:52:51 GMT",
+      "link": "https://trotoar.id/2026/10/24/sulsel-fest-2026-hadirkan-60-umkm-sediakan-40-stan-gratis/"
+    },
+    {
+      "title": "MERAWAT PERDAMAIAN, MENGABDI UNTUK INDONESIA – Gde Sumarjaya Linggih, SE, M.A.P. - MAJALAH BALI",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 13:33:38 GMT",
+      "link": "https://majalahbali.com/merawat-perdamaian-mengabdi-untuk-indonesia-gde-sumarjaya-linggih-se-m-a-p/"
+    },
     {
       "title": "Video: 6 Sektor Unggulan Danantara Gaet Investor di DTIIF 2026 - CNBC Indonesia",
       "entity": "Danantara",
@@ -161,39 +182,18 @@
       "link": "https://jambi.antaranews.com/video/5809383/kemendag-ekspor-kecap-ri-capai-1881-juta-dolar-as-hingga-agustus"
     },
     {
-      "title": "UKM Campuspreneur Catat Potensi Transaksi Rp408 Miliar di TEI 2026 - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 08:55:22 GMT",
-      "link": "https://demokratis.co.id/ukm-campuspreneur-catat-potensi-transaksi-rp408-miliar-di-tei-2026"
-    },
-    {
-      "title": "Ikopin Siapkan Lulusan untuk Perkuat SDM Koperasi dan Agrinas - Fajar Nusantara",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 08:47:41 GMT",
-      "link": "https://fajarnusantara.com/ikopin-siapkan-lulusan-untuk-perkuat-sdm-koperasi-dan-agrinas/"
-    },
-    {
-      "title": "Danantara Mau Caplok Beberapa Pabrik Masuk BUMN Tekstil, Modal Rp100 T - CNBC Indonesia",
+      "title": "Danantara Mulai Borong Saham di BEI, Cermati Rekomendasi Sejumlah Analis - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 08:15:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261024120353-4-779122/danantara-mau-caplok-beberapa-pabrik-masuk-bumn-tekstil-modal-rp100-t"
+      "published": "Sat, 24 Oct 2026 09:40:07 GMT",
+      "link": "https://investasi.kontan.co.id/news/danantara-mulai-borong-saham-di-bei-cermati-rekomendasi-sejumlah-analis"
     },
     {
-      "title": "Kemendag Bidik Pasar Kuliner Dunia, Ekspor Kecap Tembus US$18,81 Juta - Inilah.com",
-      "entity": "Kementerian Perdagangan",
+      "title": "Danantara Mulai Borong Saham di BEI, Cermati Rekomendasi Sejumlah Analis - TradingView",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 07:59:00 GMT",
-      "link": "https://www.inilah.com/kemendag-bidik-pasar-kuliner-dunia-ekspor-kecap-tembus-usdollar1881-juta"
-    },
-    {
-      "title": "Andre Rosiade: Program MBG Masih Dibutuhkan, Pengawasan dan Keamanan Pangan Harus Diperketat - Kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 07:38:28 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-program-mbg-masih-dibutuhkan-pengawasan-dan-keamanan-pangan-harus-diperketat/"
+      "published": "Sat, 24 Oct 2026 09:40:07 GMT",
+      "link": "https://id.tradingview.com/news/kontan:eb9663b6287ea:0/"
     }
   ]
 }
