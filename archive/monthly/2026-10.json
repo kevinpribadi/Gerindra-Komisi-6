@@ -1,21 +1,21 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-24T03:14:51.011036",
+  "generated_at": "2026-10-24T08:37:48.176587",
   "party_counts_7d": {
     "Gerindra": 35,
-    "PDI-P": 24,
-    "Golkar": 19,
+    "PDI-P": 25,
+    "Golkar": 20,
     "NasDem": 6,
     "PKB": 9,
-    "PKS": 7,
+    "PKS": 6,
     "PAN": 1,
-    "Demokrat": 2
+    "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 75,
-    "Golkar": 93,
-    "NasDem": 10,
+    "Golkar": 92,
+    "NasDem": 9,
     "PKB": 38,
     "PKS": 53,
     "PAN": 18,
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "investasi": 57,
-    "danantara": 28,
-    "umkm": 10,
-    "perdagangan": 8,
-    "ekspor": 7,
+    "investasi": 56,
+    "danantara": 26,
+    "umkm": 9,
+    "ekspor": 9,
+    "perdagangan": 7,
     "koperasi": 39,
     "kartel-monopoli": 10,
     "merger-akuisisi": 3
@@ -63,10 +63,8 @@
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 14,
-    "Firnando Hadityo Ganinduto": 1,
     "Rizki Faisal": 16,
     "Muhammad Sarmuji": 18,
-    "Asep Wahyuwijaya": 1,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
@@ -85,117 +83,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 51,
-    "Perdagangan": 17,
+    "Koperasi/UMKM": 50,
+    "Perdagangan": 19,
     "Konflik Publik": 3,
     "Hukum/Audit": 18,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
     {
+      "title": "Danantara Mau Caplok Beberapa Pabrik Masuk BUMN Tekstil, Modal Rp100 T - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 08:15:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261024120353-4-779122/danantara-mau-caplok-beberapa-pabrik-masuk-bumn-tekstil-modal-rp100-t"
+    },
+    {
+      "title": "Kemendag Bidik Pasar Kuliner Dunia, Ekspor Kecap Tembus US$18,81 Juta - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 07:59:00 GMT",
+      "link": "https://www.inilah.com/kemendag-bidik-pasar-kuliner-dunia-ekspor-kecap-tembus-usdollar1881-juta"
+    },
+    {
+      "title": "Andre Rosiade: Program MBG Masih Dibutuhkan, Pengawasan dan Keamanan Pangan Harus Diperketat - Kabarpolitik.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 07:38:28 GMT",
+      "link": "https://kabarpolitik.com/andre-rosiade-program-mbg-masih-dibutuhkan-pengawasan-dan-keamanan-pangan-harus-diperketat/"
+    },
+    {
+      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Indonesia, Ekspor Naik - Batamtoday.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 07:10:16 GMT",
+      "link": "https://batamtoday.com/news/india-hentikan-penyelidikan-antisubsidi-kaca-indonesia-ekspor-cfg-tembus-us-15635-juta"
+    },
+    {
+      "title": "Danantara Dorong Investasi Teknologi Global di Indonesia - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 06:39:01 GMT",
+      "link": "https://www.metrotvnews.com/read/kELCyW27-danantara-dorong-investasi-teknologi-global-di-indonesia"
+    },
+    {
+      "title": "Andre Rosiade Dukung MBG Berlanjut, Desak Dapur Penyedia Makanan yang Langgar SOP Ditindak - idisnews.co.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 06:29:00 GMT",
+      "link": "https://idisnews.co.id/berita/andre-rosiade-dukung-mbg-berlanjut-desak-dapur-penyedia-makanan-yang-langgar-sop-ditindak"
+    },
+    {
+      "title": "Nilai ekspor kecap Indonesia tembus 18,81 juta dolar AS - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 05:44:05 GMT",
+      "link": "https://www.antaranews.com/berita/5809099/nilai-ekspor-kecap-indonesia-tembus-1881-juta-dolar-as"
+    },
+    {
+      "title": "DTIIF 2026 Dorong Investasi Teknologi Global dan Industrialisasi Nasional - jurnas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 05:35:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1667674/dtiif-2026-dorong-investasi-teknologi-global-dan-industrialisasi-nasional/"
+    },
+    {
+      "title": "Danantara Siapkan Dana Rp18 Triliun Guyur IHSG, Beli Saham Apa Saja? - KabarBursa.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 04:59:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/danantara-siapkan-dana-rp18-triliun-guyur-ihsg-beli-saham-apa-saja"
+    },
+    {
+      "title": "700 BUMN Akan Tutup Akhir Tahun 2026, Danantara Bidik Laba Rp334 Triliun - bataviapos.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 04:48:44 GMT",
+      "link": "https://bataviapos.id/ella-devianti-effendi/700-bumn-akan-tutup-akhir-tahun-2026-danantara-bidik-laba-rp334-triliun/"
+    },
+    {
+      "title": "Danantara Bidik Investasi Teknologi Global, Siapkan Peluang di 6 Sektor Strategis - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 04:21:00 GMT",
+      "link": "https://www.inilah.com/danantara-bidik-investasi-teknologi-global-siapkan-peluang-di-6-sektor-strategis"
+    },
+    {
+      "title": "Kemendag Perkuat Ekspor Indonesia Lewat Tiga Program Prioritas - www.suaralandak.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 04:01:21 GMT",
+      "link": "https://www.suaralandak.co.id/kemendag-perkuat-ekspor-indonesia"
+    },
+    {
+      "title": "Dua Tahun Prabowo Gibran, Produk Lokal di Ritel Tembus Rp 259,3 Triliun - شبكة تواصل الإخبارية",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 03:22:52 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6495576/"
+    },
+    {
+      "title": "KPK Cecar Anggota DPR Doni Akbar soal Biaya Kampanye Tersangka Bupati Pemalang - diksimerdeka.com",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 03:19:28 GMT",
+      "link": "https://diksimerdeka.com/2026/10/24/kpk-cecar-anggota-dpr-doni-akbar-soal-biaya-kampanye-tersangka-bupati-pemalang/"
+    },
+    {
       "title": "Songsong Digitalisasi Pendidikan, Anggota DPR RI Anggia Erma Rini Salurkan Bantuan 20 Unit Komputer Lengkap ke Yayasan Miftahul Huda Kediri - Sekilas Media -",
       "entity": "Anggia Erma Rini",
       "kind": "anggota",
       "published": "Sat, 24 Oct 2026 03:11:43 GMT",
       "link": "https://sekilasmedia.com/2026/10/songsong-digitalisasi-pendidikan-anggota-dpr-ri-anggia-erma-rini-salurkan-bantuan-20-unit-komputer-lengkap-ke-yayasan-miftahul-huda-kediri/"
-    },
-    {
-      "title": "Pemkab Pasaman Siapkan 21 Gerai Koperasi Merah Putih, Bidik Beras hingga Perikanan - Langgam.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 02:47:00 GMT",
-      "link": "https://langgam.id/pemkab-pasaman-siapkan-21-gerai-koperasi-merah-putih-bidik-beras-hingga-perikanan/"
-    },
-    {
-      "title": "MBD Jajaki Perdagangan dengan Timor Leste, Produk Perikanan hingga Rencana Jalur Feri Jadi Sorotan - Tribun Maluku",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 02:32:40 GMT",
-      "link": "https://www.tribun-maluku.com/mbd-jajaki-perdagangan-dengan-timor-leste-produk-perikanan-hingga-rencana-jalur-feri-jadi-sorotan/10/24/"
-    },
-    {
-      "title": "Legislator PDIP Desak Kejagung Selidiki Dugaan Penyimpangan Pengelolaan Dana Perkebunan - Kedai Pena",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 01:26:20 GMT",
-      "link": "https://www.kedaipena.com/legislator-pdip-desak-kejagung-selidiki-dugaan-penyimpangan-pengelolaan-dana-perkebunan/"
-    },
-    {
-      "title": "Andre Rosiade: Program MBG Harus Terus Diperbaiki, Keamanan Pangan Jadi Prioritas - Klikwarta.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 01:20:29 GMT",
-      "link": "https://www.klikwarta.com/andre-rosiade-program-mbg-harus-terus-diperbaiki-keamanan-pangan-jadi-prioritas"
-    },
-    {
-      "title": "Dua Tahun Pemerintahan Prabowo, Rieke Diah Pitaloka Soroti Regulasi Turunan dan Tata Kelola Data - Kosadata",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 01:15:00 GMT",
-      "link": "https://kosadata.com/dua-tahun-pemerintahan-prabowo-rieke-diah-pitaloka-soroti-regulasi-turunan-dan-tata-kelola-data"
-    },
-    {
-      "title": "700 BUMN Ditutup Tahun Ini, Danantara Targetkan Laba Rp 334 Triliun - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 00:33:41 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261024073015-17-779075/700-bumn-ditutup-tahun-ini-danantara-targetkan-laba-rp-334-triliun"
-    },
-    {
-      "title": "Reaktivasi Rel KA Sumbar Dimulai 27 Oktober, Andre Rosiade: Komitmen Prabowo - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 00:24:00 GMT",
-      "link": "https://kumparan.com/kumparannews/reaktivasi-rel-ka-sumbar-dimulai-27-oktober-andre-rosiade-komitmen-prabowo-28R2yTOA7n0"
-    },
-    {
-      "title": "Andre Rosiade: MBG Masih Dibutuhkan di Daerah, Evaluasi Jangan Hanya Karena Ramai Penolakan di Jakarta - Mediakarya.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 23:40:00 GMT",
-      "link": "https://www.mediakarya.id/andre-rosiade-mbg-masih-dibutuhkan-di-daerah-evaluasi-jangan-hanya-karena-ramai-penolakan-di-jakarta/"
-    },
-    {
-      "title": "Danantara Dorong Saham Lima BUMN Saat IHSG Pulih - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "link": "https://demokratis.co.id/danantara-dorong-saham-lima-bumn"
-    },
-    {
-      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur, Uang Muka Bisa Dicicil 24 Bulan - Kabarjoglo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 16:54:17 GMT",
-      "link": "https://kabarjoglo.com/2026/10/23/kemenkop-luncurkan-koperasi-perumahan-rakyat-di-cianjur-uang-muka-bisa-dicicil-24-bulan/"
-    },
-    {
-      "title": "Danantara Beli Saham BUMN dan GOTO untuk Topang IHSG - www.suaralandak.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 16:31:36 GMT",
-      "link": "https://www.suaralandak.co.id/danantara-beli-saham-bumn-goto-ihsg"
-    },
-    {
-      "title": "Dana Sawit Rp176,1 Triliun Disorot, Anggota DPR RI Rieke Desak Kejagung Bongkar Aliran Uang BPDPKS - Kaki News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 16:31:01 GMT",
-      "link": "https://kakinews.id/dana-sawit-rp1761-triliun-disorot-anggota-dpr-ri-rieke-desak-kejagung-bongkar-aliran-uang-bpdpks/"
-    },
-    {
-      "title": "Daftar Saham IHSG Milik Danantara, Ada yang Punya Porsi hingga 91%! - Suara.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 16:27:35 GMT",
-      "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
-    },
-    {
-      "title": "Daftar Saham IHSG Milik Danantara, Ada yang Punya Porsi hingga 91%! - Suara.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 16:27:35 GMT",
-      "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
     }
   ]
 }
