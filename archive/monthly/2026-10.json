@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-23T23:47:55.877800",
+  "generated_at": "2026-10-24T03:14:51.011036",
   "party_counts_7d": {
-    "Gerindra": 34,
-    "PDI-P": 23,
+    "Gerindra": 35,
+    "PDI-P": 24,
     "Golkar": 19,
     "NasDem": 6,
-    "PKB": 8,
+    "PKB": 9,
     "PKS": 7,
     "PAN": 1,
     "Demokrat": 2
@@ -16,7 +16,7 @@
     "PDI-P": 75,
     "Golkar": 93,
     "NasDem": 10,
-    "PKB": 37,
+    "PKB": 38,
     "PKS": 53,
     "PAN": 18,
     "Demokrat": 28
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "investasi": 58,
+    "investasi": 57,
     "danantara": 28,
-    "umkm": 11,
+    "umkm": 10,
+    "perdagangan": 8,
     "ekspor": 7,
-    "perdagangan": 7,
     "koperasi": 39,
     "kartel-monopoli": 10,
     "merger-akuisisi": 3
@@ -70,7 +70,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
@@ -85,13 +85,76 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 52,
+    "Koperasi/UMKM": 51,
     "Perdagangan": 17,
     "Konflik Publik": 3,
-    "Hukum/Audit": 19,
+    "Hukum/Audit": 18,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Songsong Digitalisasi Pendidikan, Anggota DPR RI Anggia Erma Rini Salurkan Bantuan 20 Unit Komputer Lengkap ke Yayasan Miftahul Huda Kediri - Sekilas Media -",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 03:11:43 GMT",
+      "link": "https://sekilasmedia.com/2026/10/songsong-digitalisasi-pendidikan-anggota-dpr-ri-anggia-erma-rini-salurkan-bantuan-20-unit-komputer-lengkap-ke-yayasan-miftahul-huda-kediri/"
+    },
+    {
+      "title": "Pemkab Pasaman Siapkan 21 Gerai Koperasi Merah Putih, Bidik Beras hingga Perikanan - Langgam.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 02:47:00 GMT",
+      "link": "https://langgam.id/pemkab-pasaman-siapkan-21-gerai-koperasi-merah-putih-bidik-beras-hingga-perikanan/"
+    },
+    {
+      "title": "MBD Jajaki Perdagangan dengan Timor Leste, Produk Perikanan hingga Rencana Jalur Feri Jadi Sorotan - Tribun Maluku",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 02:32:40 GMT",
+      "link": "https://www.tribun-maluku.com/mbd-jajaki-perdagangan-dengan-timor-leste-produk-perikanan-hingga-rencana-jalur-feri-jadi-sorotan/10/24/"
+    },
+    {
+      "title": "Legislator PDIP Desak Kejagung Selidiki Dugaan Penyimpangan Pengelolaan Dana Perkebunan - Kedai Pena",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 01:26:20 GMT",
+      "link": "https://www.kedaipena.com/legislator-pdip-desak-kejagung-selidiki-dugaan-penyimpangan-pengelolaan-dana-perkebunan/"
+    },
+    {
+      "title": "Andre Rosiade: Program MBG Harus Terus Diperbaiki, Keamanan Pangan Jadi Prioritas - Klikwarta.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 01:20:29 GMT",
+      "link": "https://www.klikwarta.com/andre-rosiade-program-mbg-harus-terus-diperbaiki-keamanan-pangan-jadi-prioritas"
+    },
+    {
+      "title": "Dua Tahun Pemerintahan Prabowo, Rieke Diah Pitaloka Soroti Regulasi Turunan dan Tata Kelola Data - Kosadata",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 01:15:00 GMT",
+      "link": "https://kosadata.com/dua-tahun-pemerintahan-prabowo-rieke-diah-pitaloka-soroti-regulasi-turunan-dan-tata-kelola-data"
+    },
+    {
+      "title": "700 BUMN Ditutup Tahun Ini, Danantara Targetkan Laba Rp 334 Triliun - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 24 Oct 2026 00:33:41 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261024073015-17-779075/700-bumn-ditutup-tahun-ini-danantara-targetkan-laba-rp-334-triliun"
+    },
+    {
+      "title": "Reaktivasi Rel KA Sumbar Dimulai 27 Oktober, Andre Rosiade: Komitmen Prabowo - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 00:24:00 GMT",
+      "link": "https://kumparan.com/kumparannews/reaktivasi-rel-ka-sumbar-dimulai-27-oktober-andre-rosiade-komitmen-prabowo-28R2yTOA7n0"
+    },
+    {
+      "title": "Andre Rosiade: MBG Masih Dibutuhkan di Daerah, Evaluasi Jangan Hanya Karena Ramai Penolakan di Jakarta - Mediakarya.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 23 Oct 2026 23:40:00 GMT",
+      "link": "https://www.mediakarya.id/andre-rosiade-mbg-masih-dibutuhkan-di-daerah-evaluasi-jangan-hanya-karena-ramai-penolakan-di-jakarta/"
+    },
     {
       "title": "Danantara Dorong Saham Lima BUMN Saat IHSG Pulih - Demokratis.co.id",
       "entity": "Danantara",
@@ -128,74 +191,11 @@
       "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
     },
     {
-      "title": "Kemenkop siapkan regulasi usaha koperasi di bidang perumahan - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 14:20:06 GMT",
-      "link": "https://m.antaranews.com/berita/5808283/kemenkop-siapkan-regulasi-usaha-koperasi-di-bidang-perumahan"
-    },
-    {
-      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur - www.suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 14:09:30 GMT",
-      "link": "https://www.suaralandak.co.id/kemenkop-koperasi-perumahan-rakyat-cianjur"
-    },
-    {
-      "title": "Kemenkop Luncurkan Koperasi Perumahan Rakyat di Cianjur - indoposco",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 14:01:04 GMT",
-      "link": "https://indoposco.id/2026/10/23/kemenkop-luncurkan-koperasi-perumahan-rakyat-di-cianjur/"
-    },
-    {
-      "title": "Ekspor Indonesia Tumbuh 4,74 Persen hingga Agustus 2026 - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 13:27:28 GMT",
-      "link": "https://demokratis.co.id/ekspor-indonesia-tumbuh-agustus-2026"
-    },
-    {
-      "title": "Kemendag Catat Ekspor Indonesia Tumbuh 4,74 Persen - Suara Independent News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 13:22:26 GMT",
-      "link": "https://www.suaraindependentnews.id/kemendag-ekspor-indonesia-tumbuh"
-    },
-    {
-      "title": "Revisi UU Perlindungan Konsumen Segera Terwujud, Ketua Komisi VI DPR RI Sosialisasikan ke Masyarakat - Sekilas Media -",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 13:04:24 GMT",
-      "link": "https://sekilasmedia.com/2026/10/revisi-uu-perlindungan-konsumen-segera-terwujud-ketua-komisi-vi-dpr-ri-sosialisasikan-ke-masyarakat/"
-    },
-    {
-      "title": "Pemkab Lampung Timur dorong pesisir jadi pusat pertumbuhan ekonomi - ANTARA News Lampung",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 12:53:11 GMT",
-      "link": "https://lampung.antaranews.com/berita/830771/pemkab-lampung-timur-dorong-pesisir-jadi-pusat-pertumbuhan-ekonomi"
-    },
-    {
-      "title": "Rizki Faisal: Dampak Karhutla Meluas, Status Bencana Nasional Perlu Dikaji - Fraksi Partai Golkar",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 12:42:43 GMT",
-      "link": "https://fraksigolkar.com/read/2764/rizki-faisal-dampak-karhutla-meluas-status-bencana-nasional-perlu-dikaji"
-    },
-    {
-      "title": "Dua Tahun Pemerintahan Presiden Prabowo: Kita Berada di Jalur yang Benar - RRI.co.id",
+      "title": "Daftar Saham IHSG Milik Danantara, Ada yang Punya Porsi hingga 91%! - Suara.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 23 Oct 2026 12:36:00 GMT",
-      "link": "https://rri.co.id/nasional/2837111/dua-tahun-pemerintahan-presiden-prabowo-kita-berada-di-jalur-yang-benar"
-    },
-    {
-      "title": "Soroti Kasus Keracunan MBG, Andre Rosiade Desak BGN Perketat SOP - Kosadata",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 23 Oct 2026 11:36:14 GMT",
-      "link": "https://kosadata.com/soroti-kasus-keracunan-mbg-andre-rosiade-desak-bgn-perketat-sop"
+      "published": "Fri, 23 Oct 2026 16:27:35 GMT",
+      "link": "https://www.suara.com/bisnis/2026/10/23/232735/daftar-saham-ihsg-milik-danantara-ada-yang-punya-porsi-hingga-91"
     }
   ]
 }
