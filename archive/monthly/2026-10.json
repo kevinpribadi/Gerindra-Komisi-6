@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T00:48:22.040361",
+  "generated_at": "2026-10-25T05:39:36.051935",
   "party_counts_7d": {
     "Gerindra": 35,
     "PDI-P": 26,
     "Golkar": 21,
     "NasDem": 6,
-    "PKB": 10,
+    "PKB": 11,
     "PKS": 4,
     "PAN": 2,
     "Demokrat": 5
@@ -16,7 +16,7 @@
     "PDI-P": 75,
     "Golkar": 93,
     "NasDem": 9,
-    "PKB": 37,
+    "PKB": 38,
     "PKS": 53,
     "PAN": 18,
     "Demokrat": 30
@@ -35,7 +35,7 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "investasi": 56,
+    "investasi": 55,
     "danantara": 26,
     "umkm": 12,
     "ekspor": 13,
@@ -68,7 +68,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
@@ -84,12 +84,40 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 23,
+    "Perdagangan": 24,
     "Konflik Publik": 3,
     "Hukum/Audit": 15,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Indonesia - www.suaralandak.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 05:06:18 GMT",
+      "link": "https://www.suaralandak.co.id/india-hentikan-penyelidikan-antisubsidi-kaca"
+    },
+    {
+      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Asal Indonesia, Potensi Ekspor Meningkat - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 05:03:38 GMT",
+      "link": "https://indoposco.id/2026/10/25/india-hentikan-penyelidikan-antisubsidi-kaca-asal-indonesia-potensi-ekspor-meningkat/"
+    },
+    {
+      "title": "Group Musik Letto Hipnotis Massa Fatayat NU Di Konser Cakrapala Sport Fest Blitar 2026 - mitratoday",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 02:05:22 GMT",
+      "link": "https://www.mitratoday.com/group-musik-letto-hipnotis-massa-fatayat-nu-di-konser-cakrapala-sport-fest-blitar-2026/"
+    },
+    {
+      "title": "7 Unit Kopdes di Pandeglang Rusak, Diskoperindag Lapor Kementerian Koperasi - radarbanten.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 01:17:14 GMT",
+      "link": "https://www.radarbanten.co.id/2026/10/25/7-unit-kopdes-di-pandeglang-rusak-diskoperindag-lapor-kementerian-koperasi/"
+    },
     {
       "title": "Ekspor Gas ke Singapura Dipangkas, DPR Minta Pemerinta Prioritaskan Kebutuhan Energi dalam Negeri - pontas.id",
       "entity": "Sartono",
@@ -166,34 +194,6 @@
       "kind": "anggota",
       "published": "Sat, 24 Oct 2026 10:59:52 GMT",
       "link": "https://kakinews.id/rieke-diah-pitaloka-soroti-karhutla-2026-pemulihan-gambut-harus-jadi-prioritas/"
-    },
-    {
-      "title": "Sulsel Fest 2026 Padukan Promosi UMKM, Koperasi, Pariwisata, dan Budaya - Pemerintah Provinsi Sulawesi Selatan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 10:28:09 GMT",
-      "link": "https://sulselprov.go.id/berita/sulsel-fest-2026-padukan-promosi-umkm-koperasi-pariwisata-dan-budaya"
-    },
-    {
-      "title": "Pengadilan Niaga batalkan putusan KPPU soal bunga pinjol - ANTARA News Sulteng",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 10:13:09 GMT",
-      "link": "https://sulteng.antaranews.com/berita/397875/pengadilan-niaga-batalkan-putusan-kppu-soal-bunga-pinjol"
-    },
-    {
-      "title": "Danantara Mulai Beli Saham Saat IHSG Tertekan - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 09:44:32 GMT",
-      "link": "https://demokratis.co.id/danantara-beli-saham-ihsg-tertekan"
-    },
-    {
-      "title": "Kemendag: ekspor kecap RI capai 18,81 juta dolar AS hingga Agustus - ANTARA News Jambi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 09:44:31 GMT",
-      "link": "https://jambi.antaranews.com/video/5809383/kemendag-ekspor-kecap-ri-capai-1881-juta-dolar-as-hingga-agustus"
     }
   ]
 }
