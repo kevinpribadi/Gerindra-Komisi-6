@@ -1,14 +1,14 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T05:39:36.051935",
+  "generated_at": "2026-10-25T10:42:00.505194",
   "party_counts_7d": {
-    "Gerindra": 35,
-    "PDI-P": 26,
-    "Golkar": 21,
+    "Gerindra": 33,
+    "PDI-P": 25,
+    "Golkar": 19,
     "NasDem": 6,
     "PKB": 11,
     "PKS": 4,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 5
   },
   "party_counts_30d": {
@@ -17,8 +17,8 @@
     "Golkar": 93,
     "NasDem": 9,
     "PKB": 38,
-    "PKS": 53,
-    "PAN": 18,
+    "PKS": 55,
+    "PAN": 16,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -35,11 +35,11 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "investasi": 55,
+    "investasi": 54,
     "danantara": 26,
     "umkm": 12,
+    "perdagangan": 7,
     "ekspor": 13,
-    "perdagangan": 6,
     "koperasi": 37,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3
@@ -73,11 +73,11 @@
     "Nasim Khan": 11,
     "Ida Fauziyah": 1,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 14,
+    "Rizal Bawazier": 16,
     "Ghufran": 9,
     "Ismail": 10,
     "Nasril Bahar": 2,
-    "Iskandar": 16,
+    "Iskandar": 14,
     "Sartono": 9,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
@@ -90,6 +90,34 @@
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Anggia Sosialisasikan Program dan Kebijakan Kementerian Perdagangan - Sekilas Media -",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 09:09:04 GMT",
+      "link": "https://sekilasmedia.com/2026/10/anggia-sosialisasikan-program-dan-kebijakan-kementerian-perdagangan/"
+    },
+    {
+      "title": "Danantara Getol Serok Saham saat IHSG Diguncang MSCI - Suara.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 08:58:45 GMT",
+      "link": "https://www.suara.com/bisnis/2026/10/25/155845/danantara-getol-serok-saham-saat-ihsg-diguncang-msci"
+    },
+    {
+      "title": "Anggota DPR RI Rizal Bawazier Usulkan Pintu Tol Paduraksa Pemalang ke Kementerian PU - TIMES Indonesia",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 08:40:00 GMT",
+      "link": "https://timesindonesia.co.id/read/news/614475/anggota-dpr-ri-rizal-bawazier-usulkan-pintu-tol-paduraksa-pemalang-ke-kementerian-pu"
+    },
+    {
+      "title": "Rizal Bawazier Gaspol Perjuangkan Pintu Tol Sewaka -Paduraksa, Pemalang Selatan Bikin Ledakan Ekonomi - Detikzone",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 06:37:49 GMT",
+      "link": "https://detikzone.id/2026/10/25/rizal-bawazier-gaspol-perjuangkan-pintu-tol-sewaka-paduraksa-pemalang-selatan-bikin-ledakan-ekonomi/"
+    },
     {
       "title": "India Hentikan Penyelidikan Antisubsidi Kaca Indonesia - www.suaralandak.co.id",
       "entity": "Kementerian Perdagangan",
@@ -166,34 +194,6 @@
       "kind": "lembaga",
       "published": "Sat, 24 Oct 2026 11:46:59 GMT",
       "link": "https://kaidah.id/headline/read/23608/danantara-tutup-dan-rampingkan-364-perusahaan-target-700-hingga-akhir-2026/"
-    },
-    {
-      "title": "Sulsel Fest 2026 Hadirkan 60 UMKM, Stan Gratis di Phinisi Point - Bonepos.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 11:38:00 GMT",
-      "link": "https://www.bonepos.com/2026/10/24/sulsel-fest-2026-hadirkan-60-umkm-stan-gratis-di-phinisi-point"
-    },
-    {
-      "title": "Kemendag Apresiasi Little Bandung by GoFood, Perluas Pasar Produk Lokal - Suara.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 11:21:24 GMT",
-      "link": "https://www.suara.com/bisnis/2026/10/24/182124/kemendag-apresiasi-little-bandung-by-gofood-perluas-pasar-produk-lokal"
-    },
-    {
-      "title": "Data Kemendag, Ekspor Kecap Nasional Rp340M, Terbesar ke Australia - Emitennews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 11:01:00 GMT",
-      "link": "https://www.emitennews.com/news/data-kemendag-ekspor-kecap-nasional-rp340m-terbesar-ke-australia"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Soroti Karhutla 2026, Pemulihan Gambut Harus Jadi Prioritas - Kaki News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 10:59:52 GMT",
-      "link": "https://kakinews.id/rieke-diah-pitaloka-soroti-karhutla-2026-pemulihan-gambut-harus-jadi-prioritas/"
     }
   ]
 }
