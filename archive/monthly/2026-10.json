@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T21:24:50.358565",
+  "generated_at": "2026-10-25T23:47:41.567965",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 23,
     "Golkar": 17,
     "NasDem": 6,
-    "PKB": 12,
+    "PKB": 13,
     "PKS": 6,
     "PAN": 1,
     "Demokrat": 6
@@ -16,7 +16,7 @@
     "PDI-P": 75,
     "Golkar": 92,
     "NasDem": 9,
-    "PKB": 39,
+    "PKB": 40,
     "PKS": 56,
     "PAN": 16,
     "Demokrat": 31
@@ -38,11 +38,11 @@
     "investasi": 55,
     "danantara": 25,
     "umkm": 12,
+    "perdagangan": 7,
     "ekspor": 15,
-    "perdagangan": 6,
     "koperasi": 37,
     "ipo": 1,
-    "kartel-monopoli": 8,
+    "kartel-monopoli": 7,
     "merger-akuisisi": 3
   },
   "member_counts_30d": {
@@ -69,7 +69,7 @@
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 2,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
@@ -87,10 +87,24 @@
     "Koperasi/UMKM": 50,
     "Perdagangan": 26,
     "Konflik Publik": 3,
-    "Hukum/Audit": 15,
+    "Hukum/Audit": 14,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Anggia Erma Rini Sosialisasikan Perlindungan Konsumen, Dorong Masyarakat Lebih Cermat Berbelanja - mitratoday",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 23:02:18 GMT",
+      "link": "https://www.mitratoday.com/anggia-erma-rini-sosialisasikan-perlindungan-konsumen-dorong-masyarakat-lebih-cermat-berbelanja/"
+    },
+    {
+      "title": "Amerika Khawatir Kebijakan Pakan Unggas RI Hambat Perdagangan - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 23:00:14 GMT",
+      "link": "https://www.kompas.id/artikel/amerika-khawatir-kebijakan-pakan-unggas-ri-hambat-perdagangan?open_from=Terbaru_Page"
+    },
     {
       "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
@@ -181,20 +195,6 @@
       "kind": "lembaga",
       "published": "Sun, 25 Oct 2026 08:58:45 GMT",
       "link": "https://www.suara.com/bisnis/2026/10/25/155845/danantara-getol-serok-saham-saat-ihsg-diguncang-msci"
-    },
-    {
-      "title": "Anggota DPR RI Rizal Bawazier Usulkan Pintu Tol Paduraksa Pemalang ke Kementerian PU - TIMES Indonesia",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 08:40:00 GMT",
-      "link": "https://timesindonesia.co.id/read/news/614475/anggota-dpr-ri-rizal-bawazier-usulkan-pintu-tol-paduraksa-pemalang-ke-kementerian-pu"
-    },
-    {
-      "title": "Rizal Bawazier Gaspol Perjuangkan Pintu Tol Sewaka -Paduraksa, Pemalang Selatan Bikin Ledakan Ekonomi - Detikzone",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 06:37:49 GMT",
-      "link": "https://detikzone.id/2026/10/25/rizal-bawazier-gaspol-perjuangkan-pintu-tol-sewaka-paduraksa-pemalang-selatan-bikin-ledakan-ekonomi/"
     }
   ]
 }
