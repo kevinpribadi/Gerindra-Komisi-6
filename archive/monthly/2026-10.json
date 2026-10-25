@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T14:47:26.571606",
+  "generated_at": "2026-10-25T21:24:50.358565",
   "party_counts_7d": {
     "Gerindra": 33,
     "PDI-P": 23,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 75,
-    "Golkar": 93,
+    "Golkar": 92,
     "NasDem": 9,
     "PKB": 39,
     "PKS": 56,
@@ -36,11 +36,12 @@
   "topic_counts_30d": {
     "bumn": 42,
     "investasi": 55,
-    "danantara": 26,
+    "danantara": 25,
     "umkm": 12,
     "ekspor": 15,
     "perdagangan": 6,
     "koperasi": 37,
+    "ipo": 1,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3
   },
@@ -63,7 +64,7 @@
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 14,
-    "Rizki Faisal": 16,
+    "Rizki Faisal": 15,
     "Muhammad Sarmuji": 18,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
@@ -84,18 +85,39 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 25,
+    "Perdagangan": 26,
     "Konflik Publik": 3,
     "Hukum/Audit": 15,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
     {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 18:20:28 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261026/Mjk5MTUy"
+    },
+    {
+      "title": "Berita Singkat BP BUMN - koranbumn",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 14:48:22 GMT",
+      "link": "https://koranbumn.com/berita-singkat-bp-bumn-4/"
+    },
+    {
       "title": "Menkop Dorong Koperasi Masjid dan BKPRMI Jadi Penggerak Ekonomi Umat Baru - Harian Dialog",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Sun, 25 Oct 2026 14:32:07 GMT",
       "link": "https://hariandialog.co.id/menkop-dorong-koperasi-masjid-dan-bkprmi-jadi-penggerak-ekonomi-umat-baru/"
+    },
+    {
+      "title": "Amran-AHY Pimpin Daftar Menteri Berkinerja Terbaik Versi IPO, Bahlil Terpopuler, Raja Juli-Pigai Sampai Menteri Koperasi Masuk Daftar Menteri 'Nol Koma' - AFU.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 14:18:06 GMT",
+      "link": "https://afu.id/nasional/amranahy-pimpin-daftar-menteri-berkinerja-terbaik-versi-ipo-bahlil-terpopuler-raja-julipigai-sampai-menteri-koperasi-masuk-daftar-menteri-nol-koma"
     },
     {
       "title": "Guru Besar Wajib Turun ke Lapangan Industri - RRI.co.id",
@@ -173,27 +195,6 @@
       "kind": "anggota",
       "published": "Sun, 25 Oct 2026 06:37:49 GMT",
       "link": "https://detikzone.id/2026/10/25/rizal-bawazier-gaspol-perjuangkan-pintu-tol-sewaka-paduraksa-pemalang-selatan-bikin-ledakan-ekonomi/"
-    },
-    {
-      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Indonesia - www.suaralandak.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 05:06:18 GMT",
-      "link": "https://www.suaralandak.co.id/india-hentikan-penyelidikan-antisubsidi-kaca"
-    },
-    {
-      "title": "India Hentikan Penyelidikan Antisubsidi Kaca Asal Indonesia, Potensi Ekspor Meningkat - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 05:03:38 GMT",
-      "link": "https://indoposco.id/2026/10/25/india-hentikan-penyelidikan-antisubsidi-kaca-asal-indonesia-potensi-ekspor-meningkat/"
-    },
-    {
-      "title": "Group Musik Letto Hipnotis Massa Fatayat NU Di Konser Cakrapala Sport Fest Blitar 2026 - mitratoday",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 02:05:22 GMT",
-      "link": "https://www.mitratoday.com/group-musik-letto-hipnotis-massa-fatayat-nu-di-konser-cakrapala-sport-fest-blitar-2026/"
     }
   ]
 }
