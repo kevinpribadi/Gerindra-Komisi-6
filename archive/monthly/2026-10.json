@@ -1,28 +1,28 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T10:42:00.505194",
+  "generated_at": "2026-10-25T14:47:26.571606",
   "party_counts_7d": {
     "Gerindra": 33,
-    "PDI-P": 25,
-    "Golkar": 19,
+    "PDI-P": 23,
+    "Golkar": 17,
     "NasDem": 6,
-    "PKB": 11,
-    "PKS": 4,
+    "PKB": 12,
+    "PKS": 6,
     "PAN": 1,
-    "Demokrat": 5
+    "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 63,
     "PDI-P": 75,
     "Golkar": 93,
     "NasDem": 9,
-    "PKB": 38,
-    "PKS": 55,
+    "PKB": 39,
+    "PKS": 56,
     "PAN": 16,
-    "Demokrat": 30
+    "Demokrat": 31
   },
   "agency_counts_30d": {
-    "Kementerian BUMN": 20,
+    "Kementerian BUMN": 19,
     "Kementerian Perdagangan": 20,
     "Kementerian Koperasi": 20,
     "Danantara": 20,
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
-    "investasi": 54,
+    "bumn": 42,
+    "investasi": 55,
     "danantara": 26,
     "umkm": 12,
-    "perdagangan": 7,
-    "ekspor": 13,
+    "ekspor": 15,
+    "perdagangan": 6,
     "koperasi": 37,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3
@@ -70,26 +70,82 @@
     "Rudi Hartono Bangun": 2,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 11,
+    "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 16,
+    "Rizal Bawazier": 17,
     "Ghufran": 9,
     "Ismail": 10,
     "Nasril Bahar": 2,
     "Iskandar": 14,
-    "Sartono": 9,
+    "Sartono": 10,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 24,
+    "Perdagangan": 25,
     "Konflik Publik": 3,
     "Hukum/Audit": 15,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Menkop Dorong Koperasi Masjid dan BKPRMI Jadi Penggerak Ekonomi Umat Baru - Harian Dialog",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 14:32:07 GMT",
+      "link": "https://hariandialog.co.id/menkop-dorong-koperasi-masjid-dan-bkprmi-jadi-penggerak-ekonomi-umat-baru/"
+    },
+    {
+      "title": "Guru Besar Wajib Turun ke Lapangan Industri - RRI.co.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 14:08:00 GMT",
+      "link": "https://rri.co.id/yogyakarta/berita-lain/2841066/guru-besar-wajib-turun-ke-lapangan-industri"
+    },
+    {
+      "title": "Keputusan Tepat! DPR Dukung Penuh RI Pangkas Ekspor Gas ke Singapura demi Konsumsi Dalam Negeri - Inilah.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 12:21:00 GMT",
+      "link": "https://www.inilah.com/demokrat-pengurangan-ekspor-gas-ke-singapura-harus-diikuti-dengan-peningkatan-pasokan-di-dalam-negeri"
+    },
+    {
+      "title": "Komisi XI DPR Dorong Penguatan Pengawasan Investasi Dana Pensiun dan Jaminan Hari Tua - kakinews.id",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 11:25:40 GMT",
+      "link": "https://kakinews.id/komisi-xi-dpr-dorong-penguatan-pengawasan-investasi-dana-pensiun-dan-jaminan-hari-tua/"
+    },
+    {
+      "title": "Reaktivasi kereta api Sumbar dimulai 27 Oktober 2026, Andre Rosiade ungkap rute tahap awal - ANTARA News Sumbar",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 11:15:30 GMT",
+      "link": "https://sumbar.antaranews.com/berita/785299/reaktivasi-kereta-api-sumbar-dimulai-27-oktober-2026-andre-rosiade-ungkap-rute-tahap-awal"
+    },
+    {
+      "title": "Ekspor Indonesia Tembus USD 193,64 Miliar, Kemendag Genjot Produk Lokal - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 25 Oct 2026 11:08:02 GMT",
+      "link": "https://indoposco.id/2026/10/25/ekspor-indonesia-tembus-usd-19364-miliar-kemendag-genjot-produk-lokal/"
+    },
+    {
+      "title": "Anggota DPR Klaim MBG Dinanti di Daerah - VOICE Indonesia",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 10:38:18 GMT",
+      "link": "https://voiceindonesia.co/hukum/anggota-dpr-klaim-mbg-dinanti-di-daerah"
+    },
+    {
+      "title": "Anggota DPR RI Rizal Bawazier Usulkan Pintu Tol Paduraksa Pemalang ke Kementerian PU - times.co.id",
+      "entity": "Rizal Bawazier",
+      "kind": "anggota",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "link": "https://times.co.id/anggota-dpr-ri-rizal-bawazier-usulkan-pintu-tol-paduraksa-pemalang-ke-kementerian-pu"
+    },
     {
       "title": "Anggia Sosialisasikan Program dan Kebijakan Kementerian Perdagangan - Sekilas Media -",
       "entity": "Kementerian Perdagangan",
@@ -138,62 +194,6 @@
       "kind": "anggota",
       "published": "Sun, 25 Oct 2026 02:05:22 GMT",
       "link": "https://www.mitratoday.com/group-musik-letto-hipnotis-massa-fatayat-nu-di-konser-cakrapala-sport-fest-blitar-2026/"
-    },
-    {
-      "title": "7 Unit Kopdes di Pandeglang Rusak, Diskoperindag Lapor Kementerian Koperasi - radarbanten.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 01:17:14 GMT",
-      "link": "https://www.radarbanten.co.id/2026/10/25/7-unit-kopdes-di-pandeglang-rusak-diskoperindag-lapor-kementerian-koperasi/"
-    },
-    {
-      "title": "Ekspor Gas ke Singapura Dipangkas, DPR Minta Pemerinta Prioritaskan Kebutuhan Energi dalam Negeri - pontas.id",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 22:20:51 GMT",
-      "link": "https://pontas.id/2026/10/25/ekspor-gas-ke-singapura-dipangkas-dpr-minta-pemerinta-prioritaskan-kebutuhan-energi-dalam-negeri/"
-    },
-    {
-      "title": "Ekspor Gas ke Singapura Dikurangi, Legislator Demokrat Dorong Optimalisasi Pasokan Domestik - Kedai Pena",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 17:04:13 GMT",
-      "link": "https://www.kedaipena.com/ekspor-gas-ke-singapura-dikurangi-legislator-demokrat-dorong-optimalisasi-pasokan-domestik/"
-    },
-    {
-      "title": "Bos Pinjol Respons Hakim PN Jakpus Batalkan Putusan Kartel Bunga KPPU - CNBC Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 14:15:00 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261024134300-17-779148/bos-pinjol-respons-hakim-pn-jakpus-batalkan-putusan-kartel-bunga-kppu"
-    },
-    {
-      "title": "Sulsel Fest 2026 Hadirkan 60 UMKM, Sediakan 40 Stan Gratis - Trotoar id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 13:52:51 GMT",
-      "link": "https://trotoar.id/2026/10/24/sulsel-fest-2026-hadirkan-60-umkm-sediakan-40-stan-gratis/"
-    },
-    {
-      "title": "MERAWAT PERDAMAIAN, MENGABDI UNTUK INDONESIA – Gde Sumarjaya Linggih, SE, M.A.P. - MAJALAH BALI",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sat, 24 Oct 2026 13:33:38 GMT",
-      "link": "https://majalahbali.com/merawat-perdamaian-mengabdi-untuk-indonesia-gde-sumarjaya-linggih-se-m-a-p/"
-    },
-    {
-      "title": "Video: 6 Sektor Unggulan Danantara Gaet Investor di DTIIF 2026 - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 12:00:14 GMT",
-      "link": "https://www.cnbcindonesia.com/tech/20261022123649-39-778563/video-6-sektor-unggulan-danantara-gaet-investor-di-dtiif-2026"
-    },
-    {
-      "title": "Danantara Tutup dan Rampingkan 364 Perusahaan, Target 700 hingga Akhir 2026 - Kaidah.ID",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 11:46:59 GMT",
-      "link": "https://kaidah.id/headline/read/23608/danantara-tutup-dan-rampingkan-364-perusahaan-target-700-hingga-akhir-2026/"
     }
   ]
 }
