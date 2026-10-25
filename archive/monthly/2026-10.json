@@ -1,25 +1,25 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-24T22:52:56.792448",
+  "generated_at": "2026-10-25T00:48:22.040361",
   "party_counts_7d": {
-    "Gerindra": 36,
+    "Gerindra": 35,
     "PDI-P": 26,
     "Golkar": 21,
     "NasDem": 6,
     "PKB": 10,
     "PKS": 4,
     "PAN": 2,
-    "Demokrat": 4
+    "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 74,
+    "PDI-P": 75,
     "Golkar": 93,
     "NasDem": 9,
     "PKB": 37,
     "PKS": 53,
     "PAN": 18,
-    "Demokrat": 29
+    "Demokrat": 30
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -38,7 +38,7 @@
     "investasi": 56,
     "danantara": 26,
     "umkm": 12,
-    "ekspor": 12,
+    "ekspor": 13,
     "perdagangan": 6,
     "koperasi": 37,
     "kartel-monopoli": 8,
@@ -54,7 +54,7 @@
     "Mufti Anam": 7,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 7,
+    "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 3,
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 12,
@@ -78,18 +78,25 @@
     "Ismail": 10,
     "Nasril Bahar": 2,
     "Iskandar": 16,
-    "Sartono": 8,
+    "Sartono": 9,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 50,
-    "Perdagangan": 22,
+    "Perdagangan": 23,
     "Konflik Publik": 3,
     "Hukum/Audit": 15,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Ekspor Gas ke Singapura Dipangkas, DPR Minta Pemerinta Prioritaskan Kebutuhan Energi dalam Negeri - pontas.id",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Sat, 24 Oct 2026 22:20:51 GMT",
+      "link": "https://pontas.id/2026/10/25/ekspor-gas-ke-singapura-dipangkas-dpr-minta-pemerinta-prioritaskan-kebutuhan-energi-dalam-negeri/"
+    },
     {
       "title": "Ekspor Gas ke Singapura Dikurangi, Legislator Demokrat Dorong Optimalisasi Pasokan Domestik - Kedai Pena",
       "entity": "Sartono",
@@ -187,13 +194,6 @@
       "kind": "lembaga",
       "published": "Sat, 24 Oct 2026 09:44:31 GMT",
       "link": "https://jambi.antaranews.com/video/5809383/kemendag-ekspor-kecap-ri-capai-1881-juta-dolar-as-hingga-agustus"
-    },
-    {
-      "title": "Danantara Mulai Borong Saham di BEI, Cermati Rekomendasi Sejumlah Analis - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 24 Oct 2026 09:40:07 GMT",
-      "link": "https://investasi.kontan.co.id/news/danantara-mulai-borong-saham-di-bei-cermati-rekomendasi-sejumlah-analis"
     }
   ]
 }
