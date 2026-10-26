@@ -1,9 +1,9 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-25T23:47:41.567965",
+  "generated_at": "2026-10-26T03:09:52.024497",
   "party_counts_7d": {
-    "Gerindra": 33,
-    "PDI-P": 23,
+    "Gerindra": 31,
+    "PDI-P": 24,
     "Golkar": 17,
     "NasDem": 6,
     "PKB": 13,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 75,
+    "PDI-P": 74,
     "Golkar": 92,
     "NasDem": 9,
     "PKB": 40,
-    "PKS": 56,
+    "PKS": 55,
     "PAN": 16,
     "Demokrat": 31
   },
@@ -34,14 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 42,
+    "bumn": 44,
     "investasi": 55,
-    "danantara": 25,
+    "danantara": 26,
     "umkm": 12,
-    "perdagangan": 7,
     "ekspor": 15,
+    "perdagangan": 7,
     "koperasi": 37,
     "ipo": 1,
+    "dividen": 1,
     "kartel-monopoli": 7,
     "merger-akuisisi": 3
   },
@@ -52,7 +53,7 @@
     "Kawendra Lukistian": 17,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 11,
-    "Mufti Anam": 7,
+    "Mufti Anam": 6,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
@@ -74,7 +75,7 @@
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 17,
+    "Rizal Bawazier": 16,
     "Ghufran": 9,
     "Ismail": 10,
     "Nasril Bahar": 2,
@@ -84,13 +85,55 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
+    "Koperasi/UMKM": 51,
     "Perdagangan": 26,
     "Konflik Publik": 3,
     "Hukum/Audit": 14,
     "Kinerja BUMN": 10
   },
   "top_headlines": [
+    {
+      "title": "Andre Rosiade Tegaskan Program Makan Bergizi Gratis Tetap Dibutuhkan di Daerah, Evaluasi SOP Jadi Kunci - Suara Pemerintah",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Mon, 26 Oct 2026 02:47:16 GMT",
+      "link": "https://suarapemerintah.id/2026/10/andre-rosiade-tegaskan-program-makan-bergizi-gratis-tetap-dibutuhkan-di-daerah-evaluasi-sop-jadi-kunci/"
+    },
+    {
+      "title": "Ekonomi Umat Bergerak, Menkop Andalkan Koperasi Masjid & BKPRMI - DelikAsia.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 02:20:00 GMT",
+      "link": "https://www.delikasia.com/headline-news/ekonomi-umat-bergerak-menkop-andalkan-koperasi-masjid-bkprmi"
+    },
+    {
+      "title": "Ekspor Indonesia Naik 4,74 Persen, Mendag Beberkan 3 Program Prioritas - RCTI+",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 01:23:00 GMT",
+      "link": "https://www.rctiplus.com/news/detail/inews/5501737/ekspor-indonesia-naik-4-74-persen--mendag-beberkan-3-program-prioritas"
+    },
+    {
+      "title": "DANANTARA, DIVIDEN BUMN, DAN APBN: KE MANA UANG NEGARA MENGALIR? - Indopolitika.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 00:41:00 GMT",
+      "link": "https://indopolitika.com/danantara-dividen-bumn-dan-apbn-ke-mana-uang-negara-mengalir/"
+    },
+    {
+      "title": "Penataan BUMN Dikebut, Danantara Incar Laba Rp334 Triliun pada 2026 - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 00:22:00 GMT",
+      "link": "https://rmol.id/read/2026/10/26/726208/penataan-bumn-dikebut-danantara-incar-laba-rp334-triliun-pada-2026"
+    },
+    {
+      "title": "Dua Tahun Prabowo: UU Jalan, Aturan Pelaksana Masih Tertinggal - Bela Rakyat",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 26 Oct 2026 00:03:12 GMT",
+      "link": "https://belarakyat.com/dua-tahun-prabowo-uu-jalan-aturan-pelaksana-masih-tertinggal/"
+    },
     {
       "title": "Anggia Erma Rini Sosialisasikan Perlindungan Konsumen, Dorong Masyarakat Lebih Cermat Berbelanja - mitratoday",
       "entity": "Anggia Erma Rini",
@@ -153,48 +196,6 @@
       "kind": "anggota",
       "published": "Sun, 25 Oct 2026 11:25:40 GMT",
       "link": "https://kakinews.id/komisi-xi-dpr-dorong-penguatan-pengawasan-investasi-dana-pensiun-dan-jaminan-hari-tua/"
-    },
-    {
-      "title": "Reaktivasi kereta api Sumbar dimulai 27 Oktober 2026, Andre Rosiade ungkap rute tahap awal - ANTARA News Sumbar",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 11:15:30 GMT",
-      "link": "https://sumbar.antaranews.com/berita/785299/reaktivasi-kereta-api-sumbar-dimulai-27-oktober-2026-andre-rosiade-ungkap-rute-tahap-awal"
-    },
-    {
-      "title": "Ekspor Indonesia Tembus USD 193,64 Miliar, Kemendag Genjot Produk Lokal - indoposco.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 11:08:02 GMT",
-      "link": "https://indoposco.id/2026/10/25/ekspor-indonesia-tembus-usd-19364-miliar-kemendag-genjot-produk-lokal/"
-    },
-    {
-      "title": "Anggota DPR Klaim MBG Dinanti di Daerah - VOICE Indonesia",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 10:38:18 GMT",
-      "link": "https://voiceindonesia.co/hukum/anggota-dpr-klaim-mbg-dinanti-di-daerah"
-    },
-    {
-      "title": "Anggota DPR RI Rizal Bawazier Usulkan Pintu Tol Paduraksa Pemalang ke Kementerian PU - times.co.id",
-      "entity": "Rizal Bawazier",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "link": "https://times.co.id/anggota-dpr-ri-rizal-bawazier-usulkan-pintu-tol-paduraksa-pemalang-ke-kementerian-pu"
-    },
-    {
-      "title": "Anggia Sosialisasikan Program dan Kebijakan Kementerian Perdagangan - Sekilas Media -",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 09:09:04 GMT",
-      "link": "https://sekilasmedia.com/2026/10/anggia-sosialisasikan-program-dan-kebijakan-kementerian-perdagangan/"
-    },
-    {
-      "title": "Danantara Getol Serok Saham saat IHSG Diguncang MSCI - Suara.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 08:58:45 GMT",
-      "link": "https://www.suara.com/bisnis/2026/10/25/155845/danantara-getol-serok-saham-saat-ihsg-diguncang-msci"
     }
   ]
 }
