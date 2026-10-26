@@ -1,23 +1,23 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-26T03:09:52.024497",
+  "generated_at": "2026-10-26T09:40:52.456337",
   "party_counts_7d": {
-    "Gerindra": 31,
-    "PDI-P": 24,
+    "Gerindra": 29,
+    "PDI-P": 25,
     "Golkar": 17,
     "NasDem": 6,
     "PKB": 13,
-    "PKS": 6,
+    "PKS": 5,
     "PAN": 1,
     "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 74,
-    "Golkar": 92,
+    "PDI-P": 75,
+    "Golkar": 90,
     "NasDem": 9,
     "PKB": 40,
-    "PKS": 55,
+    "PKS": 51,
     "PAN": 16,
     "Demokrat": 31
   },
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "investasi": 55,
-    "danantara": 26,
+    "bumn": 48,
+    "investasi": 51,
+    "danantara": 29,
     "umkm": 12,
-    "ekspor": 15,
-    "perdagangan": 7,
-    "koperasi": 37,
+    "perdagangan": 8,
+    "ekspor": 13,
+    "koperasi": 38,
     "ipo": 1,
-    "dividen": 1,
-    "kartel-monopoli": 7,
-    "merger-akuisisi": 3
+    "dividen": 3,
+    "kartel-monopoli": 8,
+    "merger-akuisisi": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -57,7 +57,7 @@
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
-    "Sadarestuwati": 3,
+    "Sadarestuwati": 4,
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
@@ -65,7 +65,7 @@
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 14,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 4,
@@ -75,7 +75,7 @@
     "Nasim Khan": 12,
     "Ida Fauziyah": 1,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 16,
+    "Rizal Bawazier": 12,
     "Ghufran": 9,
     "Ismail": 10,
     "Nasril Bahar": 2,
@@ -87,115 +87,115 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 51,
     "Perdagangan": 26,
-    "Konflik Publik": 3,
+    "Kinerja BUMN": 11,
     "Hukum/Audit": 14,
-    "Kinerja BUMN": 10
+    "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Andre Rosiade Tegaskan Program Makan Bergizi Gratis Tetap Dibutuhkan di Daerah, Evaluasi SOP Jadi Kunci - Suara Pemerintah",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Mon, 26 Oct 2026 02:47:16 GMT",
-      "link": "https://suarapemerintah.id/2026/10/andre-rosiade-tegaskan-program-makan-bergizi-gratis-tetap-dibutuhkan-di-daerah-evaluasi-sop-jadi-kunci/"
-    },
-    {
-      "title": "Ekonomi Umat Bergerak, Menkop Andalkan Koperasi Masjid & BKPRMI - DelikAsia.com",
+      "title": "Video: Wamenkop & Jurus Bikin Koperasi Naik Kelas Jadi Mesin Ekonomi - CNBC Indonesia",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 02:20:00 GMT",
-      "link": "https://www.delikasia.com/headline-news/ekonomi-umat-bergerak-menkop-andalkan-koperasi-masjid-bkprmi"
+      "published": "Mon, 26 Oct 2026 09:30:07 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261026144236-8-779503/video-wamenkop-jurus-bikin-koperasi-naik-kelas-jadi-mesin-ekonomi"
     },
     {
-      "title": "Ekspor Indonesia Naik 4,74 Persen, Mendag Beberkan 3 Program Prioritas - RCTI+",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 01:23:00 GMT",
-      "link": "https://www.rctiplus.com/news/detail/inews/5501737/ekspor-indonesia-naik-4-74-persen--mendag-beberkan-3-program-prioritas"
-    },
-    {
-      "title": "DANANTARA, DIVIDEN BUMN, DAN APBN: KE MANA UANG NEGARA MENGALIR? - Indopolitika.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 00:41:00 GMT",
-      "link": "https://indopolitika.com/danantara-dividen-bumn-dan-apbn-ke-mana-uang-negara-mengalir/"
-    },
-    {
-      "title": "Penataan BUMN Dikebut, Danantara Incar Laba Rp334 Triliun pada 2026 - Rmol.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 00:22:00 GMT",
-      "link": "https://rmol.id/read/2026/10/26/726208/penataan-bumn-dikebut-danantara-incar-laba-rp334-triliun-pada-2026"
-    },
-    {
-      "title": "Dua Tahun Prabowo: UU Jalan, Aturan Pelaksana Masih Tertinggal - Bela Rakyat",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 26 Oct 2026 00:03:12 GMT",
-      "link": "https://belarakyat.com/dua-tahun-prabowo-uu-jalan-aturan-pelaksana-masih-tertinggal/"
-    },
-    {
-      "title": "Anggia Erma Rini Sosialisasikan Perlindungan Konsumen, Dorong Masyarakat Lebih Cermat Berbelanja - mitratoday",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 23:02:18 GMT",
-      "link": "https://www.mitratoday.com/anggia-erma-rini-sosialisasikan-perlindungan-konsumen-dorong-masyarakat-lebih-cermat-berbelanja/"
-    },
-    {
-      "title": "Amerika Khawatir Kebijakan Pakan Unggas RI Hambat Perdagangan - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 23:00:14 GMT",
-      "link": "https://www.kompas.id/artikel/amerika-khawatir-kebijakan-pakan-unggas-ri-hambat-perdagangan?open_from=Terbaru_Page"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 18:20:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261026/Mjk5MTUy"
-    },
-    {
-      "title": "Berita Singkat BP BUMN - koranbumn",
+      "title": "Danantara Putar Dividen BUMN Rp 200 Triliun - investor.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 14:48:22 GMT",
-      "link": "https://koranbumn.com/berita-singkat-bp-bumn-4/"
+      "published": "Mon, 26 Oct 2026 09:30:00 GMT",
+      "link": "https://investor.id/market/459473/danantara-putar-dividen-bumn-rp-200-triliun"
     },
     {
-      "title": "Menkop Dorong Koperasi Masjid dan BKPRMI Jadi Penggerak Ekonomi Umat Baru - Harian Dialog",
+      "title": "Danantara Ungkap Modus BUMN 'Makan' Duit Sendiri - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 09:25:00 GMT",
+      "link": "https://www.inilah.com/danantara-ungkap-modus-bumn-makan-duit-sendiri"
+    },
+    {
+      "title": "Danantara Siapkan Opsi Beli Pabrik Tekstil Buat Serap Tenaga Kerja - MerahPutih",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 09:04:05 GMT",
+      "link": "https://www.merahputih.com/post/read/danantara-siapkan-opsi-beli-pabrik-tekstil-buat-serap-tenaga-kerja"
+    },
+    {
+      "title": "Rizki Faisal Minta Kapolri Tak Terganggu Polemik Mutasi Polri - jurnas.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Mon, 26 Oct 2026 09:03:00 GMT",
+      "link": "https://www.jurnas.com/artikel/1667779/rizki-faisal-minta-kapolri-tak-terganggu-polemik-mutasi-polri/"
+    },
+    {
+      "title": "Ini Dia Tujuh Proyek Investasi Sabang yang Ditawarkan ke Investor - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 09:00:00 GMT",
+      "link": "https://rri.co.id/sabang/ekonomi/bisnis/2842786/ini-dia-tujuh-proyek-investasi-sabang-yang-ditawarkan-ke-investor"
+    },
+    {
+      "title": "Hasil Riset Kemenkop di 3 Daerah: Koperasi dan Offtaker Jadi Kunci Kesejahteraan Nelayan - Suara Pemerintah",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 14:32:07 GMT",
-      "link": "https://hariandialog.co.id/menkop-dorong-koperasi-masjid-dan-bkprmi-jadi-penggerak-ekonomi-umat-baru/"
+      "published": "Mon, 26 Oct 2026 08:56:27 GMT",
+      "link": "https://suarapemerintah.id/2026/10/hasil-riset-kemenkop-di-3-daerah-koperasi-dan-offtaker-jadi-kunci-kesejahteraan-nelayan/"
     },
     {
-      "title": "Amran-AHY Pimpin Daftar Menteri Berkinerja Terbaik Versi IPO, Bahlil Terpopuler, Raja Juli-Pigai Sampai Menteri Koperasi Masuk Daftar Menteri 'Nol Koma' - AFU.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Danantara Koreksi Pembukuan BUMN hingga Rp135 T dalam 18 Bulan - Tirto.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 14:18:06 GMT",
-      "link": "https://afu.id/nasional/amranahy-pimpin-daftar-menteri-berkinerja-terbaik-versi-ipo-bahlil-terpopuler-raja-julipigai-sampai-menteri-koperasi-masuk-daftar-menteri-nol-koma"
+      "published": "Mon, 26 Oct 2026 08:55:00 GMT",
+      "link": "https://tirto.id/danantara-koreksi-pembukuan-bumn-hingga-rp135-t-dalam-18-bulan-hEgB"
     },
     {
-      "title": "Guru Besar Wajib Turun ke Lapangan Industri - RRI.co.id",
-      "entity": "BPKN",
+      "title": "Wamendag Dyah Roro Dorong Pelaku Ekraf Geser Paradigma: Buat Produk Sesuai Kebutuhan Pasar Global - Suara Pemerintah",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 25 Oct 2026 14:08:00 GMT",
-      "link": "https://rri.co.id/yogyakarta/berita-lain/2841066/guru-besar-wajib-turun-ke-lapangan-industri"
+      "published": "Mon, 26 Oct 2026 08:53:39 GMT",
+      "link": "https://suarapemerintah.id/2026/10/wamendag-dyah-roro-dorong-pelaku-ekraf-geser-paradigma-buat-produk-sesuai-kebutuhan-pasar-global/"
     },
     {
-      "title": "Keputusan Tepat! DPR Dukung Penuh RI Pangkas Ekspor Gas ke Singapura demi Konsumsi Dalam Negeri - Inilah.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 12:21:00 GMT",
-      "link": "https://www.inilah.com/demokrat-pengurangan-ekspor-gas-ke-singapura-harus-diikuti-dengan-peningkatan-pasokan-di-dalam-negeri"
+      "title": "BP Batam Perkuat Iklim Usaha, Investasi Tumbuh 62,75 Persen - gokepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:36:09 GMT",
+      "link": "https://gokepri.com/bp-batam-perkuat-iklim-usaha-investasi-tumbuh-6275-persen/"
     },
     {
-      "title": "Komisi XI DPR Dorong Penguatan Pengawasan Investasi Dana Pensiun dan Jaminan Hari Tua - kakinews.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sun, 25 Oct 2026 11:25:40 GMT",
-      "link": "https://kakinews.id/komisi-xi-dpr-dorong-penguatan-pengawasan-investasi-dana-pensiun-dan-jaminan-hari-tua/"
+      "title": "Dua tahun kabinet, tiga program Kemendag dorong kinerja perdagangan - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:29:13 GMT",
+      "link": "https://www.antaranews.com/berita/5812103/dua-tahun-kabinet-tiga-program-kemendag-dorong-kinerja-perdagangan"
+    },
+    {
+      "title": "Danantara Bongkar Bisnis Berlapis BUMN, Target Hemat Triliunan - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:23:52 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261026152036-17-779520/danantara-bongkar-bisnis-berlapis-bumn-target-hemat-triliunan"
+    },
+    {
+      "title": "Transformasi BUMN Bersama Danantara: Mengakselerasi Efisiensi dan Produktivitas - benang.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:19:15 GMT",
+      "link": "https://benang.id/transformasi-bumn-bersama-danantara-mengakselerasi-efisiensi-dan-produktivitas/"
+    },
+    {
+      "title": "Danantara Targetkan Investasi Rp 200 Triliun di 2026, Andalkan Dividen BUMN - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:18:20 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-targetkan-investasi-rp-200-triliun-di-2026-andalkan-dividen-bumn"
+    },
+    {
+      "title": "Danantara: Merger Maskapai BUMN Tunggu Pembenahan Garuda Indonesia - investor.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 08:04:56 GMT",
+      "link": "https://investor.id/national/459459/danantara-merger-maskapai-bumn-tunggu-pembenahan-garuda-indonesia"
     }
   ]
 }
