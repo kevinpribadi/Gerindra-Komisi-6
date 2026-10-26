@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-26T16:28:19.594349",
+  "generated_at": "2026-10-26T21:19:55.586138",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 26,
-    "Golkar": 23,
+    "Golkar": 25,
     "NasDem": 7,
     "PKB": 13,
     "PKS": 5,
@@ -33,12 +33,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 53,
+    "bumn": 54,
     "danantara": 30,
     "investasi": 51,
     "umkm": 13,
-    "ekspor": 13,
-    "perdagangan": 7,
+    "perdagangan": 10,
+    "ekspor": 10,
     "koperasi": 37,
     "ipo": 2,
     "dividen": 3,
@@ -84,19 +84,54 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 51,
-    "Perdagangan": 24,
-    "Kinerja BUMN": 13,
+    "Koperasi/UMKM": 50,
+    "Perdagangan": 23,
+    "Kinerja BUMN": 15,
     "Hukum/Audit": 15,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "BUMN 'Masa Lalu' Banyak yang Rugi, Bosnya Doyan Jalan dengan Fasilitas Mewah dan Main Golf - Inilah.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 21:09:00 GMT",
+      "link": "https://www.inilah.com/bumn-masa-lalu-banyak-yang-rugi-bosnya-doyan-jalan-dengan-fasilitas-mewah-dan-main-golf"
+    },
+    {
+      "title": "Danantara Ungkap 52% BUMN Merugi hingga Rp23 Triliun, Dony Oskaria Larang Direksi Pakai Patwal dan Ajudan Berlebihan - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 19:01:00 GMT",
+      "link": "https://afu.id/ekonomi/danantara-ungkap-52-bumn-merugi-hingga-rp23-triliun-dony-oskaria-larang-direksi-pakai-patwal-dan-ajudan-berlebihan"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 18:10:13 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261027/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 17:05:30 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261027/Mjk5MTUy"
+    },
     {
       "title": "Danantara Bidik Investasi Proyek Strategis hingga Rp542 Triliun dalam 3 Tahun ke Depan - InvestorTrust",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Mon, 26 Oct 2026 15:46:00 GMT",
       "link": "https://investortrust.id/business/120538/danantara-bidik-investasi-proyek-strategis-hingga-rp542-triliun-dalam-3-tahun-ke-depan"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan menyampaikan keputusan pengangkatan Direktur Institut Energi. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 15:44:10 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trao-quyet-dinh-bo-nhiem-vien-truong-vien-nang-luong"
     },
     {
       "title": "Anggota DPR nilai Kapolri harus diberi ruang menata organisasi - ANTARA News",
@@ -120,6 +155,13 @@
       "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8725332/petinggi-bumn-dilarang-pakai-anggaran-fasilitas-perusahaan-buat-kegiatan-pribadi"
     },
     {
+      "title": "Kementerian Perdagangan perkuat koordinasi pangan untuk jaga harga dan pasokan di Jakarta - Traders Union",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 26 Oct 2026 13:13:38 GMT",
+      "link": "https://tradersunion.com/ind/news/economic-data/show/3968014-kemendag-koordinasi-pangan-harga-pasokan-jakarta/"
+    },
+    {
       "title": "Danantara Perketat Aturan Perjalanan Dinas Direksi BUMN - Demokratis.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -141,60 +183,18 @@
       "link": "https://news.detik.com/berita/d-8725268/andre-rosiade-tak-kenal-batas-dapil-bupati-padang-pariaman-rugi-tak-dukung-idenya"
     },
     {
+      "title": "Nurdin Halid: Operasionalisasi Kopdes Merah Putih Harus Berbasis Kedaulatan Ekonomi Rakyat - VIVA.co.id",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Mon, 26 Oct 2026 12:34:42 GMT",
+      "link": "https://www.viva.co.id/bisnis/1938795-nurdin-halid-operasionalisasi-kopdes-merah-putih-harus-berbasis-kedaulatan-ekonomi-rakyat"
+    },
+    {
       "title": "Ekspor RI Tembus USD193,64 Miliar, ini Tiga Program Andalan Kemendag - KabarBursa.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Mon, 26 Oct 2026 12:23:00 GMT",
       "link": "https://www.kabarbursa.com/makro/ekspor-ri-tembus-usd19364-miliar-ini-tiga-program-andalan-kemendag"
-    },
-    {
-      "title": "Pelabuhan Sabang Bakal Dijadikan Green Port - MetroTVNews.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 12:10:31 GMT",
-      "link": "https://www.metrotvnews.com/read/kqYC0mlX-pelabuhan-sabang-bakal-dijadikan-green-port"
-    },
-    {
-      "title": "Menteri Perdagangan: India Hentikan Penyelidikan Antisubsidi Produk CFG Asal Indonesia - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 12:06:10 GMT",
-      "link": "https://www.niaga.asia/menteri-perdagangan-india-hentikan-penyelidikan-antisubsidi-produk-cfg-asal-indonesia/"
-    },
-    {
-      "title": "Bocor! Ini Aturan Perilaku dan Fasilitas Buat Petinggi BUMN - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 12:02:19 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261026185821-17-779627/bocor-ini-aturan-perilaku-dan-fasilitas-buat-petinggi-bumn"
-    },
-    {
-      "title": "Pembangunan PSEL Denpasar capai 20 persen - ANTARA News Bali",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 11:52:50 GMT",
-      "link": "https://bali.antaranews.com/berita/416939/pembangunan-psel-denpasar-capai-20-persen"
-    },
-    {
-      "title": "Pelabuhan Sabang Disiapkan Jadi Green Port | - Republika.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 11:51:00 GMT",
-      "link": "https://www.republika.id/posts/60605/pelabuhan-sabang-disiapkan-jadi-green-port"
-    },
-    {
-      "title": "Danantara Klaim Hemat US$3,5 Miliar usai Pangkas 1.074 BUMN hingga Transaksi Berlapis - Bisnis.com - Market",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 11:31:23 GMT",
-      "link": "https://market.bisnis.com/read/20261026/192/2015805/danantara-klaim-hemat-us35-miliar-usai-pangkas-1074-bumn-hingga-transaksi-berlapis"
-    },
-    {
-      "title": "Parlemen Malaysia Minta Pekerja Ilegal Ditangkap, Rieke Diah Pitaloka Bereaksi Keras - Askara.co",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Mon, 26 Oct 2026 11:24:18 GMT",
-      "link": "https://www.askara.co/read/2026/10/26/69758/parlemen-malaysia-minta-pekerja-ilegal-ditangkap-rieke-diah-pitaloka-bereaksi-keras"
     }
   ]
 }
