@@ -1,24 +1,24 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-27T07:16:30.055301",
+  "generated_at": "2026-10-27T13:56:22.935663",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 27,
-    "Golkar": 26,
-    "NasDem": 5,
+    "Gerindra": 28,
+    "PDI-P": 26,
+    "Golkar": 27,
+    "NasDem": 6,
     "PKB": 13,
     "PKS": 5,
-    "PAN": 1,
+    "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 65,
-    "PDI-P": 75,
-    "Golkar": 94,
-    "NasDem": 10,
-    "PKB": 40,
+    "Gerindra": 67,
+    "PDI-P": 76,
+    "Golkar": 91,
+    "NasDem": 11,
+    "PKB": 41,
     "PKS": 51,
-    "PAN": 17,
+    "PAN": 19,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -34,30 +34,30 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
-    "danantara": 30,
-    "investasi": 56,
-    "umkm": 14,
+    "bumn": 50,
+    "danantara": 33,
+    "investasi": 60,
+    "umkm": 17,
     "ekspor": 9,
     "perdagangan": 10,
-    "koperasi": 37,
-    "ipo": 2,
-    "kartel-monopoli": 8,
+    "koperasi": 40,
+    "ipo": 1,
+    "kartel-monopoli": 9,
     "merger-akuisisi": 6,
     "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 18,
-    "Kawendra Lukistian": 18,
+    "Muhammad Husein Fadlulloh": 19,
+    "Kawendra Lukistian": 19,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 11,
     "Mufti Anam": 4,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
-    "Sadarestuwati": 6,
+    "Sadarestuwati": 7,
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
@@ -65,138 +65,138 @@
     "Ahmad Labib": 12,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 15,
-    "Rizki Faisal": 16,
+    "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
     "I Nengah Senantara": 3,
     "Randi Zulmariadi": 5,
-    "Rudi Hartono Bangun": 2,
+    "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 12,
-    "Ida Fauziyah": 1,
+    "Ida Fauziyah": 2,
     "Amin Ak.": 20,
     "Rizal Bawazier": 12,
     "Ghufran": 9,
     "Ismail": 10,
     "Nasril Bahar": 2,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 14,
+    "Iskandar": 16,
     "Sartono": 10,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Koperasi/UMKM": 49,
-    "Perdagangan": 23,
-    "Hukum/Audit": 15,
+    "Koperasi/UMKM": 53,
+    "Perdagangan": 22,
+    "Hukum/Audit": 18,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Kemendag Catat 6.870 Pasar Terhubung Pembayaran Digital - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:57:54 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6661182/"
-    },
-    {
-      "title": "Danantara Bidik Investasi hingga USD30 Miliar dalam Tiga Tahun, Ini Sektor Prioritasnya - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:53:56 GMT",
-      "link": "https://infobanknews.com/danantara-bidik-investasi-hingga-usd30-miliar-dalam-tiga-tahun-ini-sektor-prioritasnya"
-    },
-    {
-      "title": "Revitalisasi Pelabuhan Muaro Padang, Pemko dan BP BUMN Bangun Wisata Maritim Terintegrasi - Padangkita.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:53:50 GMT",
-      "link": "https://padangkita.com/revitalisasi-pelabuhan-muaro-padang-pemko-dan-bp-bumn-bangun-wisata-maritim-terintegrasi/"
-    },
-    {
-      "title": "Putus Rantai Tengkulak, Kemenkop Rancang Ekosistem Koperasi Nelayan Merah Putih - InfoPublik",
+      "title": "Ferry Juliantono Perkuat Koperasi untuk Pacu Ekonomi Nasional - bsinews.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:40:00 GMT",
-      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/994740/putus-rantai-tengkulak-kemenkop-rancang-ekosistem-koperasi-nelayan-merah-putih"
+      "published": "Tue, 27 Oct 2026 13:45:33 GMT",
+      "link": "https://bsinews.id/ferry-perkuat-koperasi-ekonomi-nasional"
     },
     {
-      "title": "Husein Fadlulloh Dorong Potensi Pariwisata dan Ekonomi Toba Tembus Pasar Global - fraksi gerindra dpr-ri",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 06:37:12 GMT",
-      "link": "https://www.fraksigerindra.id/husein-fadlulloh-dorong-potensi-pariwisata-dan-ekonomi-toba-tembus-pasar-global/"
+      "title": "KPPU Dorong Koperasi Merah Putih Perkuat Ekonomi Desa tanpa Matikan UMKM - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 13:35:58 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/949367/kppu-dorong-koperasi-merah-putih-perkuat-ekonomi-desa-tanpa-matikan-umkm"
     },
     {
-      "title": "Danantara Larang Pejabat BUMN Pakai Patwal dan Ajudan Berlebihan - www.trawlmediaindonesia.id",
+      "title": "2 Tahun Prabowo-Gibran, Menkop Dorong Koperasi Jadi Pilar Ekonomi Rakyat - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 13:35:25 GMT",
+      "link": "https://news.detik.com/berita/d-8726940/2-tahun-prabowo-gibran-menkop-dorong-koperasi-jadi-pilar-ekonomi-rakyat"
+    },
+    {
+      "title": "BP Danantara sebut pembangkit listrik nuklir penting bagi ketahanan nasional - ANTARA News Manado",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:33:00 GMT",
-      "link": "https://www.trawlmediaindonesia.id/2026/10/danantara-larang-pejabat-bumn-pakai.html"
+      "published": "Tue, 27 Oct 2026 13:30:30 GMT",
+      "link": "https://manado.antaranews.com/berita/324559/bp-danantara-sebut-pembangkit-listrik-nuklir-penting-bagi-ketahanan-nasional"
     },
     {
-      "title": "Tegas! Danantara Larang Bos BUMN Gunakan Patwal dan Ajudan Berlebihan - InvestorTrust",
-      "entity": "Danantara",
+      "title": "KPPU dorong evaluasi Perda ritel Lombok Tengah untuk jaga persaingan usaha - Antara News jatim",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:07:00 GMT",
-      "link": "https://investortrust.id/business/120595/tegas-danantara-larang-bos-bumn-gunakan-patwal-dan-ajudan-berlebihan"
+      "published": "Tue, 27 Oct 2026 13:21:00 GMT",
+      "link": "https://jatim.antaranews.com/rilis-pers/5815507/kppu-dorong-evaluasi-perda-ritel-lombok-tengah-untuk-jaga-persaingan-usaha"
     },
     {
-      "title": "Tegas! Danantara Larang Bos BUMN Gunakan Patwal dan Ajudan Berlebihan - InvestorTrust",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 06:07:00 GMT",
-      "link": "https://investortrust.id/business/120595/tegas-danantara-larang-bos-bumn-gunakan-patwal-dan-ajudan-berlebihan"
-    },
-    {
-      "title": "Ancaman Deportasi Massal dari Malaysia: Rieke Diah Pitaloka Desak Pemerintah Selamatkan Gaji PMI - BukaMata.Co",
+      "title": "Rieke Diah Pitaloka Dorong Perlindungan PMI dari Malaysia - www.suaralandak.co.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 05:47:00 GMT",
-      "link": "https://bukamata.co/parlemen/501315788/ancaman-deportasi-massal-dari-malaysia-rieke-diah-pitaloka-desak-pemerintah-selamatkan-gaji-pmi"
+      "published": "Tue, 27 Oct 2026 13:08:41 GMT",
+      "link": "https://www.suaralandak.co.id/rieke-dorong-perlindungan-pmi-malaysia"
     },
     {
-      "title": "Donny Oskaria Apresiasi Andre Rosiade atas Pembangunan Stadion Padang - شبكة تواصل الإخبارية",
-      "entity": "Andre Rosiade",
+      "title": "PMI di Malaysia Terancam Deportasi Massal, DPR Dorong 5 Langkah Perlindungan - indoposco.id",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 05:17:55 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6656887/"
+      "published": "Tue, 27 Oct 2026 13:05:40 GMT",
+      "link": "https://indoposco.id/2026/10/27/pmi-di-malaysia-terancam-deportasi-massal-dpr-dorong-5-langkah-perlindungan/"
     },
     {
-      "title": "Dony Oskaria Puji Perjuangan Andre Rosiade: Pikirannya Selalu untuk Sumbar - kumparan.com - Kumparan.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 04:41:00 GMT",
-      "link": "https://kumparan.com/kumparannews/dony-oskaria-puji-perjuangan-andre-rosiade-pikirannya-selalu-untuk-sumbar-28SIyzcjltT"
-    },
-    {
-      "title": "Dony Oskaria Puji Perjuangan Andre Rosiade: Pikirannya Selalu untuk Sumbar - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 04:41:00 GMT",
-      "link": "https://kumparan.com/kumparannews/dony-oskaria-puji-perjuangan-andre-rosiade-pikirannya-selalu-untuk-sumbar-28SIyzcjltT"
-    },
-    {
-      "title": "Keluarga Direksi dan Komisaris BUMN Dilarang Pakai Kendaraan Dinas - CNN Indonesia",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 04:25:16 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261027111542-92-1420051/keluarga-direksi-dan-komisaris-bumn-dilarang-pakai-kendaraan-dinas"
-    },
-    {
-      "title": "Danantara Larang Bos BUMN Dikawal Patwal serta Ajudan Berlebihan - Tirto.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 04:16:00 GMT",
-      "link": "https://tirto.id/danantara-larang-bos-bumn-dikawal-patwal-serta-ajudan-berlebihan-hEh8"
-    },
-    {
-      "title": "Danantara Pangkas Gaya Hidup Mewah Pejabat BUMN, Kendaraan Dinas hingga Medsos Diatur - Kupas Tuntas",
+      "title": "Danantara dan ITB Jalin Kerja Sama Pendidikan, Riset, dan Inovasi untuk Pembangunan Nasional - Institut Teknologi Bandung",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 04:08:00 GMT",
-      "link": "https://kupastuntas.co/2026/10/27/danantara-pangkas-gaya-hidup-mewah-pejabat-bumn-kendaraan-dinas-hingga-medsos-diatur"
+      "published": "Tue, 27 Oct 2026 12:30:31 GMT",
+      "link": "https://itb.ac.id/berita/danantara-dan-itb-jalin-kerja-sama-pendidikan-riset-dan-inovasi-untuk-pembangunan-nasional/63915"
+    },
+    {
+      "title": "Shopee Gandeng Kemendag dan Mitra Logistik, Bantu UMKM Indonesia Perluas Pasar Ekspor - VOI.ID",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:48:45 GMT",
+      "link": "https://voi.id/teknologi/600253/shopee-gandeng-kemendag-dan-mitra-logistik-bantu-umkm-indonesia-perluas-pasar-ekspor"
+    },
+    {
+      "title": "Gandeng Kemendag dan Mitra Logistik, Shopee Perkuat Ekosistem Ekspor Lewat Program ‘Jalan Global Kreasi Lokal’ - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:47:00 GMT",
+      "link": "https://investortrust.id/business/120658/gandeng-kemendag-dan-mitra-logistik-shopee-perkuat-ekosistem-ekspor-lewat-program-jalan-global-kreasi-lokal"
+    },
+    {
+      "title": "52 Persen BUMN Merugi hingga Rp23 Triliun, Danantara Bongkar Pemborosan Direksi - Aktual.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:45:00 GMT",
+      "link": "https://aktual.com/52-persen-bumn-merugi-hingga-rp23-triliun-danantara-bongkar-pemborosan-direksi/"
+    },
+    {
+      "title": "Atasi Persoalan Sampah, Ida Fauziyah Mulai Program Bebersih Kampung di Jakarta Selatan - VOI.ID",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Tue, 27 Oct 2026 11:26:00 GMT",
+      "link": "https://voi.id/berita/600274/atasi-persoalan-sampah-ida-fauziyah-mulai-program-bebersih-kampung-di-jakarta-selatan"
+    },
+    {
+      "title": "Mendag Busan Ungkap 3 Strategi Perkuat Perdagangan RI - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:19:14 GMT",
+      "link": "https://investor.id/business/459623/mendag-busan-ungkap-3-strategi-perkuat-perdagangan-ri"
+    },
+    {
+      "title": "Cegah Kebocoran ke Pasar Konsumsi, Menperin Perketat Distribusi Gula Rafinasi - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:08:00 GMT",
+      "link": "https://investortrust.id/business/120650/cegah-kebocoran-ke-pasar-konsumsi-menperin-perketat-distribusi-gula-rafinasi"
+    },
+    {
+      "title": "KPPU Perkuat Pengawasan Kemitraan Perkebunan dan Peternakan di Kalbar - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 11:01:33 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-perkuat-pengawasan-kemitraan-perkebunan-dan-peternakan-di-kalbar/"
     }
   ]
 }
