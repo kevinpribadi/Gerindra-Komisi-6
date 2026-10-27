@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-27T01:06:30.678526",
+  "generated_at": "2026-10-27T07:16:30.055301",
   "party_counts_7d": {
-    "Gerindra": 26,
-    "PDI-P": 26,
-    "Golkar": 25,
+    "Gerindra": 27,
+    "PDI-P": 27,
+    "Golkar": 26,
     "NasDem": 5,
     "PKB": 13,
     "PKS": 5,
@@ -12,8 +12,8 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 64,
-    "PDI-P": 76,
+    "Gerindra": 65,
+    "PDI-P": 75,
     "Golkar": 94,
     "NasDem": 10,
     "PKB": 40,
@@ -34,30 +34,30 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
+    "bumn": 51,
     "danantara": 30,
-    "investasi": 52,
+    "investasi": 56,
     "umkm": 14,
+    "ekspor": 9,
     "perdagangan": 10,
-    "ekspor": 10,
     "koperasi": 37,
     "ipo": 2,
-    "dividen": 2,
     "kartel-monopoli": 8,
-    "merger-akuisisi": 6
+    "merger-akuisisi": 6,
+    "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 17,
+    "Muhammad Husein Fadlulloh": 18,
     "Kawendra Lukistian": 18,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 11,
-    "Mufti Anam": 6,
+    "Mufti Anam": 4,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
-    "Sadarestuwati": 5,
+    "Sadarestuwati": 6,
     "Ida Nurlaela": 3,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
@@ -86,117 +86,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 50,
+    "Kinerja BUMN": 16,
+    "Koperasi/UMKM": 49,
     "Perdagangan": 23,
-    "Kinerja BUMN": 15,
     "Hukum/Audit": 15,
     "Konflik Publik": 3
   },
   "top_headlines": [
     {
-      "title": "Dony Oskaria Batasi Fasilitas Bos BUMN, Ajudan hingga Patwal Disorot - Editor Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 00:53:44 GMT",
-      "link": "https://editorindonesia.com/dony-oskaria-batasi-fasilitas-bos-bumn/"
-    },
-    {
-      "title": "Baleg DPR Kejar RUU Hak Cipta Rampung 2026, Abdul Hakim Soroti Transparansi Royalti - Kosadata",
-      "entity": "Abdul Hakim Bafagih",
-      "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 00:50:00 GMT",
-      "link": "https://kosadata.com/baleg-dpr-kejar-ruu-hak-cipta-rampung-2026-abdul-hakim-soroti-transparansi-royalti"
-    },
-    {
-      "title": "Danantara Larang Direksi BUMN Gunakan Kendaraan Dinas untuk Keluarga - Demokratis.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 00:48:25 GMT",
-      "link": "https://demokratis.co.id/danantara-larang-penyalahgunaan-kendaraan-dinas"
-    },
-    {
-      "title": "Aturan Baru Danantara, Ajudan & Pengawalan Pejabat BUMN Dikurangi - RM.ID",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 00:40:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/331796/aturan-baru-danantara-ajudan-pengawalan-pejabat-bumn-dikurangi"
-    },
-    {
-      "title": "Petinggi BUMN Dilarang Main Golf di Hari Kerja, Ini Aturannya - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 23:35:27 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261027050927-17-779663/petinggi-bumn-dilarang-main-golf-di-hari-kerja-ini-aturannya"
-    },
-    {
-      "title": "Pejabat BUMN Dilarang Pakai Patwal dan Main Golf - https://www.politikindonesia.id/",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 22:34:12 GMT",
-      "link": "https://www.politikindonesia.id/pejabat-bumn-dilarang-pakai-patwal-dan-main-golf"
-    },
-    {
-      "title": "Danantara Bidik Investasi Rp542 Triliun, Transformasi BUMN Dongkrak Laba 18,4 Persen - bataviapos.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 22:13:29 GMT",
-      "link": "https://bataviapos.id/susi-susanti/danantara-bidik-investasi-rp542-triliun-transformasi-bumn-dongkrak-laba-184-persen/"
-    },
-    {
-      "title": "Menkop RI fasilitasi pengembangan kopi Papua Pegunungan - ANTARA News Papua",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 21:46:13 GMT",
-      "link": "https://papua.antaranews.com/berita/769931/menkop-ri-fasilitasi-pengembangan-kopi-papua-pegunungan"
-    },
-    {
-      "title": "BUMN 'Masa Lalu' Banyak yang Rugi, Bosnya Doyan Jalan dengan Fasilitas Mewah dan Main Golf - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 21:09:00 GMT",
-      "link": "https://www.inilah.com/bumn-masa-lalu-banyak-yang-rugi-bosnya-doyan-jalan-dengan-fasilitas-mewah-dan-main-golf"
-    },
-    {
-      "title": "Danantara Ungkap 52% BUMN Merugi hingga Rp23 Triliun, Dony Oskaria Larang Direksi Pakai Patwal dan Ajudan Berlebihan - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 19:01:00 GMT",
-      "link": "https://afu.id/ekonomi/danantara-ungkap-52-bumn-merugi-hingga-rp23-triliun-dony-oskaria-larang-direksi-pakai-patwal-dan-ajudan-berlebihan"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 18:10:13 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261027/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 17:05:30 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261027/Mjk5MTUy"
-    },
-    {
-      "title": "Danantara Bidik Investasi Proyek Strategis hingga Rp542 Triliun dalam 3 Tahun ke Depan - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 15:46:00 GMT",
-      "link": "https://investortrust.id/business/120538/danantara-bidik-investasi-proyek-strategis-hingga-rp542-triliun-dalam-3-tahun-ke-depan"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan menyampaikan keputusan pengangkatan Direktur Institut Energi. - Vietnam.vn",
+      "title": "Kemendag Catat 6.870 Pasar Terhubung Pembayaran Digital - شبكة تواصل الإخبارية",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 26 Oct 2026 15:44:10 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trao-quyet-dinh-bo-nhiem-vien-truong-vien-nang-luong"
+      "published": "Tue, 27 Oct 2026 06:57:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6661182/"
     },
     {
-      "title": "Anggota DPR nilai Kapolri harus diberi ruang menata organisasi - ANTARA News",
-      "entity": "Rizki Faisal",
+      "title": "Danantara Bidik Investasi hingga USD30 Miliar dalam Tiga Tahun, Ini Sektor Prioritasnya - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:53:56 GMT",
+      "link": "https://infobanknews.com/danantara-bidik-investasi-hingga-usd30-miliar-dalam-tiga-tahun-ini-sektor-prioritasnya"
+    },
+    {
+      "title": "Revitalisasi Pelabuhan Muaro Padang, Pemko dan BP BUMN Bangun Wisata Maritim Terintegrasi - Padangkita.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:53:50 GMT",
+      "link": "https://padangkita.com/revitalisasi-pelabuhan-muaro-padang-pemko-dan-bp-bumn-bangun-wisata-maritim-terintegrasi/"
+    },
+    {
+      "title": "Putus Rantai Tengkulak, Kemenkop Rancang Ekosistem Koperasi Nelayan Merah Putih - InfoPublik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:40:00 GMT",
+      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/994740/putus-rantai-tengkulak-kemenkop-rancang-ekosistem-koperasi-nelayan-merah-putih"
+    },
+    {
+      "title": "Husein Fadlulloh Dorong Potensi Pariwisata dan Ekonomi Toba Tembus Pasar Global - fraksi gerindra dpr-ri",
+      "entity": "Muhammad Husein Fadlulloh",
       "kind": "anggota",
-      "published": "Mon, 26 Oct 2026 13:51:31 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5813075/anggota-dpr-nilai-kapolri-harus-diberi-ruang-menata-organisasi"
+      "published": "Tue, 27 Oct 2026 06:37:12 GMT",
+      "link": "https://www.fraksigerindra.id/husein-fadlulloh-dorong-potensi-pariwisata-dan-ekonomi-toba-tembus-pasar-global/"
+    },
+    {
+      "title": "Danantara Larang Pejabat BUMN Pakai Patwal dan Ajudan Berlebihan - www.trawlmediaindonesia.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:33:00 GMT",
+      "link": "https://www.trawlmediaindonesia.id/2026/10/danantara-larang-pejabat-bumn-pakai.html"
+    },
+    {
+      "title": "Tegas! Danantara Larang Bos BUMN Gunakan Patwal dan Ajudan Berlebihan - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:07:00 GMT",
+      "link": "https://investortrust.id/business/120595/tegas-danantara-larang-bos-bumn-gunakan-patwal-dan-ajudan-berlebihan"
+    },
+    {
+      "title": "Tegas! Danantara Larang Bos BUMN Gunakan Patwal dan Ajudan Berlebihan - InvestorTrust",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 06:07:00 GMT",
+      "link": "https://investortrust.id/business/120595/tegas-danantara-larang-bos-bumn-gunakan-patwal-dan-ajudan-berlebihan"
+    },
+    {
+      "title": "Ancaman Deportasi Massal dari Malaysia: Rieke Diah Pitaloka Desak Pemerintah Selamatkan Gaji PMI - BukaMata.Co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 27 Oct 2026 05:47:00 GMT",
+      "link": "https://bukamata.co/parlemen/501315788/ancaman-deportasi-massal-dari-malaysia-rieke-diah-pitaloka-desak-pemerintah-selamatkan-gaji-pmi"
+    },
+    {
+      "title": "Donny Oskaria Apresiasi Andre Rosiade atas Pembangunan Stadion Padang - شبكة تواصل الإخبارية",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 27 Oct 2026 05:17:55 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6656887/"
+    },
+    {
+      "title": "Dony Oskaria Puji Perjuangan Andre Rosiade: Pikirannya Selalu untuk Sumbar - kumparan.com - Kumparan.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 04:41:00 GMT",
+      "link": "https://kumparan.com/kumparannews/dony-oskaria-puji-perjuangan-andre-rosiade-pikirannya-selalu-untuk-sumbar-28SIyzcjltT"
+    },
+    {
+      "title": "Dony Oskaria Puji Perjuangan Andre Rosiade: Pikirannya Selalu untuk Sumbar - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Tue, 27 Oct 2026 04:41:00 GMT",
+      "link": "https://kumparan.com/kumparannews/dony-oskaria-puji-perjuangan-andre-rosiade-pikirannya-selalu-untuk-sumbar-28SIyzcjltT"
+    },
+    {
+      "title": "Keluarga Direksi dan Komisaris BUMN Dilarang Pakai Kendaraan Dinas - CNN Indonesia",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 04:25:16 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261027111542-92-1420051/keluarga-direksi-dan-komisaris-bumn-dilarang-pakai-kendaraan-dinas"
+    },
+    {
+      "title": "Danantara Larang Bos BUMN Dikawal Patwal serta Ajudan Berlebihan - Tirto.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 04:16:00 GMT",
+      "link": "https://tirto.id/danantara-larang-bos-bumn-dikawal-patwal-serta-ajudan-berlebihan-hEh8"
+    },
+    {
+      "title": "Danantara Pangkas Gaya Hidup Mewah Pejabat BUMN, Kendaraan Dinas hingga Medsos Diatur - Kupas Tuntas",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 04:08:00 GMT",
+      "link": "https://kupastuntas.co/2026/10/27/danantara-pangkas-gaya-hidup-mewah-pejabat-bumn-kendaraan-dinas-hingga-medsos-diatur"
     }
   ]
 }
