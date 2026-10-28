@@ -1,11 +1,11 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-27T23:28:10.050828",
+  "generated_at": "2026-10-28T03:56:48.789860",
   "party_counts_7d": {
     "Gerindra": 27,
     "PDI-P": 26,
     "Golkar": 27,
-    "NasDem": 5,
+    "NasDem": 4,
     "PKB": 10,
     "PKS": 5,
     "PAN": 2,
@@ -15,7 +15,7 @@
     "Gerindra": 67,
     "PDI-P": 74,
     "Golkar": 91,
-    "NasDem": 11,
+    "NasDem": 9,
     "PKB": 43,
     "PKS": 49,
     "PAN": 19,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "danantara": 32,
+    "bumn": 48,
+    "danantara": 35,
     "investasi": 60,
-    "umkm": 14,
+    "umkm": 15,
     "ekspor": 11,
     "perdagangan": 13,
-    "koperasi": 43,
-    "kartel-monopoli": 10,
-    "merger-akuisisi": 5,
-    "dividen": 1
+    "koperasi": 48,
+    "dividen": 2,
+    "kartel-monopoli": 9,
+    "merger-akuisisi": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -61,12 +61,13 @@
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 12,
+    "Ahmad Labib": 11,
     "Sarifah Suraidah": 4,
     "Doni Akbar": 15,
+    "Firnando Hadityo Ganinduto": 1,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
-    "I Nengah Senantara": 3,
+    "I Nengah Senantara": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 7,
@@ -85,117 +86,117 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
-    "Koperasi/UMKM": 54,
-    "Perdagangan": 22,
+    "Kinerja BUMN": 15,
+    "Koperasi/UMKM": 55,
+    "Perdagangan": 23,
     "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Transformasi Koperasi di Era Digital, Sri Untari Dorong Integrasi AI dan Fakultas Koperasi - Malang Pariwara",
-      "entity": "Dekopin",
+      "title": "Danantara Pangkas Patwal dan Ajudan Direksi BUMN, Firnando: Kerja Sesuai Aturan, Tak Perlu Pengawalan - Kedai Pena",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 20:51:04 GMT",
-      "link": "https://malangpariwara.com/2026/10/28/transformasi-koperasi-jatim-sri-untari-integrasi-ai-fakultas-koperasi/"
+      "published": "Wed, 28 Oct 2026 03:43:57 GMT",
+      "link": "https://www.kedaipena.com/danantara-pangkas-patwal-dan-ajudan-direksi-bumn-firnando-kerja-sesuai-aturan-tak-perlu-pengawalan/"
     },
     {
-      "title": "BPKS dan ASPRINDO Sepakat Kembangkan Pelabuhan Sabang Menuju Green Port - Kedai Pena",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 20:49:50 GMT",
-      "link": "https://www.kedaipena.com/tag/badan-pengusahaan-kawasan-perdagangan-bebas-dan-pelabuhan-bebas-sabang-bpks/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 17:35:35 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261028/Mjc0NDQ0"
-    },
-    {
-      "title": "Provinsi NTB | Wagub NTB: Koperasi Merah Putih Harus Hidup, Bukan Sekadar Berdiri - Pemprov NTB",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 17:30:09 GMT",
-      "link": "https://ntbprov.go.id/post/wagub-ntb-koperasi-merah-putih-harus-hidup-bukan-sekadar-berdiri"
-    },
-    {
-      "title": "Shopee Buka Empat Jalur Ekspor Baru ke Wilayah Asia Tenggara - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 16:36:53 GMT",
-      "link": "https://rri.co.id/ekonomi/bisnis/2848164/shopee-buka-empat-jalur-ekspor-baru-ke-wilayah-asia-tenggara"
-    },
-    {
-      "title": "Soal Jempol untuk Keberanian Blak-Blakan Dony Oskaria - law-justice.co",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 15:54:00 GMT",
-      "link": "https://www.law-justice.co/artikel/212611/soal-jempol-untuk-keberanian-blak-blakan-dony-oskaria/"
-    },
-    {
-      "title": "Shopee Buka Empat Jalur Ekspor Baru ke Wilayah Asia Tenggara - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 15:36:00 GMT",
-      "link": "https://www.rri.co.id/bisnis/2848164/shopee-buka-empat-jalur-ekspor-baru-ke-wilayah-asia-tenggara"
-    },
-    {
-      "title": "BP BUMN Akan Restrukturisasi PTPN Lewat Tata Aset, Struktur Pembiayaan hingga Optimalisasi Sinergi - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 15:20:02 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-akan-restrukturisasi-ptpn-lewat-tata-aset-struktur-pembiayaan-hingga-optimalisasi-sinergi/"
-    },
-    {
-      "title": "Inisiasi Bebersih Kampung, Ida Fauziyah: Partisipasi Warga Jadi Kunci Jakarta Bersih - SINDOnews Daerah",
-      "entity": "Ida Fauziyah",
+      "title": "Danantara Pangkas Patwal dan Ajudan Direksi BUMN, Firnando: Kerja Sesuai Aturan, Tak Perlu Pengawalan - Kedai Pena",
+      "entity": "Firnando Hadityo Ganinduto",
       "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 15:16:23 GMT",
-      "link": "https://daerah.sindonews.com/read/1765453/6/inisiasi-bebersih-kampung-ida-fauziyah-partisipasi-warga-jadi-kunci-jakarta-bersih-1793113830"
+      "published": "Wed, 28 Oct 2026 03:43:57 GMT",
+      "link": "https://www.kedaipena.com/danantara-pangkas-patwal-dan-ajudan-direksi-bumn-firnando-kerja-sesuai-aturan-tak-perlu-pengawalan/"
     },
     {
-      "title": "Inisiasi Bebersih Kampung, Ida Fauziyah: Partisipasi Warga Jadi Kunci Jakarta Bersih - SINDOnews Daerah",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 15:16:23 GMT",
-      "link": "https://daerah.sindonews.com/read/1765453/6/inisiasi-bebersih-kampung-ida-fauziyah-partisipasi-warga-jadi-kunci-jakarta-bersih-1793113830"
-    },
-    {
-      "title": "ANTARA News Jateng - ANTARA News Jateng",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 15:12:00 GMT",
-      "link": "https://jateng.antaranews.com/video/5815747/kemenkop-perkuat-pengurus-kdkmp-untuk-kembangkan-usaha"
-    },
-    {
-      "title": "Sebanyak 300 Calon Bendahara Koperasi Merah Putih Jambi Dilatih - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 14:51:00 GMT",
-      "link": "https://rri.co.id/jambi/regional/2847733/sebanyak-300-calon-bendahara-koperasi-merah-putih-jambi-dilatih"
-    },
-    {
-      "title": "Donny Oskaria dan Bobby Rasyidin Puji Andre Rosiade, Serius Perjuangkan Reaktivasi Rel Sumbar - detikNews",
+      "title": "Website - Pemkab Padang Pariaman",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Tue, 27 Oct 2026 14:23:01 GMT",
-      "link": "https://news.detik.com/berita/d-8726992/donny-oskaria-dan-bobby-rasyidin-puji-andre-rosiade-serius-perjuangkan-reaktivasi-rel-sumbar"
+      "published": "Wed, 28 Oct 2026 03:35:09 GMT",
+      "link": "https://padangpariamankab.go.id/berita-opd/detail/sosialisasi-jalan-tol-sicincin-bukittinggi-andre-rosiade-tegaskan-komitmen-ganti-kerugian-yang-adil-bagi-masyarakat"
     },
     {
-      "title": "Koperasi Jadi Motor Ekonomi Desa di Era Prabowo-Gibran - Rmol.id",
+      "title": "Ekonom nilai kunjungan Wapres ke Cilacap buka peluang kerja sama BUMN - ANTARA News",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 03:34:56 GMT",
+      "link": "https://www.antaranews.com/berita/5816279/ekonom-nilai-kunjungan-wapres-ke-cilacap-buka-peluang-kerja-sama-bumn"
+    },
+    {
+      "title": "KPPU Dorong Evaluasi Perda Ritel Lombok Tengah - Hukumonline",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 03:20:58 GMT",
+      "link": "https://www.hukumonline.com/berita/a/kppu-dorong-evaluasi-perda-ritel-lombok-tengah-lt6ae167f80cab0/"
+    },
+    {
+      "title": "Danantara Siapkan Model Bisnis Baru Danareksa, Target Mulai 2027 - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 03:10:04 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261028093503-17-780077/danantara-siapkan-model-bisnis-baru-danareksa-target-mulai-2027"
+    },
+    {
+      "title": "KPPU Dorong Kopdes Perkuat Ekonomi Desa Tanpa Tutup Ruang UMKM - HarianSIB.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 02:57:00 GMT",
+      "link": "https://www.hariansib.com/nasional/451896/kppu-dorong-kopdes-perkuat-ekonomi-desa-tanpa-tutup-ruang-umkm/"
+    },
+    {
+      "title": "Andre Rosiade Beri Bantuan untuk Warga di Padang yang Sakit Saraf Kejepit - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 28 Oct 2026 02:37:02 GMT",
+      "link": "https://news.detik.com/berita/d-8727299/andre-rosiade-beri-bantuan-untuk-warga-di-padang-yang-sakit-saraf-kejepit"
+    },
+    {
+      "title": "KPPU Tekankan Penguatan Koperasi Desa Merah Putih Harus Selaras dengan Perlindungan UMKM Lokal - AnalisaDaily.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 02:32:56 GMT",
+      "link": "https://analisadaily.com/berita/baca/2026/10/28/1078913/kppu-tekankan-penguatan-koperasi-desa-merah-putih-harus-selaras-dengan-perlindungan-umkm-lokal/"
+    },
+    {
+      "title": "10 Unit Koperasi Merah Putih Di Pandeglang Sudah Beroperasi - tangselpos.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 14:12:00 GMT",
-      "link": "https://rmol.id/read/2026/10/27/726433/koperasi-jadi-motor-ekonomi-desa-di-era-prabowo-gibran"
+      "published": "Wed, 28 Oct 2026 02:30:00 GMT",
+      "link": "https://tangselpos.id/detail/56553/10-unit-koperasi-merah-putih-di-pandeglang-sudah-beroperasi"
     },
     {
-      "title": "BP BUMN : MBG dan Sekolah Rakyat tekan stunting di Indonesia - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "RUPSLB BEI, Bahas Dividen hingga Wacana Masuknya Danantara - Bloomberg Technoz",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 27 Oct 2026 14:05:48 GMT",
-      "link": "https://www.antaranews.com/berita/5815639/bp-bumn-mbg-dan-sekolah-rakyat-tekan-stunting-di-indonesia"
+      "published": "Wed, 28 Oct 2026 02:25:16 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/125992/rupslb-bei-bahas-dividen-hingga-wacana-masuknya-danantara"
+    },
+    {
+      "title": "KPPU Ingatkan Koperasi Merah Putih Jangan Singkirkan UMKM Lokal - Batamtoday.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 02:12:04 GMT",
+      "link": "https://batamtoday.com/news/kppu-ingatkan-koperasi-merah-putih-jangan-singkirkan-umkm-lokal"
+    },
+    {
+      "title": "KPPU Ingatkan Koperasi Merah Putih Jangan Singkirkan UMKM Lokal - RiauAktual.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 02:09:59 GMT",
+      "link": "https://riauaktual.com/news/detail/123647/kppu-ingatkan-koperasi-merah-putih-jangan-singkirkan-umkm-lokal"
+    },
+    {
+      "title": "Unpatti & Kemendag Bekali Mahasiswa, Dorong Produk Lokal Tembus Pasar Global - dinamikamaluku.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 27 Oct 2026 23:59:22 GMT",
+      "link": "https://dinamikamaluku.com/unpatti-kemendag-bekali-mahasiswa-dorong-produk-lokal-tembus-pasar-global/"
+    },
+    {
+      "title": "PMI Bukan Komoditas, Rieke Bersuara Keras: Jangan Dipulangkan Tanpa Haknya! - rmbanten.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 27 Oct 2026 23:51:00 GMT",
+      "link": "https://rmbanten.com/berita/rieke-bersuara-keras-pmi-bukan-komoditas-jangan-dipulangkan-tanpa-haknya-2"
     }
   ]
 }
