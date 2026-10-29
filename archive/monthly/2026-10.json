@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-29T08:00:17.491422",
+  "generated_at": "2026-10-29T15:50:04.375430",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 29,
     "Golkar": 23,
     "NasDem": 2,
-    "PKB": 17,
+    "PKB": 19,
     "PKS": 4,
     "PAN": 3,
     "Demokrat": 5
@@ -14,10 +14,10 @@
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 73,
-    "Golkar": 90,
+    "Golkar": 92,
     "NasDem": 9,
     "PKB": 46,
-    "PKS": 48,
+    "PKS": 43,
     "PAN": 16,
     "Demokrat": 33
   },
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
-    "danantara": 30,
-    "investasi": 53,
-    "perdagangan": 9,
+    "bumn": 44,
+    "danantara": 29,
+    "investasi": 55,
     "ekspor": 13,
+    "perdagangan": 10,
     "umkm": 20,
-    "koperasi": 53,
+    "koperasi": 52,
     "dividen": 1,
     "kartel-monopoli": 6,
     "merger-akuisisi": 3,
@@ -65,8 +65,8 @@
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 15,
-    "Firnando Hadityo Ganinduto": 2,
+    "Doni Akbar": 16,
+    "Firnando Hadityo Ganinduto": 3,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
     "I Nengah Senantara": 1,
@@ -78,8 +78,8 @@
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
-    "Ghufran": 8,
-    "Ismail": 10,
+    "Ghufran": 4,
+    "Ismail": 9,
     "Nasril Bahar": 2,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 13,
@@ -90,115 +90,115 @@
   "early_warning_counts": {
     "Kinerja BUMN": 14,
     "Perdagangan": 29,
-    "Koperasi/UMKM": 66,
+    "Koperasi/UMKM": 65,
     "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Supra Sekuritas Terseret Sanksi OJK, Pandu Buka Suara Soal Kepemilikan - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 07:53:59 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261029145044-17-780607/supra-sekuritas-terseret-sanksi-ojk-pandu-buka-suara-soal-kepemilikan"
-    },
-    {
-      "title": "Pertamina Akan Beli Minyak Jelantah dari Koperasi Merah Putih - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 07:39:00 GMT",
-      "link": "https://rri.co.id/purwokerto/asta-cita/2853249/pertamina-akan-beli-minyak-jelantah-dari-koperasi-merah-putih"
-    },
-    {
-      "title": "Andre Rosiade Usul Sedimen Sungai Akibat Banjir jadi Sumber Pendapatan Kota Padang - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 29 Oct 2026 07:26:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-usul-sedimen-sungai-akibat-banjir-jadi-sumber-pendapatan-kota-padang-28T8q12e5WB"
-    },
-    {
-      "title": "Lindungi Petani dari Pupuk Palsu, DPR RI Sarifah Suraidah Gandeng PKT Gelar Sosialisasi di Tenggarong - Katakaltim.com",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Thu, 29 Oct 2026 06:37:49 GMT",
-      "link": "https://katakaltim.com/lindungi-petani-dari-pupuk-palsu-dpr-ri-sarifah-suraidah-gandeng-pkt-gelar-sosialisasi-di-tenggarong-"
-    },
-    {
-      "title": "Petinggi Danantara Pandu Sjahrir Disorot, Diduga Punya Saham Tak Langsung di Sekuritas yang Disanksi - Radar Malioboro",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 06:22:28 GMT",
-      "link": "https://radarmalioboro.jawapos.com/market/2610290005/petinggi-danantara-pandu-sjahrir-disorot-diduga-punya-saham-tak-langsung-di-sekuritas-yang-disanksi"
-    },
-    {
-      "title": "Sabang, Pelabuhan Hijau atau Kuburan MoU? - www.waspada.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 06:14:43 GMT",
-      "link": "https://www.waspada.id/artikel/sabang-pelabuhan-hijau-atau-kuburan-mou"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Sawit Bangun Pabrik CPO dan Kilang - bsinews.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 06:01:14 GMT",
-      "link": "https://bsinews.id/koperasi-sawit-hilirisasi-pabrik-cpo"
-    },
-    {
-      "title": "Legislator Gerindra Husein Fadlulloh Dorong Potensi Toba Mendunia, Buka Peluang UMKM Tembus Pasar Global - patrolihukumindonesia.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Thu, 29 Oct 2026 05:53:19 GMT",
-      "link": "https://patrolihukumindonesia.com/legislator-gerindra-husein-fadlulloh-dorong-potensi-toba-mendunia-buka-peluang-umkm-tembus-pasar-global/"
-    },
-    {
-      "title": "Andre Rosiade Dorong Sedimen Sungai Akibat Banjir Jadi Sumber Pendapatan Padang - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 29 Oct 2026 05:44:04 GMT",
-      "link": "https://news.detik.com/berita/d-8729264/andre-rosiade-dorong-sedimen-sungai-akibat-banjir-jadi-sumber-pendapatan-padang"
-    },
-    {
-      "title": "Mendag ajak pengusaha AS perkuat kerja sama perdagangan dan investasi - ANTARA News",
+      "title": "Kemendag sebut ekspor alat musik Indonesia capai Rp6,2 triliun - ANTARA News Makassar",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 05:31:28 GMT",
-      "link": "https://ambon.antaranews.com/berita/349875/mendag-ajak-pengusaha-as-perkuat-kerja-sama-perdagangan-dan-investasi"
+      "published": "Thu, 29 Oct 2026 14:57:32 GMT",
+      "link": "https://makassar.antaranews.com/berita/641851/kemendag-sebut-ekspor-alat-musik-indonesia-capai-rp62-triliun"
     },
     {
-      "title": "BP BUMN Pembangunan Flyover Sitinjau Lauik dukung konektivitas Sumbar - ANTARA News Sumbar",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Minyak Jelantah Bisa Jadi Cuan! Koperasi Desa Merah Putih Mulai Garap Bisnis Baru. - rmol jateng",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 05:11:14 GMT",
-      "link": "https://sumbar.antaranews.com/berita/786211/bp-bumn-pembangunan-flyover-sitinjau-lauik-dukung-konektivitas-sumbar"
+      "published": "Thu, 29 Oct 2026 14:40:08 GMT",
+      "link": "https://www.rmoljawatengah.id/minyak-jelantah-bisa-jadi-cuan-koperasi-desa-merah-putih-mulai-garap-bisnis-baru"
     },
     {
-      "title": "Membangun Sinergi Hulu-Hilir, Indonesia Siap Menjadi Pemain Utama Industri Modest Fashion Dunia - MetroTVNews.com",
+      "title": "Legislator Dorong Penguatan PT Perindo sebagai BUMN Strategis Sektor Perikanan Nasional - Media Indonesia",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 13:28:22 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/950246/legislator-dorong-penguatan-pt-perindo-sebagai-bumn-strategis-sektor-perikanan-nasional"
+    },
+    {
+      "title": "Mendag ajak pengusaha AS perkuat kerja sama perdagangan dan investasi - ANTARA News Gorontalo",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 05:01:52 GMT",
-      "link": "https://www.metrotvnews.com/read/kpLCvZBn-membangun-sinergi-hulu-hilir-indonesia-siap-menjadi-pemain-utama-industri-modest-fashion-dunia"
+      "published": "Thu, 29 Oct 2026 13:04:58 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/432487/mendag-ajak-pengusaha-as-perkuat-kerja-sama-perdagangan-dan-investasi"
     },
     {
-      "title": "Dukung Target Industri 25 Persen PDB, Komisioner BPKN Ingatkan Penguatan Perlindungan Konsumen - JPNN.com Jakarta",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 05:00:00 GMT",
-      "link": "https://jakarta.jpnn.com/politik/3512/dukung-target-industri-25-persen-pdb-komisioner-bpkn-ingatkan-penguatan-perlindungan-konsumen"
-    },
-    {
-      "title": "Profil Pandu Sjahrir: Sosok CIO Danantara Kelola Dana Ratusan Perusahaan - https://janalokajournal.id/",
+      "title": "PLN, Telkom, dan Danantara Perkuat Infrastruktur AI - InvestorTrust",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 04:51:21 GMT",
-      "link": "https://janalokajournal.id/profil-pandu-sjahrir-cio-danantara/"
+      "published": "Thu, 29 Oct 2026 12:37:00 GMT",
+      "link": "https://investortrust.id/business/120910/pln-telkom-dan-danantara-perkuat-infrastruktur-ai"
     },
     {
-      "title": "Firnando Ganinduto Dukung Danantara Pangkas Fasilitas Direksi BUMN, Patwal dan Ajudan Disorot - Golkarpedia",
+      "title": "Koperasi Banyumas Kumpulkan Minyak Jelantah untuk Avtur - شبكة تواصل الإخبارية",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 12:16:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6802975/"
+    },
+    {
+      "title": "Kemenkop dan Pertamina Resmikan Piloting Pengumpulan Minyak Jelantah Melalui KDKMP - Biz Kompas",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 11:59:00 GMT",
+      "link": "https://biz.kompas.com/read/2026/10/29/185920228/kemenkop-dan-pertamina-resmikan-piloting-pengumpulan-minyak-jelantah-melalui"
+    },
+    {
+      "title": "Kementerian Koperasi dan Pertamina Olah Minyak Jelantah Jadi Avtur - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 11:42:30 GMT",
+      "link": "https://bsinews.id/koperasi-pertamina-olah-minyak-jelantah"
+    },
+    {
+      "title": "Andre Rosiade Cek MBG di Padang: Alhamdulillah Anak Senang, Ingin Dilanjutkan - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 10:45:44 GMT",
+      "link": "https://news.detik.com/berita/d-8729907/andre-rosiade-cek-mbg-di-padang-alhamdulillah-anak-senang-ingin-dilanjutkan"
+    },
+    {
+      "title": "Kemenkop-Pertamina Patra Niaga Kumpulkan Minyak Jelantah Warga Berbasis Koperasi - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 10:31:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/332204/dari-dapur-rakyat-ke-rantai-pasok-energi-nasional-kemenkoppertamina-patra-niaga-kumpulkan-minyak-jelantah-warga-berbasis-koperasi"
+    },
+    {
+      "title": "Andre Rosiade: Kualitas Air Bersih Padang Membaik, Berkat Dukungan Presiden Prabowo - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 10:30:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-kualitas-air-bersih-padang-membaik-berkat-dukungan-presiden-prabowo-28TBUZkhFfr"
+    },
+    {
+      "title": "Legislator PKB soal Minyak Gratis UEA: Jangan Sampai Ada Udang di Balik Batu - jurnas.com",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 10:16:01 GMT",
+      "link": "https://www.jurnas.com/news/1667965/legislator-pkb-soal-minyak-gratis-uea-jangan-sampai-ada-udang-di-balik-batu/"
+    },
+    {
+      "title": "Menteri Koperasi Dorong Kopdes Jadi Pengepul Minyak Jelantah - jurnas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 10:15:00 GMT",
+      "link": "https://www.jurnas.com/news/1667964/menteri-koperasi-dorong-kopdes-jadi-pengepul-minyak-jelantah/"
+    },
+    {
+      "title": "Danantara Tegaskan Komitmen Perbaikan Pasar Modal melalui Transparansi dan Integritas - Aktual.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 04:49:59 GMT",
-      "link": "https://golkarpedia.com/firnando-ganinduto-dukung-danantara-pangkas-fasilitas-direksi-bumn-patwal-dan-ajudan-disorot/"
+      "published": "Thu, 29 Oct 2026 10:09:39 GMT",
+      "link": "https://aktual.com/danantara-tegaskan-komitmen-perbaikan-pasar-modal-melalui-transparansi-dan-integritas/"
+    },
+    {
+      "title": "Pertamina Kembangkan Pengumpulan Minyak Jelantah Lewat Koperasi Desa - TINTAHIJAU.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 09:53:22 GMT",
+      "link": "https://www.tintahijau.com/pemerintahan/pertamina-kembangkan-pengumpulan-minyak-jelantah-lewat-koperasi-desa/"
     }
   ]
 }
