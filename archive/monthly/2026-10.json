@@ -1,12 +1,12 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-29T01:31:29.745740",
+  "generated_at": "2026-10-29T08:00:17.491422",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 28,
-    "Golkar": 22,
-    "NasDem": 3,
-    "PKB": 11,
+    "PDI-P": 29,
+    "Golkar": 23,
+    "NasDem": 2,
+    "PKB": 17,
     "PKS": 4,
     "PAN": 3,
     "Demokrat": 5
@@ -14,11 +14,11 @@
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 73,
-    "Golkar": 88,
+    "Golkar": 90,
     "NasDem": 9,
-    "PKB": 47,
+    "PKB": 46,
     "PKS": 48,
-    "PAN": 17,
+    "PAN": 16,
     "Demokrat": 33
   },
   "agency_counts_30d": {
@@ -34,16 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 42,
+    "bumn": 43,
     "danantara": 30,
     "investasi": 53,
+    "perdagangan": 9,
     "ekspor": 13,
-    "umkm": 16,
-    "perdagangan": 10,
-    "koperasi": 51,
+    "umkm": 20,
+    "koperasi": 53,
     "dividen": 1,
-    "kartel-monopoli": 8,
-    "merger-akuisisi": 3
+    "kartel-monopoli": 6,
+    "merger-akuisisi": 3,
+    "impor": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,20 +53,20 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 19,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 8,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 4,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 8,
-    "Ida Nurlaela": 3,
+    "Ida Nurlaela": 4,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 11,
-    "Sarifah Suraidah": 1,
+    "Sarifah Suraidah": 2,
     "Doni Akbar": 15,
-    "Firnando Hadityo Ganinduto": 1,
+    "Firnando Hadityo Ganinduto": 2,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
     "I Nengah Senantara": 1,
@@ -73,7 +74,7 @@
     "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 16,
+    "Nasim Khan": 15,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
@@ -81,123 +82,123 @@
     "Ismail": 10,
     "Nasril Bahar": 2,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 14,
+    "Iskandar": 13,
     "Sartono": 11,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 15,
-    "Perdagangan": 25,
-    "Koperasi/UMKM": 61,
-    "Hukum/Audit": 19,
+    "Kinerja BUMN": 14,
+    "Perdagangan": 29,
+    "Koperasi/UMKM": 66,
+    "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "KPPU Siapkan Tujuh Sidang, Soroti Dugaan Persekongkolan Tender hingga Distribusi Produk - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 01:23:35 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-siapkan-tujuh-sidang-soroti-dugaan-persekongkolan-tender-hingga-distribusi-produk/"
-    },
-    {
-      "title": "Menkop: KDKMP Jadi Instrumen Pemutus Rantai Distribusi & Pinjaman Ilegal - RM.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 01:01:00 GMT",
-      "link": "https://rm.id/baca-berita/government-action/332145/menkop-kdkmp-jadi-instrumen-pemutus-rantai-distribusi-pinjaman-ilegal"
-    },
-    {
-      "title": "Kemenkop targetkan koperasi miliki kilang minyak goreng pada 2027 - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 00:59:21 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/432267/kemenkop-targetkan-koperasi-miliki-kilang-minyak-goreng-pada-2027"
-    },
-    {
-      "title": "Mulan Jameela Dorong Konsumen Cerdas di Era Digital, Ingatkan Bahaya Transaksi Online Tanpa Kehati-hatian - deJurnal.com",
-      "entity": "Mulan Jameela",
-      "kind": "anggota",
-      "published": "Thu, 29 Oct 2026 00:54:06 GMT",
-      "link": "https://dejurnal.com/2026/10/mulan-jameela-dorong-konsumen-cerdas-di-era-digital-ingatkan-bahaya-transaksi-online-tanpa-kehati-hatian/"
-    },
-    {
-      "title": "Kemenkop Targetkan Koperasi Punya Kilang Minyak Goreng pada 2027 - Waspada.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 00:44:52 GMT",
-      "link": "https://www.waspada.id/berita/kemenkop-targetkan-koperasi-punya-kilang-minyak-goreng-pada-2027"
-    },
-    {
-      "title": "Danantara Dorong Perbankan Nasional Ekspansi ke Pasar Asia Lewat Fintech - jurnas.com",
+      "title": "Supra Sekuritas Terseret Sanksi OJK, Pandu Buka Suara Soal Kepemilikan - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 23:40:59 GMT",
-      "link": "https://www.jurnas.com/ekonomi/1667931/danantara-dorong-perbankan-nasional-ekspansi-ke-pasar-asia-lewat-fintech/"
+      "published": "Thu, 29 Oct 2026 07:53:59 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261029145044-17-780607/supra-sekuritas-terseret-sanksi-ojk-pandu-buka-suara-soal-kepemilikan"
     },
     {
-      "title": "Kemendag latih mahasiswa Unpatti siapkan komoditas lokal tembus ekspor - ANTARA News",
-      "entity": "Kementerian Perdagangan",
+      "title": "Pertamina Akan Beli Minyak Jelantah dari Koperasi Merah Putih - RRI.co.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 23:12:55 GMT",
-      "link": "https://ambon.antaranews.com/berita/349747/kemendag-latih-mahasiswa-unpatti-siapkan-komoditas-lokal-tembus-ekspor"
+      "published": "Thu, 29 Oct 2026 07:39:00 GMT",
+      "link": "https://rri.co.id/purwokerto/asta-cita/2853249/pertamina-akan-beli-minyak-jelantah-dari-koperasi-merah-putih"
     },
     {
-      "title": "BPKS Temui Airlangga Hartarto, Ini yang Dibahas - RRI.co.id",
+      "title": "Andre Rosiade Usul Sedimen Sungai Akibat Banjir jadi Sumber Pendapatan Kota Padang - kumparan.com - Kumparan.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 07:26:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-usul-sedimen-sungai-akibat-banjir-jadi-sumber-pendapatan-kota-padang-28T8q12e5WB"
+    },
+    {
+      "title": "Lindungi Petani dari Pupuk Palsu, DPR RI Sarifah Suraidah Gandeng PKT Gelar Sosialisasi di Tenggarong - Katakaltim.com",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 06:37:49 GMT",
+      "link": "https://katakaltim.com/lindungi-petani-dari-pupuk-palsu-dpr-ri-sarifah-suraidah-gandeng-pkt-gelar-sosialisasi-di-tenggarong-"
+    },
+    {
+      "title": "Petinggi Danantara Pandu Sjahrir Disorot, Diduga Punya Saham Tak Langsung di Sekuritas yang Disanksi - Radar Malioboro",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 06:22:28 GMT",
+      "link": "https://radarmalioboro.jawapos.com/market/2610290005/petinggi-danantara-pandu-sjahrir-disorot-diduga-punya-saham-tak-langsung-di-sekuritas-yang-disanksi"
+    },
+    {
+      "title": "Sabang, Pelabuhan Hijau atau Kuburan MoU? - www.waspada.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 18:38:00 GMT",
-      "link": "https://rri.co.id/sabang/nasional/2850986/bpks-temui-airlangga-hartarto-ini-yang-dibahas"
+      "published": "Thu, 29 Oct 2026 06:14:43 GMT",
+      "link": "https://www.waspada.id/artikel/sabang-pelabuhan-hijau-atau-kuburan-mou"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Website Kota Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 18:20:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261029/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Putusan Dibatalkan PN Jakpus, KPPU Ajukan Kasasi Soal Bunga Pindar - Kabar24",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 18:03:43 GMT",
-      "link": "https://kabar24.bisnis.com/read/20261029/16/2016597/putusan-dibatalkan-pn-jakpus-kppu-ajukan-kasasi-soal-bunga-pindar"
-    },
-    {
-      "title": "Kemenkop Targetkan Tahun Depan Koperasi Punya Kilang Minyak Goreng Sendiri - Pasardana",
+      "title": "Kemenkop Dorong Koperasi Sawit Bangun Pabrik CPO dan Kilang - bsinews.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 17:43:00 GMT",
-      "link": "https://pasardana.id/news/2026/10/29/kemenkop-targetkan-tahun-depan-koperasi-punya-kilang-minyak-goreng-sendiri"
+      "published": "Thu, 29 Oct 2026 06:01:14 GMT",
+      "link": "https://bsinews.id/koperasi-sawit-hilirisasi-pabrik-cpo"
     },
     {
-      "title": "Pelarangan Truk saat Nataru, BPKN Minta Pertimbangkan Pengangkut Air Minum - Media Indonesia",
+      "title": "Legislator Gerindra Husein Fadlulloh Dorong Potensi Toba Mendunia, Buka Peluang UMKM Tembus Pasar Global - patrolihukumindonesia.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 05:53:19 GMT",
+      "link": "https://patrolihukumindonesia.com/legislator-gerindra-husein-fadlulloh-dorong-potensi-toba-mendunia-buka-peluang-umkm-tembus-pasar-global/"
+    },
+    {
+      "title": "Andre Rosiade Dorong Sedimen Sungai Akibat Banjir Jadi Sumber Pendapatan Padang - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 05:44:04 GMT",
+      "link": "https://news.detik.com/berita/d-8729264/andre-rosiade-dorong-sedimen-sungai-akibat-banjir-jadi-sumber-pendapatan-padang"
+    },
+    {
+      "title": "Mendag ajak pengusaha AS perkuat kerja sama perdagangan dan investasi - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 05:31:28 GMT",
+      "link": "https://ambon.antaranews.com/berita/349875/mendag-ajak-pengusaha-as-perkuat-kerja-sama-perdagangan-dan-investasi"
+    },
+    {
+      "title": "BP BUMN Pembangunan Flyover Sitinjau Lauik dukung konektivitas Sumbar - ANTARA News Sumbar",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 05:11:14 GMT",
+      "link": "https://sumbar.antaranews.com/berita/786211/bp-bumn-pembangunan-flyover-sitinjau-lauik-dukung-konektivitas-sumbar"
+    },
+    {
+      "title": "Membangun Sinergi Hulu-Hilir, Indonesia Siap Menjadi Pemain Utama Industri Modest Fashion Dunia - MetroTVNews.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 05:01:52 GMT",
+      "link": "https://www.metrotvnews.com/read/kpLCvZBn-membangun-sinergi-hulu-hilir-indonesia-siap-menjadi-pemain-utama-industri-modest-fashion-dunia"
+    },
+    {
+      "title": "Dukung Target Industri 25 Persen PDB, Komisioner BPKN Ingatkan Penguatan Perlindungan Konsumen - JPNN.com Jakarta",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 17:21:09 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/949909/pelarangan-truk-saat-nataru-bpkn-minta-pertimbangkan-pengangkut-air-minum"
+      "published": "Thu, 29 Oct 2026 05:00:00 GMT",
+      "link": "https://jakarta.jpnn.com/politik/3512/dukung-target-industri-25-persen-pdb-komisioner-bpkn-ingatkan-penguatan-perlindungan-konsumen"
     },
     {
-      "title": "KPPU Bakal Sidangkan Tujuh Perkara Terkait Persaingan Usaha - KoranIndopos.com",
-      "entity": "KPPU",
+      "title": "Profil Pandu Sjahrir: Sosok CIO Danantara Kelola Dana Ratusan Perusahaan - https://janalokajournal.id/",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 17:10:35 GMT",
-      "link": "https://koranindopos.com/kppu-bakal-sidangkan-tujuh-perkara-terkait-persaingan-usaha/"
+      "published": "Thu, 29 Oct 2026 04:51:21 GMT",
+      "link": "https://janalokajournal.id/profil-pandu-sjahrir-cio-danantara/"
     },
     {
-      "title": "Aset Pelabuhan Panarukan Dilirik untuk Pengembangan Ekonomi Situbondo - beritajatim.com",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 28 Oct 2026 16:57:24 GMT",
-      "link": "https://beritajatim.com/aset-pelabuhan-panarukan-dilirik-untuk-pengembangan-ekonomi-situbondo"
-    },
-    {
-      "title": "Menkop: KDKMP Jadi Instrumen Pemutus Panjangnya Rantai Distribusi - Media Indonesia",
-      "entity": "Kementerian Koperasi",
+      "title": "Firnando Ganinduto Dukung Danantara Pangkas Fasilitas Direksi BUMN, Patwal dan Ajudan Disorot - Golkarpedia",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 16:57:08 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/949908/menkop-kdkmp-jadi-instrumen-pemutus-panjangnya-rantai-distribusi"
+      "published": "Thu, 29 Oct 2026 04:49:59 GMT",
+      "link": "https://golkarpedia.com/firnando-ganinduto-dukung-danantara-pangkas-fasilitas-direksi-bumn-patwal-dan-ajudan-disorot/"
     }
   ]
 }
