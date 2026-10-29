@@ -1,8 +1,8 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-28T21:34:16.307726",
+  "generated_at": "2026-10-29T01:31:29.745740",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 30,
     "PDI-P": 28,
     "Golkar": 22,
     "NasDem": 3,
@@ -12,8 +12,8 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 69,
-    "PDI-P": 74,
+    "Gerindra": 70,
+    "PDI-P": 73,
     "Golkar": 88,
     "NasDem": 9,
     "PKB": 47,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
+    "bumn": 42,
     "danantara": 30,
     "investasi": 53,
-    "ekspor": 12,
+    "ekspor": 13,
     "umkm": 16,
     "perdagangan": 10,
-    "koperasi": 52,
+    "koperasi": 51,
     "dividen": 1,
     "kartel-monopoli": 8,
     "merger-akuisisi": 3
@@ -49,10 +49,10 @@
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 20,
-    "Mulan Jameela": 1,
+    "Mulan Jameela": 2,
     "Kawendra Lukistian": 19,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 9,
+    "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 4,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
@@ -88,12 +88,61 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 15,
-    "Perdagangan": 24,
-    "Koperasi/UMKM": 62,
+    "Perdagangan": 25,
+    "Koperasi/UMKM": 61,
     "Hukum/Audit": 19,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "KPPU Siapkan Tujuh Sidang, Soroti Dugaan Persekongkolan Tender hingga Distribusi Produk - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 01:23:35 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-siapkan-tujuh-sidang-soroti-dugaan-persekongkolan-tender-hingga-distribusi-produk/"
+    },
+    {
+      "title": "Menkop: KDKMP Jadi Instrumen Pemutus Rantai Distribusi & Pinjaman Ilegal - RM.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 01:01:00 GMT",
+      "link": "https://rm.id/baca-berita/government-action/332145/menkop-kdkmp-jadi-instrumen-pemutus-rantai-distribusi-pinjaman-ilegal"
+    },
+    {
+      "title": "Kemenkop targetkan koperasi miliki kilang minyak goreng pada 2027 - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 00:59:21 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/432267/kemenkop-targetkan-koperasi-miliki-kilang-minyak-goreng-pada-2027"
+    },
+    {
+      "title": "Mulan Jameela Dorong Konsumen Cerdas di Era Digital, Ingatkan Bahaya Transaksi Online Tanpa Kehati-hatian - deJurnal.com",
+      "entity": "Mulan Jameela",
+      "kind": "anggota",
+      "published": "Thu, 29 Oct 2026 00:54:06 GMT",
+      "link": "https://dejurnal.com/2026/10/mulan-jameela-dorong-konsumen-cerdas-di-era-digital-ingatkan-bahaya-transaksi-online-tanpa-kehati-hatian/"
+    },
+    {
+      "title": "Kemenkop Targetkan Koperasi Punya Kilang Minyak Goreng pada 2027 - Waspada.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 00:44:52 GMT",
+      "link": "https://www.waspada.id/berita/kemenkop-targetkan-koperasi-punya-kilang-minyak-goreng-pada-2027"
+    },
+    {
+      "title": "Danantara Dorong Perbankan Nasional Ekspansi ke Pasar Asia Lewat Fintech - jurnas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 23:40:59 GMT",
+      "link": "https://www.jurnas.com/ekonomi/1667931/danantara-dorong-perbankan-nasional-ekspansi-ke-pasar-asia-lewat-fintech/"
+    },
+    {
+      "title": "Kemendag latih mahasiswa Unpatti siapkan komoditas lokal tembus ekspor - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 28 Oct 2026 23:12:55 GMT",
+      "link": "https://ambon.antaranews.com/berita/349747/kemendag-latih-mahasiswa-unpatti-siapkan-komoditas-lokal-tembus-ekspor"
+    },
     {
       "title": "BPKS Temui Airlangga Hartarto, Ini yang Dibahas - RRI.co.id",
       "entity": "BPK Sabang",
@@ -149,55 +198,6 @@
       "kind": "lembaga",
       "published": "Wed, 28 Oct 2026 16:57:08 GMT",
       "link": "https://mediaindonesia.com/ekonomi/949908/menkop-kdkmp-jadi-instrumen-pemutus-panjangnya-rantai-distribusi"
-    },
-    {
-      "title": "Legislator Gerindra Husein Fadlulloh Dorong Potensi Toba Mendunia, Buka Peluang UMKM Tembus Pasar Global - DelikAsia.com",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Wed, 28 Oct 2026 14:41:00 GMT",
-      "link": "https://www.delikasia.com/ragam-berita/legislator-gerindra-husein-fadlulloh-dorong-potensi-toba-mendunia-buka-peluang-umkm-tembus-pasar-global"
-    },
-    {
-      "title": "ITB-Danantara kerja sama riset-pendidikan untuk pembangunan nasional - ANTARA News Jawa Barat",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 14:31:13 GMT",
-      "link": "https://jabar.antaranews.com/berita/715655/itb-danantara-kerja-sama-riset-pendidikan-untuk-pembangunan-nasional"
-    },
-    {
-      "title": "Kemenkop Targetkan Koperasi Punya Kilang Minyak Goreng pada 2027 - Bisnis.com - Ekonomi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 14:29:41 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261028/12/2016558/kemenkop-targetkan-koperasi-punya-kilang-minyak-goreng-pada-2027"
-    },
-    {
-      "title": "Kemendag menjajaki kerja sama pelatihan metrologi dengan negara mitra - ANTARA News Jawa Barat",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 14:26:30 GMT",
-      "link": "https://jabar.antaranews.com/berita/715623/kemendag-menjajaki-kerja-sama-pelatihan-metrologi-dengan-negara-mitra"
-    },
-    {
-      "title": "Kemendag memperkuat kompetensi SDM metrologi dukung daya saing industri - ANTARA News Jawa Barat",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 28 Oct 2026 14:26:03 GMT",
-      "link": "https://jabar.antaranews.com/berita/715619/kemendag-memperkuat-kompetensi-sdm-metrologi-dukung-daya-saing-industri"
-    },
-    {
-      "title": "Anggota DPR DPR RI Nasim Khan Kawal MoU Pemkab Situbondo-Pelindo, Pelabuhan Panarukan Disiapkan Bangkit Lagi! - Ketik",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 28 Oct 2026 14:16:00 GMT",
-      "link": "https://ketik.com/amp/anggota-dpr-dpr-ri-nasim-khan-kawal-mou-pemkab-situbondo-pelindo-pelabuhan-panarukan-disiapkan-bangkit-lagi"
-    },
-    {
-      "title": "Andre Rosiade: Pembangunan Pasar Serikat Batusangkar Dianggarkan Rp 60 M, Ditargetkan Rampung 2027 - kumparan.com - Kumparan.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 28 Oct 2026 14:01:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-pembangunan-pasar-serikat-batusangkar-dianggarkan-rp-60-m-ditargetkan-rampung-2027-28Sr13KR6dx"
     }
   ]
 }
