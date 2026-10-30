@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-30T06:46:57.558080",
+  "generated_at": "2026-10-30T13:49:38.495893",
   "party_counts_7d": {
     "Gerindra": 30,
-    "PDI-P": 30,
-    "Golkar": 24,
+    "PDI-P": 28,
+    "Golkar": 20,
     "NasDem": 2,
     "PKB": 19,
     "PKS": 5,
@@ -13,11 +13,11 @@
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 74,
-    "Golkar": 92,
+    "PDI-P": 72,
+    "Golkar": 93,
     "NasDem": 9,
-    "PKB": 46,
-    "PKS": 43,
+    "PKB": 45,
+    "PKS": 41,
     "PAN": 16,
     "Demokrat": 33
   },
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
-    "danantara": 28,
-    "investasi": 54,
-    "ekspor": 10,
-    "perdagangan": 9,
-    "koperasi": 50,
+    "bumn": 42,
+    "danantara": 26,
+    "investasi": 51,
+    "perdagangan": 8,
+    "ekspor": 13,
+    "koperasi": 47,
     "merger-akuisisi": 4,
-    "kartel-monopoli": 6,
-    "umkm": 18,
+    "kartel-monopoli": 7,
+    "umkm": 17,
     "impor": 3
   },
   "member_counts_30d": {
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 19,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 7,
-    "Mufti Anam": 4,
+    "Mufti Anam": 2,
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 9,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 18,
+    "Doni Akbar": 19,
     "Firnando Hadityo Ganinduto": 3,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
@@ -73,131 +73,131 @@
     "Rudi Hartono Bangun": 3,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 15,
+    "Nasim Khan": 14,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 11,
-    "Ghufran": 3,
+    "Ghufran": 1,
     "Ismail": 9,
-    "Nasril Bahar": 2,
+    "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 13,
+    "Iskandar": 12,
     "Sartono": 11,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 33,
+    "Perdagangan": 36,
     "Koperasi/UMKM": 61,
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 20,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Kemendag Kirim 7 Ton Cabai Tekan Harga - TVRI News",
-      "entity": "Kementerian Perdagangan",
+      "title": "197 Gerai Koperasi Merah Putih di Kaltim Belum Beroperasi, Desakan Rekrutmen Pegawai Malah Muncul - EKSPOSKALTIM",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 06:40:14 GMT",
-      "link": "https://ekonomi.tvrinews.com/berita/tj132p5-kemendag-kirim-7-ton-cabai-tekan-harga"
+      "published": "Fri, 30 Oct 2026 12:47:39 GMT",
+      "link": "https://eksposkaltim.com/berita/197-gerai-koperasi-merah-putih-di-kaltim-belum-beroperasi-desakan-rekrutmen-pegawai-malah-muncul-19151.html"
     },
     {
-      "title": "TelkomGroup Perkuat Infrastruktur Digital Indonesia melalui Kolaborasi AI Data Center - kontan.co.id",
+      "title": "Menteri Perdagangan Targetkan IEU-CEPA Berlaku Januari 2027 - Tempo.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 11:52:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/menteri-perdagangan-targetkan-ieu-cepa-berlaku-januari-2027-2302802"
+    },
+    {
+      "title": "Dyah Roro: Ekspor alat musik Indonesia capai Rp6,2 triliun - IDNFinancials",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 11:20:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/71062/dyah-roro-ekspor-alat-musik-indonesia-capai-rp6-2-triliun"
+    },
+    {
+      "title": "UU PFII Atur Sumber Modal dan Pembiayaan Operasional Lembaga - شبكة تواصل الإخبارية",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 06:25:20 GMT",
-      "link": "https://industri.kontan.co.id/news/telkomgroup-perkuat-infrastruktur-digital-indonesia-melalui-kolaborasi-ai-data-center"
+      "published": "Fri, 30 Oct 2026 11:10:59 GMT",
+      "link": "https://twaslnews1.twaslnews.com/6856801/"
     },
     {
-      "title": "Sadarestuwati Tekankan Keadilan Sosial dalam Sosialisasi Empat Pilar di Jombang - realita.co",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Fri, 30 Oct 2026 06:21:00 GMT",
-      "link": "https://realita.co/baca-51992-sadarestuwati-tekankan-keadilan-sosial-dalam-sosialisasi-empat-pilar-di-jombang"
+      "title": "UU PFII Atur Modal dan Pembiayaan Operasional Lembaga - Limapagi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 11:06:31 GMT",
+      "link": "https://www.limapagi.id/uu-pfii-modal-pembiayaan-operasional"
     },
     {
-      "title": "Kemendag Turunkan HPE dan Harga Referensi Emas November 2026 - شبكة تواصل الإخبارية",
+      "title": "Kalah dari Korsel, RI Cuma Punya 19 Kantor Dagang di Luar Negeri - CNBC Indonesia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 06:19:55 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6843392/"
+      "published": "Fri, 30 Oct 2026 10:45:00 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261030151816-4-780974/kalah-dari-korsel-ri-cuma-punya-19-kantor-dagang-di-luar-negeri"
     },
     {
-      "title": "Kemendag Pangkas HPE dan HR Emas, Ini Alasannya - KabarBursa.com",
+      "title": "Kemenkop Dorong Koperasi Desa Merah Putih Masuk Bisnis Energi - Inilah.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 10:12:00 GMT",
+      "link": "https://www.inilah.com/kemenkop-dorong-koperasi-desa-merah-putih-masuk-bisnis-energi"
+    },
+    {
+      "title": "Pengadilan Niaga Batalkan Putusan KPPU dalam Perkara Dugaan Kartel Bunga - Media Indonesia",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 10:01:56 GMT",
+      "link": "https://mediaindonesia.com/politik-dan-hukum/950533/pengadilan-niaga-batalkan-putusan-kppu--dalam-perkara-dugaan-kartel-bunga"
+    },
+    {
+      "title": "Mendag Targetkan Ekspor Indonesia Tumbuh 6,5 Persen pada 2026 - Demokratis.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 06:08:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/kemendag-pangkas-hpe-dan-hr-emas-ini-alasannya"
+      "published": "Fri, 30 Oct 2026 09:19:23 GMT",
+      "link": "https://demokratis.co.id/target-pertumbuhan-ekspor-indonesia-2026"
     },
     {
-      "title": "Pertamina & Kemenkop Luncurkan Piloting Pengumpulan Minyak Jelantah - Suara.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 05:14:22 GMT",
-      "link": "https://www.suara.com/bisnis/2026/10/30/121422/pertamina-kemenkop-luncurkan-piloting-pengumpulan-minyak-jelantah"
-    },
-    {
-      "title": "BPKN Dukung Pembalut Bebas PPN - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 04:47:00 GMT",
-      "link": "https://www.mediakarya.id/bpkn-dukung-pembalut-bebas-ppn/"
-    },
-    {
-      "title": "Koperasi Merah Putih di Banyumas Mulai Kumpulkan Minyak Jelantah untuk Bioavtur - republika.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 04:46:12 GMT",
-      "link": "https://ekonomi.republika.co.id/berita/tnpel0370/koperasi-merah-putih-di-banyumas-mulai-kumpulkan-minyak-jelantah-untuk-bioavtur"
-    },
-    {
-      "title": "Doni Akbar Dorong PT Perindo Jadi Motor Penggerak Industri Perikanan Nasional - RM.ID",
-      "entity": "Doni Akbar",
-      "kind": "anggota",
-      "published": "Fri, 30 Oct 2026 04:19:00 GMT",
-      "link": "https://rm.id/baca-berita/parlemen/332329/doni-akbar-dorong-pt-perindo-jadi-motor-penggerak-industri-perikanan-nasional"
-    },
-    {
-      "title": "Andre Rosiade Apresiasi Presiden soal Pedoman Profesionalisme Direksi-Komisaris BUMN - detikNews",
+      "title": "Andre Rosiade Turun Tangan, Gadis yang 10 Tahun Koma Akhirnya Dibawa ke RSUP M Djamil Padang - kumparan.com - Kumparan",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 30 Oct 2026 04:01:51 GMT",
-      "link": "https://news.detik.com/berita/d-8730678/andre-rosiade-apresiasi-presiden-soal-pedoman-profesionalisme-direksi-komisaris-bumn"
+      "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-turun-tangan-gadis-yang-10-tahun-koma-akhirnya-dibawa-ke-rsup-m-djamil-padang-28TY3ZU7F6K"
     },
     {
-      "title": "Kemendag Ungkap Penguatan Mata Uang Utama Dunia Picu Turunnya Harga Emas - MetroTVNews.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 04:00:07 GMT",
-      "link": "https://www.metrotvnews.com/read/b2lCXz96-kemendag-ungkap-penguatan-mata-uang-utama-dunia-picu-turunnya-harga-emas"
-    },
-    {
-      "title": "Pertamina dan Kemenkop Uji Coba Pengumpulan Minyak Jelantah Berbasis Koperasi - Tutur.co.id",
+      "title": "Pertamina dan Kemenkop Dorong Minyak Jelantah Jadi Sumber Energi Terbarukan - indoposco.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 03:18:12 GMT",
-      "link": "https://tutur.co.id/pertamina-dan-kemenkop-uji-coba-pengumpulan-minyak-jelantah-berbasis-koperasi/"
+      "published": "Fri, 30 Oct 2026 08:56:57 GMT",
+      "link": "https://indoposco.id/2026/10/30/pertamina-dan-kemenkop-dorong-minyak-jelantah-jadi-sumber-energi-terbarukan/"
     },
     {
-      "title": "Danantara Akuisisi Hotel di Makkah, Komnas Haji Harap Berdampak Bagi Jemaah - jurnas.com",
+      "title": "Menkop Ferry Juliantono Dorong Koperasi Merah Putih Jadi Pengumpul Minyak Jelantah untuk Bahan Bakar Pesawat SAF - DETIK Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 08:48:00 GMT",
+      "link": "https://www.detikindonesia.co.id/menkop-ferry-juliantono-dorong-koperasi-merah-putih-jadi-pengumpul-minyak-jelantah-untuk-bahan-bakar-pesawat-saf/"
+    },
+    {
+      "title": "TelkomGroup Gandeng PLN dan Danantara Kembangkan Hub Data Center AI, Perkuat Infrastruktur Digital Indonesia - InvestorTrust",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 03:12:00 GMT",
-      "link": "https://www.jurnas.com/news/1668007/danantara-akuisisi-hotel-di-makkah-komnas-haji-harap-berdampak-bagi-jemaah/"
+      "published": "Fri, 30 Oct 2026 08:41:00 GMT",
+      "link": "https://investortrust.id/business/121017/telkomgroup-gandeng-pln-dan-danantara-kembangkan-hub-data-center-ai-perkuat-infrastruktur-digital-indonesia"
     },
     {
-      "title": "Harga Emas Terancam Terus Melemah? Kemendag Ungkap Biang Keroknya - VIVA.co.id",
+      "title": "HPE Emas Turun 1,68 Persen, Nilai Acuan Ekspor Emas Indonesia Terkoreksi - www.vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 03:10:00 GMT",
-      "link": "https://www.viva.co.id/bisnis/1939740-harga-emas-terancam-terus-melemah-kemendag-ungkap-biang-keroknya"
+      "published": "Fri, 30 Oct 2026 08:34:58 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/10/30/hpe-emas-turun-168-persen-nilai-acuan-ekspor-emas-indonesia-terkoreksi/"
     },
     {
-      "title": "Menkop Dorong Koperasi Masjid dan BKPRMI Jadi Penggerak Ekonomi Umat Baru - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 03:00:00 GMT",
-      "link": "https://rri.co.id/bengkalis/info-kementerian/2855219/menkop-dorong-koperasi-masjid-dan-bkprmi-jadi-penggerak-ekonomi-umat-baru"
+      "title": "Doni Akbar Dorong PT Perindo Jadi Penggerak Industri Perikanan Nasional - TVRI News",
+      "entity": "Doni Akbar",
+      "kind": "anggota",
+      "published": "Fri, 30 Oct 2026 08:30:21 GMT",
+      "link": "https://ekonomi.tvrinews.com/berita/tvzld0p-doni-akbar-dorong-pt-perindo-jadi-penggerak-industri-perikanan-nasional"
     }
   ]
 }
