@@ -1,10 +1,10 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-29T20:51:26.737123",
+  "generated_at": "2026-10-30T00:35:46.927927",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 29,
-    "Golkar": 23,
+    "Golkar": 25,
     "NasDem": 2,
     "PKB": 19,
     "PKS": 4,
@@ -14,7 +14,7 @@
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 73,
-    "Golkar": 92,
+    "Golkar": 93,
     "NasDem": 9,
     "PKB": 46,
     "PKS": 43,
@@ -35,8 +35,8 @@
   },
   "topic_counts_30d": {
     "bumn": 44,
-    "danantara": 29,
-    "investasi": 55,
+    "danantara": 28,
+    "investasi": 56,
     "ekspor": 13,
     "perdagangan": 11,
     "umkm": 19,
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 16,
+    "Doni Akbar": 17,
     "Firnando Hadityo Ganinduto": 3,
     "Rizki Faisal": 13,
     "Muhammad Sarmuji": 18,
@@ -87,13 +87,20 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 14,
+    "Kinerja BUMN": 13,
     "Perdagangan": 30,
     "Koperasi/UMKM": 64,
     "Hukum/Audit": 18,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Menteri Rosan: Kepercayaan Investor Terhadap RI Masih Sangat Tinggi - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 29 Oct 2026 21:45:06 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261029191542-92-1421152/menteri-rosan-kepercayaan-investor-terhadap-ri-masih-sangat-tinggi"
+    },
     {
       "title": "Dari Kampus dan Desa ke Pasar Ekspor: Strategi Kemendag Memperkuat Produk Lokal - patrolihukumindonesia.com",
       "entity": "Kementerian Perdagangan",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Thu, 29 Oct 2026 11:42:30 GMT",
       "link": "https://bsinews.id/koperasi-pertamina-olah-minyak-jelantah"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Petani Sawit Kuasai Industri Hilir dari Pabrik CPO Hingga Minyak Goreng - Sawit Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 29 Oct 2026 11:05:51 GMT",
-      "link": "https://sawitindonesia.com/kemenkop-dorong-koperasi-petani-sawit-kuasai-industri-hilir-dari-pabrik-cpo-hingga-minyak-goreng"
     }
   ]
 }
