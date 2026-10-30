@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-30T18:58:27.945718",
+  "generated_at": "2026-10-30T22:53:43.676723",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 28,
@@ -13,8 +13,8 @@
   },
   "party_counts_30d": {
     "Gerindra": 70,
-    "PDI-P": 72,
-    "Golkar": 93,
+    "PDI-P": 73,
+    "Golkar": 94,
     "NasDem": 9,
     "PKB": 45,
     "PKS": 41,
@@ -35,10 +35,10 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "danantara": 27,
-    "investasi": 49,
-    "ekspor": 13,
-    "perdagangan": 6,
+    "danantara": 25,
+    "investasi": 48,
+    "ekspor": 14,
+    "perdagangan": 7,
     "koperasi": 48,
     "merger-akuisisi": 5,
     "kartel-monopoli": 7,
@@ -59,10 +59,10 @@
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 9,
     "Ida Nurlaela": 4,
-    "Totok Hedi Santosa": 12,
+    "Totok Hedi Santosa": 13,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
-    "Ahmad Labib": 9,
+    "Ahmad Labib": 10,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 19,
     "Firnando Hadityo Ganinduto": 3,
@@ -88,12 +88,19 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 34,
+    "Perdagangan": 35,
     "Koperasi/UMKM": 62,
     "Hukum/Audit": 20,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Eks Sekretaris Kementerian BUMN: Jika Indonesia Stop Beli Minyak Singapura, Kilang Mereka Bangkrut - Warta Ekonomi",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+      "link": "https://wartaekonomi.co.id/amp/read644761/eks-sekretaris-kementerian-bumn-jika-indonesia-stop-beli-minyak-singapura-kilang-mereka-bangkrut"
+    },
     {
       "title": "China Siapkan Langkah Balasan Jika AS Tak Cabut Larangan Lab Pengujian Elektronik - kontan.co.id",
       "entity": "Kementerian Perdagangan",
@@ -191,13 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 30 Oct 2026 10:01:56 GMT",
       "link": "https://mediaindonesia.com/politik-dan-hukum/950533/pengadilan-niaga-batalkan-putusan-kppu--dalam-perkara-dugaan-kartel-bunga"
-    },
-    {
-      "title": "Mendag Targetkan Ekspor Indonesia Tumbuh 6,5 Persen pada 2026 - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 09:19:23 GMT",
-      "link": "https://demokratis.co.id/target-pertumbuhan-ekspor-indonesia-2026"
     }
   ]
 }
