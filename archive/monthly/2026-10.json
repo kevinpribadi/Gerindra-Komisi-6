@@ -1,19 +1,19 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-31T19:42:07.692263",
+  "generated_at": "2026-10-31T23:03:52.362628",
   "party_counts_7d": {
     "Gerindra": 31,
-    "PDI-P": 26,
+    "PDI-P": 27,
     "Golkar": 21,
     "NasDem": 2,
-    "PKB": 19,
+    "PKB": 20,
     "PKS": 5,
     "PAN": 3,
-    "Demokrat": 3
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 72,
+    "PDI-P": 73,
     "Golkar": 86,
     "NasDem": 9,
     "PKB": 46,
@@ -39,11 +39,11 @@
     "investasi": 45,
     "ekspor": 15,
     "umkm": 14,
-    "perdagangan": 8,
-    "koperasi": 42,
+    "perdagangan": 7,
+    "koperasi": 41,
     "merger-akuisisi": 5,
-    "kartel-monopoli": 10,
-    "impor": 3
+    "kartel-monopoli": 12,
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -57,7 +57,7 @@
     "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
-    "Sadarestuwati": 9,
+    "Sadarestuwati": 10,
     "Ida Nurlaela": 4,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
@@ -88,7 +88,7 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 35,
+    "Perdagangan": 36,
     "Koperasi/UMKM": 58,
     "Hukum/Audit": 21,
     "Konflik Publik": 4
@@ -107,6 +107,13 @@
       "kind": "lembaga",
       "published": "Sat, 31 Oct 2026 17:17:14 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261101/Mjc0NDQ0"
+    },
+    {
+      "title": "Sadarestuwati: Nilai Keadilan Dalam Pancasila Harus Jadi Pedoman Setiap Pemimpin - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Sat, 31 Oct 2026 17:13:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sadarestuwati-nilai-keadilan-dalam-pancasila-harus-jadi-pedoman-setiap-pemimpin-b2qemZbjej"
     },
     {
       "title": "Kemendag ajak mahasiswa IPB jadi eksportir muda - ANTARA News",
@@ -191,13 +198,6 @@
       "kind": "anggota",
       "published": "Sat, 31 Oct 2026 11:08:19 GMT",
       "link": "https://fraksigolkar.com/read/2802/firnando-ganinduto-direksi-bumn-tak-perlu-ajudan-dan-pengawalan-berlebihan"
-    },
-    {
-      "title": "Perkuat Mutu Produk UMKM Sulawesi Selatan, Kemendag Gandeng Bank Mandiri dan Tokopedia - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 31 Oct 2026 10:43:43 GMT",
-      "link": "https://www.niaga.asia/perkuat-mutu-produk-umkm-sulawesi-selatan-kemendag-gandeng-bank-mandiri-dan-tokopedia/"
     }
   ]
 }
