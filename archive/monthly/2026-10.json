@@ -1,6 +1,6 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-30T22:53:43.676723",
+  "generated_at": "2026-10-31T01:59:36.074969",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 28,
@@ -37,12 +37,12 @@
     "bumn": 43,
     "danantara": 25,
     "investasi": 48,
-    "ekspor": 14,
+    "ekspor": 15,
     "perdagangan": 7,
-    "koperasi": 48,
+    "koperasi": 47,
     "merger-akuisisi": 5,
-    "kartel-monopoli": 7,
-    "umkm": 17,
+    "kartel-monopoli": 8,
+    "umkm": 16,
     "impor": 3
   },
   "member_counts_30d": {
@@ -89,11 +89,25 @@
   "early_warning_counts": {
     "Kinerja BUMN": 14,
     "Perdagangan": 35,
-    "Koperasi/UMKM": 62,
+    "Koperasi/UMKM": 61,
     "Hukum/Audit": 20,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Gandeng Aspebindo, Koperasi Bakal Dilibatkan dalam Sektor Energi - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 23:39:00 GMT",
+      "link": "https://www.rri.co.id/bisnis/2858558/kemenkop-gandeng-aspebindo-koperasi-bakal-dilibatkan-dalam-sektor-energi"
+    },
+    {
+      "title": "Eks Sekretaris Kementerian BUMN: Jika Indonesia Stop Beli Minyak Singapura, Kilang Mereka Bangkrut - Warta Ekonomi",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+      "link": "https://wartaekonomi.co.id/read644761/eks-sekretaris-kementerian-bumn-jika-indonesia-stop-beli-minyak-singapura-kilang-mereka-bangkrut"
+    },
     {
       "title": "Eks Sekretaris Kementerian BUMN: Jika Indonesia Stop Beli Minyak Singapura, Kilang Mereka Bangkrut - Warta Ekonomi",
       "entity": "Kementerian BUMN",
@@ -128,6 +142,20 @@
       "kind": "lembaga",
       "published": "Fri, 30 Oct 2026 14:20:00 GMT",
       "link": "https://tv.sinpo.id/detail/bp-bumn-dan-danantara-perkuat-industri-nasional"
+    },
+    {
+      "title": "Sinergi Penguatan Ekonomi Desa, KPPU Dorong Persaingan Usaha Sehat dalam Implementasi KDKMP Jawa Tengah - warta jogja",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 13:05:00 GMT",
+      "link": "https://www.wartajogja.id/2026/10/sinergi-penguatan-ekonomi-desa-kppu.html"
+    },
+    {
+      "title": "Mendag Busan Optimistis Ekspor RI Masih Bisa Tumbuh 6,5% pada 2026 - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 30 Oct 2026 12:55:16 GMT",
+      "link": "https://investor.id/macroeconomy/460104/mendag-busan-optimistis-ekspor-ri-masih-bisa-tumbuh-65-pada-2026"
     },
     {
       "title": "197 Gerai Koperasi Merah Putih di Kaltim Belum Beroperasi, Desakan Rekrutmen Pegawai Malah Muncul - EKSPOSKALTIM",
@@ -170,34 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 30 Oct 2026 11:06:31 GMT",
       "link": "https://www.limapagi.id/uu-pfii-modal-pembiayaan-operasional"
-    },
-    {
-      "title": "Kalah dari Korsel, RI Cuma Punya 19 Kantor Dagang di Luar Negeri - CNBC Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 10:45:00 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261030151816-4-780974/kalah-dari-korsel-ri-cuma-punya-19-kantor-dagang-di-luar-negeri"
-    },
-    {
-      "title": "Kemenkop dan Aspebindo Bangun Sinergi Energi Nasional - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 10:42:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tnxponu-kemenkop-dan-aspebindo-bangun-sinergi-energi-nasional"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Desa Merah Putih Masuk Bisnis Energi - Inilah.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 10:12:00 GMT",
-      "link": "https://www.inilah.com/kemenkop-dorong-koperasi-desa-merah-putih-masuk-bisnis-energi"
-    },
-    {
-      "title": "Pengadilan Niaga Batalkan Putusan KPPU dalam Perkara Dugaan Kartel Bunga - Media Indonesia",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 10:01:56 GMT",
-      "link": "https://mediaindonesia.com/politik-dan-hukum/950533/pengadilan-niaga-batalkan-putusan-kppu--dalam-perkara-dugaan-kartel-bunga"
     }
   ]
 }
