@@ -1,25 +1,25 @@
 {
   "period": "2026-10",
-  "generated_at": "2026-10-31T01:59:36.074969",
+  "generated_at": "2026-10-31T08:19:04.346007",
   "party_counts_7d": {
     "Gerindra": 30,
     "PDI-P": 28,
     "Golkar": 20,
     "NasDem": 2,
-    "PKB": 19,
+    "PKB": 17,
     "PKS": 5,
     "PAN": 3,
-    "Demokrat": 5
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 70,
     "PDI-P": 73,
-    "Golkar": 94,
+    "Golkar": 86,
     "NasDem": 9,
     "PKB": 45,
     "PKS": 41,
     "PAN": 16,
-    "Demokrat": 33
+    "Demokrat": 31
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -36,13 +36,13 @@
   "topic_counts_30d": {
     "bumn": 43,
     "danantara": 25,
-    "investasi": 48,
+    "investasi": 47,
     "ekspor": 15,
     "perdagangan": 7,
-    "koperasi": 47,
+    "koperasi": 46,
     "merger-akuisisi": 5,
+    "umkm": 15,
     "kartel-monopoli": 8,
-    "umkm": 16,
     "impor": 3
   },
   "member_counts_30d": {
@@ -64,10 +64,10 @@
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 10,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 19,
+    "Doni Akbar": 20,
     "Firnando Hadityo Ganinduto": 3,
-    "Rizki Faisal": 13,
-    "Muhammad Sarmuji": 18,
+    "Rizki Faisal": 14,
+    "Muhammad Sarmuji": 8,
     "I Nengah Senantara": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 3,
@@ -82,18 +82,67 @@
     "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 12,
-    "Sartono": 11,
+    "Sartono": 9,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
     "Kinerja BUMN": 14,
-    "Perdagangan": 35,
+    "Perdagangan": 36,
     "Koperasi/UMKM": 61,
-    "Hukum/Audit": 20,
+    "Hukum/Audit": 21,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Klarifikasi Resmi Danantara Soal Kemunculan Logo Lembaga Di TIME100 Next Gala 2026 New York - janalokajournal.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 08:15:59 GMT",
+      "link": "https://janalokajournal.id/klarifikasi-resmi-danantara-soal-kemunculan-logo-lembaga-di-time100-next-gala-2026-new-york/"
+    },
+    {
+      "title": "Strategi Kemendag Membuka Jalan Produk Lokal ke Pasar Ekspor - patrolihukumindonesia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 08:10:54 GMT",
+      "link": "https://patrolihukumindonesia.com/strategi-kemendag-membuka-jalan-produk-lokal-ke-pasar-ekspor/"
+    },
+    {
+      "title": "Netizen Soroti Danantara Jadi Sponsor Utama Time100 Next Gala 2026 di New York - Gotvnews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 06:42:52 GMT",
+      "link": "https://gotvnews.co.id/netizen-soroti-danantara-jadi-sponsor-utama-time100-next-gala-2026-di-new-york/"
+    },
+    {
+      "title": "Kemenkop gandeng Aspebindo, perluas akses energi lewat koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 03:40:38 GMT",
+      "link": "https://elshinta.com/indeks/dalam-negeri/kemenkop-gandeng-aspebindo-perluas-akses-energi-lewat-koperasi-183231"
+    },
+    {
+      "title": "Kemendag: Harga referensi CPO turun pada November 2026 - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 03:31:35 GMT",
+      "link": "https://www.antaranews.com/berita/5823215/kemendag-harga-referensi-cpo-turun-pada-november-2026?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
+      "title": "Gedung KDKMP di 11 Daerah Jateng Siap Pakai 50 Persen, KPPU Kanwil VII Minta Kemitraan UMKM Dijaga - Radar Purworejo",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 03:01:19 GMT",
+      "link": "https://radarpurworejo.jawapos.com/jawa-tengah/2610310002/gedung-kdkmp-di-11-daerah-jateng-siap-pakai-50-persen-kppu-kanwil-vii-minta-kemitraan-umkm-dijaga"
+    },
+    {
+      "title": "Koperasi Merah Putih Membuka Jalan Kemandirian Ekonomi Perempuan - PT Suara Dewata Media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 01:17:16 GMT",
+      "link": "https://www.suaradewata.com/berita/202405218765/koperasi-merah-putih-membuka-jalan-kemandirian-ekonomi-perempuan"
+    },
     {
       "title": "Kemenkop Gandeng Aspebindo, Koperasi Bakal Dilibatkan dalam Sektor Energi - RRI.co.id",
       "entity": "Kementerian Koperasi",
@@ -114,6 +163,13 @@
       "kind": "lembaga",
       "published": "Fri, 30 Oct 2026 21:00:00 GMT",
       "link": "https://wartaekonomi.co.id/amp/read644761/eks-sekretaris-kementerian-bumn-jika-indonesia-stop-beli-minyak-singapura-kilang-mereka-bangkrut"
+    },
+    {
+      "title": "Rizki Faisal: Penasehat Kapolri Blunder dan Kikis Wibawa Institusi - jurnas.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Fri, 30 Oct 2026 17:25:49 GMT",
+      "link": "https://www.jurnas.com/artikel/167144/rizki-faisal-penasehat-kapolri-blunder-dan-kikis-wibawa-institusi/?page=detail&id=167144&seo=Rizki-Faisal-Penasehat-Kapolri-Blunder-dan-Kikis-Wibawa-Institusi"
     },
     {
       "title": "China Siapkan Langkah Balasan Jika AS Tak Cabut Larangan Lab Pengujian Elektronik - kontan.co.id",
@@ -142,62 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 30 Oct 2026 14:20:00 GMT",
       "link": "https://tv.sinpo.id/detail/bp-bumn-dan-danantara-perkuat-industri-nasional"
-    },
-    {
-      "title": "Sinergi Penguatan Ekonomi Desa, KPPU Dorong Persaingan Usaha Sehat dalam Implementasi KDKMP Jawa Tengah - warta jogja",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 13:05:00 GMT",
-      "link": "https://www.wartajogja.id/2026/10/sinergi-penguatan-ekonomi-desa-kppu.html"
-    },
-    {
-      "title": "Mendag Busan Optimistis Ekspor RI Masih Bisa Tumbuh 6,5% pada 2026 - investor.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 12:55:16 GMT",
-      "link": "https://investor.id/macroeconomy/460104/mendag-busan-optimistis-ekspor-ri-masih-bisa-tumbuh-65-pada-2026"
-    },
-    {
-      "title": "197 Gerai Koperasi Merah Putih di Kaltim Belum Beroperasi, Desakan Rekrutmen Pegawai Malah Muncul - EKSPOSKALTIM",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 12:47:39 GMT",
-      "link": "https://eksposkaltim.com/berita/197-gerai-koperasi-merah-putih-di-kaltim-belum-beroperasi-desakan-rekrutmen-pegawai-malah-muncul-19151.html"
-    },
-    {
-      "title": "197 Gerai Koperasi Merah Putih di Kaltim Belum Beroperasi, Desakan Rekrutmen Pegawai Malah Muncul - EKSPOSKALTIM",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 12:47:26 GMT",
-      "link": "https://eksposkaltim.com/berita-19151-197-gerai-koperasi-merah-putih-di-kaltim-belum-beroperasi-desakan-rekrutmen-pegawai-malah-muncul.html"
-    },
-    {
-      "title": "Menteri Perdagangan Targetkan IEU-CEPA Berlaku Januari 2027 - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 11:52:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-perdagangan-targetkan-ieu-cepa-berlaku-januari-2027-2302802"
-    },
-    {
-      "title": "Dyah Roro: Ekspor alat musik Indonesia capai Rp6,2 triliun - IDNFinancials",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 11:20:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/71062/dyah-roro-ekspor-alat-musik-indonesia-capai-rp6-2-triliun"
-    },
-    {
-      "title": "UU PFII Atur Sumber Modal dan Pembiayaan Operasional Lembaga - شبكة تواصل الإخبارية",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 11:10:59 GMT",
-      "link": "https://twaslnews1.twaslnews.com/6856801/"
-    },
-    {
-      "title": "UU PFII Atur Modal dan Pembiayaan Operasional Lembaga - Limapagi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 30 Oct 2026 11:06:31 GMT",
-      "link": "https://www.limapagi.id/uu-pfii-modal-pembiayaan-operasional"
     }
   ]
 }
