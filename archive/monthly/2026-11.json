@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-01T17:37:52.840386",
+  "generated_at": "2026-11-01T21:40:41.713677",
   "party_counts_7d": {
     "Gerindra": 31,
     "PDI-P": 27,
@@ -14,7 +14,7 @@
     "PDI-P": 73,
     "Golkar": 83,
     "NasDem": 9,
-    "PKB": 45,
+    "PKB": 46,
     "PKS": 41,
     "PAN": 16,
     "Demokrat": 31
@@ -34,11 +34,11 @@
   "topic_counts_30d": {
     "bumn": 43,
     "danantara": 22,
-    "investasi": 45,
+    "investasi": 44,
     "perdagangan": 6,
-    "ekspor": 13,
+    "ekspor": 12,
     "umkm": 12,
-    "koperasi": 37,
+    "koperasi": 38,
     "merger-akuisisi": 5,
     "kartel-monopoli": 12,
     "impor": 4
@@ -69,7 +69,7 @@
     "I Nengah Senantara": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 3,
-    "Anggia Erma Rini": 6,
+    "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 14,
     "Ida Fauziyah": 5,
@@ -86,12 +86,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 15,
-    "Perdagangan": 35,
-    "Koperasi/UMKM": 53,
+    "Perdagangan": 34,
+    "Koperasi/UMKM": 54,
     "Hukum/Audit": 21,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop Libatkan Koperasi dalam Rantai Pasok Energi Nasional - Suara Independent News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 20:03:00 GMT",
+      "link": "https://www.suaraindependentnews.id/koperasi-rantai-pasok-energi-nasional"
+    },
+    {
+      "title": "Kemendag Dorong UKM Mahasiswa Tembus Pasar Global, Potensi Transaksi Capai US$24,57 Juta - VIVA.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 18:14:14 GMT",
+      "link": "https://www.viva.co.id/bisnis/1940302-kemendag-dorong-ukm-mahasiswa-tembus-pasar-global-potensi-transaksi-capai-us2457-juta"
+    },
+    {
+      "title": "Danantara Jajaki Kerja Sama Investasi dengan Time - Rmol.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 17:48:19 GMT",
+      "link": "https://rmol.id/read/2026/11/02/726905/danantara-jajaki-kerja-sama-investasi-dengan-time"
+    },
     {
       "title": "Komnas HAM Desak Sinergi Lintas Kementerian Berantas Perdagangan Orang Modus Penipuan Online - republika.co.id",
       "entity": "Kementerian Perdagangan",
@@ -119,6 +140,13 @@
       "kind": "lembaga",
       "published": "Sun, 01 Nov 2026 13:59:55 GMT",
       "link": "https://industri.kontan.co.id/news/harga-referensi-minyak-sawit-turun-607-pada-november-2026"
+    },
+    {
+      "title": "Kemendag Fasilitasi Pengiriman 7 Ton Cabai ke Halmahera Utara - Serayu Nusantara",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 12:28:00 GMT",
+      "link": "https://serayunusantara.com/kemendag-fasilitasi-pengiriman-7-ton-cabai-ke-halmahera-utara/"
     },
     {
       "title": "Keterlambatan Gaji Berlarut di Perum DAMRI, Karyawan Minta Kementerian BUMN dan Disnaker Turun Tangan - https://suryaindonesia.net/",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 01 Nov 2026 06:34:00 GMT",
       "link": "https://www.gosumut.com/berita/baca/2026/11/01/kunjungi-sppg-dwikora-medan-kppu-dorong-persaingan-sehat-dalam-pengadaan-mbg"
-    },
-    {
-      "title": "KPPU dan UINSU Perkuat Sinergi Melalui Kuliah Umum Hukum Persaingan Usaha - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 06:15:57 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-dan-uinsu-perkuat-sinergi-melalui-kuliah-umum-hukum-persaingan-usaha/"
-    },
-    {
-      "title": "Lima Gerai Koperasi Kelurahan Merah Putih Makassar Terganjal Peralatan - Teras.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 05:30:00 GMT",
-      "link": "https://www.teras.id/bollo-id/rubrik/berita-daerah/lima-gerai-koperasi-kelurahan-merah-putih-makassar-terganjal-peralatan-2302673"
-    },
-    {
-      "title": "Pengembangan Koperasi Didorong untuk Kemandirian Ekonomi Umat - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 05:18:12 GMT",
-      "link": "https://www.metrotvnews.com/read/NnjCRB1O-pengembangan-koperasi-didorong-untuk-kemandirian-ekonomi-umat"
-    },
-    {
-      "title": "Spirit Ta'awun, Menkop Ajak ICMI Wujudkan Koperasi Kemandirian Umat & Ekonomi Kerakyatan - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 04:25:07 GMT",
-      "link": "https://indoposco.id/2026/11/01/spirit-taawun-menkop-ajak-icmi-wujudkan-koperasi-kemandirian-umat-ekonomi-kerakyatan/"
     }
   ]
 }
