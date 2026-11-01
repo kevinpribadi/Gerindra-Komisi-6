@@ -1,0 +1,203 @@
+{
+  "period": "2026-11",
+  "generated_at": "2026-11-01T04:20:21.586059",
+  "party_counts_7d": {
+    "Gerindra": 31,
+    "PDI-P": 27,
+    "Golkar": 21,
+    "NasDem": 2,
+    "PKB": 20,
+    "PKS": 5,
+    "PAN": 3,
+    "Demokrat": 2
+  },
+  "party_counts_30d": {
+    "Gerindra": 68,
+    "PDI-P": 74,
+    "Golkar": 86,
+    "NasDem": 9,
+    "PKB": 46,
+    "PKS": 41,
+    "PAN": 16,
+    "Demokrat": 31
+  },
+  "agency_counts_30d": {
+    "Kementerian BUMN": 20,
+    "Kementerian Perdagangan": 20,
+    "Kementerian Koperasi": 20,
+    "Danantara": 20,
+    "BPKN": 20,
+    "KPPU": 20,
+    "BP Batam": 20,
+    "BPK Sabang": 20,
+    "Dekopin": 20,
+    "Badan Pengaturan BUMN": 20
+  },
+  "topic_counts_30d": {
+    "bumn": 43,
+    "danantara": 23,
+    "investasi": 46,
+    "perdagangan": 6,
+    "ekspor": 14,
+    "umkm": 14,
+    "koperasi": 41,
+    "merger-akuisisi": 5,
+    "kartel-monopoli": 12,
+    "impor": 4
+  },
+  "member_counts_30d": {
+    "Andre Rosiade": 20,
+    "Khilmi": 4,
+    "Muhammad Husein Fadlulloh": 20,
+    "Mulan Jameela": 2,
+    "Kawendra Lukistian": 16,
+    "Mulyadi": 6,
+    "Adisatrya Suryo Sulisto": 7,
+    "Mufti Anam": 3,
+    "Darmadi Durianto": 10,
+    "Rieke Diah Pitaloka": 20,
+    "I Gusti Ngurah Kesuma Kelakan": 8,
+    "Sadarestuwati": 10,
+    "Ida Nurlaela": 4,
+    "Totok Hedi Santosa": 12,
+    "Nurdin Halid": 20,
+    "Gde Sumarjaya Linggih": 9,
+    "Ahmad Labib": 10,
+    "Sarifah Suraidah": 2,
+    "Doni Akbar": 20,
+    "Firnando Hadityo Ganinduto": 4,
+    "Rizki Faisal": 14,
+    "Muhammad Sarmuji": 7,
+    "I Nengah Senantara": 1,
+    "Randi Zulmariadi": 5,
+    "Rudi Hartono Bangun": 3,
+    "Anggia Erma Rini": 7,
+    "Rivqy Abdul Halim": 20,
+    "Nasim Khan": 14,
+    "Ida Fauziyah": 5,
+    "Amin Ak.": 20,
+    "Rizal Bawazier": 11,
+    "Ghufran": 1,
+    "Ismail": 9,
+    "Nasril Bahar": 3,
+    "Abdul Hakim Bafagih": 1,
+    "Iskandar": 12,
+    "Sartono": 9,
+    "Herman Khaeron": 20,
+    "Faujia Helga": 2
+  },
+  "early_warning_counts": {
+    "Kinerja BUMN": 15,
+    "Perdagangan": 35,
+    "Koperasi/UMKM": 58,
+    "Hukum/Audit": 21,
+    "Konflik Publik": 4
+  },
+  "top_headlines": [
+    {
+      "title": "Ferry Juliantono Bidik Koperasi Desa Merah Putih Masuk Bisnis Energi - Aktual.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 04:00:07 GMT",
+      "link": "https://aktual.com/ferry-juliantono-bidik-koperasi-desa-merah-putih-masuk-bisnis-energi/"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan sedang mengembangkan sumber daya manusia untuk sektor teknologi baru. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 03:43:57 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-phat-trien-nguon-nhan-luc-cho-cac-nganh-cong-nghe-moi"
+    },
+    {
+      "title": "Gus Rivqy Desak Garuda Indonesia Berbenah Total, Kerugian Jadi Alarm Transformasi - rentak.id",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 01 Nov 2026 03:15:00 GMT",
+      "link": "https://rentak.id/gus-rivqy-desak-garuda-indonesia-berbenah-total-kerugian-jadi-alarm-transformasi/"
+    },
+    {
+      "title": "Kembangkan Produk Lokal, Kemendag Ajak Mahasiswa IPB jadi Eksportir Muda - Warta Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 02:53:00 GMT",
+      "link": "https://wartaekonomi.co.id/read644876/kembangkan-produk-lokal-kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda"
+    },
+    {
+      "title": "Danantara Jajaki Kerja Sama TIME Promosi Investasi Indonesia - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 02:40:00 GMT",
+      "link": "https://tirto.id/danantara-jajaki-kerja-sama-time-promosi-investasi-indonesia-hEsB"
+    },
+    {
+      "title": "KPPU Kanwil I Gandeng UINSU, Edukasi Mahasiswa soal Larangan Praktik Kartel - Waspada.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 01:54:27 GMT",
+      "link": "https://www.waspada.id/berita/kppu-kanwil-i-gandeng-uinsu-edukasi-mahasiswa-soal-larangan-praktik-kartel"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Merah Putih Masuk Rantai Pasok Energi Nasional - Sudutpandang.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 17:31:43 GMT",
+      "link": "https://sudutpandang.id/kemenkop-dorong-koperasi-merah-putih-masuk-rantai-pasok-energi-nasional/"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 17:17:14 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261101/Mjc0NDQ0"
+    },
+    {
+      "title": "Sadarestuwati: Nilai Keadilan Dalam Pancasila Harus Jadi Pedoman Setiap Pemimpin - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Sat, 31 Oct 2026 17:13:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/sadarestuwati-nilai-keadilan-dalam-pancasila-harus-jadi-pedoman-setiap-pemimpin-b2qemZbjej"
+    },
+    {
+      "title": "Kemendag ajak mahasiswa IPB jadi eksportir muda - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 17:13:00 GMT",
+      "link": "https://kalsel.antaranews.com/berita/542531/kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda"
+    },
+    {
+      "title": "BP Batam Perkuat Kepastian Usaha, Investasi Tumbuh 62,75 Persen - RRI.co.id",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 16:07:00 GMT",
+      "link": "https://rri.co.id/batam/regional/2861736/bp-batam-perkuat-kepastian-usaha-investasi-tumbuh-6275-persen"
+    },
+    {
+      "title": "Buka Pelatihan Koperasi di Banda Aceh, Ketua Harian Dekopin Pusat Minta Pengelola Tetap Optimis - Waspada.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 15:42:43 GMT",
+      "link": "https://www.waspada.id/berita/buka-pelatihan-koperasi-di-banda-aceh-ketua-harian-dekopin-pusat-minta-pengelola-tetap-optimis"
+    },
+    {
+      "title": "Pertamina Bidik Minyak Jelantah Koperasi Desa Jadi Bahan Bakar Pesawat - VOI.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 15:30:00 GMT",
+      "link": "https://voi.id/ekonomi/600823/pertamina-bidik-minyak-jelantah-koperasi-desa-jadi-bahan-bakar-pesawat"
+    },
+    {
+      "title": "Menkop dorong KDKMP masuk rantai pasok energi nasional - Antara News jatim",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 15:00:00 GMT",
+      "link": "https://jatim.antaranews.com/berita/1113835/menkop-dorong-kdkmp-masuk-rantai-pasok-energi-nasional"
+    },
+    {
+      "title": "Menkop dorong KDKMP masuk rantai pasok energi nasional - ANTARA News Kaltara",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 31 Oct 2026 14:50:39 GMT",
+      "link": "https://kaltara.antaranews.com/berita/525019/menkop-dorong-kdkmp-masuk-rantai-pasok-energi-nasional"
+    }
+  ]
+}
