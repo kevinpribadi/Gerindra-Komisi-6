@@ -1,14 +1,13 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-01T11:39:47.970316",
+  "generated_at": "2026-11-01T17:37:52.840386",
   "party_counts_7d": {
     "Gerindra": 31,
     "PDI-P": 27,
     "Golkar": 21,
     "NasDem": 2,
     "PKB": 20,
-    "PAN": 3,
-    "Demokrat": 1
+    "PAN": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
@@ -35,11 +34,11 @@
   "topic_counts_30d": {
     "bumn": 43,
     "danantara": 22,
-    "investasi": 46,
-    "ekspor": 14,
+    "investasi": 45,
     "perdagangan": 6,
-    "umkm": 13,
-    "koperasi": 39,
+    "ekspor": 13,
+    "umkm": 12,
+    "koperasi": 37,
     "merger-akuisisi": 5,
     "kartel-monopoli": 12,
     "impor": 4
@@ -88,17 +87,59 @@
   "early_warning_counts": {
     "Kinerja BUMN": 15,
     "Perdagangan": 35,
-    "Koperasi/UMKM": 55,
+    "Koperasi/UMKM": 53,
     "Hukum/Audit": 21,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Komnas HAM Desak Sinergi Lintas Kementerian Berantas Perdagangan Orang Modus Penipuan Online - republika.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 17:15:32 GMT",
+      "link": "https://news.republika.co.id/berita/tnu2lw8530000/komnas-ham-desak-sinergi-lintas-kementerian-berantas-perdagangan-orang-modus-penipuan-online"
+    },
+    {
+      "title": "Strategi Kemendag Memperluas Pasar Produk Lokal hingga Menjelang Harbolnas 2026 - patrolihukumindonesia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 14:47:37 GMT",
+      "link": "https://patrolihukumindonesia.com/strategi-kemendag-memperluas-pasar-produk-lokal-hingga-menjelang-harbolnas-2026/"
+    },
+    {
+      "title": "Sekretaris Kementerian Koperasi Tinjau KDKMP Kandai Dua, Dorong Penguatan Ekonomi Masyarakat - Gentra News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 14:24:29 GMT",
+      "link": "https://gentra.co.id/2026/11/01/sekretaris-kementerian-koperasi-tinjau-kdkmp-kandai-dua-dorong-penguatan-ekonomi-masyarakat/"
+    },
+    {
+      "title": "Harga Referensi Minyak Sawit Turun 6,07% pada November 2026 - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 13:59:55 GMT",
+      "link": "https://industri.kontan.co.id/news/harga-referensi-minyak-sawit-turun-607-pada-november-2026"
+    },
+    {
+      "title": "Keterlambatan Gaji Berlarut di Perum DAMRI, Karyawan Minta Kementerian BUMN dan Disnaker Turun Tangan - https://suryaindonesia.net/",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 12:09:00 GMT",
+      "link": "https://suryaindonesia.net/2026/11/01/keterlambatan-gaji-berlarut-di-perum-damri-karyawan-minta-kementerian-bumn-dan-disnaker-turun-tangan/"
+    },
     {
       "title": "Ekspor Korea Selatan mencapai puncak baru berkat terobosan di salah satu industri. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sun, 01 Nov 2026 11:03:11 GMT",
       "link": "https://www.vietnam.vn/id/xuat-khau-han-quoc-lap-dinh-moi-nho-cu-but-pha-cua-mot-nganh"
+    },
+    {
+      "title": "KPPU Kunjungi SPPG Dwikora Medan, Dorong Ekosistem Pengadaan Pangan Yang Sehat Dan Kompetitif - KLIK7TV",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 10:44:44 GMT",
+      "link": "https://klik7tv.co.id/kppu-kunjungi-sppg-dwikora-medan-dorong-ekosistem-pengadaan-pangan-yang-sehat-dan-kompetitif/"
     },
     {
       "title": "Tuntas Digelar, DTIIF 2026 Hasilkan Kemitraan Strategis untuk Industri Nasional - Industry.co.id",
@@ -155,48 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 01 Nov 2026 04:25:07 GMT",
       "link": "https://indoposco.id/2026/11/01/spirit-taawun-menkop-ajak-icmi-wujudkan-koperasi-kemandirian-umat-ekonomi-kerakyatan/"
-    },
-    {
-      "title": "Ferry Juliantono Bidik Koperasi Desa Merah Putih Masuk Bisnis Energi - Aktual.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 04:00:07 GMT",
-      "link": "https://aktual.com/ferry-juliantono-bidik-koperasi-desa-merah-putih-masuk-bisnis-energi/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan sedang mengembangkan sumber daya manusia untuk sektor teknologi baru. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 03:43:57 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-phat-trien-nguon-nhan-luc-cho-cac-nganh-cong-nghe-moi"
-    },
-    {
-      "title": "Gus Rivqy Desak Garuda Indonesia Berbenah Total, Kerugian Jadi Alarm Transformasi - rentak.id",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 01 Nov 2026 03:15:00 GMT",
-      "link": "https://rentak.id/gus-rivqy-desak-garuda-indonesia-berbenah-total-kerugian-jadi-alarm-transformasi/"
-    },
-    {
-      "title": "Kembangkan Produk Lokal, Kemendag Ajak Mahasiswa IPB jadi Eksportir Muda - Warta Ekonomi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 02:53:00 GMT",
-      "link": "https://wartaekonomi.co.id/read644876/kembangkan-produk-lokal-kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda"
-    },
-    {
-      "title": "Danantara Jajaki Kerja Sama TIME Promosi Investasi Indonesia - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 02:40:00 GMT",
-      "link": "https://tirto.id/danantara-jajaki-kerja-sama-time-promosi-investasi-indonesia-hEsB"
-    },
-    {
-      "title": "KPPU Kanwil I Gandeng UINSU, Edukasi Mahasiswa soal Larangan Praktik Kartel - Waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 01:54:27 GMT",
-      "link": "https://www.waspada.id/berita/kppu-kanwil-i-gandeng-uinsu-edukasi-mahasiswa-soal-larangan-praktik-kartel"
     }
   ]
 }
