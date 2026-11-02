@@ -1,17 +1,17 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-01T21:40:41.713677",
+  "generated_at": "2026-11-02T01:15:13.083971",
   "party_counts_7d": {
     "Gerindra": 31,
-    "PDI-P": 27,
+    "PDI-P": 26,
     "Golkar": 21,
     "NasDem": 2,
-    "PKB": 20,
+    "PKB": 19,
     "PAN": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 73,
+    "PDI-P": 74,
     "Golkar": 83,
     "NasDem": 9,
     "PKB": 46,
@@ -33,11 +33,11 @@
   },
   "topic_counts_30d": {
     "bumn": 43,
-    "danantara": 22,
+    "danantara": 23,
     "investasi": 44,
     "perdagangan": 6,
-    "ekspor": 12,
-    "umkm": 12,
+    "ekspor": 11,
+    "umkm": 13,
     "koperasi": 38,
     "merger-akuisisi": 5,
     "kartel-monopoli": 12,
@@ -57,7 +57,7 @@
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 10,
     "Ida Nurlaela": 4,
-    "Totok Hedi Santosa": 11,
+    "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 10,
@@ -86,12 +86,40 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 15,
-    "Perdagangan": 34,
-    "Koperasi/UMKM": 54,
-    "Hukum/Audit": 21,
+    "Perdagangan": 33,
+    "Koperasi/UMKM": 55,
+    "Hukum/Audit": 22,
     "Konflik Publik": 4
   },
   "top_headlines": [
+    {
+      "title": "Enam Pasar Butuh Revitalisasi Bertahap - SUARANTB.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 00:58:56 GMT",
+      "link": "https://suarantb.com/2026/11/02/enam-pasar-butuh-revitalisasi-bertahap/"
+    },
+    {
+      "title": "Keterbatasan Lahan Jadi Kendala Pembangunan Gerai Koperasi Merah Putih - SUARANTB.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 00:57:29 GMT",
+      "link": "https://suarantb.com/2026/11/02/keterbatasan-lahan-jadi-kendala-pembangunan-gerai-koperasi-merah-putih/"
+    },
+    {
+      "title": "KPPU Ingatkan SPPG Atur Pola Menu MBG - Bisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 00:54:27 GMT",
+      "link": "https://sumatra.bisnis.com/read/20261102/533/2017476/kppu-ingatkan-sppg-atur-pola-menu-mbg"
+    },
+    {
+      "title": "BPI Danantara Tegaskan Tak Ada Kucuran Dana Sponsorship di TIME100 Next Gala 2026 New York - Infokini.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 01 Nov 2026 23:53:22 GMT",
+      "link": "https://infokini.id/2026/11/02/bpi-danantara-tegaskan-tak-ada-kucuran-dana-sponsorship-di-time100-next-gala-2026-new-york/"
+    },
     {
       "title": "Kemenkop Libatkan Koperasi dalam Rantai Pasok Energi Nasional - Suara Independent News",
       "entity": "Kementerian Koperasi",
@@ -168,34 +196,6 @@
       "kind": "lembaga",
       "published": "Sun, 01 Nov 2026 10:44:44 GMT",
       "link": "https://klik7tv.co.id/kppu-kunjungi-sppg-dwikora-medan-dorong-ekosistem-pengadaan-pangan-yang-sehat-dan-kompetitif/"
-    },
-    {
-      "title": "Tuntas Digelar, DTIIF 2026 Hasilkan Kemitraan Strategis untuk Industri Nasional - Industry.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 09:17:00 GMT",
-      "link": "https://www.industry.co.id/read/158331/tuntas-digelar-dtiif-2026-hasilkan-kemitraan-strategis-untuk-industri-nasional"
-    },
-    {
-      "title": "KPPU KanwilI Bersinergi dengan UINSU Melalui Kuliah Umum - Oke Medan",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 09:13:36 GMT",
-      "link": "https://okemedan.com/2026/11/01/kppu-kanwili-bersinergi-dengan-uinsu-melalui-kuliah-umum/"
-    },
-    {
-      "title": "Kemendag Ajak Mahasiswa Jadi Eksportir Muda lewat Campuspreneur - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 08:10:00 GMT",
-      "link": "https://rri.co.id/nasional/2862416/kemendag-ajak-mahasiswa-jadi-eksportir-muda-lewat-campuspreneur"
-    },
-    {
-      "title": "Kunjungi SPPG Dwikora Medan, KPPU Dorong Persaingan Sehat dalam Pengadaan MBG - GoSumut.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 01 Nov 2026 06:34:00 GMT",
-      "link": "https://www.gosumut.com/berita/baca/2026/11/01/kunjungi-sppg-dwikora-medan-kppu-dorong-persaingan-sehat-dalam-pengadaan-mbg"
     }
   ]
 }
