@@ -1,19 +1,20 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-02T08:51:32.089934",
+  "generated_at": "2026-11-02T19:09:58.661021",
   "party_counts_7d": {
-    "Gerindra": 31,
-    "PDI-P": 23,
-    "Golkar": 21,
-    "NasDem": 1,
-    "PKB": 20,
-    "PAN": 3
+    "Gerindra": 30,
+    "PDI-P": 22,
+    "Golkar": 14,
+    "NasDem": 2,
+    "PKB": 21,
+    "PAN": 3,
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 74,
-    "Golkar": 82,
-    "NasDem": 8,
+    "PDI-P": 76,
+    "Golkar": 83,
+    "NasDem": 9,
     "PKB": 46,
     "PKS": 41,
     "PAN": 17,
@@ -32,15 +33,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 42,
-    "danantara": 21,
-    "investasi": 41,
-    "umkm": 15,
+    "bumn": 41,
+    "danantara": 23,
+    "investasi": 43,
+    "umkm": 16,
+    "perdagangan": 7,
     "ekspor": 12,
-    "perdagangan": 5,
-    "koperasi": 39,
-    "merger-akuisisi": 4,
+    "koperasi": 38,
     "kartel-monopoli": 12,
+    "merger-akuisisi": 3,
     "impor": 4
   },
   "member_counts_30d": {
@@ -50,16 +51,16 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
     "Mulyadi": 6,
-    "Adisatrya Suryo Sulisto": 6,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 11,
+    "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 10,
     "Ida Nurlaela": 4,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 8,
+    "Gde Sumarjaya Linggih": 9,
     "Ahmad Labib": 10,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 20,
@@ -67,7 +68,7 @@
     "Rizki Faisal": 14,
     "Muhammad Sarmuji": 4,
     "Randi Zulmariadi": 5,
-    "Rudi Hartono Bangun": 3,
+    "Rudi Hartono Bangun": 4,
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 14,
@@ -84,117 +85,117 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 15,
+    "Kinerja BUMN": 17,
+    "Koperasi/UMKM": 58,
     "Perdagangan": 32,
-    "Koperasi/UMKM": 57,
-    "Hukum/Audit": 20,
+    "Hukum/Audit": 22,
     "Konflik Publik": 4
   },
   "top_headlines": [
     {
-      "title": "Kolaborasi Telkom, NeutraDC, PLN, dan Pengelola Kawasan Industri Selaraskan Kebutuhan Energi - Inilah.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 08:29:00 GMT",
-      "link": "https://www.inilah.com/kolaborasi-telkom-neutradc-pln-dan-pengelola-kawasan-industri-selaraskan-kebutuhan-energi"
-    },
-    {
-      "title": "KPPU: Monopoli Lebih Mudah Terjadi di Daerah Dibandingkan Kota Besar - Koran Jakarta ®",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 08:24:00 GMT",
-      "link": "https://koran-jakarta.com/2026-11-02/kppu-monopoli-lebih-mudah-terjadi-di-daerah-dibandingkan-kota-besar"
-    },
-    {
-      "title": "KPPU Tinjau Pelaksanaan Program Makan Bergizi Gratis di SPPG Dwikora Medan - Seputar Sumut",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 08:15:49 GMT",
-      "link": "https://www.seputarsumut.com/berita/kppu-tinjau-pelaksanaan-program-makan-bergizi-gratis-di-sppg-dwikora-medan/"
-    },
-    {
-      "title": "Kemendag Tetapkan HR CPO November 2026 Sebesar USD978,90 per Ton, Bea Keluar Dikenakan USD124 - Sawit Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 08:01:35 GMT",
-      "link": "https://sawitindonesia.com/kemendag-tetapkan-hr-cpo-november-2026-sebesar-usd978-90-per-ton-bea-keluar-dikenakan-usd124"
-    },
-    {
-      "title": "Bahlil umumkan Indonesia belum bisa ekspor listrik - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 07:57:38 GMT",
-      "link": "https://www.antaranews.com/berita/5826287/bahlil-umumkan-indonesia-belum-bisa-ekspor-listrik"
-    },
-    {
-      "title": "Kemendag Perkuat Mutu 215 UMKM Sulawesi Selatan Lewat LAMANSITU, Siap Bersaing di Pasar Ekspor - Suara Pemerintah",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 07:36:36 GMT",
-      "link": "https://suarapemerintah.id/2026/11/kemendag-perkuat-mutu-215-umkm-sulawesi-selatan-lewat-lamansitu-siap-bersaing-di-pasar-ekspor/"
-    },
-    {
-      "title": "Pertamina Gandeng Koperasi Desa, Minyak Jelantah Disulap Jadi Bahan Baku Avtur - Satumedia.id",
+      "title": "Bendahara KDKMP di Pati jalani sertifikasi kompetensi - ANTARA News Jateng",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 07:24:39 GMT",
-      "link": "https://www.satumedia.id/news/34922/pertamina-gandeng-koperasi-desa-minyak-jelantah-disulap-jadi-bahan-baku-avtur/"
+      "published": "Mon, 02 Nov 2026 17:46:18 GMT",
+      "link": "https://jateng.antaranews.com/berita/651775/bendahara-kdkmp-di-pati-jalani-sertifikasi-kompetensi"
     },
     {
-      "title": "Gaet 3.000 Peserta, Forum DTIIF 2026 Lahirkan Kolaborasi Data Center hingga Motor Listrik - Stabilitas.id",
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 17:23:11 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261103/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 17:11:18 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261103/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Danantara Simpan Total Aset Rp140 Triliun, Bank Mandiri Jadi Penerima Terbesar - Warta Ekonomi",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 06:06:00 GMT",
-      "link": "https://www.stabilitas.id/gaet-3-000-peserta-forum-dtiif-2026-lahirkan-kolaborasi-data-center-hingga-motor-listrik/"
+      "published": "Mon, 02 Nov 2026 15:52:00 GMT",
+      "link": "https://wartaekonomi.co.id/read645160/danantara-simpan-total-aset-rp140-triliun-bank-mandiri-jadi-penerima-terbesar"
     },
     {
-      "title": "Darmadi Durianto: Pengelolaan SDA Harus Berpihak pada Rakyat, Bukan Oligarki - Kabarpolitik.com",
-      "entity": "Darmadi Durianto",
+      "title": "Mendag: Produk UMKM masuk ritel modern batu loncatan ke pasar global - ANTARA News Jawa Barat",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 14:24:39 GMT",
+      "link": "https://jabar.antaranews.com/berita/716591/mendag-produk-umkm-masuk-ritel-modern-batu-loncatan-ke-pasar-global"
+    },
+    {
+      "title": "Kemendag Dorong Mahasiswa IPB Kembangkan Bisnis Ekspor - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 14:08:59 GMT",
+      "link": "https://demokratis.co.id/kemendag-mahasiswa-ipb-bisnis-ekspor"
+    },
+    {
+      "title": "Fenomena Cancel Culture RANS Carnival Berpotensi Rugikan UMKM - Rmol.id",
+      "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
-      "published": "Mon, 02 Nov 2026 05:45:30 GMT",
-      "link": "https://kabarpolitik.com/darmadi-durianto-pengelolaan-sda-harus-berpihak-pada-rakyat-bukan-oligarki/"
+      "published": "Mon, 02 Nov 2026 14:02:25 GMT",
+      "link": "https://rmol.id/read/2026/11/02/727012/fenomena-cancel-culture-rans-carnival-berpotensi-rugikan-umkm"
     },
     {
-      "title": "TelkomGroup dan PLN Perkuat Infrastruktur Digital Nasional - konstruksimedia.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 04:39:40 GMT",
-      "link": "https://konstruksimedia.com/telkomgroup-dan-pln-perkuat-infrastruktur-digital-nasional/"
-    },
-    {
-      "title": "Benarkah Danantara ke Pasar Bursa Berdasar Business Judgement Rule? - Kedai Pena",
+      "title": "COO Danantara laporkan perkembangan kredit Himbara ke Presiden - ANTARA News Gorontalo",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 04:08:23 GMT",
-      "link": "https://www.kedaipena.com/tag/kepala-badan-pengaturan-bp-bumn/"
+      "published": "Mon, 02 Nov 2026 14:00:01 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/433363/coo-danantara-laporkan-perkembangan-kredit-himbara-ke-presiden"
     },
     {
-      "title": "Garuda Terus Merugi, DPR Desak Pembenahan Keuangan hingga Rute Penerbangan - Aktual.com",
+      "title": "Kariyasa Ingatkan TTB Tak Bergantung pada OPD untuk Serap Produk AMDK - kicknews.today",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 13:21:59 GMT",
+      "link": "https://kicknews.today/kariyasa-ingatkan-ttb-tak-bergantung-pada-opd-untuk-serap-produk-amdk/"
+    },
+    {
+      "title": "KPPU Ajukan Kasasi atas Putusan Pembatalan Dugaan Kartel Bunga Pindar - Integritas News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 13:04:20 GMT",
+      "link": "https://integritasnews.com/kppu-ajukan-kasasi-atas-putusan-pembatalan-dugaan-kartel-bunga-pindar/"
+    },
+    {
+      "title": "From Campus to the Global Market : Kemendag Ajak Mahasiswa IPB Jadi Eksportir - investor.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 13:03:40 GMT",
+      "link": "https://investor.id/business/460407/from-campus-to-the-global-market-kemendag-ajak-mahasiswa-ipb-jadi-eksportir"
+    },
+    {
+      "title": "Danantara dan Aset Negara: Investasi atau Beban Baru? - Beritakota",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 02 Nov 2026 12:58:00 GMT",
+      "link": "https://beritakota.id/danantara-dan-aset-negara-investasi-atau-beban-baru/"
+    },
+    {
+      "title": "Garuda Indonesia Terus Merugi, Rivqy Abdul Halim Desak Transformasi Besar-besaran - Kabarpolitik.com",
       "entity": "Rivqy Abdul Halim",
       "kind": "anggota",
-      "published": "Mon, 02 Nov 2026 04:00:49 GMT",
-      "link": "https://aktual.com/garuda-terus-merugi-dpr-desak-pembenahan-keuangan-hingga-rute-penerbangan/"
+      "published": "Mon, 02 Nov 2026 12:02:23 GMT",
+      "link": "https://kabarpolitik.com/garuda-indonesia-terus-merugi-rivqy-abdul-halim-desak-transformasi-besar-besaran/"
     },
     {
-      "title": "HR CPO November 2026 Turun 6,07 Persen, Bea Keluar Ditetapkan US$124 per Ton - InfoSAWIT",
+      "title": "3 Program Prioritas Kementerian Perdagangan - SinPo.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 03:47:38 GMT",
-      "link": "https://www.infosawit.com/2026/11/02/hr-cpo-november-2026-turun-607-persen-bea-keluar-ditetapkan-us124-per-ton/"
+      "published": "Mon, 02 Nov 2026 12:00:00 GMT",
+      "link": "https://tv.sinpo.id/detail/3-program-prioritas-kementerian-perdagangan"
     },
     {
-      "title": "Tekan Disparitas Harga Nataru, Kemendag Pasok 7 Ton Cabai Rawit ke Halmahera Utara - Info Ekonomi",
+      "title": "Harga CPO November 2026 Turun, Kemendag Tetapkan Bea Keluarnya - KabarBursa.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 03:34:24 GMT",
-      "link": "https://infoekonomi.id/2026/11/tekan-disparitas-harga-nataru-kemendag-pasok-7-ton-cabai-rawit-ke-halmahera-utara/"
-    },
-    {
-      "title": "Kemendag Kirim 7 Ton Cabai Rawit ke Halmahera Utara - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 03:18:23 GMT",
-      "link": "https://demokratis.co.id/kemendag-kirim-cabai-halmahera"
+      "published": "Mon, 02 Nov 2026 11:58:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/harga-cpo-november-2026-turun-kemendag-tetapkan-bea-keluarnya"
     }
   ]
 }
