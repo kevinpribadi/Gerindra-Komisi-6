@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-03T09:24:01.069395",
+  "generated_at": "2026-11-03T17:31:04.053810",
   "party_counts_7d": {
-    "Gerindra": 27,
-    "PDI-P": 15,
+    "Gerindra": 26,
+    "PDI-P": 13,
     "Golkar": 14,
     "NasDem": 1,
-    "PKB": 21,
+    "PKB": 19,
     "PKS": 1,
     "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 67,
-    "PDI-P": 76,
-    "Golkar": 85,
+    "PDI-P": 77,
+    "Golkar": 83,
     "NasDem": 9,
-    "PKB": 44,
+    "PKB": 45,
     "PKS": 42,
     "PAN": 16,
     "Demokrat": 31
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 40,
+    "bumn": 41,
     "danantara": 24,
-    "investasi": 42,
-    "ekspor": 14,
+    "investasi": 43,
+    "ekspor": 16,
+    "impor": 5,
+    "perdagangan": 6,
     "umkm": 17,
-    "perdagangan": 5,
     "koperasi": 43,
     "kartel-monopoli": 10,
-    "merger-akuisisi": 3,
-    "impor": 4
+    "merger-akuisisi": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,7 +52,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 8,
     "Mufti Anam": 3,
     "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
@@ -64,7 +64,7 @@
     "Gde Sumarjaya Linggih": 10,
     "Ahmad Labib": 10,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 20,
+    "Doni Akbar": 18,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 14,
     "Muhammad Sarmuji": 5,
@@ -72,7 +72,7 @@
     "Rudi Hartono Bangun": 4,
     "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 14,
+    "Nasim Khan": 15,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 11,
@@ -87,116 +87,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 37,
-    "Koperasi/UMKM": 60,
-    "Konflik Publik": 5,
+    "Perdagangan": 38,
+    "Koperasi/UMKM": 59,
+    "Konflik Publik": 6,
     "Hukum/Audit": 20
   },
   "top_headlines": [
     {
-      "title": "Menkop: ODA Smart Factory Korea-Indonesia Perkuat Transformasi Digital Koperasi - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 09:16:30 GMT",
-      "link": "https://indoposco.id/2026/11/03/menkop-oda-smart-factory-korea-indonesia-perkuat-transformasi-digital-koperasi/"
-    },
-    {
-      "title": "Lemhannas: Sabang Berpotensi Jadi Hub Logistik dan Ketahanan Energi Nasional - Waspada Aceh",
+      "title": "BPKS Sebut Sabang Siap Jadi Pusat Ekonomi, Minta Kepastian Hukum Investasi - Waspada Aceh",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 09:08:24 GMT",
-      "link": "https://waspadaaceh.com/lemhannas-sabang-berpotensi-jadi-hub-logistik-dan-ketahanan-energi-nasional/"
+      "published": "Tue, 03 Nov 2026 16:16:13 GMT",
+      "link": "https://waspadaaceh.com/bpks-sebut-sabang-siap-jadi-pusat-ekonomi-minta-kepastian-hukum-investasi/"
     },
     {
-      "title": "Wamendag dorong negara OKI perkuat kolaborasi ekonomi digital - ANTARA News Yogyakarta",
+      "title": "Zulkifli Soroti Kepastian Hukum untuk Dorong Investasi dan Pengembangan Sabang - Sudut Berita",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 16:04:05 GMT",
+      "link": "https://sudutberita.id/2026/11/03/zulkifli-soroti-kepastian-hukum-untuk-dorong-investasi-dan-pengembangan-sabang/"
+    },
+    {
+      "title": "Meningkatkan solusi manajemen perdagangan dan mendiversifikasi pasar impor dan ekspor. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 09:04:22 GMT",
-      "link": "https://jogja.antaranews.com/berita/865159/wamendag-dorong-negara-oki-perkuat-kolaborasi-ekonomi-digital"
+      "published": "Tue, 03 Nov 2026 15:52:05 GMT",
+      "link": "https://www.vietnam.vn/id/hoan-thien-cac-giai-phap-quan-tri-thuong-mai-da-dang-hoa-thi-truong-xuat-nhap-khau"
     },
     {
-      "title": "Gde Sumarjaya Linggih Tekankan Kewirausahaan Anak Muda sebagai Kunci Pertumbuhan Ekonomi Berkelanjutan - Golkarpedia",
-      "entity": "Gde Sumarjaya Linggih",
+      "title": "Kemendag gaet TFO tingkatkan pasar UKM Indonesia di Kanada - ANTARA News Jambi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 15:19:37 GMT",
+      "link": "https://jambi.antaranews.com/video/5829279/kemendag-gaet-tfo-tingkatkan-pasar-ukm-indonesia-di-kanada"
+    },
+    {
+      "title": "Danantara Mulai Bangun Kampung Haji di Makkah pada Desember 2026 - MetroTVNews.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 15:17:34 GMT",
+      "link": "https://www.metrotvnews.com/read/KdZCPEEg-danantara-mulai-bangun-kampung-haji-di-makkah-pada-desember-2026"
+    },
+    {
+      "title": "Laba BUMN Kuartal III 2026 Meningkat 20 Persen, Kepala BP BUMN Umumkan Pencapaian Positif - Inforiau",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 14:48:44 GMT",
+      "link": "https://www.inforiau.co/laba-bumn-kuartal-iii-2026-meningkat-20-persen-kepala-bp-bumn-umumkan-pencapaian-positif-11012"
+    },
+    {
+      "title": "Wali Kota Sabang Minta Kepastian Hukum untuk Perkuat Daya Tarik Investasi - distori.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 14:29:36 GMT",
+      "link": "https://distori.id/2026/11/03/wali-kota-sabang-minta-kepastian-hukum-untuk-perkuat-daya-tarik-investasi/"
+    },
+    {
+      "title": "Pembahasan RUU Perkoperasian Capai 80 Persen, Kemenkop Targetkan Rampung Tahun Ini - Kabarjoglo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 14:18:29 GMT",
+      "link": "https://kabarjoglo.com/2026/11/03/pembahasan-ruu-perkoperasian-capai-80-persen-kemenkop-targetkan-rampung-tahun-ini/"
+    },
+    {
+      "title": "Bumikan Semangat Ta'awun, Menteri Koperasi Gandeng ICMI Jadikan Koperasi Pilar Kemandirian - InfoPublik",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 14:03:00 GMT",
+      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/995788/bumikan-semangat-taawun-menteri-koperasi-gandeng-icmi-jadikan-koperasi-pilar-kemandirian"
+    },
+    {
+      "title": "Danantara Bakal Rilis Laporan Keuangan pada Bulan Ini - kontan.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 13:58:30 GMT",
+      "link": "https://nasional.kontan.co.id/news/danantara-bakal-rilis-laporan-keuangan-pada-bulan-ini"
+    },
+    {
+      "title": "YARA Kecam Menteri Pertanian yang Dinilai Abaikan Kekhususan Aceh: 250 Ton Beras Masyarakat Sabang Masih Tertahan - Atjeh Watch",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 13:25:14 GMT",
+      "link": "https://atjehwatch.com/2026/11/03/yara-kecam-menteri-pertanian-yang-dinilai-abaikan-kekhususan-aceh-250-ton-beras-masyarakat-sabang-masih-tertahan/"
+    },
+    {
+      "title": "Menkop: ODA Smart Factory Korea-Indonesia perkuat transformasi digital koperasi - Elshinta",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 12:50:56 GMT",
+      "link": "https://elshinta.com/kategori/42/manajemen/menkop-oda-smart-factory-korea-indonesia-perkuat-transformasi-digital-koperasi-183702"
+    },
+    {
+      "title": "Danantara Jajaki Investasi dengan 33 Perusahaan AS via USABC - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 12:20:00 GMT",
+      "link": "https://tirto.id/danantara-jajaki-investasi-dengan-33-perusahaan-as-via-usabc-hExv"
+    },
+    {
+      "title": "Andre Rosiade Salurkan 1.000 Paket Sembako dan Dua Alat Berat untuk Korban Banjir di Sumbar - Kabarpolitik.com",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Tue, 03 Nov 2026 08:54:20 GMT",
-      "link": "https://golkarpedia.com/gde-sumarjaya-linggih-tekankan-kewirausahaan-anak-muda-sebagai-kunci-pertumbuhan-ekonomi-berkelanjutan/"
+      "published": "Tue, 03 Nov 2026 12:05:44 GMT",
+      "link": "https://kabarpolitik.com/andre-rosiade-salurkan-1-000-paket-sembako-dan-dua-alat-berat-untuk-korban-banjir-di-sumbar/"
     },
     {
-      "title": "Menkop: ODA Smart Factory Korea-RI Perkuat Transformasi Digital Koperasi - detikNews",
-      "entity": "Kementerian Koperasi",
+      "title": "Gubernur Lemhannas RI: Sabang Penting bagi Ketahanan Energi Nasional - aceHTrend.com",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:32:11 GMT",
-      "link": "https://news.detik.com/berita/d-8736459/menkop-oda-smart-factory-korea-ri-perkuat-transformasi-digital-koperasi"
-    },
-    {
-      "title": "Ferry Juliantono Dorong Transformasi Teknologi Koperasi dan UKM Lewat Kerja Sama Indonesia-Korea Selatan - idisnews.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:27:00 GMT",
-      "link": "https://idisnews.co.id/berita/ferry-juliantono-dorong-transformasi-teknologi-koperasi-dan-ukm-lewat-kerja-sama-indonesia-korea-selatan"
-    },
-    {
-      "title": "RI Bidik Peluang Ekspor ke Negara OKI Lewat Ekonomi Digital, ini Strateginya - KabarBursa.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:27:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/ri-bidik-peluang-ekspor-ke-negara-oki-lewat-ekonomi-digital-ini-strateginya"
-    },
-    {
-      "title": "Maman Abdurrahman Koordinasikan Kenaikan Harga Tepung - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:19:19 GMT",
-      "link": "https://demokratis.co.id/maman-koordinasi-harga-tepung"
-    },
-    {
-      "title": "Laba BUMN Naik 20 Persen pada Kuartal III 2026 - kumparan.com - Kumparan.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:19:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/laba-bumn-naik-20-persen-pada-kuartal-iii-2026-28V8Q7CroAz"
-    },
-    {
-      "title": "Maman Koordinasikan Kenaikan Harga Tepung dengan Kemendag - bsinews.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 08:15:25 GMT",
-      "link": "https://bsinews.id/maman-koordinasikan-harga-tepung-kemendag"
-    },
-    {
-      "title": "Beras Fortifikasi Palsu di Sumut, KPPU Duga Ada Permainan Tata Niaga Beras - Bisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 07:59:23 GMT",
-      "link": "https://sumatra.bisnis.com/read/20261103/534/2017993/beras-fortifikasi-palsu-di-sumut-kppu-duga-ada-permainan-tata-niaga-beras"
-    },
-    {
-      "title": "30 Perusahaan dan Koperasi RI Terapkan Smart Factory Kerja Sama dengan Korea Selatan - kumparan.com - kumparan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 07:53:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/30-perusahaan-dan-koperasi-ri-terapkan-smart-factory-kerja-sama-dengan-korea-selatan-28V7dDVg0YX"
-    },
-    {
-      "title": "Dony Oskaria Apresiasi Huntara Senen, BUMN Diminta Pastikan Hunian Layak dan Aman Bagi Warga - detik suara rakyat",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 07:51:20 GMT",
-      "link": "https://detiksuararakyat.id/dony-oskaria-apresiasi-huntara-senen-bumn-diminta-pastikan-hunian-layak-dan-aman-bagi-warga/"
-    },
-    {
-      "title": "Harga Tepung Melonjak, Menteri UMKM Siap Koordinasi Operasi Pasar dengan Kemendag - kumparan.com - Kumparan.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 07:41:30 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/harga-tepung-melonjak-menteri-umkm-siap-koordinasi-operasi-pasar-dengan-kemendag-28V7s3D4uJk"
-    },
-    {
-      "title": "Kemendag Bidik Ekspor Handicraft USD39,12 Juta ke Kanada - Tirto.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 07:30:00 GMT",
-      "link": "https://tirto.id/kemendag-bidik-ekspor-handicraft-usd3912-juta-ke-kanada-hEwB"
+      "published": "Tue, 03 Nov 2026 12:02:16 GMT",
+      "link": "https://www.acehtrend.com/news/gubernur-lemhannas-ri-sabang-penting-bagi-ketahanan-energi-nasional/index.html"
     }
   ]
 }
