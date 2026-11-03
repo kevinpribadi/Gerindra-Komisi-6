@@ -1,9 +1,9 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-03T17:31:04.053810",
+  "generated_at": "2026-11-03T22:53:25.969693",
   "party_counts_7d": {
     "Gerindra": 26,
-    "PDI-P": 13,
+    "PDI-P": 12,
     "Golkar": 14,
     "NasDem": 1,
     "PKB": 19,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 41,
-    "danantara": 24,
-    "investasi": 43,
-    "ekspor": 16,
+    "bumn": 39,
+    "danantara": 21,
+    "investasi": 45,
+    "umkm": 18,
+    "ekspor": 15,
     "impor": 5,
     "perdagangan": 6,
-    "umkm": 17,
-    "koperasi": 43,
+    "koperasi": 42,
     "kartel-monopoli": 10,
     "merger-akuisisi": 3
   },
@@ -87,18 +87,53 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 38,
-    "Koperasi/UMKM": 59,
+    "Perdagangan": 39,
+    "Koperasi/UMKM": 58,
     "Konflik Publik": 6,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Harga Tepung UMKM: Maman Siapkan Koordinasi Pasar - JournalArta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 22:33:07 GMT",
+      "link": "https://journalarta.com/news/2026/11/04/harga-tepung-umkm-operasi-pasar/"
+    },
+    {
+      "title": "Harga Tepung Naik, Menteri UMKM Ingin Dikendalikan - feedberry.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 21:45:15 GMT",
+      "link": "https://feedberry.com/artikel/harga-tepung-naik-menteri-umkm-ingin-dikendalikan"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 17:33:44 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261104/Mjk5MTUy"
+    },
+    {
+      "title": "Donny Oskaria Pastikan Laporan Keuangan BUMN Rampung, Publikasi Tunggu Hasil Audit BPK - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 17:22:00 GMT",
+      "link": "https://wartaekonomi.co.id/read645466/donny-oskaria-pastikan-laporan-keuangan-bumn-rampung-publikasi-tunggu-hasil-audit-bpk"
+    },
     {
       "title": "BPKS Sebut Sabang Siap Jadi Pusat Ekonomi, Minta Kepastian Hukum Investasi - Waspada Aceh",
       "entity": "BPK Sabang",
       "kind": "lembaga",
       "published": "Tue, 03 Nov 2026 16:16:13 GMT",
       "link": "https://waspadaaceh.com/bpks-sebut-sabang-siap-jadi-pusat-ekonomi-minta-kepastian-hukum-investasi/"
+    },
+    {
+      "title": "Gubernur Lemhannas: Sabang Berpeluang Menjadi Hub Internasional - Meuseuraya.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 16:11:14 GMT",
+      "link": "https://www.meuseuraya.id/news/gubernur-lemhannas-sabang-berpeluang-menjadi-hub-internasional/amp.html"
     },
     {
       "title": "Zulkifli Soroti Kepastian Hukum untuk Dorong Investasi dan Pengembangan Sabang - Sudut Berita",
@@ -129,6 +164,13 @@
       "link": "https://www.metrotvnews.com/read/KdZCPEEg-danantara-mulai-bangun-kampung-haji-di-makkah-pada-desember-2026"
     },
     {
+      "title": "Zulkifli Dorong Kepastian Hukum Investasi, Ini Peluang Besar Sabang Jadi Hub Internasional » - dialeksis.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 15:00:00 GMT",
+      "link": "https://dialeksis.com/aceh/zulkifli-dorong-kepastian-hukum-investasi-ini-peluang-besar-sabang-jadi-hub-internasional/"
+    },
+    {
       "title": "Laba BUMN Kuartal III 2026 Meningkat 20 Persen, Kepala BP BUMN Umumkan Pencapaian Positif - Inforiau",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
@@ -155,48 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 03 Nov 2026 14:03:00 GMT",
       "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/995788/bumikan-semangat-taawun-menteri-koperasi-gandeng-icmi-jadikan-koperasi-pilar-kemandirian"
-    },
-    {
-      "title": "Danantara Bakal Rilis Laporan Keuangan pada Bulan Ini - kontan.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 13:58:30 GMT",
-      "link": "https://nasional.kontan.co.id/news/danantara-bakal-rilis-laporan-keuangan-pada-bulan-ini"
-    },
-    {
-      "title": "YARA Kecam Menteri Pertanian yang Dinilai Abaikan Kekhususan Aceh: 250 Ton Beras Masyarakat Sabang Masih Tertahan - Atjeh Watch",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 13:25:14 GMT",
-      "link": "https://atjehwatch.com/2026/11/03/yara-kecam-menteri-pertanian-yang-dinilai-abaikan-kekhususan-aceh-250-ton-beras-masyarakat-sabang-masih-tertahan/"
-    },
-    {
-      "title": "Menkop: ODA Smart Factory Korea-Indonesia perkuat transformasi digital koperasi - Elshinta",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 12:50:56 GMT",
-      "link": "https://elshinta.com/kategori/42/manajemen/menkop-oda-smart-factory-korea-indonesia-perkuat-transformasi-digital-koperasi-183702"
-    },
-    {
-      "title": "Danantara Jajaki Investasi dengan 33 Perusahaan AS via USABC - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 12:20:00 GMT",
-      "link": "https://tirto.id/danantara-jajaki-investasi-dengan-33-perusahaan-as-via-usabc-hExv"
-    },
-    {
-      "title": "Andre Rosiade Salurkan 1.000 Paket Sembako dan Dua Alat Berat untuk Korban Banjir di Sumbar - Kabarpolitik.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 03 Nov 2026 12:05:44 GMT",
-      "link": "https://kabarpolitik.com/andre-rosiade-salurkan-1-000-paket-sembako-dan-dua-alat-berat-untuk-korban-banjir-di-sumbar/"
-    },
-    {
-      "title": "Gubernur Lemhannas RI: Sabang Penting bagi Ketahanan Energi Nasional - aceHTrend.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 12:02:16 GMT",
-      "link": "https://www.acehtrend.com/news/gubernur-lemhannas-ri-sabang-penting-bagi-ketahanan-energi-nasional/index.html"
     }
   ]
 }
