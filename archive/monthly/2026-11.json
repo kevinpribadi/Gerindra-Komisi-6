@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-03T01:59:25.393803",
+  "generated_at": "2026-11-03T09:24:01.069395",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 21,
+    "Gerindra": 27,
+    "PDI-P": 15,
     "Golkar": 14,
-    "NasDem": 2,
+    "NasDem": 1,
     "PKB": 21,
     "PKS": 1,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 68,
-    "PDI-P": 77,
-    "Golkar": 83,
+    "Gerindra": 67,
+    "PDI-P": 76,
+    "Golkar": 85,
     "NasDem": 9,
-    "PKB": 46,
+    "PKB": 44,
     "PKS": 42,
-    "PAN": 17,
+    "PAN": 16,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 40,
-    "danantara": 23,
+    "danantara": 24,
     "investasi": 42,
-    "umkm": 16,
-    "perdagangan": 6,
-    "ekspor": 13,
-    "koperasi": 39,
-    "kartel-monopoli": 12,
+    "ekspor": 14,
+    "umkm": 17,
+    "perdagangan": 5,
+    "koperasi": 43,
+    "kartel-monopoli": 10,
     "merger-akuisisi": 3,
     "impor": 4
   },
@@ -51,34 +51,34 @@
     "Muhammad Husein Fadlulloh": 20,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 6,
+    "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 13,
+    "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 10,
     "Ida Nurlaela": 4,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 9,
+    "Gde Sumarjaya Linggih": 10,
     "Ahmad Labib": 10,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 20,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 4,
+    "Muhammad Sarmuji": 5,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 4,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 14,
-    "Ida Fauziyah": 5,
+    "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 11,
     "Ghufran": 1,
     "Ismail": 10,
-    "Nasril Bahar": 4,
+    "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 12,
     "Sartono": 9,
@@ -86,117 +86,117 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 17,
-    "Koperasi/UMKM": 57,
-    "Perdagangan": 33,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 37,
+    "Koperasi/UMKM": 60,
     "Konflik Publik": 5,
-    "Hukum/Audit": 22
+    "Hukum/Audit": 20
   },
   "top_headlines": [
     {
-      "title": "Darmadi Durianto: Pengelolaan SDA Harus Berpihak pada Rakyat, Bukan Oligarki - Kosadata",
-      "entity": "Darmadi Durianto",
-      "kind": "anggota",
-      "published": "Tue, 03 Nov 2026 01:18:06 GMT",
-      "link": "https://kosadata.com/darmadi-durianto-pengelolaan-sda-harus-berpihak-pada-rakyat-bukan-oligarki"
-    },
-    {
-      "title": "Bahlil Minta Danantara Tolak Lobi soal Ekspor Listrik - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 23:30:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/bahlil-minta-danantara-tolak-lobi-soal-ekspor-listrik-2303164"
-    },
-    {
-      "title": "Kemenkop Targetkan Koperasi Miliki Kilang Minyak Goreng Sendiri pada 2027 - Berita Koperasi",
+      "title": "Menkop: ODA Smart Factory Korea-Indonesia Perkuat Transformasi Digital Koperasi - indoposco.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 22:52:00 GMT",
-      "link": "https://www.beritakoperasi.com/kemenkop-targetkan-koperasi-miliki-kilang-minyak-goreng-sendiri-pada-2027/"
+      "published": "Tue, 03 Nov 2026 09:16:30 GMT",
+      "link": "https://indoposco.id/2026/11/03/menkop-oda-smart-factory-korea-indonesia-perkuat-transformasi-digital-koperasi/"
     },
     {
-      "title": "Bendahara KDKMP di Pati jalani sertifikasi kompetensi - ANTARA News Jateng",
+      "title": "Lemhannas: Sabang Berpotensi Jadi Hub Logistik dan Ketahanan Energi Nasional - Waspada Aceh",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 09:08:24 GMT",
+      "link": "https://waspadaaceh.com/lemhannas-sabang-berpotensi-jadi-hub-logistik-dan-ketahanan-energi-nasional/"
+    },
+    {
+      "title": "Wamendag dorong negara OKI perkuat kolaborasi ekonomi digital - ANTARA News Yogyakarta",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 09:04:22 GMT",
+      "link": "https://jogja.antaranews.com/berita/865159/wamendag-dorong-negara-oki-perkuat-kolaborasi-ekonomi-digital"
+    },
+    {
+      "title": "Gde Sumarjaya Linggih Tekankan Kewirausahaan Anak Muda sebagai Kunci Pertumbuhan Ekonomi Berkelanjutan - Golkarpedia",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Tue, 03 Nov 2026 08:54:20 GMT",
+      "link": "https://golkarpedia.com/gde-sumarjaya-linggih-tekankan-kewirausahaan-anak-muda-sebagai-kunci-pertumbuhan-ekonomi-berkelanjutan/"
+    },
+    {
+      "title": "Menkop: ODA Smart Factory Korea-RI Perkuat Transformasi Digital Koperasi - detikNews",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 17:46:18 GMT",
-      "link": "https://jateng.antaranews.com/berita/651775/bendahara-kdkmp-di-pati-jalani-sertifikasi-kompetensi"
+      "published": "Tue, 03 Nov 2026 08:32:11 GMT",
+      "link": "https://news.detik.com/berita/d-8736459/menkop-oda-smart-factory-korea-ri-perkuat-transformasi-digital-koperasi"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Ferry Juliantono Dorong Transformasi Teknologi Koperasi dan UKM Lewat Kerja Sama Indonesia-Korea Selatan - idisnews.co.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 17:23:11 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261103/Mjc0NDQ0"
+      "published": "Tue, 03 Nov 2026 08:27:00 GMT",
+      "link": "https://idisnews.co.id/berita/ferry-juliantono-dorong-transformasi-teknologi-koperasi-dan-ukm-lewat-kerja-sama-indonesia-korea-selatan"
     },
     {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 17:11:18 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261103/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Danantara Simpan Total Aset Rp140 Triliun, Bank Mandiri Jadi Penerima Terbesar - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 15:52:00 GMT",
-      "link": "https://wartaekonomi.co.id/read645160/danantara-simpan-total-aset-rp140-triliun-bank-mandiri-jadi-penerima-terbesar"
-    },
-    {
-      "title": "Mendag: Produk UMKM masuk ritel modern batu loncatan ke pasar global - ANTARA News Jawa Barat",
+      "title": "RI Bidik Peluang Ekspor ke Negara OKI Lewat Ekonomi Digital, ini Strateginya - KabarBursa.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 14:24:39 GMT",
-      "link": "https://jabar.antaranews.com/berita/716591/mendag-produk-umkm-masuk-ritel-modern-batu-loncatan-ke-pasar-global"
+      "published": "Tue, 03 Nov 2026 08:27:00 GMT",
+      "link": "https://www.kabarbursa.com/makro/ri-bidik-peluang-ekspor-ke-negara-oki-lewat-ekonomi-digital-ini-strateginya"
     },
     {
-      "title": "Kemendag Dorong Mahasiswa IPB Kembangkan Bisnis Ekspor - Demokratis.co.id",
+      "title": "Maman Abdurrahman Koordinasikan Kenaikan Harga Tepung - Demokratis.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 14:08:59 GMT",
-      "link": "https://demokratis.co.id/kemendag-mahasiswa-ipb-bisnis-ekspor"
+      "published": "Tue, 03 Nov 2026 08:19:19 GMT",
+      "link": "https://demokratis.co.id/maman-koordinasi-harga-tepung"
     },
     {
-      "title": "Fenomena Cancel Culture RANS Carnival Berpotensi Rugikan UMKM - Rmol.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Mon, 02 Nov 2026 14:02:25 GMT",
-      "link": "https://rmol.id/read/2026/11/02/727012/fenomena-cancel-culture-rans-carnival-berpotensi-rugikan-umkm"
-    },
-    {
-      "title": "COO Danantara laporkan perkembangan kredit Himbara ke Presiden - ANTARA News Gorontalo",
+      "title": "Laba BUMN Naik 20 Persen pada Kuartal III 2026 - kumparan.com - Kumparan.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 14:00:01 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/433363/coo-danantara-laporkan-perkembangan-kredit-himbara-ke-presiden"
+      "published": "Tue, 03 Nov 2026 08:19:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/laba-bumn-naik-20-persen-pada-kuartal-iii-2026-28V8Q7CroAz"
     },
     {
-      "title": "Kariyasa Ingatkan TTB Tak Bergantung pada OPD untuk Serap Produk AMDK - kicknews.today",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 13:21:59 GMT",
-      "link": "https://kicknews.today/kariyasa-ingatkan-ttb-tak-bergantung-pada-opd-untuk-serap-produk-amdk/"
-    },
-    {
-      "title": "KPPU Ajukan Kasasi atas Putusan Pembatalan Dugaan Kartel Bunga Pindar - Integritas News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 13:04:20 GMT",
-      "link": "https://integritasnews.com/kppu-ajukan-kasasi-atas-putusan-pembatalan-dugaan-kartel-bunga-pindar/"
-    },
-    {
-      "title": "From Campus to the Global Market : Kemendag Ajak Mahasiswa IPB Jadi Eksportir - investor.id",
+      "title": "Maman Koordinasikan Kenaikan Harga Tepung dengan Kemendag - bsinews.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 13:03:40 GMT",
-      "link": "https://investor.id/business/460407/from-campus-to-the-global-market-kemendag-ajak-mahasiswa-ipb-jadi-eksportir"
+      "published": "Tue, 03 Nov 2026 08:15:25 GMT",
+      "link": "https://bsinews.id/maman-koordinasikan-harga-tepung-kemendag"
     },
     {
-      "title": "Danantara dan Aset Negara: Investasi atau Beban Baru? - Beritakota",
-      "entity": "Danantara",
+      "title": "Beras Fortifikasi Palsu di Sumut, KPPU Duga Ada Permainan Tata Niaga Beras - Bisnis.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Mon, 02 Nov 2026 12:58:00 GMT",
-      "link": "https://beritakota.id/danantara-dan-aset-negara-investasi-atau-beban-baru/"
+      "published": "Tue, 03 Nov 2026 07:59:23 GMT",
+      "link": "https://sumatra.bisnis.com/read/20261103/534/2017993/beras-fortifikasi-palsu-di-sumut-kppu-duga-ada-permainan-tata-niaga-beras"
+    },
+    {
+      "title": "30 Perusahaan dan Koperasi RI Terapkan Smart Factory Kerja Sama dengan Korea Selatan - kumparan.com - kumparan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 07:53:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/30-perusahaan-dan-koperasi-ri-terapkan-smart-factory-kerja-sama-dengan-korea-selatan-28V7dDVg0YX"
+    },
+    {
+      "title": "Dony Oskaria Apresiasi Huntara Senen, BUMN Diminta Pastikan Hunian Layak dan Aman Bagi Warga - detik suara rakyat",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 07:51:20 GMT",
+      "link": "https://detiksuararakyat.id/dony-oskaria-apresiasi-huntara-senen-bumn-diminta-pastikan-hunian-layak-dan-aman-bagi-warga/"
+    },
+    {
+      "title": "Harga Tepung Melonjak, Menteri UMKM Siap Koordinasi Operasi Pasar dengan Kemendag - kumparan.com - Kumparan.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 07:41:30 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/harga-tepung-melonjak-menteri-umkm-siap-koordinasi-operasi-pasar-dengan-kemendag-28V7s3D4uJk"
+    },
+    {
+      "title": "Kemendag Bidik Ekspor Handicraft USD39,12 Juta ke Kanada - Tirto.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 07:30:00 GMT",
+      "link": "https://tirto.id/kemendag-bidik-ekspor-handicraft-usd3912-juta-ke-kanada-hEwB"
     }
   ]
 }
