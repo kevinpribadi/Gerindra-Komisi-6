@@ -1,13 +1,13 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-03T22:53:25.969693",
+  "generated_at": "2026-11-04T02:54:12.081132",
   "party_counts_7d": {
     "Gerindra": 26,
-    "PDI-P": 12,
+    "PDI-P": 11,
     "Golkar": 14,
     "NasDem": 1,
     "PKB": 19,
-    "PKS": 1,
+    "PKS": 2,
     "PAN": 1,
     "Demokrat": 1
   },
@@ -17,7 +17,7 @@
     "Golkar": 83,
     "NasDem": 9,
     "PKB": 45,
-    "PKS": 42,
+    "PKS": 43,
     "PAN": 16,
     "Demokrat": 31
   },
@@ -35,14 +35,14 @@
   },
   "topic_counts_30d": {
     "bumn": 39,
-    "danantara": 21,
+    "danantara": 23,
     "investasi": 45,
-    "umkm": 18,
+    "umkm": 19,
     "ekspor": 15,
     "impor": 5,
     "perdagangan": 6,
     "koperasi": 42,
-    "kartel-monopoli": 10,
+    "kartel-monopoli": 11,
     "merger-akuisisi": 3
   },
   "member_counts_30d": {
@@ -77,7 +77,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 11,
     "Ghufran": 1,
-    "Ismail": 10,
+    "Ismail": 11,
     "Nasril Bahar": 3,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 12,
@@ -87,12 +87,54 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 16,
-    "Perdagangan": 39,
-    "Koperasi/UMKM": 58,
+    "Perdagangan": 40,
+    "Koperasi/UMKM": 59,
     "Konflik Publik": 6,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 23
   },
   "top_headlines": [
+    {
+      "title": "Danantara Siapkan Proyek Strategis untuk Investor AS di G20 Miami - jurnas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 02:10:29 GMT",
+      "link": "https://www.jurnas.com/ekonomi/1668277/danantara-siapkan-proyek-strategis-untuk-investor-as-di-g20-miami/"
+    },
+    {
+      "title": "Danantara Mulai Bangun Kampung Haji Makkah Desember, Kantongi Novotel 1.461 Kamar - riaurealita.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 01:41:32 GMT",
+      "link": "https://riaurealita.com/news/detail/35201/danantara-mulai-bangun-kampung-haji-makkah-desember-kantongi-novotel-1461-kamar"
+    },
+    {
+      "title": "Harga Tepung Terigu Naik, Pemerintah Siapkan Opsi Operasi Pasar - Editor Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 01:09:13 GMT",
+      "link": "https://editorindonesia.com/harga-tepung-naik-operasi-pasar/"
+    },
+    {
+      "title": "Laba Bersih BUMN Melonjak 20% pada Kuartal III-2026, Danantara Siapkan Laporan Keuangan - tutur.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 00:28:46 GMT",
+      "link": "https://tutur.co.id/laba-bersih-bumn-melonjak-20-pada-kuartal-iii-2026-danantara-siapkan-laporan-keuangan/"
+    },
+    {
+      "title": "DPRD Surabaya Ingatkan Pemkot Lakukan Penertiban Pedagang Sesuai Hasil Rapat Komisi - suara indonesia",
+      "entity": "Ismail",
+      "kind": "anggota",
+      "published": "Tue, 03 Nov 2026 23:47:00 GMT",
+      "link": "https://suaraindonesia.co.id/news/news/6aea727cd19eb/DPRD-Surabaya-IngatkanPemkot-Lakukan-Penertiban-Pedagang-Sesuai-Hasil-Rapat-Komisi"
+    },
+    {
+      "title": "Harga Tepung Naik, Kementerian UMKM Buka Opsi Operasi Pasar - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 23:20:00 GMT",
+      "link": "https://rri.co.id/bisnis/2868934/harga-tepung-naik-kementerian-umkm-buka-opsi-operasi-pasar"
+    },
     {
       "title": "Harga Tepung UMKM: Maman Siapkan Koordinasi Pasar - JournalArta",
       "entity": "Kementerian Perdagangan",
@@ -108,11 +150,25 @@
       "link": "https://feedberry.com/artikel/harga-tepung-naik-menteri-umkm-ingin-dikendalikan"
     },
     {
+      "title": "Kemendag Kirim 7 Ton Cabai dari Jatim ke Halmahera Demi Tekan Harga - CNN Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 20:45:29 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261103135529-92-1422755/kemendag-kirim-7-ton-cabai-dari-jatim-ke-halmahera-demi-tekan-harga"
+    },
+    {
       "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 03 Nov 2026 17:33:44 GMT",
       "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261104/Mjk5MTUy"
+    },
+    {
+      "title": "Donny Oskaria Pastikan Laporan Keuangan BUMN Rampung, Publikasi Tunggu Hasil Audit BPK - Warta Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 03 Nov 2026 17:22:00 GMT",
+      "link": "https://wartaekonomi.co.id/amp/read645466/donny-oskaria-pastikan-laporan-keuangan-bumn-rampung-publikasi-tunggu-hasil-audit-bpk"
     },
     {
       "title": "Donny Oskaria Pastikan Laporan Keuangan BUMN Rampung, Publikasi Tunggu Hasil Audit BPK - Warta Ekonomi",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 03 Nov 2026 16:04:05 GMT",
       "link": "https://sudutberita.id/2026/11/03/zulkifli-soroti-kepastian-hukum-untuk-dorong-investasi-dan-pengembangan-sabang/"
-    },
-    {
-      "title": "Meningkatkan solusi manajemen perdagangan dan mendiversifikasi pasar impor dan ekspor. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 15:52:05 GMT",
-      "link": "https://www.vietnam.vn/id/hoan-thien-cac-giai-phap-quan-tri-thuong-mai-da-dang-hoa-thi-truong-xuat-nhap-khau"
-    },
-    {
-      "title": "Kemendag gaet TFO tingkatkan pasar UKM Indonesia di Kanada - ANTARA News Jambi",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 15:19:37 GMT",
-      "link": "https://jambi.antaranews.com/video/5829279/kemendag-gaet-tfo-tingkatkan-pasar-ukm-indonesia-di-kanada"
-    },
-    {
-      "title": "Danantara Mulai Bangun Kampung Haji di Makkah pada Desember 2026 - MetroTVNews.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 15:17:34 GMT",
-      "link": "https://www.metrotvnews.com/read/KdZCPEEg-danantara-mulai-bangun-kampung-haji-di-makkah-pada-desember-2026"
-    },
-    {
-      "title": "Zulkifli Dorong Kepastian Hukum Investasi, Ini Peluang Besar Sabang Jadi Hub Internasional » - dialeksis.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 15:00:00 GMT",
-      "link": "https://dialeksis.com/aceh/zulkifli-dorong-kepastian-hukum-investasi-ini-peluang-besar-sabang-jadi-hub-internasional/"
-    },
-    {
-      "title": "Laba BUMN Kuartal III 2026 Meningkat 20 Persen, Kepala BP BUMN Umumkan Pencapaian Positif - Inforiau",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 14:48:44 GMT",
-      "link": "https://www.inforiau.co/laba-bumn-kuartal-iii-2026-meningkat-20-persen-kepala-bp-bumn-umumkan-pencapaian-positif-11012"
-    },
-    {
-      "title": "Wali Kota Sabang Minta Kepastian Hukum untuk Perkuat Daya Tarik Investasi - distori.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 14:29:36 GMT",
-      "link": "https://distori.id/2026/11/03/wali-kota-sabang-minta-kepastian-hukum-untuk-perkuat-daya-tarik-investasi/"
-    },
-    {
-      "title": "Pembahasan RUU Perkoperasian Capai 80 Persen, Kemenkop Targetkan Rampung Tahun Ini - Kabarjoglo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 14:18:29 GMT",
-      "link": "https://kabarjoglo.com/2026/11/03/pembahasan-ruu-perkoperasian-capai-80-persen-kemenkop-targetkan-rampung-tahun-ini/"
-    },
-    {
-      "title": "Bumikan Semangat Ta'awun, Menteri Koperasi Gandeng ICMI Jadikan Koperasi Pilar Kemandirian - InfoPublik",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 03 Nov 2026 14:03:00 GMT",
-      "link": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/995788/bumikan-semangat-taawun-menteri-koperasi-gandeng-icmi-jadikan-koperasi-pilar-kemandirian"
     }
   ]
 }
