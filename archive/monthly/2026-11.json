@@ -1,12 +1,12 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-04T10:27:21.172855",
+  "generated_at": "2026-11-04T18:26:36.577537",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 11,
-    "Golkar": 14,
+    "Gerindra": 20,
+    "PDI-P": 9,
+    "Golkar": 13,
     "NasDem": 2,
-    "PKB": 19,
+    "PKB": 15,
     "PKS": 4,
     "Demokrat": 1
   },
@@ -16,7 +16,7 @@
     "Golkar": 82,
     "NasDem": 10,
     "PKB": 44,
-    "PKS": 44,
+    "PKS": 43,
     "PAN": 15,
     "Demokrat": 31
   },
@@ -34,14 +34,14 @@
   },
   "topic_counts_30d": {
     "bumn": 40,
+    "umkm": 17,
     "danantara": 22,
-    "investasi": 47,
-    "perdagangan": 8,
+    "investasi": 49,
     "ekspor": 14,
-    "umkm": 18,
+    "perdagangan": 10,
     "impor": 5,
     "koperasi": 43,
-    "kartel-monopoli": 9,
+    "kartel-monopoli": 11,
     "merger-akuisisi": 1
   },
   "member_counts_30d": {
@@ -74,7 +74,7 @@
     "Nasim Khan": 15,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 11,
+    "Rizal Bawazier": 10,
     "Ghufran": 1,
     "Ismail": 12,
     "Nasril Bahar": 2,
@@ -85,117 +85,117 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 17,
-    "Perdagangan": 41,
-    "Koperasi/UMKM": 58,
-    "Konflik Publik": 6,
-    "Hukum/Audit": 23
+    "Perdagangan": 38,
+    "Hukum/Audit": 24,
+    "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "Kemenkum-Kementerian Koperasi bangun interoperabilitas sistem kebijakan - ANTARA News Kalteng",
-      "entity": "Kementerian Koperasi",
+      "title": "Shopee Gandeng Kemendag RI & Mitra Logistik Perkuat Ekosistem Ekspor Lewat ‘Jalan Global Kreasi Lokal’ - Olenka",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 10:18:39 GMT",
-      "link": "https://kalteng.antaranews.com/berita/849515/kemenkum-kementerian-koperasi-bangun-interoperabilitas-sistem-kebijakan"
+      "published": "Wed, 04 Nov 2026 16:50:00 GMT",
+      "link": "https://olenka.id/shopee-gandeng-kemendag-ri-mitra-logistikperkuat-ekosistem-ekspor-lewat-jalan-global-kreasi-lokal"
     },
     {
-      "title": "Andre Rosiade Siap Tanggung Biaya Perawatan Gustina Putri, Gadis yang 10 Tahun Terbaring Sakit - kumparan.com - Kumparan.com",
+      "title": "JAM PIDSUS Periksa Pejabat Kementerian Perdagangan, Dalami Dugaan Korupsi Tata Kelola Nikel - Monitor Pos",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 16:29:00 GMT",
+      "link": "https://www.monitorpos.net/2026/11/jam-pidsus-periksa-pejabat-kementerian.html"
+    },
+    {
+      "title": "KPPU Tetapkan Program Kepatuhan Persaingan Usaha Avian - Demokratis.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 16:17:23 GMT",
+      "link": "https://demokratis.co.id/kppu-kepatuhan-persaingan-usaha-avian"
+    },
+    {
+      "title": "Kuasai 26 Persen Pasar Cat Nasional, Avia Kantongi Penetapan KPPU 5 Tahun - Kompas.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 16:11:00 GMT",
+      "link": "https://www.kompas.com/properti/read/2026/11/04/231135921/kuasai-26-persen-pasar-cat-nasional-avia-kantongi-penetapan-kppu-5"
+    },
+    {
+      "title": "China berjanji kurangi ketegangan perdagangan dengan Kanada - Investing.com Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 15:49:48 GMT",
+      "link": "https://id.investing.com/news/economy-news/china-berjanji-kurangi-ketegangan-perdagangan-dengan-kanada-3117419"
+    },
+    {
+      "title": "Agrinas Palma Buka Peluang UMKM Masuk Rantai Pasok BUMN - MetroTVNews.com",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 14:47:55 GMT",
+      "link": "https://www.metrotvnews.com/read/kELCyqx9-agrinas-palma-buka-peluang-umkm-masuk-rantai-pasok-bumn"
+    },
+    {
+      "title": "Kejagung Periksa Pegawai Kemendag Terkait Korupsi Nikel PT CNI Rp401 Miliar - jurnas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 14:09:27 GMT",
+      "link": "https://www.jurnas.com/news/1668341/kejagung-periksa-pegawai-kemendag-terkait-korupsi-nikel-pt-cni-rp401-miliar/"
+    },
+    {
+      "title": "Kepatuhan Persaingan Usaha Dukung Pertumbuhan Jangka Panjang Perusahaan - MetroTVNews.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 14:08:13 GMT",
+      "link": "https://www.metrotvnews.com/read/ba4Cv5m4-kepatuhan-persaingan-usaha-dukung-pertumbuhan-jangka-panjang-perusahaan"
+    },
+    {
+      "title": "Avian tegaskan komitmen terhadap persaingan bisnis yang sehat - Antara News jatim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 13:57:02 GMT",
+      "link": "https://jatim.antaranews.com/berita/1115403/avian-tegaskan-komitmen-terhadap-persaingan-bisnis-yang-sehat"
+    },
+    {
+      "title": "Andre Rosiade Temui Menteri PU, Bahas Percepatan Proyek Jalan-Jembatan di Sumbar - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 10:11:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-siap-tanggung-biaya-perawatan-gustina-putri-gadis-yang-10-tahun-terbaring-sakit-28VYquX4PKV"
+      "published": "Wed, 04 Nov 2026 13:25:03 GMT",
+      "link": "https://news.detik.com/berita/d-8738712/andre-rosiade-temui-menteri-pu-bahas-percepatan-proyek-jalan-jembatan-di-sumbar"
     },
     {
-      "title": "Wujud Komitmen Presiden Prabowo, BUMN Bangun Huntara Senen untuk Warga Bantaran Rel - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:58:00 GMT",
-      "link": "https://investortrust.id/esg/121543/wujud-komitmen-presiden-prabowo-bumn-bangun-huntara-senen-untuk-warga-bantaran-rel"
-    },
-    {
-      "title": "Wujud Komitmen Presiden Prabowo, BUMN Bangun Huntara Senen untuk Warga Bantaran Rel - InvestorTrust",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:58:00 GMT",
-      "link": "https://investortrust.id/esg/121543/wujud-komitmen-presiden-prabowo-bumn-bangun-huntara-senen-untuk-warga-bantaran-rel"
-    },
-    {
-      "title": "Harga Sepeda Motor Diharapkan Tetap Terjangkau di Tengah Penerapan ABS - Media Indonesia",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:46:36 GMT",
-      "link": "https://mediaindonesia.com/otomotif/952270/harga-sepeda-motor-diharapkan-tetap-terjangkau-di-tengah-penerapan-abs"
-    },
-    {
-      "title": "Kurs rupiah dipengaruhi sentimen rilis surplus perdagangan Indonesia - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:44:18 GMT",
-      "link": "https://www.antaranews.com/berita/5831527/kurs-rupiah-dipengaruhi-sentimen-rilis-surplus-perdagangan-indonesia"
-    },
-    {
-      "title": "Pajak Digital Tembus Rp58 Triliun, DPR Ingatkan Jangan Bebani Konsumen dan UMKM - Beritakota",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 09:44:00 GMT",
-      "link": "https://beritakota.id/pajak-digital-tembus-rp58-triliun-dpr-ingatkan-jangan-bebani-konsumen-dan-umkm/"
-    },
-    {
-      "title": "Wali Kota: Kepastian Hukum Dorong Investasi dan Pengembangan Sabang - Waspada.id",
+      "title": "Wali Kota Sabang Soroti Kepastian Hukum untuk Dorong Investasi dan Pengembangan Sabang - Waspada Online",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:31:19 GMT",
-      "link": "https://www.waspada.id/berita/wali-kota-kepastian-hukum-dorong-investasi-dan-pengembangan-sabang"
+      "published": "Wed, 04 Nov 2026 13:01:29 GMT",
+      "link": "https://waspada.co.id/wali-kota-sabang-soroti-kepastian-hukum-untuk-dorong-investasi-dan-pengembangan-sabang/"
     },
     {
-      "title": "Wali Kota Lhokseumawe Usulkan Percepatan Pemulihan Pasar Rakyat ke Kemendag - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:18:00 GMT",
-      "link": "https://rri.co.id/lhokseumawe/asta-cita/2870745/wali-kota-lhokseumawe-usulkan-percepatan-pemulihan-pasar-rakyat-ke-kemendag"
-    },
-    {
-      "title": "Ahmad Labib Ajak Petani dan Pembudidaya Ikan Manfaatkan Teknologi IoT - Golkarpedia",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 09:15:23 GMT",
-      "link": "https://golkarpedia.com/ahmad-labib-ajak-petani-dan-pembudidaya-ikan-manfaatkan-teknologi-iot/"
-    },
-    {
-      "title": "Tingkatkan Keselamatan Motor, BPKN Minta Insentif Disiapkan - RM.ID",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 09:05:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/333023/tingkatkan-keselamatan-motor-bpkn-minta-insentif-disiapkan"
-    },
-    {
-      "title": "Avian Brands Kantongi Program Kepatuhan Persaingan Usaha KPPU - Demokratis.co.id",
+      "title": "Punya 182 Titik Distribusi, Avian Brands Perkuat Pengawasan Persaingan Usaha - Warta Ekonomi",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 08:32:22 GMT",
-      "link": "https://demokratis.co.id/avian-brands-kepatuhan-persaingan-usaha"
+      "published": "Wed, 04 Nov 2026 12:35:00 GMT",
+      "link": "https://wartaekonomi.co.id/read645687/punya-182-titik-distribusi-avian-brands-perkuat-pengawasan-persaingan-usaha"
     },
     {
-      "title": "Kepatuhan Persaingan Usaha Fondasi Pertumbuhan Avian Brands - investor.id",
+      "title": "Raih Sertifikasi Kepatuhan KPPU, AVIA Perkuat Komitmen Integritas - Emitennews.com",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 08:29:14 GMT",
-      "link": "https://investor.id/business/460684/kepatuhan-persaingan-usaha-fondasi-pertumbuhan-avian-brands"
+      "published": "Wed, 04 Nov 2026 12:01:00 GMT",
+      "link": "https://emitennews.com/news/raih-sertifikasi-kepatuhan-kppu-avia-perkuat-komitmen-integritas"
     },
     {
-      "title": "Massa Gelar Aksi di NasDem Tower, Desak Partai Tindaklanjuti Dugaan KDRT Rudi Hartono Bangun - Aktual.com",
-      "entity": "Rudi Hartono Bangun",
-      "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 08:27:48 GMT",
-      "link": "https://aktual.com/massa-gelar-aksi-di-nasdem-tower-desak-partai-tindaklanjuti-dugaan-kdrt-rudi-hartono-bangun/"
+      "title": "Sabang Siapkan Karpet Merah bagi Investor - RRI.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 11:26:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2868987/sabang-siapkan-karpet-merah-bagi-investor"
     },
     {
-      "title": "Adisatrya Apresiasi Inovasi Kopi Susu Kambing, Dorong Potensi Ekonomi Desa - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 08:14:08 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-apresiasi-inovasi-kopi-susu-kambing-dorong-potensi-ekonomi-desa-b2qepZbjjo"
+      "title": "Petani Kopi Tapal Kuda Difasilitasi Bentuk Koperasi Produsen - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 11:24:00 GMT",
+      "link": "https://www.beritakoperasi.com/petani-kopi-tapal-kuda-difasilitasi-bentuk-koperasi-produsen/"
     }
   ]
 }
