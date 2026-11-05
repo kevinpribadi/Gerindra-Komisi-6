@@ -1,19 +1,19 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-05T00:08:28.786695",
+  "generated_at": "2026-11-05T07:41:38.609872",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 18,
     "PDI-P": 9,
-    "Golkar": 13,
+    "Golkar": 10,
     "NasDem": 2,
-    "PKB": 15,
-    "PKS": 4,
-    "Demokrat": 1
+    "PKB": 8,
+    "PKS": 5,
+    "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 67,
-    "PDI-P": 77,
-    "Golkar": 82,
+    "Gerindra": 69,
+    "PDI-P": 76,
+    "Golkar": 80,
     "NasDem": 10,
     "PKB": 44,
     "PKS": 43,
@@ -33,25 +33,24 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 40,
-    "umkm": 18,
-    "danantara": 21,
-    "investasi": 49,
+    "bumn": 41,
+    "umkm": 19,
+    "danantara": 24,
+    "investasi": 51,
     "ekspor": 13,
     "perdagangan": 10,
-    "impor": 5,
     "koperasi": 43,
-    "kartel-monopoli": 9,
-    "merger-akuisisi": 1
+    "kartel-monopoli": 8,
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 20,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 16,
-    "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 8,
+    "Kawendra Lukistian": 17,
+    "Mulyadi": 6,
+    "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
     "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
@@ -63,10 +62,10 @@
     "Gde Sumarjaya Linggih": 10,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 18,
+    "Doni Akbar": 17,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 3,
+    "Muhammad Sarmuji": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
@@ -86,116 +85,116 @@
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
-    "Kinerja BUMN": 17,
-    "Perdagangan": 38,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 36,
     "Hukum/Audit": 24,
     "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "KPPU Kanwil V dan DPMPTSP Kaltim perkuat sinergi mitra UMKM-korporasi - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
-      "entity": "KPPU",
+      "title": "BP BUMN mendorong peningkatan kapasitas produksi industri alutsista - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 23:39:52 GMT",
-      "link": "https://kaltim.antaranews.com/berita/270347/kppu-kanwil-v-dan-dpmptsp-kaltim-perkuat-sinergi-mitra-umkm-korporasi"
+      "published": "Thu, 05 Nov 2026 07:35:56 GMT",
+      "link": "https://kupang.antaranews.com/berita/204495/bp-bumn-mendorong-peningkatan-kapasitas-produksi-industri-alutsista"
     },
     {
-      "title": "Avian Brands (AVIA) Lolos Penilaian KPPU, Raih Sertifikasi Kepatuhan - Industry.co.id",
-      "entity": "KPPU",
+      "title": "BP BUMN-Danantara Kembangkan Industri Unggas Modern Berbasis Teknologi - jurnas.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 23:16:00 GMT",
-      "link": "https://www.industry.co.id/read/158575/avian-brands-avia-lolos-penilaian-kppu-raih-sertifikasi-kepatuhan"
+      "published": "Thu, 05 Nov 2026 07:30:00 GMT",
+      "link": "https://www.jurnas.com/ekonomi/1668369/bp-bumn-danantara-kembangkan-industri-unggas-modern-berbasis-teknologi/"
     },
     {
-      "title": "Menkop Ferry Juliantono Temui Ketum Ormas Nasional, Bahas Koperasi dan Tantangan Ekonomi - Indragirione.com",
+      "title": "Danantara Siapkan Standar Baru Peternakan Ayam Modern - Warta Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:42:00 GMT",
+      "link": "https://wartaekonomi.co.id/read645852/danantara-siapkan-standar-baru-peternakan-ayam-modern"
+    },
+    {
+      "title": "Danantara Siapkan Jurus Hidupkan Lagi Industri Tekstil RI - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:37:26 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261105132142-17-782619/danantara-siapkan-jurus-hidupkan-lagi-industri-tekstil-ri"
+    },
+    {
+      "title": "4 Pertimbangan Hakim Batalkan Putusan KPPU Soal Penetapan Bunga Pinjol - Hukumonline",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:37:14 GMT",
+      "link": "https://www.hukumonline.com/berita/a/4-pertimbangan-hakim-batalkan-putusan-kppu-soal-penetapan-bunga-pinjol-lt6aec1efa65187/"
+    },
+    {
+      "title": "DPR Restui Langkah Danantara Jadi 'Induk' Pengayom Industri Tekstil Nasional - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:35:00 GMT",
+      "link": "https://investortrust.id/business/121628/dpr-restui-langkah-danantara-jadi-induk-pengayom-industri-tekstil-nasional"
+    },
+    {
+      "title": "BlackRock hingga Brookfield Bakal Kumpul di Forum Investasi Danantara di Bali - NusantaraTV",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:34:30 GMT",
+      "link": "https://www.nusantaratv.com/finance/blackrock-hingga-brookfield-bakal-kumpul-di-forum-investasi-danantara-di-bali"
+    },
+    {
+      "title": "Danantara menyiapkan industri unggas berteknologi modern - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 06:04:55 GMT",
+      "link": "https://kupang.antaranews.com/berita/204475/danantara-menyiapkan-industri-unggas-berteknologi-modern"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 23:02:01 GMT",
-      "link": "https://www.indragirione.com/2026/11/menkop-ferry-juliantono-temui-ketum-ormas-nasional-bahas-koperasi-dan-tantangan-ekonomi"
+      "published": "Thu, 05 Nov 2026 05:55:44 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 20:59:58 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261105/Mjc0NDQ0"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 19:26:41 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261105/Mjk5MTUy"
-    },
-    {
-      "title": "Mendag Busan Ungkap Penyebab Menyusutnya Surplus Dagang RI - Pasardana",
+      "title": "Mendag Cari Solusi agar UMKM NTB Bisa Ekspor Langsung - RRI.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 18:22:00 GMT",
-      "link": "https://pasardana.id/news/2026/11/5/mendag-busan-ungkap-penyebab-menyusutnya-surplus-dagang-ri"
+      "published": "Thu, 05 Nov 2026 05:54:00 GMT",
+      "link": "https://rri.co.id/mataram/nasional/2872698/mendag-cari-solusi-agar-umkm-ntb-bisa-ekspor-langsung"
     },
     {
-      "title": "Shopee Gandeng Kemendag RI & Mitra Logistik Perkuat Ekosistem Ekspor Lewat ‘Jalan Global Kreasi Lokal’ - Olenka",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 16:50:00 GMT",
-      "link": "https://olenka.id/shopee-gandeng-kemendag-ri-mitra-logistikperkuat-ekosistem-ekspor-lewat-jalan-global-kreasi-lokal"
+      "title": "Kawendra Lukistian: Jangan Terkecoh Hoaks Dasco Jadi Wapres, Usut Tuntas Penyadapan Prabowo - kumparan.com - kumparan",
+      "entity": "Kawendra Lukistian",
+      "kind": "anggota",
+      "published": "Thu, 05 Nov 2026 04:59:00 GMT",
+      "link": "https://kumparan.com/kumparannews/kawendra-lukistian-jangan-terkecoh-hoaks-dasco-jadi-wapres-usut-tuntas-penyadapan-prabowo-28VrzFOLHkd"
     },
     {
-      "title": "JAM PIDSUS Periksa Pejabat Kementerian Perdagangan, Dalami Dugaan Korupsi Tata Kelola Nikel - Monitor Pos",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 16:29:00 GMT",
-      "link": "https://www.monitorpos.net/2026/11/jam-pidsus-periksa-pejabat-kementerian.html"
-    },
-    {
-      "title": "KPPU Tetapkan Program Kepatuhan Persaingan Usaha Avian - Demokratis.co.id",
+      "title": "PT Torang Multi Indo Soroti Dugaan Persekongkolan Vertikal, Pemeriksaan KPPU dan Potensi Pengembangan Temuan kepada APH - Waspada.id",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 16:17:23 GMT",
-      "link": "https://demokratis.co.id/kppu-kepatuhan-persaingan-usaha-avian"
+      "published": "Thu, 05 Nov 2026 04:53:56 GMT",
+      "link": "https://www.waspada.id/berita/pt-torang-multi-indo-soroti-dugaan-persekongkolan-vertikal-pemeriksaan-kppu-dan-potensi-pengembangan-temuan-kepada-aph"
     },
     {
-      "title": "Kuasai 26 Persen Pasar Cat Nasional, Avia Kantongi Penetapan KPPU 5 Tahun - Kompas.com",
+      "title": "Menteri Koperasi Ferry Juliantono Bertemu Pimpinan Ormas Nasional, Bahas Penguatan Koperasi dan Kemandirian Ekonomi Masyarakat - DETIK Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 04:18:00 GMT",
+      "link": "https://www.detikindonesia.co.id/menteri-koperasi-ferry-juliantono-bertemu-pimpinan-ormas-nasional-bahas-penguatan-koperasi-dan-kemandirian-ekonomi-masyarakat/"
+    },
+    {
+      "title": "Inovasi SeepsPro, Cara PHE Tingkatkan Temuan Discovery dan Produksi Migas - OG INDONESIA",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 03:59:36 GMT",
+      "link": "http://www.ogindonesia.com/2026/11/inovasi-seepspro-cara-phe-tingkatkan.html"
+    },
+    {
+      "title": "Raih Sertifikasi Kepatuhan KPPU, AVIA Perkuat Komitmen Integritas - Lotus Andalan Sekuritas",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 16:11:00 GMT",
-      "link": "https://www.kompas.com/properti/read/2026/11/04/231135921/kuasai-26-persen-pasar-cat-nasional-avia-kantongi-penetapan-kppu-5"
-    },
-    {
-      "title": "China berjanji kurangi ketegangan perdagangan dengan Kanada - Investing.com Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 15:49:48 GMT",
-      "link": "https://id.investing.com/news/economy-news/china-berjanji-kurangi-ketegangan-perdagangan-dengan-kanada-3117419"
-    },
-    {
-      "title": "Agrinas Palma Buka Peluang UMKM Masuk Rantai Pasok BUMN - MetroTVNews.com",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 14:47:55 GMT",
-      "link": "https://www.metrotvnews.com/read/kELCyqx9-agrinas-palma-buka-peluang-umkm-masuk-rantai-pasok-bumn"
-    },
-    {
-      "title": "Strategi Avian (AVIA) Perkuat Kepatuhan Persaingan Usaha - Bisnis.com - Market",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 14:23:00 GMT",
-      "link": "https://market.bisnis.com/read/20261104/192/2018575/strategi-avian-avia-perkuat-kepatuhan-persaingan-usaha"
-    },
-    {
-      "title": "Kejagung Periksa Pegawai Kemendag Terkait Korupsi Nikel PT CNI Rp401 Miliar - jurnas.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 14:09:27 GMT",
-      "link": "https://www.jurnas.com/news/1668341/kejagung-periksa-pegawai-kemendag-terkait-korupsi-nikel-pt-cni-rp401-miliar/"
-    },
-    {
-      "title": "Kepatuhan Persaingan Usaha Dukung Pertumbuhan Jangka Panjang Perusahaan - MetroTVNews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 14:08:13 GMT",
-      "link": "https://www.metrotvnews.com/read/ba4Cv5m4-kepatuhan-persaingan-usaha-dukung-pertumbuhan-jangka-panjang-perusahaan"
+      "published": "Thu, 05 Nov 2026 03:49:44 GMT",
+      "link": "https://lotussekuritas.com/news/192695/Raih-Sertifikasi-Kepatuhan-KPPU,-AVIA-Perkuat-Komitmen-Integritas"
     }
   ]
 }
