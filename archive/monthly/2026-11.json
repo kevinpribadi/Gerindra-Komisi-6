@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-04T18:26:36.577537",
+  "generated_at": "2026-11-05T00:08:28.786695",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 9,
@@ -34,14 +34,14 @@
   },
   "topic_counts_30d": {
     "bumn": 40,
-    "umkm": 17,
-    "danantara": 22,
+    "umkm": 18,
+    "danantara": 21,
     "investasi": 49,
-    "ekspor": 14,
+    "ekspor": 13,
     "perdagangan": 10,
     "impor": 5,
     "koperasi": 43,
-    "kartel-monopoli": 11,
+    "kartel-monopoli": 9,
     "merger-akuisisi": 1
   },
   "member_counts_30d": {
@@ -85,13 +85,55 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 57,
+    "Koperasi/UMKM": 58,
     "Kinerja BUMN": 17,
     "Perdagangan": 38,
     "Hukum/Audit": 24,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "KPPU Kanwil V dan DPMPTSP Kaltim perkuat sinergi mitra UMKM-korporasi - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 23:39:52 GMT",
+      "link": "https://kaltim.antaranews.com/berita/270347/kppu-kanwil-v-dan-dpmptsp-kaltim-perkuat-sinergi-mitra-umkm-korporasi"
+    },
+    {
+      "title": "Avian Brands (AVIA) Lolos Penilaian KPPU, Raih Sertifikasi Kepatuhan - Industry.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 23:16:00 GMT",
+      "link": "https://www.industry.co.id/read/158575/avian-brands-avia-lolos-penilaian-kppu-raih-sertifikasi-kepatuhan"
+    },
+    {
+      "title": "Menkop Ferry Juliantono Temui Ketum Ormas Nasional, Bahas Koperasi dan Tantangan Ekonomi - Indragirione.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 23:02:01 GMT",
+      "link": "https://www.indragirione.com/2026/11/menkop-ferry-juliantono-temui-ketum-ormas-nasional-bahas-koperasi-dan-tantangan-ekonomi"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 20:59:58 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261105/Mjc0NDQ0"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 19:26:41 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261105/Mjk5MTUy"
+    },
+    {
+      "title": "Mendag Busan Ungkap Penyebab Menyusutnya Surplus Dagang RI - Pasardana",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 18:22:00 GMT",
+      "link": "https://pasardana.id/news/2026/11/5/mendag-busan-ungkap-penyebab-menyusutnya-surplus-dagang-ri"
+    },
     {
       "title": "Shopee Gandeng Kemendag RI & Mitra Logistik Perkuat Ekosistem Ekspor Lewat ‘Jalan Global Kreasi Lokal’ - Olenka",
       "entity": "Kementerian Perdagangan",
@@ -135,6 +177,13 @@
       "link": "https://www.metrotvnews.com/read/kELCyqx9-agrinas-palma-buka-peluang-umkm-masuk-rantai-pasok-bumn"
     },
     {
+      "title": "Strategi Avian (AVIA) Perkuat Kepatuhan Persaingan Usaha - Bisnis.com - Market",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 04 Nov 2026 14:23:00 GMT",
+      "link": "https://market.bisnis.com/read/20261104/192/2018575/strategi-avian-avia-perkuat-kepatuhan-persaingan-usaha"
+    },
+    {
       "title": "Kejagung Periksa Pegawai Kemendag Terkait Korupsi Nikel PT CNI Rp401 Miliar - jurnas.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -147,55 +196,6 @@
       "kind": "lembaga",
       "published": "Wed, 04 Nov 2026 14:08:13 GMT",
       "link": "https://www.metrotvnews.com/read/ba4Cv5m4-kepatuhan-persaingan-usaha-dukung-pertumbuhan-jangka-panjang-perusahaan"
-    },
-    {
-      "title": "Avian tegaskan komitmen terhadap persaingan bisnis yang sehat - Antara News jatim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 13:57:02 GMT",
-      "link": "https://jatim.antaranews.com/berita/1115403/avian-tegaskan-komitmen-terhadap-persaingan-bisnis-yang-sehat"
-    },
-    {
-      "title": "Andre Rosiade Temui Menteri PU, Bahas Percepatan Proyek Jalan-Jembatan di Sumbar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 04 Nov 2026 13:25:03 GMT",
-      "link": "https://news.detik.com/berita/d-8738712/andre-rosiade-temui-menteri-pu-bahas-percepatan-proyek-jalan-jembatan-di-sumbar"
-    },
-    {
-      "title": "Wali Kota Sabang Soroti Kepastian Hukum untuk Dorong Investasi dan Pengembangan Sabang - Waspada Online",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 13:01:29 GMT",
-      "link": "https://waspada.co.id/wali-kota-sabang-soroti-kepastian-hukum-untuk-dorong-investasi-dan-pengembangan-sabang/"
-    },
-    {
-      "title": "Punya 182 Titik Distribusi, Avian Brands Perkuat Pengawasan Persaingan Usaha - Warta Ekonomi",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 12:35:00 GMT",
-      "link": "https://wartaekonomi.co.id/read645687/punya-182-titik-distribusi-avian-brands-perkuat-pengawasan-persaingan-usaha"
-    },
-    {
-      "title": "Raih Sertifikasi Kepatuhan KPPU, AVIA Perkuat Komitmen Integritas - Emitennews.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 12:01:00 GMT",
-      "link": "https://emitennews.com/news/raih-sertifikasi-kepatuhan-kppu-avia-perkuat-komitmen-integritas"
-    },
-    {
-      "title": "Sabang Siapkan Karpet Merah bagi Investor - RRI.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 11:26:00 GMT",
-      "link": "https://rri.co.id/sabang/regional/2868987/sabang-siapkan-karpet-merah-bagi-investor"
-    },
-    {
-      "title": "Petani Kopi Tapal Kuda Difasilitasi Bentuk Koperasi Produsen - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 04 Nov 2026 11:24:00 GMT",
-      "link": "https://www.beritakoperasi.com/petani-kopi-tapal-kuda-difasilitasi-bentuk-koperasi-produsen/"
     }
   ]
 }
