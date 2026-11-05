@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-05T16:06:57.975225",
+  "generated_at": "2026-11-05T22:30:54.999435",
   "party_counts_7d": {
     "Gerindra": 14,
     "PDI-P": 9,
@@ -13,7 +13,7 @@
   },
   "party_counts_30d": {
     "Gerindra": 69,
-    "PDI-P": 76,
+    "PDI-P": 75,
     "Golkar": 80,
     "NasDem": 10,
     "PKB": 44,
@@ -36,11 +36,11 @@
   "topic_counts_30d": {
     "bumn": 39,
     "umkm": 18,
-    "danantara": 28,
+    "danantara": 27,
     "investasi": 51,
     "ekspor": 12,
     "perdagangan": 10,
-    "koperasi": 43,
+    "koperasi": 42,
     "merger-akuisisi": 1,
     "kartel-monopoli": 9,
     "impor": 4
@@ -52,7 +52,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 17,
     "Mulyadi": 6,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 6,
     "Mufti Anam": 3,
     "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
@@ -85,13 +85,34 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 58,
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 16,
     "Perdagangan": 31,
     "Hukum/Audit": 23,
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BPKS: Butuh kebijakan nasional agar Sabang jadi transshipment hub - ANTARA News",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 20:06:27 GMT",
+      "link": "https://www.antaranews.com/berita/5835495/bpks-butuh-kebijakan-nasional-agar-sabang-jadi-transshipment-hub?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+    },
+    {
+      "title": "Sabang ingin Saingi Phuket dan Kedah, Tapi Sejumlah Aral Masih Melintang - InvestorTrust",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 16:31:00 GMT",
+      "link": "https://investortrust.id/business/121702/sabang-ingin-saingi-phuket-dan-kedah-tapi-sejumlah-aral-masih-melintang"
+    },
+    {
+      "title": "25 Tahun Insentif Mandek, BPKS Sabang Colek Menko Perekonomian - Tirto.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 16:15:00 GMT",
+      "link": "https://tirto.id/25-tahun-insentif-mandek-bpks-sabang-colek-menko-perekonomian-h59a"
+    },
     {
       "title": "\"Jangan Gunakan Kekerasan\" Ketua Komisi I DPRA Tgk Muharuddin Desak Pangdam Iskandar Muda Usut Tuntas Insiden Penembakan saat Maulid Nabi di Pulo Kenari, Tiro, Pidie - thejurnal.id",
       "entity": "Iskandar",
@@ -175,27 +196,6 @@
       "kind": "lembaga",
       "published": "Thu, 05 Nov 2026 11:20:01 GMT",
       "link": "https://www.vietnam.vn/id/grab-giam-phi-hoan-gan-4-ty-cho-tai-xe-sau-ra-soat-cua-co-quan-quan-ly"
-    },
-    {
-      "title": "Sabang Diincar Jadi Transshipment Hub, India Sampai Lobi Prabowo - detikFinance",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 11:00:12 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740051/sabang-diincar-jadi-transshipment-hub-india-sampai-lobi-prabowo"
-    },
-    {
-      "title": "Menteri Perdagangan Dorong Surplus Cabai dan Telur Mataram Pasok Daerah Lain - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 10:55:00 GMT",
-      "link": "https://rri.co.id/nasional/2873879/menteri-perdagangan-dorong-surplus-cabai-dan-telur-mataram-pasok-daerah-lain"
-    },
-    {
-      "title": "Danantara Mau Bangun 12 Smart City di RI, 3 Kota Ini Jadi Proyek Pertama! - detikcom",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 10:47:44 GMT",
-      "link": "https://www.detik.com/properti/berita/d-8739961/danantara-mau-bangun-12-smart-city-di-ri-3-kota-ini-jadi-proyek-pertama"
     }
   ]
 }
