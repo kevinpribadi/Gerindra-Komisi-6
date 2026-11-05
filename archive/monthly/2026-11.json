@@ -1,13 +1,14 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-05T07:41:38.609872",
+  "generated_at": "2026-11-05T16:06:57.975225",
   "party_counts_7d": {
-    "Gerindra": 18,
+    "Gerindra": 14,
     "PDI-P": 9,
-    "Golkar": 10,
+    "Golkar": 9,
     "NasDem": 2,
-    "PKB": 8,
-    "PKS": 5,
+    "PKB": 6,
+    "PKS": 7,
+    "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
@@ -33,14 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 41,
-    "umkm": 19,
-    "danantara": 24,
+    "bumn": 39,
+    "umkm": 18,
+    "danantara": 28,
     "investasi": 51,
-    "ekspor": 13,
+    "ekspor": 12,
     "perdagangan": 10,
     "koperasi": 43,
-    "kartel-monopoli": 8,
+    "merger-akuisisi": 1,
+    "kartel-monopoli": 9,
     "impor": 4
   },
   "member_counts_30d": {
@@ -59,13 +61,13 @@
     "Ida Nurlaela": 4,
     "Totok Hedi Santosa": 12,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 10,
+    "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 17,
     "Firnando Hadityo Ganinduto": 4,
     "Rizki Faisal": 14,
-    "Muhammad Sarmuji": 2,
+    "Muhammad Sarmuji": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
@@ -74,11 +76,10 @@
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
-    "Ghufran": 1,
-    "Ismail": 12,
-    "Nasril Bahar": 2,
+    "Ismail": 13,
+    "Nasril Bahar": 1,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 12,
+    "Iskandar": 13,
     "Sartono": 9,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
@@ -86,115 +87,115 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
     "Kinerja BUMN": 16,
-    "Perdagangan": 36,
-    "Hukum/Audit": 24,
+    "Perdagangan": 31,
+    "Hukum/Audit": 23,
     "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "BP BUMN mendorong peningkatan kapasitas produksi industri alutsista - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 07:35:56 GMT",
-      "link": "https://kupang.antaranews.com/berita/204495/bp-bumn-mendorong-peningkatan-kapasitas-produksi-industri-alutsista"
+      "title": "\"Jangan Gunakan Kekerasan\" Ketua Komisi I DPRA Tgk Muharuddin Desak Pangdam Iskandar Muda Usut Tuntas Insiden Penembakan saat Maulid Nabi di Pulo Kenari, Tiro, Pidie - thejurnal.id",
+      "entity": "Iskandar",
+      "kind": "anggota",
+      "published": "Thu, 05 Nov 2026 15:47:22 GMT",
+      "link": "https://thejurnal.id/news/jangan-gunakan-kekerasan-ketua-komisi-i-dpra-tgk-muharuddin-desak-pangdam-iskandar-muda-usut-tuntas-insiden-penembakan-saat-maulid-nabi-di-pulo-kenari-tiro-pidie/index.html"
     },
     {
-      "title": "BP BUMN-Danantara Kembangkan Industri Unggas Modern Berbasis Teknologi - jurnas.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Disporapar Sanggau Bidik Dukungan Kementerian dan BUMN - RRI.co.id",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 07:30:00 GMT",
-      "link": "https://www.jurnas.com/ekonomi/1668369/bp-bumn-danantara-kembangkan-industri-unggas-modern-berbasis-teknologi/"
+      "published": "Thu, 05 Nov 2026 14:28:00 GMT",
+      "link": "https://rri.co.id/sanggau/regional/2874563/disporapar-sanggau-bidik-dukungan-kementerian-dan-bumn"
     },
     {
-      "title": "Danantara Siapkan Standar Baru Peternakan Ayam Modern - Warta Ekonomi",
-      "entity": "Danantara",
+      "title": "BPKS Bidik Peluang Shorebase dan Logistik Internasional untuk Kembangkan Sabang - RRI.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:42:00 GMT",
-      "link": "https://wartaekonomi.co.id/read645852/danantara-siapkan-standar-baru-peternakan-ayam-modern"
+      "published": "Thu, 05 Nov 2026 13:45:00 GMT",
+      "link": "https://rri.co.id/sabang/nasional/2874132/bpks-bidik-peluang-shorebase-dan-logistik-internasional-untuk-kembangkan-sabang"
     },
     {
-      "title": "Danantara Siapkan Jurus Hidupkan Lagi Industri Tekstil RI - CNBC Indonesia",
-      "entity": "Danantara",
+      "title": "Pelabuhan Balohan Disiapkan Jadi Kawasan Pelabuhan Sehat - RRI.co.id",
+      "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:37:26 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261105132142-17-782619/danantara-siapkan-jurus-hidupkan-lagi-industri-tekstil-ri"
+      "published": "Thu, 05 Nov 2026 13:45:00 GMT",
+      "link": "https://rri.co.id/sabang/regional/2874188/pelabuhan-balohan-disiapkan-jadi-kawasan-pelabuhan-sehat"
     },
     {
-      "title": "4 Pertimbangan Hakim Batalkan Putusan KPPU Soal Penetapan Bunga Pinjol - Hukumonline",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:37:14 GMT",
-      "link": "https://www.hukumonline.com/berita/a/4-pertimbangan-hakim-batalkan-putusan-kppu-soal-penetapan-bunga-pinjol-lt6aec1efa65187/"
-    },
-    {
-      "title": "DPR Restui Langkah Danantara Jadi 'Induk' Pengayom Industri Tekstil Nasional - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:35:00 GMT",
-      "link": "https://investortrust.id/business/121628/dpr-restui-langkah-danantara-jadi-induk-pengayom-industri-tekstil-nasional"
-    },
-    {
-      "title": "BlackRock hingga Brookfield Bakal Kumpul di Forum Investasi Danantara di Bali - NusantaraTV",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:34:30 GMT",
-      "link": "https://www.nusantaratv.com/finance/blackrock-hingga-brookfield-bakal-kumpul-di-forum-investasi-danantara-di-bali"
-    },
-    {
-      "title": "Danantara menyiapkan industri unggas berteknologi modern - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 06:04:55 GMT",
-      "link": "https://kupang.antaranews.com/berita/204475/danantara-menyiapkan-industri-unggas-berteknologi-modern"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 05:55:44 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "Mendag Cari Solusi agar UMKM NTB Bisa Ekspor Langsung - RRI.co.id",
+      "title": "Kunjungi Bale KITA, Mendag Dorong IKM NTB Perluas Pasar Ekspor dan Perkuat Pasar Domestik - SUARANTB.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 05:54:00 GMT",
-      "link": "https://rri.co.id/mataram/nasional/2872698/mendag-cari-solusi-agar-umkm-ntb-bisa-ekspor-langsung"
+      "published": "Thu, 05 Nov 2026 13:00:02 GMT",
+      "link": "https://suarantb.com/2026/11/05/kunjungi-bale-kita-mendag-dorong-ikm-ntb-perluas-pasar-ekspor-dan-perkuat-pasar-domestik/"
     },
     {
-      "title": "Kawendra Lukistian: Jangan Terkecoh Hoaks Dasco Jadi Wapres, Usut Tuntas Penyadapan Prabowo - kumparan.com - kumparan",
-      "entity": "Kawendra Lukistian",
-      "kind": "anggota",
-      "published": "Thu, 05 Nov 2026 04:59:00 GMT",
-      "link": "https://kumparan.com/kumparannews/kawendra-lukistian-jangan-terkecoh-hoaks-dasco-jadi-wapres-usut-tuntas-penyadapan-prabowo-28VrzFOLHkd"
-    },
-    {
-      "title": "PT Torang Multi Indo Soroti Dugaan Persekongkolan Vertikal, Pemeriksaan KPPU dan Potensi Pengembangan Temuan kepada APH - Waspada.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 04:53:56 GMT",
-      "link": "https://www.waspada.id/berita/pt-torang-multi-indo-soroti-dugaan-persekongkolan-vertikal-pemeriksaan-kppu-dan-potensi-pengembangan-temuan-kepada-aph"
-    },
-    {
-      "title": "Menteri Koperasi Ferry Juliantono Bertemu Pimpinan Ormas Nasional, Bahas Penguatan Koperasi dan Kemandirian Ekonomi Masyarakat - DETIK Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 04:18:00 GMT",
-      "link": "https://www.detikindonesia.co.id/menteri-koperasi-ferry-juliantono-bertemu-pimpinan-ormas-nasional-bahas-penguatan-koperasi-dan-kemandirian-ekonomi-masyarakat/"
-    },
-    {
-      "title": "Inovasi SeepsPro, Cara PHE Tingkatkan Temuan Discovery dan Produksi Migas - OG INDONESIA",
+      "title": "Kemenkeu hingga Danantara Tak Wajib Pegang Saham BEI - Tempo.co",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 03:59:36 GMT",
-      "link": "http://www.ogindonesia.com/2026/11/inovasi-seepspro-cara-phe-tingkatkan.html"
+      "published": "Thu, 05 Nov 2026 12:27:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/kemenkeu-hingga-danantara-tak-wajib-pegang-saham-bei-2303633"
     },
     {
-      "title": "Raih Sertifikasi Kepatuhan KPPU, AVIA Perkuat Komitmen Integritas - Lotus Andalan Sekuritas",
-      "entity": "KPPU",
+      "title": "Pengurus KDKMP bener meriah tembus program magang kementerian koperasi tahun 2026 - Pemerintah Kabupaten Bener Meriah",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 03:49:44 GMT",
-      "link": "https://lotussekuritas.com/news/192695/Raih-Sertifikasi-Kepatuhan-KPPU,-AVIA-Perkuat-Komitmen-Integritas"
+      "published": "Thu, 05 Nov 2026 12:20:19 GMT",
+      "link": "https://benermeriahkab.go.id/berita/kategori/berita-daerah/pengurus-kdkmp-bener-meriah-tembus-program-magang-kementerian-koperasi-tahun-2026"
+    },
+    {
+      "title": "Demer Gelar Bakti Sosial Kesehatan Mata di Buleleng: Periksa Kesehatan hingga Operasi Katarak Gratis - Bela Rakyat",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Thu, 05 Nov 2026 12:20:03 GMT",
+      "link": "https://belarakyat.com/demer-gelar-bakti-sosial-kesehatan-mata-di-buleleng-periksa-kesehatan-hingga-operasi-katarak-gratis/"
+    },
+    {
+      "title": "Mendag RI sebut UMKM NTB punya potensi tembus pasar global - kicknews.today",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 12:20:02 GMT",
+      "link": "https://kicknews.today/mendag-ri-sebut-umkm-ntb-punya-potensi-tembus-pasar-global/"
+    },
+    {
+      "title": "Puluhan Koperasi Merah Putih di Pati Tak Kunjung Beroperasi, Dinkop Ungkap Penyebabnya - Harian Muria",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 11:44:03 GMT",
+      "link": "https://harianmuria.com/pati/puluhan-koperasi-merah-putih-di-pati-tak-kunjung-beroperasi-dinkop-ungkap-penyebabnya/"
+    },
+    {
+      "title": "Kemendag fasilitasi perluasan ekspor produk ekraf NTB ke luar negeri - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 11:21:22 GMT",
+      "link": "https://www.antaranews.com/video/5834419/kemendag-fasilitasi-perluasan-ekspor-produk-ekraf-ntb-ke-luar-negeri"
+    },
+    {
+      "title": "Grab menurunkan biaya dan mengembalikan hampir 4 miliar VND kepada pengemudi setelah peninjauan oleh otoritas pengatur. - Vietnam.vn",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 11:20:01 GMT",
+      "link": "https://www.vietnam.vn/id/grab-giam-phi-hoan-gan-4-ty-cho-tai-xe-sau-ra-soat-cua-co-quan-quan-ly"
+    },
+    {
+      "title": "Sabang Diincar Jadi Transshipment Hub, India Sampai Lobi Prabowo - detikFinance",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 11:00:12 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740051/sabang-diincar-jadi-transshipment-hub-india-sampai-lobi-prabowo"
+    },
+    {
+      "title": "Menteri Perdagangan Dorong Surplus Cabai dan Telur Mataram Pasok Daerah Lain - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 10:55:00 GMT",
+      "link": "https://rri.co.id/nasional/2873879/menteri-perdagangan-dorong-surplus-cabai-dan-telur-mataram-pasok-daerah-lain"
+    },
+    {
+      "title": "Danantara Mau Bangun 12 Smart City di RI, 3 Kota Ini Jadi Proyek Pertama! - detikcom",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 05 Nov 2026 10:47:44 GMT",
+      "link": "https://www.detik.com/properti/berita/d-8739961/danantara-mau-bangun-12-smart-city-di-ri-3-kota-ini-jadi-proyek-pertama"
     }
   ]
 }
