@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-06T03:08:25.145287",
+  "generated_at": "2026-11-06T11:47:41.192588",
   "party_counts_7d": {
-    "Gerindra": 15,
+    "Gerindra": 14,
     "PDI-P": 8,
-    "Golkar": 10,
+    "Golkar": 9,
     "NasDem": 2,
-    "PKB": 6,
+    "PKB": 5,
     "PKS": 8,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 69,
+    "Gerindra": 65,
     "PDI-P": 76,
     "Golkar": 81,
     "NasDem": 10,
     "PKB": 44,
     "PKS": 43,
-    "PAN": 15,
+    "PAN": 14,
     "Demokrat": 31
   },
   "agency_counts_30d": {
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 39,
+    "bumn": 40,
     "umkm": 20,
-    "danantara": 27,
-    "investasi": 48,
-    "perdagangan": 9,
-    "ekspor": 12,
+    "danantara": 29,
+    "investasi": 51,
+    "ekspor": 16,
+    "perdagangan": 8,
     "koperasi": 42,
     "merger-akuisisi": 1,
     "kartel-monopoli": 9,
@@ -48,9 +48,9 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 20,
+    "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 16,
     "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
@@ -64,8 +64,8 @@
     "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 17,
-    "Firnando Hadityo Ganinduto": 4,
+    "Doni Akbar": 16,
+    "Firnando Hadityo Ganinduto": 5,
     "Rizki Faisal": 15,
     "Muhammad Sarmuji": 1,
     "Randi Zulmariadi": 5,
@@ -79,123 +79,123 @@
     "Ismail": 13,
     "Nasril Bahar": 1,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 13,
+    "Iskandar": 12,
     "Sartono": 9,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 59,
-    "Kinerja BUMN": 15,
-    "Perdagangan": 30,
+    "Koperasi/UMKM": 60,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 32,
     "Hukum/Audit": 22,
     "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "Menteri Perdagangan RI Budi Santoso Hadir di Ummat, Dorong Ribuan Mahasiswa Tembus Pasar Global - SUARANTB.com",
+      "title": "Mulai 2027, Seluruh Ekspor SDA Strategis Wajib Lewat Danantara, DSI Jadi Perantara Tunggal - Aktual.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 02:43:24 GMT",
-      "link": "https://suarantb.com/2026/11/06/menteri-perdagangan-ri-budi-santoso-hadir-di-ummat-dorong-ribuan-mahasiswa-tembus-pasar-global/"
+      "published": "Fri, 06 Nov 2026 11:40:23 GMT",
+      "link": "https://aktual.com/mulai-2027-seluruh-ekspor-sda-strategis-wajib-lewat-danantara-dsi-jadi-perantara-tunggal/"
     },
     {
-      "title": "India Dorong Kerja Sama Pengembangan Pelabuhan Sabang - Limapagi",
-      "entity": "BPK Sabang",
+      "title": "Komisi VI DPR Sidak Apartemen LRT City Ciracas - MerahPutih",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 11:35:39 GMT",
+      "link": "https://www.merahputih.com/post/read/komisi-vi-dpr-sidak-pembangunan-apartemen-lrt-city-ciracas"
+    },
+    {
+      "title": "Lima Bank Himbara Dukung Kebijakan DHE SDA, Ini Daftarnya - InvestorTrust",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 02:14:19 GMT",
-      "link": "https://www.limapagi.id/india-pengembangan-pelabuhan-sabang"
+      "published": "Fri, 06 Nov 2026 11:18:00 GMT",
+      "link": "https://investortrust.id/macro/121791/lima-bank-himbara-dukung-kebijakan-dhe-sda-ini-daftarnya"
     },
     {
-      "title": "India Berulang Kali Lobi, Status Hub Transshipment Sabang belum Jelas - Media Indonesia",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 02:01:39 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/953052/india-berulang-kali-lobi-status-hub-transshipment-sabang-belum-jelas"
-    },
-    {
-      "title": "India Disebut Berkali-kali Minta Sabang Jadi Hub Transshipment - Kompas.com",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 02:01:00 GMT",
-      "link": "https://money.kompas.com/read/2026/11/06/090139026/india-disebut-berkali-kali-minta-sabang-jadi-hub-transshipment"
-    },
-    {
-      "title": "Mendag: Manfaat Integrasi Ekonomi APEC Harus Dirasakan UMKM - Serayu Nusantara",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 01:50:00 GMT",
-      "link": "https://serayunusantara.com/mendag-manfaat-integrasi-ekonomi-apec-harus-dirasakan-umkm/"
-    },
-    {
-      "title": "Kemendag tetapkan minyak nilam jadi komoditas SRG - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 00:54:26 GMT",
-      "link": "https://www.antaranews.com/berita/5835623/kemendag-tetapkan-minyak-nilam-jadi-komoditas-srg"
-    },
-    {
-      "title": "BPKS Dorong Sabang Jadi Transshipment Hub Logistik Regional - CNN Indonesia",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 00:45:19 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261106061959-92-1423945/bpks-dorong-sabang-jadi-transshipment-hub-logistik-regional"
-    },
-    {
-      "title": "Adi Nugroho Jadi Dewan Pengawas KEBI, Perkuat Biomassa - Listrik Indonesia",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 00:30:30 GMT",
-      "link": "https://listrikindonesia.com/detail/21706/adi-nugroho-jadi-dewan-pengawas-kebi-dorong-penguatan-ekosistem-biomassa"
-    },
-    {
-      "title": "BPKS Ungkap Hambatan Pengembangan Kawasan Sabang - Demokratis.co.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 00:10:34 GMT",
-      "link": "https://demokratis.co.id/hambatan-pengembangan-kawasan-sabang"
-    },
-    {
-      "title": "Insentif Investasi Tak Optimal, Kawasan Sabang Sulit Jadi Pusat Ekonomi - investor.id",
-      "entity": "BPK Sabang",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 00:09:00 GMT",
-      "link": "https://investor.id/macroeconomy/460902/insentif-investasi-tak-optimal-kawasan-sabang-sulit-jadi-pusat-ekonomi"
-    },
-    {
-      "title": "Arsitektur Pengawasan Ganda di PFII: Menyeimbangkan Otoritas Pengawasan Berbasis Yurisdiksi dan Sektor - Infobanknews",
+      "title": "Polemik Definisi Korupsi dan Risiko Investasi Danantara - Koridor.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 23:54:00 GMT",
-      "link": "https://infobanknews.com/arsitektur-pengawasan-ganda-di-pfii-menyeimbangkan-otoritas-pengawasan-berbasis-yurisdiksi-dan-sektor"
+      "published": "Fri, 06 Nov 2026 11:15:26 GMT",
+      "link": "https://koridor.co.id/definisi-korupsi-risiko-investasi-danantara"
     },
     {
-      "title": "DPR Ingatkan Pajak Digital Jangan Bebani Konsumen dan UMKM - indoposco.id",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 05 Nov 2026 23:06:09 GMT",
-      "link": "https://indoposco.id/2026/11/06/dpr-ingatkan-pajak-digital-jangan-bebani-konsumen-dan-umkm/"
-    },
-    {
-      "title": "BPKS: Butuh kebijakan nasional agar Sabang jadi transshipment hub - ANTARA News",
-      "entity": "BPK Sabang",
+      "title": "BP BUMN menaikkan modal dasar PT DSI jadi Rp4 triliun - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 20:06:27 GMT",
-      "link": "https://www.antaranews.com/berita/5835495/bpks-butuh-kebijakan-nasional-agar-sabang-jadi-transshipment-hub?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right"
+      "published": "Fri, 06 Nov 2026 11:14:20 GMT",
+      "link": "https://kupang.antaranews.com/berita/204631/bp-bumn-menaikkan-modal-dasar-pt-dsi-jadi-rp4-triliun"
     },
     {
-      "title": "ASENSI dan Kemendag Bawa Merek Lokal Naik Kelas Lewat Lisensi dan Waralaba - jatimnow.com",
+      "title": "Wamen Perdagangan Dorong Ekspor Produk Batik Lokal ke Pasar Asia Tenggara - jateng.disway.id - Disway",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 19:24:00 GMT",
-      "link": "https://jatimnow.com/baca-88901-asensi-dan-kemendag-bawa-merek-lokal-naik-kelas-lewat-lisensi-dan-waralaba"
+      "published": "Fri, 06 Nov 2026 11:03:00 GMT",
+      "link": "https://jateng.disway.id/nasional/read/725821/wamen-perdagangan-dorong-ekspor-produk-batik-lokal-ke-pasar-asia-tenggara"
     },
     {
-      "title": "Sabang ingin Saingi Phuket dan Kedah, Tapi Sejumlah Aral Masih Melintang - InvestorTrust",
+      "title": "BP BUMN Naikkan Modal Dasar PT DSI Jadi Rp 4 Triliun untuk Ekspor SDA - BeritaSatu.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 10:52:41 GMT",
+      "link": "https://www.beritasatu.com/ekonomi/3039211/bp-bumn-naikkan-modal-dasar-pt-dsi-jadi-rp-4-triliun-untuk-ekspor-sda"
+    },
+    {
+      "title": "BP BUMN Beri Modal PT DSI Rp4 Triliun demi Ekspor Satu Pintu - Media Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 10:48:46 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/953237/bp-bumn-beri-modal-pt-dsi-rp4-triliun-demi-ekspor-satu-pintu"
+    },
+    {
+      "title": "BP BUMN naikkan modal dasar PT DSI jadi Rp4 triliun - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 10:39:02 GMT",
+      "link": "https://www.antaranews.com/berita/5836851/bp-bumn-naikkan-modal-dasar-pt-dsi-jadi-rp4-triliun"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Soroti Lonjakan Kejahatan Siber, Kerugian Scam Tembus Rp9 Triliun - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 10:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-soroti-lonjakan-kejahatan-siber-kerugian-scam-tembus-rp9-triliun-b2qerZbjml"
+    },
+    {
+      "title": "Ekspor Satu Pintu: Cara Elit 'Kawal' Devisa? - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 09:54:00 GMT",
+      "link": "https://www.inilah.com/ekspor-satu-pintu-cara-elit-kawal-devisa"
+    },
+    {
+      "title": "BP BUMN dan BPI Danantara Percepat Persiapan Pembangunan 12 Kawasan Smart City - Mitrapost",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 09:17:00 GMT",
+      "link": "https://mitrapost.com/2026/11/06/bp-bumn-dan-bpi-danantara-percepat-persiapan-pembangunan-12-kawasan-smart-city/"
+    },
+    {
+      "title": "BP BUMN dan BPI Danantara Percepat Persiapan Pembangunan 12 Kawasan Smart City - Mitrapost",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 09:17:00 GMT",
+      "link": "https://mitrapost.com/2026/11/06/bp-bumn-dan-bpi-danantara-percepat-persiapan-pembangunan-12-kawasan-smart-city/"
+    },
+    {
+      "title": "Kemendag Menetapkan Minyak Nilam Menjadi Komoditas SRG - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 09:04:00 GMT",
+      "link": "https://www.topbusiness.id/139693/kemendag-menetapkan-minyak-nilam-menjadi-komoditas-srg.html"
+    },
+    {
+      "title": "BPKS Sabang Minta Pemerintah Pusat Perkuat Investasi - Demokratis.co.id",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Thu, 05 Nov 2026 16:31:00 GMT",
-      "link": "https://investortrust.id/business/121702/sabang-ingin-saingi-phuket-dan-kedah-tapi-sejumlah-aral-masih-melintang"
+      "published": "Fri, 06 Nov 2026 08:25:59 GMT",
+      "link": "https://demokratis.co.id/bpks-sabang-perkuat-investasi"
     }
   ]
 }
