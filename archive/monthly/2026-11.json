@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-06T18:52:33.225505",
+  "generated_at": "2026-11-06T23:38:48.895496",
   "party_counts_7d": {
     "Gerindra": 19,
     "PDI-P": 11,
@@ -12,8 +12,8 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 65,
-    "PDI-P": 79,
+    "Gerindra": 64,
+    "PDI-P": 78,
     "Golkar": 81,
     "NasDem": 10,
     "PKB": 45,
@@ -36,7 +36,7 @@
   "topic_counts_30d": {
     "bumn": 40,
     "umkm": 20,
-    "danantara": 29,
+    "danantara": 28,
     "investasi": 50,
     "impor": 5,
     "ekspor": 17,
@@ -51,10 +51,10 @@
     "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
-    "Mulyadi": 6,
+    "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 12,
+    "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
@@ -93,6 +93,27 @@
     "Konflik Publik": 6
   },
   "top_headlines": [
+    {
+      "title": "BPKS Dorong Pemerintah Benahi Regulasi Kawasan Sabang - Limapagi",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 23:31:00 GMT",
+      "link": "https://www.limapagi.id/bpks-regulasi-kawasan-bebas-sabang"
+    },
+    {
+      "title": "Sudah 25 Tahun Berstatus Kawasan Bebas, Insentif Sabang Belum Berjalan - Kompas.com",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 23:24:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/07/062400226/sudah-25-tahun-berstatus-kawasan-bebas-insentif-sabang-belum-berjalan"
+    },
+    {
+      "title": "PLN Siapkan Pasokan Listrik untuk Pusat Data Berbasis AI - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 17:44:19 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/127013/pln-siapkan-pasokan-listrik-untuk-pusat-data-berbasis-ai"
+    },
     {
       "title": "Kemendag Bantah Lartas Impor Picu Kenaikan Harga Tapioka - Demokratis.co.id",
       "entity": "Kementerian Perdagangan",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 06 Nov 2026 14:00:00 GMT",
       "link": "https://suarantb.com/2026/11/06/tindak-lanjuti-dorongan-mendag-dekranasda-ntb-jamin-tingkatkan-kualitas-umkm-ntb/"
-    },
-    {
-      "title": "Tindak Lanjuti Arahan Pimpinan DPR, Andre Rosiade Pantau Penyelesaian Masalah LRT City - Suara.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 06 Nov 2026 13:27:05 GMT",
-      "link": "https://www.suara.com/news/2026/11/06/202705/tindak-lanjuti-arahan-pimpinan-dpr-andre-rosiade-pantau-penyelesaian-masalah-lrt-city"
-    },
-    {
-      "title": "Kemenhum dan Kemenkop Bangun Interoperabilitas Sistem Kebijakan melalui FKK - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 13:26:00 GMT",
-      "link": "https://rri.co.id/makassar/regional/2876507/kemenhum-dan-kemenkop-bangun-interoperabilitas-sistem-kebijakan-melalui-fkk"
-    },
-    {
-      "title": "Kemendag Tegaskan Eksportir Tetap Jalankan DMO Meski PT DSI Jadi Perantara Tunggal - Validnews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 13:10:56 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/11/06/kemendag-tegaskan-eksportir-tetap-jalankan-dmo-meski-pt-dsi-jadi-perantara-tunggal-202300452"
     }
   ]
 }
