@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-06T11:47:41.192588",
+  "generated_at": "2026-11-06T18:52:33.225505",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 8,
-    "Golkar": 9,
+    "Gerindra": 19,
+    "PDI-P": 11,
+    "Golkar": 8,
     "NasDem": 2,
-    "PKB": 5,
+    "PKB": 6,
     "PKS": 8,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 65,
-    "PDI-P": 76,
+    "PDI-P": 79,
     "Golkar": 81,
     "NasDem": 10,
-    "PKB": 44,
+    "PKB": 45,
     "PKS": 43,
     "PAN": 14,
     "Demokrat": 31
@@ -37,13 +37,13 @@
     "bumn": 40,
     "umkm": 20,
     "danantara": 29,
-    "investasi": 51,
-    "ekspor": 16,
-    "perdagangan": 8,
-    "koperasi": 42,
+    "investasi": 50,
+    "impor": 5,
+    "ekspor": 17,
+    "perdagangan": 7,
+    "koperasi": 41,
     "merger-akuisisi": 1,
-    "kartel-monopoli": 9,
-    "impor": 4
+    "kartel-monopoli": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -57,9 +57,10 @@
     "Darmadi Durianto": 12,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
-    "Sadarestuwati": 10,
+    "Sadarestuwati": 11,
     "Ida Nurlaela": 4,
-    "Totok Hedi Santosa": 12,
+    "Budi Sulistyono": 1,
+    "Totok Hedi Santosa": 13,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 11,
@@ -72,7 +73,7 @@
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 15,
+    "Nasim Khan": 16,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
@@ -85,117 +86,117 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
+    "Koperasi/UMKM": 58,
     "Kinerja BUMN": 16,
-    "Perdagangan": 32,
-    "Hukum/Audit": 22,
+    "Perdagangan": 34,
+    "Hukum/Audit": 21,
     "Konflik Publik": 6
   },
   "top_headlines": [
     {
-      "title": "Mulai 2027, Seluruh Ekspor SDA Strategis Wajib Lewat Danantara, DSI Jadi Perantara Tunggal - Aktual.com",
+      "title": "Kemendag Bantah Lartas Impor Picu Kenaikan Harga Tapioka - Demokratis.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 11:40:23 GMT",
-      "link": "https://aktual.com/mulai-2027-seluruh-ekspor-sda-strategis-wajib-lewat-danantara-dsi-jadi-perantara-tunggal/"
+      "published": "Fri, 06 Nov 2026 15:38:40 GMT",
+      "link": "https://demokratis.co.id/kemendag-harga-tepung-tapioka"
     },
     {
-      "title": "Komisi VI DPR Sidak Apartemen LRT City Ciracas - MerahPutih",
+      "title": "Tindak Lanjuti Arahan Pimpinan DPR, Andre Rosiade Cek Penyelesaian Masalah LRT City - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 06 Nov 2026 11:35:39 GMT",
-      "link": "https://www.merahputih.com/post/read/komisi-vi-dpr-sidak-pembangunan-apartemen-lrt-city-ciracas"
+      "published": "Fri, 06 Nov 2026 15:36:28 GMT",
+      "link": "https://news.detik.com/berita/d-8741858/tindak-lanjuti-arahan-pimpinan-dpr-andre-rosiade-cek-penyelesaian-masalah-lrt-city"
     },
     {
-      "title": "Lima Bank Himbara Dukung Kebijakan DHE SDA, Ini Daftarnya - InvestorTrust",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "BPKS Minta Kemenko Perekonomian Harmonisasi Kebijakan Sabang - RM.ID",
+      "entity": "BP Batam",
       "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 11:18:00 GMT",
-      "link": "https://investortrust.id/macro/121791/lima-bank-himbara-dukung-kebijakan-dhe-sda-ini-daftarnya"
+      "published": "Fri, 06 Nov 2026 15:34:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/333408/bpks-minta-kemenko-perekonomian-harmonisasi-kebijakan-sabang"
     },
     {
-      "title": "Polemik Definisi Korupsi dan Risiko Investasi Danantara - Koridor.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 11:15:26 GMT",
-      "link": "https://koridor.co.id/definisi-korupsi-risiko-investasi-danantara"
-    },
-    {
-      "title": "BP BUMN menaikkan modal dasar PT DSI jadi Rp4 triliun - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 11:14:20 GMT",
-      "link": "https://kupang.antaranews.com/berita/204631/bp-bumn-menaikkan-modal-dasar-pt-dsi-jadi-rp4-triliun"
-    },
-    {
-      "title": "Wamen Perdagangan Dorong Ekspor Produk Batik Lokal ke Pasar Asia Tenggara - jateng.disway.id - Disway",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 11:03:00 GMT",
-      "link": "https://jateng.disway.id/nasional/read/725821/wamen-perdagangan-dorong-ekspor-produk-batik-lokal-ke-pasar-asia-tenggara"
-    },
-    {
-      "title": "BP BUMN Naikkan Modal Dasar PT DSI Jadi Rp 4 Triliun untuk Ekspor SDA - BeritaSatu.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 10:52:41 GMT",
-      "link": "https://www.beritasatu.com/ekonomi/3039211/bp-bumn-naikkan-modal-dasar-pt-dsi-jadi-rp-4-triliun-untuk-ekspor-sda"
-    },
-    {
-      "title": "BP BUMN Beri Modal PT DSI Rp4 Triliun demi Ekspor Satu Pintu - Media Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 10:48:46 GMT",
-      "link": "https://mediaindonesia.com/ekonomi/953237/bp-bumn-beri-modal-pt-dsi-rp4-triliun-demi-ekspor-satu-pintu"
-    },
-    {
-      "title": "BP BUMN naikkan modal dasar PT DSI jadi Rp4 triliun - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 10:39:02 GMT",
-      "link": "https://www.antaranews.com/berita/5836851/bp-bumn-naikkan-modal-dasar-pt-dsi-jadi-rp4-triliun"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Soroti Lonjakan Kejahatan Siber, Kerugian Scam Tembus Rp9 Triliun - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 06 Nov 2026 10:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-soroti-lonjakan-kejahatan-siber-kerugian-scam-tembus-rp9-triliun-b2qerZbjml"
-    },
-    {
-      "title": "Ekspor Satu Pintu: Cara Elit 'Kawal' Devisa? - Inilah.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 09:54:00 GMT",
-      "link": "https://www.inilah.com/ekspor-satu-pintu-cara-elit-kawal-devisa"
-    },
-    {
-      "title": "BP BUMN dan BPI Danantara Percepat Persiapan Pembangunan 12 Kawasan Smart City - Mitrapost",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 09:17:00 GMT",
-      "link": "https://mitrapost.com/2026/11/06/bp-bumn-dan-bpi-danantara-percepat-persiapan-pembangunan-12-kawasan-smart-city/"
-    },
-    {
-      "title": "BP BUMN dan BPI Danantara Percepat Persiapan Pembangunan 12 Kawasan Smart City - Mitrapost",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 09:17:00 GMT",
-      "link": "https://mitrapost.com/2026/11/06/bp-bumn-dan-bpi-danantara-percepat-persiapan-pembangunan-12-kawasan-smart-city/"
-    },
-    {
-      "title": "Kemendag Menetapkan Minyak Nilam Menjadi Komoditas SRG - TopBusiness.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 09:04:00 GMT",
-      "link": "https://www.topbusiness.id/139693/kemendag-menetapkan-minyak-nilam-menjadi-komoditas-srg.html"
-    },
-    {
-      "title": "BPKS Sabang Minta Pemerintah Pusat Perkuat Investasi - Demokratis.co.id",
+      "title": "BPKS Minta Kemenko Perekonomian Harmonisasi Kebijakan Sabang - RM.ID",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 08:25:59 GMT",
-      "link": "https://demokratis.co.id/bpks-sabang-perkuat-investasi"
+      "published": "Fri, 06 Nov 2026 15:34:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/333408/bpks-minta-kemenko-perekonomian-harmonisasi-kebijakan-sabang"
+    },
+    {
+      "title": "Kemendag Buka Suara soal Harga Tepung Tapioka Mahal - detikFinance",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 15:30:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8741989/kemendag-buka-suara-soal-harga-tepung-tapioka-mahal"
+    },
+    {
+      "title": "Dukung Aksesi OECD, BPOM Perkuat Koherensi Regulasi dan Kerja Sama Internasional - Badan Pengawas Obat dan Makanan",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 15:29:13 GMT",
+      "link": "https://www.pom.go.id/berita/dukung-aksesi-oecd-bpom-perkuat-koherensi-regulasi-dan-kerja-sama-internasional"
+    },
+    {
+      "title": "Ketua Komisi Persaingan Usaha Nasional: Berinovasi dalam komunikasi untuk memastikan undang-undang perlindungan konsumen diterapkan secara efektif. - Vietnam.vn",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 15:28:10 GMT",
+      "link": "https://www.vietnam.vn/id/chu-tich-uy-ban-canh-tranh-quoc-gia-doi-moi-truyen-thong-de-phap-luat-bao-ve-nguoi-tieu-dung-di-vao-doi-song"
+    },
+    {
+      "title": "Kemendag siapkan Rp21 miliar revitalisasi Pasar Manggelewa Dompu - ANTARA News Mataram",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 14:59:04 GMT",
+      "link": "https://mataram.antaranews.com/berita/580859/kemendag-siapkan-rp21-miliar-revitalisasi-pasar-manggelewa-dompu"
+    },
+    {
+      "title": "BP BUMN Tingkatkan Modal Dasar DSI Jadi Rp4 Triliun - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 14:29:31 GMT",
+      "link": "https://www.metrotvnews.com/read/NQACRV1Y-bp-bumn-tingkatkan-modal-dasar-dsi-jadi-rp4-triliun"
+    },
+    {
+      "title": "Tindaklanjuti Arahan Pimpinan DPR, Andre Rosiade Pantau Proses Penyelesaian Masalah LRT City - MetroTVNews.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 14:25:07 GMT",
+      "link": "https://www.metrotvnews.com/read/b3JC9Elr-tindaklanjuti-arahan-pimpinan-dpr-andre-rosiade-pantau-proses-penyelesaian-masalah-lrt-city"
+    },
+    {
+      "title": "Transaksi Digital Makin Besar, Totok Hedi Santosa Ingatkan Risiko bagi Pedagang - VIVA Jogja",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 14:10:00 GMT",
+      "link": "https://jogja.viva.co.id/warta/12712-transaksi-digital-makin-besar-totok-hedi-santosa-ingatkan-risiko-bagi-pedagang"
+    },
+    {
+      "title": "Tindak Lanjuti Dorongan Mendag, Dekranasda NTB Jamin Tingkatkan Kualitas UMKM NTB - SUARANTB.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 14:00:00 GMT",
+      "link": "https://suarantb.com/2026/11/06/tindak-lanjuti-dorongan-mendag-dekranasda-ntb-jamin-tingkatkan-kualitas-umkm-ntb/"
+    },
+    {
+      "title": "Tindak Lanjuti Arahan Pimpinan DPR, Andre Rosiade Pantau Penyelesaian Masalah LRT City - Suara.com",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 13:27:05 GMT",
+      "link": "https://www.suara.com/news/2026/11/06/202705/tindak-lanjuti-arahan-pimpinan-dpr-andre-rosiade-pantau-penyelesaian-masalah-lrt-city"
+    },
+    {
+      "title": "Kemenhum dan Kemenkop Bangun Interoperabilitas Sistem Kebijakan melalui FKK - RRI.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 13:26:00 GMT",
+      "link": "https://rri.co.id/makassar/regional/2876507/kemenhum-dan-kemenkop-bangun-interoperabilitas-sistem-kebijakan-melalui-fkk"
+    },
+    {
+      "title": "Kemendag Tegaskan Eksportir Tetap Jalankan DMO Meski PT DSI Jadi Perantara Tunggal - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 13:10:56 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/11/06/kemendag-tegaskan-eksportir-tetap-jalankan-dmo-meski-pt-dsi-jadi-perantara-tunggal-202300452"
     }
   ]
 }
