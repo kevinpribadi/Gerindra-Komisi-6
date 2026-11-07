@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-06T23:38:48.895496",
+  "generated_at": "2026-11-07T04:37:09.872461",
   "party_counts_7d": {
-    "Gerindra": 19,
-    "PDI-P": 11,
+    "Gerindra": 21,
+    "PDI-P": 12,
     "Golkar": 8,
     "NasDem": 2,
-    "PKB": 6,
-    "PKS": 8,
+    "PKB": 7,
+    "PKS": 10,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 64,
-    "PDI-P": 78,
-    "Golkar": 81,
+    "Gerindra": 65,
+    "PDI-P": 79,
+    "Golkar": 82,
     "NasDem": 10,
-    "PKB": 45,
+    "PKB": 46,
     "PKS": 43,
     "PAN": 14,
     "Demokrat": 31
@@ -34,12 +34,12 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 40,
-    "umkm": 20,
+    "bumn": 38,
+    "umkm": 22,
     "danantara": 28,
-    "investasi": 50,
+    "investasi": 49,
+    "ekspor": 19,
     "impor": 5,
-    "ekspor": 17,
     "perdagangan": 7,
     "koperasi": 41,
     "merger-akuisisi": 1,
@@ -50,7 +50,7 @@
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 16,
+    "Kawendra Lukistian": 17,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
@@ -59,7 +59,7 @@
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
     "Ida Nurlaela": 4,
-    "Budi Sulistyono": 1,
+    "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 13,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 11,
@@ -67,13 +67,13 @@
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 5,
-    "Rizki Faisal": 15,
+    "Rizki Faisal": 16,
     "Muhammad Sarmuji": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
-    "Nasim Khan": 16,
+    "Nasim Khan": 17,
     "Ida Fauziyah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
@@ -86,19 +86,68 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 58,
-    "Kinerja BUMN": 16,
-    "Perdagangan": 34,
-    "Hukum/Audit": 21,
-    "Konflik Publik": 6
+    "Koperasi/UMKM": 60,
+    "Kinerja BUMN": 14,
+    "Perdagangan": 37,
+    "Hukum/Audit": 20,
+    "Konflik Publik": 7
   },
   "top_headlines": [
+    {
+      "title": "IKTN Tegaskan Dukungan terhadap Presiden Prabowo, Kawal Legalisasi dan Kesejahteraan Tambang Rakyat - CYBER88",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 04:21:00 GMT",
+      "link": "https://www.cyber88.co.id/berita/47935/iktn-tegaskan-dukungan-terhadap-presiden-prabowo-kawal-legalisasi-dan-kesejahteraan-tambang-rakyat.html"
+    },
+    {
+      "title": "Pertumbuhan Ekonomi 5,47 Persen di Triwulan III 2026, Amin Ak: Patut Disyukuri, tapi… - Bela Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 07 Nov 2026 03:39:54 GMT",
+      "link": "https://belarakyat.com/pertumbuhan-ekonomi-547-persen-di-triwulan-iii-2026-amin-ak-patut-disyukuri-tapi/"
+    },
+    {
+      "title": "BP BUMN Perkuat Permodalan DSI Sebagai Perantara Ekspor Tunggal - Suara.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 02:40:47 GMT",
+      "link": "https://www.suara.com/bisnis/2026/11/07/094047/bp-bumn-perkuat-permodalan-dsi-sebagai-perantara-ekspor-tunggal"
+    },
+    {
+      "title": "Pemerintah Jaga Stabilitas Harga Bahan Baku UMKM Lewat Kesiapan Operasi Pasar dan Sinergi Kementerian - beritanasionalupdate.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 02:26:06 GMT",
+      "link": "https://www.beritanasionalupdate.com/news/details/2128/pemerintah-jaga-stabilitas-harga-bahan-baku-umkm-lewat-kesiapan-operasi-pasar-dan-sinergi-kementerian"
+    },
+    {
+      "title": "Danantara Targetkan Bangun Kawasan Industri Tekstil Terintegrasi dari Hulu ke Hilir - Kompas.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 01:50:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/07/085000126/danantara-targetkan-bangun-kawasan-industri-tekstil-terintegrasi-dari-hulu-ke"
+    },
+    {
+      "title": "Sambut Baik Pertumbuhan Ekonomi 5,47 Persen, Legislator Minta Pemerintah Tetap Waspadai Tekanan Eksternal - Kedai Pena",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 07 Nov 2026 00:52:31 GMT",
+      "link": "https://www.kedaipena.com/sambut-baik-pertumbuhan-ekonomi-547-persen-legislator-minta-pemerintah-tetap-waspadai-tekanan-eksternal/"
+    },
     {
       "title": "BPKS Dorong Pemerintah Benahi Regulasi Kawasan Sabang - Limapagi",
       "entity": "BPK Sabang",
       "kind": "lembaga",
       "published": "Fri, 06 Nov 2026 23:31:00 GMT",
       "link": "https://www.limapagi.id/bpks-regulasi-kawasan-bebas-sabang"
+    },
+    {
+      "title": "Apa sih DSI? Ekspor SDA Strategis Kok Lewat Dia Semua? - Inilah.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 06 Nov 2026 23:26:00 GMT",
+      "link": "https://www.inilah.com/apa-sih-dsi-ekspor-sda-strategis-kok-lewat-dia-semua"
     },
     {
       "title": "Sudah 25 Tahun Berstatus Kawasan Bebas, Insentif Sabang Belum Berjalan - Kompas.com",
@@ -113,6 +162,13 @@
       "kind": "lembaga",
       "published": "Fri, 06 Nov 2026 17:44:19 GMT",
       "link": "https://www.bloombergtechnoz.com/detail-news/127013/pln-siapkan-pasokan-listrik-untuk-pusat-data-berbasis-ai"
+    },
+    {
+      "title": "DPR Kawal Refund LRT City, Target Rampung Desember 2026 - Media Indonesia",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 06 Nov 2026 16:25:01 GMT",
+      "link": "https://mediaindonesia.com/ekonomi/953405/dpr-kawal-refund-lrt-city-target-rampung-desember-2026"
     },
     {
       "title": "Kemendag Bantah Lartas Impor Picu Kenaikan Harga Tapioka - Demokratis.co.id",
@@ -141,62 +197,6 @@
       "kind": "lembaga",
       "published": "Fri, 06 Nov 2026 15:34:00 GMT",
       "link": "https://rm.id/baca-berita/ekonomi-bisnis/333408/bpks-minta-kemenko-perekonomian-harmonisasi-kebijakan-sabang"
-    },
-    {
-      "title": "Kemendag Buka Suara soal Harga Tepung Tapioka Mahal - detikFinance",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 15:30:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8741989/kemendag-buka-suara-soal-harga-tepung-tapioka-mahal"
-    },
-    {
-      "title": "Dukung Aksesi OECD, BPOM Perkuat Koherensi Regulasi dan Kerja Sama Internasional - Badan Pengawas Obat dan Makanan",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 15:29:13 GMT",
-      "link": "https://www.pom.go.id/berita/dukung-aksesi-oecd-bpom-perkuat-koherensi-regulasi-dan-kerja-sama-internasional"
-    },
-    {
-      "title": "Ketua Komisi Persaingan Usaha Nasional: Berinovasi dalam komunikasi untuk memastikan undang-undang perlindungan konsumen diterapkan secara efektif. - Vietnam.vn",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 15:28:10 GMT",
-      "link": "https://www.vietnam.vn/id/chu-tich-uy-ban-canh-tranh-quoc-gia-doi-moi-truyen-thong-de-phap-luat-bao-ve-nguoi-tieu-dung-di-vao-doi-song"
-    },
-    {
-      "title": "Kemendag siapkan Rp21 miliar revitalisasi Pasar Manggelewa Dompu - ANTARA News Mataram",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 14:59:04 GMT",
-      "link": "https://mataram.antaranews.com/berita/580859/kemendag-siapkan-rp21-miliar-revitalisasi-pasar-manggelewa-dompu"
-    },
-    {
-      "title": "BP BUMN Tingkatkan Modal Dasar DSI Jadi Rp4 Triliun - MetroTVNews.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 14:29:31 GMT",
-      "link": "https://www.metrotvnews.com/read/NQACRV1Y-bp-bumn-tingkatkan-modal-dasar-dsi-jadi-rp4-triliun"
-    },
-    {
-      "title": "Tindaklanjuti Arahan Pimpinan DPR, Andre Rosiade Pantau Proses Penyelesaian Masalah LRT City - MetroTVNews.com",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Fri, 06 Nov 2026 14:25:07 GMT",
-      "link": "https://www.metrotvnews.com/read/b3JC9Elr-tindaklanjuti-arahan-pimpinan-dpr-andre-rosiade-pantau-proses-penyelesaian-masalah-lrt-city"
-    },
-    {
-      "title": "Transaksi Digital Makin Besar, Totok Hedi Santosa Ingatkan Risiko bagi Pedagang - VIVA Jogja",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Fri, 06 Nov 2026 14:10:00 GMT",
-      "link": "https://jogja.viva.co.id/warta/12712-transaksi-digital-makin-besar-totok-hedi-santosa-ingatkan-risiko-bagi-pedagang"
-    },
-    {
-      "title": "Tindak Lanjuti Dorongan Mendag, Dekranasda NTB Jamin Tingkatkan Kualitas UMKM NTB - SUARANTB.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 06 Nov 2026 14:00:00 GMT",
-      "link": "https://suarantb.com/2026/11/06/tindak-lanjuti-dorongan-mendag-dekranasda-ntb-jamin-tingkatkan-kualitas-umkm-ntb/"
     }
   ]
 }
