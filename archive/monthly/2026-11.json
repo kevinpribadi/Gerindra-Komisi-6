@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-07T17:24:37.573449",
+  "generated_at": "2026-11-07T21:26:01.182123",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 15,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 37,
+    "bumn": 38,
     "umkm": 23,
-    "danantara": 27,
+    "danantara": 26,
     "investasi": 48,
     "perdagangan": 7,
-    "ekspor": 15,
+    "ekspor": 16,
     "impor": 5,
-    "koperasi": 42,
+    "koperasi": 41,
     "merger-akuisisi": 1,
     "kartel-monopoli": 10
   },
@@ -86,13 +86,20 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 61,
+    "Koperasi/UMKM": 60,
     "Kinerja BUMN": 15,
     "Perdagangan": 35,
     "Hukum/Audit": 19,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 17:32:23 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261108/Mjc0NDQ0"
+    },
     {
       "title": "Tiga Menteri akan Kunjungan Kerja ke Rokan Hilir - RIAU1.COM",
       "entity": "Kementerian Koperasi",
@@ -190,13 +197,6 @@
       "kind": "anggota",
       "published": "Sat, 07 Nov 2026 11:40:43 GMT",
       "link": "https://www.merahputih.com/post/read/angkat-gairah-padel-nasional-rosiade-padel-tournament-2026-raih-rekor-muri"
-    },
-    {
-      "title": "UMKM Merugi, Totok Hedi: Regulasi Perlindungan Konsumen Harus Terus Diupdate di Era Digital - www.gesuri.id",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 11:05:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/umkm-merugi-totok-hedi-regulasi-perlindungan-konsumen-harus-terus-diupdate-di-era-digital-b2qesZbjn4"
     }
   ]
 }
