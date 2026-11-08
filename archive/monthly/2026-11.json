@@ -1,20 +1,20 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-08T01:03:48.058296",
+  "generated_at": "2026-11-08T08:34:13.223539",
   "party_counts_7d": {
     "Gerindra": 24,
-    "PDI-P": 15,
-    "Golkar": 11,
+    "PDI-P": 16,
+    "Golkar": 12,
     "NasDem": 2,
-    "PKB": 9,
+    "PKB": 10,
     "PKS": 11,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 64,
-    "PDI-P": 81,
-    "Golkar": 86,
+    "Gerindra": 61,
+    "PDI-P": 79,
+    "Golkar": 88,
     "NasDem": 10,
     "PKB": 50,
     "PKS": 43,
@@ -36,25 +36,25 @@
   "topic_counts_30d": {
     "bumn": 38,
     "umkm": 23,
-    "danantara": 26,
+    "danantara": 25,
     "investasi": 49,
     "perdagangan": 8,
     "ekspor": 16,
-    "impor": 5,
-    "koperasi": 41,
+    "impor": 6,
+    "koperasi": 39,
     "merger-akuisisi": 1,
     "kartel-monopoli": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 15,
+    "Muhammad Husein Fadlulloh": 14,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 16,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 6,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 10,
+    "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
@@ -66,8 +66,8 @@
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
-    "Firnando Hadityo Ganinduto": 5,
-    "Rizki Faisal": 18,
+    "Firnando Hadityo Ganinduto": 6,
+    "Rizki Faisal": 19,
     "Muhammad Sarmuji": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
@@ -86,13 +86,55 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 60,
+    "Koperasi/UMKM": 58,
     "Kinerja BUMN": 15,
-    "Perdagangan": 36,
+    "Perdagangan": 37,
     "Hukum/Audit": 19,
-    "Konflik Publik": 8
+    "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
+      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
+    },
+    {
+      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
+      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
+    },
+    {
+      "title": "Nasim Khan dan Kemenkop Dorong 76 KDKMP Situbondo Jadi Penggerak Ekonomi Desa - BeritaNasional.ID",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 07:18:01 GMT",
+      "link": "https://beritanasional.id/nasim-khan-dan-kemenkop-dorong-76-kdkmp-situbondo-jadi-penggerak-ekonomi-desa/"
+    },
+    {
+      "title": "BPKS Dorong Menko Perekonomian Benahi Kawasan Bebas Sabang - cwibc.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 05:46:15 GMT",
+      "link": "https://cwibc.co.id/pengembangan-kawasan-bebas-sabang"
+    },
+    {
+      "title": "Tolak Impor KRL Bekas Jepang, Rieke Diah Pitaloka Tegaskan Kedaulatan Industri Tak Boleh Korbankan Layanan Publik - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 04:56:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/tolak-impor-krl-bekas-jepang-rieke-diah-pitaloka-tegaskan-kedaulatan-industri-tak-boleh-korbankan-layanan-publik-b2qetZbjo5"
+    },
+    {
+      "title": "BP BUMN Naikkan Modal Dasar DSI Menjadi Rp 4 Triliun - cwibc.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 04:25:20 GMT",
+      "link": "https://cwibc.co.id/bp-bumn-naikkan-modal-dsi"
+    },
     {
       "title": "Indonesia Catat Surplus Perdagangan USD3,36 Miliar pada September 2026 - cwibc.co.id",
       "entity": "Kementerian Perdagangan",
@@ -113,6 +155,13 @@
       "kind": "lembaga",
       "published": "Sat, 07 Nov 2026 22:59:07 GMT",
       "link": "https://realestat.id/developer-ingkar-janji-ini-langkah-hukum-yang-bisa-ditempuh-konsumen-properti/"
+    },
+    {
+      "title": "Rizki Faisal Gelar Sarasehan di Batam, Bahas Wacana Pelarangan Total Vape di Indonesia - SidakNews.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Sat, 07 Nov 2026 18:52:51 GMT",
+      "link": "https://sidaknews.com/2026/11/08/rizki-faisal-gelar-sarasehan-di-batam-bahas-wacana-pelarangan-total-vape-di-indonesia/"
     },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
@@ -148,55 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 07 Nov 2026 16:14:15 GMT",
       "link": "https://www.suaraindependentnews.id/china-desak-as-cabut-sanksi-kuba"
-    },
-    {
-      "title": "China Desak AS Cabut Sanksi Perusahaan Terkait Kuba - cwibc.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 16:14:01 GMT",
-      "link": "https://cwibc.co.id/china-desak-as-cabut-sanksi-kuba"
-    },
-    {
-      "title": "China Kritik Sanksi AS terhadap Perusahaan Terkait Kuba, Nilai Ganggu Perdagangan - borneonews.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 15:40:00 GMT",
-      "link": "https://borneonews.co.id/berita/10001372-china-kritik-sanksi-as-terhadap-perusahaan-terkait-kuba-nilai-ganggu-perdagangan"
-    },
-    {
-      "title": "Sarasehan Komisi III DPR RI, Rizki Faisal dengan BNN Kaji Wacana Pelarangan Vape - HarianHaluanKepri.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 13:21:34 GMT",
-      "link": "https://harianhaluankepri.com/sarasehan-komisi-iii-dpr-ri-rizki-faisal-dengan-bnn-kaji-wacana-pelarangan-vape/"
-    },
-    {
-      "title": "Sarasehan Komisi III DPR RI, Rizki Faisal dengan BNN Kaji Wacana Pelarangan Vape - HarianHaluanKepri.com",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 13:21:34 GMT",
-      "link": "https://harianhaluankepri.com/sarasehan-komisi-iii-dpr-ri-rizki-faisal-dengan-bnn-kaji-wacana-pelarangan-vape/"
-    },
-    {
-      "title": "Ida Fauziyah Tekankan Dakwah yang Memberdayakan di Festival LKKNU-HMT Jakarta - NU Online Jakarta",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 13:20:00 GMT",
-      "link": "https://jakarta.nu.or.id/jakarta-raya/ida-fauziyah-tekankan-dakwah-yang-memberdayakan-di-festival-lkknu-hmt-jakarta-nYUo7"
-    },
-    {
-      "title": "Pertumbuhan Ekonomi 5,47 Persen di Triwulan III 2026, Amin Ak: Patut Disyukuri, tapi Waspadai Rupiah dan Harga Minyak - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 12:58:44 GMT",
-      "link": "https://fraksi.pks.id/2026/11/07/pertumbuhan-ekonomi-547-persen-di-triwulan-iii-2026-amin-ak-patut-disyukuri-tapi-waspadai-rupiah-dan-harga-minyak/"
-    },
-    {
-      "title": "Minyak Nilam Masuk Daftar Komoditas Sistem Resi Gudang, Resinya Bisa Jadi Agunan - SWA.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 12:00:00 GMT",
-      "link": "https://swa.co.id/read/479409/minyak-nilam-masuk-daftar-komoditas-sistem-resi-gudang-resinya-bisa-jadi-agunan"
     }
   ]
 }
