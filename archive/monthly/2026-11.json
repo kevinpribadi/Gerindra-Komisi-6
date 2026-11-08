@@ -1,8 +1,8 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-07T21:26:01.182123",
+  "generated_at": "2026-11-08T01:03:48.058296",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 24,
     "PDI-P": 15,
     "Golkar": 11,
     "NasDem": 2,
@@ -12,8 +12,8 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 63,
-    "PDI-P": 82,
+    "Gerindra": 64,
+    "PDI-P": 81,
     "Golkar": 86,
     "NasDem": 10,
     "PKB": 50,
@@ -37,8 +37,8 @@
     "bumn": 38,
     "umkm": 23,
     "danantara": 26,
-    "investasi": 48,
-    "perdagangan": 7,
+    "investasi": 49,
+    "perdagangan": 8,
     "ekspor": 16,
     "impor": 5,
     "koperasi": 41,
@@ -50,11 +50,11 @@
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 11,
+    "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
@@ -88,11 +88,32 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 60,
     "Kinerja BUMN": 15,
-    "Perdagangan": 35,
+    "Perdagangan": 36,
     "Hukum/Audit": 19,
     "Konflik Publik": 8
   },
   "top_headlines": [
+    {
+      "title": "Indonesia Catat Surplus Perdagangan USD3,36 Miliar pada September 2026 - cwibc.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 00:30:59 GMT",
+      "link": "https://cwibc.co.id/indonesia-surplus-perdagangan-september-2026"
+    },
+    {
+      "title": "India Ajukan Investasi Pelabuhan Sabang Rp1,89 Triliun - cwibc.co.id",
+      "entity": "BPK Sabang",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 00:18:15 GMT",
+      "link": "https://cwibc.co.id/india-investasi-pelabuhan-sabang"
+    },
+    {
+      "title": "Developer Ingkar Janji, Ini Langkah Hukum yang Bisa Ditempuh Konsumen Properti - RealEstat.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 07 Nov 2026 22:59:07 GMT",
+      "link": "https://realestat.id/developer-ingkar-janji-ini-langkah-hukum-yang-bisa-ditempuh-konsumen-properti/"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sat, 07 Nov 2026 12:00:00 GMT",
       "link": "https://swa.co.id/read/479409/minyak-nilam-masuk-daftar-komoditas-sistem-resi-gudang-resinya-bisa-jadi-agunan"
-    },
-    {
-      "title": "Sosialisme Islam Jangan Berhenti Jadi Wacana, Nasim Khan Desak Aksi Nyata Atasi Ketimpangan Ekonomi Bondowoso - TIMES Indonesia",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 11:57:00 GMT",
-      "link": "https://timesindonesia.co.id/peristiwa-daerah/616585/sosialisme-islam-jangan-berhenti-jadi-wacana-nasim-khan-desak-aksi-nyata-atasi-ketimpangan-ekonomi-bondowoso"
-    },
-    {
-      "title": "Rizki Faisal Ajak BNN Kaji Wacana Pelarangan Total Vape di Indonesia - jurnas.com",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 11:53:56 GMT",
-      "link": "https://www.jurnas.com/news/2144742/rizki-faisal-ajak-bnn-kaji-wacana-pelarangan-total-vape-di-indonesia/"
-    },
-    {
-      "title": "Rosiade Padel Tournament 2026 Raih Rekor MURI - MerahPutih",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 11:40:43 GMT",
-      "link": "https://www.merahputih.com/post/read/angkat-gairah-padel-nasional-rosiade-padel-tournament-2026-raih-rekor-muri"
     }
   ]
 }
