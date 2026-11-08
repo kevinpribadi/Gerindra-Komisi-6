@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-08T08:34:13.223539",
+  "generated_at": "2026-11-08T15:46:41.492827",
   "party_counts_7d": {
     "Gerindra": 24,
-    "PDI-P": 16,
+    "PDI-P": 17,
     "Golkar": 12,
     "NasDem": 2,
-    "PKB": 10,
+    "PKB": 12,
     "PKS": 11,
     "PAN": 1,
     "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 61,
-    "PDI-P": 79,
+    "PDI-P": 80,
     "Golkar": 88,
     "NasDem": 10,
-    "PKB": 50,
+    "PKB": 51,
     "PKS": 43,
     "PAN": 11,
     "Demokrat": 31
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 38,
+    "bumn": 39,
     "umkm": 23,
     "danantara": 25,
-    "investasi": 49,
-    "perdagangan": 8,
+    "investasi": 47,
+    "perdagangan": 11,
     "ekspor": 16,
-    "impor": 6,
     "koperasi": 39,
     "merger-akuisisi": 1,
-    "kartel-monopoli": 10
+    "kartel-monopoli": 10,
+    "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -60,7 +60,7 @@
     "Sadarestuwati": 11,
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 2,
-    "Totok Hedi Santosa": 15,
+    "Totok Hedi Santosa": 16,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 12,
     "Ahmad Labib": 11,
@@ -74,7 +74,7 @@
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 5,
+    "Ida Fauziyah": 6,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
     "Ismail": 13,
@@ -88,115 +88,115 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
     "Kinerja BUMN": 15,
-    "Perdagangan": 37,
+    "Perdagangan": 33,
     "Hukum/Audit": 19,
     "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
+      "title": "Kemendag Sosialisasi Kebijakan kepada 400 Pelaku UMKM Situbondo - RRI.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 14:01:04 GMT",
+      "link": "https://rri.co.id/jember/regional/2880414/kemendag-sosialisasi-kebijakan-kepada-400-pelaku-umkm-situbondo"
+    },
+    {
+      "title": "Siapkan Koperasi Merah Putih Beroperasi, 60 Bendahara Di Pati Disertifikasi - Wartaphoto.net",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
-      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
+      "published": "Sun, 08 Nov 2026 12:51:23 GMT",
+      "link": "https://wartaphoto.net/2026/11/08/siapkan-koperasi-merah-putih-beroperasi-60-bendahara-di-pati-disertifikasi/"
     },
     {
-      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
-      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
-    },
-    {
-      "title": "Nasim Khan dan Kemenkop Dorong 76 KDKMP Situbondo Jadi Penggerak Ekonomi Desa - BeritaNasional.ID",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 07:18:01 GMT",
-      "link": "https://beritanasional.id/nasim-khan-dan-kemenkop-dorong-76-kdkmp-situbondo-jadi-penggerak-ekonomi-desa/"
-    },
-    {
-      "title": "BPKS Dorong Menko Perekonomian Benahi Kawasan Bebas Sabang - cwibc.co.id",
-      "entity": "BPK Sabang",
+      "title": "Nasim Khan Kritik Pemkab Situbondo Kurang Proaktif Jemput Program Kementerian Perdagangan - Ketik",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 05:46:15 GMT",
-      "link": "https://cwibc.co.id/pengembangan-kawasan-bebas-sabang"
+      "published": "Sun, 08 Nov 2026 12:20:00 GMT",
+      "link": "https://ketik.com/situbondo/daerah/nasim-khan-kritik-pemkab-situbondo-kurang-proaktif-jemput-program-kementerian-perdagangan"
     },
     {
-      "title": "Tolak Impor KRL Bekas Jepang, Rieke Diah Pitaloka Tegaskan Kedaulatan Industri Tak Boleh Korbankan Layanan Publik - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
+      "title": "Nasim Khan Kritik Pemkab Situbondo Kurang Proaktif Jemput Program Kementerian Perdagangan - Ketik",
+      "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 04:56:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/tolak-impor-krl-bekas-jepang-rieke-diah-pitaloka-tegaskan-kedaulatan-industri-tak-boleh-korbankan-layanan-publik-b2qetZbjo5"
+      "published": "Sun, 08 Nov 2026 12:20:00 GMT",
+      "link": "https://ketik.com/amp/nasim-khan-kritik-pemkab-situbondo-kurang-proaktif-jemput-program-kementerian-perdagangan"
     },
     {
-      "title": "BP BUMN Naikkan Modal Dasar DSI Menjadi Rp 4 Triliun - cwibc.co.id",
+      "title": "8 BUMN Siap Tangani Pemulihan Pascabencana, Ini Tiga Programnya - Warta Ekonomi",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 04:25:20 GMT",
-      "link": "https://cwibc.co.id/bp-bumn-naikkan-modal-dsi"
+      "published": "Sun, 08 Nov 2026 11:56:00 GMT",
+      "link": "https://wartaekonomi.co.id/read646423/8-bumn-siap-tangani-pemulihan-pascabencana-ini-tiga-programnya"
     },
     {
-      "title": "Indonesia Catat Surplus Perdagangan USD3,36 Miliar pada September 2026 - cwibc.co.id",
+      "title": "Transaksi Digital Makin Besar, Totok Hedi Ingatkan Risiko bagi Pedagang - RRI.co.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 11:31:00 GMT",
+      "link": "https://rri.co.id/yogyakarta/info-parlemen/2880282/transaksi-digital-makin-besar-totok-hedi-ingatkan-risiko-bagi-pedagang"
+    },
+    {
+      "title": "Jadi Koordinator Klaster Infrastruktur Satgas Bencana BUMN Peduli, Hutama Karya Siapkan Tiga Program Pemulihan - TopBusiness.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 10:40:00 GMT",
+      "link": "https://www.topbusiness.id/139727/jadi-koordinator-klaster-infrastruktur-satgas-bencana-bumn-peduli-hutama-karya-siapkan-tiga-program-pemulihan.html"
+    },
+    {
+      "title": "Bersama Kemendag, Nasim Khan Buka Peluang UMKM Situbondo Masuk Pasar Global, Ini Syaratnya - BeritaNasional.ID",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 00:30:59 GMT",
-      "link": "https://cwibc.co.id/indonesia-surplus-perdagangan-september-2026"
+      "published": "Sun, 08 Nov 2026 09:57:29 GMT",
+      "link": "https://beritanasional.id/bersama-kemendag-nasim-khan-buka-peluang-umkm-situbondo-masuk-pasar-global-ini-syaratnya/"
     },
     {
-      "title": "India Ajukan Investasi Pelabuhan Sabang Rp1,89 Triliun - cwibc.co.id",
+      "title": "BP BUMN dan Danantara Targetkan Pengembangan Kawasan Industri Tekstil Terintegrasi - Bisnis.com - Foto",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 09:00:35 GMT",
+      "link": "https://foto.bisnis.com/view/20261108/2019490/bp-bumn-dan-danantara-targetkan-pengembangan-kawasan-industri-tekstil-terintegrasi"
+    },
+    {
+      "title": "Insentif Sabang Tersendat, BPKS Minta Menko Perekonomian Turun Tangan » - dialeksis.com",
       "entity": "BPK Sabang",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 00:18:15 GMT",
-      "link": "https://cwibc.co.id/india-investasi-pelabuhan-sabang"
+      "published": "Sun, 08 Nov 2026 08:54:13 GMT",
+      "link": "https://dialeksis.com/ekonomi/insentif-sabang-tersendat-bpks-minta-menko-perekonomian-turun-tangan/"
     },
     {
-      "title": "Developer Ingkar Janji, Ini Langkah Hukum yang Bisa Ditempuh Konsumen Properti - RealEstat.id",
-      "entity": "BPKN",
+      "title": "DSI Akan Periksa Ekspor Batu Bara dan Sawit Mulai 2027 - Aspek.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 22:59:07 GMT",
-      "link": "https://realestat.id/developer-ingkar-janji-ini-langkah-hukum-yang-bisa-ditempuh-konsumen-properti/"
+      "published": "Sun, 08 Nov 2026 08:47:37 GMT",
+      "link": "https://aspek.id/dsi-akan-periksa-ekspor-batu-bara-dan-sawit-mulai-2027/"
     },
     {
-      "title": "Rizki Faisal Gelar Sarasehan di Batam, Bahas Wacana Pelarangan Total Vape di Indonesia - SidakNews.com",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 18:52:51 GMT",
-      "link": "https://sidaknews.com/2026/11/08/rizki-faisal-gelar-sarasehan-di-batam-bahas-wacana-pelarangan-total-vape-di-indonesia/"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 17:32:23 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261108/Mjc0NDQ0"
-    },
-    {
-      "title": "Tiga Menteri akan Kunjungan Kerja ke Rokan Hilir - RIAU1.COM",
+      "title": "Oda Smart Factory Korea Ri Perkuat Transformasi Digital Koperasi - SinPo.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 16:24:53 GMT",
-      "link": "https://www.riau1.com/berita/rokan-hilir/tiga-menteri-akan-kunjungan-kerja-ke-rokan-hilir"
+      "published": "Sun, 08 Nov 2026 07:50:00 GMT",
+      "link": "https://tv.sinpo.id/detail/oda-smart-factory-korea-ri-perkuat-transformasi-digital-koperasi"
     },
     {
-      "title": "Rosiade Padel Tournament 2026 Seri Ketiga Pecahkan Rekor MURI - Digital Okezone",
+      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
+      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
+    },
+    {
+      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
+      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
+    },
+    {
+      "title": "Andre Rosiade Kawal Penyelesaian Masalah Konsumen LRT City - SinPo.id",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Sat, 07 Nov 2026 16:23:07 GMT",
-      "link": "https://digital.okezone.com/view/2026/11/07/2/106457/rosiade-padel-tournament-2026-seri-ketiga-pecahkan-rekor-muri"
-    },
-    {
-      "title": "China Desak AS Cabut Sanksi Perusahaan Terkait Kuba - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 16:14:26 GMT",
-      "link": "https://demokratis.co.id/china-desak-as-cabut-sanksi-perusahaan-kuba"
-    },
-    {
-      "title": "China Desak AS Cabut Sanksi Perusahaan Terkait Kuba - Suara Independent News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 07 Nov 2026 16:14:15 GMT",
-      "link": "https://www.suaraindependentnews.id/china-desak-as-cabut-sanksi-kuba"
+      "published": "Sun, 08 Nov 2026 07:20:00 GMT",
+      "link": "https://tv.sinpo.id/detail/andre-rosiade-kawal-penyelesaian-masalah-konsumen-lrt-city"
     }
   ]
 }
