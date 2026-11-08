@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-08T15:46:41.492827",
+  "generated_at": "2026-11-08T20:10:28.882356",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 17,
@@ -36,10 +36,10 @@
   "topic_counts_30d": {
     "bumn": 39,
     "umkm": 23,
-    "danantara": 25,
+    "danantara": 26,
     "investasi": 47,
     "perdagangan": 11,
-    "ekspor": 16,
+    "ekspor": 15,
     "koperasi": 39,
     "merger-akuisisi": 1,
     "kartel-monopoli": 10,
@@ -88,11 +88,25 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
     "Kinerja BUMN": 15,
-    "Perdagangan": 33,
+    "Perdagangan": 31,
     "Hukum/Audit": 19,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Danantara Gabungkan 23 BUMN Kawasan Industri pada November 2026 - شبكة تواصل الإخبارية",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 17:24:23 GMT",
+      "link": "https://twaslnews1.twaslnews.com/7329870/"
+    },
+    {
+      "title": "Kemendag Tetapkan Minyak Nilam sebagai Komoditas Sistem Resi Gudang - Iconomics",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 08 Nov 2026 16:30:17 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/kemendag-tetapkan-minyak-nilam-sebagai-komoditas-sistem-resi-gudang/"
+    },
     {
       "title": "Kemendag Sosialisasi Kebijakan kepada 400 Pelaku UMKM Situbondo - RRI.co.id",
       "entity": "Kementerian Perdagangan",
@@ -183,20 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 08 Nov 2026 07:38:32 GMT",
       "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
-    },
-    {
-      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
-      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
-    },
-    {
-      "title": "Andre Rosiade Kawal Penyelesaian Masalah Konsumen LRT City - SinPo.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 07:20:00 GMT",
-      "link": "https://tv.sinpo.id/detail/andre-rosiade-kawal-penyelesaian-masalah-konsumen-lrt-city"
     }
   ]
 }
