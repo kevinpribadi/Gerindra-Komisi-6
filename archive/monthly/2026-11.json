@@ -1,10 +1,10 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-08T20:10:28.882356",
+  "generated_at": "2026-11-09T00:30:38.019157",
   "party_counts_7d": {
-    "Gerindra": 24,
+    "Gerindra": 25,
     "PDI-P": 17,
-    "Golkar": 12,
+    "Golkar": 13,
     "NasDem": 2,
     "PKB": 12,
     "PKS": 11,
@@ -12,9 +12,9 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 61,
+    "Gerindra": 62,
     "PDI-P": 80,
-    "Golkar": 88,
+    "Golkar": 89,
     "NasDem": 10,
     "PKB": 51,
     "PKS": 43,
@@ -37,8 +37,8 @@
     "bumn": 39,
     "umkm": 23,
     "danantara": 26,
-    "investasi": 47,
-    "perdagangan": 11,
+    "investasi": 48,
+    "perdagangan": 10,
     "ekspor": 15,
     "koperasi": 39,
     "merger-akuisisi": 1,
@@ -48,7 +48,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 14,
+    "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
     "Mulyadi": 5,
@@ -62,7 +62,7 @@
     "Budi Sulistyono": 2,
     "Totok Hedi Santosa": 16,
     "Nurdin Halid": 20,
-    "Gde Sumarjaya Linggih": 12,
+    "Gde Sumarjaya Linggih": 13,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
@@ -93,6 +93,27 @@
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Reformasi WTO di Balik APEC 2026 China - Kompas.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 00:00:07 GMT",
+      "link": "https://www.kompas.id/artikel/reformasi-wto-di-balik-apec-2026-china"
+    },
+    {
+      "title": "Demer Soroti Ketimpangan Pariwisata Bali - NUSABALI.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 23:38:08 GMT",
+      "link": "https://www.nusabali.com/berita/235814/demer-soroti-ketimpangan-pariwisata-bali"
+    },
+    {
+      "title": "BKSAP Libatkan Kampus, Regulasi AI Jadi Perhatian Diplomasi Parlemen - Suara Investor",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Sun, 08 Nov 2026 23:30:39 GMT",
+      "link": "https://www.suarainvestor.com/bksap-libatkan-kampus-regulasi-ai-jadi-perhatian-diplomasi-parlemen/"
+    },
     {
       "title": "Danantara Gabungkan 23 BUMN Kawasan Industri pada November 2026 - شبكة تواصل الإخبارية",
       "entity": "Badan Pengaturan BUMN",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Sun, 08 Nov 2026 08:54:13 GMT",
       "link": "https://dialeksis.com/ekonomi/insentif-sabang-tersendat-bpks-minta-menko-perekonomian-turun-tangan/"
-    },
-    {
-      "title": "DSI Akan Periksa Ekspor Batu Bara dan Sawit Mulai 2027 - Aspek.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 08:47:37 GMT",
-      "link": "https://aspek.id/dsi-akan-periksa-ekspor-batu-bara-dan-sawit-mulai-2027/"
-    },
-    {
-      "title": "Oda Smart Factory Korea Ri Perkuat Transformasi Digital Koperasi - SinPo.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 07:50:00 GMT",
-      "link": "https://tv.sinpo.id/detail/oda-smart-factory-korea-ri-perkuat-transformasi-digital-koperasi"
-    },
-    {
-      "title": "Kemenkop – Nasim Khan Sosialisasikan Pemberdayaan KDKMP di Situbondo - Pojokkiri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 07:38:32 GMT",
-      "link": "https://pojokkiri.com/kemenkop-nasim-khan-sosialisasikan-pemberdayaan-kdkmp-di-situbondo/"
     }
   ]
 }
