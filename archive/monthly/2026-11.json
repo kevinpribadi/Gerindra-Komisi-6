@@ -1,10 +1,10 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-09T00:30:38.019157",
+  "generated_at": "2026-11-09T07:38:23.505006",
   "party_counts_7d": {
-    "Gerindra": 25,
+    "Gerindra": 27,
     "PDI-P": 17,
-    "Golkar": 13,
+    "Golkar": 15,
     "NasDem": 2,
     "PKB": 12,
     "PKS": 11,
@@ -12,9 +12,9 @@
     "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 62,
+    "Gerindra": 63,
     "PDI-P": 80,
-    "Golkar": 89,
+    "Golkar": 90,
     "NasDem": 10,
     "PKB": 51,
     "PKS": 43,
@@ -35,31 +35,31 @@
   },
   "topic_counts_30d": {
     "bumn": 39,
-    "umkm": 23,
+    "umkm": 24,
     "danantara": 26,
-    "investasi": 48,
-    "perdagangan": 10,
-    "ekspor": 15,
+    "investasi": 45,
+    "perdagangan": 9,
+    "ekspor": 17,
+    "impor": 6,
     "koperasi": 39,
-    "merger-akuisisi": 1,
-    "kartel-monopoli": 10,
-    "impor": 5
+    "merger-akuisisi": 3,
+    "kartel-monopoli": 11
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 15,
+    "Khilmi": 3,
+    "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 16,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 6,
+    "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 3,
     "Darmadi Durianto": 9,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
     "Ida Nurlaela": 5,
-    "Budi Sulistyono": 2,
+    "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 16,
     "Nurdin Halid": 20,
     "Gde Sumarjaya Linggih": 13,
@@ -67,7 +67,7 @@
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 6,
-    "Rizki Faisal": 19,
+    "Rizki Faisal": 20,
     "Muhammad Sarmuji": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
@@ -88,115 +88,115 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 58,
     "Kinerja BUMN": 15,
-    "Perdagangan": 31,
+    "Perdagangan": 34,
     "Hukum/Audit": 19,
     "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "Reformasi WTO di Balik APEC 2026 China - Kompas.id",
+      "title": "Kementerian Perindustrian dan Perdagangan telah menyesuaikan rencana inspeksi dan pemantauan pelaksanaan dua undang-undang tentang kualitas produk dan standar teknis. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 00:00:07 GMT",
-      "link": "https://www.kompas.id/artikel/reformasi-wto-di-balik-apec-2026-china"
+      "published": "Mon, 09 Nov 2026 07:35:18 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-dieu-chinh-ke-hoach-kiem-tra-theo-doi-thi-hanh-hai-luat-ve-chat-luong-san-pham-va-tieu-chuan-ky-thuat"
     },
     {
-      "title": "Demer Soroti Ketimpangan Pariwisata Bali - NUSABALI.com",
-      "entity": "Gde Sumarjaya Linggih",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 23:38:08 GMT",
-      "link": "https://www.nusabali.com/berita/235814/demer-soroti-ketimpangan-pariwisata-bali"
-    },
-    {
-      "title": "BKSAP Libatkan Kampus, Regulasi AI Jadi Perhatian Diplomasi Parlemen - Suara Investor",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 23:30:39 GMT",
-      "link": "https://www.suarainvestor.com/bksap-libatkan-kampus-regulasi-ai-jadi-perhatian-diplomasi-parlemen/"
-    },
-    {
-      "title": "Danantara Gabungkan 23 BUMN Kawasan Industri pada November 2026 - شبكة تواصل الإخبارية",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Pemerintah Targetkan Revisi UU Persaingan Usaha Rampung 2027 - cwibc.co.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 17:24:23 GMT",
-      "link": "https://twaslnews1.twaslnews.com/7329870/"
+      "published": "Mon, 09 Nov 2026 07:26:16 GMT",
+      "link": "https://cwibc.co.id/revisi-uu-persaingan-usaha-2027"
     },
     {
-      "title": "Kemendag Tetapkan Minyak Nilam sebagai Komoditas Sistem Resi Gudang - Iconomics",
+      "title": "Rp2,66 M untuk Bedah Rumah 133 Keluarga Di Bintan, Legislator Komisi III DPR Dorong Perluasan Program - Suara Investor",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Mon, 09 Nov 2026 07:20:39 GMT",
+      "link": "https://www.suarainvestor.com/rp266-m-untuk-bedah-rumah-133-keluarga-di-bintan-legislator-komisi-iii-dpr-dorong-perluasan-program/"
+    },
+    {
+      "title": "Kemendag Dorong Ekspor Produk Elektronik ke Pasar Nontradisional - Bisnis.com - Semarang",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 16:30:17 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/kemendag-tetapkan-minyak-nilam-sebagai-komoditas-sistem-resi-gudang/"
+      "published": "Mon, 09 Nov 2026 07:01:49 GMT",
+      "link": "https://semarang.bisnis.com/read/20261109/535/2019649/kemendag-dorong-ekspor-produk-elektronik-ke-pasar-nontradisional"
     },
     {
-      "title": "Kemendag Sosialisasi Kebijakan kepada 400 Pelaku UMKM Situbondo - RRI.co.id",
+      "title": "Revitalisasi Pasar Tawangmangu Dapat Lampu Hijau Kemendag, Ditargetkan Cair 2027 - SurabayaPost",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 14:01:04 GMT",
-      "link": "https://rri.co.id/jember/regional/2880414/kemendag-sosialisasi-kebijakan-kepada-400-pelaku-umkm-situbondo"
+      "published": "Mon, 09 Nov 2026 07:00:40 GMT",
+      "link": "https://surabayapost.id/revitalisasi-pasar-tawangmangu-dapat-lampu-hijau-kemendag-ditargetkan-cair-2027/"
     },
     {
-      "title": "Siapkan Koperasi Merah Putih Beroperasi, 60 Bendahara Di Pati Disertifikasi - Wartaphoto.net",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 12:51:23 GMT",
-      "link": "https://wartaphoto.net/2026/11/08/siapkan-koperasi-merah-putih-beroperasi-60-bendahara-di-pati-disertifikasi/"
-    },
-    {
-      "title": "Nasim Khan Kritik Pemkab Situbondo Kurang Proaktif Jemput Program Kementerian Perdagangan - Ketik",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 12:20:00 GMT",
-      "link": "https://ketik.com/situbondo/daerah/nasim-khan-kritik-pemkab-situbondo-kurang-proaktif-jemput-program-kementerian-perdagangan"
-    },
-    {
-      "title": "Nasim Khan Kritik Pemkab Situbondo Kurang Proaktif Jemput Program Kementerian Perdagangan - Ketik",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 12:20:00 GMT",
-      "link": "https://ketik.com/amp/nasim-khan-kritik-pemkab-situbondo-kurang-proaktif-jemput-program-kementerian-perdagangan"
-    },
-    {
-      "title": "8 BUMN Siap Tangani Pemulihan Pascabencana, Ini Tiga Programnya - Warta Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 11:56:00 GMT",
-      "link": "https://wartaekonomi.co.id/read646423/8-bumn-siap-tangani-pemulihan-pascabencana-ini-tiga-programnya"
-    },
-    {
-      "title": "Transaksi Digital Makin Besar, Totok Hedi Ingatkan Risiko bagi Pedagang - RRI.co.id",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Sun, 08 Nov 2026 11:31:00 GMT",
-      "link": "https://rri.co.id/yogyakarta/info-parlemen/2880282/transaksi-digital-makin-besar-totok-hedi-ingatkan-risiko-bagi-pedagang"
-    },
-    {
-      "title": "Jadi Koordinator Klaster Infrastruktur Satgas Bencana BUMN Peduli, Hutama Karya Siapkan Tiga Program Pemulihan - TopBusiness.id",
+      "title": "Direktur Keuangan Garuda Indonesia Mundur Saat Rugi Membengkak, Ada Apa? - AFU.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 10:40:00 GMT",
-      "link": "https://www.topbusiness.id/139727/jadi-koordinator-klaster-infrastruktur-satgas-bencana-bumn-peduli-hutama-karya-siapkan-tiga-program-pemulihan.html"
+      "published": "Mon, 09 Nov 2026 06:56:39 GMT",
+      "link": "https://afu.id/nasional/direktur-keuangan-garuda-indonesia-mundur-saat-rugi-membengkak-ada-apa"
     },
     {
-      "title": "Bersama Kemendag, Nasim Khan Buka Peluang UMKM Situbondo Masuk Pasar Global, Ini Syaratnya - BeritaNasional.ID",
+      "title": "Rizki Golkar Salurkan Bantuan Bedah Rumah untuk 133 Keluarga di Bintan - jurnas.com",
+      "entity": "Rizki Faisal",
+      "kind": "anggota",
+      "published": "Mon, 09 Nov 2026 06:43:48 GMT",
+      "link": "https://www.jurnas.com/news/2144872/rizki-golkar-salurkan-bantuan-bedah-rumah-untuk-133-keluarga-di-bintan/"
+    },
+    {
+      "title": "Koperasi Merah Putih Buka Peluang Usaha Baru Berbasis Ekonomi Sirkular - Minews ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 06:16:00 GMT",
+      "link": "https://minews.id/news/koperasi-merah-putih-buka-peluang-usaha-baru-berbasis-ekonomi-sirkular"
+    },
+    {
+      "title": "BPKN RI Gandeng UMRAH Perkuat Edukasi Perlindungan Konsumen di Kepri - Medianesia.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 06:05:57 GMT",
+      "link": "https://medianesia.id/bpkn-ri-gandeng-umrah-perkuat-edukasi-perlindungan-konsumen-di-kepri/"
+    },
+    {
+      "title": "Kemendag siap bantu buka akses ekspor produsen produk berbasis EBT - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 09:57:29 GMT",
-      "link": "https://beritanasional.id/bersama-kemendag-nasim-khan-buka-peluang-umkm-situbondo-masuk-pasar-global-ini-syaratnya/"
+      "published": "Mon, 09 Nov 2026 06:03:59 GMT",
+      "link": "https://www.antaranews.com/berita/5841023/kemendag-siap-bantu-buka-akses-ekspor-produsen-produk-berbasis-ebt"
     },
     {
-      "title": "BP BUMN dan Danantara Targetkan Pengembangan Kawasan Industri Tekstil Terintegrasi - Bisnis.com - Foto",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "BRI Buka Peluang Merger dan Akuisisi Anak Usaha - شبكة تواصل الإخبارية",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 09:00:35 GMT",
-      "link": "https://foto.bisnis.com/view/20261108/2019490/bp-bumn-dan-danantara-targetkan-pengembangan-kawasan-industri-tekstil-terintegrasi"
+      "published": "Mon, 09 Nov 2026 06:03:55 GMT",
+      "link": "https://twaslnews1.twaslnews.com/7353715/"
     },
     {
-      "title": "Insentif Sabang Tersendat, BPKS Minta Menko Perekonomian Turun Tangan » - dialeksis.com",
-      "entity": "BPK Sabang",
+      "title": "Ada Penataan Danantara, BRI Buka Peluang Merger dan Akuisisi Anak Usaha - kontan.co.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 08 Nov 2026 08:54:13 GMT",
-      "link": "https://dialeksis.com/ekonomi/insentif-sabang-tersendat-bpks-minta-menko-perekonomian-turun-tangan/"
+      "published": "Mon, 09 Nov 2026 05:59:00 GMT",
+      "link": "https://keuangan.kontan.co.id/news/ada-penataan-danantara-bri-buka-peluang-merger-dan-akuisisi-anak-usaha"
+    },
+    {
+      "title": "Husein Fadlulloh Dorong Produk Kriya Tasikmalaya Tembus Pasar Global lewat Diplomasi Parlemen - fraksi gerindra dpr-ri",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Mon, 09 Nov 2026 05:23:24 GMT",
+      "link": "https://www.fraksigerindra.id/husein-fadlulloh-dorong-produk-kriya-tasikmalaya-tembus-pasar-global-lewat-diplomasi-parlemen/"
+    },
+    {
+      "title": "Danantara Investments Kelola Aset Rp85 Triliun dari Empat MI - JournalArta",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 04:27:12 GMT",
+      "link": "https://journalarta.com/news/2026/11/09/danantara-investments-dana-kelolaan-rp85-triliun/"
+    },
+    {
+      "title": "Danantara Rampingkan BUMN, BRI Buka Peluang Merger Anak Usaha - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 04:11:00 GMT",
+      "link": "https://tirto.id/danantara-rampingkan-bumn-bri-buka-peluang-merger-anak-usaha-idz6"
     }
   ]
 }
