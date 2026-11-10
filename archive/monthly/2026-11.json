@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-10T09:14:05.045772",
+  "generated_at": "2026-11-10T17:28:49.872126",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 17,
@@ -8,17 +8,17 @@
     "NasDem": 1,
     "PKB": 11,
     "PKS": 11,
-    "PAN": 2,
+    "PAN": 3,
     "Demokrat": 3
   },
   "party_counts_30d": {
     "Gerindra": 68,
-    "PDI-P": 81,
+    "PDI-P": 79,
     "Golkar": 87,
     "NasDem": 10,
     "PKB": 51,
     "PKS": 44,
-    "PAN": 11,
+    "PAN": 12,
     "Demokrat": 30
   },
   "agency_counts_30d": {
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 42,
+    "bumn": 43,
     "umkm": 23,
-    "danantara": 23,
-    "perdagangan": 10,
-    "koperasi": 36,
-    "ekspor": 19,
-    "impor": 6,
-    "merger-akuisisi": 9,
-    "investasi": 45,
-    "kartel-monopoli": 10
+    "danantara": 21,
+    "ekspor": 20,
+    "perdagangan": 11,
+    "koperasi": 37,
+    "merger-akuisisi": 8,
+    "investasi": 42,
+    "kartel-monopoli": 15,
+    "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -58,7 +58,7 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
-    "Ida Nurlaela": 6,
+    "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
     "Nurdin Halid": 14,
@@ -80,7 +80,7 @@
     "Ghufran": 1,
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 10,
+    "Iskandar": 11,
     "Sartono": 8,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
@@ -89,114 +89,114 @@
     "Koperasi/UMKM": 54,
     "Kinerja BUMN": 15,
     "Perdagangan": 33,
-    "Hukum/Audit": 20,
-    "Konflik Publik": 11
+    "Hukum/Audit": 22,
+    "Konflik Publik": 10
   },
   "top_headlines": [
     {
-      "title": "Menkop Siapkan Konsorsium Ambil Alih Aset KB Bank untuk Hidupkan Kembali Bukopin - TOPIK.ID",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 08:54:39 GMT",
-      "link": "https://www.topik.id/menkop-siapkan-konsorsium-ambil-alih-aset-kb-bank-untuk-hidupkan-kembali-bukopin"
-    },
-    {
-      "title": "BPKN Dorong KPK Bongkar Tuntas OTT ATR/BPN, Jangan Berhenti di Hilir, Proses Hukum Kita Hormati - putraindonews",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 08:10:09 GMT",
-      "link": "https://putraindonews.com/berita/bpkn-dorong-kpk-bongkar-tuntas-ott-atrbpn-jangan-berhenti-di-hilir-proses-hukum-kita-hormati"
-    },
-    {
-      "title": "Koperasi Siapkan Konsorsium untuk Akuisisi Aset BBKP - TopBusiness.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 07:35:00 GMT",
-      "link": "https://www.topbusiness.id/139859/koperasi-siapkan-konsorsium-untuk-akuisisi-aset-bbkp.html"
-    },
-    {
-      "title": "Pakar nilai deteksi dini perkuat perlindungan produksi pangan - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 07:33:16 GMT",
-      "link": "https://www.antaranews.com/berita/5843835/pakar-nilai-deteksi-dini-perkuat-perlindungan-produksi-pangan"
-    },
-    {
-      "title": "Kemenkop Bidik Aset KB Bank untuk Kembalikan Peran Koperasi - Rmol.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 07:08:00 GMT",
-      "link": "https://rmol.id/read/2026/11/10/727821/kemenkop-bidik-aset-kb-bank-untuk-kembalikan-peran-koperasi"
-    },
-    {
-      "title": "Gubernur Muhidin Dorong Penguatan Tata Kelola KDKMP, 200 Bendahara Ikuti Pelatihan Kompetensi - Media Center Provinsi Kalimantan Selatan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 06:54:21 GMT",
-      "link": "https://diskominfomc.kalselprov.go.id/2026/11/10/gubernur-muhidin-dorong-penguatan-tata-kelola-kdkmp-200-bendahara-ikuti-pelatihan-kompetensi/"
-    },
-    {
-      "title": "Menteri Perdagangan Telusuri Penyebab Tepung Tapioka Mahal - Tempo.co",
+      "title": "Indonesia dan Tiongkok akan Sepakati Proses Perundingan CEPA di KTT APEC - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 06:47:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/menteri-perdagangan-telusuri-penyebab-tepung-tapioka-mahal-2304284"
+      "published": "Tue, 10 Nov 2026 17:07:38 GMT",
+      "link": "https://www.niaga.asia/indonesia-dan-tiongkok-akan-sepakati-proses-perundingan-cepa-di-ktt-apec/"
     },
     {
-      "title": "Perjuangkan Aspirasi Rakyat, Rizki Faisal Kawal Bantuan Bedah Rumah Rp2,66 Miliar untuk 133 Keluarga di Bintan - Golkarpedia",
-      "entity": "Rizki Faisal",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 06:42:17 GMT",
-      "link": "https://golkarpedia.com/perjuangkan-aspirasi-rakyat-rizki-faisal-kawal-bantuan-bedah-rumah-rp266-miliar-untuk-133-keluarga-di-bintan/"
-    },
-    {
-      "title": "BKSAP DPR Dorong Kerajinan Tasikmalaya Tembus Pasar Global - bsinews.id",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 06:12:24 GMT",
-      "link": "https://bsinews.id/bksap-dpr-kerajinan-tasikmalaya-global"
-    },
-    {
-      "title": "Jika Presiden Bisa Disadap, Bagaimana Nasib Rakyat? - Mediakarya.id",
-      "entity": "BPKN",
+      "title": "KPPU Kanwil I Catat 21 Laporan Dugaan Pelanggaran Persaingan Usaha - RRI.co.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 05:23:00 GMT",
-      "link": "https://www.mediakarya.id/jika-presiden-bisa-disadap-bagaimana-nasib-rakyat/"
+      "published": "Tue, 10 Nov 2026 16:10:00 GMT",
+      "link": "https://rri.co.id/padang/regional/2886656/kppu-kanwil-i-catat-21-laporan-dugaan-pelanggaran-persaingan-usaha"
     },
     {
-      "title": "Husein Fadlulloh Dorong Keterlibatan Perguruan Tinggi dalam Diplomasi Parlemen dan Pembahasan Regulasi AI - fraksi gerindra dpr-ri",
-      "entity": "Muhammad Husein Fadlulloh",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 05:13:25 GMT",
-      "link": "https://www.fraksigerindra.id/husein-fadlulloh-dorong-keterlibatan-perguruan-tinggi-dalam-diplomasi-parlemen-dan-pembahasan-regulasi-ai/"
+      "title": "KPPU Gandeng Media Awasi Persaingan Usaha di Sumbar - RRI.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 16:09:00 GMT",
+      "link": "https://rri.co.id/padang/regional/2886641/kppu-gandeng-media-awasi-persaingan-usaha-di-sumbar"
     },
     {
-      "title": "Koperasi Mau Rebut Kembali Bukopin Ferry Juliantono Siapkan Konsorsium Akuisisi - Kontan TV",
+      "title": "Dugaan Kartel Sawit dan Proyek RS Paru Sumbar Masuk Radar Pengawasan KPPU - Arunala",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 16:02:00 GMT",
+      "link": "https://www.arunala.com/berita/214334/dugaan-kartel-sawit-dan-proyek-rs-paru-sumbar-masuk-radar-pengawasan-kppu.html"
+    },
+    {
+      "title": "Menteri Perdagangan dorong produsen lampu surya perluas pasar ekspor - IDNFinancials",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 16:00:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/71513/menteri-perdagangan-dorong-produsen-lampu-surya-perluas-pasar-ekspor"
+    },
+    {
+      "title": "KPPU Sebut Kuat Dugaan Terjadi Kartel Penetapan Harga Sawit Swadaya di Pesisir Selatan - Bisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 15:42:14 GMT",
+      "link": "https://sumatra.bisnis.com/read/20261110/534/2020254/kppu-sebut-kuat-dugaan-terjadi-kartel-penetapan-harga-sawit-swadaya-di-pesisir-selatan"
+    },
+    {
+      "title": "Danantara-BP BUMN siapkan skema kredit petani lewat Kopdes Merah Putih - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 15:31:43 GMT",
+      "link": "https://www.antaranews.com/berita/5845259/danantara-bp-bumn-siapkan-skema-kredit-petani-lewat-kopdes-merah-putih"
+    },
+    {
+      "title": "Kementerian Koperasi Perkuat Kompetensi Bendahara KDKMP, Dorong Tata Kelola Keuangan yang Profesional dan Akuntabel - Media Center Provinsi Kalimantan Selatan",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 04:47:45 GMT",
-      "link": "https://tv.kontan.co.id/video/HXMoXY8Rk5U"
+      "published": "Tue, 10 Nov 2026 15:19:08 GMT",
+      "link": "https://diskominfomc.kalselprov.go.id/2026/11/10/kementerian-koperasi-perkuat-kompetensi-bendahara-kdkmp-dorong-tata-kelola-keuangan-yang-profesional-dan-akuntabel/"
     },
     {
-      "title": "Herman Khaeron Ungkap Sikap Fraksi Demokrat soal Tindak Lanjut Polemik Ijazah Gibran - Kompas.tv",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 03:44:00 GMT",
-      "link": "https://www.kompas.tv/nasional/700693/herman-khaeron-ungkap-sikap-fraksi-demokrat-soal-tindak-lanjut-polemik-ijazah-gibran"
+      "title": "Unand dan KPPU Perkuat Pemahaman Implementasi Kebijakan dan Hukum Persaingan Usaha - Padang Media",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 15:16:52 GMT",
+      "link": "https://padangmedia.com/berita/unand-dan-kppu-perkuat-pemahaman-implementasi-kebijakan-dan-hukum-persaingan-usaha/"
     },
     {
-      "title": "Andre Rosiade Salurkan Bantuan Pendidikan ke SD Negeri 25 Padang - bsinews.id",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 03:31:30 GMT",
-      "link": "https://bsinews.id/andre-rosiade-bantuan-pendidikan-padang"
+      "title": "Soroti Tata Niaga Sawit dan Posisi Tawar Petani, KPPU Kanwil I Ajak Jurnalis Padang Kawal Persaingan Usaha Sehat - Sakato.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 15:02:23 GMT",
+      "link": "https://sakato.co.id/soroti-tata-niaga-sawit-dan-posisi-tawar-petani-kppu-kanwil-i-ajak-jurnalis-padang-kawal-persaingan-usaha-sehat/"
     },
     {
-      "title": "Andre Rosiade Salurkan Bantuan AC hingga Laptop untuk SDN 25 Koto Panjang - detikNews",
-      "entity": "Andre Rosiade",
+      "title": "Dony Oskaria Pastikan BUMN Dukung Penertiban Kawasan Hutan - Mimbarsumbar.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 14:49:19 GMT",
+      "link": "https://mimbarsumbar.id/dony-oskaria-pastikan-bumn-dukung-penertiban-kawasan-hutan/"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan secara proaktif menanggapi hujan lebat, banjir, dan tanah longsor. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 14:37:12 GMT",
+      "link": "https://www.vietnam.vn/id/nganh-cong-thuong-chu-dong-ung-pho-voi-mua-lu-sat-lo-dat"
+    },
+    {
+      "title": "BPKN Desak Pengusutan Tuntas Penyadapan Ilegal Presiden Prabowo dan Sejumlah Tokoh - JPNN.com",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 14:28:50 GMT",
+      "link": "https://www.jpnn.com/news/bpkn-desak-pengusutan-tuntas-penyadapan-ilegal-presiden-prabowo-dan-sejumlah-tokoh"
+    },
+    {
+      "title": "Keterlaluan, SPPG Jadikan Babi Menu MBG, HMI Sumut, Tutup Permanen - www.metro-online.co",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 13:47:00 GMT",
+      "link": "https://www.metro-online.co/2026/11/bangsat-sppg-jadikan-babi-menu-mbg-hmi.html"
+    },
+    {
+      "title": "Rieke tekankan pentingnya Satu Data Indonesia - ANTARA News Jawa Barat",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 03:20:56 GMT",
-      "link": "https://news.detik.com/berita/d-8746122/andre-rosiade-salurkan-bantuan-ac-hingga-laptop-untuk-sdn-25-koto-panjang"
+      "published": "Tue, 10 Nov 2026 13:17:49 GMT",
+      "link": "https://jabar.antaranews.com/berita/718231/rieke-tekankan-pentingnya-satu-data-indonesia"
     }
   ]
 }
