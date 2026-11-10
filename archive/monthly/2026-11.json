@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-09T18:17:05.908800",
+  "generated_at": "2026-11-10T01:52:42.390557",
   "party_counts_7d": {
-    "Gerindra": 29,
-    "PDI-P": 17,
-    "Golkar": 18,
+    "Gerindra": 30,
+    "PDI-P": 16,
+    "Golkar": 19,
     "NasDem": 1,
     "PKB": 11,
-    "PKS": 10,
-    "PAN": 1,
+    "PKS": 11,
+    "PAN": 2,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 66,
     "PDI-P": 82,
     "Golkar": 90,
     "NasDem": 10,
     "PKB": 51,
-    "PKS": 43,
-    "PAN": 10,
-    "Demokrat": 31
+    "PKS": 44,
+    "PAN": 11,
+    "Demokrat": 30
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
+    "bumn": 42,
     "umkm": 26,
-    "danantara": 24,
-    "investasi": 47,
+    "danantara": 23,
+    "investasi": 46,
+    "ekspor": 17,
     "perdagangan": 9,
-    "ekspor": 18,
     "impor": 6,
-    "koperasi": 34,
+    "koperasi": 33,
     "merger-akuisisi": 7,
     "kartel-monopoli": 10
   },
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 18,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 17,
-    "Mulyadi": 5,
+    "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 3,
     "Darmadi Durianto": 10,
@@ -61,14 +61,14 @@
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 17,
-    "Nurdin Halid": 18,
+    "Nurdin Halid": 17,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 6,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 2,
+    "Muhammad Sarmuji": 3,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
@@ -77,21 +77,99 @@
     "Ida Fauziyah": 6,
     "Amin Ak.": 20,
     "Rizal Bawazier": 10,
+    "Ghufran": 1,
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 9,
+    "Iskandar": 10,
     "Sartono": 9,
-    "Herman Khaeron": 20,
+    "Herman Khaeron": 19,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 56,
+    "Koperasi/UMKM": 55,
     "Kinerja BUMN": 15,
-    "Perdagangan": 33,
+    "Perdagangan": 32,
     "Hukum/Audit": 19,
-    "Konflik Publik": 9
+    "Konflik Publik": 10
   },
   "top_headlines": [
+    {
+      "title": "Babak Baru Koperasi Indonesia UU Dirombak, Aset Bank Diambil Alih - Kontan TV",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 01:34:25 GMT",
+      "link": "https://tv.kontan.co.id/video/kel6WZTn0zM?source=home_tv"
+    },
+    {
+      "title": "Mendag Lepas Ekspor 24,9 Ton Makanan Ringan PT Dua Kelinci ke Negeri Kanguru - www.agrofarm.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 01:24:12 GMT",
+      "link": "http://www.agrofarm.co.id/2026/11/mendag-lepas-ekspor-249-ton-makanan-ringan-pt-dua-kelinci-ke-negeri-kanguru/"
+    },
+    {
+      "title": "Kemenkop sertifikasi 50 ribu bendahara KDKMP hingga Desember 2026 - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 01:15:35 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/434959/kemenkop-sertifikasi-50-ribu-bendahara-kdkmp-hingga-desember-2026"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan telah menyelesaikan kerangka harga tenaga surya untuk tahun 2026, dengan harga maksimum 2.120 VND/kWh. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 01:00:36 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-chot-khung-gia-dien-mat-troi-nam-2026-cao-nhat-2-120-dong-kwh"
+    },
+    {
+      "title": "Hari Pahlawan 10 November, Mulyadi Ajak Elemen Bangsa Doakan Para Pahlawan Pejuang Kemerdekaan RI - Kedai Pena",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Tue, 10 Nov 2026 00:59:05 GMT",
+      "link": "https://www.kedaipena.com/hari-pahlawan-10-november-mulyadi-ajak-elemen-bangsa-doakan-para-pahlawan-pejuang-kemerdekaan-ri/"
+    },
+    {
+      "title": "Kemenkop Persiapkan Konsorsium Untuk Ambil Alih Aset KB Bank - Kedai Pena",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 23:33:44 GMT",
+      "link": "https://www.kedaipena.com/kemenkop-persiapkan-konsorsium-untuk-ambil-alih-aset-kb-bank/"
+    },
+    {
+      "title": "Eks Karyawan Sritex Dukung Danantara Ambil Alih Perusahaan - https://voxindonews.com/",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 23:22:00 GMT",
+      "link": "https://voxindonews.com/read/news/2026-11-10-eks-karyawan-sritex-dukung-danantara-ambil-alih-perusahaan"
+    },
+    {
+      "title": "Sikapi Polemik Suket Gibran, Sekjen Golkar: Bisa Saja DPR Memakai Hak Menyatakan Pendapat - Kedai Pena",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Mon, 09 Nov 2026 22:13:55 GMT",
+      "link": "https://www.kedaipena.com/sikapi-polemik-suket-gibran-sekjen-golkar-bisa-saja-dpr-memakai-hak-menyatakan-pendapat/"
+    },
+    {
+      "title": "Ekspor ke Australia, Mendag: Produk Senilai Rp1,03 Miliar - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 22:05:39 GMT",
+      "link": "https://indoposco.id/2026/11/10/ekspor-ke-australia-mendag-produk-senilai-rp103-miliar/"
+    },
+    {
+      "title": "Indonesia launches regional desks to accelerate investment - ANTARA News Mataram",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 21:52:56 GMT",
+      "link": "https://mataram.antaranews.com/berita/581515/indonesia-launches-regional-desks-to-accelerate-investment"
+    },
+    {
+      "title": "Mendagri Tito minta Kemendag membantu pulihkan 12 pasar di Aceh - ANTARA News Mataram",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 09 Nov 2026 21:36:26 GMT",
+      "link": "https://mataram.antaranews.com/berita/581471/mendagri-tito-minta-kemendag-membantu-pulihkan-12-pasar-di-aceh"
+    },
     {
       "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
@@ -119,83 +197,6 @@
       "kind": "lembaga",
       "published": "Mon, 09 Nov 2026 17:00:40 GMT",
       "link": "https://www.vietnam.vn/id/bo-truong-le-manh-hung-dong-chu-tri-ky-hop-lan-thu-8-uy-ban-hon-hop-viet-nam-nhat-ban-ve-hop-tac-cong-nghiep-thuong-mai-va-nang-luong"
-    },
-    {
-      "title": "BRI Buka Peluang Merger Anak Usaha, Investor Perlu Mencermati - Pontianak Post",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 16:33:55 GMT",
-      "link": "https://pontianakpost.jawapos.com/ekonomi/2611090104/bri-buka-peluang-merger-anak-usaha-investor-perlu-mencermati"
-    },
-    {
-      "title": "Kemenkop sebut Banten miliki potensi ekonomi besar hingga di desa - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 15:52:49 GMT",
-      "link": "https://www.antaranews.com/berita/5842783/kemenkop-sebut-banten-miliki-potensi-ekonomi-besar-hingga-di-desa"
-    },
-    {
-      "title": "Menkop Ungkap Tiga Peran Strategis Koperasi Merah Putih - RRI.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 15:45:00 GMT",
-      "link": "https://rri.co.id/nasional/2882905/menkop-ungkap-tiga-peran-strategis-koperasi-merah-putih"
-    },
-    {
-      "title": "Tito minta Kemendag bantu pulihkan 12 pasar terdampak bencana Aceh - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 15:18:15 GMT",
-      "link": "https://www.antaranews.com/berita/5842719/tito-minta-kemendag-bantu-pulihkan-12-pasar-terdampak-bencana-aceh"
-    },
-    {
-      "title": "Kemendag Dorong UMKM Manfaatkan Perjanjian Perdagangan Internasional - RRI.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 14:06:09 GMT",
-      "link": "https://rri.co.id/batam/regional/2880803/kemendag-dorong-umkm-manfaatkan-perjanjian-perdagangan-internasional"
-    },
-    {
-      "title": "Menteri Perdagangan Lepas Ekspor Produk Dua Kelinci ke Australia, Perluas Pasar Hingga Perth - Seputar Muria",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:48:51 GMT",
-      "link": "https://www.seputarmuria.com/menteri-perdagangan-lepas-ekspor-produk-dua-kelinci-ke-australia-perluas-pasar-hingga-perth/"
-    },
-    {
-      "title": "Ferry Siapkan Konsorsium Koperasi untuk Akuisisi Aset KB Bank - cwibc.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:28:36 GMT",
-      "link": "https://cwibc.co.id/ferry-konsorsium-koperasi-akuisisi-aset-kb-bank"
-    },
-    {
-      "title": "RUU Perkoperasian - TheStance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:24:38 GMT",
-      "link": "https://thestance.id/your-policy/ruu-perkoperasian"
-    },
-    {
-      "title": "RUU Perkoperasian - TheStance",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:24:38 GMT",
-      "link": "https://thestance.id/your-policy/ruu-perkoperasian"
-    },
-    {
-      "title": "Rencana Akuisisi Aset KB Bank, Menkop Ferry Siapkan Konsorsium - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:21:56 GMT",
-      "link": "https://twaslnews1.twaslnews.com/7379847/"
-    },
-    {
-      "title": "Danantara Rombak Bisnis Investasi BUMN, Dana Kelolaan Rp85 Triliun - KabarBursa.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 09 Nov 2026 13:15:00 GMT",
-      "link": "https://www.kabarbursa.com/makro/danantara-rombak-bisnis-investasi-bumn-dana-kelolaan-rp85-triliun"
     }
   ]
 }
