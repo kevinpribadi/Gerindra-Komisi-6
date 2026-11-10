@@ -1,6 +1,6 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-10T17:28:49.872126",
+  "generated_at": "2026-11-10T22:49:25.704746",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 17,
@@ -14,12 +14,12 @@
   "party_counts_30d": {
     "Gerindra": 68,
     "PDI-P": 79,
-    "Golkar": 87,
+    "Golkar": 88,
     "NasDem": 10,
     "PKB": 51,
     "PKS": 44,
     "PAN": 12,
-    "Demokrat": 30
+    "Demokrat": 29
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
+    "bumn": 45,
     "umkm": 23,
     "danantara": 21,
-    "ekspor": 20,
+    "ekspor": 19,
     "perdagangan": 11,
     "koperasi": 37,
-    "merger-akuisisi": 8,
-    "investasi": 42,
+    "investasi": 43,
+    "merger-akuisisi": 7,
     "kartel-monopoli": 15,
     "impor": 5
   },
@@ -66,7 +66,7 @@
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
-    "Firnando Hadityo Ganinduto": 6,
+    "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 3,
     "Randi Zulmariadi": 5,
@@ -81,18 +81,32 @@
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
-    "Sartono": 8,
+    "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
     "Koperasi/UMKM": 54,
-    "Kinerja BUMN": 15,
-    "Perdagangan": 33,
-    "Hukum/Audit": 22,
+    "Kinerja BUMN": 16,
+    "Perdagangan": 32,
+    "Hukum/Audit": 21,
     "Konflik Publik": 10
   },
   "top_headlines": [
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 20:21:28 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261111/MTEyNg%3D%3D"
+    },
+    {
+      "title": "ANTARA News Sumatera Barat - Berita Terkini Padang, Sumatera Barat - ANTARA News Sumbar",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
+      "link": "https://sumbar.antaranews.com/video/5845447/kppu-sebut-persekongkolan-tender-jadi-pelanggaran-dominan-di-sumbagut"
+    },
     {
       "title": "Indonesia dan Tiongkok akan Sepakati Proses Perundingan CEPA di KTT APEC - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
@@ -157,6 +171,13 @@
       "link": "https://padangmedia.com/berita/unand-dan-kppu-perkuat-pemahaman-implementasi-kebijakan-dan-hukum-persaingan-usaha/"
     },
     {
+      "title": "LPDB Salurkan Rp 469,65 Miliar untuk 14 Koperasi Perempuan, Jangkau 363 Ribu Anggota - InvestorTrust",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 15:07:00 GMT",
+      "link": "https://investortrust.id/business/122129/lpdb-salurkan-rp-469-65-miliar-untuk-14-koperasi-perempuan-jangkau-363-ribu-anggota"
+    },
+    {
       "title": "Soroti Tata Niaga Sawit dan Posisi Tawar Petani, KPPU Kanwil I Ajak Jurnalis Padang Kawal Persaingan Usaha Sehat - Sakato.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
@@ -176,27 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 10 Nov 2026 14:37:12 GMT",
       "link": "https://www.vietnam.vn/id/nganh-cong-thuong-chu-dong-ung-pho-voi-mua-lu-sat-lo-dat"
-    },
-    {
-      "title": "BPKN Desak Pengusutan Tuntas Penyadapan Ilegal Presiden Prabowo dan Sejumlah Tokoh - JPNN.com",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 14:28:50 GMT",
-      "link": "https://www.jpnn.com/news/bpkn-desak-pengusutan-tuntas-penyadapan-ilegal-presiden-prabowo-dan-sejumlah-tokoh"
-    },
-    {
-      "title": "Keterlaluan, SPPG Jadikan Babi Menu MBG, HMI Sumut, Tutup Permanen - www.metro-online.co",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 13:47:00 GMT",
-      "link": "https://www.metro-online.co/2026/11/bangsat-sppg-jadikan-babi-menu-mbg-hmi.html"
-    },
-    {
-      "title": "Rieke tekankan pentingnya Satu Data Indonesia - ANTARA News Jawa Barat",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 13:17:49 GMT",
-      "link": "https://jabar.antaranews.com/berita/718231/rieke-tekankan-pentingnya-satu-data-indonesia"
     }
   ]
 }
