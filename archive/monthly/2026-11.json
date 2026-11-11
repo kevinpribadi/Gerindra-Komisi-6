@@ -1,15 +1,15 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-10T22:49:25.704746",
+  "generated_at": "2026-11-11T02:30:41.168151",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 17,
     "Golkar": 19,
     "NasDem": 1,
-    "PKB": 11,
-    "PKS": 11,
+    "PKB": 12,
+    "PKS": 10,
     "PAN": 3,
-    "Demokrat": 3
+    "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 68,
@@ -19,7 +19,7 @@
     "PKB": 51,
     "PKS": 44,
     "PAN": 12,
-    "Demokrat": 29
+    "Demokrat": 30
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 45,
-    "umkm": 23,
+    "bumn": 44,
+    "umkm": 24,
     "danantara": 21,
-    "ekspor": 19,
+    "ekspor": 18,
     "perdagangan": 11,
-    "koperasi": 37,
+    "koperasi": 38,
     "investasi": 43,
     "merger-akuisisi": 7,
-    "kartel-monopoli": 15,
+    "kartel-monopoli": 14,
     "impor": 5
   },
   "member_counts_30d": {
@@ -81,24 +81,59 @@
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
-    "Sartono": 7,
+    "Sartono": 8,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 54,
+    "Koperasi/UMKM": 57,
     "Kinerja BUMN": 16,
     "Perdagangan": 32,
-    "Hukum/Audit": 21,
+    "Hukum/Audit": 22,
     "Konflik Publik": 10
   },
   "top_headlines": [
+    {
+      "title": "UMY dan Kemendag Latih 50 Mahasiswa Jadi Agregator Digital Pendamping UMKM - LLDIKTI Wilayah V",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 02:25:09 GMT",
+      "link": "https://lldikti5.kemdiktisaintek.go.id/home/detailpost/umy-dan-kemendag-latih-50-mahasiswa-jadi-agregator-digital-pendamping-umkm"
+    },
+    {
+      "title": "Airlangga Targetkan Tiga Regulasi Rampung 2027 untuk Aksesi OECD - RM.ID",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 23:30:00 GMT",
+      "link": "https://rm.id/baca-berita/ekonomi-bisnis/333885/airlangga-tiga-regulasi-ditarget-rampung-2027-80-syarat-terpenuhi-ri-kebut-aksesi-oecd"
+    },
+    {
+      "title": "KPPU Soroti Dugaan Kesepakatan Harga Sawit di Pessel, Posisi Tawar Petani Jadi Perhatian - Langgam.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 23:29:59 GMT",
+      "link": "https://langgam.id/kppu-soroti-dugaan-kesepakatan-harga-sawit-di-pessel-posisi-tawar-petani-jadi-perhatian/"
+    },
+    {
+      "title": "Danantara siapkan skema kredit petani lewat Kopdes MP - ANTARA News Mataram",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 10 Nov 2026 22:03:25 GMT",
+      "link": "https://mataram.antaranews.com/berita/581791/danantara-siapkan-skema-kredit-petani-lewat-kopdes-mp"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Tue, 10 Nov 2026 20:21:28 GMT",
       "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261111/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Sartono Demokrat Minta Masyarakat Waspadai Provokasi dan Isu Hoaks - jurnas.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Tue, 10 Nov 2026 18:16:08 GMT",
+      "link": "https://www.jurnas.com/artikel/86374/sartono-demokrat-minta-masyarakat-waspadai-provokasi-dan-isu-hoaks/?page=detail&id=86374&seo=Sartono-Demokrat-Minta-Masyarakat-Waspadai-Provokasi-dan-Isu-Hoaks"
     },
     {
       "title": "ANTARA News Sumatera Barat - Berita Terkini Padang, Sumatera Barat - ANTARA News Sumbar",
@@ -162,41 +197,6 @@
       "kind": "lembaga",
       "published": "Tue, 10 Nov 2026 15:19:08 GMT",
       "link": "https://diskominfomc.kalselprov.go.id/2026/11/10/kementerian-koperasi-perkuat-kompetensi-bendahara-kdkmp-dorong-tata-kelola-keuangan-yang-profesional-dan-akuntabel/"
-    },
-    {
-      "title": "Unand dan KPPU Perkuat Pemahaman Implementasi Kebijakan dan Hukum Persaingan Usaha - Padang Media",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:16:52 GMT",
-      "link": "https://padangmedia.com/berita/unand-dan-kppu-perkuat-pemahaman-implementasi-kebijakan-dan-hukum-persaingan-usaha/"
-    },
-    {
-      "title": "LPDB Salurkan Rp 469,65 Miliar untuk 14 Koperasi Perempuan, Jangkau 363 Ribu Anggota - InvestorTrust",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:07:00 GMT",
-      "link": "https://investortrust.id/business/122129/lpdb-salurkan-rp-469-65-miliar-untuk-14-koperasi-perempuan-jangkau-363-ribu-anggota"
-    },
-    {
-      "title": "Soroti Tata Niaga Sawit dan Posisi Tawar Petani, KPPU Kanwil I Ajak Jurnalis Padang Kawal Persaingan Usaha Sehat - Sakato.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:02:23 GMT",
-      "link": "https://sakato.co.id/soroti-tata-niaga-sawit-dan-posisi-tawar-petani-kppu-kanwil-i-ajak-jurnalis-padang-kawal-persaingan-usaha-sehat/"
-    },
-    {
-      "title": "Dony Oskaria Pastikan BUMN Dukung Penertiban Kawasan Hutan - Mimbarsumbar.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 14:49:19 GMT",
-      "link": "https://mimbarsumbar.id/dony-oskaria-pastikan-bumn-dukung-penertiban-kawasan-hutan/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan secara proaktif menanggapi hujan lebat, banjir, dan tanah longsor. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 14:37:12 GMT",
-      "link": "https://www.vietnam.vn/id/nganh-cong-thuong-chu-dong-ung-pho-voi-mua-lu-sat-lo-dat"
     }
   ]
 }
