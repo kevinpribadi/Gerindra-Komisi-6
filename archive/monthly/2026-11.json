@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-11T02:30:41.168151",
+  "generated_at": "2026-11-11T10:18:29.234536",
   "party_counts_7d": {
     "Gerindra": 32,
     "PDI-P": 17,
-    "Golkar": 19,
-    "NasDem": 1,
-    "PKB": 12,
-    "PKS": 10,
+    "Golkar": 21,
+    "NasDem": 3,
+    "PKB": 14,
+    "PKS": 12,
     "PAN": 3,
-    "Demokrat": 4
+    "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 68,
-    "PDI-P": 79,
-    "Golkar": 88,
-    "NasDem": 10,
-    "PKB": 51,
-    "PKS": 44,
+    "Gerindra": 66,
+    "PDI-P": 80,
+    "Golkar": 91,
+    "NasDem": 13,
+    "PKB": 52,
+    "PKS": 43,
     "PAN": 12,
-    "Demokrat": 30
+    "Demokrat": 29
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,169 +34,170 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "umkm": 24,
-    "danantara": 21,
+    "bumn": 43,
+    "umkm": 27,
+    "danantara": 22,
+    "perdagangan": 9,
     "ekspor": 18,
-    "perdagangan": 11,
-    "koperasi": 38,
-    "investasi": 43,
-    "merger-akuisisi": 7,
+    "koperasi": 41,
+    "merger-akuisisi": 8,
+    "investasi": 41,
     "kartel-monopoli": 14,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 20,
+    "Muhammad Husein Fadlulloh": 18,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 17,
     "Mulyadi": 6,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 10,
+    "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 8,
     "Sadarestuwati": 11,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
-    "Nurdin Halid": 14,
-    "Gde Sumarjaya Linggih": 15,
+    "Nurdin Halid": 15,
+    "Gde Sumarjaya Linggih": 17,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 3,
+    "Asep Wahyuwijaya": 3,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 6,
+    "Ida Fauziyah": 7,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 10,
+    "Rizal Bawazier": 9,
     "Ghufran": 1,
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
-    "Sartono": 8,
+    "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 57,
+    "Koperasi/UMKM": 64,
     "Kinerja BUMN": 16,
-    "Perdagangan": 32,
-    "Hukum/Audit": 22,
-    "Konflik Publik": 10
+    "Perdagangan": 34,
+    "Hukum/Audit": 24,
+    "Konflik Publik": 13
   },
   "top_headlines": [
     {
-      "title": "UMY dan Kemendag Latih 50 Mahasiswa Jadi Agregator Digital Pendamping UMKM - LLDIKTI Wilayah V",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 02:25:09 GMT",
-      "link": "https://lldikti5.kemdiktisaintek.go.id/home/detailpost/umy-dan-kemendag-latih-50-mahasiswa-jadi-agregator-digital-pendamping-umkm"
-    },
-    {
-      "title": "Airlangga Targetkan Tiga Regulasi Rampung 2027 untuk Aksesi OECD - RM.ID",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 23:30:00 GMT",
-      "link": "https://rm.id/baca-berita/ekonomi-bisnis/333885/airlangga-tiga-regulasi-ditarget-rampung-2027-80-syarat-terpenuhi-ri-kebut-aksesi-oecd"
-    },
-    {
-      "title": "KPPU Soroti Dugaan Kesepakatan Harga Sawit di Pessel, Posisi Tawar Petani Jadi Perhatian - Langgam.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 23:29:59 GMT",
-      "link": "https://langgam.id/kppu-soroti-dugaan-kesepakatan-harga-sawit-di-pessel-posisi-tawar-petani-jadi-perhatian/"
-    },
-    {
-      "title": "Danantara siapkan skema kredit petani lewat Kopdes MP - ANTARA News Mataram",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 22:03:25 GMT",
-      "link": "https://mataram.antaranews.com/berita/581791/danantara-siapkan-skema-kredit-petani-lewat-kopdes-mp"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 20:21:28 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261111/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Sartono Demokrat Minta Masyarakat Waspadai Provokasi dan Isu Hoaks - jurnas.com",
-      "entity": "Sartono",
-      "kind": "anggota",
-      "published": "Tue, 10 Nov 2026 18:16:08 GMT",
-      "link": "https://www.jurnas.com/artikel/86374/sartono-demokrat-minta-masyarakat-waspadai-provokasi-dan-isu-hoaks/?page=detail&id=86374&seo=Sartono-Demokrat-Minta-Masyarakat-Waspadai-Provokasi-dan-Isu-Hoaks"
-    },
-    {
-      "title": "ANTARA News Sumatera Barat - Berita Terkini Padang, Sumatera Barat - ANTARA News Sumbar",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
-      "link": "https://sumbar.antaranews.com/video/5845447/kppu-sebut-persekongkolan-tender-jadi-pelanggaran-dominan-di-sumbagut"
-    },
-    {
-      "title": "Indonesia dan Tiongkok akan Sepakati Proses Perundingan CEPA di KTT APEC - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 17:07:38 GMT",
-      "link": "https://www.niaga.asia/indonesia-dan-tiongkok-akan-sepakati-proses-perundingan-cepa-di-ktt-apec/"
-    },
-    {
-      "title": "KPPU Kanwil I Catat 21 Laporan Dugaan Pelanggaran Persaingan Usaha - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 16:10:00 GMT",
-      "link": "https://rri.co.id/padang/regional/2886656/kppu-kanwil-i-catat-21-laporan-dugaan-pelanggaran-persaingan-usaha"
-    },
-    {
-      "title": "KPPU Gandeng Media Awasi Persaingan Usaha di Sumbar - RRI.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 16:09:00 GMT",
-      "link": "https://rri.co.id/padang/regional/2886641/kppu-gandeng-media-awasi-persaingan-usaha-di-sumbar"
-    },
-    {
-      "title": "Dugaan Kartel Sawit dan Proyek RS Paru Sumbar Masuk Radar Pengawasan KPPU - Arunala",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 16:02:00 GMT",
-      "link": "https://www.arunala.com/berita/214334/dugaan-kartel-sawit-dan-proyek-rs-paru-sumbar-masuk-radar-pengawasan-kppu.html"
-    },
-    {
-      "title": "Menteri Perdagangan dorong produsen lampu surya perluas pasar ekspor - IDNFinancials",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 16:00:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/71513/menteri-perdagangan-dorong-produsen-lampu-surya-perluas-pasar-ekspor"
-    },
-    {
-      "title": "KPPU Sebut Kuat Dugaan Terjadi Kartel Penetapan Harga Sawit Swadaya di Pesisir Selatan - Bisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:42:14 GMT",
-      "link": "https://sumatra.bisnis.com/read/20261110/534/2020254/kppu-sebut-kuat-dugaan-terjadi-kartel-penetapan-harga-sawit-swadaya-di-pesisir-selatan"
-    },
-    {
-      "title": "Danantara-BP BUMN siapkan skema kredit petani lewat Kopdes Merah Putih - ANTARA News",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:31:43 GMT",
-      "link": "https://www.antaranews.com/berita/5845259/danantara-bp-bumn-siapkan-skema-kredit-petani-lewat-kopdes-merah-putih"
-    },
-    {
-      "title": "Kementerian Koperasi Perkuat Kompetensi Bendahara KDKMP, Dorong Tata Kelola Keuangan yang Profesional dan Akuntabel - Media Center Provinsi Kalimantan Selatan",
+      "title": "Farida Dorong Penguatan Koperasi Pesantren untuk Kemandirian Ekonomi - شبكة تواصل الإخبارية",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 10 Nov 2026 15:19:08 GMT",
-      "link": "https://diskominfomc.kalselprov.go.id/2026/11/10/kementerian-koperasi-perkuat-kompetensi-bendahara-kdkmp-dorong-tata-kelola-keuangan-yang-profesional-dan-akuntabel/"
+      "published": "Wed, 11 Nov 2026 10:02:55 GMT",
+      "link": "https://twaslnews1.twaslnews.com/7493488/"
+    },
+    {
+      "title": "Komite Partai Kementerian Perindustrian dan Perdagangan: Terobosan dalam penerapan Resolusi 57 Politbiro untuk pembangunan Partai dan transformasi digital. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 09:57:50 GMT",
+      "link": "https://www.vietnam.vn/id/dang-uy-bo-cong-thuong-dot-pha-van-dung-nghi-quyet-57-cua-bo-chinh-tri-vao-cong-tac-xay-dung-dang-va-chuyen-doi-so"
+    },
+    {
+      "title": "Wamenkop Dorong Koperasi Pesantren Jadi Penggerak Kemandirian Ekonomi Umat - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 09:54:23 GMT",
+      "link": "https://news.detik.com/berita/d-8748586/wamenkop-dorong-koperasi-pesantren-jadi-penggerak-kemandirian-ekonomi-umat"
+    },
+    {
+      "title": "Asep Wahyuwijaya Minta Polemik Gibran Segera Dituntaskan, Ini Alasannya - Siaran Indonesia",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 09:50:00 GMT",
+      "link": "https://www.siaranindonesia.com/baca/20261111/asep-wahyuwijaya-minta-polemik-gibran-segera-dituntaskan.html"
+    },
+    {
+      "title": "65 Persen Sentimen Publik Negatif, Nurdin Halid: RUU Perlindungan Konsumen Perlu Lebih Adaptif - DPR RI",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 09:25:50 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/65-Persen-Sentimen-Publik-Negatif-Nurdin-Halid-RUU-Perlindungan-Konsumen-Perlu-Lebih-Adaptif-70526"
+    },
+    {
+      "title": "Batam sumbang 66,63 persen pertumbuhan ekonomi Kepri - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 09:20:59 GMT",
+      "link": "https://kepri.antaranews.com/berita/273275/batam-sumbang-6663-persen-pertumbuhan-ekonomi-kepri"
+    },
+    {
+      "title": "Pemerintah Naikkan Target Penyaluran KUR 2027 Jadi Rp 325 Triliun - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 09:09:25 GMT",
+      "link": "https://demokratis.co.id/pemerintah-target-penyaluran-kur-2027"
+    },
+    {
+      "title": "Amin AK Dorong Pengawasan Ketat Subsidi Bunga Mekaar PNM Agar UMKM Perempuan Naik Kelas - Suara Pemerintah",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 09:02:35 GMT",
+      "link": "https://suarapemerintah.id/2026/11/amin-ak-dorong-pengawasan-ketat-subsidi-bunga-mekaar-pnm-agar-umkm-perempuan-naik-kelas/"
+    },
+    {
+      "title": "Kemenkop Target Sertifikasi 50 Ribu Bendahara Kopdes hingga Pertengahan Desember - Telusur",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 08:48:36 GMT",
+      "link": "https://telusur.co.id/nasional/kemenkop-target-sertifikasi-50-ribu-bendahara-kopdes-hingga-pertengahan-desember"
+    },
+    {
+      "title": "Usul HMP Wapres Gibran, Asep Wahyuwijaya: Ini Bukan Soal Suka atau Tidak Suka, tapi Konstitusi - Suara.com",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 08:35:03 GMT",
+      "link": "https://www.suara.com/news/2026/11/11/153503/usul-hmp-wapres-gibran-asep-wahyuwijaya-ini-bukan-soal-suka-atau-tidak-suka-tapi-konstitusi"
+    },
+    {
+      "title": "OJKPerkuat Ketahanan SIBER & Perlindungan Konsumen Industri LPBBTI - RRI.co.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 08:30:00 GMT",
+      "link": "https://rri.co.id/bukittinggi/nasional/2888528/ojkperkuat-ketahanan-siber-perlindungan-konsumen-industri-lpbbti"
+    },
+    {
+      "title": "Teken Usulan HMP soal Ijazah Gibran, Legislator NasDem Asep Wahyuwijaya: Polemik Ini Harus Berakhir - Kedai Pena",
+      "entity": "Asep Wahyuwijaya",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 08:26:15 GMT",
+      "link": "https://www.kedaipena.com/teken-usulan-hmp-soal-ijazah-gibran-legislator-nasdem-asep-wahyuwijaya-polemik-ini-harus-berakhir/"
+    },
+    {
+      "title": "Demokrat minta polemik ijazah Gibran diselesaikan secara konstitusional - ANTARA News Sultra",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 07:51:21 GMT",
+      "link": "https://sultra.antaranews.com/berita/546223/demokrat-minta-polemik-ijazah-gibran-diselesaikan-secara-konstitusional"
+    },
+    {
+      "title": "Wacana Koperasi Akuisisi KB Bank Bergulir, Manajemen Tegaskan Tak Ada Divestasi Saham - TOPIK.ID",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 07:49:02 GMT",
+      "link": "https://www.topik.id/wacana-koperasi-akuisisi-kb-bank-bergulir-manajemen-tegaskan-tak-ada-divestasi-saham"
+    },
+    {
+      "title": "KPPU Terima 4 Laporan Dugaan Pelanggaran Persaingan Usaha dari Sumbar, 2 Terkait Sawit - Langgam.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 07:45:00 GMT",
+      "link": "https://langgam.id/kppu-terima-4-laporan-dugaan-pelanggaran-persaingan-usaha-dari-sumbar-2-terkait-sawit/"
     }
   ]
 }
