@@ -1,23 +1,23 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-11T10:18:29.234536",
+  "generated_at": "2026-11-11T18:21:35.504465",
   "party_counts_7d": {
-    "Gerindra": 32,
+    "Gerindra": 31,
     "PDI-P": 17,
-    "Golkar": 21,
+    "Golkar": 22,
     "NasDem": 3,
-    "PKB": 14,
-    "PKS": 12,
+    "PKB": 15,
+    "PKS": 13,
     "PAN": 3,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 63,
     "PDI-P": 80,
-    "Golkar": 91,
+    "Golkar": 92,
     "NasDem": 13,
     "PKB": 52,
-    "PKS": 43,
+    "PKS": 40,
     "PAN": 12,
     "Demokrat": 29
   },
@@ -34,21 +34,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
-    "umkm": 27,
-    "danantara": 22,
+    "bumn": 44,
+    "umkm": 26,
+    "danantara": 23,
     "perdagangan": 9,
-    "ekspor": 18,
+    "ekspor": 15,
     "koperasi": 41,
     "merger-akuisisi": 8,
-    "investasi": 41,
+    "investasi": 42,
     "kartel-monopoli": 14,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 3,
-    "Muhammad Husein Fadlulloh": 18,
+    "Khilmi": 1,
+    "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 17,
     "Mulyadi": 6,
@@ -61,7 +61,7 @@
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
-    "Nurdin Halid": 15,
+    "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 17,
     "Ahmad Labib": 11,
     "Sarifah Suraidah": 2,
@@ -77,8 +77,8 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 7,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 9,
-    "Ghufran": 1,
+    "Rizal Bawazier": 5,
+    "Ghufran": 2,
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
@@ -87,117 +87,117 @@
     "Faujia Helga": 2
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 64,
-    "Kinerja BUMN": 16,
-    "Perdagangan": 34,
-    "Hukum/Audit": 24,
+    "Koperasi/UMKM": 66,
+    "Kinerja BUMN": 14,
+    "Perdagangan": 30,
+    "Hukum/Audit": 23,
     "Konflik Publik": 13
   },
   "top_headlines": [
     {
-      "title": "Farida Dorong Penguatan Koperasi Pesantren untuk Kemandirian Ekonomi - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Koperasi",
+      "title": "Mau Bikin Investor Percaya? Rosan Ungkap Kunci Danareksa! - Warta Ekonomi",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 10:02:55 GMT",
-      "link": "https://twaslnews1.twaslnews.com/7493488/"
+      "published": "Wed, 11 Nov 2026 16:32:00 GMT",
+      "link": "https://wartaekonomi.co.id/read647276/mau-bikin-investor-percaya-rosan-ungkap-kunci-danareksa"
     },
     {
-      "title": "Komite Partai Kementerian Perindustrian dan Perdagangan: Terobosan dalam penerapan Resolusi 57 Politbiro untuk pembangunan Partai dan transformasi digital. - Vietnam.vn",
+      "title": "Politik Memanas, Danantara Jaga Kepercayaan Investor Lewat 3 Hal Ini - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 16:24:48 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261111232202-17-784456/politik-memanas-danantara-jaga-kepercayaan-investor-lewat-3-hal-ini"
+    },
+    {
+      "title": "CEO Danantara Dorong Danareksa Investment Perkuat Pasar Modal Indonesia - TVRI News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 15:59:00 GMT",
+      "link": "https://nasional.tvrinews.com/berita/tkicev3-ceo-danantara-dorong-danareksa-investment-perkuat-pasar-modal-indonesia"
+    },
+    {
+      "title": "Nasim Khan Minta Koperasi Syariah Dapat Tempat Khusus dalam RUU Perkoperasian - Telusur",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Wed, 11 Nov 2026 15:19:50 GMT",
+      "link": "https://telusur.co.id/ekuin/nasim-khan-minta-koperasi-syariah-dapat-tempat-khusus-dalam-ruu-perkoperasian"
+    },
+    {
+      "title": "Kemendag Catat Potensi Transaksi USD3,39 Juta di Jeddah - شبكة تواصل الإخبارية",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 09:57:50 GMT",
-      "link": "https://www.vietnam.vn/id/dang-uy-bo-cong-thuong-dot-pha-van-dung-nghi-quyet-57-cua-bo-chinh-tri-vao-cong-tac-xay-dung-dang-va-chuyen-doi-so"
+      "published": "Wed, 11 Nov 2026 14:47:54 GMT",
+      "link": "https://twaslnews1.twaslnews.com/7512482/"
     },
     {
-      "title": "Wamenkop Dorong Koperasi Pesantren Jadi Penggerak Kemandirian Ekonomi Umat - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 09:54:23 GMT",
-      "link": "https://news.detik.com/berita/d-8748586/wamenkop-dorong-koperasi-pesantren-jadi-penggerak-kemandirian-ekonomi-umat"
-    },
-    {
-      "title": "Asep Wahyuwijaya Minta Polemik Gibran Segera Dituntaskan, Ini Alasannya - Siaran Indonesia",
-      "entity": "Asep Wahyuwijaya",
-      "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 09:50:00 GMT",
-      "link": "https://www.siaranindonesia.com/baca/20261111/asep-wahyuwijaya-minta-polemik-gibran-segera-dituntaskan.html"
-    },
-    {
-      "title": "65 Persen Sentimen Publik Negatif, Nurdin Halid: RUU Perlindungan Konsumen Perlu Lebih Adaptif - DPR RI",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 09:25:50 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/65-Persen-Sentimen-Publik-Negatif-Nurdin-Halid-RUU-Perlindungan-Konsumen-Perlu-Lebih-Adaptif-70526"
-    },
-    {
-      "title": "Batam sumbang 66,63 persen pertumbuhan ekonomi Kepri - ANTARA News Kepri",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 09:20:59 GMT",
-      "link": "https://kepri.antaranews.com/berita/273275/batam-sumbang-6663-persen-pertumbuhan-ekonomi-kepri"
-    },
-    {
-      "title": "Pemerintah Naikkan Target Penyaluran KUR 2027 Jadi Rp 325 Triliun - Demokratis.co.id",
+      "title": "Family Food Jajaki Bisnis Makanan Siap Saji US$3,39 Juta di Arab Saudi - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 09:09:25 GMT",
-      "link": "https://demokratis.co.id/pemerintah-target-penyaluran-kur-2027"
+      "published": "Wed, 11 Nov 2026 14:00:00 GMT",
+      "link": "https://swa.co.id/read/479556/family-food-jajaki-bisnis-makanan-siap-saji-us339-juta-di-arab-saudi"
     },
     {
-      "title": "Amin AK Dorong Pengawasan Ketat Subsidi Bunga Mekaar PNM Agar UMKM Perempuan Naik Kelas - Suara Pemerintah",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 09:02:35 GMT",
-      "link": "https://suarapemerintah.id/2026/11/amin-ak-dorong-pengawasan-ketat-subsidi-bunga-mekaar-pnm-agar-umkm-perempuan-naik-kelas/"
-    },
-    {
-      "title": "Kemenkop Target Sertifikasi 50 Ribu Bendahara Kopdes hingga Pertengahan Desember - Telusur",
-      "entity": "Kementerian Koperasi",
+      "title": "Bos Danantara Ungkap Tujuan Bentuk Danareksa Investment Management - CNBC Indonesia",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 08:48:36 GMT",
-      "link": "https://telusur.co.id/nasional/kemenkop-target-sertifikasi-50-ribu-bendahara-kopdes-hingga-pertengahan-desember"
+      "published": "Wed, 11 Nov 2026 13:39:47 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261111203418-17-784435/bos-danantara-ungkap-tujuan-bentuk-danareksa-investment-management"
     },
     {
-      "title": "Usul HMP Wapres Gibran, Asep Wahyuwijaya: Ini Bukan Soal Suka atau Tidak Suka, tapi Konstitusi - Suara.com",
-      "entity": "Asep Wahyuwijaya",
+      "title": "Danareksa Berubah Nama Jadi Kawasan Industri Indonesia - Jawa Pos",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 13:20:55 GMT",
+      "link": "https://batampos.jawapos.com/ekbis/2611110045/danareksa-berubah-nama-jadi-kawasan-industri-indonesia"
+    },
+    {
+      "title": "Ghufran Teken Hak Menyatakan Pendapat, Syarat Pemakzulan Gibran Terpenuh - harianrakyataceh.com",
+      "entity": "Ghufran",
       "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 08:35:03 GMT",
-      "link": "https://www.suara.com/news/2026/11/11/153503/usul-hmp-wapres-gibran-asep-wahyuwijaya-ini-bukan-soal-suka-atau-tidak-suka-tapi-konstitusi"
+      "published": "Wed, 11 Nov 2026 13:13:22 GMT",
+      "link": "https://harianrakyataceh.com/news/ghufran-teken-hak-menyatakan-pendapat-syarat-pemakzulan-gibran-terpenuh/index.html"
     },
     {
-      "title": "OJKPerkuat Ketahanan SIBER & Perlindungan Konsumen Industri LPBBTI - RRI.co.id",
+      "title": "Nurdin Halid Desak UU Perlindungan Konsumen Diperbarui - Bonepos.com",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 08:30:00 GMT",
-      "link": "https://rri.co.id/bukittinggi/nasional/2888528/ojkperkuat-ketahanan-siber-perlindungan-konsumen-industri-lpbbti"
+      "published": "Wed, 11 Nov 2026 12:41:07 GMT",
+      "link": "https://www.bonepos.com/2026/11/11/nurdin-halid-desak-uu-perlindungan-konsumen-diperbarui"
     },
     {
-      "title": "Teken Usulan HMP soal Ijazah Gibran, Legislator NasDem Asep Wahyuwijaya: Polemik Ini Harus Berakhir - Kedai Pena",
-      "entity": "Asep Wahyuwijaya",
+      "title": "Nurdin Halid Desak UU Perlindungan Konsumen Diperbarui - Bonepos.com",
+      "entity": "Nurdin Halid",
       "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 08:26:15 GMT",
-      "link": "https://www.kedaipena.com/teken-usulan-hmp-soal-ijazah-gibran-legislator-nasdem-asep-wahyuwijaya-polemik-ini-harus-berakhir/"
+      "published": "Wed, 11 Nov 2026 12:41:07 GMT",
+      "link": "https://www.bonepos.com/2026/11/11/nurdin-halid-desak-uu-perlindungan-konsumen-diperbarui"
     },
     {
-      "title": "Demokrat minta polemik ijazah Gibran diselesaikan secara konstitusional - ANTARA News Sultra",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 07:51:21 GMT",
-      "link": "https://sultra.antaranews.com/berita/546223/demokrat-minta-polemik-ijazah-gibran-diselesaikan-secara-konstitusional"
-    },
-    {
-      "title": "Wacana Koperasi Akuisisi KB Bank Bergulir, Manajemen Tegaskan Tak Ada Divestasi Saham - TOPIK.ID",
-      "entity": "Kementerian Koperasi",
+      "title": "65% Sentimen Publik Negatif, RUU Perlindungan Konsumen Perlu Lebih Adaptif - Lensa Medan",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 07:49:02 GMT",
-      "link": "https://www.topik.id/wacana-koperasi-akuisisi-kb-bank-bergulir-manajemen-tegaskan-tak-ada-divestasi-saham"
+      "published": "Wed, 11 Nov 2026 12:39:00 GMT",
+      "link": "https://www.lensamedan.co.id/2026/11/65-sentimen-publik-negatif-ruu.html"
     },
     {
-      "title": "KPPU Terima 4 Laporan Dugaan Pelanggaran Persaingan Usaha dari Sumbar, 2 Terkait Sawit - Langgam.id",
+      "title": "Punya AUM Terbesar di Indonesia, Danareksa Investments Bantah Dominasi Pasar MI - kontan.co.id",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 07:45:00 GMT",
-      "link": "https://langgam.id/kppu-terima-4-laporan-dugaan-pelanggaran-persaingan-usaha-dari-sumbar-2-terkait-sawit/"
+      "published": "Wed, 11 Nov 2026 12:21:35 GMT",
+      "link": "https://keuangan.kontan.co.id/news/punya-aum-terbesar-di-indonesia-danareksa-investments-bantah-dominasi-pasar-mi"
+    },
+    {
+      "title": "BP BUMN Bersama KDKMP Akan Terapkan Skema Kredit dengan Bunga 8%-9% untuk Petani - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 11:31:01 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-bersama-kdkmp-akan-terapkan-skema-kredit-dengan-bunga-8-9-untuk-petani/"
+    },
+    {
+      "title": "Empat MI BUMN Resmi Merger, Danareksa Investments Kelola Dana Rp 172,5 Triliun - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 11:15:00 GMT",
+      "link": "https://investortrust.id/market/122236/empat-mi-bumn-resmi-merger-danareksa-investments-kelola-dana-rp-172-5-triliun"
     }
   ]
 }
