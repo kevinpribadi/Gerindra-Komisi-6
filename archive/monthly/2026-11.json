@@ -1,15 +1,15 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-11T18:21:35.504465",
+  "generated_at": "2026-11-12T01:17:51.171354",
   "party_counts_7d": {
     "Gerindra": 31,
     "PDI-P": 17,
     "Golkar": 22,
     "NasDem": 3,
     "PKB": 15,
-    "PKS": 13,
+    "PKS": 12,
     "PAN": 3,
-    "Demokrat": 8
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 63,
@@ -17,7 +17,7 @@
     "Golkar": 92,
     "NasDem": 13,
     "PKB": 52,
-    "PKS": 40,
+    "PKS": 39,
     "PAN": 12,
     "Demokrat": 29
   },
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 44,
-    "umkm": 26,
-    "danantara": 23,
+    "umkm": 25,
+    "danantara": 22,
     "perdagangan": 9,
     "ekspor": 15,
     "koperasi": 41,
-    "merger-akuisisi": 8,
-    "investasi": 42,
+    "merger-akuisisi": 6,
+    "investasi": 43,
     "kartel-monopoli": 14,
     "impor": 5
   },
@@ -77,7 +77,7 @@
     "Nasim Khan": 20,
     "Ida Fauziyah": 7,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 5,
+    "Rizal Bawazier": 4,
     "Ghufran": 2,
     "Ismail": 13,
     "Abdul Hakim Bafagih": 1,
@@ -90,10 +90,31 @@
     "Koperasi/UMKM": 66,
     "Kinerja BUMN": 14,
     "Perdagangan": 30,
-    "Hukum/Audit": 23,
-    "Konflik Publik": 13
+    "Konflik Publik": 14,
+    "Hukum/Audit": 23
   },
   "top_headlines": [
+    {
+      "title": "Danantara Pasang Badan di Tengah Isu Gibran Mundur - beritabuana.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 01:14:16 GMT",
+      "link": "https://beritabuana.co/2026/11/12/danantara-pasang-badan-di-tengah-isu-gibran-mundur/"
+    },
+    {
+      "title": "Gudang Ekspedisi Cakung Ricuh, Ketua BPKN: Konsumen Jangan Jadi Korban Promo 11.11 - Mediakarya.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 00:53:00 GMT",
+      "link": "https://www.mediakarya.id/gudang-ekspedisi-cakung-ricuh-ketua-bpkn-konsumen-jangan-jadi-korban-promo-11-11/"
+    },
+    {
+      "title": "Kabar Wapres Gibran Mundur, Danantara Ungkap 3 Jurus Jaga Investor - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 00:00:20 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261112055919-17-784465/kabar-wapres-gibran-mundur-danantara-ungkap-3-jurus-jaga-investor"
+    },
     {
       "title": "Mau Bikin Investor Percaya? Rosan Ungkap Kunci Danareksa! - Warta Ekonomi",
       "entity": "Danantara",
@@ -130,6 +151,13 @@
       "link": "https://twaslnews1.twaslnews.com/7512482/"
     },
     {
+      "title": "KB Financial Bantah Jual KB Bank, Kemenkop Siap Konsorsium - https://feedberry.com/",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 14:05:15 GMT",
+      "link": "https://feedberry.com/artikel/kb-financial-bantah-jual-kb-bank-kemenkop-siap-konsorsium"
+    },
+    {
       "title": "Family Food Jajaki Bisnis Makanan Siap Saji US$3,39 Juta di Arab Saudi - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -158,46 +186,18 @@
       "link": "https://harianrakyataceh.com/news/ghufran-teken-hak-menyatakan-pendapat-syarat-pemakzulan-gibran-terpenuh/index.html"
     },
     {
+      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Wed, 11 Nov 2026 12:47:57 GMT",
+      "link": "https://www.ekon.go.id/publikasi/detail/7212/perkuat-pertumbuhan-ekonomi-dan-kepastian-berusaha-pemerintah-dorong-daya-saing-investasi-kawasan-strategis-batam"
+    },
+    {
       "title": "Nurdin Halid Desak UU Perlindungan Konsumen Diperbarui - Bonepos.com",
       "entity": "BPKN",
       "kind": "lembaga",
       "published": "Wed, 11 Nov 2026 12:41:07 GMT",
       "link": "https://www.bonepos.com/2026/11/11/nurdin-halid-desak-uu-perlindungan-konsumen-diperbarui"
-    },
-    {
-      "title": "Nurdin Halid Desak UU Perlindungan Konsumen Diperbarui - Bonepos.com",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 12:41:07 GMT",
-      "link": "https://www.bonepos.com/2026/11/11/nurdin-halid-desak-uu-perlindungan-konsumen-diperbarui"
-    },
-    {
-      "title": "65% Sentimen Publik Negatif, RUU Perlindungan Konsumen Perlu Lebih Adaptif - Lensa Medan",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 12:39:00 GMT",
-      "link": "https://www.lensamedan.co.id/2026/11/65-sentimen-publik-negatif-ruu.html"
-    },
-    {
-      "title": "Punya AUM Terbesar di Indonesia, Danareksa Investments Bantah Dominasi Pasar MI - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 12:21:35 GMT",
-      "link": "https://keuangan.kontan.co.id/news/punya-aum-terbesar-di-indonesia-danareksa-investments-bantah-dominasi-pasar-mi"
-    },
-    {
-      "title": "BP BUMN Bersama KDKMP Akan Terapkan Skema Kredit dengan Bunga 8%-9% untuk Petani - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 11:31:01 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-bersama-kdkmp-akan-terapkan-skema-kredit-dengan-bunga-8-9-untuk-petani/"
-    },
-    {
-      "title": "Empat MI BUMN Resmi Merger, Danareksa Investments Kelola Dana Rp 172,5 Triliun - InvestorTrust",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 11:15:00 GMT",
-      "link": "https://investortrust.id/market/122236/empat-mi-bumn-resmi-merger-danareksa-investments-kelola-dana-rp-172-5-triliun"
     }
   ]
 }
