@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-12T01:17:51.171354",
+  "generated_at": "2026-11-12T09:15:56.054579",
   "party_counts_7d": {
-    "Gerindra": 31,
+    "Gerindra": 29,
     "PDI-P": 17,
     "Golkar": 22,
-    "NasDem": 3,
-    "PKB": 15,
-    "PKS": 12,
+    "NasDem": 4,
+    "PKB": 16,
+    "PKS": 10,
     "PAN": 3,
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 63,
-    "PDI-P": 80,
-    "Golkar": 92,
-    "NasDem": 13,
+    "Gerindra": 62,
+    "PDI-P": 79,
+    "Golkar": 90,
+    "NasDem": 14,
     "PKB": 52,
-    "PKS": 39,
+    "PKS": 36,
     "PAN": 12,
-    "Demokrat": 29
+    "Demokrat": 28
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,20 +35,20 @@
   },
   "topic_counts_30d": {
     "bumn": 44,
-    "umkm": 25,
-    "danantara": 22,
-    "perdagangan": 9,
-    "ekspor": 15,
-    "koperasi": 41,
-    "merger-akuisisi": 6,
-    "investasi": 43,
-    "kartel-monopoli": 14,
+    "umkm": 26,
+    "danantara": 25,
+    "perdagangan": 10,
+    "ekspor": 14,
+    "koperasi": 44,
+    "merger-akuisisi": 3,
+    "investasi": 41,
+    "kartel-monopoli": 13,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 1,
-    "Muhammad Husein Fadlulloh": 17,
+    "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 17,
     "Mulyadi": 6,
@@ -56,20 +56,21 @@
     "Mufti Anam": 3,
     "Darmadi Durianto": 11,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 8,
+    "I Gusti Ngurah Kesuma Kelakan": 7,
     "Sadarestuwati": 11,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
     "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 17,
-    "Ahmad Labib": 11,
+    "Ahmad Labib": 9,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 7,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 3,
     "Asep Wahyuwijaya": 3,
+    "I Nengah Senantara": 1,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 5,
@@ -79,125 +80,125 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
-    "Ismail": 13,
+    "Ismail": 10,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
     "Sartono": 7,
     "Herman Khaeron": 20,
-    "Faujia Helga": 2
+    "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 66,
-    "Kinerja BUMN": 14,
-    "Perdagangan": 30,
-    "Konflik Publik": 14,
+    "Koperasi/UMKM": 70,
+    "Kinerja BUMN": 13,
+    "Perdagangan": 29,
+    "Konflik Publik": 16,
     "Hukum/Audit": 23
   },
   "top_headlines": [
     {
-      "title": "Danantara Pasang Badan di Tengah Isu Gibran Mundur - beritabuana.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 01:14:16 GMT",
-      "link": "https://beritabuana.co/2026/11/12/danantara-pasang-badan-di-tengah-isu-gibran-mundur/"
-    },
-    {
-      "title": "Gudang Ekspedisi Cakung Ricuh, Ketua BPKN: Konsumen Jangan Jadi Korban Promo 11.11 - Mediakarya.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 00:53:00 GMT",
-      "link": "https://www.mediakarya.id/gudang-ekspedisi-cakung-ricuh-ketua-bpkn-konsumen-jangan-jadi-korban-promo-11-11/"
-    },
-    {
-      "title": "Kabar Wapres Gibran Mundur, Danantara Ungkap 3 Jurus Jaga Investor - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 00:00:20 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261112055919-17-784465/kabar-wapres-gibran-mundur-danantara-ungkap-3-jurus-jaga-investor"
-    },
-    {
-      "title": "Mau Bikin Investor Percaya? Rosan Ungkap Kunci Danareksa! - Warta Ekonomi",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 16:32:00 GMT",
-      "link": "https://wartaekonomi.co.id/read647276/mau-bikin-investor-percaya-rosan-ungkap-kunci-danareksa"
-    },
-    {
-      "title": "Politik Memanas, Danantara Jaga Kepercayaan Investor Lewat 3 Hal Ini - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 16:24:48 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261111232202-17-784456/politik-memanas-danantara-jaga-kepercayaan-investor-lewat-3-hal-ini"
-    },
-    {
-      "title": "CEO Danantara Dorong Danareksa Investment Perkuat Pasar Modal Indonesia - TVRI News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 15:59:00 GMT",
-      "link": "https://nasional.tvrinews.com/berita/tkicev3-ceo-danantara-dorong-danareksa-investment-perkuat-pasar-modal-indonesia"
-    },
-    {
-      "title": "Nasim Khan Minta Koperasi Syariah Dapat Tempat Khusus dalam RUU Perkoperasian - Telusur",
+      "title": "Pembahasan RUU Perkoperasian, Nasim Khan Dorong Penguatan Ekosistem Syariah - FPKB DPR RI",
       "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 15:19:50 GMT",
-      "link": "https://telusur.co.id/ekuin/nasim-khan-minta-koperasi-syariah-dapat-tempat-khusus-dalam-ruu-perkoperasian"
+      "published": "Thu, 12 Nov 2026 09:02:17 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/12/pembahasan-ruu-perkoperasian-nasim-khan-dorong-penguatan-ekosistem-syariah/"
     },
     {
-      "title": "Kemendag Catat Potensi Transaksi USD3,39 Juta di Jeddah - شبكة تواصل الإخبارية",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 14:47:54 GMT",
-      "link": "https://twaslnews1.twaslnews.com/7512482/"
-    },
-    {
-      "title": "KB Financial Bantah Jual KB Bank, Kemenkop Siap Konsorsium - https://feedberry.com/",
+      "title": "DPR dorong penguatan ekonomi kerakyatan lewat koperasi pesantren - ANTARA News",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 14:05:15 GMT",
-      "link": "https://feedberry.com/artikel/kb-financial-bantah-jual-kb-bank-kemenkop-siap-konsorsium"
+      "published": "Thu, 12 Nov 2026 08:31:43 GMT",
+      "link": "https://www.antaranews.com/berita/5849175/dpr-dorong-penguatan-ekonomi-kerakyatan-lewat-koperasi-pesantren"
     },
     {
-      "title": "Family Food Jajaki Bisnis Makanan Siap Saji US$3,39 Juta di Arab Saudi - SWA.co.id",
+      "title": "Sosok Panel Barus, Keluar dari Projo demi Program Prabowo - Tirto.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 08:30:00 GMT",
+      "link": "https://tirto.id/sosok-panel-barus-keluar-dari-projo-demi-program-prabowo-idJw"
+    },
+    {
+      "title": "Produk Pangan Indonesia Catat Potensi Transaksi 25,38 Juta Dolar AS di CIIE Shanghai - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 14:00:00 GMT",
-      "link": "https://swa.co.id/read/479556/family-food-jajaki-bisnis-makanan-siap-saji-us339-juta-di-arab-saudi"
+      "published": "Thu, 12 Nov 2026 08:03:37 GMT",
+      "link": "https://www.niaga.asia/produk-pangan-indonesia-catat-potensi-transaksi-2538-juta-dolar-as-di-ciie-shanghai/"
     },
     {
-      "title": "Bos Danantara Ungkap Tujuan Bentuk Danareksa Investment Management - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 13:39:47 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261111203418-17-784435/bos-danantara-ungkap-tujuan-bentuk-danareksa-investment-management"
-    },
-    {
-      "title": "Danareksa Berubah Nama Jadi Kawasan Industri Indonesia - Jawa Pos",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 13:20:55 GMT",
-      "link": "https://batampos.jawapos.com/ekbis/2611110045/danareksa-berubah-nama-jadi-kawasan-industri-indonesia"
-    },
-    {
-      "title": "Ghufran Teken Hak Menyatakan Pendapat, Syarat Pemakzulan Gibran Terpenuh - harianrakyataceh.com",
-      "entity": "Ghufran",
+      "title": "Sosialisasi Koperasi Merah Putih di Padang, Andre Rosiade Dorong Potensi Ekonomi Desa-Kelurahan - detikNews",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 11 Nov 2026 13:13:22 GMT",
-      "link": "https://harianrakyataceh.com/news/ghufran-teken-hak-menyatakan-pendapat-syarat-pemakzulan-gibran-terpenuh/index.html"
+      "published": "Thu, 12 Nov 2026 08:01:02 GMT",
+      "link": "https://news.detik.com/berita/d-8749973/sosialisasi-koperasi-merah-putih-di-padang-andre-rosiade-dorong-potensi-ekonomi-desa-kelurahan"
     },
     {
-      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 12:47:57 GMT",
-      "link": "https://www.ekon.go.id/publikasi/detail/7212/perkuat-pertumbuhan-ekonomi-dan-kepastian-berusaha-pemerintah-dorong-daya-saing-investasi-kawasan-strategis-batam"
+      "title": "UMKM Sumbar Punya Potensi Besar, Andre Rosiade Dorong Produk Lokal Mendunia - kumparan.com - kumparan",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 12 Nov 2026 07:15:00 GMT",
+      "link": "https://kumparan.com/kumparannews/umkm-sumbar-punya-potensi-besar-andre-rosiade-dorong-produk-lokal-mendunia-28Yg53CRzAx"
     },
     {
-      "title": "Nurdin Halid Desak UU Perlindungan Konsumen Diperbarui - Bonepos.com",
+      "title": "BPKN Desak Ekspedisi Benahi Layanan Usai Kericuhan Cakung - Demokratis.co.id",
       "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 11 Nov 2026 12:41:07 GMT",
-      "link": "https://www.bonepos.com/2026/11/11/nurdin-halid-desak-uu-perlindungan-konsumen-diperbarui"
+      "published": "Thu, 12 Nov 2026 07:03:33 GMT",
+      "link": "https://demokratis.co.id/bpkn-desak-ekspedisi-benahi-layanan"
+    },
+    {
+      "title": "BPKN Desak Ekspedisi Benahi Layanan Usai Kericuhan Cakung - SuaraGarut.ID",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 07:02:34 GMT",
+      "link": "https://suaragarut.id/bpkn-ekspedisi-kericuhan-cakung"
+    },
+    {
+      "title": "Gudang Ekspedisi Cakung Ricuh, BPKN Minta Konsumen Tak Jadi Korban - detikFinance",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:58:16 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8749844/gudang-ekspedisi-cakung-ricuh-bpkn-minta-konsumen-tak-jadi-korban"
+    },
+    {
+      "title": "Bos Danantara Beri Kisi-Kisi Jadwal Rilis Laporan Keuangan - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:40:01 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261112124317-17-784623/bos-danantara-beri-kisi-kisi-jadwal-rilis-laporan-keuangan"
+    },
+    {
+      "title": "87% Pembiayaan RI Masih dari Bank, Danantara Mau Ubah Peta Permainannya! - Media Asuransi News",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:27:00 GMT",
+      "link": "https://mediaasuransinews.co.id/market/87-pembiayaan-ri-masih-dari-bank-danantara-mau-ubah-peta-permainannya/"
+    },
+    {
+      "title": "Chusnunia : Perkuat Koperasi Pesantren dalam Pemberdayaan UMKM untuk Penguatan Ekonomi Kerakyatan - FPKB DPR RI",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:21:10 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/12/chusnunia-perkuat-koperasi-pesantren-dalam-pemberdayaan-umkm-untuk-penguatan-ekonomi-kerakyatan/"
+    },
+    {
+      "title": "Menghapus Moral Hazard dalam Kerja Sama Bisnis dan Kebijakan Publik Halaman 1 - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:06:29 GMT",
+      "link": "https://www.kompasiana.com/moch180803/6af5576534777c14903a8560/menghapus-moral-hazard-dalam-kerja-sama-bisnis-dan-kebijakan-publik"
+    },
+    {
+      "title": "Ada 11 Saham BUMN Masuk HSC, Bos Danantara Buka Suara - CNBC Indonesia",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 06:00:42 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261112123231-17-784617/ada-11-saham-bumn-masuk-hsc-bos-danantara-buka-suara"
+    },
+    {
+      "title": "Seminar Nasional KWP, BP BUMN Dorong Penguatan Kinerja dan Tata Kelola BUMN untuk Kesejahteraan Rakyat - SumselPost",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 04:48:28 GMT",
+      "link": "https://sumselpost.co.id/seminar-nasional-kwp-bp-bumn-dorong-penguatan-kinerja-dan-tata-kelola-bumn-untuk-kesejahteraan-rakyat/"
     }
   ]
 }
