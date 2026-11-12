@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-12T17:54:42.903000",
+  "generated_at": "2026-11-12T23:12:07.177898",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 28,
     "PDI-P": 19,
     "Golkar": 21,
     "NasDem": 5,
     "PKB": 17,
-    "PKS": 11,
+    "PKS": 10,
     "PAN": 2,
     "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 61,
     "PDI-P": 74,
-    "Golkar": 83,
+    "Golkar": 82,
     "NasDem": 15,
     "PKB": 52,
     "PKS": 36,
-    "PAN": 12,
+    "PAN": 10,
     "Demokrat": 28
   },
   "agency_counts_30d": {
@@ -34,15 +34,15 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 46,
+    "bumn": 45,
     "umkm": 31,
     "danantara": 24,
     "perdagangan": 14,
-    "ekspor": 11,
-    "koperasi": 46,
+    "ekspor": 10,
+    "koperasi": 47,
     "merger-akuisisi": 3,
     "investasi": 39,
-    "kartel-monopoli": 11,
+    "kartel-monopoli": 12,
     "impor": 5
   },
   "member_counts_30d": {
@@ -63,7 +63,7 @@
     "Totok Hedi Santosa": 14,
     "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 13,
-    "Ahmad Labib": 6,
+    "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 7,
@@ -82,19 +82,26 @@
     "Ghufran": 2,
     "Ismail": 10,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 11,
+    "Iskandar": 9,
     "Sartono": 7,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 77,
+    "Koperasi/UMKM": 78,
     "Kinerja BUMN": 14,
-    "Perdagangan": 26,
+    "Perdagangan": 25,
     "Konflik Publik": 16,
     "Hukum/Audit": 23
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 18:31:42 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261113/Mjc0NDQ0"
+    },
     {
       "title": "Kemendag Fasilitasi 104 Barcode GS1, Peluang UMKM Masuk Ritel Modern - Vibizmedia.com",
       "entity": "Kementerian Perdagangan",
@@ -138,11 +145,25 @@
       "link": "https://partainasdem.id/2026/11/12/i-nengah-senantara-soroti-kelangkaan-bbm-di-bali-meski-diklaim-stok-cukup/"
     },
     {
+      "title": "Kementerian Perdagangan AS dikritik karena gaga... - Pluang",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 13:51:00 GMT",
+      "link": "https://pluang.com/news-feed/departemen-perdagangan-lutnick-kessler-diserang-soal-skandal-spionase-nvidia"
+    },
+    {
       "title": "DPR: Pemilu Sela AS Belum Ringankan Tarif Ekspor, Petani dan Pelaku Usaha Perlu Perlindungan - Beritakota",
       "entity": "Amin Ak.",
       "kind": "anggota",
       "published": "Thu, 12 Nov 2026 13:50:00 GMT",
       "link": "https://beritakota.id/dpr-pemilu-sela-as-belum-ringankan-tarif-ekspor-petani-dan-pelaku-usaha-perlu-perlindungan/"
+    },
+    {
+      "title": "Faktor Ini Bikin AS Kewalahan Tutup Jalur Perdagangan Darat Iran - Akurat Kaltim",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 13:40:34 GMT",
+      "link": "https://kaltim.akurat.co/news/906356/faktor-ini-bikin-as-kewalahan-tutup-jalur-perdagangan-darat-iran"
     },
     {
       "title": "Koperasi Syariah Punya Potensi Besar, Mengapa Belum Punya Induk Khusus? - Mozaik Islam",
@@ -178,27 +199,6 @@
       "kind": "lembaga",
       "published": "Thu, 12 Nov 2026 13:00:06 GMT",
       "link": "https://www.jejaklombok.com/2026/11/bupati-iron-laporkan-perkembangan.html"
-    },
-    {
-      "title": "Menimbang Masa Depan Kawasan Perdagangan Bebas Batam - Batamtoday.com",
-      "entity": "BP Batam",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 12:49:31 GMT",
-      "link": "https://batamtoday.com/news/menimbang-masa-depan-kawasan-perdagangan-bebas-batam"
-    },
-    {
-      "title": "Gelar Seminar Nasional KWP, BP BUMN Dorong Penguatan Kinerja dan Tata Kelola BUMN - Suara Investor",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 12:33:45 GMT",
-      "link": "https://www.suarainvestor.com/bp-bumn-dorong-penguatan-kinerja-dan-tata-kelola-bumn/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Gibran Mundur, Konstitusi Tidak Boleh Mundur – Kalimantan Kita - Kaki News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 12 Nov 2026 12:13:00 GMT",
-      "link": "https://kakinews.id/rieke-diah-pitaloka-gibran-mundur-konstitusi-tidak-boleh-mundur/"
     }
   ]
 }
