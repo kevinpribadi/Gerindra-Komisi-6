@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-13T05:00:18.860265",
+  "generated_at": "2026-11-13T13:54:13.555458",
   "party_counts_7d": {
-    "Gerindra": 28,
-    "PDI-P": 19,
-    "Golkar": 22,
+    "Gerindra": 29,
+    "PDI-P": 20,
+    "Golkar": 20,
     "NasDem": 5,
     "PKB": 17,
     "PKS": 10,
-    "PAN": 2,
-    "Demokrat": 7
+    "PAN": 5,
+    "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 62,
-    "PDI-P": 71,
-    "Golkar": 83,
+    "Gerindra": 63,
+    "PDI-P": 72,
+    "Golkar": 78,
     "NasDem": 15,
-    "PKB": 52,
-    "PKS": 35,
-    "PAN": 10,
-    "Demokrat": 28
+    "PKB": 54,
+    "PKS": 34,
+    "PAN": 12,
+    "Demokrat": 26
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,35 +34,36 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 45,
+    "bumn": 43,
     "umkm": 30,
     "danantara": 24,
-    "perdagangan": 15,
-    "ekspor": 9,
-    "koperasi": 48,
-    "merger-akuisisi": 3,
+    "perdagangan": 13,
+    "ekspor": 11,
+    "koperasi": 46,
     "investasi": 40,
-    "kartel-monopoli": 12,
+    "merger-akuisisi": 2,
+    "kartel-monopoli": 14,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 1,
+    "Khilmi": 2,
     "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 18,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 5,
-    "Mufti Anam": 3,
-    "Darmadi Durianto": 10,
+    "Mufti Anam": 4,
+    "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 20,
-    "Sadarestuwati": 12,
+    "I Gusti Ngurah Kesuma Kelakan": 1,
+    "Sadarestuwati": 13,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 14,
     "Nurdin Halid": 16,
-    "Gde Sumarjaya Linggih": 13,
-    "Ahmad Labib": 5,
+    "Gde Sumarjaya Linggih": 11,
+    "Ahmad Labib": 2,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 8,
@@ -75,129 +76,130 @@
     "Anggia Erma Rini": 5,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 7,
+    "Ida Fauziyah": 8,
+    "Imas Aan Ubudiah": 1,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
-    "Ismail": 9,
+    "Ismail": 8,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 9,
-    "Sartono": 7,
+    "Iskandar": 11,
+    "Sartono": 5,
     "Herman Khaeron": 20,
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 78,
+    "Koperasi/UMKM": 75,
     "Kinerja BUMN": 14,
-    "Perdagangan": 22,
+    "Perdagangan": 24,
     "Hukum/Audit": 24,
     "Konflik Publik": 16
   },
   "top_headlines": [
     {
-      "title": "Menteri Koperasi Ferry Juliantono Kritik Ekonomi Syariah RI Masih Banyak Kajian, Dorong Pesantren Perkuat Ekonomi Produktif - www.detikindonesia.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 04:10:00 GMT",
-      "link": "https://www.detikindonesia.co.id/menteri-koperasi-ferry-juliantono-kritik-ekonomi-syariah-ri-masih-banyak-kajian-dorong-pesantren-perkuat-ekonomi-produktif/"
-    },
-    {
-      "title": "Dari Porang hingga Pasar Tradisional, Haerul Warisin Bawa Agenda Ekonomi Lotim ke Pemerintah Pusat - Gerbang Indonesia",
+      "title": "HPE Emas Turun Jadi USD130.075,60 per Kg, Kemendag Ungkap Penyebabnya - InfoPublik",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 03:19:05 GMT",
-      "link": "https://gerbangindonesia.co.id/2026/11/13/dari-porang-hingga-pasar-tradisional-haerul-warisin-bawa-agenda-ekonomi-lotim-ke-pemerintah-pusat/"
+      "published": "Fri, 13 Nov 2026 12:50:00 GMT",
+      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/997278/hpe-emas-turun-jadi-usd13007560-per-kg-kemendag-ungkap-penyebabnya"
     },
     {
-      "title": "Andre Rosiade Dorong Koperasi Merah Putih Jadi Pusat Pengembangan Potensi Ekonomi Daerah - Berita Koperasi",
-      "entity": "Andre Rosiade",
+      "title": "PKB sebut tak ada pembahasan Muhaimin Iskandar diusulkan jadi Wapres - ANTARA News Megapolitan",
+      "entity": "Iskandar",
       "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 03:18:00 GMT",
-      "link": "https://www.beritakoperasi.com/andre-rosiade-dorong-koperasi-merah-putih-jadi-pusat-pengembangan-potensi-ekonomi-daerah/"
+      "published": "Fri, 13 Nov 2026 11:50:56 GMT",
+      "link": "https://megapolitan.antaranews.com/berita/561987/pkb-sebut-tak-ada-pembahasan-muhaimin-iskandar-diusulkan-jadi-wapres"
     },
     {
-      "title": "Kemendag Minta Pelarangan Truk Sumbu 3 Saat Nataru Tidak Ganggu Distribusi Barang - sinarharapan.net",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 02:33:31 GMT",
-      "link": "https://www.sinarharapan.net/kemendag-minta-pelarangan-truk-sumbu-3-saat-nataru-tidak-ganggu-distribusi-barang/"
-    },
-    {
-      "title": "Kemenkop Dorong Perajin Dekranasda NTB Berkoperasi, Perkuat Ekosistem Wastra dan Kriya - Harian Dialog",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 02:27:43 GMT",
-      "link": "https://hariandialog.co.id/kemenkop-dorong-perajin-dekranasda-ntb-berkoperasi-perkuat-ekosistem-wastra-dan-kriya/"
-    },
-    {
-      "title": "Menteri Perdagangan AS Lutnick bisa kehilangan pekerjaannya karena skandal Nvidia. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 01:20:30 GMT",
-      "link": "https://www.vietnam.vn/id/bo-truong-thuong-mai-my-lutnick-co-the-mat-chuc-vi-be-boi-nvidia"
-    },
-    {
-      "title": "Bayang-Bayang Korupsi Sistemik di Balik Proyek Koperasi Merah Putih - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 00:57:00 GMT",
-      "link": "https://www.beritakoperasi.com/bayang-bayang-korupsi-sistemik-di-balik-proyek-koperasi-merah-putih/"
-    },
-    {
-      "title": "KPPU dan Pemprov Kaltara perkuat pengawasan kemitraan usaha - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 23:43:53 GMT",
-      "link": "https://kaltim.antaranews.com/berita/271147/kppu-dan-pemprov-kaltara-perkuat-pengawasan-kemitraan-usaha"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 18:31:42 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261113/Mjc0NDQ0"
-    },
-    {
-      "title": "Rakerda Dekopinda Tangsel Usung Tema Sinergi Koperasi Menuju Kemandirian Ekonomi Daerah yang Berkelanjutan - RevolusiNews",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 16:03:27 GMT",
-      "link": "https://revolusinews.com/rakerda-dekopinda-tangsel-usung-tema-sinergi-koperasi-menuju-kemandirian-ekonomi-daerah-yang-berkelanjutan/"
-    },
-    {
-      "title": "Kemendag Fasilitasi 104 Barcode GS1, Peluang UMKM Masuk Ritel Modern - Vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 15:28:15 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/11/12/kemendag-fasilitasi-104-barcode-gs1-peluang-umkm-masuk-ritel-modern/"
-    },
-    {
-      "title": "Seminar Nasional KWP, BP BUMN Paparkan Arah Transformasi Perusahaan Negara 2027 - Balipuspanews.com",
+      "title": "Dony Oskaria Terpilih Jadi Anggota MWA Unand 2026–2031 Lewat Musyawarah Mufakat - konstruksimedia.com",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 15:11:01 GMT",
-      "link": "https://www.balipuspanews.com/seminar-nasional-kwp-bp-bumn-paparkan-arah-transformasi-perusahaan-negara-2027.html"
+      "published": "Fri, 13 Nov 2026 11:39:46 GMT",
+      "link": "https://konstruksimedia.com/dony-oskaria-terpilih-jadi-anggota-mwa-unand-2026-2031-lewat-musyawarah-mufakat/"
     },
     {
-      "title": "DEKRANAS dan Kemenkop Dorong Perajin dan UMKM NTB Tembus Pasar Internasional Lewat Koperasi - Ampenan News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 14:59:51 GMT",
-      "link": "https://www.ampenannews.com/2026/11/dekranas-dan-kemenkop-dorong-perajin-dan-umkm-ntb-tembus-pasar-internasional-lewat-koperasi.html"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan sedang melaksanakan berbagai kegiatan untuk memperingati Hari Kebudayaan Vietnam. - Vietnam.vn",
+      "title": "Kementerian Perindustrian dan Perdagangan telah mengkonsolidasikan peraturan tentang pelaporan berkala dan basis data klaster industri. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 14:44:01 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-trien-khai-thuc-hien-cac-hoat-dong-ky-niem-ngay-van-hoa-viet-nam"
+      "published": "Fri, 13 Nov 2026 11:24:24 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-hop-nhat-quy-dinh-ve-bao-cao-dinh-ky-va-co-so-du-lieu-cum-cong-nghiep"
     },
     {
-      "title": "Kebun Plasma di Kaltara Jadi Perhatian KPPU Kalimantan, Ingatkan Perusahaan Jangan Abai Hak Petani - Kotaku.co.id",
-      "entity": "KPPU",
+      "title": "Sosok Wapres Baru? Mufti Anam: Hak Menyatakan Pendapat Gagal Tapi Tidak Sia-Sia - gesuri.id",
+      "entity": "Mufti Anam",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/serba-serbi/sosok-wapres-baru-mufti-anam-hak-menyatakan-pendapat-gagal-tapi-tidak-sia-sia-b2qeyZbjxu"
+    },
+    {
+      "title": "Antrean BBM di Bali Mengular Hingga 10 Hari, Alit Kelakan Cecar Direksi Pertamina - gesuri.id",
+      "entity": "I Gusti Ngurah Kesuma Kelakan",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/antrean-bbm-di-bali-mengular-hingga-10-hari-alit-kelakan-cecar-direksi-pertamina-b2qeyZbjxs"
+    },
+    {
+      "title": "Bupati Lotim Temui Mendag, Ekspor Porang dan Revitalisasi Dua Pasar Diusulkan - Ampenan News",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 14:15:07 GMT",
-      "link": "https://kotaku.co.id/kebun-plasma-di-kaltara-jadi-perhatian-kppu-kalimantan-ingatkan-perusahaan-jangan-abai-hak-petani/"
+      "published": "Fri, 13 Nov 2026 10:48:59 GMT",
+      "link": "https://www.ampenannews.com/2026/11/bupati-lotim-temui-mendag-ekspor-porang-dan-revitalisasi-dua-pasar-diusulkan.html"
+    },
+    {
+      "title": "Komoditas Karet Indonesia Diperkuat, Kemendag Sederhanakan Ketentuan Ekspor - www.vibizmedia.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 10:05:51 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/11/13/komoditas-karet-indonesia-diperkuat-kemendag-sederhanakan-ketentuan-ekspor/"
+    },
+    {
+      "title": "Menteri Perdagangan AS Disorot soal Pengawasan Ekspor Chip Nvidia ke China - Cryptowave",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 09:37:43 GMT",
+      "link": "https://cryptowave.co.id/articles/menteri-perdagangan-as-disorot-soal-pengawasan-ekspor-chip-nvidia-ke-china"
+    },
+    {
+      "title": "Sadarestuwati Dorong Ketahanan Pangan dari Pekarangan Rumah Lewat Program BitPro dan P2B - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 09:28:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/sadarestuwati-dorong-ketahanan-pangan-dari-pekarangan-rumah-lewat-program-bitpro-dan-p2b-b2qeyZbjxG"
+    },
+    {
+      "title": "Kemenkeu Masih Bahas Rencana Pengalihan Saham Whoosh, Targetkan Rampung di Desember 2026 - SWA.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 09:06:00 GMT",
+      "link": "https://swa.co.id/read/479644/kemenkeu-masih-bahas-rencana-pengalihan-saham-whoosh-targetkan-rampung-di-desember-2026"
+    },
+    {
+      "title": "Kemenkeu Masih Bahas Rencana Pengalihan Saham Whoosh, Targetkan Rampung di Desember 2026 - SWA.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 09:06:00 GMT",
+      "link": "https://swa.co.id/read/479644/kemenkeu-masih-bahas-rencana-pengalihan-saham-whoosh-targetkan-rampung-di-desember-2026"
+    },
+    {
+      "title": "Lombok Timur usulkan revitalisasi dua pasar rakyat ke pusat - ANTARA News Mataram",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 08:47:29 GMT",
+      "link": "https://mataram.antaranews.com/berita/582443/lombok-timur-usulkan-revitalisasi-dua-pasar-rakyat-ke-pusat"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Pengunduran Diri Gibran Tidak Boleh Hapus Tanggung Jawab Konstitusional Negara - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 08:30:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-pengunduran-diri-gibran-tidak-boleh-hapus-tanggung-jawab-konstitusional-negara-b2qeyZbjx8"
+    },
+    {
+      "title": "Rieke Diah Pitaloka: Wakil Presiden Mundur, Konstitusi Tidak Boleh Mundur - MPN Indonesia",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 08:22:36 GMT",
+      "link": "https://mpnindonesia.com/politik/rieke-diah-pitaloka-wakil-presiden-mundur-konstitusi-tidak-boleh-mundur/"
     }
   ]
 }
