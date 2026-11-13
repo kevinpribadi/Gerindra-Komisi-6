@@ -1,10 +1,10 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-12T23:12:07.177898",
+  "generated_at": "2026-11-13T05:00:18.860265",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 19,
-    "Golkar": 21,
+    "Golkar": 22,
     "NasDem": 5,
     "PKB": 17,
     "PKS": 10,
@@ -12,12 +12,12 @@
     "Demokrat": 7
   },
   "party_counts_30d": {
-    "Gerindra": 61,
-    "PDI-P": 74,
-    "Golkar": 82,
+    "Gerindra": 62,
+    "PDI-P": 71,
+    "Golkar": 83,
     "NasDem": 15,
     "PKB": 52,
-    "PKS": 36,
+    "PKS": 35,
     "PAN": 10,
     "Demokrat": 28
   },
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 45,
-    "umkm": 31,
+    "umkm": 30,
     "danantara": 24,
-    "perdagangan": 14,
-    "ekspor": 10,
-    "koperasi": 47,
+    "perdagangan": 15,
+    "ekspor": 9,
+    "koperasi": 48,
     "merger-akuisisi": 3,
-    "investasi": 39,
+    "investasi": 40,
     "kartel-monopoli": 12,
     "impor": 5
   },
@@ -50,13 +50,12 @@
     "Khilmi": 1,
     "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 17,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 3,
-    "Darmadi Durianto": 11,
+    "Darmadi Durianto": 10,
     "Rieke Diah Pitaloka": 20,
-    "I Gusti Ngurah Kesuma Kelakan": 2,
     "Sadarestuwati": 12,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
@@ -66,7 +65,7 @@
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 16,
-    "Firnando Hadityo Ganinduto": 7,
+    "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 20,
     "Muhammad Sarmuji": 3,
     "Asep Wahyuwijaya": 3,
@@ -80,7 +79,7 @@
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
-    "Ismail": 10,
+    "Ismail": 9,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 9,
     "Sartono": 7,
@@ -90,17 +89,80 @@
   "early_warning_counts": {
     "Koperasi/UMKM": 78,
     "Kinerja BUMN": 14,
-    "Perdagangan": 25,
-    "Konflik Publik": 16,
-    "Hukum/Audit": 23
+    "Perdagangan": 22,
+    "Hukum/Audit": 24,
+    "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "Menteri Koperasi Ferry Juliantono Kritik Ekonomi Syariah RI Masih Banyak Kajian, Dorong Pesantren Perkuat Ekonomi Produktif - www.detikindonesia.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 04:10:00 GMT",
+      "link": "https://www.detikindonesia.co.id/menteri-koperasi-ferry-juliantono-kritik-ekonomi-syariah-ri-masih-banyak-kajian-dorong-pesantren-perkuat-ekonomi-produktif/"
+    },
+    {
+      "title": "Dari Porang hingga Pasar Tradisional, Haerul Warisin Bawa Agenda Ekonomi Lotim ke Pemerintah Pusat - Gerbang Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 03:19:05 GMT",
+      "link": "https://gerbangindonesia.co.id/2026/11/13/dari-porang-hingga-pasar-tradisional-haerul-warisin-bawa-agenda-ekonomi-lotim-ke-pemerintah-pusat/"
+    },
+    {
+      "title": "Andre Rosiade Dorong Koperasi Merah Putih Jadi Pusat Pengembangan Potensi Ekonomi Daerah - Berita Koperasi",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 03:18:00 GMT",
+      "link": "https://www.beritakoperasi.com/andre-rosiade-dorong-koperasi-merah-putih-jadi-pusat-pengembangan-potensi-ekonomi-daerah/"
+    },
+    {
+      "title": "Kemendag Minta Pelarangan Truk Sumbu 3 Saat Nataru Tidak Ganggu Distribusi Barang - sinarharapan.net",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 02:33:31 GMT",
+      "link": "https://www.sinarharapan.net/kemendag-minta-pelarangan-truk-sumbu-3-saat-nataru-tidak-ganggu-distribusi-barang/"
+    },
+    {
+      "title": "Kemenkop Dorong Perajin Dekranasda NTB Berkoperasi, Perkuat Ekosistem Wastra dan Kriya - Harian Dialog",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 02:27:43 GMT",
+      "link": "https://hariandialog.co.id/kemenkop-dorong-perajin-dekranasda-ntb-berkoperasi-perkuat-ekosistem-wastra-dan-kriya/"
+    },
+    {
+      "title": "Menteri Perdagangan AS Lutnick bisa kehilangan pekerjaannya karena skandal Nvidia. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 01:20:30 GMT",
+      "link": "https://www.vietnam.vn/id/bo-truong-thuong-mai-my-lutnick-co-the-mat-chuc-vi-be-boi-nvidia"
+    },
+    {
+      "title": "Bayang-Bayang Korupsi Sistemik di Balik Proyek Koperasi Merah Putih - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 00:57:00 GMT",
+      "link": "https://www.beritakoperasi.com/bayang-bayang-korupsi-sistemik-di-balik-proyek-koperasi-merah-putih/"
+    },
+    {
+      "title": "KPPU dan Pemprov Kaltara perkuat pengawasan kemitraan usaha - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 23:43:53 GMT",
+      "link": "https://kaltim.antaranews.com/berita/271147/kppu-dan-pemprov-kaltara-perkuat-pengawasan-kemitraan-usaha"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
       "kind": "lembaga",
       "published": "Thu, 12 Nov 2026 18:31:42 GMT",
       "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261113/Mjc0NDQ0"
+    },
+    {
+      "title": "Rakerda Dekopinda Tangsel Usung Tema Sinergi Koperasi Menuju Kemandirian Ekonomi Daerah yang Berkelanjutan - RevolusiNews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 12 Nov 2026 16:03:27 GMT",
+      "link": "https://revolusinews.com/rakerda-dekopinda-tangsel-usung-tema-sinergi-koperasi-menuju-kemandirian-ekonomi-daerah-yang-berkelanjutan/"
     },
     {
       "title": "Kemendag Fasilitasi 104 Barcode GS1, Peluang UMKM Masuk Ritel Modern - Vibizmedia.com",
@@ -136,69 +198,6 @@
       "kind": "lembaga",
       "published": "Thu, 12 Nov 2026 14:15:07 GMT",
       "link": "https://kotaku.co.id/kebun-plasma-di-kaltara-jadi-perhatian-kppu-kalimantan-ingatkan-perusahaan-jangan-abai-hak-petani/"
-    },
-    {
-      "title": "I Nengah Senantara Soroti Kelangkaan BBM di Bali meski Diklaim Stok Cukup - Partai NasDem",
-      "entity": "I Nengah Senantara",
-      "kind": "anggota",
-      "published": "Thu, 12 Nov 2026 14:05:46 GMT",
-      "link": "https://partainasdem.id/2026/11/12/i-nengah-senantara-soroti-kelangkaan-bbm-di-bali-meski-diklaim-stok-cukup/"
-    },
-    {
-      "title": "Kementerian Perdagangan AS dikritik karena gaga... - Pluang",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 13:51:00 GMT",
-      "link": "https://pluang.com/news-feed/departemen-perdagangan-lutnick-kessler-diserang-soal-skandal-spionase-nvidia"
-    },
-    {
-      "title": "DPR: Pemilu Sela AS Belum Ringankan Tarif Ekspor, Petani dan Pelaku Usaha Perlu Perlindungan - Beritakota",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Thu, 12 Nov 2026 13:50:00 GMT",
-      "link": "https://beritakota.id/dpr-pemilu-sela-as-belum-ringankan-tarif-ekspor-petani-dan-pelaku-usaha-perlu-perlindungan/"
-    },
-    {
-      "title": "Faktor Ini Bikin AS Kewalahan Tutup Jalur Perdagangan Darat Iran - Akurat Kaltim",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 13:40:34 GMT",
-      "link": "https://kaltim.akurat.co/news/906356/faktor-ini-bikin-as-kewalahan-tutup-jalur-perdagangan-darat-iran"
-    },
-    {
-      "title": "Koperasi Syariah Punya Potensi Besar, Mengapa Belum Punya Induk Khusus? - Mozaik Islam",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 13:33:00 GMT",
-      "link": "https://mozaik.inilah.com/news/koperasi-syariah-punya-potensi-besar-mengapa-belum-punya-induk-khusus"
-    },
-    {
-      "title": "Jika Presiden Bisa Disadap, Bagaimana Nasib Rakyat? - indramayunews.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 13:25:22 GMT",
-      "link": "https://indramayunews.id/2026/11/12/jika-presiden-bisa-disadap-bagaimana-nasib-rakyat/"
-    },
-    {
-      "title": "Andre Rosiade Desak Pertamina Perketat Pengawasan BBM Subsidi - kumparan.com - kumparan",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 12 Nov 2026 13:05:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-desak-pertamina-perketat-pengawasan-bbm-subsidi-28Ym6bobLpo"
-    },
-    {
-      "title": "Andre Rosiade Minta Pertamina Perketat Pengawasan Distribusi BBM Subsidi - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 12 Nov 2026 13:04:10 GMT",
-      "link": "https://news.detik.com/berita/d-8750529/andre-rosiade-minta-pertamina-perketat-pengawasan-distribusi-bbm-subsidi"
-    },
-    {
-      "title": "Bupati Iron Laporkan Perkembangan Revitalisasi dan Pembangunan Dua Pasar Strategis Kepada Mendag Budi Santoso - Jejak Lombok",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 12 Nov 2026 13:00:06 GMT",
-      "link": "https://www.jejaklombok.com/2026/11/bupati-iron-laporkan-perkembangan.html"
     }
   ]
 }
