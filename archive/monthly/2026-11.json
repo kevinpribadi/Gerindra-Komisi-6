@@ -1,19 +1,19 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-13T13:54:13.555458",
+  "generated_at": "2026-11-13T20:44:55.856858",
   "party_counts_7d": {
-    "Gerindra": 29,
+    "Gerindra": 27,
     "PDI-P": 20,
     "Golkar": 20,
     "NasDem": 5,
-    "PKB": 17,
+    "PKB": 19,
     "PKS": 10,
     "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 63,
-    "PDI-P": 72,
+    "PDI-P": 73,
     "Golkar": 78,
     "NasDem": 15,
     "PKB": 54,
@@ -34,15 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
-    "umkm": 30,
+    "bumn": 44,
+    "umkm": 32,
     "danantara": 24,
-    "perdagangan": 13,
-    "ekspor": 11,
-    "koperasi": 46,
-    "investasi": 40,
-    "merger-akuisisi": 2,
-    "kartel-monopoli": 14,
+    "ekspor": 12,
+    "perdagangan": 14,
+    "koperasi": 44,
+    "investasi": 41,
+    "merger-akuisisi": 1,
+    "kartel-monopoli": 13,
+    "dividen": 1,
     "impor": 5
   },
   "member_counts_30d": {
@@ -60,7 +61,7 @@
     "Sadarestuwati": 13,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 14,
+    "Totok Hedi Santosa": 15,
     "Nurdin Halid": 16,
     "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 2,
@@ -89,13 +90,83 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 75,
-    "Kinerja BUMN": 14,
-    "Perdagangan": 24,
+    "Koperasi/UMKM": 77,
+    "Kinerja BUMN": 15,
+    "Perdagangan": 26,
     "Hukum/Audit": 24,
     "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "Wamenkop Tinjau Sukasusu di Pameran INNOFOOD 2026 - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 17:26:00 GMT",
+      "link": "https://bsinews.id/wamenkop-tinjau-sukasusu-innofood"
+    },
+    {
+      "title": "Siap Pasok Program MBG, Sukasusu Tuai Apresiasi Wamenkop dan HKTI - detikcom",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 17:20:08 GMT",
+      "link": "https://www.detik.com/jatim/berita/d-8752247/siap-pasok-program-mbg-sukasusu-tuai-apresiasi-wamenkop-dan-hkti"
+    },
+    {
+      "title": "KPPU Kanwil VII Perkuat Pengawasan Rantai Pasok dan Harga Pangan Jelang HBKN dan Nataru di DIY - warta jogja",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 17:01:00 GMT",
+      "link": "https://www.wartajogja.id/2026/11/kppu-kanwil-vii-perkuat-pengawasan.html"
+    },
+    {
+      "title": "Skandal Jensen Huang Seret Menteri Perdagangan AS, Senat Bidik Ekspor Chip Nvidia ke China - AFU.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 15:41:16 GMT",
+      "link": "https://afu.id/internasional/skandal-jensen-huang-seret-menteri-perdagangan-as-senat-bidik-ekspor-chip-nvidia-ke-china"
+    },
+    {
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 15:28:13 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
+    },
+    {
+      "title": "DPR ingatkan kesiapan Tol Yogyakarta-Bawen utamakan keselamatan ​ - ANTARA News",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 15:22:48 GMT",
+      "link": "https://www.antaranews.com/berita/5852907/dpr-ingatkan-kesiapan-tol-yogyakarta-bawen-utamakan-keselamatan"
+    },
+    {
+      "title": "KPPU Dorong UMKM Surabaya Berdaya melalui Persaingan Usaha Sehat - KilasJatim.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 15:20:04 GMT",
+      "link": "https://kilasjatim.com/2026/11/13/kppu-dorong-umkm-surabaya-berdaya-melalui-persaingan-usaha-sehat/"
+    },
+    {
+      "title": "Sukasusu Sukses Pikat Pengunjung dan Pejabat di Pameran INNOFOOD 2026 - www.suaralandak.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 14:32:31 GMT",
+      "link": "https://www.suaralandak.co.id/sukasusu-sukses-pikat-pengunjung-dan-pejabat-di-pameran-innofood-2026"
+    },
+    {
+      "title": "Indonesia, Rusia teken MoU kerja sama kebijakan persaingan usaha - ANTARA News",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 13:50:57 GMT",
+      "link": "https://www.antaranews.com/berita/5852571/indonesia-rusia-teken-mou-kerja-sama-kebijakan-persaingan-usaha"
+    },
+    {
+      "title": "Penguatan Koperasi Merah Putih Membuka Peluang Desa Naik Kelas - PT Suara Dewata Media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 13:00:00 GMT",
+      "link": "https://www.suaradewata.com/berita/202405219070/penguatan-koperasi-merah-putih-membuka-peluang-desa-naik-kelas"
+    },
     {
       "title": "HPE Emas Turun Jadi USD130.075,60 per Kg, Kemendag Ungkap Penyebabnya - InfoPublik",
       "entity": "Kementerian Perdagangan",
@@ -130,76 +201,6 @@
       "kind": "anggota",
       "published": "Fri, 13 Nov 2026 11:01:00 GMT",
       "link": "https://www.gesuri.id/serba-serbi/sosok-wapres-baru-mufti-anam-hak-menyatakan-pendapat-gagal-tapi-tidak-sia-sia-b2qeyZbjxu"
-    },
-    {
-      "title": "Antrean BBM di Bali Mengular Hingga 10 Hari, Alit Kelakan Cecar Direksi Pertamina - gesuri.id",
-      "entity": "I Gusti Ngurah Kesuma Kelakan",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/antrean-bbm-di-bali-mengular-hingga-10-hari-alit-kelakan-cecar-direksi-pertamina-b2qeyZbjxs"
-    },
-    {
-      "title": "Bupati Lotim Temui Mendag, Ekspor Porang dan Revitalisasi Dua Pasar Diusulkan - Ampenan News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 10:48:59 GMT",
-      "link": "https://www.ampenannews.com/2026/11/bupati-lotim-temui-mendag-ekspor-porang-dan-revitalisasi-dua-pasar-diusulkan.html"
-    },
-    {
-      "title": "Komoditas Karet Indonesia Diperkuat, Kemendag Sederhanakan Ketentuan Ekspor - www.vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 10:05:51 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/11/13/komoditas-karet-indonesia-diperkuat-kemendag-sederhanakan-ketentuan-ekspor/"
-    },
-    {
-      "title": "Menteri Perdagangan AS Disorot soal Pengawasan Ekspor Chip Nvidia ke China - Cryptowave",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 09:37:43 GMT",
-      "link": "https://cryptowave.co.id/articles/menteri-perdagangan-as-disorot-soal-pengawasan-ekspor-chip-nvidia-ke-china"
-    },
-    {
-      "title": "Sadarestuwati Dorong Ketahanan Pangan dari Pekarangan Rumah Lewat Program BitPro dan P2B - gesuri.id",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 09:28:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/sadarestuwati-dorong-ketahanan-pangan-dari-pekarangan-rumah-lewat-program-bitpro-dan-p2b-b2qeyZbjxG"
-    },
-    {
-      "title": "Kemenkeu Masih Bahas Rencana Pengalihan Saham Whoosh, Targetkan Rampung di Desember 2026 - SWA.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 09:06:00 GMT",
-      "link": "https://swa.co.id/read/479644/kemenkeu-masih-bahas-rencana-pengalihan-saham-whoosh-targetkan-rampung-di-desember-2026"
-    },
-    {
-      "title": "Kemenkeu Masih Bahas Rencana Pengalihan Saham Whoosh, Targetkan Rampung di Desember 2026 - SWA.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 09:06:00 GMT",
-      "link": "https://swa.co.id/read/479644/kemenkeu-masih-bahas-rencana-pengalihan-saham-whoosh-targetkan-rampung-di-desember-2026"
-    },
-    {
-      "title": "Lombok Timur usulkan revitalisasi dua pasar rakyat ke pusat - ANTARA News Mataram",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 08:47:29 GMT",
-      "link": "https://mataram.antaranews.com/berita/582443/lombok-timur-usulkan-revitalisasi-dua-pasar-rakyat-ke-pusat"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Pengunduran Diri Gibran Tidak Boleh Hapus Tanggung Jawab Konstitusional Negara - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 08:30:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-pengunduran-diri-gibran-tidak-boleh-hapus-tanggung-jawab-konstitusional-negara-b2qeyZbjx8"
-    },
-    {
-      "title": "Rieke Diah Pitaloka: Wakil Presiden Mundur, Konstitusi Tidak Boleh Mundur - MPN Indonesia",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 08:22:36 GMT",
-      "link": "https://mpnindonesia.com/politik/rieke-diah-pitaloka-wakil-presiden-mundur-konstitusi-tidak-boleh-mundur/"
     }
   ]
 }
