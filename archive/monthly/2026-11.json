@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-14T01:15:49.763113",
+  "generated_at": "2026-11-14T08:34:40.605305",
   "party_counts_7d": {
     "Gerindra": 28,
     "PDI-P": 20,
-    "Golkar": 20,
+    "Golkar": 18,
     "NasDem": 5,
-    "PKB": 20,
-    "PKS": 9,
+    "PKB": 19,
+    "PKS": 8,
     "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
     "Gerindra": 64,
-    "PDI-P": 73,
+    "PDI-P": 70,
     "Golkar": 78,
     "NasDem": 15,
     "PKB": 55,
-    "PKS": 34,
+    "PKS": 33,
     "PAN": 12,
-    "Demokrat": 26
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
+    "bumn": 45,
     "umkm": 34,
     "danantara": 23,
-    "ekspor": 14,
-    "perdagangan": 14,
-    "koperasi": 45,
-    "investasi": 40,
+    "perdagangan": 10,
+    "investasi": 41,
+    "ekspor": 16,
+    "koperasi": 46,
     "merger-akuisisi": 1,
     "kartel-monopoli": 12,
     "dividen": 1,
@@ -55,7 +55,7 @@
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 4,
-    "Darmadi Durianto": 8,
+    "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 13,
@@ -74,29 +74,119 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 6,
-    "Rivqy Abdul Halim": 20,
+    "Anggia Erma Rini": 7,
+    "Rivqy Abdul Halim": 19,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
     "Imas Aan Ubudiah": 1,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
-    "Ismail": 8,
+    "Ismail": 7,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
     "Sartono": 5,
-    "Herman Khaeron": 20,
-    "Faujia Helga": 1
+    "Herman Khaeron": 18
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Kinerja BUMN": 15,
-    "Perdagangan": 28,
-    "Hukum/Audit": 24,
+    "Perdagangan": 32,
+    "Hukum/Audit": 23,
     "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "11 Saham BUMN Masuk HSC, Bos Danantara Akhirnya Buka Suara - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 07:45:00 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261114120359-17-785214/11-saham-bumn-masuk-hsc-bos-danantara-akhirnya-buka-suara"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan menyetujui kerangka penetapan harga untuk pembangkitan listrik dari sistem penyimpanan baterai pada tahun 2026. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 07:08:04 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-phe-duyet-khung-gia-phat-dien-he-thong-pin-luu-tru-nang-luong-nam-2026"
+    },
+    {
+      "title": "HPE dan Harga Referensi Emas Periode II November-2026 Dipangkas 2,02% - InvestorTrust",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 05:01:00 GMT",
+      "link": "https://investortrust.id/business/122554/hpe-dan-harga-referensi-emas-periode-ii-november-2026-dipangkas-2-02"
+    },
+    {
+      "title": "Farida Farichah Dorong Koperasi Merah Putih Sejahterakan Petani - cwibc.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 04:59:53 GMT",
+      "link": "https://cwibc.co.id/koperasi-merah-putih-sejahterakan-petani"
+    },
+    {
+      "title": "Kesiapan Tol Jogja–Bawen dan Jogja–Solo Jelang Nataru 2026/2027 Ditinjau Komisi VI DPR RI - Suara Pemerintah",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 14 Nov 2026 04:58:26 GMT",
+      "link": "https://suarapemerintah.id/2026/11/kesiapan-tol-jogja-bawen-dan-jogja-solo-jelang-nataru-2026-2027-ditinjau-komisi-vi-dpr-ri/"
+    },
+    {
+      "title": "Koperasi Merah Putih Perkuat Kesejahteraan Petani - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 04:55:34 GMT",
+      "link": "https://bsinews.id/koperasi-merah-putih-sejahterakan-petani"
+    },
+    {
+      "title": "Harga Patokan Ekspor Emas Turun 2,02 Persen pada Periode Kedua November 2026 - masakini.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 04:06:36 GMT",
+      "link": "https://masakini.co/2026/11/14/harga-patokan-ekspor-emas-turun-202-persen-pada-periode-kedua-november-2026/"
+    },
+    {
+      "title": "Wamenkop: Koperasi Kunci Sejahterakan Petani dan Wujudkan Kemandirian Pangan - indoposco.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 04:04:53 GMT",
+      "link": "https://indoposco.id/2026/11/14/wamenkop-koperasi-kunci-sejahterakan-petani-dan-wujudkan-kemandirian-pangan/"
+    },
+    {
+      "title": "Kemendag: Harga patokan ekspor emas masih menunjukkan pelemahan - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 03:41:06 GMT",
+      "link": "https://www.antaranews.com/berita/5853479/kemendag-harga-patokan-ekspor-emas-masih-menunjukkan-pelemahan"
+    },
+    {
+      "title": "HPE dan Harga Referensi Emas Turun 2,02% pada Periode II November 2026 - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 03:31:15 GMT",
+      "link": "https://industri.kontan.co.id/news/hpe-dan-harga-referensi-emas-turun-202-pada-periode-ii-november-2026"
+    },
+    {
+      "title": "KPPU Dorong UMKM Surabaya Berdaya melalui Persaingan Usaha Sehat - pena rakyat news",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 03:11:56 GMT",
+      "link": "https://penarakyatnews.id/2026/11/14/kppu-dorong-umkm-surabaya-berdaya-melalui-persaingan-usaha-sehat/"
+    },
+    {
+      "title": "Kemendag Tetapkan HPE Emas Periode II November, Turun 2,02 Persen - TVRI News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 02:42:11 GMT",
+      "link": "https://ekonomi.tvrinews.com/berita/t3iqkhr-kemendag-tetapkan-hpe-emas-periode-ii-november-turun-202-persen"
+    },
+    {
+      "title": "Kemendag Turunkan HPE Emas untuk Periode 15 November 2026 - cwibc.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 01:33:11 GMT",
+      "link": "https://cwibc.co.id/hpe-emas-15-november-2026"
+    },
     {
       "title": "Komisi VII ingin wajibkan pelaku industri bantu UMKM naik kelas - ANTARA News Kepri",
       "entity": "BP Batam",
@@ -110,97 +200,6 @@
       "kind": "lembaga",
       "published": "Sat, 14 Nov 2026 00:58:47 GMT",
       "link": "https://www.nusabali.com/berita/236332/bumn-dipangkas-dari-1074-jadi-250-entitas"
-    },
-    {
-      "title": "60 Pengurus Koperasi Dilatih Tertib Administrasi - SUARANTB.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 00:54:30 GMT",
-      "link": "https://suarantb.com/2026/11/14/60-pengurus-koperasi-dilatih-tertib-administrasi/"
-    },
-    {
-      "title": "Tinjau Stand Sukasusu di INNOFOOD 2026, Wamenkop Dorong Penguatan Sinergi Koperasi Susu, Peternak dan HKTI - Kabarpas",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 00:10:09 GMT",
-      "link": "https://kabarpas.com/tinjau-stand-sukasusu-di-innofood-2026-wamenkop-dorong-penguatan-sinergi-koperasi-susu-peternak-dan-hkti/"
-    },
-    {
-      "title": "Resmi Turun! Cek Daftar Harga Patokan Ekspor Emas Periode 15–30 November 2026. - Industry.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 23:22:00 GMT",
-      "link": "https://www.industry.co.id/read/159162/resmi-turun-cek-daftar-harga-patokan-ekspor-emas-periode-1530-november-2026"
-    },
-    {
-      "title": "Seksi 1 dan 6 Siap, Komisi VI DPR Optimistis Tol Jogja–Bawen Perlancar Mobilitas Nataru - RiauAktual.com",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 22:49:58 GMT",
-      "link": "https://riauaktual.com/news/detail/124267/seksi-1-dan-6-siap-komisi-vi-dpr-optimistis-tol-jogja-bawen-perlancar-mobilitas-nataru"
-    },
-    {
-      "title": "Wamenkop Tinjau Sukasusu di Pameran INNOFOOD 2026 - bsinews.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 17:26:00 GMT",
-      "link": "https://bsinews.id/wamenkop-tinjau-sukasusu-innofood"
-    },
-    {
-      "title": "Siap Pasok Program MBG, Sukasusu Tuai Apresiasi Wamenkop dan HKTI - detikcom",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 17:20:08 GMT",
-      "link": "https://www.detik.com/jatim/berita/d-8752247/siap-pasok-program-mbg-sukasusu-tuai-apresiasi-wamenkop-dan-hkti"
-    },
-    {
-      "title": "KPPU Kanwil VII Perkuat Pengawasan Rantai Pasok dan Harga Pangan Jelang HBKN dan Nataru di DIY - warta jogja",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 17:01:00 GMT",
-      "link": "https://www.wartajogja.id/2026/11/kppu-kanwil-vii-perkuat-pengawasan.html"
-    },
-    {
-      "title": "Skandal Jensen Huang Seret Menteri Perdagangan AS, Senat Bidik Ekspor Chip Nvidia ke China - AFU.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 15:41:16 GMT",
-      "link": "https://afu.id/internasional/skandal-jensen-huang-seret-menteri-perdagangan-as-senat-bidik-ekspor-chip-nvidia-ke-china"
-    },
-    {
-      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 15:28:13 GMT",
-      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
-    },
-    {
-      "title": "DPR ingatkan kesiapan Tol Yogyakarta-Bawen utamakan keselamatan ​ - ANTARA News",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 15:22:48 GMT",
-      "link": "https://www.antaranews.com/berita/5852907/dpr-ingatkan-kesiapan-tol-yogyakarta-bawen-utamakan-keselamatan"
-    },
-    {
-      "title": "KPPU Dorong UMKM Surabaya Berdaya melalui Persaingan Usaha Sehat - KilasJatim.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 15:20:04 GMT",
-      "link": "https://kilasjatim.com/2026/11/13/kppu-dorong-umkm-surabaya-berdaya-melalui-persaingan-usaha-sehat/"
-    },
-    {
-      "title": "Sukasusu Sukses Pikat Pengunjung dan Pejabat di Pameran INNOFOOD 2026 - www.suaralandak.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 14:32:31 GMT",
-      "link": "https://www.suaralandak.co.id/sukasusu-sukses-pikat-pengunjung-dan-pejabat-di-pameran-innofood-2026"
-    },
-    {
-      "title": "Indonesia, Rusia teken MoU kerja sama kebijakan persaingan usaha - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 13:50:57 GMT",
-      "link": "https://www.antaranews.com/berita/5852571/indonesia-rusia-teken-mou-kerja-sama-kebijakan-persaingan-usaha"
     }
   ]
 }
