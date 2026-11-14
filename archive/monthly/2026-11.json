@@ -1,8 +1,8 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-14T15:32:24.818209",
+  "generated_at": "2026-11-14T20:24:10.265187",
   "party_counts_7d": {
-    "Gerindra": 23,
+    "Gerindra": 22,
     "PDI-P": 15,
     "Golkar": 15,
     "NasDem": 5,
@@ -40,7 +40,7 @@
     "ekspor": 17,
     "perdagangan": 12,
     "investasi": 41,
-    "koperasi": 46,
+    "koperasi": 45,
     "merger-akuisisi": 1,
     "kartel-monopoli": 13,
     "dividen": 1,
@@ -89,13 +89,20 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 82,
+    "Koperasi/UMKM": 81,
     "Kinerja BUMN": 16,
     "Perdagangan": 33,
     "Hukum/Audit": 22,
     "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "Audiensi dengan Seskemenkop, Mahyeldi Usulkan Penguatan KDKMP Kembangkan Hilirisasi Produk Daerah - Padangkita.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 15:42:35 GMT",
+      "link": "https://padangkita.com/audiensi-dengan-seskemenkop-mahyeldi-usulkan-penguatan-kdkmp-kembangkan-hilirisasi-produk-daerah/"
+    },
     {
       "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
       "entity": "Kementerian Perdagangan",
@@ -193,13 +200,6 @@
       "kind": "lembaga",
       "published": "Sat, 14 Nov 2026 07:08:04 GMT",
       "link": "https://www.vietnam.vn/id/bo-cong-thuong-phe-duyet-khung-gia-phat-dien-he-thong-pin-luu-tru-nang-luong-nam-2026"
-    },
-    {
-      "title": "Benarkah Danantara Bakal Kelola Dana Pesangon Pekerja? Ini Penjelasannya - AFU.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 06:00:00 GMT",
-      "link": "https://afu.id/ekonomi/benarkah-danantara-bakal-kelola-dana-pesangon-pekerja-ini-penjelasannya"
     }
   ]
 }
