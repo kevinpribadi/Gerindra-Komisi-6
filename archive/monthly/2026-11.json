@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-13T20:44:55.856858",
+  "generated_at": "2026-11-14T01:15:49.763113",
   "party_counts_7d": {
-    "Gerindra": 27,
+    "Gerindra": 28,
     "PDI-P": 20,
     "Golkar": 20,
     "NasDem": 5,
-    "PKB": 19,
-    "PKS": 10,
+    "PKB": 20,
+    "PKS": 9,
     "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 63,
+    "Gerindra": 64,
     "PDI-P": 73,
     "Golkar": 78,
     "NasDem": 15,
-    "PKB": 54,
+    "PKB": 55,
     "PKS": 34,
     "PAN": 12,
     "Demokrat": 26
@@ -35,20 +35,20 @@
   },
   "topic_counts_30d": {
     "bumn": 44,
-    "umkm": 32,
-    "danantara": 24,
-    "ekspor": 12,
+    "umkm": 34,
+    "danantara": 23,
+    "ekspor": 14,
     "perdagangan": 14,
-    "koperasi": 44,
-    "investasi": 41,
+    "koperasi": 45,
+    "investasi": 40,
     "merger-akuisisi": 1,
-    "kartel-monopoli": 13,
+    "kartel-monopoli": 12,
     "dividen": 1,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 2,
+    "Khilmi": 3,
     "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 18,
@@ -74,7 +74,7 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 5,
+    "Anggia Erma Rini": 6,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
@@ -90,13 +90,55 @@
     "Faujia Helga": 1
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 77,
+    "Koperasi/UMKM": 81,
     "Kinerja BUMN": 15,
-    "Perdagangan": 26,
+    "Perdagangan": 28,
     "Hukum/Audit": 24,
     "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "Komisi VII ingin wajibkan pelaku industri bantu UMKM naik kelas - ANTARA News Kepri",
+      "entity": "BP Batam",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 01:05:07 GMT",
+      "link": "https://kepri.antaranews.com/berita/273627/komisi-vii-ingin-wajibkan-pelaku-industri-bantu-umkm-naik-kelas"
+    },
+    {
+      "title": "BUMN Dipangkas dari 1.074 Jadi 250 Entitas - NUSABALI.com",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 00:58:47 GMT",
+      "link": "https://www.nusabali.com/berita/236332/bumn-dipangkas-dari-1074-jadi-250-entitas"
+    },
+    {
+      "title": "60 Pengurus Koperasi Dilatih Tertib Administrasi - SUARANTB.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 00:54:30 GMT",
+      "link": "https://suarantb.com/2026/11/14/60-pengurus-koperasi-dilatih-tertib-administrasi/"
+    },
+    {
+      "title": "Tinjau Stand Sukasusu di INNOFOOD 2026, Wamenkop Dorong Penguatan Sinergi Koperasi Susu, Peternak dan HKTI - Kabarpas",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 14 Nov 2026 00:10:09 GMT",
+      "link": "https://kabarpas.com/tinjau-stand-sukasusu-di-innofood-2026-wamenkop-dorong-penguatan-sinergi-koperasi-susu-peternak-dan-hkti/"
+    },
+    {
+      "title": "Resmi Turun! Cek Daftar Harga Patokan Ekspor Emas Periode 15–30 November 2026. - Industry.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 13 Nov 2026 23:22:00 GMT",
+      "link": "https://www.industry.co.id/read/159162/resmi-turun-cek-daftar-harga-patokan-ekspor-emas-periode-1530-november-2026"
+    },
+    {
+      "title": "Seksi 1 dan 6 Siap, Komisi VI DPR Optimistis Tol Jogja–Bawen Perlancar Mobilitas Nataru - RiauAktual.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Fri, 13 Nov 2026 22:49:58 GMT",
+      "link": "https://riauaktual.com/news/detail/124267/seksi-1-dan-6-siap-komisi-vi-dpr-optimistis-tol-jogja-bawen-perlancar-mobilitas-nataru"
+    },
     {
       "title": "Wamenkop Tinjau Sukasusu di Pameran INNOFOOD 2026 - bsinews.id",
       "entity": "Kementerian Koperasi",
@@ -159,48 +201,6 @@
       "kind": "lembaga",
       "published": "Fri, 13 Nov 2026 13:50:57 GMT",
       "link": "https://www.antaranews.com/berita/5852571/indonesia-rusia-teken-mou-kerja-sama-kebijakan-persaingan-usaha"
-    },
-    {
-      "title": "Penguatan Koperasi Merah Putih Membuka Peluang Desa Naik Kelas - PT Suara Dewata Media",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 13:00:00 GMT",
-      "link": "https://www.suaradewata.com/berita/202405219070/penguatan-koperasi-merah-putih-membuka-peluang-desa-naik-kelas"
-    },
-    {
-      "title": "HPE Emas Turun Jadi USD130.075,60 per Kg, Kemendag Ungkap Penyebabnya - InfoPublik",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 12:50:00 GMT",
-      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/997278/hpe-emas-turun-jadi-usd13007560-per-kg-kemendag-ungkap-penyebabnya"
-    },
-    {
-      "title": "PKB sebut tak ada pembahasan Muhaimin Iskandar diusulkan jadi Wapres - ANTARA News Megapolitan",
-      "entity": "Iskandar",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 11:50:56 GMT",
-      "link": "https://megapolitan.antaranews.com/berita/561987/pkb-sebut-tak-ada-pembahasan-muhaimin-iskandar-diusulkan-jadi-wapres"
-    },
-    {
-      "title": "Dony Oskaria Terpilih Jadi Anggota MWA Unand 2026–2031 Lewat Musyawarah Mufakat - konstruksimedia.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 11:39:46 GMT",
-      "link": "https://konstruksimedia.com/dony-oskaria-terpilih-jadi-anggota-mwa-unand-2026-2031-lewat-musyawarah-mufakat/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan telah mengkonsolidasikan peraturan tentang pelaporan berkala dan basis data klaster industri. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 13 Nov 2026 11:24:24 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-hop-nhat-quy-dinh-ve-bao-cao-dinh-ky-va-co-so-du-lieu-cum-cong-nghiep"
-    },
-    {
-      "title": "Sosok Wapres Baru? Mufti Anam: Hak Menyatakan Pendapat Gagal Tapi Tidak Sia-Sia - gesuri.id",
-      "entity": "Mufti Anam",
-      "kind": "anggota",
-      "published": "Fri, 13 Nov 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/serba-serbi/sosok-wapres-baru-mufti-anam-hak-menyatakan-pendapat-gagal-tapi-tidak-sia-sia-b2qeyZbjxu"
     }
   ]
 }
