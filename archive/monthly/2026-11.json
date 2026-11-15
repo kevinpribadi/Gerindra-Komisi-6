@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-15T07:31:51.293157",
+  "generated_at": "2026-11-15T15:18:53.353602",
   "party_counts_7d": {
     "Gerindra": 24,
     "PDI-P": 14,
-    "Golkar": 13,
+    "Golkar": 12,
     "NasDem": 5,
-    "PKB": 18,
+    "PKB": 16,
     "PKS": 8,
     "PAN": 5,
-    "Demokrat": 8
+    "Demokrat": 9
   },
   "party_counts_30d": {
     "Gerindra": 66,
-    "PDI-P": 67,
-    "Golkar": 76,
+    "PDI-P": 66,
+    "Golkar": 74,
     "NasDem": 15,
-    "PKB": 55,
+    "PKB": 56,
     "PKS": 31,
     "PAN": 12,
     "Demokrat": 19
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 44,
-    "umkm": 34,
+    "bumn": 43,
+    "umkm": 36,
     "danantara": 26,
-    "ekspor": 15,
+    "ekspor": 13,
     "perdagangan": 10,
-    "investasi": 38,
     "koperasi": 41,
     "kartel-monopoli": 13,
+    "investasi": 32,
     "dividen": 1,
     "impor": 5
   },
@@ -53,7 +53,7 @@
     "Kawendra Lukistian": 19,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 4,
-    "Mufti Anam": 2,
+    "Mufti Anam": 1,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
@@ -61,7 +61,7 @@
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
-    "Nurdin Halid": 15,
+    "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 11,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 2,
@@ -74,7 +74,7 @@
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 7,
-    "Rivqy Abdul Halim": 17,
+    "Rivqy Abdul Halim": 18,
     "Nasim Khan": 20,
     "Ida Fauziyah": 9,
     "Imas Aan Ubudiah": 2,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 79,
+    "Koperasi/UMKM": 81,
     "Kinerja BUMN": 16,
     "Perdagangan": 30,
     "Konflik Publik": 17,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 21
   },
   "top_headlines": [
     {
-      "title": "Jelang Kunjungan Kerja Menteri di Bagansiapiapi, SPBUN di Jl. Lingkar Pelabuhan Baru Terus Berbenah - Media Pesisir News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 07:01:53 GMT",
-      "link": "https://mediapesisirnews.com/article/jelang-kunjungan-kerja-menteri-di-bagansiapiapi-spbun-di-jl-lingkar-pelabuhan-baru-terus-berbenah/"
-    },
-    {
-      "title": "Perkuat Daya Saing di Pasar Global, Kemendag Ubah Aturan Ekspor Karet Alam - indoposco.id",
+      "title": "Lima Pasar di Balikpapan Diusulkan Direvitalisasi, Bidik Anggaran Tahun 2028 - - Kotaku.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:39:52 GMT",
-      "link": "https://indoposco.id/2026/11/15/perkuat-daya-saing-di-pasar-global-kemendag-ubah-aturan-ekspor-karet-alam/"
+      "published": "Sun, 15 Nov 2026 14:27:24 GMT",
+      "link": "https://kotaku.co.id/lima-pasar-di-balikpapan-diusulkan-direvitalisasi-bidik-anggaran-tahun-2028/"
     },
     {
-      "title": "Kemendag Usulkan Angkutan Barang Beroperasi Malam Saat Nataru - bsinews.id",
+      "title": "Kemendag Boyong 20 Produk UMKM Potensial ke Jaringan Indogrosir - Niaga.Asia",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:25:39 GMT",
-      "link": "https://bsinews.id/kemendag-angkutan-barang-nataru"
+      "published": "Sun, 15 Nov 2026 14:23:31 GMT",
+      "link": "https://www.niaga.asia/kemendag-boyong-20-produk-umkm-potensial-ke-jaringan-indogrosir/"
     },
     {
-      "title": "Kemendag Usulkan Angkutan Barang Beroperasi Malam Saat Nataru - Demokratis.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:24:44 GMT",
-      "link": "https://demokratis.co.id/kemendag-angkutan-barang-malam-nataru"
-    },
-    {
-      "title": "Kemendag Usulkan Angkutan Barang Beroperasi Malam Saat Nataru - Koridor.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:24:24 GMT",
-      "link": "https://koridor.co.id/kemendag-angkutan-barang-nataru"
-    },
-    {
-      "title": "Kemendag Usulkan Angkutan Barang Beroperasi Malam Saat Nataru - Peradaban.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:24:00 GMT",
-      "link": "https://peradaban.id/kemendag-angkutan-barang-nataru"
-    },
-    {
-      "title": "Gerindra Sumbar dukung Dasco jadi Wapres, ini alasannya - ANTARA News Makassar",
-      "entity": "Andre Rosiade",
+      "title": "Demokrat Sumut Pernah Raih 10 Kursi DPR RI, Herman Khaeron Dorong Kebangkitan Menuju 2029 - indomedia.co",
+      "entity": "Herman Khaeron",
       "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 06:19:02 GMT",
-      "link": "https://makassar.antaranews.com/berita/643567/gerindra-sumbar-dukung-dasco-jadi-wapres-ini-alasannya"
+      "published": "Sun, 15 Nov 2026 14:20:00 GMT",
+      "link": "https://www.indomedia.co/2026/11/demokrat-sumut-pernah-raih-10-kursi-dpr.html"
     },
     {
-      "title": "Kemnaker Bantah Pengusaha Wajib Setor Dana Pesangon ke Danantara - VOICE Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 06:00:46 GMT",
-      "link": "https://voiceindonesia.co/ketenagakerjaan/kemnaker-bantah-pengusaha-wajib-setor-dana-pesangon-ke-danantara"
-    },
-    {
-      "title": "Kemendag Usul Angkutan Bahan Pokok Bisa Melintas Malam Hari saat Nataru - detikFinance",
+      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:49:43 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8753788/kemendag-usul-angkutan-bahan-pokok-bisa-melintas-malam-hari-saat-nataru"
+      "published": "Sun, 15 Nov 2026 13:49:10 GMT",
+      "link": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru - ANTARA News",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 15 Nov 2026 13:49:10 GMT",
+      "link": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru"
+    },
+    {
+      "title": "KPPU perkuat perlindungan kemitraan dan daya saing UMKM Surabaya - ANTARA News",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:40:49 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261115/Mjc0NDQ0"
+      "published": "Sun, 15 Nov 2026 12:55:14 GMT",
+      "link": "https://www.antaranews.com/berita/5855875/kppu-perkuat-perlindungan-kemitraan-dan-daya-saing-umkm-surabaya"
     },
     {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Kemnaker Bantah Isu Setoran Dana Cadangan Pesangon ke Danantara - TVRI News",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:30:54 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261115/Mjk5MTUy"
+      "published": "Sun, 15 Nov 2026 12:00:49 GMT",
+      "link": "https://nasional.tvrinews.com/berita/th44nhr-kemnaker-bantah-isu-setoran-dana-cadangan-pesangon-ke-danantara"
     },
     {
-      "title": "Audiensi dengan Sekretaris Kementerian Koperasi, Mahyeldi Sampaikan Usulan Penguatan KDKMP dan Hilirisasi Produk Daerah - dutametro",
+      "title": "Rieke Diah Pitaloka Minta Dugaan Pemerkosaan Mahasiswi di Kupang Diusut Tuntas – Kalimantan Kita - Kaki News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 15 Nov 2026 11:09:02 GMT",
+      "link": "https://kakinews.id/rieke-diah-pitaloka-minta-dugaan-pemerkosaan-mahasiswi-di-kupang-diusut-tuntas/"
+    },
+    {
+      "title": "Audiensi dengan Sekretaris Kementerian Koperasi, Mahyeldi Sampaikan Usulan Penguatan KDKMP dan Hilirisasi Produk Daerah - ANTARA News Sumbar",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:19:35 GMT",
-      "link": "https://dutametro.com/15/11/2026/audiensi-dengan-sekretaris-kementerian-koperasi-mahyeldi-sampaikan-usulan-penguatan-kdkmp-dan-hilirisasi-produk-daerah/pemprov-sumbar/"
+      "published": "Sun, 15 Nov 2026 11:08:08 GMT",
+      "link": "https://sumbar.antaranews.com/berita/789703/audiensi-dengan-sekretaris-kementerian-koperasi-mahyeldi-sampaikan-usulan-penguatan-kdkmp-dan-hilirisasi-produk-daerah"
     },
     {
-      "title": "Kemenaker Bantah Danantara Kelola Dana Cadangan Pesangon - cwibc.co.id",
+      "title": "Kemnaker Bantah Danantara Jadi Pengelola Dana Pesangon - bsinews.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:17:02 GMT",
-      "link": "https://cwibc.co.id/kemenaker-danantara-dana-cadangan-pesangon"
+      "published": "Sun, 15 Nov 2026 11:02:37 GMT",
+      "link": "https://bsinews.id/kemnaker-bantah-pengelola-dana-pesangon"
     },
     {
-      "title": "Kemenaker Bantah Danantara Kelola Dana Cadangan Pesangon - Limapagi",
+      "title": "Kemnaker Bantah Danantara Kelola Dana Cadangan Pesangon - Peradaban.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 05:09:53 GMT",
-      "link": "https://www.limapagi.id/kemenaker-danantara-dana-cadangan-pesangon"
+      "published": "Sun, 15 Nov 2026 11:02:03 GMT",
+      "link": "https://peradaban.id/kemnaker-bantah-danantara-dana-pesangon"
     },
     {
-      "title": "Dana Cadangan Pesangon Jadi Sorotan, Kemnaker Tegaskan Pengusaha Belum Wajib Setor ke Danantara - MIN.CO.ID",
+      "title": "Bantah Dana Pesangon Dikelola Danantara, Kemnaker: Belum Ada Keputusan! - detikFinance",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 04:28:27 GMT",
-      "link": "https://min.co.id/2026/11/15/dana-cadangan-pesangon-jadi-sorotan-kemnaker-tegaskan-pengusaha-belum-wajib-setor-ke-danantara/"
+      "published": "Sun, 15 Nov 2026 11:00:48 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8753901/bantah-dana-pesangon-dikelola-danantara-kemnaker-belum-ada-keputusan"
+    },
+    {
+      "title": "Perhatian! Danantara Bakal Rilis Laporan Keuangan 23 November - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 10:45:32 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261115143832-17-785355/perhatian-danantara-bakal-rilis-laporan-keuangan-23-november"
+    },
+    {
+      "title": "Harga Kebutuhan Pokok Merangkak Naik Jelang Nataru, DPR RI: Pemerintah Harus Lakukan Kontrol Pasar - FPKB DPR RI",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Sun, 15 Nov 2026 09:32:02 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/15/harga-kebutuhan-pokok-merangkak-naik-jelang-nataru-dpr-ri-pemerintah-harus-lakukan-kontrol-pasar/"
+    },
+    {
+      "title": "Danantara Buka Suara soal Isu Bakal Tampung Dana Cadangan Pesangon - CNN Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 09:02:08 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261115155749-92-1427399/danantara-buka-suara-soal-isu-bakal-tampung-dana-cadangan-pesangon"
     }
   ]
 }
