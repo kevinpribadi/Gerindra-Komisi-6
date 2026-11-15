@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-14T20:24:10.265187",
+  "generated_at": "2026-11-15T00:43:41.215547",
   "party_counts_7d": {
-    "Gerindra": 22,
+    "Gerindra": 23,
     "PDI-P": 15,
     "Golkar": 15,
     "NasDem": 5,
-    "PKB": 18,
+    "PKB": 19,
     "PKS": 8,
     "PAN": 5,
     "Demokrat": 8
   },
   "party_counts_30d": {
-    "Gerindra": 65,
+    "Gerindra": 66,
     "PDI-P": 69,
     "Golkar": 77,
     "NasDem": 15,
-    "PKB": 54,
+    "PKB": 55,
     "PKS": 31,
     "PAN": 12,
     "Demokrat": 20
@@ -34,21 +34,20 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 46,
-    "umkm": 34,
+    "bumn": 45,
+    "umkm": 35,
     "danantara": 24,
     "ekspor": 17,
     "perdagangan": 12,
     "investasi": 41,
     "koperasi": 45,
-    "merger-akuisisi": 1,
     "kartel-monopoli": 13,
     "dividen": 1,
     "impor": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
-    "Khilmi": 3,
+    "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 19,
@@ -78,7 +77,7 @@
     "Rivqy Abdul Halim": 18,
     "Nasim Khan": 20,
     "Ida Fauziyah": 8,
-    "Imas Aan Ubudiah": 1,
+    "Imas Aan Ubudiah": 2,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
@@ -89,13 +88,34 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Kinerja BUMN": 16,
     "Perdagangan": 33,
-    "Hukum/Audit": 22,
+    "Hukum/Audit": 21,
     "Konflik Publik": 16
   },
   "top_headlines": [
+    {
+      "title": "KPPU jadikan kasus denda Google bahan ajar mahasiswa Unmul - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 00:30:10 GMT",
+      "link": "https://kaltim.antaranews.com/berita/271283/kppu-jadikan-kasus-denda-google-bahan-ajar-mahasiswa-unmul"
+    },
+    {
+      "title": "Kemnaker: Pemerintah Belum Menetapkan Pengelola Dana Cadangan Pesangon - Suara Buruh Nasional",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 00:19:16 GMT",
+      "link": "https://www.suaraburuhnasional.com/2026/11/kemnaker-pemerintah-belum-menetapkan-pengelola-dana-cadangan-pesangon/"
+    },
+    {
+      "title": "Dekopinda Jember Minta Pegiat Koperasi Tidak Jadikan KDKMP Kompetitor - jatimnow.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 00:10:00 GMT",
+      "link": "https://jatimnow.com/baca-89111-dekopinda-jember-minta-pegiat-koperasi-tidak-jadikan-kdkmp-kompetitor"
+    },
     {
       "title": "Audiensi dengan Seskemenkop, Mahyeldi Usulkan Penguatan KDKMP Kembangkan Hilirisasi Produk Daerah - Padangkita.com",
       "entity": "Kementerian Koperasi",
@@ -179,27 +199,6 @@
       "kind": "lembaga",
       "published": "Sat, 14 Nov 2026 10:34:49 GMT",
       "link": "https://www.gerbangkaltim.com/kppu-kanwil-v-dan-fh-unmul-bedah-hukum-persaingan-usaha-digital/"
-    },
-    {
-      "title": "China & AS Bahas Tarif Saat Pertemuan Pertama Dewan Perdagangan - Bloomberg Technoz",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 09:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/127718/china-as-bahas-tarif-saat-pertemuan-pertama-dewan-perdagangan"
-    },
-    {
-      "title": "11 Saham BUMN Masuk HSC, Bos Danantara Akhirnya Buka Suara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 07:45:00 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261114120359-17-785214/11-saham-bumn-masuk-hsc-bos-danantara-akhirnya-buka-suara"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan menyetujui kerangka penetapan harga untuk pembangkitan listrik dari sistem penyimpanan baterai pada tahun 2026. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 14 Nov 2026 07:08:04 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-phe-duyet-khung-gia-phat-dien-he-thong-pin-luu-tru-nang-luong-nam-2026"
     }
   ]
 }
