@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-16T00:43:48.745484",
+  "generated_at": "2026-11-16T07:38:13.273748",
   "party_counts_7d": {
-    "Gerindra": 23,
-    "PDI-P": 16,
-    "Golkar": 11,
+    "Gerindra": 20,
+    "PDI-P": 17,
+    "Golkar": 9,
     "NasDem": 5,
-    "PKB": 17,
-    "PKS": 8,
+    "PKB": 20,
+    "PKS": 9,
     "PAN": 5,
-    "Demokrat": 9
+    "Demokrat": 10
   },
   "party_counts_30d": {
     "Gerindra": 67,
     "PDI-P": 67,
     "Golkar": 74,
     "NasDem": 15,
-    "PKB": 57,
-    "PKS": 31,
+    "PKB": 59,
+    "PKS": 32,
     "PAN": 12,
-    "Demokrat": 19
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 42,
-    "umkm": 36,
-    "danantara": 27,
-    "ekspor": 14,
-    "perdagangan": 9,
-    "koperasi": 42,
+    "umkm": 37,
+    "danantara": 28,
+    "ekspor": 12,
+    "perdagangan": 7,
+    "koperasi": 43,
+    "investasi": 33,
     "kartel-monopoli": 15,
-    "investasi": 32,
     "dividen": 1,
     "impor": 5
   },
@@ -54,10 +54,10 @@
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 1,
-    "Darmadi Durianto": 5,
+    "Darmadi Durianto": 6,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 13,
+    "Sadarestuwati": 12,
     "Ida Nurlaela": 4,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 15,
@@ -76,129 +76,129 @@
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 18,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 9,
+    "Ida Fauziyah": 11,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
-    "Ghufran": 2,
+    "Ghufran": 3,
     "Ismail": 5,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
-    "Sartono": 5,
+    "Sartono": 6,
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 82,
-    "Kinerja BUMN": 16,
+    "Koperasi/UMKM": 83,
+    "Kinerja BUMN": 18,
     "Perdagangan": 29,
     "Konflik Publik": 17,
     "Hukum/Audit": 22
   },
   "top_headlines": [
     {
-      "title": "Permendag 26 Tahun 2026 Atur Spesifikasi Teknis Karet Alam yang Akan Diekspor - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 16 Nov 2026 00:04:44 GMT",
-      "link": "https://www.niaga.asia/permendag-26-tahun-2026-atur-spesifikasi-teknis-karet-alam-yang-akan-diekspor/"
+      "title": "Ida Fauziyah Minta Pemerintah Jaga Harga TBS Petani di Tengah Penurunan HR CPO November 2026 - InfoSAWIT",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 07:29:32 GMT",
+      "link": "https://www.infosawit.com/2026/11/16/ida-fauziyah-minta-pemerintah-jaga-harga-tbs-petani-di-tengah-penurunan-hr-cpo-november-2026/"
     },
     {
-      "title": "Kemnaker Bantah Danantara Kelola Dana Pesangon, Aturan Teknis Masih Digodok - bataviapos.id",
+      "title": "Darmadi Durianto Minta Pemerintah Perjelas Pengelolaan Dana Cadangan Pesangon - gesuri.id",
+      "entity": "Darmadi Durianto",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 07:22:48 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/darmadi-durianto-minta-pemerintah-perjelas-pengelolaan-dana-cadangan-pesangon-b2qe1Zbj2r"
+    },
+    {
+      "title": "IEU-CEPA Diteken Pekan Ini, Ekspor RI ke Pasar Eropa Makin Mudah - TopBusiness.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 07:06:00 GMT",
+      "link": "https://www.topbusiness.id/140233/ieu-cepa-diteken-pekan-ini-ekspor-ri-ke-pasar-eropa-makin-mudah.html"
+    },
+    {
+      "title": "Harga Referensi CPO Turun, Ida Fauziyah PKB Minta Tak Rugikan Petani Sawit - FPKB DPR RI",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 07:03:27 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/16/harga-referensi-cpo-turun-ida-fauziyah-pkb-minta-tak-rugikan-petani-sawit/"
+    },
+    {
+      "title": "Kemendag Gandeng Indogrosir, 20 Produk UMKM Hasil Kurasi Busan Tembus Jaringan Ritel Modern - DETIK Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 06:49:00 GMT",
+      "link": "https://www.detikindonesia.co.id/kemendag-gandeng-indogrosir-20-produk-umkm-hasil-kurasi-busan-tembus-jaringan-ritel-modern/"
+    },
+    {
+      "title": "Nasim Khan: Koperasi Pesantren Bisa Jadi Mitra Strategis Koperasi Merah Putih - FPKB DPR RI",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 06:47:53 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/16/nasim-khan-koperasi-pesantren-bisa-jadi-mitra-strategis-koperasi-merah-putih/"
+    },
+    {
+      "title": "IEU-CEPA Diteken 21 November, Kemendag Singgung Nasib Industri Padat Karya RI - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 06:45:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261116/12/2021680/ieu-cepa-diteken-21-november-kemendag-singgung-nasib-industri-padat-karya-ri"
+    },
+    {
+      "title": "Indonesia Tandatangani IEU CEPA dengan Uni Eropa di Brussel - cwibc.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 06:17:58 GMT",
+      "link": "https://cwibc.co.id/indonesia-tandatangani-ieu-cepa-eropa"
+    },
+    {
+      "title": "RI siap tandatangani IEU-CEPA pada 21 November di Brussel - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 05:49:05 GMT",
+      "link": "https://www.antaranews.com/berita/5856635/ri-siap-tandatangani-ieu-cepa-pada-21-november-di-brussel"
+    },
+    {
+      "title": "20 Produk UMKM Masuk Indogrosir, Kemendag Perluas Pasar Lokal - Peluang News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 05:17:06 GMT",
+      "link": "https://peluangnews.id/20-produk-umkm-masuk-indogrosir-kemendag-perluas-pasar-lokal/"
+    },
+    {
+      "title": "Dekopinda Jember Soroti Panjangnya Rantai Distribusi Hasil Pertanian - tadatodays.com",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 04:32:00 GMT",
+      "link": "https://tadatodays.com/detail/dekopinda-jember-soroti-panjangnya-rantai-distribusi-hasil-pertanian"
+    },
+    {
+      "title": "Soal Opsi Efisiensi Energi, Komisi XII DPR Dorong Subsidi Tepat Sasaran - TEROPONGSENAYAN.com",
+      "entity": "Sartono",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 03:41:03 GMT",
+      "link": "https://www.teropongsenayan.com/138625-soal-opsi-efisiensi-energi-komisi-xii-dpr-dorong-subsidi-tepat-sasaran"
+    },
+    {
+      "title": "Danantara Tegaskan Belum Ditunjuk Kelola Dana Pesangon - cwibc.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 23:58:33 GMT",
-      "link": "https://bataviapos.id/susi-susanti/kemnaker-bantah-danantara-kelola-dana-pesangon-aturan-teknis-masih-digodok/"
+      "published": "Mon, 16 Nov 2026 03:30:58 GMT",
+      "link": "https://cwibc.co.id/danantara-dana-cadangan-pesangon"
     },
     {
-      "title": "Kementerian Koperasi Dorong Perajin NTB Berkoperasi demi Perkokoh Ekosistem Wastra dan Kriya - Berita Koperasi",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 23:06:00 GMT",
-      "link": "https://www.beritakoperasi.com/kementerian-koperasi-dorong-perajin-ntb-berkoperasi-demi-perkokoh-ekosistem-wastra-dan-kriya/"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Minta Kasus Dugaan Pemerkosaan Bupati Kupang Diusut Tuntas - kumparan.com - kumparan",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 17:06:00 GMT",
-      "link": "https://kumparan.com/kumparannews/rieke-diah-pitaloka-minta-kasus-dugaan-pemerkosaan-bupati-kupang-diusut-tuntas-28a1pmlz1r3"
-    },
-    {
-      "title": "Pengalihan Saham Whoosh ke Kemenkeu Molor, Uji Tuntas Ditargetkan Rampung Desember - MOST 1058",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 15:24:18 GMT",
-      "link": "https://most1058fm.com/2026/11/pengalihan-saham-whoosh-ke-kemenkeu-molor-uji-tuntas-ditargetkan-rampung-desember/"
-    },
-    {
-      "title": "Hadapi Nataru, Adisatrya Suryo: Progres Tol Jogja-Bawen dan Jogja-Solo Berjalan Baik - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 15:02:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/hadapi-nataru-adisatrya-suryo-progres-tol-jogja-bawen-dan-jogja-solo-berjalan-baik-b2qe0Zbj01"
-    },
-    {
-      "title": "Lima Pasar di Balikpapan Diusulkan Direvitalisasi, Bidik Anggaran Tahun 2028 - - Kotaku.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 14:27:24 GMT",
-      "link": "https://kotaku.co.id/lima-pasar-di-balikpapan-diusulkan-direvitalisasi-bidik-anggaran-tahun-2028/"
-    },
-    {
-      "title": "Kemendag Boyong 20 Produk UMKM Potensial ke Jaringan Indogrosir - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 14:23:31 GMT",
-      "link": "https://www.niaga.asia/kemendag-boyong-20-produk-umkm-potensial-ke-jaringan-indogrosir/"
-    },
-    {
-      "title": "Demokrat Sumut Pernah Raih 10 Kursi DPR RI, Herman Khaeron Dorong Kebangkitan Menuju 2029 - indomedia.co",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 14:20:00 GMT",
-      "link": "https://www.indomedia.co/2026/11/demokrat-sumut-pernah-raih-10-kursi-dpr.html"
-    },
-    {
-      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 13:49:10 GMT",
-      "link": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru"
-    },
-    {
-      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru - ANTARA News",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 13:49:10 GMT",
-      "link": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru"
-    },
-    {
-      "title": "KPPU perkuat perlindungan kemitraan dan daya saing UMKM Surabaya - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 12:55:14 GMT",
-      "link": "https://www.antaranews.com/berita/5855875/kppu-perkuat-perlindungan-kemitraan-dan-daya-saing-umkm-surabaya"
-    },
-    {
-      "title": "Kementerian Koperasi Beri Quota 225 Bendahara KDKMP Sidoarjo Pelatihan dan Sertifikasi - Harian Bhirawa",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 12:36:26 GMT",
-      "link": "https://harianbhirawa.co.id/kementerian-koperasi-beri-quota-225-bendahara-kdkmp-sidoarjo-pelatihan-dan-sertifikasi/"
-    },
-    {
-      "title": "Kemnaker Bantah Isu Setoran Dana Cadangan Pesangon ke Danantara - TVRI News",
+      "title": "Pengusaha Wajib Setor Dana Cadangan Pesangon ke Danantara? Kemnaker Buka Suara - Iconomics",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 12:00:49 GMT",
-      "link": "https://nasional.tvrinews.com/berita/th44nhr-kemnaker-bantah-isu-setoran-dana-cadangan-pesangon-ke-danantara"
+      "published": "Mon, 16 Nov 2026 03:22:38 GMT",
+      "link": "https://www.theiconomics.com/accelerated-growth/pengusaha-wajib-setor-dana-cadangan-pesangon-ke-danantara-kemnaker-buka-suara/"
     },
     {
-      "title": "Rieke Diah Pitaloka Minta Dugaan Pemerkosaan Mahasiswi di Kupang Diusut Tuntas – Kalimantan Kita - Kaki News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 11:09:02 GMT",
-      "link": "https://kakinews.id/rieke-diah-pitaloka-minta-dugaan-pemerkosaan-mahasiswi-di-kupang-diusut-tuntas/"
+      "title": "Kemnaker Bantah Isu Pengusaha Wajib Setor Dana Cadangan Pesangon ke Danantara - InvestorTrust",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 03:21:00 GMT",
+      "link": "https://investortrust.id/national/122655/kemnaker-bantah-isu-pengusaha-wajib-setor-dana-cadangan-pesangon-ke-danantara"
     }
   ]
 }
