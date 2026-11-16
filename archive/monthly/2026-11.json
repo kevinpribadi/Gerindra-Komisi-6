@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-15T20:48:32.787234",
+  "generated_at": "2026-11-16T00:43:48.745484",
   "party_counts_7d": {
     "Gerindra": 23,
-    "PDI-P": 14,
-    "Golkar": 12,
+    "PDI-P": 16,
+    "Golkar": 11,
     "NasDem": 5,
-    "PKB": 16,
+    "PKB": 17,
     "PKS": 8,
     "PAN": 5,
     "Demokrat": 9
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 66,
+    "Gerindra": 67,
+    "PDI-P": 67,
     "Golkar": 74,
     "NasDem": 15,
-    "PKB": 56,
+    "PKB": 57,
     "PKS": 31,
     "PAN": 12,
     "Demokrat": 19
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 43,
+    "bumn": 42,
     "umkm": 36,
-    "danantara": 26,
-    "ekspor": 13,
-    "perdagangan": 10,
-    "koperasi": 41,
-    "kartel-monopoli": 13,
+    "danantara": 27,
+    "ekspor": 14,
+    "perdagangan": 9,
+    "koperasi": 42,
+    "kartel-monopoli": 15,
     "investasi": 32,
     "dividen": 1,
     "impor": 5
@@ -50,9 +50,9 @@
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 20,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 4,
+    "Adisatrya Suryo Sulisto": 5,
     "Mufti Anam": 1,
     "Darmadi Durianto": 5,
     "Rieke Diah Pitaloka": 20,
@@ -77,7 +77,7 @@
     "Rivqy Abdul Halim": 18,
     "Nasim Khan": 20,
     "Ida Fauziyah": 9,
-    "Imas Aan Ubudiah": 2,
+    "Imas Aan Ubudiah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 2,
@@ -88,13 +88,55 @@
     "Herman Khaeron": 14
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 81,
+    "Koperasi/UMKM": 82,
     "Kinerja BUMN": 16,
-    "Perdagangan": 30,
+    "Perdagangan": 29,
     "Konflik Publik": 17,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 22
   },
   "top_headlines": [
+    {
+      "title": "Permendag 26 Tahun 2026 Atur Spesifikasi Teknis Karet Alam yang Akan Diekspor - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 00:04:44 GMT",
+      "link": "https://www.niaga.asia/permendag-26-tahun-2026-atur-spesifikasi-teknis-karet-alam-yang-akan-diekspor/"
+    },
+    {
+      "title": "Kemnaker Bantah Danantara Kelola Dana Pesangon, Aturan Teknis Masih Digodok - bataviapos.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 23:58:33 GMT",
+      "link": "https://bataviapos.id/susi-susanti/kemnaker-bantah-danantara-kelola-dana-pesangon-aturan-teknis-masih-digodok/"
+    },
+    {
+      "title": "Kementerian Koperasi Dorong Perajin NTB Berkoperasi demi Perkokoh Ekosistem Wastra dan Kriya - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 23:06:00 GMT",
+      "link": "https://www.beritakoperasi.com/kementerian-koperasi-dorong-perajin-ntb-berkoperasi-demi-perkokoh-ekosistem-wastra-dan-kriya/"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Minta Kasus Dugaan Pemerkosaan Bupati Kupang Diusut Tuntas - kumparan.com - kumparan",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 15 Nov 2026 17:06:00 GMT",
+      "link": "https://kumparan.com/kumparannews/rieke-diah-pitaloka-minta-kasus-dugaan-pemerkosaan-bupati-kupang-diusut-tuntas-28a1pmlz1r3"
+    },
+    {
+      "title": "Pengalihan Saham Whoosh ke Kemenkeu Molor, Uji Tuntas Ditargetkan Rampung Desember - MOST 1058",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 15:24:18 GMT",
+      "link": "https://most1058fm.com/2026/11/pengalihan-saham-whoosh-ke-kemenkeu-molor-uji-tuntas-ditargetkan-rampung-desember/"
+    },
+    {
+      "title": "Hadapi Nataru, Adisatrya Suryo: Progres Tol Jogja-Bawen dan Jogja-Solo Berjalan Baik - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Sun, 15 Nov 2026 15:02:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/hadapi-nataru-adisatrya-suryo-progres-tol-jogja-bawen-dan-jogja-solo-berjalan-baik-b2qe0Zbj01"
+    },
     {
       "title": "Lima Pasar di Balikpapan Diusulkan Direvitalisasi, Bidik Anggaran Tahun 2028 - - Kotaku.co.id",
       "entity": "Kementerian Perdagangan",
@@ -138,6 +180,13 @@
       "link": "https://www.antaranews.com/berita/5855875/kppu-perkuat-perlindungan-kemitraan-dan-daya-saing-umkm-surabaya"
     },
     {
+      "title": "Kementerian Koperasi Beri Quota 225 Bendahara KDKMP Sidoarjo Pelatihan dan Sertifikasi - Harian Bhirawa",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 15 Nov 2026 12:36:26 GMT",
+      "link": "https://harianbhirawa.co.id/kementerian-koperasi-beri-quota-225-bendahara-kdkmp-sidoarjo-pelatihan-dan-sertifikasi/"
+    },
+    {
       "title": "Kemnaker Bantah Isu Setoran Dana Cadangan Pesangon ke Danantara - TVRI News",
       "entity": "Danantara",
       "kind": "lembaga",
@@ -150,55 +199,6 @@
       "kind": "anggota",
       "published": "Sun, 15 Nov 2026 11:09:02 GMT",
       "link": "https://kakinews.id/rieke-diah-pitaloka-minta-dugaan-pemerkosaan-mahasiswi-di-kupang-diusut-tuntas/"
-    },
-    {
-      "title": "Audiensi dengan Sekretaris Kementerian Koperasi, Mahyeldi Sampaikan Usulan Penguatan KDKMP dan Hilirisasi Produk Daerah - ANTARA News Sumbar",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 11:08:08 GMT",
-      "link": "https://sumbar.antaranews.com/berita/789703/audiensi-dengan-sekretaris-kementerian-koperasi-mahyeldi-sampaikan-usulan-penguatan-kdkmp-dan-hilirisasi-produk-daerah"
-    },
-    {
-      "title": "Kemnaker Bantah Danantara Jadi Pengelola Dana Pesangon - bsinews.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 11:02:37 GMT",
-      "link": "https://bsinews.id/kemnaker-bantah-pengelola-dana-pesangon"
-    },
-    {
-      "title": "Kemnaker Bantah Danantara Kelola Dana Cadangan Pesangon - Peradaban.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 11:02:03 GMT",
-      "link": "https://peradaban.id/kemnaker-bantah-danantara-dana-pesangon"
-    },
-    {
-      "title": "Bantah Dana Pesangon Dikelola Danantara, Kemnaker: Belum Ada Keputusan! - detikFinance",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 11:00:48 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8753901/bantah-dana-pesangon-dikelola-danantara-kemnaker-belum-ada-keputusan"
-    },
-    {
-      "title": "Perhatian! Danantara Bakal Rilis Laporan Keuangan 23 November - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 10:45:32 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261115143832-17-785355/perhatian-danantara-bakal-rilis-laporan-keuangan-23-november"
-    },
-    {
-      "title": "Harga Kebutuhan Pokok Merangkak Naik Jelang Nataru, DPR RI: Pemerintah Harus Lakukan Kontrol Pasar - FPKB DPR RI",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Sun, 15 Nov 2026 09:32:02 GMT",
-      "link": "https://www.fraksipkb.com/2026/11/15/harga-kebutuhan-pokok-merangkak-naik-jelang-nataru-dpr-ri-pemerintah-harus-lakukan-kontrol-pasar/"
-    },
-    {
-      "title": "Danantara Buka Suara soal Isu Bakal Tampung Dana Cadangan Pesangon - CNN Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 15 Nov 2026 09:02:08 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261115155749-92-1427399/danantara-buka-suara-soal-isu-bakal-tampung-dana-cadangan-pesangon"
     }
   ]
 }
