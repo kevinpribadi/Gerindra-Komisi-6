@@ -1,23 +1,23 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-17T10:09:53.850119",
+  "generated_at": "2026-11-17T19:35:36.497319",
   "party_counts_7d": {
     "Gerindra": 15,
-    "PDI-P": 21,
-    "Golkar": 7,
+    "PDI-P": 22,
+    "Golkar": 8,
     "NasDem": 6,
-    "PKB": 25,
-    "PKS": 8,
-    "PAN": 4,
-    "Demokrat": 10
+    "PKB": 26,
+    "PKS": 9,
+    "PAN": 3,
+    "Demokrat": 9
   },
   "party_counts_30d": {
-    "Gerindra": 66,
-    "PDI-P": 66,
-    "Golkar": 75,
+    "Gerindra": 65,
+    "PDI-P": 65,
+    "Golkar": 76,
     "NasDem": 16,
     "PKB": 61,
-    "PKS": 29,
+    "PKS": 30,
     "PAN": 11,
     "Demokrat": 22
   },
@@ -35,23 +35,23 @@
   },
   "topic_counts_30d": {
     "bumn": 42,
-    "umkm": 38,
-    "danantara": 29,
-    "perdagangan": 13,
-    "ekspor": 10,
+    "umkm": 41,
+    "danantara": 30,
+    "perdagangan": 15,
+    "ekspor": 12,
     "investasi": 32,
-    "koperasi": 45,
+    "koperasi": 43,
     "kartel-monopoli": 14,
-    "ipo": 1,
+    "ipo": 2,
     "dividen": 1,
-    "impor": 5
+    "impor": 4
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 19,
+    "Kawendra Lukistian": 18,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
@@ -59,11 +59,11 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 10,
-    "Ida Nurlaela": 4,
+    "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 14,
+    "Totok Hedi Santosa": 12,
     "Nurdin Halid": 13,
-    "Gde Sumarjaya Linggih": 11,
+    "Gde Sumarjaya Linggih": 12,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 17,
@@ -81,7 +81,7 @@
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 16,
     "Rizal Bawazier": 4,
-    "Ghufran": 4,
+    "Ghufran": 5,
     "Ismail": 5,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
@@ -89,13 +89,104 @@
     "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 84,
     "Kinerja BUMN": 18,
-    "Perdagangan": 29,
+    "Perdagangan": 31,
     "Konflik Publik": 18,
     "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Rieke Apresiasi Keterbukaan Kemenimipas dalam Pemberantasan Narkoba di Lapas - realita.co",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Tue, 17 Nov 2026 15:49:00 GMT",
+      "link": "https://realita.co/baca-52380-rieke-apresiasi-keterbukaan-kemenimipas-dalam-pemberantasan-narkoba-di-lapas"
+    },
+    {
+      "title": "BP BUMN Targetkan 100 Perusahaan Kelas Dunia pada 2030 - Iconomics",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 14:16:58 GMT",
+      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-targetkan-100-perusahaan-kelas-dunia-pada-2030/"
+    },
+    {
+      "title": "100 BUMN Ditargetkan Berkelas Dunia Pada 2030, Danantara Siapkan Transformasi Besar-Besaran - detik suara rakyat",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 13:55:36 GMT",
+      "link": "https://www.detiksuararakyat.id/100-bumn-ditargetkan-berkelas-dunia-pada-2030-danantara-siapkan-transformasi-besar-besaran/"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan menyesuaikan rencana infrastruktur minyak bumi dan gas alam. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 13:23:44 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-dieu-chinh-quy-hoach-ha-tang-xang-dau-va-khi-dot"
+    },
+    {
+      "title": "Kemenkop Libatkan UMKM Pangan dalam Rantai Pasok Program MBG - cwibc.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 13:21:05 GMT",
+      "link": "https://cwibc.co.id/kemenkop-umkm-pangan-rantai-pasok"
+    },
+    {
+      "title": "Kemenkop Dorong UMKM Pangan Pasok Keburuhan MBG dan Kopdes Merah Putih - Kompas.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 13:12:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/17/201200826/kemenkop-dorong-umkm-pangan-pasok-keburuhan-mbg-dan-kopdes-merah-putih"
+    },
+    {
+      "title": "Kemenkop Perluas Peran Koperasi Nelayan hingga Pasar Ekspor - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 11:23:49 GMT",
+      "link": "https://bsinews.id/kemenkop-koperasi-nelayan-pasar-ekspor"
+    },
+    {
+      "title": "Kemenkop Dorong Koperasi Perkuat Rantai Usaha Perikanan hingga Pasar Ekspor - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 11:13:42 GMT",
+      "link": "https://news.detik.com/berita/d-8757286/kemenkop-dorong-koperasi-perkuat-rantai-usaha-perikanan-hingga-pasar-ekspor"
+    },
+    {
+      "title": "Tingkatkan Kemandirian Nelayan dan Tembus Pasar Global, Bupati Rohil Hadiri Peresmian SPBUN Pertama dan Pelepasan Ekspor ke Malaysia - Media Center Rokan Hilir",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 11:10:19 GMT",
+      "link": "https://mediacenter.rohilkab.go.id/view/tingkatkan-kemandirian-nelayan-dan-tembus-pasar-global-bupati-rohil-hadiri-peresmian-spbun-pertama-dan-pelepasan-ekspor-ke-malaysia"
+    },
+    {
+      "title": "Kekerasan 6 Santri Pangandaran, Hj Ida Nurlaela Desak Usut Tuntas Serius dan Menyeluruh - gesuri.id",
+      "entity": "Ida Nurlaela",
+      "kind": "anggota",
+      "published": "Tue, 17 Nov 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/kekerasan-6-santri-pangandaran-hj-ida-nurlaela-desak-usut-tuntas-serius-dan-menyeluruh-b2qe2Zbj3Y"
+    },
+    {
+      "title": "Kemendag Bawa 20 Produk UMKM Tembus Jaringan Ritel Indogrosir - International Media",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 10:48:00 GMT",
+      "link": "https://www.internationalmedia.id/2026/11/kemendag-bawa-20-produk-umkm-tembus.html"
+    },
+    {
+      "title": "Danantara Siapkan Gelombang IPO BUMN di 2029, Dony Oskaria Ungkap Skemanya - Bisnis.com - Market",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 10:25:30 GMT",
+      "link": "https://market.bisnis.com/read/20261117/192/2022132/danantara-siapkan-gelombang-ipo-bumn-di-2029-dony-oskaria-ungkap-skemanya"
+    },
+    {
+      "title": "Kemenkop: 157 dari 419 SPBUN nasional dikelola koperasi - ANTARA News Sulteng",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 09:34:39 GMT",
+      "link": "https://sulteng.antaranews.com/berita/400999/kemenkop-157-dari-419-spbun-nasional-dikelola-koperasi"
+    },
     {
       "title": "Kemenkop: 157 dari 419 SPBUN nasional dikelola koperasi - ANTARA News",
       "entity": "Kementerian Koperasi",
@@ -109,97 +200,6 @@
       "kind": "lembaga",
       "published": "Tue, 17 Nov 2026 09:24:48 GMT",
       "link": "https://jateng.antaranews.com/berita/654247/ums-dan-kemendag-dorong-produk-lokal-umkm-tembus-pasar-ritel-modern-melalui-campus-preneur"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Desak Dugaan Kasus Kekerasan Seksual Bupati Kupang Diusut Tuntas - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 08:40:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-desak-dugaan-kasus-kekerasan-seksual-bupati-kupang-diusut-tuntas-b2qe2Zbj3W"
-    },
-    {
-      "title": "Herman Khaeron Nilai Pembatasan Harga BBM Non-Subsidi Beratkan Swasta - Kosadata",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 08:19:44 GMT",
-      "link": "https://kosadata.com/herman-khaeron-nilai-pembatasan-harga-bbm-non-subsidi-beratkan-swasta"
-    },
-    {
-      "title": "Menaker: Isu Dana Cadangan Pesangon Ke Danantara Tidak Benar - Validnews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 08:13:06 GMT",
-      "link": "https://www.validnews.id/ekonomi/2026/11/17/menaker-isu-dana-cadangan-pesangon-ke-danantara-tidak-benar-153300061"
-    },
-    {
-      "title": "KSPI Usulkan Danantara Kelola Dana Cadangan Pesangon - cwibc.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 07:59:57 GMT",
-      "link": "https://cwibc.co.id/kspi-usulkan-danantara-kelola-pesangon"
-    },
-    {
-      "title": "Danantara Bidik 100 BUMN Berkelas Dunia pada 2030, IPO Jadi Strategi - CNBC Indonesia",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 07:59:54 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261117145735-17-785987/danantara-bidik-100-bumn-berkelas-dunia-pada-2030-ipo-jadi-strategi"
-    },
-    {
-      "title": "BP BUMN Dorong Industri Percetakan Uang Beradaptasi - Demokratis.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 07:56:49 GMT",
-      "link": "https://demokratis.co.id/bp-bumn-industri-percetakan-uang"
-    },
-    {
-      "title": "Danantara dan BP BUMN Siapkan Tiga Proyek Strategis untuk Dorong Ekonomi Aceh - konstruksimedia.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 07:40:07 GMT",
-      "link": "https://konstruksimedia.com/danantara-dan-bp-bumn-siapkan-tiga-proyek-strategis-untuk-dorong-ekonomi-aceh/"
-    },
-    {
-      "title": "Nasim Khan Ingin Koperasi Pesantren Jadi Motor Penggerak Koperasi Merah Putih - rentak.id",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 07:26:00 GMT",
-      "link": "https://rentak.id/nasim-khan-ingin-koperasi-pesantren-jadi-motor-penggerak-koperasi-merah-putih/"
-    },
-    {
-      "title": "Menciptakan strategi komunikasi yang efektif untuk membantu konsumen memahami hukum dan secara proaktif melindungi hak-hak mereka. - Vietnam.vn",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 07:17:19 GMT",
-      "link": "https://www.vietnam.vn/id/sang-tao-truyen-thong-de-nguoi-tieu-dung-hieu-luat-chu-dong-bao-ve-quyen-loi"
-    },
-    {
-      "title": "Anggota DPR dukung Presiden percepat pembangunan pabrik pakan ternak - ANTARA News",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 06:50:04 GMT",
-      "link": "https://www.antaranews.com/berita/5859299/anggota-dpr-dukung-presiden-percepat-pembangunan-pabrik-pakan-ternak"
-    },
-    {
-      "title": "Kementerian Perdagangan RI Kunjungi Produsen Intip Mbah Yati, Dorong Produk UMKM Binaan FISH Univet Bantara Tembus Pasar Modern - MAJALAH LARISE",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 06:30:13 GMT",
-      "link": "https://www.majalahlarise.com/2026/11/kementerian-perdagangan-ri-kunjungi.html"
-    },
-    {
-      "title": "Pemerintah Serahkan Daftar Inventarisasi Masalah RUU Kadin ke DPR - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 06:19:51 GMT",
-      "link": "https://www.niaga.asia/pemerintah-serahkan-daftar-inventarisasi-masalah-ruu-kadin-ke-dpr/"
-    },
-    {
-      "title": "Pemerintah masih siapkan peraturan turunan dana cadangan pesangon - ANTARA News Sulteng",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 06:19:05 GMT",
-      "link": "https://sulteng.antaranews.com/berita/400971/pemerintah-masih-siapkan-peraturan-turunan-dana-cadangan-pesangon"
     }
   ]
 }
