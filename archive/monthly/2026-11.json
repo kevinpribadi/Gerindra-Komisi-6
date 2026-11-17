@@ -1,9 +1,9 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-16T17:55:27.451313",
+  "generated_at": "2026-11-17T01:34:24.032919",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 19,
+    "Gerindra": 19,
+    "PDI-P": 20,
     "Golkar": 9,
     "NasDem": 5,
     "PKB": 22,
@@ -12,9 +12,9 @@
     "Demokrat": 10
   },
   "party_counts_30d": {
-    "Gerindra": 66,
+    "Gerindra": 67,
     "PDI-P": 68,
-    "Golkar": 75,
+    "Golkar": 76,
     "NasDem": 15,
     "PKB": 60,
     "PKS": 30,
@@ -37,9 +37,9 @@
     "bumn": 41,
     "umkm": 37,
     "danantara": 30,
+    "perdagangan": 10,
     "ekspor": 11,
     "investasi": 33,
-    "perdagangan": 9,
     "koperasi": 45,
     "kartel-monopoli": 13,
     "dividen": 1,
@@ -48,7 +48,7 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 16,
+    "Muhammad Husein Fadlulloh": 17,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 20,
     "Mulyadi": 4,
@@ -68,7 +68,7 @@
     "Doni Akbar": 17,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 20,
-    "Muhammad Sarmuji": 3,
+    "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 5,
@@ -91,10 +91,45 @@
     "Koperasi/UMKM": 85,
     "Kinerja BUMN": 18,
     "Perdagangan": 30,
-    "Konflik Publik": 18,
+    "Konflik Publik": 17,
     "Hukum/Audit": 21
   },
   "top_headlines": [
+    {
+      "title": "Menperin Akui Belum Tahu Dana Pesangon Bakal Dikelola Danantara, Perusahaan Tetap Wajib Bersiap - Aktual.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 00:50:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc28zY3hsUXBQbG9maS01am9aSWxZWm9OMC1CeVBqTTJnNjNiRllhNy1GVzJaVnhKMFJHWXB3aERBR2puZ3JyR0VnUEtJSXBQdTJvbDZGT2NmNFBDSk0xWnZSSjNTTDd4Z0FWUnFYRk9PcWV2R3otamxuR2p5WEJ4ZGdmTnI3MEFSY09PTVp6VTdzVTVSTURiOWE3bWVVeHdLcWJPOWIzWFNzTmtTUF9HNzQwaVA?oc=5"
+    },
+    {
+      "title": "Menperin Sarmuji: Pemerintah Hanya Akui Satu Kadin di Indonesia - Industry.co.id",
+      "entity": "Muhammad Sarmuji",
+      "kind": "anggota",
+      "published": "Tue, 17 Nov 2026 00:10:00 GMT",
+      "link": "https://www.industry.co.id/read/159319/menperin-sarmuji-pemerintah-hanya-akui-satu-kadin-di-indonesia"
+    },
+    {
+      "title": "Danantara Bantah Dapat Penugasan dari Pemerintah untuk Kelola Dana Cadangan Pesangon - Bisnis.com - Ekonomi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 23:38:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlFob0xXSFl2UVNuVUNKN3ZkcjNUYTNINnZ6R3BpczF5RnNBelViRHc2N2lyUU9OeXJSLXhCZ2VDN3VJMUQyWUw0Y3ZBZFpuQmVuU0VCSXJsTzd3OTJlMjM4b3ZURGcxM0pVb3JWWGN1dUpwamtaV1FteURORDRKamRvNWdhbVJHeFdrVkdHZ0RvaHk3RFhJNWZ1X2tTcENYbW43Wk5UckZQV19DcEN1MXBQdmpFX01Bd2pBUXVfeVRkWG9kMUFkNUctT1JEb01F?oc=5"
+    },
+    {
+      "title": "Anggota DPR rekomendasi dua Perpres integrasi tata kelola Imipas - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 23:30:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnlOUy1jdU5MTDNNQks1TjZNb3Vwc0lkWTN5Zk9NcHdtRy1VeFQ0SWdRZkRlRDBkSWZjcjZabnRhTms5b3J0c0hpLUVUVmgxLTJvUUFsNHJEZnJzRXJxZm83a1JGanl0N0ZOX1pTWVZaXzNsVnhISlFPUXU5Q3EyQTNISUNtZkhMS2FGS3lWalBuaWprWnJUdVlrRFpjRVQzRTBSSldKX3VFQm_SAbABQVVfeXFMT1U3WXlWcE1jcU53UFFiSTZCRmtRalFrNHg3dkR2ZU1ORDBwLUdiVGdWU0xTRE9LWFhZNnVGQ09PQW1UUUlXal9pWS16TGg4MGtsZklMbDRSa0FsSjNhYnBFcGdmY18tTzdDbnRCR05JQ1plZW83MkNURWV5NUlPZVdsNHZraTlDeHBWX01NTDVVR0xWdVRIN2FGV2RIS1pnYTJsb2J3RWQxS1dOdEl2eTg?oc=5"
+    },
+    {
+      "title": "Terima Parlemen Australia, BKSAP DPR Sampaikan Aspirasi Mahasiswa Indonesia - RiauAktual.com",
+      "entity": "Muhammad Husein Fadlulloh",
+      "kind": "anggota",
+      "published": "Mon, 16 Nov 2026 23:04:15 GMT",
+      "link": "https://riauaktual.com/news/detail/124360/terima-parlemen-australia-bksap-dpr-sampaikan-aspirasi-mahasiswa-indonesia"
+    },
     {
       "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
       "entity": "Dekopin",
@@ -108,6 +143,13 @@
       "kind": "lembaga",
       "published": "Mon, 16 Nov 2026 17:21:47 GMT",
       "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261117/Mjk5MTUy"
+    },
+    {
+      "title": "Perdagangan Bebas Tarif RI-UE sudah di Depan Mata - Epaper Media Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "link": "https://epaper.mediaindonesia.com/detail/perdagangan-bebas-tarif-ri-ue-sudah-di-depan-mata"
     },
     {
       "title": "Anggota DPR rekomendasi dua Perpres integrasi tata kelola Imipas - ANTARA News",
@@ -157,48 +199,6 @@
       "kind": "lembaga",
       "published": "Mon, 16 Nov 2026 12:17:06 GMT",
       "link": "https://www.kompas.id/artikel/penipuan-digital-kian-canggih-penguatan-pelindungan-konsumen-perlu-lebih-gigih"
-    },
-    {
-      "title": "DPR Curigai Dana Pesangon Dikelola Danantara: Jangan Sampai Hak Pekerja Jadi Modal Proyek - Aktual.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Mon, 16 Nov 2026 11:40:36 GMT",
-      "link": "https://aktual.com/dpr-curigai-dana-pesangon-dikelola-danantara-jangan-sampai-hak-pekerja-jadi-modal-proyek/"
-    },
-    {
-      "title": "Turkiye dorong kerja sama mineral kritis dan perdagangan hijau di COP31 - Anadolu Ajansı",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 16 Nov 2026 11:27:32 GMT",
-      "link": "https://www.aa.com.tr/id/ekonomi/turkiye-dorong-kerja-sama-mineral-kritis-dan-perdagangan-hijau-di-cop31/4126514"
-    },
-    {
-      "title": "RUU Kadin Baru Akan Fasilitasi Penyelesaian Sengketa Bisnis - Bewara",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Mon, 16 Nov 2026 10:18:10 GMT",
-      "link": "https://bewara.co.id/ruu-kadin-baru-akan-fasilitasi-penyelesaian-sengketa-bisnis"
-    },
-    {
-      "title": "RUU Kadin atur pembentukan lembaga penyelesaian sengketa bisnis - ANTARA News Sulteng",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Mon, 16 Nov 2026 10:08:18 GMT",
-      "link": "https://sulteng.antaranews.com/berita/400859/ruu-kadin-atur-pembentukan-lembaga-penyelesaian-sengketa-bisnis"
-    },
-    {
-      "title": "Pengadilan Batalkan Putusan KPPU soal Bunga Pinjaman Online - Demokratis.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 16 Nov 2026 09:32:36 GMT",
-      "link": "https://demokratis.co.id/pengadilan-batalkan-putusan-kppu-pinjol"
-    },
-    {
-      "title": "Pengadilan Niaga Batalkan Putusan KPPU Soal Suku Bunga Pinjol, Begini Respons OJK - kontan.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Mon, 16 Nov 2026 09:29:01 GMT",
-      "link": "https://keuangan.kontan.co.id/news/pengadilan-niaga-batalkan-putusan-kppu-soal-suku-bunga-pinjol-begini-respons-ojk"
     }
   ]
 }
