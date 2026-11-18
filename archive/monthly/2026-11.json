@@ -1,14 +1,14 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-17T19:35:36.497319",
+  "generated_at": "2026-11-18T02:05:44.615960",
   "party_counts_7d": {
     "Gerindra": 15,
     "PDI-P": 22,
     "Golkar": 8,
     "NasDem": 6,
-    "PKB": 26,
-    "PKS": 9,
-    "PAN": 3,
+    "PKB": 27,
+    "PKS": 10,
+    "PAN": 4,
     "Demokrat": 9
   },
   "party_counts_30d": {
@@ -16,9 +16,9 @@
     "PDI-P": 65,
     "Golkar": 76,
     "NasDem": 16,
-    "PKB": 61,
-    "PKS": 30,
-    "PAN": 11,
+    "PKB": 62,
+    "PKS": 31,
+    "PAN": 12,
     "Demokrat": 22
   },
   "agency_counts_30d": {
@@ -35,16 +35,16 @@
   },
   "topic_counts_30d": {
     "bumn": 42,
-    "umkm": 41,
-    "danantara": 30,
-    "perdagangan": 15,
-    "ekspor": 12,
-    "investasi": 32,
+    "umkm": 43,
+    "danantara": 29,
+    "ekspor": 14,
+    "impor": 5,
+    "investasi": 34,
+    "perdagangan": 16,
     "koperasi": 43,
-    "kartel-monopoli": 14,
+    "kartel-monopoli": 15,
     "ipo": 2,
-    "dividen": 1,
-    "impor": 4
+    "dividen": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -77,31 +77,88 @@
     "Anggia Erma Rini": 7,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 11,
+    "Ida Fauziyah": 12,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 16,
+    "Amin Ak.": 17,
     "Rizal Bawazier": 4,
     "Ghufran": 5,
     "Ismail": 5,
+    "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
     "Sartono": 6,
     "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 84,
-    "Kinerja BUMN": 18,
-    "Perdagangan": 31,
+    "Koperasi/UMKM": 86,
+    "Kinerja BUMN": 20,
+    "Perdagangan": 33,
     "Konflik Publik": 18,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 20
   },
   "top_headlines": [
+    {
+      "title": "Soroti Ketimpangan Spasial Ekonomi, Amin Ak Dorong Pemerataan Pertumbuhan Antardaerah - Bela Rakyat",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Wed, 18 Nov 2026 01:40:38 GMT",
+      "link": "https://belarakyat.com/soroti-ketimpangan-spasial-ekonomi-amin-ak-dorong-pemerataan-pertumbuhan-antardaerah/"
+    },
+    {
+      "title": "Danantara Bidik 100 BUMN Berkelas Dunia pada 2030, Transformasi Dimulai dari Restrukturisasi - tutur.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 01:28:10 GMT",
+      "link": "https://tutur.co.id/danantara-bidik-100-bumn-berkelas-dunia-pada-2030-transformasi-dimulai-dari-restrukturisasi/"
+    },
+    {
+      "title": "Tingkatkan Ekonomi Masyarakat, Ida Fauziyah Komisi VI DPR: KDMP Harus Libatkan UMKM Lokal - Suara Investor",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Wed, 18 Nov 2026 01:16:32 GMT",
+      "link": "https://www.suarainvestor.com/tingkatkan-ekonomi-masyarakat-ida-fauziyah-komisi-vi-dpr-kdmp-harus-libatkan-umkm-lokal/"
+    },
+    {
+      "title": "OJK Tetap Mau DCP Pekerja Dikelola Dalam Ekosistem Dana Pensiun - Pasardana",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 01:12:00 GMT",
+      "link": "https://pasardana.id/news/2026/11/18/ojk-tetap-mau-dcp-pekerja-dikelola-dalam-ekosistem-dana-pensiun"
+    },
+    {
+      "title": "Kolaborasi KDKMP dan Koperasi Pesantren Perluas Pasar Produk Lokal - LiputanOke.Com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 01:03:47 GMT",
+      "link": "https://www.liputanoke.com/read-71968-2026-11-18-kolaborasi-kdkmp-dan-koperasi-pesantren-perluas-pasar-produk-lokal.html"
+    },
+    {
+      "title": "Eko Hendro Purnomo Desak Pemerintah Segera Bayar Utang Subsidi Pupuk Rp14,5 Triliun - Bela Rakyat",
+      "entity": "Eko Patrio",
+      "kind": "anggota",
+      "published": "Tue, 17 Nov 2026 22:39:41 GMT",
+      "link": "https://belarakyat.com/eko-hendro-purnomo-desak-pemerintah-segera-bayar-utang-subsidi-pupuk-rp145-triliun/"
+    },
+    {
+      "title": "Bebas Kuota Impor India, Mendag Minta Ekspor Soda Abu Indonesia Ditingkatkan - indoposco.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 19:47:15 GMT",
+      "link": "https://indoposco.id/2026/11/18/bebas-kuota-impor-india-mendag-minta-ekspor-soda-abu-indonesia-ditingkatkan/"
+    },
     {
       "title": "Rieke Apresiasi Keterbukaan Kemenimipas dalam Pemberantasan Narkoba di Lapas - realita.co",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
       "published": "Tue, 17 Nov 2026 15:49:00 GMT",
       "link": "https://realita.co/baca-52380-rieke-apresiasi-keterbukaan-kemenimipas-dalam-pemberantasan-narkoba-di-lapas"
+    },
+    {
+      "title": "KTT APEC 2026 Digelar di China, Prabowo Bawa Agenda Perdagangan, Investasi hingga Keamanan AI - Aktualita.co",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Tue, 17 Nov 2026 14:45:54 GMT",
+      "link": "https://aktualita.co/internasional/ktt-apec-2026-china-prabowo-perdagangan-investasi-ai"
     },
     {
       "title": "BP BUMN Targetkan 100 Perusahaan Kelas Dunia pada 2030 - Iconomics",
@@ -144,62 +201,6 @@
       "kind": "lembaga",
       "published": "Tue, 17 Nov 2026 11:23:49 GMT",
       "link": "https://bsinews.id/kemenkop-koperasi-nelayan-pasar-ekspor"
-    },
-    {
-      "title": "Kemenkop Dorong Koperasi Perkuat Rantai Usaha Perikanan hingga Pasar Ekspor - detikNews",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 11:13:42 GMT",
-      "link": "https://news.detik.com/berita/d-8757286/kemenkop-dorong-koperasi-perkuat-rantai-usaha-perikanan-hingga-pasar-ekspor"
-    },
-    {
-      "title": "Tingkatkan Kemandirian Nelayan dan Tembus Pasar Global, Bupati Rohil Hadiri Peresmian SPBUN Pertama dan Pelepasan Ekspor ke Malaysia - Media Center Rokan Hilir",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 11:10:19 GMT",
-      "link": "https://mediacenter.rohilkab.go.id/view/tingkatkan-kemandirian-nelayan-dan-tembus-pasar-global-bupati-rohil-hadiri-peresmian-spbun-pertama-dan-pelepasan-ekspor-ke-malaysia"
-    },
-    {
-      "title": "Kekerasan 6 Santri Pangandaran, Hj Ida Nurlaela Desak Usut Tuntas Serius dan Menyeluruh - gesuri.id",
-      "entity": "Ida Nurlaela",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/kekerasan-6-santri-pangandaran-hj-ida-nurlaela-desak-usut-tuntas-serius-dan-menyeluruh-b2qe2Zbj3Y"
-    },
-    {
-      "title": "Kemendag Bawa 20 Produk UMKM Tembus Jaringan Ritel Indogrosir - International Media",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 10:48:00 GMT",
-      "link": "https://www.internationalmedia.id/2026/11/kemendag-bawa-20-produk-umkm-tembus.html"
-    },
-    {
-      "title": "Danantara Siapkan Gelombang IPO BUMN di 2029, Dony Oskaria Ungkap Skemanya - Bisnis.com - Market",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 10:25:30 GMT",
-      "link": "https://market.bisnis.com/read/20261117/192/2022132/danantara-siapkan-gelombang-ipo-bumn-di-2029-dony-oskaria-ungkap-skemanya"
-    },
-    {
-      "title": "Kemenkop: 157 dari 419 SPBUN nasional dikelola koperasi - ANTARA News Sulteng",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 09:34:39 GMT",
-      "link": "https://sulteng.antaranews.com/berita/400999/kemenkop-157-dari-419-spbun-nasional-dikelola-koperasi"
-    },
-    {
-      "title": "Kemenkop: 157 dari 419 SPBUN nasional dikelola koperasi - ANTARA News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 09:29:36 GMT",
-      "link": "https://www.antaranews.com/berita/5859895/kemenkop-157-dari-419-spbun-nasional-dikelola-koperasi"
-    },
-    {
-      "title": "UMS dan Kemendag dorong produk lokal UMKM tembus pasar ritel modern melalui Campus Preneur - ANTARA News Jateng",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 09:24:48 GMT",
-      "link": "https://jateng.antaranews.com/berita/654247/ums-dan-kemendag-dorong-produk-lokal-umkm-tembus-pasar-ritel-modern-melalui-campus-preneur"
     }
   ]
 }
