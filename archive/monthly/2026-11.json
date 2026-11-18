@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-18T02:05:44.615960",
+  "generated_at": "2026-11-18T11:06:12.783964",
   "party_counts_7d": {
-    "Gerindra": 15,
-    "PDI-P": 22,
-    "Golkar": 8,
-    "NasDem": 6,
-    "PKB": 27,
-    "PKS": 10,
+    "Gerindra": 18,
+    "PDI-P": 23,
+    "Golkar": 6,
+    "NasDem": 3,
+    "PKB": 29,
+    "PKS": 9,
     "PAN": 4,
-    "Demokrat": 9
+    "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 65,
-    "PDI-P": 65,
+    "Gerindra": 62,
+    "PDI-P": 63,
     "Golkar": 76,
     "NasDem": 16,
-    "PKB": 62,
-    "PKS": 31,
-    "PAN": 12,
-    "Demokrat": 22
+    "PKB": 66,
+    "PKS": 32,
+    "PAN": 11,
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 42,
-    "umkm": 43,
-    "danantara": 29,
+    "umkm": 41,
+    "danantara": 28,
+    "impor": 8,
     "ekspor": 14,
-    "impor": 5,
     "investasi": 34,
     "perdagangan": 16,
-    "koperasi": 43,
+    "koperasi": 44,
     "kartel-monopoli": 15,
     "ipo": 2,
     "dividen": 1
@@ -49,9 +49,9 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 17,
+    "Muhammad Husein Fadlulloh": 18,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 18,
+    "Kawendra Lukistian": 14,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
@@ -61,7 +61,7 @@
     "Sadarestuwati": 10,
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 12,
+    "Totok Hedi Santosa": 10,
     "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 12,
     "Ahmad Labib": 1,
@@ -74,133 +74,133 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 5,
     "Rudi Hartono Bangun": 6,
-    "Anggia Erma Rini": 7,
+    "Anggia Erma Rini": 9,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 12,
+    "Ida Fauziyah": 14,
     "Imas Aan Ubudiah": 3,
-    "Amin Ak.": 17,
+    "Amin Ak.": 18,
     "Rizal Bawazier": 4,
     "Ghufran": 5,
     "Ismail": 5,
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 10,
+    "Iskandar": 9,
     "Sartono": 6,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 17
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 86,
+    "Koperasi/UMKM": 85,
     "Kinerja BUMN": 20,
-    "Perdagangan": 33,
-    "Konflik Publik": 18,
+    "Perdagangan": 36,
+    "Konflik Publik": 20,
     "Hukum/Audit": 20
   },
   "top_headlines": [
     {
-      "title": "Soroti Ketimpangan Spasial Ekonomi, Amin Ak Dorong Pemerataan Pertumbuhan Antardaerah - Bela Rakyat",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Wed, 18 Nov 2026 01:40:38 GMT",
-      "link": "https://belarakyat.com/soroti-ketimpangan-spasial-ekonomi-amin-ak-dorong-pemerataan-pertumbuhan-antardaerah/"
-    },
-    {
-      "title": "Danantara Bidik 100 BUMN Berkelas Dunia pada 2030, Transformasi Dimulai dari Restrukturisasi - tutur.co.id",
+      "title": "BRI Pimpin Enam Klaster BUMN untuk Perkuat Penanganan Bencana Nasional - rmolsumsel.id",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 18 Nov 2026 01:28:10 GMT",
-      "link": "https://tutur.co.id/danantara-bidik-100-bumn-berkelas-dunia-pada-2030-transformasi-dimulai-dari-restrukturisasi/"
+      "published": "Wed, 18 Nov 2026 10:55:04 GMT",
+      "link": "https://www.rmolsumsel.id/bri-pimpin-enam-klaster-bumn-untuk-perkuat-penanganan-bencana-nasional"
     },
     {
-      "title": "Tingkatkan Ekonomi Masyarakat, Ida Fauziyah Komisi VI DPR: KDMP Harus Libatkan UMKM Lokal - Suara Investor",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Wed, 18 Nov 2026 01:16:32 GMT",
-      "link": "https://www.suarainvestor.com/tingkatkan-ekonomi-masyarakat-ida-fauziyah-komisi-vi-dpr-kdmp-harus-libatkan-umkm-lokal/"
+      "title": "India Bebaskan Soda Abu Indonesia Dari Kuota Impor - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 10:50:00 GMT",
+      "link": "https://www.validnews.id/ekonomi/2026/11/18/india-bebaskan-soda-abu-indonesia-dari-kuota-impor-175000147"
     },
     {
-      "title": "OJK Tetap Mau DCP Pekerja Dikelola Dalam Ekosistem Dana Pensiun - Pasardana",
+      "title": "Pimpin Satgas Bencana BUMN Peduli, BRI Dorong Sinergi Penanganan Kebencanaan Nasional - kumparan.com - kumparan",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 10:36:00 GMT",
+      "link": "https://kumparan.com/kumparanbisnis/pimpin-satgas-bencana-bumn-peduli-bri-dorong-sinergi-penanganan-kebencanaan-nasional-28b6l4ZRLRp"
+    },
+    {
+      "title": "Awasi Program Koperasi Desa/Kelurahan Merah Putih, Ombudsman RI Soroti 10 Indikator - Ombudsman Republik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 10:10:36 GMT",
+      "link": "https://ombudsman.go.id/news/r/awasi-program-koperasi-desakelurahan-merah-putih-ombudsman-ri-soroti-10-indikator"
+    },
+    {
+      "title": "Pemerintah Siapkan Alokasi 20 Persen Lahan Sawit untuk Petani Melalui Koperasi, Kementerian Koperasi Gandeng PT Agrinas Palma - Sawit Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 10:01:02 GMT",
+      "link": "https://sawitindonesia.com/pemerintah-siapkan-alokasi-20-persen-lahan-sawit-untuk-petani-melalui-koperasi-kementerian-koperasi-gandeng-pt-agrinas-palma"
+    },
+    {
+      "title": "Perkuat Peran Zakat, Baznas RI Sinergikan UPZ Kementerian, BUMN, hingga Sektor Swasta - MUI - Majelis Ulama Indonesia",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "link": "https://mui.or.id/public/baca/berita/perkuat-peran-zakat-baznas-ri-sinergikan-upz-kementerian-bumn-hingga-sektor-swasta"
+    },
+    {
+      "title": "Kemenkop Resmikan SPBUN di Rokan Hilir - pasardana.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 09:57:00 GMT",
+      "link": "https://pasardana.id/news/2026/11/18/kemenkop-resmikan-spbun-di-rokan-hilir"
+    },
+    {
+      "title": "Ekonom Sebut Insentif Pajak Danantara Mengandung Unsur Subsidi, Ini Alasannya - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 18 Nov 2026 01:12:00 GMT",
-      "link": "https://pasardana.id/news/2026/11/18/ojk-tetap-mau-dcp-pekerja-dikelola-dalam-ekosistem-dana-pensiun"
+      "published": "Wed, 18 Nov 2026 09:49:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3hzZnFlRF8wc1FRd0kxR3hTaTBDOTdxX3FfZWoyd1BlMjV1U0t1QzVsTFR1UmNTUjMtY3duN0xwZWRyWjEtN212aDh4c3hRUWdHbGF4YWhuM2ZyOUlOTjdpVGF2bGZTa0tsZGx4MkZZdzdMNEQxMklvVFJfT0MtU01LV3A3SHZxMDZHbUtScC1USklpVXQtYjZDODBaczdUeVlJX0ZpNERxR1pxTmVzOdIBqgFBVV95cUxNWlhuRkFINWVnaGRUSnY0WGgwSUJ6ZFAySndjYS05c1p6MnJxYk1MUU5jbVhuX3QzbG1qd1RLdTdpWm1qTWJheWE2ZXR6SEZ2eWgxWVRpeFdjbGhsNXlSZ1N1eGFoMzVJZ25zaEhQWTVZM3ZTazk3Y0c3SlZIaVZqRXUxUDhJUVA2UGM2a21SMmRQbEpudE40c0xmaVVuRWM0ZW1aN1ZSR2ZYQQ?oc=5"
     },
     {
-      "title": "Kolaborasi KDKMP dan Koperasi Pesantren Perluas Pasar Produk Lokal - LiputanOke.Com",
+      "title": "Kemenkop Dorong Petani Kelola Lahan Sawit Lewat Koperasi - cwibc.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Wed, 18 Nov 2026 01:03:47 GMT",
-      "link": "https://www.liputanoke.com/read-71968-2026-11-18-kolaborasi-kdkmp-dan-koperasi-pesantren-perluas-pasar-produk-lokal.html"
+      "published": "Wed, 18 Nov 2026 09:32:03 GMT",
+      "link": "https://cwibc.co.id/kemenkop-kelola-lahan-sawit-koperasi"
     },
     {
-      "title": "Eko Hendro Purnomo Desak Pemerintah Segera Bayar Utang Subsidi Pupuk Rp14,5 Triliun - Bela Rakyat",
-      "entity": "Eko Patrio",
-      "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 22:39:41 GMT",
-      "link": "https://belarakyat.com/eko-hendro-purnomo-desak-pemerintah-segera-bayar-utang-subsidi-pupuk-rp145-triliun/"
-    },
-    {
-      "title": "Bebas Kuota Impor India, Mendag Minta Ekspor Soda Abu Indonesia Ditingkatkan - indoposco.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "Kemenkop Dorong Petani Sawit Kuasai Lahan Sitaan Negara Lewat Koperasi - Kompas.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 19:47:15 GMT",
-      "link": "https://indoposco.id/2026/11/18/bebas-kuota-impor-india-mendag-minta-ekspor-soda-abu-indonesia-ditingkatkan/"
+      "published": "Wed, 18 Nov 2026 09:22:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUFxOTBkWFZtR2Vkd2RfX2dPeFd2MDdYZ0dmQVZxaE9nbmItSDRQeUstOVRKT0szLUFSR3F5QWV1SGRkWmNqcy1MRGlPeWVCU1lBaFczcFNBZzMxa0IxajdZZ1ltSHJzNEc5QWtWcEJ1T2g2MTZIQjlKRDYxMEpuTGV3bm90c0R5NDZmTjdwUGtTeDNDMXVVQVR2bHNEQVprN1U5R1NBUkRxRVhrRlBuamV5dVFJVWZhcFU1T1J3?oc=5"
     },
     {
-      "title": "Rieke Apresiasi Keterbukaan Kemenimipas dalam Pemberantasan Narkoba di Lapas - realita.co",
+      "title": "KPPU Waspadai Celah Persekongkolan Tender dalam Proyek Pemerintah di Sumsel - SuaraMetropolitan",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 18 Nov 2026 09:20:32 GMT",
+      "link": "https://suarametropolitan.com/kppu-waspadai-celah-persekongkolan-tender-dalam-proyek-pemerintah-di-sumsel/"
+    },
+    {
+      "title": "Dampingi Dasco, Andre Rosiade Pastikan Aspirasi Pekerja Krakatau Steel Ditindaklanjuti - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Wed, 18 Nov 2026 09:15:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUNWNmFBdE9SSy1VSTdFYnVlQ0JCUUpVRkdBZzNuamlYNmQyd0tJR0dVLWZZOEhnQ0NWZXFnaHhZMDNBRjF6TDVqbUVEZTZzUS0tOEFJVFpZaU5DS3RkWnFxUFVaSE9RWklob1Z4MURHSnJrMzV5R0pwdDhvWDFnV1IzN0dpa2xxLXB0VFZIdTJaNVg3QkdnemlyYUprb0w1M0dkU1Y0VXgteXpnM2pSNER6bXprRWo2TkUwQlpYcktvNXPSAcgBQVVfeXFMUE9LWm1seldLYUpUVUFlVU9IMlRHUkFjaDU1RjlvZTcySnNVeTdOVGg2N2tfdUkzZGw2MEt5WmhnTjFDRVFzOWY3TFVleTJBSU5lUTNvaEF2LTEzSDhQX0ZYNnNfTG85bnZIR3pLVjFFRWZleGJQakhNWFdHMEFaYWxYUzJTMERMWGxGNnJsNXZCT1VCbE5OVFMtNnVFYTZDeDkxTlB6a2I3cF9iUlRQWVZJTUllQmd6dTlrOFVOemxkNzI3WUZTeGE?oc=5"
+    },
+    {
+      "title": "Pegawai Magang Diduga Dilecehkan Pejabat Eselon II Pemprov NTT - Tirto.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Tue, 17 Nov 2026 15:49:00 GMT",
-      "link": "https://realita.co/baca-52380-rieke-apresiasi-keterbukaan-kemenimipas-dalam-pemberantasan-narkoba-di-lapas"
+      "published": "Wed, 18 Nov 2026 08:54:00 GMT",
+      "link": "https://tirto.id/pegawai-magang-diduga-dilecehkan-pejabat-eselon-ii-pemprov-ntt-idWr"
     },
     {
-      "title": "KTT APEC 2026 Digelar di China, Prabowo Bawa Agenda Perdagangan, Investasi hingga Keamanan AI - Aktualita.co",
-      "entity": "Kementerian Perdagangan",
+      "title": "Danantara Didorong Buka Laporan Keuangan demi Akuntabilitas Publik - Beritakota",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 14:45:54 GMT",
-      "link": "https://aktualita.co/internasional/ktt-apec-2026-china-prabowo-perdagangan-investasi-ai"
+      "published": "Wed, 18 Nov 2026 08:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWxXTV9iOGpSR3ZoSXVMd3RpZ3NLT2NPbGhzT2Q2X2RVbk5wUTJpcXNCU0prT1RoMDdEUHIyQmJiUEJZS1dTS1lYYlJtT1AtX0dpMHNsaEZzclh4Vjl3V0d6VGRIWjE4MTI3Zkx2TXZkV3RmT1lIMUVRTWJma2Joa0FQdFp3Mjk5ODVwaXpMTTlnemc?oc=5"
     },
     {
-      "title": "BP BUMN Targetkan 100 Perusahaan Kelas Dunia pada 2030 - Iconomics",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 14:16:58 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/bp-bumn-targetkan-100-perusahaan-kelas-dunia-pada-2030/"
-    },
-    {
-      "title": "100 BUMN Ditargetkan Berkelas Dunia Pada 2030, Danantara Siapkan Transformasi Besar-Besaran - detik suara rakyat",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 13:55:36 GMT",
-      "link": "https://www.detiksuararakyat.id/100-bumn-ditargetkan-berkelas-dunia-pada-2030-danantara-siapkan-transformasi-besar-besaran/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan menyesuaikan rencana infrastruktur minyak bumi dan gas alam. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 13:23:44 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-dieu-chinh-quy-hoach-ha-tang-xang-dau-va-khi-dot"
-    },
-    {
-      "title": "Kemenkop Libatkan UMKM Pangan dalam Rantai Pasok Program MBG - cwibc.co.id",
+      "title": "Wamenkop RI: Petani Sawit Harus Nikmati Nilai Tambah dari Industri Hilir - Media Center Riau",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 13:21:05 GMT",
-      "link": "https://cwibc.co.id/kemenkop-umkm-pangan-rantai-pasok"
-    },
-    {
-      "title": "Kemenkop Dorong UMKM Pangan Pasok Keburuhan MBG dan Kopdes Merah Putih - Kompas.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 13:12:00 GMT",
-      "link": "https://money.kompas.com/read/2026/11/17/201200826/kemenkop-dorong-umkm-pangan-pasok-keburuhan-mbg-dan-kopdes-merah-putih"
-    },
-    {
-      "title": "Kemenkop Perluas Peran Koperasi Nelayan hingga Pasar Ekspor - bsinews.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 17 Nov 2026 11:23:49 GMT",
-      "link": "https://bsinews.id/kemenkop-koperasi-nelayan-pasar-ekspor"
+      "published": "Wed, 18 Nov 2026 08:16:00 GMT",
+      "link": "https://mediacenter.riau.go.id/read/wamenkop-ri-petani-sawit-harus-nikmati-nilai-tambah-dari-industri-hilir"
     }
   ]
 }
