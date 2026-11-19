@@ -1,11 +1,11 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-19T09:52:00.920520",
+  "generated_at": "2026-11-19T18:51:09.988526",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 26,
-    "Golkar": 7,
-    "NasDem": 5,
+    "Golkar": 5,
+    "NasDem": 4,
     "PKB": 24,
     "PKS": 10,
     "PAN": 4,
@@ -35,24 +35,23 @@
   },
   "topic_counts_30d": {
     "bumn": 49,
-    "umkm": 43,
-    "danantara": 28,
-    "ekspor": 14,
-    "perdagangan": 17,
-    "investasi": 32,
-    "impor": 9,
-    "koperasi": 47,
+    "umkm": 42,
+    "danantara": 29,
+    "ekspor": 13,
+    "impor": 10,
+    "perdagangan": 15,
+    "investasi": 30,
+    "koperasi": 49,
     "kartel-monopoli": 14,
-    "ipo": 3,
-    "dividen": 1
+    "ipo": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 19,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 11,
-    "Mulyadi": 3,
+    "Kawendra Lukistian": 10,
+    "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
     "Darmadi Durianto": 6,
@@ -90,117 +89,117 @@
     "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 87,
-    "Kinerja BUMN": 23,
-    "Perdagangan": 36,
-    "Konflik Publik": 16,
-    "Hukum/Audit": 21
+    "Koperasi/UMKM": 89,
+    "Kinerja BUMN": 22,
+    "Perdagangan": 38,
+    "Konflik Publik": 15,
+    "Hukum/Audit": 22
   },
   "top_headlines": [
     {
-      "title": "Danantara dan Dua Holding Dikecualikan dari Pajak Minimum Global - Tirto.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 09:40:00 GMT",
-      "link": "https://tirto.id/danantara-dan-dua-holding-dikecualikan-dari-pajak-minimum-global-idY8"
-    },
-    {
-      "title": "UMKM BISA Ekspor, Bukukan Transaksi Penjajakan Bisnis Rp6,6 Triliun - www.vibizmedia.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:53:44 GMT",
-      "link": "https://www.vibizmedia.com/index.php/2026/11/19/umkm-bisa-ekspor-bukukan-transaksi-penjajakan-bisnis-rp66-triliun/"
-    },
-    {
-      "title": "KPPU dan Pemprov Jabar Perkuat Pengawasan Persaingan Usaha - Limapagi",
+      "title": "KPPU dan Pemprov Jabar Perkuat Sinergi Persaingan Usaha, Jaga Peluang UMKM - Terasbatam",
       "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:53:03 GMT",
-      "link": "https://www.limapagi.id/kppu-pemprov-jabar-persaingan-usaha"
+      "published": "Thu, 19 Nov 2026 18:35:28 GMT",
+      "link": "https://www.terasbatam.id/kppu-dan-pemprov-jabar-perkuat-sinergi-persaingan-usaha-jaga-peluang-umkm/"
     },
     {
-      "title": "Lindungi UMKM Lokal, KPPU dan Pemprov Jabar Perkuat Sinergitas - Kompas.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:50:00 GMT",
-      "link": "https://money.kompas.com/read/2026/11/19/155021226/lindungi-umkm-lokal-kppu-dan-pemprov-jabar-perkuat-sinergitas"
-    },
-    {
-      "title": "Matangkan RUU Perkoperasian, Komisi VI DPR Perkuat Tata Kelola dan Ekosistem Bisnis Koperasi Modern - Suara Pemerintah",
-      "entity": "Gde Sumarjaya Linggih",
+      "title": "Andre Rosiade Dorong Pemulihan dan Infrastruktur Sumbar - bsinews.id",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 08:39:34 GMT",
-      "link": "https://suarapemerintah.id/2026/11/matangkan-ruu-perkoperasian-komisi-vi-dpr-perkuat-tata-kelola-dan-ekosistem-bisnis-koperasi-modern/"
+      "published": "Thu, 19 Nov 2026 16:31:58 GMT",
+      "link": "https://bsinews.id/andre-rosiade-pembangunan-sumbar"
     },
     {
-      "title": "Kemendag Minta Truk Bahan Pokok Bebas Melintas Malam saat Nataru, Ini Alasannya - kabarbisnis.com",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:39:13 GMT",
-      "link": "https://www.kabarbisnis.com/read/28138012/kemendag-minta-truk-bahan-pokok-bebas-melintas-malam-saat-nataru-ini-alasannya"
-    },
-    {
-      "title": "Menkeu Ungkap 2 Tangan Ekonomi RI: APBN dan Danantara - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:15:09 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261119145009-4-786648/menkeu-ungkap-2-tangan-ekonomi-ri-apbn-dan-danantara"
-    },
-    {
-      "title": "KPPU dan Pemprov Jabar Perkuat Pengawasan Persaingan Usaha, Investasi Harus Beri Peluang Setara - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:08:14 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-dan-pemprov-jabar-perkuat-pengawasan-persaingan-usaha-investasi-harus-beri-peluang-setara/"
-    },
-    {
-      "title": "Dukungan Buruh Menguat terhadap Usulan Pengelolaan Dana Pesangon oleh Danantara - PT Suara Dewata Media",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:05:22 GMT",
-      "link": "https://www.suaradewata.com/berita/202405219169/dukungan-buruh-menguat-terhadap-usulan-pengelolaan-dana-pesangon-oleh-danantara"
-    },
-    {
-      "title": "KPPU Sidangkan Dugaan Persekongkolan Dua Proyek Pedestrian di Kota Yogyakarta - warta jogja",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 08:03:00 GMT",
-      "link": "https://www.wartajogja.id/2026/11/kppu-sidangkan-dugaan-persekongkolan.html"
-    },
-    {
-      "title": "Ketua KPPU dan Gubernur Jawa Barat Perkuat Sinergi Persaingan Usaha, Dukung Investasi Berkualitas - ANTARA News",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 07:59:33 GMT",
-      "link": "https://www.antaranews.com/berita/5864859/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas"
-    },
-    {
-      "title": "Pemerintah Terbitkan Aturan Pajak Transaksi Danantara dan Holding BUMN - DDTCNews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 07:56:54 GMT",
-      "link": "https://news.ddtc.co.id/berita/nasional/1824199/pemerintah-terbitkan-aturan-pajak-transaksi-danantara-dan-holding-bumn"
-    },
-    {
-      "title": "Gde Sumarjaya Linggih: RUU Perkoperasian Harus Mampu Atasi Persoalan Petani - Fraksi Partai Golkar",
-      "entity": "Gde Sumarjaya Linggih",
+      "title": "Raih detikcom Awards, Andre Rosiade Fokus Perjuangkan Warga Sumbar - detikNews",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 07:33:26 GMT",
-      "link": "https://fraksigolkar.com/read/2864/gde-sumarjaya-linggih-ruu-perkoperasian-harus-mampu-atasi-persoalan-petani"
+      "published": "Thu, 19 Nov 2026 16:29:00 GMT",
+      "link": "https://news.detik.com/berita/d-8761021/raih-detikcom-awards-andre-rosiade-fokus-perjuangkan-warga-sumbar"
     },
     {
-      "title": "Ombudsman Awasi Koperasi Merah Putih, dari Legalitas hingga Bangunan - Satumedia.id",
+      "title": "Wamenkop tindak lanjuti kendala lahan pembangunan KDKMP di Kepri - ANTARA News Kepri",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 07:29:34 GMT",
-      "link": "https://www.satumedia.id/news/35821/ombudsman-awasi-koperasi-merah-putih-dari-legalitas-hingga-bangunan/"
+      "published": "Thu, 19 Nov 2026 16:03:36 GMT",
+      "link": "https://kepri.antaranews.com/berita/274259/wamenkop-tindak-lanjuti-kendala-lahan-pembangunan-kdkmp-di-kepri"
     },
     {
-      "title": "Restrukturisasi BUMN Bebas PPh hingga 2029, Sesuai PP 41/2026 - MUC Consulting",
-      "entity": "Danantara",
+      "title": "Indonesia Mulai Ekspor Cocopeat ke Taiwan, Nilai Pengiriman Rp 138 Juta - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 07:25:00 GMT",
-      "link": "https://muc.co.id/id/article/restrukturisasi-bumn-bebas-pph-hingga-2029-sesuai-pp-412026"
+      "published": "Thu, 19 Nov 2026 15:34:21 GMT",
+      "link": "https://industri.kontan.co.id/news/indonesia-mulai-ekspor-cocopeat-ke-taiwan-nilai-pengiriman-rp-138-juta"
+    },
+    {
+      "title": "Ombudsman RI Dorong Percepatan Operasional Gerai Koperasi Merah Putih di Bandung - Ombudsman Republik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 15:00:00 GMT",
+      "link": "https://ombudsman.go.id/news/r/ombudsman-ri-dorong-percepatan-operasional-gerai-koperasi-merah-putih-di-bandung"
+    },
+    {
+      "title": "Andre Rosiade Raih Penghargaan Legislator Berdampak Nyata - bsinews.id",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 19 Nov 2026 14:47:48 GMT",
+      "link": "https://bsinews.id/andre-rosiade-legislator-berdampak-nyata"
+    },
+    {
+      "title": "Andre Rosiade Raih detikcom Awards 2026 'Legislator Berdampak Nyata bagi Daerah Pemilihan' - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Thu, 19 Nov 2026 14:30:16 GMT",
+      "link": "https://news.detik.com/berita/d-8760842/andre-rosiade-raih-detikcom-awards-2026-legislator-berdampak-nyata-bagi-daerah-pemilihan"
+    },
+    {
+      "title": "Ferry Percepat Pembentukan Koperasi Merah Putih - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 14:13:33 GMT",
+      "link": "https://demokratis.co.id/ferry-percepat-koperasi-merah-putih"
+    },
+    {
+      "title": "Ferry Juliantono Percepat Koperasi Merah Putih di Desa - bsinews.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 14:11:10 GMT",
+      "link": "https://bsinews.id/ferry-percepat-koperasi-merah-putih"
+    },
+    {
+      "title": "Ferry Juliantono Perkuat Koperasi Desa dan Raih Penghargaan - Peradaban.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 14:07:13 GMT",
+      "link": "https://peradaban.id/ferry-juliantono-koperasi-desa"
+    },
+    {
+      "title": "Sukses Kawal Koperasi Merah Putih, Menkop Raih detikcom Awards 2026 - detikFinance",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 14:01:06 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8760798/sukses-kawal-koperasi-merah-putih-menkop-raih-detikcom-awards-2026"
+    },
+    {
+      "title": "Soda Abu Indonesia Terbebas dari Aturan Kuota Impor India - Niaga.Asia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 11:39:36 GMT",
+      "link": "https://www.niaga.asia/soda-abu-indonesia-terbebas-dari-aturan-kuota-impor-india/"
+    },
+    {
+      "title": "UU Perampasan Aset Sah, Rieke: Hentikan Buying Time, Tutup Celah “Kopling” Regulasi - Kabarindoraya.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Thu, 19 Nov 2026 11:28:00 GMT",
+      "link": "https://kabarindoraya.com/uu-perampasan-aset-sah-rieke-hentikan-buying-time-tutup-celah-kopling-regulasi"
+    },
+    {
+      "title": "Dedi Mulyadi Sambut Pengesahan UU Perampasan Aset, Ini Pesannya - Merdeka",
+      "entity": "Mulyadi",
+      "kind": "anggota",
+      "published": "Thu, 19 Nov 2026 11:08:36 GMT",
+      "link": "https://www.merdeka.com/politik/read/8338541/dedi-mulyadi-sambut-pengesahan-uu-perampasan-aset-ini-pesannya"
     }
   ]
 }
