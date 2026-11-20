@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-20T01:01:26.572992",
+  "generated_at": "2026-11-20T09:39:12.257239",
   "party_counts_7d": {
-    "Gerindra": 17,
-    "PDI-P": 27,
-    "Golkar": 5,
+    "Gerindra": 16,
+    "PDI-P": 25,
+    "Golkar": 6,
     "NasDem": 4,
-    "PKB": 24,
-    "PKS": 10,
-    "PAN": 4,
+    "PKB": 22,
+    "PKS": 12,
+    "PAN": 2,
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 58,
+    "Gerindra": 56,
     "PDI-P": 62,
-    "Golkar": 79,
-    "NasDem": 16,
-    "PKB": 66,
-    "PKS": 34,
+    "Golkar": 78,
+    "NasDem": 14,
+    "PKB": 68,
+    "PKS": 35,
     "PAN": 10,
-    "Demokrat": 22
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,172 +34,173 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 51,
-    "umkm": 41,
+    "bumn": 52,
+    "umkm": 40,
     "danantara": 30,
-    "ekspor": 13,
-    "impor": 10,
-    "perdagangan": 15,
+    "impor": 8,
+    "perdagangan": 14,
+    "ekspor": 12,
     "investasi": 28,
-    "koperasi": 50,
-    "kartel-monopoli": 13,
-    "ipo": 3
+    "koperasi": 54,
+    "kartel-monopoli": 12,
+    "ipo": 3,
+    "merger-akuisisi": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 18,
+    "Muhammad Husein Fadlulloh": 16,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 10,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
-    "Darmadi Durianto": 6,
+    "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 10,
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 9,
+    "Totok Hedi Santosa": 8,
     "Nurdin Halid": 13,
-    "Gde Sumarjaya Linggih": 15,
+    "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 17,
+    "Doni Akbar": 16,
     "Firnando Hadityo Ganinduto": 8,
-    "Rizki Faisal": 20,
+    "Rizki Faisal": 19,
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
-    "Randi Zulmariadi": 6,
+    "Randi Zulmariadi": 4,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 9,
+    "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 14,
+    "Ida Fauziyah": 15,
     "Imas Aan Ubudiah": 3,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 5,
-    "Ismail": 5,
+    "Ismail": 6,
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 8,
     "Sartono": 6,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 89,
-    "Kinerja BUMN": 22,
+    "Koperasi/UMKM": 91,
+    "Kinerja BUMN": 23,
     "Perdagangan": 38,
-    "Konflik Publik": 15,
-    "Hukum/Audit": 23
+    "Konflik Publik": 14,
+    "Hukum/Audit": 24
   },
   "top_headlines": [
     {
-      "title": "BP BUMN dan Danantara Bidik 100 BUMN Berkelas Dunia pada 2030 - Infobrand",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 22:34:46 GMT",
-      "link": "https://infobrand.id/bp-bumn-dan-danantara-bidik-100-bumn-berkelas-dunia-pada-2030.phtml"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 22:19:32 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261120/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 22:19:21 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261120/Mjc0NDQ0"
-    },
-    {
-      "title": "Ombudsman RI Dorong Percepatan Operasional Gerai Koperasi Merah Putih di Bandung - Ombudsman Republik Indonesia",
+      "title": "Ombudsman Temukan Persoalan Akses Lokasi dan Perizinan dalam Pengawasan Koperasi Merah Putih - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 22:04:48 GMT",
-      "link": "https://ombudsman.go.id/perwakilan/news/r/ombudsman-ri-dorong-percepatan-operasional-gerai-koperasi-merah-putih-di-bandung"
+      "published": "Fri, 20 Nov 2026 09:28:00 GMT",
+      "link": "https://www.beritakoperasi.com/ombudsman-temukan-persoalan-akses-lokasi-dan-perizinan-dalam-pengawasan-koperasi-merah-putih/"
     },
     {
-      "title": "KPPU dan Pemprov Jabar Perkuat Sinergi Persaingan Usaha, Jaga Peluang UMKM - Terasbatam",
-      "entity": "KPPU",
+      "title": "BPOM Raih Dua Penghargaan Detikcom Awards 2026 atas Kiprah di Tingkat Nasional dan Global - pom.go.id",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 18:35:28 GMT",
-      "link": "https://www.terasbatam.id/kppu-dan-pemprov-jabar-perkuat-sinergi-persaingan-usaha-jaga-peluang-umkm/"
+      "published": "Fri, 20 Nov 2026 08:41:35 GMT",
+      "link": "https://www.pom.go.id/berita/bpom-raih-dua-penghargaan-detikcom-awards-2026-atas-kiprah-di-tingkat-nasional-dan-global"
     },
     {
-      "title": "Andre Rosiade Dorong Pemulihan dan Infrastruktur Sumbar - bsinews.id",
-      "entity": "Andre Rosiade",
+      "title": "Ismail Adham Terisak Akui Beri Uang di Kasus Korupsi Kuota Haji - Tirto.id",
+      "entity": "Ismail",
       "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 16:31:58 GMT",
-      "link": "https://bsinews.id/andre-rosiade-pembangunan-sumbar"
+      "published": "Fri, 20 Nov 2026 08:16:00 GMT",
+      "link": "https://tirto.id/ismail-adham-terisak-akui-beri-uang-di-kasus-korupsi-kuota-haji-id2D"
     },
     {
-      "title": "Raih detikcom Awards, Andre Rosiade Fokus Perjuangkan Warga Sumbar - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 16:29:00 GMT",
-      "link": "https://news.detik.com/berita/d-8761021/raih-detikcom-awards-andre-rosiade-fokus-perjuangkan-warga-sumbar"
-    },
-    {
-      "title": "Wamenkop tindak lanjuti kendala lahan pembangunan KDKMP di Kepri - ANTARA News Kepri",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 16:03:36 GMT",
-      "link": "https://kepri.antaranews.com/berita/274259/wamenkop-tindak-lanjuti-kendala-lahan-pembangunan-kdkmp-di-kepri"
-    },
-    {
-      "title": "Indonesia Mulai Ekspor Cocopeat ke Taiwan, Nilai Pengiriman Rp 138 Juta - kontan.co.id",
+      "title": "Kementerian Perindustrian dan Perdagangan telah menyelesaikan rancangan peraturan tentang kerangka harga untuk pembangkitan listrik dan impor listrik. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 15:34:21 GMT",
-      "link": "https://industri.kontan.co.id/news/indonesia-mulai-ekspor-cocopeat-ke-taiwan-nilai-pengiriman-rp-138-juta"
+      "published": "Fri, 20 Nov 2026 08:12:35 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-hoan-thien-du-thao-quy-dinh-ve-khung-gia-phat-dien-va-nhap-khau-dien"
     },
     {
-      "title": "Ombudsman RI Dorong Percepatan Operasional Gerai Koperasi Merah Putih di Bandung - Ombudsman Republik Indonesia",
+      "title": "KPPU Ungkap Dugaan Persekongkolan Tender Proyek Pedestrian Kota Yogyakarta - Gerbang Patriot",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 07:55:25 GMT",
+      "link": "https://gerbangpatriot.com/2026/11/20/kppu-ungkap-dugaan-persekongkolan-tender-proyek-pedestrian-kota-yogyakarta/"
+    },
+    {
+      "title": "Trump Umumkan Proyek Batu Bara Rp36,55 T di RI, Gandeng Danantara - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 07:30:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/128396/trump-umumkan-proyek-batu-bara-rp36-55-t-di-ri-gandeng-danantara"
+    },
+    {
+      "title": "Awasi Kepatuhan PNBP, DJA Integrasikan Data dengan DJP dan KPPU - DDTCNews",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 07:30:00 GMT",
+      "link": "https://news.ddtc.co.id/berita/nasional/1824281/awasi-kepatuhan-pnbp-dja-integrasikan-data-dengan-djp-dan-kppu"
+    },
+    {
+      "title": "Menkop Bidik Karawang Jadi Sentra Koperasi Beras Nasional, Dorong Petani Lebih Berdaya - tvberita.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 15:00:00 GMT",
-      "link": "https://ombudsman.go.id/news/r/ombudsman-ri-dorong-percepatan-operasional-gerai-koperasi-merah-putih-di-bandung"
+      "published": "Fri, 20 Nov 2026 07:09:16 GMT",
+      "link": "https://tvberita.co.id/news/regional/menkop-bidik-karawang-jadi-sentra-koperasi-beras-nasional-dorong-petani-lebih-berdaya/"
     },
     {
-      "title": "Andre Rosiade Raih Penghargaan Legislator Berdampak Nyata - bsinews.id",
-      "entity": "Andre Rosiade",
+      "title": "Desak Pengawasan Gula Rafinasi Diperketat, Nasim Khan: Petani Jangan Dirugikan - FPKB DPR RI",
+      "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 14:47:48 GMT",
-      "link": "https://bsinews.id/andre-rosiade-legislator-berdampak-nyata"
+      "published": "Fri, 20 Nov 2026 06:51:35 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/20/desak-pengawasan-gula-rafinasi-diperketat-nasim-khan-petani-jangan-dirugikan/"
     },
     {
-      "title": "Andre Rosiade Raih detikcom Awards 2026 'Legislator Berdampak Nyata bagi Daerah Pemilihan' - detikNews",
-      "entity": "Andre Rosiade",
+      "title": "Kemendag Perketat Pengawasan Impor, 96 Pelaku Usaha Perlu Tindak Lanjut - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 06:33:03 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-perketat-pengawasan-impor-96-pelaku-usaha-perlu-tindak-lanjut"
+    },
+    {
+      "title": "Anggota Komisi XI DPR, Amin Ak Dorong Kedaulatan Digital Perbankan dan Mitigasi Risiko AI - Fraksi PKS",
+      "entity": "Amin Ak.",
       "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 14:30:16 GMT",
-      "link": "https://news.detik.com/berita/d-8760842/andre-rosiade-raih-detikcom-awards-2026-legislator-berdampak-nyata-bagi-daerah-pemilihan"
+      "published": "Fri, 20 Nov 2026 06:08:06 GMT",
+      "link": "https://fraksi.pks.id/2026/11/20/anggota-komisi-xi-dpr-amin-ak-dorong-kedaulatan-digital-perbankan-dan-mitigasi-risiko-ai/"
     },
     {
-      "title": "Ferry Percepat Pembentukan Koperasi Merah Putih - Demokratis.co.id",
+      "title": "Menkop Ferry Joko Dorong Koperasi Beras di Karawang Demi Swasembada Pangan - karawangbekasi.disway.id - karawang bekasi disway",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 14:13:33 GMT",
-      "link": "https://demokratis.co.id/ferry-percepat-koperasi-merah-putih"
+      "published": "Fri, 20 Nov 2026 06:07:00 GMT",
+      "link": "https://karawangbekasi.disway.id/karawang/read/55507/menkop-ferry-joko-dorong-koperasi-beras-di-karawang-demi-swasembada-pangan"
     },
     {
-      "title": "Ferry Juliantono Percepat Koperasi Merah Putih di Desa - bsinews.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Tembus Rp6,60 Triliun, Program UMKM BISA Ekspor Buka Peluang Produk Lokal ke Pasar 33 Negara - KlikJatim",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 14:11:10 GMT",
-      "link": "https://bsinews.id/ferry-percepat-koperasi-merah-putih"
+      "published": "Fri, 20 Nov 2026 05:27:00 GMT",
+      "link": "https://klikjatim.com/news-51135-tembus-rp660-triliun-program-umkm-bisa-ekspor-buka-peluang-produk-lokal-ke-pasar-33-negara"
     },
     {
-      "title": "Ferry Juliantono Perkuat Koperasi Desa dan Raih Penghargaan - Peradaban.id",
-      "entity": "Kementerian Koperasi",
+      "title": "Produk Ladaku Asal RI Terdeteksi Residu Pestisida di Taiwan, BPOM Diminta Segera Investigasi - indoposco.id",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 14:07:13 GMT",
-      "link": "https://peradaban.id/ferry-juliantono-koperasi-desa"
+      "published": "Fri, 20 Nov 2026 05:07:17 GMT",
+      "link": "https://indoposco.id/2026/11/20/produk-ladaku-asal-ri-terdeteksi-residu-pestisida-di-taiwan-bpom-diminta-segera-investigasi/"
+    },
+    {
+      "title": "Trump gelontorkan US$17 miliar ke ASEAN, ini jatah Indonesia - IDNFinancials",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 04:40:00 GMT",
+      "link": "https://www.idnfinancials.com/id/news/72017/trump-gelontorkan-us17-miliar-ke-asean-ini-jatah-indonesia"
     }
   ]
 }
