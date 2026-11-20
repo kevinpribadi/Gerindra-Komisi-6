@@ -1,9 +1,9 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-19T18:51:09.988526",
+  "generated_at": "2026-11-20T01:01:26.572992",
   "party_counts_7d": {
     "Gerindra": 17,
-    "PDI-P": 26,
+    "PDI-P": 27,
     "Golkar": 5,
     "NasDem": 4,
     "PKB": 24,
@@ -12,10 +12,10 @@
     "Demokrat": 5
   },
   "party_counts_30d": {
-    "Gerindra": 59,
+    "Gerindra": 58,
     "PDI-P": 62,
     "Golkar": 79,
-    "NasDem": 17,
+    "NasDem": 16,
     "PKB": 66,
     "PKS": 34,
     "PAN": 10,
@@ -34,21 +34,21 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 49,
-    "umkm": 42,
-    "danantara": 29,
+    "bumn": 51,
+    "umkm": 41,
+    "danantara": 30,
     "ekspor": 13,
     "impor": 10,
     "perdagangan": 15,
-    "investasi": 30,
-    "koperasi": 49,
-    "kartel-monopoli": 14,
+    "investasi": 28,
+    "koperasi": 50,
+    "kartel-monopoli": 13,
     "ipo": 3
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 19,
+    "Muhammad Husein Fadlulloh": 18,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 10,
     "Mulyadi": 4,
@@ -71,7 +71,7 @@
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
-    "Randi Zulmariadi": 7,
+    "Randi Zulmariadi": 6,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 9,
     "Rivqy Abdul Halim": 20,
@@ -93,9 +93,37 @@
     "Kinerja BUMN": 22,
     "Perdagangan": 38,
     "Konflik Publik": 15,
-    "Hukum/Audit": 22
+    "Hukum/Audit": 23
   },
   "top_headlines": [
+    {
+      "title": "BP BUMN dan Danantara Bidik 100 BUMN Berkelas Dunia pada 2030 - Infobrand",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 22:34:46 GMT",
+      "link": "https://infobrand.id/bp-bumn-dan-danantara-bidik-100-bumn-berkelas-dunia-pada-2030.phtml"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 22:19:32 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261120/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 22:19:21 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261120/Mjc0NDQ0"
+    },
+    {
+      "title": "Ombudsman RI Dorong Percepatan Operasional Gerai Koperasi Merah Putih di Bandung - Ombudsman Republik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 19 Nov 2026 22:04:48 GMT",
+      "link": "https://ombudsman.go.id/perwakilan/news/r/ombudsman-ri-dorong-percepatan-operasional-gerai-koperasi-merah-putih-di-bandung"
+    },
     {
       "title": "KPPU dan Pemprov Jabar Perkuat Sinergi Persaingan Usaha, Jaga Peluang UMKM - Terasbatam",
       "entity": "KPPU",
@@ -172,34 +200,6 @@
       "kind": "lembaga",
       "published": "Thu, 19 Nov 2026 14:07:13 GMT",
       "link": "https://peradaban.id/ferry-juliantono-koperasi-desa"
-    },
-    {
-      "title": "Sukses Kawal Koperasi Merah Putih, Menkop Raih detikcom Awards 2026 - detikFinance",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 14:01:06 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8760798/sukses-kawal-koperasi-merah-putih-menkop-raih-detikcom-awards-2026"
-    },
-    {
-      "title": "Soda Abu Indonesia Terbebas dari Aturan Kuota Impor India - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 19 Nov 2026 11:39:36 GMT",
-      "link": "https://www.niaga.asia/soda-abu-indonesia-terbebas-dari-aturan-kuota-impor-india/"
-    },
-    {
-      "title": "UU Perampasan Aset Sah, Rieke: Hentikan Buying Time, Tutup Celah “Kopling” Regulasi - Kabarindoraya.com",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 11:28:00 GMT",
-      "link": "https://kabarindoraya.com/uu-perampasan-aset-sah-rieke-hentikan-buying-time-tutup-celah-kopling-regulasi"
-    },
-    {
-      "title": "Dedi Mulyadi Sambut Pengesahan UU Perampasan Aset, Ini Pesannya - Merdeka",
-      "entity": "Mulyadi",
-      "kind": "anggota",
-      "published": "Thu, 19 Nov 2026 11:08:36 GMT",
-      "link": "https://www.merdeka.com/politik/read/8338541/dedi-mulyadi-sambut-pengesahan-uu-perampasan-aset-ini-pesannya"
     }
   ]
 }
