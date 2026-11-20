@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-20T09:39:12.257239",
+  "generated_at": "2026-11-20T18:17:17.896482",
   "party_counts_7d": {
-    "Gerindra": 16,
-    "PDI-P": 25,
-    "Golkar": 6,
+    "Gerindra": 17,
+    "PDI-P": 23,
+    "Golkar": 7,
     "NasDem": 4,
     "PKB": 22,
     "PKS": 12,
-    "PAN": 2,
+    "PAN": 1,
     "Demokrat": 5
   },
   "party_counts_30d": {
     "Gerindra": 56,
     "PDI-P": 62,
-    "Golkar": 78,
+    "Golkar": 75,
     "NasDem": 14,
     "PKB": 68,
     "PKS": 35,
-    "PAN": 10,
+    "PAN": 12,
     "Demokrat": 21
   },
   "agency_counts_30d": {
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 52,
+    "bumn": 55,
     "umkm": 40,
-    "danantara": 30,
-    "impor": 8,
-    "perdagangan": 14,
-    "ekspor": 12,
+    "danantara": 29,
+    "perdagangan": 16,
+    "impor": 6,
+    "ekspor": 11,
     "investasi": 28,
-    "koperasi": 54,
+    "koperasi": 55,
     "kartel-monopoli": 12,
     "ipo": 3,
     "merger-akuisisi": 1
@@ -62,11 +62,11 @@
     "Ida Nurlaela": 5,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 8,
-    "Nurdin Halid": 13,
+    "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 1,
     "Sarifah Suraidah": 1,
-    "Doni Akbar": 16,
+    "Doni Akbar": 12,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 19,
     "Muhammad Sarmuji": 4,
@@ -85,122 +85,122 @@
     "Ismail": 6,
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 8,
+    "Iskandar": 10,
     "Sartono": 6,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Koperasi/UMKM": 91,
-    "Kinerja BUMN": 23,
-    "Perdagangan": 38,
+    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 92,
+    "Perdagangan": 36,
     "Konflik Publik": 14,
-    "Hukum/Audit": 24
+    "Hukum/Audit": 20
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 18:01:42 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261121/Mjc0NDQ0"
+    },
+    {
+      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 17:59:58 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261121/MTEyNg%3D%3D"
+    },
+    {
+      "title": "Koperasi Merah Putih Dinilai Hidupkan Tradisi Musyawarah Desa - MetroTVNews.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 16:45:35 GMT",
+      "link": "https://www.metrotvnews.com/read/KdZCP0nQ-koperasi-merah-putih-dinilai-hidupkan-tradisi-musyawarah-desa"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan meminta masukan terkait amandemen peraturan penetapan harga listrik untuk pusat data. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 15:52:10 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-lay-y-kien-sua-quy-dinh-gia-dien-cho-trung-tam-du-lieu"
+    },
+    {
+      "title": "Legislator: UU Satu Data Indonesia perkuat kedaulatan di ruang siber - ANTARA News",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Fri, 20 Nov 2026 14:15:09 GMT",
+      "link": "https://www.antaranews.com/berita/5868427/legislator-uu-satu-data-indonesia-perkuat-kedaulatan-di-ruang-siber"
+    },
+    {
+      "title": "Menkop minta koperasi kuasai rantai pascapanen pertanian - ANTARA News Gorontalo",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 13:33:23 GMT",
+      "link": "https://gorontalo.antaranews.com/berita/437203/menkop-minta-koperasi-kuasai-rantai-pascapanen-pertanian"
+    },
+    {
+      "title": "Bersiap Tanda Tangani Kemitraan Ekonomi Komprehensif Indonesia-Uni Eropa, Menteri Perdagangan Bertolak ke Brussels - Media Nikel Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 13:12:15 GMT",
+      "link": "https://nikel.co.id/2026/11/20/bersiap-tanda-tangani-kemitraan-ekonomi-komprehensif-indonesia-uni-eropa-menteri-perdagangan-bertolak-ke-brussels/"
+    },
+    {
+      "title": "Antisipasi Kecelakaan Nataru, Nurdin Halid Soroti Pengawasan Kendaraan Naik Kapal - DPR RI",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Fri, 20 Nov 2026 12:37:12 GMT",
+      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Antisipasi-Kecelakaan-Nataru-Nurdin-Halid-Soroti-Pengawasan-Kendaraan-Naik-Kapal-70798"
+    },
+    {
+      "title": "Andre Rosiade: Kementerian PU Segera Bangun Jembatan Bailey di Sumpur Kudus - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 20 Nov 2026 11:12:39 GMT",
+      "link": "https://news.detik.com/berita/d-8762288/andre-rosiade-kementerian-pu-segera-bangun-jembatan-bailey-di-sumpur-kudus"
+    },
+    {
+      "title": "Pemerintah Beri Insentif Pajak Restrukturisasi BUMN hingga 2029 - cwibc.co.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 10:35:57 GMT",
+      "link": "https://cwibc.co.id/insentif-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "Pemerintah Beri Insentif Pajak Restrukturisasi BUMN hingga 2029 - cwibc.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 10:35:57 GMT",
+      "link": "https://cwibc.co.id/insentif-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "Pemerintah Beri Insentif Pajak untuk Restrukturisasi BUMN - Limapagi",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 10:27:49 GMT",
+      "link": "https://www.limapagi.id/insentif-pajak-restrukturisasi-bumn"
+    },
+    {
+      "title": "Pemerintah Bebaskan PPh Final 0 Persen untuk Sejumlah Transaksi Restrukturisasi BUMN - Kompas.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 10:23:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/20/172306226/pemerintah-bebaskan-pph-final-0-persen-untuk-sejumlah-transaksi"
+    },
+    {
+      "title": "Menkop Dorong Koperasi Kuasai Rantai Pasok Beras dari Pascapanen - detikNews",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 20 Nov 2026 09:34:51 GMT",
+      "link": "https://news.detik.com/berita/d-8762066/menkop-dorong-koperasi-kuasai-rantai-pasok-beras-dari-pascapanen"
+    },
     {
       "title": "Ombudsman Temukan Persoalan Akses Lokasi dan Perizinan dalam Pengawasan Koperasi Merah Putih - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
       "published": "Fri, 20 Nov 2026 09:28:00 GMT",
       "link": "https://www.beritakoperasi.com/ombudsman-temukan-persoalan-akses-lokasi-dan-perizinan-dalam-pengawasan-koperasi-merah-putih/"
-    },
-    {
-      "title": "BPOM Raih Dua Penghargaan Detikcom Awards 2026 atas Kiprah di Tingkat Nasional dan Global - pom.go.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 08:41:35 GMT",
-      "link": "https://www.pom.go.id/berita/bpom-raih-dua-penghargaan-detikcom-awards-2026-atas-kiprah-di-tingkat-nasional-dan-global"
-    },
-    {
-      "title": "Ismail Adham Terisak Akui Beri Uang di Kasus Korupsi Kuota Haji - Tirto.id",
-      "entity": "Ismail",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 08:16:00 GMT",
-      "link": "https://tirto.id/ismail-adham-terisak-akui-beri-uang-di-kasus-korupsi-kuota-haji-id2D"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan telah menyelesaikan rancangan peraturan tentang kerangka harga untuk pembangkitan listrik dan impor listrik. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 08:12:35 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-hoan-thien-du-thao-quy-dinh-ve-khung-gia-phat-dien-va-nhap-khau-dien"
-    },
-    {
-      "title": "KPPU Ungkap Dugaan Persekongkolan Tender Proyek Pedestrian Kota Yogyakarta - Gerbang Patriot",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 07:55:25 GMT",
-      "link": "https://gerbangpatriot.com/2026/11/20/kppu-ungkap-dugaan-persekongkolan-tender-proyek-pedestrian-kota-yogyakarta/"
-    },
-    {
-      "title": "Trump Umumkan Proyek Batu Bara Rp36,55 T di RI, Gandeng Danantara - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 07:30:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/128396/trump-umumkan-proyek-batu-bara-rp36-55-t-di-ri-gandeng-danantara"
-    },
-    {
-      "title": "Awasi Kepatuhan PNBP, DJA Integrasikan Data dengan DJP dan KPPU - DDTCNews",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 07:30:00 GMT",
-      "link": "https://news.ddtc.co.id/berita/nasional/1824281/awasi-kepatuhan-pnbp-dja-integrasikan-data-dengan-djp-dan-kppu"
-    },
-    {
-      "title": "Menkop Bidik Karawang Jadi Sentra Koperasi Beras Nasional, Dorong Petani Lebih Berdaya - tvberita.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 07:09:16 GMT",
-      "link": "https://tvberita.co.id/news/regional/menkop-bidik-karawang-jadi-sentra-koperasi-beras-nasional-dorong-petani-lebih-berdaya/"
-    },
-    {
-      "title": "Desak Pengawasan Gula Rafinasi Diperketat, Nasim Khan: Petani Jangan Dirugikan - FPKB DPR RI",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 06:51:35 GMT",
-      "link": "https://www.fraksipkb.com/2026/11/20/desak-pengawasan-gula-rafinasi-diperketat-nasim-khan-petani-jangan-dirugikan/"
-    },
-    {
-      "title": "Kemendag Perketat Pengawasan Impor, 96 Pelaku Usaha Perlu Tindak Lanjut - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 06:33:03 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-perketat-pengawasan-impor-96-pelaku-usaha-perlu-tindak-lanjut"
-    },
-    {
-      "title": "Anggota Komisi XI DPR, Amin Ak Dorong Kedaulatan Digital Perbankan dan Mitigasi Risiko AI - Fraksi PKS",
-      "entity": "Amin Ak.",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 06:08:06 GMT",
-      "link": "https://fraksi.pks.id/2026/11/20/anggota-komisi-xi-dpr-amin-ak-dorong-kedaulatan-digital-perbankan-dan-mitigasi-risiko-ai/"
-    },
-    {
-      "title": "Menkop Ferry Joko Dorong Koperasi Beras di Karawang Demi Swasembada Pangan - karawangbekasi.disway.id - karawang bekasi disway",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 06:07:00 GMT",
-      "link": "https://karawangbekasi.disway.id/karawang/read/55507/menkop-ferry-joko-dorong-koperasi-beras-di-karawang-demi-swasembada-pangan"
-    },
-    {
-      "title": "Tembus Rp6,60 Triliun, Program UMKM BISA Ekspor Buka Peluang Produk Lokal ke Pasar 33 Negara - KlikJatim",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 05:27:00 GMT",
-      "link": "https://klikjatim.com/news-51135-tembus-rp660-triliun-program-umkm-bisa-ekspor-buka-peluang-produk-lokal-ke-pasar-33-negara"
-    },
-    {
-      "title": "Produk Ladaku Asal RI Terdeteksi Residu Pestisida di Taiwan, BPOM Diminta Segera Investigasi - indoposco.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 05:07:17 GMT",
-      "link": "https://indoposco.id/2026/11/20/produk-ladaku-asal-ri-terdeteksi-residu-pestisida-di-taiwan-bpom-diminta-segera-investigasi/"
-    },
-    {
-      "title": "Trump gelontorkan US$17 miliar ke ASEAN, ini jatah Indonesia - IDNFinancials",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 04:40:00 GMT",
-      "link": "https://www.idnfinancials.com/id/news/72017/trump-gelontorkan-us17-miliar-ke-asean-ini-jatah-indonesia"
     }
   ]
 }
