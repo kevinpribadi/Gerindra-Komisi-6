@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-21T00:35:31.416003",
+  "generated_at": "2026-11-21T07:58:01.669804",
   "party_counts_7d": {
-    "Gerindra": 18,
-    "PDI-P": 23,
-    "Golkar": 7,
+    "Gerindra": 21,
+    "PDI-P": 25,
+    "Golkar": 10,
     "NasDem": 4,
-    "PKB": 21,
+    "PKB": 20,
     "PKS": 12,
     "PAN": 1,
-    "Demokrat": 6
+    "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 56,
-    "PDI-P": 62,
-    "Golkar": 75,
-    "NasDem": 14,
+    "PDI-P": 64,
+    "Golkar": 77,
+    "NasDem": 13,
     "PKB": 68,
     "PKS": 35,
     "PAN": 12,
-    "Demokrat": 22
+    "Demokrat": 23
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 54,
-    "umkm": 40,
+    "bumn": 55,
+    "umkm": 37,
     "danantara": 30,
     "perdagangan": 16,
     "impor": 7,
-    "ekspor": 11,
-    "investasi": 30,
+    "ekspor": 10,
     "koperasi": 55,
+    "investasi": 29,
     "kartel-monopoli": 14,
     "ipo": 3,
     "merger-akuisisi": 1
@@ -49,9 +49,9 @@
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 16,
+    "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 10,
+    "Kawendra Lukistian": 11,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
@@ -59,12 +59,12 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 10,
-    "Ida Nurlaela": 5,
+    "Ida Nurlaela": 6,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 8,
+    "Totok Hedi Santosa": 9,
     "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 16,
-    "Ahmad Labib": 1,
+    "Ahmad Labib": 3,
     "Sarifah Suraidah": 1,
     "Doni Akbar": 12,
     "Firnando Hadityo Ganinduto": 8,
@@ -72,7 +72,7 @@
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
-    "Randi Zulmariadi": 4,
+    "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 5,
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
@@ -86,121 +86,121 @@
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
-    "Sartono": 6,
+    "Sartono": 7,
     "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 93,
-    "Perdagangan": 37,
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 89,
+    "Perdagangan": 35,
     "Konflik Publik": 14,
-    "Hukum/Audit": 20
+    "Hukum/Audit": 21
   },
   "top_headlines": [
     {
-      "title": "Kemendag Perkuat Pemahaman Strategi Hadapi Hambatan Perdagangan Internasional - Niaga.Asia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 22:12:08 GMT",
-      "link": "https://www.niaga.asia/kemendag-perkuat-pemahaman-strategi-hadapi-hambatan-perdagangan-internasional/"
-    },
-    {
-      "title": "Menkop Bidik Karawang Jadi Percontohan Koperasi Beras Nasional, Dorong Petani Lebih Mandiri - kumparan.com - kumparan",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 20:00:00 GMT",
-      "link": "https://kumparan.com/kumparanbisnis/menkop-bidik-karawang-jadi-percontohan-koperasi-beras-nasional-dorong-petani-lebih-mandiri-28bsjWzfjNE"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 18:01:42 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261121/Mjc0NDQ0"
-    },
-    {
-      "title": "Wali Kota Helldy Diusulkan Menerima Penghargaan “Tokoh Penggerak Koperasi Utama - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 17:59:58 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Wali-Kota-Helldy-Diusulkan-Menerima-Penghargaan-%E2%80%9CTokoh-Penggerak-Koperasi-Utama/20261121/MTEyNg%3D%3D"
-    },
-    {
-      "title": "Koperasi Merah Putih Dinilai Hidupkan Tradisi Musyawarah Desa - MetroTVNews.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 16:45:35 GMT",
-      "link": "https://www.metrotvnews.com/read/KdZCP0nQ-koperasi-merah-putih-dinilai-hidupkan-tradisi-musyawarah-desa"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan meminta masukan terkait amandemen peraturan penetapan harga listrik untuk pusat data. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 15:52:10 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-lay-y-kien-sua-quy-dinh-gia-dien-cho-trung-tam-du-lieu"
-    },
-    {
-      "title": "Legislator: UU Satu Data Indonesia perkuat kedaulatan di ruang siber - ANTARA News",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 14:15:09 GMT",
-      "link": "https://www.antaranews.com/berita/5868427/legislator-uu-satu-data-indonesia-perkuat-kedaulatan-di-ruang-siber"
-    },
-    {
-      "title": "Menkop minta koperasi kuasai rantai pascapanen pertanian - ANTARA News Gorontalo",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 13:33:23 GMT",
-      "link": "https://gorontalo.antaranews.com/berita/437203/menkop-minta-koperasi-kuasai-rantai-pascapanen-pertanian"
-    },
-    {
-      "title": "Bersiap Tanda Tangani Kemitraan Ekonomi Komprehensif Indonesia-Uni Eropa, Menteri Perdagangan Bertolak ke Brussels - Media Nikel Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 13:12:15 GMT",
-      "link": "https://nikel.co.id/2026/11/20/bersiap-tanda-tangani-kemitraan-ekonomi-komprehensif-indonesia-uni-eropa-menteri-perdagangan-bertolak-ke-brussels/"
-    },
-    {
-      "title": "Kunjungi Demokrat Cilegon, Sekjen DPP Herman Khaeron Targetkan Lima Kursi DPRD - Selatsunda.com",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 12:43:46 GMT",
-      "link": "https://selatsunda.com/kunjungi-demokrat-cilegon-sekjen-dpp-herman-khaeron-targetkan-lima-kursi-dprd/"
-    },
-    {
-      "title": "Antisipasi Kecelakaan Nataru, Nurdin Halid Soroti Pengawasan Kendaraan Naik Kapal - DPR RI",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 12:37:12 GMT",
-      "link": "https://www.dpr.go.id/kegiatan-dpr/berita/Antisipasi-Kecelakaan-Nataru-Nurdin-Halid-Soroti-Pengawasan-Kendaraan-Naik-Kapal-70798"
-    },
-    {
-      "title": "Andre Rosiade: Kementerian PU Segera Bangun Jembatan Bailey di Sumpur Kudus - detikNews",
+      "title": "Andre Rosiade Siapkan 5.000 Paket Bantuan Sembako untuk Warga Dharmasraya - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Fri, 20 Nov 2026 11:12:39 GMT",
-      "link": "https://news.detik.com/berita/d-8762288/andre-rosiade-kementerian-pu-segera-bangun-jembatan-bailey-di-sumpur-kudus"
+      "published": "Sat, 21 Nov 2026 07:30:38 GMT",
+      "link": "https://news.detik.com/berita/d-8763258/andre-rosiade-siapkan-5-000-paket-bantuan-sembako-untuk-warga-dharmasraya"
     },
     {
-      "title": "Pemerintah Beri Insentif Pajak Restrukturisasi BUMN hingga 2029 - cwibc.co.id",
-      "entity": "Kementerian BUMN",
+      "title": "Rieke Diah Pitaloka Soroti Data Pembangunan, Siapa yang Terdata dan Terlayani? – Kalimantan Kita - kakinews.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 07:24:08 GMT",
+      "link": "https://kakinews.id/rieke-diah-pitaloka-soroti-data-pembangunan-siapa-yang-terdata-dan-terlayani/"
+    },
+    {
+      "title": "Pertamina Perluas Akses Energi Lewat Koperasi Desa - Demokratis.co.id",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 10:35:57 GMT",
-      "link": "https://cwibc.co.id/insentif-pajak-restrukturisasi-bumn"
+      "published": "Sat, 21 Nov 2026 07:18:31 GMT",
+      "link": "https://demokratis.co.id/pertamina-perluas-akses-energi-koperasi"
     },
     {
-      "title": "Pemerintah Beri Insentif Pajak Restrukturisasi BUMN hingga 2029 - cwibc.co.id",
+      "title": "Jurus Kemenekraf-Kemendag Dukung Brand Lokal Bali Menangkan Pasar - detikcom",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 07:16:58 GMT",
+      "link": "https://www.detik.com/bali/bisnis/d-8763247/jurus-kemenekraf-kemendag-dukung-brand-lokal-bali-menangkan-pasar"
+    },
+    {
+      "title": "Antrean Merak Pernah Tembus 12 Jam, Nurdin Halid Minta ASDP Benahi Layanan Nataru - Golkarpedia",
+      "entity": "Nurdin Halid",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 07:15:12 GMT",
+      "link": "https://golkarpedia.com/antrean-merak-pernah-tembus-12-jam-nurdin-halid-minta-asdp-benahi-layanan-nataru/"
+    },
+    {
+      "title": "Ratusan Truk Kopdes Menumpuk di Lahan Kosong Jakarta Utara, Wamenkop: Agrinas Lebih Tahu - tvberita.co.id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 06:37:18 GMT",
+      "link": "https://tvberita.co.id/news/nasional/ratusan-truk-kopdes-menumpuk-di-lahan-kosong-jakarta-utara-wamenkop-agrinas-lebih-tahu/"
+    },
+    {
+      "title": "Ahmad Labib di Lamongan: Nama Calon Wapres Dikirim Presiden ke MPR Hari Rabu - Afederasi",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 06:16:00 GMT",
+      "link": "https://afederasi.com/ahmad-labib-di-lamongan-nama-calon-wapres-dikirim-presiden-ke-mpr-hari-rabu"
+    },
+    {
+      "title": "Ahmad Labib Dorong Evaluasi KDKMP di Lamongan Sesuai Arahan Presiden - Afederasi",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 06:13:00 GMT",
+      "link": "https://afederasi.com/ahmad-labib-dorong-evaluasi-kdkmp-di-lamongan-sesuai-arahan-presiden"
+    },
+    {
+      "title": "Komisi VII Kaisar Dorong Pengawasan Produk Bersertifikat SNI Dilakukan Berkelanjutan - FPKB DPR RI",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 05:12:28 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/21/komisi-vii-kaisar-dorong-pengawasan-produk-bersertifikat-sni-dilakukan-berkelanjutan/"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan mendesak pelaksanaan Resolusi No. 70-NQ/TW dari Politbiro dan resolusi Pemerintah lainnya. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 04:34:26 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-don-doc-thuc-hien-nghi-quyet-so-70-nq-tw-cua-bo-chinh-tri-va-cac-nghi-quyet-cua-chinh-phu"
+    },
+    {
+      "title": "Menkop Ferry Raih Tokoh Pemberdayaan Koperasi Detikcom Awards 2026 - CNN Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 04:32:09 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261121111409-97-1429784/menkop-ferry-raih-tokoh-pemberdayaan-koperasi-detikcom-awards-2026"
+    },
+    {
+      "title": "PEMA Dorong Danantara Kaji Pengolahan Kondensat Andaman di Kilang Arun - KBA.ONE",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 04:00:51 GMT",
+      "link": "https://www.kba.one/news/pema-dorong-danantara-kaji-pengolahan-kondensat-andaman-di-kilang-arun/index.html"
+    },
+    {
+      "title": "Hegemoni Bank BUMN - Kompas.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 10:35:57 GMT",
-      "link": "https://cwibc.co.id/insentif-pajak-restrukturisasi-bumn"
+      "published": "Sat, 21 Nov 2026 04:00:51 GMT",
+      "link": "https://www.kompas.id/artikel/hegemoni-bank-bumn-2"
     },
     {
-      "title": "Pemerintah Beri Insentif Pajak untuk Restrukturisasi BUMN - Limapagi",
-      "entity": "Danantara",
+      "title": "Komite Partai Kementerian Perindustrian dan Perdagangan menerapkan Strategi Kerja Ideologis dalam konteks baru: Memprioritaskan 3 bidang terobosan. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 20 Nov 2026 10:27:49 GMT",
-      "link": "https://www.limapagi.id/insentif-pajak-restrukturisasi-bumn"
+      "published": "Sat, 21 Nov 2026 03:29:07 GMT",
+      "link": "https://www.vietnam.vn/id/dang-uy-bo-cong-thuong-trien-khai-chien-luoc-cong-tac-tu-tuong-trong-boi-canh-moi-uu-tien-3-khau-dot-pha"
+    },
+    {
+      "title": "Andre Rosiade Turun Tangan, Pemuda Kritis di Pasaman Barat Segera Dirujuk ke RSUP M Djamil Padang - kumparan.com - kumparan",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 03:02:00 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-turun-tangan-pemuda-kritis-di-pasaman-barat-segera-dirujuk-ke-rsup-m-djamil-padang-28cAV0qK9VN"
     }
   ]
 }
