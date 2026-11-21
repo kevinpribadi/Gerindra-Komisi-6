@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-21T07:58:01.669804",
+  "generated_at": "2026-11-21T15:59:13.005050",
   "party_counts_7d": {
-    "Gerindra": 21,
-    "PDI-P": 25,
-    "Golkar": 10,
-    "NasDem": 4,
-    "PKB": 20,
-    "PKS": 12,
+    "Gerindra": 23,
+    "PDI-P": 27,
+    "Golkar": 12,
+    "NasDem": 3,
+    "PKB": 22,
+    "PKS": 11,
     "PAN": 1,
     "Demokrat": 7
   },
   "party_counts_30d": {
     "Gerindra": 56,
     "PDI-P": 64,
-    "Golkar": 77,
+    "Golkar": 78,
     "NasDem": 13,
-    "PKB": 68,
+    "PKB": 69,
     "PKS": 35,
     "PAN": 12,
     "Demokrat": 23
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "umkm": 37,
+    "bumn": 56,
+    "umkm": 34,
     "danantara": 30,
-    "perdagangan": 16,
+    "perdagangan": 15,
     "impor": 7,
-    "ekspor": 10,
-    "koperasi": 55,
-    "investasi": 29,
+    "ekspor": 9,
+    "koperasi": 52,
+    "investasi": 30,
     "kartel-monopoli": 14,
     "ipo": 3,
     "merger-akuisisi": 1
@@ -62,10 +62,10 @@
     "Ida Nurlaela": 6,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 9,
-    "Nurdin Halid": 14,
+    "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 16,
-    "Ahmad Labib": 3,
-    "Sarifah Suraidah": 1,
+    "Ahmad Labib": 4,
+    "Sarifah Suraidah": 2,
     "Doni Akbar": 12,
     "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 19,
@@ -74,7 +74,7 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 10,
+    "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 15,
@@ -91,116 +91,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 89,
+    "Koperasi/UMKM": 83,
     "Perdagangan": 35,
     "Konflik Publik": 14,
-    "Hukum/Audit": 21
+    "Hukum/Audit": 22
   },
   "top_headlines": [
+    {
+      "title": "Indonesia dan Uni Eropa Teken IEU-CEPA, 90,4 Persen Tarif Nol - Limapagi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 15:17:29 GMT",
+      "link": "https://www.limapagi.id/indonesia-dan-uni-eropa-teken-ieu-cepa-904-persen-tarif-nol"
+    },
+    {
+      "title": "Indonesia dan Uni Eropa Teken Kesepakatan IEU CEPA - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 13:42:34 GMT",
+      "link": "https://demokratis.co.id/indonesia-dan-uni-eropa-teken-kesepakatan-ieu-cepa"
+    },
+    {
+      "title": "Indonesia dan Uni Eropa Teken IEU CEPA di Brussels - Peradaban.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 13:35:07 GMT",
+      "link": "https://peradaban.id/indonesia-uni-eropa-teken-ieu-cepa"
+    },
+    {
+      "title": "Bupati Annisa Puji Andre Rosiade: Peduli Dharmasraya-Bantu Gaet Bantuan Pusat - detikNews",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 12:50:20 GMT",
+      "link": "https://news.detik.com/berita/d-8763675/bupati-annisa-puji-andre-rosiade-peduli-dharmasraya-bantu-gaet-bantuan-pusat"
+    },
+    {
+      "title": "Beyond Borders Indonesia Hadirkan Rieke Diah Pitaloka Bahas Data dan Kebijakan Pembangunan - Mercinews.com",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 11:28:00 GMT",
+      "link": "https://www.mercinews.com/berita/beyond-borders-indonesia-hadirkan-rieke-diah-pitaloka-bahas-data-dan-kebijakan-pembangunan/"
+    },
+    {
+      "title": "KPPU Selidiki Dugaan Kongkalikong Tender Proyek Pedestrian Jogja, Enam Pihak Masuk Meja Persidangan - Bengkulutoday",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 11:25:19 GMT",
+      "link": "https://www.bengkulutoday.com/kppu-selidiki-dugaan-kongkalikong-tender-proyek-pedestrian-jogja-enam-pihak-masuk-meja-persidangan"
+    },
+    {
+      "title": "Rieke Diah Pitaloka dan Beyond Borders Indonesia Soroti Kesenjangan Data dan Realitas Pembangunan - Sudutpandang.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 11:06:54 GMT",
+      "link": "https://sudutpandang.id/rieke-diah-pitaloka-dan-beyond-borders-indonesia-soroti-kesenjangan-data-dan-realitas-pembangunan/"
+    },
+    {
+      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - Lampumerahnews.Id",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 10:54:00 GMT",
+      "link": "https://www.lampumerahnews.id/2026/11/sarasehan-dan-kopi-sore-dekopin-perkuat.html"
+    },
+    {
+      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - Lampumerahnews.Id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 10:54:00 GMT",
+      "link": "https://www.lampumerahnews.id/2026/11/sarasehan-dan-kopi-sore-dekopin-perkuat.html"
+    },
+    {
+      "title": "LPKSM LINKAR Perkuat Edukasi Konsumen melalui Media Informasi - SubangPost",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 10:41:36 GMT",
+      "link": "https://subangpost.com/lpksm-linkar-perkuat-edukasi-konsumen-melalui-media-informasi/"
+    },
+    {
+      "title": "Sarifah Suraidah Rampungkan Sarjana Hukum pada 2026 - www.suaralandak.co.id",
+      "entity": "Sarifah Suraidah",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 09:59:51 GMT",
+      "link": "https://www.suaralandak.co.id/sarifah-suraidah-sarjana-hukum"
+    },
+    {
+      "title": "Arus Logistik Pelabuhan Tanjung Perak Terkendala, Ketua Komisi VI DPR Minta Sinergi Lintas Instansi - Suara Investor",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 09:41:39 GMT",
+      "link": "https://www.suarainvestor.com/arus-logistik-pelabuhan-tanjung-perak-terkendala-ketua-komisi-vi-dpr-minta-sinergi-lintas-instansi/"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan akan mempelajari mekanisme untuk menghitung harga listrik untuk konsumsi rumah tangga berdasarkan jam. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 09:16:08 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-se-nghien-cuu-co-che-tinh-gia-dien-sinh-hoat-theo-gio"
+    },
+    {
+      "title": "Ahmad Labib Ungkap Tim Verifikasi Cawapres MPR Beranggotakan 40 Orang - iNews.ID",
+      "entity": "Ahmad Labib",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 07:34:00 GMT",
+      "link": "https://lamongan.inews.id/amp/731818/ahmad-labib-ungkap-tim-verifikasi-cawapres-mpr-beranggotakan-40-orang"
+    },
     {
       "title": "Andre Rosiade Siapkan 5.000 Paket Bantuan Sembako untuk Warga Dharmasraya - detikNews",
       "entity": "Andre Rosiade",
       "kind": "anggota",
       "published": "Sat, 21 Nov 2026 07:30:38 GMT",
       "link": "https://news.detik.com/berita/d-8763258/andre-rosiade-siapkan-5-000-paket-bantuan-sembako-untuk-warga-dharmasraya"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Soroti Data Pembangunan, Siapa yang Terdata dan Terlayani? – Kalimantan Kita - kakinews.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 07:24:08 GMT",
-      "link": "https://kakinews.id/rieke-diah-pitaloka-soroti-data-pembangunan-siapa-yang-terdata-dan-terlayani/"
-    },
-    {
-      "title": "Pertamina Perluas Akses Energi Lewat Koperasi Desa - Demokratis.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 07:18:31 GMT",
-      "link": "https://demokratis.co.id/pertamina-perluas-akses-energi-koperasi"
-    },
-    {
-      "title": "Jurus Kemenekraf-Kemendag Dukung Brand Lokal Bali Menangkan Pasar - detikcom",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 07:16:58 GMT",
-      "link": "https://www.detik.com/bali/bisnis/d-8763247/jurus-kemenekraf-kemendag-dukung-brand-lokal-bali-menangkan-pasar"
-    },
-    {
-      "title": "Antrean Merak Pernah Tembus 12 Jam, Nurdin Halid Minta ASDP Benahi Layanan Nataru - Golkarpedia",
-      "entity": "Nurdin Halid",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 07:15:12 GMT",
-      "link": "https://golkarpedia.com/antrean-merak-pernah-tembus-12-jam-nurdin-halid-minta-asdp-benahi-layanan-nataru/"
-    },
-    {
-      "title": "Ratusan Truk Kopdes Menumpuk di Lahan Kosong Jakarta Utara, Wamenkop: Agrinas Lebih Tahu - tvberita.co.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 06:37:18 GMT",
-      "link": "https://tvberita.co.id/news/nasional/ratusan-truk-kopdes-menumpuk-di-lahan-kosong-jakarta-utara-wamenkop-agrinas-lebih-tahu/"
-    },
-    {
-      "title": "Ahmad Labib di Lamongan: Nama Calon Wapres Dikirim Presiden ke MPR Hari Rabu - Afederasi",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 06:16:00 GMT",
-      "link": "https://afederasi.com/ahmad-labib-di-lamongan-nama-calon-wapres-dikirim-presiden-ke-mpr-hari-rabu"
-    },
-    {
-      "title": "Ahmad Labib Dorong Evaluasi KDKMP di Lamongan Sesuai Arahan Presiden - Afederasi",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 06:13:00 GMT",
-      "link": "https://afederasi.com/ahmad-labib-dorong-evaluasi-kdkmp-di-lamongan-sesuai-arahan-presiden"
-    },
-    {
-      "title": "Komisi VII Kaisar Dorong Pengawasan Produk Bersertifikat SNI Dilakukan Berkelanjutan - FPKB DPR RI",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 05:12:28 GMT",
-      "link": "https://www.fraksipkb.com/2026/11/21/komisi-vii-kaisar-dorong-pengawasan-produk-bersertifikat-sni-dilakukan-berkelanjutan/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan mendesak pelaksanaan Resolusi No. 70-NQ/TW dari Politbiro dan resolusi Pemerintah lainnya. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 04:34:26 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-don-doc-thuc-hien-nghi-quyet-so-70-nq-tw-cua-bo-chinh-tri-va-cac-nghi-quyet-cua-chinh-phu"
-    },
-    {
-      "title": "Menkop Ferry Raih Tokoh Pemberdayaan Koperasi Detikcom Awards 2026 - CNN Indonesia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 04:32:09 GMT",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261121111409-97-1429784/menkop-ferry-raih-tokoh-pemberdayaan-koperasi-detikcom-awards-2026"
-    },
-    {
-      "title": "PEMA Dorong Danantara Kaji Pengolahan Kondensat Andaman di Kilang Arun - KBA.ONE",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 04:00:51 GMT",
-      "link": "https://www.kba.one/news/pema-dorong-danantara-kaji-pengolahan-kondensat-andaman-di-kilang-arun/index.html"
-    },
-    {
-      "title": "Hegemoni Bank BUMN - Kompas.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 04:00:51 GMT",
-      "link": "https://www.kompas.id/artikel/hegemoni-bank-bumn-2"
-    },
-    {
-      "title": "Komite Partai Kementerian Perindustrian dan Perdagangan menerapkan Strategi Kerja Ideologis dalam konteks baru: Memprioritaskan 3 bidang terobosan. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 03:29:07 GMT",
-      "link": "https://www.vietnam.vn/id/dang-uy-bo-cong-thuong-trien-khai-chien-luoc-cong-tac-tu-tuong-trong-boi-canh-moi-uu-tien-3-khau-dot-pha"
-    },
-    {
-      "title": "Andre Rosiade Turun Tangan, Pemuda Kritis di Pasaman Barat Segera Dirujuk ke RSUP M Djamil Padang - kumparan.com - kumparan",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 03:02:00 GMT",
-      "link": "https://kumparan.com/kumparannews/andre-rosiade-turun-tangan-pemuda-kritis-di-pasaman-barat-segera-dirujuk-ke-rsup-m-djamil-padang-28cAV0qK9VN"
     }
   ]
 }
