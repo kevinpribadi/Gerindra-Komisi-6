@@ -1,12 +1,12 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-21T15:59:13.005050",
+  "generated_at": "2026-11-21T21:34:12.437858",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 27,
     "Golkar": 12,
     "NasDem": 3,
-    "PKB": 22,
+    "PKB": 23,
     "PKS": 11,
     "PAN": 1,
     "Demokrat": 7
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 56,
-    "umkm": 34,
+    "umkm": 35,
     "danantara": 30,
     "perdagangan": 15,
-    "impor": 7,
-    "ekspor": 9,
-    "koperasi": 52,
+    "ekspor": 10,
+    "impor": 6,
+    "koperasi": 53,
     "investasi": 30,
     "kartel-monopoli": 14,
     "ipo": 3,
@@ -91,18 +91,39 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 83,
-    "Perdagangan": 35,
+    "Koperasi/UMKM": 85,
+    "Perdagangan": 37,
     "Konflik Publik": 14,
     "Hukum/Audit": 22
   },
   "top_headlines": [
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 17:15:36 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261122/Mjc0NDQ0"
+    },
+    {
+      "title": "MIO Indonesia Gelar Rakernas lll, Bahas Masa Depan Industri Media dan Profesionalisme Jurnalistik - Media Budaya Indonesia",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 17:13:00 GMT",
+      "link": "https://mediabudayaindonesia.com/news/show/2111202642-mio-indonesia-gelar-rakernas-lll-bahas-masa-depan-industri-media-dan-profesionalisme-jurnalistik"
+    },
     {
       "title": "Indonesia dan Uni Eropa Teken IEU-CEPA, 90,4 Persen Tarif Nol - Limapagi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
       "published": "Sat, 21 Nov 2026 15:17:29 GMT",
       "link": "https://www.limapagi.id/indonesia-dan-uni-eropa-teken-ieu-cepa-904-persen-tarif-nol"
+    },
+    {
+      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - bintang broadcast media",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 15:12:46 GMT",
+      "link": "https://bintangbroadcastmedia.com/2026/11/21/sarasehan-dan-kopi-sore-dekopin-perkuat-jaringan-usaha-koperasi-sektor-pariwisata/"
     },
     {
       "title": "Indonesia dan Uni Eropa Teken Kesepakatan IEU CEPA - Demokratis.co.id",
@@ -140,6 +161,13 @@
       "link": "https://www.bengkulutoday.com/kppu-selidiki-dugaan-kongkalikong-tender-proyek-pedestrian-jogja-enam-pihak-masuk-meja-persidangan"
     },
     {
+      "title": "Ekspor Makanan Olahan RI Tembus USD4,49 Miliar, Kemendag Ungkap Peluang Besar bagi UMKM - InfoPublik",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 11:07:00 GMT",
+      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/998330/ekspor-makanan-olahan-ri-tembus-usd449-miliar-kemendag-ungkap-peluang-besar-bagi-umkm"
+    },
+    {
       "title": "Rieke Diah Pitaloka dan Beyond Borders Indonesia Soroti Kesenjangan Data dan Realitas Pembangunan - Sudutpandang.id",
       "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
@@ -173,34 +201,6 @@
       "kind": "anggota",
       "published": "Sat, 21 Nov 2026 09:59:51 GMT",
       "link": "https://www.suaralandak.co.id/sarifah-suraidah-sarjana-hukum"
-    },
-    {
-      "title": "Arus Logistik Pelabuhan Tanjung Perak Terkendala, Ketua Komisi VI DPR Minta Sinergi Lintas Instansi - Suara Investor",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 09:41:39 GMT",
-      "link": "https://www.suarainvestor.com/arus-logistik-pelabuhan-tanjung-perak-terkendala-ketua-komisi-vi-dpr-minta-sinergi-lintas-instansi/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan akan mempelajari mekanisme untuk menghitung harga listrik untuk konsumsi rumah tangga berdasarkan jam. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 09:16:08 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-se-nghien-cuu-co-che-tinh-gia-dien-sinh-hoat-theo-gio"
-    },
-    {
-      "title": "Ahmad Labib Ungkap Tim Verifikasi Cawapres MPR Beranggotakan 40 Orang - iNews.ID",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 07:34:00 GMT",
-      "link": "https://lamongan.inews.id/amp/731818/ahmad-labib-ungkap-tim-verifikasi-cawapres-mpr-beranggotakan-40-orang"
-    },
-    {
-      "title": "Andre Rosiade Siapkan 5.000 Paket Bantuan Sembako untuk Warga Dharmasraya - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 07:30:38 GMT",
-      "link": "https://news.detik.com/berita/d-8763258/andre-rosiade-siapkan-5-000-paket-bantuan-sembako-untuk-warga-dharmasraya"
     }
   ]
 }
