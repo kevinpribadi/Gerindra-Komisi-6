@@ -1,12 +1,12 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-21T21:34:12.437858",
+  "generated_at": "2026-11-22T01:53:49.359814",
   "party_counts_7d": {
     "Gerindra": 23,
     "PDI-P": 27,
     "Golkar": 12,
     "NasDem": 3,
-    "PKB": 23,
+    "PKB": 24,
     "PKS": 11,
     "PAN": 1,
     "Demokrat": 7
@@ -16,7 +16,7 @@
     "PDI-P": 64,
     "Golkar": 78,
     "NasDem": 13,
-    "PKB": 69,
+    "PKB": 70,
     "PKS": 35,
     "PAN": 12,
     "Demokrat": 23
@@ -40,7 +40,7 @@
     "perdagangan": 15,
     "ekspor": 10,
     "impor": 6,
-    "koperasi": 53,
+    "koperasi": 52,
     "investasi": 30,
     "kartel-monopoli": 14,
     "ipo": 3,
@@ -74,7 +74,7 @@
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 11,
+    "Anggia Erma Rini": 12,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 15,
@@ -91,12 +91,33 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 85,
+    "Koperasi/UMKM": 84,
     "Perdagangan": 37,
     "Konflik Publik": 14,
     "Hukum/Audit": 22
   },
   "top_headlines": [
+    {
+      "title": "Pengamat Sebut Pemilik Saham Minoritas Tak Punya Pengaruh dalam Operasional Sekuritas - Infobanknews",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 01:01:00 GMT",
+      "link": "https://infobanknews.com/pengamat-sebut-pemilik-saham-minoritas-tak-punya-pengaruh-dalam-operasional-sekuritas"
+    },
+    {
+      "title": "DPR RI Fasilitasi Penyelesaian Sengketa, 64 Pekerja Krakatau Steel Kembali Bekerja - RiauAktual.com",
+      "entity": "Anggia Erma Rini",
+      "kind": "anggota",
+      "published": "Sat, 21 Nov 2026 23:22:12 GMT",
+      "link": "https://riauaktual.com/news/detail/124575/dpr-ri-fasilitasi-penyelesaian-sengketa-64-pekerja-krakatau-steel-kembali-bekerja"
+    },
+    {
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 21 Nov 2026 17:56:55 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261122/Mjk5MTUy"
+    },
     {
       "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
       "entity": "Dekopin",
@@ -180,27 +201,6 @@
       "kind": "lembaga",
       "published": "Sat, 21 Nov 2026 10:54:00 GMT",
       "link": "https://www.lampumerahnews.id/2026/11/sarasehan-dan-kopi-sore-dekopin-perkuat.html"
-    },
-    {
-      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - Lampumerahnews.Id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 10:54:00 GMT",
-      "link": "https://www.lampumerahnews.id/2026/11/sarasehan-dan-kopi-sore-dekopin-perkuat.html"
-    },
-    {
-      "title": "LPKSM LINKAR Perkuat Edukasi Konsumen melalui Media Informasi - SubangPost",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 10:41:36 GMT",
-      "link": "https://subangpost.com/lpksm-linkar-perkuat-edukasi-konsumen-melalui-media-informasi/"
-    },
-    {
-      "title": "Sarifah Suraidah Rampungkan Sarjana Hukum pada 2026 - www.suaralandak.co.id",
-      "entity": "Sarifah Suraidah",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 09:59:51 GMT",
-      "link": "https://www.suaralandak.co.id/sarifah-suraidah-sarjana-hukum"
     }
   ]
 }
