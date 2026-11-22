@@ -1,20 +1,20 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-22T09:20:20.649755",
+  "generated_at": "2026-11-22T17:36:26.923068",
   "party_counts_7d": {
     "Gerindra": 20,
     "PDI-P": 28,
     "Golkar": 13,
     "NasDem": 3,
-    "PKB": 22,
-    "PKS": 12,
+    "PKB": 20,
+    "PKS": 10,
     "PAN": 1,
-    "Demokrat": 7
+    "Demokrat": 6
   },
   "party_counts_30d": {
     "Gerindra": 56,
-    "PDI-P": 64,
-    "Golkar": 76,
+    "PDI-P": 65,
+    "Golkar": 72,
     "NasDem": 13,
     "PKB": 70,
     "PKS": 35,
@@ -35,12 +35,12 @@
   },
   "topic_counts_30d": {
     "bumn": 58,
-    "umkm": 33,
+    "umkm": 36,
     "danantara": 27,
-    "perdagangan": 16,
-    "ekspor": 9,
     "impor": 6,
-    "koperasi": 52,
+    "ekspor": 10,
+    "perdagangan": 16,
+    "koperasi": 53,
     "investasi": 30,
     "kartel-monopoli": 14,
     "ipo": 3,
@@ -59,26 +59,26 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 10,
-    "Ida Nurlaela": 6,
+    "Ida Nurlaela": 7,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 9,
     "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 9,
+    "Doni Akbar": 6,
     "Firnando Hadityo Ganinduto": 8,
-    "Rizki Faisal": 19,
+    "Rizki Faisal": 18,
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 12,
+    "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 15,
-    "Imas Aan Ubudiah": 3,
+    "Imas Aan Ubudiah": 4,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 5,
@@ -91,116 +91,116 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 82,
-    "Perdagangan": 39,
+    "Koperasi/UMKM": 86,
+    "Perdagangan": 45,
     "Konflik Publik": 13,
-    "Hukum/Audit": 19
+    "Hukum/Audit": 17
   },
   "top_headlines": [
+    {
+      "title": "Menteri PKP Tegaskan Pentingnya Perlindungan Konsumen di Sektor Perumahan - pasardana.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 17:27:00 GMT",
+      "link": "https://pasardana.id/news/2026/11/23/menteri-pkp-tegaskan-pentingnya-perlindungan-konsumen-di-sektor-perumahan"
+    },
+    {
+      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - Nusantara Abadi News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 16:05:03 GMT",
+      "link": "https://nusantaraabadinews.com/2026/11/22/sarasehan-dan-kopi-sore-dekopin-perkuat-jaringan-usaha-koperasi-sektor-pariwisata/"
+    },
+    {
+      "title": "Kemenkop Melalui Dinas Koperasi Maluku Gelar Pelatihan Sertifikasi Kompetensi Bendahara KDKMP - saburomedia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 15:15:31 GMT",
+      "link": "https://www.saburomedia.com/2026/11/22/kemenkop-melalui-dinas-koperasi-maluku-gelar-pelatihan-sertifikasi-kompetensi-bendahara-kdkmp/"
+    },
+    {
+      "title": "Ketum DPP ABPEDNAS Indra Utama Raih Penghargaan Tokoh Inspiratif, M. Arham: Kami Bangga dan Termotivasi - tinta nusantara",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 13:49:38 GMT",
+      "link": "https://tintanusantara.co.id/ketum-dpp-abpednas-indra-utama-raih-penghargaan-tokoh-inspiratif-m-arham-kami-bangga-dan-termotivasi/"
+    },
+    {
+      "title": "Komitmen Pertanian Berkelanjutan, BOS Raih Penghargaan Nasional ICC 100 Brands Award 2026 dari BPKN RI dan Kadin Indonesia - atnews.id",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 13:34:07 GMT",
+      "link": "https://atnews.id/portal/news/35826/"
+    },
+    {
+      "title": "Totok Hedi Minta Perhutani Perkuat Perdagangan Karbon, Jaga Kelestarian Hutan - gesuri.id",
+      "entity": "Totok Hedi Santosa",
+      "kind": "anggota",
+      "published": "Sun, 22 Nov 2026 13:05:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/totok-hedi-minta-perhutani-perkuat-perdagangan-karbon-jaga-kelestarian-hutan-b2qe7ZbjCh"
+    },
+    {
+      "title": "Jangan Sampai Petani Kesulitan Pupuk, Imas Aan Ubudiah Soroti Penyaluran Subsidi di Tasikmalaya - Fokus Jabar",
+      "entity": "Imas Aan Ubudiah",
+      "kind": "anggota",
+      "published": "Sun, 22 Nov 2026 12:32:53 GMT",
+      "link": "https://fokusjabar.id/2026/11/22/jangan-sampai-petani-kesulitan-pupuk-imas-aan-ubudiah-soroti-penyaluran-subsidi-di-tasikmalaya/"
+    },
+    {
+      "title": "Pemerintah Perketat Impor Kedelai Mulai Januari 2027 - Peradaban.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 12:07:01 GMT",
+      "link": "https://peradaban.id/pemerintah-perketat-impor-kedelai"
+    },
+    {
+      "title": "Menkop dorong Kopdes Kuasai Panen Beras, Beli Mesin Padi - Bloomberg Technoz",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 12:00:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/128513/menkop-dorong-kopdes-kuasai-panen-beras-beli-mesin-padi"
+    },
+    {
+      "title": "Dorong Penguatan Daya Saing UMKM, Bupati Gianyar Terima Penghargaan dari BPKN - detikcom",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 11:50:13 GMT",
+      "link": "https://www.detik.com/bali/berita/d-8764740/dorong-penguatan-daya-saing-umkm-bupati-gianyar-terima-penghargaan-dari-bpkn"
+    },
+    {
+      "title": "Bupati Gianyar terima penghargaan kepala daerah penggerak ekonomi dan UMKM - ANTARA News Bali",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 11:14:39 GMT",
+      "link": "https://bali.antaranews.com/berita/419651/bupati-gianyar-terima-penghargaan-kepala-daerah-penggerak-ekonomi-dan-umkm"
+    },
+    {
+      "title": "Indra Utama Raih Tokoh Inspiratif BPKN-KADIN - Manado Zone",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 10:35:02 GMT",
+      "link": "https://manadozone.com/2026/11/22/indra-utama-raih-tokoh-inspiratif-bpkn-kadin/"
+    },
+    {
+      "title": "Pemuda Diajak Ikut Mengenal dan Mengawal Keterbukaan Koperasi Desa/Kelurahaan Merah Putih - TEROPONGSENAYAN.com",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 10:33:08 GMT",
+      "link": "https://www.teropongsenayan.com/138649-pemuda-diajak-ikut-mengenal-dan-mengawal-keterbukaan-koperasi-desakelurahaan-merah-putih"
+    },
+    {
+      "title": "Rieke Diah Pitaloka Dorong Pembenahan Data Nasional agar Kebijakan Pembangunan Tepat Sasaran - gesuri.id",
+      "entity": "Rieke Diah Pitaloka",
+      "kind": "anggota",
+      "published": "Sun, 22 Nov 2026 10:00:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dorong-pembenahan-data-nasional-agar-kebijakan-pembangunan-tepat-sasaran-b2qe7ZbjBY"
+    },
     {
       "title": "Anggota DPR Totok Hedi dorong Perum Perhutani jadikan perdagangan karbon menjadi fokus utama - ANTARA News Yogyakarta",
       "entity": "Totok Hedi Santosa",
       "kind": "anggota",
       "published": "Sun, 22 Nov 2026 08:57:35 GMT",
       "link": "https://jogja.antaranews.com/berita/869895/anggota-dpr-totok-hedi-dorong-perum-perhutani-jadikan-perdagangan-karbon-menjadi-fokus-utama"
-    },
-    {
-      "title": "Menteri PKP Gandeng BPKN, Perkuat Perlindungan Konsumen Perumahan - Indonesia Housing",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 08:18:57 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd21GZ2pKV0xGRnY3RHNqbUdGS0tvZ3JZdjlsVTBtU3BOcnd6MEp6RWhxanQ4MXVqU24zdDdFZW5wUVAyX21tc3JzUWM2ZVgtak5jR2RNS3NqczRCUVZ1SWMxOEdJajRwSnVVWnRnUGRjZHRQd2xZckhlckZhNW5vV3ZqOHpmUVAxYmxHcnFvbDVMZm9md09SNQ?oc=5"
-    },
-    {
-      "title": "Indra Utama Boyong Penghargaan ICC100 Brands Awards 2026 Sebagai Tokoh Inspiratif Perlindungan Konsumen - RealEstat.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 08:08:32 GMT",
-      "link": "https://realestat.id/indra-utama-boyong-penghargaan-icc100-brands-awards-2026/"
-    },
-    {
-      "title": "Prabowo Bakal Kirim Nama Calon Wapres ke MPR Rabu Depan - Batamtoday.com",
-      "entity": "Ahmad Labib",
-      "kind": "anggota",
-      "published": "Sun, 22 Nov 2026 07:30:09 GMT",
-      "link": "https://batamtoday.com/news/prabowo-bakal-kirim-nama-calon-wapres-ke-mpr-rabu-depan"
-    },
-    {
-      "title": "DPR Pertanyakan Rencana Badan Baru Pengelola Dana Pesangon, Edy Wuryanto: Jangan Habis untuk Birokrasi - Aktual.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 07:00:47 GMT",
-      "link": "https://aktual.com/dpr-pertanyakan-rencana-badan-baru-pengelola-dana-pesangon-edy-wuryanto-jangan-habis-untuk-birokrasi/"
-    },
-    {
-      "title": "Dedie Rachim Raih Penghargaan Tokoh Penggerak Pelayanan Publik Inklusif dan Transparan - Suara Indonesia News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 06:40:09 GMT",
-      "link": "https://suaraindonesia-news.com/dedie-rachim-raih-penghargaan-tokoh-penggerak-pelayanan-publik-inklusif-dan-transparan/"
-    },
-    {
-      "title": "Kementerian PKP dan BPKN Tingkatkan Perlindungan Konsumen Perumahan, Dorong Lahirnya Asosiasi Penghuni - RealEstat.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 06:33:27 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVpwNlBmTC1mbEI2allnYXhsWUFGcEtuS01BMTBKVHl2WENIUTJFN1lEcHo5SHpGY1RSTWp5WkNxZU5OVUtvR1FwVkJvM3lIalo1R0tQQ0QzbkJtZjc1cl80Y2Z0TUdpWTZrS3FkX25IXzlxdWs4U3VOZzVYb2V1WmlJeXA2d25Nc09SY01B?oc=5"
-    },
-    {
-      "title": "Indonesia dan Uni Eropa Teken Kesepakatan IEU CEPA di Brussels - cwibc.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 04:33:04 GMT",
-      "link": "https://cwibc.co.id/indonesia-dan-uni-eropa-teken-kesepakatan-ieu-cepa-di-brussels"
-    },
-    {
-      "title": "BP Tapera menerima penghargaan sebagai Lembaga Inovasi Layanan - ANTARA News",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 02:43:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1GLU5Bb0h0MVZIRWJJTTdkRklkTkFPQWtaOEpXc0xCeXZuX0dySkY4ZjAzbnpzOW9sN3EtckZQcFYyT1laV1VWWDVaUWluemNhWjZPak5mU0c4SEQySnlxVFdfVG9ldTNabVZJS21ZWks2VmJ6QXdKdlZRMUxxUkF5VjlFNnM1M25RTG4yWG9Eb0RJNVh3ZUNveUlxclJnWS1KVmNxRdIBqgFBVV95cUxQZUk2OFg5VUFlbzZZNlhrOElBSy1aOGQ1Nm1GRWtNRDFXckNRa1l5TFF4bXhiSWZVX29qc202ZUhZTXV3cTNtSmc0ZGNheFNNSFp4VndkcU04d2F1SmRXSkxmek1kZTB6VkpZYXhVcjBJbUo2S1NLeUhrR3BOdmlTODhhNlA5YWhDMG5Kbm05QVd0NVdSVU9xLVR2WFQ4TnhfeURKRXJqRUR0UQ?oc=5"
-    },
-    {
-      "title": "Musfi Yendra: Komitmen dan Budaya Transparansi BUMN - Harian Singgalang",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 01:52:00 GMT",
-      "link": "https://www.hariansinggalang.co.id/opini/3054/komitmen-dan-budaya-transparansi-bumn"
-    },
-    {
-      "title": "Pengamat Sebut Pemilik Saham Minoritas Tak Punya Pengaruh dalam Operasional Sekuritas - Infobanknews",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 01:01:00 GMT",
-      "link": "https://infobanknews.com/pengamat-sebut-pemilik-saham-minoritas-tak-punya-pengaruh-dalam-operasional-sekuritas"
-    },
-    {
-      "title": "LSP AREA Indonesia Raih ICC100 Award, Perkuat Profesionalisme dan Perlindungan Konsumen Properti - Indonesia Housing",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 00:56:51 GMT",
-      "link": "https://indonesiahousing.id/lsp-area-indonesia-raih-icc100-award-perkuat-profesionalisme-dan-perlindungan-konsumen-properti/"
-    },
-    {
-      "title": "DPR RI Fasilitasi Penyelesaian Sengketa, 64 Pekerja Krakatau Steel Kembali Bekerja - RiauAktual.com",
-      "entity": "Anggia Erma Rini",
-      "kind": "anggota",
-      "published": "Sat, 21 Nov 2026 23:22:12 GMT",
-      "link": "https://riauaktual.com/news/detail/124575/dpr-ri-fasilitasi-penyelesaian-sengketa-64-pekerja-krakatau-steel-kembali-bekerja"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 17:56:55 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261122/Mjk5MTUy"
-    },
-    {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Sat, 21 Nov 2026 17:15:36 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261122/Mjc0NDQ0"
     }
   ]
 }
