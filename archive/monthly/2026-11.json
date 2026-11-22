@@ -1,12 +1,12 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-22T17:36:26.923068",
+  "generated_at": "2026-11-22T23:13:10.891672",
   "party_counts_7d": {
     "Gerindra": 20,
-    "PDI-P": 28,
+    "PDI-P": 29,
     "Golkar": 13,
     "NasDem": 3,
-    "PKB": 20,
+    "PKB": 19,
     "PKS": 10,
     "PAN": 1,
     "Demokrat": 6
@@ -35,13 +35,13 @@
   },
   "topic_counts_30d": {
     "bumn": 58,
-    "umkm": 36,
-    "danantara": 27,
-    "impor": 6,
-    "ekspor": 10,
-    "perdagangan": 16,
+    "umkm": 35,
+    "danantara": 26,
+    "perdagangan": 17,
+    "impor": 7,
+    "ekspor": 9,
     "koperasi": 53,
-    "investasi": 30,
+    "investasi": 31,
     "kartel-monopoli": 14,
     "ipo": 3,
     "merger-akuisisi": 1
@@ -91,12 +91,26 @@
   },
   "early_warning_counts": {
     "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 86,
+    "Koperasi/UMKM": 85,
     "Perdagangan": 45,
-    "Konflik Publik": 13,
-    "Hukum/Audit": 17
+    "Konflik Publik": 14,
+    "Hukum/Audit": 16
   },
   "top_headlines": [
+    {
+      "title": "Transformasi Layanan Penyeberangan ASDP Raih Enam Apresiasi Perlindungan Konsumen - AKSI KATA",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 22:15:12 GMT",
+      "link": "https://www.aksikata.com/2026/11/23/transformasi-layanan-penyeberangan-asdp-raih-enam-apresiasi-perlindungan-konsumen/"
+    },
+    {
+      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 17:47:08 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261123/Mjc0NDQ0"
+    },
     {
       "title": "Menteri PKP Tegaskan Pentingnya Perlindungan Konsumen di Sektor Perumahan - pasardana.id",
       "entity": "BPKN",
@@ -117,6 +131,13 @@
       "kind": "lembaga",
       "published": "Sun, 22 Nov 2026 15:15:31 GMT",
       "link": "https://www.saburomedia.com/2026/11/22/kemenkop-melalui-dinas-koperasi-maluku-gelar-pelatihan-sertifikasi-kompetensi-bendahara-kdkmp/"
+    },
+    {
+      "title": "Pemimpin Sunwah: Kementerian Perindustrian dan Perdagangan berperan sebagai penghubung antara bisnis Vietnam dan Tiongkok. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 14:38:46 GMT",
+      "link": "https://www.vietnam.vn/id/lanh-dao-sunwah-bo-cong-thuong-dong-vai-tro-ket-noi-doanh-nghiep-viet-nam-trung-quoc"
     },
     {
       "title": "Ketum DPP ABPEDNAS Indra Utama Raih Penghargaan Tokoh Inspiratif, M. Arham: Kami Bangga dan Termotivasi - tinta nusantara",
@@ -147,6 +168,13 @@
       "link": "https://fokusjabar.id/2026/11/22/jangan-sampai-petani-kesulitan-pupuk-imas-aan-ubudiah-soroti-penyaluran-subsidi-di-tasikmalaya/"
     },
     {
+      "title": "Pemerintah Perketat Impor Kedelai Mulai Januari 2027 - Demokratis.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sun, 22 Nov 2026 12:07:26 GMT",
+      "link": "https://demokratis.co.id/pemerintah-perketat-impor-kedelai"
+    },
+    {
       "title": "Pemerintah Perketat Impor Kedelai Mulai Januari 2027 - Peradaban.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
@@ -173,34 +201,6 @@
       "kind": "lembaga",
       "published": "Sun, 22 Nov 2026 11:14:39 GMT",
       "link": "https://bali.antaranews.com/berita/419651/bupati-gianyar-terima-penghargaan-kepala-daerah-penggerak-ekonomi-dan-umkm"
-    },
-    {
-      "title": "Indra Utama Raih Tokoh Inspiratif BPKN-KADIN - Manado Zone",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 10:35:02 GMT",
-      "link": "https://manadozone.com/2026/11/22/indra-utama-raih-tokoh-inspiratif-bpkn-kadin/"
-    },
-    {
-      "title": "Pemuda Diajak Ikut Mengenal dan Mengawal Keterbukaan Koperasi Desa/Kelurahaan Merah Putih - TEROPONGSENAYAN.com",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 10:33:08 GMT",
-      "link": "https://www.teropongsenayan.com/138649-pemuda-diajak-ikut-mengenal-dan-mengawal-keterbukaan-koperasi-desakelurahaan-merah-putih"
-    },
-    {
-      "title": "Rieke Diah Pitaloka Dorong Pembenahan Data Nasional agar Kebijakan Pembangunan Tepat Sasaran - gesuri.id",
-      "entity": "Rieke Diah Pitaloka",
-      "kind": "anggota",
-      "published": "Sun, 22 Nov 2026 10:00:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/rieke-diah-pitaloka-dorong-pembenahan-data-nasional-agar-kebijakan-pembangunan-tepat-sasaran-b2qe7ZbjBY"
-    },
-    {
-      "title": "Anggota DPR Totok Hedi dorong Perum Perhutani jadikan perdagangan karbon menjadi fokus utama - ANTARA News Yogyakarta",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Sun, 22 Nov 2026 08:57:35 GMT",
-      "link": "https://jogja.antaranews.com/berita/869895/anggota-dpr-totok-hedi-dorong-perum-perhutani-jadikan-perdagangan-karbon-menjadi-fokus-utama"
     }
   ]
 }
