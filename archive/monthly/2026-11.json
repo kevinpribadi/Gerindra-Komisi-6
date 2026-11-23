@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-22T23:13:10.891672",
+  "generated_at": "2026-11-23T05:43:43.466922",
   "party_counts_7d": {
-    "Gerindra": 20,
-    "PDI-P": 29,
+    "Gerindra": 21,
+    "PDI-P": 30,
     "Golkar": 13,
     "NasDem": 3,
-    "PKB": 19,
+    "PKB": 23,
     "PKS": 10,
     "PAN": 1,
-    "Demokrat": 6
+    "Demokrat": 4
   },
   "party_counts_30d": {
-    "Gerindra": 56,
-    "PDI-P": 65,
+    "Gerindra": 57,
+    "PDI-P": 67,
     "Golkar": 72,
     "NasDem": 13,
-    "PKB": 70,
+    "PKB": 72,
     "PKS": 35,
     "PAN": 12,
-    "Demokrat": 23
+    "Demokrat": 22
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 58,
-    "umkm": 35,
-    "danantara": 26,
-    "perdagangan": 17,
-    "impor": 7,
+    "bumn": 57,
+    "umkm": 37,
+    "perdagangan": 15,
     "ekspor": 9,
+    "impor": 5,
     "koperasi": 53,
-    "investasi": 31,
+    "danantara": 20,
+    "investasi": 32,
     "kartel-monopoli": 14,
-    "ipo": 3,
+    "ipo": 1,
     "merger-akuisisi": 1
   },
   "member_counts_30d": {
@@ -51,34 +51,34 @@
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 11,
+    "Kawendra Lukistian": 12,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 7,
     "Mufti Anam": 1,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 10,
+    "Sadarestuwati": 11,
     "Ida Nurlaela": 7,
     "Budi Sulistyono": 3,
-    "Totok Hedi Santosa": 9,
+    "Totok Hedi Santosa": 10,
     "Nurdin Halid": 13,
     "Gde Sumarjaya Linggih": 16,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
-    "Doni Akbar": 6,
-    "Firnando Hadityo Ganinduto": 8,
+    "Doni Akbar": 5,
+    "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 18,
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 3,
     "Rudi Hartono Bangun": 5,
-    "Anggia Erma Rini": 11,
+    "Anggia Erma Rini": 12,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 15,
-    "Imas Aan Ubudiah": 4,
+    "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
     "Ghufran": 5,
@@ -87,120 +87,120 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
     "Sartono": 7,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 85,
-    "Perdagangan": 45,
-    "Konflik Publik": 14,
-    "Hukum/Audit": 16
+    "Kinerja BUMN": 33,
+    "Koperasi/UMKM": 87,
+    "Perdagangan": 47,
+    "Konflik Publik": 13,
+    "Hukum/Audit": 15
   },
   "top_headlines": [
     {
-      "title": "Transformasi Layanan Penyeberangan ASDP Raih Enam Apresiasi Perlindungan Konsumen - AKSI KATA",
-      "entity": "BPKN",
+      "title": "Pemerintah Klaim Perampingan BUMN Tak Bakal Picu PHK Massal - Bisnis.com - Ekonomi",
+      "entity": "Kementerian BUMN",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 22:15:12 GMT",
-      "link": "https://www.aksikata.com/2026/11/23/transformasi-layanan-penyeberangan-asdp-raih-enam-apresiasi-perlindungan-konsumen/"
+      "published": "Mon, 23 Nov 2026 05:13:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023603/pemerintah-klaim-perampingan-bumn-tak-bakal-picu-phk-massal"
     },
     {
-      "title": "Dukung Program Presiden Prabowo, Kelurahan Ciwaduk Gelar Muskel Pembentukan Koperasi Merah Putih - Berita Cilegon",
-      "entity": "Dekopin",
+      "title": "Pemerintah Klaim Perampingan BUMN Tak Bakal Picu PHK Massal - Bisnis.com - Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 17:47:08 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Dukung-Program-Presiden-Prabowo,-Kelurahan-Ciwaduk-Gelar-Muskel-Pembentukan-Koperasi-Merah-Putih/20261123/Mjc0NDQ0"
+      "published": "Mon, 23 Nov 2026 05:13:00 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023603/pemerintah-klaim-perampingan-bumn-tak-bakal-picu-phk-massal"
     },
     {
-      "title": "Menteri PKP Tegaskan Pentingnya Perlindungan Konsumen di Sektor Perumahan - pasardana.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 17:27:00 GMT",
-      "link": "https://pasardana.id/news/2026/11/23/menteri-pkp-tegaskan-pentingnya-perlindungan-konsumen-di-sektor-perumahan"
-    },
-    {
-      "title": "Sarasehan dan Kopi Sore DEKOPIN, Perkuat Jaringan Usaha Koperasi Sektor Pariwisata - Nusantara Abadi News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 16:05:03 GMT",
-      "link": "https://nusantaraabadinews.com/2026/11/22/sarasehan-dan-kopi-sore-dekopin-perkuat-jaringan-usaha-koperasi-sektor-pariwisata/"
-    },
-    {
-      "title": "Kemenkop Melalui Dinas Koperasi Maluku Gelar Pelatihan Sertifikasi Kompetensi Bendahara KDKMP - saburomedia",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 15:15:31 GMT",
-      "link": "https://www.saburomedia.com/2026/11/22/kemenkop-melalui-dinas-koperasi-maluku-gelar-pelatihan-sertifikasi-kompetensi-bendahara-kdkmp/"
-    },
-    {
-      "title": "Pemimpin Sunwah: Kementerian Perindustrian dan Perdagangan berperan sebagai penghubung antara bisnis Vietnam dan Tiongkok. - Vietnam.vn",
+      "title": "Kemendag Kirim Minyakita ke Wilayah Timur pada Desember 2026 - Limapagi",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 14:38:46 GMT",
-      "link": "https://www.vietnam.vn/id/lanh-dao-sunwah-bo-cong-thuong-dong-vai-tro-ket-noi-doanh-nghiep-viet-nam-trung-quoc"
+      "published": "Mon, 23 Nov 2026 05:09:45 GMT",
+      "link": "https://www.limapagi.id/kemendag-kirim-minyakita-wilayah-timur"
     },
     {
-      "title": "Ketum DPP ABPEDNAS Indra Utama Raih Penghargaan Tokoh Inspiratif, M. Arham: Kami Bangga dan Termotivasi - tinta nusantara",
-      "entity": "BPKN",
+      "title": "BRI Perkuat Koordinasi BUMN untuk Penanganan Bencana - cwibc.co.id",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 13:49:38 GMT",
-      "link": "https://tintanusantara.co.id/ketum-dpp-abpednas-indra-utama-raih-penghargaan-tokoh-inspiratif-m-arham-kami-bangga-dan-termotivasi/"
+      "published": "Mon, 23 Nov 2026 05:06:19 GMT",
+      "link": "https://cwibc.co.id/bri-koordinasi-bumn-penanganan-bencana"
     },
     {
-      "title": "Komitmen Pertanian Berkelanjutan, BOS Raih Penghargaan Nasional ICC 100 Brands Award 2026 dari BPKN RI dan Kadin Indonesia - atnews.id",
-      "entity": "BPKN",
+      "title": "Kemendag Kirim Minyakita ke Wilayah Timur pada Desember 2026 - cwibc.co.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 13:34:07 GMT",
-      "link": "https://atnews.id/portal/news/35826/"
+      "published": "Mon, 23 Nov 2026 05:04:51 GMT",
+      "link": "https://cwibc.co.id/kemendag-kirim-minyakita-wilayah-timur"
     },
     {
-      "title": "Totok Hedi Minta Perhutani Perkuat Perdagangan Karbon, Jaga Kelestarian Hutan - gesuri.id",
+      "title": "Lowongan Kerja Kemendag November 2026, Dibuka untuk Lulusan S1 Desain - Kompas.com",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/23/120005526/lowongan-kerja-kemendag-november-2026-dibuka-untuk-lulusan-s1-desain"
+    },
+    {
+      "title": "Sadarestuwati Dorong Penguatan Sosialisasi Varietas Unggul Lokal - gesuri.id",
+      "entity": "Sadarestuwati",
+      "kind": "anggota",
+      "published": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "link": "https://www.gesuri.id/kerakyatan/sadarestuwati-dorong-penguatan-sosialisasi-varietas-unggul-lokal-b2qe8ZbjDa"
+    },
+    {
+      "title": "Perkokoh Barisan Kader di Tingkat Daerah, GPM Sleman Bangun Komunikasi Strategis Bersama Totok Hedi Santosa - Gerbang Patriot",
       "entity": "Totok Hedi Santosa",
       "kind": "anggota",
-      "published": "Sun, 22 Nov 2026 13:05:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/totok-hedi-minta-perhutani-perkuat-perdagangan-karbon-jaga-kelestarian-hutan-b2qe7ZbjCh"
+      "published": "Mon, 23 Nov 2026 04:33:39 GMT",
+      "link": "https://gerbangpatriot.com/2026/11/22/perkokoh-barisan-kader-di-tingkat-daerah-gpm-sleman-bangun-komunikasi-strategis-bersama-totok-hedi-santosa/"
     },
     {
-      "title": "Jangan Sampai Petani Kesulitan Pupuk, Imas Aan Ubudiah Soroti Penyaluran Subsidi di Tasikmalaya - Fokus Jabar",
-      "entity": "Imas Aan Ubudiah",
-      "kind": "anggota",
-      "published": "Sun, 22 Nov 2026 12:32:53 GMT",
-      "link": "https://fokusjabar.id/2026/11/22/jangan-sampai-petani-kesulitan-pupuk-imas-aan-ubudiah-soroti-penyaluran-subsidi-di-tasikmalaya/"
+      "title": "BP BUMN Pastikan Perampingan BUMN Tidak Picu PHK - Demokratis.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 04:31:22 GMT",
+      "link": "https://demokratis.co.id/perampingan-bumn-tanpa-phk-karyawan"
     },
     {
-      "title": "Pemerintah Perketat Impor Kedelai Mulai Januari 2027 - Demokratis.co.id",
+      "title": "BP BUMN Pastikan Perampingan Perusahaan Tidak Picu PHK - bsinews.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 04:27:33 GMT",
+      "link": "https://bsinews.id/perampingan-bumn-tidak-picu-phk"
+    },
+    {
+      "title": "BP BUMN Pastikan Perampingan Tidak Picu PHK Karyawan - Peradaban.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 04:27:12 GMT",
+      "link": "https://peradaban.id/perampingan-bumn-tidak-picu-phk"
+    },
+    {
+      "title": "Jumlah Perusahaan Pelat Merah Dipangkas, BP BUMN Jamin Tak Ada PHK! - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 04:24:09 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8765367/jumlah-perusahaan-pelat-merah-dipangkas-bp-bumn-jamin-tak-ada-phk"
+    },
+    {
+      "title": "Kemendag optimalkan fasilitas tol laut untuk tekan harga Minyakita - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 12:07:26 GMT",
-      "link": "https://demokratis.co.id/pemerintah-perketat-impor-kedelai"
+      "published": "Mon, 23 Nov 2026 04:23:49 GMT",
+      "link": "https://www.antaranews.com/berita/5871779/kemendag-optimalkan-fasilitas-tol-laut-untuk-tekan-harga-minyakita"
     },
     {
-      "title": "Pemerintah Perketat Impor Kedelai Mulai Januari 2027 - Peradaban.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "Danantara Belum Juga Rilis Laporan Keuangan 2025, Ini Alasannya - Market - Bloomberg Technoz",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 12:07:01 GMT",
-      "link": "https://peradaban.id/pemerintah-perketat-impor-kedelai"
+      "published": "Mon, 23 Nov 2026 04:22:43 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/128557/danantara-belum-juga-rilis-laporan-keuangan-2025-ini-alasannya"
     },
     {
-      "title": "Menkop dorong Kopdes Kuasai Panen Beras, Beli Mesin Padi - Bloomberg Technoz",
-      "entity": "Kementerian Koperasi",
+      "title": "Pemerintah Bidik Rampingkan 1074 jadi 300 Unit BUMN, Rampung Desember 2026 - Bisnis.com - Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 12:00:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/128513/menkop-dorong-kopdes-kuasai-panen-beras-beli-mesin-padi"
-    },
-    {
-      "title": "Dorong Penguatan Daya Saing UMKM, Bupati Gianyar Terima Penghargaan dari BPKN - detikcom",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 11:50:13 GMT",
-      "link": "https://www.detik.com/bali/berita/d-8764740/dorong-penguatan-daya-saing-umkm-bupati-gianyar-terima-penghargaan-dari-bpkn"
-    },
-    {
-      "title": "Bupati Gianyar terima penghargaan kepala daerah penggerak ekonomi dan UMKM - ANTARA News Bali",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Sun, 22 Nov 2026 11:14:39 GMT",
-      "link": "https://bali.antaranews.com/berita/419651/bupati-gianyar-terima-penghargaan-kepala-daerah-penggerak-ekonomi-dan-umkm"
+      "published": "Mon, 23 Nov 2026 04:21:43 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023575/pemerintah-bidik-rampingkan-1074-jadi-300-unit-bumn-rampung-desember-2026"
     }
   ]
 }
