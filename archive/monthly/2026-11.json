@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-23T05:43:43.466922",
+  "generated_at": "2026-11-23T17:21:56.537325",
   "party_counts_7d": {
     "Gerindra": 21,
-    "PDI-P": 30,
+    "PDI-P": 24,
     "Golkar": 13,
     "NasDem": 3,
-    "PKB": 23,
-    "PKS": 10,
+    "PKB": 20,
+    "PKS": 11,
     "PAN": 1,
     "Demokrat": 4
   },
   "party_counts_30d": {
     "Gerindra": 57,
-    "PDI-P": 67,
-    "Golkar": 72,
+    "PDI-P": 68,
+    "Golkar": 71,
     "NasDem": 13,
     "PKB": 72,
-    "PKS": 35,
+    "PKS": 36,
     "PAN": 12,
-    "Demokrat": 22
+    "Demokrat": 21
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,17 +34,17 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "umkm": 37,
-    "perdagangan": 15,
-    "ekspor": 9,
-    "impor": 5,
-    "koperasi": 53,
-    "danantara": 20,
+    "bumn": 53,
     "investasi": 32,
-    "kartel-monopoli": 14,
-    "ipo": 1,
-    "merger-akuisisi": 1
+    "umkm": 37,
+    "perdagangan": 13,
+    "impor": 5,
+    "ekspor": 7,
+    "koperasi": 49,
+    "danantara": 20,
+    "kartel-monopoli": 13,
+    "merger-akuisisi": 2,
+    "ipo": 1
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -59,11 +59,11 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 11,
-    "Ida Nurlaela": 7,
+    "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
     "Nurdin Halid": 13,
-    "Gde Sumarjaya Linggih": 16,
+    "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 5,
@@ -81,126 +81,126 @@
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Rizal Bawazier": 4,
-    "Ghufran": 5,
+    "Ghufran": 6,
     "Ismail": 6,
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
-    "Sartono": 7,
+    "Sartono": 6,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 33,
-    "Koperasi/UMKM": 87,
-    "Perdagangan": 47,
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 83,
+    "Perdagangan": 48,
     "Konflik Publik": 13,
     "Hukum/Audit": 15
   },
   "top_headlines": [
     {
-      "title": "Pemerintah Klaim Perampingan BUMN Tak Bakal Picu PHK Massal - Bisnis.com - Ekonomi",
-      "entity": "Kementerian BUMN",
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:13:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023603/pemerintah-klaim-perampingan-bumn-tak-bakal-picu-phk-massal"
+      "published": "Mon, 23 Nov 2026 17:13:01 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261124/Mjk5MTUy"
     },
     {
-      "title": "Pemerintah Klaim Perampingan BUMN Tak Bakal Picu PHK Massal - Bisnis.com - Ekonomi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:13:00 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023603/pemerintah-klaim-perampingan-bumn-tak-bakal-picu-phk-massal"
-    },
-    {
-      "title": "Kemendag Kirim Minyakita ke Wilayah Timur pada Desember 2026 - Limapagi",
+      "title": "Dr. Ta Dinh Thi: Upaya Kementerian Perindustrian dan Perdagangan untuk membangun dan menyempurnakan kerangka kelembagaan bertujuan untuk menghilangkan hambatan dan kendala dalam praktik. - Vietnam.vn",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:09:45 GMT",
-      "link": "https://www.limapagi.id/kemendag-kirim-minyakita-wilayah-timur"
+      "published": "Mon, 23 Nov 2026 16:47:08 GMT",
+      "link": "https://www.vietnam.vn/id/ts-ta-dinh-thi-no-luc-xay-dung-hoan-thien-the-che-cua-bo-cong-thuong-nham-thao-go-cac-diem-nghen-vuong-mac-trong-thuc-tien"
     },
     {
-      "title": "BRI Perkuat Koordinasi BUMN untuk Penanganan Bencana - cwibc.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:06:19 GMT",
-      "link": "https://cwibc.co.id/bri-koordinasi-bumn-penanganan-bencana"
-    },
-    {
-      "title": "Kemendag Kirim Minyakita ke Wilayah Timur pada Desember 2026 - cwibc.co.id",
+      "title": "Kemendag Temukan 96 Importir Bermasalah dalam Pengawasan Post-Border - Vibizmedia.com",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:04:51 GMT",
-      "link": "https://cwibc.co.id/kemendag-kirim-minyakita-wilayah-timur"
+      "published": "Mon, 23 Nov 2026 16:35:36 GMT",
+      "link": "https://www.vibizmedia.com/index.php/2026/11/23/kemendag-temukan-96-importir-bermasalah-dalam-pengawasan-post-border/"
     },
     {
-      "title": "Lowongan Kerja Kemendag November 2026, Dibuka untuk Lulusan S1 Desain - Kompas.com",
+      "title": "Pemkot - Kemenkop resmikan shoowroom kendaraan listrik di Tangerang - ANTARA News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 15:35:30 GMT",
+      "link": "https://www.antaranews.com/berita/5873663/pemkot-kemenkop-resmikan-shoowroom-kendaraan-listrik-di-tangerang"
+    },
+    {
+      "title": "Dubes UE sebut IEU CEPA semakin perluas peluang perdagangan bilateral - ANTARA News",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 05:00:00 GMT",
-      "link": "https://money.kompas.com/read/2026/11/23/120005526/lowongan-kerja-kemendag-november-2026-dibuka-untuk-lulusan-s1-desain"
+      "published": "Mon, 23 Nov 2026 15:28:26 GMT",
+      "link": "https://www.antaranews.com/berita/5873647/dubes-ue-sebut-ieu-cepa-semakin-perluas-peluang-perdagangan-bilateral"
     },
     {
-      "title": "Sadarestuwati Dorong Penguatan Sosialisasi Varietas Unggul Lokal - gesuri.id",
-      "entity": "Sadarestuwati",
-      "kind": "anggota",
-      "published": "Mon, 23 Nov 2026 05:00:00 GMT",
-      "link": "https://www.gesuri.id/kerakyatan/sadarestuwati-dorong-penguatan-sosialisasi-varietas-unggul-lokal-b2qe8ZbjDa"
-    },
-    {
-      "title": "Perkokoh Barisan Kader di Tingkat Daerah, GPM Sleman Bangun Komunikasi Strategis Bersama Totok Hedi Santosa - Gerbang Patriot",
-      "entity": "Totok Hedi Santosa",
-      "kind": "anggota",
-      "published": "Mon, 23 Nov 2026 04:33:39 GMT",
-      "link": "https://gerbangpatriot.com/2026/11/22/perkokoh-barisan-kader-di-tingkat-daerah-gpm-sleman-bangun-komunikasi-strategis-bersama-totok-hedi-santosa/"
-    },
-    {
-      "title": "BP BUMN Pastikan Perampingan BUMN Tidak Picu PHK - Demokratis.co.id",
+      "title": "Kepala BP BUMN: Pembebasan PPh berlaku untuk transformasi BUMN - ANTARA News",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:31:22 GMT",
-      "link": "https://demokratis.co.id/perampingan-bumn-tanpa-phk-karyawan"
+      "published": "Mon, 23 Nov 2026 15:24:27 GMT",
+      "link": "https://www.antaranews.com/berita/5873639/kepala-bp-bumn-pembebasan-pph-berlaku-untuk-transformasi-bumn"
     },
     {
-      "title": "BP BUMN Pastikan Perampingan Perusahaan Tidak Picu PHK - bsinews.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "KPPU awasi pasokan pangan MBG di Balikpapan - ANTARA News",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:27:33 GMT",
-      "link": "https://bsinews.id/perampingan-bumn-tidak-picu-phk"
+      "published": "Mon, 23 Nov 2026 15:08:08 GMT",
+      "link": "https://www.antaranews.com/berita/5873595/kppu-awasi-pasokan-pangan-mbg-di-balikpapan"
     },
     {
-      "title": "BP BUMN Pastikan Perampingan Tidak Picu PHK Karyawan - Peradaban.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "INKUD Resmikan Showroom Motor Listrik Roda Tiga, Bidik Pasar Koperasi - Beritakota",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:27:12 GMT",
-      "link": "https://peradaban.id/perampingan-bumn-tidak-picu-phk"
+      "published": "Mon, 23 Nov 2026 14:31:00 GMT",
+      "link": "https://beritakota.id/inkud-resmikan-showroom-motor-listrik-roda-tiga-bidik-pasar-koperasi/"
     },
     {
-      "title": "Jumlah Perusahaan Pelat Merah Dipangkas, BP BUMN Jamin Tak Ada PHK! - detikFinance",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:24:09 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8765367/jumlah-perusahaan-pelat-merah-dipangkas-bp-bumn-jamin-tak-ada-phk"
-    },
-    {
-      "title": "Kemendag optimalkan fasilitas tol laut untuk tekan harga Minyakita - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:23:49 GMT",
-      "link": "https://www.antaranews.com/berita/5871779/kemendag-optimalkan-fasilitas-tol-laut-untuk-tekan-harga-minyakita"
-    },
-    {
-      "title": "Danantara Belum Juga Rilis Laporan Keuangan 2025, Ini Alasannya - Market - Bloomberg Technoz",
+      "title": "Danantara Jadwalkan Rilis Laporan Keuangan 2025 pada 25 November - cwibc.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:22:43 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/128557/danantara-belum-juga-rilis-laporan-keuangan-2025-ini-alasannya"
+      "published": "Mon, 23 Nov 2026 14:08:01 GMT",
+      "link": "https://cwibc.co.id/danantara-jadwalkan-rilis-laporan-keuangan-2025-pada-25-november"
     },
     {
-      "title": "Pemerintah Bidik Rampingkan 1074 jadi 300 Unit BUMN, Rampung Desember 2026 - Bisnis.com - Ekonomi",
+      "title": "Apakah Keterlibatan Militer dalam Koperasi Desa Merah Putih Sudah Ideal? - Bela Rakyat",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 13:42:41 GMT",
+      "link": "https://belarakyat.com/apakah-keterlibatan-militer-dalam-koperasi-desa-merah-putih-sudah-ideal/"
+    },
+    {
+      "title": "CEO Danantara Bilang Lapkeu Diumumkan Rabu Ini - Aspek.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 12:49:28 GMT",
+      "link": "https://aspek.id/ceo-danantara-bilang-lapkeu-diumumkan-rabu-ini/"
+    },
+    {
+      "title": "KPPU Soroti Rantai Pasok MBG di Balikpapan, UMKM Lokal Diminta Tak Tersisih - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 12:37:57 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-soroti-rantai-pasok-mbg-di-balikpapan-umkm-lokal-diminta-tak-tersisih/"
+    },
+    {
+      "title": "BP BUMN Targetkan Merger 268 Perusahaan Pelat Merah hingga Akhir 2026 - iNews.ID",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 04:21:43 GMT",
-      "link": "https://ekonomi.bisnis.com/read/20261123/9/2023575/pemerintah-bidik-rampingkan-1074-jadi-300-unit-bumn-rampung-desember-2026"
+      "published": "Mon, 23 Nov 2026 12:33:00 GMT",
+      "link": "https://www.inews.id/finance/bisnis/bp-bumn-targetkan-merger-268-perusahaan-pelat-merah-hingga-akhir-2026"
+    },
+    {
+      "title": "Danantara akan Umumkan Laporan Keuangan Rabu Pekan Ini - Tirto.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 11:55:00 GMT",
+      "link": "https://tirto.id/danantara-akan-umumkan-laporan-keuangan-rabu-pekan-ini-id7L"
+    },
+    {
+      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Mon, 23 Nov 2026 11:21:42 GMT",
+      "link": "https://www.ekon.go.id/publikasi/detail/7242/menko-airlangga-bertemu-komisioner-perdagangan-komisi-eropa-matangkan-penandatanganan-dan-implementasi-ieu-cepa"
     }
   ]
 }
