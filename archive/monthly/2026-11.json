@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-24T03:47:50.697392",
+  "generated_at": "2026-11-24T14:31:51.156584",
   "party_counts_7d": {
     "Gerindra": 20,
-    "PDI-P": 25,
+    "PDI-P": 22,
     "Golkar": 12,
     "NasDem": 2,
-    "PKB": 21,
+    "PKB": 19,
     "PKS": 11,
-    "PAN": 1,
-    "Demokrat": 4
+    "PAN": 2,
+    "Demokrat": 2
   },
   "party_counts_30d": {
     "Gerindra": 57,
     "PDI-P": 68,
-    "Golkar": 71,
+    "Golkar": 72,
     "NasDem": 14,
     "PKB": 71,
-    "PKS": 36,
-    "PAN": 12,
-    "Demokrat": 20
+    "PKS": 32,
+    "PAN": 13,
+    "Demokrat": 18
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 56,
-    "investasi": 32,
+    "bumn": 55,
+    "investasi": 36,
     "umkm": 36,
     "perdagangan": 12,
     "impor": 4,
-    "ekspor": 6,
-    "koperasi": 48,
-    "danantara": 22,
+    "ekspor": 4,
+    "koperasi": 47,
+    "danantara": 26,
     "kartel-monopoli": 13,
     "merger-akuisisi": 2
   },
@@ -61,7 +61,7 @@
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
-    "Nurdin Halid": 13,
+    "Nurdin Halid": 14,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
@@ -79,127 +79,126 @@
     "Ida Fauziyah": 15,
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
-    "Rizal Bawazier": 4,
     "Ghufran": 6,
     "Ismail": 6,
     "Eko Patrio": 1,
     "Abdul Hakim Bafagih": 1,
-    "Iskandar": 10,
-    "Sartono": 5,
+    "Iskandar": 11,
+    "Sartono": 3,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 81,
-    "Perdagangan": 48,
-    "Konflik Publik": 13,
-    "Hukum/Audit": 13
+    "Kinerja BUMN": 30,
+    "Koperasi/UMKM": 78,
+    "Perdagangan": 45,
+    "Hukum/Audit": 14,
+    "Konflik Publik": 12
   },
   "top_headlines": [
     {
-      "title": "Koperasi Merah Putih Masuk Jalur Distribusi LPG 3 Kg, Bagaimana Nasib Agen dan Pangkalan? - bataviapos.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 03:35:39 GMT",
-      "link": "https://bataviapos.id/susi-susanti/koperasi-merah-putih-masuk-jalur-distribusi-lpg-3-kg-bagaimana-nasib-agen-dan-pangkalan/"
-    },
-    {
-      "title": "Danantara Bersiap Buka Laporan Keuangan, DPR Ingatkan Transparansi BUMN - faktakalbar",
+      "title": "Laba Danantara Meleset dari Target, Peran Market Stabilizer dan Tata Kelola Disorot - kontan.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 03:16:17 GMT",
-      "link": "https://faktakalbar.id/berita/danantara-bersiap-buka-laporan-keuangan-dpr-ingatkan-transparansi-bumn"
+      "published": "Tue, 24 Nov 2026 14:10:50 GMT",
+      "link": "https://nasional.kontan.co.id/news/laba-danantara-meleset-dari-target-peran-market-stabilizer-dan-tata-kelola-disorot"
     },
     {
-      "title": "Danantara Rilis Laporan Keuangan Perdana pada 25 November 2026 - BeritaJejaring.co.id",
+      "title": "Danantara Bidik 50.000 Lapangan Kerja Lewat Investasi - cwibc.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 03:06:36 GMT",
-      "link": "https://beritajejaring.co.id/danantara-laporan-keuangan-perdana-2026/"
+      "published": "Tue, 24 Nov 2026 14:03:16 GMT",
+      "link": "https://cwibc.co.id/danantara-bidik-50000-lapangan-kerja"
     },
     {
-      "title": "Danantara Jadwalkan Rilis Laporan Keuangan Perdana 25 November - SuaraGarut.ID",
+      "title": "Danantara Bidik 50.000 Lapangan Kerja, Investasi Apa Saja yang Jadi Andalan? - Kompas.com",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 03:06:32 GMT",
-      "link": "https://suaragarut.id/danantara-laporan-keuangan-perdana"
+      "published": "Tue, 24 Nov 2026 13:51:00 GMT",
+      "link": "https://money.kompas.com/read/2026/11/24/205109726/danantara-bidik-50000-lapangan-kerja-investasi-apa-saja-yang-jadi-andalan"
     },
     {
-      "title": "Danantara Jadwalkan Rilis Laporan Keuangan pada 25 November - Peradaban.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 03:06:05 GMT",
-      "link": "https://peradaban.id/danantara-laporan-keuangan-25-november"
-    },
-    {
-      "title": "Baru 2.589 Gerai Beroperasi, Pemerintah Kebut Pasokan Barang Subsidi BUMN ke Koperasi Merah Putih - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 02:54:05 GMT",
-      "link": "https://suarapemerintah.id/2026/11/baru-2-589-gerai-beroperasi-pemerintah-kebut-pasokan-barang-subsidi-bumn-ke-koperasi-merah-putih/"
-    },
-    {
-      "title": "KPPU awasi pasokan pangan MBG di Balikpapan - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 01:33:05 GMT",
-      "link": "https://kaltim.antaranews.com/amp/berita/272047/kppu-awasi-pasokan-pangan-mbg-di-balikpapan"
-    },
-    {
-      "title": "BP BUMN Telah Merampungkan Penataan 360 Entitas, Pertamina Terbanyak - kontan.co.id",
+      "title": "Jalur Khusus Calon Pejabat BUMN, Minimal Punya IQ 120 ke Atas - Merdeka",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 00:57:35 GMT",
-      "link": "https://nasional.kontan.co.id/news/bp-bumn-telah-merampungkan-penataan-360-entitas-pertamina-terbanyak"
+      "published": "Tue, 24 Nov 2026 13:39:32 GMT",
+      "link": "https://www.merdeka.com/uang/read/8341759/jalur-khusus-calon-pejabat-bumn-minimal-punya-iq-120-ke-atas"
     },
     {
-      "title": "Danantara Bersiap Buka Laporan Keuangan, Nasim Khan Ingatkan Transparansi BUMN - rentak.id",
+      "title": "Menkop Tegaskan Peran Strategis Induk KUD Kembalikan Pusat Ekonomi dari Pedesaan - indoposco.id",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Tue, 24 Nov 2026 13:02:36 GMT",
+      "link": "https://indoposco.id/2026/11/24/menkop-tegaskan-peran-strategis-induk-kud-kembalikan-pusat-ekonomi-dari-pedesaan/"
+    },
+    {
+      "title": "Rekrutmen pegawai BUMN ber-IQ 120 disiapkan untuk posisi top masa depan - ANTARA News Bali",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 24 Nov 2026 12:42:06 GMT",
+      "link": "https://bali.antaranews.com/berita/419875/rekrutmen-pegawai-bumn-ber-iq-120-disiapkan-untuk-posisi-top-masa-depan"
+    },
+    {
+      "title": "Ombudsman RI Serahkan LHP IAPS Program Koperasi Desa/Kelurahan Merah Putih kepada Kementerian Koperasi - Ombudsman Republik Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Tue, 24 Nov 2026 12:24:21 GMT",
+      "link": "https://ombudsman.go.id/news/r/ombudsman-ri-serahkan-lhp-iaps-program-koperasi-desakelurahan-merah-putih-kepada-kementerian-koperasi"
+    },
+    {
+      "title": "BP BUMN Siapkan Empat Payung Hukum untuk Percepat Perampingan BUMN - kontan.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 24 Nov 2026 11:41:44 GMT",
+      "link": "https://nasional.kontan.co.id/news/bp-bumn-siapkan-empat-payung-hukum-untuk-percepat-perampingan-bumn"
+    },
+    {
+      "title": "Dony Oskaria Siapkan 1.000 Anak Magang Ber-IQ di Atas 120 untuk Isi BUMN - detikNews",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Tue, 24 Nov 2026 10:55:56 GMT",
+      "link": "https://news.detik.com/berita/d-8768054/dony-oskaria-siapkan-1-000-anak-magang-ber-iq-di-atas-120-untuk-isi-bumn"
+    },
+    {
+      "title": "Utang Subsidi Pupuk Pemerintah Tembus Rp14,565 Triliun, Nasim Khan Khawatirkan Nasib Petani - Penarakyat.Com",
       "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Tue, 24 Nov 2026 00:45:00 GMT",
-      "link": "https://rentak.id/danantara-bersiap-buka-laporan-keuangan-nasim-khan-ingatkan-transparansi-bumn/"
+      "published": "Tue, 24 Nov 2026 10:47:41 GMT",
+      "link": "https://penarakyat.com/utang-subsidi-pupuk-pemerintah-tembus-rp14565-triliun-nasim-khan-khawatirkan-nasib-petani/"
     },
     {
-      "title": "Pemerintah Kejar Perampingan BUMN Jadi 300 Entitas, Pegawai Tak Kena PHK - kontan.co.id",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "BPK Serahkan Laporan Keuangan Danantara pada 25 November 2026 - Demokratis.co.id",
+      "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 00:26:29 GMT",
-      "link": "https://nasional.kontan.co.id/news/pemerintah-kejar-perampingan-bumn-jadi-300-entitas-pegawai-tak-kena-phk"
+      "published": "Tue, 24 Nov 2026 10:20:34 GMT",
+      "link": "https://demokratis.co.id/bpk-serahkan-laporan-keuangan-danantara"
     },
     {
-      "title": "Kepala BP BUMN: Pembebasan PPh berlaku untuk transformasi BUMN - ANTARA News Jambi",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 00:09:27 GMT",
-      "link": "https://jambi.antaranews.com/berita/675343/kepala-bp-bumn-pembebasan-pph-berlaku-untuk-transformasi-bumn"
-    },
-    {
-      "title": "LPG 3 Kg Wajib Disalurkan lewat Kopdes, Agen dan Pangkalan Menyesuaikan - Indragirione.com",
+      "title": "Ombudsman Beri Kemenkop Sebulan Perbaiki Tata Kelola Kopdes - Tirto.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 23:42:01 GMT",
-      "link": "https://www.indragirione.com/2026/11/lpg-3-kg-wajib-disalurkan-lewat-kopdes-agen-dan-pangkalan-menyesuaikan"
+      "published": "Tue, 24 Nov 2026 10:13:00 GMT",
+      "link": "https://tirto.id/ombudsman-beri-kemenkop-sebulan-perbaiki-tata-kelola-kopdes-id97"
     },
     {
-      "title": "Strategi Eropa di Asia Tenggara - Kompas.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 23:00:02 GMT",
-      "link": "https://www.kompas.id/artikel/strategi-eropa-di-asia-tenggara?open_from=Tagar_Page"
+      "title": "Utang Subsidi Pupuk Tembus Rp14,565 Triliun, Nasim Khan Desak Pemerintah Segera Bayar - FPKB DPR RI",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Tue, 24 Nov 2026 09:33:11 GMT",
+      "link": "https://www.fraksipkb.com/2026/11/24/utang-subsidi-pupuk-tembus-rp14565-triliun-nasim-khan-desak-pemerintah-segera-bayar/"
     },
     {
-      "title": "Ada Koperasi Merah Putih, Bagaimana Nasib Agen dan Pangkalan Elpiji? - Kompas.com",
+      "title": "Kemenkop Akan Tindak Lanjuti Investigasi Ombudsman Soal Koperasi Merah Putih dalam 30 Hari - Kompas.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 23:00:00 GMT",
-      "link": "https://www.kompas.com/tren/read/2026/11/24/060000765/ada-koperasi-merah-putih-bagaimana-nasib-agen-dan-pangkalan-elpiji-"
+      "published": "Tue, 24 Nov 2026 08:49:50 GMT",
+      "link": "https://www.kompas.id/artikel/tanggapi-laporan-pengawasan-ombudsman-kemenkop-janji-menindaklanjuti-dalam-30-hari"
     },
     {
-      "title": "268 BUMN Bebas PPh, Ini Daftarnya - JPNN.com",
-      "entity": "Badan Pengaturan BUMN",
+      "title": "Kemenkop Siapkan Perbaikan Program Koperasi Merah Putih - Limapagi",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Mon, 23 Nov 2026 23:00:00 GMT",
-      "link": "https://m.jpnn.com/news/268-bumn-bebas-pph-ini-daftarnya"
+      "published": "Tue, 24 Nov 2026 08:39:50 GMT",
+      "link": "https://www.limapagi.id/kemenkop-perbaiki-koperasi-merah-putih"
     }
   ]
 }
