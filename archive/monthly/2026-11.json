@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-24T23:44:55.085885",
+  "generated_at": "2026-11-25T06:57:34.198254",
   "party_counts_7d": {
-    "Gerindra": 20,
+    "Gerindra": 16,
     "PDI-P": 21,
-    "Golkar": 12,
+    "Golkar": 13,
     "NasDem": 2,
-    "PKB": 19,
-    "PKS": 11,
+    "PKB": 21,
+    "PKS": 8,
     "PAN": 1,
-    "Demokrat": 2
+    "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 57,
-    "PDI-P": 68,
-    "Golkar": 72,
-    "NasDem": 14,
-    "PKB": 70,
+    "PDI-P": 70,
+    "Golkar": 73,
+    "NasDem": 13,
+    "PKB": 71,
     "PKS": 32,
     "PAN": 13,
     "Demokrat": 18
@@ -34,16 +34,16 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 55,
-    "investasi": 36,
-    "umkm": 34,
-    "ekspor": 5,
-    "impor": 4,
-    "perdagangan": 10,
-    "koperasi": 46,
-    "danantara": 26,
-    "kartel-monopoli": 13,
-    "merger-akuisisi": 2
+    "bumn": 57,
+    "investasi": 32,
+    "umkm": 33,
+    "ekspor": 7,
+    "perdagangan": 13,
+    "impor": 5,
+    "koperasi": 47,
+    "danantara": 25,
+    "merger-akuisisi": 4,
+    "kartel-monopoli": 10
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
@@ -52,7 +52,7 @@
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 12,
     "Mulyadi": 4,
-    "Adisatrya Suryo Sulisto": 7,
+    "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 1,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
@@ -66,17 +66,17 @@
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 9,
+    "Firnando Hadityo Ganinduto": 10,
     "Rizki Faisal": 18,
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
-    "Randi Zulmariadi": 3,
+    "Randi Zulmariadi": 2,
     "Rudi Hartono Bangun": 6,
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 15,
+    "Ida Fauziyah": 16,
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Ghufran": 6,
@@ -88,117 +88,117 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 29,
-    "Koperasi/UMKM": 75,
-    "Perdagangan": 47,
-    "Hukum/Audit": 15,
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 74,
+    "Perdagangan": 44,
+    "Hukum/Audit": 18,
     "Konflik Publik": 12
   },
   "top_headlines": [
     {
-      "title": "Siap-Siap! Danantara Dijadwalkan Rilis Laporan Keuangan Hari Ini - CNBC Indonesia",
+      "title": "Laporan Keuangan Selesai, Danantara Cetak Laba Rp259,6 Triliun di 2025 - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 23:20:25 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261124214824-17-788110/siap-siap-danantara-dijadwalkan-rilis-laporan-keuangan-hari-ini"
+      "published": "Wed, 25 Nov 2026 06:42:32 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261125133940-17-788341/laporan-keuangan-selesai-danantara-cetak-laba-rp2596-triliun-di-2025"
     },
     {
-      "title": "Danantara Rilis Laporan Keuangan Perdana 25 November, Hasil Audit BPK Dibuka ke Publik - Stapo.id",
+      "title": "Panja RUU KADIN Sepakati Kantor Pusat Tetap di Jakarta, Adisatrya: Beri Kepastian Hukum - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 06:27:43 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/panja-ruu-kadin-sepakati-kantor-pusat-tetap-di-jakarta-adisatrya-beri-kepastian-hukum-b2qeAZbjGL"
+    },
+    {
+      "title": "Danantara Proyeksikan Laba DIM Rp800 Miliar pada 2026 - Demokratis.co.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 22:52:48 GMT",
-      "link": "https://www.stapo.id/news/laporan-keuangan-danantara/"
+      "published": "Wed, 25 Nov 2026 06:02:34 GMT",
+      "link": "https://demokratis.co.id/danantara-proyeksikan-laba-dim-rp800-miliar-pada-2026"
     },
     {
-      "title": "Ambisi Ekspor Indonesia ke Uni Eropa Melonjak 50% - TradingView",
+      "title": "Jelang Nataru, Ida Fauziyah Minta Pemerintah Kendalikan Harga Pangan, Bukan Sekadar Jamin Stok 2. - Aktual.com",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 06:00:53 GMT",
+      "link": "https://aktual.com/1-jelang-nataru-ida-fauziyah-minta-pemerintah-kendalikan-harga-pangan-bukan-sekadar-jamin-stok-2/"
+    },
+    {
+      "title": "Kelola Aset US$1 Triliun, Habib Idrus Desak Danantara Segera Publikasikan Laporan Keuangan - Fraksi PKS",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 05:57:36 GMT",
+      "link": "https://fraksi.pks.id/2026/11/25/kelola-aset-us1-triliun-habib-idrus-desak-danantara-segera-publikasikan-laporan-keuangan/"
+    },
+    {
+      "title": "Kemendag Targetkan I-EU CEPA Berlaku 1 Januari 2027, Indonesia Bidik Tambahan Ekspor hingga US$5,78 Miliar per Tahun - SWA.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 21:35:39 GMT",
-      "link": "https://id.tradingview.com/news/kontan:e6be93bf887ea:0/"
+      "published": "Wed, 25 Nov 2026 05:17:00 GMT",
+      "link": "https://swa.co.id/read/480029/kemendag-targetkan-i-eu-cepa-berlaku-1-januari-2027-indonesia-bidik-tambahan-ekspor-hingga-us578-miliar-per-tahun"
     },
     {
-      "title": "Kemendag Sebut Perusahaan Indonesia Mulai Daftar EUDR, Klaim Tak Ada Masalah - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender Pembangunan RS Gresik Sehati Senilai Rp70,4 Miliar - Batamtoday.com",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 21:00:45 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-sebut-perusahaan-indonesia-mulai-daftar-eudr-klaim-tak-ada-masalah"
+      "published": "Wed, 25 Nov 2026 04:53:30 GMT",
+      "link": "https://batamtoday.com/news/kppu-sidangkan-dugaan-persekongkolan-tender-pembangunan-rs-gresik-sehati-senilai-rp704-miliar"
     },
     {
-      "title": "LAKI Apresiasi Penghargaan BPKN RI untuk Lucky Hakim, Dorong Penguatan Perlindungan Konsumen di Indramayu - indramayunews.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 18:34:22 GMT",
-      "link": "https://indramayunews.id/2026/11/25/laki-apresiasi-penghargaan-bpkn-ri-untuk-lucky-hakim-dorong-penguatan-perlindungan-konsumen-di-indramayu/"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 17:29:25 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261125/Mjk5MTUy"
-    },
-    {
-      "title": "RI Bidik US$33,24 Miliar dari Pasar Eropa - Epaper Media Indonesia",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 17:00:00 GMT",
-      "link": "https://epaper.mediaindonesia.com/detail/ri-bidik-us3324-miliar-dari-pasar-eropa"
-    },
-    {
-      "title": "Menkop Pastikan LHP Ombudsman Terkait KDKMP Jadi Masukan Konstruktif - indoposco.id",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 14:46:01 GMT",
-      "link": "https://indoposco.id/2026/11/24/menkop-pastikan-lhp-ombudsman-terkait-kdkmp-jadi-masukan-konstruktif/"
-    },
-    {
-      "title": "Prabowo Cari Calon Bos BUMN, Syarat IQ di Atas 120 - Liputan6.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 14:30:01 GMT",
-      "link": "https://www.liputan6.com/bisnis/read/8341779/prabowo-cari-calon-bos-bumn-syarat-iq-di-atas-120"
-    },
-    {
-      "title": "Wakili Riau Jadi Peserta Magang Nasional 2026, Yesi Susanti Apresiasi Kementerian Koperasi dan Kopsy - Vokal Online",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 14:22:56 GMT",
-      "link": "https://www.vokalonline.com/wakili-riau-jadi-peserta-magang-nasional-2026-yesi-susanti-apresiasi-kementerian-koperasi-dan-kopsyah-bmi-grup"
-    },
-    {
-      "title": "Laba Danantara Meleset dari Target, Peran Market Stabilizer dan Tata Kelola Disorot - kontan.co.id",
+      "title": "Video: Hari Ini, Danantara Akan Rilis Laporan Keuangan Perdana - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 14:10:50 GMT",
-      "link": "https://nasional.kontan.co.id/news/laba-danantara-meleset-dari-target-peran-market-stabilizer-dan-tata-kelola-disorot"
+      "published": "Wed, 25 Nov 2026 04:40:50 GMT",
+      "link": "https://www.cnbcindonesia.com/news/20261125084821-8-788164/video-hari-ini-danantara-akan-rilis-laporan-keuangan-perdana"
     },
     {
-      "title": "Danantara Bidik 50.000 Lapangan Kerja Lewat Investasi - cwibc.co.id",
+      "title": "KPPU Gelar Sidang Perdana Akuisisi Manulife atas Schroders - Kabar24",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 04:36:45 GMT",
+      "link": "https://kabar24.bisnis.com/read/20261125/16/2024287/kppu-gelar-sidang-perdana-akuisisi-manulife-atas-schroders"
+    },
+    {
+      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender RS Gresik Sehati Senilai Rp76,26 Miliar - kabarbisnis.com",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 04:28:20 GMT",
+      "link": "https://www.kabarbisnis.com/read/28138103/kppu-sidangkan-dugaan-persekongkolan-tender-rs-gresik-sehati-senilai-rp76-26-miliar"
+    },
+    {
+      "title": "DPR Sebut Rekrutmen Anak Muda IQ 120 Jadi Kunci Kemajuan BUMN - TEROPONGSENAYAN.com",
+      "entity": "Firnando Hadityo Ganinduto",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 03:53:53 GMT",
+      "link": "https://www.teropongsenayan.com/138661-dpr-sebut-rekrutmen-anak-muda-iq-120-jadi-kunci-kemajuan-bumn"
+    },
+    {
+      "title": "Anggota DPR dorong empat poin penguatan UMKM diatur dalam RUU Kadin - ANTARA News",
+      "entity": "Rivqy Abdul Halim",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 03:52:00 GMT",
+      "link": "https://www.antaranews.com/berita/5876671/anggota-dpr-dorong-empat-poin-penguatan-umkm-diatur-dalam-ruu-kadin"
+    },
+    {
+      "title": "KPPU Ajukan Tujuh Syarat Akuisisi Manulife atas Schroders - www.suaralandak.co.id",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 03:41:39 GMT",
+      "link": "https://www.suaralandak.co.id/kppu-syarat-akuisisi-manulife-schroders"
+    },
+    {
+      "title": "Nasim Khan Desak Pemerintah Lunasi Utang Subsidi Pupuk Rp14,565 Triliun - TIMES Jatim",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 03:32:00 GMT",
+      "link": "https://jatim.times.co.id/news/ekonomi/EyO9gYG2/nasim-khan-desak-pemerintah-lunasi-utang-subsidi-pupuk-rp14565-triliun"
+    },
+    {
+      "title": "Laba DIM Danantara 2026 Hanya Diproyeksi Rp800 Miliar, Jauh di Bawah Target - CaraPandang",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 14:03:16 GMT",
-      "link": "https://cwibc.co.id/danantara-bidik-50000-lapangan-kerja"
-    },
-    {
-      "title": "Danantara Bidik 50.000 Lapangan Kerja, Investasi Apa Saja yang Jadi Andalan? - Kompas.com",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 13:51:00 GMT",
-      "link": "https://money.kompas.com/read/2026/11/24/205109726/danantara-bidik-50000-lapangan-kerja-investasi-apa-saja-yang-jadi-andalan"
-    },
-    {
-      "title": "Jalur Khusus Calon Pejabat BUMN, Minimal Punya IQ 120 ke Atas - Merdeka",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 13:39:32 GMT",
-      "link": "https://www.merdeka.com/uang/read/8341759/jalur-khusus-calon-pejabat-bumn-minimal-punya-iq-120-ke-atas"
-    },
-    {
-      "title": "Menkop Tegaskan Peran Strategis Induk KUD Kembalikan Pusat Ekonomi dari Pedesaan - indoposco.id",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Tue, 24 Nov 2026 13:02:36 GMT",
-      "link": "https://indoposco.id/2026/11/24/menkop-tegaskan-peran-strategis-induk-kud-kembalikan-pusat-ekonomi-dari-pedesaan/"
+      "published": "Wed, 25 Nov 2026 03:30:00 GMT",
+      "link": "https://www.carapandang.com/news/read/laba-dim-danantara-2026-hanya-diproyeksi-rp800-miliar-jauh-di-bawah-target"
     }
   ]
 }
