@@ -1,22 +1,22 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-25T06:57:34.198254",
+  "generated_at": "2026-11-25T17:51:37.909162",
   "party_counts_7d": {
     "Gerindra": 16,
     "PDI-P": 21,
     "Golkar": 13,
     "NasDem": 2,
-    "PKB": 21,
-    "PKS": 8,
+    "PKB": 18,
+    "PKS": 7,
     "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 57,
-    "PDI-P": 70,
-    "Golkar": 73,
+    "Gerindra": 56,
+    "PDI-P": 68,
+    "Golkar": 63,
     "NasDem": 13,
-    "PKB": 71,
+    "PKB": 72,
     "PKS": 32,
     "PAN": 13,
     "Demokrat": 18
@@ -34,40 +34,41 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "investasi": 32,
-    "umkm": 33,
-    "ekspor": 7,
-    "perdagangan": 13,
-    "impor": 5,
-    "koperasi": 47,
+    "bumn": 60,
+    "investasi": 31,
+    "umkm": 32,
+    "ekspor": 9,
+    "perdagangan": 12,
+    "impor": 4,
+    "koperasi": 45,
     "danantara": 25,
-    "merger-akuisisi": 4,
-    "kartel-monopoli": 10
+    "dividen": 2,
+    "merger-akuisisi": 5,
+    "kartel-monopoli": 9
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 12,
+    "Kawendra Lukistian": 11,
     "Mulyadi": 4,
     "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 1,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 11,
+    "Sadarestuwati": 9,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
-    "Nurdin Halid": 14,
+    "Nurdin Halid": 9,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 10,
-    "Rizki Faisal": 18,
+    "Rizki Faisal": 13,
     "Muhammad Sarmuji": 4,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
@@ -76,7 +77,7 @@
     "Anggia Erma Rini": 10,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 16,
+    "Ida Fauziyah": 17,
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Ghufran": 6,
@@ -88,117 +89,117 @@
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 74,
-    "Perdagangan": 44,
+    "Kinerja BUMN": 26,
+    "Koperasi/UMKM": 72,
+    "Perdagangan": 46,
     "Hukum/Audit": 18,
-    "Konflik Publik": 12
+    "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "Laporan Keuangan Selesai, Danantara Cetak Laba Rp259,6 Triliun di 2025 - CNBC Indonesia",
-      "entity": "Danantara",
+      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
+      "entity": "Dekopin",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 06:42:32 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261125133940-17-788341/laporan-keuangan-selesai-danantara-cetak-laba-rp2596-triliun-di-2025"
+      "published": "Wed, 25 Nov 2026 17:44:17 GMT",
+      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261126/Mjk5MTUy"
     },
     {
-      "title": "Panja RUU KADIN Sepakati Kantor Pusat Tetap di Jakarta, Adisatrya: Beri Kepastian Hukum - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
+      "title": "Andre Rosiade Ajak Semua Fraksi di MPR Dukung Sugiono Jadi Wapres - detikNews",
+      "entity": "Andre Rosiade",
       "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 06:27:43 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/panja-ruu-kadin-sepakati-kantor-pusat-tetap-di-jakarta-adisatrya-beri-kepastian-hukum-b2qeAZbjGL"
+      "published": "Wed, 25 Nov 2026 16:22:34 GMT",
+      "link": "https://news.detik.com/berita/d-8770133/andre-rosiade-ajak-semua-fraksi-di-mpr-dukung-sugiono-jadi-wapres"
     },
     {
-      "title": "Danantara Proyeksikan Laba DIM Rp800 Miliar pada 2026 - Demokratis.co.id",
-      "entity": "Danantara",
+      "title": "Pemerintah Siapkan Calon Pemimpin BUMN Ber-IQ 120 - RRI.co.id",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 06:02:34 GMT",
-      "link": "https://demokratis.co.id/danantara-proyeksikan-laba-dim-rp800-miliar-pada-2026"
+      "published": "Wed, 25 Nov 2026 14:42:00 GMT",
+      "link": "http://rri.co.id/nasional/2926286/pemerintah-siapkan-calon-pemimpin-bumn-ber-iq-120"
     },
     {
-      "title": "Jelang Nataru, Ida Fauziyah Minta Pemerintah Kendalikan Harga Pangan, Bukan Sekadar Jamin Stok 2. - Aktual.com",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 06:00:53 GMT",
-      "link": "https://aktual.com/1-jelang-nataru-ida-fauziyah-minta-pemerintah-kendalikan-harga-pangan-bukan-sekadar-jamin-stok-2/"
-    },
-    {
-      "title": "Kelola Aset US$1 Triliun, Habib Idrus Desak Danantara Segera Publikasikan Laporan Keuangan - Fraksi PKS",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 05:57:36 GMT",
-      "link": "https://fraksi.pks.id/2026/11/25/kelola-aset-us1-triliun-habib-idrus-desak-danantara-segera-publikasikan-laporan-keuangan/"
-    },
-    {
-      "title": "Kemendag Targetkan I-EU CEPA Berlaku 1 Januari 2027, Indonesia Bidik Tambahan Ekspor hingga US$5,78 Miliar per Tahun - SWA.co.id",
+      "title": "Kemendag Sosialisasikan Potensi I-EU CEPA dengan Pasar 449 Juta Jiwa di Uni Eropa - Olenka",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 05:17:00 GMT",
-      "link": "https://swa.co.id/read/480029/kemendag-targetkan-i-eu-cepa-berlaku-1-januari-2027-indonesia-bidik-tambahan-ekspor-hingga-us578-miliar-per-tahun"
+      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
+      "link": "https://olenka.id/kemendag-sosialisasikan-potensi-i-eu-cepa-dengan-pasar-449-juta-jiwa-di-uni-eropa"
     },
     {
-      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender Pembangunan RS Gresik Sehati Senilai Rp70,4 Miliar - Batamtoday.com",
-      "entity": "KPPU",
+      "title": "Mau Produk Lokal Naik Kelas, Kemendag Perkuat Pengujian dan Sertifikasi - InfoPublik",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 04:53:30 GMT",
-      "link": "https://batamtoday.com/news/kppu-sidangkan-dugaan-persekongkolan-tender-pembangunan-rs-gresik-sehati-senilai-rp704-miliar"
+      "published": "Wed, 25 Nov 2026 13:57:00 GMT",
+      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/998848/mau-produk-lokal-naik-kelas-kemendag-perkuat-pengujian-dan-sertifikasi"
     },
     {
-      "title": "Video: Hari Ini, Danantara Akan Rilis Laporan Keuangan Perdana - CNBC Indonesia",
+      "title": "Sebanyak 449 Juta Konsumen Eropa Jadi Incaran, Kemendag Ajak Eksportir Indonesia Bersiap - InfoPublik",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 13:54:00 GMT",
+      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/998845/sebanyak-449-juta-konsumen-eropa-jadi-incaran-kemendag-ajak-eksportir-indonesia-bersiap"
+    },
+    {
+      "title": "Danantara Investment Management telah mengalirkan investasi Rp162 triliun - ANTARA News Mataram",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 04:40:50 GMT",
-      "link": "https://www.cnbcindonesia.com/news/20261125084821-8-788164/video-hari-ini-danantara-akan-rilis-laporan-keuangan-perdana"
+      "published": "Wed, 25 Nov 2026 13:41:30 GMT",
+      "link": "https://mataram.antaranews.com/berita/584939/danantara-investment-management-telah-mengalirkan-investasi-rp162-triliun"
     },
     {
-      "title": "KPPU Gelar Sidang Perdana Akuisisi Manulife atas Schroders - Kabar24",
-      "entity": "KPPU",
+      "title": "Pangkas Birokrasi, Pemerintah Optimis Kinerja Perdagangan Akan Terus Membaik, - BISNISNEWS.id",
+      "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 04:36:45 GMT",
-      "link": "https://kabar24.bisnis.com/read/20261125/16/2024287/kppu-gelar-sidang-perdana-akuisisi-manulife-atas-schroders"
+      "published": "Wed, 25 Nov 2026 12:56:00 GMT",
+      "link": "https://bisnisnews.id/detail/berita/pangkas-birokrasi--pemerintah-optimis--kinerja-perdagangan--akan-terus-membaik"
     },
     {
-      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender RS Gresik Sehati Senilai Rp76,26 Miliar - kabarbisnis.com",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 04:28:20 GMT",
-      "link": "https://www.kabarbisnis.com/read/28138103/kppu-sidangkan-dugaan-persekongkolan-tender-rs-gresik-sehati-senilai-rp76-26-miliar"
-    },
-    {
-      "title": "DPR Sebut Rekrutmen Anak Muda IQ 120 Jadi Kunci Kemajuan BUMN - TEROPONGSENAYAN.com",
-      "entity": "Firnando Hadityo Ganinduto",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 03:53:53 GMT",
-      "link": "https://www.teropongsenayan.com/138661-dpr-sebut-rekrutmen-anak-muda-iq-120-jadi-kunci-kemajuan-bumn"
-    },
-    {
-      "title": "Anggota DPR dorong empat poin penguatan UMKM diatur dalam RUU Kadin - ANTARA News",
-      "entity": "Rivqy Abdul Halim",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 03:52:00 GMT",
-      "link": "https://www.antaranews.com/berita/5876671/anggota-dpr-dorong-empat-poin-penguatan-umkm-diatur-dalam-ruu-kadin"
-    },
-    {
-      "title": "KPPU Ajukan Tujuh Syarat Akuisisi Manulife atas Schroders - www.suaralandak.co.id",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 03:41:39 GMT",
-      "link": "https://www.suaralandak.co.id/kppu-syarat-akuisisi-manulife-schroders"
-    },
-    {
-      "title": "Nasim Khan Desak Pemerintah Lunasi Utang Subsidi Pupuk Rp14,565 Triliun - TIMES Jatim",
-      "entity": "Nasim Khan",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 03:32:00 GMT",
-      "link": "https://jatim.times.co.id/news/ekonomi/EyO9gYG2/nasim-khan-desak-pemerintah-lunasi-utang-subsidi-pupuk-rp14565-triliun"
-    },
-    {
-      "title": "Laba DIM Danantara 2026 Hanya Diproyeksi Rp800 Miliar, Jauh di Bawah Target - CaraPandang",
+      "title": "Danantara Targetkan Dividen BUMN Rp160 Triliun pada 2027 - TopBusiness.id",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 03:30:00 GMT",
-      "link": "https://www.carapandang.com/news/read/laba-dim-danantara-2026-hanya-diproyeksi-rp800-miliar-jauh-di-bawah-target"
+      "published": "Wed, 25 Nov 2026 11:40:00 GMT",
+      "link": "https://www.topbusiness.id/140844/danantara-targetkan-dividen-bumn-rp160-triliun-pada-2027.html"
+    },
+    {
+      "title": "Danantara: PMN yang Disuntikkan ke BUMN Hanya Rp 4,7 Triliun - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 11:28:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/danantara-pmn-yang-disuntikkan-ke-bumn-hanya-rp-4-7-triliun-2306613"
+    },
+    {
+      "title": "Danantara Proyeksikan Dividen BUMN Rp 160 Triliun pada 2027 - cwibc.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 11:06:00 GMT",
+      "link": "https://cwibc.co.id/danantara-proyeksi-dividen-bumn-2027"
+    },
+    {
+      "title": "Kemendag Evaluasi Layanan Mutu UPTP III, Pengusaha Soroti Integrasi Sistem Perizinan - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 11:04:38 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-evaluasi-layanan-mutu-uptp-iii-pengusaha-soroti-integrasi-sistem-perizinan"
+    },
+    {
+      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender RS Gresik Sehati Rp70,4 Miliar, Tiga Pihak Terseret - Gerbang Kaltim",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 11:04:27 GMT",
+      "link": "https://www.gerbangkaltim.com/kppu-sidangkan-dugaan-persekongkolan-tender-rs-gresik-sehati-rp704-miliar-tiga-pihak-terseret/"
+    },
+    {
+      "title": "Kemendag perkuat efisiensi logistik untuk perluas pasar ekspor 2027 - ANTARA News",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 10:58:22 GMT",
+      "link": "https://www.antaranews.com/berita/5878043/kemendag-perkuat-efisiensi-logistik-untuk-perluas-pasar-ekspor-2027"
+    },
+    {
+      "title": "Jelang Nataru, Ida Fauziyah Komisi VI DPR Minta Pemerintah Jaga Stabilitas Harga Pangan - Suara Investor",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Wed, 25 Nov 2026 10:37:33 GMT",
+      "link": "https://www.suarainvestor.com/jelang-nataru-ida-fauziyah-komisi-vi-dpr-minta-pemerintah-jaga-stabilitas-harga-pangan/"
     }
   ]
 }
