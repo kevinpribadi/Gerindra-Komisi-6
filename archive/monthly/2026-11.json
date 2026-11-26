@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-26T01:32:16.529984",
+  "generated_at": "2026-11-26T10:26:52.665666",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 17,
     "PDI-P": 19,
-    "Golkar": 13,
-    "NasDem": 2,
-    "PKB": 18,
+    "Golkar": 9,
+    "NasDem": 1,
+    "PKB": 19,
     "PKS": 7,
     "PAN": 1,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 55,
-    "PDI-P": 66,
-    "Golkar": 63,
+    "Gerindra": 52,
+    "PDI-P": 67,
+    "Golkar": 60,
     "NasDem": 13,
-    "PKB": 72,
+    "PKB": 73,
     "PKS": 32,
-    "PAN": 12,
+    "PAN": 11,
     "Demokrat": 18
   },
   "agency_counts_30d": {
@@ -35,46 +35,47 @@
   },
   "topic_counts_30d": {
     "bumn": 61,
-    "investasi": 31,
+    "investasi": 32,
     "umkm": 32,
-    "perdagangan": 13,
+    "perdagangan": 14,
     "ekspor": 9,
-    "impor": 4,
-    "koperasi": 45,
-    "danantara": 25,
-    "dividen": 2,
-    "merger-akuisisi": 5,
-    "kartel-monopoli": 9
+    "impor": 2,
+    "koperasi": 47,
+    "danantara": 27,
+    "dividen": 3,
+    "kartel-monopoli": 9,
+    "merger-akuisisi": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 15,
+    "Muhammad Husein Fadlulloh": 13,
     "Mulan Jameela": 2,
-    "Kawendra Lukistian": 11,
+    "Kawendra Lukistian": 10,
     "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 1,
-    "Darmadi Durianto": 7,
+    "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 7,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
-    "Nurdin Halid": 9,
+    "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 15,
     "Ahmad Labib": 5,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 5,
     "Firnando Hadityo Ganinduto": 10,
-    "Rizki Faisal": 13,
+    "Rizki Faisal": 12,
     "Muhammad Sarmuji": 4,
+    "Rachmat Gobel": 1,
     "Asep Wahyuwijaya": 3,
     "I Nengah Senantara": 2,
     "Randi Zulmariadi": 2,
-    "Rudi Hartono Bangun": 6,
-    "Anggia Erma Rini": 10,
+    "Rudi Hartono Bangun": 5,
+    "Anggia Erma Rini": 11,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
     "Ida Fauziyah": 17,
@@ -83,122 +84,122 @@
     "Ghufran": 6,
     "Ismail": 6,
     "Eko Patrio": 1,
-    "Iskandar": 11,
+    "Iskandar": 10,
     "Sartono": 3,
     "Herman Khaeron": 15
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 26,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 46,
-    "Hukum/Audit": 17,
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 74,
+    "Perdagangan": 45,
+    "Hukum/Audit": 16,
     "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "Danantara: Konsolidasi Hilir Pertamina Tekan Biaya Operasi 16,89% - Bloomberg Technoz",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 01:20:00 GMT",
-      "link": "https://www.bloombergtechnoz.com/detail-news/128936/danantara-konsolidasi-hilir-pertamina-tekan-biaya-operasi-16-89"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan telah memberikan komentar terkait usulan AS untuk memberlakukan tarif baru. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 01:08:11 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-len-tieng-ve-de-xuat-ap-thue-moi-cua-my"
-    },
-    {
-      "title": "Proyeksi Laba Danantara (DIM) 2027 dan Skenario Jika IHSG Sentuh 6.000 - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 00:35:05 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261125222503-17-788529/proyeksi-laba-danantara--dim--2027-dan-skenario-jika-ihsg-sentuh-6000"
-    },
-    {
-      "title": "Perampingan BUMN Berlanjut, 600 Perusahaan Dibidik - detikFinance",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 00:30:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770124/perampingan-bumn-berlanjut-600-perusahaan-dibidik"
-    },
-    {
-      "title": "Danantara Catat Laba Rp 203,4 Triliun dari Enam BUMN - cwibc.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 00:05:52 GMT",
-      "link": "https://cwibc.co.id/danantara-laba-enam-bumn-2025"
-    },
-    {
-      "title": "Kemendag Bidik Pasar UEA, Ekspor Jasa Indonesia Capai US$ 59,3 Miliar - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 23:26:35 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-bidik-pasar-uea-ekspor-jasa-indonesia-capai-us-593-miliar"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 17:44:17 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261126/Mjk5MTUy"
-    },
-    {
-      "title": "Andre Rosiade Ajak Semua Fraksi di MPR Dukung Sugiono Jadi Wapres - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 16:22:34 GMT",
-      "link": "https://news.detik.com/berita/d-8770133/andre-rosiade-ajak-semua-fraksi-di-mpr-dukung-sugiono-jadi-wapres"
-    },
-    {
-      "title": "Pemerintah Siapkan Calon Pemimpin BUMN Ber-IQ 120 - RRI.co.id",
+      "title": "Danantara Bongkar Bobrok BUMN: Rekayasa Laporan Keuangan hingga Fraud - CNN Indonesia",
       "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 14:42:00 GMT",
-      "link": "http://rri.co.id/nasional/2926286/pemerintah-siapkan-calon-pemimpin-bumn-ber-iq-120"
+      "published": "Thu, 26 Nov 2026 10:15:01 GMT",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261126152603-92-1431922/danantara-bongkar-bobrok-bumn-rekayasa-laporan-keuangan-hingga-fraud"
     },
     {
-      "title": "Kemendag Sosialisasikan Potensi I-EU CEPA dengan Pasar 449 Juta Jiwa di Uni Eropa - Olenka",
+      "title": "Dukung Ekosistem Kendaraan Listrik, Kemendag Kembangkan Sistem Metrologi Legal EVSE Bersama KOICA - Suara Pemerintah",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
-      "link": "https://olenka.id/kemendag-sosialisasikan-potensi-i-eu-cepa-dengan-pasar-449-juta-jiwa-di-uni-eropa"
+      "published": "Thu, 26 Nov 2026 10:08:26 GMT",
+      "link": "https://suarapemerintah.id/2026/11/dukung-ekosistem-kendaraan-listrik-kemendag-kembangkan-sistem-metrologi-legal-evse-bersama-koica/"
     },
     {
-      "title": "Mau Produk Lokal Naik Kelas, Kemendag Perkuat Pengujian dan Sertifikasi - InfoPublik",
-      "entity": "Kementerian Perdagangan",
+      "title": "Jangan Tunggu Mahal, DPR Desak Pemerintah Siaga Pangan Jelang Nataru dan Ramadan - beritabuana.co",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Thu, 26 Nov 2026 10:04:56 GMT",
+      "link": "https://beritabuana.co/2026/11/26/jangan-tunggu-mahal-dpr-desak-pemerintah-siaga-pangan-jelang-nataru-dan-ramadan/"
+    },
+    {
+      "title": "Mikson Yapanto Minta Program CSR Almarhum Rachmat Gobel Tetap Dikawal, PAW Diharapkan Bertahan di Komisi VI DPR RI - Deprov Gorontalo",
+      "entity": "Rachmat Gobel",
+      "kind": "anggota",
+      "published": "Thu, 26 Nov 2026 09:02:12 GMT",
+      "link": "https://dprd.gorontaloprov.go.id/mikson-yapanto-minta-program-csr-almarhum-rachmat-gobel-tetap-dikawal-paw-diharapkan-bertahan-di-komisi-vi-dpr-ri/"
+    },
+    {
+      "title": "Ketua BNSP Syamsi Hari Raih Penghargaan Tokoh Penggerak Kepemimpinan dalam Penguatan Sistem Sertifikasi Profesi dan Peningkatan Kompetensi Tenaga Kerja Nasional - Property & Bank",
+      "entity": "BPKN",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 13:57:00 GMT",
-      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/998848/mau-produk-lokal-naik-kelas-kemendag-perkuat-pengujian-dan-sertifikasi"
+      "published": "Thu, 26 Nov 2026 09:00:06 GMT",
+      "link": "https://propertynbank.com/ketua-bnsp-syamsi-hari-raih-penghargaan-bpkn-ri/"
     },
     {
-      "title": "Sebanyak 449 Juta Konsumen Eropa Jadi Incaran, Kemendag Ajak Eksportir Indonesia Bersiap - InfoPublik",
-      "entity": "Kementerian Perdagangan",
+      "title": "BP BUMN Target Merger INKA ke KAI Rampung Sebelum 2027 - Bisnis.com - Ekonomi",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 13:54:00 GMT",
-      "link": "https://infopublik.id/kategori/prioritas-nasional-2026/998845/sebanyak-449-juta-konsumen-eropa-jadi-incaran-kemendag-ajak-eksportir-indonesia-bersiap"
+      "published": "Thu, 26 Nov 2026 08:46:19 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261126/98/2024710/bp-bumn-target-merger-inka-ke-kai-rampung-sebelum-2027"
     },
     {
-      "title": "Danantara Investment Management telah mengalirkan investasi Rp162 triliun - ANTARA News Mataram",
+      "title": "BNSP Raih Penghargaan Pelopor Perlindungan Konsumen melalui Kompetensi Profesi dari BPKN RI dan Kadin Indonesia - Property & Bank",
+      "entity": "BPKN",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 08:30:18 GMT",
+      "link": "https://propertynbank.com/bnsp-raih-pelopor-perlindungan-konsumen/"
+    },
+    {
+      "title": "5 BUMN Bakal Dibenahi Besar-besaran Tahun Depan - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 08:13:51 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8771137/5-bumn-bakal-dibenahi-besar-besaran-tahun-depan"
+    },
+    {
+      "title": "Danantara Bidik 41 Proyek Strategis Ini di Tahun 2027 - CNBC Indonesia",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 13:41:30 GMT",
-      "link": "https://mataram.antaranews.com/berita/584939/danantara-investment-management-telah-mengalirkan-investasi-rp162-triliun"
+      "published": "Thu, 26 Nov 2026 07:50:15 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261126131014-17-788714/danantara-bidik-41-proyek-strategis-ini-di-tahun-2027"
     },
     {
-      "title": "Pangkas Birokrasi, Pemerintah Optimis Kinerja Perdagangan Akan Terus Membaik, - BISNISNEWS.id",
-      "entity": "Kementerian Perdagangan",
+      "title": "Danantara-BP BUMN Perkuat Tata Kelola Perusahaan dan Transparansi Kinerja - MetroTVNews.com",
+      "entity": "Badan Pengaturan BUMN",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 12:56:00 GMT",
-      "link": "https://bisnisnews.id/detail/berita/pangkas-birokrasi--pemerintah-optimis--kinerja-perdagangan--akan-terus-membaik"
+      "published": "Thu, 26 Nov 2026 06:57:06 GMT",
+      "link": "https://www.metrotvnews.com/read/NnjCRZEM-danantara-bp-bumn-perkuat-tata-kelola-perusahaan-dan-transparansi-kinerja"
     },
     {
-      "title": "Danantara Targetkan Dividen BUMN Rp160 Triliun pada 2027 - TopBusiness.id",
+      "title": "BPI Danantara Cetak Laba Bersih Rp203,4 Triliun pada 2025 - Databoks",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 11:40:00 GMT",
-      "link": "https://www.topbusiness.id/140844/danantara-targetkan-dividen-bumn-rp160-triliun-pada-2027.html"
+      "published": "Thu, 26 Nov 2026 06:24:45 GMT",
+      "link": "https://databoks.katadata.co.id/ekonomi-makro/statistik/6b07d0ad01c88/bpi-danantara-cetak-laba-bersih-rp2034-triliun-pada-2025"
+    },
+    {
+      "title": "Rapor Pertama Danantara: Laba Rp203,4 T, PMN Turun ke Rp4,7 T - Bareksa.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 06:22:45 GMT",
+      "link": "https://www.bareksa.com/berita/saham/2026-11-26/rapor-pertama-danantara-laba-rp2034-t-pmn-turun-ke-rp47-t/amp"
+    },
+    {
+      "title": "Danantara Raih Opini WTP BPK atas Laporan Keuangan 2025 - www.suaralandak.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 05:03:47 GMT",
+      "link": "https://www.suaralandak.co.id/danantara-raih-opini-wtp-bpk"
+    },
+    {
+      "title": "Kejanggalan Laporan Keuangan Danantara: Struktur Utang Gelap, Dividen Ditahan, Jadi Sorotan, Pejabat Didesak Mundur - AFU.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 05:02:00 GMT",
+      "link": "https://afu.id/ekonomi/kejanggalan-laporan-keuangan-danantara-struktur-utang-gelap-dividen-ditahan-jadi-sorotan-pejabat-didesak-mundur"
+    },
+    {
+      "title": "Adhyaksa Chambers Akan Topang Investasi Nasional Lewat Layanan ADR Berstandar Internasional - Hukumonline",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 04:52:17 GMT",
+      "link": "https://www.hukumonline.com/berita/a/adhyaksa-chambers-akan-topang-investasi-nasional-lewat-layanan-adr-berstandar-internasional-lt6b07b391043d5/"
     }
   ]
 }
