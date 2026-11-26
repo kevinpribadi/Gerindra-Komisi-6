@@ -1,9 +1,9 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-25T17:51:37.909162",
+  "generated_at": "2026-11-26T01:32:16.529984",
   "party_counts_7d": {
     "Gerindra": 16,
-    "PDI-P": 21,
+    "PDI-P": 19,
     "Golkar": 13,
     "NasDem": 2,
     "PKB": 18,
@@ -12,13 +12,13 @@
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 56,
-    "PDI-P": 68,
+    "Gerindra": 55,
+    "PDI-P": 66,
     "Golkar": 63,
     "NasDem": 13,
     "PKB": 72,
     "PKS": 32,
-    "PAN": 13,
+    "PAN": 12,
     "Demokrat": 18
   },
   "agency_counts_30d": {
@@ -34,11 +34,11 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 60,
+    "bumn": 61,
     "investasi": 31,
     "umkm": 32,
+    "perdagangan": 13,
     "ekspor": 9,
-    "perdagangan": 12,
     "impor": 4,
     "koperasi": 45,
     "danantara": 25,
@@ -52,13 +52,13 @@
     "Muhammad Husein Fadlulloh": 15,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 11,
-    "Mulyadi": 4,
+    "Mulyadi": 3,
     "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 1,
     "Darmadi Durianto": 7,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
-    "Sadarestuwati": 9,
+    "Sadarestuwati": 7,
     "Ida Nurlaela": 8,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
@@ -83,7 +83,6 @@
     "Ghufran": 6,
     "Ismail": 6,
     "Eko Patrio": 1,
-    "Abdul Hakim Bafagih": 1,
     "Iskandar": 11,
     "Sartono": 3,
     "Herman Khaeron": 15
@@ -92,10 +91,52 @@
     "Kinerja BUMN": 26,
     "Koperasi/UMKM": 72,
     "Perdagangan": 46,
-    "Hukum/Audit": 18,
+    "Hukum/Audit": 17,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Danantara: Konsolidasi Hilir Pertamina Tekan Biaya Operasi 16,89% - Bloomberg Technoz",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 01:20:00 GMT",
+      "link": "https://www.bloombergtechnoz.com/detail-news/128936/danantara-konsolidasi-hilir-pertamina-tekan-biaya-operasi-16-89"
+    },
+    {
+      "title": "Kementerian Perindustrian dan Perdagangan telah memberikan komentar terkait usulan AS untuk memberlakukan tarif baru. - Vietnam.vn",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 01:08:11 GMT",
+      "link": "https://www.vietnam.vn/id/bo-cong-thuong-len-tieng-ve-de-xuat-ap-thue-moi-cua-my"
+    },
+    {
+      "title": "Proyeksi Laba Danantara (DIM) 2027 dan Skenario Jika IHSG Sentuh 6.000 - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 00:35:05 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261125222503-17-788529/proyeksi-laba-danantara--dim--2027-dan-skenario-jika-ihsg-sentuh-6000"
+    },
+    {
+      "title": "Perampingan BUMN Berlanjut, 600 Perusahaan Dibidik - detikFinance",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 00:30:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770124/perampingan-bumn-berlanjut-600-perusahaan-dibidik"
+    },
+    {
+      "title": "Danantara Catat Laba Rp 203,4 Triliun dari Enam BUMN - cwibc.co.id",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 00:05:52 GMT",
+      "link": "https://cwibc.co.id/danantara-laba-enam-bumn-2025"
+    },
+    {
+      "title": "Kemendag Bidik Pasar UEA, Ekspor Jasa Indonesia Capai US$ 59,3 Miliar - kontan.co.id",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Wed, 25 Nov 2026 23:26:35 GMT",
+      "link": "https://industri.kontan.co.id/news/kemendag-bidik-pasar-uea-ekspor-jasa-indonesia-capai-us-593-miliar"
+    },
     {
       "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
       "entity": "Dekopin",
@@ -158,48 +199,6 @@
       "kind": "lembaga",
       "published": "Wed, 25 Nov 2026 11:40:00 GMT",
       "link": "https://www.topbusiness.id/140844/danantara-targetkan-dividen-bumn-rp160-triliun-pada-2027.html"
-    },
-    {
-      "title": "Danantara: PMN yang Disuntikkan ke BUMN Hanya Rp 4,7 Triliun - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 11:28:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/danantara-pmn-yang-disuntikkan-ke-bumn-hanya-rp-4-7-triliun-2306613"
-    },
-    {
-      "title": "Danantara Proyeksikan Dividen BUMN Rp 160 Triliun pada 2027 - cwibc.co.id",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 11:06:00 GMT",
-      "link": "https://cwibc.co.id/danantara-proyeksi-dividen-bumn-2027"
-    },
-    {
-      "title": "Kemendag Evaluasi Layanan Mutu UPTP III, Pengusaha Soroti Integrasi Sistem Perizinan - kontan.co.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 11:04:38 GMT",
-      "link": "https://industri.kontan.co.id/news/kemendag-evaluasi-layanan-mutu-uptp-iii-pengusaha-soroti-integrasi-sistem-perizinan"
-    },
-    {
-      "title": "KPPU Sidangkan Dugaan Persekongkolan Tender RS Gresik Sehati Rp70,4 Miliar, Tiga Pihak Terseret - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 11:04:27 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-sidangkan-dugaan-persekongkolan-tender-rs-gresik-sehati-rp704-miliar-tiga-pihak-terseret/"
-    },
-    {
-      "title": "Kemendag perkuat efisiensi logistik untuk perluas pasar ekspor 2027 - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Wed, 25 Nov 2026 10:58:22 GMT",
-      "link": "https://www.antaranews.com/berita/5878043/kemendag-perkuat-efisiensi-logistik-untuk-perluas-pasar-ekspor-2027"
-    },
-    {
-      "title": "Jelang Nataru, Ida Fauziyah Komisi VI DPR Minta Pemerintah Jaga Stabilitas Harga Pangan - Suara Investor",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Wed, 25 Nov 2026 10:37:33 GMT",
-      "link": "https://www.suarainvestor.com/jelang-nataru-ida-fauziyah-komisi-vi-dpr-minta-pemerintah-jaga-stabilitas-harga-pangan/"
     }
   ]
 }
