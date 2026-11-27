@@ -1,9 +1,9 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-26T19:58:40.954217",
+  "generated_at": "2026-11-27T02:44:05.212072",
   "party_counts_7d": {
-    "Gerindra": 13,
-    "PDI-P": 18,
+    "Gerindra": 14,
+    "PDI-P": 17,
     "Golkar": 9,
     "NasDem": 1,
     "PKB": 19,
@@ -12,14 +12,14 @@
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 52,
+    "Gerindra": 54,
     "PDI-P": 68,
     "Golkar": 61,
     "NasDem": 13,
     "PKB": 70,
     "PKS": 32,
     "PAN": 12,
-    "Demokrat": 18
+    "Demokrat": 19
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,14 +34,14 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 61,
-    "investasi": 30,
+    "bumn": 57,
+    "investasi": 29,
     "umkm": 31,
-    "perdagangan": 17,
     "ekspor": 7,
+    "perdagangan": 16,
     "koperasi": 46,
     "danantara": 30,
-    "dividen": 3,
+    "dividen": 1,
     "kartel-monopoli": 5,
     "merger-akuisisi": 7
   },
@@ -51,7 +51,7 @@
     "Muhammad Husein Fadlulloh": 13,
     "Mulan Jameela": 2,
     "Kawendra Lukistian": 10,
-    "Mulyadi": 3,
+    "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 9,
     "Mufti Anam": 2,
     "Darmadi Durianto": 8,
@@ -86,16 +86,79 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
     "Sartono": 3,
-    "Herman Khaeron": 15
+    "Herman Khaeron": 16
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 27,
-    "Koperasi/UMKM": 72,
+    "Kinerja BUMN": 29,
+    "Koperasi/UMKM": 73,
     "Perdagangan": 42,
     "Hukum/Audit": 17,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "KPPU Kanwil VII Advokasi Pemda se-Jateng, Pastikan Perlindungan KDKMP Tak Hambat Persaingan Usaha - warta jogja",
+      "entity": "KPPU",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 02:34:00 GMT",
+      "link": "https://www.wartajogja.id/2026/11/kppu-kanwil-vii-advokasi-pemda-se.html"
+    },
+    {
+      "title": "Bukan Cuma Tak Minta PMN, Danantara Pamer Setor Pajak Rp567 T di 2025 - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 02:10:35 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261127080835-17-788936/bukan-cuma-tak-minta-pmn-danantara-pamer-setor-pajak-rp567-t-di-2025"
+    },
+    {
+      "title": "SMBC Indonesia Buka Akses Ekspor 13 UMKM ke Pasar Jepang - Infobanknews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 01:40:00 GMT",
+      "link": "https://infobanknews.com/smbc-indonesia-buka-akses-ekspor-13-umkm-ke-pasar-jepang"
+    },
+    {
+      "title": "Perkuat Ketahanan Pangan, Kemenkop Latih Pengelola Koperasi Deli Serdang Kelola Peternakan Ayam Petelur Modern - Suara Pemerintah",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 00:46:01 GMT",
+      "link": "https://suarapemerintah.id/2026/11/perkuat-ketahanan-pangan-kemenkop-latih-pengelola-koperasi-deli-serdang-kelola-peternakan-ayam-petelur-modern/"
+    },
+    {
+      "title": "Rencana Besar Beres-beres BUMN - detikFinance",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 00:30:00 GMT",
+      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8771902/rencana-besar-beres-beres-bumn"
+    },
+    {
+      "title": "Danantara Kebut Persoalan Utang Whoosh Selesai Tahun Depan - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 23:50:34 GMT",
+      "link": "https://www.cnbcindonesia.com/market/20261126232134-17-788899/danantara-kebut-persoalan-utang-whoosh-selesai-tahun-depan"
+    },
+    {
+      "title": "Laba Danantara di Bawah Target - Tempo.co",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 23:00:00 GMT",
+      "link": "https://www.tempo.co/ekonomi/laba-perdana-danantara-turun-2306832"
+    },
+    {
+      "title": "Menkop Tegaskan Koperasi Pesantren Dapat Menjadi Kekuatan Ekonomi Nasional - Harian Dialog",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 21:21:11 GMT",
+      "link": "https://hariandialog.co.id/menkop-tegaskan-koperasi-pesantren-dapat-menjadi-kekuatan-ekonomi-nasional/"
+    },
+    {
+      "title": "BUMN Siapkan 1.000 Talenta Muda Ber-IQ Tinggi, 400 Orang Sudah Ikuti Pelatihan - bengkuluekspress.disway.id - Bengkulu Ekspress",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 20:25:46 GMT",
+      "link": "https://bengkuluekspress.disway.id/nasional/read/207695/bumn-siapkan-1000-talenta-muda-ber-iq-tinggi-400-orang-sudah-ikuti-pelatihan"
+    },
     {
       "title": "Perdagangan tembus 500 juta dolar AS, minyak mentah Kazakhstan masuk RI - ANTARA News",
       "entity": "Kementerian Perdagangan",
@@ -125,81 +188,18 @@
       "link": "https://www.goasianews.com/2026/11/mufti-anam-kritik-proyeksi-laba.html"
     },
     {
+      "title": "Kemenkop Dorong Kopdes Naik Kelas, 3 KDKMP di Soloraya Raih Komitmen Pembiayaan - Espos Indonesia",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Thu, 26 Nov 2026 15:28:00 GMT",
+      "link": "https://solopos.espos.id/kemenkop-dorong-kopdes-naik-kelas-3-kdkmp-di-soloraya-raih-komitmen-pembiayaan-2270565"
+    },
+    {
       "title": "Dari Aset Rp11.607 Triliun hingga WTP, Membaca Kinerja Perdana Danantara - Tempo.co",
       "entity": "Danantara",
       "kind": "lembaga",
       "published": "Thu, 26 Nov 2026 15:22:00 GMT",
       "link": "https://www.tempo.co/ekonomi/dari-aset-rp11-607-triliun-hingga-wtp-membaca-kinerja-perdana-danantara-2306809"
-    },
-    {
-      "title": "Waskita Beton Precast dan Komisaris Utama Raih Penghargaan ICPA 2026 - PT Anakmuda Doyan Kerja",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 15:20:15 GMT",
-      "link": "https://newshanter.com/waskita-beton-precast-dan-komisaris-utama-raih-penghargaan-icpa-2026/"
-    },
-    {
-      "title": "Kementerian Perindustrian dan Perdagangan telah mengeluarkan standar teknis nasional untuk kue camilan. - Vietnam.vn",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 15:00:42 GMT",
-      "link": "https://www.vietnam.vn/id/bo-cong-thuong-ban-hanh-quy-chuan-ky-thuat-quoc-gia-doi-voi-banh-snack"
-    },
-    {
-      "title": "Kunjungan Mahasiswa UMP ke MK Bahas Sengketa Hasil Pemilu - PWM Jateng",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 14:20:26 GMT",
-      "link": "https://pwmjateng.com/kunjungan-mahasiswa-ump-ke-mk/"
-    },
-    {
-      "title": "Andre Rosiade Pastikan Danantara Segera Tuntaskan Persoalan Konsumen LRT City - detikNews",
-      "entity": "Andre Rosiade",
-      "kind": "anggota",
-      "published": "Thu, 26 Nov 2026 13:31:44 GMT",
-      "link": "https://news.detik.com/berita/d-8771805/andre-rosiade-pastikan-danantara-segera-tuntaskan-persoalan-konsumen-lrt-city"
-    },
-    {
-      "title": "Danantara Asset Management siapkan 41 proyek strategis untuk 2027 - ANTARA News",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 11:35:29 GMT",
-      "link": "https://m.antaranews.com/amp/berita/5880723/danantara-asset-management-siapkan-41-proyek-strategis-untuk-2027"
-    },
-    {
-      "title": "198 Pasar Pulih, Kemendag Percepat Rehabilitasi 12 Pasar Tersisa hingga Akhir 2026 - Tempo.co",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 11:34:00 GMT",
-      "link": "https://www.tempo.co/info-tempo/198-pasar-pulih-kemendag-percepat-rehabilitasi-12-pasar-tersisa-hingga-akhir-2026-2306779"
-    },
-    {
-      "title": "Menteri Perdagangan Pastikan Harga Bahan Pokok Stabil dan Pasokan Terjamin - Pemerintah Kota Yogyakarta",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 11:22:03 GMT",
-      "link": "https://warta.jogjakota.go.id/detail/index/53661/menteri-perdagangan-pastikan-harga-bahan-pokok-stabil-dan-pasokan-terjamin-2026-11-26"
-    },
-    {
-      "title": "Danantara Asset Management Targetkan Laba Rp366 Triliun pada 2027 - https://www.indonesiainfo.id/",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 11:15:00 GMT",
-      "link": "https://www.indonesiainfo.id/artikel/68959/danantara-asset-management-targetkan-laba-rp366-triliun-pada-2027/"
-    },
-    {
-      "title": "Soroti Return Investasi DIM, Anggota DPR Desak Danantara Lakukan Audit - kumparan.com - kumparan",
-      "entity": "Abdul Hakim Bafagih",
-      "kind": "anggota",
-      "published": "Thu, 26 Nov 2026 10:39:00 GMT",
-      "link": "https://kumparan.com/kumparannews/soroti-return-investasi-dim-anggota-dpr-desak-danantara-lakukan-audit-28eH7CiajPu"
-    },
-    {
-      "title": "BP Tapera Paparkan Program KPR FLPP dalam ICC100 Expo & Award 2026 - ciayumajakuning.id",
-      "entity": "BPKN",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 10:33:42 GMT",
-      "link": "https://ciayumajakuning.id/2026/11/26/bp-tapera-paparkan-program-kpr-flpp-dalam-icc100-expo-award-2026/"
     }
   ]
 }
