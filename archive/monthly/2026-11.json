@@ -1,25 +1,25 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-27T02:44:05.212072",
+  "generated_at": "2026-11-27T11:45:05.232969",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 17,
-    "Golkar": 9,
+    "Gerindra": 16,
+    "PDI-P": 23,
+    "Golkar": 10,
     "NasDem": 1,
     "PKB": 19,
-    "PKS": 7,
-    "PAN": 1,
-    "Demokrat": 1
+    "PKS": 5,
+    "PAN": 2,
+    "Demokrat": 2
   },
   "party_counts_30d": {
-    "Gerindra": 54,
-    "PDI-P": 68,
-    "Golkar": 61,
+    "Gerindra": 52,
+    "PDI-P": 69,
+    "Golkar": 60,
     "NasDem": 13,
-    "PKB": 70,
+    "PKB": 71,
     "PKS": 32,
     "PAN": 12,
-    "Demokrat": 19
+    "Demokrat": 20
   },
   "agency_counts_30d": {
     "Kementerian BUMN": 20,
@@ -34,39 +34,39 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "bumn": 57,
-    "investasi": 29,
-    "umkm": 31,
+    "danantara": 35,
+    "bumn": 54,
+    "umkm": 32,
+    "investasi": 30,
     "ekspor": 7,
-    "perdagangan": 16,
+    "perdagangan": 15,
     "koperasi": 46,
-    "danantara": 30,
     "dividen": 1,
-    "kartel-monopoli": 5,
-    "merger-akuisisi": 7
+    "merger-akuisisi": 9,
+    "kartel-monopoli": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 13,
-    "Mulan Jameela": 2,
+    "Muhammad Husein Fadlulloh": 12,
+    "Mulan Jameela": 1,
     "Kawendra Lukistian": 10,
     "Mulyadi": 5,
-    "Adisatrya Suryo Sulisto": 9,
-    "Mufti Anam": 2,
+    "Adisatrya Suryo Sulisto": 10,
+    "Mufti Anam": 4,
     "Darmadi Durianto": 8,
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 8,
+    "Ida Nurlaela": 6,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
     "Nurdin Halid": 7,
     "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 5,
+    "Ahmad Labib": 6,
     "Sarifah Suraidah": 2,
     "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 11,
+    "Firnando Hadityo Ganinduto": 9,
     "Rizki Faisal": 12,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 1,
@@ -77,7 +77,7 @@
     "Anggia Erma Rini": 12,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 13,
+    "Ida Fauziyah": 14,
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Ghufran": 6,
@@ -86,120 +86,120 @@
     "Abdul Hakim Bafagih": 1,
     "Iskandar": 10,
     "Sartono": 3,
-    "Herman Khaeron": 16
+    "Herman Khaeron": 17
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 29,
-    "Koperasi/UMKM": 73,
+    "Kinerja BUMN": 30,
+    "Koperasi/UMKM": 75,
     "Perdagangan": 42,
-    "Hukum/Audit": 17,
+    "Hukum/Audit": 15,
     "Konflik Publik": 9
   },
   "top_headlines": [
     {
-      "title": "KPPU Kanwil VII Advokasi Pemda se-Jateng, Pastikan Perlindungan KDKMP Tak Hambat Persaingan Usaha - warta jogja",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 02:34:00 GMT",
-      "link": "https://www.wartajogja.id/2026/11/kppu-kanwil-vii-advokasi-pemda-se.html"
-    },
-    {
-      "title": "Bukan Cuma Tak Minta PMN, Danantara Pamer Setor Pajak Rp567 T di 2025 - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 02:10:35 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261127080835-17-788936/bukan-cuma-tak-minta-pmn-danantara-pamer-setor-pajak-rp567-t-di-2025"
-    },
-    {
-      "title": "SMBC Indonesia Buka Akses Ekspor 13 UMKM ke Pasar Jepang - Infobanknews",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 01:40:00 GMT",
-      "link": "https://infobanknews.com/smbc-indonesia-buka-akses-ekspor-13-umkm-ke-pasar-jepang"
-    },
-    {
-      "title": "Perkuat Ketahanan Pangan, Kemenkop Latih Pengelola Koperasi Deli Serdang Kelola Peternakan Ayam Petelur Modern - Suara Pemerintah",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 00:46:01 GMT",
-      "link": "https://suarapemerintah.id/2026/11/perkuat-ketahanan-pangan-kemenkop-latih-pengelola-koperasi-deli-serdang-kelola-peternakan-ayam-petelur-modern/"
-    },
-    {
-      "title": "Rencana Besar Beres-beres BUMN - detikFinance",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 00:30:00 GMT",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8771902/rencana-besar-beres-beres-bumn"
-    },
-    {
-      "title": "Danantara Kebut Persoalan Utang Whoosh Selesai Tahun Depan - CNBC Indonesia",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 23:50:34 GMT",
-      "link": "https://www.cnbcindonesia.com/market/20261126232134-17-788899/danantara-kebut-persoalan-utang-whoosh-selesai-tahun-depan"
-    },
-    {
-      "title": "Laba Danantara di Bawah Target - Tempo.co",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 23:00:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/laba-perdana-danantara-turun-2306832"
-    },
-    {
-      "title": "Menkop Tegaskan Koperasi Pesantren Dapat Menjadi Kekuatan Ekonomi Nasional - Harian Dialog",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 21:21:11 GMT",
-      "link": "https://hariandialog.co.id/menkop-tegaskan-koperasi-pesantren-dapat-menjadi-kekuatan-ekonomi-nasional/"
-    },
-    {
-      "title": "BUMN Siapkan 1.000 Talenta Muda Ber-IQ Tinggi, 400 Orang Sudah Ikuti Pelatihan - bengkuluekspress.disway.id - Bengkulu Ekspress",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 20:25:46 GMT",
-      "link": "https://bengkuluekspress.disway.id/nasional/read/207695/bumn-siapkan-1000-talenta-muda-ber-iq-tinggi-400-orang-sudah-ikuti-pelatihan"
-    },
-    {
-      "title": "Perdagangan tembus 500 juta dolar AS, minyak mentah Kazakhstan masuk RI - ANTARA News",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 17:03:36 GMT",
-      "link": "https://kl.antaranews.com/berita/48819/perdagangan-tembus-500-juta-dolar-as-minyak-mentah-kazakhstan-masuk-ri"
-    },
-    {
-      "title": "Pengurus Dekopinda Kota Cilegon Periode 2026–2031 Resmi Dilantik - Berita Cilegon",
-      "entity": "Dekopin",
-      "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 17:03:12 GMT",
-      "link": "https://berita.cilegon.go.id/baca/Pengurus-Dekopinda-Kota-Cilegon-Periode-2026%E2%80%932031-Resmi-Dilantik/20261127/Mjk5MTUy"
-    },
-    {
-      "title": "138 KK Terdampak Banjir Blitar, Anggia Erma Rini Desak Pemulihan Menyeluruh - Liputan Jatim",
-      "entity": "Anggia Erma Rini",
+      "title": "Adisatrya Pastikan Revisi UU KADIN Perkuat Keberpihakan Kepada Koperasi dan UMKM - gesuri.id",
+      "entity": "Adisatrya Suryo Sulisto",
       "kind": "anggota",
-      "published": "Thu, 26 Nov 2026 16:54:26 GMT",
-      "link": "https://liputanjatim.com/berita/138-kk-terdampak-banjir-blitar-anggia-erma-rini-desak-pemulihan-menyeluruh"
+      "published": "Fri, 27 Nov 2026 11:01:00 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/adisatrya-pastikan-revisi-uu-kadin-perkuat-keberpihakan-kepada-koperasi-dan-umkm-b2qeCZbjJQ"
     },
     {
-      "title": "Mufti Anam Kritik Proyeksi Laba Danantara Hanya Rp800 Miliar, Jauh dari Target Rp3,4 Triliun - GoAsianews.com",
+      "title": "Herman Khaeron Salurkan Bantuan Drone Semprot dan Infrastruktur Tani di Desa Suranenggala - Cirebon Bribin",
+      "entity": "Herman Khaeron",
+      "kind": "anggota",
+      "published": "Fri, 27 Nov 2026 10:47:00 GMT",
+      "link": "https://www.cirebonbribin.com/2026/11/herman-khaeron-salurkan-bantuan-drone.html"
+    },
+    {
+      "title": "Legislator Komisi VI DPR Minta Program Magang Danantara Gandeng Perguruan Tinggi dan Pemda - Suara Investor",
+      "entity": "Ida Fauziyah",
+      "kind": "anggota",
+      "published": "Fri, 27 Nov 2026 10:39:21 GMT",
+      "link": "https://www.suarainvestor.com/legislator-komisi-vi-dpr-minta-program-magang-danantara-gandeng-perguruan-tinggi-dan-pemda/"
+    },
+    {
+      "title": "BP BUMN akselerasi smart city berbasis riset dan teknologi - ANTARA News",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 09:51:09 GMT",
+      "link": "https://www.antaranews.com/berita/5882755/bp-bumn-akselerasi-smart-city-berbasis-riset-dan-teknologi"
+    },
+    {
+      "title": "Setahun Danantara: BUMN Direstrukturisasi, Sahamnya Malah Terbang! - CNBC Indonesia",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 09:15:01 GMT",
+      "link": "https://www.cnbcindonesia.com/research/20261127135607-128-789089/setahun-danantara-bumn-direstrukturisasi-sahamnya-malah-terbang"
+    },
+    {
+      "title": "Setahun Danantara: BUMN Direstrukturisasi, Sahamnya Malah Terbang! - CNBC Indonesia",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 09:15:01 GMT",
+      "link": "https://www.cnbcindonesia.com/research/20261127135607-128-789089/setahun-danantara-bumn-direstrukturisasi-sahamnya-malah-terbang"
+    },
+    {
+      "title": "Menkop Tegaskan Koperasi Pesantren Dapat Menjadi Kekuatan Ekonomi Nasional - Beritakota",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 09:08:00 GMT",
+      "link": "https://beritakota.id/menkop-tegaskan-koperasi-pesantren-dapat-menjadi-kekuatan-ekonomi-nasional/"
+    },
+    {
+      "title": "Mufti Anam Pertanyakan Kinerja PT Danantara Investment Management, Imbal Hasil Hanya Rp800 Miliar dari Target Rp3,4 Triliun - gesuri.id",
       "entity": "Mufti Anam",
       "kind": "anggota",
-      "published": "Thu, 26 Nov 2026 16:05:00 GMT",
-      "link": "https://www.goasianews.com/2026/11/mufti-anam-kritik-proyeksi-laba.html"
+      "published": "Fri, 27 Nov 2026 09:07:35 GMT",
+      "link": "https://www.gesuri.id/pemerintahan/mufti-anam-pertanyakan-kinerja-pt-danantara-investment-management-imbal-hasil-hanya-rp800-miliar-dari-target-rp3-4-triliun-b2qeCZbjJS"
     },
     {
-      "title": "Kemenkop Dorong Kopdes Naik Kelas, 3 KDKMP di Soloraya Raih Komitmen Pembiayaan - Espos Indonesia",
-      "entity": "Kementerian Koperasi",
+      "title": "KPPU Bongkar Keterlambatan Laporan Akuisisi Golden Eagle, Geo Energy Terancam Sanksi - rentak.id",
+      "entity": "KPPU",
       "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 15:28:00 GMT",
-      "link": "https://solopos.espos.id/kemenkop-dorong-kopdes-naik-kelas-3-kdkmp-di-soloraya-raih-komitmen-pembiayaan-2270565"
+      "published": "Fri, 27 Nov 2026 08:54:00 GMT",
+      "link": "https://rentak.id/kppu-bongkar-keterlambatan-laporan-akuisisi-golden-eagle-geo-energy-terancam-sanksi/"
     },
     {
-      "title": "Dari Aset Rp11.607 Triliun hingga WTP, Membaca Kinerja Perdana Danantara - Tempo.co",
+      "title": "Modal Investasi Danantara Capai Rp 162 Triliun, Ekonom Ungkap Prospek 2027 - InvestorTrust",
       "entity": "Danantara",
       "kind": "lembaga",
-      "published": "Thu, 26 Nov 2026 15:22:00 GMT",
-      "link": "https://www.tempo.co/ekonomi/dari-aset-rp11-607-triliun-hingga-wtp-membaca-kinerja-perdana-danantara-2306809"
+      "published": "Fri, 27 Nov 2026 08:38:00 GMT",
+      "link": "https://investortrust.id/business/123874/modal-investasi-danantara-capai-rp-162-triliun-ekonom-ungkap-prospek-2027"
+    },
+    {
+      "title": "KDMP Nglundo Catat Omzet Rp20 Juta per Bulan dan Perkuat Ekonomi Petani - Kabar SDGs",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 08:29:46 GMT",
+      "link": "https://kabarsdgs.com/sustainability/2026/11/29644/kdmp-nglundo-catat-omzet-rp20-juta-per-bulan-dan-perkuat-ekonomi-petani/"
+    },
+    {
+      "title": "Menkop Dorong Koperasi Pesantren Jadi Kekuatan Ekonomi Nasional - TVRI News",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 08:15:52 GMT",
+      "link": "https://nasional.tvrinews.com/berita/t8178an-menkop-dorong-koperasi-pesantren-jadi-kekuatan-ekonomi-nasional"
+    },
+    {
+      "title": "Menkop Dorong Produk Koperasi Pesantren Masuk Rantai Pasok Koperasi Merah Putih - Berita Koperasi",
+      "entity": "Kementerian Koperasi",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 07:59:00 GMT",
+      "link": "https://www.beritakoperasi.com/menkop-dorong-produk-koperasi-pesantren-masuk-rantai-pasok-koperasi-merah-putih/"
+    },
+    {
+      "title": "Danantara Siapkan 41 Proyek Strategis - Pikiran Rakyat Koran",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Fri, 27 Nov 2026 07:51:18 GMT",
+      "link": "https://koran.pikiran-rakyat.com/news/pr-30310581625/danantara-siapkan-41-proyek-strategis"
+    },
+    {
+      "title": "Andre Rosiade Salurkan Beasiswa PIP Rp 135,9 Juta untuk 105 Siswa SMAN 8 Padang - kumparan.com - kumparan",
+      "entity": "Andre Rosiade",
+      "kind": "anggota",
+      "published": "Fri, 27 Nov 2026 07:35:29 GMT",
+      "link": "https://kumparan.com/kumparannews/andre-rosiade-salurkan-beasiswa-pip-rp-135-9-juta-untuk-105-siswa-sman-8-padang-28ed2M1jsdH"
     }
   ]
 }
