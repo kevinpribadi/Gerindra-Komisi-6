@@ -1,20 +1,20 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-28T03:04:44.649724",
+  "generated_at": "2026-11-28T12:41:37.286831",
   "party_counts_7d": {
-    "Gerindra": 14,
-    "PDI-P": 23,
-    "Golkar": 10,
+    "Gerindra": 11,
+    "PDI-P": 18,
+    "Golkar": 6,
     "NasDem": 1,
-    "PKB": 22,
+    "PKB": 23,
     "PKS": 4,
     "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
     "Gerindra": 49,
-    "PDI-P": 71,
-    "Golkar": 60,
+    "PDI-P": 70,
+    "Golkar": 58,
     "NasDem": 13,
     "PKB": 73,
     "PKS": 32,
@@ -34,20 +34,22 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 40,
-    "bumn": 56,
-    "umkm": 30,
-    "investasi": 33,
-    "ekspor": 6,
-    "perdagangan": 13,
+    "danantara": 39,
+    "bumn": 54,
+    "umkm": 27,
+    "investasi": 34,
+    "perdagangan": 12,
+    "ekspor": 5,
     "koperasi": 43,
+    "dividen": 1,
     "merger-akuisisi": 11,
     "kartel-monopoli": 5
   },
   "member_counts_30d": {
     "Andre Rosiade": 20,
     "Khilmi": 4,
-    "Muhammad Husein Fadlulloh": 10,
+    "Muhammad Husein Fadlulloh": 9,
+    "Mulan Jameela": 1,
     "Kawendra Lukistian": 10,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 10,
@@ -56,15 +58,15 @@
     "Rieke Diah Pitaloka": 20,
     "I Gusti Ngurah Kesuma Kelakan": 1,
     "Sadarestuwati": 7,
-    "Ida Nurlaela": 7,
+    "Ida Nurlaela": 6,
     "Budi Sulistyono": 3,
     "Totok Hedi Santosa": 10,
     "Nurdin Halid": 6,
-    "Gde Sumarjaya Linggih": 15,
-    "Ahmad Labib": 6,
-    "Sarifah Suraidah": 2,
-    "Doni Akbar": 5,
-    "Firnando Hadityo Ganinduto": 10,
+    "Gde Sumarjaya Linggih": 16,
+    "Ahmad Labib": 7,
+    "Sarifah Suraidah": 1,
+    "Doni Akbar": 4,
+    "Firnando Hadityo Ganinduto": 8,
     "Rizki Faisal": 12,
     "Muhammad Sarmuji": 4,
     "Rachmat Gobel": 1,
@@ -87,117 +89,117 @@
     "Herman Khaeron": 17
   },
   "early_warning_counts": {
-    "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 71,
-    "Perdagangan": 44,
-    "Hukum/Audit": 13,
-    "Konflik Publik": 9
+    "Kinerja BUMN": 27,
+    "Koperasi/UMKM": 69,
+    "Perdagangan": 43,
+    "Hukum/Audit": 12,
+    "Konflik Publik": 8
   },
   "top_headlines": [
     {
-      "title": "Legislator PKB, Nasim Khan: Promosi Digital Perbankan Jangan Abaikan Perlindungan Data Pribadi - PKB.ID",
+      "title": "Demer DPR RI Kawal Ketat Program Danantara agar Berdampak ke Publik - Kompasiana.com",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 12:34:33 GMT",
+      "link": "https://www.kompasiana.com/ehargosatuindonesia0921/6b0aca59c925c407187c39db/demer-dpr-ri-kawal-ketat-program-danantara-agar-berdampak-ke-publik"
+    },
+    {
+      "title": "Demer DPR RI Kawal Ketat Program Danantara agar Berdampak ke Publik - Kompasiana.com",
+      "entity": "Gde Sumarjaya Linggih",
+      "kind": "anggota",
+      "published": "Sat, 28 Nov 2026 12:34:33 GMT",
+      "link": "https://www.kompasiana.com/ehargosatuindonesia0921/6b0aca59c925c407187c39db/demer-dpr-ri-kawal-ketat-program-danantara-agar-berdampak-ke-publik"
+    },
+    {
+      "title": "Dukung Gerakan Koperasi Nasional, Dekopin Matangkan Persiapan Rapimnas 2026 - SigapNews",
+      "entity": "Dekopin",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 10:54:59 GMT",
+      "link": "https://sumbar.sigapnews.co.id/umum/sn-133814/dukung-gerakan-koperasi-nasional-dekopin-matangkan-persiapan-rapimnas-2026"
+    },
+    {
+      "title": "Amin Ak: Indonesia Jangan Terjebak Diplomasi Tarif, Perkuat Daya Saing Industri Nasional - Fraksi PKS",
+      "entity": "Amin Ak.",
+      "kind": "anggota",
+      "published": "Sat, 28 Nov 2026 10:28:05 GMT",
+      "link": "https://fraksi.pks.id/2026/11/28/amin-ak-indonesia-jangan-terjebak-diplomasi-tarif-perkuat-daya-saing-industri-nasional/"
+    },
+    {
+      "title": "Kemendag Targetkan Penyelesaian Perundingan Dagang dengan Tunisia dan Negara Teluk - Bisnis.com - Ekonomi",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 09:02:21 GMT",
+      "link": "https://ekonomi.bisnis.com/read/20261128/12/2025171/kemendag-targetkan-penyelesaian-perundingan-dagang-dengan-tunisia-dan-negara-teluk"
+    },
+    {
+      "title": "Kementerian Koordinator Bidang Perekonomian Republik Indonesia - - Kementerian Koordinator Bidang Perekonomian Republik Indonesia",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 08:33:43 GMT",
+      "link": "https://ekon.go.id/publikasi/detail/7259/menko-airlangga-dinamika-perdagangan-global-perkuat-momentum-penyelesaian-ieu-cepa"
+    },
+    {
+      "title": "Perpres 98/2026 Terbit, Airlangga Koordinasikan 5 Kementerian - Validnews",
+      "entity": "Kementerian Perdagangan",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 07:48:00 GMT",
+      "link": "https://validnews.id/ekonomi/2026/11/28/perpres-982026-terbit-airlangga-koordinasikan-5-kementerian-144800788"
+    },
+    {
+      "title": "Haji Nasim Komisi VI: Promosi Digital Perbankan Jangan Abaikan Perlindungan Data Pribadi - Gempurnews.com",
       "entity": "Nasim Khan",
       "kind": "anggota",
-      "published": "Sat, 28 Nov 2026 02:00:00 GMT",
-      "link": "https://pkb.id/read/13354/legislator-pkb-nasim-khan-promosi-digital-perbankan-jangan-abaikan-perlindungan-data-pribadi/"
+      "published": "Sat, 28 Nov 2026 06:36:20 GMT",
+      "link": "https://www.gempurnews.com/2026/11/28/haji-nasim-komisi-vi-promosi-digital-perbankan-jangan-abaikan-perlindungan-data-pribadi/"
     },
     {
-      "title": "ROAE Danantara Hanya 0,8 Persen, DPR: Lebih Untung Deposito - CaraPandang",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Sat, 28 Nov 2026 01:00:00 GMT",
-      "link": "https://carapandang.com/news/read/roae-danantara-hanya-08-persen-dpr-lebih-untung-deposito"
-    },
-    {
-      "title": "Seberapa Besar Laba Danantara Dibandingkan Laba BUMN Sebelumnya? - cwibc.co.id",
-      "entity": "Kementerian BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 28 Nov 2026 00:31:48 GMT",
-      "link": "https://cwibc.co.id/laba-danantara-perbandingan-laba-bumn"
-    },
-    {
-      "title": "DPR Desak Audit Investasi Danantara Setelah Return DIM Rendah - Peradaban.id",
-      "entity": "Abdul Hakim Bafagih",
+      "title": "Rieke Diah Pitaloka Kritik Penanganan Kasus Silva, Desak Revisi UU Perlindungan Anak – Kalimantan Kita - Kaki News",
+      "entity": "Rieke Diah Pitaloka",
       "kind": "anggota",
-      "published": "Sat, 28 Nov 2026 00:20:52 GMT",
-      "link": "https://peradaban.id/dpr-audit-investasi-danantara-dim"
+      "published": "Sat, 28 Nov 2026 06:15:35 GMT",
+      "link": "https://kakinews.id/rieke-diah-pitaloka-kritik-penanganan-kasus-silva-desak-revisi-uu-perlindungan-anak/"
     },
     {
-      "title": "Pemerintah Latih 400 Anak Muda Ber-IQ Tinggi untuk Pimpin BUMN - Demokratis.co.id",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Sat, 28 Nov 2026 00:09:44 GMT",
-      "link": "https://demokratis.co.id/pemerintah-latih-calon-pemimpin-bumn"
-    },
-    {
-      "title": "Rincian Formasi CPNS Kemenkop 2026 Sediakan 986 Alokasi Kuota - https://janalokajournal.id/",
+      "title": "Kemenkop Dapat Alokasi 986 Formasi Pengawas Koperasi dalam Seleksi CPNS 2026 - Berita Koperasi",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 17:13:23 GMT",
-      "link": "https://janalokajournal.id/rincian-formasi-cpns-kemenkop-2026/"
+      "published": "Sat, 28 Nov 2026 06:12:00 GMT",
+      "link": "https://www.beritakoperasi.com/kemenkop-dapat-alokasi-986-formasi-pengawas-koperasi-dalam-seleksi-cpns-2026/"
     },
     {
-      "title": "Formasi CPNS Kemenkop 2026, Tersedia 986 Kebutuhan Pengawas Koperasi - TOPIK.ID",
+      "title": "Seluruh Pengurus Koperasi dan Kopdes Merah Putih Ditarget Miliki Perlindungan Jamsos Ketenagakerjaan - BPJS Ketenagakerjaan",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 16:58:32 GMT",
-      "link": "https://www.topik.id/formasi-cpns-kemenkop-2026-tersedia-986-kebutuhan-pengawas-koperasi"
+      "published": "Sat, 28 Nov 2026 06:02:49 GMT",
+      "link": "https://www.bpjsketenagakerjaan.go.id/berita/29592/Seluruh-Pengurus-Koperasi-dan-Kopdes-Merah-Putih-Ditarget-Miliki-Perlindungan-Jamsos-Ketenagakerjaan"
     },
     {
-      "title": "30 Ribu Kopdes Merah Putih Sudah Jadi, Kenapa yang Beroperasi Baru 1.000? - AFU.id",
+      "title": "Kementerian Koperasi Buka 986 Formasi CPNS 2026 - www.suaralandak.co.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 15:39:02 GMT",
-      "link": "https://afu.id/ekonomi/30-ribu-kopdes-merah-putih-sudah-jadi-kenapa-yang-beroperasi-baru-1000"
+      "published": "Sat, 28 Nov 2026 05:21:07 GMT",
+      "link": "https://www.suaralandak.co.id/formasi-cpns-kementerian-koperasi-2026"
     },
     {
-      "title": "Tak Capai Target, Investasi Danantara Investment Management Dipertanyakan - Iconomics",
-      "entity": "Danantara",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 14:17:28 GMT",
-      "link": "https://www.theiconomics.com/art-of-execution/tak-capai-target-investasi-danantara-investment-management-dipertanyakan/"
-    },
-    {
-      "title": "Ida Fauziyah Minta Program Magang Danantara Gandeng Perguruan Tinggi dan Pemda - FPKB DPR RI",
-      "entity": "Ida Fauziyah",
-      "kind": "anggota",
-      "published": "Fri, 27 Nov 2026 14:10:34 GMT",
-      "link": "https://www.fraksipkb.com/2026/11/27/ida-fauziyah-minta-program-magang-danantara-gandeng-perguruan-tinggi-dan-pemda/"
-    },
-    {
-      "title": "Update 24 Instansi yang Buka Formasi CPNS 2026 - Tirto.id",
+      "title": "Daftar Formasi CPNS 2026 Kemenkop, Sebanyak 986 Kuota Terbagi ke 33 Jabatan - eduinsights.id",
       "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 13:43:18 GMT",
-      "link": "https://tirto.id/update-24-instansi-yang-buka-formasi-cpns-2026-ieit"
+      "published": "Sat, 28 Nov 2026 04:33:24 GMT",
+      "link": "https://eduinsights.id/daftar-formasi-cpns-2026-kemenkop-sebanyak-986-kuota-terbagi-ke-33-jabatan/"
     },
     {
-      "title": "Kemendag Perkuat SP2KP untuk Pantau Harga Pangan Nasional - Demokratis.co.id",
+      "title": "Dari Kampus ke Pasar Global, Kemendag-UI Sinergikan Campuspreneur - Industry.co.id",
       "entity": "Kementerian Perdagangan",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 13:09:32 GMT",
-      "link": "https://demokratis.co.id/kemendag-perkuat-pemantauan-harga-pangan"
+      "published": "Sat, 28 Nov 2026 03:18:00 GMT",
+      "link": "https://www.industry.co.id/read/160027/dari-kampus-ke-pasar-global-kemendag-ui-sinergikan-campuspreneur"
     },
     {
-      "title": "Jaga Pasar Domestik dan Ekspor, Mendag Siapkan Sejumlah Strategi - Infobanknews",
-      "entity": "Kementerian Perdagangan",
+      "title": "CPNS Kementerian Koperasi 2026 Buka 986 Formasi, Pengawas Terbanyak - Cyrustimes.com",
+      "entity": "Kementerian Koperasi",
       "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 13:08:32 GMT",
-      "link": "https://infobanknews.com/jaga-pasar-domestik-dan-ekspor-mendag-siapkan-sejumlah-strategi"
-    },
-    {
-      "title": "Kemendag Perkuat Pemantauan Harga Bapok di 563 Titik - Peradaban.id",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 13:08:10 GMT",
-      "link": "https://peradaban.id/kemendag-pemantauan-harga-bapok"
-    },
-    {
-      "title": "Tahun Depan, Danantara Benahi 5 BUMN: Mulai PTPN, Pos Indonesia hingga PT INKA - Inilah.com",
-      "entity": "Badan Pengaturan BUMN",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 12:39:00 GMT",
-      "link": "https://www.inilah.com/tahun-depan-danantara-benahi-5-bumn-mulai-ptpn-pos-indonesia-hingga-pt-inka"
+      "published": "Sat, 28 Nov 2026 03:10:00 GMT",
+      "link": "https://cyrustimes.com/cpns-kemenkop-2026-formasi-syarat/"
     }
   ]
 }
