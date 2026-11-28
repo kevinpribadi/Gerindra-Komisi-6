@@ -1,24 +1,24 @@
 {
   "period": "2026-11",
-  "generated_at": "2026-11-27T20:40:07.407129",
+  "generated_at": "2026-11-28T03:04:44.649724",
   "party_counts_7d": {
-    "Gerindra": 16,
+    "Gerindra": 14,
     "PDI-P": 23,
     "Golkar": 10,
     "NasDem": 1,
-    "PKB": 20,
-    "PKS": 5,
-    "PAN": 2,
+    "PKB": 22,
+    "PKS": 4,
+    "PAN": 3,
     "Demokrat": 1
   },
   "party_counts_30d": {
-    "Gerindra": 50,
+    "Gerindra": 49,
     "PDI-P": 71,
     "Golkar": 60,
     "NasDem": 13,
-    "PKB": 72,
+    "PKB": 73,
     "PKS": 32,
-    "PAN": 12,
+    "PAN": 13,
     "Demokrat": 20
   },
   "agency_counts_30d": {
@@ -34,13 +34,13 @@
     "Badan Pengaturan BUMN": 20
   },
   "topic_counts_30d": {
-    "danantara": 38,
-    "bumn": 55,
+    "danantara": 40,
+    "bumn": 56,
     "umkm": 30,
-    "investasi": 32,
+    "investasi": 33,
     "ekspor": 6,
-    "perdagangan": 14,
-    "koperasi": 44,
+    "perdagangan": 13,
+    "koperasi": 43,
     "merger-akuisisi": 11,
     "kartel-monopoli": 5
   },
@@ -48,7 +48,6 @@
     "Andre Rosiade": 20,
     "Khilmi": 4,
     "Muhammad Husein Fadlulloh": 10,
-    "Mulan Jameela": 1,
     "Kawendra Lukistian": 10,
     "Mulyadi": 5,
     "Adisatrya Suryo Sulisto": 10,
@@ -76,25 +75,60 @@
     "Anggia Erma Rini": 12,
     "Rivqy Abdul Halim": 20,
     "Nasim Khan": 20,
-    "Ida Fauziyah": 15,
+    "Ida Fauziyah": 16,
     "Imas Aan Ubudiah": 5,
     "Amin Ak.": 20,
     "Ghufran": 6,
     "Ismail": 6,
     "Eko Patrio": 1,
-    "Abdul Hakim Bafagih": 1,
+    "Abdul Hakim Bafagih": 2,
     "Iskandar": 10,
     "Sartono": 3,
     "Herman Khaeron": 17
   },
   "early_warning_counts": {
     "Kinerja BUMN": 28,
-    "Koperasi/UMKM": 72,
-    "Perdagangan": 43,
+    "Koperasi/UMKM": 71,
+    "Perdagangan": 44,
     "Hukum/Audit": 13,
     "Konflik Publik": 9
   },
   "top_headlines": [
+    {
+      "title": "Legislator PKB, Nasim Khan: Promosi Digital Perbankan Jangan Abaikan Perlindungan Data Pribadi - PKB.ID",
+      "entity": "Nasim Khan",
+      "kind": "anggota",
+      "published": "Sat, 28 Nov 2026 02:00:00 GMT",
+      "link": "https://pkb.id/read/13354/legislator-pkb-nasim-khan-promosi-digital-perbankan-jangan-abaikan-perlindungan-data-pribadi/"
+    },
+    {
+      "title": "ROAE Danantara Hanya 0,8 Persen, DPR: Lebih Untung Deposito - CaraPandang",
+      "entity": "Danantara",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 01:00:00 GMT",
+      "link": "https://carapandang.com/news/read/roae-danantara-hanya-08-persen-dpr-lebih-untung-deposito"
+    },
+    {
+      "title": "Seberapa Besar Laba Danantara Dibandingkan Laba BUMN Sebelumnya? - cwibc.co.id",
+      "entity": "Kementerian BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 00:31:48 GMT",
+      "link": "https://cwibc.co.id/laba-danantara-perbandingan-laba-bumn"
+    },
+    {
+      "title": "DPR Desak Audit Investasi Danantara Setelah Return DIM Rendah - Peradaban.id",
+      "entity": "Abdul Hakim Bafagih",
+      "kind": "anggota",
+      "published": "Sat, 28 Nov 2026 00:20:52 GMT",
+      "link": "https://peradaban.id/dpr-audit-investasi-danantara-dim"
+    },
+    {
+      "title": "Pemerintah Latih 400 Anak Muda Ber-IQ Tinggi untuk Pimpin BUMN - Demokratis.co.id",
+      "entity": "Badan Pengaturan BUMN",
+      "kind": "lembaga",
+      "published": "Sat, 28 Nov 2026 00:09:44 GMT",
+      "link": "https://demokratis.co.id/pemerintah-latih-calon-pemimpin-bumn"
+    },
     {
       "title": "Rincian Formasi CPNS Kemenkop 2026 Sediakan 986 Alokasi Kuota - https://janalokajournal.id/",
       "entity": "Kementerian Koperasi",
@@ -164,41 +198,6 @@
       "kind": "lembaga",
       "published": "Fri, 27 Nov 2026 12:39:00 GMT",
       "link": "https://www.inilah.com/tahun-depan-danantara-benahi-5-bumn-mulai-ptpn-pos-indonesia-hingga-pt-inka"
-    },
-    {
-      "title": "KPPU Sidang Geo Energy, Diduga Telat 41 Hari Laporkan Akuisisi Saham Golden Eagle Energy - Gerbang Kaltim",
-      "entity": "KPPU",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 12:28:41 GMT",
-      "link": "https://www.gerbangkaltim.com/kppu-sidang-geo-energy-diduga-telat-41-hari-laporkan-akuisisi-saham-golden-eagle-energy/"
-    },
-    {
-      "title": "Kemenkop Fasilitasi Pembiayaan untuk 30 KDKMP di Soloraya - TVRI News",
-      "entity": "Kementerian Koperasi",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 12:23:35 GMT",
-      "link": "https://nasional.tvrinews.com/berita/t46tlin-kemenkop-fasilitasi-pembiayaan-untuk-30-kdkmp-di-soloraya"
-    },
-    {
-      "title": "Lima Kementerian di Bawah Kemenko Perekonomian - Bisnis.com - Foto",
-      "entity": "Kementerian Perdagangan",
-      "kind": "lembaga",
-      "published": "Fri, 27 Nov 2026 12:00:34 GMT",
-      "link": "https://foto.bisnis.com/view/20261127/2025087/lima-kementerian-di-bawah-kemenko-perekonomian"
-    },
-    {
-      "title": "Adisatrya Pastikan Revisi UU KADIN Perkuat Keberpihakan Kepada Koperasi dan UMKM - gesuri.id",
-      "entity": "Adisatrya Suryo Sulisto",
-      "kind": "anggota",
-      "published": "Fri, 27 Nov 2026 11:01:00 GMT",
-      "link": "https://www.gesuri.id/pemerintahan/adisatrya-pastikan-revisi-uu-kadin-perkuat-keberpihakan-kepada-koperasi-dan-umkm-b2qeCZbjJQ"
-    },
-    {
-      "title": "Herman Khaeron Salurkan Bantuan Drone Semprot dan Infrastruktur Tani di Desa Suranenggala - Cirebon Bribin",
-      "entity": "Herman Khaeron",
-      "kind": "anggota",
-      "published": "Fri, 27 Nov 2026 10:47:00 GMT",
-      "link": "https://www.cirebonbribin.com/2026/11/herman-khaeron-salurkan-bantuan-drone.html"
     }
   ]
 }
